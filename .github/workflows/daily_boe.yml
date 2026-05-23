@@ -1,0 +1,64 @@
+name: Daily BOE Tracker
+
+on:
+  schedule:
+    # 08:00 UTC = 09:00 Madrid (invierno) / 10:00 Madrid (verano)
+    - cron: "0 8 * * *"
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "Fecha a procesar (YYYY-MM-DD). Vacío = hoy."
+        required: false
+        default: ""
+      bulletins:
+        description: "Boletines a procesar (separados por espacios, e.g. 'BOE BOCM'). Vacío = todos."
+        required: false
+        default: ""
+
+jobs:
+  download-and-upload:
+    name: Download BOE/CCAA and upload to Drive
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build CLI arguments
+        id: args
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.date }}" ]; then
+            ARGS="$ARGS --date ${{ github.event.inputs.date }}"
+          fi
+          if [ -n "${{ github.event.inputs.bulletins }}" ]; then
+            ARGS="$ARGS --bulletins ${{ github.event.inputs.bulletins }}"
+          fi
+          echo "cli_args=$ARGS" >> "$GITHUB_OUTPUT"
+
+      - name: Run BOE Tracker
+        env:
+          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
+        run: |
+          python main.py ${{ steps.args.outputs.cli_args }}
+        # Continue even if the script returns non-zero (some bulletins may not publish today)
+        continue-on-error: true
+
+      - name: Upload logs as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: boe-tracker-logs-${{ github.run_id }}
+          path: "*.log"
+          if-no-files-found: ignore
+          retention-days: 7
