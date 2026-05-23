@@ -1,9 +1,8 @@
 """BOC Cantabria — Boletín Oficial de Cantabria.
 
-(Archivo: bolr.py — distingue del boc.py de Canarias)
-
-Sumario: https://boc.cantabria.es/boces/verAnuncioAction.do?idAnuBlob=
-Buscador: https://boc.cantabria.es/boces/portadaAction.do?fecha={DD/MM/YYYY}
+Requiere POST (no GET) al endpoint:
+  https://boc.cantabria.es/boces/inicioCargaInicialBoletines.do
+  form data: strFechaDeseada={DD/MM/YYYY}&tipoBoletin=O
 """
 
 import logging
@@ -11,6 +10,7 @@ import re
 from datetime import date
 from typing import Optional
 
+import requests
 from bs4 import BeautifulSoup
 
 from .base import Act, BaseScraper, INCLUDED_SECTIONS
@@ -18,7 +18,7 @@ from .base import Act, BaseScraper, INCLUDED_SECTIONS
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://boc.cantabria.es"
-SEARCH_URL = "https://boc.cantabria.es/boces/portadaAction.do"
+POST_URL = "https://boc.cantabria.es/boces/inicioCargaInicialBoletines.do"
 
 
 class BOLRScraper(BaseScraper):
@@ -30,11 +30,18 @@ class BOLRScraper(BaseScraper):
         target_date = target_date or date.today()
         logger.info("[BOC-CANT] Fetching sumario for %s", target_date.isoformat())
 
-        resp = self._safe_get(
-            SEARCH_URL,
-            params={"fecha": target_date.strftime("%d/%m/%Y")},
-        )
-        if resp is None:
+        try:
+            resp = self.session.post(
+                POST_URL,
+                data={
+                    "strFechaDeseada": target_date.strftime("%d/%m/%Y"),
+                    "tipoBoletin": "O",
+                },
+                timeout=(10, 30),
+            )
+            resp.raise_for_status()
+        except requests.RequestException as exc:
+            logger.warning("[BOC-CANT] POST failed: %s", exc)
             return []
 
         soup = BeautifulSoup(resp.text, "lxml")
@@ -53,11 +60,8 @@ class BOLRScraper(BaseScraper):
             sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
             if sec_match:
                 roman = sec_match.group(1)
-                if roman in INCLUDED_SECTIONS:
-                    current_section = roman
-                    current_section_name = text.strip()
-                else:
-                    current_section = None
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
                 current_organism = ""
                 continue
 
@@ -68,21 +72,18 @@ class BOLRScraper(BaseScraper):
                 current_organism = text
                 continue
 
-            link = tag.find("a", href=True)
+            link = tag.find("a", href=re.compile(r"\.pdf($|\?)", re.I))
             if not link:
                 continue
 
             href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
-            title = link.get_text(strip=True) or text
             pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = pdf_url.split("/")[-1].replace(".pdf", "")
+            title = link.get_text(strip=True) or text
+            act_id = "BOC-CANT-" + pdf_url.split("/")[-1].replace(".pdf", "")
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
-                act_id="BOC-CANT-" + act_id,
+                act_id=act_id,
                 title=title,
                 section=current_section,
                 section_name=current_section_name,

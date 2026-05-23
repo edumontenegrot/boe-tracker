@@ -1,6 +1,8 @@
 """BOR — Boletín Oficial de La Rioja.
 
-Sumario: https://ias1.larioja.org/boletin/Bor_boletin_visor_portada?p_org=1&p_fecha={YYYYMMDD}
+Dominio nuevo: web.larioja.org
+URL: https://web.larioja.org/bor-portada/bor
+  ?p_page=1&p_r_p_categoryId=10154&fecha={DD/MM/YYYY}
 """
 
 import logging
@@ -14,8 +16,8 @@ from .base import Act, BaseScraper, INCLUDED_SECTIONS
 
 logger = logging.getLogger(__name__)
 
-BASE_URL = "https://ias1.larioja.org"
-SUMARIO_URL = "https://ias1.larioja.org/boletin/Bor_boletin_visor_portada"
+BASE_URL = "https://web.larioja.org"
+SUMARIO_URL = "https://web.larioja.org/bor-portada/bor"
 
 
 class BORScraper(BaseScraper):
@@ -29,7 +31,11 @@ class BORScraper(BaseScraper):
 
         resp = self._safe_get(
             SUMARIO_URL,
-            params={"p_org": "1", "p_fecha": target_date.strftime("%Y%m%d")},
+            params={
+                "p_page": "1",
+                "p_r_p_categoryId": "10154",
+                "fecha": target_date.strftime("%d/%m/%Y"),
+            },
         )
         if resp is None:
             return []
@@ -49,31 +55,25 @@ class BORScraper(BaseScraper):
             sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
             if sec_match:
                 roman = sec_match.group(1)
-                if roman in INCLUDED_SECTIONS:
-                    current_section = roman
-                    current_section_name = text.strip()
-                else:
-                    current_section = None
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
                 continue
 
             if current_section is None:
                 continue
 
-            link = tag.find("a", href=True)
+            link = tag.find("a", href=re.compile(r"\.pdf($|\?)", re.I))
             if not link:
                 continue
 
             href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
-            title = link.get_text(strip=True) or text
             pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = pdf_url.split("/")[-1].replace(".pdf", "")
+            title = link.get_text(strip=True) or text
+            act_id = "BOR-" + pdf_url.split("/")[-1].replace(".pdf", "")
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
-                act_id="BOR-" + act_id,
+                act_id=act_id,
                 title=title,
                 section=current_section,
                 section_name=current_section_name,

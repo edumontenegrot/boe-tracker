@@ -1,7 +1,10 @@
 """BOPA — Boletín Oficial del Principado de Asturias.
 
-Buscador: https://sede.asturias.es/bopa
-Sumario: https://sede.asturias.es/bopa/disposiciones/{YYYY}/{YYYYMMDD}.html
+Dominio migrado a miprincipado.asturias.es (Liferay portal).
+URL: https://miprincipado.asturias.es/bopa-sumario
+  ?p_p_id=pa_sede_bopa_web_portlet_SedeBopaSummaryWeb
+  &p_p_lifecycle=0&p_p_state=normal&p_p_mode=view
+  &p_r_p_summaryDate={DD/MM/YYYY}&p_r_p_summaryIsSearch=false
 """
 
 import logging
@@ -15,9 +18,13 @@ from .base import Act, BaseScraper, INCLUDED_SECTIONS
 
 logger = logging.getLogger(__name__)
 
-BASE_URL = "https://sede.asturias.es"
-SUMARIO_URL = "https://sede.asturias.es/bopa/disposiciones/{year}/{datestr}.html"
-SEARCH_URL = "https://sede.asturias.es/bopa"
+BASE_URL = "https://miprincipado.asturias.es"
+SUMARIO_URL = (
+    "https://miprincipado.asturias.es/bopa-sumario"
+    "?p_p_id=pa_sede_bopa_web_portlet_SedeBopaSummaryWeb"
+    "&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view"
+    "&p_r_p_summaryDate={date_str}&p_r_p_summaryIsSearch=false"
+)
 
 
 class BOPAScraper(BaseScraper):
@@ -27,21 +34,12 @@ class BOPAScraper(BaseScraper):
 
     def fetch(self, target_date: Optional[date] = None) -> list[Act]:
         target_date = target_date or date.today()
+        url = SUMARIO_URL.format(date_str=target_date.strftime("%d/%m/%Y"))
         logger.info("[BOPA] Fetching sumario for %s", target_date.isoformat())
 
-        url = SUMARIO_URL.format(
-            year=target_date.strftime("%Y"),
-            datestr=target_date.strftime("%Y%m%d"),
-        )
         resp = self._safe_get(url)
         if resp is None:
-            # Fallback: try the search page
-            resp = self._safe_get(
-                SEARCH_URL,
-                params={"fecha": target_date.strftime("%d/%m/%Y")},
-            )
-            if resp is None:
-                return []
+            return []
 
         soup = BeautifulSoup(resp.text, "lxml")
         return self._parse(soup, target_date.isoformat())
@@ -52,18 +50,15 @@ class BOPAScraper(BaseScraper):
         current_section_name = ""
         current_organism = ""
 
-        for tag in soup.find_all(["h2", "h3", "h4", "p", "li", "div"]):
+        for tag in soup.find_all(["h2", "h3", "h4", "p", "li", "div", "td"]):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
             sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
             if sec_match:
                 roman = sec_match.group(1)
-                if roman in INCLUDED_SECTIONS:
-                    current_section = roman
-                    current_section_name = text.strip()
-                else:
-                    current_section = None
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
                 current_organism = ""
                 continue
 
@@ -74,21 +69,18 @@ class BOPAScraper(BaseScraper):
                 current_organism = text
                 continue
 
-            link = tag.find("a", href=True)
+            link = tag.find("a", href=re.compile(r"\.pdf($|\?)", re.I))
             if not link:
                 continue
 
             href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
-            title = link.get_text(strip=True) or text
             pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = pdf_url.split("/")[-1].replace(".pdf", "")
+            title = link.get_text(strip=True) or text
+            act_id = "BOPA-" + pdf_url.split("/")[-1].replace(".pdf", "")
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
-                act_id="BOPA-" + act_id,
+                act_id=act_id,
                 title=title,
                 section=current_section,
                 section_name=current_section_name,

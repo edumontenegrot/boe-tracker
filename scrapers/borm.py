@@ -1,6 +1,7 @@
 """BORM — Boletín Oficial de la Región de Murcia.
 
-Sumario: https://www.borm.es/borm/vista/boletin/index.jsf  (búsqueda por fecha)
+URL: https://www.borm.es/borm/vista/boletin/leerBoletin.jsf?fecha={YYYYMMDD}
+El WAF del BORM requiere cabeceras tipo-browser para no ser bloqueado.
 """
 
 import logging
@@ -15,7 +16,19 @@ from .base import Act, BaseScraper, INCLUDED_SECTIONS
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.borm.es"
-SEARCH_URL = "https://www.borm.es/borm/vista/boletin/index.jsf"
+SUMARIO_URL = "https://www.borm.es/borm/vista/boletin/leerBoletin.jsf"
+
+BROWSER_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "es-ES,es;q=0.9",
+    "Referer": "https://www.borm.es/",
+    "Connection": "keep-alive",
+}
 
 
 class BORMScraper(BaseScraper):
@@ -27,10 +40,11 @@ class BORMScraper(BaseScraper):
         target_date = target_date or date.today()
         logger.info("[BORM] Fetching sumario for %s", target_date.isoformat())
 
-        # BORM uses a direct URL pattern for each day
-        date_str = target_date.strftime("%Y%m%d")
-        url = f"{BASE_URL}/borm/vista/boletin/leerBoletin.jsf?fecha={date_str}"
-        resp = self._safe_get(url)
+        resp = self._safe_get(
+            SUMARIO_URL,
+            params={"fecha": target_date.strftime("%Y%m%d")},
+            headers=BROWSER_HEADERS,
+        )
         if resp is None:
             return []
 
@@ -43,18 +57,15 @@ class BORMScraper(BaseScraper):
         current_section_name = ""
         current_organism = ""
 
-        for tag in soup.find_all(["h2", "h3", "h4", "p", "li", "div", "span"]):
+        for tag in soup.find_all(["h2", "h3", "h4", "p", "li", "div", "td"]):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
             sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
             if sec_match:
                 roman = sec_match.group(1)
-                if roman in INCLUDED_SECTIONS:
-                    current_section = roman
-                    current_section_name = text.strip()
-                else:
-                    current_section = None
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
                 current_organism = ""
                 continue
 
@@ -65,21 +76,18 @@ class BORMScraper(BaseScraper):
                 current_organism = text
                 continue
 
-            link = tag.find("a", href=True)
+            link = tag.find("a", href=re.compile(r"\.pdf($|\?)", re.I))
             if not link:
                 continue
 
             href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
-            title = link.get_text(strip=True) or text
             pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = pdf_url.split("/")[-1].replace(".pdf", "")
+            title = link.get_text(strip=True) or text
+            act_id = "BORM-" + pdf_url.split("/")[-1].replace(".pdf", "")
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
-                act_id="BORM-" + act_id,
+                act_id=act_id,
                 title=title,
                 section=current_section,
                 section_name=current_section_name,

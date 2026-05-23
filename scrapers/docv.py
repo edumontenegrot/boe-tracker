@@ -1,7 +1,8 @@
 """DOCV — Diari Oficial de la Comunitat Valenciana.
 
-API/Sumario: https://dogv.gva.es/datos/2026/05/23/xml/0090-2026.xml  (formato YYYY/MM/DD)
-Buscador: https://dogv.gva.es/portal/ficha_disposicion_pc.jsp?sig={id}&L=1
+El portal usa una SPA JavaScript, pero los XMLs están disponibles en:
+  https://dogv.gva.es/datos/{YYYY}/{MM}/{DD}/xml/
+Se intenta un directory listing; si falla se registra un aviso.
 """
 
 import logging
@@ -16,9 +17,7 @@ from .base import Act, BaseScraper, INCLUDED_SECTIONS
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://dogv.gva.es"
-# Direct XML index per date
-XML_URL = "https://dogv.gva.es/datos/{year}/{month}/{day}/xml/"
-SEARCH_URL = "https://dogv.gva.es/portal/buscador/api/search"
+XML_DIR_URL = "https://dogv.gva.es/datos/{year}/{month}/{day}/xml/"
 
 SECTION_MAP = {
     "DISPOSICIONS GENERALS": "I",
@@ -37,86 +36,86 @@ class DOCVScraper(BaseScraper):
         target_date = target_date or date.today()
         logger.info("[DOCV] Fetching sumario for %s", target_date.isoformat())
 
-        # Try the HTML sumario search first
-        search_url = (
-            f"{BASE_URL}/portal/buscador/sumario.jsp"
-            f"?fechaIni={target_date.strftime('%d/%m/%Y')}"
-            f"&fechaFin={target_date.strftime('%d/%m/%Y')}"
+        dir_url = XML_DIR_URL.format(
+            year=target_date.strftime("%Y"),
+            month=target_date.strftime("%m"),
+            day=target_date.strftime("%d"),
         )
-        resp = self._safe_get(search_url)
+        resp = self._safe_get(dir_url)
         if resp is None:
             return []
 
         soup = BeautifulSoup(resp.text, "lxml")
-        boletin_link = self._find_boletin_link(soup)
-        if not boletin_link:
-            logger.warning("[DOCV] No boletín found for %s", target_date.isoformat())
+        xml_links = [
+            (a["href"] if a["href"].startswith("http") else BASE_URL + a["href"])
+            for a in soup.find_all("a", href=re.compile(r"\.xml$", re.I))
+        ]
+
+        if not xml_links:
+            logger.warning("[DOCV] No XML files found at %s", dir_url)
             return []
 
-        resp2 = self._safe_get(boletin_link)
-        if resp2 is None:
-            return []
-
-        soup2 = BeautifulSoup(resp2.text, "lxml")
-        return self._parse(soup2, target_date.isoformat())
-
-    def _find_boletin_link(self, soup: BeautifulSoup) -> Optional[str]:
-        for a in soup.find_all("a", href=True):
-            href = a["href"]
-            if "sumari" in href.lower() or "sumario" in href.lower():
-                return href if href.startswith("http") else BASE_URL + href
-        return None
-
-    def _parse(self, soup: BeautifulSoup, pub_date: str) -> list[Act]:
         acts: list[Act] = []
+        for xml_url in xml_links:
+            acts.extend(self._parse_xml(xml_url, target_date.isoformat()))
+
+        logger.info("[DOCV] Found %d acts in sections I/III", len(acts))
+        return acts
+
+    def _parse_xml(self, url: str, pub_date: str) -> list[Act]:
+        acts: list[Act] = []
+        resp = self._safe_get(url)
+        if resp is None:
+            return acts
+
+        try:
+            soup = BeautifulSoup(resp.content, "lxml-xml")
+        except Exception:
+            soup = BeautifulSoup(resp.text, "lxml")
+
         current_section = None
         current_section_name = ""
         current_organism = ""
 
-        for tag in soup.find_all(["h2", "h3", "h4", "p", "li", "div"]):
+        for tag in soup.find_all(True):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
             for key, roman in SECTION_MAP.items():
                 if key in upper and len(upper) < 80:
-                    if roman in INCLUDED_SECTIONS:
-                        current_section = roman
-                        current_section_name = text.strip()
-                    else:
-                        current_section = None
+                    current_section = roman if roman in INCLUDED_SECTIONS else None
+                    current_section_name = text.strip()
                     break
             else:
                 sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV)\b", upper)
-                if sec_match:
+                if sec_match and len(upper) < 80:
                     roman = sec_match.group(1)
-                    if roman in INCLUDED_SECTIONS:
-                        current_section = roman
-                        current_section_name = text.strip()
-                    else:
-                        current_section = None
+                    current_section = roman if roman in INCLUDED_SECTIONS else None
+                    current_section_name = text.strip()
 
             if current_section is None:
                 continue
 
-            if tag.name in ("h3", "h4") and not tag.find("a"):
-                current_organism = text
+            # Look for PDF URL attributes or child text elements
+            pdf_url = tag.get("urlPdf") or tag.get("url_pdf") or ""
+            if not pdf_url:
+                pdf_tag = tag.find(re.compile(r"url.?pdf", re.I))
+                if pdf_tag:
+                    pdf_url = pdf_tag.get_text(strip=True)
+
+            if not pdf_url:
                 continue
 
-            link = tag.find("a", href=True)
-            if not link:
-                continue
+            if not pdf_url.startswith("http"):
+                pdf_url = BASE_URL + pdf_url
 
-            href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
-            title = link.get_text(strip=True) or text
-            pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = pdf_url.split("/")[-1].replace(".pdf", "")
+            title_tag = tag.find(re.compile(r"titulo|titol", re.I))
+            title = title_tag.get_text(strip=True) if title_tag else text[:200]
+            act_id = tag.get("id") or tag.get("identificador") or pdf_url.split("/")[-1]
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
-                act_id="DOCV-" + act_id,
+                act_id="DOCV-" + str(act_id),
                 title=title,
                 section=current_section,
                 section_name=current_section_name,
@@ -127,5 +126,4 @@ class DOCVScraper(BaseScraper):
                 pub_date=pub_date,
             ))
 
-        logger.info("[DOCV] Found %d acts in sections I/III", len(acts))
         return acts

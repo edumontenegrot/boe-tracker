@@ -102,7 +102,7 @@ class BaseScraper(ABC):
 
     def _safe_get(self, url: str, **kwargs) -> Optional[requests.Response]:
         try:
-            resp = self.session.get(url, timeout=30, **kwargs)
+            resp = self.session.get(url, timeout=(10, 30), **kwargs)
             resp.raise_for_status()
             return resp
         except requests.RequestException as exc:

@@ -62,16 +62,26 @@ class BOEScraper(BaseScraper):
         acts: list[Act] = []
 
         try:
-            diario = data["data"]["sumario"]["diario"]
+            # API returns diario as a list (one entry per issue number published that day)
+            diarios = data["data"]["sumario"]["diario"]
         except (KeyError, TypeError):
             logger.error("[BOE] Unexpected response structure")
             return acts
 
-        # diario may contain a single section dict or a list
-        secciones = diario.get("seccion", [])
-        if isinstance(secciones, dict):
-            secciones = [secciones]
+        if isinstance(diarios, dict):
+            diarios = [diarios]
 
+        for diario in diarios:
+            secciones = diario.get("seccion", [])
+            if isinstance(secciones, dict):
+                secciones = [secciones]
+            acts.extend(self._parse_secciones(secciones, pub_date))
+
+        logger.info("[BOE] Found %d acts in sections I/III", len(acts))
+        return acts
+
+    def _parse_secciones(self, secciones: list, pub_date: str) -> list[Act]:
+        acts: list[Act] = []
         for seccion in secciones:
             num = str(seccion.get("@num", seccion.get("num", "")))
             roman = SECTION_MAP.get(num, num)
@@ -116,6 +126,4 @@ class BOEScraper(BaseScraper):
                             summary=summary,
                             pub_date=pub_date,
                         ))
-
-        logger.info("[BOE] Found %d acts in sections I/III", len(acts))
         return acts

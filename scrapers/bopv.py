@@ -1,6 +1,8 @@
 """BOPV — Boletín Oficial del País Vasco.
 
-Sumario: https://www.euskadi.eus/bopv2/datos/{YYYY}/{MM}/{YYYYMMDD}.shtml
+Los ficheros .shtml tienen nombres no predecibles desde la fecha.
+Se obtiene el enlace al boletín del día scrapeando la página de inicio.
+  https://www.euskadi.eus/bopv2/
 """
 
 import logging
@@ -15,7 +17,7 @@ from .base import Act, BaseScraper, INCLUDED_SECTIONS
 logger = logging.getLogger(__name__)
 
 BASE_URL = "https://www.euskadi.eus"
-SUMARIO_URL = "https://www.euskadi.eus/bopv2/datos/{year}/{month}/{datestr}.shtml"
+HOME_URL = "https://www.euskadi.eus/bopv2/"
 
 
 class BOPVScraper(BaseScraper):
@@ -25,27 +27,47 @@ class BOPVScraper(BaseScraper):
 
     def fetch(self, target_date: Optional[date] = None) -> list[Act]:
         target_date = target_date or date.today()
-        url = SUMARIO_URL.format(
-            year=target_date.strftime("%Y"),
-            month=target_date.strftime("%m"),
-            datestr=target_date.strftime("%Y%m%d"),
-        )
         logger.info("[BOPV] Fetching sumario for %s", target_date.isoformat())
 
-        resp = self._safe_get(url)
+        resp = self._safe_get(HOME_URL)
         if resp is None:
             return []
 
         soup = BeautifulSoup(resp.text, "lxml")
-        return self._parse(soup, target_date.isoformat())
+        boletin_url = self._find_date_link(soup, target_date)
+        if not boletin_url:
+            logger.warning("[BOPV] No boletín link found for %s", target_date.isoformat())
+            return []
 
-    def _parse(self, soup: BeautifulSoup, pub_date: str) -> list[Act]:
+        return self._parse_boletin(boletin_url, target_date.isoformat())
+
+    def _find_date_link(self, soup: BeautifulSoup, target_date: date) -> Optional[str]:
+        """Find the link whose visible text matches the target date."""
+        # Euskadi shows dates like "2026/05/22" or "22/05/2026"
+        patterns = [
+            target_date.strftime("%Y/%m/%d"),
+            target_date.strftime("%d/%m/%Y"),
+            target_date.strftime("%Y%m%d"),
+        ]
+        for a in soup.find_all("a", href=True):
+            href = a["href"]
+            text = a.get_text(strip=True)
+            for p in patterns:
+                if p in href or p in text:
+                    return href if href.startswith("http") else BASE_URL + href
+        return None
+
+    def _parse_boletin(self, url: str, pub_date: str) -> list[Act]:
         acts: list[Act] = []
+        resp = self._safe_get(url)
+        if resp is None:
+            return acts
+
+        soup = BeautifulSoup(resp.text, "lxml")
         current_section = None
         current_section_name = ""
-        current_organism = ""
 
-        for tag in soup.find_all(["h2", "h3", "h4", "li", "div", "p"]):
+        for tag in soup.find_all(["h2", "h3", "h4", "p", "li", "div", "td"]):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
@@ -54,45 +76,29 @@ class BOPVScraper(BaseScraper):
             )
             if sec_match:
                 roman = sec_match.group(1)
-                if roman in INCLUDED_SECTIONS:
-                    current_section = roman
-                    current_section_name = text.strip()
-                else:
-                    current_section = None
-                current_organism = ""
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
                 continue
 
-            # BOPV labels sections with numbers 1–5
             num_match = re.match(r"^(\d)\.\s+", text)
             if num_match:
-                num_to_roman = {"1": "I", "2": "II", "3": "III", "4": "IV", "5": "V"}
-                roman = num_to_roman.get(num_match.group(1), "")
-                if roman in INCLUDED_SECTIONS:
-                    current_section = roman
-                    current_section_name = text.strip()
-                else:
-                    current_section = None
+                n2r = {"1": "I", "2": "II", "3": "III", "4": "IV", "5": "V"}
+                roman = n2r.get(num_match.group(1), "")
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
                 continue
 
             if current_section is None:
                 continue
 
-            if tag.name in ("h3", "h4") and not tag.find("a"):
-                current_organism = text
-                continue
-
-            link = tag.find("a", href=True)
+            link = tag.find("a", href=re.compile(r"\.pdf($|\?)", re.I))
             if not link:
                 continue
 
             href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
-            title = link.get_text(strip=True) or text
             pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = re.search(r"\d{4}\d{4}\d+", pdf_url)
-            act_id = "BOPV-" + act_id.group(0) if act_id else "BOPV-" + pdf_url.split("/")[-1]
+            title = link.get_text(strip=True) or text
+            act_id = "BOPV-" + pdf_url.split("/")[-1].replace(".pdf", "")
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
@@ -101,7 +107,7 @@ class BOPVScraper(BaseScraper):
                 section=current_section,
                 section_name=current_section_name,
                 rank="",
-                organism=current_organism,
+                organism="",
                 pdf_url=pdf_url,
                 summary="",
                 pub_date=pub_date,
