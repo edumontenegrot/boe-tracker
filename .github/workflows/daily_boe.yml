@@ -27,7 +27,7 @@ jobs:
       - name: Checkout main branch
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0   # full history so we can push to data branch
+          fetch-depth: 0   # full history so we can create/push data branch
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -52,24 +52,37 @@ jobs:
 
       - name: Run BOE Tracker
         run: python main.py ${{ steps.args.outputs.cli_args }}
-        continue-on-error: true   # individual bulletin failures don't abort the job
+        continue-on-error: true   # bulletin failures don't abort the job
 
       - name: Commit and push data to 'data' branch
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          # Switch to (or create) the data branch without disturbing main
-          git fetch origin data 2>/dev/null || true
-          git checkout -B data origin/data 2>/dev/null || git checkout -B data
+          WORK_DIR=/tmp/data-branch
 
-          # Copy the downloaded output/ from the workspace into the data branch
-          # (git checkout switched branches, so we need the files from main's run)
-          git checkout ${{ github.sha }} -- output/ 2>/dev/null || true
+          # Set up a worktree pointing at the data branch (create it if missing)
+          if git ls-remote --exit-code origin data > /dev/null 2>&1; then
+            git fetch origin data
+            git worktree add "$WORK_DIR" origin/data
+          else
+            # First run: create an orphan branch with no history
+            git worktree add --orphan "$WORK_DIR" data
+          fi
 
-          git add output/
-          git diff --cached --quiet && echo "Nothing new to commit." && exit 0
+          # Copy downloaded output/ into the worktree root
+          # The worktree has its own .gitignore (or none), so no ignore issues
+          if [ -d output ]; then
+            cp -r output/. "$WORK_DIR/"
+          fi
+
+          cd "$WORK_DIR"
+          git add .
+          if git diff --cached --quiet; then
+            echo "Nothing new to commit — no bulletins published today."
+            exit 0
+          fi
 
           DATE_LABEL=$(date -u +%Y-%m-%d)
           git commit -m "data: BOE/CCAA update ${DATE_LABEL} [skip ci]"
-          git push origin data
+          git push origin HEAD:data
