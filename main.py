@@ -12,7 +12,7 @@ import argparse
 import logging
 import sys
 import tempfile
-from datetime import date, datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from scrapers import ALL_SCRAPERS
@@ -25,6 +25,15 @@ logging.basicConfig(
     handlers=[logging.StreamHandler(sys.stdout)],
 )
 logger = logging.getLogger("main")
+
+
+def latest_weekday(d: date) -> date:
+    """Return d itself if it's Mon–Fri, otherwise roll back to the previous Friday."""
+    # weekday(): Monday=0 … Sunday=6
+    if d.weekday() < 5:
+        return d
+    days_back = d.weekday() - 4  # Saturday → 1, Sunday → 2
+    return d - timedelta(days=days_back)
 
 
 def parse_args() -> argparse.Namespace:
@@ -172,6 +181,15 @@ def main():
             sys.exit(1)
     else:
         target_date = date.today()
+
+    adjusted = latest_weekday(target_date)
+    if adjusted != target_date:
+        logger.info(
+            "%s is a weekend — using most recent weekday: %s",
+            target_date.isoformat(),
+            adjusted.isoformat(),
+        )
+        target_date = adjusted
 
     logger.info("BOE Tracker — date: %s", target_date.isoformat())
 
