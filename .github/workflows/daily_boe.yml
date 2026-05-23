@@ -61,17 +61,21 @@ jobs:
 
           WORK_DIR=/tmp/data-branch
 
-          # Set up a worktree pointing at the data branch (create it if missing)
+          # Set up a worktree pointing at the data branch (create it if missing).
+          # git worktree add --orphan requires git ≥2.37; ubuntu-latest ships 2.34,
+          # so we create the initial empty commit manually using commit-tree instead.
           if git ls-remote --exit-code origin data > /dev/null 2>&1; then
             git fetch origin data
-            git worktree add "$WORK_DIR" origin/data
+            git worktree add "$WORK_DIR" origin/data -b data
           else
-            # First run: create an orphan branch with no history
-            git worktree add --orphan "$WORK_DIR" data
+            # First run: build an empty orphan commit without --orphan flag
+            EMPTY_TREE=$(git hash-object -t tree /dev/null)
+            INIT_COMMIT=$(echo "init: create data branch [skip ci]" | git commit-tree "$EMPTY_TREE")
+            git branch data "$INIT_COMMIT"
+            git worktree add "$WORK_DIR" data
           fi
 
-          # Copy downloaded output/ into the worktree root
-          # The worktree has its own .gitignore (or none), so no ignore issues
+          # Copy downloaded files into the worktree (no .gitignore conflicts here)
           if [ -d output ]; then
             cp -r output/. "$WORK_DIR/"
           fi
