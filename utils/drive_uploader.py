@@ -40,11 +40,10 @@ MIME_PDF = "application/pdf"
 ENV_SA_JSON = "GOOGLE_SERVICE_ACCOUNT_JSON"
 ENV_ROOT_FOLDER = "GOOGLE_DRIVE_FOLDER_ID"
 
-# Required for Service Accounts operating on shared folders / Shared Drives
-_SHARED = {
-    "supportsAllDrives": True,
-    "includeItemsFromAllDrives": True,
-}
+# supportsAllDrives is valid on create/update/list/get
+# includeItemsFromAllDrives is ONLY valid on list
+_SUPPORTS = {"supportsAllDrives": True}
+_LIST_SHARED = {"supportsAllDrives": True, "includeItemsFromAllDrives": True}
 
 
 def _build_service():
@@ -119,7 +118,7 @@ class DriveUploader:
                     q=query,
                     fields="files(id,name)",
                     spaces="drive",
-                    **_SHARED,
+                    **_LIST_SHARED,
                 )
                 .execute()
             )
@@ -140,7 +139,7 @@ class DriveUploader:
         try:
             folder = (
                 self.service.files()
-                .create(body=metadata, fields="id", **_SHARED)
+                .create(body=metadata, fields="id", **_SUPPORTS)
                 .execute()
             )
             folder_id = folder["id"]
@@ -180,7 +179,7 @@ class DriveUploader:
                         body={"name": name, "parents": [folder_id]},
                         media_body=media,
                         fields="id",
-                        **_SHARED,
+                        **_SUPPORTS,
                     )
                     .execute()
                 )
@@ -216,7 +215,7 @@ class DriveUploader:
                         body={"name": name, "parents": [folder_id]},
                         media_body=media,
                         fields="id",
-                        **_SHARED,
+                        **_SUPPORTS,
                     )
                     .execute()
                 )
@@ -238,7 +237,7 @@ class DriveUploader:
                     q=query,
                     fields="files(id,name)",
                     spaces="drive",
-                    **_SHARED,
+                    **_LIST_SHARED,
                 )
                 .execute()
             )
