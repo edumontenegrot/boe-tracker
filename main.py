@@ -21,6 +21,7 @@ from pathlib import Path
 from scrapers import ALL_SCRAPERS
 from utils.repo_uploader import RepoUploader
 from utils.pdf_downloader import PDFDownloader
+from utils.pdf_extractor import extract_pdf
 
 logging.basicConfig(
     level=logging.INFO,
@@ -98,6 +99,7 @@ def run(target_date: date, bulletin_filter: list[str] | None, output_dir: Path) 
                 (a.pdf_url, _safe_filename(a.act_id) + ".pdf")
                 for a in acts if a.pdf_url
             ]
+            act_by_fname = {_safe_filename(a.act_id) + ".pdf": a for a in acts if a.pdf_url}
             pdf_results = downloader.download_batch(pdf_items)
 
             for fname, local_path in pdf_results.items():
@@ -109,6 +111,29 @@ def run(target_date: date, bulletin_filter: list[str] | None, output_dir: Path) 
                         logger.error("[%s] Failed to save %s: %s", bid, fname, exc)
                         stats["pdfs_failed"] += 1
                         stats["errors"].append(f"pdf {fname}: {exc}")
+                        continue
+
+                    # 4. Extract text and save .txt + .json alongside the PDF
+                    act = act_by_fname.get(fname)
+                    if act:
+                        extracted = extract_pdf(local_path)
+                        uploader.upload_act_text(
+                            bid, target_date.isoformat(), act.act_id, extracted["text"]
+                        )
+                        uploader.upload_act_json(
+                            bid, target_date.isoformat(), {
+                                "act_id":       act.act_id,
+                                "bulletin_id":  act.bulletin_id,
+                                "pub_date":     act.date,
+                                "title":        act.title,
+                                "section":      act.section,
+                                "section_name": act.section_name,
+                                "organism":     act.organism,
+                                "pdf_url":      act.pdf_url,
+                                "pages":        extracted["pages"],
+                                "text":         extracted["text"],
+                            }
+                        )
                 else:
                     stats["pdfs_failed"] += 1
 
