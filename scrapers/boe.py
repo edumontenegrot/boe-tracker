@@ -17,20 +17,20 @@ PDF_BASE = "https://www.boe.es"
 
 SECTION_NAMES = {
     "1": "Disposiciones generales",
-    "2": "Autoridades y personal",
+    "2": "Autoridades y personal", "2A": "Autoridades y personal", "2B": "Autoridades y personal",
     "3": "Otras disposiciones",
     "4": "Administración de Justicia",
-    "5": "Anuncios",
+    "5": "Anuncios", "5A": "Anuncios", "5B": "Anuncios", "5C": "Anuncios",
     "T": "Tribunal Constitucional",
 }
 
 # Mapping BOE section number → canonical roman numeral used project-wide
 SECTION_MAP = {
     "1": "I",
-    "2": "II",
+    "2": "II", "2A": "II", "2B": "II",
     "3": "III",
     "4": "IV",
-    "5": "V",
+    "5": "V", "5A": "V", "5B": "V", "5C": "V",
     "T": "TC",
 }
 
@@ -83,19 +83,26 @@ class BOEScraper(BaseScraper):
     def _parse_secciones(self, secciones: list, pub_date: str) -> list[Act]:
         acts: list[Act] = []
         for seccion in secciones:
-            num = str(seccion.get("@num", seccion.get("num", "")))
+            # API uses 'codigo' for section id (e.g. "1", "2A", "3", "5B")
+            num = str(seccion.get("codigo", seccion.get("@num", seccion.get("num", ""))))
             roman = SECTION_MAP.get(num, num)
             if roman not in INCLUDED_SECTIONS:
                 continue
 
-            section_name = SECTION_NAMES.get(num, seccion.get("@nombre", ""))
+            section_name = SECTION_NAMES.get(num, seccion.get("nombre", ""))
             departamentos = seccion.get("departamento", [])
             if isinstance(departamentos, dict):
                 departamentos = [departamentos]
 
             for dept in departamentos:
                 organism = dept.get("nombre", "")
-                epigrafes = dept.get("epigrafe", [])
+                # epigrafes can live directly in dept or inside dept['texto']
+                if "epigrafe" in dept:
+                    epigrafes = dept["epigrafe"]
+                elif "texto" in dept and isinstance(dept["texto"], dict):
+                    epigrafes = dept["texto"].get("epigrafe", [])
+                else:
+                    epigrafes = []
                 if isinstance(epigrafes, dict):
                     epigrafes = [epigrafes]
 
@@ -109,10 +116,15 @@ class BOEScraper(BaseScraper):
                         act_id = item.get("identificador", "")
                         title = item.get("titulo", "")
                         summary = item.get("texto", "")
-                        pdf_path = item.get("url_pdf", {})
-                        if isinstance(pdf_path, dict):
-                            pdf_path = pdf_path.get("#text", "")
-                        pdf_url = (PDF_BASE + pdf_path) if pdf_path else ""
+                        pdf_info = item.get("url_pdf", {})
+                        # url_pdf is a dict; actual URL is under 'texto' key
+                        if isinstance(pdf_info, dict):
+                            pdf_url = pdf_info.get("texto", pdf_info.get("#text", ""))
+                        else:
+                            pdf_url = str(pdf_info) if pdf_info else ""
+                        # Prepend base only if the URL is a path, not absolute
+                        if pdf_url and not pdf_url.startswith("http"):
+                            pdf_url = PDF_BASE + pdf_url
 
                         acts.append(Act(
                             bulletin_id=self.bulletin_id,

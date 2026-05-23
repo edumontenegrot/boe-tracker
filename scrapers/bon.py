@@ -1,6 +1,14 @@
 """BON — Boletín Oficial de Navarra.
 
 Sumario: https://bon.navarra.es/es/boletin/-/sumario/{YYYYMMDD}
+
+The BON uses a numeric subsection scheme: "1.1. Disposiciones", "1.3. Convenios…"
+Individual acts link to detail pages (/anuncio/-/texto/{year}/{num}/{N}), not PDFs.
+We collect acts with the detail page as the pdf_url (PDFs are not individually exposed).
+
+Sections:
+  1.1 / 1.1. Leyes y Decretos Forales  → I  (Disposiciones generales)
+  1.3 / 1.5 type subsections            → III (Otras disposiciones - best effort)
 """
 
 import logging
@@ -17,12 +25,34 @@ logger = logging.getLogger(__name__)
 BASE_URL = "https://bon.navarra.es"
 SUMARIO_URL = "https://bon.navarra.es/es/boletin/-/sumario/{datestr}"
 
-SECTION_MAP = {
-    "DISPOSICIONES GENERALES": "I",
-    "XEDAPEN OROKORRAK": "I",
-    "OTRAS DISPOSICIONES": "III",
-    "BESTE XEDAPEN BATZUK": "III",
-}
+# BON subsections that map to Section I (Disposiciones generales)
+SECTION_I_PATTERNS = [
+    r"1\.1\.",          # 1.1. Leyes y Decretos Forales / Disposiciones con Fuerza de Ley
+    r"LEYES Y DECRETOS",
+    r"DISPOSICIONES CON FUERZA DE LEY",
+    r"DISPOSICIONES GENERALES",
+]
+
+# BON subsections that map to Section III (Otras disposiciones)
+SECTION_III_PATTERNS = [
+    r"1\.3\.",          # 1.3. Ordenanzas, Reglamentos
+    r"1\.5\.",          # 1.5. Convenios y acuerdos
+    r"1\.6\.",          # 1.6. Anuncios de empleo / resoluciones
+    r"OTRAS DISPOSICIONES",
+    r"CONVENIOS",
+    r"ORDENANZAS",
+]
+
+
+def _detect_bon_section(text: str) -> Optional[str]:
+    upper = text.upper()
+    for pat in SECTION_I_PATTERNS:
+        if re.search(pat, upper):
+            return "I"
+    for pat in SECTION_III_PATTERNS:
+        if re.search(pat, upper):
+            return "III"
+    return None
 
 
 class BONScraper(BaseScraper):
@@ -52,23 +82,14 @@ class BONScraper(BaseScraper):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
-            for key, roman in SECTION_MAP.items():
-                if key in upper and len(upper) < 80:
-                    if roman in INCLUDED_SECTIONS:
-                        current_section = roman
-                        current_section_name = text.strip()
-                    else:
-                        current_section = None
-                    break
-            else:
-                sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV)\b", upper)
-                if sec_match:
-                    roman = sec_match.group(1)
-                    if roman in INCLUDED_SECTIONS:
-                        current_section = roman
-                        current_section_name = text.strip()
-                    else:
-                        current_section = None
+            # Detect section heading
+            if len(text) < 100:
+                detected = _detect_bon_section(text)
+                if detected is not None:
+                    current_section = detected if detected in INCLUDED_SECTIONS else None
+                    current_section_name = text.strip()
+                    current_organism = ""
+                    continue
 
             if current_section is None:
                 continue
@@ -77,27 +98,34 @@ class BONScraper(BaseScraper):
                 current_organism = text
                 continue
 
-            link = tag.find("a", href=True)
+            # BON acts link to /anuncio/-/texto/{year}/{num}/{N}
+            link = tag.find("a", href=re.compile(r"/anuncio/-/texto/\d{4}/\d+/\d+", re.I))
+            if not link:
+                # Also check for direct PDF links (rare)
+                link = tag.find("a", href=re.compile(r"\.pdf($|\?)", re.I))
             if not link:
                 continue
 
             href = link["href"]
-            if ".pdf" not in href.lower():
-                continue
-
+            act_url = href if href.startswith("http") else BASE_URL + href
             title = link.get_text(strip=True) or text
-            pdf_url = href if href.startswith("http") else BASE_URL + href
-            act_id = pdf_url.split("/")[-1].replace(".pdf", "")
+
+            # Use the act detail URL as the act_id base
+            m = re.search(r"/anuncio/-/texto/(\d{4}/\d+/\d+)", href)
+            if m:
+                act_id = "BON-" + m.group(1).replace("/", "-")
+            else:
+                act_id = "BON-" + href.split("/")[-1]
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,
-                act_id="BON-" + act_id,
+                act_id=act_id,
                 title=title,
                 section=current_section,
                 section_name=current_section_name,
                 rank="",
                 organism=current_organism,
-                pdf_url=pdf_url,
+                pdf_url=act_url,   # detail page URL (no individual PDFs exposed)
                 summary="",
                 pub_date=pub_date,
             ))

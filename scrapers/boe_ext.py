@@ -47,12 +47,34 @@ class DOEScraper(BaseScraper):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
-            sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
-            if sec_match:
+            section_detected = False
+            # DOE format: "I. DISPOSICIONES GENERALES", "III. OTRAS DISPOSICIONES"
+            m = re.match(r"^(I{1,3}V?|IV|VI{0,3})\.\s+[A-ZÁÉÍÓÚ]", upper)
+            if m and len(text) < 80:
+                roman = m.group(1)
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+            elif re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper):
+                sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
                 roman = sec_match.group(1)
                 current_section = roman if roman in INCLUDED_SECTIONS else None
                 current_section_name = text.strip()
                 current_organism = ""
+                section_detected = True
+            elif re.search(r"DISPOSICIONES\s+GENERALES", upper) and len(text) < 80:
+                current_section = "I"
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+            elif re.search(r"OTRAS\s+DISPOSICIONES", upper) and len(text) < 80:
+                current_section = "III"
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+
+            if section_detected:
                 continue
 
             if current_section is None:

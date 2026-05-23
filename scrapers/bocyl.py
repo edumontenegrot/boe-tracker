@@ -47,12 +47,28 @@ class BOCYLScraper(BaseScraper):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
-            sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
-            if sec_match:
+            # BOCYL uses letter prefixes: "D. OTRAS DISPOSICIONES", "A. DISPOSICIONES GENERALES"
+            # and composite "I.D. Otras disposiciones"
+            section_detected = False
+            if re.search(r"DISPOSICIONES\s+GENERALES", upper) and len(text) < 80:
+                current_section = "I"
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+            elif re.search(r"OTRAS\s+DISPOSICIONES", upper) and len(text) < 80:
+                current_section = "III"
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+            elif re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper):
+                sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
                 roman = sec_match.group(1)
                 current_section = roman if roman in INCLUDED_SECTIONS else None
                 current_section_name = text.strip()
                 current_organism = ""
+                section_detected = True
+
+            if section_detected:
                 continue
 
             if current_section is None:
@@ -69,7 +85,8 @@ class BOCYLScraper(BaseScraper):
             href = link["href"]
             pdf_url = href if href.startswith("http") else BASE_URL + href
             title = link.get_text(strip=True) or text
-            act_id = "BOCYL-" + pdf_url.split("/")[-1].replace(".pdf", "")
+            fname = pdf_url.split("/")[-1].replace(".pdf", "")
+            act_id = fname if fname.upper().startswith("BOCYL") else "BOCYL-" + fname
 
             acts.append(Act(
                 bulletin_id=self.bulletin_id,

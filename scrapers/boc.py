@@ -34,6 +34,8 @@ class BOCScraper(BaseScraper):
         if resp is None:
             return []
 
+        # BOC serves UTF-8 but doesn't declare charset — force correct decoding
+        resp.encoding = "utf-8"
         soup = BeautifulSoup(resp.text, "lxml")
         boletin_url = self._find_date_link(soup, target_date)
         if not boletin_url:
@@ -44,28 +46,30 @@ class BOCScraper(BaseScraper):
 
     def _find_date_link(self, soup: BeautifulSoup, target_date: date) -> Optional[str]:
         """Find the issue URL for the given date from the homepage."""
-        # The homepage lists recent issues with dates like "22 de mayo de 2026"
-        # and links like /boc/2026/098/
+        # Homepage lists recent issues with links like /boc/2026/098 (no trailing slash)
         year_str = target_date.strftime("%Y")
-        patterns = [
+        # Spanish month names for matching link text
+        MESES = ["enero","febrero","marzo","abril","mayo","junio",
+                 "julio","agosto","septiembre","octubre","noviembre","diciembre"]
+        day_str = str(target_date.day)
+        month_name = MESES[target_date.month - 1]
+        year_full = target_date.strftime("%Y")
+        date_patterns = [
             target_date.strftime("%Y%m%d"),
             target_date.strftime("%d/%m/%Y"),
+            f"{day_str} de {month_name} de {year_full}",
         ]
         for a in soup.find_all("a", href=True):
             href = a["href"]
-            text = a.get_text(" ", strip=True)
-            # Match links of shape /boc/YYYY/NNN/ containing the target year
-            if re.search(rf"/boc/{year_str}/\d+/", href):
-                for p in patterns:
-                    if p in text or p in href:
-                        return href if href.startswith("http") else BASE_URL + href
-                # Also check surrounding parent text
-                parent_text = ""
-                if a.parent:
-                    parent_text = a.parent.get_text(" ", strip=True)
-                for p in patterns:
-                    if p in parent_text:
-                        return href if href.startswith("http") else BASE_URL + href
+            # Match links like /boc/2026/098 or /boc/2026/098/
+            if not re.search(rf"/boc/{year_str}/\d+", href):
+                continue
+            full_text = a.get_text(" ", strip=True)
+            if a.parent:
+                full_text += " " + a.parent.get_text(" ", strip=True)
+            for p in date_patterns:
+                if p.lower() in full_text.lower():
+                    return href if href.startswith("http") else BASE_URL + href
         return None
 
     def _parse_boletin(self, url: str, pub_date: str) -> list[Act]:
@@ -74,6 +78,7 @@ class BOCScraper(BaseScraper):
         if resp is None:
             return acts
 
+        resp.encoding = "utf-8"   # BOC serves UTF-8 without declaring it
         soup = BeautifulSoup(resp.text, "lxml")
         current_section = None
         current_section_name = ""
@@ -83,12 +88,34 @@ class BOCScraper(BaseScraper):
             text = tag.get_text(strip=True)
             upper = text.upper()
 
-            sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
-            if sec_match:
+            section_detected = False
+            # BOC section headers: "I. Disposiciones generales", "III. Otras Resoluciones"
+            m = re.match(r"^(I{1,3}V?|IV|VI{0,3})\.\s+[A-ZÁÉÍÓÚ]", upper)
+            if m and len(text) < 80:
+                roman = m.group(1)
+                current_section = roman if roman in INCLUDED_SECTIONS else None
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+            elif re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper):
+                sec_match = re.search(r"SECCI[OÓ]N\s+(I{1,3}V?|IV|VI{0,3})\b", upper)
                 roman = sec_match.group(1)
                 current_section = roman if roman in INCLUDED_SECTIONS else None
                 current_section_name = text.strip()
                 current_organism = ""
+                section_detected = True
+            elif re.search(r"DISPOSICIONES\s+GENERALES", upper) and len(text) < 80:
+                current_section = "I"
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+            elif re.search(r"OTRAS\s+(DISPOSICIONES|RESOLUCIONES)", upper) and len(text) < 80:
+                current_section = "III"
+                current_section_name = text.strip()
+                current_organism = ""
+                section_detected = True
+
+            if section_detected:
                 continue
 
             if current_section is None:
