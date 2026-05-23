@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
-"""BOE Tracker — daily download and upload pipeline.
+"""BOE Tracker — daily download pipeline.
+
+Downloads sumarios and PDFs from BOE + 17 CCAA official bulletins and saves
+them to output/ (which the CI workflow then commits to the 'data' branch).
 
 Usage:
-    python main.py                     # today
-    python main.py --date 2026-05-23   # specific date
-    python main.py --bulletins BOE BOCM  # only selected bulletins
-    python main.py --no-upload         # skip Google Drive upload (dry-run)
+    python main.py                       # today (auto-adjusts weekends → Friday)
+    python main.py --date 2026-05-22     # specific date
+    python main.py --bulletins BOE DOGC  # only selected bulletins
+    python main.py --output /tmp/boe     # custom output directory
 """
 
 import argparse
@@ -16,7 +19,7 @@ from datetime import date, datetime, timedelta
 from pathlib import Path
 
 from scrapers import ALL_SCRAPERS
-from utils.drive_uploader import DriveUploader
+from utils.repo_uploader import RepoUploader
 from utils.pdf_downloader import PDFDownloader
 
 logging.basicConfig(
@@ -28,48 +31,28 @@ logger = logging.getLogger("main")
 
 
 def latest_weekday(d: date) -> date:
-    """Return d itself if it's Mon–Fri, otherwise roll back to the previous Friday."""
-    # weekday(): Monday=0 … Sunday=6
+    """Return d itself if Mon–Fri, otherwise roll back to the previous Friday."""
     if d.weekday() < 5:
         return d
-    days_back = d.weekday() - 4  # Saturday → 1, Sunday → 2
+    days_back = d.weekday() - 4  # Saturday→1, Sunday→2
     return d - timedelta(days=days_back)
 
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Daily BOE/CCAA downloader")
-    parser.add_argument(
-        "--date",
-        default=None,
-        help="Publication date in YYYY-MM-DD format (default: today)",
-    )
-    parser.add_argument(
-        "--bulletins",
-        nargs="*",
-        default=None,
-        help="Bulletin IDs to process (e.g. BOE BOCM DOGC). Default: all.",
-    )
-    parser.add_argument(
-        "--no-upload",
-        action="store_true",
-        help="Skip uploading to Google Drive (dry-run mode)",
-    )
+    parser.add_argument("--date", default=None,
+                        help="Publication date YYYY-MM-DD (default: today)")
+    parser.add_argument("--bulletins", nargs="*", default=None,
+                        help="Bulletin IDs to process. Default: all.")
+    parser.add_argument("--output", default="output",
+                        help="Output directory (default: output/)")
     return parser.parse_args()
 
 
-def run(target_date: date, bulletin_filter: list[str] | None, upload: bool) -> dict:
+def run(target_date: date, bulletin_filter: list[str] | None, output_dir: Path) -> dict:
     """Main pipeline. Returns a summary dict keyed by bulletin_id."""
     summary: dict[str, dict] = {}
-
-    # Initialise uploader once (fails fast if credentials are missing)
-    uploader = None
-    if upload:
-        try:
-            uploader = DriveUploader()
-        except EnvironmentError as exc:
-            logger.error("Cannot initialise Drive uploader: %s", exc)
-            logger.warning("Continuing without uploading (pass --no-upload to suppress this)")
-            uploader = None
+    uploader = RepoUploader(root=output_dir)
 
     scrapers = [
         cls() for cls in ALL_SCRAPERS
@@ -99,41 +82,35 @@ def run(target_date: date, bulletin_filter: list[str] | None, upload: bool) -> d
 
         acts_dicts = [a.to_dict() for a in acts]
 
-        # 2. Download PDFs into a temp directory
+        # 2. Save sumario.json
+        try:
+            uploader.upload_sumario(bid, target_date.isoformat(), acts_dicts)
+        except Exception as exc:
+            logger.error("[%s] Failed to save sumario: %s", bid, exc)
+            stats["errors"].append(f"sumario: {exc}")
+
+        # 3. Download PDFs into a temp dir, then move to output/
         with tempfile.TemporaryDirectory(prefix=f"boe-{bid}-") as tmp_dir:
-            pdf_dir = Path(tmp_dir) / "pdfs"
-            downloader = PDFDownloader(pdf_dir)
+            pdf_tmp = Path(tmp_dir) / "pdfs"
+            downloader = PDFDownloader(pdf_tmp)
 
             pdf_items = [
                 (a.pdf_url, _safe_filename(a.act_id) + ".pdf")
-                for a in acts
-                if a.pdf_url
+                for a in acts if a.pdf_url
             ]
             pdf_results = downloader.download_batch(pdf_items)
 
             for fname, local_path in pdf_results.items():
                 if local_path is not None:
-                    stats["pdfs_ok"] += 1
+                    try:
+                        uploader.upload_pdf(bid, target_date.isoformat(), local_path)
+                        stats["pdfs_ok"] += 1
+                    except Exception as exc:
+                        logger.error("[%s] Failed to save %s: %s", bid, fname, exc)
+                        stats["pdfs_failed"] += 1
+                        stats["errors"].append(f"pdf {fname}: {exc}")
                 else:
                     stats["pdfs_failed"] += 1
-
-            # 3. Upload to Drive
-            if uploader is not None:
-                pub_date = target_date.isoformat()
-                try:
-                    uploader.upload_sumario(bid, pub_date, acts_dicts)
-                except Exception as exc:
-                    logger.error("[%s] Failed to upload sumario: %s", bid, exc)
-                    stats["errors"].append(f"sumario upload: {exc}")
-
-                for fname, local_path in pdf_results.items():
-                    if local_path is None:
-                        continue
-                    try:
-                        uploader.upload_pdf(bid, pub_date, local_path)
-                    except Exception as exc:
-                        logger.error("[%s] Failed to upload %s: %s", bid, fname, exc)
-                        stats["errors"].append(f"pdf upload {fname}: {exc}")
 
         summary[bid] = stats
 
@@ -145,8 +122,7 @@ def print_summary(summary: dict, target_date: date):
     logger.info("=" * 60)
     logger.info("SUMMARY for %s", target_date.isoformat())
     logger.info("=" * 60)
-    total_acts = 0
-    total_pdfs = 0
+    total_acts = total_pdfs = 0
     for bid, stats in summary.items():
         acts = stats["acts"]
         pdfs_ok = stats["pdfs_ok"]
@@ -155,12 +131,8 @@ def print_summary(summary: dict, target_date: date):
         total_acts += acts
         total_pdfs += pdfs_ok
         status = "OK" if not errors else f"WARN ({len(errors)} errors)"
-        logger.info(
-            "  %-12s  acts: %3d  pdfs: %3d downloaded  %3d failed  [%s]",
-            bid, acts, pdfs_ok, pdfs_fail, status,
-        )
-        for err in errors:
-            logger.info("             └─ %s", err)
+        logger.info("  %-12s  acts: %3d  pdfs: %3d downloaded  %3d failed  [%s]",
+                    bid, acts, pdfs_ok, pdfs_fail, status)
     logger.info("-" * 60)
     logger.info("  TOTAL         acts: %3d  pdfs: %3d downloaded", total_acts, total_pdfs)
     logger.info("=" * 60)
@@ -177,30 +149,25 @@ def main():
         try:
             target_date = datetime.strptime(args.date, "%Y-%m-%d").date()
         except ValueError:
-            logger.error("Invalid date format: %s (expected YYYY-MM-DD)", args.date)
+            logger.error("Invalid date: %s (expected YYYY-MM-DD)", args.date)
             sys.exit(1)
     else:
         target_date = date.today()
 
     adjusted = latest_weekday(target_date)
     if adjusted != target_date:
-        logger.info(
-            "%s is a weekend — using most recent weekday: %s",
-            target_date.isoformat(),
-            adjusted.isoformat(),
-        )
+        logger.info("%s is a weekend — using most recent weekday: %s",
+                    target_date.isoformat(), adjusted.isoformat())
         target_date = adjusted
 
-    logger.info("BOE Tracker — date: %s", target_date.isoformat())
+    output_dir = Path(args.output)
+    output_dir.mkdir(parents=True, exist_ok=True)
 
-    upload = not args.no_upload
-    if not upload:
-        logger.info("Dry-run mode: Google Drive upload disabled")
+    logger.info("BOE Tracker — date: %s  output: %s", target_date.isoformat(), output_dir)
 
-    summary = run(target_date, args.bulletins, upload)
+    summary = run(target_date, args.bulletins, output_dir)
     print_summary(summary, target_date)
 
-    # Exit with non-zero code only if ALL bulletins had errors
     all_failed = all(bool(s["errors"]) and s["acts"] == 0 for s in summary.values())
     sys.exit(1 if all_failed else 0)
 

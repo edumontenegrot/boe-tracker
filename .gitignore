@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+*.log
+# output/ is written by the workflow and committed to the 'data' branch, not main
+output/
+boe-tracker-*.json

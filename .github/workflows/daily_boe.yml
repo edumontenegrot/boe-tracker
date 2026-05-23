@@ -11,18 +11,23 @@ on:
         required: false
         default: ""
       bulletins:
-        description: "Boletines a procesar (separados por espacios, e.g. 'BOE BOCM'). Vacío = todos."
+        description: "Boletines (separados por espacios, ej: 'BOE BOCM'). Vacío = todos."
         required: false
         default: ""
 
+permissions:
+  contents: write   # needed to push to the data branch
+
 jobs:
-  download-and-upload:
-    name: Download BOE/CCAA and upload to Drive
+  download:
+    name: Download BOE/CCAA bulletins
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Checkout main branch
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so we can push to data branch
 
       - name: Set up Python 3.11
         uses: actions/setup-python@v5
@@ -46,19 +51,25 @@ jobs:
           echo "cli_args=$ARGS" >> "$GITHUB_OUTPUT"
 
       - name: Run BOE Tracker
-        env:
-          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
-          GOOGLE_DRIVE_FOLDER_ID: ${{ secrets.GOOGLE_DRIVE_FOLDER_ID }}
-        run: |
-          python main.py ${{ steps.args.outputs.cli_args }}
-        # Continue even if the script returns non-zero (some bulletins may not publish today)
-        continue-on-error: true
+        run: python main.py ${{ steps.args.outputs.cli_args }}
+        continue-on-error: true   # individual bulletin failures don't abort the job
 
-      - name: Upload logs as artifact
-        if: always()
-        uses: actions/upload-artifact@v4
-        with:
-          name: boe-tracker-logs-${{ github.run_id }}
-          path: "*.log"
-          if-no-files-found: ignore
-          retention-days: 7
+      - name: Commit and push data to 'data' branch
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Switch to (or create) the data branch without disturbing main
+          git fetch origin data 2>/dev/null || true
+          git checkout -B data origin/data 2>/dev/null || git checkout -B data
+
+          # Copy the downloaded output/ from the workspace into the data branch
+          # (git checkout switched branches, so we need the files from main's run)
+          git checkout ${{ github.sha }} -- output/ 2>/dev/null || true
+
+          git add output/
+          git diff --cached --quiet && echo "Nothing new to commit." && exit 0
+
+          DATE_LABEL=$(date -u +%Y-%m-%d)
+          git commit -m "data: BOE/CCAA update ${DATE_LABEL} [skip ci]"
+          git push origin data

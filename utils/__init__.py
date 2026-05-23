@@ -1,2 +1,2 @@
-from .drive_uploader import DriveUploader
+from .repo_uploader import RepoUploader
 from .pdf_downloader import PDFDownloader
