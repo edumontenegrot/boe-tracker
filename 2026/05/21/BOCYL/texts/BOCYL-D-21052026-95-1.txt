@@ -1,0 +1,173 @@
+Boletín Oficial de Castilla y León
+Núm. 95 Jueves, 21 de mayo de 2026 Pág. 9
+I. COMUNIDAD DE CASTILLA Y LEÓN
+A. DISPOSICIONES GENERALES
+CONSEJERÍA DE MOVILIDAD Y TRANSFORMACIÓN DIGITAL
+ORDEN MTD/454/2026, de 11 de mayo, por la que se establecen las condiciones de
+uso de la firma no criptográfica en las relaciones con la Administración de la Comunidad
+de Castilla y León.
+Los artículos 9 y 10 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas regulan los sistemas de identificación de los
+interesados en el procedimiento y los sistemas de firma admitidos por las Administraciones
+Públicas, respectivamente. Además de los sistemas basados en certificados electrónicos
+cualificados de firma electrónica (DNI electrónico y certificados digitales), se contempla
+la admisibilidad, tanto para identificación, como para firma, de cualquier otro sistema
+que las Administraciones públicas consideren válido en los términos y condiciones que
+se establezca, siempre que cuenten con un registro previo como usuario que permita
+garantizar su identidad.
+A efectos de firma, el artículo 10 exige que cualquier medio que se utilice permita
+acreditar la autenticidad de la expresión de la voluntad y consentimiento del interesado,
+así como la integridad e inalterabilidad del documento. Recoge asimismo la posibilidad de
+admitir los sistemas de identificación contemplados en la mencionada ley como sistemas
+de firma, cuando así lo disponga expresamente la normativa reguladora aplicable.
+El artículo 11, por su parte, regula el uso de los medios de identificación y firma en
+el procedimiento administrativo, estableciendo que, con carácter general, para realizar
+cualquier actuación prevista en el procedimiento administrativo solo será necesario
+identificarse, limitando la obligatoriedad de la firma para formular solicitudes, presentar
+declaraciones responsables o comunicaciones, interponer recursos, desistir de acciones
+y renunciar a derechos.
+Mediante Orden HAC/219/2015, de 9 de marzo (Boletín Oficial de Castilla y León
+n.º 59, de 26 de marzo de 2015) se aprobó la política de firma electrónica y de certificados
+de la Administración de la Comunidad de Castilla y León. Esta orden dispuso la adopción
+como propia de la política de firma electrónica y de certificados de la Administración
+General del Estado (OID 2.16.724.1.3.1.1.2.1.9).
+Por otra parte, en virtud del Convenio de colaboración entre la Administración General
+del Estado (MINHAP) y la Comunidad de Castilla y León para la prestación mutua de
+soluciones básicas de administración electrónica, suscrito el 25 de mayo de 2016, la
+Administración de la Comunidad de Castilla y León se adhirió a la plataforma Cl@ve,
+que provee de mecanismos de autenticación y firma electrónica a las Administraciones
+Públicas y constituye el sistema unificado de acceso electrónico de los ciudadanos a los
+servicios públicos.
+CV: BOCYL-D-21052026-95-1
+
+Boletín Oficial de Castilla y León
+Núm. 95 Jueves, 21 de mayo de 2026 Pág. 10
+Este convenio tiene continuidad a través del suscrito con fecha 5 de septiembre de
+2025, cuyo objeto incluye, entre las soluciones tecnológicas básicas de administración
+digital, los sistemas de identificación y firma electrónica y en particular el sistema de
+identificación y firma de las Administraciones Públicas (Cl@ve).
+El sistema Cl@ve permite la identificación mediante claves concertadas y, a través
+del servicio Cl@ve Firma, posibilita la utilización de firma electrónica basada en un
+certificado electrónico centralizado, accesible por el interesado sin necesidad de disponer
+de dicho certificado en su propio dispositivo.
+Además de estos sistemas ya implantados en esta Administración, y con el fin de
+facilitar la relación electrónica de los interesados, se prevé la utilización de la prestación
+de firma electrónica no basada en certificados electrónicos, ofrecida por la Administración
+General del Estado a través de la plataforma Cl@ve. Esta prestación permite a los
+interesados firmar documentos electrónicamente mediante mecanismos que garantizan
+la identidad, la integridad de la información y la trazabilidad de la actuación realizada.
+La utilización de este sistema requiere determinar los términos y condiciones de uso
+en el ámbito de esta Administración, de conformidad con lo previsto en el artículo 10.2.c)
+de la Ley 39/2015, de 1 de octubre, respecto a la admisibilidad de otros sistemas de firma
+que las Administraciones públicas consideren válidos.
+El Decreto 7/2013, de 14 de febrero, de utilización de medios electrónicos en la
+Administración de la Comunidad de Castilla y León, atribuye a la consejería competente
+para la dirección y ejecución de las actuaciones en materia de Administración electrónica
+la aprobación de la política de firma electrónica y certificados de la Administración de la
+Comunidad de Castilla y León (artículo 5. d).
+Compete a la Consejería de Movilidad y Transformación Digital promover y dirigir la
+política en materia de Administración digital, de acuerdo con lo establecido en el artículo
+1. l) del Decreto 10/2022, de 5 de mayo, por el que se establece su estructura orgánica.
+Y vista la propuesta de la Dirección General de Telecomunicaciones y Administración
+Digital de la presente Orden
+RESUELVO:
+Aprobar los términos y condiciones de uso de la firma electrónica no criptográfica
+en las relaciones de los interesados con los órganos de la Administración General
+de la Comunidad de Castilla y León y sus organismos autónomos, así como con sus
+entes públicos de derecho privado cuando ejerzan potestades administrativas, según lo
+establecido en el anexo.
+La presente orden se publicará en el Boletín Oficial de Castilla y León y producirá
+efectos a partir del día siguiente al de su publicación.
+Asimismo, se publicará en la sede electrónica de la Administración de la Comunidad
+de Castilla y León, https://www.tramitacastillayleon.jcyl.es.
+Valladolid, 11 de mayo de 2026.
+El Consejero de Movilidad
+y Transformación Digital,
+Fdo.: José Luis Sanz Merino
+CV: BOCYL-D-21052026-95-1
+
+Boletín Oficial de Castilla y León
+Núm. 95 Jueves, 21 de mayo de 2026 Pág. 11
+ANEXO
+TÉRMINOS Y CONDICIONES DE USO DE FIRMA ELECTRÓNICA NO
+CRIPTOGRÁFICA EN LAS RELACIONES DE LOS INTERESADOS CON LA
+ADMINISTRACIÓN DE LA COMUNIDAD DE CASTILLA Y LEÓN
+I. Objeto.
+Los presentes términos y condiciones tienen por objeto determinar las circunstancias
+en las que un sistema de firma electrónica no basado en certificados electrónicos (firma
+no criptográfica) se considerará válido en las relaciones de los interesados con la
+Administración de la Comunidad de Castilla y León.
+II. Ámbito de aplicación.
+Los presentes términos y condiciones se aplicarán a los órganos de la Administración
+General de la Comunidad de Castilla y León y sus organismos públicos y entidades
+públicas o privadas vinculadas o dependientes de las Administraciones Públicas cuando
+ejerzan potestades administrativas.
+III. Criterios para la utilización de sistemas de firma electrónica que no requieran
+certificado electrónico del interesado (firma no criptográfica).
+De acuerdo con lo establecido en el Real Decreto 311/2022, de 3 de mayo por el que
+se regula el Esquema Nacional de Seguridad (ENS) se podrán utilizar sistemas de firma
+electrónica no criptográfica cuando el sistema de información asociado al procedimiento
+haya sido determinado, conforme al anexo I del citado decreto, como de categoría básica
+o categoría media, siempre que no se requiera el uso de una firma electrónica avanzada,
+cuando así lo disponga la normativa reguladora aplicable.
+IV. Garantía de funcionamiento.
+Cuando la actuación realizada por el interesado implique la presentación de
+documentos por medios electrónicos utilizando los sistemas de firma electrónica
+contemplados en esta orden, se garantizará la integridad de la información presentada
+mediante el sellado realizado con el sello cualificado correspondiente, al que se añadirá
+un sello de tiempo realizado con un certificado cualificado y emitido por un prestador de
+sellado de tiempo supervisado, y su incorporación inmediata al sistema de información
+asociado. El organismo deberá disponer de las medidas técnicas, organizativas y
+procedimentales necesarias para garantizar dicha integridad a lo largo del tiempo.
+Asimismo, se garantizará la integridad de las evidencias necesarias para la
+verificación de la identidad, recopiladas inmediatamente antes del acto de la firma, así
+como de la manifestación del consentimiento explícito del interesado con el contenido
+firmado, mediante el sellado realizado con el sello electrónico cualificado del organismo
+y la adición de un sello de tiempo realizado con un certificado cualificado y emitido por
+un prestador de sellado de tiempo supervisado, almacenando dichas evidencias en el
+sistema de información junto con la información presentada.
+La integridad y conservación de los documentos electrónicos almacenados y de sus
+metadatos asociados obligatorios quedarán garantizadas a través del sellado con el sello
+electrónico cualificado y del resto de medidas técnicas que aseguren su inalterabilidad.
+CV: BOCYL-D-21052026-95-1
+
+Boletín Oficial de Castilla y León
+Núm. 95 Jueves, 21 de mayo de 2026 Pág. 12
+El sistema generará automáticamente un justificante sellado electrónicamente y
+provisto de un código de verificación. La integridad del documento electrónico original
+podrá comprobarse a través del servicio de verificación de documentos electrónicos de
+la Junta de Castilla y León.
+V. Acreditación de la identidad y de la autenticidad de la expresión de la voluntad y
+consentimiento del interesado.
+Para acreditar la autenticidad de la expresión de la voluntad y consentimiento del
+interesado se requerirá:
+1. La identificación y autenticación del interesado, inmediatamente previa a la firma,
+que se realizará utilizando la plataforma Cl@ve de identificación, autenticación y firma
+electrónica mediante el uso de credenciales con un nivel de garantía sustancial o alto.
+2. La verificación previa por parte del interesado de los datos a firmar, que se
+obtendrán a partir de la información presentada por el ciudadano y de cuya veracidad
+se hace responsable, así como de los documentos electrónicos que, eventualmente,
+presente en el procedimiento.
+Para que el interesado sea consciente de los datos que va a firmar, deberá ofrecérsele
+de un modo visible la posibilidad de consultarlos en un formato legible y, preferiblemente,
+con el mismo formato del documento que posteriormente se entregue al interesado como
+justificante.
+3. La acción explícita por parte del interesado de manifestación de consentimiento y
+expresión de su voluntad de firma, mediante la inclusión de frases que manifiesten dicha
+expresión de manera inequívoca, además de la exigencia de actuación de aceptación por
+parte del interesado.
+4. Acreditar la vinculación de la expresión de la voluntad y los datos firmados con la
+misma persona, para garantizar el no repudio de la firma.
+Se deberán considerar mecanismos que permitan contrastar la identidad del
+interesado en el momento mismo de proceder a la firma, no autorizando la realización de
+esta ante cualquier situación que cuestione dicho contraste.
+Asimismo, la garantía de no repudio exige que el sistema de firma asegure una
+adecuada trazabilidad que permita la auditoría de la actuación realizada (autenticación,
+expresión de voluntad y consentimiento y actuación de firma).
+Con el mismo propósito de auditoría para asegurar la garantía de no repudio, los
+proveedores de identificación deberán salvaguardar las evidencias de las actuaciones de
+autenticación durante el plazo mínimo de cinco años. Corresponderá al sistema de firma
+la custodia de las referencias a tales evidencias, y su solicitud a los proveedores, si fuera
+necesario, conforme al procedimiento y condiciones establecidas.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-21052026-95-1
