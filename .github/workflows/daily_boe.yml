@@ -2,8 +2,8 @@ name: Daily BOE Tracker
 
 on:
   schedule:
-    # 08:00 UTC = 09:00 Madrid (invierno) / 10:00 Madrid (verano)
-    - cron: "0 8 * * *"
+    # 20:00 UTC = 21:00 Madrid (invierno) / 22:00 Madrid (verano)
+    - cron: "0 20 * * 1-5"
   workflow_dispatch:
     inputs:
       date:
