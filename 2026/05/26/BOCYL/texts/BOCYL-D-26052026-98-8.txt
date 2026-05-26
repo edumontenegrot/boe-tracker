@@ -1,0 +1,232 @@
+Boletín Oficial de Castilla y León
+Núm. 98 Martes, 26 de mayo de 2026 Pág. 26
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE ECONOMÍA Y HACIENDA
+Servicio Territorial de Industria, Comercio y Economía de Soria
+RESOLUCIÓN de 18 de mayo de 2026, del Servicio Territorial de Industria, Comercio
+y Economía de Soria, relativa a la autorización administrativa previa y autorización de
+construcción del proyecto de la subestación «Almazán» 132/45/15 kV reforma MT, en
+el término municipal de Almazán (Soria), titularidad de «Edistribución Redes Digitales,
+S.A.U.». Expte.: IE/AT/1-2026.
+ANTECEDENTES DE HECHO
+• Con fecha 19 de febrero de 2026 se recibió por parte de Edistribucion Redes
+Digitales, S.A.U. solicitud de Autorización Administrativa y Autorización de Construcción
+para el proyecto mencionado en el asunto.
+• Con fecha 2 de marzo de 2026 es sometido a trámite de información pública
+(B.O.C. y L. 06.03.2026) en el cual no ha sido presentada ninguna alegación. De forma
+paralela, se solicitan condicionados a los organismos afectados.
+• Se recibe un condicionado por parte del Ayuntamiento de Almazan que en fecha
+18 de mayo de 2026, es recibido en este servicio territorial la aceptación por parte de
+Edistribucion Redes Digitales, S.A.U.
+• El expediente ha sido instruido por el Servicio Territorial de Industria, Comercio y
+Economía de Soria.
+• Vista la propuesta de la Sección de Energía del Servicio Territorial de Industria,
+Comercio y Economía de fecha 18 de mayo de 2026.
+FUNDAMENTOS DE DERECHO:
+• Teniendo en cuenta que el servicio Territorial de Industria, Comercio y Economía
+de la Junta de Castilla y León en Soria, es competente para resolver este expediente,
+según establece el Decreto 44/2018, de 18 de octubre, por el que se desconcentran
+competencias en los Órganos Directivos Centrales de la Consejería de Economía y
+Hacienda y en las Delegaciones Territoriales de la Junta de Castilla y León y según la
+Resolución de 9 de marzo de 2023, de la Delegación Territorial de Soria, por la que se
+delegan determinadas competencias en el Jefe del Servicio Territorial competente en
+materia de energía y minas.
+CV: BOCYL-D-26052026-98-8
+
+Boletín Oficial de Castilla y León
+Núm. 98 Martes, 26 de mayo de 2026 Pág. 27
+• La normativa aplicable es:
+– Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+– R.D. 1955/2000, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministros y procedimientos de autorización de instalaciones
+de energía eléctrica de 1 de diciembre, que la desarrolla.
+– Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+– Decreto 46/2022, de 24 de noviembre, por el que se regulan los procedimientos
+de autorizaciones administrativas de instalaciones eléctricas en Castilla y León.
+– Real Decreto 223/2008 de 15 de febrero por el que se aprueba en el Reglamento
+sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de alta
+tensión y sus instrucciones técnicas complementarias I.T.C.–LAT 01 a 09.
+– Real Decreto 337/2014 de 9 de mayo por el que se aprueba en el Reglamento
+sobre condiciones técnicas y garantías de seguridad en instalaciones eléctricas
+de alta tensión y sus instrucciones técnicas complementarias I.T.C.–RAT 01 a 23.
+– Real Decreto 842/2002, de 2 de agosto, que aprueba el Reglamento Electrotécnico
+de baja tensión.
+Este Servicio Territorial, RESUELVE:
+1.– Otorgar autorización administrativa previa a Edistribucion Redes Digitales, S.A.U.,
+para la instalación eléctrica descrita. Esta autorización se concede de acuerdo con la
+Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, con el Real Decreto 223/2008,
+de 15 de febrero, por el que se aprueban Reglamento sobre condiciones técnicas y
+garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas
+complementarias I.T.C.–LAT 01 a 09, con el Real Decreto 337/2014 de 9 de mayo por el
+que se aprueba en el Reglamento sobre condiciones técnicas y garantías de seguridad
+en instalaciones eléctricas de alta tensión y sus instrucciones técnicas complementarias
+I.T.C.–RAT 01 a 23 y con el Reglamento electrotécnico de baja tensión y sus instrucciones
+técnicas complementarias (R.D. 842/2002 de 2 de agosto).
+2.– Otorgar autorización administrativa de construcción (Aprobación del proyecto de
+ejecución) para la instalación eléctrica descrita de acuerdo con el proyecto firmado por
+el Ingeniero Alberto Salvador Lapiedra con Visado n.º VIZA261063 y n.º VIZA261064):
+• Cambio del actual parque 15 kV intemperie convencional simple barra partida,
+a celdas blindadas doble barra, instaladas dentro del edificio de la subestación,
+a continuación de las posiciones de 15 kV ya construidas mediante cabina,
+formando un único conjunto de cabinas:
+- Se desmontarán las actuales posiciones de 15kV realizadas mediante
+equipos tipo intemperie convencional instalados en el parque exterior. Estas
+posiciones tienen una configuración de simple barra partida, unidas mediante
+una posición de unión longitudinal de barras.
+CV: BOCYL-D-26052026-98-8
+
+Boletín Oficial de Castilla y León
+Núm. 98 Martes, 26 de mayo de 2026 Pág. 28
+- Actualmente parte del parque de 15 kV ya está construido mediante cabinas
+de blindadas de doble barra 2000 A 25 kA con protecciones integradas.
+- Se desmontará la celda con las 2 posiciones de remonte al no ser necesaria
+tras la conexión de las nuevas posiciones al embarrado realizado mediante
+cabinas blindadas.
+- Se ampliará el embarrado de cabinas de 15 kV existente en el edificio de
+control mediante cabinas doble barra libres de SF6, 2000 A 25 kV. Además,
+la actual cabina de la línea La Dehesa 2 pasará a ser la línea Barca. También
+se realizará una recodificación de las distintas posiciones, de forma que las
+posiciones queden ordenadas según su disposición en las nuevas cabinas.
+Las 2 primeras cabinas de línea, ya instaladas, no disponen de sensores de
+tensión. Les serán añadidos, y por tanto todas las cabinas de línea dispondrán
+de sensores de tensión tras la reforma.
+• Reforma del parque exterior:
+- Se desmontarán las actuales posiciones de 15 kV del parque intemperie
+exterior.
+- Se conservarán los pórticos de barras de 15 kV para mantener la entrada
+en aéreo de las líneas Morón, Polígono, Barahona y Barca y se realizarán
+conversiones de cable aéreo a cable aislado de estas líneas a pie de pórtico.
+- Se realizarán nuevas estructuras para la salida a cable aislado de los
+transformadore 1 y 2.
+• Realización de nuevas canalizaciones y tendido de cables aislados:
+- Para las líneas Morón, Polígono, Barahona y Barca, se reutilizará la canal
+de control actual que discurre por el parque de 15 kV. 2 de las líneas se
+conectarán con la arqueta actualmente utilizada por los remontes y otras
+2 líneas se conectarán con una nueva arqueta de cables de potencia que
+también será utilizada por la salida de 15 kV del transformador 2. Desde esta
+nueva arqueta se tenderán tubos hormigonados hasta el edificio.
+- Para las líneas que entran a la instalación por el lateral, líneas Gomara,
+Circunvalación Norte y Circunvalación Sur, se realizarán empalmes con los
+cables que acceden a la su subestación y aprovechando el actual canal de
+potencia, se conectarán con el edificio, a través de tubulares hormigonados.
+- Para la salida de 15 kV del transformador 1 se utilizará la misma canal de
+potencia y tubulares hormigonados que para las líneas Gomara, Circunvalación
+Norte y Circunvalación Sur.
+- En el caso de la línea Nepas, que accede a la subestación por la zona del
+parque de 132 kV, se conectará con el edificio a través de la nueva arqueta y
+tubulares hormigonados usados por el transformador 1.
+• Instalación de un nuevo transformador de SSAA: Se instalará un nuevo
+transformador de SSAA (TSA) en el parque exterior junto al edificio de control.
+El transformador se colocará dentro de un pequeño prefabricado y se conectará
+con la celda de protección de transformador de SSAA.
+CV: BOCYL-D-26052026-98-8
+
+Boletín Oficial de Castilla y León
+Núm. 98 Martes, 26 de mayo de 2026 Pág. 29
+• Instalación nuevas baterías de condensadores: Se instalarán 2 nuevas
+baterías de condensadores en el parque exterior sin interruptor automático y se
+conectarán con sus correspondientes cables aislados a las 2 celdas de batería
+de condensadores.
+• Reforma del edificio de control. Para permitir la instalación de las nuevas cabinas
+en el edificio de control existente son necesarias una serie de actuaciones:
+- Se desmontará del cuadro túnel que ocupa el centro de la sala de control.
+Las protecciones de las posiciones de 15 kV actualmente instaladas en el
+cuadro túnel serán sustituida por las protecciones integradas en la celdas tras
+la reforma.
+- Las protecciones del parque de las líneas de 45 kV (5 líneas) se sustituirán
+por 3 cuadros de protecciones de líneas de 45 kV, que se instalarán junto a los
+cuadros de protección de los transformadores 1 y 2.
+- Se prolongará el foso de cables y se instalarán las estructuras metálicas
+necesarias para las nuevas cabinas, del mismo tipo que las existentes.
+- Se desmontarán los 2 cuadros de remota y concentrador y los 5 cuadros de
+SSAA existentes en la pared del edificio que impedirían el mantenimiento de
+las futuras cabinas. Los 2 cuadros de remota se sustituyen por 1 un nuevo
+cuadro de remota y los 5 cuadros de SSAA se sustituyen por 3 nuevos cuadros
+de SSAA. Estos cuadros se colocarán en la pequeña sala de comunicaciones
+anexa a la sala de control del edificio.
+- En la sala de comunicaciones, y para permitir desplazar parte de los cuadros
+que actualmente se localizan en la sala de control, se retirará la batería de
+48 Vcc y el cuadro repartidor/onda portadora, colocando un convertidor
+125 Vcc-48 Vcc en los nuevos cuadros de servicios auxiliares.
+- Se instalará una puerta de hombre en la pared más cercana al parque de
+45 kV para facilitar el acceso.
+• Reforma y actualización del control y protección:
+- Las protecciones del parque de 15 kV actuales, localizadas en el cuadro túnel,
+se sustituyen por las protecciones incorporadas en las nuevas celdas.
+- Se sustituyen los 2 cuadros de control y protección de los transformadores 1
+y 2 (45/15 kV) por 2 nuevos cuadros normalizados.
+- Las protecciones de las líneas de 45 kV, localizadas en el cuadro túnel, se
+sustituyen por 3 nuevos cuadros de control y protección, 2 para 2 posiciones,
+y un tercero para 1 posición de línea.
+- Se sustituirán los 5 cuadros de SSAA existentes por 2 nuevos cuadros de C.A
+y 1 de C.C.
+- Se mantienen las 2 baterías de 125 Vcc existentes, y se instala un nuevo
+rectificador batería 125 Vcc.
+• Cambio de la remota de telecontrol y armario concentrador existentes por una
+nueva remota tipo IEC 61850.
+CV: BOCYL-D-26052026-98-8
+
+Boletín Oficial de Castilla y León
+Núm. 98 Martes, 26 de mayo de 2026 Pág. 30
+3.– Establecer las condiciones siguientes:
+3.1. En todo momento se deberá dar cumplimiento a lo establecido en la Ley 24/2013,
+de 26 de diciembre, del Sector Eléctrico y su normativa de desarrollo, en el Decreto
+46/2022, de 24 de noviembre, así como a todo lo establecido en la reglamentación de
+seguridad industrial, o cualquier otra normativa vigente, que le sea de aplicación para la
+realización, puesta en marcha y explotación de estas instalaciones.
+3.2. Esta autorización se entiende otorgada sin perjuicio de terceros, dejando a salvo
+los derechos particulares, y sin perjuicio de las autorizaciones, licencias o permisos de
+competencia municipal, provincial u otros organismos, necesarias para la realización de
+las obras de producción de energía eléctrica, en especial las relativas a la ordenación del
+territorio, al medio ambiente y servidumbres aeronáuticas.
+3.3. Debe cumplirse el contenido y condicionado indicado en los informes emitidos
+por los organismos consultados aceptados por el peticionario y, en caso de discrepancias,
+los admitidos por este Servicio Territorial, realizando las modificaciones en los proyectos
+que, en su caso, se requieran.
+3.4. Las obras deberán realizarse de acuerdo con el proyecto presentado indicado en
+esta resolución y conforme a las disposiciones reglamentarias que le sean de aplicación.
+3.5. Si se introducen modificaciones al ejecutar el proyecto, se estará en lo dispuesto
+en el artículo 3 del Decreto 46/2022, de 24 de noviembre, debiendo ser comunicadas a
+este Servicio Territorial.
+3.6. El plazo de puesta en marcha será de DOCE MESES, contados a partir de la
+Resolución.
+3.7. La Administración dejará sin efecto la presente resolución si durante el
+transcurso del tiempo se observase incumplimiento, por parte del titular de los derechos
+que establece la misma, de las condiciones impuestas en ella. En tales supuestos, la
+Administración, previo oportuno expediente, acordará la anulación de la correspondiente
+Autorización con todas las consecuencias de orden administrativo y civil que se deriven
+de dicha situación, según las disposiciones legales vigentes.
+3.8. El titular informará del comienzo y terminación de las obras de los trabajos
+al Servicio Territorial de Industria, Comercio y Economía de Soria, a efectos del
+reconocimiento definitivo y extensión del acta de puesta en servicio o explotación.
+3.9. El titular de la instalación tendrá en cuenta, para su ejecución, los condicionados
+que le han sido establecidos por otros Organismos, los cuales han sido puestos en su
+conocimiento y aceptados expresamente por el mismo.
+3.10. Todos los elementos de la red de distribución que, con motivo de la instalación que
+se autoriza en esta resolución, queden sin servicio deberán ser desmantelados, incluidas
+las cimentaciones de los apoyos, en un plazo de seis meses a partir de la fecha en que
+se formalice la autorización de explotación. La empresa distribuidora deberá comunicar al
+Servicio Territorial de Industria, Comercio y Economía este desmantelamiento en el plazo
+de 10 días contados a partir del momento en que se realice.
+CV: BOCYL-D-26052026-98-8
+
+Boletín Oficial de Castilla y León
+Núm. 98 Martes, 26 de mayo de 2026 Pág. 31
+3.11. Deberá cumplirse lo establecido en el Real Decreto 1432/2008, de 29 de agosto,
+por el que se establecen medidas para la protección de la avifauna contra la colisión y la
+electrocución en líneas eléctricas de alta tensión.
+Esta Resolución se dicta sin perjuicio de que el interesado obtenga cualquier otra
+autorización que la legislación vigente establezca, de acuerdo con otras disposiciones que
+resulten aplicables, que sean competencia de otros Organismos y/o Administraciones.
+Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer
+recurso de alzada ante el Ilmo. Sr. Director General de Energía y Minas, en un plazo de
+un mes a contar desde el día siguiente a la fecha de esta publicación, en relación con lo
+dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas.
+Soria, 18 de mayo de 2026.
+El Jefe del Servicio Territorial,
+Fdo.: Manuel López Represa
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-26052026-98-8

@@ -1,0 +1,732 @@
+NÚMERO 99
+22415
+Martes 26 de mayo de 2026
+III OTRAS RESOLUCIONES
+VICEPRESIDENCIA Y CONSEJERÍA DE PRESIDENCIA, COORDINACIÓN DE
+LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS
+RESOLUCIÓN de 19 de mayo de 2026, de la Secretaría General, por la que
+se da publicidad al Convenio entre la Consejería de Economía, Empleo y
+Transformación Digital de la Junta de Extremadura y la entidad Excmo.
+Ayuntamiento de Santiago de Alcántara, para el acceso a servicios de
+certificación y firma electrónica que redunden en el impulso de la administración
+electrónica en la Comunidad Autónoma. (2026061265)
+Habiéndose firmado el día 24 de abril de 2026, el Convenio entre la Consejería de Economía,
+Empleo y Transformación Digital de la Junta de Extremadura y la entidad Excmo. Ayuntamien-
+to de Santiago de Alcántara, para el acceso a servicios de certificación y firma electrónica
+que redunden en el impulso de la administración electrónica en la Comunidad Autónoma, de
+conformidad con lo previsto en el artículo 19 del Decreto 154/2025, de 18 de noviembre, por
+el que se regula la actividad convencional y el Registro General de Convenios de la Adminis-
+tración de la Comunidad Autónoma de Extremadura,
+RESUELVO:
+La publicación en el Diario Oficial de Extremadura del Convenio que figura como anexo de la
+presente resolución.
+Mérida, 19 de mayo de 2026.
+El Secretario General,
+DAVID GONZÁLEZ GIL
+
+NÚMERO 99
+22416
+Martes 26 de mayo de 2026
+CONVENIO ENTRE LA CONSEJERÍA DE ECONOMÍA, EMPLEO Y TRANSFORMACIÓN DIGITAL
+DE LA JUNTA DE EXTREMADURA Y LA ENTIDAD EXCMO. AYUNTAMIENTO DE SANTIAGO DE
+ALCÁNTARA, PARA EL ACCESO A SERVICIOS DE CERTIFICACIÓN Y FIRMA ELECTRÓNICA
+QUE REDUNDEN EN EL IMPULSO DE LA ADMINISTRACIÓN ELECTRÓNICA EN LA
+COMUNIDAD AUTÓNOMA.
+Mérida, 24 de abril de 2026.
+REUNIDOS
+De una parte, D. Juan Andrés Moreno Martín, Secretario General de la Consejería de Econo-
+mía, Empleo y Transformación Digital de la Junta de Extremadura, cargo que ostenta en virtud
+de nombramiento efectuado por Decreto 93/2023, de 28 de julio (DOE núm. 146, de 31 de
+julio), quien actúa por delegación de firma según Resolución de 10 de agosto de 2023, del
+Consejero de Economía, Empleo y Transformación Digital, sobre delegación de competencias
+en diversas materias y delegación de firma, en virtud de la cual se delegan en la Secretaría
+General las competencias para la firma de los Convenios regulados en el artículo 53.3 de la
+Ley 1/2002, de 28 de febrero, del Gobierno y de la Administración de la Comunidad Autóno-
+ma de Extremadura, y en función de las competencias atribuidas por el Decreto 234/2023,
+de 12 de septiembre (DOE extraordinario n.º 3, del sábado, 16 de septiembre de 2023). En
+adelante, la Consejería.
+De otra parte, D. Juan Ignacio Gilete Batalla, Alcalde-Presidente de la entidad Excmo. Ayun-
+tamiento de Santiago de Alcántara, en ejercicio de las competencias que le otorga Artículo
+21.1.b de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, y con fa-
+cultades para este acto, según se desprende del Acuerdo de pleno de fecha 31 de octubre de
+2025. En adelante, la Entidad.
+Ambas partes se reconocen mutuamente competencia y capacidad jurídica necesaria para for-
+malizar el presente Convenio y quedar obligadas en la representación en que efectivamente
+intervienen,
+EXPONEN
+Primero. La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas reconoce a los ciudadanos su derecho a relacionarse, preferente-
+mente y de forma electrónica, con las Administraciones Públicas, con el fin de contribuir a la
+extensión y consolidación de la Administración Electrónica.
+En el ámbito de identificación electrónica de los interesados en un procedimiento, los artículos
+9 y 10 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+
+NÚMERO 99
+22417
+Martes 26 de mayo de 2026
+Administraciones Públicas, establecen que, entre otros sistemas utilizados por los interesados
+y admitidos por las Administraciones Públicas, los interesados podrán identificarse electróni-
+camente por medio del uso de “Sistemas basados en certificados electrónicos cualificados de
+firma electrónica expedidos por prestadores incluidos en la ‘Lista de confianza de prestadores
+de servicios de certificación”.
+Esta Lista de confianza se elabora según lo previsto en la Decisión de Ejecución (UE) 2015/1505
+de la Comisión, de 8 de septiembre de 2015, por la que se establecen las especificaciones
+técnicas y los formatos relacionados con las listas de confianza.
+Por su parte, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, es-
+tablece que la utilización de los medios electrónicos ha de ser lo habitual, como la firma y
+sedes electrónicas, el intercambio electrónico de datos en entornos cerrados de comunicación
+y la actuación administrativa automatizada. Se establece, asimismo, la obligación de que las
+Administraciones Públicas se relacionen entre sí por medios electrónicos, previsión que se
+desarrolla posteriormente en el título referente a la cooperación interadministrativa mediante
+una regulación específica de las relaciones electrónicas entre las Administraciones. Para ello,
+también se contempla como nuevo principio de actuación la interoperabilidad de los medios
+electrónicos y sistemas y la prestación conjunta de servicios a los ciudadanos.
+El Capítulo V del Título Preliminar de la Ley 40/2015, de 1 de octubre, regula, específicamente,
+el funcionamiento electrónico del sector público, integrado por la Administración General del
+Estado, las Administraciones de las Comunidades Autónomas, las Entidades que integran
+la Administración Local y el Sector Público Institucional, recogiendo el citado capítulo una
+colección de instrumentos necesarios para garantizar el citado funcionamiento electrónico
+en condiciones de seguridad, integridad y no repudio de las comunicaciones y actos
+administrativos.
+El Real Decreto 203/2021, de 30 de marzo, por el que se aprueba el Reglamento de actuación
+y funcionamiento del sector público por medios electrónicos, desarrolla y concreta las pre-
+visiones legales, antes esbozadas, con el fin, entre otros aspectos, de facilitar a los agentes
+involucrados en el uso de medios tecnológicos su utilización efectiva, aclarando y precisando,
+al mismo tiempo, aquellas materias reguladas en estas leyes que permiten un margen de
+actuación reglamentaria.
+Así mismo y en el ámbito Autonómico, el Decreto 225/2014, de 14 de octubre, de régimen
+jurídico de administración electrónica de la Comunidad Autónoma de Extremadura, resulta co-
+herente con el desarrollo y concreción que realiza el Real Decreto 203/2021 de las previsiones
+legales recogidas en las leyes 39 y 40 de 2015.
+
+NÚMERO 99
+22418
+Martes 26 de mayo de 2026
+Este instrumento es conforme, además, con el vigente régimen de competencias de la Junta
+de Extremadura, por medio del cual a la Consejería de Economía, Empleo y Transformación
+Digital le corresponde, a través de los órganos directivos en que se estructura, entre otras
+acciones, la implantación de la administración digital y las que se derivan del marco vigente
+sobre administración electrónica hacia la simplificación administrativa digital. Le correspon-
+den, igualmente, el análisis, propuesta de suscripción, seguimiento y control de aquellos
+Convenios y demás instrumentos jurídicos que habiliten el acceso electrónico a datos de otras
+Admi nistraciones y Entidades Públicas, el intercambio de soluciones básicas de administra-
+ción electrónica y demás medios necesarios para el desarrollo de la Administración Digital en
+la Administración de la Comunidad Autónoma de Extremadura, las acciones necesarias para
+articular el intercambio de datos y documentos entre Departamentos y Órganos de la Admi-
+nistración Autonómica, así como la cooperación y colaboración con las entidades locales para
+la prestación de servicios digitales a la ciudadanía con el apoyo asistencia del resto de órganos
+directivos de la administración con competencias en este ámbito.
+Segundo. La Junta de Extremadura no cuenta con los medios técnicos y/o tecnológicos
+necesarios para desarrollar las actividades necesarias para la prestación de servicios de cer-
+tificación y firma electrónica, sin mencionar que dicha prestación no forma parte del ámbito
+de actividad de esta Administración, así como que tampoco cuenta -la Junta de Extremadura-
+con las habilitaciones, autorizaciones y facultades para su prestación, todas ellas reguladas
+normativamente en diversa legislación europea y estatal, así como a través del correspon-
+diente desarrollo normativo de la misma.
+En este ámbito, ha de tenerse en cuenta la efectiva aplicación, desde el 1 de julio de 2016,
+del “Reglamento (UE) n.º 910/2014 del Parlamento Europeo y del Consejo, de 23 de julio de
+2014, relativo a la identificación electrónica y los servicios de confianza para las transacciones
+electrónicas en el mercado interior y por la que se deroga la Directiva 1999/93/CE”, que es
+de directa aplicación en los Estados miembros, así como la Ley 6/2020, de 11 de noviembre,
+reguladora de determinados aspectos de los servicios electrónicos de confianza. Dicho Regla-
+mento instaura la aceptación mutua, para el acceso a los servicios públicos en línea, de los
+sistemas nacionales de identificación electrónica que hayan sido notificados a la Comisión por
+parte de los Estados miembros, con objeto de facilitar la interacción telemática segura con las
+Administraciones públicas, reforzando así la seguridad jurídica de las transacciones electróni-
+cas entre empresas, particulares y Administraciones públicas.
+Por su parte, la Disposición adicional segunda de la Ley 6/2020, de 11 de noviembre, esta-
+blece que todos los sistemas de identificación, firma y sello electrónico previstos en la Ley
+39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas, y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, ten-
+drán plenos efectos jurídicos.
+
+NÚMERO 99
+22419
+Martes 26 de mayo de 2026
+La Fábrica Nacional de Moneda y Timbre-Real Casa de la Moneda, Entidad Pública Empresa-
+rial, Medio Propio (en adelante, FNMT-RCM), está habilitada para la prestación de los citados
+servicios de identificación y firma electrónica, así como para la ejecución de actividades re-
+lacionadas y, a su vez, está incluida en la ‘Lista de confianza de prestadores de servicios de
+certificación”, que se recoge en la Ley 39/2015 como requisito para la emisión de sistemas
+basados en certificados electrónicos cualificados de firma electrónica válidos para la identi-
+ficación de los interesados en el procedimiento y como sistemas de firma admitidos por las
+Administraciones Públicas. La habilitación para esta materia se recogía ya en la Ley 66/1997,
+de 30 de diciembre, de Medidas Fiscales, Administrativas y del Orden Social, cuyo artículo
+81 bajo el título “Prestación de servicios de seguridad por la Fábrica Nacional de Moneda y
+Timbre para las comunicaciones a través de técnicas y medios electrónicos, informáticos y
+telemáticos”, facultaba a la FNMT–RCM, en su apartado primero, para prestar los servicios
+técnicos y administrativos necesarios para garantizar la seguridad, validez y eficacia en la
+emisión y recepción de comunicaciones y documentos a través de técnicas y medios electró-
+nicos, informáticos y telemáticos (EIT) y en su apartado cinco, con la finalidad de extender
+los servicios prestados, recogía la posibilidad para la FNMT-RCM de celebrar convenios con las
+diferentes Administraciones públicas, así como entidades y organismos públicos vinculados o
+dependientes de aquellas.
+Con base en lo anterior, la Administración de la Junta de Extremadura, a través de la Con-
+sejería con competencias en materia de Administración Electrónica, se lleva apoyando en la
+Fábrica Nacional de Moneda y Timbre – Real Casa de la Moneda para la prestación de servicios
+técnicos y de seguridad aplicables a la certificación digital y la firma electrónica desde el 1 de
+septiembre de 2004, momento en el que suscribieron el primer Convenio para la prestación de
+servicios de certificación de firma electrónica en el ámbito de actuación de la Junta de Extre-
+madura, con el alcance definido en tal convenio y sus documentos anexos, novado mediante
+sucesivas adendas.
+El Convenio fue prorrogado sucesivamente hasta el año 2020, momento en que la carencia re-
+gulada en la Ley 40/2015, de 1 de octubre, para los Convenios vigentes a la entrada en vigor
+de la Ley, motivó la suscripción de un nuevo Convenio que ha sido prorrogado hasta diciembre
+de 2024, siendo este el plazo máximo de prórroga y no resultando posible la suscripción del
+nuevo Convenio al haber adoptado la FNMT-RCM la forma jurídica de medio propio personifi-
+cado, también, de las Comunidades y Ciudades Autónomas y Entidades locales.
+Por tanto, el citado instrumento lleva desplegando sus efectos desde 2004, con respecto a la
+creación del marco de actuación institucional entre las dos partes firmantes, para favorecer el
+impulso de servicios públicos electrónicos, a través de la extensión al ámbito de competencias
+de la Junta de Extremadura de la Plataforma Pública de Certificación y de servicios electróni-
+cos, informáticos y telemáticos desarrollada por la FNMT-RCM, para su uso por las diferentes
+
+NÚMERO 99
+22420
+Martes 26 de mayo de 2026
+Administraciones incluidas en el alcance del mismo, puesto que el Convenio no solo provisio-
+naba servicios de certificación digital y firma electrónica a la Junta de Extremadura, sino que
+por medio de la Adhesión al Convenio, permitía la provisión de determinados servicios a las
+distintas entidades adherentes -sin coste económico para las mismas, puesto que lo asumía
+la Junta de Extremadura-, entre las que encontraban las Diputaciones Provinciales, Entidades
+Locales de la Comunidad Autónoma, Mancomunidades de Municipios y otras entidades públi-
+cas como la Asamblea de Extremadura y la Universidad de Extremadura.
+De esta forma y a través de este instrumento se viene favoreciendo llevar a todas las enti-
+dades locales y otras entidades de la Comunidad Autónoma, en su ámbito de aplicación, los
+medios necesarios para que pongan a disposición de sus Servicios Públicos, Ciudadanos y
+Empleados Públicos la obtención de certificados digitales cualificados para la actuación ante la
+Administración Pública, interacción entre Administraciones y otros servicios digitales.
+Tercero. La FNMT-RCM, E.P.E., M.P. está regulada por la Ley 40/2015, de 1 de octubre, de
+Régimen Jurídico del Sector Público y por su Estatuto, aprobado por el Real Decreto 51/2023,
+de 31 de enero, estando adscrita al Ministerio de Hacienda, a través de la Subsecretaría de
+Hacienda, en virtud del artículo 12.11.b) del Real Decreto 206/2024, de 27 de febrero, por el
+que se desarrolla la estructura orgánica básica del Ministerio de Hacienda, tras la creación del
+Ministerio de Hacienda llevada a cabo por Real Decreto 829/2023, de 20 de noviembre, por
+el que se reestructuran los departamentos ministeriales (tras la redacción dada por el Real
+Decreto 1230/2023, de 29 de diciembre).
+De acuerdo con la disposición adicional quincuagésima sexta de la Ley 9/2017, de 8 de no-
+viembre de 2017, de Contratos del Sector Público (LCSP), la FNMT–RCM, E.P.E., M.P. es medio
+propio personificado de la Administración General del Estado, de las Comunidades y Ciudades
+Autónomas y de las Entidades Locales, así como de los organismos, entes y entidades del
+sector público estatal, autonómico y local, sean de naturaleza jurídica pública o privada, vin-
+culados o dependientes de aquellas, respecto de los que cumpla los requisitos previstos en los
+artículos 32 y 33 de la LCSP. Así mismo, ejecutará los correspondientes encargos de confor-
+midad con lo dispuesto en la referida Ley, en la medida que cuente con los medios suficientes
+e idóneos para la realización de las prestaciones.
+El anterior cambio en la FNMT-RCM ha motivado que la Consejería de Economía, Empleo y
+Transformación Digital de la Junta de Extremadura, para dar continuidad al instrumento de
+colaboración puesto en marcha en 2004, haya llevado a cabo un Encargo a la FNMT–RCM,
+E.P.E., M.P., con plazo de ejecución de dos años desde el 1 de enero de 2025, para la “Pres-
+tación de servicios técnicos y de seguridad aplicables a la certificación y firma electrónica en
+el ámbito de la administración electrónica”, expediente número 2514006999CA001, mediante
+Resolución, de 30 de diciembre de 2024, de la Consejería de Economía, Empleo y Transforma-
+
+NÚMERO 99
+22421
+Martes 26 de mayo de 2026
+ción Digital, el cual se encuentra publicado en Plataforma de Contratación del Sector Público y
+obedece a la especificidad técnica de los trabajos a desarrollar y alto grado de especialización
+para llevarlos a cabo, así como a la necesidad de contar con las preceptivas autorizaciones y
+habilitaciones para su prestación, con las que no cuenta la Administración de la Comunidad
+Autónoma de Extremadura, que hacen necesaria la colaboración de la Entidad Pública Empre-
+sarial, medio propio, FNMT-RCM, prestando el apoyo técnico necesario que facilite el ejercicio
+de las competencias atribuidas a esta Consejería.
+Cuarto. La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, establece,
+como uno de los principios generales de actuación la cooperación, colaboración y coordinación
+entre las Administraciones Públicas, principios que se desarrollan en el Título III de esta Ley.
+El artículo 140 de la Ley 40/2015 constituye un único capítulo (I) del Título III de la citada Ley
+y establece los Principios generales de las relaciones interadministrativas, entre los que se en-
+cuentran la lealtad institucional, la colaboración con otras Administraciones para alcanzar un
+fin común, la cooperación de dos o más Administraciones, de manera voluntaria y dentro de
+sus competencias, de manera que se asuman compromisos específicos en favor de una acción
+común, eficiencia en la gestión de los recursos públicos compartiendo su uso, etc.
+En relación con lo anterior, es bien sabido que la utilización de economías de escala en la con-
+tratación de servicios y/o suministros permiten la obtención de mejores condiciones. Esto es
+una máxima que aplica también a la Administración Pública.
+Es por ello que, a pesar del cambio experimentado en el instrumento jurídico que regula la
+colaboración entre la Junta de Extremadura y la FNMT-RCM, esta Administración Autonómica
+mantiene su compromiso de cooperación con las Entidades Locales y otras Entidades Públi-
+cas de la Comunidad Autónoma, por lo que recoge en el encargo realizado a la FNMT–RCM la
+prestación de los servicios regulados en el mismo a las Entidades determinadas en el ámbito
+de aplicación mencionado (Entidades Locales de la Comunidad Autónoma de Extremadura,
+Mancomunidades de Municipios, Diputaciones provinciales de Cáceres y Badajoz y otras Enti-
+dades del Sector Público Autonómico) previa firma -por parte de las mismas- de acuerdo de
+adhesión al encargo vigente realizado por la Junta de Extremadura a la FNMT–RCM y siempre
+que exista un Convenio previo con la entidad adherente que acredite la competencia de la
+Junta de Extremadura para la asunción, por la misma, de la aportación económica derivada
+de la adhesión correspondiente, además de la naturaleza y el régimen jurídico de la aporta-
+ción que se realiza. Todos los modelos para estos propósitos son facilitados por la Junta de
+Extremadura y es por lo que se suscribe el presente Convenio entre la Junta de Extremadura
+y la Entidad Adherente.
+
+NÚMERO 99
+22422
+Martes 26 de mayo de 2026
+Procede indicar, en relación con el alcance del Encargo -coincidente con el alcance del Conve-
+nio entre la Junta de Extremadura y la FNMT que se viene suscribiendo desde 2004-, que sería
+cada una de las Entidades las que, de manera libre y autónoma, manifestarían tras la suscrip-
+ción del Convenio con la Junta de Extremadura, su voluntad de acceder a estas actividades y
+servicios prestados por el Medio Propio FNMT-RCM, por medio de la adhesión al encargo y, en
+consecuencia, no sería la Administración de la Comunidad Autónoma de Extremadura la que
+prestaría estos servicios, puesto que existiría relación bilateral entre las Entidades (locales
+y resto de entidades del Sector Público Autonómico en este modelo de adhesión) y la FNMT-
+RCM, si bien en base al presente Convenio entre la Consejería y la Entidad adherente, será la
+Administración Autonómica quien asuma el coste de los servicios prestados por la FNMT-RCM
+a la correspondiente Entidad con las características y limitaciones recogidas en la memoria del
+Encargo y modelo del Acuerdo de Adhesión anexo al presente Convenio.
+A su vez, el Decreto 225/2014 de régimen jurídico de la Administración Electrónica en la
+Comunidad Autónoma de Extremadura, establece que el órgano superior en materia de admi-
+nistración electrónica es la Consejería con dichas competencias entre sus centros directivos;
+a la sazón Consejería de Economía, Empleo y Transformación Digital, así como que la citada
+Consejería resultaría competente para todas las cuestiones relacionadas con la implantación
+de políticas de certificación digital y firma electrónica en la Administración de la Comunidad
+Autónoma de Extremadura, siendo este mismo ámbito al que se circunscriben las actuaciones
+reguladas en el encargo realizado por la Junta de Extremadura a la FNMT-RCM, al que se ha-
+bilita el acceso a la Entidad por medio de la suscripción de este Convenio.
+Con relación a la cooperación y colaboración con las entidades locales que se articulan por
+medio de este Convenio, el artículo 9 “Colaboración y cooperación con las entidades locales”
+del citado Decreto 225/2014 recoge diversos ámbitos susceptibles de colaboración entre la
+Administración de la Comunidad Autónoma de Extremadura y las Entidades que dan cabida a
+las actuaciones del encargo cuya adhesión por parte de la Entidad correspondiente se habilita
+con la suscripción del presente, como por ejemplo, “el impulso y desarrollo del uso de los
+medios electrónicos por las entidades del sector público de Extremadura”, constituyendo, por
+tanto, la suscripción del presente Convenio el instrumento idóneo para el impulso y desarrollo
+del uso de los medios electrónicos, específicamente, servicios de certificación y firma electró-
+nica en el ámbito de la administración electrónica, en la Comunidad Autónoma de Extremadu-
+ra, de conformidad con la normativa reguladora de esta materia, ya mencionada, y en virtud
+de las competencias que ostenta esta Consejería.
+Por lo tanto, la Consejería, con la suscripción de este Convenio, articula el instrumento de
+cooperación preciso para que las entidades puedan adherirse al encargo vigente con la FNMT-
+RCM y, en consecuencia, recibir los servicios regulados en el mismo para el impulso y desa-
+rrollo del uso de los medios electrónicos, específicamente, servicios de certificación y firma
+
+NÚMERO 99
+22423
+Martes 26 de mayo de 2026
+electrónica en el ámbito de la Administración Electrónica, sin tener que asumir contrapresta-
+ción económica, puesto que el coste económico es asumido por la Junta de Extremadura en
+el Encargo vigente en concepto de pago por dichos servicios.
+Lo anterior resulta compatible y conforme con el artículo 143 de la Ley 40/2015, de 1 de oc-
+tubre, que respecto de la cooperación entre Administraciones Públicas recoge que las Admi-
+nistraciones cooperarán al servicio del interés general y podrán acordar de manera voluntaria
+la forma de ejercer sus respectivas competencias que mejor sirva a este principio, añadiendo
+que la formalización de relaciones de cooperación requerirá la aceptación expresa de las
+partes, formulada en acuerdos de órganos de cooperación o en convenios. De esta forma, el
+artículo 144 con relación a las técnicas de cooperación, recoge que las mismas serán las que
+las Administraciones interesadas consideren más adecuadas, entre otras, la prestación de
+medios materiales, económicos o personales a otras Administraciones, la cooperación inte-
+radministrativa para la aplicación coordinada de la normativa reguladora de una determinada
+materia, así como cualquier otra prevista en la Ley.
+Por su parte, el artículo 57 de la Ley 7/1985, de 2 de abril, dispone que la cooperación econó-
+mica, técnica y administrativa entre la Administración local y las Administraciones del Estado
+y de las Comunidades Autónomas, tanto en servicios locales como en asuntos de interés
+común, se desarrollará con carácter voluntario, bajo las formas y en los términos previstos
+en las leyes, pudiendo tener lugar, en todo caso, mediante los consorcios o los convenios ad-
+ministrativos que suscriban. La suscripción de convenios y constitución de consorcios deberá
+mejorar la eficiencia de la gestión pública, eliminar duplicidades administrativas y cumplir con
+la legislación de estabilidad presupuestaria y sostenibilidad financiera.
+En virtud de lo anterior, y con base en las respectivas competencias y funciones que tienen
+atribuidas, ambas partes se reconocen capacidad suficiente para la suscripción del presente
+convenio, que se regirá por las siguientes
+CLÁUSULAS
+Primera. Objeto del Convenio.
+El presente Convenio tiene por objeto la creación de un instrumento de cooperación entre las
+dos partes firmantes, a través del cual la Consejería habilitaría el acceso, por la Entidad, al
+encargo realizado por la Junta de Extremadura a la FNMT-RCM para la prestación de servicios
+técnicos y de seguridad aplicables a la certificación y firma electrónica en el ámbito de la ad-
+ministración electrónica, contribuyendo ambas partes al impulso de servicios públicos electró-
+nicos en las Entidades Locales de la Comunidad Autónoma de Extremadura y acercando este
+tipo de servicios a la Ciudadanía, con independencia de su lugar de residencia, en condiciones
+de seguridad y sin desplazamientos.
+
+NÚMERO 99
+22424
+Martes 26 de mayo de 2026
+Una vez suscrito el presente Convenio, el acceso por parte de la Entidad a los servicios regula-
+dos en el Encargo podrá efectuarse previa adhesión de la Entidad al mismo, de manera que el
+resultado producido es una relación entre la entidad adherente y el medio propio destinatario
+del Encargo (FNMT-RCM). En consecuencia, no es la Administración de la Comunidad Autóno-
+ma de Extremadura la que presta estos servicios, puesto que existe relación bilateral entre la
+correspondiente Entidad y la FNMT-RCM.
+La suscripción del Convenio con la Junta de Extremadura y posterior adhesión al Encargo
+-vigente- realizado a la FNMT-RCM habilitaría, por tanto, el acceso de la Entidad a los servicios
+de certificación y firma electrónica mencionados para sus servicios públicos, sus Ciudadanos
+y Empleados Públicos, sin coste económico para la Entidad, puesto que dicho coste lo asume
+la Junta de Extremadura, ahorrando, a su vez, toda la tramitación necesaria a las Entidades,
+constituyendo una importante simplificación administrativa.
+Las características de los servicios a los que tendrá acceso la entidad, una vez firmado el
+acuerdo de adhesión al encargo vigente, se recogen en el modelo de acuerdo de adhesión
+anexo al presente Convenio.
+Segunda. Finalidad.
+Existe un interés conjunto de la Consejería y la Entidad en la celebración del presente Con-
+venio, como instrumento ágil para atender la necesidad específica de transformación digital
+de las Administraciones Públicas, siendo ésta una exigencia impuesta por la Ley 39/2015, de
+1 de octubre, de Procedimiento Administrativo Común y la Ley 40/2015, de 1 de octubre, de
+régimen jurídico de sector público, sirviendo el mismo para regular los elementos y condicio-
+nes necesarios para habilitar la posterior adhesión de la Entidad al Encargo de la Junta de
+Extremadura a la FNMT-RCM, posibilitando así la prestación de los servicios oportunos identi-
+ficados en dicho Encargo y fomentando la implementación de un marco global de actuación y
+un esquema de funcionamiento electrónico común y habitual, tanto en las relaciones internas,
+como en las relaciones entre administraciones, y entre estas y la ciudadanía y empresas.
+Con este propósito, la administración pública extremeña debe establecer y regular los meca-
+nismos que aseguren el cumplimiento efectivo de los derechos recogidos en las leyes anterio-
+res, con la finalidad de garantizar unos servicios públicos de calidad que sirvan con objetividad
+a los intereses generales. Entre los citados mecanismos se encuentra el presente instrumento,
+el cual posibilita y fomenta la efectiva utilización e implantación de medios electrónicos y de
+servicios digitales, de tal manera que se contribuya a diseñar una Administración más accesi-
+ble, más digital, más eficaz y, en definitiva, más centrada en las necesidades de la ciudadanía.
+
+NÚMERO 99
+22425
+Martes 26 de mayo de 2026
+Tercera. Obligaciones de las partes.
+La Entidad, con la suscripción de este Convenio, se obliga a llevar a efecto la Adhesión al
+Encargo a esta fecha vigente, el cual manifiesta conocer al encontrarse publicado en la pla-
+taforma de contratación del sector público y lo acepta sin reservas en toda su extensión. La
+adhesión al Encargo se llevará a efecto conforme al modelo anexo a este Convenio, el cual
+también se encontrará disponible en el portal www.juntaex.es , donde se publicarán, en su
+caso, sus actualizaciones y modificaciones.
+La Entidad tendrá la potestad de adherirse, extinguida la vigencia del Encargo que ha moti-
+vado la suscripción del presente Convenio, a los sucesivos encargos que, en su caso, con el
+mismo o similar alcance y condiciones, se puedan realizar por la Junta de Extremadura a la
+FNMT-RCM, empleando para ello el modelo de adhesión antes indicado.
+El Acuerdo de adhesión inicial, y los que posteriormente pudieran formalizarse, entrarán en
+vigor a la fecha de su formalización, y finalizarán cuando pierda su vigencia el Encargo del
+que traen causa.
+El acuerdo, tanto el inicial, como los que posteriormente pudieran formalizarse, se suscribirán
+y notificarán por la Entidad a la FNMT-RCM. Posteriormente, este acuerdo de adhesión y la
+notificación efectuada a la FNMT-RCM serán comunicados por la Entidad a la Consejería de
+Economía, Empleo y Transformación Digital de la Junta de Extremadura.
+En lo que respecta al encargo vigente al que la Entidad se hubiera adherido y en el supuesto
+de que se produzcan modificaciones del mismo, la Consejería competente informará de di-
+chas modificaciones a través del correspondiente Anuncio en el Diario Oficial de Extremadura
+(DOE), sin perjuicio de cualesquiera otros medios de comunicación que se puedan utilizar de
+manera complementaria para salvaguardar la efectividad de la publicación.
+En caso de conformidad con dichas modificaciones del Encargo, la Entidad tiene que suscribir
+una nueva adhesión a dicho Encargo modificado y notificarla a la FNMT-RCM. Posteriormente,
+este nuevo acuerdo de adhesión al Encargo modificado y la notificación del mismo efectuada
+a la FNMT-RCM, serán comunicados por la Entidad a la Consejería de Economía, Empleo y
+Transformación Digital de la Junta de Extremadura.
+Por su parte, la Consejería, con la suscripción de este Convenio, asume su obligación de arti-
+cular el instrumento de cooperación preciso para que las entidades puedan adherirse al encar-
+go vigente con la FNMT-RCM y, en consecuencia, recibir los servicios regulados en el mismo
+sin tener que asumir contraprestación económica, puesto que el coste económico es asumido
+por la Junta de Extremadura en el Encargo vigente en concepto de pago por dichos servicios.
+
+NÚMERO 99
+22426
+Martes 26 de mayo de 2026
+La firma del presente Convenio no conlleva contraprestación económica por ninguna de las
+partes, sino que constituye el instrumento jurídico previo de cooperación con la entidad adhe-
+rente, en virtud de lo regulado en los artículos 143 y 144 de la Ley 40/2015, de 1 de octubre
+y que sirve para acreditar la competencia de la Junta de Extremadura para asumir el coste
+económico derivado de la adhesión de las distintas Entidades al Encargo vigente realizado a
+la FNMT-RCM.
+Puesto que en el ámbito de aplicación del encargo se recogen las Entidades de la Comunidad
+Autónoma susceptibles de adhesión, es el encargo realizado por la Junta de Extremadura a
+la FNMT-RCM el que está dotado presupuestariamente con los compromisos de gasto corres-
+pondientes para asumir los costes derivados de la adhesión de las Entidades. Cada una de las
+partes del presente Convenio asumirá con sus propios medios las acciones a emprender en
+cumplimiento del mismo.
+Cuarta. Protección de datos.
+Las partes del Convenio deberán cumplir lo dispuesto en el Reglamento (UE) 2016/679 del
+Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las per-
+sonas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de
+estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección
+de datos) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
+y garantía de los derechos digitales.
+En cualquier caso, ambas partes se someten al ejercicio de las competencias que correspon-
+den a la Agencia Española de Protección de Datos (AEPD) como Autoridad de Control.
+Quinta. Modificación del convenio.
+El contenido del presente Convenio podrá ser modificado de mutuo acuerdo en cualquier mo-
+mento de su vigencia, a cuyo efecto las partes suscribirán la correspondiente Adenda confor-
+me a los requisitos legalmente establecidos.
+Sexta. Vigencia y extinción.
+De conformidad con lo establecido en el artículo 49.h) 1.º de la Ley 40/2015, el presente Con-
+venio tendrá una vigencia de 4 años desde su suscripción por las partes, procediéndose a su
+publicación en el DOE, previa inscripción en el Registro General de Convenios de la Adminis-
+tración de la Comunidad Autónoma de Extremadura, pudiendo prorrogarse de mutuo acuerdo
+por un periodo máximo de 4 años, a propuesta de cualquiera de las partes con una antelación
+mínima de un mes a la fecha de su vencimiento.
+
+NÚMERO 99
+22427
+Martes 26 de mayo de 2026
+El presente Convenio mantendrá su vigencia siempre que exista Encargo vigente de la Junta
+de Extremadura a la FNMT-RCM que mantenga, en su alcance, los ámbitos objetivo y subje-
+tivo que permitan la adhesión al mismo por parte de la Entidad y salvo que exista causa de
+resolución de las previstas en la presente cláusula o cualesquiera otras causas que resulten
+de aplicación.
+Este convenio quedará resuelto en los siguientes supuestos:
+— Por la no adhesión de la Entidad al encargo vigente (actual o sucesivos) de la Junta de
+Extremadura a la FNMT-RCM o a sus posibles modificaciones.
+— Por el transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del
+mismo.
+— Por acuerdo unánime de todos los firmantes.
+— Por imposibilidad justificada de realizar el objeto del convenio.
+— Por incumplimiento de las obligaciones y compromisos asumidos en virtud de este con-
+venio por una de las partes. En este caso, cualquiera de las partes podrá notificar a la
+parte incumplidora un requerimiento para que cumpla en un plazo de quince días con
+las obligaciones o compromisos que se consideran incumplidos.
+Si transcurrido el plazo indicado en el requerimiento persistiera el incumplimiento, la
+parte que lo dirigió notificará a las demás partes firmantes la concurrencia de la causa
+de la resolución y se entenderá resuelto el convenio.
+— Por la denuncia de cualquiera de los firmantes. Esta denuncia deberá realizarse por
+escrito, expresando las causas que la motivan y notificarse a la otra parte con una an-
+telación mínima de un (1) mes, de tal forma que puedan finalizarse adecuadamente las
+actuaciones en curso en el momento de la citada notificación, y en los términos estable-
+cidos en el artículo 52.3 de la Ley 40/2015, de 1 de octubre.
+— Por decisión judicial declaratoria de la nulidad del convenio.
+— Por la no existencia de encargo vigente de la Junta de Extremadura a la FNMT-RCM o
+la modificación de los ámbitos objetivo y/o subjetivo de aplicación del mismo que no
+incluya a la Entidad.
+— Por cualquier otra causa distinta de las anteriores prevista en la normativa que resulte
+de aplicación.
+
+NÚMERO 99
+22428
+Martes 26 de mayo de 2026
+Séptima. Mecanismos de seguimiento, vigilancia y control.
+Cada una de las partes será responsable de supervisar el cumplimiento de las obligaciones
+reguladas en el presente convenio, poniendo en conocimiento de la otra parte los incumpli-
+mientos detectados.
+La Consejería puede comprobar, en cualquier momento, la relación -detallada- de presta-
+ciones efectuadas por la FNMT a la Entidad adherida. Para ello, la Consejería recibirá de la
+FNMT-RCM, periódicamente y con la frecuencia determinada en el encargo al que habilita la
+adhesión el presente Convenio, la información detallada de las prestaciones realizadas a la
+Entidad. Así mismo, la Consejería podrá recabar de la Entidad cuanta información considere
+necesaria al objeto de llevar a cabo la comprobación de la adecuada ejecución de las actua-
+ciones, por parte de la FNMT-RCM a la Entidad, conforme a lo regulado en el Encargo.
+Octava. Régimen jurídico.
+El presente convenio tiene carácter interadministrativo, y se rige por lo dispuesto en los ar-
+tículos 47 a 53 del Capítulo VI del Título Preliminar de la Ley 40/2015, de 1 de octubre, de
+Régimen Jurídico del Sector Público.
+El orden jurisdiccional contencioso-administrativo será el competente para resolver las con-
+troversias que puedan surgir entre las partes, con motivo de la aplicación del presente conve-
+nio, de acuerdo con lo previsto en la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción
+Contencioso-Administrativa.
+En prueba de conformidad, las partes indicadas firman el presente documento, en duplicado
+ejemplar, en el lugar y fecha indicados al comienzo.
+Por la Consejería de Economía, Empleo Por la entidad Excmo.
+y Transformación Digital de la Junta de Ayuntamiento de Santiago de Alcántara
+Extremadura,
+El Consejero de Economía, Empleo y
+Transformación Digital
+PA, Resolución, de 10 de agosto de 2023, del
+Consejero
+(DOE n.º 157, de 16 de agosto del 2023)
+El Secretario General
+
+NÚMERO 99
+22429
+Martes 26 de mayo de 2026
+ANEXO I
+MODELO DE ACUERDO DE ADHESIÓN
+ACUERDO DE ADHESIÓN POR PARTE DE LA ENTIDAD EXCMO. AYUNTAMIENTO DE SANTIAGO
+DE ALCÁNTARA, AL ENCARGO REALIZADO POR LA CONSEJERÍA DE ECONOMÍA, EMPLEO Y
+TRANSFORMACIÓN DIGITAL DE LA JUNTA DE EXTREMADURA A LA FÁBRICA NACIONAL DE
+MONEDA Y TIMBRE – REAL CASA DE LA MONEDA, ENTIDAD PÚBLICA EMPRESARIAL, MEDIO
+PROPIO (FNMT–RCM, E.P.E., M.P.), PARA LA “PRESTACIÓN DE SERVICIOS TÉCNICOS Y DE
+SEGURIDAD APLICABLES A LA CERTIFICACIÓN Y FIRMA ELECTRÓNICA EN EL ÁMBITO DE LA
+ADMINISTRACIÓN ELECTRÓNICA”.
+A fecha de firma electrónica.
+Don/Doña Juan Ignacio Gilete Batalla, en calidad de Alcalde-Presidente, en nombre y repre-
+sentación de la ENTIDAD Adherente EXCMO. AYUNTAMIENTO DE SANTIAGO DE ALCÁNTARA,
+en virtud de las facultadas atribuidas por Acuerdo de pleno de fecha 31 de octubre de 2025.
+EXPONE
+Primero. Que la Consejería de Economía, Empleo y Transformación Digital de la Junta de Ex-
+tremadura ha realizado a la Fábrica Nacional de Moneda y Timbre – Real Casa de la Moneda,
+Entidad Pública Empresarial, Medio Propio (FNMT-RCM, E.P.E., M.P.), con fecha de entrada en
+vigor 01 de enero de 2025, un Encargo para la prestación de servicios técnicos y de seguridad
+aplicables a la certificación y firma electrónica en el ámbito de la administración electrónica,
+con el alcance definido en la memoria del Encargo y sus documentos anexos.
+Segundo. Que en el referido Encargo se cita la voluntad de ambas partes de procurar la
+máxima extensión de la prestación de estos servicios para facilitar a los ciudadanos las rela-
+ciones administrativas a través de medios electrónicos, informáticos y telemáticos (EIT).
+Que los efectos del Encargo para la prestación de servicios técnicos y de seguridad aplicables
+a la certificación y firma electrónica, por parte de la FNMT-RCM, E.P.E., M.P. a la citada Con-
+sejería, se podrán extender a las Entidades Locales de la Comunidad Autónoma de Extrema-
+dura, Mancomunidades de Municipios, Diputaciones provinciales de Cáceres y Badajoz y otras
+Entidades del Sector Público Autonómico, como Universidad de Extremadura y la Asamblea
+de Extremadura.
+Que con el fin de articular la necesaria cooperación administrativa, según lo dispuesto en la
+Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, que facilite la incorpo-
+ración al referido Encargo de prestación de servicios de la ENTIDAD Adherente, se considera
+
+NÚMERO 99
+22430
+Martes 26 de mayo de 2026
+necesario, con carácter previo a la suscripción del presente Acuerdo de Adhesión, la formali-
+zación del correspondiente Convenio entre dicha ENTIDAD Adherente y la citada Consejería.
+Tercero. Que con fecha, [indicar fecha (última) de suscripción de convenio], se ha suscrito
+Convenio de colaboración, entre la Consejería de Economía, Empleo y Transformación Digital
+de la Junta de Extremadura y esta Entidad, para el acceso a servicios de certificación y firma
+electrónica que redunden en el impulso de la Administración Electrónica en la Comunidad
+Autónoma, de manera que el texto del Convenio recoge que el mismo se mantendrá vigente,
+en los términos regulados en su clausulado, entre tanto exista un encargo de la Junta de Ex-
+tremadura a la FNMT-RCM que abarque, en lo que respecta al ámbito objetivo y subjetivo del
+mismo, la posibilidad para esta Entidad de acceder a los servicios regulados en el Encargo. Lo
+cual dota de continuidad al Convenio siempre que el mismo se mantenga vigente y exista un
+encargo de la Junta de Extremadura a la FNMT-RCM que mantenga el ámbito de aplicación.
+Cuarto. En la Declaración de Prácticas de Certificación de la FNMT-RCM, E.P.E., M.P., se cita
+expresamente que los certificados electrónicos se emiten por la FNMT-RCM, E.P.E., M.P., por
+cuenta de la Administración Pública correspondiente, a la que la FNMT-RCM, E.P.E., M.P.,
+presta los servicios técnicos, administrativos y de seguridad necesarios como prestador de
+servicios de certificación.
+Quinto. De acuerdo con lo establecido en el artículo 32 de la Ley 9/2017, de 8 de noviembre,
+de Contratos del Sector Público, por la que se transponen al ordenamiento jurídico español
+las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de
+febrero de 2014, se podrá utilizar el instrumento jurídico de Encargo de la prestación a una
+entidad que tenga atribuida la condición de medio propio y servicio técnico del poder adjudi-
+cador correspondiente.
+La FNMT–RCM, E.P.E., M.P., conforme a lo establecido en los artículos 1.3 y 5.1 de su Es-
+tatuto, aprobado por el Real Decreto 51/2023, de 31 de enero, y en la disposición adicional
+quincuagésima sexta de la Ley 9/2017, de 8 de noviembre, es medio propio personificado de
+la Administración General del Estado, de las Comunidades y Ciudades Autónomas y de las
+entidades locales, así como de los organismos, entes y entidades del sector público estatal,
+autonómico y local, sean de naturaleza jurídica pública o privada, vinculados o dependientes
+de aquellas.
+Dada la especialización de los servicios y la necesidad de contar con un tercero de confian-
+za que preste las adecuadas medidas de seguridad, hace que la licitación no sea un medio
+idóneo al encorsetar las condiciones, siendo la aportación de un medio propio la que mejor
+garantiza el cumplimiento de los objetivos.
+
+NÚMERO 99
+22431
+Martes 26 de mayo de 2026
+A los efectos previstos en los anteriores expositivos, y con el fin de dar cumplimiento a las
+obligaciones que, en materia de administración electrónica prevé la Ley 39/2015, de 1 de oc-
+tubre, del Procedimiento Administrativo Común de las Administraciones Públicas y el Decreto
+-autonómico- 225/2014, de 14 de octubre, de régimen jurídico de administración electrónica
+de la Comunidad Autónoma de Extremadura, esta ENTIDAD Adherente,
+HA ACORDADO
+Adherirse al encargo realizado por la Consejería de Economía, Empleo y Transformación Di-
+gital de la Junta de Extremadura a la FNMT-RCM, E.P.E., M.P., para la “Prestación de servicios
+técnicos y de seguridad aplicables a la certificación y firma electrónica en el ámbito de la ad-
+ministración electrónica”, cuya entrada en vigor se ha producido el día 01 de enero de 2025, y
+que tiene una duración prevista de dos (2) años, sin perjuicio de que, antes de la finalización,
+mediante Resolución de la persona titular de la Consejería de Economía, Empleo y Transfor-
+mación Digital de la Junta de Extremadura puedan acordarse las modificaciones que, en su
+caso, se decidan.
+Todo ello, con arreglo a las siguientes,
+CONDICIONES
+Primera. Que la ENTIDAD Adherente conoce y acepta sin reservas el Encargo en toda su
+extensión. Dicho Encargo se encuentra publicado en la plataforma de contratación del sector
+público, al que se puede acceder mediante el siguiente enlace:
+— Enlace al encargo vigente.
+(https://contrataciondelestado.es/wps/poc?uri=deeplink%3Adetalle_licitacion&idEvl=Mmix4iG%2FB5XXOjazN1Dw9Q%3D%3D&ise=1)
+A partir de la entrada en vigor del presente Acuerdo y, tras haberse suscrito el correspondien-
+te Convenio entre la Consejería de Economía, Empleo y Transformación Digital de la Junta de
+Extremadura y la ENTIDAD Adherente, esta ENTIDAD se considera parte del Encargo citado
+en el párrafo anterior y, por tanto, asume los derechos y obligaciones contenidos en el mismo
+y, en consecuencia, acepta los que en el Encargo ostenta la Consejería de Economía, Empleo y
+Transformación Digital de la Junta de Extremadura, sin perjuicio del régimen de competencias
+propias de cada administración.
+Segunda. La prestación de servicios técnicos y de seguridad aplicables a la certificación y
+firma electrónica en el ámbito de la administración electrónica prestados por la FNMT reco-
+gidos en el Encargo y a continuación expuestas, se prestarán sin coste económico para la
+ENTIDAD Adherente, en los términos y con las limitaciones reguladas en el Encargo referido
+anteriormente.
+
+NÚMERO 99
+22432
+Martes 26 de mayo de 2026
+En el momento de esta adhesión al Encargo vigente realizado por la Junta de Extremadura
+(Consejería de Economía, Empleo y Transformación Digital) a la FNMT-RCM, el “Pack de Ser-
+vicios Entidades” contiene servicios de las siguientes características técnicas y económicas a
+asumir por la Consejería para cada una de las Entidades Adheridas:
+“— Pack de servicios Entidades: que incluye el pack de servicios para 430 entidades consi-
+deradas (recogido en la tabla anterior como “población < 20.000 habitantes), que con-
+sidera en su alcance, no solo las poblaciones menores de 20.000 habitantes, sino que
+atendiendo a las características específicas de la C.A. de Extremadura incluirá a todos
+los Municipios (Entidades Locales) de la Comunidad Autónoma, las Entidades Locales
+Menores, Mancomunidades de Municipios y ambas Diputaciones Provinciales (Cáceres
+y Badajoz) y otras entidades del sector público autonómico, como la Universidad de
+Extremadura y la Asamblea de Extremadura. En el pack considerado se incluyen, para
+todas y cada una de las Entidades anteriores, con independencia del número de ha-
+bitantes/usuarios, los siguientes servicios y cantidades anuales (por cada uno de los
+años en plazo de ejecución del encargo):
+• Número ilimitado de certificados de empleado público (incluidos de seudónimo) con la
+oficina correspondiente.
+• 1 certificado de sede electrónica.
+• 1 certificado de sello electrónico.
+• 1 Certificado de componente o 1 Oficina de registro (a elegir).
+(…)
+Además, para llevar el seguimiento y cómputo de consumos en la ejecución (anual) del
+Encargo se adoptan las siguientes premisas:
+• Cualquiera de las Entidades incluidas en el pack de 430 Entidades que necesite
+servicios adicionales a los regulados en el pack (por haber consumido los regulados
+en el mismo) podrá disponer, a criterio de la Junta de Extremadura, de los servicios
+disponibles en el Pack de Junta de Extremadura. Esta disposición de servicios (en
+cómputo total de todas las entidades del pack) será posible hasta llegar al 25 por
+ciento (redondeado al entero inmediatamente superior en caso de decimal) de la
+cuantía de servicios disponible por tipo para la Junta de Extremadura. Esta fórmula es
+lo que en la gestión del anterior instrumento (Convenio) se venía denominando “Bolsa
+de Entidades”.
+
+NÚMERO 99
+22433
+Martes 26 de mayo de 2026
+En atención a lo anterior, el impacto económico -potencial- para la Junta de Extremadura, de-
+rivado del uso, por parte de la Entidad, de los servicios de la FNMT-RCM a los que la Adhesión
+-de la Entidad- al Encargo realizado por la Consejería daría acceso, está limitado a cuatro-
+cientos ochenta y ocho euros (488,00€), IVA excluido, por Entidad y año. Esto siempre que
+la Entidad adherida haya hecho uso de alguno de los servicios del “Pack de servicios” durante
+el año correspondiente.
+Tercera. Las relaciones administrativas entre la ENTIDAD Adherente (una vez se incorpore al
+Encargo) y la Consejería de Economía, Empleo y Transformación Digital de la Junta de Extre-
+madura, se regirán por el Convenio formalizado entre ambas partes con anterioridad a este
+Acuerdo y de conformidad con los artículos 143 y 144 de la Ley 40/2015, de 1 de octubre.
+El establecimiento de nuevas Oficinas de Registro de las reguladas en el Encargo por la ENTI-
+DAD Adherente, se realizará de conformidad con lo dispuesto en dicho Encargo, debiendo la
+Entidad informar de la creación de las mismas y de sus datos identificativos a la Consejería de
+Economía, Empleo y Transformación Digital de la Junta de Extremadura; esta comunicación se
+realizará a través de la Unidad Administrativa responsable por parte de la Junta de Extrema-
+dura para la supervisión de la ejecución del Encargo, además de a la FNMT-RCM, a los efectos
+de la necesaria coordinación administrativa.
+La Entidad, en el caso de considerar la constitución de una Oficina de Registro de las regu-
+ladas en el Encargo de la Consejería a la FNMT-RCM, puesto que las actuaciones llevadas a
+cabo en el ámbito de la citada oficina conllevarían el acceso a datos personales por cuenta de
+la FNMT-RCM, se compromete a regularizar dicha relación con la FNMT-RCM, de conformidad
+con la normativa vigente en la materia.
+En cualquier caso, la Entidad debe cumplir lo dispuesto en el Reglamento (UE) 2016/679 del
+Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las per-
+sonas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de
+estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección
+de datos) y en la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
+y garantía de los derechos digitales. Para ello, las autoridades, funcionarios y todo el personal
+que tenga relación directa o indirecta con las tareas derivadas de este Acuerdo de Adhesión,
+observarán estricta confidencialidad sobre todos los datos personales a los cuales tengan
+acceso o de los que tengan conocimiento durante la misma. Esta obligación se mantendrá
+incluso después de finalizar el plazo de vigencia de este Acuerdo, pudiendo derivarse del in-
+cumplimiento de las obligaciones indicadas las responsabilidades que resulten procedentes.
+Así mismo, ambas partes se someten al ejercicio de las competencias que corresponden a la
+Agencia Española de Protección de Datos (AEPD) como Autoridad de Control.
+
+NÚMERO 99
+22434
+Martes 26 de mayo de 2026
+Cuarta. Quedan subsistentes y sin alteración alguna, las condiciones que integran el Encargo
+suscrito entre la Consejería de Economía, Empleo y Transformación Digital y la FNMT-RCM,
+E.P.E., M.P., del que este Acuerdo constituye parte integrante a todos los efectos.
+El presente Acuerdo de adhesión entrará en vigor a la fecha de su formalización, y finalizará
+cuando pierda su vigencia el Encargo del que trae causa.
+En el supuesto de que se produzcan modificaciones del Encargo, se informará a la ENTIDAD
+Adherente de las mismas, a través del correspondiente Anuncio en el Diario Oficial de Extre-
+madura (DOE), sin perjuicio de cualesquiera otros medios de comunicación que se puedan
+utilizar de manera complementaria para salvaguardar la efectividad de la publicación.
+En caso de conformidad con dichas modificaciones del Encargo, la Entidad tiene que suscribir
+una nueva adhesión a dicho Encargo modificado y notificarla a la FNMT-RCM. Posteriormente,
+este nuevo acuerdo de adhesión al Encargo modificado y la notificación del mismo efectuada
+a la FNMT-RCM, serán comunicados por la Entidad a la Consejería de Economía, Empleo y
+Transformación Digital de la Junta de Extremadura.
+El presente acuerdo se suscribirá y notificará a la FNMT-RCM. Posteriormente, este acuerdo
+de adhesión y la notificación efectuada a la FNMT-RCM serán comunicados a la Consejería de
+Economía, Empleo y Transformación Digital de la Junta de Extremadura.
+Quinta. Toma de razón. Se entiende por tal la recepción, por parte de la Consejería de Eco-
+nomía, Empleo y Transformación Digital de la Junta de Extremadura, del acto de adhesión y
+notificación efectuada a la FNMT-RCM, que serán comunicados por la ENTIDAD Adherente tras
+la suscripción del mismo y sin la cual no podrá asumir la Consejería el coste asociado a los
+servicios prestados a la Entidad por el Medio Propio (FNMT-RCM).
+A fecha de la firma electrónica de este documento.
+• • •
