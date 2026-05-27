@@ -1,0 +1,754 @@
+AÑO XLV Núm. 99 27 de mayo de 2026 20997
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 18/05/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que se
+formula el informe de impacto ambiental del proyecto denominado: Permiso de investigación minera número
+12.937 para recursos de la sección C) denominado La Majada (término municipal de Almuradiel, Ciudad
+Real), expediente PRO-CR-15-0474, cuya promotora es la mercantil Exploración de Recursos Minerales,
+SLU. [2026/3924]
+El artículo 6.2 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, establece los
+proyectos que deben ser sometidos a una evaluación de impacto ambiental simplificada por el órgano ambiental
+para determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos a una evaluación de impacto ambiental ordinaria. Esta decisión debe ser motivada y
+pública, y se tiene que ajustar a los criterios establecidos en el Anexo III de dicha Ley.
+En concreto, el proyecto denominado “Permiso de investigación minera Nº 12.937 para recursos de la Sección C)
+denominado La Majada (T.M. de Almuradiel, Ciudad Real)”, expediente PRO-CR-15-0474, promovido por la mercantil
+Exploración de Recursos Minerales, S.L.U., se encuentra contemplado en el Anexo II de la Ley 2/2020, dentro del
+Grupo 3 (Perforaciones, dragados y otras instalaciones mineras e industriales), apartado e) El otorgamiento de
+permisos de investigación, autorizaciones y cualquier tipo de concesión minera, incluyendo sus prórrogas (proyectos
+no incluidos en el anexo I).
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental presentado por el promotor, suscrito por equipo técnico cualificado y competente en
+febrero de 2025 (versión definitiva acomodada a los requerimientos del órgano ambiental), el objeto del proyecto es
+realizar, en el interior del ámbito del permiso de investigación Nº 12.937 La Majada, una investigación actualizada
+de la mineralización de antimonio en el entorno de las antiguas Minas de La Nazarena, así como la prospección de
+posibles anomalías geoquímicas existentes no descubiertas hasta la fecha, además de investigar otros metales de
+la sección C) de la Ley de Minas susceptibles de ser económicamente explotables. El antimonio está considerado
+por la Unión Europea como una materia prima crítica muy importante para su economía, estando además incluido
+en la lista de materias primas fundamentales, siendo actualmente un importador neto de minerales y concentrados
+de antimonio, con una dependencia de las importaciones del 100%.
+El ámbito del permiso de investigación La Majada comprende un conjunto de 20 cuadrículas mineras que ocupan
+una superficie aproximada de 597 ha. Está localizado en el centro del término municipal de Almuradiel (Ciudad
+Real), afectando a varias parcelas de los polígonos 6, 7, 31, 37, 44, 45, 46, 48 y 49 del Catastro de rústica del citado
+municipio. Los núcleos de población más cercanos a los límites del permiso de investigación son Almuradiel (a 1,9
+km al norte) y Viso del Marqués (a 5,5 km al noroeste del permiso de investigación).
+Las coordenadas de los 8 vértices que definen el límite del permiso de investigación La Majada (referidas al Huso
+30 en el sistema geodésico ETRS89) son las siguientes:
+Vértice UTM X UTM Y
+P 1 455.909,73 4.260.181,63
+P 2 459.301,31 4.260.163,68
+P 3 459.298,18 4.259.547,22
+P 4 460.751,83 4.259.540,03
+P 5 460.748,81 4.258.923,57
+P 6 457.356,72 4.258.940,82
+P 7 457.353,44 4.258.324,36
+P 8 455.899,58 4.258.332,26
+En el Anexo cartográfico de la presente resolución se refleja el ámbito del permiso de investigación La Majada y la
+distribución y enumeración de las cuadrículas mineras que lo integran.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 20998
+El acceso al interior del perímetro definido para este permiso de investigación se realiza a través de un camino de
+firme natural existente que parte desde el sur del casco urbano de Almuradiel (vía de servicio de la autovía A-4), con
+un recorrido de aproximadamente 2 km hasta el límite septentrional del permiso de investigación.
+El descubrimiento y la explotación de minerales de antimonio en el entorno de actuación se remontan al Renacimiento,
+vinculándose con el desarrollo de la imprenta y de la farmacia. Posteriormente, tras varios intentos de explotación
+durante la segunda mitad del siglo XIX, la minería desde una perspectiva industrial y racional tuvo lugar principalmente
+a mediados del siglo XX mediante la explotación del yacimiento de La Nazarena y de las concesiones mineras
+denominadas “Ana Mary” y “Loulik”, que llegaron a explotarse simultáneamente durante el bienio 1943-1944 mediante
+un sistema de galerías que seguían las principales direcciones de los filones mineralizados. La Mina Ana Mary fue
+la principal productora durante un período de más de 20 años, hasta 1963, explotando un total de 8 filones hasta
+una profundidad de 100 metros por debajo de la superficie. A partir de 1963 los trabajos extractivos nunca se han
+reanudado, quedando la mayor parte de las labores realizadas rellenas por zafras y escombros, por lo que actualmente
+no es posible la observación directa al no existir galerías que den acceso a estas minas, al haberse derrumbado. Tras
+estas evidencias y otros estudios realizados hace unas décadas, se pone de manifiesto el interés minero en el interior
+del ámbito del permiso de investigación para la prospección de mineralizaciones de antimonio.
+El programa de investigación previsto en el proyecto contempla las siguientes fases:
+Fase 1: Consiste en la adquisición, síntesis y evaluación de todos los datos disponibles del área del permiso de
+investigación (PI), en particular de las minas de La Nazarena. Se confeccionará una base de datos geológico-
+mineros y ambientales en el ámbito del PI para su digitalización y traslado a un SIG que permita desarrollar un
+modelo geológico 3D preciso de las Minas de La Nazarena y de otras zonas de interés con indicios de antimonio.
+También se elaborará la cartografía geológica-minera precisa del PI, donde los trabajos de campo estarán apoyados
+por estudios microscópicos de láminas delgadas y probetas pulidas de las muestras necesarias para caracterizar
+petrológicamente las rocas encajantes y las paragénesis y asociaciones minerales de los indicios en la zona del
+PI. Otra herramienta de exploración prevista en la primera fase del programa de investigación es la prospección
+geoquímica, muy adecuada para el caso de yacimientos de antimonio, planteando la realización de dos campañas
+de geoquímica de suelos. La primera campaña se ha planificado en el entorno de las Minas Loulik y Ana Mary,
+habiendo previsto la toma de 240 muestras en 10 perfiles en una malla de 50 x 25 m; en cada punto se tomará una
+muestra de 200 gramos de tamaño inferior a 5 mm, y todas las muestras recogidas se enviarán a laboratorio para el
+análisis de sus iones. La segunda campaña de prospección geoquímica estratégica se llevará a cabo en las áreas
+con indicios de antimonio conocidos en el PI para la localización de otras posibles zonas de interés que amplíen
+el potencial en mineralizaciones de antimonio, habiendo preseleccionado dos entornos con indicios en los que se
+prevén la toma de 144 muestras de geoquímica de suelos (similares a las de la primera campaña de prospección
+geoquímica) en una malla de 100 x 25 m y la toma de otras 390 muestras en una malla de 50 x 25 m respectivamente.
+La toma de las muestras se realiza retirando los primeros centímetros de suelo y muestreando con azada y paleta o,
+si es posible, con un auger hasta el lecho rocoso. El auger genera un pequeño hoyo de unos 5 cm de diámetro que
+es tapado inmediatamente tras la toma de la muestra sin dejar señal de la actuación, por lo que no entraña efectos
+ambientales negativos. Finalmente, dentro de esta primera fase también se ha previsto una prospección geofísica
+para mejorar aspectos estructurales de la cartografía geológica del subsuelo sondando varios centenares de metros
+de profundidad. Los métodos geofísicos también servirán para conocer la geometría y disposición de los cuerpos
+mineralizados e intuir la mineralización explotada en las minas Loulik y Ana Mary. La campaña de exploración
+geofísica se realizará simultáneamente a la de exploración geoquímica, empleando el método de Tomografías de
+Resistividad Eléctrica (ERT), así como el método de Polarización Inducida (IP) para investigar las estructuras que
+puedan albergar mineralizaciones. Las medidas con ambos métodos se realizan simultáneamente con la misma
+instrumentación, y serán ejecutadas por empresas especializadas por las particularidades de dicha instrumentación.
+Fase 2: Campaña de sondeos mecánicos. En esta Fase se ha proyectado la ejecución de una campaña de sondeos
+mecánicos con recuperación de testigo continuo en tres zonas concretas para comprobar la extensión del haz
+filoniano con mineralización de antimonio en profundidad y en dirección. Una de estas zonas son los alrededores
+de la mina Loulik, habiendo previsto la realización de 2 sondeos de unos 200-250 m de profundidad. Otra zona es
+en los alrededores de la mina Ana Mary, planeando 5 sondeos de unos 220 m de profundidad. La situación exacta
+de los sondeos en ambas zonas dependerá de los resultados de la primera campaña de geoquímica de suelos. La
+zona restante dependerá de los resultados de las campañas de geoquímica de suelos en las proximidades de otros
+indicios de antimonio del PI, planificando la realización de un total de 1.000 m de perforación. En definitiva, las tres
+zonas seleccionadas se encuentran en el interior de las cuadrículas mineras Nº 9 y Nº 10 según el plano adjunto al
+presente informe de impacto ambiental. Los sistemas de perforación previstos son los de circulación inversa (RC) y/o
+los de recuperación de testigo continuo (DDH). La perforación RC se realiza con un diámetro de 140 mm mediante
+
+AÑO XLV Núm. 99 27 de mayo de 2026 20999
+aire a presión que acciona un martillo en el fondo del agujero que va rompiendo el material y lo va evacuando con
+el propio aire por el interior de la tubería para evitar que el material de interés no se contamine con fragmentos de
+la pared del sondeo. No requiere la inyección de agua ni otros aditivos, por lo que la muestra sale seca siempre
+que el nivel piezométrico o freático del agua lo permita (en estos casos se suele crear una balsa excavando el
+terreno para contener el agua procedente de la perforación). El material triturado, cuando sale del sondeo se dirige
+a un ciclón de desaceleración que controla la emisión de polvo y facilita su embolsado. Las máquinas perforadoras
+también están provistas de un sistema de supresión de polvo con agua pulverizada. Las muestras del material
+triturado se introducen en bolsas hasta alcanzar un peso aproximado de 30kg, que luego se cuartean in situ hasta
+reducir el tamaño de la muestra a unos 5 kg de peso. El material sobrante del cuarteo se aporta en la balsa de
+contención de agua. La perforación DDH (recuperación de testigo continuo) se realiza con un diámetro de 96 mm
+para obtener testigos de 63,5 mm de diámetros (si se requiere entubación, el diámetro de perforación es de 76 mm
+y el de los testigos 47,6 mm). El método de trabajo es a rotación en vía húmeda empleando agua con aditivos no
+contaminantes que se inyecta con una bomba instalada en la máquina de perforación, refrigerando la corona de
+incisión frente a la fricción con la roca y facilitando el corte del material. El lodo procedente de la perforación es
+canalizado hasta una balsa de decantación construida para tal fin junto al sondeo, de la cual se extrae el fluido limpio
+para recircularlo a la perforación con la bomba de inyección, por lo que se trabaja en circuito cerrado. Tras el sondeo,
+el lodo extraído se deja decantar y secar en la balsa, procediendo a restaurarla con el propio material extraído en
+su excavación. El agua necesaria para la perforación será servida con un tractor-cuba, que captará el agua en un
+punto autorizado por la Confederación Hidrográfica del Guadalquivir; en su defecto, se adquirirá a un proveedor
+de agua autorizado. Una vez terminada la perforación, se procederá a la entubación del sondeo con tubería de
+PVC, tapando el emboquille convenientemente y aportando tierra vegetal, tras lo cual se retirará la maquinaria
+y herramientas auxiliares, dejando restaurado el emplazamiento (plataforma del sondeo y balsa de decantación)
+mediante la restitución de la morfología original y el extendido de la tierra vegetal retirada. La información recopilada
+en esta Fase 2 se irá incorporando a la base de datos, para generar una primera aproximación al modelo de bloques
+del cuerpo mineralizado, estableciendo los recursos clasificados en medidos, indicados e inferidos, con el apoyo
+de un análisis geoestadístico. En la selección del emplazamiento de las máquinas perforadoras (basado en los
+resultados de la investigación realizada en la fase anterior) se procurará minimizar el impacto a la vegetación natural
+del entorno, a la red hidrográfica, al paisaje y a las infraestructuras próximas (viviendas, caminos, ferrocarril, etc.).
+Se estima que la campaña de sondeos tendrá una duración de 4 meses. Si los resultados de esta campaña son
+positivos, se realizarán más sondeos a lo largo de esta fase de investigación.
+Fase 3: Campaña detallada de sondeos y metalurgia preliminar. Esta campaña se ha previsto si los resultados de la
+campaña previa de sondeos ponen de manifiesto la existencia de mineralizaciones de antimonio en otras áreas del
+PI, o la continuidad de la mineralización en la mina de La Nazarena, donde será necesario comprobar su extensión
+mediante el diseño de una campaña más detallada de sondeos. El método de trabajo será el mismo que el descrito
+en la Fase 2, incluso se contempla la posibilidad de que se realice más de un sondeo en el mismo emplazamiento
+cambiando la inclinación y/o la dirección del mástil de la máquina perforadora. Esta nueva campaña de sondeos se
+realizará en una malla adecuada para la posterior valoración de las zonas investigadas en las proximidades de las
+Minas Loulik y Ana Mary, así como en otras áreas con anomalías de antimonio dentro del PI. Se prevé la realización
+de unos 3.000 m de perforación durante 5 meses con los mismos medios humanos y materiales que en la fase
+anterior. Como complemento a la campaña de sondeos de evaluación realizados en la Fase 3, se llevarán a cabo
+algunos ensayos metalúrgicos para estudiar el comportamiento del mineral en los procesos de concentración. Para
+estos ensayos iniciales se pretenden analizar 10 muestras representativas del mineral de antimonio que caracteriza
+el yacimiento de La Nazarena. Este trabajo se realizará en laboratorios homologados. El tiempo estimado para
+llevarlos a cabo será de 2 meses hacia el final de la campaña de sondeos. La información obtenida en esta Fase 3
+será incorporada a la BDD del SIG siguiendo los procedimientos establecidos.
+Las labores asociadas al permiso de investigación tendrán una duración de tres años, siendo el plazo de vigencia
+que establece la legislación en materia de Minas para los permisos de investigación. Durante el primer año de
+vigencia se realizarán los trabajos asociados a la Fase 1, mientas que los de la Fase 2 y la Fase 3 se ejecutarán a
+lo largo del segundo y tercer año de vigencia respectivamente.
+La ejecución de las labores asociadas al permiso de investigación, en lo que se refiere a la acción directa sobre el
+terreno en el caso de los sondeos, no precisará instalaciones fijas. El promotor tampoco ha previsto la colocación de
+casetas prefabricadas temporales para vestuarios, aseos y comedor del personal asociado a las labores del permiso
+de investigación. Tampoco se requieren suministros de energía específicos para este proyecto, salvo el combustible
+de la maquinaria y los vehículos a utilizar.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21000
+En las zonas de trabajo de los sondeos se colocarán señales de advertencia de peligro y de prohibición de acceso
+al entorno para las personas ajenas a las labores del permiso de investigación.
+El documento ambiental presentado por el promotor incluye un plan de restauración de los terrenos afectados por
+las labores asociadas al permiso de investigación, fundamentalmente por los sondeos. También se valoran varias
+alternativas, incluyendo la alternativa cero o de no actuación, que la descarta el promotor al renunciar al conocimiento
+de la existencia real de un recurso minero estratégico de interés principal en la Unión Europea y a su explotación
+potencial, por lo que no tendría sentido el otorgamiento del permiso de investigación. Otra de las alternativas
+contempladas está relacionada con los métodos extractivos para la toma de muestras, optando por la geoquímica de
+suelos y los sondeos con recuperación de testigo frente a otras técnicas más invasivas como la apertura de calicatas
+y la excavación de pozos. Finalmente, se valora una alternativa relacionada con el emplazamiento de los sondeos,
+habiendo descartado la zona del permiso de investigación que se solapa con el ámbito geográfico de la ZEC/ZEPA
+“Sierra Morena”, el cual está interferido parcial o totalmente por las cuadrículas mineras Nº 6, 7, 13, 14, 15, 16 y 17
+del permiso de investigación La Majada.
+En el documento ambiental se identifican y valoran los posibles impactos ambientales derivados de las distintas
+actuaciones, proponiendo una serie de medidas preventivas y correctoras para minimizar tales impactos, las cuales
+se consideran adecuadas y vinculantes con el contenido de la presente resolución. La efectividad de las medidas
+preventivas y correctoras propuestas por el promotor en el documento ambiental será contrastada durante la
+aplicación del programa de seguimiento y vigilancia ambiental del proyecto, cuyas directrices también se recogen
+en el citado documento ambiental.
+Segundo. Tramitación y consultas.
+Con fecha de 14 de julio de 2015, el Servicio de Minas de los entonces Servicios Periféricos de la Consejería de
+Fomento en Ciudad Real, actuando como órgano sustantivo, remitió al entonces Servicio de Calidad e Impacto
+Ambiental de los Servicios Periféricos de la Consejería de Agricultura en Ciudad Real (órgano ambiental) la solicitud
+de inicio del procedimiento de evaluación de impacto ambiental simplificada del proyecto. Junto a la solicitud de inicio,
+el órgano sustantivo remitió el documento ambiental del proyecto, el justificante de abono de la tasa correspondiente
+a la tramitación de dicho procedimiento, así como el proyecto y el plan de restauración del permiso de investigación Nº
+12.937 La Majada. Inicialmente, el promotor del permiso de investigación fue la mercantil Consultores de Proyectos
+Mineros, S.L., pero tras un acuerdo de compraventa suscrito en 2025, el nuevo promotor es la mercantil Exploración
+de Recursos Minerales, S.L.U.
+Tras incoar expediente con la referencia PRO-CR-15-0474, con fecha de 24 de julio de 2015 el órgano ambiental
+notificó al promotor que la documentación presentada con la solicitud de inicio era completa, y que sobre la base
+de dicha documentación, y de acuerdo con la Ley 21/2013, de 9 de diciembre, de evaluación ambiental y de la Ley
+4/2007, de 8 de marzo, de Evaluación Ambiental en Castilla-La Mancha (actualmente derogada en su totalidad por
+la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha), en la fecha indicada se formularon
+consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que
+informaran en el ámbito de sus competencias para determinar la necesidad de someter el proyecto a un procedimiento
+de evaluación ambiental ordinaria. Estos organismos e instituciones consultados fueron los siguientes (se precede
+con un asterisco los que emitieron contestación a las consultas formuladas):
+- (*) Servicio de Montes y Espacios Naturales de los Servicios Periféricos de la Consejería de Agricultura en Ciudad
+Real.
+- (*) Confederación Hidrográfica del Guadiana.
+- Sección de Arqueología de los Servicios Periféricos de la Consejería de Educación, Cultura y Deportes en Ciudad
+Real.
+- Ayuntamiento de Almuradiel (Ciudad Real).
+- Instituto Geológico y Minero de España.
+- Servicio de Prevención e Impacto Ambiental de la Dirección General de Calidad e Impacto Ambiental de la
+Consejería de Agricultura.
+- Unidad de Coordinación de los Agentes Medioambientales de los Servicios Periféricos de la Consejería de
+Agricultura en Ciudad Real.
+- Ecologistas en Acción de Ciudad Real.
+- WWF/Adena – Fondo Mundial para la Naturaleza.
+- Sociedad Española de Ornitología (SEO/Birdlife).
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21001
+Trascurrido el tiempo sin haber recibido determinados informes considerados relevantes en el procedimiento
+de evaluación de impacto ambiental simplificada (Sección de Arqueología de Ciudad Real, Instituto Geológico y
+Minero de España, Ayuntamiento de Almuradiel), el 7 de febrero de 2024 el órgano sustantivo (Servicio de Minas
+de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real) comunicó al órgano ambiental (Servicio de
+Calidad Ambiental de la citada Delegación Provincial) que el promotor seguía interesado en que se continuara con
+la tramitación de la autorización del permiso de investigación. De esta forma, el 24 de febrero de 2024 el órgano
+ambiental notificó al promotor que, dado el lapso de tiempo trascurrido, para continuar con el procedimiento de
+evaluación de impacto ambiental simplificada debería presentar un nuevo documento ambiental acomodado a la
+situación actual desde el punto de vista ambiental y normativo puesto que, entre otros aspectos, ya no estaba
+en vigor la derogada Ley 4/2007, de 8 de marzo, de Evaluación Ambiental en Castilla-La Mancha, y el Plan de
+Gestión de la ZEC/ZEPA Sierra Morena entró en vigor con posterioridad a la fecha de elaboración del documento
+ambiental presentado en el año 2015. El órgano ambiental también indicó que el documento ambiental debería
+tener el contenido mínimo que establece el artículo 52.2 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha, y que una vez presentado ante el órgano sustantivo, este lo remitiría al órgano ambiental
+para que procediera a solicitar nuevamente informes a las Administraciones públicas afectadas y a las personas
+interesadas con la nueva versión del documento ambiental. En base a esta circunstancia, el 24 de junio de 2025 el
+órgano sustantivo remitió al órgano ambiental la nueva versión del documento ambiental presentada por el promotor,
+junto con el proyecto de investigación y el plan de restauración del permiso de investigación minera Nº 12.937
+denominado La Majada.
+Tras la revisión de la nueva versión del documento ambiental, el 20 de noviembre de 2025 el órgano ambiental
+notificó al promotor que, de acuerdo con el artículo 53 de la Ley 2/2020, en la fecha indicada se formularon consultas
+previas a las Administraciones públicas afectadas y a las personas interesadas para que informaran en el ámbito
+de sus competencias. Estos organismos e instituciones consultados han sido los siguientes, precediendo con un
+asterisco los que han emitido contestación a las consultas:
+- (*) Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real.
+- (*) Servicio de Incendios Forestales y Ayudas de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real.
+- (*) Confederación Hidrográfica del Guadalquivir.
+- (*) Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Ciudad Real.
+- Instituto Geológico y Minero de España (IGME).
+- (*) Ayuntamiento de Almuradiel (Ciudad Real).
+- (*) Unidad de Coordinación de los Agentes Medioambientales de Ciudad Real.
+- (*) Unidad de Carreteras del Estado en Ciudad Real.
+- Administrador de Infraestructuras Ferroviarias (ADIF).
+- Sociedad Española de Ornitología (SEO/Birdlife).
+- Ecologistas en Acción de Ciudad Real.
+- Sociedad de Historia Natural de Ciudad Real.
+Las sugerencias y los aspectos más importantes que figuran en las contestaciones a las consultas recibidas por el
+órgano ambiental se incluyen en el apartado Cuarto de la presente Resolución.
+Tercero. Análisis según los criterios del Anexo III de la Ley 2/2020.
+Una vez analizada la documentación obrante a este expediente, y considerando las respuestas recibidas a las
+consultas formuladas, se realiza el siguiente análisis según los criterios del Anexo III de la Ley 2/2020, de 7 de
+febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos significativos
+sobre el medio ambiente y, en su caso, si debe someterse a una evaluación de impacto ambiental ordinaria en los
+términos previstos en dicha Ley.
+3.1. Características del proyecto.
+Las características del proyecto se han reseñado en el apartado Primero de la presente Resolución. Se trata de un
+permiso de investigación minera para la obtención de recursos de la Sección C) de la Ley de Minas, en particular
+para investigar la existencia de mineralizaciones comerciales de antimonio. El ámbito solicitado para el permiso de
+investigación abarca un conjunto de 20 cuadrículas mineras (597 ha aproximadamente) pertenecientes al término
+municipal de Almuradiel (Ciudad Real). Conviene señalar que dicha superficie delimita, a los efectos de la legislación
+vigente en materia de Minas, el ámbito de actuación para acometer las labores previstas en el proyecto de investigación
+presentado por el promotor ante la autoridad minera, labores que consisten en una serie de actuaciones puntuales
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21002
+sobre el terreno como las campañas de ensayos geoquímicos y geofísicos, y las campañas de sondeos mecánicos,
+estos últimos algo más consuntivos y significativos desde el punto de vista ambiental. Estos sondeos mecánicos
+se realizarán en determinadas zonas del interior del PI entre el segundo y el tercer año de vigencia del derecho
+minero. Su emplazamiento definitivo dependerá de los resultados de la campaña previa de ensayos geoquímicos
+y geofísicos, aunque se distribuirán en los entornos de las minas Loulik, Ana Mary y La Nazarena. En total, se ha
+previsto sondear una profundidad acumulada de aproximadamente 5.600 m distribuida en unos 25–30 sondeos,
+los cuales se realizarán con recuperación de testigo continuo en vía seca (método de circulación inversa) o por el
+método de rotación en vía húmeda inyectando agua y aditivos no peligrosos con una máquina perforadora con un
+diámetro de perforación de 80 mm, habiendo previsto unas profundidades de perforación por sondeo comprendidas
+entre 200 y 250 metros; todos los sondeos serán tapados y sellados inmediatamente tras su ejecución, restituyendo
+la zona afectada a su estado original. Se trata de actuaciones puntuales y de duración efímera, cuyos efectos serán
+fácilmente recuperables y reversibles adoptando las medidas preventivas y correctoras adecuadas.
+3.2. Ubicación del proyecto.
+El permiso de investigación minera Nº 12.937 La Majada abarca una superficie de aproximadamente 597 ha incluidas
+íntegramente en la zona central del término municipal de Almuradiel, en la provincia de Ciudad Real. Dentro de este
+ámbito no existen núcleos de población. La autovía A-4 y la plataforma del ferrocarril convencional Madrid-Ciudad
+Real-Jaén cruzan el ámbito del PI de norte a sur por su zona occidental.
+El uso de suelo preponderante es el forestal, que ocupa el 66% de la superficie del PI (unas 394 ha), quedando el
+resto de la superficie destinada al uso agrícola (cultivos de herbáceas en secano con arbolado disperso de quercíneas
+y olivar), y en menor medida al improductivo (las citadas infraestructuras de transporte y las zonas afectadas por la
+actividad minera en el pasado). Dentro del terreno forestal, la formación más representativa son los encinares de
+Quercus rotundifolia, que ocupa unas 377 ha distribuidas en la zona central y oriental del PI, de las cuales 246 ha
+conforman bosques arbolados (cobertura del terreno superior al 20%), y 131 ha constituyen formaciones arboladas
+dispersas y ralas con esta especie. La superficie forestal desarbolada, ocupada por matorrales mediterráneos de
+jara pringosa, retama y cantueso principalmente, ocupa 17 ha. La vegetación potencial característica en el ámbito
+del permiso de investigación se corresponde con los encinares de la Serie mesomediterránea luso-extremadurense
+silicícola de Quercus rotundifolia (Pyro bourgaeanae-Querceto rotundifoliae S.).
+El perímetro del PI interfiere con el ámbito geográfico de la Red de Áreas Protegidas de Castilla-La Mancha. En
+concreto, el tercio oriental del PI forma parte de la ZEC/ZEPA “Sierra Morena”, lugar integrante de la Red Ecológica
+Europea Natura 2000, estando afectado total o parcialmente por las cuadrículas mineras Nº 6, 7, 13, 14, 15, 16 y
+17 según la numeración del anejo cartográfico de la presente resolución. Estas cuadrículas también interfieren con
+áreas críticas para la supervivencia del Lince ibérico, Águila imperial ibérica y Águila perdicera según consta en los
+respectivos planes de recuperación aprobados para estas especies declaradas en peligro de extinción en el Catálogo
+de Especies Amenazadas de Castilla-La Mancha. Según el documento ambiental presentado por el promotor, en
+estas zonas solo se ha previsto realizar la toma de muestras superficiales (ensayos geoquímicos), excluyendo la
+ejecución de sondeos mecánicos. El resto del ámbito del PI no afectado por las mencionadas cuadrículas mineras
+forma parte de zonas de dispersión de individuos inmaduros de Águila imperial ibérica y Águila perdicera según los
+citados planes de recuperación.
+En el terreno forestal del interior del PI existen algunas zonas con manifestaciones de hábitats naturales de interés
+comunitario asociadas a los bosques, matorrales y herbazales y pastizales mediterráneos, destacando los encinares
+acidófilos luso-extremadurenses con peral silvestre, los bosques en galería de Salix alba y Populus alba, los tamujares
+extremeños con Flueggea tinctoria asociados a cursos fluviales del entorno, los jarales luso-extremadurenses y los
+majadales silicícolas mesomediterráneos, siendo este último un hábitat prioritario. La existencia de los hábitats
+naturales protegidos reseñados supone una circunstancia limitante para la ejecución de labores como los sondeos,
+que estarían prohibidos en estas zonas.
+Las formaciones forestales y agroforestales intercaladas con los cursos fluviales existentes en el interior del PI La
+Majada constituyen un biotopo muy adecuado para algunas especies de fauna amenazada de gran interés para la
+conservación, con presencia potencial del Águila imperial ibérica, el Buitre negro y el Lince Ibérico, las cuales son
+muy sensibles a las molestias derivadas por la presencia humana, el tránsito de maquinaria y las alteraciones del
+hábitat. Para prevenir estas perturbaciones potenciales, el promotor deberá adoptar una serie de medidas cautelares
+durante el desarrollo de las labores asociadas al proyecto de investigación. Otras especies con potencial en el
+entorno de actuación son el Águila perdicera (Aquila fasciata), el Azor común (Accipiter gentilis), el Gavilán común
+(Accipiter nisus), el Águila calzada (Hieraaetus pennatus), el Águila real (Aquila chrysaetos), el Cernícalo vulgar
+(Falco tinnunculus) y el Águila culebrera (Circaetus gallicus), estando la mayor parte de estas especies recogidas en
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21003
+el Anexo I de la Directiva 2009/147/CE, del Parlamento Europeo y del Consejo, relativa a la conservación de las aves
+silvestres. Otro aspecto que poner de manifiesto el interés ornitológico en este entorno es que el tercio oriental del PI
+forma parte del Área Importante para las Aves (IBA) Nº 209 denominada “Aldeaquemada – Dañador”. En definitiva,
+la presencia de estas especies de avifauna amenazada podría suponer un factor muy limitante de cara al desarrollo
+de futuras explotaciones mineras derivadas del permiso de investigación en esta zona.
+Se ha constatado la existencia del Lugar de Interés Geológico (LIG) denominado “Mineralizaciones de antimonio de
+La Nazarena”, con el código CI224, cuyo ámbito afecta parcialmente a las cuadrículas mineras Nº 8, 9, 10, 19 y 20
+según la enumeración que figura en el anejo cartográfico de la presente resolución. En la descripción (de carácter
+público) de este LIG, cuya administración y gestión corresponde al Instituto Geológico y Minero de España (IGME),
+se le confiere un interés principal minero-metalogenético y un interés secundario mineralógico, otorgándole un valor
+medio desde los puntos de vista científico, de la prioridad para su protección y del riesgo de degradación antrópica
+del LIG, mientras que los valores didácticos y turísticos son bajos. Dada esta circunstancia, el órgano ambiental
+solicitó informe al IGME en el trámite de consultas a las administraciones públicas afectadas, sin haber obtenido
+respuesta a fecha de la presente resolución. No obstante, la afección a este LIG deberá ser tenida en cuenta en la
+correspondiente evaluación de impacto ambiental ordinaria de una futura explotación minera, en el caso de que se
+solicitase el pase a una concesión derivada de explotación del permiso de investigación La Majada.
+El perímetro del PI es franqueado por una red natural de cauces estacionales que pertenecen al dominio público
+hidráulico del Estado (DPH) entre los que destacan el Arroyo de la Vega del Álamo, el Arroyo del Tamujar, el Arroyo
+de las Cañas, el Arroyo de los Pilones y el Arroyo de la Cueva, siendo tributarios indirectos de otros cauces de
+mayor entidad pertenecientes a la demarcación hidrográfica del río Guadalquivir. Si las labores más consuntivas
+del permiso de investigación (sondeos mecánicos) afectaran a los márgenes de protección del DPH, el promotor
+deberá solicitar la preceptiva autorización de ocupación en zona de policía ante la Confederación Hidrográfica del
+Guadalquivir, una vez que el permiso de investigación haya sido autorizado por el órgano sustantivo.
+El interior del perímetro del permiso de investigación La Majada no afectada a vías pecuarias.
+Las cuadrículas mineras Nº 15, 16 y 17 del permiso de investigación La Majada, junto a una pequeña porción
+del este de la cuadrícula Nº 14, afectan al monte de Utilidad Pública Nº 17 del CUP de Ciudad Real denominado
+“Navarredonda”, perteneciente al Ayuntamiento de Almuradiel. Dada esta circunstancia, una vez autorizado el
+proyecto por la autoridad minera, con carácter previo a la ejecución de los sondeos y otras labores asociadas al
+permiso de investigación el promotor deberá contar con la autorización de la entidad titular del monte, y con la
+autorización de ocupación temporal por parte del órgano forestal de la Comunidad Autónoma, y en su caso dar
+estricto cumplimiento al condicionado que figure en dichas autorizaciones.
+El permiso de investigación minera Nº 12.937 La Majada afecta al Patrimonio Cultural de Castilla-La Mancha; en
+concreto, una parte de las cuadrículas mineras Nº 11 y 12 afectan al Ámbito de Protección Arqueológica denominado
+“Posible Túmulo de Las Pañeras”, inventariado con el código 13016A2, por lo que con carácter previo al inicio de
+las labores previstas en el proyecto de investigación, una vez que el PI haya sido autorizado administrativamente,
+el promotor deberá solicitar la preceptiva autorización de intervención arqueológica ante la Delegación Provincial
+de Educación, Cultura y Deportes de Ciudad Real en cumplimiento de la Ley 4/2013, de 16 de mayo, de Patrimonio
+Cultural de Castilla-La Mancha.
+Sobre la base de lo expuesto, la capacidad de carga del medio afectado por las labores previstas en el permiso
+de investigación, en particular por los sondeos mecánicos al ser las más significativas desde el punto de vista
+ambiental, es media-alta siempre que dichas labores tengan las características descritas en el documento ambiental
+y en el proyecto de investigación, y las mismas no afecten a los recursos naturales protegidos ni al patrimonio
+cultural reseñados en los epígrafes precedentes. Esta aserción es únicamente válida para la ejecución de las labores
+asociadas al permiso de investigación según el proyecto de investigación, pero en ningún caso es extrapolable al
+desarrollo de una futura explotación minera de los recursos investigados en el interior del ámbito del PI.
+3.3. Características del potencial impacto.
+Las únicas labores contempladas en el proyecto de investigación que pueden producir impactos ambientales
+negativos son los sondeos mecánicos profundos con recuperación de testigo, puesto que entrañan una afección
+directa al terreno. La ejecución de estas labores supone una acción puntual de escasa extensión, con una duración
+efímera, siendo reversibles y recuperables a corto plazo siempre y cuando se adopten las medidas preventivas,
+cautelares y correctoras (restauración de los terrenos afectados) más adecuadas, así como las condiciones que
+figuran en la presente resolución.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21004
+En base a lo expuesto, las labores asociadas al permiso de investigación La Majada no acarrearán impactos
+ambientales negativos significativos, siempre que no afecten a los recursos y valores naturales protegidos existentes
+en el entorno de actuación.
+Se advierte que el hecho de que el permiso de investigación objeto del presente informe de impacto ambiental
+resulte viable a los efectos ambientales, no presupone ni garantiza que la futura concesión derivada de explotación
+sea compatible a estos efectos, siendo una cuestión que deberá concretarse en la correspondiente evaluación de
+impacto ambiental ordinaria del proyecto o proyectos de explotación minera que, en su caso, pretendan desarrollarse
+en este entorno.
+Cuarto. Medidas preventivas y correctoras para la integración ambiental del proyecto.
+4.1. Protección de la Red de Áreas Protegidas.
+El entorno ocupado por el permiso de investigación La Majada no afecta a espacios naturales protegidos. Sin embargo,
+su tercio oriental interfiere con el ámbito geográfico de la ZEC/ZEPA ES0000090 denominada Sierra Morena, siendo
+un lugar integrante de la Red Ecológica Europea Natura 2000 en Castilla-La Mancha, y por lo tanto una zona sensible
+a los efectos de la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza de Castilla-La Mancha, integrado
+en la Red de Áreas Protegidas de esta Comunidad Autónoma. En concreto, las cuadrículas mineras Nº 6, 7, 13, 14,
+15, 16 y 17 son las que afectan total o parcialmente a la citada ZEC/ZEPA. Según el Plan de Gestión aprobado para
+este lugar Natura 2000 en la Orden de 27/12/2016, de la Consejería de Agricultura, Medio Ambiente y Desarrollo
+Rural, el permiso de investigación afecta fundamentalmente a zona de uso compatible (Zona B) y, en menor medida,
+a zona de uso especial (Zona C); en este particular, si las actuaciones contempladas en el permiso de investigación
+llegaran a modificar o alterar negativa y significativamente los hábitats y las poblaciones de especies protegidas por
+las Directivas Comunitarias y por la legislación autonómica, se considerarían actuaciones no compatibles y por lo
+tanto prohibidas con carácter general en todo el territorio de la ZEC/ZEPA.
+Las citadas cuadrículas mineras también interfieren con otras zonas sensibles, como las áreas críticas para la
+supervivencia del Lince ibérico, Águila imperial ibérica y Águila perdicera según se refleja en los respectivos planes
+de recuperación aprobados para estas especies declaradas en peligro de extinción en Castilla-La Mancha, sirviendo
+las mismas limitaciones que en el caso de la ZEC/ZEPA.
+Una medida preventiva que se considera adecuada, es que el promotor no ha previsto realizar las campañas de
+sondeos mecánicos dentro de las citadas zonas sensibles, teniendo en cuenta que estos sondeos son las únicas
+actuaciones que potencialmente podrían producir impactos negativos significativos en las zonas afectadas.
+4.2. Protección de la flora y fauna silvestres.
+Con carácter previo al inicio de las labores asociadas al permiso de investigación, si el mismo es autorizado por
+el órgano sustantivo, se deberá jalonar la zona estricta de las diferentes actuaciones previstas para minimizar la
+afección a la vegetación natural existente en el entorno, incluyendo los pasillos de trabajo de la maquinaria hacia
+estas zonas, siendo preferible ejecutar los sondeos mecánicos en terrenos agrícolas o en terrenos desprovistos de
+vegetación natural leñosa.
+Las operaciones que impliquen el descuaje de cubiertas vegetales de matorral o arbolado requieren autorización previa
+del Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, según determina
+el artículo 49 de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha. La
+presente resolución y su mera publicación en el DOCM no exime al promotor para solicitar y obtener la referida
+autorización. Si se pretenden eliminar los restos vegetales procedentes del desbroce, esta operación se efectuará a la
+mayor brevedad posible y exclusivamente con medios mecánicos (en ningún caso mediante el empleo del fuego) para
+evitar la aparición de plagas y enfermedades forestales, y para reducir el riesgo de incendios forestales.
+El promotor deberá especificar, en los correspondientes planes anuales de labores que ha de presentar ante la
+autoridad minera, la localización exacta de los sondeos mecánicos previstos para que el órgano ambiental, previo
+informe del Servicio de Medio Natural de Ciudad Real, valore convenientemente la viabilidad de estas actuaciones. Si
+existiera afección a comunidades vegetales naturales protegidas, las labores deberán replantearse para dejar a salvo
+estas manifestaciones de vegetación. Dada esta circunstancia, el órgano sustantivo no podrá autorizar el plan anual de
+labores sin el informe favorable del órgano ambiental. Para la ejecución de estos sondeos se respetarán los caminos y
+linderos existentes, arroyos y cualquier elemento significativo que pueda haber en la zona de trabajo.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21005
+Como medida preventiva adicional, durante la ejecución de los sondeos mecánicos deberá respetarse una distancia
+mínima de 4 m a los ejemplares arbóreos de encina que radiquen en las zonas de actuación, distancia que se medirá
+desde el borde exterior de la proyección de sus copas, para evitar afecciones negativas a los sistemas radicales de tales
+ejemplares. En esta restricción se excluyen los árboles propios de los cultivos agrícolas (olivos, almendros, etc.), salvo
+que los olivos tengan unos valores singulares (edades, porte, dimensiones, etc.) merecedores de salvaguardarlos.
+Para evitar la apertura de nuevos accesos a las zonas de trabajo se deberán aprovechar, en la mejor medida
+posible, los caminos y sendas existentes en el entorno. En su caso, los terrenos afectados por la apertura de nuevos
+accesos deberán restaurarse convenientemente y restituirse a las condiciones que presentaban genuinamente.
+Las zonas de acopio de materiales y demás instalaciones auxiliares se localizarán en lugares desprovistos de
+vegetación natural y fuera del dominio público hidráulico y viario, procurando que ocupen la menor superficie posible.
+Si los trabajos previstos con la maquinaria perforadora afectan a terreno forestal o a terrenos agrícolas que situados a
+una distancia igual o inferior a 400 m de terreno forestal, y estos trabajos tienen lugar durante la época definida como
+de peligro alto o extremo de incendios forestales en Castilla-La Mancha, el promotor deberá solicitar autorización ante
+el Servicio de Incendios Forestales y Ayudas de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real
+en aplicación de la normativa vigente en materia de incendios forestales. También deberá dar estricto cumplimiento
+a las prescripciones que figuran en el informe emitido por dicho Servicio Provincial en su contestación a la consulta
+formulada por el órgano ambiental.
+Todas las zonas con presencia de vegetación natural (no protegida) que, en su caso, resulten afectadas por las
+labores del proyecto de investigación serán convenientemente restauradas en los términos que se indican en el
+documento ambiental presentado por el promotor. Las plantas que, en su caso, se utilicen para la revegetación de
+los terrenos afectados procederán de vivero o establecimiento de producción de planta forestal autorizado en la
+Comunidad Autónoma de Castilla-La Mancha, y tendrán una edad máxima de dos savias.
+Teniendo en cuenta que la mayor parte del entorno de actuación forma parte del hábitat de especies de avifauna
+amenazada, la época de ejecución de las labores asociadas al permiso de investigación debería quedar fuera del
+periodo comprendido entre el 15 de enero y el 1 de julio, ambos incluidos, con el objeto de no inferir negativamente
+en el ciclo reproductor general de la fauna silvestre.
+Por todo lo expuesto, el promotor del proyecto deberá comunicar al coordinador comarcal de los agentes
+medioambientales, con una antelación mínima de 10 días, la fecha de inicio y la localización de las diversas labores
+previstas durante el desarrollo del permiso de investigación, por si fuera necesario el jalonamiento del terreno para
+evitar afecciones a la vegetación natural de interés, o para evitar afecciones negativas significativas a las especies
+de fauna amenazada que pudieran estar presentes en las zonas de actuación.
+4.3. Lugares de interés geológico.
+Una vez otorgado administrativamente el permiso de investigación Nº 12.937 La Majada el órgano sustantivo, en el
+trámite de autorización de los correspondientes planes anuales de labores, deberá solicitar informe previo al Instituto
+Geológico y Minero de España (IGME) siempre que los sondeos mecánicos se encuentren dentro de la delimitación
+del ámbito del Lugar de Interés Geológico (LIG) denominado Mineralizaciones de antimonio de La Nazarena (código
+CI224). Las consideraciones que, en su caso, se realicen en el informe del IGME deberán ser tenidas en cuenta por
+el beneficiario del permiso de investigación.
+4.4. Protección del sistema hidrológico e hidrogeológico.
+En el interior del permiso de investigación La Majada existe una red de cauces naturales temporales que constituyen
+el dominio público hidráulico del Estado (DPH). Cualquier actuación que se realice en el DPH requiere autorización
+administrativa previa del Organismo de cuenca (en este particular de la Confederación Hidrográfica del Guadalquivir),
+que se realizará siguiendo el procedimiento normal regulado en el Reglamento del DPH, aprobado por el Real
+Decreto 849/1986, de 11 de abril, con las salvedades y precisiones que en aquel se indican. Por otra parte, los
+márgenes que lindan con los cauces están sujetos en toda su extensión longitudinal a una zona de servidumbre de
+5 metros de anchura y a una zona de policía de 100 metros de anchura en la que se condiciona el uso del suelo
+y las actividades que se desarrollen. Según el artículo 9 del Reglamento del DPH, cualquier obra o trabajo en la
+zona de policía de cauces (que también incluye la zona de servidumbre para uso público) precisará autorización
+administrativa previa o declaración responsable del Organismo de cuenca, sin perjuicio del resto de autorizaciones,
+licencias o concesiones que tales obras puedan requerir a tenor de la normativa sectorial vigente.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21006
+Las labores asociadas al permiso de investigación no generarán vertidos de aguas residuales al DPH, puesto que
+la mezcla del agua y los aditivos (no contaminantes) empleados en la ejecución de los sondeos mecánicos con
+recuperación de testigo recirculará a través de una balsa excavada específicamente en el terreno, que posteriormente
+quedará reintegrada en la restauración de estas zonas. No obstante, el promotor deberá poner en conocimiento de la
+Confederación Hidrográfica del Guadalquivir la localización exacta de los sondeos previstos en los correspondientes
+planes anuales de labores presentados ante la autoridad minera.
+El promotor deberá justificar fehacientemente la procedencia y el origen legal del agua utilizada en las labores
+asociadas al permiso de investigación (sondeos mecánicos), incluida la que pueda emplearse como medida
+preventiva para minimizar la emisión de polvo a la atmósfera durante la perforación de los sondeos en seco y
+la circulación de la maquinaria y vehículos asociados. Bajo estas circunstancias, el promotor deberá acreditar el
+título legal que ampare el derecho a utilizar el agua para dichos usos. En el caso de abastecimiento por parte
+de un proveedor autorizado, el promotor deberá indicar ante la Confederación Hidrográfica del Guadalquivir si el
+agua procede de la red municipal o de otro tipo de derecho inscrito en el Registro de Aguas, debiendo justificar
+convenientemente este extremo.
+4.5. Protección del dominio público forestal y viario.
+El permiso de investigación La Majada afecta al monte de Utilidad Pública Nº 17 del CUP de Ciudad Real denominado
+“Navarredonda”, perteneciente al Ayuntamiento de Almuradiel, en concreto las cuadrículas Nº 15, 16 y 17 y una
+pequeña porción de la cuadrícula Nº 14. Teniendo en cuenta que la superficie del monte se solapa con el ámbito
+de la ZEC/ZEPA Sierra Morena, y que el promotor no pretende realizar sondeos dentro de este lugar Natura 2000,
+en principio no existirá afección al dominio público forestal. En caso contrario, si se pretendieran ejecutar sondeos
+u otras labores asociadas al permiso de investigación que impliquen un uso consuntivo significativo en el interior
+del monte de Utilidad Pública, el promotor deberá contar con la autorización previa de la entidad titular del monte
+así como con la autorización de ocupación temporal emitida por el órgano forestal de la Comunidad Autónoma, la
+cual deberá solicitarla ante el Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de
+Ciudad Real. En el trámite de otorgamiento, en su caso, de la citada autorización de ocupación temporal en el monte
+público el órgano forestal deberá tener en cuenta la compatibilidad de las actuaciones con los fines que motivaron
+la declaración de Utilidad Pública de este monte.
+El ámbito del permiso de investigación La Majada afecta a la autovía A-4 y a la plataforma del ferrocarril convencional
+Madrid-Ciudad Real-Jaén. Si se pretenden realizar sondeos mecánicos dentro de las zonas de protección que
+al respecto establece la legislación específica que regula dichas infraestructuras, el promotor deberá solicitar las
+preceptivas autorizaciones previas ante los Órganos competentes y atenerse al condicionado que, en su caso, figure
+en tales autorizaciones. En el caso de la autovía A-4, la zona de protección está formada por una franja de 100
+metros a ambos lados a contar desde la arista exterior de la explanación de la vía.
+Respecto a la posible afección a los caminos de uso público, el promotor deberá solicitar autorización ante el
+Ayuntamiento de Almuradiel, debiendo respetar en cualquier caso la integridad física y la transitabilidad de estos
+caminos para su uso por terceras personas en condiciones de seguridad. Si se produjeran afecciones o alteraciones
+negativas a los caminos públicos como consecuencia del tránsito de la maquinaria y vehículos asociados a las
+labores del permiso de investigación, el promotor queda obligado a reparar tales caminos y dejarlos en las mismas
+condiciones que su estado genuino.
+4.6. Protección del Patrimonio Cultural.
+Según el informe emitido por el Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de
+Ciudad Real, el permiso de investigación minera Nº 12.937 La Majada afecta al Patrimonio Cultural de Castilla-La
+Mancha. En base a esta circunstancia, y con carácter previo al inicio de las labores del permiso de investigación, el
+promotor deberá presentar ante el citado Servicio de Cultura un estudio de valoración patrimonial del área afectada,
+que se redactará de acuerdo con los resultados de la oportuna intervención arqueológica sobre el terreno. La
+realización de la prospección arqueológica también requiere autorización administrativa previa por parte de la citada
+Delegación Provincial según establece la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha.
+Por lo tanto, una vez que el permiso de investigación sea otorgado por la autoridad minera, el promotor deberá
+solicitar las preceptivas autorizaciones ante el Servicio de Cultura de Ciudad Real, y en su caso cumplir los términos
+establecidos en la Resolución de autorización correspondiente, sin perjuicio del deber de actuar, en el caso de que
+aparecieran restos arqueológicos, conforme a lo previsto en el artículo 44.1 de la Ley 16/1985, de 25 de junio, del
+Patrimonio Histórico Español, y el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La
+Mancha, para garantizar su control arqueológico antes de continuar con la ejecución del proyecto.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21007
+4.7. Generación de residuos.
+La gestión de los residuos resultantes de las labores de prospección y exploración asociadas al permiso de
+investigación que impliquen la extracción de material se realizará conforme al Real Decreto 975/2009, de 12 de
+junio, sobre gestión de los residuos de industrias extractivas y de protección y rehabilitación del espacio afectado
+por actividades mineras, modificado por el Real Decreto 777/2012, de 4 de mayo.
+Todos los residuos generados durante el desarrollo de las labores de investigación estarán sujetos a lo dispuesto en
+la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular y en el Decreto 35/2024,
+de 2 de julio, por el que se aprueba el Plan Integrado de Gestión de Residuos de Castilla-La Mancha 2030. Tras la
+finalización de las campañas de investigación y de la restauración de los terrenos afectados por la perforación de los
+sondeos, la zona de actuación debe quedar libre de residuos. Los residuos deben ser caracterizados y separados
+para determinar su naturaleza y destino, y almacenarlos sin que se produzcan riesgos para la salud humana y el
+medio ambiente, garantizando la fluidez en su salida en cumplimiento del artículo 7 de la referida Ley 7/2022.
+El empleo de maquinaria a motor durante la ejecución de las labores asociadas al permiso de investigación conlleva
+un riesgo de generación de residuos peligrosos por las fugas fortuitas de combustibles, aceites y lubricantes durante
+su funcionamiento y mantenimiento, especialmente durante el funcionamiento de las máquinas perforadoras en los
+sondeos. En el caso de que se produzcan escapes o fugas accidentales de esta clase de residuos peligrosos sobre
+el terreno, se actuará de inmediato para evitar su infiltración en el suelo, retirándolos junto a las tierras afectadas
+hasta una profundidad y extensión que asegure la ausencia de estos compuestos. Las tierras contaminadas deberán
+depositarse en contenedores estancos habilitados en el tajo al efecto, y entregarlas a un gestor autorizado de
+residuos peligrosos. Dada esta circunstancia el promotor, o en su caso el contratista de los trabajos de investigación,
+deberá estar inscrito en el Registro de Productores de Residuos de Castilla-La Mancha y suscribir el correspondiente
+contrato con un gestor autorizado. Estas premisas también son de aplicación para los trapos, prendas y papeles
+impregnados con estas sustancias contaminantes. Para prevenir la generación de fugas fortuitas en cantidades
+significativas, deberá revisarse toda la maquinaria que intervenga en las labores de investigación, en especial las
+máquinas perforadoras encargadas de los sondeos mecánicos.
+Durante la ejecución de las campañas de sondeos mecánicos, si estos se realizaran en vía húmeda, podrán
+añadirse aditivos naturales al agua empleada para esta labor. Los lodos procedentes de los sondeos, que tendrían
+la consideración de residuos inertes, deberán integrarse en el terreno convenientemente.
+De acuerdo con el artículo 35 de la Ley 7/2022, el promotor deberá presentar una comunicación previa al inicio de
+las actividades de producción y gestión de residuos ante la Dirección General de Economía Circular y Agenda 2030.
+Los trámites relacionados con la inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha
+(altas, bajas o modificación), deberá realizarlos a través de la página Web de la Consejería de Desarrollo Sostenible,
+en el enlace https://www.jccm.es/tramites/1002628.
+4.8. Protección de la atmósfera, calidad del aire y prevención del ruido.
+La ejecución de los sondeos mecánicos podría acarrear la emisión de material particulado a la atmósfera,
+fundamentalmente durante la perforación del terreno y el tránsito de la maquinaria y otros vehículos asociados
+sobre caminos y viales de firme natural o no pavimentados, con la consiguiente suspensión y resuspensión de polvo
+en la atmósfera. Por lo tanto, durante la ejecución de estas labores se adoptarán todas las medidas necesarias para
+evitar la emisión de polvo.
+La maquinaria de perforación, si el método no es en vía húmeda, deberá disponer de captadores de polvo y
+silenciadores, y no trabajar en días ventosos. Con estas premisas, se evita que se produzcan episodios de
+contaminación a la atmósfera durante la ejecución de las campañas de sondeos.
+Si las labores de exploración se realizan en periodos secos o de aridez prolongada, las emisiones de polvo podrían
+resultar significativas, por lo que para minimizarlas en la mejor medida posible las superficies afectadas por estas
+labores (pasillos de trabajo de la maquinaria, etc.) deberán humedecerse periódicamente regándolas desde una
+cuba acoplada a un tractor, camión cisterna o cualquier dispositivo que cumpla eficazmente con esta misión. Los
+fangos procedentes de la perforación de los sondeos deberán captarse de las respectivas balsas de decantación y
+reutilizarse para el relleno de los agujeros creados, restituyendo todo el terreno afectado por el sondeo a su estado
+genuino, que incluye la integración de las balsas de decantación.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21008
+Los vehículos y la maquinaria asociados a la ejecución de las labores del proyecto deberán circular a una velocidad
+inferior a 20 km/h cuando transiten por caminos o pistas de firme natural, así como pasar las inspecciones técnicas
+pertinentes, en especial las revisiones referentes a las emisiones de gases.
+En cuanto a la prevención del ruido, se adoptarán las medidas y dispositivos en maquinaria y equipos asociados
+a la actividad para disminuir al máximo el nivel de ruido generado. Se procederá a la revisión y control periódico
+de los silenciadores de los escapes, rodamientos, engranajes y mecanismos de la maquinaria conforme determina
+el Real Decreto 212/2002, de 22 de febrero, por el que se regulan las emisiones sonoras en el entorno debidas a
+determinadas máquinas de uso al aire libre, modificado por el Real Decreto 524/2006, de 28 de abril. El promotor
+también será responsable del cumplimiento de la Ley 37/2003, de 17 de noviembre, del Ruido, y sus reglamentos
+de desarrollo, así como lo que puedan establecer al efecto las ordenanzas municipales de Almuradiel. La ejecución
+de los sondeos mecánicos no podrá realizarse en horario nocturno.
+Se considera que el riesgo de accidentes que puedan comprometer el medio ambiente, teniendo en cuenta las
+sustancias y tecnologías empleadas, es mínimo o muy reducido siempre y cuando se adopten las prescripciones
+establecidas en la presente resolución.
+4.9. Plan de restauración.
+La restauración de las zonas afectadas por las diversas labores exploratorias deberá estar en consonancia con
+el Plan de Restauración presentado por el promotor ante la autoridad minera, de acuerdo con el Real Decreto
+975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación
+del espacio afectado por actividades mineras. En su caso, el Plan de Restauración deberá incorporar todos los
+aspectos reseñados en la presente resolución relativos a la correcta ejecución y restauración ambiental del proyecto,
+si los mismos no estuvieran contemplados.
+Una vez finalizados los trabajos de exploración e investigación, todas las zonas afectadas deberán quedar libres
+de materiales, residuos, etc. y restituir el terreno a su estado original. La restauración de los terrenos afectados
+se realizará con carácter inmediato tras la finalización de las labores asociadas al permiso de investigación, en
+particular los sondeos mecánicos.
+En las revegetaciones de los terrenos forestales que, en su caso, puedan resultar afectados, deberán seleccionarse
+especies autóctonas características de la serie de vegetación climatófila presente en el entorno de actuación, dando
+primacía en la composición de la plantación a las especies arbóreas, arbustivas y subarbustivas, cumpliendo con
+todo lo especificado al respecto en el apartado 4.2 de la presente resolución (origen de la planta, etc.).
+Previamente a su autorización, la autoridad minera (órgano sustantivo) deberá poner en conocimiento del órgano
+ambiental los planes anuales de labores del permiso de investigación presentados por el promotor. Entre otros
+aspectos normativos y formales, en los planes anuales de labores se deberá constatar fehacientemente las fechas
+de ejecución de las diferentes labores realizadas y/o previstas, así como la localización exacta de los sondeos
+mecánicos en el terreno. También se especificarán los trabajos de restauración completados durante el periodo
+correspondiente al plan de labores presentado con la finalidad de valorarlos oportunamente, y las incidencias
+ambientales que, en su caso, hayan surgido durante la ejecución de todas las labores.
+En lo no dispuesto en este condicionado, se atenderá a las recomendaciones de los agentes medioambientales de
+la zona, quienes podrán ejercer la supervisión ambiental de la actuación.
+Quinto. Especificaciones generales para el programa de seguimiento y vigilancia ambiental (PSVA).
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+el seguimiento para el cumplimiento de las prescripciones contenidas en el presente informe de impacto ambiental
+corresponden al órgano sustantivo (Servicio de Minas de la Delegación Provincial de Desarrollo Sostenible de
+Ciudad Real), sin perjuicio de la información que pueda recabar el órgano ambiental al respecto, y efectuar las
+comprobaciones necesarias para verificar el cumplimiento del condicionado expresado.
+Desde el inicio de la actividad y durante toda la vida útil del proyecto, incluida la restauración de los terrenos afectados
+por los sondeos mecánicos, se realizará un informe compendio de las visitas de control previstas en el PSVA del
+proyecto a lo largo del año natural correspondiente. Este informe anual deberá reflejar la correcta implantación de
+las medidas cautelares, preventivas y correctoras previstas en el documento ambiental y en la presente resolución,
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21009
+así como la valoración de su eficacia durante dicho año, indicando la adecuación de tales medidas y la necesidad
+de modificar y/o implementar aquellas que se hayan considerado necesarias para mitigar los impactos detectados,
+en su caso. En el informe compendio anual se incluirán anexos cartográficos y fotográficos para facilitar su
+interpretación (fotografías georreferenciadas y con marca de agua que evidencien la localización y características
+de las actuaciones), reflejando especialmente la ejecución de los sondeos mecánicos y la restauración del terreno
+tras dichas labores. El informe anual deberá incorporar un anejo que incluya todos los informes internos generados
+en las sucesivas visitas a lo largo del año correspondiente. Este informe deberá estar suscrito conjuntamente por el
+promotor y por el responsable del PSVA del proyecto designado por el promotor, y se presentará anualmente ante
+el órgano sustantivo y el órgano ambiental antes del 1 de abril del año siguiente al de la campaña de seguimiento
+y vigilancia efectuada. Si las circunstancias así lo aconsejan, el órgano ambiental podrá exigir al responsable del
+PSVA la emisión de informes de carácter extraordinario al informe compendio anual. La entidad responsable del
+PSVA deberá cumplir con el procedimiento, requisitos y obligaciones previstos en el Titulo IV de la Ley 4/2025, de 11
+de julio, de Simplificación, Agilización y Digitalización Administrativa.
+El órgano ambiental podrá recabar información y realizar los cotejos que considere necesarios y oportunos para
+verificar el cumplimiento del condicionado del presente informe de impacto ambiental. De las inspecciones llevadas
+a cabo, si se comprueba que surgen efectos perjudiciales para el medioambiente no previstos en el documento
+ambiental presentado por el promotor o en la presente resolución, podrán derivarse modificaciones de las actuaciones
+previstas con el fin de lograr la consecución de los objetivos establecidos en este informe de impacto ambiental.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes extremos:
+- Control de la ejecución de los trabajos de investigación y restauración conforme a las prescripciones que figuran en
+la presente resolución, así como las que se proponen en el documento ambiental presentado por el promotor mientras
+no se opongan o contradigan a las primeras. En particular, se deberán respetar las prescripciones establecidas en
+los apartados 4.1, 4.2, 4.3 y 4.5 de la presente resolución.
+- Control de la gestión de los materiales, residuos y elementos que pudieran generar episodios de contaminación al
+suelo, subsuelo, aguas subterráneas y aguas superficiales.
+- Control de los niveles de emisión e inmisión de material particulado a la atmósfera y a la vegetación natural del
+entorno de actuación, así como de los niveles de ruido.
+- Control del cumplimiento de las condiciones que figuren en la autorización emitida por la Delegación Provincial de
+Educación, Cultura y Deportes de Ciudad Real para los trabajos de prospección arqueológica previos, así como el
+control de la aparición de restos arqueológicos durante la ejecución de las labores de exploración.
+- Control e inspección del estado de conservación del firme y estructura de los caminos y carreteras afectados por
+el tráfico de los vehículos y maquinaria asociados al proyecto de investigación.
+Sexto. Documentación adicional.
+El promotor del permiso de investigación Nº 12.937 La Majada deberá presentar la siguiente documentación, en
+formato digital, ante el órgano sustantivo, el cual remitirá una copia al órgano ambiental:
+a) Antes de la autorización sustantiva del proyecto: Si procede por no estar alineado, Plan de Restauración de las
+zonas afectadas por las labores asociadas al permiso de investigación acomodado a las prescripciones establecidas
+en la presente resolución, y conforme al Real Decreto 975/2009, de 12 de junio, sobre gestión de los residuos de
+las industrias extractivas y de protección y rehabilitación del espacio afectado por actividades mineras. El Plan de
+Restauración deberá ser informado favorablemente por el órgano ambiental antes de su autorización por el órgano
+sustantivo.
+b) Antes del inicio de la ejecución de los sondeos mecánicos previstos, una vez que el permiso de investigación haya
+sido otorgado:
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto bajo los requisitos y obligaciones previstos en el Titulo IV de la Ley 4/2025, de 11 de julio, de
+Simplificación, Agilización y Digitalización Administrativa.
+- Planes anuales de labores presentados por el promotor para su informe por el órgano ambiental. Entre otros
+aspectos formales, en los planes anuales de labores deberán consignarse las fechas de ejecución y la localización
+exacta de los sondeos mecánicos previstos para que el órgano ambiental valore convenientemente su viabilidad. El
+órgano sustantivo no podrá autorizar los planes anuales de labores sin el informe favorable del órgano ambiental.
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21010
+- Comunicación de la fecha prevista para el inicio de la ejecución de cada una de las campañas de sondeos mecánicos
+con una antelación mínima de 10 días.
+- Licencia municipal de obras emitida por el Ayuntamiento de Almuradiel (Ciudad Real).
+- Autorización de ocupación temporal de terrenos en el monte de Utilidad Pública Nº 17 del CUP de Ciudad Real
+denominado “Navarredonda”, siempre que las labores asociadas al permiso de investigación afecten a estos terrenos
+de dominio público forestal.
+- Copia de la autorización emitida por la Confederación Hidrográfica del Guadalquivir para la ejecución de los
+sondeos mecánicos en la zona de policía de los cauces afectados, en el caso de que tales sondeos afecten a estas
+márgenes de protección.
+- Copia de la documentación que acredite fehacientemente la procedencia y el origen legal del agua utilizada, en su
+caso, en las diferentes labores asociadas al proyecto de investigación.
+c) Antes del 1 de abril de cada año, desde el inicio de la actividad y durante toda la vigencia del permiso de
+investigación: Informes anuales sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia
+ambiental.
+d) Una vez finalizado el proyecto y las tareas de restauración correspondientes: Memoria descriptiva de la restauración
+ejecutada, especificando la localización exacta, las fechas de los trabajos ejecutados y el resultado de los mismos,
+así como las posibles incidencias ambientales que hayan podido tener lugar durante la realización de tales trabajos.
+Séptimo. Valoración final.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Ciudad Real, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y
+las competencias de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero,
+en el ejercicio de las atribuciones conferidas por la Resolución de 24/05/2024, de la Dirección General de Calidad
+Ambiental, por la que se delegan competencias en las delegaciones provinciales de la Consejería de Desarrollo
+Sostenible, y conforme al artículo 54.2.b de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La
+Mancha, resuelve que el proyecto denominado “Permiso de investigación minera Nº 12.937 para recursos de la
+Sección C) denominado La Majada (T.M. de Almuradiel, Ciudad Real)”, incoado en el expediente PRO-CR-15-0474
+y promovido por la mercantil Exploración de Recursos Minerales, S.L.U., no necesita someterse a una evaluación
+de impacto ambiental ordinaria al estimar que no tiene efectos significativos en el medio ambiente, siempre que se
+cumplan las condiciones expresadas en el presente informe de impacto ambiental.
+Se advierte que el hecho de que el permiso de investigación minera La Majada haya resultado viable a los efectos
+ambientales, no presupone que su futuro pase a concesión derivada de explotación sea compatible a estos efectos,
+aspecto que deberá determinarse en el correspondiente procedimiento de evaluación de impacto ambiental ordinaria
+del proyecto de explotación que, en su caso, su promotor solicite ante la autoridad minera.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible, tal y como establece el artículo 54.3 de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha.
+El presente informe de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar la prórroga de la vigencia del informe de impacto ambiental antes de que transcurra
+el plazo de la misma, la cual se podrá conceder, en su caso, por dos años adicionales contados a partir de la
+finalización del plazo inicial de vigencia, para lo cual se estará a lo dispuesto en el artículo 55 de la Ley 2/2020. En
+el caso de producirse la caducidad, el promotor deberá iniciar un nuevo procedimiento de evaluación de impacto
+ambiental simplificada.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno, sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+De conformidad con el artículo 56 de la Ley 2/2020 el órgano sustantivo, en el plazo de quince días hábiles desde
+que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La Mancha un extracto
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21011
+con el contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica dicha decisión
+y una referencia al Diario Oficial de Castilla-La Mancha en el que se haya publicado el presente informe de impacto
+ambiental.
+Se adjunta anexo cartográfico en el que se refleja el ámbito del permiso de investigación La Majada y la distribución
+y numeración de las cuadrículas mineras que lo integran.
+Ciudad Real, 18 de mayo de 2026
+El Delegado Provincial
+AGUSTÍN ESPINOSA ROMERO
+
+AÑO XLV Núm. 99 27 de mayo de 2026 21012
+ANEXO CARTOGRÁFICO
+Ámbito del Permiso de Investigación Nº 12.937 denominado La Majada

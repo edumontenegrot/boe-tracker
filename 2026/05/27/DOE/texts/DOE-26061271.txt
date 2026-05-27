@@ -1,0 +1,788 @@
+NÚMERO 100
+22616
+Miércoles 27 de mayo de 2026
+III OTRAS RESOLUCIONES
+CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO
+RESOLUCIÓN de 13 de mayo de 2026, de la Dirección General de Gestión
+Sostenible y Política Forestal, por la que se formula informe de impacto
+ambiental relativo a instalación solar fotovoltaica de autoconsumo con
+almacenamiento de energía por baterías Bess para suministro a "Eranovum
+Fotolinera Mérida", a realizar en el término municipal de Mérida (Badajoz).
+Expte.: IA25/0040. (2026061271)
+La Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Ex-
+tremadura, en su artículo 73 prevé los proyectos que deben ser sometidos a evaluación de
+impacto ambiental simplificada por el órgano ambiental a los efectos de determinar que el
+proyecto no tiene efectos significativos sobre el medio ambiente, o bien, que es preciso su
+sometimiento al procedimiento de evaluación de impacto ambiental ordinaria, regulado en la
+subsección 1.ª de la sección 2.ª del capítulo VII, del título I, de la ley, por tener efectos sig-
+nificativos sobre el medio ambiente.
+El proyecto de instalación solar fotovoltaica de autoconsumo con almacenamiento de ener-
+gía por baterías BESS para futura instalación denominada “Eranovum Fotolinera Mérida”, en
+el término municipal de Mérida (Badajoz), se encuentra sometido a evaluación de impacto
+ambiental simplificada por estar comprendido en el anexo II, grupo 4, apartado n) “Almace-
+namiento energético stand-alone a través de baterías electroquímicas o con cualquier tecno-
+logía de carácter hibridado con instalaciones de energía eléctrica”, de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental.
+La promotora del proyecto es Eranovum Mérida, SL, con CIF B56587413, y con domicilio so-
+cial en avenida General Perón, 38, edificio Masters I, 7.º 3 - 28020 Madrid (Madrid).
+El órgano ambiental competente para la formulación del informe de impacto ambiental del
+proyecto es la Dirección General de Gestión Sostenible y Política Forestal de la Consejería de
+Industria, Energía, Ciencia y Territorio, de conformidad con lo dispuesto en el artículo 17.6
+del Decreto 18/2026, de 30 de abril, por el que se establece la estructura orgánica básica de
+la Administración de la Comunidad Autónoma de Extremadura.
+Actúa como órgano sustantivo la Dirección General de Industria, Energía y Minas de la Con-
+sejería de Industria, Energía, Ciencia y Territorio.
+
+NÚMERO 100
+22617
+Miércoles 27 de mayo de 2026
+Los principales elementos del análisis ambiental del proyecto son los siguientes:
+1. Objeto, descripción y localización del proyecto.
+Se proyecta la construcción de una instalación solar fotovoltaica de autoconsumo (en
+adelante, ISFA) con almacenamiento de energía por baterías BESS para futura instalación
+denominada “Eranovum Fotolinera Mérida”, a construir en el polígono 140, parcela 10002
+del término municipal de Mérida (Badajoz).
+La ISFA de 986,40 kWp, y una ocupación de 1,8184 ha contará con 96 estructuras fijas que
+soportarán un total de 1.440 módulos de 685 Wp. Además, se instalará 8 inversores de 115
+kW, y un centro de transformación en edificio prefabricado de 630 kVA.
+Se ha proyectado un sistema de almacenamiento con 3 unidades del equipo LUNA2000-215
+kWh-2S10 obteniendo una potencia total de carga/descarga de 324 kW, y una capacidad
+de acumulación energética de 645 kWh.
+La planta fotovoltaica y el sistema de almacenamiento se instalarán en el mismo recinto
+que contará con un vallado cinegético perimetral de 2 m de altura máxima, en otro recinto,
+junto al cargador central se instalarán dos edificios prefabricados tipo PFU 4, uno para el
+centro de transformación, y otro para la sala eléctrica y de control.
+Además, para abastecer a la Fotolinera cuando no exista energía suficiente de la ISFA y del
+sistema de almacenamiento, se instalará una línea aéreo-subterránea de 99 m de longitud
+constituida por los siguientes tramos:
+— Tramo 1: LAMT a 15 kV de 61 m de longitud, con origen en el apoyo A421880 de la LAMT
+“Proserpina”, y final en el apoyo n.º 2 de paso de aéreo a subterráneo.
+— Tramo 2: LSMAT de 15 kV y 31 m de longitud, con origen en el apoyo n.º 2 del tramo 1,
+y final centro de transformación de la planta.
+Fuente. Documentación presentada
+
+NÚMERO 100
+22618
+Miércoles 27 de mayo de 2026
+2. Tramitación y consultas.
+Con fecha 25 de agosto de 2025, el órgano sustantivo remitió a la entonces Dirección
+General de Sostenibilidad la solicitud de inicio y los documentos que la deben acompañar
+para su sometimiento al procedimiento de evaluación de impacto ambiental simplificada.
+Dando cumplimiento a lo establecido en el artículo 75.1 de la Ley 16/2015, de 23 de abril,
+de protección ambiental de la Comunidad Autónoma de Extremadura, la entonces Direc-
+ción General de Sostenibilidad realizó consultas a las Administraciones Públicas afectadas
+y las personas interesadas que se relacionan en la tabla adjunta. Se han señalado con una
+X aquellas que han emitido respuesta.
+Relación de consultados Respuesta
+Servicio de Urbanismo. Dirección General de Urbanismo, Ordenación del Territorio y
+X
+Agenda Urbana.
+Servicio de Conservación de la Naturaleza y Áreas Protegidas. Dirección General de Sos-
+X
+tenibilidad
+Servicio de Infraestructuras Rurales. Dirección General de Infraestructuras Rurales X
+Servicio de Regadíos. Dirección General de Infraestructuras Rurales X
+Sección de Conservación y Explotación de Carreteras de Badajoz. Direccion General de
+X
+Infraestructuras Viarias
+Servicio de Ordenación y Gestión Forestal. Dirección General de Gestión Forestal y De-
+_
+fensa contra los Incendios
+Dirección General de Bibliotecas, Archivos y Patrimonio Cultural X
+Demarcación de Carreteras del Estado en Extremadura. Dirección General de Carreteras X
+Confederación Hidrográfica del Guadiana X
+Ayuntamiento de Mérida X
+Adif X
+Fundación Naturaleza y Hombre -
+Ecologistas en Acción Extremadura -
+Greenpeace -
+Ecologistas en Acción -
+
+NÚMERO 100
+22619
+Miércoles 27 de mayo de 2026
+Relación de consultados Respuesta
+Amus -
+Adenex -
+Sociedad Española de Ornitología (SEO BIRD/LIFE) -
+Anser -
+El resultado de las contestaciones recibidas se resume a continuación:
+— Con fecha 17 de septiembre de 2025, el Servicio de Infraestructuras Rurales informa
+que el proyecto no afecta a ninguna de las vías pecuarias deslindadas y/o clasificadas
+que discurren por el término municipal de Mérida (Badajoz).
+En cumplimiento de la legislación vigente en materia de vías pecuarias (Ley 3/1995, de
+23 de marzo, Decreto 49/2000, de 8 de marzo, Ley 6/2015, de 24 de marzo ,y Decreto
+65/2022, de 8 de junio), da traslado para su conocimiento y efectos oportunos.
+— Con fecha 17 de septiembre de 2025, la Jefa de Sección de Conservación y Explotación
+de Carreteras de Badajoz informa favorablemente con las siguientes indicaciones en
+cuanto a la construcción de la Fotolinera, como a la posible implantación de pantalla de
+ocultación de la planta fotovoltaica si fuese necesario.
+Con respecto a las instalaciones de la Fotolinera, este Servicio concedió autorización de
+construcción de la misma con número de expediente R002559 en la cual se recogían,
+entre otras, las siguientes condiciones:
+• Se autoriza la construcción de una Fotolinera, a ubicar en la parcela 1002 del polígono
+140 del término municipal de Mérida, a una distancia mínima del borde exterior de la
+calzada de la carretera más próximo de 25 m, según lo dispuesto en el artículo 26 de
+la Ley 7/1995, de 27 de abril de carreteras de Extremadura, de acuerdo con la docu-
+mentación presentada por el solicitante.
+• Se entiende por edificación cualquier tipo de instalación tales como puntos de recar-
+ga, marquesinas, depósitos, edificio de servicios, conducciones de distintos tipos de
+servicios y/o de interconexión, etc. tanto sobre rasante como subterráneas, aunque
+fueran del todo indispensables para el funcionamiento, mantenimiento, servicio, etc.,
+de la edificación que se autoriza.
+
+NÚMERO 100
+22620
+Miércoles 27 de mayo de 2026
+• La presente autorización se concede ya que no se realizará acceso directamente a
+la carretera EX-209, sino a través del vial que comunica la carretera EX-209 con el
+Centro de Transportes de Mérida.
+• Dado que la parcela no contará con cerramiento, se autoriza la plantación perimetral
+en el límite de la parcela de una pantalla vegetal arbustiva formada por las especies
+Pistacia Lentiscus (lentisco) y Rosmarinus officinalis (romero) al tresbolillo, a ubicar
+fuera de la zona de dominio público de la carretera, es decir, a una distancia mínima
+medida en perpendicular desde la arista exterior de la explanación de la carretera de
+3 m. La mencionada pantalla deberá mantenerse permanentemente con una altura
+inferior a 1,50 m.
+• No obstante lo indicado en el punto anterior, se deberá mantener completamente des-
+pejada la sección completa del camino que discurre por el norte de la parcela donde
+se pretende la instalación que se autoriza y que conexiona el camino público corres-
+pondiente a la parcela 9008 del polígono 140 del término municipal de Mérida con el
+vial anteriormente citado por el cual ya tienen acceso en la actualidad, no pudiendo
+el peticionario realizar ningún tipo de modificación ni obstrucción del mencionado ac-
+ceso, ni disminuir la visibilidad en el mismo.
+Con respecto a la planta fotovoltaica de autoconsumo a construir al sur de la fotolinera,
+ésta se ubicará fuera de zonas de protección de la carretera EX-209, por lo que no pre-
+cisa autorización de construcción por nuestra parte.
+• No obstante, y teniendo en cuenta que la afección al sistema viario puede producirse
+por desarrollos urbanísticos o instalaciones que, aunque no sean estrictamente colin-
+dantes con la carretera han de servirse de ella para su accesibilidad, de acuerdo con
+el artículo 14 de la Ley 7/1995, de 27 de abril, de Carreteras de Extremadura, se le
+informa que una vez puesta en funcionamiento la planta, si se observan efectos de
+deslumbramiento a los usuarios de la carretera EX-209 titularidad de esta Administra-
+ción, y en aras de garantizar la seguridad vial, se podrá requerir a la promotora para
+que implante una pantalla vegetal o similar con el suficiente porte, a una distancia
+mínima del borde exterior de la calzada de la carretera de 25 m, de acuerdo con el
+artículo 26 de la Ley de Carreteras citado. Esta Administración se reserva el derecho
+de solicitar aumentar la longitud de la pantalla vegetal a disponer, en aquellas zonas
+donde se observen efectos de deslumbramiento a los usuarios de la vía tras la entrada
+en funcionamiento de la planta fotovoltaica.
+Con respecto al acceso a las instalaciones, se realizará a través del vial que comunica
+la carretera EX-209 con el Centro de Transportes de Mérida cuya gestión, conservación
+
+NÚMERO 100
+22621
+Miércoles 27 de mayo de 2026
+y explotación corresponde a la Dirección General de Movilidad y Transportes. En lo que
+compete a este Servicio, se considera que la ubicación propuesta del acceso se encuen-
+tra a una distancia suficiente de la glorieta existente en la carretera EX-209.
+— El Servicio de Regadíos informa con fecha 19 de septiembre de 2025 que las parcelas
+donde se ubica el proyecto no están incluidas en Zonas Regables de Extremadura de-
+claradas de Interés General de la Comunidad Autónoma de Extremadura, de la Nación
+o Singulares, no siendo, por tanto, de aplicación la siguiente normativa,
+• Ley de Reforma y Desarrollo Agrario aprobada por Decreto 118/1973, de 12 de enero
+de 1973.
+• Ley 6/2015, de 24 de marzo, Agraria de Extremadura, siendo así, que este Servicio
+no se considera órgano gestor de intereses públicos existentes en la zona, por lo que
+no compete al mismo pronunciamiento alguno.
+En virtud de cuanto antecede, procede el archivo del expediente sin más trámite, sin
+perjuicio del cumplimiento de aquellos otros requisitos legal o reglamentariamente es-
+tablecidos.
+— Con fecha 25 de septiembre de 2025 el Gerente de Área de Patrimonio y Urbanismo Sur
+informa que, una vez analizada la documentación, se observa que el mismo se encuen-
+tra suficientemente alejado de los suelos afectados por el ferrocarril, por lo que Adif no
+tiene inconvenientes a que se continúe con su tramitación.
+— La Demarcación de Carreteras del Estado en Extremadura con fecha 2 de octubre de
+2025 informa lo siguiente:
+• Según se recoge en la documentación ambiental del proyecto las instalaciones se
+ubicarán en la parcela 10002 del polígono 140 del término municipal de Mérida, con
+una parte destinada a la recarga de vehículos, zona de suministro, y otra superficie
+destinada a la implantación de una planta fotovoltaica de autoconsumo.
+• La vía de la Red de Carreteras del Estado más próxima a las obras proyectadas es la
+Autovía del Suroeste A-5.
+• La totalidad de las obras proyectadas se sitúan fuera de las zonas de protección de la
+Autovía del Suroeste A-5, definidas en los artículos 28 y siguientes de la Ley 37/2015,
+de 29 de septiembre, de Carreteras.
+• No obstante, y con el fin de evitar un potencial menoscabo de la seguridad viaria, la
+reflexión de la luz en los módulos fotovoltaicos de la instalación no podrá producir
+
+NÚMERO 100
+22622
+Miércoles 27 de mayo de 2026
+deslumbramientos o molestias a los usuarios de la Autovía A-5, lo que deberá quedar
+debidamente justificado en el correspondiente estudio específico de deslumbramien-
+to, que deberá presentar la promotora del proyecto ante esta Administración de Ca-
+rreteras para su estudio y análisis, previamente a su autorización.
+• Dicho estudio de deslumbramiento contemplará todas las posibles configuraciones
+de funcionamiento de las placas de la planta (concebido como simulación de efectos
+a priori), tanto en régimen de construcción como de explotación y mantenimiento,
+incluyendo la posición de descanso o defensa, con el fin de evaluar las posibles afec-
+ciones desfavorables, por presunto deslumbramiento solar, que pudieran provocar
+sobre el tráfico usuario de la vía y, en su caso, proyectar las medidas necesarias para
+evitar dichos efectos, incluyendo un estudio justificativo de la efectividad de dichas
+medidas.
+• Las medidas a adoptar, así como sus costes de implantación y mantenimiento, serán
+en todo caso por cuenta de la promotora de la actuación, que es asimismo respon-
+sable de su diseño, idoneidad y eficiencia, así como de su conservación y gastos de
+mantenimiento, y deberán obtener el parecer favorable de esta Demarcación de Ca-
+rreteras en el conjunto del proyecto de construcción, previamente a su aprobación.
+— La Dirección General de Bibliotecas, Archivos y Patrimonio Cultural (en adelante,
+DGBAPC) con fecha 9 de octubre de 2025, emite informe al amparo de las competencias
+que le corresponden de acuerdo con el apartado 6 del Reglamento de las Comisiones
+del Consorcio (DOE 28-3-2012) en relación con el artículo 15.g de los Estatutos de esta
+entidad (DOE 3-6-2019), y de acuerdo con lo establecido en el artículo 30 de la Ley de
+Patrimonio Histórico y Cultura del Extremadura en relación con el artículo 9.28 del PGOU
+–Plan Especial del Conjunto Histórico-Arqueológico de Mérida.
+La Comisión Técnica acuerda por unanimidad emitir informe favorable condicionado al
+estricto cumplimiento de una serie de medidas preventivas.
+La actividad proyectada podría afectar al Yacimiento Arqueológico de Mérida, en cuanto
+se proyecta la construcción de instalaciones con movimientos de tierra. Los condicio-
+nantes arqueológicos son los siguientes:
+• En los terrenos objeto del proyecto se ha realizado la prospección arqueológica con
+n.º 5366/2025, con resultado negativo, por lo que durante la obra procede realizar
+seguimiento arqueológico, debiéndose prestar especial precaución en relación con el
+trazado de la conducción romana de Proserpina – Los Milagros que discurre visible al
+sur de la parcela en una zona no afectada por el proyecto.
+
+NÚMERO 100
+22623
+Miércoles 27 de mayo de 2026
+• Medidas aplicables de conformidad con el PGOU – Plan Especial de Mérida. El proyecto
+deberá ser autorizado por el Consorcio, antes de su ejecución, en el marco de la soli-
+citud de licencia urbanística.
+• Durante la ejecución del proyecto, será preceptivo el seguimiento arqueológico de los
+movimientos de tierra, a realizar por equipo de arqueología contratado por la promo-
+tora, previa autorización del proyecto de seguimiento por esta entidad. Deberá guar-
+darse especial precaución durante el seguimiento de la obra con motivo del trazado
+de la conducción romana de Proserpina – Los Milagros.
+En resumen, se emite informe favorable condicionado a la autorización previa del pro-
+yecto y a la ejecución del seguimiento arqueológico durante la obra.
+El informe se emite en virtud de lo establecido en la Ley 16/2015, de 23 de abril, protec-
+ción ambiental de la Comunidad Autónoma de Extremadura, y en la Ley 2/1999, de 29
+de marzo, de Patrimonio Histórico y Cultural de Extremadura y su modificación parcial
+mediante la Ley 5/2022, de 25 de noviembre, y en el Decreto 93/1997, de 1 de julio,
+por el que se regula la actividad arqueológica en la Comunidad Autónoma de Extrema-
+dura, sin perjuicio del cumplimiento de aquellos otros requisitos legal o reglamentaria-
+mente establecidos.
+— Con fecha 21 de octubre de 2025 el Ayuntamiento de Mérida emite informe que finaliza
+con las siguientes conclusiones:
+• Las actuaciones recogidas serían autorizables (fotolinera) vía calificación rústica así
+como autorizables (línea de MT) vía Licencia de obras y siempre y cuando se obtenga
+la CR de la actividad a la que se vincula.
+• No existen en este Ayuntamiento ordenanzas/normativa de tipo ambiental que pudie-
+ran afectar a la actividad planteada, por lo que se estará a lo dispuesto en la norma-
+tiva autonómica y/o estatal dentro del procedimiento ambiental ya abierto.
+• Además no afecta a bienes y derechos municipales. Todo ello sin perjuicio de las
+autorizaciones necesarias por parte de otros organismos sectoriales y/u organismos
+privados y lo reseñado en cuanto a las posteriores licencias municipales.
+— Con fecha 4 de noviembre de 2025, el Servicio de Conservación de la Naturaleza, de
+acuerdo con lo previsto en el artículo 56 quater de la Ley 8/1998, de 26 de junio, de
+Conservación de la Naturaleza y de espacios naturales de Extremadura, y en el Decreto
+110/2015, de 19 de mayo, por el que se regula la Red Ecológica europea Natura 2000
+en Extremadura, informa favorablemente la actividad solicitada, ya que no es suscepti-
+
+NÚMERO 100
+22624
+Miércoles 27 de mayo de 2026
+ble de afectar de forma apreciable a los lugares incluidos en la Red Natura 2000, ni se
+prevén afecciones significativas sobre especies o hábitat protegidos, siempre y cuando
+se cumplan las siguientes medidas:
+• Si durante la realización de las actividades se detectara la presencia de alguna especie
+incluida en el Catálogo de Especies Amenazadas de Extremadura que pudiera verse
+afectada por los mismos, se estará a lo dispuesto por el personal técnico, previa co-
+municación de tal circunstancia.
+• Se deberá prestar atención a no ocasionar molestias a la fauna presente en la zona,
+teniendo especial cuidado en el caso de especies catalogadas y durante las épocas de
+reproducción y cría de la avifauna, respetando siempre las distancias de seguridad
+pertinentes y cualquier indicación que realicen los Agentes del Medio Natural. No se
+molestará a la fauna con ruidos excesivos.
+• Se deben restituir las áreas alteradas, especialmente en zanjas o si se generan talu-
+des. Gestionar adecuadamente la tierra vegetal para su uso posterior en las tareas
+de restauración de las superficies alteradas, que debe llevarse a cabo paralelamente
+durante la fase de construcción.
+• Se procederá a la retirada de cualquier tipo de residuo no biodegradable generado
+por la maquinaria u operarios, los cuales serán gestionados según las disposiciones
+establecidas en la ley.
+• Se adoptarán las medidas adecuadas para evitar la contaminación de los cursos de
+agua por posibles vertidos de residuos peligrosos, estableciendo áreas específicas
+acondicionadas para las actividades que puedan causar más riesgos.
+• Se adoptarán las normas establecidas en el Plan INFOEX.
+• Se deberá señalizar los conductores de la línea aérea instalando un elemento cada 10
+m, disponiéndose de forma alterna entre los mismos, con espirales a lo largo de todo
+el trazado. Real Decreto 1432/2008, de 29 de agosto, por el que se establecen me-
+didas para la protección de la avifauna contra la colisión y la electrocución en líneas
+eléctricas de alta tensión.
+• En apoyos de alineación con cadena suspendida, la cadena de aislamiento será de
+60 cm y se debe aislar el conductor central 1 m a cada lado del punto de enganche,
+debiéndose aislar las 3 fases.
+• En apoyos de amarre, la cadena de aislamiento será de 1 m y se aislará 1 m de con-
+ductor adicionalmente, en las 3 fases (deberá existir un aislamiento de 2 m entre
+cruceta y conductor desnudo).
+
+NÚMERO 100
+22625
+Miércoles 27 de mayo de 2026
+• No se podrán instalar puentes por encima de las crucetas principales de los apoyos.
+• Todos los elementos en tensión deberán disponerse de tal forma que se evite sobrepa-
+sar con elementos en tensión las crucetas o semicrucetas no auxiliares de los apoyos.
+Todos los elementos en tensión deberán ser cubiertos con elementos aislantes.
+• Se procederá al aislamiento efectivo y permanente de puentes y grapas de los apo-
+yos mediante fundas que impidan el contacto directo de las aves con las partes de
+tensión.
+• Instalar elementos antiposada o antinidificación en las crucetas de los apoyos, tipo
+dejadillo en la medida de lo posible, sino tipo aguja o paraguas abierto hacia abajo y
+con punta romo en el extremo de arriba.
+• El vallado perimetral de la planta se ajustará a lo descrito en el Decreto 226/2013,
+de 3 de diciembre, por el que se regulan las condiciones para la instalación, modifi-
+cación y reposición de los cerramientos cinegéticos y no cinegéticos en la Comunidad
+Autónoma de Extremadura. El cerramiento de la instalación será de malla ganadera,
+de 2 m de altura máxima y con una luz de 15 x 15 cm mínimo. No tendrá sistema de
+anclaje al suelo diferente de los postes, no tendrá elementos cortantes o punzantes
+y contará con una placa metálica de color blanco mate entre cada vano en la mitad
+superior de la valla de 25 x 25 cm para hacerla más visible para la avifauna.
+— Con fecha 30 de noviembre de 2025, se emite por parte de la Confederación Hidrográfi-
+ca del Guadiana informe de Afección al régimen y aprovechamiento de las aguas conti-
+nentales o a los usos permitidos en terrenos de dominio público hidráulico (en adelante,
+DPH), en sus zonas de servidumbre, policía y zonas inundables, indicando lo siguiente:
+El cauce del río Guadiana discurre a unos 630 m al sur de la zona de actuación plan-
+teada, por lo que no se prevé afección física alguna a cauces que constituyan el DPH
+del Estado, definido en el artículo 2 del Real Decreto Legislativo 1/2001, de 20 de julio,
+por el que se aprueba el texto refundido de la Ley de Aguas (TRLA), ni a las zonas de
+servidumbre y policía.
+De acuerdo con los artículos 6 y 7 del Reglamento del DPH, aprobado por el Real Decre-
+to 849/1986, de 11 de abril, los terrenos (márgenes) que lindan con los cauces están
+sujetos en toda su extensión longitudinal a:
+• Una zona de servidumbre de 5 m de anchura para uso público, con los siguientes
+fines: protección del ecosistema fluvial y del DPH; paso público peatonal, vigilan-
+cia, conservación y salvamento; y varado y amarre de embarcaciones en caso de
+necesidad.
+
+NÚMERO 100
+22626
+Miércoles 27 de mayo de 2026
+• Una zona de policía de 100 m de anchura medidos horizontalmente a partir del cauce
+(que incluye también la zona de servidumbre) en la que se condicionará el uso del
+suelo y las actividades que se desarrollen.
+Se ha comprobado en la base de datos de este organismo que la parcela objeto de con-
+sulta se encuentra incluida dentro de la superficie de riego asociada a la concesión de
+aguas superficiales CONC. 40/98-22475 (5402/2022), cuya modificación de caracterís-
+ticas fue otorgada por Resolución de la Confederación Hidrográfica del Guadiana (CHGn)
+con fecha 26/05/2025.
+En caso de que la actuación objeto de consulta finalmente se lleve a cabo, se deberá
+modificar la concesión existente en los términos que proceda.
+Dado que las aguas residuales se pretenden almacenar para su posterior recogida por
+empresa gestora de residuos, al no producirse vertido al DPH, no se consideraría nece-
+sario tramitar la correspondiente autorización administrativa de vertido a que se refiere
+el artículo 100 del TRLA. No obstante, y al objeto de garantizar la no afección a las
+aguas, se deberán cumplir las siguientes condiciones:
+• El depósito para almacenamiento de aguas residuales debe ubicarse a más de 40 m
+de pozos y de 25 m de cauces o lechos del DPH.
+• Se debe garantizar la completa estanqueidad del referido depósito. Para ello, el titular
+de la construcción debe tener a disposición de los organismos encargados de velar por
+la protección del medio ambiente, a petición del personal acreditado por los mismos,
+el correspondiente certificado suscrito por técnico competente.
+• El depósito deberá ser completamente estanco, de forma que no tenga salida al ex-
+terior y sólo exista una entrada del efluente y una boca superior por la que el gestor
+autorizado retire periódicamente las aguas residuales almacenadas en su interior. En
+la parte superior del depósito se debe instalar una tubería de ventilación al objeto de
+facilitar la salida de gases procedentes de la fermentación anaerobia.
+• El depósito debe ser vaciado por un gestor de residuos debidamente autorizado de
+conformidad con la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para
+una economía circular, con la periodicidad adecuada para evitar el riesgo de rebosa-
+miento del mismo. A tal efecto, debe tener a disposición de los organismos encarga-
+dos de velar por la protección del medio ambiente, a petición del personal acreditado
+por los mismos, la documentación que acredite la recogida y destino adecuados de
+las aguas residuales acumuladas en dicho depósito; y, asimismo, deberá comunicar a
+dichos organismos cualquier incidencia que pueda ocurrir.
+
+NÚMERO 100
+22627
+Miércoles 27 de mayo de 2026
+— El Servicio de Urbanismo, con fecha 1 de diciembre de 2025 emite informe con las si-
+guientes consideraciones.
+• En el término municipal de Mérida se encuentra actualmente vigente el Plan General
+de Ordenación Urbana aprobado definitivamente por Orden de 19 de julio de 2000,
+publicado en el DOE n.º 106, de 12 de septiembre de 2000.
+• En virtud de lo establecido en los artículos 143.3.a), 145.1 y 164 de la Ley 11/2018,
+de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura,
+corresponde al municipio de Mérida realizar el control de legalidad de las actuaciones,
+mediante el procedimiento administrativo de control previo o posterior que en su caso
+corresponda, comprobando su adecuación a las normas de planeamiento y al resto de
+legislación aplicable.
+• Con la información facilitada ha sido posible comprobar que no consta expediente
+administrativo en tramitación destinado al otorgamiento de la calificación rústica,
+regulada en los artículos 69 y siguientes de la Ley 11/2018, de 21 de diciembre, de
+ordenación territorial y urbanística sostenible de Extremadura.
+• La materialización de edificaciones, construcciones e instalaciones destinadas a cual-
+quiera de los usos permitidos y/o autorizables recogidos en los apartados 4 y 5 del
+artículo 67 de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y urba-
+nística sostenible de Extremadura, que se pretendan realizar en el suelo rústico, re-
+querirá de la oportuna calificación rústica mediante resolución expresa como requisito
+imprescindible previo a la licencia municipal.
+• El procedimiento de calificación rústica para legitimar la actuación pretendida deberá
+tramitarse conforme a lo dispuesto en el apartado 9 del artículo 69 de la Ley 11/2018,
+de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadura.
+3. Análisis del expediente.
+Una vez analizada la documentación que obra en el expediente, y considerando las respues-
+tas recibidas a las consultas practicadas, se realiza el siguiente análisis para determinar la
+necesidad de sometimiento del proyecto al procedimiento de evaluación de impacto am-
+biental ordinaria previsto en la subsección 1.ª de la sección 2.ª del capítulo VII, del título
+I, según los criterios el anexo X, de la Ley 16/2015, de 23 de abril de protección ambiental
+de la Comunidad Autónoma de Extremadura.
+3.1. Características del proyecto.
+
+NÚMERO 100
+22628
+Miércoles 27 de mayo de 2026
+Se proyecta la construcción de una Fotolinera denominada “Eranovum Fotolinera Mérida”,
+compuesta básicamente por unos cargadores e infraestructuras de acometida eléctrica, y
+una instalación solar fotovoltaica del tipo autoconsumo sin excedentes con almacenamien-
+to de energía.
+La Fotolinera se instalará polígono 140, parcela 10002 del término municipal de Mérida
+(Badajoz) y tendrá una ocupación total de 23.119 m2 con las distintas estructuras del pro-
+yecto; siendo que 18.184 m2 ocupados por la ISFA y el sistema de almacenamiento BESS,
+y 4.935 m2 ocupados por la estación de recarga de vehículos.
+Para la recarga de vehículos se instalarán 6 dispensadores de carga rápida y ultra-rápida
+multiestándar de dos mangueras cada uno que serán alimentados por un cargador central.
+Esta zona contará con un aseo y unas plazas de aparcamiento con unas dimensiones de
+2,5 x 5 m que se señalizarán mediante línea naranja de aparcamiento, y se pintarán las
+áreas de estacionamiento y el logotipo de carga de vehículo destinadas para la recarga de
+vehículo eléctrico.
+La ISFA de 986,40 kWp, contará con un cerramiento perimetral donde irán alojadas 96
+estructuras fijas que soportarán un total de 1.440 módulos de 685 Wp, 8 inversores de 115
+kW, y 3 baterías BESS con una capacidad de acumulación energética de 645 kWh.
+Además, para abastecer a la Fotolinera cuando no exista energía suficiente de la ISFA y del
+sistema de almacenamiento, se instalará una línea aéreo-subterránea de 99 m de longitud.
+3.2. Análisis ambiental para la selección de alternativas.
+El documento ambiental plantea, además de la alternativa 0, tres alternativas de ubica-
+ción, y una vez decidida la ubicación idónea, también se valorado técnicamente la incorpo-
+ración de un sistema de almacenamiento.
+La alternativa 0 que consiste en la “no ejecución del proyecto” quedó descartada al ser una
+actuación facilitadora de la tan necesaria transición energética; dando motivos suficientes
+para optar por la no elección de la alternativa 0 en pos de una implantación correctamente
+diseñada y con una planificación que no impacte de forma innecesaria sobre zonas sensi-
+bles del territorio.
+Con esto en mente, se han analizado tres parcelas en las inmediaciones de Mérida con una
+superficie suficiente como para poder establecer una planta fotovoltaica para abastecer
+la estación de repostaje. Cabe destacar que, por la propia naturaleza de las fotolineras,
+sus emplazamientos tienden a estar localizados en cruces, vías de servicio o cercanías de
+asentamientos e importantes carreteras, lo que condiciona las alternativas de ubicación
+planteadas.
+
+NÚMERO 100
+22629
+Miércoles 27 de mayo de 2026
+Con las consideraciones de categoría técnica, social y paisajística se selecciona la alterna-
+tiva 1 abogando siempre por la no afección a las zonas que presentan mayor valor para el
+territorio dentro de las figuras afectadas y manteniendo los parches de vegetación natural
+que podamos encontrar en el área.
+3.3. Características del potencial impacto.
+— Red Natura 2000 y Áreas Protegidas.
+El Servicio de Conservación de la Naturaleza y Áreas Protegidas indica que la actividad
+solicitada no se localiza dentro de los Espacios Protegidos de la Red Natura 2000 ni otras
+Áreas Protegidas de Extremadura.
+Los usos del suelo de la parcela a ocupar corresponden con tierras arables y matorral, sin
+coincidir con Hábitat de Interés Comunitario, sin presencia de flora protegida ni vegeta-
+ción notable que pueda ser afectada, por todo ello no se prevé afección significativa.
+— Sistema hidrológico y calidad de las aguas.
+El cauce del río Guadiana discurre a unos 630 m al sur de la zona de actuación plan-
+teada, por lo que no se prevé afección física alguna a cauces que constituyan el DPH
+del Estado, definido en el artículo 2 del Real Decreto Legislativo 1/2001, de 20 de julio,
+por el que se aprueba el Texto Refundido de la Ley de Aguas (TRLA), ni a las zonas de
+servidumbre y policía.
+Las actuaciones contempladas en el proyecto deberán tenerse en cuenta las con-
+sideraciones expuestas en el informe de la Confederación Hidrográfica del Guadiana
+para evitar cualquier actuación que pudiera afectar negativamente al dominio público
+hidráulico.
+— Suelos.
+Las acciones que pueden causar mayor impacto pertenecen a la fase de construcción,
+apertura y/o mejora de viales, movimiento de maquinaria, excavaciones y zanjas en
+el tendido de cables, nivelación para instalación de casetas para transformadores y
+edificaciones auxiliares, cimentación de los apoyos de la línea aérea de evacuación de
+energía eléctrica e hincado de las estructuras soporte.
+Respecto a la contaminación del suelo, no es previsible la generación de vertidos que
+puedan contaminar el suelo y los que puedan producirse durante la ejecución y desa-
+rrollo del proyecto, serán de escasa entidad y evitables y/o corregibles con la aplicación
+de las medidas preventivas y correctoras propuestas.
+
+NÚMERO 100
+22630
+Miércoles 27 de mayo de 2026
+La erosión del suelo ocupado por la planta fotovoltaica puede ser un problema durante
+la fase de construcción y, si se mantuviera el suelo desnudo, durante la fase de ex-
+plotación. Medidas correctoras como la obligación de mantener una cubierta vegetal
+controlado por el pastoreo o el efecto que sobre la humedad del suelo pueden tener las
+propias placas permiten disminuir el impacto asociado al proyecto, situándolo en las
+condiciones habituales de la zona. Igualmente, esta medida correctora disminuye el
+impacto asociado al uso del suelo.
+— Fauna.
+El Servicio de Conservación de la Naturaleza y Áreas Protegidas establece respecto a la
+posible afección a la fauna, que no tienen constancia en la actualidad de posibles áreas
+críticas para especies amenazadas en la zona de implantación del proyecto ni en su
+proximidad, por tanto, no se prevé afección.
+Existen datos a partir de 1 km desde la ubicación del proyecto hasta posibles áreas de
+distribución de la especie esteparia alcaraván pero debido a la distancia y la proximidad
+del proyecto a otras infraestructuras antropizadas no se considera afección ni a la espe-
+cie ni a su hábitat.
+— Flora, vegetación y hábitats.
+En las parcelas no existe vegetación de interés por lo que la afección será mínima o nula.
+— Paisaje.
+El documento ambiental describe que el impacto paisajístico más destacable vendrá en
+la fase de producción, durante el transcurso de su vida útil; habiéndose realizado una
+correcta previsión al respecto y utilizando, por tanto, materiales con un cromatismo
+similar al de la zona de implantación que no sobresalgan excesivamente en altura o
+diseño con respecto al resto de elementos del paisaje circundante con anterioridad.
+— Calidad del aire, ruido y contaminación lumínica.
+Durante la fase de construcción del proyecto la calidad del aire se verá afectada por la
+emisión difusa de partículas de polvo y emisiones gaseosas a la atmósfera y se generará
+ruido, en todos los casos producidos por el funcionamiento de la maquinaria y movi-
+mientos de tierra. Las medidas preventivas y correctoras habituales para este tipo de
+obras disminuyen el impacto causado. En la fase de funcionamiento de las instalaciones
+fotovoltaicas el impacto sobre la calidad del aire es mínimo, lo mismo que el ruido y la
+contaminación lumínica.
+
+NÚMERO 100
+22631
+Miércoles 27 de mayo de 2026
+— Patrimonio arqueológico.
+Según informa la DGBAPC el proyecto se sitúa dentro del Yacimiento Arqueológico de
+Mérida, que ocupa todo el término municipal de esta ciudad, en la parcela 10002 del
+polígono 140. Los terrenos objeto de actuación se ubican en la parcela 131 del polígono
+147 de Mérida, dentro del Yacimiento Arqueológico emeritense, en la Zona V – Protec-
+ción General, nivel asignado a aquellas áreas que no tienen destino urbano y que por
+tanto forman parte del Suelo no Urbanizable del Plan General en las que existe la posi-
+bilidad de aparición de elementos aislados de carácter arqueológico.
+En los terrenos objeto del proyecto se ha realizado la prospección arqueológica con n.º
+5366/2025, con resultado negativo, por lo que durante la obra procede realizar segui-
+miento arqueológico.
+Con vistas a la protección del patrimonio arqueológico que pudiera verse afectado por
+el proceso de ejecución de las obras, se adoptarán las medidas preventivas detalladas
+en el informe de la DGBAPC que se resume en el apartado 2 del presente informe.
+— Consumo de recursos y cambio climático.
+El único recurso consumido es la ocupación del suelo en detrimento de la capacidad
+agroganadera con las especies de fauna y flora asociadas. Por otra parte, este tipo de
+instalaciones se desarrollan especialmente a partir del recurso que supone la radiación
+solar existente y el suelo disponible. La explotación de la energía solar para la produc-
+ción de energía eléctrica supone un impacto positivo frente al cambio climático, ya que
+evita la emisión de gases de efecto invernadero, principalmente el CO2 emitido como
+consecuencia de la quema de combustibles fósiles (carbón, petróleo gas) para producir
+energía.
+— Medio socioeconómico.
+Durante la fase de construcción se puede producir un aumento del tráfico, polvo, ruidos,
+pérdida de seguridad vial, problemas con el mantenimiento de las carreteras y caminos,
+etc. Se considera el impacto como compatible, siempre y cuando se lleve a cabo las
+medidas oportunas de señalización y control.
+El impacto para este medio es positivo por la generación de empleo y de la actividad
+económica. La población se verá beneficiada por la creación de empleo y la mejora de
+la economía, lo que contribuirá a asentar la propia población.
+
+NÚMERO 100
+22632
+Miércoles 27 de mayo de 2026
+— Sinergias.
+El documento ambiental incluye un apartado con un estudio de sinergias con otros pro-
+yectos de energías renovables en un área de 15 km en torno al proyecto. El cuanto a
+los efectos sinérgicos considera que la mayoría de los proyectos se encuentran en un
+umbral de influencia bastante lejano o se tratan de instalaciones pequeñas en cuanto a
+extensión de superficie de hábitat natural.
+— Vulnerabilidad del proyecto.
+La promotora una adenda al documento ambiental en la que se motiva la identificación,
+descripción y análisis de la vulnerabilidad del proyecto ante riesgos de accidentes gra-
+ves o de catástrofes, y posibles efectos adversos significativos sobre el medio ambiente
+derivados de los mismos que establece que tras la valoración, no existe ningún riesgo
+Importante o muy grave y no se considera necesario establecer medidas de actuación
+adicionales a las ya establecidas para reducir o evitar estos riesgos.
+En conclusión, se trata de una actividad que no tiene efectos adversos significativos so-
+bre el medio ambiente, siempre que se apliquen las medidas recogidas en el apartado 4.
+“Condiciones y medidas para prevenir, corregir y compensar los efectos sobre el medioam-
+biente”. Igualmente, el proyecto no afecta a espacios de la Red Natura 2000. Por ello, del
+análisis técnico se concluye que no es preciso someter el proyecto a evaluación de impacto
+ambiental ordinaria.
+4. Condiciones y medidas para prevenir y corregir los efectos adversos sobre el medio ambiente.
+Se considera que la actividad no causará impactos ambientales críticos y los moderados
+o severos podrán recuperarse, siempre que se cumplan las medidas establecidas en los
+informes que figuran en el apartado 2 y las siguientes medidas correctoras, protectoras y
+compensatorias:
+A. Medidas preventivas y correctoras de carácter general:
+— Se informará a todo el personal implicado en la ejecución de este proyecto del contenido
+del presente informe de impacto ambiental, de manera que se ponga en su conocimien-
+to las medidas que deben adoptarse a la hora de realizar los trabajos. Asimismo, se dis-
+pondrá de una copia del presente informe en el lugar donde se desarrollen los trabajos.
+— Cualquier modificación del proyecto original deberá ser comunicada al órgano ambien-
+tal. Dichas modificaciones no podrán llevarse a cabo hasta que éste no se pronuncie
+sobre el carácter de la modificación, al objeto de determinar si procede o no someter
+nuevamente el proyecto al trámite ambiental oportuno.
+
+NÚMERO 100
+22633
+Miércoles 27 de mayo de 2026
+— No se realizará ningún tipo de obra auxiliar sin contar con su correspondiente informe,
+según la legislación vigente.
+— Los residuos producidos se gestionarán por gestor autorizado conforme a la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular. Deberán
+habilitarse las correspondientes áreas de almacenamiento de los residuos en función de
+su tipología, clasificación y compatibilidad.
+— Se cumplirá con la normativa de ruidos, el Decreto 19/1997, de 4 de febrero, de Regla-
+mentación de Ruidos y Vibraciones de Extremadura y Real Decreto 1367/2007, de 19
+de octubre, por el que se desarrolla la Ley 37/2003, de 17 de noviembre, del Ruido, en
+lo referente a zonificación acústica, objetivos de calidad y emisiones acústicas.
+— En aplicación del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban
+medidas de control de los riesgos inherentes a los accidentes graves en los que inter-
+vengan sustancias peligrosas, se solicitará a la Secretaría General de Interior, Emer-
+gencia y Protección Civil de la Junta de Extremadura su expresa conformidad o informe
+favorable.
+B. Medidas en la fase de construcción:
+— Se limitarán los trabajos en la planta de forma que se realicen durante el horario diurno
+de forma que se eviten molestias y minimice la posible afección por ruidos.
+— El ruido producido por el funcionamiento de la maquinaria será minimizado con un
+mantenimiento regular de la misma, ya que así se eliminan los ruidos procedentes de
+elementos desajustados que trabajan con altos niveles de vibración.
+— Se mantendrá la maquinaria en correcta puesta a punto en cuanto a los procesos gene-
+radores de gases y humos.
+— Para el control de los derrames, todas las zonas destinadas al almacenamiento de resi-
+duos deberán disponer de algún sistema de recogida o contención de fugas.
+— Se habilitará una zona impermeabilizada en el interior de los límites de las parcelas
+afectadas para el mantenimiento de vehículos. No se realizarán tareas de mantenimien-
+to de la maquinaria o los vehículos en áreas distintas a las destinadas para ello. Estas
+zonas se ubicarán fuera del dominio público hidráulico.
+— Todas las unidades trasformadoras deberán contar con un foso de recogida de aceite
+bajo los transformadores, dimensionado para albergar todo el aceite del transformador
+en caso de derrame del mismo e impermeabilizado para evitar riesgos de filtración y o
+contaminación de las aguas superficiales y subterráneas.
+
+NÚMERO 100
+22634
+Miércoles 27 de mayo de 2026
+— Con objeto de preservar la adecuada gestión y seguimiento de los residuos retirados, la
+promotora tendrá a disposición los documentos que acrediten la correcta gestión de los
+residuos a los diferentes gestores autorizados.
+— Al finalizar las obras se pondrá especial atención en la retirada de cualquier material no
+biodegradable o contaminante que se produzca a la hora de realizar los trabajos (emba-
+lajes, plásticos, metales, etc.). Estos residuos deberán almacenarse de forma separada
+y gestionarse por gestor autorizado.
+— Los residuos de construcción y demolición (RCD) que se generen, se deberán separar
+adecuadamente y entregar a una planta de reciclaje autorizada para su tratamiento,
+cumpliendo en todo caso con lo establecido en el Real Decreto 105/2008, de 1 de fe-
+brero, por el que se regula la producción y gestión de los residuos de construcción y
+demolición, y en el Decreto 20/2011, de 25 de febrero, por el que se establece el ré-
+gimen jurídico de la producción, posesión y gestión de los residuos de construcción y
+demolición en la Comunidad Autónoma de Extremadura.
+— Para la apertura de caminos y zanjas, se aprovechará al máximo la red de caminos exis-
+tentes y se tratará de ajustar su acondicionamiento a la orografía y relieve del terreno
+para minimizar pendientes y taludes.
+— Se deben restituir las áreas alteradas, especialmente en zanjas o si se generan taludes.
+Se gestionará adecuadamente la tierra vegetal para su uso posterior en las tareas de
+restauración de las superficies alteradas, que debe llevarse a cabo paralelamente duran-
+te la fase de construcción.
+— El vallado perimetral de la planta se ajustará a lo descrito en el Decreto 226/2013, de
+3 de diciembre, por el que se regulan las condiciones para la instalación, modificación y
+reposición de los cerramientos cinegéticos y no cinegéticos en la Comunidad Autónoma
+de Extremadura.
+C. Medidas en la fase de explotación:
+— Se mantendrán en correcto estado de funcionamiento y operativas todas las insta-
+laciones y dispositivos para cumplir las medidas correctoras incluidas en la presente
+declaración.
+— Se cumplirá lo dispuesto en los términos recogidos en el Real Decreto 1066/2001, de 28
+de septiembre, por el que se aprueba el Reglamento que establece condiciones de pro-
+tección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y
+medidas de protección sanitaria frente a emisiones radioeléctricas.
+
+NÚMERO 100
+22635
+Miércoles 27 de mayo de 2026
+— El control del pasto en el interior de la planta se realizará mediante pastoreo, desbro-
+ces, siega o una combinación entre ellos, en cualquier caso, los 50 m más externos
+perimetralmente de toda la planta deberán estar libre de pastos para evitar riesgos de
+incendios, en aquellas zonas de la planta que linden con caminos públicos, carreteras o
+áreas forestales, 8 m si está completamente rodeada de cultivos agrícolas, en el caso
+de la subestaciones deberán tener un área de 30 m perimetral libre de pasto y de 50 m
+perimetral libre de pasto en el caso de baterías de almacenamiento.
+D. Medidas para la restauración una vez finalizada la actividad:
+— En caso de finalización de la actividad se deberá dejar el terreno en su estado original,
+desmantelando y retirando todos los escombros y residuos por gestor autorizado. Se
+dejará el área de actuación en perfecto estado de limpieza, con el restablecimiento de la
+escorrentía original, intentando mantener la topografía original del terreno y procurando
+la restitución del terreno a su vocación previa al proyecto. Estas medidas se realizarán
+en un periodo inferior a 9 meses.
+— Se deberá presentar un plan de restauración un año antes de la finalización de la acti-
+vidad en el que se recoja las diferentes actuaciones que permitan dejar el terreno en
+su estado original, teniendo en cuenta la restauración paisajística y de los suelos, así
+como de la gestión de los residuos generados. Dicho plan deberá ser aprobado antes de
+su ejecución por el órgano ambiental que llevará a cabo las modificaciones que estime
+necesarias.
+E. Medida compensatoria:
+— Se instalará y mantendrá durante toda la vida útil de línea, una caja nido de cemento
+corcho polivalente en el apoyo, colocado en el tercio superior del mismo. La promotora
+se responsabilizará de su mantenimiento para garantizar su funcionalidad, siendo nece-
+saria su reposición cuando se deterioren.
+F. Programa de vigilancia y seguimiento ambiental:
+— La promotora deberá disponer de un programa de vigilancia ambiental que deberá con-
+tener, al menos, un informe anual sobre el seguimiento de las medidas incluidas en el
+informe de impacto ambiental.
+— El programa de vigilancia ambiental se remitirá anualmente a la Dirección General de
+Gestión Sostenible y Política Forestal para su supervisión. Este programa incluirá, entre
+otras actuaciones, la realización de visitas estratégicas y la elaboración y remisión de
+los correspondientes informes de seguimiento, que debe incluir al menos la siguiente
+información:
+
+NÚMERO 100
+22636
+Miércoles 27 de mayo de 2026
+• Estado de desarrollo de las obras con los correspondientes informes, tanto ordina-
+rios como extraordinarios o de incidencia. Los informes ordinarios deben incluir los
+informes iniciales, periódicos y final. Los informes extraordinarios se elaborarán para
+tratar cualquier incidencia con trascendencia ambiental que pudiera darse en la obra.
+• Datos de las visitas de inspección a las instalaciones (personal inspector, fecha, inci-
+dencias...).
+• La verificación de la eficacia y correcto cumplimiento de las medidas que conforman
+el condicionado del presente informe.
+• Control de las entradas y salidas de los residuos de construcción y demolición.
+• Gestión de las distintas categorías de residuos tratados, así como los justificantes de
+entrega a Gestor Autorizado.
+• Cualquier otra incidencia que sea conveniente resaltar.
+• Además, se incluirá un anexo fotográfico (en color) de las obras. Dichas imágenes
+serán plasmadas sobre un mapa, con el fin de saber desde qué lugares han sido
+realizadas.
+• En base al resultado de estos informes se podrán exigir medidas ambientales suple-
+mentarias para corregir las posibles deficiencias detectadas.
+Teniendo en cuenta todo ello, así como la no afección del proyecto a espacios de la Red Na-
+tura 2000, esta Dirección General de Gestión Sostenible y Política Forestal, a propuesta del
+Servicio de Prevención, Calidad Ambiental y Cambio Climático, resuelve, de acuerdo con la
+evaluación de impacto ambiental simplificada practicada conforme a lo previsto en la subsec-
+ción 2.ª de la sección 2.ª del capítulo VII del título I, tras el análisis realizado con los criterios
+del anexo X de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad
+Autónoma de Extremadura, mediante la formulación del presente informe de impacto am-
+biental, que no es previsible que la ISFA con almacenamiento de energía por baterías BESS
+para futura instalación denominada “Eranovum Fotolinera Mérida”, en el término municipal de
+Mérida (Badajoz) vaya a producir impactos adversos significativos sobre el medio ambiente,
+y por tanto, la innecesaridad de su sometimiento al procedimiento de evaluación de impacto
+ambiental ordinaria.
+Este informe de impacto ambiental perderá su vigencia y cesará en la producción de los
+efectos que le son propios si, una vez publicada en el Diario Oficial de Extremadura, no se
+hubiera procedido a la autorización del proyecto en el plazo máximo de cuatro años desde su
+publicación.
+
+NÚMERO 100
+22637
+Miércoles 27 de mayo de 2026
+Su condicionado podrá ser objeto de revisión y actualización por parte del órgano ambiental
+cuando:
+— Se produzca la entrada en vigor de nueva normativa que incida sustancialmente en el
+cumplimiento de las condiciones fijadas en el mismo.
+— Cuando durante el seguimiento del cumplimiento de este se detecte que las medidas
+preventivas, correctoras o compensatorias son insuficientes, innecesarias o ineficaces.
+De conformidad con lo dispuesto en el artículo 76.5 de la Ley 16/2015, de 23 de abril, de
+protección ambiental de la Comunidad Autónoma de Extremadura, el informe de impacto am-
+biental no será objeto de recurso alguno, sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+El informe de impacto ambiental será objeto de publicación en el Diario Oficial de Extremadu-
+ra y en la página web de la Consejería de Industria, Energía, Ciencia y Territorio
+(http://extremambiente.gobex.es/).
+El presente informe de impacto ambiental se emite a los solos efectos ambientales y en virtud
+de la legislación específica vigente, sin perjuicio de aquellas otras autorizaciones sectoriales o
+licencias que sean necesarias para la ejecución del proyecto.
+Mérida, 13 de mayo de 2026.
+El Director General de Gestión
+Sostenible y Política Forestal,
+JUAN ELOY RODRÍGUEZ UCEDO
+• • •
