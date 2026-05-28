@@ -1,0 +1,130 @@
+Boletín Oficial de Castilla y León
+Núm. 101 Jueves, 28 de mayo de 2026 Pág. 251
+I. COMUNIDAD DE CASTILLA Y LEÓN
+E. ANUNCIOS
+E.2. Otros Anuncios Oficiales
+CONSEJERÍA DE ECONOMÍA Y HACIENDA
+Servicio Territorial de Industria, Comercio y Economía de Segovia
+ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Segovia,
+por el que se somete a información pública la solicitud de «UFD, Distribución y
+Electricidad, S.A.», de autorización administrativa previa y evaluación de impacto
+ambiental del proyecto de la «LAT 45 kV Riaza-Prádena», cuyas actuaciones tendrán
+lugar en los términos municipales de Riaza, Sepúlveda, Castillejo de Mesleón, Cerezo de
+Arriba, Sotillo, Duruelo, Santa Marta del Cerro, Prádena, Orejana y Arcones (Segovia).
+Expte.: AT-14638.
+A los efectos previstos en el artículo 9.1 del Decreto 46/2022, de 24 de noviembre, por
+el que se regulan los procedimientos de autorizaciones administrativas de instalaciones
+eléctricas en Castilla y León; y en el artículo 36.1 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental; se somete a información pública la solicitud de Autorización
+Administrativa Previa y el Estudio de Impacto Ambiental del proyecto sujeto a evaluación
+de impacto ambiental ordinaria, cuyos datos figuran a continuación:
+Primero. Peticionario:
+UFD, Distribución y Electricidad, S.A., con NIF A63222533.
+Segundo. Características generales (tramo aéreo):
+Sistema: Corriente Alterna Trifásica.
+Frecuencia (Hz): 50.
+Tensión nominal (kV): 45 kV.
+Tensión más elevada de la red (kV): 52 kV.
+Categoría: 2.ª.
+Núm. de circuitos: 1
+Núm. de conductores aéreos por fase: 1.
+Tipo de conductor aéreo: LA-180.
+Número de apoyos: 100.
+CV: BOCYL-D-28052026-101-31
+
+Boletín Oficial de Castilla y León
+Núm. 101 Jueves, 28 de mayo de 2026 Pág. 252
+Longitud (km): 29,532.
+Zona de aplicación: ZONA C.
+Tipo de aislamiento: Aisladores poliméricos.
+Cimentaciones: Hormigón.
+Puesta a tierra: Picas.
+Tercero. Características generales (tramo subterráneo):
+Sistema: Corriente Alterna Trifásica.
+Frecuencia (Hz): 50.
+Tensión nominal (kV): 45 kV.
+Tensión más elevada de la red (kV): 52 kV.
+Potencia máxima de transporte (MVA): 40,9.
+Núm. de circuitos: 1.
+Cable: RHZ1-OL (S) 26/45 kV 1x630 Al + H165.
+Tipo de canalización: Bajo tubo, no objeto de este Proyecto.
+Núm. de conductores por fase: 1.
+Origen: Nueva posición de 45 kV en Subestación Riaza, no objeto de este Proyecto.
+Final: Apoyo PAS n.º 1 (paso subterráneo-aéreo proyectado sobre el apoyo n.º 1).
+Núm. de tramos: 1.
+Longitud: 35 m.
+Conexión de pantallas: Both-Ends.
+Cuarto. Descripción del trazado:
+La nueva línea tendrá su origen en la subestación de Riaza, en el término municipal
+de Riaza. Se iniciará en nueva posición de línea de 45 kV situada en la citada Subestación,
+a partir de la cual discurrirá en un primer tramo subterráneo de conductor RHZ1-OL (S)
+26/45 kV 1x630 Al + H165, de 35 metros de longitud total, íntegramente ubicado en la
+misma Subestación. La nueva posición de 45 kV y la canalización por la que discurrirá
+el tramo subterráneo descrito se recogen en el proyecto de reforma de la Subestación
+de Riaza.
+El tramo subterráneo finaliza en el apoyo proyectado n.º 1, a partir del cual la
+línea proyectada discurrirá de forma aérea durante 29.532 metros hasta su llegada a la
+subestación de Prádena.
+CV: BOCYL-D-28052026-101-31
+
+Boletín Oficial de Castilla y León
+Núm. 101 Jueves, 28 de mayo de 2026 Pág. 253
+En la siguiente tabla se muestran las coordenadas de los puntos de inicio y final
+del tramo subterráneo proyectado, utilizando como sistema geodésico de referencia el
+ETRS89 (European Terrestrial Reference System 1989), formado por el elipsoide GRS80,
+y la proyección cartográfica UTM (Universal Transversa Mercator), huso 30, zona Norte:
+X UTM Y UTM
+Posición de 45 kV recogida en el proyecto de reforma de la
+458.562 4.569.304
+Subestación de Riaza
+Paso Subterráneo –Aéreo proyectado sobre apoyo n.º 1– 458.557 4.569.297
+A partir del citado apoyo n.º 1, la línea eléctrica discurrirá por la provincia de Segovia,
+atravesando los términos municipales de Riaza, Sepúlveda, Castillejo de Mesleón, Cerezo
+de Arriba, Sotillo, Duruelo, Santa Marta del Cerro, Prádena, Orejana, y Arcones.
+Al alcanzar el apoyo n.º 100, de tipo Fin de Línea, proyectado en el interior de la
+subestación de Prádena, ubicada en el término municipal del mismo nombre, se tenderá
+un vano de conductor con tense reducido, para efectuar la llegada al pórtico donde
+finalizará la línea eléctrica. Los apoyos proyectados serán celosías metálicas del tipo O
+en las alineaciones y del tipo H en los anclajes, ángulos y apoyos de inicio y fin de línea.
+El conductor proyectado será del tipo LA-180.
+Quinto. Presupuesto general del proyecto: 2.109.586,27 euros.
+Sexto. Órgano ambiental, a los efectos de formular la preceptiva declaración de
+impacto ambiental por estar el proyecto sujeto a evaluación de impacto ambiental
+ordinaria:
+Servicio Territorial de Medio Ambiente de la Delegación Territorial de la Junta de
+Castilla y León en Segovia.
+Séptimo. Órgano competente:
+Servicio Territorial de Industria, Comercio y Economía de la Delegación Territorial de
+la Junta de Castilla y León en Segovia.
+Lo que se hace público, de acuerdo con los criterios establecidos en el artículo
+83 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, a fin de que cualquier persona física o jurídica pueda examinar
+el proyecto de la instalación y derechos afectados para la imposición de servidumbre
+de paso de energía eléctrica y el estudio de impacto ambiental, en el plazo de treinta
+días hábiles, contados a partir del siguiente al de la publicación de este anuncio,
+presencialmente en las dependencias de la Sección de Energía del Servicio Territorial de
+Industria, Comercio y Economía de la Junta de Castilla y León en Segovia, situada en la
+primera planta del edificio administrativo, sito en la Plaza de la Merced, 12, de la ciudad
+de Segovia, en días hábiles, de lunes a viernes, en horario de 9 a 14 horas; así como por
+Internet, siguiendo el siguiente vínculo:
+https://energia.jcyl.es/web/es/informacion-publica-energia-minas/energia-segovia.html
+y formularse en el referido plazo, cualesquiera alegaciones que se consideren oportunas
+al proyecto de la instalación, en cualquiera de los lugares establecidos en el artículo
+16.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+CV: BOCYL-D-28052026-101-31
+
+Boletín Oficial de Castilla y León
+Núm. 101 Jueves, 28 de mayo de 2026 Pág. 254
+Administraciones Públicas; así como en los Registros de las Delegaciones Territoriales
+en cada una de las provincias y en las Oficinas de asistencia en materia de registros de la
+Junta de Castilla y León, presencialmente; y en el registro electrónico de la Administración
+General del Estado, a través de medios electrónicos, siguiendo el siguiente vínculo:
+https://rec.redsara.es/registro/action/are/acceso.do
+–el código y nombre del organismo es: A07037312-Servicio Territorial de Industria,
+Comercio y Economía de Segovia–.
+Segovia, 22 de mayo de 2026.
+El Jefe del Servicio Territorial de Industria,
+Comercio y Economía de Segovia,
+Fdo.: Emilio García de Castro
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-28052026-101-31
