@@ -1,0 +1,388 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 1/6
+https://miprincipado.asturias.es/bopa
+11340-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de CienCia, industria y empleo
+ResoluCión de 20 de mayo de 2026, de la Consejería de Ciencia, industria y empleo, por la que se autoriza ins-
+talación eléctrica de alta tensión. expte. AuTo/2023/4900 (AT-10796).
+antecedentes de hecho
+Primero.—Con fecha de entrada en esta Consejería el 23/01/2024, remina investments, s. l. u., presenta solicitud
+de admisión a trámite, autorización administrativa previa e inicio de la evaluación de impacto ambiental simplificada de
+la instalación de almacenamiento eléctrico independiente denominada Bess Corredoria y su infraestructura de evacua-
+ción, correspondiéndole el expediente auto/2023/4900 (at-10796).
+segundo.—remitidas las separatas del proyecto a las distintas administraciones, organismos o empresas de servicio
+público o de servicios de interés general afectadas, con bienes y derechos a su cargo, al objeto de que establezcan el
+condicionado técnico procedente, se recibieron entre otros informes, el acuerdo de la Comisión de urbanismo y orde-
+nación del territorio de asturias (Cuota), de fecha 31/10/2024, en el que se concluye que la actividad solicitada no es
+autorizable en la ubicación indicada. en paralelo se sometió el proyecto a información pública, mediante anuncio publi-
+cado en el Bopa en fecha 19/02/2024, no recibiéndose alegaciones.
+Tercero.—Con fecha de entrada en esta Consejería el 26/09/2025, remina investments, s. l. u., presenta solicitud
+de autorización administrativa previa, autorización administrativa de construcción y evaluación de impacto ambiental
+simplificada del proyecto modificado de la instalación de almacenamiento eléctrico independiente Bess Corredoria y su
+infraestructura de evacuación, en una ubicación diferente en terreno urbanísticamente viable según los criterios urba-
+nísticos actuales y próximo al punto de conexión.
+Cuarto.—la instalación dispone de permisos de acceso y conexión a la red de distribución, otorgados por Hidrocantá-
+brico distribución eléctrica, s. a. u. (en adelante HC), con fecha 04/09/2023, para una potencia de 49 mW de capacidad
+de acceso, siendo el punto de conexión una nueva posición a instalar en Barras 132 Kv de se Corredoria. dichos per-
+misos se actualizaron en fecha 14/04/2026 por la compañía distribuidora para la nueva ubicación, al considerar que se
+trata de la misma instalación de generación a efectos de los permisos de acceso y conexión, tal y como se establece en
+la disposición adicional decimocuarta del real decreto 1955/2000, sin que en ningún caso dicha actualización conlleve
+la modificación de la fecha de concesión de los permisos.
+Quinto.—sometido el proyecto a información pública, mediante anuncio publicado en el Bopa de fecha 16/12/2025
+(Boletín n.º 241), se formularon las siguientes alegaciones:
+la asociación de vecinos paulino vicente de Campo de los reyes y teatinos, inscrita con el número 33 en el re-
+gistro de entidades Ciudadanas del ayuntamiento de oviedo y con el número 737 de la sección 1.ª en el registro de
+asociaciones del principado de asturias, expone los siguientes puntos y solicita se le tenga como parte interesada en el
+procedimiento:
+— No se les notificó a los vecinos colindantes estas instalaciones que suponen los 6 parques previstos en la zona,
+que van a estar al lado de sus viviendas y van a afectar en su calidad de vida.
+— no se tiene en cuenta el impacto de la contaminación electromagnética que se va a generar al lado de viviendas
+y las instalaciones deportivas (Complejo deportivo los Castañales), como viene denunciando la Coordinadora
+ecoloxista en los últimos años.
+— El terreno donde se propone está a menos de 100 metros de las viviendas.
+— no se tiene en cuenta el problema derivado de los almacenes de baterías de litio, como el riesgo de incendio,
+sobre todo por su rápida propagación y su dificultad para extinguirlos, además de la liberación de productos
+altamente tóxicos como son fluoruro de hidrógeno, dióxido de carbono, monóxido de carbono y óxidos de nitró-
+geno, que ponen en riesgo la salud de las personas expuestas a los gases.
+— No se tiene en cuenta el impacto ambiental acumulativo de este parque y los otros 5 que van en la misma zona
+de pontón de vaqueros con la Corredoria.
+sexto.—trasladas las alegaciones al promotor, éste respondió a todas las cuestiones planteadas, resumiendo a con-
+tinuación el contenido de las respuestas.
+respuesta a la asociación de vecinos paulino vicente:
+— El procedimiento de autorización de instalaciones eléctricas sigue lo establecido según el R. D. 1955/2000. Este
+proceso incluye un trámite de información pública, publicado en los Boletines Oficiales correspondientes (en
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 2/6
+https://miprincipado.asturias.es/bopa
+11340-6202
+.dóC
+este caso, Bopa), con el objetivo de garantizar que cualquier persona interesada pueda conocer el proyecto y
+presentar alegaciones dentro del plazo previsto. en este sentido, la normativa no exige que el promotor realice
+notificaciones individuales, ya que el procedimiento asegura la difusión y participación de todos los afectados
+que lo deseen. por otro lado, el trámite de información pública objeto de esta alegación se corresponde única-
+mente con la instalación de almacenamiento Bess Corredoria y no con los 6 parques que se mencionan en la
+alegación.
+— la tecnología de almacenamiento de energía que se prevé instalar cumple estrictamente con todas las normati-
+vas vigentes en materia de seguridad y los sistemas que conforman estas plantas son sometidos a rigurosos en-
+sayos por parte de los fabricantes, los cuales garantizan su seguridad y su total cumplimiento con la normativa
+aplicable. el proyecto de ejecución presentado incluye el correspondiente estudio de campos electromagnéticos
+que se encuentra en el anexo 1.1: cálculos justificativos, apartado 5. Campos electromagnéticos. El resultado
+de dicho estudio concluye que el campo magnético resultante en su punto más desfavorable (entrada de los
+trasformadores, ubicados en el interior de la instalación) es de 52,04 μT, valor significativamente inferior al
+máximo permitido, cumpliendo en todo momento con la normativa aplicable. igualmente, para la infraestructu-
+ra de evacuación, el resultado del estudio de campos magnéticos se recoge en el anexo 3.6: estudio de campos
+electromagnéticos, concluyéndose que se estima un valor máximo de 8,3386 μT a 1 m sobre la altura del suelo,
+siendo significativamente inferior al valor límite permitido. Por consiguiente, tanto para la planta como para la
+infraestructura de evacuación los campos electromagnéticos generados se situarían dentro de los límites permi-
+tidos por la normativa.
+— el proyecto se ubica en una antigua cantera actualmente en desuso junto a una fábrica de cerámicas también en
+desuso y colindante con la autovía as-ii. la documentación presentada ante el Órgano ambiental incluye todos
+los estudios necesarios para compatibilizar la instalación en el lugar seleccionado. de estos estudios se concluye
+que no existirá ningún tipo de afección sobre las viviendas más cercanas. además, dado que la planta de alma-
+cenamiento se conectará con la subestación eléctrica “se Corredoria”, es fundamental que ésta se ubique en
+sus proximidades para optimizar la eficiencia del sistema y reducir el impacto ambiental de la infraestructura de
+evacuación.
+— tal y como se describe en la documentación presentada ante el Órgano sustantivo como parte del procedi-
+miento ambiental, las instalaciones de almacenamiento cuentan con sistemas de protección contra incendios
+que cumplen estrictamente con la normativa internacional en materia de incendios, además de ser sometidos
+a rigurosos ensayos. Concretamente, los sistemas Bess son sistemas estancos diseñados para evitar la propa-
+gación del fuego y de las fugas térmicas al exterior en caso de incidente. en caso de sobrecalentamiento, las
+baterías cuentan con sistemas de reducción de temperatura y, si fuese necesario, con mecanismos adicionales
+de extinción de incendios, lo que garantiza un alto nivel de seguridad frente a cualquier eventualidad. un factor
+clave en cuanto a seguridad de estos sistemas es que las baterías utilizadas son de tipo lFp (litio-ferrofosfato). a
+diferencia de otras baterías como las de tipo nmC, muy comunes en el sector automovilístico, las lFp presentan
+una mayor estabilidad térmica, reduciendo significativamente el riesgo de ignición y explosión. Es por ello que
+esta tecnología ha sido seleccionada específicamente para el almacenamiento estacionario debido a su seguri-
+dad, fiabilidad y mejor comportamiento ante el calor.
+— la documentación presentada ante el Órgano sustantivo como parte del procedimiento ambiental recoge un
+estudio específico de efectos sinérgicos y acumulativos de la totalidad de las plantas de almacenamiento pro-
+yectadas en la zona.
+séptimo.—en relación al conjunto de las alegaciones presentadas, desde esta Consejería se realizan los siguientes
+análisis y conclusiones, teniendo en cuenta que las cuestiones de carácter ambiental del proyecto ya fueron conside-
+radas y analizadas en su informe de impacto ambiental (expediente ia-ia-0182/2025//auto/2025/27328), publicado
+en el Bopa de fecha 20/04/2026 y en el que se establecen medidas preventivas y correctoras, que se resumen en esta
+resolución.
+— En cuanto a la notificación a los vecinos colindantes, el Real Decreto 1955/2000 define detalladamente el pro-
+cedimiento administrativo a seguir para poder autorizar las instalaciones incluidas en el ámbito de la ley del
+Sector Eléctrico, sin que para la autorización administrativa previa y de construcción se requiera una notifica-
+ción particular a los vecinos. Dicha notificación sí se haría a los vecinos afectados, de tramitarse la declaración
+de utilidad pública, de acuerdo con la relación de bienes y derechos afectados por la solicitud, en concreto, del
+reconocimiento de la utilidad pública. pero en este caso no se está tramitando ninguna declaración de utilidad
+pública, que, por otro lado, las instalaciones de almacenamiento no tienen actualmente reconocida en la ley del
+sector eléctrico y por lo tanto no pueden solicitar.
+— En relación a la existencia de viviendas a menos de 100 metros del terreno en el que se proyecta la planta de
+almacenamiento, si bien se da esa situación para otras de las plantas de almacenamiento proyectadas en la
+zona, no ocurre con la planta objeto de este expediente, para el que las distancias a las viviendas más próximas
+son en todos los casos mayores. en cualquier caso, no existe actualmente una normativa que establezca una
+distancia mínima de este tipo de proyectos a viviendas. lo que debe garantizarse es la protección del medio
+ambiente y la salud de las personas, lo que en cada caso concreto, dependiendo de múltiples factores del em-
+plazamiento y el entorno, así como de la configuración del proyecto, supondrá unos condicionantes y medidas
+preventivas y correctoras necesarias, lo que se ha hecho mediante la evaluación ambiental del proyecto y que
+se exigirá al promotor en la ejecución de la obra y teniendo en cuenta los avances de la tecnología y las normas
+vigentes y de reconocido prestigio aplicables en ese momento.
+octavo.—remitidas las separatas del proyecto a las distintas administraciones, organismos o empresas de servicio
+público o de servicios de interés general afectadas, con bienes y derechos a su cargo, al objeto de que establezcan el
+condicionado técnico procedente, únicamente se recibieron informes de adiF, aqualia, HC y telefónica:
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 3/6
+https://miprincipado.asturias.es/bopa
+11340-6202
+.dóC
+— ADIF informa que, conforme se establece en la Ley 38/2015 del Sector Ferroviario, las obras planteadas estarían
+afectadas por la Zonas de afección del Ferrocarril, por lo que precisan autorización de este administrador de
+infraestructuras y deberán ajustarse a lo establecido en la citada Ley 38/2015 y su Reglamento de aplicación, en
+particular en lo que se refiere a su compatibilidad y delimitación con las Zonas de Dominio Público, Protección
+y Línea Límite de Edificación. En la citada autorización, y en razón a la documentación técnica que dé soporte
+al proyecto de las obras o instalaciones a materializar, o de la actividad a desplegar, se establecerán, por parte
+de esta Entidad, las prescripciones de naturaleza técnica específica y los condicionantes económicos que re-
+sulten de aplicación, para garantizar la correcta implementación de los trabajos o de las actividades objeto de
+autorización.
+— aqualia informa que, habiéndose recibido solicitud de los planos de las redes municipales de abastecimiento
+y saneamiento afectadas, desde esta concesionaria se procedió a la remisión de los planos solicitados, con la
+indicación expresa de que el titular de las citadas redes es el ayuntamiento de oviedo, por lo que la petición de
+emisión de informe y condicionado que se estime oportuno deberá remitirse directamente al ayuntamiento de
+oviedo.
+— HC informa que la construcción prevista en el proyecto de almacenamiento por baterías se ubica en una parcela
+con servidumbre de vuelo establecida por una línea de MT (22 kV) y un centro de transformación de intemperie
+propiedad de HC, que no se refleja en la documentación técnica enviada. De acuerdo con lo expuesto en la
+separata, parece que el Cti y la línea área de mt de alimentación deben ser desmantelados o reformados para
+la construcción de las infraestructuras proyectadas. además podrían producirse afecciones con otras líneas de
+otras instalaciones de almacenamiento por baterías en proyecto en el interior de la subestación Corredoria pro-
+piedad de HC. Los terminales, autoválvulas y conexiones de tierra de la línea de 132 kV. En la Subestación Co-
+rredoria, serán por cuenta del promotor. la nueva posición en la subestación Corredoria será construida por HC,
+a excepción de los terminales de 132 kV que los realizará en promotor, debiendo de cumplir en todo momento
+los requisitos de HC para poder acceder y trabajar en nuestras instalaciones, al igual que para la construcción
+de la línea por el interior de la subestación Corredoria, que será por cuenta del promotor.
+— telefónica responde que, una vez analizada la documentación, no tiene objeción alguna a la ejecución del pro-
+yecto referido siempre y cuando se cumpla la normativa vigente en relación con los paralelismos y cruzamientos
+con líneas de telecomunicación y en particular los reglamentos electrotécnicos de alta y Baja tensión.
+trasladados al promotor, éste acepta todos los condicionantes.
+noveno.—de conformidad con lo dispuesto en la ley 21/2013, de 9 de diciembre, de evaluación ambiental, este tipo
+de actuación está sujeta a evaluación de impacto ambiental simplificada. Por Resolución de 30/03/2026 de la Consejería
+de movilidad, medio ambiente y Gestión de emergencias, se formula informe de impacto ambiental (expediente ia-ia-
+0182/2025//AUTO/2025/27328) para la modificación del proyecto planta de almacenamiento de energía Bess Corredoria
+e infraestructuras de evacuación, oviedo, promovido por remina investments, s. l., que considera ambientalmente
+viable la alternativa 3 de entre las propuestas en el documento ambiental, siempre que cumplan las determinaciones,
+medidas y/o condiciones previstas en dicho documento ambiental y en las aportaciones realizadas por las administra-
+ciones durante la fase de consultas, en lo relativo a sus competencias sectoriales y por ello, no debe ser sometido a una
+evaluación ambiental ordinaria.
+a esos efectos, en la resolución indicada se establecen requerimientos adicionales en relación con la vulnerabilidad
+del proyecto, la calidad acústica, los campos electromagnéticos, la seguridad industrial, la hidrología, la calidad del agua,
+los residuos, la contaminación lumínica, el cambio climático, el vallado de la instalación y la integración paisajística,
+que deberán garantizarse por parte del promotor en las fases de ejecución, explotación y desmantelamiento según se
+especifica en cada caso.
+en particular, se deben cumplir los siguientes requerimientos:
+— desde el punto de vista de la vulnerabilidad del proyecto, su autorización requerirá un estudio geotécnico previo
+que determine las condiciones de cimentación de las instalaciones para evitar los riesgos geológicos e inestabi-
+lidad, el promotor deberá elaborar y presentar al servicio de emergencias del principado de asturias (sepa) un
+plan de autoprotección y cumplir una serie de requisitos adicionales en relación a la seguridad contra incendios,
+tales como que la planta dispondrá de hidrantes o sistema de abastecimiento de agua adecuados para servicios
+de extinción de incendios y en caso de no disponer de toma de agua a red se deberá instalar una red seca para
+uso exclusivo de bomberos, el diseño de los viales de acceso e internos de la planta garantizará el acceso y
+maniobrabilidad de camiones de bomberos, la distancia entre contenedores será suficiente para evitar que un
+incendio en un contenedor se propague a otros próximos, el cierre perimetral de seguridad actuará además
+como muro cortafuegos, los módulos de los sistemas de almacenamiento dispondrán de los sistemas de preven-
+ción y protección frente a riesgo de incendios y explosión indicados y cumplirán los estándares técnicos que se
+señalan. Con carácter previo a la puesta en servicio de la instalación el responsable técnico de la planta justifi-
+cará ante el órgano competente en materia de industria: el cumplimiento de los estándares técnicos señalados,
+los procedimientos para inspeccionar y probar rutinariamente las alarmas y los sistemas de protección contra
+incendios y de fuga térmica y el plan de autoprotección.
+En fecha 12/05/2026, el promotor presenta el estudio geológico-geotécnico solicitado, realizado sobre la par-
+cela en la que se ubicará la planta de almacenamiento Bess Corredoria objeto de este expediente, así como la
+Subestación Asturias 132/30 kV a la que se conecta, en el que se recogen las conclusiones y recomendaciones
+sobre todos aquellos aspectos que, desde el punto de vista geológico-geotécnico, afectan al proyecto de las
+instalaciones indicadas, señalando no obstante la necesidad de supervisión de la obra por personal especialista
+en geotecnia, que deberá comprobar todas las recomendaciones indicadas en el estudio e introducir, en su caso,
+las modificaciones necesarias.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 4/6
+https://miprincipado.asturias.es/bopa
+11340-6202
+.dóC
+— respecto a la calidad acústica, se implementarán las medidas necesarias para garantizar el cumplimiento de
+toda la normativa aplicable en lo referente a zonificación acústica, objetivos de calidad y emisiones acústicas,
+se minimizarán las emisiones de las fuentes de ruido, se identificarán aquellas que suponen mayor contribución,
+se elegirán los equipos con menor firma acústica y, en caso de que puedan producir vibraciones, se instala-
+rán sobre bancadas o en sistemas dotados con elementos absorbentes. durante la fase de funcionamiento los
+equipos estarán en buen estado de mantenimiento y en caso de que se detecte una superación de los niveles
+permitidos, se procederá a la adopción de las medidas correctoras necesarias, mediante la insonorización de los
+equipos causantes, procediendo en caso necesario a la paralización total o parcial de las instalaciones hasta que
+se restablezcan los niveles dentro de los límites legales.
+— En relación con los campos electromagnéticos, en ausencia de otra normativa específica, se adoptará como refe-
+rencia el anexo II Límites de exposición a las emisiones radioeléctricas del R. D. 1066/2001, de 28 de septiembre
+en el que se establecen las condiciones de protección del dominio público radioeléctrico y medidas de protección
+sanitaria en el que se establecen las restricciones y valores de referencia para campo eléctricos, magnéticos y
+electromagnéticos y en caso de detectarse una superación de los valores límites o de referencia de la normativa
+indicada se adoptarán las medidas correctoras necesarias para su atenuación o se eliminarán las causas que los
+producen.
+— respecto a la seguridad industrial se cumplirán los reglamentos de alta y baja tensión y el de incendios en es-
+tablecimientos industriales.
+— en relación con la hidrología, el promotor deberá tomar medidas de diseño técnico (plataformas o cubetos de
+retención, sistema de drenaje y balsa o depósito de recogida) que garanticen la recogida de las aguas generadas
+en sucesos de extinción, que se integrarán en el proyecto constructivo, asegurando así una protección eficaz de
+los acuíferos y masas de agua superficiales y subterráneos.
+— en relación con la calidad del agua, no se producirán afecciones de infraestructuras dedicadas al abastecimiento
+de agua de consumo a la población, reguladas por el Real Decreto 3/2023, de 10 de enero, por el que se esta-
+blecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y suministro.
+— en cuanto a los residuos generados, tanto en fase de construcción como de funcionamiento, serán gestionados
+de acuerdo a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular. Los
+residuos con contenido en amianto como el fibrocemento serán retirados por empresas autorizadas inscritas
+en el registro rera y entregadas a gestor autorizado. en el caso de que se generen excedentes de tierras se
+estará a lo que se disponga en la orden APM/1007/2017, de 10 de octubre. Y las baterías de ion-litio al final de su
+vida útil se gestionarán de acuerdo con la jerarquía de residuos y los residuos finales conforme el Real Decreto
+106/2008, de 1 de febrero, sobre pilas y acumuladores y la gestión ambiental de sus residuos.
+— En relación a la posible contaminación lumínica, se utilizarán lámparas de bajo consumo y alta eficiencia ener-
+gética, iluminación direccional dirigida al suelo que limite la dispersión de la luz y se usarán temperaturas de
+color que minimicen el impacto sobre la fauna y el medio ambiente.
+— desde el punto de vista del cambio climático, el aislamiento de los interruptores y las celdas del centro de trans-
+formador se realizará preferentemente con aislantes distintos al SF6, con menor potencial de generación de
+gases de efecto invernadero. en caso de utilización de este aislante la instalación deberá disponer de un control
+semestral de fugas de este gas. Finalizada la vida útil de la instalación el SF6 será gestionado como residuo
+peligroso ante gestor autorizado.
+— En cuanto al vallado de la instalación y la integración paisajística, en las superficies no utilizadas de la instala-
+ción se establecerá una cubierta vegetal, que será objeto de mantenimiento, la instalación deberá contar con
+un cierre perimetral de seguridad y se implantará un apantallamiento vegetal en todo su perímetro para facilitar
+la integración paisajística, preferentemente con especies autóctonas de hoja perenne o bien otras especies de
+hoja perenne y los equipos exteriores y los cerramientos serán acordes con el entorno.
+además, para realizar el seguimiento de los efectos ambientales del proyecto, se seguirá lo establecido al respecto
+en el Documento Ambiental, a fin de garantizar el cumplimiento de las indicaciones y medidas protectoras y correctoras
+contenidas en dicho documento y en el informe de impacto ambiental. en el primer año de funcionamiento de la insta-
+lación se presentará ante el órgano ambiental:
+— Campaña de medición acústica en horarios diurno y nocturno en los puntos residenciales que pueda presentar
+mayor afección acústica, para determinar la incidencia de la instalación en relación con los valores límites de
+emisión y los objetivos de calidad acústica.
+— Campaña de medición de densidad de corriente, intensidad del campo eléctrico, magnético e inducción mag-
+nética (μT) en el límite de parcela y justificación del cumplimiento de los valores de referencia en posibles
+receptores.
+— Reportaje fotográfico de la instalación y de los apantallamientos vegetales.
+la conclusión del análisis técnico incluido en la resolución señala que, visto lo expuesto y teniendo en cuenta las
+diferentes normativas sectoriales de aplicación, las observaciones planteadas por las administraciones públicas durante
+la fase de consultas en lo relativo a sus competencias sectoriales y las alegaciones recibidas por las personas interesa-
+das, se concluye que, con las medidas recogidas en el documento ambiental y en el informe de impacto ambiental, se
+alcanzará una significativa mitigación de los posibles impactos, que permitirá proporcionar una protección efectiva del
+medio ambiente y la salud de las personas. por tanto, no resultaría necesario someterlo al procedimiento de evaluación
+de impacto ambiental ordinaria prevista en la ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 5/6
+https://miprincipado.asturias.es/bopa
+11340-6202
+.dóC
+Décimo.—Cumplidos los trámites reglamentarios regulados en el título vii del real decreto 1955/2000, de 1 de di-
+ciembre, se han realizado las oportunas comprobaciones y análisis de la documentación técnica, alegaciones e informes
+presentados.
+Fundamentos de derecho
+Primero.—reglamento (ue) 2022/2577 del Consejo de 22 de diciembre de 2022 por el que se establece un marco
+para acelerar el despliegue de energías renovables, según el cual los activos de almacenamiento son de interés público
+superior y contribuyen a la salud y la seguridad públicas, al ponderar los intereses jurídicos de cada caso, a efectos del
+artículo 6, apartado 4 y el artículo 16, apartado 1, letra c), de la directiva 92/43/Cee del Consejo, el artículo 4, apartado
+7, de la directiva 2000/60/Ce del parlamento europeo y del Consejo y el artículo 9, apartado 1, letra a), de la directiva
+2009/147/Ce del parlamento europeo y del Consejo.
+segundo.—reglamento (ue) 2023/1542 del parlamento europeo y del Consejo, de 12 de julio de 2023, relativo a las
+pilas y baterías y sus residuos y por el que se modifican la Directiva 2008/98/CE y el Reglamento (UE) 2019/1020 y se
+deroga la directiva 2006/66/Ce.
+Tercero.—ley 39/2015, de 1 de octubre, del procedimiento administrativo Común de las administraciones públicas.
+Cuarto.—la ley 24/2013, de 26 de diciembre, del sector eléctrico, establece que las instalaciones de almacenamien-
+to de energía eléctrica forman parte de las actividades destinadas al suministro de energía y sus titulares son las perso-
+nas físicas o jurídicas que poseen instalaciones en las que se difiere el uso final de electricidad a un momento posterior a
+cuando fue generada, o que realizan la conversión de energía eléctrica en una forma de energía que se pueda almacenar
+para la subsiguiente reconversión de dicha energía en energía eléctrica.
+Quinto.—el real decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distri-
+bución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que la de-
+sarrolla y el real decreto 1183/2020, de 29 de diciembre, de acceso y conexión a las redes de transporte y distribución
+de energía eléctrica.
+sexto.—el real decreto 337/2014, de 9 de mayo, por el que se aprueban el reglamento sobre condiciones técnicas
+y garantías de seguridad en instalaciones eléctricas de alta tensión y sus instrucciones técnicas Complementarias itC-
+rat-01 a 23, el real decreto 223/2008, de 15 de febrero, por el que se aprueban el reglamento sobre condiciones téc-
+nicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias itC-lat
+01 a 09, el real decreto 842/2002, de 2 de agosto, por el que se aprueba el reglamento electrotécnico para baja tensión
+y sus instrucciones complementarias, así como la demás normativa y directrices vigentes que sean de aplicación.
+séptimo.—la ley 21/2013, de 9 de diciembre, de evaluación ambiental, la ley del principado de asturias 1/2001, de
+6 de marzo de patrimonio Cultural y ley del principado de asturias 4/2021, de 1 de diciembre, de medidas administra-
+tivas urgentes.
+octavo.—es competente esta Consejería para resolver el presente expediente, en virtud de las atribuciones que en
+esta materia le vienen conferidas por el ordenamiento jurídico vigente; artículo 38 de la ley del principado de asturias
+6/1984, de 5 de julio, del presidente y del Consejo de Gobierno, en relación con el artículo 5.4 del decreto 22/2023,
+de 31 de julio, del presidente del principado de asturias, de reestructuración de las Consejerías que integran la admi-
+nistración de la Comunidad autónoma, en su redacción dada por el decreto 23/2025, de 16 de abril, del presidente del
+Principado de Asturias, de quinta modificación de aquél; el Decreto 49/2025, de 29 de abril, por el que se establece la
+estructura orgánica básica de la Consejería de Ciencia, industria y empleo; y teniendo en cuenta que mediante reso-
+lución de 19 de mayo de 2025, de la Consejería de Ciencia, industria y empleo, se delega en la persona titular de la
+dirección General de energía y minería la competencia para resolver el referido expediente.
+vistos los antecedentes de hecho y fundamentos jurídicos citados, por la presente,
+resuelvo
+Primero.—otorgar la autorización administrativa previa a remina investments, s. l. u., para la siguiente instalación
+eléctrica:
+instalación: planta de almacenamiento de energía Bess Corredoria, de 47,50 mW de potencia instalada y capacidad
+de almacenamiento de 4 horas y sus infraestructuras de conexión, consistentes en:
+• Parque de Baterías de 52,44 MW de potencia y 209,76 MWh de capacidad de almacenamiento, formado por 40
+contenedores de baterías de ión-litio tipo LFP (litio-ferrofostato) de 20 pies (6058 mm × 2896 mm × 2438 mm),
+cada uno de ellos de 5.244 kWh de capacidad y albergando 4 racks de baterías.
+• Diez estaciones de potencia compuestas cada una por dos convertidores AC/DC-DC/AC de 3.087 kVA a 30ºC
+cada uno, un transformador de potencia de 6,174 MVA de doble devanado 30/0,660-0,660 kV y celdas de media
+tensión de 36 kV (una de protección de transformador y dos de línea).
+• Nuevas posiciones en la Subestación ASTURIAS 132/30 kV (tramitada en el expediente AUTO/2023/4406, AT-
+10793), con los siguientes equipos principales:
+- Sistema de 30 kV, con esquema simple barra, de montaje interior, en celdas blindadas, compuesto por tres
+celdas de línea, una celda de acometida de transformador y medida y una celda de servicios auxiliares.
+- Un transformador de potencia trifásico de aceite con relación de transformación 132/30 kV y de 45/50 MVA
+de potencia onan/onaF, con regulación en carga.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 6/6
+https://miprincipado.asturias.es/bopa
+11340-6202
+.dóC
+- Una reactancia trifásica conexión en zig-zag en paralelo con los embarrados de 30 kV y junto al transfor-
+mador de potencia 132/30kV.
+- Un transformador de servicios auxiliares 30±3x2,5%/0,400-0,230 kV de 160 kVA y grupo de conexión
+Dyn11.
+- Posición de transformador-línea de 132 kV, compuesta por tres pararrayos tipo autoválvula unipolares,
+tres transformadores de tensión inductivos, un seccionador tripolar con cuchillas de p. a. t., un interruptor
+automático tripolar, tres transformadores de intensidad y tres pararrayos tipo autoválvula unipolares con
+contador de descargas junto al transformador de potencia.
+- Cada una de las posiciones de 132 kV y 30 kV estarán equipadas con los elementos de maniobra, medida
+y protección necesarios para su operación segura.
+• Línea subterránea de alta tensión de 132 kV, simple circuito, desde la posición de 132 kV de la Subestación
+Asturias 132/30 kV, ubicada junto al sistema de almacenamiento, hasta la Subestación Corredoria 132 kV,
+propiedad de Hidrocantábrico Distribución Eléctrica, S. A., con conductor de aluminio tipo RHZ1-2OL 76/132 kV
+3x(1x800kAl+H120), por canalización bajo tubo, de 997 m de longitud.
+emplazamiento: el parque de baterías y la nueva posición en la subestación asturias estarán ubicados en la parce-
+la con referencia catastral 0372001tp7007s0001aG, con acceso proyectado desde la parcela con referencia catastral
+33900a809090170000tu, en lugar pontón de vaqueros y la línea de evacuación discurrirá desde la primera hasta la
+subestación Corredoria, todo ello en el barrio de la Corredoria, concejo de oviedo.
+Objeto: Almacenamiento de energía eléctrica para optimizar su uso, mejorar la eficiencia en el suministro eléctrico y
+favorecer la penetración de las energías renovables en el mix de generación.
+presupuesto: 27.988.751,64 €
+segundo.—otorgar la autorización administrativa de construcción de la instalación reseñada.
+Tercero.—la instalación deberá cumplir las condiciones especiales siguientes:
+1.ª Ha de realizarse de acuerdo con el proyecto presentado y se ajustará estrictamente a los reglamentos electro-
+técnicos de alta y Baja tensión, así como a cualquier otro reglamento de seguridad industrial y normas españolas o
+internacionales aprobadas que le sean de aplicación.
+2.ª Para cualquier modificación respecto al proyecto que deba realizarse, será de aplicación lo establecido en el artí-
+culo 115 del Real Decreto 1955/2000, de 1 de diciembre, respecto de las modificaciones de instalaciones de generación
+que hayan obtenido autorización administrativa previa y el cumplimiento de todas las condiciones establecidas en el
+citado artículo.
+3.ª una vez ejecutado el proyecto, se presentará la correspondiente solicitud de autorización de explotación, acompa-
+ñada de un certificado de final de obra suscrito por un técnico facultativo competente, en el que conste que la instalación
+se ha realizado de acuerdo con las especificaciones contenidas en el proyecto de ejecución aprobado, así como con las
+prescripciones de la reglamentación técnica aplicable a la materia.
+4.ª se dará cumplimiento, además, a las condiciones técnicas impuestas por las distintas administraciones, organis-
+mos o, en su caso, empresas de servicio público o de servicios de interés general en la parte que la instalación pueda
+afectar, a bienes y derechos a su cargo, las cuales han sido puestas en conocimiento del titular y aceptadas expresa-
+mente por él, debiendo tener en cuenta en particular las medidas y condiciones introducidas en el informe de impacto
+ambiental.
+Cuarto.—las presentes autorizaciones lo son únicamente a efectos administrativos, dejando a salvo los derechos y
+obligaciones de carácter civil; se otorgan sin perjuicio de tercero y no dispensa en modo alguno de la necesaria obtención
+por parte del titular de la instalación de cualesquiera otras autorizaciones, concesiones, licencias, permisos, contratos
+o acuerdos que la legislación vigente establezca con carácter preceptivo y en especial las relativas a ordenación del
+territorio, urbanismo y medio ambiente; disponiéndose de un plazo de ejecución de un año a partir de la obtención de
+todas ellas.
+oviedo, a 20 de mayo de 2026.—el Consejero de Ciencia, industria y empleo (p. d., resolución de 19/05/2025, Bopa
+del 23 de mayo), el director General de energía y minería.—Cód. 2026-04311.

@@ -1,0 +1,337 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 1/6
+https://miprincipado.asturias.es/bopa
+38340-6202
+.dóC
+I. Principado de Asturias
+• Disposiciones Generales
+Consejería De PresiDenCia, reto DemoGráfiCo, iGualDaD y turismo
+DeCreto 34/2026, de 18 de mayo, por el que se regula el Comité de Supervisión Ética, Normativa y de Innovación
+en Inteligencia Artificial de Asturias (Comité SeNDIA).
+PreámBulo
+el despliegue progresivo de sistemas de inteligencia artificial (en adelante, ia) en las administraciones públicas
+plantea retos sin precedentes en materia de gobernanza, ética y protección de los derechos fundamentales. en el plano
+europeo, el reglamento (ue) 2024/1689, del Parlamento europeo y del Consejo, de 13 de junio de 2024, por el que se
+establecen normas armonizadas en materia de inteligencia artificial (en adelante, ria), constituye el marco normativo de
+referencia. Dicho reglamento establece obligaciones específicas para las entidades que desarrollen, comercialicen o utili-
+cen sistemas de IA, con especial atención a los denominados sistemas de alto riesgo, e impone a los estados miembros
+y a sus administraciones la responsabilidad de garantizar una implantación segura, ética y respetuosa con los derechos
+fundamentales.
+el ria diseña, además, un sistema de gobernanza multinivel que integra autoridades nacionales de supervisión,
+organismos notificados y un Consejo de ia a escala europea, con el fin de asegurar la aplicación coherente del marco
+normativo, el intercambio de buenas prácticas y la coordinación entre estados miembros. en este contexto, los órganos
+de asesoramiento independiente en materia de IA resultan una pieza relevante para complementar la actuación de las
+autoridades competentes, reforzando la dimensión ética, jurídica y social de las decisiones públicas en este ámbito.
+en este contexto, en el Principado de asturias se aprobó el Decreto 98/2025, de 22 de julio, por el que se regula el
+uso de la inteligencia artificial en la administración del Principado de asturias y su sector público, que constituye el eje
+central de la gobernanza autonómica en esta materia. dicho decreto regula los principios aplicables a los sistemas de IA,
+establece los requisitos para su desarrollo, implantación y seguimiento, crea un entorno controlado de pruebas y atribu-
+ye a la Dirección General competente en materia de ia las funciones de evaluación, autorización y control de los sistemas
+desplegados. asimismo, atribuye al Comité de estrategia Digital y seguridad de la información (CeDisi) funciones de
+coordinación estratégica, formación e información en materia de IA.
+la aplicación del Decreto 98/2025, de 22 de julio, pone de manifiesto la conveniencia de reforzar la dimensión ética,
+jurídica y académica independiente en los procesos de evaluación previa a la autorización de sistemas de ia. las decisio-
+nes sobre el despliegue de tecnologías con potencial impacto en derechos de las personas, en la sociedad o en el medio
+ambiente no pueden descansar exclusivamente en la capacidad técnica interna de la administración, por sólida que esta
+sea. requieren también una perspectiva multidisciplinar externa, independiente y plural, que enriquezca el proceso de
+toma de decisiones y refuerce su legitimidad ante la ciudadanía y la sociedad.
+esta necesidad resulta coherente con las recomendaciones del Consejo de la organización para la Cooperación y
+Desarrollo económicos sobre ia confiable, que instan a los gobiernos a establecer mecanismos de evaluación multidis-
+ciplinar y supervisión independiente, y con el propio espíritu del ria, que apela a la responsabilidad de las autoridades
+públicas en la garantía de una ia centrada en el ser humano. asimismo, guarda coherencia con el reglamento (ue)
+2016/679, del Parlamento europeo y del Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas
+en lo que respecta al tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la
+Directiva 95/46/Ce (reglamento General de Protección de Datos), la ley orgánica 3/2018, de 5 de diciembre, de Protec-
+ción de Datos Personales y garantía de los derechos digitales (loPDGDD), las directrices del Consejo de europa y con los
+criterios del Comité europeo de Protección de datos en materia de sistemas automatizados de toma de decisiones, así
+como con la necesaria coordinación con la autoridad de control en materia de protección de datos personales.
+en este marco, el presente decreto regula el Comité de Supervisión Ética, normativa y de Innovación en Inteligencia
+artificial de asturias (Comité senDia), como órgano colegiado de asesoramiento, técnico y multidisciplinar. el Comité
+senDia no duplica ni sustituye las competencias atribuidas por el Decreto 98/2025, de 22 de julio, a la Dirección General
+competente en materia de ia ni al CeDisi, sino que actúa como instancia asesora previa e independiente. su función
+esencial es emitir dictámenes, criterios y recomendaciones de naturaleza ética, jurídica y académica que complementen
+las decisiones de autorización, supervisión y seguimiento que corresponden a los órganos ya existentes.
+la composición multidisciplinar del Comité senDia, que integra perfiles técnicos, jurídicos, éticos y académicos junto a
+representantes de la propia administración, garantiza que su aportación sea a la vez rigurosa, plural e independiente.
+Por lo expuesto, y de conformidad con el artículo 10.1.1 del estatuto de autonomía del Principado de asturias, que
+recoge su competencia exclusiva en la organización, régimen y funcionamiento de sus instituciones de autogobierno, con
+el presente decreto se regula el Comité SendIA, dotando a esta Administración de un órgano de asesoramiento indepen-
+diente que complementa la actuación de las autoridades competentes en materia de ia y protección de datos.
+Conforme a lo dispuesto en los artículos 129 de la ley 39/2015, de 1 de octubre, del Procedimiento administrativo
+Común de las administraciones Públicas y 31 de la ley del Principado de asturias 2/1995, de 13 de marzo, sobre régi-
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 2/6
+https://miprincipado.asturias.es/bopa
+38340-6202
+.dóC
+men jurídico de la administración se justifica la necesidad y eficacia de la norma, pues el fin primordial de la misma lo
+constituye regular un órgano colegiado con el que se contribuye a una gobernanza de la ia más robusta, transparente
+y garantista.
+Se cumple, asimismo, el principio de proporcionalidad, pues la norma propuesta contiene la regulación imprescindible
+para atender la necesidad a cubrir, no existiendo otras medidas menos restrictivas de derechos.
+se respeta el principio de seguridad jurídica, ya que la norma es coherente con el resto del ordenamiento jurídico na-
+cional y de la unión europea, siendo el instrumento jurídico más adecuado para ello, en cumplimiento de lo dispuesto en
+el artículo 19 quinquies.1 de la citada ley del Principado de asturias 2/1995, de 13 de marzo. en aplicación del principio
+de eficiencia, la norma evita cargas administrativas innecesarias o accesorias, racionalizando en su aplicación la gestión
+de los recursos públicos.
+en su tramitación se dio cumplimiento al principio de transparencia, sometiéndose a la debida publicación del proyec-
+to de decreto en los términos previstos en la ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información
+pública y buen gobierno y en la ley del Principado de asturias 8/2018, de 14 de septiembre, de transparencia, Buen
+Gobierno y Grupos de interés.
+en la tramitación de este decreto, constan los informes del CeDisi y de la Viceconsejería de Presupuestos y finan-
+ciación Autonómica.
+en su virtud, a propuesta de la Consejera de Presidencia, reto Demográfico, igualdad y turismo, y previo acuerdo
+del Consejo de Gobierno en su reunión de 18 de mayo de 2026,
+DisPonGo
+Artículo 1.—objeto.
+1. el presente decreto tiene por objeto regular el Comité de supervisión Ética, normativa y de innovación en inteli-
+gencia artificial de asturias (en adelante, Comité senDia), como órgano colegiado de asesoramiento, propuesta, apoyo
+técnico y seguimiento en materia de inteligencia artificial (ia).
+2. a efectos de este decreto, serán de aplicación las definiciones previstas en el reglamento (ue) 2024/1689 del
+Parlamento europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de
+inteligencia artificial (ria), incluyendo las relativas a sistemas de ia de alto riesgo, modelos de propósito general (GPai)
+y proveedores/usuarios. igualmente, resultarán aplicables las previstas en el Decreto 98/2025, de 22 de julio, por el que
+se regula el uso de la inteligencia artificial en la administración del Principado de asturias y su sector público.
+3. igualmente serán de aplicación las disposiciones del reglamento (ue) 2016/679, del Parlamento europeo y del
+Consejo de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos
+personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/Ce (reglamento General de
+Protección de Datos), y la ley orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales (loPDGDD), en lo relativo al tratamiento de datos personales en sistemas de ia.
+Artículo 2.—Naturaleza, adscripción y ámbito de actuación.
+1. el Comité SendIA es un órgano colegiado de asesoramiento, propuesta, apoyo técnico y seguimiento en mate-
+ria de ia, de composición técnica y multidisciplinar, sin personalidad jurídica propia, de conformidad con lo previsto
+en el artículo 19 quater de la ley del Principado de asturias 2/1995, de 13 de marzo, sobre régimen jurídico de la
+Administración.
+2. se adscribe a la Consejería competente en materia de ia, a través de la Dirección General competente en dicha
+materia, sin perjuicio de la autonomía funcional que le resulta inherente en el ejercicio de sus funciones, en especial en
+la emisión de sus dictámenes, informes y recomendaciones.
+3. su ámbito de actuación comprende el uso de la ia por la administración del Principado de asturias, su sector pú-
+blico, medios propios y por quienes presten servicios a dicha administración y su sector público mediante contratación
+o concesión.
+artículo 3.—Funciones.
+el Comité senDia ejercerá las siguientes funciones, que se desarrollarán de forma complementaria y sin perjuicio
+de las atribuidas a la Dirección General competente en materia de ia y al Comité de estrategia Digital y seguridad de la
+información (CeDisi) por el Decreto 98/2025, de 22 de julio:
+a) emitir dictámenes de carácter no vinculante cuando sean requeridos por la Dirección General competente en
+materia de IA, sobre las evaluaciones de impacto en derechos fundamentales, impacto social, económico o me-
+dio ambiental y otros impactos relevantes asociados al desarrollo, adquisición o despliegue de sistemas de ia
+por la administración del Principado de asturias y resto de sujetos a los que alude el artículo 2.3, sin perjuicio
+de la emisión del informe preceptivo previsto en el artículo 7.1 del Decreto 98/2025, de 22 de julio.
+Salvo casos de urgencia debidamente motivada, el plazo para la emisión de dictámenes será de treinta días
+hábiles desde la recepción de la solicitud.
+b) asesorar a la Dirección General competente en materia de ia en la confección de guías u otros documentos de
+uso de los sistemas de ia cuya elaboración corresponde a dicha Dirección General en virtud del artículo 6 del
+Decreto 98/2025, de 22 de julio, aportando perspectiva ética, jurídica y académica independiente.
+c) Proponer criterios, metodologías y recomendaciones técnicas destinadas a facilitar el cumplimiento, por parte
+de la administración del Principado de asturias y su sector público, de las obligaciones que corresponden a los
+usuarios de sistemas de IA conforme al RIA, en particular, en materia de gestión de riesgos, gobernanza de los
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 3/6
+https://miprincipado.asturias.es/bopa
+38340-6202
+.dóC
+datos, supervisión humana, documentación técnica y evaluación de impacto en derechos fundamentales, apli-
+cables a los procesos de adquisición y uso de dichos sistemas; sin perjuicio de las competencias que en materia
+de contratación pública correspondan a los órganos competentes, y que la Dirección General competente en
+materia de IA podrá incorporar, en su caso, a guías, recomendaciones o documentos de apoyo.
+d) apoyar técnicamente a la Consejería competente en materia de ia en el ejercicio de sus funciones de coordi-
+nación con las administraciones y autoridades previstas en el artículo 8 del Decreto 98/2025, de 22 de julio,
+elaborando cuantos informes y propuestas se consideren.
+e) Contribuir al diseño de los programas de formación y capacitación del personal empleado público en materia de
+ia que corresponde fomentar al CeDisi conforme al artículo 6 bis, letra a) del Decreto 37/2018, de 18 de julio,
+de organización y desarrollo de los instrumentos de funcionamiento de las tecnologías de la información y las
+comunicaciones y de la seguridad de la información de la Administración del Principado de Asturias y su sector
+público, aportando contenidos de carácter ético y jurídico.
+f) analizar los resultados del seguimiento y monitorización de los sistemas de ia desplegados, en los términos pre-
+vistos en el artículo 28 del Decreto 98/2025, de 22 de julio, y formular recomendaciones a la Dirección General
+competente en materia de IA sobre medidas correctoras, incluyendo, en su caso, la propuesta de retirada de
+sistemas de ia, conforme al artículo 30 de dicho decreto.
+g) formular recomendaciones de buenas prácticas en el diseño, adquisición y uso de sistemas de ia en la admi-
+nistración del Principado de asturias y su sector público, que podrán hacerse públicas a través del portal de
+transparencia autonómico.
+h) Proponer criterios y recomendaciones para la clasificación y revisión del nivel de riesgo de los sistemas de ia
+utilizados por la administración del Principado de asturias y su sector público, en coherencia con el marco esta-
+blecido por el RIA y su normativa de desarrollo.
+i) emitir, por iniciativa propia, dictámenes y recomendaciones generales sobre tendencias, riesgos emergentes o
+buenas prácticas en materia de ia en el sector público del Principado de asturias.
+j) evaluar de manera específica los riesgos de discriminación directa o indirecta, el impacto social diferenciado y
+los efectos sobre colectivos vulnerables derivados del uso de sistemas de IA, especialmente en los ámbitos de
+servicios sociales, igualdad y atención a la ciudadanía.
+k) ejercer cualesquiera otras funciones que le encomiende la persona titular de la Consejería competente en ma-
+teria de IA.
+artículo 4.—Composición.
+1. Serán miembros del Comité SendIA, el Presidente/a, el vicepresidente/a y los vocales.
+2. la Presidencia la ostentará la persona titular de la Consejería competente en materia de ia.
+3. la Vicepresidencia la ostentará la persona titular de la Dirección General competente en materia de ia, que susti-
+tuirá a la Presidencia en los supuestos de vacante, ausencia, enfermedad u otra causa justificada.
+4. actuará como secretario/a, con voz pero sin voto, un funcionario/a de la Consejería a la que esté adscrito el Comité
+SendIA.
+5. la composición de las vocalías será la siguiente:
+a) Como vocales de la administración del Principado de asturias:
+1.º la persona titular del servicio competente en materia de estrategia en ia.
+2.º la persona titular del servicio competente en materia de seguridad de la información y datos.
+3.º un representante de la secretaría General técnica de la Consejería competente en materia de ia.
+4.º un representante del instituto asturiano de administración Pública “adolfo Posada”.
+5.º un representante de la Consejería competente en materia de salud.
+6.º un representante de la Consejería competente en materia de educación.
+7.º un representante de la Consejería competente en materia de régimen jurídico de la contratación.
+8.º un representante de la Consejería competente en materia de servicios sociales.
+9.º la persona titular de la jefatura del servicio jurídico del Principado de asturias o persona en quien
+delegue.
+10.º la persona titular de la subdirección General competente en materia de reforma de la administración.
+11.º la persona titular de la subdirección General competente para el impulso de agentes de ia.
+12.º la persona titular de la intervención General.
+b) Como vocales externos a la administración del Principado de asturias:
+1.º un representante del sector empresarial, propuesto por la federación asturiana de empresarios (faDe).
+2.º un representante del Clúster tiC asturias, propuesto por la persona titular de la Dirección General com-
+petente en materia de IA.
+3.º un representante del Consorcio asturiano de servicios tecnológicos (Cast), propuesto por la persona
+titular de la Presidencia.
+4.º Dos representantes de la universidad de oviedo.
+5.º un representante de los Centros tecnológicos del Principado de asturias, propuesto por la persona titular
+de la Dirección General competente en materia de ia.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 4/6
+https://miprincipado.asturias.es/bopa
+38340-6202
+.dóC
+6.º un representante de entidades del tercer sector vinculadas a inclusión digital, derechos fundamentales o
+supervisión algorítmica, propuesto por la persona titular de la Consejería competente en materia de ser-
+vicios sociales.
+7.º un representante de cada uno de los dos sindicatos más representativos en asturias.
+8.º un representante del Colegio oficial de ingeniería en informática del Principado de asturias.
+6. las propuestas y designaciones de las personas integrantes del Comité garantizarán la presencia equilibrada de
+mujeres y hombres, de conformidad con la normativa vigente en materia de igualdad.
+7. los vocales del Comité serán designados por la persona titular de la Consejería competente en materia de ia,
+mediante resolución, que se publicará en el Boletín Oficial del Principado de Asturias. en el nombramiento o designación
+de cada miembro y del titular de la Secretaría, se designará al suplente en los casos de ausencia, vacante, enfermedad
+u otra causa legal.
+8. la participación de representantes de universidades, centros tecnológicos y personas expertas independientes se
+ampara en lo previsto en el artículo 19 quater.3, párrafo segundo, de la ley del Principado de asturias 2/1995, de 13
+de marzo, en atención a las especiales condiciones de experiencia y conocimiento que concurren en dichos miembros en
+relación con las funciones asignadas al Comité.
+artículo 5.—Duración del mandato y cese de los miembros del Comité SeNDIA.
+1. el mandato de los miembros del Comité SendIA tendrá una duración de cuatro años, renovables por períodos de
+igual duración, previa nueva designación, excepto aquellos miembros que lo sean por razón del cargo que ocupan, en
+cuyo caso conservarán su condición mientras ostenten aquél en virtud del cual fueron designados.
+2. además de por la finalización del mandato, los miembros del Comité cesarán por renuncia, revocación de la repre-
+sentación que ostenten o cese en el cargo en función del cual han sido designados.
+Artículo 6.—Derechos de los miembros del Comité SeNDIA.
+los miembros del Comité senDia tendrán los siguientes derechos:
+a) recibir con antelación la convocatoria y el orden del día de las reuniones.
+b) Participar en los debates y ejercer el derecho al voto.
+c) formular sugerencias y preguntas.
+d) Disponer de la información necesaria para cumplir con sus funciones.
+e) Presentar propuestas para su inclusión en el orden del día del Comité.
+f) ejercer todas las demás funciones inherentes a su condición.
+Artículo 7.—Deberes de los miembros del Comité SeNDIA.
+1. los miembros del Comité senDia ejercerán sus funciones con objetividad, imparcialidad, independencia, diligencia
+y respeto al interés general.
+2. en particular, deberán:
+a) asistir a las sesiones del Comité, salvo causa justificada, y participar en sus trabajos con la diligencia debida.
+b) Guardar confidencialidad sobre la información, documentación y deliberaciones de las que tengan conocimiento
+por razón de su participación en el Comité, especialmente cuando afecten a datos personales, secretos empresa-
+riales, propiedad intelectual o industrial, seguridad de los sistemas de información o proyectos no publicados.
+c) utilizar la información a la que accedan exclusivamente para el ejercicio de las funciones propias del Comité.
+d) abstenerse de intervenir en los asuntos en los que concurra causa legal de abstención o cualquier situación de
+conflicto de intereses que pueda comprometer su imparcialidad.
+3. el deber de confidencialidad subsistirá tras el cese como miembro del Comité respecto de la información conocida
+por razón de dicha condición, sin perjuicio de las obligaciones de publicidad, transparencia, control o comunicación que
+resulten exigibles al órgano.
+4. las personas que asistan a las sesiones del Comité sin ostentar la condición de miembros quedarán sujetas al de-
+ber de confidencialidad y reserva respecto de la información a la que accedan por razón de dicha asistencia.
+artículo 8.—régimen de funcionamiento.
+1. el Comité senDia se regirá por lo dispuesto en el presente decreto y, supletoriamente, por la normativa que se
+señala en la ley del Principado de asturias 2/1995, de 13 de marzo, para los órganos colegiados de la administración y,
+en su defecto, por las normas no básicas de la legislación estatal sobre régimen jurídico del sector público.
+la Dirección General competente en materia de ia proporcionará el apoyo técnico y administrativo necesario para el
+adecuado funcionamiento del Comité SendIA.
+2. el Comité celebrará sesión ordinaria al menos dos veces al año y sesión extraordinaria siempre que lo convoque la
+Presidencia o lo solicite, al menos, un tercio de sus miembros con derecho a voto.
+la convocatoria, con el orden del día y la documentación necesaria para la deliberación, se remitirá a los miembros
+con una antelación mínima de cinco días hábiles. en casos de urgencia debidamente motivada, dicho plazo podrá redu-
+cirse a cuarenta y ocho horas.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 5/6
+https://miprincipado.asturias.es/bopa
+38340-6202
+.dóC
+3. el Comité quedará válidamente constituido cuando concurran, en primera convocatoria, la Presidencia o persona
+en quien delegue, la secretaría y la mayoría de sus miembros. en segunda convocatoria, será suficiente la asistencia de
+la Presidencia y la secretaría, o quienes legalmente les sustituyan, y de un tercio de sus miembros.
+las sesiones podrán celebrarse de forma presencial, telemática o mixta, garantizándose en todo caso la identidad de
+los participantes, el contenido de sus manifestaciones y la seguridad del canal de comunicación.
+Cuando estuvieran reunidos, de manera presencial o a distancia, el Secretario/a y todos los miembros del Comité,
+o en su caso las personas que les suplan, éstos podrán constituirse válidamente como órgano para la celebración de
+sesiones, deliberaciones y adopción de acuerdos sin necesidad de convocatoria previa cuando así lo decidan todos sus
+miembros.
+4. los acuerdos se adoptarán por mayoría simple de las personas presentes con derecho a voto. en caso de empate,
+la Presidencia dispondrá de voto de calidad.
+5. el Comité podrá acordar la constitución de grupos de trabajo especializados para el análisis de materias concretas.
+estos grupos podrán incorporar personas expertas externas con carácter consultivo, sin que ello suponga su integración
+como miembros del Comité.
+Asimismo, podrá acordar la comparecencia en sus reuniones, de personas expertas, de representantes de las uni-
+dades promotoras de los proyectos de ia, de organizaciones de la sociedad civil o de otras entidades afectadas, a fin
+de recabar cuanta información resulte necesaria para el mejor cumplimiento de sus funciones, sin que ello suponga la
+integración de estas personas como miembros del Comité.
+6. la pertenencia al Comité no dará derecho a retribución, complemento o indemnización por asistencia a sus sesio-
+nes, sin perjuicio, en su caso, del resarcimiento de los gastos que procedan conforme a la normativa reguladora de las
+indemnizaciones por razón del servicio.
+Disposición adicional primera. Función de apoyo al cumplimiento del Reglamento (UE) 2024/1689, del Parlamento Eu-
+ropeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas armonizadas en materia de inteligencia
+artificial (RIA)
+el Comité senDia actuará como órgano de apoyo técnico, jurídico y ético para facilitar el cumplimiento del regla-
+mento (ue) 2024/1689, del Parlamento europeo y del Consejo, de 13 de junio de 2024, por el que se establecen normas
+armonizadas en materia de inteligencia artificial (ria) por parte de la administración del Principado de asturias y su
+sector público, en particular respecto de las obligaciones que dicho reglamento impone a los usuarios de sistemas de
+inteligencia artificial, sin asumir ni sustituir las competencias que correspondan a otros órganos u autoridades.
+Disposición adicional segunda. Alineación normativa y adaptación continua
+el Comité senDia ajustará sus actuaciones a lo previsto en el ria, en la normativa estatal en materia de inteligencia
+artificial, en la normativa en materia de protección de datos personales, y en el Decreto 98/2025, de 22 de julio, por
+el que se regula el uso de la inteligencia artificial en la administración del Principado de asturias y su sector público. a
+medida que se aprueben nuevos actos de ejecución, normas técnicas armonizadas u orientaciones de las autoridades
+competentes derivadas del RIA, el Comité adaptará sus procedimientos y criterios de actuación a dichas actualizaciones.
+en particular, el Comité senDia tendrá en cuenta las orientaciones y criterios que emita la agencia española de super-
+visión de la inteligencia artificial, así como las directrices de las autoridades competentes en materia de protección de
+datos y derechos digitales.
+Disposición adicional tercera. Coordinación con la Delegada/o de Protección de Datos de la Administración del Principado
+de Asturias
+1. Cuando los asuntos sometidos al Comité senDia impliquen tratamiento de datos personales, se dará traslado de
+los mismos a la Delegada/o de Protección de Datos de la administración del Principado de asturias, a fin de que pueda
+formular observaciones o emitir informe, que se incorporarán al expediente correspondiente.
+2. Cuando existan discrepancias entre las recomendaciones del Comité SendIA y las formuladas por la delegada/o
+de Protección de datos, el órgano competente para resolver deberá motivar expresamente la opción seguida, haciendo
+referencia a las consideraciones planteadas por ambos órganos.
+Disposición adicional cuarta. Sesiones reservadas
+el Comité podrá declarar reservada la totalidad o parte de sus sesiones cuando la naturaleza de los asuntos tratados
+así lo exija, especialmente cuando puedan verse afectados datos personales, secretos empresariales, derechos de pro-
+piedad intelectual o industrial, seguridad de los sistemas de información o proyectos no publicados.
+Disposición adicional quinta. Gasto público
+la aprobación de este decreto no supondrá incremento alguno del gasto público, siendo sus necesidades satisfechas
+a través de los medios materiales y personales existentes en la Consejería competente en materia de ia.
+Disposición final primera. Modificación del Decreto 73/2023, de 18 de agosto, por el que se establece la estructura or-
+gánica básica de la Consejería de Presidencia, Reto Demográfico, Igualdad y Turismo
+se añade un número 6 al artículo 1.1.c), “Órganos de asesoramiento y apoyo”, del Decreto 73/2023, de 18 de agos-
+to, por el que se establece la estructura orgánica básica de la Consejería de Presidencia, reto Demográfico, igualdad y
+Turismo, con el siguiente tenor literal:
+“6. Comité de supervisión Ética, normativa y de innovación en inteligencia artificial de asturias.”
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 102 de 29-v-2026 6/6
+https://miprincipado.asturias.es/bopa
+38340-6202
+.dóC
+Disposición final segunda. Habilitación normativa
+se habilita a la persona titular de la Consejería competente en materia de inteligencia artificial para dictar cuantas
+disposiciones resulten necesarias para el desarrollo y ejecución del presente decreto, sin perjuicio de las normas internas
+de funcionamiento que pueda aprobar el Comité senDia.
+Disposición final tercera. Entrada en vigor
+el presente decreto entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Principado de
+Asturias.
+Dado en Pola de siero, a dieciocho de mayo de dos mil veintiséis.—el Presidente del Principado de asturias, adrián Bar-
+bón rodríguez.—la Consejera de Presidencia, reto Demográfico, igualdad y turismo, Gimena llamedo González.—Cód.
+2026-04383.
