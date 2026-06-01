@@ -1,0 +1,248 @@
+AÑO XLV Núm. 102 1 de junio de 2026 21795
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/05/2026, de la Dirección General de Calidad Ambiental, por la que se formula el informe de
+impacto ambiental de sometimiento a evaluación de impacto ambiental ordinaria del proyecto: Permiso de
+investigación minera Cabrahigos número 4247. (Expediente S478/2025/DG/00044), a realizar en los términos
+municipales de Navas de Estena y Retuerta de Bullaque (Ciudad Real) y San Pablo de los Montes, Hontanar
+y Menasalbas (Toledo), cuya promotora es Orobeira, SLU. [2026/4057]
+La Ley 2/2020, de 7 de febrero de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada, por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, dentro del Grupo 3. Perforaciones,
+dragados y otras instalaciones mineras e industriales, apartado e). El otorgamiento de permisos de investigación,
+autorizaciones y cualquier tipo de concesión minera, incluyendo sus prórrogas, así como los préstamos de obras
+(proyectos no incluidos en el anexo I).
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental, de fecha de abril de 2025, el Permiso de Investigación “Cabrahigos” número 4247
+tiene por objeto el desarrollo de un programa de investigación geológico- minera orientado a reducir la incertidumbre
+geológica existente y evaluar el potencial de recursos minerales, fundamentalmente oro y metales asociados, sin
+contemplar actuaciones extractivas ni aprovechamiento minero en esta fase. Se trata de un proyecto de carácter
+científico- técnico, estructurado de forma secuencial, en el que las distintas actuaciones previstas permiten
+avanzar progresivamente desde el conocimiento preliminar del terreno hasta la obtención de un modelo geológico
+tridimensional que sustente una eventual valoración de recursos.
+El ámbito del permiso abarca una superficie aproximada de 7.000 hectáreas, correspondientes a 234
+cuadrículas mineras, con una configuración morfológica predominantemente rectangular en dirección oeste-este.
+Administrativamente, el área de investigación se distribuye entre los términos municipales de Hontanar, Menasalbas
+y San Pablo de los Montes, en la provincia de Toledo, y Navas de Estena y Retuerta del Bullaque, en la provincia
+de Ciudad Real. Desde el punto de vista geográfico y geológico, el ámbito queda enmarcado en el entorno de la
+Sierra de San Pablo, que atraviesa el sector septentrional del permiso y constituye uno de los principales elementos
+estructurales y metalogenéticos del área de estudio.
+Los trabajos se inician con una fase de gabinete basada en la recopilación, revisión e integración de la información
+geológica, minera, tectónica e hidrogeológica existente en la zona de estudio, utilizando como principales fuentes
+documentales los fondos del Instituto Geológico y Minero de España y archivos históricos provinciales. Esta
+información será tratada e integrada mediante herramientas SIG con el objeto de elaborar un modelo metalogenético
+preliminar y planificar las campañas de campo posteriores, optimizando la localización de zonas de interés.
+Sobre esta base se desarrollará una campaña de reconocimiento geológico de detalle sobre el terreno, mediante
+levantamientos a escala 1: 10.000 enfocados en la caracterización litológica, estructural y minera del área, prestando
+especial atención a evidencias de labores históricas preexistentes. Estos trabajos se ejecutarán mediante recorridos
+a pie por personal técnico especializado, empleando instrumentación manual y equipos de posicionamiento de
+precisión. Paralelamente, se realizará un muestreo puntual de afloramientos rocosos destinado a análisis petrográficos,
+mineralógicos y geoquímicos, con recogida de pequeñas cantidades de muestra sin alteración significativa.
+Complementariamente, se prevé una campaña de prospección geoquímica de suelos dirigida a detectar posibles
+anomalías geoquímicas relacionadas con mineralizaciones no aflorantes. Para ello, se ejecutarán perfiles sistemáticos
+de muestreo mediante barrena manual, extrayendo pequeñas cantidades de suelo superficial conforme a una
+malla de investigación predefinida. Los resultados obtenidos permitirán contrastar la presencia de concentraciones
+anómalas respecto al fondo geoquímico natural y definir áreas prioritarias para fases posteriores.
+
+AÑO XLV Núm. 102 1 de junio de 2026 21796
+Como continuación de esta investigación indirecta del subsuelo, se desarrollarán campañas de geofísica de
+superficie mediante tomografía eléctrica y polarización inducida, técnicas no invasivas que permiten caracterizar la
+distribución de resistividades y cargabilidades asociadas a estructuras mineralizadas en profundidad. Estos trabajos
+consisten en el despliegue temporal de líneas de electrodos instalados manualmente en el terreno, sin movimientos
+significativos de tierras, permitiendo identificar estructuras favorables y optimizar el emplazamiento de posibles
+sondeos.
+La fase más avanzada del programa contempla la realización de 10 sondeos en 2 fases distintas. Su distribución
+responde a criterios geológico-estructurales orientados a cubrir de forma preliminar la totalidad del permiso y
+contrastar los indicios de mineralización identificados en investigaciones históricas. Su ubicación en coordenadas
+ETRS89 / UTM Huso 30 es la siguiente:
+Campaña Sondeos Coordenada X Coordenada Y
+Cabrahigos-01 381.714,00 4.375.501,00
+Cabrahigos-02 378.654,00 4.374.387,00
+Fase 1 Cabrahigos-03 377.529,00 4.373.936,00
+Cabrahigos-04 376.888,00 4.375.413,00
+Cabrahigos-05 378.695,00 4.375.545,00
+Cabrahigos-06 381.714,00 4.375.501,00
+Cabrahigos-07 381.714,00 4.375.501,00
+Fase 2 Cabrahigos-08 377.333,00 4.374.165,00
+Cabrahigos-09 378.302,00 4.374.454,00
+Cabrahigos-10 378.977,00 4.374.268,00
+Estos sondeos alcanzarán profundidades comprendidas entre 350 y 400 metros. El método de perforación será
+rotación con recuperación de testigo con wire-line desde la superficie, para disponer de una muestra completa de
+todo el macizo rocoso atravesado para, además del estudio de la mineralización, también poder realizar estudios
+geológicos y geotécnicos.
+En cuanto al emplazamiento de la perforadora y elementos auxiliares, la superficie afectada será la mínima necesaria
+(en torno a 200 m2) y provisional, devolviendo dicha superficie a su estado original a la finalización de los sondeos.
+Durante la perforación se empleará agua con aditivos biodegradables y no tóxicos como fluido de circulación,
+destinado a refrigeración y evacuación de detritos, minimizando riesgos ambientales asociados.
+Los testigos obtenidos serán objeto de una fase posterior de testificación geológica, geotécnica y geoquímica,
+incluyendo su descripción detallada, registro fotográfico, muestreo selectivo de intervalos mineralizados y análisis
+en laboratorios especializados acreditados. Toda la información generada a lo largo del proyecto —datos históricos,
+cartografía, geoquímica, geofísica y sondeos— se integrará finalmente en software minero especializado para
+elaborar un modelo geológico tridimensional y efectuar una primera estimación preliminar de recursos, constituyendo
+esta modelización el resultado final del programa de investigación.
+Segundo. Tramitación y consultas.
+El 29 de julio de 2025, el Servicio de Minas de la Delegación Provincial de Desarrollo Sostenible en Toledo, actuando
+como órgano sustantivo, remitió al Servicio de Prevención e Impacto Ambiental de la Dirección General de Calidad
+Ambiental (órgano ambiental), la solicitud de inicio del procedimiento de Evaluación Impacto Ambiental Simplificada
+del proyecto y el documento ambiental, dando cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha. Junto a dicha documentación, el órgano sustantivo remitió copia del
+resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de tasas y precios públicos de
+Castilla-La Mancha y otras medidas tributarias, así como el Plan de Restauración.
+Tras incorporar el expediente con la referencia S478/2025/DG/00044, con fecha 26 de septiembre de 2025 el órgano
+ambiental notificó al promotor del proyecto que la documentación presentada junto con la solicitud de inicio era
+completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada Ley 2/2020, se
+formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto
+
+AÑO XLV Núm. 102 1 de junio de 2026 21797
+de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los
+siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+1. Ayuntamiento de San Pablo de los Montes
+2. Ayuntamiento de Retuerta del Bullaque
+3. Ayuntamiento de Navas de Estena
+4. Ecologistas en Acción Castilla-La Mancha (*)
+5. Agrupación Naturalista Esparvel
+6. Sociedad Española de Ornitología
+7. Ayuntamiento de Menasalbas
+8. Ayuntamiento de Hontanar
+9. Confederación Hidrográfica del Guadiana (*)
+10. Confederación Hidrográfica del Tajo (*)
+11. Asociación para la Defensa de la Naturaleza WWF/Adena
+12. Asociación Ecología y Libertad (*)
+13. Asociación Ornitológica Ardeidas
+14. Infraestructuras del Agua de Castilla-La Mancha (*)
+15. Delegación Provincial de Toledo de la Consejería de Educación, Cultura y Deportes – Servicio de Cultura de
+Toledo
+16. Delegación Provincial de Ciudad Real de la Consejería de Educación, Cultura y Deportes – Servicio de Cultura
+de Ciudad Real
+17. Delegación Provincial de Desarrollo Sostenible en Toledo – Servicio de Calidad Ambiental Toledo
+18. Delegación Provincial de Desarrollo Sostenible en Ciudad Real – Servicio de Calidad Ambiental Ciudad Real (*)
+19. Dirección General de Medio Natural y Biodiversidad – Servicio de Espacios Naturales (*)
+20. Delegación Provincial de Desarrollo Sostenible en Toledo – Unidad de Coordinación Provincial de Agentes
+Medioambientales de Toledo (*)
+21. Delegación Provincial de Desarrollo Sostenible en Ciudad Real – Unidad de Coordinación Provincial de Agentes
+Medioambientales de Ciudad Real
+22. Delegación Provincial de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de
+Toledo – Servicio de Protección Ciudadana de Toledo (*)
+23. Delegación Provincial de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital de
+Ciudad Real – Servicio de Protección Ciudadana de Ciudad Real (*)
+24. Parque Nacional de Cabañeros
+Todos los informes y alegaciones recibidos pueden consultarse en la página de consulta de expedientes de Evaluación
+Ambiental, Nevia: https://nevia.castillalamancha.es, buscando por el número de expediente S478/2025/DG/00044.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+El suministro de agua necesario para las labores de investigación se destina principalmente a la refrigeración de
+la maquinaria de perforación y a la preparación y circulación de lodos durante la ejecución de los sondeos. Este
+abastecimiento se realizará mediante camiones cisterna desde puntos de carga legalizados, tratándose de un
+consumo puntual y reducido. La gestión del agua y de los lodos se realizará mediante balsas impermeabilizadas,
+con el fin de evitar cualquier interacción con el medio natural.
+El consumo de energía térmica se limita a la generada por los motores de combustión interna de la maquinaria de
+perforación y de los vehículos 4x4 utilizados en campo. No se prevé la instalación de sistemas fijos de generación
+térmica, al tratarse de una fase exclusivamente de investigación minera.
+Los efluentes generados, fundamentalmente lodos de perforación, se recogerán en balsas impermeabilizadas con
+lámina de PEAD ubicadas en cada plataforma de sondeo. Una vez finalizados los trabajos, estos residuos serán
+
+AÑO XLV Núm. 102 1 de junio de 2026 21798
+retirados y gestionados por gestores autorizados. No se contemplan vertidos a cauces públicos, manteniéndose la
+escorrentía natural del terreno, con medidas para evitar arrastres sólidos.
+El acceso a las zonas de trabajo se realizará a través de la red existente de caminos rurales y pistas forestales,
+sin apertura de nuevas vías de acceso permanentes, limitándose las actuaciones al uso de infraestructuras ya
+existentes y a los puntos concretos de sondeo.
+3.2. Ubicación del proyecto.
+El ámbito de actuación del proyecto se localiza en el sector occidental de los Montes de Toledo, comprendiendo
+terrenos de los términos municipales de Hontanar, Menasalbas y San Pablo de los Montes, en la provincia de Toledo,
+así como Navas de Estena y Retuerta del Bullaque, en la provincia de Ciudad Real.
+El permiso de investigación abarca una superficie aproximada de 7.000 ha, configurando un ámbito de elevada
+sensibilidad ambiental por la concurrencia de múltiples figuras de protección y elementos naturales de interés.
+Si bien se ofrecen las coordenadas de los sondeos de la fase 1 y fase 2, el Documento Ambiental describe la
+dificultad de una planificación exacta de los sondeos, comentando que solo existe una cierta certidumbre con los 5
+primeros, y hablando de una posible variación del progreso de la investigación.
+Una parte significativa del ámbito del proyecto se sitúa en el espacio de la Red Natura 2000 ZEC-ZEPA Montes de
+Toledo (ES4250005/ES0000093), afectando directamente a la mayor parte de los sondeos previstos. No obstante,
+los sondeos número 3 y número 8, únicos localizados en la provincia de Ciudad Real, se sitúan fuera de dicho
+espacio Red Natura, si bien en posiciones próximas o colindantes al mismo, manteniéndose en un entorno de
+elevada sensibilidad ambiental. Dentro de este ámbito están presentes, además, diversos Hábitats de Protección
+Especial y Hábitats de Interés Comunitario asociados principalmente a formaciones de encinar, alcornocal, melojar
+y matorral mediterráneo.
+El área de estudio se superpone con diversas zonas sensibles de la Red de Áreas Protegidas de Castilla-La Mancha,
+destinadas a la conservación de fauna amenazada, incluyendo áreas críticas de águila imperial ibérica, águila
+perdicera y cigüeña negra. Asimismo, el territorio incluye zonas de importancia y de presencia del lince ibérico y
+del buitre negro que no tienen la consideración de zonas sensibles dentro de dicha red. En conjunto, estas figuras
+reflejan la relevancia ecológica del ámbito en relación con especies amenazadas y sus áreas de reproducción,
+alimentación y campeo.
+Desde el punto de vista hidrológico, por el interior del Permiso de Investigación discurren numerosos cauces que
+constituyen el dominio público hidráulico del Estado. Además, esta red de arroyos, vaguadas y cursos temporales
+o permanentes presenta vegetación asociada a estos medios. En este contexto, el sondeo CAB-2 se ubicaría en la
+zona de policía del cauce Valle de la Escamilla. La presencia de dominio público hidráulico y elementos asociados
+constituye otro de los condicionantes ambientales relevantes en la localización del proyecto.
+En el ámbito del permiso concurren igualmente otros elementos de interés ambiental y territorial, como el Monte de
+Utilidad Pública Monte de San Pablo, diversas vías pecuarias (entre ellas la Cañada Real Segoviana y la Cañada
+Real del Puerto Marchés), la IBA Montes de Toledo-Cabañeros, así como sectores incluidos en Zona de Alto Riesgo
+de Incendios Forestales. Todo ello configura un emplazamiento con elevada sensibilidad ambiental y múltiples
+condicionantes derivados de su localización.
+3.3. Características del potencial impacto.
+En atención a las características del proyecto y a la sensibilidad ambiental del entorno descrita en el apartado
+anterior, se considera que las actuaciones previstas pueden dar lugar a impactos potenciales que requieren una
+valoración detallada. Aunque el proyecto se plantea como una actuación de investigación minera mediante sondeos
+de carácter puntual, las labores proyectadas conllevan ocupación temporal del terreno, tránsito de maquinaria,
+generación de plataformas auxiliares, posibles balsas de lodos, acondicionamiento de accesos y, eventualmente,
+ejecución de calicatas, circunstancias que pueden producir afecciones sobre los valores naturales presentes en el
+ámbito de actuación.
+Debe señalarse, que el Documento Ambiental presentado resulta deficiente en cuanto a la información base
+empleada para la valorización de los impactos. En particular, se limita fundamentalmente a una revisión bibliográfica
+
+AÑO XLV Núm. 102 1 de junio de 2026 21799
+de las áreas protegidas, hábitats de interés comunitario, flora y fauna presentes en el entorno, sin incorporar un
+estudio de campo específico que permita caracterizar de forma precisa las condiciones reales del área de actuación.
+Esta ausencia de trabajo de campo impide evaluar adecuadamente la afección efectiva de los sondeos proyectados
+sobre la vegetación existente en las zonas concretas donde se plantean, así como sobre los hábitats efectivamente
+presentes en dichos emplazamientos.
+Los impactos potenciales más relevantes se asocian a la afección sobre la vegetación natural y los hábitats presentes
+en el ámbito de actuación, principalmente por la ocupación directa del terreno necesaria para la implantación de
+los sondeos, así como por posibles alteraciones puntuales derivadas del tránsito de maquinaria. Estas actuaciones
+pueden conllevar la eliminación o degradación localizada de la cubierta vegetal
+Asimismo, las actuaciones proyectadas presentan potencial de afección sobre la fauna protegida presente en
+el ámbito, pudiendo producir molestias, desplazamientos o alteraciones sobre áreas críticas, zonas de campeo,
+refugio, alimentación y reproducción de especies amenazadas como águila imperial ibérica, águila real, cigüeña
+negra, buitre negro o lince ibérico, especialmente por efecto del ruido, la presencia continuada de maquinaria, el
+tránsito de vehículos y la perturbación asociada a los trabajos durante periodos biológicamente sensibles.
+La tipología del proyecto presenta igualmente potenciales efectos acumulativos y sinérgicos, tanto por su
+coexistencia con otros permisos de investigación colindantes, como por su interacción con aprovechamientos
+forestales, ganaderos, cinegéticos y usos públicos presentes en los montes afectados. Esta circunstancia puede
+reforzar procesos de fragmentación ecológica, incrementar la perturbación sobre especies sensibles y afectar a la
+funcionalidad ambiental global del territorio.
+Debe añadirse que la naturaleza propia del permiso de investigación introduce un factor adicional de incertidumbre,
+al no quedar completamente definidas la ubicación final de todos los sondeos ni descartarse actuaciones adicionales
+derivadas del progreso de la investigación, lo que dificulta acotar espacial y funcionalmente las afecciones previsibles.
+Esta indeterminación, unida a las deficiencias señaladas en la documentación ambiental respecto a caracterización
+de hábitats, análisis de fauna, alternativas y efectos acumulativos, impide descartar adecuadamente la posible
+existencia de efectos significativos sobre el medio ambiente.
+Por todo ello, y de acuerdo con la información obrante en el expediente, se considera que el proyecto debe someterse
+al procedimiento de evaluación de impacto ambiental ordinario, al objeto de completar la caracterización ambiental
+del emplazamiento, valorar adecuadamente las afecciones previsibles y definir, en su caso, las medidas preventivas,
+correctoras y compensatorias necesarias.
+Cuarto. Necesidad de Sometimiento a Evaluación de Impacto Ambiental Ordinaria.
+Como consecuencia del análisis realizado, esta Dirección General de Calidad Ambiental, en virtud del Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+resuelve que el proyecto “Permiso de investigación minera Cabrahigos número 4247” (Expediente S478/2025/
+DG/00044), debe someterse a una evaluación de impacto ambiental ordinaria por tener efectos significativos en el
+medio ambiente.
+La tramitación seguirá el procedimiento de Evaluación de Impacto Ambiental Ordinaria previsto en la Sección 1.ª del
+Capítulo II del Título II de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Toledo, 22 de mayo de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO
