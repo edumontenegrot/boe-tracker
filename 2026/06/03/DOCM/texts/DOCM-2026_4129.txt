@@ -1,0 +1,601 @@
+AÑO XLV Núm. 104 3 de junio de 2026 22186
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 26/05/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, por la que se
+formula el informe de impacto ambiental del proyecto: Incremento de superficie de riego sin incremento de
+volumen en 86,95 ha. (Expediente 6693/2018 (2018CP0342) UGH RO0102), situado en el término municipal de
+La Roda (Albacete) cuya promotora es Agraria Casa Arnedo SL. Expediente S478/2025/AB/00056. [2026/4129]
+La Ley 2/2020, de 7 de febrero de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, dentro del Grupo 1 “Agricultura,
+silvicultura, acuicultura y ganadería”, apartado c: “Proyectos de transformación a regadío o de avenamiento de
+terrenos cuando afecten a una superficie superior a 10 has.
+El promotor del proyecto es Agraria Casa Arnedo S.L., y el órgano sustantivo es la Confederación Hidrográfica del
+Júcar, teniendo el expediente de evaluación ambiental por esta Delegación Provincial el número S478/2025/AB/00056.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+1.- Antecedentes.
+Según el documento ambiental de fecha mayo de 2024, se tramita ante la Confederación Hidrográfica del Júcar
+el incremento de superficie de riego sin aumento de volumen en la Unidad de Gestión Hídrica (UGH) RO0102,
+expediente 6693/2018 (2018CP0342), para la finca “Casa Arnedo” del término municipal de La Roda (Albacete).
+La solicitud de informe se recibe en el Servicio de Calidad Ambiental el 2 de enero de 2026 para la tramitación del
+procedimiento de Evaluación de Impacto Ambiental Simplificada.
+1.1.- Descripción.
+El proyecto consiste en la ampliación de regadío sin aumento de volumen mediante sistema de riego por aspersión
+fija con tubería enterrada y riego por pívot para cultivos herbáceos, en diversas parcelas de los polígonos 45, 46 y
+105 del término municipal de La Roda (Albacete), con una superficie total a transformar de 86,95 ha. La superficie
+total de regadío una vez regularizada será de 384,79 ha.
+Las parcelas objeto del proyecto son las siguientes:
+Municipio Polígono Parcela Recinto Superficie Ha
+La Roda 45 6 3 0,83
+La Roda 46 4 1 17,78
+La Roda 46 4 2 0,01
+La Roda 46 4 3 0,23
+La Roda 46 5 1 0,36
+La Roda 46 9 2 0,08
+La Roda 46 9 2 0,08
+La Roda 46 9 6 0,23
+La Roda 46 9 7 35,71
+La Roda 46 10 1 5,87
+La Roda 46 12 5 1,02
+
+AÑO XLV Núm. 104 3 de junio de 2026 22187
+La Roda 46 9002 1 0,27
+La Roda 46 9003 1 0,36
+La Roda 46 9005 1 0,11
+La Roda 105 122 4 24,09
+Total 86,95
+1.2.-Sistema de riego en el aprovechamiento.
+El sistema de riego es el de riego por aspersión fija con tubería enterrada y riego por pívot, abastecidos desde dos
+embalses de regulación de cemento (balsa 1: 576 m³; balsa 2: 3.125 m³). Las bombas de impulsión existentes no se
+van a modificar. La red de tuberías es de PVC de 6 atm con junta elástica. La explotación cuenta con cinco centros
+de transformación abastecidos desde la línea de M.T. de la compañía eléctrica suministradora. No será preciso
+ampliar las instalaciones existentes.
+1.3.- Captaciones de agua.
+La finca “Casa Arnedo” dispone de cuatro captaciones de agua, y dentro de la solicitud de la concesión administrativa
+del expediente 6693/2018 de la Confederación Hidrográfica del Júcar, se va a proceder a la extracción del recurso
+mediante dichas captaciones con las siguientes características:
+Captación Nº toma UTM X UTM Y Prof. (m) Diám. (mm) Caudal l/s Potencia kw Prof. bomba m
+2010CP0010 1 571.583 4.329.118 200 500 200 220,65 110
+2010CP0010 2 571.305 4.330.222 200 500 200 257,43 110
+2010CP0010 3 571.359 4.329.046 360 500 160 279,49 110
+2010CP0010 4 572.611 4.328.614 200 500 200 147,1 110
+1.4.- Energía a utilizar.
+La explotación cuenta con cinco centros de transformación abastecidos desde la línea de M.T. de la compañía
+eléctrica suministradora. No será preciso ampliar las instalaciones existentes.
+La explotación se abastece directamente de la línea de M. T. de la compañía eléctrica suministradora. El transformador
+se ubica en el interior de una caseta próximo al pozo y suministra una potencia de hasta 200 kVA.
+La red eléctrica de baja tensión consta de la caseta de mando de cuadro de contadores, cuadros de protección y
+maniobra y de sistemas de protección de la red de riego con presostatos. Desde el cuadro de protección parten las
+líneas enterradas que suministran la energía eléctrica al equipo de bombeo.
+1.5.- Necesidades hídricas.
+El volumen anual de agua a utilizar es de 1.636.160 m³/año, de acuerdo con la concesión tramitada ante la
+Confederación Hidrográfica del Júcar. La distribución de cultivos prevista para la totalidad del aprovechamiento
+(384,79 ha) es la siguiente:
+Superficie Consumo agua Volumen total
+Cultivo
+(ha) m³ / ha m³ / año
+Alfalfa 76,96 8.000 615.664
+Trigo 76,96 3.100 238.570
+Adormidera 76,96 2.700 207.787
+Ajo Chino 60,88 2.200 133.931
+Brócoli 38,48 3.500 134.677
+Patata 54,56 5.600 305.532
+Total 384,79 1.636.160
+
+AÑO XLV Núm. 104 3 de junio de 2026 22188
+1.6.- Alternativas estudiadas.
+El documento ambiental analiza las siguientes alternativas de sistema de riego:
+• Riego superficial por inundación o a manta: presenta baja eficiencia hídrica, mayor riesgo de percolación y
+contaminación del acuífero, y requiere elevada mano de obra.
+• Riego por aspersión: permite una dosificación adecuada del agua con buena eficiencia, adaptada a cultivos
+herbáceos. Sus instalaciones requieren movimientos de tierras para la instalación de tuberías. Puede favorecer
+enfermedades fúngicas.
+• Riego por goteo: óptimo para cultivos leñosos, pero presenta problemas técnicos y de manejo para cultivos herbáceos.
+Se ha adoptado el sistema de riego por aspersión como alternativa más adecuada desde el punto de vista agronómico
+y ambiental para el tipo de cultivos herbáceos previstos.
+1.7.- Análisis de los impactos potenciales en el medio ambiente reflejados en el documento ambiental.
+El promotor refleja una serie de afecciones en el documento ambiental sobre:
+Afecciones a áreas protegidas
+Afección a hábitats y elementos geomorfológicos de protección especial, fauna y flora biodiversidad
+Afección a la hidrología e hidrogeología
+Afección al suelo
+Afección a vías pecuarias y montes de utilidad pública
+Afección a contaminación atmosférica y acústica
+Afección a los factores climáticos
+Generación y gestión de residuos
+Afecciones al medio socioeconómico
+1.8.- Medidas preventivas, correctoras o compensatorias propuestas por el promotor para la adecuada protección
+del medio ambiente.
+El promotor refiere una serie de medidas comunes en la implantación del sistema de riego estudiado concretamente
+sobre:
+Fauna y flora
+Aguas subterráneas
+Suelo
+Generación y gestión de residuos
+Atmósfera y calidad del aire
+Protección del suelo
+Protección de la vegetación
+Protección del paisaje
+Protección del patrimonio
+1.9.- Forma de realizar el seguimiento que garantice el cumplimiento de indicaciones y de las medidas protectoras
+y correctoras contenidas en el documento ambiental.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá asignar un responsable del mismo,
+notificando al órgano sustantivo, su nombramiento como encargado del control, inspección y cumplimiento de dicho
+Plan.
+Todas las actuaciones y/o mediciones que se realicen en aplicación del programa de seguimiento ambiental deberán
+tener constancia escrita en forma de actas o estadillos que permitan comprobar su correcta ejecución.
+Se contempla:
+- Control sobre la obtención de la autorización de la Confederación Hidrográfica del Júcar y cumplimiento de lo que
+se establezca.
+- Control de la correcta gestión de los residuos producidos y tramitación de documentación.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22189
+- Control de daños erosivos producidos por escorrentía superficial.
+- Control de la correcta aplicación del plan de abonados y tratamientos fitosanitarios.
+- Control sobre la aplicación del programa de actuación en zonas vulnerables a la contaminación por nitratos.
+Segundo. Tramitación y consultas.
+El 11 de diciembre de 2025, se reciben en el Servicio de Calidad Ambiental de Albacete de la Delegación Provincial
+de Consejería de Desarrollo Sostenible, por parte del órgano sustantivo, la solicitud de inicio del procedimiento de
+Evaluación de Impacto Ambiental Simplificada del proyecto.
+El 29 de diciembre de 2025, el órgano ambiental notificó al promotor del proyecto que la documentación presentada
+junto con la solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 46
+de la citada Ley 21/2013, se formularon consultas previas a las Administraciones públicas afectadas y a las personas
+interesadas, con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones
+consultadas han sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las
+consultas formuladas):
+• Servicio de Medio Natural y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de Albacete (*)
+• Confederación Hidrográfica del Júcar (*)
+• Consejería de Educación, Cultura y Deportes – Viceconsejería de Cultura y Deportes, Albacete (*)
+• Dirección General de Carreteras de la Consejería de Fomento (*)
+• Agentes Medioambientales de Castilla-La Mancha – Coordinación Provincial de Albacete (*)
+• Sociedad Albacetense de Ornitología – SAO (*)
+• Ayuntamiento de La Roda
+• Agencia del Agua de Castilla-La Mancha
+Ninguno de los informes se opone al proyecto, informando sobre las condiciones que debe de cumplir según la
+normativa en vigor de su competencia.
+El contenido del informe de cada órgano que ha contestado en la fase de consultas, se resume a continuación.
+El Servicio de Medio Natural y Biodiversidad emite informe con fecha 28 de enero de 2026 (Ref. SMNB/090126
+MRC), en el que señala que la zona de actuación se encuentra fuera de la Red Regional de Áreas Protegidas, si
+bien constituye zona de reproducción de aves esteparias y de águila perdicera, así como zona de campeo del águila
+imperial ibérica. Asimismo, indica que la parcela 12 del polígono 46 linda al sur con la Cañada Real de La Mancha a
+Murcia, vía pecuaria deslindada con 75 metros de anchura y amojonada conforme a las resoluciones de 29 de junio
+de 2006 y 25 de agosto de 2009.
+En cuanto al estudio de impacto ambiental presentado, se detectan algunas deficiencias que deberían ser subsanadas
+antes del comienzo de las obras: no se aporta cartografía de la nueva red de riego ni del zanjeado y demás obras
+necesarias; el inventario ambiental se considera excesivamente sucinto y debe centrarse específicamente en el
+hábitat estepario y la avifauna ligada al mismo; y, finalmente, no se ha evaluado la contaminación por nitratos en
+fase de explotación, siendo la zona vulnerable según la Orden 158/2020, de 28 de septiembre, ni el impacto de los
+productos fitosanitarios, tratándose de zona periférica según Sigpac.
+Una vez subsanadas las anteriores deficiencias, se propone un condicionado general cuyos puntos se exponen en
+el apartado cuarto de esta resolución.
+El servicio de Cultura y Deportes emite informe con fecha 27 de enero de 2026 (Exp/Cult: 26.0148), en el que pone
+de manifiesto la existencia en las zonas de actuación de elementos patrimoniales registrados en el Inventario de
+Patrimonio Cultural del municipio de La Roda, la proximidad a la Cañada Real de La Mancha a Murcia, y la alta
+susceptibilidad arqueológica de las áreas afectadas por el proyecto.
+En aplicación del artículo 48 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha, el
+servicio de cultura y deportes determina que debe efectuarse un Estudio de Valoración Histórico-Cultural, conforme
+a los artículos 49 y 50 de la citada ley, con el objeto de identificar, describir y valorar los efectos del proyecto de
+obra civil sobre el Patrimonio Cultural, evaluando su correspondiente viabilidad y compatibilidad y proponiendo,
+en su caso, las medidas correctoras oportunas. Dicho estudio deberá ser realizado por un profesional cualificado
+
+AÑO XLV Núm. 104 3 de junio de 2026 22190
+expresamente autorizado por la Viceconsejería de Cultura y Deportes, y deberá presentarse y obtener informe
+favorable antes del inicio de las obras.
+La Dirección General de Carreteras emite informe con fecha 17 de abril de 2026 (Ref. AB-10146-26-SC), en el que
+identifica la carretera autonómica CM-3135 (categoría comarcal, IMD de 980 veh/día con un 13 % de vehículos
+pesados según el aforo de 2024) como la infraestructura vial afectada por el proyecto, dado que las parcelas objeto
+del mismo son colindantes con su margen izquierda entre los pp.kk. 7+680 y 11+080.
+Desde el punto de vista ambiental, el informe señala que el riego por aspersión en parcelas colindantes con la
+CM-3135 puede afectar negativamente al drenaje de la carretera, por lo que las instalaciones de riego, tanto fijas
+como móviles, deberán situarse en todo caso fuera de la zona de dominio público y a una distancia suficiente para
+garantizar que no afecten negativamente a la carretera, a sus elementos o a la seguridad vial, sin que en ningún
+caso se produzca reducción de la visibilidad ni se altere el funcionamiento de los sistemas de drenaje longitudinal.
+En relación con la afección directa a la red de carreteras autonómica, la Dirección General de Carreteras señala que
+la documentación presentada no tiene el grado de detalle suficiente para valorar el cumplimiento de las restricciones
+de uso, por lo que exige la presentación de un plano de planta completo en el que aparezcan todos los elementos
+y actuaciones del proyecto —tuberías, pívots, vallado, plantaciones, captaciones, etc.— junto con el grafiado de las
+líneas de las zonas de afección de la CM-3135. Con carácter previo al inicio de las obras, deberán obtenerse ante
+la Dirección General de Carreteras las correspondientes autorizaciones para todas las actuaciones que se sitúen
+dentro de las zonas de afección, incluyendo accesos, plantaciones en zona de protección, construcción de vallado
+y cruces subterráneos o aéreos de líneas eléctricas u otros servicios.
+Los Agentes Medioambientales emiten su informe el 13 de enero de 2026. Indican que la zona se encuentra dentro
+de la IBA (Área Importante para las Aves) número 459 y parcialmente dentro de una Malla C de actuación del OAEN
+de Castilla-La Mancha, que delimita áreas prioritarias de reproducción, alimentación, dispersión y concentración de
+las aves incluidas en el Catálogo Regional de Especies Amenazadas.
+Entre las consideraciones técnicas más relevantes, los Agentes advierten que las parcelas con códigos 9002, 9003
+y 9005 del polígono 46 se corresponden con infraestructuras públicas y no deberían estar incluidas en el proyecto.
+Asimismo, señalan que las parcelas 9 y 12 del polígono 46 están parcialmente dentro de la citada Malla C, y que
+dentro del proyecto se encuentran manchas de monte —constituidas principalmente por encina, coscoja, romero y
+esparto— en la parcela 12 del polígono 46, recintos 1 y 2, así como arbolado de pino y encina en esa misma parcela,
+todo lo cual no debe sufrir alteración alguna. En relación con la Cañada Real de La Mancha a Murcia, advierten que
+las parcelas situadas al sur del proyecto lindan con ella, por lo que cualquier ocupación, aunque sea temporal, debe
+contar con la autorización del servicio competente. Destacan también la necesidad de un cronograma de obras que
+minimice las molestias a la avifauna en los momentos críticos de puesta, incubación y cría, así como la importancia
+de conservar los elementos estructurales del paisaje como lindes, márgenes y majanos como refugio de fauna.
+Finalmente, indican que si la explotación cuenta con líneas eléctricas propias, estas deberán cumplir el Real Decreto
+1432/2008 y el Decreto 5/1999 de protección de la avifauna frente a electrocución.
+La Confederación Hidrográfica del Júcar emite informe favorable con fecha 24 de abril de 2026 (Ref. 2026C-AM-
+00003), señala que no existen cauces próximos a los terrenos afectados según el Mapa Topográfico Nacional a
+escala 1:25.000. Recuerda que queda prohibido el vertido directo o indirecto al Dominio Público Hidráulico sin
+autorización previa conforme al artículo 100 del Texto Refundido de la Ley de Aguas, y que las obras no podrán
+alterar el curso natural de las aguas ni modificar el drenaje natural ni la escorrentía de los terrenos.
+En cuanto a la disponibilidad de recursos hídricos, la CHJ verifica que la mercantil Agraria Casa Arnedo S.L. es titular
+del expediente de concesión de aguas subterráneas 6693/2018 (2018CP0342) – UGH RO0102, en trámite para
+el riego de una superficie de 384,79 hectáreas con un volumen máximo anual de 1.636.160 m³. Dicho expediente
+cuenta con informe favorable de la Oficina de Planificación Hidrológica de fecha 6 de noviembre de 2023, que
+declara el volumen compatible con el vigente Plan Hidrológico de la Demarcación Hidrográfica del Júcar aprobado
+por Real Decreto 35/2023, de 24 de enero, habiendo finalizado la fase de información pública el 3 de junio de
+2025. En consecuencia, la CHJ considera acreditada la disponibilidad de recursos hídricos para el riego de las
+86,95 hectáreas de nueva transformación objeto del proyecto, e informa favorablemente el mismo a los efectos
+del artículo 25.4 del Texto Refundido de la Ley de Aguas, sin perjuicio de las autorizaciones que preceptivamente
+deban obtenerse de este Organismo. Señala igualmente la obligación de instalar un dispositivo de medición de los
+volúmenes o caudales de agua captados, conforme a la Orden TED/1191/2024, de 24 de octubre.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22191
+La Sociedad Albacetense de Ornitología presenta alegaciones con fecha 10 de febrero de 2026, esta asociación
+señala que el proyecto afecta a la IBA número 459 «Albacete-Barrax-La Roda», en cuyo ámbito se han constatado
+poblaciones significativas de especies mundialmente amenazadas como la avutarda (Otis tarda), el sisón (Tetrax
+tetrax), el cernícalo primilla (Falco naumanni), la ganga ibérica (Pterocles alchata) y el milano real (Milvus milvus),
+este último catalogado en peligro de extinción conforme al Real Decreto 139/2011. Describe también los impactos
+que genera la transformación a regadío sobre estas especies: el incremento del uso de fitosanitarios con efecto
+sobre los insectos base de su alimentación, la pérdida de hábitat estepario y del mosaico de cereal secano que
+proporciona alimento y cobertura para nidos y huevos, y la eliminación de linderos y elementos estructurales del
+paisaje agrario.
+Como medidas compensatorias, la SAO solicita la formación de lindes con setos de especies leñosas autóctonas de
+una anchura mínima de 2 metros en una superficie equivalente al 40 % de la afectada por el proyecto; la instalación de
+al menos 4 majanos con piedras del propio terreno para favorecer al mochuelo europeo; el establecimiento de un plan
+de seguimiento específico sobre el aguilucho cenizo con comunicación inmediata a los agentes medioambientales
+ante cualquier indicio de nidificación; la presentación de un plan de cultivos anual para reducir al mínimo el uso de
+insecticidas y fertilizantes químicos; el mantenimiento de vegetación arvense entre las filas de cultivo y la prohibición
+de laboreo en época de nidificación comprendida entre los meses de abril y agosto; y la adopción de medidas de
+naturalización de las balsas de regulación, consistentes en orillas irregulares, pendientes suaves, implantación de
+vegetación acuática y cierres permeables a la fauna silvestre.
+De acuerdo con el artículo 53.2 de la ley 2/2020 de Evaluación Ambiental y transcurrido el plazo sin haber recibido
+respuesta a las consultas realizadas de los organismos no señalados con (*), entendemos que se tienen elementos de
+juicio suficientes para resolver al tener este expediente los informes oportunos y a los que podemos considerar válidos.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+El proyecto consiste en la regularización de 86,95 hectáreas de riego sin aumento del volumen concesional máximo
+anual de 1.636.160 m³, en el marco del expediente 6693/2018 (2018CP0342) – UGH RO0102, en trámite ante la
+Confederación Hidrográfica del Júcar. No se contemplan nuevas captaciones ni modificaciones en las infraestructuras
+de bombeo y regulación existentes. El sistema de riego proyectado es por aspersión fija enterrada, con ampliación
+de la red de tuberías de PVC.
+La zona de actuación se encuentra fuera de la Red Regional de Áreas Protegidas, aunque es zona de reproducción
+de aves esteparias y de águila perdicera, zona de campeo del águila imperial ibérica, y se encuentra dentro de la
+IBA nº 459 “Albacete-Barrax-La Roda”. Las parcelas 9 y 12 del polígono 46 están parcialmente en Malla C del OAEN
+(áreas prioritarias para especies amenazadas).
+Esta zona acumula numerosos expedientes de concesiones y transformaciones de regadío en los alrededores,
+constatándose una elevada presión sobre los acuíferos y profundidades piezométricas crecientes, lo que hace
+necesario un seguimiento específico de los recursos hídricos subterráneos.
+El impacto que producen este tipo de proyectos, una vez puestos en funcionamiento, se realiza directamente
+sobre la reserva de recursos hídricos del acuífero afectado por la detracción de caudales, desconociendo el efecto
+sinérgico y acumulativo que cada nuevo sondeo ejerce sobre el acuífero afectado, al no tener constancia fehaciente
+del número de sondeos de este tipo que se encuentran funcionando en la actualidad en este entorno. Cabe señalar,
+que la creciente escasez de agua provocada, entre otras razones, por el exceso en la extracción, la degradación
+de la calidad del agua y el cambio climático, hacen insoslayable la utilización de los recursos hídricos de manera
+eficiente y sostenible.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22192
+Se deberán disponer los mecanismos más adecuados para evitar que se produzcan derrames o fugas accidentales
+sobre el terreno de aceites hidráulicos o combustibles procedentes de la maquinaria empleada en el sondeo. En el
+caso de producirse, deberá retirarse de inmediato la capa de suelo contaminada, y depositarla en un contenedor
+específico y estanco para que sea recogido y retirado por un gestor autorizado. Tampoco deberán realizarse vertidos
+de materiales de obra, residuos sólidos urbanos, residuos no inertizados o de dudosa caracterización, o cualquier
+otro elemento en el entorno de actuación. Los residuos generados en la fase de ejecución se adecuarán a lo
+establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+3.2. Ubicación del proyecto.
+Las parcelas se ubican en el paraje Casa Arnedo del término municipal de La Roda (Albacete), entre el Acueducto
+Tajo-Segura (al este), la carretera CM-3135 (al oeste) y la Cañada Real de La Mancha a Murcia (al sur). Se trata
+de una llanura de cultivo de cereal a una altitud de 700-710 m.s.n.m., inserta en un mosaico agrícola con presencia
+de manchas de vegetación natural de encina, coscoja, romero y esparto, fundamentalmente en la parcela 12 del
+polígono 46.
+La zona se encuentra dentro de la zona vulnerable a la contaminación por nitratos de origen agrario según la
+Orden 158/2020, y es zona periférica de protección para el uso sostenible de productos fitosanitarios según Sigpac.
+Parte de los terrenos ocupa la zona de policía del Acueducto Tajo-Segura, lo que requiere pronunciamiento de la
+Confederación Hidrográfica del Tajo.
+La parcela 12 del polígono 46 linda al sur con la Cañada Real de La Mancha a Murcia, deslindada con 75 m de
+anchura. Las parcelas objeto del proyecto son colindantes con la margen izquierda de la carretera autonómica
+CM-3135 (comarcal), entre los pp.kk. 7+680 y 11+080.
+3.3. Características del potencial impacto.
+Los impactos más relevantes detectados son: el posible deterioro del hábitat estepario de alta biodiversidad
+ornitológica, especialmente durante la fase de obras; el riesgo de contaminación del acuífero Mancha Oriental por
+nitratos y fitosanitarios derivado de la intensificación agrícola; la posible afección a manchas de vegetación natural y
+arbolado existentes en las parcelas; la proximidad a la Cañada Real de La Mancha a Murcia y la afección al drenaje
+de la carretera CM-3135 por el riego por aspersión; y la posible presencia de elementos patrimoniales arqueológicos
+dada la susceptibilidad de la zona.
+No obstante, la Confederación Hidrográfica del Júcar ha emitido informe favorable a la disponibilidad de recursos
+hídricos, el expediente concesional es compatible con el Plan Hidrológico de la Demarcación del Júcar (informe OPH
+de 6/11/2023), y la fase de información pública finalizó el 3/6/2025. Con la adopción de las medidas correctoras y
+preventivas que se establecen en el presente informe, el impacto sobre el medio ambiente puede considerarse no
+significativo.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1.- Protección de la avifauna y hábitat estepario.
+Dada la especial sensibilidad de la zona por su riqueza en avifauna esteparia catalogada (avutarda, sisón, cernícalo
+primilla, aguilucho cenizo, milano real, águila perdicera, águila imperial ibérica, entre otras) y su pertenencia a la IBA
+nº 459, se establecen las siguientes medidas de carácter obligatorio:
+Los trabajos que impliquen movimiento de tierras, desbroces, apertura de zanjas o cualquier otra actuación que
+genere perturbaciones, deberán realizarse fuera de la época reproductora de las especies presentes en el entorno.
+Queda expresamente prohibida la realización de estos trabajos en el período comprendido entre el 1 de marzo
+y el 31 de agosto, ambos inclusive. Este período podrá ser modificado, a criterio del servicio de medio natural y
+biodiversidad en función de las circunstancias reproductivas detectadas en la época de ejecución.
+Se realizará con suficiente tiempo de antelación (mínimo 15 días hábiles) la comunicación previa de la ejecución del
+proyecto a los agentes medioambientales de la zona y al Servicio de Medio Natural y Biodiversidad de la Delegación
+Provincial de Desarrollo Sostenible de Albacete. La ejecución del proyecto se realizará bajo la supervisión y el
+seguimiento ambiental de dichos agentes, debiendo atenderse en todo momento a sus indicaciones y sugerencias.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22193
+Previamente al inicio de las obras, se jalonará la zona estricta de actuación para minimizar la afección a la vegetación
+natural, tanto por la actuación en sí como por el paso de maquinaria.
+Se establecerá un plan de seguimiento específico sobre el aguilucho cenizo (Circus pygargus). Si se detectan indicios
+de nidificación de alguna pareja en el ámbito de las actuaciones o en su entorno inmediato, deberá comunicarse
+inmediatamente a los Agentes Medioambientales de la zona y al Servicio de Medio Natural y Biodiversidad, debiendo
+paralizar las labores en un radio de 500 m del nido hasta la conclusión del período de cría.
+Se instalarán al menos cuatro (4) majanos con piedras sacadas del propio terreno, distribuidos en el perímetro de
+las parcelas transformadas, para favorecer refugio y alimentación de especies como el mochuelo europeo (Athene
+noctua) y otros vertebrados.
+En la explotación de la finca se fomentará el mantenimiento de parches de vegetación natural no cultivada, la
+reducción del uso de productos agroquímicos a los mínimos necesarios y la utilización de los de menor toxicidad y
+persistencia.
+Si la explotación cuenta con líneas eléctricas propias, estas deberán cumplir con las prescripciones técnicas del
+Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protección de la avifauna contra
+la colisión y la electrocución en líneas eléctricas de alta tensión, y con las medidas adicionales del Decreto 5/1999
+de Castilla-La Mancha de Protección de Avifauna.
+El promotor participará activamente en las medidas de conservación de especies esteparias establecidas por la
+Administración, lo cual deberá constar como compromiso expreso del propietario.
+4.2.- Protección de la vegetación natural.
+La instalación del sistema de riego no podrá implicar afección alguna a las cubiertas vegetales naturales competencia
+del Servicio de Medio Natural, en aplicación de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible
+de Castilla-La Mancha. Se establecen las siguientes medidas:
+Se respetarán íntegramente las manchas de monte existentes en la parcela 12 del polígono 46, constituidas
+principalmente por encina (Quercus ilex), coscoja (Quercus coccifera), romero (Rosmarinus officinalis) y esparto
+(Stipa tenacissima), en los recintos 1 y 2. Dichas manchas no sufrirán alteración de ningún tipo.
+Se respetará el arbolado existente (pino y encina) que hay dentro del cultivo en la parcela 12 del polígono 46.
+Los trabajos que impliquen remoción del suelo respetarán una distancia mínima de 2 metros con respecto a la
+proyección vertical de la copa de los árboles.
+Se prohíbe la alteración significativa o destrucción de lindes, setos, superficies ocupadas por vegetación natural,
+árboles, arbustos o bosquetes de especies forestales, y demás elementos estructurales o característicos del paisaje
+agrario.
+En caso de que se realicen operaciones de descuaje de cubiertas vegetales de matorral o arbolado, se deberá
+solicitar autorización previa a esta Delegación Provincial, en aplicación del artículo 49 de la Ley 3/2008. La emisión
+del presente informe de impacto ambiental no presupone dicha autorización.
+La eliminación de los restos vegetales que puedan generarse se realizará con la mayor brevedad posible, mediante
+trituración o quema controlada conforme a la normativa de prevención de incendios forestales, para evitar la aparición
+de plagas forestales y reducir el riesgo de incendios.
+Las zonas de acopio de materiales, maquinaria y demás instalaciones auxiliares se localizarán preferentemente en
+lugares desprovistos de vegetación natural.
+El acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas, utilizando siempre la traza ya
+existente.
+Aquellos recintos que constituyen elementos del paisaje según Sigpac no deberán ser objeto de actuación, debiendo
+consultarse previamente cualquier intervención con el Servicio de Medio Natural y Biodiversidad para evitar
+consecuencias en materia de ayudas de la PAC.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22194
+4.3.- Vías pecuarias.
+En relación con la Cañada Real de La Mancha a Murcia, que linda al sur con la parcela 12 del polígono 46 del
+término municipal de La Roda, se establecen las siguientes condiciones:
+• La vía pecuaria está deslindada con 75 m de anchura por Resolución de 29/06/2006 (DOCM nº 147/2006) y
+amojonada por Resolución de 25/08/2009 (DOCM 184/2009). El linde entre la parcela y la vía pecuaria está definido
+por la siguiente alineación de puntos (coordenadas UTM ETRS89): 146I=M43: x=570013,37; y=4328375,24 /
+147I: x=570115,16; y=4328375,24 / 148I=M45: x=570220,19; y=4328311,17 / 149I: x=570317,11; y=4328288,14 /
+150I: x=570432,28; y=4328267,84 / 151I=M47: x=570541,24; y=4328245,55 / 152I: x=570638,79; y=4328223,53 /
+153I=M49: x=570712,06; y=4328207,17.
+• La instalación del riego y cualquier plantación en esta parcela se realizará respetando la alineación del deslinde
+más un retranqueo de 2 m para plantaciones de árboles (art. 591 del Código Civil), y en todo caso la distancia
+necesaria a la linde para realizar todas las labores del cultivo sin invadir en ningún caso la vía pecuaria.
+• Cualquier ocupación de la vía pecuaria, aunque sea temporal, requerirá la autorización previa del servicio
+competente en materia de vías pecuarias.
+La instalación respetará asimismo las zonas y caminos de uso público y otras servidumbres que existan, que serán
+transitables de acuerdo con sus normas específicas y el Código Civil.
+4.4.- Protección del patrimonio cultural.
+Dada la existencia en las zonas de actuación de elementos patrimoniales registrados en el Inventario de Patrimonio
+Cultural del municipio de La Roda, la proximidad a la Cañada Real de La Mancha a Murcia, y la alta susceptibilidad
+arqueológica de las áreas afectadas, en aplicación del artículo 48 de la Ley 4/2013, de 16 de mayo, de Patrimonio
+Cultural de Castilla-La Mancha, se establece la siguiente condición:
+El promotor deberá encargar y presentar ante el Servicio de Cultura de la Delegación Provincial de Educación,
+Cultura y Deportes de Albacete un Estudio de Valoración Histórico-Cultural, realizado conforme a los artículos 49
+y 50 de la Ley 4/2013, por un profesional cualificado expresamente autorizado por la Viceconsejería de Cultura y
+Deportes, con el fin de identificar, describir y valorar los posibles efectos del proyecto sobre el Patrimonio Cultural y
+evaluar su viabilidad/compatibilidad, proponiendo en su caso medidas correctoras. Este estudio deberá presentarse
+y obtener informe favorable antes del inicio de las obras.
+Durante los movimientos de tierra y apertura de zanjas, se realizará un permanente seguimiento arqueológico. Si
+se encontrase algún resto o vestigio arqueológico, se paralizarán inmediatamente los trabajos y se comunicará a la
+Dirección General de Patrimonio y Museos para que determine las acciones a llevar a cabo.
+4.5.- Protección de los sistemas hidrológico e hidrogeológico.
+La actuación se enmarca en la Masa de Agua 080.129 – Mancha Oriental, que presenta una intensa presión de
+extracción. Se establecen las siguientes medidas:
+Previamente al inicio de cualquier actuación, el promotor deberá contar con la concesión de aguas subterráneas
+otorgada por la Confederación Hidrográfica del Júcar y los permisos correspondientes derivados de la misma.
+Conforme a lo dispuesto en la Orden TED/1191/2024, de 24 de octubre, el titular queda obligado a instalar y
+mantener a su costa un dispositivo de medición de los volúmenes o caudales de agua captados realmente (contador
+o aforador) en lugar de fácil acceso, debidamente protegido.
+Las obras no podrán alterar el curso natural de las aguas, el drenaje natural ni la escorrentía de los terrenos (art. 5.2
+y 47 del Texto Refundido de la Ley de Aguas).
+En la apertura de zanjas para el tendido de tuberías se evitará en todo momento alcanzar el nivel freático. Se
+realizará un acopio de los 30 primeros centímetros de suelo agrícola, almacenado en caballones de altura inferior a
+1,2 m para facilitar su aireación y evitar su compactación.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22195
+Queda prohibido el vertido directo o indirecto de aguas o productos residuales que puedan contaminar las aguas
+continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente con la previa autorización
+administrativa (art. 100 del TRLA).
+4.6.- Contaminación por nitratos y uso sostenible de productos fitosanitarios.
+Las parcelas objeto del proyecto se encuentran dentro de una zona declarada vulnerable a la contaminación por
+nitratos de origen agrario, según la Orden 158/2020, de 28 de septiembre, y constituyen zona periférica de protección
+para el uso sostenible de productos fitosanitarios según Sigpac. Se establecen las siguientes obligaciones:
+Deberá cumplirse en todo momento lo establecido en el Programa de Actuación aplicable a las zonas vulnerables
+a la contaminación por nitratos aprobado por el Decreto 80/2025, de 14 de octubre, y en el Código de Buenas
+Prácticas Agrarias de Castilla-La Mancha (Resolución de 24 de septiembre de 1998).
+Se llevará a cabo un plan de fertilización adecuado a las necesidades reales de los cultivos y a las características del
+suelo, con el fin de minimizar las pérdidas de nitrógeno hacia el acuífero. Los tratamientos fertilizantes se realizarán
+con productos específicos de degradación rápida y persistencia corta.
+En las operaciones de abonado se utilizarán los fertilizantes especificados en el Real Decreto 506/2013, de 28 de
+junio, sobre productos fertilizantes.
+Deberá cumplirse el Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación
+para conseguir un uso sostenible de los productos fitosanitarios, así como el Real Decreto 1051/2022, de 27 de
+diciembre, por el que se establecen normas para la nutrición sostenible en los suelos agrarios.
+Se llevará un libro de registro de los productos fitosanitarios utilizados en el que se indiquen la fecha, zona de
+aplicación, nombre comercial, materia activa, dosis empleada y categoría de peligrosidad. Los equipos de aplicación
+se revisarán periódicamente.
+No se aplicarán fertilizantes ni biocidas en terrenos encharcados.
+Los tratamientos fitosanitarios se realizarán con productos de menor toxicidad y persistencia. Se regularán las
+fechas de aplicación para evitar la época de nidificación de la avifauna (marzo-agosto) en la medida de lo posible.
+4.7.- Bienes de Dominio Público e Infraestructuras.
+Las parcelas objeto del proyecto son colindantes con la margen izquierda de la carretera autonómica CM-3135
+(comarcal, IMD 980 veh/día) entre los pp.kk. 7+680 y 11+080. Las zonas de afección de la CM-3135 son: dominio
+público 3 m, servidumbre 8 m, zona de protección 30 m y línea de edificación 18 m, medidos desde la arista exterior
+de la explanación o de la calzada según corresponda.
+Las instalaciones de riego, tanto fijas como móviles, se situarán siempre fuera de la zona de dominio público, a una
+distancia suficiente para garantizar que no afecten negativamente a la carretera, a sus elementos o a la seguridad vial,
+y sin que se produzca reducción de la visibilidad. Los sistemas de pívot no sobrevolarán la zona de dominio público.
+Las aguas procedentes del riego por aspersión no afectarán negativamente en ningún caso a la carretera ni a sus
+sistemas de drenaje longitudinal, para lo que deberán adoptarse las medidas necesarias por parte del titular de la
+instalación.
+Previamente al inicio de las obras, el promotor deberá presentar ante la Dirección General de Carreteras de la
+Consejería de Fomento un plano de planta completo en el que aparezcan todos los elementos y actuaciones del
+proyecto (tuberías, pívots, vallado, plantaciones, captaciones, etc.), junto con el grafiado de las líneas de las zonas
+de afección de la carretera CM-3135, conforme a lo dispuesto en el Reglamento de Carreteras (Decreto 1/2015, de
+22 de enero).
+Previamente al inicio de las obras, se solicitará la correspondiente autorización de obras ante la Dirección General
+de Carreteras de la Consejería de Fomento para todas las actuaciones que se sitúen dentro de las zonas de afección
+de la CM-3135 (plantaciones en zona de protección, vallado, accesos, cruce de servicios, etc.), conforme a la Ley
+9/1990, de 28 de diciembre, de Carreteras y Caminos de Castilla-La Mancha y su Reglamento.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22196
+Se utilizarán únicamente los caminos rurales existentes para el acceso a las parcelas, sin apertura de nuevos viales.
+En caso de que fuese imprescindible un nuevo acceso a la carretera CM-3135, se diseñará conforme a normativa y
+requerirá autorización expresa de la Dirección General de Carreteras.
+4.8.- Plan de desmantelamiento.
+Todos los residuos generados durante las fases de construcción y funcionamiento, sean peligrosos o no, estarán
+sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+Los residuos procedentes de tratamientos fitosanitarios deberán gestionarse a través de gestor autorizado, en los
+términos que establece el Real Decreto 1055/2022, de 27 de diciembre, sobre envases y residuos de envases.
+Los residuos generados por la maquinaria (aceites, lubricantes) se almacenarán en bidones estancos y serán
+retirados por gestor autorizado. Las operaciones de mantenimiento de maquinaria se realizarán fuera de la zona de
+actuación.
+En caso de derrame accidental de combustibles o lubricantes, se retirará de inmediato la capa de suelo contaminada
+y se depositará en contenedor estanco para su gestión por gestor autorizado.
+Los residuos generados durante la fase de obras (materiales sobrantes, restos de tuberías, etc.) serán retirados a
+vertedero autorizado o reciclados.
+4.9.- Plan de desmantelamiento.
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos de
+material, residuos o tierras sobrantes a vertederos adecuados a la naturaleza de cada residuo y se restaurarán los
+terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado de limpieza. El desmontaje
+y la restauración deberán realizarse en el plazo máximo de un año tras la finalización de la actividad y deberá
+ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible
+de Albacete (Órgano Ambiental) para dar por finalizado el expediente. Asimismo, en caso de que la actividad sea
+traspasada, también se deberá poner en conocimiento de este organismo.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones y
+medidas correctoras establecidas en la presente resolución. Cada informe deberá estar suscrito conjuntamente por
+el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano
+ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo, y notificar su nombramiento tanto al órgano sustantivo como al órgano
+ambiental.
+Todas las actuaciones y mediciones realizadas en aplicación del programa de vigilancia ambiental deberán tener
+constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan comprobar
+la correcta ejecución y cumplimiento de las condiciones establecidas y la normativa vigente. Esta documentación
+recogerá todos los datos desde el inicio de los trabajos de construcción y estará a disposición de los órganos de
+inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes aspectos:
+Control del cumplimiento de la restricción de obras en época primaveral-estival (1 de marzo a 31 de agosto) y
+verificación de las comunicaciones previas a los agentes medioambientales.
+Seguimiento específico de la avifauna esteparia: censo anual de aves esteparias en las parcelas afectadas y su
+entorno, con especial atención al aguilucho cenizo, avutarda, sisón y cernícalo primilla. Los resultados se incluirán
+en el informe anual de seguimiento.
+
+AÑO XLV Núm. 104 3 de junio de 2026 22197
+Control de la integridad de las manchas de vegetación natural en la parcela 12 del polígono 46 y del arbolado
+existente, con verificación fotográfica anual.
+Control del establecimiento y mantenimiento de los linderos de vegetación natural alrededor y entre parcelas,
+verificando la ausencia de aplicación de herbicidas en dichos linderos.
+Verificación de la instalación y estado de los majanos de fauna (mínimo 4) y comprobación de su utilización por la
+fauna.
+Seguimiento de los niveles piezométricos del acuífero Mancha Oriental, de acuerdo con los sistemas de control
+establecidos por la Junta Central de Regantes de La Mancha Oriental y la Confederación Hidrográfica del Júcar.
+Control de la correcta aplicación del plan de fertilización y tratamientos fitosanitarios, y revisión del libro de registro
+de productos fitosanitarios utilizados.
+Control de la correcta gestión de todos los residuos generados por la actividad.
+Control del buen funcionamiento de los equipos de riego, verificando que no se producen fugas o derrames.
+Control del cumplimiento de las condiciones impuestas en las autorizaciones de carreteras y vías pecuarias.
+Control de ausencia de afección al patrimonio arqueológico durante los movimientos de tierra, documentando el
+avance de los trabajos.
+Verificación de la obtención del Estudio de Valoración Histórico-Cultural con informe favorable del Servicio de Cultura
+antes del inicio de las obras.
+Control del cumplimiento del programa de actuación en zonas vulnerables a la contaminación por nitratos.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente resolución.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Delegación Provincial de
+Desarrollo Sostenible de Albacete:
+a) Antes del inicio de las obras:
+Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 15 días hábiles.
+Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+Resolución de concesión de aguas subterráneas emitida por la Confederación Hidrográfica del Júcar (expediente
+6693/2018 – UGH RO0102).
+Estudio de Valoración Histórico-Cultural con informe favorable del Servicio de Cultura de la Delegación Provincial de
+Educación, Cultura y Deportes de Albacete.
+Autorización de obras de la Dirección General de Carreteras para las actuaciones en zonas de afección de la
+carretera CM-3135, incluyendo el plano de planta completo del proyecto con grafiado de zonas de afección.
+Aclaración justificada sobre las obras o actuaciones nuevas a ejecutar, diferenciando las ya realizadas de las
+proyectadas, con cartografía detallada de la nueva red de riego y zanjeado.
+Justificación sobre la situación de las parcelas 9002, 9003 y 9005 del polígono 46 (infraestructuras públicas) y, en su
+caso, exclusión del ámbito del proyecto.
+Delimitación sobre plano catastral o Sigpac de los recintos con vegetación natural, manchas de monte y arbolado a
+conservar, en especial en la parcela 12 del polígono 46.
+b) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cuatro primeros años de
+funcionamiento del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y
+vigilancia ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Albacete, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero y en
+el ejercicio de las atribuciones conferidas por la Resolución de 24 de mayo de 2024, de la Dirección General de
+Calidad Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las Delegaciones
+Provinciales de la Consejería de Desarrollo Sostenible y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, resuelve que el proyecto , “Incremento de superficie de riego sin incremento de
+
+AÑO XLV Núm. 104 3 de junio de 2026 22198
+volumen en 86,95 has en La Roda (Exp. 6693/2018 (2018CP0342) UGH RO0102)”(S478/2025/AB/00056) cuyo
+promotor es Agraria Casa Arnedo S.L., no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por
+estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales
+y de seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Albacete, 26 de mayo de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ
+
+AÑO XLV Núm. 104 3 de junio de 2026 22199
+ANEXO CARTOGRAFIA DE LA ACTUACIÓN
+Perímetro de la actuación proyectada. Fuente: Documento ambiental del promotor
