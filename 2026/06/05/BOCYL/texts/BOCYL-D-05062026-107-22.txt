@@ -1,0 +1,730 @@
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 196
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE MEDIO AMBIENTE, VIVIENDA
+Y ORDENACIÓN DEL TERRITORIO
+Servicio Territorial de Medio Ambiente de Salamanca
+RESOLUCIÓN de 29 de mayo de 2026, de la Delegación Territorial de Salamanca,
+por la que se dicta el informe de impacto ambiental del proyecto de adaptación de
+un gasoducto de transporte secundario para la inyección de biometano al gasoducto
+Salamanca «Peñaranda», promovido por «Redexis, S.A.», en el término municipal de
+Villar de Gallimazo (Salamanca). Expte.: EIAS/2025/SA/031.
+El titular de la Delegación Territorial de la Junta de Castilla y León en Salamanca,
+en relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental y en virtud de las atribuciones conferidas por el artículo 52.2
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano competente para dictar
+informe de impacto ambiental.
+El artículo 7.2 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental,
+establece que serán objeto de una evaluación de impacto ambiental simplificada, entre
+otros, los proyectos comprendidos en el Anexo II. El proyecto se incluye dentro del Anexo
+II, Grupo 4, apartado f) «Instalaciones industriales para el transporte de vapor y agua
+caliente, de oleoductos y gasoductos, y tuberías para el transporte de flujos de dióxido
+de carbono con fines de almacenamiento geológico (proyectos no incluidos en Anexo I).
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+Considerando adecuadamente tramitado el expediente, vista la propuesta de la
+Comisión Territorial de Medio Ambiente y Urbanismo de Salamanca en su reunión de
+fecha 28 de mayo de 2026, las observaciones y la documentación presentada,
+RESUELVO
+Dictar el Informe de Impacto Ambiental del «Proyecto de adaptación de
+gasoducto de transporte secundario para la inyección de biometano al gasoducto
+Salamanca‑Peñaranda», promovido por Redexis, S.A, que figura como anexo a esta
+Resolución, ubicado en el término municipal de Villar de Gallimazo (Salamanca).
+N.º expediente: EIAS/2025/SA/031.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 197
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, y en el artículo 59 del texto refundido de la Ley
+de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este Informe de Impacto Ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Salamanca, 29 de mayo de 2026.
+El Delegado Territorial,
+Fdo.: Eloy Ruiz Marcos
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 198
+ANEXO
+INFORME DE IMPACTO PROYECTO DE «ADAPTACIÓN DE GASODUCTO DE
+TRANSPORTE SECUNDARIO PARA LA INYECCIÓN DE BIOMETANO AL GASODUCTO
+SALAMANCA ‑ PEÑARANDA», PROMOVIDO POR REDEXIS S.A., EN EL TÉRMINO
+MUNICIPAL DE VILLAR DE GALLIMAZO (SALAMANCA). N.º EXPTE.: EIAS/2025/
+SA/031.
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+Características principales del
+DESCRIPCIÓN
+proyecto
+Proyecto de adaptación de gasoducto de transporte secundario para la inyección
+Denominación del proyecto
+de biometano al gasoducto «Salamanca–Peñaranda».
+Promotor Redexis, S.A.
+Término municipal de Villar de Gallimazo (Salamanca), en la parcela catastral
+Ubicación 37361A50440253 (parcela 40253 del polígono 504), paraje «El Tamujal», al sur del
+núcleo urbano y próximo a la A‑50 y carretera DSA‑695.
+Permitir la inyección de biometano procedente de una futura planta de producción
+Finalidad
+en la red de transporte de gas natural existente.
+Infraestructura lineal de conexión gasista + instalación auxiliar módulo de inyección
+Tipo de actuación
+(MDI).
+Directamente vinculado a una planta de producción de biometano en tramitación,
+Relación con otros proyectos promovida por BIORED SALAMANCA S.L., que se pretende ubicar en dicha
+parcela.
+Gasoducto receptor Gasoducto de transporte «Salamanca–Peñaranda», propiedad de Redexis.
+Punto de conexión Aproximadamente en el PK 42+492 del gasoducto existente.
+Presión de operación 59 bar.
+Caudal máximo 750 Nm³/h de biometano.
+Instalación de regulación, medida, control de calidad y odorización del gas;
+superficie aproximada de ocupación 89 m². Su función es verificar el cumplimiento
+Módulo de Inyección (MDI)
+de los requisitos de calidad del gas del gestor técnico del sistema y permitir/
+interrumpir la inyección en la red.
+Conducción de entrada al MDI Tubería de acero Ø4», longitud aproximada 19 m.
+Tubería de acero Ø4», longitud aproximada 58 m (incluyendo tramo en posición de
+Conducción MDI–gasoducto
+válvulas).
+Longitud total de la actuación Aproximadamente 54–58 m según tramos considerados.
+Material de tuberías Acero al carbono API 5L Grado B, con recubrimiento adecuado.
+Canalización enterrada mediante apertura de zanja, excepto tramos puntuales en
+Sistema constructivo
+superficie en el MDI y posición de válvulas.
+Profundidad de instalación Definida en proyecto técnico, compatible con normativa sectorial de gas.
+Protección catódica mediante integración en el sistema existente del gasoducto y
+Sistema de protección
+elementos propios (juntas aislantes, tomas de potencial).
+Telecontrol mediante fibra óptica conectada al sistema existente, PLC y control
+Sistema de control
+automático del MDI.
+Instalación específica de conexión con válvula de derivación, venteos y elementos
+Nueva posición de válvulas
+de seguridad.
+Tipo de conexión Derivación directa en carga sobre el gasoducto existente mediante weldolet.
+Vallados, accesos, sistema eléctrico, telecomunicaciones, equipos de medida y
+Instalaciones auxiliares
+odorización.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 199
+El biometano (gas de origen renovable) procederá de una nueva planta de biogás,
+situada en el término municipal de Villar de Gallimazo y promovida por BIORED
+SALAMANCA S.L. y que está siendo objeto de un procedimiento de Autorización Ambiental
+y tendrá que someterse también a Evaluación de Impacto Ambiental.
+Por lo tanto, este proyecto de conducción está vinculado directamente a la obtención
+de la Autorización Ambiental Integrada por parte de la planta de biometano, salvo que el
+promotor acredite que prestará servicio efectivo a otros consumidores, instalaciones o
+suministradores de gas ya autorizados o en funcionamiento.
+2. DOCUMENTO AMBIENTAL.
+El Documento Ambiental (DA) presentado y elaborado por el departamento de Medio
+Ambiente de la Ingeniería de Proyectos SATEL, tiene por objeto la evaluación de los
+posibles efectos del proyecto sobre el medio ambiente y el cumplimiento de lo previsto en
+la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+El documento se estructura en los contenidos habituales exigidos por el artículo 45
+de la citada Ley e incluye una introducción, en la que se expone el objeto del proyecto, su
+justificación en el marco de la transición energética y la normativa aplicable.
+Presenta un análisis de alternativas, incluyendo la alternativa cero, que es rechazada
+por considera que no se podría aprovechar el gas generado en la futura planta de
+biometano. seleccionándose como solución óptima un trazado de la alternativa propuesta
+por contar con una mínima longitud (54‑58 m) y una afección ambiental muy reducida.
+Se continua con una descripción técnica detallada del proyecto, que recoge las
+características del módulo de inyección, las conducciones proyectadas y las instalaciones
+auxiliares.
+Presenta una caracterización del medio afectado, incluyendo los aspectos físicos,
+bióticos y socioeconómicos, destacando el carácter agrícola del entorno y su inclusión en
+una ZEPA de la Red Natura 2000.
+Cuenta con una identificación y valoración de impactos ambientales en las fases de
+construcción, explotación y desmantelamiento, concluyendo que estos son en general de
+carácter leve, temporal y compatible.
+Se plantean una serie de medidas preventivas y correctoras, orientadas a minimizar
+los efectos sobre la atmósfera, suelo, agua, vegetación, gestión de residuos, protección
+de infraestructuras y servicios afectados, así como del medio socioeconómico y cultural.
+Incluye un plan de vigilancia ambiental, que establece el seguimiento de los impactos
+y el cumplimiento de las medidas durante la ejecución y funcionamiento del proyecto.
+Por último, se adjunta una seria de Anexos complementarios relativos a la gestión de
+residuos, evaluación de riesgos y afecciones sobre la Red Natura 2000.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 200
+3. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+3.1. Inicio del procedimiento.
+Con fecha de 23 de octubre de 2025 tiene entrada por comunicación interna (Hermes)
+desde el órgano sustantivo, Servicio Territorial de Industria Comercio y Economía a
+través de la Sección de Industria y energía, solicitud de evaluación de impacto ambiental
+simplificada, junto con Documento Ambiental del Proyecto.
+3.2. Consultas a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, se procedió por parte del Servicio Territorial de Medio Ambiente
+de Salamanca a la apertura del trámite de consultas a las Administraciones públicas
+afectadas y a las personas interesadas, con fecha de 6 de noviembre de 2025.
+La relación de los organismos consultados, así como los informes recibidos de forma
+previa a la redacción del presente informe se refleja en la siguiente tabla:
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS CONTESTACIÓN
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural X
+Servicio Territorial de Cultura, Turismo y Deporte. X
+Servicio Territorial de Industria, Comercio y Economía X
+Servicio Territorial de Sanidad X
+Servicio Territorial de Movilidad y Transformación Digital.
+D.G. de Patrimonio Natural y Política Forestal. Afección a RN y
+X
+Medio Natural
+Servicio Territorial de Medio Ambiente de Salamanca. S.
+X
+Protección Ambiental
+Secretaría Territorial de Salamanca. Sección de Protección
+X
+Ciudadana
+Subdelegación del Gobierno en Salamanca X
+Confederación Hidrográfica del Duero X
+Ayuntamiento de Villar de Gallimazo X
+Diputación Provincial de SALAMANCA
+Asociación Ecologistas en Acción de Salamanca
+El Servicio Territorial de Agricultura Ganadería y Desarrollo Rural, (Área de
+Estructuras Agrarias): Informa que el proyecto no afecta a actuaciones realizas, en
+ejecución o planificada por la Dirección General de Desarrollo Rural.
+El Servicio Territorial de Cultura, Turismo y Deporte. (Arqueólogo Territorial): Informa
+que, en el ámbito del proyecto, ya se efectuó una prospección arqueológica en 2024
+con motivo del Estudio de Impacto Ambiental relativo del Proyecto de «Gasoducto de
+Salamanca a Peñaranda de Bracamonte», sin detectar la existencia de bienes en su traza.
+En consecuencia, se considera que no existen efectos significativos y adversos sobre el
+patrimonio cultural, y que no resulta necesario adoptar medida específica alguna. En el
+caso de que se produjera un hallazgo casual de bienes culturales, las obras deberán
+ser detenidas, y comunicado inmediatamente el hecho al Servicio Territorial de Cultura,
+Turismo y Deporte.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 201
+El Servicio Territorial de Industria, Comercio y Economía (Sección de Industria): No
+emite alegaciones a la documentación presentada, puesto que no se hace referencia
+a la ejecución especifica de las instalaciones finales, que pudieran afectarle en cuanto
+a la Seguridad Industrial. Señalando que toda instalación, ampliación y/o modificación
+deberán de justificar la reglamentación sectorial que le fuera de aplicación así mismo se
+dará cumplimiento administrativo de lo tipificado en cada Reglamento Industrial.
+El Servicio Territorial de Sanidad de Salamanca (Demarcación de Peñaranda de
+Bracamonte); Señala dentro de posibles repercusiones medioambientales y concretamente
+en lo referente al agua de consumo, las dos captaciones más próximas al Proyecto según
+datos obtenidos de la aplicación SINAC (Sistema de Información Nacional de Aguas
+de Consumo), serian CAP –El Silo‑Villar de Gallimazo y CAP –Ventosa del Rio Almar
+ambas de uso ordinario y origen subterráneo. Informando favorablemente, condicionado
+al cumplimiento de las Medidas Protectoras y Correctoras y el PVA, descritas en el DA
+para evitar que no se vean comprometidos los criterios de calidad que deben cumplir las
+aguas de consumo humano (RD 3/2023, de 10 de enero).
+D.G. de Patrimonio Natural y Política Forestal emite el informe de afección al
+medio natural: Informa que una vez estudiado el proyecto se constata la ausencia de
+coincidencia territorial ni de afección indirectas con: Espacios naturales protegidos,
+Planes de especies protegidas, Zonas húmedas de interés especial, Árboles notables,
+Montes de utilidad pública, Montes protectores, Terrenos con la condición jurídica de
+monte no demaniales, Zonas naturales de esparcimiento, Vías pecuarias, Otras figuras
+de protección: Reservas naturales fluviales / Reservas de la biosfera /Geoparques
+mundiales / Áreas Ramsar / Otras, Propuestas de lugares geológicos o paleontológicos
+de interés especial, Propuestas de microrreservas de flora, Flora protegida, Hábitats de
+interés comunitario fuera de ZEC, Fauna protegida.
+El proyecto presenta coincidencia territorial con: ZEPA Campos de Alba (ES0000359).
+concluyéndose que las actuaciones proyectadas, ya sea individualmente o en combinación
+con otros proyectos, no causarán perjuicio a la integridad de dicho espacio protegido Red
+Natura 2000.
+Servicio Territorial de Medio Ambiente de Salamanca (Sección de Protección
+Ambiental): Informa favorablemente señalando una serie de condiciones sobre la
+gestión de residuos durante la fase de obras y su señalización. Condiciones que serán
+incorporadas en las medidas del punto 5 del Informe de Impacto Ambiental.
+Secretaría Territorial de la Delegación Territorial de Salamanca (Sección de
+Protección Ciudadana): Considera que ninguna de las actuaciones que se proyecten
+debe incrementar el riesgo hacia las personas, sus bienes y el medio ambiente. Si alguna
+de las actuaciones derivadas del proyecto pudiera potencialmente aumentar el riesgo
+sobre las personas, sus bienes o el medio ambiente, debería hacerse un análisis previo,
+indicando el grado de afección, así como las medidas necesarias para evitar incrementar
+dichos riesgos.
+Subdelegación del Gobierno en Salamanca: informa que no afecta a la infraestructura
+energética básica competencia de la Dirección General de Política Energética y Minas del
+Ministerio para la Transición Ecológica y el Reto Demográfico ni se observan incidencias
+ni afecciones dentro del ámbito de competencias de esta Dependencia.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 202
+La Confederación Hidrográfica del Duero: Informa según las comprobaciones
+cartográficas realizadas por este Organismo de cuenca a partir de la documentación
+aportada por el promotor, informa que la parcela de actuación no afecta a cauce público
+alguno ni a sus zonas de protección (servidumbre y policía). Exponen una serie de
+aspectos relacionados con el medio hídrico, que deberán ser tenidos en cuenta por el
+promotor a la hora de ejecutar el proyecto. Dichas consideraciones han sido incorporadas
+en el punto 5 de este Informe de Impacto Ambiental.
+El Ayuntamiento de Villar de Gallimazo: Presenta una alegación en la que se opone
+al proyecto por estar directamente vinculado a la Planta de Producción de Biogás, de la
+que se considera que va a producir malos olores, riesgo para la salud, contaminación
+atmosfera y de los acuíferos, ruido, deterioro de la carretera e incompatibilidad urbanística.
+Dicha alegación fue remitida al promotor para su consideración. En su contestación señala
+que las alegaciones van directamente hacia la Planta de Biometano, instalaciones ajenas
+a este proyecto y de otro promotor. En cuanto al deterioro de la red viaria, considera que
+las operaciones habituales de explotación y mantenimiento de dichas infraestructuras
+de distribución de gas están principalmente encaminadas a mantener la integridad de la
+instalación y la continuidad del suministro de gas, y únicamente requerirán de accesos
+puntuales a la instalación con pequeños vehículos de mantenimiento y nunca con
+vehículo pesados. En cuanto a la incompatibilidad urbanística, señala que este tipo de
+proyectos, si cuentan con una evaluación de impacto ambiental favorable, pasan a ser
+usos permitidos, conforme a la modificación del artículo 13 de la Ley 5/1999, de 8 de abril,
+de Urbanismo de Castilla y León.
+Una vez visto todos los informes y alegaciones presentadas, estos se han tenido en
+cuenta para el análisis de la actuación según los criterios que se detallan a continuación.
+Aquellos informes que han establecido condiciones, estas han sido incorporadas en el
+condicionado de la presente Informe de Impacto Ambiental
+4. ANÁLISIS SEGÚN LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+a) Dimensiones y diseño del conjunto del proyecto: El proyecto presenta una
+dimensión muy reducida, configurándose como una infraestructura lineal de
+pequeña escala destinada a la conexión de una futura planta de biometano con
+el gasoducto de transporte «Salamanca‑Peñaranda», existente en el término
+municipal de Villar de Gallimazo.
+La actuación consiste fundamentalmente en la instalación de un módulo de
+inyección (MDI) y una conducción enterrada de conexión, cuya longitud total
+aproximada es de 54–58 metros, lo que evidencia su alcance físico limitado. El
+módulo de inyección, con una superficie de ocupación aproximada de 89 m², se
+configura como una instalación compacta que integra los elementos necesarios
+para la regulación, control de calidad, medición y odorización del gas, sin requerir
+edificaciones de entidad ni implantaciones volumétricas significativas.
+En consecuencia, puede considerarse un proyecto de baja magnitud física, con
+implantación localizada y un diseño estandarizado orientado a la seguridad
+operativa y la integración ambiental, sin generar modificaciones significativas en
+el entorno.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 203
+b) Acumulación de proyectos existentes o aprobados: El proyecto de adaptación de
+gasoducto de transporte secundario para la inyección de biometano no presenta,
+por sí mismo, una capacidad relevante de generar efectos acumulativos
+significativos, debido a su reducida dimensión y carácter auxiliar dentro del
+sistema gasista. No obstante, debe considerarse su vinculación funcional directa
+con la futura planta de producción de biometano, actualmente en tramitación,
+de la cual depende su operatividad. En este sentido, la conducción y el módulo
+de inyección constituyen infraestructuras complementarias necesarias para la
+evacuación del gas renovable, sin las cuales la planta carecería de funcionalidad.
+Por lo que se considera necesario vincular su ejecución a la autorización previa
+de la planta.
+c) Utilización de recursos naturales: El proyecto requiere una utilización muy
+limitada de recursos naturales, dado que se trata de una infraestructura lineal
+de pequeña escala y de carácter eminentemente técnico. La ocupación del MDI
+será de aproximadamente 89 m2 y la ocupación temporal para la realización de
+la zanja será aproximadamente de 545 m² y de forma permanente quedaría en
+≈ 337 m². La ocupación permanente total real del proyecto está en el orden de:
+400–450 m²
+La fase de construcción implica el consumo de ciertos materiales habituales en
+obras de canalización –principalmente tubería de acero, elementos metálicos
+asociados (válvulas, bridas, accesorios), hormigón para la losa del módulo de
+inyección (MDI) y materiales de zanja como áridos para cama y relleno–, pero
+todos ellos en cantidades reducidas, coherentes con la longitud total del trazado
+y con la pequeña dimensión del MDI.
+En cuanto al consumo de agua, no se prevén necesidades significativas más allá
+de usos puntuales durante la obra (control de polvo o necesidades auxiliares), sin
+que exista un consumo continuo ni relevante del recurso hídrico.
+En la fase de operaciones el MDI conlleva un pequeño consumo energético propio
+de los equipos de control, seguridad y comunicaciones, habituales en las redes
+de distribución de gas natural, aunque no se especifica de donde procederá este
+pequeño consumo.
+En consecuencia, el proyecto presenta una baja demanda de recursos naturales,
+sin implicar aprovechamientos extractivos ni una presión continuada sobre el
+entorno, siendo su impacto en este apartado muy reducido y compatible con el
+medio.
+d) Generación de residuos: El proyecto generará residuos únicamente durante la fase
+de construcción, siendo su volumen y naturaleza propios de una actuación lineal
+de pequeña entidad. Tierras y materiales de excavación, derivados de la apertura
+de la zanja para la instalación de la tubería, han sido estimados en 123 m3. Se
+producirán también RDC, plásticos, embalajes, metales procedentes de recortes,
+y maderas vinculadas a protección de materiales. Residuos urbanos generados
+por el personal de obra y residuos peligrosos en cantidades muy reducidas, tales
+como aceites usados, envases contaminados, absorbentes, trapos grasientos
+o posibles tierras contaminadas, derivados del mantenimiento de maquinaria.
+Todos ellos deberán ser gestionados a través de gestores autorizados.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 204
+Durante la fase de explotación, el proyecto no genera residuos, dado que el
+Módulo de Inyección únicamente realiza funciones de medida, regulación y
+control del gas, sin procesos industriales ni manipulación de materias primas
+o subproductos que puedan originar residuos adicionales. Por ello, el impacto
+asociado a la generación de residuos se considera bajo y perfectamente mitigable
+con una gestión adecuada.
+e) Contaminación y otras perturbaciones: El proyecto puede generar contaminación
+y molestias únicamente durante la fase de obras, mientras que en la fase de
+explotación los efectos son muy reducidos o nulos, debido a la naturaleza pasiva
+de la infraestructura.
+En cuanto a la contaminación atmosférica, las emisiones se limitan a los gases
+de combustión de la maquinaria, sin focos fijos ni emisiones continuadas. No
+se prevé molestias por olores ya que el MDI no almacena ni maneja materia
+orgánica ni subproductos, únicamente regula y controla gas previamente tratado.
+f) Riesgos de accidentes graves y/o catástrofes relevantes: El Documento Ambiental
+incorpora un análisis específico de riesgos, concluyendo que el proyecto presenta
+una vulnerabilidad global baja frente a accidentes graves o catástrofes, tanto de
+origen natural como antrópico. No existen escenarios razonables de accidente
+grave con consecuencias significativas sobre el medio ambiente o la población.
+Los riesgos identificados son bajos o moderados y están adecuadamente
+controlados mediante el diseño técnico de la instalación y el cumplimiento de la
+normativa sectorial.
+En consecuencia, el proyecto se considera compatible desde el punto de vista de
+seguridad, no siendo necesario establecer medidas adicionales más allá de las
+contempladas en el propio proyecto.
+g) Riesgos para la salud humana: El Análisis de Riesgos concluye que los
+riesgos para la salud humana asociados al proyecto son bajos, tanto en fase
+de construcción como de explotación. Durante la fase de obras, las posibles
+afecciones (ruido, polvo o tránsito de maquinaria) son temporales, localizadas
+y de limitada intensidad, sin incidencia relevante sobre la población debido a la
+baja densidad demográfica del entorno. En fase de explotación, la instalación
+no realiza procesos industriales ni almacenamiento de gas, tratándose de una
+infraestructura enterrada y un módulo técnico automatizado, dotado de sistemas
+de control y seguridad, lo que reduce al mínimo los riesgos derivados de fugas,
+incendios o explosiones. En consecuencia, el proyecto no supone riesgos
+significativos para la salud humana, considerándose compatible con su entorno.
+4.2. UBICACIÓN DEL PROYECTO.
+a) Uso presente y aprobado del suelo: El ámbito de actuación del proyecto se localiza
+en el término municipal de Villar de Gallimazo (Salamanca), sobre terrenos cuyo
+uso actual es fundamentalmente agrícola, consistentes en cultivos herbáceos de
+secano, con presencia de vegetación ruderal en lindes y caminos. El proyecto
+se localiza a 3,37 km del núcleo urbano de Villar de Gallimazo y a 2,83 km de
+Ventosa del Río Almar y muy próximo a infraestructuras viarias (A‑50 y carretera
+DSA‑695).
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 205
+El entorno inmediato presenta un marcado carácter rural, con ausencia de
+edificaciones residenciales próximas y predominio de usos agropecuarios. En
+este contexto, las infraestructuras energéticas proyectadas –consistentes en
+una conducción de gas enterrada y un módulo técnico de reducido tamaño–
+presentan una ocupación limitada y compatible con los usos existentes del suelo,
+no alterando de forma significativa la estructura productiva ni el aprovechamiento
+agrario de la zona.
+Desde el punto de vista del planeamiento urbanístico, el proyecto se ubica
+sobre suelo rústico, según las Normas Subsidiarias Municipales vigentes de
+Villar de Gallimazo. Según la modificación de la Ley 5/1999 de Urbanismo de
+Castilla y León (modificada por la Ley 4/2024) las infraestructuras de utilidad
+pública en suelo rústico, si cuentan con informe ambiental favorable, pasan a
+considerándose usos permitidos sin necesidad de autorización excepcional.
+En consecuencia, tanto el uso actual como el previsto del suelo resultan
+compatibles con la implantación del proyecto, sin que se prevean conflictos
+significativos desde el punto de vista urbanístico o territorial.
+b) Abundancia relativa, calidad y capacidad, de regeneración de recursos en la zona:
+El ámbito en el que se desarrolla el proyecto se caracteriza por estar constituido
+fundamentalmente por suelos agrícolas de uso intensivo, con predominio de
+cultivos herbáceos de secano y una vegetación natural muy reducida, limitada
+a formaciones ruderales en márgenes y lindes. Desde el punto de vista de la
+abundancia y calidad de los recursos naturales, el entorno presenta una baja
+naturalidad y elevada transformación antrópica, propia de paisajes agrarios de
+la meseta castellana, donde los recursos ecológicos han sido históricamente
+modificados para su aprovechamiento agrícola. En todo caso la capacidad de
+regeneración del medio se considera adecuada, dado que los suelos afectados
+presentan una estructura agrícola consolidada, con capacidad de recuperación
+tras actuaciones puntuales como la apertura de zanjas y rápida restauración del
+terreno tras las obras.
+c) Capacidad de carga del medio natural teniendo en cuenta las posibles figuras
+de protección ambiental que puedan verse afectadas en base al informe sobre
+las afecciones al medio natural, de la D.G. de Patrimonio Natural y P.F. una vez
+estudiado el proyecto se se constata la ausencia de coincidencia territorial ni
+de afección indirectas con: Espacios naturales protegidos, Planes de especies
+protegidas, Zonas húmedas de interés especial, Árboles notables, Montes de
+utilidad pública, Montes protectores, Terrenos con la condición jurídica de
+monte no demaniales, Zonas naturales de esparcimiento, Vías pecuarias, Otras
+figuras de protección: Reservas naturales fluviales / Reservas de la biosfera /
+Geoparques mundiales / Áreas Ramsar / Otras, Propuestas de lugares geológicos
+o paleontológicos de interés especial, Propuestas de microrreservas de flora,
+flora protegida, Hábitats de interés comunitario fuera de ZEC, fauna protegida.
+Afección a espacios protegidos Red Natura 2000: El proyecto presenta
+coincidencia territorial con: ZEPA Campos de Alba (ES0000359), cuya importancia
+natural esta en ser un hábitat para números especies de aves como milano real,
+aguilucho cenizo y en especial aves esteparias (ganga, ortega, avutarda). Pero
+dado la escasa entidad del proyecto (canalización de 58 m de longitud situada en
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 206
+medio de una finca de cultivo) y por tanto se descartan afecciones significativas
+a dichas especies. Concluyendo que una vez realizada la evaluación requerida
+por el artículo 2 del Decreto 6/2011, de 10 de febrero, por el que se establece
+el procedimiento de evaluación de las repercusiones sobre la Red Natura 2000
+de aquellos planes, programas o proyectos desarrollados en el ámbito territorial
+de la Comunidad de Castilla y León, las actuaciones proyectadas, ya sea
+individualmente o en combinación con otros proyectos, no causarán perjuicio a
+la integridad de dicho espacio protegido Red Natura 2000. Estas conclusiones
+constituyen el Informe de Evaluación de la Repercusiones sobre la Red Natura
+2000 (IRNA) tal y como se define en el artículo 5 Decreto 6/2011, de 10 de febrero.
+Afección al paisaje: Según el Atlas de los paisajes de España (Ministerio de Medio
+Ambiente, 2003) ubica el proyecto en la unidad del paisaje 51.17 Campiñas de
+Peñaranda de Bracamonte y del occidente de la Tierra de Arévalo. Teniendo en
+cuenta que el ámbito de actuación se localiza dentro de una finca de cultivo y
+que la intervención consiste en la canalización de unas tuberías de conexión con
+el gasoducto, no se espera ninguna afección relevante sobre el paisaje más allá
+del periodo de ejecución de las obras. Incluso durante este tiempo, el impacto
+visual será mínimo, ya que en una finca agrícola es habitual la presencia de
+maquinaria trabajando.
+En cuanto a las masas de aguas superficiales o subterráneas: La CHD informa
+que se informa que las instalaciones proyectadas no afectan a cauce publico
+alguno ni a sus zonas de protección (servidumbre y policía). El proyecto se
+ubica a 236 m del rio. Respecto a las aguas subterráneas, el trazado se ubica
+sobre la masa subterránea ES020MSBT000400048 «Los Arenales‑Tierra del
+Vino», acuífero de carácter extenso que presenta, en términos generales, una
+situación de presión significativa por actividades agrícolas. La obra consiste en
+una canalización soterrada de pequeña longitud, sin excavaciones profundas, sin
+perforaciones verticales y sin vertidos asociados, por lo que el riesgo de afección
+por filtraciones o contaminaciones accidentales se considera muy bajo.
+Zona no se han superado los objetivos de calidad medioambiental, y en cuanto a
+la densidad demográfica; El ámbito en el que se ubica el proyecto se corresponde
+con un entorno rural de carácter agrícola, alejado de focos urbanos relevantes,
+donde no se identifican problemas significativos de superación de los objetivos
+de calidad ambiental establecidos en la normativa vigente. En lo relativo a la
+densidad demográfica, el municipio de Villar de Gallimazo presenta una población
+reducida (en torno a 200 habitantes), con una baja densidad propia de zonas
+rurales de la provincia de Salamanca.
+Afección al patrimonio cultural; Según el informe del arqueólogo territorial, la zona
+ya cuenta con proposición arqueológica, durante la realización del gasoducto
+Salamanca‑Peñaranda de Bracamonte, sin que se detectara la existencia de
+bienes del patrimonio cultural en su traza. En consecuencia, se considera que no
+existen efectos significativos adversos sobre el patrimonio cultural y por tanto no
+resulta necesario adoptar medida específica alguna.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 207
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+a) Magnitud y alcance espacial del impacto: Los impactos previstos tienen magnitud
+muy baja y un alcance espacial estrictamente local, limitado al trazado de unas
+pocas centenas de metros sobre suelos agrícolas ya transformados, sin afección
+a núcleos de población ni áreas sensibles. La población potencialmente afectada
+es prácticamente nula, dada la baja densidad demográfica del municipio y la
+ausencia de viviendas próximas.
+b) Naturaleza del impacto; Los impactos son de naturaleza temporal y leve,
+asociados fundamentalmente a la fase de obras (ruido, polvo, movimientos de
+tierras) y nulos o despreciables en fase de explotación, dado que el Módulo de
+Inyección funciona de manera automatizada, sin emisiones, vertidos ni procesos
+industriales.
+c) Carácter transfronterizo del impacto; No existe ninguna posibilidad de impacto
+transfronterizo, al tratarse de una infraestructura lineal de pequeña escala
+situada íntegramente en el término municipal de Villar de Gallimazo, sin afección
+a recursos compartidos de carácter supranacional.
+d) Intensidad y complejidad del impacto; La intensidad es baja, al no introducir
+nuevas presiones ambientales sobre medio ni afectar a elementos de elevada
+fragilidad ecológica. La complejidad también es reducida, ya que el entorno
+es agrícola, homogéneo y altamente antropizado, y la instalación no requiere
+procesos complejos ni genera interacciones ambientales múltiples.
+e) Probabilidad del impacto; La probabilidad de impactos significativos se califica
+como baja o muy baja, de acuerdo con el análisis de riesgos: los riesgos naturales
+(inundaciones, incendios, sismicidad) y tecnológicos (fugas, explosiones) se
+evalúan como bajos o muy bajos, y en el caso del riesgo químico externo se
+cuenta con planes de autoprotección ya existentes.
+f) Inicio previsto, duración, frecuencia y reversibilidad: Los impactos se producirán
+principalmente durante la fase de obras, de corta duración y con efectos
+reversibles, ya que el terreno se restituye tras la instalación. En explotación,
+la frecuencia de impactos es mínima y casi despreciable, y no genera efectos
+irreversibles sobre el medio. En todo caso si la infraestructura algún día deja su
+función deberá presentarse su plan de desmantelamiento.
+g) Acumulación con otros proyectos existentes o aprobados; No se prevé impactos
+acumulativos significativos, ya que la única infraestructura relacionada (la planta
+de biometano) tiene tramitación independiente, y el entorno carece de otros
+proyectos con efectos ambientales relevantes que puedan solaparse con esta
+actuación.
+h) Posibilidad de reducir el impacto de manera eficaz; Los impactos pueden
+reducirse eficazmente mediante medidas estándar que ya recoge el proyecto:
+control de polvo, gestión correcta de residuos, protección de la fauna de la ZEPA,
+riego de caminos, protección de suelos, balizamiento, protocolos de emergencia
+y restauración del terreno. Estas medidas hacen que la eficacia de mitigación sea
+alta y que los impactos residuales sean muy bajos.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 208
+5. INFORME DE IMPACTO AMBIENTAL.
+Atendiendo a las características del proyecto y del medio y al potencial impacto,
+se determina que el «Proyecto de adaptación de gasoducto de transporte secundario
+para la inyección de biometano al gasoducto Salamanca‑Peñaranda», en su alternativa
+seleccionada, promovido por Redexis S.A. y ubicado en el término municipal de Villar
+de Gallimazo (Salamanca), no tiene efectos significativos sobre el medio ambiente, en
+los términos establecidos en el presente Informe de Impacto Ambiental, por los motivos
+expuestos anteriormente y sin perjuicio de otra normativa vigente que sea de aplicación.
+5.1. Autorizaciones previas: la aprobación de este proyecto estará vinculada a la
+aprobación previa de la Planta de Biometano, de la que actualmente se está tramitando
+su Autorización Ambiental y de la que procederá el gas renovable (biometano) a la
+que enganchará el proyecto ahora evaluado. Dicha planta está promovida por Biored
+Salamanca y que también tiene que someterse a Evaluación de Impacto Ambiental
+(Expte.: EIAO‑2026‑SA‑003).
+Por lo tanto, este informe quedará sin efecto en el caso de que no se autorice
+finalmente la instalación de generación de biometano a la que está ligada y por tanto, no
+se podrá ejecutar trabajo alguno de manera previa a que exista la Autorización Ambiental
+de la planta de biometano. Salvo que el promotor acredite que prestará servicio efectivo
+a otros consumidores, instalaciones o suministradores de gas ya autorizados o en
+funcionamiento.
+5.2. Medidas protectoras: Se deberán cumplir las medidas protectoras y correctoras
+que se indican a continuación, además de las que se incluyen en el documento ambiental
+aportado, en lo que no contradigan al presente informe de impacto ambiental:
+a) Protección de las aguas. Se considera adecuada la selección de la alternativa
+de trazado definitiva para la conexión, pues no supone afección a ninguno de los
+elementos que integran el dominio público (está fuera de zona de servidumbre y
+zona de policía). En todo caso se recuerda las siguientes consideraciones:
+Con carácter general, se informa desfavorablemente la intercepción de cauces
+públicos o la modificación de los mismos en cualquiera de sus dimensiones
+espaciales. En todas las actuaciones a realizar se respetarán las servidumbres
+legales y, en particular, la servidumbre de uso público de 5 m en cada margen
+establecida en los artículos 6 y 7 del Reglamento del Dominio Público Hidráulico,
+aprobado por Real Decreto 849/1986, de 11 de abril, en su redacción dada
+por el Real Decreto 9/2008, de 11 de enero. A este respecto, se deberá dejar
+completamente libre de cualquier obra que se vaya a realizar dicha zona de
+servidumbre.
+En cuanto al posible alumbramiento de aguas subterráneas, se atenderá a
+lo dispuesto en los artículos 16 y 316. c del Reglamento del Dominio Público
+Hidráulico.
+En la documentación aportada no se indica si será necesario el consumo de
+agua ni en su caso el origen de la misma. Por ello, se recuerda que en el caso
+de que fuera necesaria la captación de aguas superficiales y/o subterráneas,
+previamente, será preciso obtener de la CHD la correspondiente autorización
+o concesión administrativa, según proceda teniendo en cuenta la normativa
+en vigor.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 209
+Sobre el tema de vertidos y calidad de las aguas superficiales o subterráneas:
+En la documentación aportada se indica que no se producirán vertidos, salvo los
+de carácter accidental. No obstante, en el caso de que, finalmente, se produjera
+vertido sobre algún elemento del dominio público hidráulico (aguas superficiales
+o subterráneas), previamente se deberá disponer de la correspondiente
+autorización de vertido de la CHD, según lo establecido en el artículo 245 y
+siguientes del Reglamento del Dominio Público Hidráulico.
+Durante los movimientos de tierras, se deberán establecer las medidas necesarias
+para la retención de sólidos previa a la evacuación de las aguas de escorrentía
+superficial, así como otras posibles medidas para reducir al mínimo el riesgo de
+contaminación de las aguas superficiales.
+Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto; por escorrentía, erosión, infiltración
+u otros mecanismos sobre las aguas superficiales o subterráneas.
+Se deberán tomar las medidas oportunas para asegurar que, en ningún caso,
+se produzcan vertidos de aceites, combustibles, lubricantes, u otras sustancias
+similares al terreno o a los cursos de agua; sin perjuicio de lo cual se recomienda la
+elaboración de protocolos de actuación específicos en previsión de la ocurrencia
+de incidentes de este tipo, para poder así actuar de la manera más rápida posible
+y evitar la contaminación de las aguas superficiales y/o subterráneas.
+Para la elección de la ubicación de las instalaciones auxiliares se deberá evitar
+la ocupación del dominio público hidráulico y de la zona de servidumbre de los
+cauces. Se evitará también, en la medida de lo posible, la ocupación de la zona
+de policía de cauce público y de terrenos situados sobre materiales de alta
+permeabilidad.
+Las zonas en las que se ubiquen las instalaciones auxiliares y parques de
+maquinaria deberán ser impermeabilizadas para evitar la contaminación de las
+aguas subterráneas. Las aguas procedentes de la escorrentía de estas zonas
+impermeabilizadas deberán ser recogidas y gestionadas adecuadamente para
+evitar la contaminación del dominio público hidráulico.
+En relación con las aguas residuales generadas por la eventual instalación de
+aseos, duchas, … en las casetas de obra …, se recomienda la disposición de un
+depósito estanco, sin salida al exterior, que almacene las aguas residuales para,
+posteriormente, ser retiradas de forma periódica para su tratamiento mediante
+gestor autorizado. No obstante, en el caso de que, finalmente, se produjera vertido
+sobre algún elemento del dominio público hidráulico, previamente, se deberá
+disponer de la correspondiente autorización de vertido de esta Confederación
+Hidrográfica, según lo establecido en el Reglamento del Dominio Público
+Hidráulico.
+Toda actuación no prevista en la documentación aportada que surja en el
+transcurso de las obras y/o durante la vida útil de las instalaciones, así como
+en la fase de desmantelamiento de estas, en su caso, y que pueda afectar al
+dominio público hidráulico será puesta en conocimiento de la CHD, a la mayor
+brevedad posible.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 210
+b) Protección de las aguas de consumo: La ejecución del proyecto y su posterior
+explotación deberán asegurar que no se vea afectada la calidad de las aguas de
+consumo establecida en el Anexo I del RD 3/2023, de 10 de enero, por el que se
+establecen los criterios técnico‑sanitarios de la calidad del agua de consumo, su
+control y suministro.
+c) Protección de los suelos. Las obras de construcción de las zanjas deberán
+quedar perfectamente balizadas y delimitadas, evitando la afección fuera de
+estos límites. De manera general, la capa superior de suelo vegetal se deberá
+retirar y acopiar en montones de pequeña altura, con el objeto de mantener su
+estructura orgánica y humedad, para su posterior utilización en el tapado de la
+zanja y su revegetación.
+d) Protección de la atmósfera. Para evitar la producción de polvo, se efectuarán
+riegos periódicos en las pistas de acceso y en la zona de ejecución de las obras
+de instalación de la planta, si las condiciones climatológicas y circunstancias
+del trabajo lo aconsejan, además de cualquier otra medida adecuada a tal fin,
+con objeto de cumplir la normativa vigente de protección del medio ambiente
+atmosférico.
+e) Protección acústica. Se atenderá a lo dispuesto en la Ley 5/2009, de 4 de
+junio, del Ruido de Castilla y León, cumpliéndose lo establecido en la normativa
+de transmisión de ruido vigente por causas derivadas del establecimiento,
+funcionamiento o desmantelamiento del proyecto.
+f) Protección de la fauna: En caso de que la instalación conlleve una conexión
+eléctrica de alta tensión, deberá considerarse que ésta sea subterránea o, de
+ser aérea, deberá adecuarse a los Arts. 6 y 7 de prescripciones técnicas del Real
+Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la
+protección de la avifauna contra la colisión y la electrocución en líneas eléctricas
+de alta tensión.
+g) Gestión de residuos. Los residuos producidos principalmente en la fase de obras
+serán gestionados, conforme a su naturaleza. por gestores autorizados.
+h) Protección contra incendios: Se extremarán las precauciones para no ocasionar
+incendios forestales, debiendo adoptar todas las medidas necesarias para ello
+y cumpliendo todo lo especificado en la Orden FYM/510/2013, y Decreto‑ley
+2/2023, de 13 de abril, de Medidas Urgentes sobre Prevención y Extinción de
+Incendios Forestales.
+i) Protección el Patrimonio Histórico y Arqueológico. En el caso que durante las
+obras se produjera un hallazgo casual de bienes culturales, las obras deberán
+ser detenidas, y comunicado inmediatamente el hecho al Servicio Territorial de
+Cultura, Turismo y Deporte Salamanca.
+j) Desmantelamiento. Al final de la vida útil del ramal, o cuando el sistema
+de producción de energía (biometano) deje de ser operativo o se paralice
+definitivamente su funcionamiento, deberá garantizarse el desmantelamiento
+de toda la instalación y edificaciones, retirarse todos los equipos, residuos y
+materiales sobrantes conforme a la legislación sectorial vigente y procederse a la
+restauración e integración paisajística de toda el área afectada. Para garantizar
+el desmantelamiento total, se presentará un proyecto de desmantelamiento y
+restauración de la zona afectada, debiéndose incorporar un presupuesto valorado
+de este coste.
+CV: BOCYL-D-05062026-107-22
+
+Boletín Oficial de Castilla y León
+Núm. 107 Viernes, 5 de junio de 2026 Pág. 211
+5.3. Programa de vigilancia ambiental: Se desarrollará el programa de vigilancia
+ambiental conforme a lo establecido en el Documento Ambiental, incorporando las
+medidas correctoras exigidas en este informe de impacto ambiental, que será presentado
+ante el órgano sustantivo y remito por este al órgano ambiental.
+5.4. El seguimiento y vigilancia. Corresponde al órgano sustantivo el seguimiento
+y vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquel al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.5. Autorización del proyecto y publicidad: Conforme a lo establecido en el artículo
+48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano sustantivo
+deberá tener en cuenta en el procedimiento de autorización del proyecto, las conclusiones
+del presente informe de impacto ambiental, así como las condiciones ambientales
+establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de diez
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión y publicará en su sede electrónica la decisión sobre la
+autorización o denegación del proyecto y una referencia al boletín oficial donde se publicó
+el informe de impacto ambiental.
+5.6. Modificaciones. Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe, deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Salamanca, que prestará su conformidad si procede, sin perjuicio de la tramitación de
+las licencias o permisos que, en su caso, correspondan. Se consideran exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+5.7. Vigencia del informe de impacto ambiental. Conforme a lo establecido en el Art.
+47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este informe de
+impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el Boletín Oficial de Castilla
+y León, no se hubiera procedido a la autorización del proyecto.
+5.8. Objeto de recurso. De conformidad a lo establecido en el Art. 47.5 de la Ley de
+evaluación ambiental, el informe de impacto ambiental no será objeto de recurso alguno
+sin perjuicio de los que, en su caso, procedan en vía administrativa o judicial frente al
+acto, en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-05062026-107-22
