@@ -1,0 +1,796 @@
+AÑO XLV Núm. 108 10 de junio de 2026 22664
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 21/05/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula declaración de impacto ambiental del proyecto denominado: Prórroga de la concesión directa
+de explotación Minor-Seseña II, número 3.287-2 (0-0-2), en los términos municipales de Esquivias, Yeles,
+Seseña y Borox (Toledo), cuya promotora es Clariant Ibérica Producción, SA (Clariant) (expediente PRO-
+TO-24-3383). [2026/4290]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, define en su artículo 4.3.d), la
+declaración de impacto ambiental como: “el informe preceptivo y determinante del órgano ambiental con el que
+finaliza la evaluación de impacto ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el
+proyecto y determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de
+los recursos naturales durante la ejecución y la explotación y, en su caso, el cese, el desmantelamiento o demolición
+del proyecto”.
+Así mismo, en su artículo 8.1 se establece que los proyectos incluidos en su ámbito de aplicación deben someterse
+a una evaluación ambiental antes de la autorización por el órgano sustantivo, o bien, si procede, antes de la
+presentación de la correspondiente declaración responsable o comunicación previa. En particular, en su artículo 6.1
+determina los proyectos que deben someterse a evaluación de impacto ambiental ordinaria.
+El proyecto objeto de este informe, vistas sus características, y de acuerdo a la normativa autonómica, se somete
+al procedimiento de evaluación de impacto ambiental ordinaria, en aplicación de lo dispuesto en el artículo 6.1,
+encuadrándose en: Anexo I. Grupo 2, apartado a): Explotaciones y frentes de una misma autorización o concesión a
+cielo abierto de yacimientos minerales y demás recursos geológicos de las secciones A, B, C y D cuyo aprovechamiento
+está regulado por la Ley de Minas y normativa complementaria, cuando se dé alguna de las circunstancias siguientes:
+1.- Explotaciones en las que la superficie de terreno afectado supere las 25 ha. 2.- Explotaciones que tengan
+un movimiento total de tierras superior a 200.000 m³/año. 5.- Explotaciones visibles desde autopistas, autovías,
+carreteras nacionales y comarcales, espacios naturales protegidos, núcleos urbanos superiores a 1.000 habitantes
+o situadas a distancias inferiores a 2 km de tales núcleos.
+Primero. Identificación del promotor, del órgano sustantivo, y descripción del proyecto.
+El órgano sustantivo y el órgano ambiental concurren en este caso, en la Consejería de Desarrollo Sostenible,
+siendo competente en materia de minería, de acuerdo con la Ley 22/1973, de 21 de julio, de Minas, la Dirección
+General de Transición Energética; y en materia propiamente ambiental, la Dirección General de Calidad Ambiental.
+Así mismo, conforme al Decreto 6/2024, de 20 de febrero, por el que se modifica el Decreto 112/2023, de 25 de julio,
+en el que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible, y en
+virtud de las atribuciones conferidas por las resoluciones de 27.09.2023 y de 24.05.2024, de la Dirección General
+de Calidad Ambiental, por la que se delegan competencias en las delegaciones provinciales de la Consejería de
+Desarrollo Sostenible, la evaluación del expediente compete a la Delegación Provincial de Toledo.
+De acuerdo con el estudio de impacto ambiental el promotor es la sociedad mercantil Clariant Ibérica Producción,
+S.A. (Clariant), empresa dedicada a la industria de la minería, utilizando como materia prima las arcillas especiales,
+concretamente sepiolita y bentonita. Actualmente el promotor es titular de varias explotaciones en la provincia de Toledo.
+La concesión de explotación fue otorgada el 19.05.1986, por un periodo de 30 años, sobre una superficie de 1.403 ha,
+afectando a los términos municipales de Esquivias, Yeles, Seseña y Borox en la provincia de Toledo; y a Valdemoro
+y Ciempozuelos, en la provincia de Madrid.
+Finalizada su vigencia, se solicita la prórroga por otros 30 años, siendo el órgano ambiental el Ministerio de Agricultura,
+Pesca, Alimentación y Medio Ambiente, al afectar a dos comunidades autónomas.
+Con fecha. 14.10.202, se resuelve por parte de la Dirección General de Política Energética y Minas, del Ministerio
+para la Transición Ecológica y el Reto Demográfico, la solicitud de renuncia voluntaria del promotor de la parte
+afectada a la Comunidad Autónoma de Madrid, quedando la superficie final con un total de 1.227,54 ha, afectando
+a los términos municipales de Esquivias, Yeles, Seseña y Borox, en la provincia de Toledo, delimitada por las
+
+AÑO XLV Núm. 108 10 de junio de 2026 22665
+coordenadas U.T.M (ETRS89), referidas al Meridiano de Greenwich, tal como se muestra en la figura 1, del anejo
+cartográfico y un volumen total a extraer de 62.500 m³.
+Las coordenadas ETRS89 Huso 30 del perímetro del polígono son las siguientes:
+Índice X Y
+1 443.192,31 4.442.220,77
+2 443.692,71 4.442.216,28
+3 443.679,16 4.440.412,19
+4 439.775,91 4.440.442,16
+5 439.775,35 4.440.342,26
+6 439.474,94 4.440.344,34
+7 439.466,40 4.439.243,62
+8 436.464,17 4.439.266,63
+9 436.478,91 4.441.168,40
+10 436.078,63 4.441.171,45
+11 436.084,67 4.441.972,18
+12 437.587,64 4.441.960,87
+13 437.576,94 4.440.660,64
+14 438.976,90 4.440.649,59
+15 438.980,93 4.441.149,69
+16 441.880,86 4.441.127,23
+17 441.895,43 4.442.818,92
+18 441.995,43 4.442.818,92
+19 441.995,43 4.443.027,12
+20 443.198,79 4.443.018,92
+El objeto del proyecto definido por el promotor es la extracción a cielo abierto por arranque directo de las arcillas,
+especiales, recurso perteneciente a la Sección C), de la Ley 22/1973, de 21 de julio, de Minas, por un periodo de
+otorgamiento de 30 años. Se trata de una minería de transferencia, continuando la explotación en los frentes ya
+existentes. Las fases de explotación y restauración serán detalladas en el apartado Tercero.
+Toda la explotación se encuentra en suelo rústico, no existe ninguna explotación minera cercana. La altura media
+sobre el nivel del mar es de 660 metros.
+A la explotación se accede por caminos rurales.
+Dentro del polígono de explotación no se ve afectado ningún espacio protegido incluido en la Ley 9/1999, de 26 de
+mayo de Conservación de la Naturaleza de Castilla-La Mancha.
+El municipio más cercano es Seseña a 1,107metros.
+El tipo de explotación será por el método minero a cielo abierto con apertura de un frente por medio de bancos y
+arranque en profundidad, no afectando al nivel freático. Se trata de una explotación de arcillas especiales mediante
+el arranque directo y carga en camión volquete. La maquinaria necesaria para llevar a cabo las labores de extracción,
+carga , transporte según una producción anual de 6.500 tn. La explotación es estacional, siendo el cómputo de
+meses acumulados no supera los 4 meses.
+Las labores a realizar consisten en:
+- Eliminación de la montera, con capas de 0-50 cm de materia vegetal , acumulándola en cordones en los límites de
+la parcela.
+- Extracción del estéril y mineral mediante arranque directo en profundidad y transferencia mediante camión volquete
+de 24 tn . Las arcillas extraídas se acopian o se envían a fábrica.
+- Restauración de las zonas explotadas con el estéril extraído se va rellenando el hueco.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22666
+La altura máxima de la explotación no supera los 22 metros. Debido al carácter estratiforme de la explotación, se
+realiza por niveles formando bancos de forma descendente.
+Las pistas y acceso serán de un solo carril, sin cruce de vehículos.
+La operación de desmonte es necesaria para acceder al mineral y se realiza con la retroexcavadora.
+La Cantera no dispondrá de ningún tipo de instalación, a excepción de una planta de trituración y clarificado y
+clarificado que puntualmente será utilizada.
+La previsión de explotación es de una explotación media de 15,000 tn/año y el volumen de estériles previsto de
+437,500 m³.
+Entre las alternativas estudiadas se considera que no existen alternativas respecto a la ubicación ya que la Concesión
+de la que se solicita la prórroga está ubicada donde se manifiesta el recurso. Por lo que la alternativa seleccionada
+tiene en cuenta la disponibilidad del recurso, la calidad de materia prima, la red de caminos existentes, la red de
+drenaje existente, la flora y fauna asociada.
+En cuanto a alternativas de diseño, decir que en el proyecto que nos ocupa no se contempla otra alternativa que la
+planteada debido a que la explotación ya está en marcha desde hace más de 30 años.
+Segundo. Resumen del resultado del trámite de información pública y de las consultas.
+2.1. Resumen tramitación información pública.
+Con fecha 11.06.2024, el Servicio de Minas de la Delegación Provincial de Desarrollo Sostenible de Toledo,
+como órgano sustantivo del proyecto, remite al Servicio de Calidad Ambiental, de la citada Delegación Provincial,
+documentación relativa al inicio del procedimiento de evaluación ambiental ordinaria, tal y como se establece en
+el artículo 43.1, de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, que incluye:
+el justificante de las tasas correspondientes al procedimiento medioambiental, el estudio de impacto ambiental, la
+documentación relativa a la información pública, y las consultas realizadas a las Administraciones Públicas afectadas
+y a las personas interesadas (marcadas con asteriscos aquellos que han emitido informe o presentado alegaciones):
+1 Delegación Provincial de Desarrollo Sostenible de Toledo, Servicio de Medio Natural. (Preceptivo)*.
+Consejería de Desarrollo Sostenible, Dirección Gral. de Economía Circular, Servicio de Prevención e Impacto
+2
+Ambiental.
+Delegación Provincial de Educación, Cultura y Deportes de Toledo,
+3
+Servicio de Cultura (Preceptivo).*
+Consejería de Desarrollo Sostenible, Dirección General de Transición Energética, Servicio de Instalaciones
+4
+y Tecnologías Energéticas.
+5 Confederación Hidrográfica del Tajo. (Preceptivo)*
+6 Instituto Geológico y Minero de España (IGME)*.
+7 Ayuntamiento de Esquivias.
+8 Ayuntamiento de Seseña*.
+9 Ayuntamiento de Yeles.
+10 Ayuntamiento de Borox.
+11 WWF/Adena.
+12 Ecologistas en Acción.
+13 Sociedad Española de Ornitología (S.E.O.).
+14 Agrupación naturalista Esparvel.
+Junto a esta documentación, el Servicio de Minas remite el Plan de Restauración al que se refiere el artículo 3,
+del R.D. 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y
+rehabilitación del espacio afectado por actividades mineras, al objeto de que sea informado conforme al artículo 5,
+del citado Real Decreto, de acuerdo con las competencias de la autoridad ambiental competente.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22667
+Con fecha 20.10.2023, se publica en el Diario Oficial de Castilla-La Mancha (D.O.C.M), num.202, el Anuncio de
+27.07.2023, de la Delegación Provincial de Desarrollo Sostenible de Toledo, sometiendo a información pública la
+solicitud, el estudio de impacto ambiental y el plan de restauración de la concesión de explotación Minor Seseña II,
+nº 3.287-2 (0-0-2).
+2.2. Aspectos más relevantes indicados en los informes y en las alegaciones en la fase de consultas.
+2.2.1. Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Toledo: con fecha
+04.09.2023, este Servicio remite informe de fecha 09.06.2016, con nº de expte: 140845, en el que informan de una
+serie de limitaciones y condicionantes indicados en el apartado Cuarto. En el informe se incluyen las consideraciones
+que afectarían al expediente denominado Minor Seseña I, nº 3.287-1 (PRO-TO-24-3384).
+2.2.2. Confederación Hidrográfica del Tajo: emite informe de fecha 04.10.2023 (N/REF: EIA-0282/2023), en
+el que informa que el proyecto se encuentra en el área de captación de la zona sensible “Embalse Castrejón-
+ES030ZSENESCM572”, estando la mayor parte del mismo asentada sobre la zona de abastecimiento “Borox Golf,
+S.L-ES030ZCCM0000003153”.
+Se hace una serie de indicaciones en el ámbito de las competencias de esta Confederación que se desarrollan en
+el apartado Cuarto.
+2.2.3. Instituto Geológico y Minero de España (IGME): en informe de fecha 02.08.2023 (N/REF: 5711/2023) informa de
+la afección de la concesión de explotación al Lugar de Interés Geológico (LIG): “TMs041_Yacimiento paleontológico
+del Mioceno Superior de Malcovadeso 2” y “Tms015_Sección de Esquivias”
+2.2.4. Servicio de Medio Natural: con fecha 10.08.2023 (ref: 15694/jss) emite informe desfavorable debido a
+numerosas deficiencias en cuanto a:
+- En el proyecto no se definen zonas concretas de actuación que permitan evaluar adecuadamente sus efectos.
+- Inventario faunístico y florístico que dada la información en posesión de este Servicio no permite descartar impactos
+severos-críticos sobre valores ambientales amenazados.
+No se ha evaluado satisfactoriamente las repercusiones del proyecto sobre Natura 2000.
+- Las medidas correctoras y compensatorias no han tenido en cuenta los impactos reales sobre el cazadero de
+rapaces, el hábitat y conectividad de aves esteparias, flora amenazada y Natura 2000.
+- Existen efectos sinérgicos negativos con plantas solares fotovoltaicas con declaraciones de impacto ambiental positivas.
+2.2.5. Ayuntamiento de Seseña: Con fecha 25.09.2023, emite informe indicando que en virtud de las Normas
+Subsidiarias del municipio, vigentes en la actualidad, los terrenos afectados por la concesión de explotación están
+clasificados como:
+- Suelo urbano consolidado y urbanizable, sobre el núcleo urbano del Barrio del Quiñón.
+- Suelo urbano consolidado y urbanizable, perteneciente al SAU-23, de Seseña Nuevo.
+- Suelo urbano consolidado de la zona de la Urbanización Torrecastillo (SAU-1).
+- Suelo declarado Bien de Interés Cultural, por el que se delimita el entorno de protección del Bien de Interés Cultural
+denominado: Castillo de Puño enrostro Suelo no urbanizable especialmente protegido _Zona de protección visual.
+(SNUP_III)
+En todos ellos el uso para actividades extractivas y mineras no están permitidas. En el resto de los terrenos afectados
+por la concesión el suelo está clasificado como suelo no urbanizable común, en el que la actividad minera y extractiva
+si está permita. Se hace mención a varias infraestructuras que se verán afectadas:
+- Autopista R-4
+- Línea de ferrocarril de alta velocidad.
+- Cauce del Arroyo de la Fuente de Seseña.
+- Líneas eléctricas.
+- Área de Protección y Prevención Arqueológica “El Recuenco”.
+Exponen que se está tramitando el Plan de Ordenación Municipal (POM), aprobado inicialmente el 30.12.2014, en
+él sé que prevén desarrollos residenciales y terciarios en gran parte de los terrenos, por lo que la prórroga de la
+concesión minera propuesta se opone a la ordenación del territorio municipal prevista.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22668
+Así mismo, indican que la empresa GS Inima Environment, S.A, como servicio municipal de agua y, alcantarillado,
+ha presentado informe de afecciones a una red de agua de explotación municipal en la zona de la concesión.
+Por último, comunican que se está tramitando la instalación de plantas solares fotovoltaicas. Por todo ello, se
+considera que en la mayoría de las cuadrículas sobre las que se solicita la prórroga, bien por el planeamiento, bien
+por las infraestructuras existentes, bien por las afecciones arqueológicas sería imposible llevarse a cabo la actividad
+propuesta.
+2.3. De acuerdo con el artículo 42, de la Ley 2/2020, con fecha 30.04.2024, el órgano sustantivo traslada al promotor
+los informes, sugerencias y alegaciones al proyecto, para su consideración en la redacción, en su caso, de la nueva
+versión del proyecto y en el estudio de impacto ambiental.
+2.4. Con fecha 15.05.2024, el titular contesta al requerimiento indicado en el párrafo anterior, indicando que ya han
+presentado la documentación requerida por los distintos organismos, y han tomado en consideración las alegaciones
+recibidas. En contestación al informe del Ayuntamiento de Seseña, el titular indica que tomará en consideración
+todas las alegaciones recibidas, y que previamente al inicio de los trabajos, solicitará la autorización municipal,
+consensuando con todos los sectores implicados.
+2.5. Con fecha 31.03.2025 y 07.04.2025, se llevan a cabo nuevas consultas ante la falta de contestación a los
+siguientes organismos (marcados con asteriscos aquellos que han emitido informe o presentado alegaciones):
+1 Ayuntamiento de Esquivias.
+2 Ayuntamiento de Borox.
+3 Ayuntamiento de Yeles.
+4 Unidad Coordinadora Provincial de Agentes Medioambientales.*
+5 Delegación Provincial de la Consejería de Hacienda y Administraciones Públicas. Servicio de Protección
+Ciudadana.*
+2.5.1. Unidad Coordinadora Provincial de Agentes Medioambientales: tras la visita realizada el 14.04.2025, por
+los agentes medioambientales, emiten informe en el que se deja constancia de la posible afección a vegetación
+gypsófila, al encontrase a unos 300 m al Sur del límite meridional del LIC “Yesares del Valle del Tajo_ ES4250009,
+así como de la presencia de zonas de avutarda y de sisón. Otras posibles afecciones son a la vía pecuaria “Colada
+de Illescas”, a unos 450 m en el límite Suroeste.
+2.5.2. Delegación Provincial de la Consejería de Hacienda y Administraciones Públicas. Servicio de Protección
+Ciudadana: Con fecha 27.08.2025, tiene entrada informe en el que indican que en los términos municipales de Borox,
+Seseña y Yeles, existen áreas de riesgo potencial de inundaciones (Arpsi), con tiempo de retorno de 10, 50, 100 y
+500 años, localizados en el entorno del Arroyo de la Fuente de Seseña, pudiéndose derivar posibles consecuencias
+para la salud humana, para el medioambiente, para el patrimonio cultural, así como consecuencias económicas. En
+el término municipal de Seseña existe un alto riesgo de fenómenos meteorológicos adversos (Femas); y el término
+municipal de Borox se encuentra incluido en el listado de municipios con riesgo radiológico.
+Por ello, se concluye que aparecen riesgos especialmente significativos que derivarán en el establecimiento de una
+serie medidas excepcionales de protección, que se contemplarán en el apartado Cuarto.
+2.6. El Servicio de Medio Natural emite informes de fecha 15.04.2025 (ref: 17449/jss) y 05.09.2025 (ref: 15694/jss), tras
+el análisis de la documentación presentada por el titular. Los nuevos informes consideran que no se da contestación
+al informe de fecha 10.08.2023 (ref:15694/jss), volviendo a solicitar:
+- Inventario faunístico.
+- Definición de zonas concretas de actuación que permitan evaluar adecuadamente sus efectos, estableciendo un
+cronograma de la explotación – restauración.
+- El proyecto podría afectar al ZEC Yesares del Valle del Tajo (ES4250009) dado que podría modificar las escorrentías
+que caen al espacio. No se ha evaluado correctamente.
+- En función del resultado del inventario, análisis de repercusiones y de la planificación de los trabajos, las medidas
+propuestas deben ir destinadas a reducir el impacto sobre el cazadero de rapaces, el hábitat y la conectividad de
+aves esteparias, la flora amenazada, y Red Natura 2000.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22669
+2.7. Posteriormente el titular presenta documentación en contestación a los citados requerimientos, y con fecha
+07.02.2026 (ref: 18176/jss), el Servicio de Medio Natural emite informe favorable en él que se da el visto bueno
+imponiendo una serie de condiciones que se recogerán en el apartado Cuarto.
+2.8. Con fecha 19.03.2026, se pone a disposición del titular el informe indicado en el párrafo anterior para sus
+alegaciones si procede. Con fecha 30.03.2026, el titular remite al Servicio de Medio Natural nuevas alegaciones
+y propuestas encaminadas a dar contestación al informe. El Servicio de Medio Natural considera las alegaciones,
+indicando una serie de actuaciones que se reflejarán en el apartado Cuarto.
+Todas las consideraciones, sugerencias, alegaciones y/o condicionados técnicos vistos en este apartado Segundo,
+se han tenido en cuenta en base a su relevancia, en esta Declaración de Impacto Ambiental, incorporándose en el
+apartado siguiente sobre el análisis técnico del proyecto o en el apartado Cuarto, sobre las medidas a adoptar para
+la integración ambiental del proyecto.
+Tercero. Análisis técnico del proyecto.
+Conforme al artículo 45, de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, una
+vez examinado el estudio de impacto ambiental y considerando que se ha tenido en cuenta el resultado de las
+consultas y alegaciones, y que la información pública se ha llevado conforme a la citada Ley, procede realizar el
+análisis técnico del proyecto, evaluando los efectos ambientales previsibles al objeto de determinar si procede o no,
+la realización del proyecto.
+3.1. Descripción y fases del proyecto.
+La explotación se realizará a cielo abierto por arranque directo a partir del frente ya abierto en las parcelas nº 147
+y 148, del polígono nº 6, del término municipal de Yeles (Toledo), por medio de bancos. Se trata de una minería de
+transferencia, con altura máxima de 22 metros, hasta llegar a la capa de bentonitas con un espesor medio de 1,5
+metros. Esto supone la generación de un gran volumen de material de desmonte que se utilizará en la restauración
+del hueco generado. Actualmente solo hay un frente activo, ubicado en las parcelas nº 147 y 148, del polígono nº 6,
+del término municipal de Yeles (Toledo).
+La concesión se sitúa sobre terreno rústico, con un altura media de 660 m.s.n.m. El acceso a la explotación se
+realizará desde la planta de tratamiento que el titular tiene en el término municipal de Yuncos (Toledo) a través de
+caminos rurales existentes.
+Las distancias a los núcleos de población más próximos son de 1,1 km a Seseña hacía el Sur, y de 4,5 km a
+Esquivias hacia el Oeste. En cuanto a la afección a las vías pecuarias, la concesión es atravesada por la “Colada
+de Illescas”, con una anchura legal 12,6 m, y por el “Cordel de Merinas” y su ramal, con un anchura legal de 37,5 m,
+en el extremo oriental.
+Los trabajos a realizar se sintetizan en las siguientes fases:
+- Eliminación de la montera: Se retirará la capa vegetal de entre 0-0,50 m, almacenándola en cordones en los límites
+de la parcela explotable, a fin de que no pierda sus propiedades orgánicas y bióticas.
+- Extracción de arcillas: se realizará por bancos y arranque en profundidad, hasta llegar al techo de la capa de
+arcillas a extraer.
+- Carga del material directamente en camiones para su traslado a la planta de tratamiento autorizada, o bien se
+acopiarán en zonas dispuestas a ello para su secano antes de llevarlas definitivamente a la planta.
+- Restauración que se llevará de manera paralela a la propia explotación, al tratarse de una minería de transferencia.
+No será necesario el aporte de material externo, rellenándose los huecos con el propio estéril generado, prácticamente
+hasta cota original. Posteriormente se procederá al extendido de la tierra vegetal que fue apilada, con un espesor
+mínimo de 0,50 m, y a la revegetación con especies herbáceas, hasta dotar a la zona con el uso previo que tenía.
+Los parámetros principales de diseño de la explotación para un año serán:
+Altura máxima del frente: 22 m.
+Altura media de banco: 10 m
+Número de bancos: 2
+Potencia de arcillas explotables: 2,5 m.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22670
+Potencia tierra vegetal: 0,5 m.
+Potencia de estériles: 17,5 m
+Superficie aproximada de explotación: 25.000 m²
+Se prevé una producción anual de 62.500 m³, con un volumen de estéril de 437.500 m³.
+La explotación está sujeta a la demanda, por lo que la actividad no es continua, teniendo un cómputo de tiempo
+acumulado al año no superior a los 4 meses. No se ha previsto la instalación de ninguna planta de tratamiento fija
+a o móvil.
+No existe afección a Espacio Natural Protegido, incluido en la Ley 9/1999, de 26 de mayo, de Conservación de
+la Naturaleza en Castilla-La Mancha, y tampoco a zonas sensibles. No existe afección a la Red Natura 2000,
+encontrándose próximos a:
+ZEPA Cortados y Cantiles de los ríos Jarama y Manzanares (ES0000142)
+ZEPA Carrizales y Sotos del Jarama y Tajo (ES0000438)
+ZEC Vegas, Cuestas y Páramos del Sureste de Madrid( ES311006)
+ZEC Yesares del Valle del Tajo (ES4250009)
+Revisados los Planes de Conservación de especies de fauna amenazadas en Castilla la Mancha no se encuentra
+afección alguna. Así mismo, tampoco se localizan especies de flora amenazadas, que estuvieran incluidas en el
+Catálogo Regional de Especies Amenazadas de Castilla-La Mancha.
+En cuanto a los hábitats, teniendo en cuenta el Inventario Español del Patrimonio Natural y de la Biodiversidad, y los
+hábitats prioritarios incluidos en el Atlas de los Hábitats de España (Miterd), no existe en el ámbito de estudio zonas
+definidas como hábitats prioritarios, pero si se ha verificado la presencia de teselas de vegetación natural gypsícola,
+con un alto grado de degradación e intrusión de especies ajenas al hábitats.
+La ubicación final de la zona de explotación ha tenido en cuenta tanto los condicionantes técnicos (calidad
+y disponibilidad alta del mineral, red de caminos existentes, no afección a la red de drenaje), como los valores
+ambientales (baja necesidad de desbroce de la cubierta vegetal, baja afección a los biotopos de la zona).
+No se plantean alternativas al emplazamiento de la explotación al tratarse de una solicitud de prórroga localizada en
+la zona donde ya es evidente la existencia del recurso. La alternativa de “no explotación” conllevaría el cierre de la
+industria de procesamiento del mineral.
+En lo que respecta a la generación de residuos al tratarse de una minería no metálica en la que no se precisa ningún
+tratamiento químico, estos van a tener dos orígenes:
+Estériles procedentes de la actividad extractiva, que serán acopiados para su posterior utilización en el relleno de
+los huecos generados.
+Residuos procedentes de los cambios de aceites de la maquinaria empleada, que han de ser gestionados por un
+gestor de residuos peligrosos autorizado, conforme a la normativa vigente. No existen depósitos de combustibles.
+En consecuencia, una vez finalizado el análisis técnico del expediente de evaluación de impacto ambiental, conforme
+a la Ley 2/2020, esta Delegación Provincial de Desarrollo Sostenible de Toledo, en virtud del Decreto 6/2024, de
+20 de febrero, por el que se modifica el Decreto 112/2023, de 25 de julio, en el que se establece la estructura
+orgánica y las competencias de la Consejería de Desarrollo Sostenible, y en virtud de las atribuciones conferidas
+por las resoluciones de 27.09.2023 y de 24.05.2024, de la Dirección General de Calidad Ambiental, por la que se
+delegan competencias en las delegaciones provinciales de la Consejería de Desarrollo Sostenible, considera viable
+la realización del proyecto evaluado, siempre y cuando se realice en las condiciones señaladas en el estudio de
+impacto ambiental y en las prescripciones de esta resolución.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Junto con las medidas adoptadas por el promotor para la adecuada protección del medio ambiente indicadas en el
+estudio de impacto ambiental que se deberán cumplir en cada fase del proyecto, se cumplirán todas y cada una de
+las que se expresan a continuación, teniendo en cuenta que en los casos en que pudieran existir discrepancias entre
+unas y otras, prevalecerán las contenidas en esta Declaración de Impacto Ambiental.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22671
+4.1. Recursos naturales y áreas protegidas.
+De acuerdo con los diferentes informes emitidos por el Servicio de Medio Natural, así como las alegaciones vertidas
+por otros organismos, y teniendo en cuenta que el hábitat estepario en el entorno de la explotación, con la existencia
+de subpoblaciones de alto interés biogeográfico, se encuentra muy reducido y modificado por actividades antrópicas
+(antiguas canteras, AVE, pinares de repoblación y PSF ya construidas), mermando por ello el número de individuos
+en esta parte de la provincia, se considera necesario lo siguiente:
+- Se aplicará un parada biológica durante los meses de marzo a junio, ambos incluidos, en todas las fases indicadas
+en la figura 2, del anexo cartográfico.
+- La zona afectada por las labores de explotación no podrá exceder de 4 hectáreas anuales, de las cuales: una
+hectárea será destinada al hueco de explotación en activo, otra hectárea a zona de restauración (relleno con estériles
+propios), otra hectárea a zona de secado del mineral y la última hectárea a acopio temporal del mineral extraído
+hasta su transporte a la planta de tratamiento.
+- Destinar el 1,5% de la superficie en explotación a la promoción de barbechos con cubierta natural, siendo las de
+mayor interés las indicadas en la figura 3, del anexo cartográfico. La referencia en cuanto a cobertura y altura del
+barbecho deben ser igual al de la tipología de barbecho para sisón detallada en el Manual de Gestión de Barbechos
+para la conservación de aves esteparias. Se deberá realizar un seguimiento de estos barbechos durante toda la vida
+útil de las explotaciones y será incluido en el Plan de Vigilancia Ambiental
+- Durante la fase de explotación de las fases 3 y 4 solo podrá haber un frente abierto, localizándose en esos
+momentos, en ellas, la superficie de barbecho citada en el punto anterior.
+Deberá testearse la cobertura y altura del barbecho en los meses de abril-mayo, así como realizar estaciones de
+escucha de sisón, anotando otras aves esteparias que se localicen en el entorno. Los datos de detección de la fauna
+deberán aportarse en formato shape.
+- En cuanto a la flora y hábitats protegidos, en las teselas de vegetación natural se llevará a cabo, previamente a las
+labores de explotación, un inventario florístico completo con listado exhaustivo de las especies detectadas y análisis
+de dominancia. Se presentarán ante el Servicio de Medio Natural las fichas de campo de las jornadas de muestreo,
+indicando detalladamente la metodología aplicada, para su aprobación.
+- Se verificará la ausencia/presencia de Vella pseudocytisus y otras especies de flora protegida, así como la existencia
+de hábitats de interés comunitario.
+- Para evitar las afecciones al ZEC Yesares del Valle del Tajo (ES4250009), en las fases de explotación que puedan
+afectar al Arroyo de la Fuente de Seseña, que discurre por el espacio Natura, deberán contar con canaletas de
+evacuación que redirijan los flujos hacia las caídas a este arroyo. La restauración conllevará la restauración de la red
+hidrológica, asegurando el flujo de agua hacia el arroyo, y garantizando la conectividad hídrica con el ZEC.
+4.2. Protección del Patrimonio Histórico.
+En el informe emitido por el Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de
+Toledo de fecha 09.06.2016 (nº expte:140845), se incluyen las siguientes consideraciones que afectan también al
+expediente denominado Minor Seseña I nº 3.287-1 (PRO-TO-24-3384):
+Se autoriza la explotación de las siguientes parcelas donde se ha realizado el estudio arqueológico: polígono 1,
+parcelas 28 a 40; polígono 2, parcelas 16, 20 a 26, 28 a 32, 44 a 50, 52, 56 a 60, 63 a 69, 71, 76, 121 a 123, 153,
+156, 159, 160, 162, 163, 165, 182, 189; polígono 3, parcelas 1 a 6, 8, 9, 13, 16 a 29, 31,33, 35 a 48, 55, 56, 57, 63
+a 67, 76 a 90; polígono 4, parcelas 12,14 a 17, 20a 26, 28, 29, 59 a 67, 69 a 72, 90 a 93; polígono 14, parcelas 31,
+32, 34 a 38; polígono 15, parcelas 36 a 44, 46, 47, 49 a 62, 74, 76, 77, 79, 80, 81, 91, 93, 94; polígono 16, parcelas
+6, 7, 10 a 19, 21 a 24; polígono 17, parcelas 13, 14, 16 a 39, 68 a 87, 89 y 92, en el término municipal de Esquivias;
+polígono 501, parcelas 1, 2, 3, 4, 5 (parte), 6, 7, 8, 9, 10, 11 (parte), 13 (parte), 14 (parte), 25 (parte), 26 (parte), 51
+(parte), 52, 53, 54 (parte); polígono 502, parcelas 7 (parte), 11, 57 (parte), 58, 59, 60 (parte), 62 (parte) y 128 (parte);
+polígono 518, parcelas 3 (parte), 20 (parte), en el término municipal de Seseña.
+Se deberá realizar el control y supervisión paleontológica directa de todos los movimientos de terrenos generados
+por la explotación minera en las parcelas 48 y 76, del polígono 2, y parcelas 20 a 29, 31, 33, 35 a 37, 64, 65, 66, 67,
+84 y 85, del polígono 3, de Esquivias, así como el seguimiento arqueológico de los movimientos de terrenos que se
+pretendan realizar en el polígono 3, parcelas 81 a 83, y 86 a 90, de Esquivias, y de todos los frentes de explotación
+situados en el municipio de Seseña (por parte de arqueólogo expresamente autorizado), realizando la observación
+in situ y documentación (informes arqueológicos, memoria y fichas inventario de Carta Arqueológica) de los bienes
+inmuebles y de los restos muebles que puedan aparecer.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22672
+En cuanto a la apertura de nuevos frentes de explotación, se deberá contar con informe favorable de la Delegación
+Provincial con carácter previo a que se apruebe la calificación urbanística de las parcelas y la licencia municipal, así
+como a que el órgano sustantivo autorice el plan de labores anual.
+Para la obtención de dicho informe deberá remitirse un plano a la Delegación Provincial en el que se determine
+el terreno afectado por los trabajos previstos en el plan de labores anual para el estudio de posibles afecciones al
+patrimonio histórico. La Delegación podrá solicitar la realización de estudios arqueológicos previos.
+El ayuntamiento no otorgará licencia de explotación a aquellas parcelas condicionadas al control arqueológico hasta
+que no estén garantizada su realización y reciba copia de la autorización de trabajos arqueológicos concedida por
+la Delegación Provincial.
+El promotor deberá notificar con antelación suficiente el inicio y el fin de la explotación de las distintas parcelas
+autorizadas ante la Delegación Provincial.
+En el caso de la aparición de restos materiales con valor cultural durante las labores de explotación, se deberá
+actuar conforme a lo previsto en el artículo 52, de la Ley 4/2013 de 16 de mayo de Patrimonio Cultural de Castilla-La
+Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia
+de Patrimonio Cultural. Este órgano determinará el carácter de los hallazgos y resolverá expresamente las medidas
+de protección de los mismos.
+4.3. Prevención de la hidrología y la hidrogeología.
+De acuerdo con lo dispuesto por el organismo de cuenca, en los informes derivados del proceso de consultas de
+fecha 04.10.2023, resultan aplicables las siguientes consideraciones:
+Toda actuación que se realice en Zona de Dominio Público Hidráulico y/o en Zona de Policía (banda de 100
+metros colindante con terrenos de Dominio Público Hidráulico), deberá contar con la preceptiva autorización de la
+Confederación Hidrográfica.
+Se ha de respetar la Zona de Servidumbre (banda de 5 m colindantes con terrenos de Dominio Público Hidráulico),
+para su uso público, según se establece en el artículo 6, del Texto refundido de la Ley de Aguas (TRLA), y en el
+artículo 7, del Reglamento del Dominio Público Hidráulico (RDPH).
+En ningún caso se autorizará dentro del Dominio Público Hidráulico la construcción, montaje o ubicación de
+instalaciones destinadas albergar personas, aunque sea con carácter provisional o temporal, de acuerdo con lo
+establecido en el artículo 51.3. del RDPH.
+Durante los trabajos de explotación no se podrá afectar al nivel freático. La extracción se realizará, por tanto, siempre
+por encima del citado nivel, por lo que la rasante de la parcela deberá quedar por encima del mismo, teniendo en
+cuenta la altura de los niveles piezométricos, para evitar la aparición de lagunas artificiales.
+Por otro lado, las aguas residuales procedentes de vestuarios o aseos deberán verterse a los colectores municipales,
+siendo en ese caso el Ayuntamiento el competente para otorgar la autorización de vertidos. Si esto no fuera posible
+y el vertido de las aguas sanitarias se realiza al dominio público hidráulico la autorización deberá ser otorgada por
+la Confederación Hidrográfica.
+Se dispondrá de cunetas en las pistas de acceso y en las zonas de la plaza de cantera que así lo requieran,
+tendentes a reducir al máximo la contaminación física del agua por partículas sólidas.
+En el caso de la instalación de depósitos de combustibles y redes de distribución de los mismos, ya sean enterrados
+o aéreos, deberán estar debidamente sellados y estancos para evitar igualmente su infiltración a las aguas
+subterráneas. Estas instalaciones deben pasar periódicamente sus pruebas de estanqueidad. Lo mismo se ha de
+aplicar para todas las instalaciones de almacenamiento y distribución de otras sustancias susceptibles de contaminar
+el medio hídrico.
+4.4. Contaminación acústica: Ruido.
+Toda actividad que genere contaminación acústica se regirá por lo establecido en el R.D 212/2002, de 22 de febrero,
+por el que se regulan las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre,
+y por las modificaciones introducidas en el R.D 524/2006, de 28 de abril, así como por la Ley 37/2003, de 17 de
+noviembre, del Ruido.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22673
+Aquellos vehículos matriculados que circulen por la explotación deberán estar en posesión de la revisión obligatoria,
+según establece el R.D 920/2017, de 23 de octubre, por el que se regula la Inspección Técnica de Vehículos.
+En cuanto a la maquinaria utilizada en las labores de explotación, está se regirá por el R.D 863/1985, de 2 de abril,
+por el que se aprueba el Reglamento General de Normas Básicas de Seguridad Minera.
+Como norma general, se utilizarán aquellas técnicas que manteniendo las condiciones de seguridad apropiadas
+disminuyan al máximo los niveles de ruido y vibraciones de la maquinaria. Por ello, se adoptarán las siguientes
+medidas y dispositivos que lo reduzcan:
+Revisión de cojinetes, rodamientos, engranajes y mecanismos en general de la maquinaria.
+Engrase apropiado y frecuente.
+No se trabajará en horas intempestivas que puedan ocasionar molestias.
+Se utilizarán protectores auditivos, convenientemente homologados, por los trabajadores en activo.
+Reducción de la velocidad de circulación tanto en la explotación minera como en los caminos públicos de acceso,
+colocando placas indicativas con prohibición de circular a más de 20 km/hora.
+4.5. Protección de la calidad del aire.
+La mayor parte de las emisiones de polvo y partículas sólidas proceden de las operaciones que se realizan durante
+la extracción, la carga y descarga del material, y por el tránsito de vehículos y maquinaría. También se deberán tener
+en cuenta las emisiones procedentes de la combustión interna de los equipos.
+Durante toda la vigencia de la concesión de explotación deberán tener en cuenta la Ley 34/2007, de 15 de noviembre,
+de calidad del aire y protección de la atmósfera, el R.D 100/2011, de 28 de enero, por el que se actualiza el catálogo
+de actividades potencialmente contaminadoras de la atmósfera y se establecen las disposiciones básicas para su
+aplicación, así como su actualización por el R.D 1042/2017, de 22 de diciembre, sobre la limitación de emisiones a
+la atmósfera de determinados agentes contaminantes procedentes de instalaciones de combustión medianas y por
+la que se actualiza el anexo IV, de la Ley 34/2007.
+Con el fin de minimizar la producción y dispersión del polvo, así como la emisión de gases, preventivamente se
+adoptarán las siguientes medidas:
+- Se construirán y estabilizarán las pistas internas y plaza de cantera con materiales que no sean pulvurulentos, y
+compactando las superficies de rodadura.
+- En función de la climatología y especialmente en época estival y en horas punta de trabajo, se efectuarán riegos
+periódicos de las pistas que soporten tráfico rodado.
+- Retirada periódica del material formado por acumulación de polvo, sobre todo en las cunetas y en las zonas de carga.
+- Pavimentación de los accesos principales a la explotación.
+- Los vehículos circularán a menos de 20 km/h, y los camiones tipo bañera circularán con las cajas cubiertas con
+lonas. Estas velocidades deberán recordarse en el terreno mediante placas indicativas.
+- Los vehículos no excederán la carga máxima admisible en función de su tipología, evitándose así la caída de
+material. Deberán ir debidamente cubiertos con la lona protectora.
+- Cuando la velocidad del viento sea superior a 70 km/h, se limitarán las operaciones de carga, descarga y transporte.
+- Se llevará a cabo un adecuado mantenimiento de los vehículos, evitando así un exceso de gases de combustión.
+- Todos los trabajadores tendrán sus correspondientes medidas de protección personal.
+La actividad a desarrollar en la explotación está incluida en el Catálogo de actividades potencialmente contaminadoras
+de la atmósfera (capca-2010) recogido en el Anexo del R.D. 100/2011, de 28 de enero, por el que se actualiza el
+Catálogo de actividades potencialmente contaminadoras de la atmósfera y se establecen las disposiciones básicas
+de su aplicación, quedando identificada la actividad como “Actividades primarias de minería no energética que
+conlleven la extracción o tratamiento de productos minerales cuando la capacidad es < 200.000 t/año”, código
+04 06 16 02, grupo C, por lo que para dar cumplimiento a estas obligaciones estará sometida a la notificación
+administrativa prevista en el artículo 13.3, de la Ley 34/2007, de 15 de noviembre, que se remitirá al órgano
+competente de la comunidad autónoma en los términos que este determine. por lo que deberán cumplimentar el
+modelo de procedimiento nº 010441, con código Siaci: NJYS (disponible en la sede electrónica de la página web de
+la Consejería de Desarrollo Sostenible: https://www.jccm.es/tramites/1003031
+
+AÑO XLV Núm. 108 10 de junio de 2026 22674
+4.6. Prevención de accidentes y vertidos incontrolados.
+Se estará a lo dispuesto en la Orden de 26.09.2012, de la Consejería de Agricultura, por la que se modifica la Orden
+de 16.05.2006 de la Consejería de Medio Ambiente y Desarrollo Rural, por la que se regulan las campañas de
+prevención de incendios forestales, así como en las resoluciones que emita la Dirección General de Medio Natural y
+Biodiversidad, sobre la prohibición temporal de quema de restos vegetales en el medio natural y trabajos con riesgo
+de incendios en las superficies forestales, y en particular:
+- Se adoptarán las medidas necesarias para la prevención y la lucha contra incendios.
+- Se establecerá la prohibición absoluta de encender hogueras, fuegos o cualquier tipo de incineración dentro del
+área del proyecto.
+- En caso de que se observase la presencia de fuego incontrolado en el área del proyecto o sus inmediaciones, se
+activarán las emergencias necesarias llamando al número de teléfono 112.
+- Se dispondrá de extintores de incendios adecuados y revisados a los tipos de fuegos que se puedan iniciar en las
+labores de perforación.
+En general:
+No podrán realizarse operaciones de mantenimiento de la maquinaria o vehículos sobre el terreno, sino en talleres
+autorizados. El promotor deberá estar inscrito en el Registro de Pequeños Productores de Residuos Peligrosos y
+presentar contrato con Gestor Autorizado.
+Cualquier vertido accidental o de tratamiento puntual que pudiera afectar al suelo, deberá ser descontaminado
+inmediatamente, retirando la parte de suelo contaminado y entregándolo a gestor autorizado para su posterior
+tratamiento.
+Se señalizará el lugar correctamente con aviso de restricción de acceso, y dificultando el acceso de personas,
+vehículos, así como de vertidos incontrolados, mediante vallado provisional o acordonamiento efectivo para cumplir
+el objetivo de seguridad perseguido.
+Si se optase por el vallado, éste será tipo metálico cuya altura esté comprendida entre los 1,5 y 2 m. El hilo inferior
+estará a una altura mínima del suelo de 15 cm y libre de obstáculos, y la separación mínima de los hilos verticales
+será de 30 cm, siempre que garanticen permeabilidad mínima al paso de fauna silvestre y, sobre todo, no debe
+disponer elementos cortantes ni punzantes. Se deberá mantener en buen estado, de manera que se consiga la
+finalidad perseguida.
+Ante cualquier situación de emergencia que pudiera producirse deberán activar los correspondientes Planes de
+Emergencias existentes (recursos ordinarios, planes municipales, regionales y/o estatales).
+En el caso de que aparezcan vertidos incontrolados, se procederá inmediatamente a la retirada de los mismos, y su
+eliminación a través de gestor autorizado.
+4.7. Franjas de protección.
+La explotación deberá respetar unas franjas de protección a infraestructuras, parcelas colindantes e inclusive a
+figuras ambientales y/o etnográficas, cuyas distancias vendrán reguladas por normativa sectorial, o por lo que
+establezca el organismo competente consultado.
+A continuación se indican las distancias que hacen viable la explotación desde el punto de vista ambiental, sin
+perjuicio de que pudieran variarse por el órgano sustantivo, por la administración competente o incluso por el titular
+de la infraestructura colindante, en virtud de su reglamentación específica:
+- Fincas rústicas colindantes y caminos: 5 + 1,5 H (m)
+- Arroyos: 100 +1,5 H (m)
+- Vías pecuarias: 5 + 1,5 H (m)
+Siendo (H) la altura máxima del talud de explotación.
+Al tratarse de una restauración a cota, sin necesidad de aporte de materiales estériles de procedencia externa,
+durante la fase de explotación se respetará en su totalidad las franjas de protección, y posteriormente en la fase de
+restauración se podrá aprovechar el volumen del recurso mineral ocupado por la franja de “1,5 H”.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22675
+En los cinco (5) primeros metros de las franjas de protección establecidas se deberá implantar el cordón o acopio
+de tierra vegetal.
+Todas las distancias de protección se balizarán previamente al inicio de la actividad extractiva de forma que quede
+claramente delimitada la superficie final sin explotar. Al inicio de la actividad se solicitará la presencia de personal de
+esta Consejería para confirmar el balizamiento.
+4.8. Gestión de residuos.
+Si durante la vigencia de la concesión de explotación se generarán residuos mineros, se deberá dar cumplimentación
+al R.D 975/2009, de 12 de junio, sobre explotación de los residuos de industrias extractivas y de protección y
+rehabilitación del espacio afectado por explotaciones mineras, debiendo el promotor presentar un plan de gestión
+de los residuos mineros enfocado a su reducción, tratamiento, recuperación y eliminación teniendo en cuenta el
+principio de desarrollo sostenible.
+Aquellos residuos no identificados como mineros que pudieran generarse se gestionarán conforme a la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular. Como actividad generadora de residuos,
+el promotor está obligado a disponer de un contrato para su tratamiento antes de su retirada, cumpliendo con lo
+establecido en el R.D 553/2020, de 2 de junio, por el que se regula el traslado de residuos en el interior del territorio
+del Estado, especialmente en lo que respecta a la notificación previa del traslado y el documento de identificación de
+traslado de residuos. Para su correcta aplicación podrá utilizarse la plataforma electrónica INDA habilitada al efecto
+por el órgano ambiental, en el siguiente enlace web (https://agricultura.jccm.es/ova/servicios.jsp).
+Los residuos generados se gestionarán adecuadamente durante todas las fases del proyecto, en especial los
+calificados como peligrosos. En general se observará:
+Durante las labores de explotación y restauración, y salvo episodios accidentales, se evitará realizar operaciones de
+reparación o mantenimiento in situ. A tal efecto, se deberá garantizar el mantenimiento de su maquinaria en talleres
+mecánicos autorizados.
+Si en cualquier momento fueran precisas operaciones de mantenimiento de maquinaria a pie de obra, se instalará
+una cubeta de recogida de derrames, almacenando en recipientes homologados y en condiciones controladas todos
+los residuos generados (aceites usados, filtros, etc.), para su posterior entrega a un gestor autorizado.
+Como actividad generadora potencial de residuos, el promotor está obligado a la comunicación previa al inicio de la
+actividad a la Consejería de Desarrollo Sostenible.
+Cualquier incidencia que se produzca durante la generación, almacenamiento o gestión de residuos deberá ponerse
+en conocimiento del órgano ambiental.
+4.9. Protección del suelo.
+El impacto producido sobre el suelo vegetal se produce principalmente por su retirada en la zona de actuación y su
+almacenamiento temporal para su posterior utilización en la restauración de la zona explotada.
+Debe evitarse la pérdida de las características del suelo vegetal, su contaminación y su compactación, por lo que
+previamente al inicio de las labores de explotación propiamente dichas, se retirará la capa vegetal de 0,50 m, para
+posteriormente reponerla en la fase de restauración. Si el período de tiempo entre su retirada y posterior empleo en
+restauración fuese prolongado, mayor de 6 meses, se procederá al volteo de la misma y al abonado y semillado con
+leguminosas u otras técnicas apropiadas que mantengan las propiedades orgánicas y bióticas adecuadas para ser
+utilizadas en las labores de restauración. Este proceso deberá ser obligatoriamente realizado cuando se supere el
+año de almacenamiento.
+Su disposición no podrá afectar a caminos públicos, ni a derechos de terceros de parcelas colindantes, debiendo
+ubicarse en los 5 primeros metros de las franjas de protección establecidas, en lugares desprovistos de vegetación
+natural, con una altura máxima de 1 metro.
+Asimismo, se evitará la compactación del suelo y la apertura de nuevos caminos, aprovechándose los existentes en
+la zona de explotación, procediendo a su mejora, mantenimiento y adecuación al tráfico pesado que van a soportar.
+También se deberá garantizar el respeto al libre uso de los caminos públicos, incluyendo medidas preventivas para
+la seguridad de cualquier persona que frecuente la zona.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22676
+Se deberá proceder inmediatamente a la corrección de los posibles síntomas de erosión de los taludes, tanto de
+explotación como de restauración.
+4.10. Protección del paisaje.
+Para minimizar la afección paisajística, se ha de tener en cuenta no solo el impacto visual a lo largo de la fase de
+explotación, sino también la integración de las parcelas explotadas al final de la vida de la concesión.
+Durante la fase de explotación se implantará un cordón de tierra o acopio vegetal en las franjas de protección, en
+aquellos lugares desprovistos de vegetación natural, de manera que se minimice el impacto visual.
+En la fase de restauración, las labores llevadas a cabo deberán ir encaminadas a la modelización del espacio
+restaurado en consonancia con la topografía del entorno, recreando la tendencia del flujo superficial del agua de
+escorrentía, evitando encharcamientos.
+4.11. Adecuación urbanística.
+En el proceso de evaluación ambiental del proyecto se han solicitado sugerencias a los ayuntamientos afectados,
+no habiendo presentado la mayoría de ellos (a excepción del Ayuntamiento de Seseña) ninguna aclaración sobre
+la adecuación del proyecto a su normativa de planeamiento, ni sobre las posibles afecciones a bienes de su
+competencia. En todo caso, sólo se permitirá la extracción en aquellas parcelas en las que sea conforme la actividad
+con el planeamiento municipal y así se determine en el informe de la Comisión Provincial de Urbanismo, y en la
+correspondiente licencia municipal.
+En cuanto al informe emitido por el Ayuntamiento de Seseña, se indica que en los terrenos sobre los que se pretenda
+la explotación y que están clasificados como suelo no urbanizable común, en virtud de las Normas Subsidiarias del
+municipio, será de aplicación el régimen establecido para el suelo rústico no urbanizable de especial protección,
+conforme al Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento del Suelo Rústico, concretamente
+se le aplicará el régimen establecido para el suelo rústico no urbanizable de especial protección, en el que se podrán
+realizar las actividades extractivas y mineras, siempre y cuando no se encuentren prohibidos por la legislación
+sectorial o el planeamiento territorial y urbanístico, y cuenten con los informes o autorizaciones previstos en la
+normativa sectorial que resulte aplicable.
+Revisado el Plan de Ordenación Municipal (2014), se indica que la actividad extractiva deberá contar con la preceptiva
+autorización municipal antes de su inicio.
+En las áreas de actuación se estará afectando al viario rural existente, tanto por las necesidades de ocupación de los
+terrenos a explotar como por el transporte de los materiales, por lo que deberán contar con los permisos pertinentes
+para su utilización y/o modificación, ya sean de titularidad pública como particular.
+Los caminos utilizados serán adecuados al tráfico rodado y deberán ser acondicionados y contener las señalizaciones
+necesarias para prevenir accidentes.
+4.12. Restauración del entorno natural.
+Conforme al R.D. 975/2009, de 12 de junio sobre la gestión de los residuos de las industrias extractivas, y de
+protección y rehabilitación del espacio afectado por actividades mineras, previo a la autorización sustantiva del
+proyecto, se precisa la aprobación expresa del plan de restauración. Se considera imprescindible que éste se ajuste
+a la presente Declaración de Impacto Ambiental, cuya finalidad es igualmente, la minimización de aspectos de la
+actividad que puedan tener efectos negativos sobre el medio ambiente o la salud de las personas.
+La explotación minera supone la creación de taludes y huecos, y por tanto, la formación de una plaza de explotación
+rebajada de su cota natural, por lo que los trabajos de restauración se dirigirán fundamentalmente a la integración
+paisajística en el biotopo natural, buscando la morfología y las pendientes adecuadas para evitar erosiones del
+terreno.
+En la actualidad existen zonas ya explotadas y restauradas, en las que se deberá hacer un seguimiento de los
+parámetros morfológicos establecidos para su restauración, así como de los valores ecológicos arraigados.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22677
+Las labores de restauración se realizarán simultáneamente con las labores propias de explotación, realizándose en el
+menor tiempo posible desde el momento en que se llegue a tener frentes finales, no habiendo nunca más de 1 ha en
+explotación. Debido a la gran cantidad de estériles generados en la propia explotación, la restauración prácticamente
+podrá rellenarse el hueco a cota original, sin necesidad de aporte de materiales estériles de procedencia externa.
+Una vez relleno el hueco de explotación, se incorporará el volumen de tierra vegetal inicialmente acopiado,
+garantizando un espesor mínimo de 50 cm. En cuanto a la revegetación, se procederá a la siembra de especies
+herbáceas, restituyendo las parcelas a la situación inicial.
+La restauración de los terrenos conlleva el mantenimiento de las condiciones de drenaje semejantes a las preexistentes.
+Para ello se recreará el esquema de flujo natural de la escorrentía de la zona, evitándose encharcamientos y
+embalsamientos de las aguas superficiales.
+La restauración final implica necesariamente la supresión de viales, pistas abiertas y de cualquier otra señal residual
+de las actividades extractivas previas.
+Quinto. Programa de vigilancia ambiental.
+5.1. Especificaciones generales.
+Conforme al artículo 64.1, de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento de lo establecido en la presente resolución,
+pudiendo el órgano ambiental recabar información al respecto y realizar las comprobaciones que considere
+necesarias para garantizar la observancia del condicionado de esta declaración de impacto ambiental. Así mismo,
+podrán modificarse las condiciones del proyecto o de esta declaración de impacto ambiental, si se comprueba que
+surgen efectos perjudiciales para el medio ambiente no previstos.
+Para llevar a cabo el seguimiento del programa de vigilancia ambiental se nombrará a un responsable que deberá
+registrar todas las actuaciones y mediciones que se realicen para la observación de las medidas impuestas. Con
+el fin de garantizar el cumplimiento de las medidas de vigilancia y control establecidas, el promotor remitirá tanto al
+órgano sustantivo como al órgano ambiental, un informe de seguimiento de su cumplimiento, y si fuera necesario de
+las nuevas medidas preventivas, correctoras y compensatorias a implantar, que se presentará en el primer trimestre
+del año, durante toda la vigencia de la concesión de explotación.
+El informe de seguimiento debe orientarse hacia la comprobación de que el proyecto se desarrolla cumpliendo las
+condiciones establecidas en el Estudio de Impacto Ambiental, y en la presente Declaración de Impacto Ambiental,
+de tal manera que cualquier desviación sea rápidamente detectada para proceder a su corrección
+Se prestará especial atención a los siguientes puntos:
+Control de la posible presencia de vertidos tanto ajenos como propios, que deberán ser retirados y gestionados
+inmediatamente, con especial vigilancia de los documentos generados en la gestión de los mismos.
+Control de los niveles de ruido y polvo generados, analizando la efectividad de las medidas correctoras adoptadas
+y la necesidad de mejorarlas.
+Supervisión de la señalización de respeto de velocidad, prohibiciones de paso, distancias de seguridad, etc.
+Vigilancia de la no afección al nivel freático, ni a la red natural de drenaje.
+Verificación de no afección a las franjas de protección indicadas en el apartado 4.7.
+Control de los parámetros de diseño de la explotación (alturas finales, superficie afectada, distancias de seguridad,)
+Control de la presencia de especies recogidas dentro del Catálogo Regional de Especies Amenazadas, con especial
+atención a la avifauna esteparia.
+Revisión de la calidad de la tierra vegetal en los acopios y acordonamientos.
+Control de la aparición de restos arqueológicos y su notificación al Servicio de Cultura de la Delegación Provincial
+de Educación, Cultura y Deportes.
+Control de la no afección a las zonas de flora y hábitats que hayan sido excluidos de las labores de explotación por
+el Servicio de Medio Natural conforme a las condiciones impuestas en el apartado 4.1.
+Control del mantenimiento de una superficie del 1,5 % de la superficie de explotación que se destinará a barbecho
+con cubierta natural, debiendo testearse su cobertura y altura en los meses de abril a mayo, ambos inclusive.
+Supervisión de todas las actuaciones orientadas a la prevención y corrección del medio ambiente expresamente
+citadas en el apartado Cuarto de esta resolución.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22678
+Todas las mediciones y actuaciones que se realicen en aplicación del programa de seguimiento y vigilancia, deberán
+archivarse y custodiarse, en forma fácilmente accesible, bien a pie de obra, en oficina o bien de forma digital o electrónica.
+Así mismo, todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales
+que se deben aportar en la realización de los trabajos y en la explotación de la actividad.
+Si de las inspecciones llevadas a cabo se detectan que las medidas preventivas, correctoras o compensatorias son
+insuficientes, innecesarias o ineficaces, podrán derivarse modificaciones de las condiciones de la presente resolución.
+5.2. Control externo de puntos críticos.
+De acuerdo con la Orden de 26 de enero de 2005, de la Consejería de Medio Ambiente, por la que se regula la
+autorización a entidades y profesionales para el seguimiento y control de las actividades sometidas a evaluación
+de impacto ambiental, la empresa deberá contratar los servicios de una entidad o profesional externo, inscrita en el
+registro de entidades y profesionales de la Viceconsejería de Medio Ambiente, para el control y vigilancia ambiental
+de una serie de puntos críticos del proyecto.
+Este control externo es independiente de las responsabilidades de vigilancia ambiental que debe llevar la empresa
+o el responsable nombrado al efecto, y que han sido enumeradas en el apartado 5.1.
+La entidad o profesional deberá presentar un informe de seguimiento y control, con carácter anual, durante los cinco
+primeros años de explotación, en el primer trimestre del año natural; a partir del sexto, este informe de seguimiento
+sólo será necesario, cada tres años, y en todo caso deberá incluir al menos los siguientes aspectos:
+Presencia de materiales ajenos a la explotación. En el caso de que los hubiere, justificación de su origen.
+Estudios de los niveles de ruido, comprobando la efectividad de las medidas correctoras adoptadas y la necesidad
+de mejorarlas.
+Análisis de emisiones de polvo generado y de partículas contaminantes, analizando el grado de cumplimento de la
+normativa.
+Control de calidad de la tierra vegetal acopiada.
+Verificación del diseño de las franjas de protección y de las medidas para evitar el acceso.
+Vigilancia de la no afección al nivel freático durante los trabajos extractivos y, en caso de afectación, indicar las
+medidas adoptadas.
+Análisis de control de restos arqueológicos y procedimiento seguido.
+Valoración del grado de cumplimiento de las labores de restauración, conforme a las pautas establecidas en esta
+declaración.
+Control del grado de cumplimiento de las condiciones impuestas en el apartado 4.1.
+En general, el cumplimiento de todas las medidas implementadas en esta declaración de impacto ambiental.
+Sexto. Documentación adicional.
+Desde el momento de la publicación de la declaración de impacto ambiental, la documentación a presentar por parte
+del promotor, ante el órgano sustantivo y el ambiental, será el siguiente:
+A) Previamente a la autorización del proyecto:
+- Adecuación del Plan de Restauración a esta resolución, que será informado por el Servicio Calidad Ambiental de
+la Delegación Provincial de Toledo.
+- Plano parcelario a escala adecuada para su correcta interpretación, de la superficie final de explotación, delimitando
+las zonas de exclusión y las franjas de protección aplicadas.
+- Plano parcelario a escala adecuada para su correcta interpretación, de las superficie ya restauradas.
+- Designación del responsable del cumplimiento del Plan de Vigilancia Ambiental.
+B) Previo al inicio de la actividad:
+- Comunicación de la fecha de inicio de la actividad, tanto al órgano sustantivo como al órgano medioambiental, en
+conformidad con el artículo 48.1, de la Ley 2/2020.
+- Comunicación a la Delegación Provincial de Educación, Cultura y Deportes, del inicio de la explotación de las
+parcelas que la citada Delegación haya autorizado.
+- Resolución de otorgamiento del proyecto por el órgano sustantivo. En este punto se recuerda que esta Declaración
+de Impacto Ambiental constituye el informe preceptivo y determinante del órgano medioambiental, conforme a la
+definición dada en el artículo 4.3, apartado d), de la Ley 02/2020.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22679
+- Visto bueno del Servicio de Medio Natural a la explotación de nuevas parcelas con teselas de vegetación natural.
+- Informe favorable sobre la Calificación Urbanística de la Comisión Provincial de Urbanismo, y licencia municipal de
+actividad, para las parcelas a explotar.
+- Justificación de la notificación de actividad potencialmente contaminadoras de la atmósfera, realizada a la Dirección
+General de Economía Circular conforme a la normativa sobre contaminación atmosférica.
+- Documentos, en su caso, de contrato y/o aceptación de gestor autorizado para la gestión de peligrosos que
+asegure su entrega. Puede utilizarse las plataformas INDA y ACRO habilitadas al efecto por el órgano ambiental.
+- Notificación de la empresa o entidad para el control externo detallado en el apartado 5.2.
+C) A partir del primer año de explotación:
+- Informe con el resultado de los controles y/o actuaciones en aplicación del Programa de Vigilancia Ambiental
+- Informe del control de externo de los puntos críticos, especificado en el apartado 5.2 en el primer trimestre del año,
+durante los cinco primeros años de explotación y, posteriormente, cada tres, hasta la caducidad de la explotación.
+Séptimo. Otras consideraciones.
+a) Vigencia de la presente Declaración de Impacto Ambiental.
+De acuerdo con el artículo 48.1, de la Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha,
+la presente resolución de Declaración de Impacto Ambiental perderá su vigencia y cesará en la producción de los
+efectos que le son propios si, una vez publicada en el D.O.C.M, no se hubiera comenzado la ejecución del proyecto
+o actividad en el plazo de cuatro (4) años.
+Si el promotor lo estimará conveniente, podrá solicitar una prórroga de la vigencia de la declaración sino se han
+producido cambios sustanciales en los elementos esenciales que sirvieron para emitirla y siempre y cuando no se
+haya alcanzado la fecha final de la vigencia, según establece el artículo 48.2, de la Ley 2/2020.
+b) Comunicación de inicio y cese de la actividad, y cambio de titularidad.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo del proyecto, así como su cese parcial o
+total, y el traspaso de titularidad, en su caso.
+c) Modificaciones de proyecto.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación. Si afectase a la restauración deberá asimismo comunicarlo al órgano sustantivo.
+d) Otras autorizaciones.
+La presente declaración de impacto ambiental no exime de obtener los informes y autorizaciones pertinentes de
+otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+e) Publicación.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible, tal y como establece el artículo 46.4, de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental en Castilla-La Mancha.
+f) Recursos.
+De acuerdo con el artículo 46.5, de la Ley 2/2020 de Evaluación Ambiental de Castilla-La Mancha, esta declaración
+de impacto ambiental no será objeto de recurso, salvo los que procedan en vía administrativa o judicial frente al acto
+por el que se autoriza el proyecto.
+Conforme a lo establecido en el artículo 14, de la Ley 39/2015, la interposición de cualquier recurso administrativo
+podrá realizarse a través de medios electrónicos, en el siguiente enlace de la página web de la Junta de Comunidades
+de Castilla-La Mancha: https://www.jccm.es/tramites/1003700
+Se adjunta anexo cartográfico.
+Toledo, 21 de mayo de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 108 10 de junio de 2026 22680
+ANEXO CARTOGRÁFICO
+Fig. 1. Coordenadas geográficas (U.T.M ETRS89) y perímetro delimitación de la zona
+afectada por la concesión directa de explotación.
+Fig. 2. Delimitación de las fases en las que se aplicará la parada biológica.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22681
+Fig.3. Zona de mayor interés para la implantación de barbecho

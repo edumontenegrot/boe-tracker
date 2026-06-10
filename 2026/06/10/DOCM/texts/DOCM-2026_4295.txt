@@ -1,0 +1,755 @@
+AÑO XLV Núm. 108 10 de junio de 2026 22739
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 26/05/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Permiso de investigación Tres Amigos número 4239
+(expediente PRO-TO-25-3422), situado en varios términos municipales de la provincia de Toledo, cuya
+promotora es Toletum Metálica SL. [2026/4295]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada, por el órgano ambiental, para
+analizar los efectos significativos sobre el medio ambiente que pudieran tener antes de su adopción, aprobación o
+autorización por el órgano sustantivo.
+El proyecto objeto de este informe vistas sus características, y de acuerdo a la normativa autonómica, se encuadra en
+lo dispuesto en el Anexo II. Grupo 3. Perforaciones, dragados y otras instalaciones mineras e industriales, apartado
+e) Perforaciones, dragados y otras instalaciones mineras e industriales. Otorgamiento de permisos de investigación,
+autorizaciones y cualquier tipo de concesión minera, incluyendo sus prórrogas, así como los préstamos de obras
+(proyectos no incluidos en el anexo I).
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+El órgano sustantivo y el órgano ambiental concurren, en este caso, en la Consejería de Desarrollo Sostenible, siendo
+competente en materia de minería, de acuerdo con la Ley 22/1973, de 21 de julio, de Minas, la Dirección General de
+Transición Energética; y en materia propiamente ambiental, la Dirección General de Calidad Ambiental. Por tanto,
+la evaluación del expediente compete a la Delegación Provincial de Toledo, conforme al Decreto 6/2024, de 20 de
+febrero, por el que se modifica el Decreto 112/2023, de 25 de julio, en el que se establece la estructura orgánica y
+las competencias de la Consejería de Desarrollo Sostenible, y a las resoluciones de 27.09.2023 y 24.05.2024, de la
+Dirección General de Calidad Ambiental, por la que se delegan competencias en las delegaciones provinciales de la
+Consejería de Desarrollo Sostenible.
+De acuerdo con la solicitud del procedimiento ambiental, el promotor es la sociedad mercantil Toletum Metálica SL.
+Se trata de un proyecto, cuyo objeto es la investigación de recursos de la Sección C), regulados por la Ley 22/1973,
+de 21 de julio, de Minas, para minerales metálicos, concretamente: cobre, estaño, oro, plata, zinc, plomo, wolframio
+y teluro; y como minerales accesorios en los estériles se encontrarían el grafito, feldespato y cuarzo, susceptibles
+de ser beneficiados. El objetivo de esta etapa es la toma de datos de campo en las áreas de trabajo definidas en la
+etapa anterior.
+El proyecto abarca una superficie de 300 cuadrículas mineras, afectando a los términos municipales de: Gálvez,
+Polán, Totanés, Cuerva, Pulgar, Mazarambroz, Ajofrín, Chueca, Orgaz, Nambroca, Villaminaya, Almonacid de Toledo
+y Mascaraque, todos ellos de la provincia de Toledo. El perímetro del Permiso de investigación queda definido por
+las siguientes por coordenadas geográficas U.T. M (ETRS89:
+Vértice Coordenada X Coordenada Y Vertice Coordenada X Coordenada Y
+1 390,037.2 4,399,564.5 41 426,174.6 4,394,815.4
+2 390,989.3 4,399,550.9 42 427,127.2 4,394,806.4
+3 390,980.6 4,398,934.3 43 427,115.6 4,393,573.2
+4 393,837.1 4,398,894.3 44 427,591.9 4,393,568.6
+5 393,811.5 4,397,044.5 45 427,568.7 4,391,102.3
+6 394,287.7 4,397,037.9 46 422,326.9 4,391,153.4
+7 394,270.7 4,395,804.7 47 422,358.0 4,394,236.4
+8 397,128.4 4,395,765.9 48 422,834.4 4,394,231.6
+9 397,111.9 4,394,532.6 49 422,859.1 4,396,698.0
+
+AÑO XLV Núm. 108 10 de junio de 2026 22740
+10 398,064.6 4,394,520.0 50 416,668.7 4,396,762.6
+11 398,056.4 4,393,903.4 51 416,682.1 4,397,995.8
+12 400,438.3 4,393,872.2 52 413,825.4 4,398,027.3
+13 400,430.3 4,393,255.6 53 413,811.6 4,396,794.1
+14 401,859.6 4,393,237.2 54 413,335.4 4,396,799.5
+15 401,867.5 4,393,853.9 55 413,328.4 4,396,182.9
+16 402,820.2 4,393,841.7 56 411,899.7 4,396,199.1
+17 402,828.0 4,394,458.3 57 411,885.6 4,394,965.9
+18 408,544.1 4,394,388.2 58 410,933.0 4,394,976.9
+19 408,580.8 4,397,471.2 59 410,925.9 4,394,360.3
+20 410,485.4 4,397,448.8 60 409,973.2 4,394,371.4
+21 410,478.2 4,396,832.2 61 409,965.9 4,393,754.8
+22 411,906.8 4,396,815.7 62 407,107.7 4,393,788.8
+23 411,913.9 4,397,432.3 63 407,100.2 4,393,172.2
+24 412,390.0 4,397,426.8 64 402,336.0 4,393,231.2
+25 412,397.1 4,398,043.4 65 402,328.2 4,392,614.6
+26 412,873.2 4,398,038.1 66 396,134.2 4,392,695.7
+27 412,880.2 4,398,654.7 67 396,142.5 4,393,312.3
+28 413,356.2 4,398,649.3 68 395,189.7 4,393,325.2
+29 413,363.2 4,399,265.9 69 395,198.1 4,393,941.8
+30 418,599.6 4,399,208.6 70 394,721.7 4,393,948.3
+31 418,586.5 4,397,975.4 71 394,738.6 4,395,181.5
+32 420,014.8 4,397,960.3 72 393,785.9 4,395,194.6
+33 420,027.7 4,399,193.5 73 393,794.5 4,395,811.2
+34 423,835.9 4,399,154.8 74 392,365.6 4,395,831.1
+35 423,823.7 4,397,921.6 75 392,374.3 4,396,447.7
+36 426,204.3 4,397,898.4 76 390,945.6 4,396,467.9
+37 426,192.4 4,396,665.2 77 390,963.1 4,397,701.1
+38 424,763.8 4,396,679.1 78 390,486.9 4,397,707.9
+39 424,751.8 4,395,445.9 79 390,495.7 4,398,324.5
+40 426,180.6 4,395,432.0 80 390,019.6 4,398,331.3
+La cartografía de afloramientos se realizará a una escala 1:5,000 a 1:2,500 y se utilizarán GPS de mano para la
+georreferenciación de los datos.
+La ejecución de estas tareas de investigación se planificará cuidadosamente, garantizando el mínimo impacto sobre
+el medio. Una vez finalizados los trabajos, se procederá a la retirada de cualquier material, herramienta o residuo
+generado durante la realización de estos. Por otro lado, se vigilará en todo momento que los trabajos se realizan de
+forma segura desde el punto de vista de la prevención de riesgos laborales.
+El programa de investigación consta en 3 fases secuenciales y que se subdividen en etapas (Fase 1: Investigación
+de reconocimiento, Fase 2: Investigación de Detalle y Fase 3: Fase de Proyecto). Se inicia con un reconocimiento
+general de la zona con recopilación de información, exploración de campo inicial con el objetivo de definir zonas
+de interés (métodos geofísicos y geoquímicos). En las zonas seleccionadas, posteriormente, se realizará una
+exploración más detallada con calicatas y/o sondeos en zonas específicas cuando así sea requerido. Para esta
+fase de investigación inicial, se evalúa la realización de tres calicatas y dos sondeos (por circulación inversa o
+recuperación de testigo). Para las potenciales fases del proyecto, se considera de vital importancia en esta etapa
+final, la selección de un método minero que minimice el impacto (por ejemplo, minería de interior) y la generación de
+residuos mineros mediante relleno de los huecos excavados con estéril, pre-concentrado en mina (por ejemplo “ore
+sorting” Tomra) y otros adecuados.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22741
+El Proyecto de Investigación se plantea con el desarrollo de tres fases, cuya ejecución (en el caso de la segunda y
+tercera) está condicionada por los resultados de las anteriores:
+Fase I: Reconocimiento geológico del terreno, mediante cartografía geológica detallada y con métodos geofísicos
+(gravimetrías de detalle, sísmica de reflexión, explotaciones minerales pasivas, etc.), además de métodos
+electromagnéticos con mediciones de conductividad. Se realizará la definición de las áreas de interés.
+Fase II: Posible perforación de sondeos y/o apertura de calicatas en áreas de interés.
+Fase III: Evaluación mineralurgia y de recursos mineros que incluye mineralogía, hundido denso, difracción rayos X,
+granulometría y leyes, concentración en mesa y concentración en espirales.
+Se estima planificar aproximadamente seis (6) sondeos mecánicos con recuperación de testigo continuo, ya que es
+el método más fiable para obtener la máxima información posible desde el punto de vista geológico y geoquímico.
+Las profundidades o longitudes de perforación estimadas estarían en el rango de los 80-150 m por sondeo. Una vez
+realizados los sondeos y obtenidos los resultados, se realizará el procesado, interpretación y análisis de los mismos
+con el objetivo de realizar la modelización del cuerpo mineralizado.
+Durante la fase de proyecto, después de haberse desarrollado un modelo geológico y seleccionado de forma
+más precisa, las zonas con mayor potencial (a partir de las fases 1 y 2), se realizará una evaluación mineralurgia
+y de recursos mineros con el objeto de conocer la viabilidad de recuperación de las sustancias potencialmente
+identificadas desde un punto de vista geológico.
+Una vez obtenidos los resultados de la campaña de sondeos, se realizará el procesado, interpretación y análisis de
+los mismos con el objetivo de realizar la modelización del cuerpo mineralizado.
+En cuanto al Plan de Restauración, se realizarán las siguientes fases:
+- Restitución del terreno.
+- Siembra y revegetación, que contempla las especies empleadas, la implantación de la vegetación, las operaciones
+posteriores a la plantación y la siembra.
+En cuanto al Plan de Gestión de Residuos Mineros, teniendo en cuenta que en el permiso de investigación no se
+recoge la construcción ni ubicación de ninguna instalación de residuos mineros, así como el depósito de estos, al
+gestionarse el único residuo de carácter minero a producir, mediante
+Al final de esta fase se evaluarán los datos obtenidos, siendo recogidos en un informe geo minero donde se detallará
+el cálculo de reservas y de recursos existentes; y en un estudio de viabilidad técnico-económico del proyecto minero.
+En ningún caso se concreta la localización de las calicatas, ni de los sondeos.
+En cuanto a las alternativas, se plantean las siguientes:
+Alternativa 0: La alternativa cero supone no llevar a cabo los trabajos de investigación geológica minera propuestos.
+Al no realizarse ninguna acción, no se originará ningún impacto. La existencia de recursos desconocidos resulta
+peyorativa.
+Alternativa 1: Los impactos originados por la investigación serán mínimos si se considera que el proyecto de
+investigación propone como posibles acciones con incidencia la perforación de sondeos y/o la apertura de calicatas.
+En este caso se trata además de la investigación de minerales, tales como el cobre y el wolframio, considerados
+materias primas “estratégicas” por la C.E.E., lo que resulta un valor añadido en la investigación que se propone.
+Existen dos alternativas iniciales en la fase de investigación del P.I., que ya han sido evaluadas en la confección
+del proyecto de investigación al darles prioridad en el reconocimiento inicial del terreno que se realice, como son la
+utilización métodos geofísicos, o bien realizar la investigación del sustrato utilizando medios mecánicos, es decir la
+perforación de sondeos y la apertura de calicatas.
+La incidencia medioambiental de la utilización de métodos geofísicos, puede considerarse nula por lo que ha sido
+seleccionada como metodología en las investigaciones previas. La valoración social y económica se considera
+también positiva, por no existir ocupaciones de terreno ni perturbaciones al medio social.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22742
+Segundo. Resumen del resultado del trámite de información pública y de las consultas.
+2.1 Inicio consultas e información pública del proyecto.
+Con fecha 19 de septiembre de 2024, el Servicio de Minas de la Delegación Provincial de Desarrollo Sostenible de
+Toledo, como órgano sustantivo del proyecto, remite al Servicio de Medio Ambiente (actualmente Servicio de Calidad
+Ambiental), de la citada Delegación Provincial, documentación relativa al inicio del procedimiento de evaluación
+ambiental simplificada, tal y como se establece en el artículo 52, de la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, que incluye: la solicitud de inicio del procedimiento de evaluación ambiental, el
+justificante de pago de las tasas correspondientes al procedimiento medioambiental, y el documento ambiental.
+Junto a esta documentación, el Servicio de Minas remite el Plan de Restauración al que se refiere el artículo 3,
+del R.D. 975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y
+rehabilitación del espacio afectado por actividades mineras, al objeto de que sea informado conforme al artículo 5,
+del citado Real Decreto, de acuerdo con las competencias de la autoridad ambiental competente.
+Con fecha 25 de octubre de 2024, se publica en el DOCM número 208, el anuncio de 07/10/2024, de la Delegación
+Provincial de Desarrollo Sostenible de Toledo, sobre la admisión definitiva y sometiendo a información pública de la
+solicitud y plan de restauración del permiso de investigación Tres Amigos, número 4.239 (0-1-0). [2024/8021]
+Conforme al artículo 53, de la citada Ley 2/2020, el Servicio de Medio Ambiente (actualmente Servicio de Calidad
+Ambiental), con fecha 22 de enero de 2025, inicia el periodo de consultas a las siguientes Administraciones Públicas
+afectadas y personas interesadas (marcadas con asteriscos aquellas que han emitido informe o presentado
+alegaciones):
+- Delegación Provincial de Desarrollo Sostenible de Toledo. Servicio de Medio Natural (*)
+- Unidad Coordinadora Provincial de Agentes Medioambientales. Coordinador de la comarca de Los Navalmorales (*)
+- Unidad Coordinadora Provincial de Agentes Medioambientales. Coordinador de la comarca de Toledo-La Sagra (*)
+- Unidad Coordinadora Provincial de Agentes Medioambientales. Coordinador de la comarca de Madridejos (*)
+- Consejería de Desarrollo Sostenible, Viceconsejería de Medio Ambiente. Servicio de Prevención e Impacto
+Ambiental.
+- Delegación Provincial de Desarrollo Sostenible de Toledo. Servicio de Minas.
+- Consejería de Desarrollo Sostenible. Dirección General de Transición Energética. Servicio de Instalaciones y
+Tecnologías Energéticas.
+- Delegación Provincial de Educación, Cultura y Deportes de Toledo, Servicio de Cultura (*)
+- Confederación Hidrográfica del Tajo (*)
+- Delegación Provincial de Sanidad. Servicio de Salud Pública.
+- Red Eléctrica Española (*)
+- Ayuntamiento de Cuerva.
+- Ayuntamiento de Almonacid.
+- Ayuntamiento de Chueca.
+- Ayuntamiento de Gálvez.
+- Ayuntamiento de Mascaraque.
+- Ayuntamiento de Nambroca.
+- Ayuntamiento de Polán.
+- Ayuntamiento de Ajofrín.
+- Ayuntamiento de Pulgar.
+- Delegación Provincial de Hacienda y Administraciones Públicas. Servicio de Protección Ciudadana (*)
+- Consejería de Fomento. Dirección General de Carreteras (*)
+- Demarcación General de Carreteras del Estado en Castilla-La Mancha (*)
+- Instituto Geológico y Minero de España (IGME).
+- Acmaden Ecologistas en Acción de Toledo (*)
+- Sociedad Española de Ornitología (S.E.O.).
+- Agrupación naturalista Esparvel.
+- WWF España.
+- Asociación Toledo Aire Limpio.
+Con fecha 4 de febrero de 2026, se informa al promotor que se publican los informes recibidos en la plataforma
+correspondiente, por si considera que debe introducir alegaciones a alguno de ellos, antes de la resolución
+del procedimiento, conforme al artículo 82 de la Ley 39/2015, de Procedimiento Administrativo Común de las
+Administraciones Públicas.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22743
+Posteriormente, con fecha 15 de febrero de 2026, el promotor considera lo siguiente:
+Se procederá, en consenso con los agentes medioambientales, ecologistas y entidades relacionadas, una evaluación
+más detallada de los potenciales riesgos a la fauna, de la forma más apropiada con el fin de mitigar en todo lo posible
+dicho impacto.
+Las condiciones indicadas por el Servicio de Medio Natural se consideran oportunas y serán tenidas en cuenta en
+la planificación de los trabajos de investigación pertinentes.
+Se solicitará autorización al Ministerio de Transportes y Movilidad Sostenible para la ejecución de las obras a tenor
+de lo dispuesto en el artículo 28.2 de la Ley 37/2015, de 29 de septiembre, de carreteras.
+Y se continúa con la tramitación del expediente.
+2.2. Aspectos más relevantes indicados en los informes y en las alegaciones, en la fase de consultas.
+2.2.1. Servicio de Medio Natural: Informa con fecha 26 de agosto de 2025, que el ámbito del proyecto no incluye
+terrenos en Espacios Naturales Protegidos, espacios de Red Natura 2000 u otras Zonas Sensibles.
+Algunas cuadrículas mineras del proyecto se incluyen en áreas críticas de lince ibérico y águila imperial ibérica, así
+como en Zona de Dispersión de águila imperial ibérica.
+Desde este Servicio, se constata la presencia en el entorno del proyecto de especies de avifauna de esteparias y
+rapaces, así como la presencia de sus nidos. También la presencia de lince.
+El proyecto no producirá afección a montes de utilidad pública. Se localizan varias vías pecuarias, que no podrán
+ser afectadas por los sondeos.
+Analizada la documentación aportada por el promotor y la disponible por parte de este Servicio, el proyecto se
+considera viable ambientalmente respecto a los recursos naturales protegidos de nuestra competencia y se emite
+informe favorable, condicionado preceptivamente a las actuaciones que se reflejan en el apartado cuatro (4).
+2.2.2. Confederación Hidrográfica del Tajo: Informa con fecha 10 de mayo de 2026, que en lo referente a zonas
+protegidas recogidas oficialmente en el Plan hidrológico de la parte española de la Demarcación hidrográfica del Tajo
+(PHT) 2023-2027, el área donde se desarrollan las actuaciones se encuentra dentro de la zona vulnerable “Madrid-
+Talavera-TiétarES030_ZVULES42_5”, en numerosas zonas de abastecimiento, entre las que destaca “E. Guajaraz
+– Guajaraz- ES030ZCCM0000000025” y de las siguientes áreas de captación de la zona sensible:
+- “Embalse de Guajaraz- ES030ZSENESCM489”
+- “Embalse de Finisterre- ES030ZSENESCM494”
+- “Embalse de Azután- ES030ZSENESCM495”
+- “Embalse de El Castro- ES030ZSENESCM497”
+- “Embalse de Castrejón- ES030ZSENESCM572”
+En cuanto a aguas superficiales, según la cartografía consultada del Geoportal: https://sig.mapama.gob.es/
+geoportal/, la zona de actuación intercepta en algunos casos y se halla próxima en otros de cauces pertenecientes
+al sistema de explotación “Tajo Izquierda-ES030SEXP000000006”.
+Se ha efectuado la consulta en el visor del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI), http://sig.
+mapama.es/snczi/, obteniéndose los siguientes resultados:
+Dominio Público Hidráulico:
+- Vertiente del Junquillo: dispone de estudio específico identificado como ES030_DPH_X-06-98 perteneciente al
+estudio de SNCZI de la Demarcación Hidrográfica del Tajo.
+- Arroyo De Prado: Dispone De Estudio Específico Identificado Como Es030_dph_x-06-91 perteneciente al estudio
+de SNCZI de la Demarcación Hidrográfica del Tajo.
+- Arroyo Seco: dispone de estudio específico identificado como ES030_DPH_X-06-92 perteneciente al estudio de
+SNCZI de la Demarcación Hidrográfica del Tajo.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22744
+Zona de Flujo Preferente:
+- Vertiente del Junquillo: dispone de estudio específico identificado como ES030_ZFP_X-06-98 perteneciente al
+estudio de SNCZI de la Demarcación Hidrográfica del Tajo.
+- Arroyo de Prado: dispone de estudio específico identificado como ES030_ZFP_X-06-91 perteneciente al estudio
+de SNCZI de la Demarcación Hidrográfica del Tajo.
+- Arroyo Seco: dispone de estudio específico identificado como ES030_ZFP_X-06-92 perteneciente al estudio de
+SNCZI de la Demarcación Hidrográfica del Tajo.
+Áreas con Riesgo Potencial Significativo de Inundación (Arpsi): no se dispone de Arpsi.
+Zonas inundables: Existe una delimitación cartográfica de la zona inundable por las avenidas de 10, 50, 100 y 500
+años de:
+- Vertiente del Junquillo: definidas como ES030_T010_X-06-98, ES030_T050_X-06-98, ES030_T100_X-06-98 y
+ES030_T500_X-06-98 respectivamente, pertenecientes al estudio de ESTUDIO DE DESARROLLO DEL SNCZI.
+- Arroyo de Prado: definidas como ES030_T010_X-06-91, ES030_T050_X-06-91, ES030_T100_X-06-91 y ES030_
+T500_X-06-91 respectivamente, pertenecientes al estudio de ESTUDIO DE DESARROLLO DEL SNCZI.
+- Arroyo Seco: definidas como ES030_T010_X-06-92, ES030_T050_X-06-92, ES030_T100_X-06-92 y ES030_
+T500_X-06-92 respectivamente, pertenecientes al estudio de estudio de desarrollo del SNCZI.
+En relación a las aguas subterráneas, las instalaciones asientan sobre la masa de agua subterránea “Sonseca-
+ES030MSBT030.026”, la cual se encuentra en riesgo de no alcanzar el buen estado cuantitativo, según el Apéndice
+15 del PHT. Concretamente, según el Apéndice 16 del mencionado Plan Hidrológico, la actuación se ubica en zonas
+donde sólo se otorgarán concesiones para abastecimiento de población (mapa número 3 del anexo cartográfico).
+En base a todo lo anterior, el órgano de cuenca, propone una serie de indicaciones respecto a posibles afecciones
+durante la vigencia del permiso.
+Dado que, durante la tramitación necesaria para la concesión/inscripción, el proyecto será sometido a la valoración
+de los técnicos de la Confederación Hidrográfica del Tajo encargados de la gestión del dominio público hidráulico,
+se entiende que las actividades previstas deberán ajustarse a los requerimientos que surjan durante la y a los que
+queden recogidos en la Declaración de Impacto Ambiental.
+Una vez realizada la solicitud, antes de su otorgamiento por parte de la CHT, se valorará si los recursos existentes
+son compatibles con el PHT en función de la actividad que se pretende desarrollar y del caudal que se solicita. Por
+lo tanto, será en ese momento en el cual la CHT se pronuncie acerca de este extremo.
+2.2.3. Unidad Coordinadora provincial de Agentes Medioambientales. Coordinadores de las distintas Comarcas:
+Los informes emitidos por los agentes medioambientales de las distintas comarcas afectadas por el proyecto,
+indican entre otras cuestiones, que teniendo en cuenta que el citado estudio engloba varias parcelas de polígonos
+pertenecientes a varios términos municipales, en los cuales se cuenta con una diversidad de hábitats de fauna y
+vegetación, algunas de ellas siendo singulares o con alguna categoría de protección además de vienes de titularidad
+pública. Por ello, se deberá tener en cuenta las consideraciones que se reflejan en al apartado cuatro (4).
+2.2.4. Servicio de Cultura: Con fecha 12 de marzo de 2025, se emite informe favorable a la realización de las labores
+de investigación proyectadas. Teniendo en cuenta que, dentro de las cuadrículas, se encuentran áreas de alta
+susceptibilidad de afección al Patrimonio Cultural y existen varios yacimientos documentados. Por ello se propone
+una serie de medidas a tener en cuenta que se indicarán en el apartado cuarto.
+2.2.5. Servicio de Protección Ciudadana: Con fecha 19 de agosto de 2025, se emite informe en el que indica que,
+revisados los principales riesgos de posibles emergencias de protección civil, se concluye que aparecen en algunos
+de los términos municipales señalados, riesgos especialmente significativos que deriven en el establecimiento de
+medidas excepcionales de protección. Dichos riesgos se identifican en el apartado cuarto.
+2.2.6. Dirección General de Carreteras: Con fecha 13 de junio de 2025, se emite informe en el que se indica que,
+desde el punto de vista ambiental no existe ningún tipo de afección en la red de carreteras autonómica. Además, en
+relación con la afección directa a la red de carreteras autonómica producida por este Permiso de investigación, se
+debe tener en cuenta una serie de condicionantes que se reflejan en el apartado cuarto.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22745
+2.2.7. Demarcación de Carreteras del Estado en Castilla-La Mancha: Con fecha 20 de febrero de 2025, informa
+favorablemente al Permiso de Investigación.
+2.2.8. Red Eléctrica Española: Con fecha 10 de marzo de 2025, se emite informe en el que se indica que, pueden
+resultar afectadas las siguientes instalaciones propiedad de Red Eléctrica:
+- L/E a 220 kV D/C Aceca-Picón / El Emperador-Mora
+- L/E a 220 kV D/C Aceca-Mora / El Emperador-Mora
+2.2.9. Acmaden (Ecologistas en Acción): El informe de fecha 31 de enero de 2025, indica las siguientes sugerencias
+previas del grupo ecologista, a la evaluación ambiental:
+- El documento ambiental presentado y consultable es deficitario en lo que al contenido de la información ambiental
+se refiere, especialmente en lo relativo a la presencia y estado de conservación en la zona de especies declaradas
+en peligro de extinción en la región castellano – manchega. Tal es el caso del Águila Perdicera y del Águila Imperial
+Ibérica.
+- La ubicación seleccionada por el promotor, conforme al Plan de recuperación del Águila Perdicera, se encuentra
+inmersa en una importante área de dispersión de la especie.
+- Algo similar cabe indicarse para el caso del Águila Imperial Ibérica. La alternativa 1 está completamente embutida
+en las zonas de importancia y dispersión que dispone la especie conforme a su respectivo Plan de Recuperación.
+- La autorización ambiental para el desarrollo de este proyecto en su ubicación asociada a la alternativa 1 supondría
+una merma, un nuevo recorte de la calidad ambiental del hábitat de ambas especies de grandes rapaces declaradas
+“en peligro de extinción”. Esta circunstancia debe ser especialmente considerada si se tiene en cuenta que en toda
+esta comarca ya se han perdido buena parte de sus hábitats a consecuencia del desarrollo de otros proyectos o de
+catástrofes ambientales diversas.
+Por todo lo anterior, mostramos nuestra oposición a la autorización ambiental de este proyecto (especialmente en
+su ubicación de la alternativa 1 seleccionada por el promotor) y en todo caso consideramos imprescindible que el
+órgano ambiental determine la obligatoriedad de que sea sometido a un procedimiento de evaluación ambiental no
+simplificado, sino ordinario.
+Tercero. Análisis técnico del proyecto.
+Una vez examinada la documentación aportada por el promotor, visto el resultado de las consultas realizadas y
+considerando las respuestas recibidas a las consultas practicadas, procede realizar el análisis, según los criterios
+recogidos en el anexo III, de la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para
+determinar si el proyecto tiene efectos significativos sobre el medio ambiente y, por tanto, si debe someterse o no a
+una Evaluación de Impacto Ambiental Ordinaria.
+El Permiso de Investigación engloba 300 cuadrículas mineras situadas en varios términos municipales Gálvez,
+Polán, Totanés, Cuerva, Pulgar, Mazarambroz, Ajofrín, Chueca, Orgaz, Nambroca, Villaminaya, Almonacid de
+Toledo, y Mascaraque (Toledo), teniendo por objetivo la investigación de todos los recursos de la Sección C (Cu, Sn,
+Ag, Pb, W y Te) y para un periodo de tres años.
+Las actuaciones proyectadas que podrían producir afecciones sobre el medio ambiente se concretan en la ejecución
+de los sondeos de testigo continuo, el acceso de los vehículos y de la maquinaria perforadora a los puntos de
+sondeo seleccionados, la presencia temporal de personas, la generación de ruidos y de partículas emitidas a la
+atmósfera habituales durante el momento de la perforación de los sondeos y los posibles efectos adversos a la fauna
+y flora de la zona.
+En cuanto a espacios protegidos, algunas de las cuadrículas mineras del proyecto, se incluyen en áreas críticas de
+lince ibérico y águila imperial ibérica, así como zona de dispersión de águila imperial ibérica. Se constata, además,
+la presencia de lince y de especies de avifauna de esteparias y rapaces (sisón, ganga, ortega, alcaraván, lechuza
+campestre, milano real, etc.) y sus nidos, más concretamente, se confirma la presencia estable y reproductora del
+águila imperial ibérica.
+En relación a elementos geomorfológicos, existen zonas de berrocales graníticos, donde destacan algunas piedras
+singulares (piedras caballeras).
+
+AÑO XLV Núm. 108 10 de junio de 2026 22746
+En cuanto a la afección al dominio público pecuario se localizan varias vías pecuarias (cañada de Sevilla, colada de
+la dehesa de Villaverde, cordel segoviano, vereda del camino Real de Menasalbas a Toledo y colada de los castillos
+a huerta francisco), que no podrán ser afectadas por los sondeos, por lo que se evitará que los sondeos se sitúen
+sobre el trazado de las vías pecuarias o su franja adicional de protección. Además de la anchura legal, se tendrá
+en cuenta esta franja de protección de 5 m que, según la normativa urbanística, tendrá la consideración de Suelo
+Rústico No Urbanizable de Protección Ambiental, siéndole de aplicación las limitaciones que para este tipo de suelo
+establezca la planificación urbanística correspondiente.
+En general, el área afectada por el proyecto, situada al noroeste de la población de Orgaz es una zona muy
+humanizada, donde abundan los cultivos agrícolas (viñas, olivar, almendro y cereal) y se localizan en un área
+cubierta de abundantes berrocales.
+Respecto a la hidrología, la zona de estudio se encuentra dentro de la cuenca Hidrográfica del Tajo. La red
+superficial se localiza incluida en la zona vulnerable “Madrid-Talavera-TiétarES030_ZVULES42_5”, en varias zonas
+de abastecimiento, entre las que destaca “E. Guajaraz – Guajaraz- ES030ZCCM0000000025” y de varias áreas de
+captación ya expuestas anteriormente.
+Con respecto a las aguas superficiales, la zona de actuación intercepta y se halla próxima a cauces pertenecientes
+al sistema de explotación “Tajo Izquierda-ES030SEXP000000006”.
+En cuanto a las aguas subterráneas, el permiso de investigación se sitúa sobre la masa de agua subterránea
+“Sonseca- ES030MSBT030.026”, la cual, cabe destacar que se encuentra en riesgo de no alcanzar el buen estado
+cuantitativo.
+En lo que respecta a la generación de residuos peligrosos al tratarse de un proyecto de investigación, y no de
+explotación de los recursos mineros, los posibles residuos generados serán los procedentes del uso de la maquinaria
+de perforación y de la presencia de personas.
+En consecuencia, una vez finalizado el análisis técnico de éste expediente de evaluación ambiental, y de acuerdo
+con la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, esta Delegación Provincial de
+Desarrollo Sostenible de Toledo, conforme al Decreto 6/2024, de 20 de febrero, por el que se modifica el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible, y a las resoluciones de 27.09.2023 y 24.05.2024, de la Dirección General de Calidad Ambiental,
+por la que se delegan competencias en las delegaciones provinciales de la Consejería de Desarrollo Sostenible,
+formula el presente informe de impacto ambiental favorable a la realización del proyecto evaluado, siempre y cuando
+se realice en las condiciones señaladas en el documento ambiental y en las prescripciones de esta Resolución.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Todas las medidas para la adecuada protección del medio ambiente indicadas por el promotor en el documento
+ambiental se deberán cumplir en cada fase del proyecto, complementadas con las que se expresan a continuación,
+teniendo en cuenta que en los casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las
+contenidas en la presente Resolución.
+4.1. Recursos naturales y áreas protegidas.
+Analizada la documentación aportada por el promotor y la disponible por parte de este Servicio, el proyecto se
+considera viable ambientalmente respecto a los recursos naturales protegidos de nuestra competencia y se emite
+informe favorable, condicionado preceptivamente a lo siguiente:
+- En relación a la afección a dominio público pecuario se evitará que los sondeos se sitúen sobre el trazado de las
+vías pecuarias o su franja adicional de protección. Además de la anchura legal, se tendrá en cuenta esta franja
+de protección de 5 metros que, según la normativa urbanística, tendrá la consideración de Suelo Rústico No
+Urbanizable de Protección Ambiental, siéndole de aplicación las limitaciones que para este tipo de suelo establezca
+la planificación urbanística correspondiente.
+- Se debe evitar cualquier actuación que implique afección sobre vegetación natural.
+- Se evitará realizar los trabajos de los sondeos durante el periodo comprendido entre los meses de marzo a junio
+(ambos incluidos), a fin de evitar las posibles molestias a aves esteparias y rapaces del entorno durante el período
+de reproducción y cría. En caso de la presencia cercana de nidos de estas especies sobre el suelo, se deberá
+cambiar la ubicación del sondeo para evitar molestias.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22747
+Los informes emitidos por los agentes medioambientales de las distintas comarcas afectadas por el proyecto,
+indican entre otras cuestiones, que teniendo en cuenta que el citado estudio engloba varias parcelas de polígonos
+pertenecientes a varios términos municipales, en los cuales se cuenta con una diversidad de hábitats de fauna y
+vegetación, algunas de ellas siendo singulares o con alguna categoría de protección. Por ello, se deberán tener en
+cuenta las siguientes consideraciones:
+Para realizar el cronograma de actuaciones y una vez se tengan elegidas las coordenadas exactas para la ejecución
+de las calicatas y sondeos, será necesario consultar a la Delegación de Desarrollo Sostenible, al Servicio de Medio
+Natural, con la finalidad de adecuar las fechas de ejecución de aquellas calicatas que puedan producir molestias o
+alteraciones en el proceso reproductivo en las especies, sobre todo en aquellas protegidas o de interés especial.
+Es de reseñar que el área de estudio abarca zonas de dispersión e importancia del águila Imperial Ibérica y águila
+azor perdicera, presencia de lince etc. Especies que, debido a su dispersión y gracias a los esfuerzos dirigidos a su
+conservación, están aumentando en número de parejas reproductoras, especialmente en águila imperial, nidificantes
+en la zona de estudio, con localizaciones de nidos que pueden verse modificadas hasta el momento de ejecución de
+las calicatas supeditado el plazo de obtención de los permisos y autorizaciones perceptivos.
+Con la finalidad de dar celeridad a lo anteriormente expuesto, sería recomendable y necesario, que el promotor
+adjuntara un listado de coordenadas U.T.M en archivo formato Shape: Kml, Kmz del emplazamiento definitivo de las
+calicatas y sondeos, que permitan visionar de forma rápida, por parte de las diversas Secciones y Unidades, aquellas
+posibles afecciones y así poder aportar aquellas indicaciones y cambios que se deban realizar en el cronograma de
+operaciones de una manera actualizada y precisa.
+No obstante, el promotor alega mediante escrito dirigido a este Servicio de Calidad Ambiental, que es consciente de
+la especial sensibilidad de determinadas especies presentes en el ámbito del proyecto y por ello, procederá, incluso
+en las fases tempranas, en consenso con los agentes medioambientales, ecologistas y entidades relacionadas, una
+evaluación más detallada de los potenciales riesgos a la fauna, y se procederá, a ser posible consensuadamente,
+de la forma más apropiada para mitigar en la medida de lo posible el potencial impacto a las mismas.
+Respecto a la vegetación natural, se deberá evitar cualquier actuación que implique afección sobre vegetación
+natural, y en todo caso, para las labores que impliquen descuaje de cubiertas de matorral o arbolado, o la roturación
+de terrenos forestales, deberá solicitarse la preceptiva autorización al órgano medioambiental, en aplicación del
+artículo 49, de la Ley 3/2008, de 12 junio de Montes y Gestión Forestal Sostenible de Castilla La Mancha, y de
+su modificación. Dicha autorización establecerá, en su caso, el condicionado aplicable para minimizar el impacto
+ambiental derivado.
+Así mismo, los trabajos de investigación deberán evitarse durante los meses de marzo y junio, con el fin de reducir
+las posibles molestias a las aves esteparias y rapaces del entorno. En caso de presencia cercana de nidos de estas
+especies, se deberá cambiar la ubicación del sondeo.
+4.2. Protección del sistema hidrológico e hidrogeológico.
+De acuerdo con lo dispuesto por el organismo de cuenca, en su informe derivado del proceso de consultas realizado,
+resultan aplicables las siguientes consideraciones:
+- Los sondeos deberán ser clausurados tras la finalización de la investigación en ellos.
+- Se deberá garantizar la seguridad frente accidentes de todo tipo durante la vida útil de la perforación, incluida la
+clausura. El garantizar la seguridad es una obligación de los propietarios y/o titulares de los mismos y/o los que
+acometan la perforación y, por lo tanto, las responsabilidades recaen sobre ellos.
+- Los sondeos y obras relacionadas (éstas últimas si existiesen, como, por ejemplo, balsas para recoger el material
+que se extrae con el sondeo, etc.) deberán ser ejecutados garantizando la no contaminación de las aguas superficiales
+o subterráneas. Para ello, se deberán tomar las medidas pertinentes además de seguir las indicaciones incluidas
+en el presente informe.
+- En el caso de que sea necesario el uso de agua para la ejecución de los sondeos o lavado de material, deberá
+acreditarse su origen.
+- Los lodos de perforación serán a base de agua y aditivos permitidos.
+- En el caso de intercepción del nivel freático, lo que podría producir contaminación y/o alteración de la composición
+de las aguas subterráneas, para evitar la contaminación inmediatamente extraído el testigo continuo, se sellarán los
+sondeos con arena.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22748
+- Las captaciones directas de agua, tanto superficial como subterráneas, deberán contar con la preceptiva autorización
+del organismo de cuenca, todo ello sin perjuicio de los casos en los que sea de aplicación la tramitación de una
+correspondiente declaración responsable, conforme al artículo 72, del Reglamento del Dominio Público Hidráulico.
+- En el caso de que alguno de los trabajos comprendidos en el permiso de investigación, así como los proyectos de
+explotación que pudieran derivarse del mismo, afectarán a los cauces existentes o a sus zonas de servidumbre y/o
+policía, se deberá solicitar autorización previa o declaración responsable ante el organismo de cuenca.
+- No está permitido el vertido de los lodos de sondeos al terreno.
+- Si fuera necesario la creación de balsas de lodos, estas deberán estar impermeabilizadas, al menos por una
+lámina plástica, y se adoptarán las medidas de seguridad necesarias para evitar la ocurrencia de accidentes. Una
+vez finalizados los trabajos, deberán ser rellenadas con el material previamente extraído hasta adoptar la topografía
+original.
+Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales susceptibles de
+contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente
+con la previa autorización.
+4.3. Protección del suelo.
+Debe evitarse la pérdida de las características del suelo vegetal, su contaminación y su compactación, por lo que
+previamente a la ubicación de la perforadora y sus instalaciones anexas, se retirará la capa vegetal de 0,50 m, que
+se acopiará en un lateral de la zona de trabajo para posteriormente reponerla en la fase de restauración.
+Para evitar los problemas de compactación del suelo, sólo se permite el tránsito de vehículos por caminos e itinerarios
+ya existentes. Se evitará en lo posible la apertura de nuevos caminos.
+4.4. Protección de la calidad del aire.
+La Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, así como sus actualizaciones,
+son la legislación vigente en materia de la calidad del aire, que deberán tenerse en cuenta en todo momento de
+la vigencia del permiso de investigación, con el fin de minimizar la producción y dispersión del polvo, así como la
+emisión de gases; preventivamente se adoptarán las siguientes medidas:
+- Siempre que sea necesario, y sobre todo en épocas de estiaje, se efectuarán riegos periódicos en las zonas de
+tránsito de maquinaria y en los caminos de acceso, para minimizar partículas de polvo en suspensión. Se aconseja
+el uso de aditivos higroscópicos en los riegos en pistas, sobre todo en época estival.
+- La circulación de maquinaria y vehículos se realizará por caminos y vías existentes.
+- Los vehículos circularán a menos de 20 km/h.
+- Adecuado mantenimiento de los vehículos, evitando así un exceso de gases de combustión.
+- Todos los trabajadores tendrán sus correspondientes medidas de protección personal contra el polvo.
+4.5. Contaminación acústica: ruidos.
+Toda actividad que genere contaminación acústica se regirá por lo establecido en el R.D 212/2002, de 22 de febrero,
+por el que se regulan las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre,
+y por las modificaciones introducidas en el R.D 524/2006, de 28 de abril, así como por la Ley 37/2003, de 17 de
+noviembre, del ruido.
+Aquellos vehículos matriculados que circulen por vía pública durante el periodo de vigencia del permiso de
+investigación deberán estar en posesión de la revisión obligatoria, según establece el R.D 920/2017, de 23 de
+octubre, por el que se regula la Inspección Técnica de Vehículos.
+En cuanto a la maquinaria utilizada en las labores de investigación, especialmente la perforadora, se regirá por la
+I.T.C. 02.2.01 “Puesta en servicio, mantenimiento, reparación e inspección de equipos de trabajo”, que desarrollan
+los artículos 10 a 15, del R.D 863/1985, de 2 de abril, por el que se aprueba el Reglamento General de Nomas
+Básicas de Seguridad Minera. Como norma general y para minimizar las posibles afecciones medioambientales,
+en los procesos de arranque y funcionamiento se utilizarán aquellas técnicas que manteniendo las condiciones de
+seguridad apropiadas disminuyan al máximo los niveles de ruido y vibraciones debidos a estos procesos. Por ello,
+en la maquinaria se adoptarán las medidas y dispositivos que lo reduzcan, se emplearán silenciosos en los tubos de
+escape y se hará un control periódico de rodamientos, engranajes y mecanismos en general.
+Se trabajará en horario diurno, limitando la velocidad a 20 km/h, y proporcionando al personal de dispositivos
+homologados de protección auditiva.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22749
+4.6. Prevención de accidentes, vertidos incontrolados y emergencias.
+Se estará a lo dispuesto en la Orden de 26.09.2012, de la Consejería de Agricultura, por la que se modifica la Orden
+de 16.05.2006 de la Consejería de Medio Ambiente y Desarrollo Rural, por la que se regulan las campañas de
+prevención de incendios forestales, así como las Resoluciones que emita la Dirección General de Medio Natural y
+Biodiversidad, sobre la prohibición temporal de quema de restos vegetales en el medio natural y trabajos con riesgo
+de incendios en las superficies forestales, y en particular:
+- Se adoptarán las medidas necesarias para la prevención y la lucha contra incendios.
+- Se establecerá la prohibición absoluta de encender hogueras, fuegos o cualquier tipo de incineración dentro del
+área del proyecto.
+- En caso de que se observase la presencia de fuego incontrolado en el área del proyecto o sus inmediaciones, se
+activarán las emergencias necesarias llamando al número de teléfono 112.
+- Se dispondrá de extintores de incendios adecuados y revisados a los tipos de fuegos que se puedan iniciar en las
+labores de perforación.
+- En cumplimiento del artículo 113, del R.D. 863/1985, de 2 abril, por el que se aprueba el Reglamento General de
+Normal Básicas de Seguridad Minera, la zona de trabajo debe estar señalizada o cercada para evitar el acceso de
+personas ajenas al mismo. En general:
+- No podrán realizarse operaciones de mantenimiento de la maquinaria o vehículos sobre el terreno, sino en talleres
+autorizados. En su defecto, el promotor deberá estar inscrito en el Registro de Producción y Gestión de Residuos de
+Castilla-La Mancha, como productor.
+- Cualquier vertido accidental o de tratamiento puntual que pudiera afectar al suelo, deberá ser descontaminado
+a la mayor brevedad posible, retirando la parte de suelo contaminado y entregándolo a gestor autorizado para su
+posterior tratamiento.
+- En el caso de que aparezcan vertidos incontrolados de terceras personas, se procederá inmediatamente a la
+retirada de los mismos, y su eliminación a través de gestor autorizado.
+- Cuando se estén llevando a cabo las diferentes labores de investigación, y más concretamente los sondeos,
+se señalizará el lugar correctamente con aviso de restricción de acceso, y dificultando el acceso de personas o
+vehículos mediante vallado provisional o acordonamiento efectivo para cumplir el objetivo de seguridad perseguido.
+Se deberá tener especial atención a los Planes de Protección Civil de Castilla-La Mancha, en cuanto a riesgos
+radiológicos, riesgos de inundaciones y demás riesgos que pudieran surgir en el desarrollo de las labores propias
+del permiso de investigación.
+4.7. Franjas de protección a infraestructuras, viales y zonas colindantes.
+Sobre la afección a las vías pecuarias afectadas por la actuación del permiso de investigación en curso, se evitará que
+los sondeos se sitúen sobre el trazado de las mismas o sobre su franja de protección. Además de la anchura legal,
+se tendrá en cuenta una franja de protección de 5 m que, según la normativa urbanística, tendrá la consideración de
+Suelo Rústico No Urbanizable de Protección Ambiental, siéndole de aplicación las limitaciones que para este tipo de
+suelo establezca la planificación urbanística correspondiente.
+La misma protección se mantendrá a los caminos, manteniendo una distancia de seguridad de 5 m, medidos desde
+el borde del mismo.
+4.8. Protección del Patrimonio Histórico.
+En el caso de la aparición de restos arqueológicos y/o paleontológicos durante el transcurso de las obras, se deberá
+actuar conforme a lo previsto en el artículo 52, de la Ley 4/2013 de 16 de mayo de Patrimonio Cultural de Castilla la
+Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia
+de Patrimonio Cultural. Este órgano determinará el carácter de los hallazgos y resolverá expresamente las medidas
+de protección de los mismos.
+Será necesario informar a la Delegación Provincial del Servicio de Cultura, que previamente a la realización de
+los sondeos y calicatas mecánicos proyectados en las fases 2 y 3 de la investigación, la ubicación exacta en
+coordenadas UTM, así como de cualquier movimiento de tierra relacionado con el proyecto, indicando también sus
+características y dimensiones para poder evaluar posibles afecciones de estos al Patrimonio Cultural.
+Del mismo modo, se remitirá a dicho Servicio de Cultura, los proyectos de explotación de cada frente minero dentro
+de la futura concesión para el estudio de las posibles afecciones al Patrimonio Cultural de cada uno de ellos.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22750
+En caso de que aparecieran restos materiales con valor cultural durante la ejecución de los trabajos de investigación,
+se actuará conforme a lo previsto en el artículo 52 de la Ley 4/2013 de 16 de mayo de Patrimonio Cultural de Castilla-
+La Mancha, comunicando el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia
+de Patrimonio Cultural. Este órgano determinará el carácter de los hallazgos y resolverá expresamente las medidas
+de protección de estos.
+4.9. Gestión de residuos.
+Los residuos identificados como mineros están regulados por el R.D 975/2009, de 12 de junio, sobre explotación
+de los residuos de industrias extractivas y de protección y rehabilitación del espacio afectado por explotaciones
+mineras, debiendo el promotor presentar junto con el plan de restauración de la explotación, un plan de gestión
+de los residuos mineros enfocado a su reducción, tratamiento, recuperación y eliminación teniendo en cuenta el
+principio de desarrollo sostenible.
+El promotor deberá inscribirse en el registro de Producción y Gestión de Residuos de Castilla-La Mancha como
+productor.
+Aquellos residuos no identificados como mineros que pudieran generarse se gestionarán conforme a la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular. Por ello y como actividad generadora
+de residuos, el promotor está obligado a disponer de un contrato de tratamiento con gestor autorizado para su
+retirada, el cual se exige previo a la inscripción como productor anteriormente mencionada.
+Dado que previo a la autorización sustantiva del proyecto se precisa la aprobación expresa del plan de restauración,
+conforme al artículo 5, del R.D 975/2009, de 12 de junio, sobre la gestión de los residuos de las industrias extractivas,
+y de protección y rehabilitación del espacio afectado por actividades mineras, se considera imprescindible que
+él mismo se ajuste a la presente Resolución, cuya finalidad deberá ser igualmente la minimización de aquellos
+aspectos de la actividad que puedan tener efectos negativos sobre el medio ambiente o la salud de las personas.
+Se deberá cumplir con lo establecido en el R.D 553/2020, de 2 de junio, por el que se regula el traslado de residuos
+en el interior del territorio del Estado, especialmente en lo que respecta a la notificación previa del traslado y al
+documento de identificación de traslado de residuos. Para su correcta aplicación podrá utilizarse la plataforma
+electrónica INDA habilitada al efecto por el órgano ambiental, en el siguiente enlace web (https://agricultura.jccm.es/
+ova/servicios.jsp)
+Para su tratamiento se realizará una separación en origen, evaluando cuantitativamente los residuos producidos,
+clasificándolos, y posteriormente entregarlos a gestor autorizado.
+Cualquier incidencia que se produzca durante la generación, almacenamiento o gestión de residuos deberá ponerse
+en conocimiento del órgano ambiental.
+4.10. Adecuación urbanística.
+Para poder llevar a cabo las labores de investigación se deberán tener en cuenta las normas urbanísticas del
+municipio afectado.
+En el caso de que se instalarán balsas de lodos, y se hubiera generado huecos por debajo de la cota original, una
+vez finalizados los trabajos deberán ser rellenados a cota original.
+El informe de la Dirección General de Carreteras, de fecha 13 de junio de 2025, indica que los tramos de las
+carreteras CM-401, CM-410, CM-4013 y CM-4022 que se sitúan en el ámbito del permiso de investigación, presentan
+accesos a caminos agrícolas. Durante las fases de investigación, cabe suponer que los accesos existentes a estos
+caminos agrícolas son válidos, ya que se usarán de forma temporal y por una intensidad de tráfico similar a la que
+actualmente presentan como caminos agrícolas.
+En cualquier caso, si se requiere la creación de un nuevo acceso desde las carreteras CM-401, CM-410, CM-4013
+o CM-4022, o se produce un cambio de uso de los accesos existentes, se debe tener en cuenta lo establecido
+en los artículos 66 y siguientes del Reglamento de la Ley 9/90 de Carreteras y Caminos de Castilla-La Mancha,
+(Decreto 1/2015 de 22 de enero), por lo que resulta imprescindible la solicitud expresa de acceso, acompañada de
+
+AÑO XLV Núm. 108 10 de junio de 2026 22751
+un proyecto técnico elaborado por técnico competente, en el que se describa y justifique la solución a adoptar e
+incluya al menos lo siguiente:
+- Estudio y justificación de la intensidad horaria y de la tipología de los vehículos que utilizarán el acceso, distinguiendo
+entre vehículos ligeros y pesados.
+- Estudio de visibilidades, disponibles y requeridas, para la realización de los distintos movimientos, de acuerdo con
+los criterios establecidos en la normativa vigente.
+- Estudio y justificación de la tipología del acceso de acuerdo con lo establecido en la Orden Circular 1/2019 sobre
+Accesos a la Red de Carreteras Autonómicas.
+- Plano de planta con las características geométricas del acceso propuesto para su valoración.
+- Descripción y planos de las actuaciones relativas a drenaje, afirmado y señalización en la zona del acceso. En
+este sentido, en el caso de requerirse la colocación de paso salvacunetas, deberá realizarse un estudio hidráulico
+detallado para determinar la geometría, que tendrá un diámetro mínimo de 800 mm, y sus embocaduras deberán
+ejecutarse con forma de pico de flauta, o actuación similar, tal y como se establece en la Orden Circular 32/2014
+sobre Criterios de Aplicación de Sistemas de Contención de Vehículos.
+- Presupuesto, en el que figuren las mediciones y valoración de todas las unidades que componen el acceso.
+- Documentación acreditativa para la disponibilidad de los terrenos que resulten necesarios para la construcción del
+acceso en las zonas de afección de las carreteras autonómicas y que no sean de titularidad pública.
+En relación a la disponibilidad de los terrenos, de acuerdo con lo establecido en los artículos 69.1 y 56.2.c del
+Reglamento de la Ley 9/90, de Carreteras y Caminos de Castilla-La Mancha, aprobado por Decreto 1/2015, de 22
+de enero, se deberá acreditar la disponibilidad de los terrenos que resulten necesarios para construcción de las
+actuaciones en las zonas de afección de las carreteras que no sean de titularidad pública.
+Se deberá solicitar la correspondiente autorización al Servicio de Conservación y Explotación, de todas aquellas
+actuaciones que se sitúen dentro de la zona de afección de las carreteras autonómicas, debiendo presentarse la
+documentación técnica correspondiente (sondeos, accesos, etc.), acompañada de la autorización otorgada por el
+órgano competente para los trabajos del proyecto de investigación.
+Del mismo modo, se deberá solicitar al Ministerio de Transportes y Movilidad Sostenible, la autorización
+correspondiente para la ejecución de las obras, a tenor de lo dispuesto en el artículo 28.2 de la Ley 37/2015, de
+29 de septiembre, de carreteras. Asimismo, los proyectos definitivos deberán cumplir con lo establecido en la Ley
+37/2015, de 29 de septiembre, de carreteras, en el Reglamento General de Carreteras (R.D. 1812/1994) y demás
+normativa de aplicación.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+La vigilancia ambiental se llevará a cabo mediante la comprobación del cumplimiento de cada una de las medidas
+preventivas y correctoras definidas en la presente Resolución, en el Documento Ambiental presentado y en el Plan
+de Restauración aprobado, así como aquellas otras complementarias que expresamente indiquen las respectivas
+administraciones minera y/o medioambientales competentes.
+De acuerdo con el artículo 64.1, de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento de lo establecido en la presente resolución,
+sin perjuicio de las comprobaciones que el órgano ambiental pueda realizar de acuerdo al apartado 4, del mismo
+artículo.
+Con el fin de garantizar el cumplimiento de las medidas descritas en el apartado cuarto se considera necesario que el
+promotor del proyecto remita un informe de seguimiento sobre el cumplimiento de las condiciones de esta Resolución,
+con la periodicidad establecida en el apartado siguiente. Este informe incluirá un listado de comprobación de las
+medidas prevista en el programa de vigilancia ambiental, conforme establece el artículo 64.2, de la Ley 2/2020, que
+deberá remitirse tanto al órgano sustantivo como al órgano ambiental, debiendo estar suscrito conjuntamente por
+el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, que se presentará en el primer
+trimestre del año.
+Para llevar a cabo el seguimiento interno del programa de vigilancia ambiental se nombrará a un responsable que
+deberá registrar todas las actuaciones y mediciones que se realicen para la observación de las medidas impuestas,
+así como la documentación necesaria.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22752
+El programa de vigilancia ambiental deberá prestar especial atención a los siguientes puntos:
+- Control de la posible presencia de vertidos que deberán ser retirados y gestionados inmediatamente, con especial
+vigilancia de los documentos generados en la gestión de los mismos.
+- Control de los niveles de ruido y polvo generados, analizando la efectividad de las medidas correctoras adoptadas
+y la necesidad de mejorarlas.
+- Vigilancia de la no afección al nivel freático.
+- Verificación de no afección a las franjas de protección de las vías pecuarias, de los caminos y del dominio público
+hidráulico.
+- Control de la presencia de especies recogidas dentro del Catálogo Regional de Especies Amenazadas.
+- Control de la aparición de restos arqueológicos y su notificación al Servicio de Cultura de la Delegación Provincial
+de Educación, Cultura y Deportes.
+- Supervisión de las medidas a llevar a cabo impuestas por el Servicio de Medio Natural, con especial atención a
+las especies incluidas en los Planes de Recuperación y Conservación de las especies amenazadas en Castilla La
+Mancha.
+- Revisión de
+- Supervisión de aquellas otras actuaciones orientadas a la prevención y corrección del medio ambiente expresamente
+citadas en el apartado cuarto de esta Resolución.
+Todas las mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán archivarse y
+custodiarse de forma fácilmente accesible, bien a pie de obra o en oficina, bien de forma digital o electrónica y se
+mantendrán a disposición de las autoridades las autorizaciones relacionadas con este expediente.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se deben
+adoptar en la realización de los trabajos de explotación a lo largo de toda la vida de la explotación.
+De las inspecciones llevadas a cabo por el órgano sustantivo o por el órgano ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, para una mejor consecución de los objetivos de la presente Resolución.
+Sexto. Documentación adicional.
+Desde el momento de la publicación de la presente Resolución, la documentación a presentar por parte del promotor
+ante el órgano sustantivo y el ambiental, será la siguiente:
+a) Previamente a la autorización del proyecto:
+- Notificación de la persona designada como responsable del cumplimento del Programa de Vigilancia Ambiental.
+- Listado final de las parcelas y polígonos, afectadas por los sondeos, en formato shapefile.
+b) Previo al inicio de la actividad:
+- Comunicación de la fecha de inicio de la actividad al órgano medioambiental, de conformidad con el artículo 54.4,
+de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha. Asimismo, se comunicará el final
+de las actuaciones de restauración.
+- Autorización o licencia de obras municipal del municipio afectado en la que se certifique expresamente la
+compatibilidad de los trabajos con la normativa urbanística.
+- Otorgamiento del proyecto por el órgano sustantivo. En este punto se recuerda que este Informe de Impacto
+Ambiental constituye el informe preceptivo y determinante del órgano ambiental, conforme a la propia definición
+dada en el artículo 4.3, apartado e), de la Ley 2/2020.
+- Contrato con gestor autorizado para la retirada de todos los residuos generados durante el funcionamiento de la
+actividad.
+- Autorización del Servicio de Medio Natural, en el caso de que fuera necesario el descuaje de cubierta de matorral
+o arbolado, la roturación de terrenos forestales, o se afectará a las vías pecuarias.
+- Comunicación previa al Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Toledo,
+de la realización de los sondeos mecánicos proyectados, sus características, dimensiones y ubicación exacta en
+coordenadas UTM para evaluar posibles afecciones de estos al Patrimonio Histórico.
+- Comunicación al Servicio de Calidad Ambiental, del consenso entre el promotor y los agentes medioambientales,
+ecologistas y otras entidades relacionadas, de la realización de una evaluación más detallada de los potenciales
+riesgos a la fauna.
+
+AÑO XLV Núm. 108 10 de junio de 2026 22753
+c) A partir del primer año de explotación:
+- Informe de seguimiento, en el primer trimestre del año, y durante toda la vigencia del permiso de investigación, del
+cumplimiento de las condiciones establecidas, de las medidas preventivas, correctoras y compensatorias indicadas
+en el apartado 5, de esta Resolución. Se incluirá información generada por la gestión de residuos.
+Séptimo. Otras consideraciones.
+a) Vigencia y prórroga de la presente Resolución.
+Tal y como se establece en el artículo 54.4, de la Ley 2/2020, el presente informe de impacto ambiental perderá su
+vigencia y cesará en la producción de los efectos que le son propios si, una vez publicado en el Diario Oficial de
+Castilla-La Mancha, no se hubiera comenzado la ejecución del proyecto o actividad en el plazo máximo de cuatro
+años desde su publicación, salvo que se acuerde la prórroga de su vigencia en los términos previstos en el artículo
+55. En el caso de pérdida de vigencia, el promotor deberá iniciar nuevamente el procedimiento de evaluación de
+impacto ambiental del proyecto.
+El promotor podrá solicitar la prórroga de la vigencia antes de que transcurra el plazo de cuatro años indicados en
+el párrafo anterior, conforme al artículo 55.1, de la Ley 2/2020. La solicitud formulada por el promotor suspenderá
+este plazo.
+El órgano ambiental resolverá sobre la solicitud de prórroga en un plazo de tres meses contados desde la fecha de
+presentación de dicha solicitud. Transcurrido el plazo sin que el órgano ambiental haya resuelto sobre la prórroga de
+la vigencia del informe de impacto ambiental, se entenderá desestimada la solicitud de prórroga.
+b) Comunicación de inicio y cese de la actividad, y cambio de titularidad.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo del proyecto, así como su cese parcial o
+total, y el traspaso de titularidad, en su caso.
+c) Modificaciones de proyecto.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación.
+El procedimiento de modificación del informe de impacto ambiental podrá iniciarse de oficio o a solicitud del promotor,
+y se regirá por las mismas disposiciones que establece el artículo 49, para la modificación de la declaración de
+impacto ambiental.
+d) Otras autorizaciones.
+La presente resolución no exime de obtener los informes y autorizaciones pertinentes de otras Administraciones,
+especialmente las relativas a la normativa urbanística y licencias municipales.
+e) Publicación.
+Esta Resolución se remitirá al promotor y al órgano sustantivo y se hará pública a través del Diario Oficial de Castilla-
+La Mancha, sin perjuicio de su publicación en la sede electrónica de la Consejería de Desarrollo Sostenible, tal y
+como establece el artículo 54.3, de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+De conformidad con el artículo 56.4, de la Ley 2/2020, el órgano sustantivo, en el plazo de 15 días hábiles desde que
+adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla- La Mancha, un extracto
+del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica la decisión sobre
+la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha en el que se ha
+publicado este Informe de Impacto Ambiental.
+f) Recursos.
+De acuerdo con el artículo 54.4, de la Ley 2/2020 de Evaluación Ambiental de Castilla-La Mancha, el presente
+informe de impacto ambiental no será objeto de recurso alguno, sin perjuicio de los que pudieran proceder en vía
+administrativa o judicial frente al acto futuro por el que se autoriza el proyecto, en su caso.
+Toledo, 26 de mayo de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 108 10 de junio de 2026 22754
+ANEXO CARTOGRAFICO
+1. MAPA Nº1: MAPA CARTOGRAFICO UBICACION PERMISO DE INVESTIGACION
+2. MAPA Nº2: SITUACION GEOGRAFICA
+
+AÑO XLV Núm. 108 10 de junio de 2026 22755
+3. MAPA Nº3: MASAS DE AGUA SUBTERRÁNEA EN RIESGO DE NO ALCANZAR EL ESTADO
+CUANTITATIVO

@@ -1,0 +1,926 @@
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 210
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE MEDIO AMBIENTE, VIVIENDA
+Y ORDENACIÓN DEL TERRITORIO
+ORDEN MAV/534/2026, de 5 de junio, por la que se formula la declaración de impacto
+ambiental del proyecto de la planta solar fotovoltaica hibridada «Sierra Sesnández», en
+el término municipal de Ferreruela de Tábara (Zamora), promovido por «Naturgy Vento,
+S.A.U.».
+El titular de la Consejería de Medio Ambiente, Vivienda y Ordenación del Territorio,
+en relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, y en virtud de las atribuciones conferidas por el artículo 52.1
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano administrativo de medio
+ambiente competente para dictar la presente declaración de impacto ambiental.
+El proyecto evaluado, promovido por Naturgy Vento S.A.U., tiene por objeto la
+instalación de una planta solar fotovoltaica de 17,6 MWp y una potencia nominal de
+15,6 MW, con una superficie ocupada total de la planta de 41,97 ha y una línea eléctrica
+subterránea de media tensión de 4.251 m de longitud en 30 kV. La planta solar fotovoltaica
+se hibridará con el parque eólico existente «Sierra Sesnández» de 20 MW.
+El proyecto se encuentra incluido entre los supuestos recogidos en el Anexo II,
+Grupo 4, «Industria energética», j) «Instalaciones para la producción de energía eléctrica
+a partir de la energía solar no incluidas en el anexo I, ni instaladas sobre cubiertas o
+tejados de edificios, así como, las que ocupen una superficie inferior a 5 ha salvo que
+cumplan los criterios generales 1 o 2» y por la línea eléctrica, incluida en el Anexo II,
+Grupo 4: «Industria energética» en su epígrafe b) «Construcción de líneas eléctricas
+(proyectos no incluidos en el anexo I) con un voltaje igual o superior a 15 kV, que tengan
+una longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo
+de los anteriores umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan
+las medidas preventivas establecidas en el Real Decreto 1432/2008, de 29 de agosto,
+por el que se establecen medidas para la protección de la avifauna contra la colisión
+y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m
+de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo
+que discurran íntegramente en subterráneo por suelo urbanizado», por lo que estaría
+sometido a evaluación de impacto ambiental simplificada.
+No obstante, el promotor, en virtud de lo establecido en el artículo 7.1 d) de la
+citada Ley 21/2013, de 9 de diciembre, ha solicitado que el proyecto sea objeto de una
+evaluación de impacto ambiental ordinaria.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 211
+De conformidad con lo establecido en el artículo 62.1 del texto refundido de la Ley
+de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015, de
+12 de noviembre, el Consejo de Medio Ambiente, Urbanismo y Ordenación del Territorio
+de Castilla y León será el órgano de prevención ambiental encargado de formular la
+propuesta de declaración de impacto ambiental del expediente de evaluación de
+impacto ambiental.
+Considerando adecuadamente tramitado el expediente, de acuerdo con el
+procedimiento establecido en la normativa de aplicación anteriormente citada, y vista
+la propuesta del Consejo de Medio Ambiente, Urbanismo y Ordenación del Territorio de
+Castilla y León,
+RESUELVO
+Formular la declaración de impacto ambiental del proyecto planta solar fotovoltaica
+hibridada «Sierra Sesnández», en el término municipal de Ferreruela de Tábara (Zamora),
+promovido por Naturgy Vento, S.A.U., que figura como anexo.
+En cumplimiento de lo dispuesto en el artículo 59 del texto refundido de la Ley de
+Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015, de
+12 de noviembre, este informe de impacto ambiental se hará público en el Boletín Oficial
+de Castilla y León, para general conocimiento, se comunicará a los interesados y a los
+ayuntamientos afectados por el proyecto, se notificará al promotor y se remitirá al órgano
+sustantivo para que sea incluido entre las condiciones de la autorización.
+Valladolid, 5 de junio de 2026.
+El Consejero de Medio Ambiente,
+Vivienda y Ordenación del Territorio,
+Fdo.: Juan Carlos Suárez-Quiñones Fernández
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 212
+ANEXO
+DECLARACIÓN DE IMPACTO AMBIENTAL DEL PROYECTO PLANTA SOLAR
+FOTOVOLTAICA HIBRIDADA «SIERRA SESNÁNDEZ», EN EL TÉRMINO MUNICIPAL
+DE FERRERUELA DE TÁBARA (ZAMORA), PROMOVIDO POR NATURGY VENTO,
+S.A.U.
+1. DESCRIPCIÓN DEL PROYECTO.
+1.1. DESCRIPCIÓN DEL PROYECTO Y EMPLAZAMIENTO
+Expediente. N.º EIAO/2025/ZA/005 Promotor NATURGY VENTO S.A.U.
+Denominación del
+Planta solar fotovoltaica hibridada «SIerra Sesnández» Artículo Apartado
+centro Epígrafe
+Domicilio social Avenida de América, 38, 28028, Madrid (Madrid) Ley
+Planta solar fotovoltaica hibridada «Sierra Sesnández» y sus 21/2013 7 1.d)
+Proyecto
+infraestructuras de evacuación.
+El proyecto consiste en la instalación de una planta solar fotovoltaica de 15,6 MWn de potencia
+para su hibridación con el parque eólico existente «Sierra Sesnández» de 20 MW, en el término
+municipal de Ferreruela de Tábara (Zamora).
+La energía se evacuará mediante una línea eléctrica subterránea de 30 kV de tensión y 4.251
+Descripción m de longitud hasta la SET Peña Nebina 30/220kV. Esta subestación es existente y conecta
+a través de una línea área 220 kV con la subestación Peñarroldana 220 kV, la cual a su vez
+conecta a través de línea aérea 220 kV con la subestación Ricobayo 220 kV, titularidad de Red
+Eléctrica de España, donde se inyectará finalmente al sistema la energía producida por la planta
+híbrida proyectada.
+4.251 m
+Longitud línea eléctrica de
+Superficie planta solar fotovoltaica 41,97 ha (2.603,92 m fuera de
+evacuación
+vallado perimetral)
+Potencia pico 17,6 MWp Potencia nominal en inversores 15,6 MW
+UTM X (m) de PSFV 741.734 UTM Y (m) de PSFV 4.629.300
+UTM X (m) subestación eléctrica 744.232 UTM Y (m) subestación eléctrica 4.629.233
+UTM X (m) del acceso 1 a PSFV 742.680 UTM Y (m) del acceso 1 a PSFV 4.629.288
+Huso 29 T
+UTM X (m) del acceso 2 a PSFV 742.185 UTM Y (m) del acceso 2 a PSFV 4.629.012
+UTM X (m) del acceso 3 a PSFV 742.020 UTM Y (m) del acceso 3 a PSFV 4.628.905
+UTM X (m) del acceso 4 a PSFV 741.537 UTM Y (m) del acceso 4 a PSFV 4.629.407
+UTM X (m) del acceso 5 a PSFV 741.345 UTM Y (m) del acceso 5 a PSFV 4.629.629
+Municipio Ferreruela de Tábara Provincia Zamora Código postal 49550
+1.2. SITUACIÓN Y DISTANCIA A ELEMENTOS SENSIBLES
+Ferreruela de Tábara.: 1 km
+Distancia aproximada a núcleo de población Sesnández de Tábara: 2,5 km
+Puercas: 3,5 km
+ZEC (ES4190033) «Sierra de la Culebra»: 1,7 km
+Coincidencia territorial o distancia con Red Natura 2000,
+Coincidencia territorial con la Zona de Transición de la
+o plan de conservación y/o recuperación de especies
+Reserva de la Biosfera «Meseta Ibérica».
+Coincidencia territorial con el «Arroyo de Posaces»,
+Distancia a otros elementos (cauces, acequias, lagos, «Arroyo de Valdefeíses» y «Regato del Valle».
+pozos, conducciones, red autovías, ferrocarriles, etc.) Colindancia con la línea de ferrocarril Zamora –
+Sarracín Aliste
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 213
+1.3. DESCRIPCIÓN DE LAS INSTALACIONES
+Parte generadora 28.896 paneles fotovoltaicos de 610 Wp cada uno agrupados en strings.
+Los módulos FV se instalarán sobre seguidores fotovoltaicos orientados en dirección
+Seguidor solar
+Norte – Sur, con una separación o Pitch entre los mismos de 6 m.
+Inversores 52 inversores de tipo SUN2000-330KTL, 300 kVA (40°C)
+– 2 CTs de 6,6 MVA con 18 inversores: 14 inversores con 20 strings conectados a cada
+inversor y 4 inversores con 19 strings conectados a cada inversor.
+Centros de
+– 1 CT de 3,3 MVA con 9 inversores: 20 strings conectados a cada inversor.
+transformación
+– 1 CT de 3,3 MVA con 7 inversores: 20 strings conectados a cada inversor
+Los 4 CTs elevarán la tensión a 30 Kv.
+Red media tensión La energía generada se evacuará mediante línea eléctrica subterránea de 30 kV de
+del parque solar tensión y 4.251 m de longitud hasta la subestación existente SET Peña Nebina 30/220kV.
+Subestación de
+Subestación eléctrica existente SET Peña Nebina 30/220kV.
+vertido
+1.4. CONSUMO DE RECURSOS
+Consumo previsto
+Red abastecimiento □ Sondeo □ Cisterna □x Organismo de cuenca C.H.D.
+—-
+En la fase de funcionamiento de la planta solar fotovoltaica el consumo de agua será principalmente para la
+limpieza de paneles fotovoltaicos y otros usos de la planta, incluyendo el agua potable, y será suministrada a
+través de camiones cisterna.
+Para el abastecimiento de agua de los aseos se dispondrá de una depósito de 6.000 litros.
+1.5. PRODUCCIÓN DE RESIDUOS
+Gestión de residuos Gestor autorizado.
+Fase de obra: residuos de construcción y demolición de nivel I y II.
+Principales residuos Fase de Funcionamiento: residuos asimilables a urbanos, residuos eléctricos, residuos
+producidos inertes y residuos peligrosos (aceites lubricantes, baterías, disolventes y restos de
+pintura).
+2. DESCRIPCIÓN DEL PROYECTO.
+El estudio de impacto ambiental incluye, junto a los apartados de antecedentes y
+objeto, metodología y normativa de aplicación y justificación del proyecto, un análisis
+de alternativas multicriterio, a partir de una serie de indicadores, teniendo en cuenta
+criterios técnicos, ambientales y económicos, en base al cruce y análisis, de los cuales
+se seleccionará la mejor alternativa.
+Dado que el objetivo del presente proyecto es la hibridación con un parque eólico
+existente (PE «Sierra Sesnández»), se parte de la base de que el proyecto consistirá
+necesariamente en una instalación de producción de energía solar fotovoltaica por lo
+que se hace una comparación de las posibles tecnologías de captación de energía
+fotovoltaica a emplear en el diseño de la planta: instalaciones fijas y seguidores solares.
+Tras su comparación se considera que el sistema que presenta un mejor comportamiento
+ambiental y económico es el de seguidores a un eje, y por lol tanto es el que se va a
+emplear en el diseño del proyecto.
+Posteriormente, el documento de estudio de impacto ambiental, tras descartar la
+«alternativa 0» o de no actuación, plantea diferentes alternativas de emplazamiento para
+la planta solar fotovoltaica, atendiendo a los criterios de: distancia hasta la subestación
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 214
+«Peña Nebina», nivel de insolación suficiente, características geomorfológicas aceptables,
+posibilidad de acuerdos con los propietarios de los terrenos y a la no coincidencia con
+zonas de sensibilidad máxima ni con zonas de exclusión para energía fotovoltaica.
+Las alternativas de emplazamiento son las siguientes:
+– «Alternativa 1»: consistiría en la ubicación de la instalación solar fotovoltaica en
+el término municipal de Ferreruela de Tábara (Zamora).
+– «Alternativa 2»: consistiría en la ubicación de la instalación solar fotovoltaica en
+el término municipal de Vegalatrave (Zamora).
+– «Alternativa 3»: consistiría en la ubicación de la instalación solar fotovoltaica
+en el término municipal de Ferreruela de Tábara (Zamora), al sur del término
+municipal.
+Tras el estudio de los criterios técnicos y ambientales, la alternativa más favorable
+para el desarrollo del proyecto es la «alternativa 1».
+En relación con el trazado de la línea de evacuación, todas las alternativas parten
+de la instalación solar fotovoltaica proyectada para conectar con la subestación existente
+«Peña Nebina». Las alternativas son las siguientes:
+– «Alternativa 1»: plantea una línea de evacuación completamente soterrada y
+siguiendo en la medida de lo posible el trazado de caminos existentes y carreteras,
+con una longitud total de 1.921 m.
+– «Alternativa 2»: plantea también la línea de evacuación íntegramente en
+subterráneo con una longitud total de 2.268 m. Sin embargo, el último tramo de
+esta línea discurre por zonas de monte con presencia de vegetación natural,
+lo que aumentará la necesidad de realizar desbroces y talas de ejemplares
+arbóreos.
+– «Alternativa 3»: plantea la línea de evacuación en aéreo con una longitud total de
+1.470 m.
+Una vez analizadas dichas alternativas de evacuación, se considera que la alternativa
+que tendría menor número de afecciones ambientales es la «alternativa 1», ya que al
+discurrir íntegramente en subterráneo no presentará afección sobre la fauna y el paisaje,
+y al discurrir por caminos existentes también implicará que durante la fase de construcción
+se afectará en menor medida a la vegetación existente en el entorno del proyecto.
+El estudio de impacto ambiental también incluye un apartado de definición,
+características y ubicación del proyecto, así como, un completo análisis e inventario del
+medio abiótico a gran escala (clima, atmósfera, cambio climático, geología, geomorfología,
+edafología, hidrología superficial y subterránea, etc.) y del medio biótico (flora y vegetación,
+fauna, corredores e infraestructuras verdes, paisaje, figuras de especial protección,
+patrimonio cultural, etc.).
+Además, se realiza una identificación y valoración de impactos que analiza los
+impactos durante las fases de construcción, explotación y cese, clasificándose en su
+mayoría como impactos ambientales compatibles.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 215
+El estudio recoge la vulnerabilidad del proyecto ante riesgos de accidentes graves o
+catástrofes, y una serie de medidas preventivas, correctoras y compensatorias que tratan
+de eliminar, minimizar o compensar, los efectos ambientales negativos de los impactos
+ambientales que genera el proyecto o su funcionamiento. Además, se desarrolla un plan
+de vigilancia ambiental, para garantizar el control, vigilancia y valoración en el tiempo, de
+los impactos ambientales estimados.
+Por último, se incluyen anexados al estudio de impacto ambiental la cartografía
+temática y del proyecto, así como el estudio previo de fauna, el informe de prospección
+botánica, los estudios de efectos sinérgicos y acumulativos, un estudio de impacto e
+integración paisajística, el informe de repercusiones sobre la Red Natura 2000, un estudio
+de impacto sobre el patrimonio cultural y acuerdo de la CTPC y un estudio de afección
+hidrológica.
+3. TRAMITACIÓN Y ANÁLISIS TÉCNICO DEL EXPEDIENTE.
+Información pública. El Servicio Territorial de Industria, Comercio y Economía
+de Zamora, de conformidad con la diferente normativa sectorial de aplicación y en
+cumplimiento de lo dispuesto en el artículo 36.1 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, acuerda someter a Información Pública la solicitud de autorización
+administrativa previa y autorización administrativa de construcción de la planta solar
+fotovoltaica en hibridación «Sierra Sesnández». El periodo de información pública se inició
+mediante anuncio oficial del Servicio Territorial de Industria, Comercio y Economía de
+Zamora, publicado en el Boletín Oficial de Castilla y León n.º 110, de 11 de junio de 2025.
+Durante el periodo de exposición pública se presentó una alegación al proyecto por
+parte de Asociación Ecología y Libertad, en la que por una parte ostenta la condición de
+persona interesada en el procedimiento para la toma de decisiones sobre asuntos que
+indican directa o indirectamente en el medio ambiente, y, por otra parte, alega la falta
+de documentación e información expuesta al trámite de información pública y la falta de
+calidad del estudio de impacto ambiental.
+Consulta a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 37 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, el órgano sustantivo consulta a las siguientes Administraciones
+públicas afectadas y personas interesadas:
+Emite
+Relación de consultados
+informe
+Confederación Hidrográfica del Duero SI
+Diputación Provincial de Zamora SI
+Sección de Protección Civil de la Delegación Territorial de Zamora SI
+Dirección General de Patrimonio Natural y Política Forestal SI
+Servicio Territorial de Cultura, Turismo y Deporte de Zamora SI
+Servicio Territorial de Medio Ambiente de Zamora SI
+Subdelegación del Gobierno en Zamora SI
+Administrador de Infraestructuras ferroviarias (ADIF) SI
+Red Eléctrica de España, S.A.U. SI
+Ecologistas en Acción NO
+Ayuntamiento de Ferreruela de Tábara NO
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 216
+Los informes emitidos, analizan técnicamente el proyecto desde las distintas
+perspectivas sectoriales, sugiriendo, en algunos casos, el establecimiento de medidas
+correctoras que se incorporan al condicionado de esta declaración de impacto ambiental:
+La Confederación Hidrográfica del Duero informa en materia de medio hídrico,
+estableciendo una serie de condicionantes que se incorporan al condicionado de la
+presente declaración de impacto ambiental.
+La Diputación provincial de Zamora indica en su informe que la línea de evacuación
+de la energía generada en la Planta Solar Fotovoltaica Hibridada «Sierra Sesnández»,
+generará dos afecciones, afectando a las zonas de dominio público, servidumbre y
+afección, de la carretera ZA-V-2419: cruzamiento en el P.K. 6+155 y paralelismo entre el
+P.K. 6+155 y el P.K. 7+010 por la margen derecha.
+La Sección de Protección Civil de la Delegación Territorial de la Junta de Castilla y
+León en Zamora emite informe en el que se indica que, de acuerdo con el Plan Especial
+de Protección Civil ante Riesgos de Inundaciones en la Comunidad de Castilla y León
+(INUNCYL), el índice de riesgo poblacional para el municipio de Ferreruela de Tábara
+es bajo.
+Respecto a la peligrosidad de deslizamiento de laderas, el municipio tiene zonas con
+una peligrosidad de deslizamiento de laderas alto y muy alto.
+De acuerdo con el Plan Especial de Protección Civil ante emergencias por incendios
+forestales en Castilla y León (INFOCAL), el emplazamiento del proyecto presente un
+índice de riesgo local alto, un índice de peligrosidad moderado y un índice de riesgo
+potencial moderado. Además, según la Orden MAM/851/2010, de 7 de junio, por la que
+se declaran zonas de alto riesgo de incendio en la Comunidad de Castilla y León, el
+término municipal de Ferreruela de Tábara se considera como una Zona de Alto Riesgo
+de Incendios Forestales (ZAR).
+Por otro lado, el riesgo derivado del transporte por carretera y ferrocarril de sustancias
+peligrosas, de acuerdo con el Plan Especial de Protección Civil ante emergencias por
+accidentes en el transporte de mercancías peligrosas por carretera y ferrocarril en la
+Comunidad de Castilla y León (MPCyL), no ha sido delimitado para el municipio de
+Ferreruela de Tábara.
+Por último, atendiendo al riesgo por proximidad a establecimientos que almacenan
+sustancias peligrosas, cabe destacar que el emplazamiento del proyecto no se encuentra
+afectado por la Zona de Alerta e Intervención de los establecimientos afectados por la
+Directiva Seveso. Además, se añaden una serie de condiciones que se recogen en el
+condicionado de la presente declaración de impacto ambiental.
+El Servicio Territorial de Cultura, Turismo y Deporte de Zamora emite informe
+indicando que no se han llevado a cabo las prescripciones de la Comisión Territorial de
+Patrimonio Cultural en relación con el informe de la prospección arqueológica llevada
+a cabo. Posteriormente, este Servicio Territorial de Cultura, Turismo y Deporte remite
+notificación del acuerdo de la Comisión Territorial de Patrimonio Cultural de Zamora de
+25 de febrero de 2026, aceptando la propuesta siempre que se lleven a cabo una serie
+de prescripciones, incluidas en esta declaración de impacto ambiental.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 217
+La Dirección General de Patrimonio Natural y Política Forestal constata la no
+coincidencia territorial ni de afecciones indirectas con espacios naturales protegidos,
+planes de especies protegidas, zonas húmedas de interés especial, árboles notables,
+montes de utilidad pública, montes protectores, zonas naturales de esparcimiento, vías
+pecuarias, propuestas de lugares geológicos o paleontológicos de interés especial,
+propuestas de microrreservas de flora y flora protegida. En consecuencia, no es previsible
+una afección a dichas figuras de protección o valores naturales.
+El proyecto planta solar fotovoltaica hibridada PSFH «Sierra Sesnández» no presenta
+coincidencia territorial con los espacios protegidos de la Red Natura 2000, por lo que no
+existe ningún tipo de afección sobre los mismos.
+En relación con los terrenos con la condición jurídica de montes no demaniales, una
+parte de las actuaciones del proyecto que se ubican fuera de montes de utilidad pública
+afectan a terrenos con la consideración jurídica de monte según la definición establecida
+en la Ley 43/2003, de 21 de noviembre, de Montes y en la Ley 3/2009, de 6 de abril, de
+Montes de Castilla y León. Parte del vallado y de los módulos fotovoltaicos, los viales de
+acceso y las zanjas de las líneas soterradas coinciden con terrenos de jarales mixtos o
+mezclados. Además, un tramo de 185 m de la zanja de la línea subterránea y parte del
+vallado de la planta solar fotovoltaica discurren por terrenos de herbazal/pastizal.
+Por otro lado, el proyecto presenta coincidencia territorial con la Reserva de la
+Biosfera «Meseta Ibérica». La totalidad de las actuaciones se proyectan sobre este
+espacio, coincidiendo con la «zona de transición», aunque dadas las características del
+proyecto, no se presenta afección a los valores que trata de amparar y es compatible con
+sus objetivos de gestión y conservación.
+En el ámbito de emplazamiento del proyecto, fuera de zonas de especial conservación
+(ZEC) de la Red Natura 2000, se identifica el hábitat de interés comunitario: HIC 6220*
+«Zonas subestépicas de gramíneas y anuales del Thero-Brachypodietea». Un tramo de
+la línea soterrada de evacuación presenta coincidencia con el HIC 6220*.
+En cuanto a fauna protegida, fuera de los límites administrativos de los espacios
+protegidos Red Natura 2000 se localizan diversas especies de fauna de interés. De
+entre ellas, destacan el milano real Milvus milvus, el águila real Aquila chrysaetos y el
+murciélago grande de herradura Rhinolophus ferrumequinum, todas ellas incluidas en
+los Anexos II y IV de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la
+Biodiversidad, así como en el listado de especies silvestres en régimen de protección
+especial (LESRPE) y en el catálogo español de especies amenazadas (CEEA).
+Otras especies habituales que hacen uso del entorno como área de campeo son
+el buitre leonado Gyps fulvus, el busardo ratonero Buteo buteo, el milano negro Milvus
+migrans y el águila calzada Hieraaetus pennatus. En menor densidad fueron observados
+el cernícalo vulgar Falco tinnunculus, águila culebrera Circaetus gallicus, aguilucho
+lagunero Circus eruginosus, alcotán europeo Falco subbuteo y azor común Accipiter
+genitilis.
+Además, en el entorno del proyecto se encuentran áreas de relevancia para la
+conservación de la alondra ricotí, las cuales deben ser preservadas, aunque con respecto
+a esta especie, no se ha localizado en la zona.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 218
+En lo que se refiere al paisaje, el Atlas de los paisajes de España (Ministerio de Medio
+Ambiente, 2003) ubica el proyecto en las unidades del paisaje 49.02 El Aliste «Penillanuras
+Salmantino-Zamoranas» y Piedemonte de los Montes de León, y perteneciente a la
+asociación del paisaje «Penillanuras y piedemontes».
+Por último, la viabilidad del proyecto queda condicionada al cumplimiento de una
+serie de medidas ambientales incluidas en esta declaración, así como las medidas
+preventivas y correctoras recogidas en el estudio de impacto ambiental en los aspectos
+que no resulten contradictorios con las recogidas en esta declaración.
+La Sección de Protección Ambiental del Servicio Territorial de Medio Ambiente
+de Zamora emite informe favorable condicionado a las medidas que se incorporan al
+condicionado de la presente declaración de impacto ambiental.
+La Subdelegación del Gobierno en Zamora informa favorablemente en lo relativo a
+infraestructuras energéticas de competencia de la Administración General del Estado.
+La Administración de Infraestructuras Ferroviarias (ADIF) informa que las obras
+planteadas en el proyecto no estarían afectadas por las zonas de afección del ferrocarril,
+por lo que no se precisa autorización por parte de esta. Además, advierte, que el proyecto
+deberá ajustarse a lo establecido en la Ley 38/2015 del Sector Ferroviario y su Reglamento
+de aplicación, en particular en lo que se refiere a su compatibilidad y delimitación con las
+Zonas de Dominio Público, Protección y Línea Límite de Edificación.
+Red Eléctrica de España S.A.U. no presenta oposición al desarrollo del proyecto
+de la planta solar fotovoltaica, al no existir afecciones a instalaciones propiedad de Red
+Eléctrica.
+Remisión al promotor del resultado de la información pública y de las consultas.
+Los informes y alegaciones recibidos durante los trámites de información pública y de
+consultas fueron remitidos al promotor, de conformidad con lo establecido en el artículo
+38 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, para su consideración
+en la redacción, en su caso, de una nueva versión del proyecto y estudio de impacto
+ambiental. El promotor da respuesta a los informes y alegaciones recibidos.
+Recepción y análisis técnico del expediente. El 03 de febrero de 2026, se recibe
+en el Servicio de Evaluación Ambiental de la Dirección General de Infraestructuras y
+Sostenibilidad Ambiental de la Consejería de Medio Ambiente, Vivienda y Ordenación
+del Territorio, procedente del Servicio Territorial de Industria, Comercio y Economía de
+Zamora, el expediente de evaluación de impacto ambiental, de conformidad con el artículo
+39.3 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, procediéndose al
+análisis técnico de este en virtud del artículo 40 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental.
+El expediente recibido contiene, entre otros documentos, el documento técnico del
+proyecto, el estudio de impacto ambiental, el resultado de los trámites de información
+pública y de las consultas a las administraciones públicas y personas interesadas en
+virtud del artículo 37.
+Todos los informes recibidos se han tenido en cuenta para la formulación de la
+presente declaración de impacto ambiental.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 219
+4. DECLARACIÓN DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del expediente, se informa favorablemente, a
+los solos efectos ambientales, el desarrollo del proyecto referenciado correspondiente
+a la denominada «Alternativa 1» de ubicación de la planta solar fotovoltaica, y a la
+denominada «Alternativa 1» para la línea de evacuación, siempre y cuando se cumplan
+las condiciones que se establecen en esta declaración de impacto ambiental, las medidas
+preventivas, correctoras y compensatorias del proyecto, del estudio de impacto ambiental
+y el plan de vigilancia ambiental, en cuanto sean compatibles con aquellas, sin perjuicio
+del cumplimiento de las normas urbanísticas vigentes o de cualquier otro tipo, que
+pudieran impedir o condicionar su realización.
+1. Actividad evaluada. La presente declaración de impacto ambiental se refiere a las
+actuaciones contempladas en el documento del proyecto de la planta solar fotovoltaica
+hibridada «Sierra Sesnández» y sus infraestructuras de evacuación, de abril de 2024
+y a su correspondiente estudio de impacto ambiental, de abril de 2025, y al resto de
+información y documentación complementaria incorporada a este. Estando el proyecto
+promovido por Naturgy Vento S.A.U.
+2. Afección a Red Natura 2000 y otros valores naturales. El informe emitido al respecto
+por la Dirección General de Patrimonio Natural y Política Forestal, tras estudiar la ubicación
+de las actuaciones previstas y comprobar que no existe coincidencia territorial con ningún
+especio protegido de la Red Natura 2000, concluye que las actuaciones proyectadas,
+ya sea individualmente o en combinación con otros proyectos no causarán perjuicio
+a la integridad de dichos espacios protegidos Red Natura 2000. Estas conclusiones
+constituyen el Informe de Evaluación de la Repercusiones sobre la Red Natura 2000
+(IRNA) tal y como se define en el artículo 5 Decreto 6/2011, de 10 de febrero.
+Se considera que las actuaciones del proyecto son compatibles con los objetivos
+de gestión y conservación de la reserva de la biosfera «Meseta ibérica», y no causarán
+afecciones significativas a terrenos con la condición jurídica de monte no demaniales, a
+hábitats de interés comunitario fuera de ZEC y a la fauna protegida, siempre y cuando
+se apliquen las condiciones incluidas en esta declaración de impacto ambiental. Sin
+embargo, este proyecto sí que tendrá una repercusión paisajística, cuya afección se verá
+reducida significativamente con el cumplimiento de dichas medidas.
+3. Medidas protectoras. Las medidas preventivas y correctoras, a efectos ambientales,
+a las que queda sujeta la ejecución del proyecto evaluado son las siguientes, además
+de las contempladas en el estudio de impacto ambiental y demás documentación
+complementaria que figura en el expediente, en lo que no contradigan a lo estipulado en
+esta declaración de impacto ambiental:
+I. FASE DE PROYECTO.
+a) Actuaciones pre-operacionales. Se incorporará al proyecto de ejecución
+un documento específico que recoja, desarrolle y presupueste las medidas
+protectoras que se establecen en el estudio de impacto ambiental y en la presente
+declaración de impacto ambiental.
+En el proyecto de obra se deberá incorporar la utilización de áridos reciclados
+procedentes de plantas de tratamiento de residuos de construcción y demolición,
+en las unidades de obra donde sea técnicamente posible y ambientalmente
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 220
+adecuado, en sustitución de áridos naturales. Los porcentajes mínimos de
+utilización de estos materiales serán de un 10 % en peso de la cantidad total de
+áridos cuya utilización está prevista en la obra.
+El promotor deberá elaborar un Plan de Autoprotección con el contenido mínimo
+que se establece en la normativa de aplicación, que deberá acompañar a los
+restantes documentos necesarios para el otorgamiento de la licencia, permiso o
+autorización necesarios para el comienzo de la actividad. Una vez elaborado y
+antes del inicio de la actividad, este deberá ser inscrito en el Registro de Planes
+de Autoprotección de Castilla y León.
+II. FASE DE CONSTRUCCIÓN.
+b) Replanteos, señalización y delimitación de las obras. Con el fin de garantizar que las
+zonas afectadas por la ejecución del proyecto sean las mínimas imprescindibles,
+se deberán replantear y señalizar, antes del comienzo de las obras, las áreas de
+trabajo y los lugares donde se ubicaran las instalaciones temporales de obra,
+evitando en todo momento sobrepasar los límites de ocupación autorizados,
+prestando especial atención a evitar daños en el resto de las infraestructuras y
+zonas sensibles.
+Las obras de construcción de las zanjas deberán quedar perfectamente
+delimitadas, evitando la afección fuera de estos límites.
+c) Gestión de residuos. En la ejecución de las obras, se deberán separar los
+residuos de construcción y demolición generados según se establece en el
+artículo 30 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+para una economía circular, así como en la normativa que regula la producción
+y gestión de los residuos de construcción y demolición. El resto de los residuos
+que se originen, se gestionarán según su tipología y conforme a lo regulado en la
+mencionada ley.
+Las zonas de almacenamiento temporal de residuos no peligrosos deberán estar
+delimitadas y señalizadas, y deberán tener soleras de hormigón impermeables,
+además de, estar bajo cubierta y disponer de sistemas de recogida y contención
+de derrames accidentales.
+La entrega de los residuos domésticos, similares a los generados en los hogares
+en los servicios e industrias, se realizará en los términos que establezcan las
+ordenanzas locales, y serán separados del resto de residuos, de forma que se
+facilite su recogida selectiva.
+El promotor será el responsable de mantener limpias las obras y sus alrededores
+de materiales sobrantes y de la retirada de las instalaciones provisionales que no
+sean necesarias.
+d) Protección de los suelos. La capa superior del suelo vegetal se deberá
+retirar y acopiar en montones de pequeña altura, con el fin de mantener su
+estructura orgánica y humedad, para su posterior uso en el tapado de la zanja
+y su revegetación. En aquellos caminos principales que, por su uso previsto sí
+requieran de actuaciones de consolidación, estas se realizarán con zahorras de
+la misma tonalidad que el entorno.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 221
+Si durante el movimiento de tierras apareciese cualquier tipo de residuo en el
+suelo, ya sean domésticos o de construcción y demolición, deberá procederse a
+su retirada inmediata y a su entrega a gestor autorizado.
+Se deberá presentar ante el Servicio Territorial de Medio Ambiente de Zamora,
+un informe preliminar de situación del suelo en el que se desarrolla la actividad,
+en un plazo no superior a dos años, de acuerdo con la normativa vigente en
+materia de actividades potencialmente contaminantes del suelo.
+e) Protección de las aguas. Con carácter general, no podrán interceptarse ni
+modificarse cauces públicos en cualquiera de sus dimensiones espaciales. Todas
+las actuaciones respetarán el dominio público hidráulico y las servidumbres
+legales y, en particular, la servidumbre de uso público y de policía, con las
+condiciones establecidas en la normativa de aguas.
+Las obras necesarias para el cruce subterráneo de cauces deberán realizarse
+con la metodología constructiva adecuada para evitar el desvío de cauces y
+su modificación en cualquiera de sus dimensiones espaciales. Únicamente se
+permitirán aquellos cruces que sean perpendicular al cauce, en ningún caso, se
+autorizará el cruce subterráneo del dominio público hidráulico con conducciones
+que discurran siguiendo el eje del cauce.
+En el caso de modificación de obras de drenaje transversal para paso de caminos
+o viales sobre cauces públicos, se necesitará un examen específico que permita
+determinar que el paso ofrece una capacidad de desagüe, al menos, igual a la
+capacidad de desagüe del cauce afectado.
+Durante los movimientos de tierras se instalarán dispositivos que eviten el arrastre
+de sólidos previos a la evacuación de las aguas de escorrentía superficial, así
+como otras posibles medidas para reducir al mínimo el riesgo de contaminación
+de las aguas superficiales, sus riberas y las poblaciones vivas que albergan.
+En caso de que fuera necesaria la captación de aguas superficiales y/o
+subterráneas, será preciso obtener, de forma previa, la correspondiente
+autorización o concesión por parte del Organismo de cuenca, según proceda,
+teniendo en cuenta la normativa en vigor.
+Para las aguas residuales generadas en las instalaciones eventuales como aseos,
+duchas, etc., se instalará un depósito estanco, sin salida al exterior, que almacene
+las aguas residuales, para ser retiradas de forma periódica para su tratamiento
+mediante gestor autorizado. No obstante, en el caso de que, finalmente, se
+produjera vertido sobre algún elemento del dominio público hidráulico, se deberá
+disponer de forma previa de la correspondiente autorización de vertido por parte
+del Organismo de cuenca.
+Se establecerán medidas de protección contra la erosión y contra las posibles
+afecciones por escorrentía. En los movimientos de tierras se deberán establecer
+las medidas necesarias para la retención de sólidos previas a la evacuación
+de las aguas de escorrentía superficial, así como otras posibles medidas para
+reducir al mínimo el riesgo de contaminación de las aguas superficiales.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 222
+Las zonas donde se lleven a cabo las labores auxiliares del proyecto, como
+parque de maquinaria y equipos auxiliares, acopio de materiales, etc., se
+situarán alejadas de cualquier zona ambiental mente sensible: charcas, cauces,
+terrenos de monte, hábitats de interés comunitario, etc. Se deberán delimitar
+los espacios estrictamente necesarios para dichos usos. Además, se evitará
+establecer estas zonas de acopios de materiales potencialmente contaminantes,
+zonas de estacionamiento o mantenimiento de vehículos o maquinaria, en zonas
+de sustrato permeable sobre masas de agua subterránea, o en la proximidad de
+masas de agua superficial y su zona de policía.
+Se deberán tomar las medidas oportunas para asegurar que, en ningún caso,
+se produzcan vertidos de aceites, combustibles, lubricantes, u otras sustancias
+similares al terreno o a los cursos de agua. En todo caso, es deseable la elaboración
+de protocolos de actuación específicos en prevención de la ocurrencia de vertidos
+accidentales de este tipo de sustancias para actuar de manera rápida y evitar la
+contaminación de las aguas superficiales y/o subterráneas.
+Las zonas donde se ubiquen las instalaciones auxiliares y parques de maquinaria
+deberán ser impermeabilizadas para evitar la contaminación del suelo y de
+las aguas subterráneas. Las aguas procedentes de estas zonas deberán ser
+recogidas y gestionados adecuadamente para evitar la contaminación del
+dominio público hidráulico.
+No se realizará reparación de maquinaria fuera de zonas habilitadas para ese
+fin. En el caso de derrame accidental de combustibles, lubricantes o cualquier
+sustancia peligrosa fuera de las zonas habilitadas, se extraerá de manera
+inmediata la tierra de la zona afectada para su correcto almacenamiento y gestión
+a través de gestor autorizado.
+Deberá quedar garantizada la conservación de los cursos de agua del entorno,
+sus riberas y las poblaciones que albergan, así como también de las charcas y
+lagunas que pudieran existir, tanto permanentes como temporales.
+La ejecución de las obras de construcción de la planta solar fotovoltaica,
+instalaciones auxiliares y sus infraestructuras de evacuación, construcción de
+viales de acceso, zonas de acopio de materiales, etc. no supondrán en ningún
+caso cambios en la topografía del terreno que pudieran modificar la delimitación
+cartográfica de las microcuencas afectadas. En todos los casos, una vez
+terminadas las obras, se procederá a la limpieza de la zona y a la retirada de
+los residuos y restos generados durante el trascurso de las actuaciones, se
+restablecerán las condiciones originales del cauce y de su entorno, y quedará
+expedita la zona de actuación.
+f) Contaminación atmosférica. Con objeto de evitar la generación de polvo, durante
+la fase de construcción y montaje se efectuarán riegos periódicos en las pistas
+de acceso y en la zona de ejecución de las obras, con la frecuencia que las
+condiciones climatológicas y las circunstancias del trabajo aconsejen, además
+de cualquier otra medida adecuada a tal fin, con objeto de cumplir la normativa
+vigente de protección del medio ambiente atmosférico.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 223
+Asimismo, todos los camiones de obra que transporten materiales pulverulentos,
+estériles o préstamos para obra, deberán llevar la caja cubierta, de tal manera
+que se evite, en la medida de lo posible, la emisión de partículas a la atmósfera.
+g) Contaminación acústica. Los trabajos de obra deberán ejecutarse siempre
+en horas en las que se asegure que los ruidos y vibraciones emitidos no
+supongan molestias para la fauna y la población residente en las proximidades.
+Se establecerá una limitación de los horarios de actividad, adaptado a franjas
+horarias de luz natural en periodo invernal y estival. En todo caso se atenderá a
+lo dispuesto en la normativa vigente en materia de ruido en Castilla y León.
+Se exigirá que toda la maquinaria de obra cuente con las fichas técnicas de
+potencia acústica y cumpla la normativa que regula las emisiones de maquinaria
+de uso al aire libre. Se limitará el número de máquinas ruidosas trabajando
+simultáneamente.
+h) Contaminación lumínica. Se evitarán los trabajos nocturnos durante la fase de
+construcción.
+i) Protección de infraestructuras y vías de acceso. Se respetarán las normas
+generales de obligado cumplimiento en zonas afectadas por la existencia de
+líneas de distribución eléctrica, etc., así como en sus zonas de servidumbre.
+Se respetarán de igual forma las servidumbres de paso existentes en todos los
+caminos, las propiedades de terceros, infraestructuras existentes y el uso de
+estas (cierres, hitos y/o mojones, pasos de ganado, etc.) dejándolos en el estado
+que presentaban antes de las actuaciones.
+El trazado de la línea soterrada discurrirá lo máximo posible aprovechando
+márgenes de caminos y otros viales o infraestructuras ya existentes, ajustándose
+al máximo a los márgenes de caminos ya existentes y lindes de parcelas agrícolas,
+con el fin de evitar afecciones innecesarias tanto a terrenos de monte como
+a cultivos.
+Antes del inicio de las obras, y debido al cruzamiento en el P.K. 6+155 y paralelismo
+entre el P.K. 6+155 y el P.K. 7+010 por la margen derecha de la carretera
+ZA-V-2419, el promotor deberá obtener de la Diputación Provincial de Zamora la
+autorización correspondiente.
+Deberá utilizarse como acceso a la planta la red de carreteras, pistas y caminos
+ya existente. También se definirán de forma precisa las zonas de tránsito por
+esta, tanto durante la construcción como posteriormente, durante las labores de
+mantenimiento de las instalaciones.
+El mantenimiento en perfecto estado de la infraestructura viaria de accesos
+correrá a cargo de la empresa promotora.
+j) Protección de los hábitats naturales y la vegetación. Deberá respetarse la
+vegetación propia de ribera existente en la zona de actuación. Si con el desarrollo
+de los trabajos se planteará la eliminación de vegetación de ribera, ésta deberá
+ser repuesta y mantenida al finalizar las actuaciones, para lo que se plantarán
+nuevos pies arbóreos de especies autóctonas de ribera.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 224
+El control de la vegetación bajo los paneles se realizará con medios manuales
+frente a los mecánicos y quedará prohibido el empleo de herbicidas u otros
+productos químicos para su control. Tampoco se utilizará ningún tipo de detergente
+o compuesto químico para la limpieza de paneles.
+La ejecución del proyecto no supondrá la eliminación o corta del arbolado
+existente, se mantendrán, en todo lo posible, los árboles y pequeñas manchas de
+vegetación dispersas en el interior del vallado de la planta solar fotovoltaica. No
+obstante, en el caso de que resulte necesaria la eliminación o corta del arbolado,
+el promotor deberá justificar la ausencia de otras alternativas y solicitar la corta al
+Servicio Territorial de Medio Ambiente de Zamora, conforme a lo recogido en la
+Ley 3/2009, de 6 de abril, de montes de Castilla y León, exigiéndose la obtención
+previa de la correspondiente autorización, que incluirá las condiciones para su
+ejecución y el tratamiento de los restos generados.
+En ningún caso se utilizarán los terrenos de monte como depósito de residuos o
+para la ubicación de los contenedores de residuos.
+Se atenderá a todas las medidas preventivas y prohibiciones incluidas en la Orden
+anual de la Consejería de Medio Ambiente, Vivienda y Ordenación del Territorio,
+en la que se establecen las normas sobre el uso del fuego y se fijan medidas
+preventivas para la lucha contra los incendios forestales en la Comunidad de
+Castilla y León.
+k) Protección de la fauna. De forma previa al inicio de los trabajos, se realizarán
+recorridos sistemáticos por toda la zona de actuación que permitan detectar
+refugios de fauna, madrigueras, nidos o posaderos, entre otros. Los resultados
+de la prospección se trasladarán al Servicio Territorial de Medio Ambiente de
+Zamora, que establecerá las medidas preventivas necesarias para garantizar la
+salvaguarda de la fauna.
+Los vallados perimetrales a las instalaciones, a excepción de los de los centros
+de transformación, deberán ser permeables a la fauna. Para garantizar esto, se
+deberá emplear un vallado de tipo cinegético o ganadero, con luz de malla amplia,
+sin zócalo ni sujeción inferior al terreno. Además, será conveniente ejecutar
+pasos de fauna en su parte inferior, de dimensiones 30 x 30 cm y/o 45 x 30 cm
+en algunos puntos del vallado, con el fin de alcanzar la máxima permeabilidad
+posible para la fauna, distribuyéndose preferiblemente a razón de una cada 150
+m de vallado. La altura del cerramiento no será superior a los 2 m y carecerá de
+elementos punzantes o cortantes como el alambre de espino.
+En el caso de existir vallados en las parcelas colindantes no incluidas en el
+proyecto, se deberá evitar la coincidencia de dobles vallados.
+l) Maquinaria. La maquinaria utilizada en las distintas fases del proyecto estará
+sometida a un correcto mantenimiento preventivo, conforme a las instrucciones del
+fabricante y normativa vigente, con el fin de minimizar la emisión de contaminantes,
+evitar la excesiva producción de ruidos y el vertido de contaminantes por roturas
+o averías.
+m) Integración ambiental, visual y paisajística. Con objeto de minimizar el impacto
+visual, se reducirán al mínimo indispensable los movimientos de tierras.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 225
+Los taludes, en caso de ser necesarios, serán minimizados con un adecuado
+perfilado, y recubiertos por una capa de tierra vegetal, previamente retirada del
+área que ocupa la superficie de la planta fotovoltaica.
+Las zanjas de cableado y los viales internos, no se pavimentarán ni se cubrirán
+con grava o zahorra. Sólo para aquellos caminos principales que sí deban estar
+pavimentados, se emplearán zahorras, gravas o materiales de la misma tonalidad
+que el entorno y, con preferencia, procedentes de canteras locales o próximas.
+Los seguidores se instalarán mediante hincado en el terreno. Los modelos de
+hincas ofrecerán una altura suficiente que permita un sustrato vegetal que propicie
+un nivel de biodiversidad aceptable para evitar islas inertes en la superficie de
+ocupación de la planta solar fotovoltaica.
+Se deberá realizar una plantación perimetral alrededor del vallado de las
+instalaciones a modo de pantalla vegetal. Esta, se realizará por la parte exterior
+del vallado, por bosquetes, con pequeñas alineaciones a tresbolillo que sirvan de
+pantalla visual, pero a su vez evite una continuidad vertical y horizontal de masa
+forestal. Deberán emplearse especies arbóreas y arbustivas propias del entorno,
+acorde a los cuadernos de zona empleados en las ayudas a forestación. El
+promotor deberá retranquear el cerramiento con respecto a la linde de la parcela
+colindante, lo suficiente y conforme a las ordenanzas municipales, de manera
+que la plantación no ocasione perjuicio a las tierras colindantes.
+Asimismo, se destinarán una o varias áreas dentro del recinto de la planta
+fotovoltaica para la instalación de zonas refugio de fauna con la plantación de
+pequeños bosquetes de vegetación arbórea o arbustiva, según lo especificado
+con anterioridad. Se considerará como suficiente un 1% de la superficie total
+ocupada por los paneles fotovoltaicos, ubicando estas zonas junto al cerramiento
+u otras zonas como puede ser aquellas utilizadas para los acopios durante la
+ejecución de la obra.
+El promotor deberá mantener la plantación durante la vida útil de la planta
+fotovoltaica, realizando los cuidados y tratamientos silvícolas que sean
+necesarios, limitando su altura, así como su continuidad vertical y horizontal para
+garantizar la compatibilidad con los paneles solares y con el mantenimiento de
+la masa forestal de acuerdo con las medidas preventivas ante la propagación de
+incendios forestales.
+Se debe realizar una integración paisajística de las instalaciones en el entorno,
+mediante acabados exteriores de la construcción con un tratamiento de color,
+textura y acabados acordes al entorno, teniendo especialmente en cuenta la
+cubierta y paredes exteriores de las edificaciones.
+El material forestal de reproducción a emplear en la restauración vegetal (frutos,
+semillas, plantas y partes de plantas) habrá de cumplir lo establecido en el Decreto
+54/2007, de 24 de mayo, por el que se regula la comercialización de los materiales
+forestales de reproducción en la Comunidad de Castilla y León, y su procedencia
+estar conforme con el Catálogo de Material Forestal de Reproducción vigente
+que los delimita y determina. En ningún caso podrán utilizarse especies incluidas
+en el Catálogo Español de Especies Exóticas Invasoras.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 226
+n) Restauración final de las obras y de zonas alteradas. Al finalizar los trabajos
+de construcción, se realizará una limpieza de toda la zona de actuación y
+se restaurarán todas aquellas superficies que no sean ocupadas de forma
+permanente, mediante su preparación y acondicionamiento, realizándose, si
+fuera necesaria, la remodelación topográfica y el suavizado de todos los taludes.
+También se realizará una restauración de zonas con especies vegetales, según
+lo descrito en el apartado anterior. En caso de accidente, antes de la restauración
+final de los terrenos, deberá efectuarse la descontaminación del suelo.
+III. FASE DE FUNCIONAMIENTO.
+o) Gestión de residuos. Los residuos producidos durante el funcionamiento de la
+planta fotovoltaica serán gestionados a través de gestores autorizados en función
+de su calificación y atenderán a lo dispuesto en la normativa sobre residuos y
+suelos contaminados, así como en las demás normas de desarrollo.
+Si se generaran residuos peligrosos por el mantenimiento de la planta solar
+fotovoltaica y maquinaria auxiliar, se dispondrá de un punto de almacenamiento
+adecuado para este tipo de residuos.
+p) Contaminación acústica. Durante el funcionamiento de la instalación se atenderá
+a lo dispuesto en la normativa vigente en materia de ruido en Castilla y León,
+cumpliéndose los niveles establecidos de transmisión de ruido.
+Los sistemas de alarma y vigilancia de la planta carecerán de sistema sónico de
+aviso al exterior y estarán conectados a una central de alarmas.
+q) Contaminación lumínica. El alumbrado exterior de la instalación deberá cumplir
+con la normativa correspondiente.
+Se evitará la iluminación nocturna de la planta fotovoltaica, con las únicas
+excepciones de sistemas requeridos por la normativa y de dispositivos de
+iluminación imprescindibles en las edificaciones auxiliares, o para hacer frente
+a situaciones de riesgo. En tal caso, se utilizarán luminarias que no emitan luz
+blanca rica en longitudes de onda corta (azules y ultravioleta), la iluminación
+se proyectará hacia el suelo por debajo del plano horizontal, y se limitará a lo
+estrictamente necesario.
+r) Mantenimiento de infraestructuras y equipos. La limpieza de los paneles
+fotovoltaicos en ningún caso será realizada con productos químicos que
+puedan resultar nocivos para la flora o la fauna silvestre, o permanecer en la
+cadena trófica.
+En las labores de mantenimiento y control de la vegetación espontánea que
+pueda surgir dentro de la planta fotovoltaica (bajo los seguidores y en los pasillos
+de separación), no se emplearán métodos químicos ni quemas de residuos o de
+control de la vegetación, excepto en el caso de plaga declarada oficialmente,
+conforme a la Ley 43/2002, de 20 de noviembre, de sanidad vegetal, en cuyo
+caso se habilitarán oficialmente los productos y métodos a emplear.
+Se prohíbe la utilización de plaguicidas, insecticidas, rodenticidas y otros
+productos químicos que, por sus características provoquen perturbaciones en
+los sistemas vitales de la fauna silvestre que potencialmente utilice este entorno
+como zona de alimentación.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 227
+El control mecánico de la vegetación se realizará evitando los periodos críticos
+de reproducción de la mayoría de las especies (de marzo a junio). Se buscará
+que el control de la vegetación natural en el interior se realice mediante fomento
+de la población de lagomorfos silvestres o por pastoreo con ganado ovino en
+régimen extensivo.
+s) Riesgos de accidentes graves o catástrofes. Ninguna de las actuaciones que se
+planifiquen, ni los diferentes usos que se asignen al suelo, deben incrementar el
+riesgo hacia las personas, sus bienes y el medio ambiente.
+Si alguna de las actuaciones derivadas de la aprobación pudiera potencialmente
+aumentar el riesgo sobre las personas, sus bienes o el medio ambiente, deberá
+hacerse un análisis previo, indicando el grado de afección, así como las medidas
+necesarias para evitar incrementar dichos riesgos.
+IV. FASE DE CESE DE LA ACTIVIDAD.
+t) Cese de la actividad y desmantelamiento. Si por cualquier causa cesara la
+actividad, de forma temporal o definitiva, el promotor establecerá un plan de
+actuación que será presentado ante el Servicio Territorial de Medio Ambiente de
+Zamora, para su aprobación.
+En las fases de paralización de la operación de la planta, será responsabilidad
+del promotor el adecuado mantenimiento y conservación de las infraestructuras
+y equipos, así como su reparación, sustitución o desmantelamiento, en caso de
+que su deterioro ponga en peligro las condiciones mínimas de seguridad o exista
+riesgo de afección al medio.
+Al final de la vida útil de la planta, cuando el sistema de producción de energía
+deje de ser operativo o se paralice definitivamente su funcionamiento, deberá
+garantizarse el desmantelamiento de toda la instalación y edificaciones,
+retirarse todos los equipos, residuos y materiales sobrantes y procederse a la
+restauración e integración paisajística de toda el área afectada. Para garantizar
+el desmantelamiento total, se presentará un proyecto de desmantelamiento
+y restauración de la zona afectada una vez finalizada la vida útil de la planta,
+debiéndose incorporar un presupuesto valorado.
+Durante las labores de desmantelamiento, la gestión de los residuos de
+construcción y demolición generados debe realizarse conforme lo establecido
+tanto en la normativa de residuos y suelos contaminados como en la que regula
+la producción y gestión de residuos de construcción y demolición.
+4. Medidas compensatorias. El promotor deberá definir y ejecutar un plan de medidas
+compensatorias encaminadas a la mejora del medio natural en sus diferentes aspectos,
+en coordinación con la dirección general competente en materia de protección del medio
+natural. Este plan de medidas deberá estar aprobado por la citada dirección general antes
+de la puesta en funcionamiento de las instalaciones objeto de esta declaración de impacto
+ambiental. En particular, dicho programa deberá contemplar una línea de actuaciones
+para la mejora del hábitat de avifauna esteparia, compensación de superficies naturales
+ocupadas y afección al paisaje.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 228
+5. Programa de Vigilancia Ambiental. Con antelación al inicio de la actividad,
+el promotor presentará ante el Servicio Territorial de Medio Ambiente de Zamora el
+programa de vigilancia ambiental contenido en el estudio de impacto ambiental, que
+se complementará de forma que contemple las medidas protectoras incluidas en
+esta declaración de impacto ambiental y se facilite el seguimiento de las actuaciones
+proyectadas durante la fase de construcción, así como en las fases de funcionamiento
+y abandono de la instalación. Para ello, se deberán cumplir los contenidos y exigencias
+para el programa de vigilancia ambiental establecidos en la Instrucción 4/FYM/2020, de
+15 de junio, de la Dirección General de Patrimonio Natural y Política Forestal, sobre los
+contenidos mínimos exigibles a los estudios de impacto ambiental de instalaciones de
+energía renovable para su compatibilidad con los hábitats naturales, la flora y la fauna.
+6. Comunicación de inicio de actividad. En cumplimiento de lo establecido en el artículo
+43.1 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el promotor deberá
+comunicar al órgano ambiental la fecha de comienzo de ejecución del proyecto. Además,
+de acuerdo con el artículo 60 del texto refundido de la Ley de Prevención Ambiental
+de Castilla y León, aprobado por Decreto Legislativo 1/2015, de 12 de noviembre, el
+promotor deberá comunicar asimismo al órgano ambiental, las fechas de final de las
+obras e inicio de funcionamiento de la planta.
+7. Informes periódicos. A partir del inicio de las actuaciones, el promotor presentará
+anualmente, ante el órgano sustantivo, un informe sobre el desarrollo del programa de
+vigilancia ambiental y sobre el grado de cumplimiento y eficacia de todas y cada una
+de las medidas protectoras de esta declaración de impacto ambiental y del estudio de
+impacto ambiental. Este informe incluirá todos los datos y estudios exigidos por esta
+declaración de impacto ambiental.
+8. Seguimiento y vigilancia. El seguimiento y vigilancia del cumplimiento de lo
+establecido en esta declaración de impacto ambiental corresponde a los órganos
+competentes por razón de la materia, facultados para el otorgamiento de la autorización
+del proyecto, sin perjuicio de que el órgano ambiental pueda recabar información de
+aquellos al respecto, así como efectuar las comprobaciones necesarias en orden a
+verificar el cumplimiento del condicionado ambiental de esta declaración de impacto
+ambiental.
+9. Protección del patrimonio cultural y arqueológico. De conformidad al acuerdo de
+la Comisión Territorial de Patrimonio Cultural de Zamora de fecha 25 de febrero de 2026,
+se deben seguir las siguientes prescripciones:
+a) La creación del nuevo cierre será de 200 metros que pueden dividirse en dos
+zonas.
+b) La construcción será de las mismas características que las paredes aledañas, no
+de piedra concertada ni gaviones.
+c) No se utilizarán los materiales de la «pared 1» y «pared 2».
+d) Se deberá presentar compromiso escrito de aceptación de prescripciones.
+Estas prescripciones quedan supeditadas a la resolución de la Dirección General de
+Patrimonio Cultural de la Consejería de Cultura, Turismo y Deporte respecto al recurso
+de alzada interpuesto por el promotor contra el acuerdo de la Comisión Territorial de
+Patrimonio Cultural de Zamora, adoptado con fecha 25 de febrero de 2026.
+CV: BOCYL-D-10062026-110-23
+
+Boletín Oficial de Castilla y León
+Núm. 110 Miércoles, 10 de junio de 2026 Pág. 229
+En todo caso, si en el transcurso de las obras aparecieran en el subsuelo restos
+históricos, arqueológicos o paleontológicos, se paralizarán las obras en la zona afectada,
+procediendo el promotor a ponerlo en conocimiento con la Delegación Territorial de la
+Junta de Castilla y León en Zamora, que dictará las normas de actuación que procedan.
+En cualquier caso, se atenderá a lo dispuesto en la Ley 7/2024, de 20 de junio de
+Patrimonio Cultural de Castilla y León, y demás normativa aplicable, en lo que se refiere
+a hallazgos casuales que pudieran producirse.
+10. Coordinación técnica. Para la resolución de las dificultades que pudieran surgir
+de la aplicación o interpretación de las medidas establecidas en esta declaración de
+impacto ambiental, así como para la valoración y corrección de impactos ambientales
+imprevistos, deberá contarse con la colaboración técnica del Servicio Territorial de Medio
+Ambiente de Zamora.
+11. Modificaciones. Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a esta declaración
+de impacto ambiental, deberá ser notificada previamente a la Delegación Territorial de
+la Junta de Castilla y León en Zamora, que prestará su conformidad, si procede, sin
+perjuicio de la tramitación de las licencias o permisos que, en su caso, correspondan. Se
+consideran exentas de esta notificación, a efectos ambientales, las modificaciones que
+se deriven de la aplicación de las medidas protectoras de esta declaración de impacto
+ambiental.
+Con independencia de lo establecido en el párrafo anterior, las condiciones recogidas
+en esta declaración de impacto ambiental podrán modificarse cuando concurra alguna de
+las circunstancias recogidas en el artículo 44 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental.
+12. Vigencia de la declaración impacto ambiental. Esta declaración de impacto
+ambiental perderá su vigencia y cesará en la producción de los efectos que le son propios
+si, una vez publicada en el Boletín Oficial de Castilla y León, no se hubiera comenzado la
+ejecución del proyecto o actividad en el plazo de cuatro años, a cuyo efecto el promotor
+deberá comunicar al órgano ambiental, con antelación suficiente, la fecha de comienzo de
+la ejecución del proyecto. A solicitud del promotor, el órgano ambiental podrá prorrogar su
+vigencia conforme a lo establecido en el artículo 43 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental.
+13. Publicidad de la autorización del proyecto. Conforme a lo establecido en el
+artículo 42 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano
+sustantivo que autorice o apruebe la actuación a que se refiere esta declaración de
+impacto ambiental deberá remitir al Boletín Oficial de Castilla y León, en el plazo de 15
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión. Asimismo, publicará en su sede electrónica la decisión
+sobre la autorización o denegación del proyecto, y una referencia del boletín oficial en el
+que se publicó la declaración de impacto ambiental.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-10062026-110-23
