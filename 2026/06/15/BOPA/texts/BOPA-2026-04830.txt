@@ -1,0 +1,204 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 113 de 15-vi-2026 1/4
+https://miprincipado.asturias.es/bopa
+03840-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de CienCia, industria y empleo
+ResoluCión de 5 de junio de 2026, de la Consejería de Ciencia, industria y empleo, por la que se autoriza insta-
+lación eléctrica de alta tensión. expte. AuTo/2024/18594 (AT-14057).
+antecedentes de hecho
+Primero.—por resolución de fecha 13/02/2025 de la entonces Consejería de transición ecológica, industria y desa-
+rrollo económico, se otorgó autorización administrativa previa y autorización administrativa de construcción de las insta-
+laciones objeto de este expediente a ready to Build renewables, s. l. u. (en adelante rtB), para su posterior cesión a
+la compañía distribuidora, debiéndose formalizar dicha cesión a Hidrocantábrico distribución eléctrica s. a. (en adelante
+HC) previamente a su puesta en servicio, de modo que será esta última la que solicite la autorización de explotación, al
+tratarse de infraestructuras de nueva extensión de red de distribución.
+segundo.—Con fecha de entrada en esta Consejería el 28/11/2025, ready to Build renewables, s. l. u., presenta
+solicitud, en concreto, de la declaración de utilidad pública de dichas instalaciones, de acuerdo con lo estipulado en el
+artículo 143 y siguientes del real decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de trans-
+porte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica.
+Tercero.—el proyecto técnico incluyendo el anejo de afecciones se sometió a información pública, mediante anuncio
+publicado en el Bopa en fecha 13/03/2026 (Boletín n.º 50) y su exposición en el tablón del principado de asturias du-
+rante el plazo de 30 días, anuncio en el Boe de fecha 06/03/2026 y anuncio en prensa en fecha 06/03/2026.
+Cuarto.—en fecha 27/03/2026, la Comunidad de propietarios parque Comercial parque astur interpuso recurso po-
+testativo de reposición contra la resolución de fecha 13/02/2025 por la que se otorgó autorización administrativa previa
+y autorización administrativa de construcción de las instalaciones objeto de este expediente, indicando que se había
+publicado en el Bopa de fecha 26 de febrero y con arreglo a los siguientes motivos:
+— la línea atraviesa terrenos propiedad de la Comunidad de propietarios
+— ajenidad de las instalaciones de almacenamiento al sector eléctrico
+— inexistencia de utilidad pública para acogerse a la expropiación forzosa
+— régimen general de las instalaciones de uso de electricidad a que están sujetas las de su almacenamiento
+mediante resolución de fecha 6 de abril de 2026, de la Consejería de Ciencia, industria y empleo, se inadmitió a
+trámite dicho recurso potestativo de reposición por su carácter de extemporáneo, al haber sido interpuesto después
+de finalizado el plazo establecido en la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las
+administraciones públicas.
+Quinto.—en fecha 14/04/2026, la Comunidad de propietarios parque Comercial parque astur presentó escrito en el
+que indica que la autorización de instalaciones para las que se sigue el expediente no tienen por objeto la conexión a la
+red general eléctrica de instalaciones de almacenamiento Bess pixin, cuya actividad no está incluida entre las reguladas
+por la ley del sector eléctrico. no procede aplicar a esta conexión las normas de esta ley para transporte o distribución,
+ni el almacenamiento está reconocido como actividad de utilidad pública en aquella ley, utilidad que ha sido negada
+expresamente por el Congreso de los Diputados al no ratificar el Real Decreto Ley 7/2025 de 24 de junio. Por lo anterior
+solicita que se declare no haber lugar en concreto a la declaración de utilidad publica que se insta en el expediente por
+ready to Build renewables, s. l., y declare improcedente y no ajustada a derecho la tramitación de este expediente al
+amparo de las normas de la ley del sector eléctrico.
+trasladado el escrito a ready to Build renewables, s. l., éste manifestó lo siguiente:
+las instalaciones que se desarrollan y tramitan en este expediente han sido incluidas por HC en el pliego de Condi-
+ciones del permiso de acceso y conexión del expediente j.000075163, con punto de conexión a la red de distribución
+eléctrica otorgado en un tramo subterráneo de la lsat 22 kv la trapa de se trasona, mediante la construcción de un
+nuevo Centro de seccionamiento ubicado en la parcela de la instalación Bess piXín y una nueva arqueta junto al punto
+de Conexión propuesto en terrenos del aparcamiento del Centro Comercial parque astur, todo ello como infraestructuras
+de nueva extensión de red, que han de ser cedidas a la compañía distribuidora.
+dichas infraestructuras de nueva extensión de red, y conforme al pliego de condiciones de HC, podían ser desarrolla-
+das, tramitadas y construidas por la propia compañía distribuidora en base al presupuesto presentado por esta, o en su
+defecto, podían ser desarrolladas, tramitadas y construidas por la mercantil rtB, bajos los condicionados y característi-
+cas técnicas constructivas impuestos por HC, para ser cedidas a esta compañía distribuidora previamente a su puesta en
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 113 de 15-vi-2026 2/4
+https://miprincipado.asturias.es/bopa
+03840-6202
+.dóC
+servicio. rtB optó por esta segunda opción, basada en desarrollar, tramitar y construir a su costa las instalaciones, para
+posteriormente ceder su titularidad a HC.
+en base al condicionado de HC establecido en su permiso de acceso y conexión a la red, las instalaciones que se de-
+sarrollan y tramitan en el expediente at-14057 (auto/2024/18594), tienen por objeto el desarrollar las infraestructuras
+de nueva extensión de red compuestas por:
+— Centro de seccionamiento telemandado tipo caseta prefabricada, en el que se instalarán celdas modulares de
+alta tensión (una de protección con interruptor automático, dos de línea motorizadas y una de protección con
+fusible para alimentación de los servicios auxiliares), un cuadro de baja tensión y los elementos necesarios para
+su control y explotación.
+— Línea subterránea 22 kV, doble circuito, de 665 metros de longitud, con conductor tipo AL HEPRZ1 12/20 kV
+1X630 +H16, en canalización entubada, desde el centro de seccionamiento hasta una nueva arqueta en la que
+se realizarán los empalmes con la línea subterránea existente LAT (22 kV) LA TRAPA propiedad de HC.
+al objeto de incorporar a la red de distribución la instalación de almacenamiento eléctrico independiente Bess piXin
+(tramitada en proyecto independiente at-10821), conforme al permiso de acceso y conexión concedido por HC. estas
+instalaciones serás cedidas a la compañía distribuidora HC previamente a su puesta en servicio, de modo que será esta
+última la que solicite la autorización de explotación.
+por último, el almacenamiento eléctrico independiente Bess es una actividad destinada al suministro de energía
+eléctrica, conforme establece la ley 24/2013, de 26 de diciembre, del sector eléctrico.
+sexto.—en relación a lo anterior, desde esta Consejería se realizan los siguientes análisis y conclusiones:
+las instalaciones de almacenamiento sí están reguladas en la ley 24/2013 del sector eléctrico. así, en el artículo 6
+se definen los titulares de instalaciones de almacenamiento, que son las personas físicas o jurídicas que poseen instala-
+ciones en las que se difiere el uso final de electricidad a un momento posterior a cuando fue generada, o que realizan la
+conversión de energía eléctrica en una forma de energía que se pueda almacenar para la subsiguiente reconversión de
+dicha energía en energía eléctrica. y en distintos artículos de la ley se hace referencia a su consideración como agentes
+productores, como consumidores, a su participación en los mercados de producción o gestión de la demanda y a los
+permisos de acceso y conexión a red de transporte o distribución que requieren. donde no se incluyen de forma general,
+salvo el almacenamiento de tecnología hidráulica de bombeo, es entre las instalaciones eléctricas que se declaran de
+utilidad pública.
+sin embargo las instalaciones objeto de este expediente, para las que se está tramitando la declaración de utilidad
+pública, no incluyen la instalación de almacenamiento, que se tramitó en expediente aparte auto/2023/11368 (at-
+10821), sino que se trata de instalaciones de nueva extensión de red definidas por HC en el Pliego de Condiciones
+técnicas remitido en respuesta a la solicitud del permiso de acceso y conexión. en dicho pliego se indica que el punto
+de conexión solicitado se encuentra en lat la trapa de se trasona. de acuerdo a lo establecido en el art. 6.3 del r.d.
+1183/2020 las solicitudes para acceso y conexión a la red de transporte o distribución de instalaciones de almacena-
+miento que puedan verter energía en las redes de transporte y distribución se considerarán como solicitudes para el
+acceso de instalaciones de generación de electricidad. lo anterior se entenderá sin perjuicio de los criterios técnicos de
+acceso que deban ser tenidos en cuenta para este tipo de instalaciones, como consecuencia de su condición de insta-
+laciones que, en determinados momentos, se comportan como instalaciones de demanda. por tanto, esta solicitud de
+acceso y conexión de 5 mW para una planta de almacenamiento se analizará como instalación de generación y como ins-
+talación de consumo. el punto de conexión solicitado se encuentra en un tramo subterráneo de la lsat 22 kv la trapa,
+de la se trasona. y también se indica que, en el caso de optar por realizar los trabajos de nueva extensión de red por
+su cuenta en lugar de que los ejecute directamente la empresa distribuidora, una vez aceptadas las condiciones técnicas
+establecidas, se presentará ante el departamento técnico de HC para su aprobación, el proyecto de las infraestructuras
+de trabajos de nueva extensión de red y, una vez ejecutadas, se cederá la titularidad de dichas infraestructuras a la
+distribuidora, de tal forma que pasen a formar parte de su red de distribución.
+lo indicado por HC en su propuesta y en el pliego está regulado en el real decreto 1048/2013, de 27 de diciembre,
+por el que se establece la metodología para el cálculo de la retribución de la actividad de distribución de energía eléctrica.
+En su artículo 21 define las instalaciones de nueva extensión de red y la extensión natural de las redes de distribución,
+que en ambos casos se trata de instalaciones que el distribuidor necesita desarrollar para atender los nuevos suminis-
+tros o la ampliación de los existentes y en el caso de las instalaciones de nueva extensión de red para incrementar la
+capacidad de algún elemento de la red existente, con el mismo nivel de tensión que la del punto de conexión. a su vez
+el artículo 25 del mismo real decreto establece que los trabajos necesarios para la nueva extensión de red desde la red
+de distribución existente hasta el primer elemento propiedad del solicitante podrán ser ejecutados a requerimiento del
+solicitante por cualquier empresa instaladora legalmente autorizada o por la empresa distribuidora.
+Como conclusión, la regulación del sector eléctrico contempla la existencia de instalaciones de nueva extensión de
+red de distribución necesarias para la conexión de instalaciones del cliente, que forman parte de la red de distribución,
+de forma diferenciada a las propias instalaciones del cliente. por lo tanto, la tramitación de ambas deberá ajustarse al
+procedimiento que la propia ley 24/2013 y el real decreto 1955/2000 establecen para cada una de ellas. en el caso de
+las instalaciones de nueva extensión de red de distribución, al tratarse de parte de la red de distribución, el artículo 54
+las declara de utilidad pública y por lo tanto procede y es correcta la tramitación efectuada en este expediente.
+séptimo.—visto el informe de la sección de alta tensión de fecha 28/05/2026, en el que se determina que la insta-
+lación no incurre en ninguna de las limitaciones contempladas en el art. 58 de la ley 24/2013 de 26 de diciembre, del
+Sector Eléctrico, respecto de las fincas cuyos propietarios no han convenido libremente con el peticionario de la instala-
+ción la adquisición o indemnización amistosa.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 113 de 15-vi-2026 3/4
+https://miprincipado.asturias.es/bopa
+03840-6202
+.dóC
+octavo.—Cumplidos los trámites reglamentarios regulados en el título vii del real decreto 1955/2000, de 1 de di-
+ciembre, se han realizado las oportunas comprobaciones y análisis de la documentación técnica, alegaciones e informes
+presentados.
+Fundamentos de derecho
+Primero.—la ley 24/2013, de 26 de diciembre, del sector eléctrico, el real decreto 1955/2000, de 1 de diciem-
+bre, por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de
+autorización de instalaciones de energía eléctrica, que la desarrolla, el real decreto 1183/2020, de 29 de diciembre,
+de acceso y conexión a las redes de transporte y distribución de energía eléctrica y el real decreto 1048/2013, de 27
+de diciembre, por el que se establece la metodología para el cálculo de la retribución de la actividad de distribución de
+energía eléctrica.
+segundo.—la ley 39/2015, de 1 de octubre, del procedimiento administrativo Común de las administraciones
+públicas.
+Tercero.—es competente esta Consejería para resolver el presente expediente, en virtud de las atribuciones que en
+esta materia le vienen conferidas por el ordenamiento jurídico vigente; artículo 38 de la ley del principado de asturias
+6/1984, de 5 de julio, del presidente y del Consejo de Gobierno, en relación con el artículo 5.4 del decreto 22/2023,
+de 31 de julio, del presidente del principado de asturias, de reestructuración de las Consejerías que integran la admi-
+nistración de la Comunidad autónoma, en su redacción dada por el decreto 23/2025, de 16 de abril, del presidente del
+Principado de Asturias, de quinta modificación de aquél; el Decreto 49/2025, de 29 de abril, por el que se establece la
+estructura orgánica básica de la Consejería de Ciencia, industria y empleo; y teniendo en cuenta que mediante reso-
+lución de 19 de mayo de 2025, de la Consejería de Ciencia, industria y empleo, se delega en la persona titular de la
+dirección General de energía y minería la competencia para resolver el referido expediente.
+vistos los antecedentes de hecho y fundamentos jurídicos citados, por la presente,
+resuelvo
+Primero.—declarar la utilidad pública, que lleva implícita, en todo caso, la necesidad de ocupación de los bienes o
+de adquisición de los derechos afectados, implicando la urgente ocupación de los bienes y derechos relacionados en
+esta resolución, a los efectos previstos en el art. 52 de la ley de expropiación Forzosa para la siguiente instalación
+eléctrica:
+instalación: infraestructuras de nueva extensión de red compuestas por:
+• Centro de seccionamiento telemandado tipo caseta prefabricada, en el que se instalarán celdas modulares
+de alta tensión (una de protección con interruptor automático, dos de línea motorizadas y una de protec-
+ción con fusible para alimentación de los servicios auxiliares), un cuadro de baja tensión y los elementos
+necesarios para su control y explotación.
+• Línea subterránea 22 kV, doble circuito, de 665 metros de longitud, con conductor tipo AL HEPRZ1 12/20
+kV 1X630 +H16, en canalización entubada, desde el centro de seccionamiento hasta una nueva arqueta en
+la que se realizarán los empalmes con la línea subterránea existente LAT (22 kV) LA TRAPA propiedad de
+HC.
+Emplazamiento: El centro de seccionamiento se ubicará en la parcela 16, polígono 30 (referencia catastral
+33020A030000160000LK) y la línea subterránea discurrirá desde la misma hasta la parcela del centro comercial
+Parque Astur con referencia catastral 8356901TP6285N, todo ello en la parroquia de Trasona, concejo de Corve-
+ra de asturias.
+objeto: incorporar a la red de distribución la instalación de almacenamiento eléctrico independiente Bess piXin
+(tramitada en proyecto independiente AT-10821).
+Presupuesto: 105.456,52 €
+segundo.—se debe formalizar la cesión a Hidrocantábrico distribución eléctrica, s. a., previamente a la puesta en
+servicio de la instalación.
+RELACióN CONCRETA E iNDiViDuALiZADA DE biENES y DERECHOS AfECTADOS
+Finca 1:
+Referencia catastral: 8356901TP6285N
+paraje: polígono parqueastur
+Superficie catastral (m²): 174.653
+Longitud LSAT (m): 18,0
+Ancho de zanja (m): 0,65
+Expropiación en pleno dominio (m²): 2,0
+Superficie servidumbre permanente de paso (m²): 11,7
+Superficie de afección, con limitaciones a la propiedad (m²): 23,04
+Superficie de acceso permanente y ocupación temporal por obras (m²): 128,0
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 113 de 15-vi-2026 4/4
+https://miprincipado.asturias.es/bopa
+03840-6202
+.dóC
+Este acto pone fin a la vía administrativa y contra el mismo cabe interponer recurso contencioso-administrativo ante
+la sala de lo Contencioso-administrativo del tribunal superior de justicia de asturias, en el plazo de dos meses contados
+desde el día siguiente al de su notificación, sin perjuicio de la posibilidad de previa interposición del recurso potestativo
+de reposición ante el mismo órgano que dictó el acto en el plazo de un mes contado desde el día siguiente al de su noti-
+ficación, no pudiendo simultanearse ambos recursos, conforme a lo establecido en el artículo 28 de la Ley del Principado
+de asturias 2/1995, de 13 de marzo, sobre régimen jurídico de la administración del principado de asturias, y en los
+artículos 123 y 124 de la ley 39/2015, de 1 de octubre, del procedimiento administrativo Común de las administraciones
+públicas, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno.
+en oviedo, a 5 de junio de 2026.—el Consejero de Ciencia, industria y empleo (p. d. resolución de 19/05/2025,
+Bopa del 23 de mayo), el director General de energía y minería.—Cód. 2026-04830.
