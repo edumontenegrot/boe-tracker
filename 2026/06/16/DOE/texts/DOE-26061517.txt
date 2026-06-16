@@ -1,0 +1,72 @@
+NÚMERO 114
+25886
+Martes 16 de junio de 2026
+RESOLUCIÓN de 5 de junio de 2026, del Consejero, por la que se modifica la
+Resolución de 13 de febrero de 2026 por la que se crea el sello electrónico
+denominado Sello electrónico Sistema Extremeño de Información de Servicios
+Sociales. (2026061517)
+La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (en adelante, LRJ-
+SP), prevé en su artículo 40 y siguientes el uso de sellos electrónicos basados en certificados
+electrónicos que reúnan los requisitos exigidos por la legislación de firma electrónica, para la
+identificación y la autenticación del ejercicio de la competencia en la actuación administrativa
+automatizada. También, el ámbito autonómico, el Decreto 225/2014, de 14 de octubre, de
+régimen jurídico de administración electrónica de la Comunidad Autónoma de Extremadura,
+permite dicho uso y determina en su artículo 40 que la creación de los sellos electrónicos se
+realizará por Resolución del titular de la Consejería competente en materia de administración
+electrónica.
+Esta Consejería de Economía, Empleo y Transformación Digital, obedeciendo a la especificidad
+técnica de los trabajos a desarrollar y al alto grado de especialización para llevarlos a cabo,
+así como a la necesidad de contar con las preceptivas autorizaciones y habilitaciones para su
+prestación, llevó a cabo mediante Resolución de 30 de diciembre de 2024, de la Consejería de
+Economía, Empleo y Transformación Digital, un encargo a la Fábrica Nacional de la Moneda
+y Timbre (en adelante, FNMT RCM, EPE, MP), que se encuentra publicado en la Plataforma
+de Con tratación del Sector Público, para la prestación de servicios técnicos y de seguridad
+aplicables a la certificación y firma electrónica en el ámbito de la administración electrónica
+En virtud de lo expuesto, por Resolución de 13 de febrero de 2026, del Consejero de Econo-
+mía, Empleo y Transformación Digital, se crea el sello electrónico denominado “Sello electró-
+nico Sistema Extremeño de Información de Servicios Sociales” (DOE núm. 36, 23 de febrero).
+Tras haberse creado el mencionado sello electrónico y antes de proceder a su solicitud, se
+detectó que dicha denominación no cuenta con el requisito técnico de que el campo CN (Com-
+mon Name) de los certificados digitales debe tener un límite de 64 caracteres, exigido por
+la FNMT RCM, EPE, MP, de conformidad con la RFC 5280, que define los estándares para los
+certificados X.509.
+Por lo expuesto, al amparo de lo establecido en los artículos 40 y siguientes de la LRJSP, así
+como lo regulado en el Decreto 225/2014, de 14 de octubre, de régimen jurídico de admi-
+nistración electrónica de la Comunidad Autónoma de Extremadura, de conformidad con los
+requisitos técnicos necesarios exigidos por la FNMT RCM, EPE, MP, y en el ejercicio de las
+facultades que tengo conferidas,
+
+NÚMERO 114
+25887
+Martes 16 de junio de 2026
+RESUELVO:
+Primero. Modificar la denominación de la Resolución de 13 de febrero de 2026, del Consejero
+de Economía, Empleo y Transformación Digital, por la que se crea el sello electrónico denomi-
+nado “Sello electrónico Sistema Extremeño de Información de Servicios Sociales”, que pasa a
+titularse de la siguiente manera:
+“Resolución de 13 de febrero de 2026, del Consejero, por la que se crea el sello electrónico
+“Sello electrónico Sistema Extremeño de Servicios Sociales”.
+Segundo. Modificar el resuelvo primero de la Resolución de 13 de febrero de 2026, del Con-
+sejero, por la que se crea el sello electrónico “Sello electrónico Sistema Extremeño de Infor-
+mación de Servicios Sociales”, que queda redactado en los siguientes términos:
+“Primero. La creación del sello electrónico denominado Sello electrónico Sistema Extremeño
+de Servicios Sociales.
+a) Las características técnicas generales del sistema de firma y certificado aplicable serán
+las derivadas del Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto
+4/2010, de 8 de enero, y de la Política de Firma Electrónica y Certificados de la Admi­
+nistración General del Estado, y más concretamente las que constan en la Declaración
+de Prácticas del correspondiente emisor del certificado como prestador cualificado de
+servicios electrónicos de confianza.
+b) La verificación del certificado podrá realizarse a través del servicio VALIDe de la plata­
+forma de validación de certificados de la Administración General del Estado, que estará
+accesible desde la sede electrónica corporativa de la Junta de Extremadura y la futura
+sede electrónica asociada. No obstante, se podrá acceder directamente al citado servi-
+cio en la siguiente dirección electrónica: https://valide.redsara.es/valide .
+c) La responsabilidad de su utilización corresponderá al órgano directivo que tenga la com-
+petencia en materia de servicios sociales de la Comunidad Autónoma de Extremadura”.
+Tercero. La presente resolución surtirá efectos el mismo día de su publicación en el Diario
+Oficial de Extremadura.
+Mérida, 5 de junio de 2026.
+El Consejero,
+GUILLERMO SANTAMARÍA GALDÓN
+• • •
