@@ -1,0 +1,313 @@
+AÑO XLV Núm. 114 18 de junio de 2026 23946
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 10/06/2026, de la Dirección General de Transición Energética, por la que se otorgan la
+autorización administrativa previa y la autorización administrativa de construcción, de la instalación solar
+fotovoltaica denominada Balsasol, infraestructuras auxiliares y de evacuación. (Referencia: 2703/01697).
+[2026/4550]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible de Albacete y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia: 2703/01697. (DP: 02250401995).
+- Peticionario: Iniciativa y Desarrollo Energético, S.L. - N.I.F. B40526766.
+- Documentación Técnica: Proyectos de ejecución (a cargo del técnico titulado competente D. Jorge Aleix Moreno)
+y denominados:
+Baja Tensión de la Planta Solar Fotovoltaica “Balsasol”, de junio de 2021.
+Centro de Transformación y Red Interna de Media Tensión de la Planta Solar Fotovoltaica “Balsasol”, de junio de
+2021.
+Línea Eléctrica de Servicios Auxiliares de 20 kV, para el Funcionamiento de la Planta Solar Fotovoltaica “Balsasol”,
+de julio 2021.
+Subestación Elevadora “Subestación Balsasol” 30/132 kV, y su Infraestructura de Evacuación-Zona Compañía y
+Cliente de la Planta Solar Fotovoltaica “Balsasol”, de junio 2021.
+Línea Eléctrica de Alta Tensión de 132 kV para la evacuación de la Planta Solar Fotovoltaica “Balsasol”, de julio
+2021.
+Se aporta declaración responsable del técnico competente proyectista, de 12/07/2021 en cumplimiento del artículo
+53.1.b de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+- Características: Planta Solar Fotovoltaica Balsasol, y sus infraestructuras auxiliares y de evacuación.
+Características de la Planta Solar Fotovoltaica:
+Módulos fotovoltaicos: Un total de 67284 módulos monofaciales de 535 Wp c/u, montados sobre seguidores en eje
+horizontal (N-S), y una potencia pico total de 35,9969 MWp.
+Inversores: La planta contará con 198 inversores de tipo string para exterior, de 185 kWn, y tensión de salida de 0,8
+kVac, y potencia total de inversores de 36,63 MWn.
+Cuadros y cableado de BT. En corriente continua se utilizará cable de cobre, con aislamiento XPLE y cubierta de
+PVC, y montaje principalmente superficial, con sección de 4 mm2 de los circuitos de string hasta inversores. Y en
+alterna se utilizará cable de aluminio, con aislamiento XPLE, y cubierta de poliolefina libre de halógenos, con sección
+240 mm2, y directamente enterrado, entre inversores y cuadros secundarios de protección, y entre los secundarios
+y principales de protección ubicados en los CTs.
+Potencia instalada: 36 MW, (y una potencia de acceso de 30 MW).
+Instalaciones y líneas de 30 kV de FV: Se dispone de 6 centros de transformación (CT), con transformadores de
+tipo exterior y relación de transformación 30/0.8kV-0,8kV, con 5 de 6600 kVA, y 1 de 3330 kVA. Cada CT dispondrá
+de 2 celdas de línea y una de protección de transformador con disyuntor, que serán de corte y aislamiento en SF6,
+ubicadas en casetas de hormigón prefabricado y maniobra exterior. Cada dos CT se interconectarán con el centro de
+seccionamiento (CS), situado en la subestación, mediante una línea subterránea con cable tipo AL RHZ1-OL 18/30
+kV tipo unipolar, enterrados directamente en zanja, y sección 95-150-240 mm2 (según tramo y línea). La longitud
+total de las tres líneas será de 5.818 m.
+Características de la Subestación Transformadora “Balsasol” 30/132 kV (ST). Subestación compartida de tipo intemperie
+y simple barra, ubicada junto a la planta y con una superficie ocupada de 4.875 m2, y está compuesta por:
+Subestación elevadora de 30/132 kV, de propiedad de Iniciativa y Desarrollo Energético, S.L, cuyo sistema de 132
+kV, contará con una posición de transformador de 132/30 kV, de 32 MVA tipo ONAN, con el aparellaje necesario, y el
+sistema de 30 kV, un centro de seccionamiento (CS), instalado en el edificio del promotor, con un conjunto de celdas
+de 36 kV, formadas por 1 celda de acometida al transformador, 3 celdas de líneas de los circuitos provenientes del
+parque solar, 1 celda de medida, y en el exterior una reactancia trifásica de puesta a tierra.
+Subestación de maniobra (a ceder a la empresa distribuidora), cuyo sistema de 132 kV, está formado por dos
+posiciones de línea blindadas de intemperie, y una posición de conexión a tercero (planta FV) blindada de intemperie,
+con el aparellaje correspondiente en cada posición.
+
+AÑO XLV Núm. 114 18 de junio de 2026 23947
+Cada subestación dispone de un edificio, y de los sistemas auxiliares, de control y protecciones necesarias, (según
+proyecto).
+Características de las infraestructuras auxiliares. Destinadas a la alimentación de los servicios auxiliares de la ST, (a
+ceder a la empresa distribuidora), y consistirán en:
+Una línea de media tensión aérea de 20 kV, S/C, con inicio en el apoyo de coordenadas H:30 X: 648303.41 Y:
+4344433.92, de la línea de 20 kV 4118-15 Casas de Ves de la ST Casas Ibáñez, (de la distribuidora), y final en el
+CTIC bajo poste ubicado en la zona de la ST de la distribuidora, con una longitud de 750 m, 7 apoyos, y conductor
+tipo LA-56 (47-AL1/8-ST1A). Transcurre por los términos municipales de Casa de Ves y Villa de Ves.
+El centro de transformación intemperie compacto, (CTIC bajo poste), ubicado en edificio prefabricado de hormigón,
+y maniobra exterior, y que dispone de un transformador de 150 kVA, y cuadro de baja tensión.
+Características de la Línea Eléctrica de 132 kV de Evacuación (LAT):
+Ubicación LAT: Origen en la ST “Balsasol” 30/132 kV, y final en el apoyo a sustituir de coordenadas H:30 X: 648933
+Y:4345394, de la línea de alta tensión 132 kV ST Cofrentes – ST Casas Ibáñez, de i-DE Redes Eléctricas Inteligentes.
+Discurre por el término municipal de Villa de Ves y Casas de Ves (Albacete).
+Descripción: Línea eléctrica aérea de alta tensión de 132 kV, y doble circuito, (para entrada/salida), con una longitud
+de 380 m, con 1 apoyo nuevo y el apoyo de conexión a sustituir, y conductor tipo LA-180 (147-AL1/34-ST1A), (y a
+ceder a la distribuidora).
+Obra civil de FV, ST y LAT: Preparación del terreno, zanjas para la instalación del cableado, construcción de viales
+de acceso e internos, vallado perimetral, cimentaciones de las estructuras de los seguidores, de los centros de
+transformación, zanjas para líneas de 30 kV, adecuación de parcela y construcción de plataforma de la subestación
+transformadora, cimentaciones de apoyos, etc.
+Nota: La anterior descripción tiene carácter meramente indicativo. Para una descripción detallada de la misma se
+deberá acudir a la documentación técnica que se encuentra en el expediente.
+- Ubicación: En parcelas varias de los polígonos 1 y 17 del T.M. de Villa de Ves (Albacete).
+- Acceso y conexión: Certificado de Permiso de Acceso y Conexión de i-DE Redes Eléctricas Inteligentes S.A.U,
+con referencia EXP-9039783396, de 18/06/2021, para la planta fotovoltaica Balsasol (36 MWp /30 MWn), y ubicada
+en el t.m. de Villa de Ves (Albacete), y siendo la fecha de obtención de dicho permiso la del escrito de 21/09/2020.
+Actualización de los Permisos de Acceso y Conexión, con referencia: EXP-46-9039783396, por comunicación de
+i-DE Redes Eléctricas Inteligentes S.A.U, de 22/12/2022, para la planta fotovoltaica Balsasol (36 MWp / 36,63 MWn),
+con potencia de acceso de 30 MW, y fijando la fecha de emisión de los permisos para el 16/05/2022.
+- Finalidad: Producción de energía eléctrica por generación fotovoltaica, y vertido a la red de distribución en 132 kV.
+Antecedentes de hecho.
+Primero: Con fecha 26/02/2021, Iniciativa y Desarrollo Energético, S.L., solicitó autorización administrativa previa y
+de construcción para la planta de energía solar fotovoltaica de las características indicadas.
+Segundo: En relación con la normativa ambiental destacar: Tras consulta realizada el 29/07/2021 al Servicio de
+Medio Ambiente, se dispone de Resolución de 22/04/2022, de la Delegación Provincial de Desarrollo Sostenible
+de Albacete, por la que se formula el informe de impacto ambiental de sometimiento a evaluación de impacto
+ambiental ordinaria del proyecto de referencia, (expediente ambiental: PRO-AB-21-1357), publicado en el DOCM
+de 16/05/2022. En su apartado cuarto se resuelve que el proyecto debe someterse a una evaluación de impacto
+ambiental ordinaria por tener efectos significativos en el medio ambiente.
+Con fecha de entrada de 19/07/2022, el promotor presenta el estudio de impacto ambiental del proyecto de referencia,
+y solicita continuar con el procedimiento de evaluación de impacto ambiental ordinaria, en cumplimiento de la citada
+resolución ambiental de 22/04/2022.
+Con fecha de entrada de 12/09/2022, se recibe una solicitud del promotor de determinación de afección ambiental
+para proyectos de energías renovables, en aplicación de la Ley 7/2022, de 29 de julio, de Medidas para la Agilización
+Administrativa de los Proyectos de Energías Renovables en Castilla-La Mancha, y dándose traslado el 23/09/2022,
+al Servicio de Medio Ambiente.
+En aplicación de la citada Ley 7/2022, se dispone de Resolución de 13/12/2022, de la Delegación Provincial de
+Desarrollo Sostenible de Albacete, por la que se formula el informe de determinación de afecciones ambientales del
+proyecto de referencia, (expediente ambiental: PRO-AB-21-1357), y publicado en el DOCM de 2/01/2023. En esta
+resolución se establece:
+- En su apartado Tercero, indica las condiciones de la autorización para prevenir, corregir y compensar impactos.
+- En su apartado Cuarto, indica las condiciones de la autorización para el seguimiento y vigilancia ambiental.
+
+AÑO XLV Núm. 114 18 de junio de 2026 23948
+Y en donde no se establece ninguna obligación de presentar documentación antes de la autorización administrativa
+previa y de construcción.
+- En su apartado Quinto, de Conclusión se resuelve que el proyecto de referencia, puede continuar con la
+correspondiente tramitación del procedimiento de autorización siempre que se cumplan las medidas señaladas en
+esta resolución, al no apreciarse que se vayan a generar efectos adversos significativos en el medio ambiente que
+requieran su sometimiento a procedimiento de impacto ambiental en los términos regulados en la Ley 2/2020, de 7
+de febrero, de evaluación ambiental de Castilla-La Mancha.
+Se indica también que las condiciones del apartado tercero y del apartado cuarto de esta resolución deberán quedar
+incorporadas en la autorización del proyecto por parte del órgano sustantivo.
+En relación a lo establecido en el punto 4 de la disposición adicional tercera de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha, (que se introduce por el artículo primero de Ley 7/2022, de 29 de julio,
+de Medidas para la Agilización Administrativa de los Proyectos de Energías Renovables en Castilla-La Mancha), y
+relativo a la vigencia del informe de determinación de afección ambiental, se dispone de Informe del Servicio de
+Calidad Ambiental de 14/02/2025, sobre vigencia de IDAA del proyecto de referencia, donde al final del apartado de
+conclusiones se establece:
+“En consecuencia, para el cómputo de la vigencia del IDAA de los proyectos en los que sean de aplicación los hitos
+definidos en el RDL 23/2020, en lugar del plazo de dos años, se deberán tener en cuenta los plazos establecidos para
+dichos hitos, por lo cual la solicitud de ampliación de la vigencia del IDAA no es procedente. Es decir, se entiende
+que dicho informe no perderá su vigencia mientras el promotor acredite el cumplimiento de los hitos establecidos
+dentro de los plazos fijados.”
+Tercero: Mediante Anuncio de 10/01/2023, de la Delegación Provincial de Desarrollo Sostenible de Albacete, se
+sometió a información pública el proyecto de instalación de energía eléctrica denominado: planta solar fotovoltaica
+“Balsasol”, y sus infraestructuras auxiliares y de evacuación, emplazada en los términos municipales de Villa de
+Ves y Casas de Ves (Albacete) a efectos de su autorización administrativa previa, de autorización administrativa de
+construcción y reconocimiento en concreto de la utilidad pública.
+Dicho anuncio ha sido publicado en los siguientes medios:
+- DOCM de 25/01/2023.
+- Tablón de Anuncios Electrónico de la JCCLM, entre el 25/01/2023 y el 08/03/2023.
+- BOP de Albacete de 30/01/2023.
+- Diario La Tribuna de Albacete de 18/01/2023.
+- Tablón del Ayuntamiento de Casas de Ves. Hay acuse de recibo de solicitud de exposición de 11/01/2023, pero no
+se recibe el certificado de publicación en el tablón de anuncios.
+- Tablón del Ayuntamiento de Villa de Ves. El 22/02/23, se recibe certificado de publicación en su tablón de anuncios.
+Dentro del plazo de información pública no se han recibido alegaciones.
+Cuarto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Ayuntamiento de Casas de Ves. Con registro de salida de 13/01/2023, y sin contestación con plazo cumplido.
+- Ayuntamiento de Villa de Ves. Con registro de salida de 13/01/2023, y contestación de 13/02/2023, por medio del
+Servicio de Asistencia Técnica a Municipios de la Diputación de Albacete, emitiendo Informe Técnico de 10/02/2023,
+en materia urbanística, donde entre otras determinaciones, en su apartado séptimo se indica que el uso de huertos
+solares y similares, está permitido en suelo rústico de reserva, pero se advierte que para los terrenos clasificados
+como suelo rústico no urbanizable de especial protección deberá tenerse en cuenta lo dispuesto en el PDSU del
+municipio. Al respecto se advierte que en la zona de policía del Barranco del Hocino (SRNUEP-PAA) sólo se permiten
+los elementos pertenecientes al sistema energético, del tipo redes de transporte y distribución, de titularidad pública.
+Finalmente se establece un condicionado a la edificación de acuerdo con el PDSU del municipio.
+
+AÑO XLV Núm. 114 18 de junio de 2026 23949
+Al informe anterior, el promotor contesta el 17/03/2023, haciendo constar que todas las parcelas afectadas presentan
+Informe de compatibilidad Urbanística (ICU) favorable, y confirma que se cumplirá la normativa que a este proyecto
+le sea de aplicación, pero hace una serie de matizaciones en relación con la clasificación de categoría de suelo de
+la zona de policía del Barranco del Horcino, y que ha solicitado informe a la Confederación Hidrográfica del Júcar,
+para su pronunciamiento al respecto.
+Dándose traslado de la contestación dada por el promotor, el Ayuntamiento responde el 19/04/2023, por medio de
+escrito de 19/04/2023 del Servicio de Asistencia Técnica a Municipios de la Diputación de Albacete, informando que
+el tramo de cauce “Barranco del Hocino” que figura en el plano del (PDSU) de Villa de Ves no coincide con reflejado
+en el Plano Topográfico Nacional del IGN, pero, sin embargo, sí que parece que coincide con el que sale en la capa
+“RÍOS” del visor SIA de la CHJ, y por ello será éste organismo quién aclare la situación.
+Indica también, que si bien en los informes de compatibilidad urbanística emitidos por el Arquitecto Municipal con
+anterioridad no se explicita que hay parcelas que parte de ellas están clasificadas como suelo rústico no urbanizable
+de especial protección, sí que se indican las afecciones que existen y que condicionan el régimen urbanístico de
+aplicación.
+Dándose traslado al promotor de la contestación dada por el Ayuntamiento, en donde se le indica que, de no
+contestar, se entenderá conformidad a los condicionados, no se ha recibido contestación con plazo cumplido.
+- Confederación Hidrográfica del Júcar, Con registro de salida de 13/01/2023, y contestación de 27/02/2023, con
+informe de 22/02/2023, en donde se expone que debido a la afección del proyecto a la zona de policía del Barranco
+de Horcino, y que no se ha aportado la documentación con la que quede acreditado que la planta respeta el
+dominio público hidráulico, así como la zona de flujo preferente de los mismos, no es posible la emisión de informe
+favorable al respecto., y concluye informando desfavorablemente al proyecto de referencia. El promotor contesta
+el 17/03/2023, indicando que el informe de la CHJ no ha analizado toda la documentación más actualizada del
+expediente, realizando un informe desactualizado. Indica a continuación, que el promotor está a la espera del nuevo
+informe por parte de la CHJ, según les ha transmitido dicho organismo.
+Se realiza nueva consulta a la CHJ, con registro de salida de 15/03/2023, haciendo la observación, que se ha
+advertido un error en la documentación remitida con registro de salida de 13/01/2023, que estaba desactualizada,
+y se procede a remitir la última versión del documento denominado: Estudio Hidrológico e Hidráulico PSF Balsasol
+de mayo 22.
+La CHJ contesta el 1/08/2023, con informe de 28/07/2023, en donde se considera que la documentación aportada es
+insuficiente, incompleta, o con deficiencias, y se concluye informando desfavorablemente al proyecto de referencia.
+El promotor responde el 30/08/2023, solicitando una ampliación de plazo para poder presentar respuesta al informe
+de la CHJ de 28/07/2023, y respondiendo el 3/05/2024, presentando nueva documentación para que se le dé
+traslado a la CHJ, y pueda emitir informe al respecto.
+El 17/04/2026, se recibe comunicación del promotor, poniéndonos en conocimiento de que han presentado el
+15/04/2026 a la CHJ, un estudio de inundabilidad del proyecto y un anexo describiendo las medidas correctoras
+propuestas.
+La CHJ contesta nuevamente el 4/05/2026, con el informe de 4/05/2026, (el promotor el 7/05/2026, lo remite
+también), en donde se informa favorablemente el proyecto de referencia, siempre y cuando el promotor obtenga
+la correspondiente autorización de obras de este Organismo, y sin perjuicio de las determinaciones que, como
+consecuencia de estudios más detallados o nueva documentación, se puedan establecer en las autorizaciones que
+preceptivamente, se deben obtener de la CHJ.
+- Servicio de Carreteras de la Diputación Provincial de Albacete. Con registro de salida de 13/01/2023, y contestación
+de 1/02/2023, haciendo constar que de conformidad con lo expresado por el técnico correspondiente, se muestra
+la conformidad a la autorización administrativa solicitada sobre la viabilidad técnica de la referida actuación, y se
+adjunta el condicionado técnico de 26/01/2023, en el que se concluye que previamente al inicio de las obras del
+proyecto de referencia, deberán solicitarse las correspondientes autorizaciones de ejecución de obras y de las
+actividades que se sitúen en la zona de protección de la AB-212 o estén relacionadas con los accesos desde dicha
+carretera, aportando la documentación requerida en este condicionado técnico. El promotor contesta el 17/03/2023,
+aceptando los condicionados trasladados por el Servicio de Red Viaria Provincial, y se les envíe para su constancia.
+Trasladado el 31/03/2023, la contestación al Servicio de Carreteras de la Diputación, no se ha recibido contestación
+con plazo cumplido, y entendiéndose la conformidad con la contestación efectuada por el promotor.
+- i-DE Redes Eléctricas Inteligentes, S.A.U. Con registro de salida de 13/01/2023, y sin contestación con plazo
+cumplido.
+- Telefónica de España, S.A.U. Con registro de salida de 13/01/2023, y contestación de 24/01/2023, informando
+que no tiene objeción alguna a la ejecución del proyecto referido siempre y cuando se cumpla la normativa vigente
+en relación a los paralelismos y cruzamientos con líneas de telecomunicación. Asimismo, recuerdan que tanto en
+fase de diseño como de ejecución es responsabilidad de la empresa que promueve los trabajos contenidos en
+el proyecto. El promotor contesta el 17/03/2023, dando conformidad al mismo y se notifica que la ejecución del
+proyecto referido se realizará de acuerdo a la normativa vigente en relación a los paralelismos y cruzamientos con
+líneas de telecomunicación.
+
+AÑO XLV Núm. 114 18 de junio de 2026 23950
+Así mismo, el promotor ha aportado con registro de entrada de 5/01/2023, la resolución de 20/04/2021, de la
+Delegación Provincial de Educación, Cultura y Deportes de Albacete, sobre el Estudio de Valoración Histórico-
+Cultural del proyecto de referencia, de 20/04/2021, con visado autorizable con condiciones. Se propone que en la
+resolución de AAP-AAC, se prescriba que antes del inicio de obras, se deberá de obtener la autorización de trabajos
+arqueológicos y proyecto arqueológico de la actuación.
+Quinto: La Delegación Provincial de Desarrollo Sostenible en Albacete cumplió con lo establecido en la resolución de
+3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as delegados/
+as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 19/05/2026 informe favorable
+para la autorización administrativa previa y de construcción solicitadas.
+Sexto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción solicitadas.
+A estos antecedentes de hecho son aplicables los siguientes
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y la autorización
+administrativa de construcción de las instalaciones y su tramitación se ha realizado según lo establecido en el
+Decreto 80/2007 y demás normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y la autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud Resuelve: Otorgar a Iniciativa y Desarrollo Energético, S.L., la autorización administrativa previa
+y la autorización administrativa de construcción de las instalaciones eléctricas de referencia, de acuerdo a las
+características indicadas. La presente resolución se encuentra sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+
+AÑO XLV Núm. 114 18 de junio de 2026 23951
+Quinta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Sexta: Se debe cumplir lo establecido en Resolución de 13/12/2022 de la Delegación Provincial de Desarrollo
+Sostenible de Albacete, por la que se formula el informe de determinación de afecciones ambientales del proyecto
+de referencia, (expediente ambiental: PRO-AB-21-1357), y publicado en el DOCM Núm. 1 de 2/01/2023), en el
+marco de lo dispuesto en la normativa básica aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha y demás normativa autonómica de aplicación.
+Séptima: El titular debe, en su caso, comunicar al gestor de red la modificación de los datos que constan en los
+permisos de acceso y conexión obtenidos, en cumplimiento de lo dispuesto en la disposición adicional decimocuarta
+del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que en su punto
+4 establece que “En aquellos casos en los que las instalaciones con permisos de acceso y conexión solicitados
+y/o concedidos hayan sufrido modificaciones que impliquen que dichas instalaciones puedan ser consideradas las
+mismas de acuerdo con lo establecido en esta disposición, los titulares deberán actualizar la solicitud de los permisos
+de acceso y conexión, o en su caso, actualizar los permisos de acceso y conexión concedidos para adaptarlos a las
+características de la instalación modificada”, para que, en su caso, proceda a actualizar los permisos de acceso y
+conexión.
+Octava: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 10 de junio de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ

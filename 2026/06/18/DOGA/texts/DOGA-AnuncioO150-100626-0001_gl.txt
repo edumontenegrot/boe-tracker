@@ -1,0 +1,572 @@
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35016
+III. OUTRAS DISPOSICIÓNS
+ESCOLA GALEGA DE ADMINISTRACIÓN PÚBLICA
+RESOLUCIÓN do 11 de xuño de 2026 pola que se convocan as probas de
+avaliación para a obtención do certificado de competencias dixitais (ComDix) nos
+seus niveis de iniciación e intermedio para o persoal ao servizo da Administración
+autonómica da Comunidade Autónoma, das entidades públicas instrumentais
+do sector público autonómico, da Administración institucional de Galicia, da
+Administración de xustiza de Galicia, das entidades locais galegas e do persoal
+técnico de xestión e de administración e servizos (PTXAS) das universidades do
+Sistema universitario de Galicia (SUG).
+A Axencia para a Modernización Tecnolóxica de Galicia (Amtega) e a Escola Galega de
+Administración Pública subscribiron un convenio para convocar e desenvolver as activi-
+dades formativas dirixidas ao persoal empregado público das administracións públicas de
+Galicia en competencias dixitais no ano 2026, no contexto do Marco galego de competen-
+cias dixitais-ComDix.
+Esta iniciativa enmárcase no contexto do Marco galego de competencias dixitais, con-
+forme o disposto na Lei 4/2019, do 17 de xullo, de administración dixital de Galicia, coa
+finalidade de lograr unha cidadanía dixitalmente responsable nun contorno onde, cada vez
+máis, se require o uso da tecnoloxía case a diario.
+Este marco ten como referencias o Marco europeo de competencias dixitais na versión
+DigComp 2.2, e o Decreto 123/2021, do 2 de setembro, polo que se regula o Marco galego
+de competencias dixitais e a certificación galega en competencias dixitais. Este decreto
+establece que a certificación galega en competencias dixitais acreditará o nivel de com-
+petencia das persoas na utilización das tecnoloxías no ámbito persoal, social, educativo e
+profesional de forma efectiva, segura, crítica, creativa e cívica.
+O artigo 3 do Decreto 123/2021 establece que o desenvolvemento concreto das di-
+mensións e especializacións do marco en función dos colectivos destinatarios quedará
+recollido no documento Bases para o desenvolvemento do Marco galego de competen-
+cias dixitais.
+O 11 de setembro de 2023 aprobouse unha primeira versión deste documento, en que
+se identifica como unha das vías de obtención do certificado galego en competencias dixi-
+tais (ComDix) a realización dunha proba de certificación específica que permita demostrar
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35017
+ter os coñecementos, habilidades e aptitudes propios das devanditas competencias. Ac-
+tualmente, na súa segunda versión, aprobada o 20 de xuño de 2024 polo Consello Reitor
+da Amtega, mantense esta vía de obtención.
+Esta proba de certificación compleméntase coa posta á disposición das persoas inte-
+resadas de contidos en liña en réxime de autoformación, de uso voluntario, para adquirir
+os coñecementos, habilidades e aptitudes dixitais, e que servirá de referencia antes de
+presentarse á proba de certificación.
+Así mesmo, establece no seu artigo 13 que a propia Amtega, en colaboración coa Es-
+cola de Administración Pública de Galicia (EGAP), cooperará na execución das actuacións
+para a xestión da certificación en competencias dixitais, e estará habilitada e autorizada
+para a formación e avaliación cara á súa obtención.
+De acordo co exposto,
+RESOLVO:
+Convocar as probas de certificación para a obtención do certificado galego de com-
+petencias dixitais nivel iniciación e intermedio (en diante, ComDix-Iniciación e ComDix-
+Intermedio), que deberán desenvolverse segundo as bases detalladas no anexo I e o ca-
+lendario que figura no anexo II.
+Santiago de Compostela, 11 de xuño de 2026
+Sonia Rodríguez-Campos González
+Directora da Escola Galega de Administración Pública
+ANEXO I
+Primeira. Requisitos dos participantes
+1. Poderá participar nas probas para a obtención do certificado de competencias dixi-
+tais, nivel iniciación e intermedio (ComDix-Iniciación) e (ComDix-Intermedio), convocadas
+nesta resolución o persoal empregado público destinado na Administración xeral da Comu-
+nidade Autónoma de Galicia, nas entidades públicas instrumentais enunciadas na alínea a)
+do artigo 45 da Lei 16/2010, do 17 de decembro, de organización e funcionamento da
+Administración xeral e do sector público autonómico de Galicia, da Administración institu-
+cional, da Administración de xustiza de Galicia, das entidades locais galegas e do persoal
+técnico, de xestión e de administración e servizos (PTXAS) do Sistema universitario de
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35018
+Galicia (SUG) que se encontre en situación de servizo activo (incluído o persoal que teña
+concedido un permiso por motivos de conciliación da vida persoal, familiar e laboral) e que
+reúna os requisitos establecidos nesta convocatoria e para cada un dos casos no anexo II.
+2. Está exceptuado o persoal docente da Consellería de Educación, Ciencia, Universi-
+dades e Formación Profesional, o persoal das escalas dos corpos da policía de Galicia,
+policía local e bombeiros, e o persoal do Servizo Galego de Saúde, non entendendo por
+tal os/as empregados/as públicos/as da escala de saúde pública e administración sanitaria
+creada pola Lei 17/1989, do 23 de outubro, de creación de escalas de persoal sanitario ao
+servizo da Comunidade Autónoma de Galicia.
+Segunda. Itinerario formativo
+1. Para a preparación destas probas para a obtención do certificado de competencias
+dixitais, nivel iniciación (ComDix-Iniciación), a EGAP porá á disposición das persoas usua-
+rias, como material de apoio, un programa de autoformación específico que inclúe o itine-
+rario formativo completo do nivel Comdix iniciación:
+• Empezamos! Que nivel de competencias teño? Introdución ao Marco galego de competencias dixitais.
+• ComDix iniciación I: coñece a contorna dixital.
+• ComDix iniciación II: ten a información dixital sempre á man; buscar, seleccionar e gardar.
+• ComDix iniciación III: tecnoloxías dixitais para conversar, compartir e colaborar.
+• ComDix iniciación IV: participa na sociedade dixital; as vantaxes da administración electrónica.
+• ComDix iniciación V: crea contidos dixitais con ferramentas ofimáticas e multimedia.
+• ComDix iniciación VI: atopa o benestar dixital; tecnoloxía con sentidiño.
+2. Para a preparación destas probas para a obtención do certificado de competencias
+dixitais, nivel intermedio (ComDix-Intermedio), a EGAP porá á disposición das persoas
+usuarias, como material de apoio, un programa de autoformación específico que inclúe o
+itinerario formativo completo do nivel ComDix intermedio:
+• ComDix intermedio I: afondando na contorna dixital. Autonomía na solución de problemas.
+• ComDix intermedio II: aplicando estratexias de busca, verificación e organización da información dixital.
+• ComDix intermedio III: comunicación e colaboración efectiva en contornas dixitais. Traballo en equipo e
+teletraballo.
+• ComDix intermedio IV: cidadanía dixital: afondando na Administración electrónica.
+• ComDix intermedio V: crea, actualiza e mellora contidos dixitais con creatividade e innovación.
+• ComDix intermedio VI: promovendo a seguridade, o benestar e a inclusión dixital.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35019
+3. Todo o persoal destinado ao servizo da Administración pública da Comunidade Au-
+tónoma, das entidades públicas instrumentais enunciadas na alínea a) do artigo 45 da
+Lei 16/2010, do 17 de decembro, de organización e funcionamento da Administración xeral
+e do sector público autonómico de Galicia, da Administración institucional de Galicia, da
+Administración de xustiza de Galicia, das entidades locais galegas e do persoal técnico, de
+xestión e de administración e servizos (PTXAS) das universidades do Sistema universitario
+de Galicia (SUG) que reúna os requisitos establecidos nesta convocatoria, pode acceder
+aos contidos das actividades do programa de autoformación, sen pasar por un proceso de
+selección, inscribíndose na zona de matrícula da EGAP, no enderezo <https://egap.xunta.
+gal/matricula>.
+1. A inscrición para o acceso aos contidos poderá facerse en calquera momento a partir
+do 29 de xuño de 2026.
+2. Poderase acceder aos ditos contidos na aula virtual da EGAP desde a inscrición de
+acceso ata o 30 de decembro de 2026.
+3. As persoas participantes deberán dispoñer do software que se poida requirir na ac-
+tividade convocada.
+4. Cada persoa determinará libremente o número de actividades en que queira inscribir-
+se e mais o período durante o cal vai traballar na actividade ou actividades do programa
+de autoformación elixidas.
+5. A EGAP adoptará as medidas necesarias para facilitar a inscrición. As dúbidas, as
+dificultades técnicas e as peticións de información complementaria serán atendidas a
+través dos números de teléfono 981 54 62 57, 981 54 62 54, 981 54 62 53 e 981 54
+63 35 ou no enderezo de correo electrónico <xestion.egap@xunta.gal> en horario de
+atención ao público (das 9.00 ás 14.00 horas).
+6. Unha vez inscrita, a persoa recibirá unha mensaxe de correo electrónico de confir-
+mación e despois poderá acceder aos contidos da actividade ou actividades na aula
+virtual, no enderezo <https://egap.xunta.gal/aulavirtual>.
+7. O acceso aos contidos das actividades do programa de autoformación non implica a
+obriga de presentarse ás probas de certificación reguladas no anexo II, nin é tampouco
+un requisito para matricularse nelas.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35020
+8. O acceso aos contidos das actividades do programa de autoformación non dá dereito
+á expedición do certificado de competencias dixitais (ComDix), que se obterá unica-
+mente pola superación da proba de certificación regulada nesta convocatoria.
+Terceira. Datas e lugares de realización da proba para a obtención do certificado de
+competencias dixitais, nivel iniciación e nivel intermedio (ComDix-Iniciación) e (ComDix-In-
+termedio)
+As probas de certificación realizaranse nas datas e localizacións que para cada unha
+delas se indiquen no anexo II desta resolución.
+Cuarta. Solicitudes
+1. O prazo de presentación de solicitudes será desde o día seguinte ao da publicación
+desta resolución no Diario Oficial de Galicia e ata o 26 de xuño de 2026.
+2. As solicitudes de participación nas actividades formativas só poderán realizarse me-
+diante o formulario de matrícula telemática dispoñible no enderezo <https://egap.xunta.gal/
+matricula> desde as 9.00 horas da data de inicio do prazo de presentación de solicitudes e
+ata as 14.00 horas da data de finalización. As solicitudes entenderanse presentadas unha
+vez que se complete correctamente o proceso de matriculación.
+3. Soamente se poderá presentar unha solicitude de inscrición por persoa participante,
+e serán excluídas automaticamente aquelas persoas solicitantes que figuren inscritas en
+máis dunha localidade ou horario.
+4. Serán excluídas automaticamente aquelas solicitudes que non se axusten ao formu-
+lario de solicitude, non teñan cubertos correctamente os datos precisos para a realización
+do proceso de selección ou sexan presentadas fóra de prazo.
+5. As persoas que oculten ou falseen datos esenciais para a selección serán automa-
+ticamente excluídas das actividades solicitadas e pasarán ao final das listaxes de todas
+as actividades formativas que soliciten e cuxo prazo de matrícula comece dentro do ano
+seguinte contado desde que se detecte o feito.
+6. As persoas que necesiten acreditar circunstancias específicas (como por exemplo
+discapacidade ou permiso de maternidade), de acordo cos criterios de selección poderán
+remitirlle á EGAP a correspondente documentación complementaria, xunto cunha copia
+do formulario da matrícula, ao enderezo de correo electrónico <xestion.egap@xunta.gal>,
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35021
+sen prexuízo do previsto no artigo 16.4 da Lei 39/2015, do 1 de outubro, do procedemento
+administrativo común das administracións públicas (BOE núm. 236, do 2 de outubro). A
+devandita documentación deberá enviarse por unha única das vías indicadas; no caso con-
+trario, só serán considerados os datos achegados por correo electrónico. A documentación
+deberá presentarse dentro do prazo sinalado no punto 1 desta base.
+7. A EGAP adoptará as medidas necesarias para facilitar a presentación das solicitudes.
+As dúbidas, as dificultades técnicas e as peticións de información complementaria para a
+matrícula serán atendidas a través dos números de teléfono 981 54 62 57, 981 54 62 54,
+981 54 62 53 e 981 54 63 35 en horario de atención ao público (das 9.00 ás 14.00 horas)
+e do enderezo de correo electrónico <xestion.egap@xunta.gal>.
+As dúbidas relativas ao Marco galego de competencias dixitais e ao certificado galego
+de competencias dixitais poden consultarse en https://competenciasdixitais.xunta.gal/ e no
+correo electrónico competencias-dixitais@xunta.gal
+Quinta. Comprobación de datos
+1. Conforme o disposto no artigo 28.2 da Lei 39/2015, do 1 de outubro, do procedemen-
+to administrativo común das administracións públicas, para a tramitación do procedemento
+de selección consultaranse automaticamente os datos das persoas solicitantes da proba
+de certificación necesarios para realizar o proceso de selección, salvo que a persoa inte-
+resada se opuxese a iso. Neste caso, a persoa interesada deberá indicalo incluíndo os
+motivos de oposición relacionados coa súa situación particular e achegar, ademais, unha
+copia dos documentos a cuxa consulta se opón a través do seguinte enderezo electrónico:
+xestion.egap@xunta.gal
+2. No caso de que as persoas interesadas se opoñan a esta consulta deberán indicalo
+expresamente incluíndo os motivos de oposición relacionados coa súa situación particular
+e achegar os documentos que indiquen a súa situación administrativa, tipo de persoal e
+antigüidade na Administración a través do seguinte enderezo electrónico <xestion.egap@
+xunta.gal>.
+3. Excepcionalmente, no caso de que algunha circunstancia imposibilitase a obtención
+dos citados datos, poderáselles solicitar ás persoas interesadas a presentación dos docu-
+mentos correspondentes.
+4. A EGAP poderá pedir as certificacións necesarias para realizar a selección de acordo
+cos criterios recollidos nesta convocatoria.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35022
+Sexta. Criterios de selección
+1. Os criterios de selección que serán empregados son os sinalados con carácter xe-
+ral na Resolución da Escola Galega de Administración Pública do 10 de maio de 2023
+(DOG núm. 96, do 23 de maio), e modificacións posteriores.
+Os empates desfaranse de acordo co resultado do sorteo a que se refire o artigo 9 do
+Regulamento de selección de persoal da Administración da Comunidade Autónoma de
+Galicia, aprobado polo Decreto 95/1991, do 20 de marzo (DOG núm. 58, do 25 de marzo).
+Para o ano 2026, segundo a Resolución da Consellería de Facenda e Administración Pú-
+blica do 22 de xaneiro (DOG núm. 16, do 26 de xaneiro), comezarase pola letra M.
+A totalidade das prazas repartiranse nun 70 por cento para o persoal ao servizo da
+Administración pública da Comunidade Autónoma de Galicia, das entidades públicas ins-
+trumentais e da Administración institucional, nun 10 por cento para o persoal das entidades
+locais, 10 por cento para a Administración de xustiza de Galicia e outro 10 por cento para
+o PTXAS das universidades do SUG.
+No caso de que non haxa un número suficiente de solicitantes da Administración pública
+da Comunidade Autónoma de Galicia, das entidades públicas instrumentais e da Adminis-
+tración institucional, poderá completarse o número de alumnos/as asignado co persoal das
+restantes administracións destinatarias desta resolución de convocatoria, de acordo cos
+criterios sinalados con carácter xeral da Escola Galega de Administración Pública.
+Sétima. Publicación das relacións do persoal seleccionado
+1. A EGAP publicará no enderezo <https://egap.xunta.gal> unha relación das persoas
+admitidas, en reserva e excluídas para participar en cada proba de certificación en cada
+unha das localidades, días e horarios de realización, de acordo co disposto no artigo 45.1.b)
+da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administra-
+cións públicas (BOE núm. 236, do 2 de outubro).
+O prazo de presentación de alegacións será de dez días desde a súa publicación de
+acordo co artigo 82.2 da Lei 39/2015, do 1 de outubro, do procedemento administrativo
+común das administracións públicas.
+2. Logo de transcorrer o prazo de alegacións, a EGAP publicará no enderezo <https://
+egap.xunta.gal> a listaxe definitiva de persoas admitidas no curso. Contra esta listaxe po-
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35023
+derase interpoñer recurso de alzada no prazo dun mes desde a dita publicación, de acordo
+co disposto polos artigos 112.1, 121 e 122 da Lei 39/2015, do 1 de outubro, do procede-
+mento administrativo común das administracións públicas.
+Oitava. Cambios ou substitucións na selección, renuncia, asistencia e puntualidade
+1. En ningún caso serán admitidos cambios ou substitucións entre as persoas seleccio-
+nadas.
+2. Renuncia.
+a) As persoas seleccionadas poderán renunciar á proba. A renuncia debe ser comunica-
+da por escrito á EGAP. Na páxina web da Escola está dispoñible un modelo de renuncia.
+Para formalizar a renuncia poderase utilizar, alén do previsto no artigo 16.4 da
+Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións
+públicas (BOE núm. 236, do 2 de outubro), o enderezo de correo electrónico <xestion.
+egap@xunta.gal>.
+O prazo para presentar o escrito de renuncia iniciarase a partir da publicación da listaxe
+de persoas admitidas, en reserva e excluídas e finalizará 20 días naturais antes da data da
+proba de certificación.
+b) As persoas que incumpran o prazo arriba previsto pasarán ao final das listaxes de
+espera de todas as actividades formativas que soliciten e cuxo prazo de matrícula comece
+dentro do ano seguinte contado a partir do día de realización da proba de certificación,
+agás que a renuncia sexa por algunha das seguintes causas:
+– Por causa de forza maior suficientemente acreditada.
+– Por necesidades do servizo debidamente motivadas por parte dos/das responsables
+dos centros directivos.
+– Por razóns de conciliación familiar.
+– Por outras causas xustificadas documentalmente.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35024
+3. Non asistencia á proba de certificación.
+As persoas que non asistan á proba de certificación pasarán ao final das listaxes de
+espera de todas as actividades formativas que soliciten e cuxo prazo de matrícula comece
+dentro do ano seguinte contado a partir do día da realización da proba de avaliación, agás
+que a non presentación sexa por algunha das seguintes causas:
+– Por causa de forza maior suficientemente acreditada.
+– Por necesidades do servizo debidamente motivadas por parte dos/das responsables
+dos centros directivos.
+– Por razóns de conciliación familiar.
+– Por outras causas xustificadas documentalmente.
+Novena. Realización das probas de certificación
+1. A proba de certificación para a obtención do certificado ComDix realizarase na plata-
+forma habilitada para o efecto pola Axencia para a Modernización Tecnolóxica de Galicia.
+2. A estrutura desta proba será a seguinte:
+• Estará dispoñible tanto en galego como en castelán, para que a persoa usuaria poida
+seleccionar o idioma no momento de realizar a proba.
+• Constará dun cuestionario composto por entre 60 e 70 preguntas de diversa comple-
+xidade, que inclúe a avaliación das 21 competencias establecidas na estrutura do Marco
+galego ComDix.
+• Tipoloxía de preguntas: pregunta simple, múltiple, arrastrar, relacionar...
+• Non haberá penalización por preguntas incorrectas.
+• Disporase dun tempo máximo de 90 minutos para realizar a proba.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35025
+• Serán consideradas aptas aquelas persoas que superen o 60 % das preguntas refe-
+rentes a cada unha das 5 áreas e o 70 % do total das preguntas.
+• Se algunha persoa candidata non finaliza a proba no tempo establecido, o exame da-
+rase por concluído e enviarase automaticamente para a súa corrección.
+• Unha vez que cada persoa candidata complete a súa proba, poderá coñecer a súa
+puntuación, o seu resultado (apta ou non apta) e o número de preguntas incorrectas.
+• Non se autoriza o uso de dispositivos electrónicos diferentes aos provistos pola EGAP
+nin calquera outro material adicional durante o desenvolvemento das probas de certifica-
+ción.
+Décima. Corrección e revisión das probas
+1. Inmediatamente despois de finalizar a proba, e na mesma plataforma de certificación,
+as persoas participantes non aptas que estean en desacordo con algunha pregunta terán
+a posibilidade de solicitar a súa revisión.
+2. Posteriormente, levarase a cabo unha análise das preguntas obxecto de revisión para
+determinar a admisión, anulación ou posibilidade de modificación destas.
+3. As preguntas que resulten anuladas poden supoñer un cambio nos resultados das
+persoas participantes non aptas. Estas anulacións non afectarán negativamente as cualifi-
+cacións obtidas por aquelas persoas que xa obtivesen a puntuación de aptas.
+4. A modificación dos resultados finais tras a revisión de preguntas realizaraa de oficio
+a Amtega.
+5. A Amtega expedirá de oficio a certificación galega de competencias dixitais a todas
+aquelas persoas que superen con éxito a proba de certificación, segundo o disposto no
+Decreto 123/2021, do 2 de setembro, polo que se regula a dita certificación.
+Décimo primeira. Notificación de superación da proba de certificación pola Amtega
+1. As persoas que superen as probas de certificación serán notificadas preferentemente
+por medios electrónicos, e poderán decidir e comunicar en calquera momento que as suce-
+sivas notificacións se realicen ou se deixen de realizar por medios electrónicos.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35026
+2. As notificacións electrónicas realizaranse a través do Sistema de notificación elec-
+trónica de Galicia Notifica.gal, dispoñible a través da sede electrónica da Xunta de Galicia
+(https://sede.xunta.gal). Este sistema enviaralles ás persoas interesadas avisos da dispo-
+ñibilidade das notificacións mediante un correo electrónico dirixido ao enderezo de correo
+electrónico incluída na solicitude para os efectos de notificación.
+3. As notificacións realizadas por medios electrónicos consideraranse realizadas no
+momento de acceder ao seu contido. Cando a notificación por medios electrónicos sexa
+obrigatoria, ou fose expresamente elixida pola persoa interesada, considerarase rexeitada
+cando transcorran dez días naturais desde que se puxese á disposición a notificación sen
+acceder ao seu contido.
+Décimo segunda. Facultades da EGAP e a Amtega
+1. A EGAP e a Amtega resolverán aquelas incidencias que poidan producirse no desen-
+volvemento e na xestión das probas de certificación. Tamén lles corresponde á EGAP e á
+Amtega prover canto sexa necesario para a execución e o cumprimento desta resolución.
+2. A execución material das probas de certificación queda condicionada á existencia de
+crédito orzamentario axeitado e dispoñible e á autorización correspondente do gasto.
+3. No suposto de que o número de admitidos/as sexa inferior ao 50 % das prazas con-
+vocadas, a EGAP e a Amtega reservan para si o dereito a suspender, cancelar ou agrupar
+varias edicións das probas, caso en que empregarán os medios de notificación ás persoas
+interesadas previstos na normativa vixente.
+4. A EGAP e a Amtega poderán modificar os contidos, o desenvolvemento, as datas e os
+lugares das probas de certificación, así como resolver todas as continxencias que poidan
+xurdir. Todas as modificacións que afecten o desenvolvemento das probas serán anuncia-
+das na páxina web da escola.
+5. A EGAP e a Amtega garantirán na totalidade das probas de certificación deriva-
+das desta convocatoria a promoción da igualdade real e efectiva entre mulleres e ho-
+mes, a eliminación de calquera tipo de discriminación e o fomento dos dereitos de conci-
+liación.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35027
+ANEXO II
+Lugares e datas de realización das probas
+para a obtención do certificado
+Primeira. Calendario das probas
+As probas de certificación presencial desenvolveranse segundo o seguinte calendario.
+Estas probas terán lugar nas dependencias das aulas EGAP/Amtega de cada localida-
+de, nos días e horas que se relacionan, e co número de prazas dispoñibles que se corres-
+ponden coa capacidade de cada aula.
+Núm. Data e hora
+Código Localidade Actividade
+prazas da proba
+Probas de acceso libre para a obtención directa
+CV26099 A Coruña 13
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26099 Ferrol 8
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26099 Lugo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa 21.9.2026
+CV26099 Ourense 15
+da certificación ComDix iniciación 18.00 h
+Probas de acceso libre para a obtención directa
+CV26099 Pontevedra 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26099 Santiago de Compostela 44
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26099 Vigo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26100 A Coruña 13
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26100 Ferrol 8
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26100 Lugo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa 22.9.2026
+CV26100 Ourense 15
+da certificación ComDix iniciación 18.00 h
+Probas de acceso libre para a obtención directa
+CV26100 Pontevedra 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26100 Santiago de Compostela 44
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26100 Vigo 15
+da certificación ComDix iniciación
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35028
+Núm. Data e hora
+Código Localidade Actividade
+prazas da proba
+Probas de acceso libre para a obtención directa
+CV26101 A Coruña 13
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26101 Ferrol 8
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26101 Lugo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa 16.11.2026
+CV26101 Ourense 15
+da certificación ComDix iniciación 18.00 h
+Probas de acceso libre para a obtención directa
+CV26101 Pontevedra 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26101 Santiago de Compostela 44
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26101 Vigo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26102 A Coruña 13
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26102 Ferrol 8
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26102 Lugo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa 17.11.2026
+CV26102 Ourense 15
+da certificación ComDix iniciación 18.00 h
+Probas de acceso libre para a obtención directa
+CV26102 Pontevedra 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26102 Santiago de Compostela 44
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26102 Vigo 15
+da certificación ComDix iniciación
+Probas de acceso libre para a obtención directa
+CV26103 A Coruña 13
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26103 Ferrol 8
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26103 Lugo 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa 23.9.2026
+CV26103 Ourense 15
+da certificación ComDix intermedio 18.00 h
+Probas de acceso libre para a obtención directa
+CV26103 Pontevedra 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26103 Santiago de Compostela 44
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26103 Vigo 15
+da certificación ComDix intermedio
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 35029
+Núm. Data e hora
+Código Localidade Actividade
+prazas da proba
+Probas de acceso libre para a obtención directa
+CV26104 A Coruña 13
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26104 Ferrol 8
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26104 Lugo 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa 24.9.2026
+CV26104 Ourense 15
+da certificación ComDix intermedio 18.00 h
+Probas de acceso libre para a obtención directa
+CV26104 Pontevedra 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26104 Santiago de Compostela 44
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26104 Vigo 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26105 A Coruña 13
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26105 Ferrol 8
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26105 Lugo 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa 18.11.2026
+CV26105 Ourense 15
+da certificación ComDix intermedio 18.00 h
+Probas de acceso libre para a obtención directa
+CV26105 Pontevedra 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26105 Santiago de Compostela 44
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26105 Vigo 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26106 A Coruña 13
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26106 Ferrol 8
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26106 Lugo 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa 19.11.2026
+CV26106 Ourense 15
+da certificación ComDix intermedio 18.00 h
+Probas de acceso libre para a obtención directa
+CV26106 Pontevedra 15
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26106 Santiago de Compostela 44
+da certificación ComDix intermedio
+Probas de acceso libre para a obtención directa
+CV26106 Vigo 15
+da certificación ComDix intermedio
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+7fgfoq3cogfk-6q2g-7szb-8wth-9k1tpkle
+:GOD-EVC

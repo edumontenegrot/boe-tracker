@@ -1,0 +1,974 @@
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34898
+I. DISPOSICIÓNS XERAIS
+CONSELLERÍA DE FACENDA E ADMINISTRACIÓN PÚBLICA
+ORDE do 2 de xuño de 2026 pola que se regula a xestión dos libros rexistro e o
+deber de información das persoas mediadoras de seguros e reaseguros privados
+da Comunidade Autónoma de Galicia (código de procedemento FA005A).
+A Comunidade Autónoma de Galicia ten atribuídas as competencias de desenvolve-
+mento lexislativo e execución en materia de ordenación do crédito, banca e seguros, de
+conformidade coa Lei orgánica 6/1999, do 6 de abril, de transferencia de competencias á
+Comunidade Autónoma de Galicia, e co Real decreto 1748/1999, do 19 de novembro, so-
+bre traspaso de funcións e servicios da Administración do Estado á Comunidade Autónoma
+de Galicia en materia de mediadores de seguros. Mediante o Decreto 321/1999, do 16 de
+decembro, polo que se asumen as funcións e os servizos transferidos á Comunidade Au-
+tónoma de Galicia mediante o Real decreto 1748/1999, do 19 de novembro, en materia de
+mediadores de seguros e se lle asignan á Consellería de Economía e Facenda, as funcións
+e os servizos transferidos asignáronselle á citada consellería, actualmente Consellería de
+Facenda e Administración Pública.
+No exercicio das citadas competencias publicouse a Orde do 25 de marzo de 2014 so-
+bre os libros rexistro e o deber de información dos mediadores de seguros e reaseguros
+privados da Comunidade Autónoma de Galicia, que derrogou a Orde do 10 de febreiro de
+2009 sobre os libros rexistro e o deber de información das/dos mediadoras/es de seguros e
+reaseguros privados, e a Resolución do 18 de abril de 2011, da Dirección Xeral de Política
+Financeira e Tesouro, pola que se aproban os modelos de información dos mediadores de
+seguros e reaseguros privados da Comunidade Autónoma de Galicia.
+Así mesmo, publicouse a Orde do 4 de maio de 2022 pola que se regula o Rexistro admi-
+nistrativo de distribuidores de seguros e reaseguros da Comunidade Autónoma de Galicia,
+que derrogou a anterior Orde do 17 de marzo de 2009. Incorpora, fundamentalmente, as
+novidades lexislativas recollidas na Lei 20/2015, do 14 de xullo, de ordenación, supervisión
+e solvencia das entidades aseguradoras e reaseguradoras; no Real decreto 1060/2015,
+do 20 de novembro, de ordenación, supervisión e solvencia das entidades aseguradoras e
+reaseguradoras, que a desenvolve, e no Real decreto lei 3/2020, do 4 de febreiro, de medi-
+das urxentes polo que se incorporan ao ordenamento xurídico español diversas directivas
+da Unión Europea no ámbito da contratación pública en determinados sectores; de seguros
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34899
+privados; de plans e fondos de pensións; do ámbito tributario e de litixios fiscais. A Orde
+do 4 de maio de 2022 recolleu as novidades contidas no Real decreto 287/2021, do 20
+de abril, sobre formación e remisión da información estatístico-contable dos distribuidores
+de seguros e reaseguros, e na Resolución do 3 de xuño de 2021, da Dirección Xeral de
+Seguros e Fondos de Pensións, pola que se establecen os principios básicos dos cursos e
+programas de formación para os distribuidores de seguros e reaseguros.
+Ao longo do período de aplicación das ditas ordes identificáronse diversas necesidades
+de adaptación que fan aconsellable que se aprobe unha nova orde que suporá a derroga-
+ción da Orde do 25 de marzo de 2014 e a modificación do artigo 18 da Orde do 4 de maio
+de 2022.
+En primeiro lugar, e co fin de garantir a adecuada adaptación ao marco normativo esta-
+tal, mediante a presente orde incorpóranse nos artigos 3 a 5 as obrigas de carácter básico
+establecidas no Real decreto 287/2021, do 20 de abril. Estas obrigas refírense, por unha
+banda, á xestión dos libros rexistro e contables, de conformidade co disposto na citada
+norma estatal e, por outra, ás obrigas de formación e información das persoas mediadoras
+de seguros inscritas no rexistro autonómico para o exercicio da súa actividade.
+En segundo lugar, abórdanse a revisión e a actualización dos modelos de información
+estatístico-contable, revisión que vén determinada tamén pola normativa de carácter bási-
+co e que fai preciso que os ditos modelos recollan a clasificación establecida legalmente en
+relación coa estrutura organizativa das persoas mediadoras de seguros, así como a relati-
+va aos medios persoais con que contan para o exercicio da súa actividade e os requisitos
+de formación que deben cumprir, e engádense as adaptacións que xa figuran na aplicación
+informática habilitada para o efecto.
+Na revisión dos modelos de información estatístico-contable tívose en conta que a
+Orde ECM/1501/2024, do 23 de decembro, pola que se aproban os modelos estatístico-
+contables dos corretores de seguros, corretores de reaseguros, axentes de seguros vin-
+culados e operadores de banca-seguros, que entrou en vigor o 2 de xaneiro de 2025,
+incorporou un elevado nivel de detalle da información que deben facilitar as persoas
+mediadoras sobre aspectos como a estrutura organizativa, os recursos técnicos e huma-
+nos e os procedementos internos de control. Ao non tratarse dunha norma de carácter
+básico, a Comunidade Autónoma de Galicia, no exercicio das súas competencias como
+órgano supervisor, optou por un modelo de información simplificada, que permite alcan-
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34900
+zar un equilibrio axeitado entre o esforzo requirido ás persoas mediadoras e a utilidade
+supervisora da información obtida, o que asegura unha supervisión eficaz e proporcio-
+nada ao medios dispoñibles. Non obstante, considerouse oportuno incorporar a obriga
+de que as persoas mediadoras proporcionen información relativa ao número de pólizas
+intermediadas, desagregada por ramos de seguro. Esta medida permitirá dispor de da-
+tos máis desagregados e precisos sobre a actividade real do sector, o que contribúe de
+forma significativa a reforzar a eficacia das funcións públicas de supervisión, polo que se
+mellora así a protección da clientela.
+Por último, no que respecta á información estatístico-contable, incorpórase a obriga
+de reflectir información dos produtos de investimento baseados en seguros, dada a súa
+crecente relevancia e a súa especial natureza híbrida entre seguros e produtos financei-
+ros. Así mesmo, engádase a obriga de proporcionar información específica sobre os
+ciber-riscos, en atención á súa progresiva consolidación como unha categoría diferencia-
+da de risco.
+Na disposición derradeira primeira recóllese a modificación do artigo 18 da Orde do 4
+de maio de 2022, pola que se regula o Rexistro administrativo de distribuidores de seguros
+e reaseguros da Comunidade Autónoma de Galicia. Esta modificación responde á nece-
+sidade de unificar e clarificar as obrigas de comunicación das persoas distribuidoras de
+seguros respecto aos cambios na información que consta en poder da Administración. O
+artigo 18 diferenciaba entre datos inscritibles e non inscritibles, establecía para os primei-
+ros un prazo concreto de comunicación e deixaba os segundos sen prazo específico. Coa
+nova redacción intégrase nunha única epígrafe a obriga de notificar calquera modificación
+da información achegada na solicitude de inscrición, e fíxase un prazo uniforme de 15 días
+hábiles. Deste modo, simplifícase o réxime aplicable e dótase de coherencia a norma, o
+que garante a actualización completa do rexistro administrativo.
+Co fin de garantir unha implantación ordenada dos novos modelos estatístico-contables,
+establécese na disposición derradeira terceira unha cláusula de aplicación que determina
+o primeiro exercicio a que resultarán de aplicación. Deste xeito, clarifícase que os modelos
+aprobados por esta orde deberán empregarse para a información correspondente ao exer-
+cicio 2026, o que asegura a coherencia temporal coa entrada en vigor da norma e co ciclo
+de remisión de documentación.
+Como consecuencia de todas estas modificacións, considérase necesario ditar unha
+nova orde que derrogue a Orde do 25 de marzo de 2014.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34901
+Esta norma adecúase aos principios de boa regulación previstos no artigo 37 da
+Lei 14/2013, do 26 de decembro, de racionalización do sector público autonómico, e no
+artigo 129 da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das
+administracións públicas.
+En aplicación dos principios de necesidade e eficacia, a norma persegue un interese
+xeral por canto adapta a regulación autonómica á normativa estatal de carácter básico.
+En cumprimento, ademais, dos principios de accesibilidade, de transparencia e de pro-
+porcionalidade, identifícanse claramente os obxectivos perseguidos coa norma e esta é o
+instrumento máis adecuado para conseguilos, ao conter a regulación imprescindible para
+atender a necesidade referida. En aplicación do principio de eficiencia, a norma racionaliza
+a xestión dos recursos públicos e, en virtude dos principios de simplicidade e de segurida-
+de xurídica, a norma garda coherencia co resto do ordenamento xurídico: recolle as modi-
+ficacións necesarias, é a canle adecuada para facelo e xera un marco normativo estable,
+predicible, integrado, claro e certo, co obxectivo de que sexan fáciles o seu coñecemento
+e a súa comprensión.
+O texto da orde foi sometido ao trámite de información pública no Portal de transparen-
+cia e Goberno aberto e audiencia coas entidades representativas no sector da mediación
+de seguros, regulado no artigo 42.3 da Lei 16/2010, do 17 de decembro, de organización e
+funcionamento da Administración xeral e do sector público autonómico de Galicia. Así mes-
+mo, conta co informe da Dirección Xeral de Orzamentos e Financiamento Autonómico e da
+Dirección Xeral de Promoción da Igualdade, así como co informe tecnolóxico-funcional e
+da Asesoría Xurídica.
+A orde estrutúrase en seis artigos, unha disposición adicional única, unha disposición
+derrogatoria única e catro disposicións derradeiras.
+Como consecuencia, por proposta do centro directivo competente en materia de super-
+visión de seguros, no exercicio das facultades outorgadas polo artigo 34.6 da Lei 1/1983,
+do 22 de febreiro, reguladora da Xunta e da súa Presidencia,
+ACORDO:
+Sección 1ª. Disposicións xerais
+Artigo 1. Obxecto
+A presente orde ten por obxecto regular a obriga de xestión dos libros rexistro das per-
+soas corretoras de seguros e as obrigas contables, de formación e de información estatís-
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34902
+tico-contable consonte a normativa estatal en vigor das persoas mediadoras de seguros
+e reaseguros privados inscritas no Rexistro administrativo de distribuidores de seguros da
+Comunidade Autónoma de Galicia.
+Artigo 2. Ámbito subxectivo
+Esta orde aplicarase ás persoas mediadoras de seguros e reaseguros privados inscri-
+tas no Rexistro administrativo de distribuidores de seguros e reaseguros da Comunidade
+Autónoma de Galicia.
+Sección 2ª. Obrigas contables
+Artigo 3. Obrigas de xestión de libros rexistro e contables
+As persoas corretoras de seguros e reaseguros inscritas no Rexistro administrativo de
+distribuidores de seguros e reaseguros da Comunidade Autónoma de Galicia deberán xes-
+tionar os libros rexistro conforme o establecido no capítulo IV do Real decreto 287/2021,
+do 20 de abril, sobre formación e remisión da información estatístico-contable dos distribui-
+dores de seguros e reaseguros, sen prexuízo da xestión dos libros de contabilidade a que
+estean obrigadas por normas mercantís ou fiscais.
+Sección 3ª. Obrigas de formación e de información e procedemento
+Artigo 4. Obrigas de formación
+As persoas mediadoras de seguros e reaseguros privados inscritas no Rexistro admi-
+nistrativo de distribuidores de seguros e reaseguros da Comunidade Autónoma de Galicia
+deberán posuír os coñecementos e as aptitudes, así como os requisitos de formación e
+desenvolvemento profesional permanentes, conforme o establecido nos capítulo II e III do
+Real decreto 287/2021, do 20 de abril.
+Artigo 5. Obrigas de información
+As persoas mediadoras de seguros e reaseguros privados inscritas no Rexistro admi-
+nistrativo de distribuidores de seguros e reaseguros da Comunidade Autónoma de Galicia
+deberán remitirlle ao órgano con competencias en materia de supervisión de seguros a
+información contida nos anexos I e II desta orde.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34903
+Adicionalmente, deberán achegar no programa habilitado para os efectos, xunto coa
+información estatístico-contable anual, a seguinte información:
+a) No caso das persoas corretoras de seguros, informe do servizo de atención á clien-
+tela do exercicio correspondente á información estatístico-contable.
+b) Xustificación das horas de formación continua declaradas na información estatístico-
+contable.
+Artigo 6. Presentación da información
+1. Para cumprir coa obriga de información está habilitado o procedemento FA005A na
+Guía de procedementos administrativos, dispoñible na sede electrónica da Xunta de Ga-
+licia. Así mesmo, pode realizarse a través da páxina web da Consellería de Facenda e
+Administración Pública.
+2. A presentación da información realizarase unicamente por medios electrónicos a tra-
+vés dos formularios normalizados (anexos I e II), dispoñibles na sede electrónica da Xunta
+de Galicia, https://sede.xunta.gal, ou na páxina web VIA de usuarios autorizados da Con-
+sellería de Facenda e Administración Pública, https://viap.cixtec.es/via/.
+Para a presentación electrónica das solicitudes poderá empregarse calquera dos me-
+canismos de identificación e sinatura admitidos pola sede electrónica da Xunta de Galicia.
+3. A comunicación da información estatístico-contable anual das persoas corretoras de
+seguros e reaseguros e persoas axentes de seguros vinculadas realizarase respecto da-
+queles períodos en que exercesen a actividade de mediación, mesmo cando esta non se
+desenvolvese durante a totalidade do exercicio, como consecuencia da alta ou da cance-
+lación da inscrición no rexistro administrativo.
+4. A remisión ao órgano con competencias en materia de supervisión de seguros da infor-
+mación contida nos anexos da presente orde deberá facerse como data límite o 30 de abril do
+ano seguinte ao cal se refire a información. As instrucións para cubrir os diferentes modelos
+serán publicadas polo órgano con competencias en materia de supervisión de seguros a tra-
+vés da páxina web da consellería competente en materia de supervisión de seguros.
+Disposición adicional única. Órgano competente
+De conformidade coa disposición derradeira primeira do Real decreto 287/2021, do 20
+de abril, na Comunidade Autónoma de Galicia corresponderalle á consellería ou ao órgano
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34904
+competente en materia de supervisión de seguros o exercicio das funcións relativas ás
+persoas mediadoras de seguros e reaseguros inscritas no rexistro autonómico.
+Disposición derrogatoria única. Derrogación normativa
+Quedan derrogadas a Orde do 25 de marzo de 2014 sobre os libros rexistro e o deber de
+información dos mediadores de seguros e reaseguros privados da Comunidade Autónoma
+de Galicia e as disposicións de igual ou inferior rango que se opoñan ao disposto nesta orde.
+Disposición derradeira primeira. Modificación da Orde do 4 de maio de 2022 pola que
+se regula o Rexistro administrativo de distribuidores de seguros e reaseguros da Comu-
+nidade Autónoma de Galicia
+Modifícase o artigo 18, que queda coa redacción seguinte:
+«Artigo 18. Modificación da información
+As persoas distribuidoras de seguros deberán, nun prazo máximo de quince días hábi-
+les desde que se adopte o acordo de modificación, notificarlle ao órgano competente en
+materia de distribución de seguros os cambios na información facilitada na solicitude de
+inscrición ou nas súas posteriores modificacións.
+Para a comunicación da información modificada, deberá presentarse unha solicitude de
+modificación de datos, conforme os modelos dos anexos I e XI (códigos de procedemento
+FA301A e FA301B). A solicitude deberá ir acompañada da documentación e dos anexos
+complementarios necesarios, segundo a modificación de que se trate, e presentarase por
+vía electrónica a través do formulario normalizado dispoñible na sede electrónica da Xunta
+de Galicia https://sede.xunta.gal
+No caso de que as modificacións afecten accións ou participacións significativas dunha
+sociedade de corretoría, deberá informar previamente para obter a non oposición do
+órgano competente en materia de distribución de seguros e xuntar o anexo III xunto coa
+documentación e anexos complementarios que se especifican no dito anexo.
+Tras a presentación da solicitude seguiranse os trámites previstos nos artigos 13 ao 16.
+Tamén será de aplicación, no que proceda, o disposto no artigo 11 respecto da comproba-
+ción de datos. A competencia para modificar os datos que afecten a inscrición no rexistro
+corresponderalle á persoa titular do órgano competente en materia de distribución de segu-
+ros. As modificacións solicitadas incorporaranse ao rexistro nos tres días hábiles seguintes
+a aquel en que se dispoña da documentación completa para inscribilas».
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34905
+Disposición derradeira segunda. Habilitación normativa
+Autorízase a persoa titular do centro directivo competente en materia de supervisión
+de seguros para adoptar todos os actos e medidas que sexan necesarios para o desen-
+volvemento e execución da presente orde e, en particular, para realizar as modificacións
+que procedan nos modelos que compoñen a documentación anual que figuran nos anexos
+desta orde.
+Disposición derradeira terceira. Remisión dos primeiros modelos estatístico-contables
+Os primeiros modelos estatístico-contables que deban ser remitidos ao centro directivo
+competente en materia de supervisión de seguros a partir da súa entrada en vigor afecta-
+rán a información anual correspondente ao exercicio 2026.
+Disposición derradeira cuarta. Entrada en vigor
+A presente orde entrará en vigor aos vinte días da súa publicación no Diario Oficial de
+Galicia.
+Santiago de Compostela, 2 de xuño de 2026
+Miguel Corgos López-Prado
+Conselleiro de Facenda e Administración Pública
+ANEXO I
+Documentación estatístico-contable anual dos/das corretores/as de seguros e reaseguros
+Modelos que compoñen a documentación estatístico-contable anual
+Modelo 0/PF: Declaración do/da corretor/a de seguros e reaseguros, persoa física.
+Modelo 0/PX: Declaración do/da representante legal do/da corretor/a de seguros e rease-
+guros, persoa xurídica.
+Modelo 1: Estrutura da organización.
+Modelo 2.1: Carteira de seguros intermediada. Distribución.
+Modelo 2.2: Carteira de reaseguros intermediada. Distribución.
+Modelo 3: Carteira de seguros/reaseguros intermediada. Distribución en ramos de non vida.
+Modelo 4: Carteira de seguros/reaseguros intermediada. Distribución en ramos de vida.
+Modelo 5.1: Datos contables do/da corretor/a de seguros e reaseguros, persoa física.
+Modelo 5.2: Datos contables do/da corretor/a de seguros e reaseguros, persoa xurídica:
+conta de perdas e ganancias.
+Modelo 5.3: Datos contables do/da corretor/a de seguros e reaseguros, persoa xurídi-
+ca: balance.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34906
+MODELO 0/PF
+EXERCICIO
+DECLARACIÓN DO/DA CORRETOR/A DE SEGUROS E REASEGUROS, PERSOA FÍSICA
+NOME:
+CLAVE DE INSCRICIÓN: NIF:
+OFICINA PRINCIPAL:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+TELÉFONO: MÓBIL:
+CORREO ELECTRÓNICO: DOMINIO DA INTERNET:
+ENDEREZO PARA OS EFECTOS DE NOTIFICACIÓNS:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+Mediador/a de seguros complementario/a  SI  NON
+DECLARO: que os datos que figuran nos presentes modelos de información son certos e recollen fielmente a situación da miña actividade de
+corretor/a de seguros/reaseguros.
+1. Para os efectos de resolver calquera incidencia relacionada coa información contida nesta declaración, autorizo como interlocutor/a co
+órgano competente en materia de supervisión de seguros a:
+Nome e apelidos:
+Teléfono de contacto:
+Correo electrónico:
+2. Por último, remito información aclaratoria dos datos contidos nos seguintes modelos:
+Por todo o anterior, formulo a presente declaración
+.................., .................. de .................. de ..................
+Asdo.:
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34907
+MODELO 0/PX
+EXERCICIO
+DECLARACIÓN DO/DA REPRESENTANTE LEGAL DO/DA CORRETOR/A DE SEGUROS E REASEGUROS,
+PERSOA XURÍDICA
+DENOMINACIÓN SOCIAL:
+CLAVE DE INSCRICIÓN: NIF:
+DOMICILIO SOCIAL:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+OFICINA PRINCIPAL:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+TELÉFONO: MÓBIL:
+CORREO ELECTRÓNICO: DOMINIO DA INTERNET:
+ENDEREZO PARA OS EFECTOS DE NOTIFICACIÓNS:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+Mediador/a de seguros complementario/a  SI  NON
+GRUPO DE ENTIDADES
+Pertence a corretoría de seguros/reaseguros a un grupo de entidades? SI  NON 
+Só se encherá no caso de responder SI:
+Grupo que exerce o control sobre o corretor/a de seguros/reaseguros:
+Domicilio do grupo que exerce o control:
+Poboación: .................. Provincia: .................. Código postal: .................. País: ..................
+.................................................. (Nome e apelidos), actuando en representación desta sociedade,
+DECLARO: que os datos que figuran nos presentes modelos de información son certos e recollen fielmente a situación da sociedade de
+corretoría de seguros/reaseguros a que represento.
+1. Que o capital social é de .................. €, dividido en .......... accións/participacións de .................. €, subscritas polas seguintes persoas
+socias:
+Porcentaxe de
+Nome e apelidos/denominación NIF/NIE Data de adquisición
+participación
+2. Que as persoas que exercen como administradoras da sociedade son:
+Nome e apelidos/denominación NIF/NIE Cargo Data de nomeamento
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34908
+3. Que as persoas que integran o órgano de dirección, así como as responsables da actividade de distribución, son:
+Nome e apelidos NIF/NIE Cargo Data de nomeamento
+Seguen vixentes estes datos no exercicio ?  SI  NON
+4. Para os efectos de resolver calquera incidencia relacionada coa información contida nesta declaración, autorizo como interlocutor/a co
+órgano competente en materia de supervisión de seguros a:
+Nome e apelidos:
+Teléfono de contacto:
+Correo electrónico:
+5. Por último, remito a información aclaratoria dos datos contidos nos seguintes modelos:
+Por todo o anterior, formulo a presente declaración
+................., .................. de .................. de ..................
+Asdo.:
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34909
+MODELO 1
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+ESTRUTURA DA ORGANIZACIÓN
+Outro Outro
+Órgano/persoa Colaborad. Colaborad.
+MEDIOS Empregados/as que Empregados/as que persoal persoal
+responsable da externos/as externos/as que Outros/as TOTAL
+PERSOAIS asesoran informan que que
+actividade que asesoran informan
+asesora informa
+Afectos a
+actividade de
+mediación
+NON afectos a
+actividade de
+mediación
+MEDIOS PERSOAIS E FORMACIÓN
+MEDIOS PERSOAIS AFECTOS A Formación previa
+Total
+ACTIVIDADE DE MEDIACIÓN 1/A 2/B 3
+Órgano/persoa responsable da actividade
+Empregados/as que asesoran
+Empregados/as que informan
+Colaboradores/as externos/as que asesoran
+Colaboradores/as externos/as que informan
+Outro persoal que asesora
+Outro persoal que informa
+TOTAL
+FORMACIÓN CONTINUA
+Medios
+Persoal Núm. Horas
+Propios Alleos
+Órgano/persoa responsable da actividade
+Empregados/as que asesoran
+Empregados/as que informan
+Colaboradores/as externos/as que asesoran
+Colaboradores/as externos/as que informan
+Outro persoal que asesora
+Outro persoal que informa
+Outros/as
+TOTAL
+OUTROS DATOS DA OFICINA PRINCIPAL E SUCURSAIS
+Empregados/as
+Oficinas Réxime Primas devindicadas intermediadas (€)
+Que asesoran Que informan
+TOTAL
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34910
+MODELO 2.1
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+CARTEIRA DE SEGUROS INTERMEDIADA
+DISTRIBUCIÓN
+Primas devindicadas
+Rede
+intermediadas
+Tipo de pacto
+C e ó n d ti i d g a o d d e a as E e n g t u id ra a d d o e r a Total Nova Porc v e id n a ta xe P n o o rc n e v n i t d a a x e Propia e C x o te la rn b o o s ra /a d s . ext C e o rn la o b s o /a ra s d q . u e Outros/as (véxase p é le ) nda ao c P ob ri r m ad a a s s
+negocio produción que
+informan
+asesoran
+TOTAL TOTAL
+Denominación Descrición
+Non recibe fondos de clientes/as. Contractualmente pactouse de forma expresa coa EA que todos os importes aboados pola
+Domiciliación clientela se realizarán directamente a través de domiciliación bancaria en contas abertas a nome das entidades aseguradoras, e
+bancaria que todas as cantidades aboadas en concepto de indemnizacións serán entregadas directamente polas entidades aseguradoras
+aos/as tomadores/as de seguros, asegurados/as ou beneficiarios/as.
+Recibe fondos de clientes/as, dispón de contas completamente separadas e asumiu o compromiso de ofrecer aos/ás
+Entrega tomadores/as unha cobertura inmediata. Contractualmente o/a mediador/a está autorizado/a pola EA para recibir primas e
+recibo EA entrega de recibo no momento do pagamento, garantindo cobertura inmediata segundo a carta de condicións subscrita. As
+indemnizacións entregaranse directamente polas entidades aseguradoras aos/ás tomadores/as.
+Domiciliación Non recibe fondos de clientes/as e/ou recibe fondos e dispón de contas separadas, ofrecendo cobertura inmediata. A carta
+e recibo EA de condicións asinada autoriza ao/á mediador/a para empregar calquera das dúas opcións anteriores coa súa clientela.
+Recibe fondos de clientes/as e dispón de contas completamente separadas, pero NON asumiu o compromiso de ofrecerlles
+Sen pactos aos/ás tomadores/as unha cobertura inmediata. O/a mediador/a acredita a súa capacidade financeira mediante aval ou seguro
+de caución, sen asumir o compromiso de ofrecer cobertura inmediata.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+ISSN1130-9229
+Depósito
+legal
+C.494-1998
+https://www.xunta.gal/diario-oficial-galicia
+DOG
+Núm.
+113
+Xoves,
+18
+de
+xuño
+de
+2026
+Páx.
+34911
+CVE-DOG: 45ednkk8-m3v3-daa7-83o7-fncwd6750gf6
+MODELO 3
+EXERCICIO
+CARTEIRA DE SEGUROS INTERMEDIADA
+DISTRIBUCIÓN EN RAMOS DE NON VIDA
+VOLUME TOTAL DE NEGOCIO NOVA PRODUCIÓN
+Primas Primas
+Porcentaxe de Comisións Honorarios Porcentaxe de Comisións Honorarios
+RAMOS NON VIDA devindicadas Núm. de pólizas devindicadas Núm. de pólizas
+primas devindicadas profesionais primas devindicadas profesionais
+intermediadas intermediadas
+Accidentes
+Enfermidade
+Asistencia sanitaria
+Dependencia
+Autos
+Transportes
+Incendios e elementos naturais
+Outros danos a bens-Seguros agrarios
+combinados
+Outros danos a bens-Roubo ou outros
+Outros danos a bens: avaría de
+maquinaria
+R.C. en xeral-Riscos nucleares
+R.C en xeral-Outros riscos
+Crédito
+Caución
+Perdas diversas
+Defensa xurídica
+Asistencia
+Decesos
+Multirisco fogar
+Multirisco comunidades
+Multirisco comercios
+Multirisco industriais
+Outros multirriscos
+Ciber-riscos
+TOTAL NON VIDA
+Modelo 3
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34912
+MODELO 4
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+CARTEIRA DE SEGUROS/REASEGUROS INTERMEDIADA
+DISTRIBUCIÓN EN RAMOS DE VIDA
+Intermedia produtos de investimento baseados en seguros (IBIPS)?  SI  NON
+VOLUME TOTAL DE NEGOCIO
+Primas devindicadas Porcentaxe Honorarios
+Comisións devindicadas(€) Núm. de pólizas
+intermediadas (€) de primas profesionais (€)
+INDIVIDUAL
+COLECTIVO
+TOTAL VIDA
+NOVA PRODUCIÓN
+Primas devindicadas Porcentaxe Honorarios
+Comisións devindicadas(€) Núm. de pólizas
+intermediadas (€) primas profesionais (€)
+INDIVIDUAL
+COLECTIVO
+TOTAL VIDA
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34913
+MODELO 5.1
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+DATOS CONTABLES DO/DA CORRETOR/A DE SEGUROS E REASEGUROS, PERSOA FÍSICA
+Investimento/valor engadido
+Valor engadido o custo dos factores
+Investimento bruto en bens materiais
+Importe neto da cifra de negocios
+a)Afecto á actividade de mediación
+a.1) Comisións percibidas
+a.2) Honorarios profesionais
+b)Resto de actividades
+Outros ingresos de explotación
+a)Afecto á actividade de mediación
+b)Resto de actividades
+Gastos de persoal
+a)Afectos á actividade de mediación
+b)Resto de actividades
+Outros gastos de explotación
+a)Afectos á actividade de mediación
+b)Resto de actividades
+Ingresos financeiros
+a)Afectos á actividade de mediación
+b)Resto de actividades
+Gastos financeiros
+a)Afectos á actividade de mediación
+b)Resto de actividades
+RESULTADO DA(S) ACTIVIDADE(S)
+Modelo 5.1
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34914
+MODELO 5.2
+EXERCICIO
+DATOS CONTABLES DO/DA CORRETOR/A DE SEGUROS E REASEGUROS, PERSOA XURÍDICA: CONTA DE PERDAS E GANANCIAS
+Investimento/valor engadido
+Valor engadido ao custo dos factores
+Investimento bruto en bens materiais
+CONTA DE PERDAS E GANANCIAS ABREVIADA
+1.Importe neto da cifra de negocios
+1.a) Afecto á actividade de mediación
+1.a.1) Comisións percibidas
+1.a.2) Honorarios profesionais
+1.b) Resto de actividades
+2.Variación de existencias de produtos terminados e en curso de fabricación
+3.Traballos realizados pola empresa para o seu activo
+4.Aprovisionamentos
+5.Outros ingresos de explotación
+5.a) Afectos á actividade de mediación
+5.b) Resto de actividades
+6.Gastos de persoal (+ comisións cedidas a colaboradores externos)
+6.a) Afectos á actividade de mediación
+6.b) Resto de actividades
+7.Outros gastos de explotación (-comisións cedidas a col. externos e servizos bancarios)
+7.a) Afectos á actividade de mediación
+7.b) Resto de actividades
+8.Amortización do inmobilizado
+9.Imputación de subvencións do inmobilizado non financeiro e outras
+10.Excesos de provisións
+11.Deterioración e resultado por alleamento do inmobilizado
+A)RESULTADO DE EXPLOTACIÓN (1+2+3+4+5+6+7+8+9+10+11)
+12.Ingresos financeiros
+13.Gastos financeiros (+ servizos bancarios)
+14.Variación de valor razoable en instrumentos financeiros
+15.Diferenzas de cambio
+16.Deterioración e resultado por alleamento de instrumentos financeiros
+B)RESULTADO FINANCEIRO (12+13+14+15+16)
+C)RESULTADO ANTES DE IMPOSTOS (A+B)
+17.Impostos sobre beneficios
+D)RESULTADO DO EXERCICIO (C+17)
+Modelo 5.2
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34915
+MODELO 5.3
+EXERCICIO
+DATOS CONTABLES DO/DA CORRETOR/A DE SEGUROS E REASEGUROS, PERSOA XURÍDICA: BALANCE
+ACTIVO
+A)ACTIVO NON CORRENTE
+I.Inmobilizado intanxible
+II.Inmobilizado material
+III.Investimentos inmobiliarios
+IV.Investimentos en empresas do grupo e asociadas a longo prazo
+V.Investimentos financeiros a longo prazo
+VI.Activos por imposto diferido
+B)ACTIVO CORRENTE
+I.Activos non correntes mantidos para a venda
+II.Existencias
+III.Debedores/as comerciais e outras contas para cobrar
+1.Clientes/as por vendas e prestacións de servizos
+2.Accionistas (socios/as) por desembolsos exixidos
+3.Outros/as debedores/as.
+IV.Investimentos en empresas do grupo e asociadas a curto prazo
+V.Investimentos financeiras a curto prazo
+VI.Periodizacións a curto prazo
+VII.Efectivo e outros activos líquidos equivalentes
+TOTAL ACTIVO (A+B)
+PASIVO
+A)PATRIMONIO NETO
+A-1) Fondos propios
+I.Capital
+1.Capital escriturado
+2.(Capital non exixido)
+II.Prima de emisión
+III.Reservas
+IV.(Accións e participacións en patrimonio propias)
+V.Resultados de exercicios anteriores
+VI.Outras achegas de socios/as
+VII.Resultado do exercicio
+VIII.(Dividendo á conta)
+IX.Outros instrumentos de patrimonio neto
+A-2) Axustes por cambios de valor
+A-3) Subvencións, doazóns e legados recibidos
+B)PASIVO NON CORRENTE
+I.Provisións a longo prazo
+II.Débedas a longo prazo
+1.Débedas con entidades de crédito
+2.Acredores/as por arrendamento financeiro
+3.Outras débedas a longo prazo
+III.Débedas con empresas do grupo e asociadas a longo prazo
+IV.Pasivos por imposto diferido
+V.Periodizacións a longo prazo
+C)PASIVO CORRENTE
+I.Pasivos vinculados con activos non correntes mantidos para a venda
+II.Provisións a curto prazo
+III.Débedas a curto prazo
+1.Débedas con entidades de crédito
+2.Acredores/as por arrendamento financeiro
+3.Outras débedas a curto prazo
+IV.Débedas con empresas do grupo e asociadas a curto prazo
+V.Acredores/as comerciais e outras contas para pagar
+1.Provedores
+2.Outros acredores/as
+VI.Periodizacións a curto prazo
+TOTAL PATRIMONIO NETO E PASIVO (A+B+C)
+Modelo 5.3
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34916
+ANEXO II
+Documentación estatístico-contable anual dos/das axentes de seguros vinculados/as
+Modelos que compoñen a documentación estatístico-contable anual
+Modelo 0/AF. Declaración do/da axente de seguros vinculado/a, persoa física.
+Modelo 0/AX. Declaración do/da representante legal do/da axente de seguros vinculado/a, persoa
+xurídica.
+Modelo 1/AV. Estrutura da organización.
+Modelo 2/AV. Carteira de seguros intermediada. Distribución.
+Modelo 3/AV. Carteira de seguros intermediada. Distribución en ramos de non vida.
+Modelo 4/AV. Carteira de seguros intermediada. Distribución en ramos de vida.
+Modelo 5/AV. Datos contables.
+MODELO 0/AF
+EXERCICIO
+DECLARACIÓN DO/DA AXENTE DE SEGUROS VINCULADO/A, PERSOA FÍSICA
+NOME:
+CLAVE DE INSCRICIÓN: NIF:
+OFICINA PRINCIPAL:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+TELÉFONO: MÓBIL:
+CORREO ELECTRÓNICO: DOMINIO DA INTERNET:
+ENDEREZO PARA OS EFECTOS DE NOTIFICACIÓNS:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+Mediador/a de seguros complementario/a  SI  NON
+DECLARO: que os datos que figuran nos presentes modelos de información son certos e recollen fielmente a situación da miña actividade de
+axente de seguros vinculado/a.
+1.Que manteño subscrito un contrato de axente de seguros vinculado/a coas seguintes entidades:
+C e ó n d ti i d g a o d d e a Entidade aseguradora si c D n o a a n t t u t a r r a a d t e o d o
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34917
+2.Para os efectos de resolver calquera incidencia relacionada coa información contida nesta declaración, autorizo como interlocutor/a co órgano
+competente en materia de supervisión de seguros a:
+Nome e apelidos:
+Teléfono de contacto:
+Correo electrónico:
+3.Por último, remito a información aclaratoria dos datos contidos nos seguintes modelos:
+Por todo o anterior, formulo a presente declaración
+.................., .................. de .................. de ..................
+Asdo.:
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34918
+MODELO 0/AX
+EXERCICIO
+DECLARACIÓN DO/DA REPRESENTANTE LEGAL DO/DA AXENTE DE SEGUROS VINCULADO/A, PERSOA XURÍDICA
+DENOMINACIÓN SOCIAL:
+CLAVE DE INSCRICIÓN: NIF:
+DOMICILIO SOCIAL:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+OFICINA PRINCIPAL:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+TELÉFONO: MÓBIL:
+CORREO ELECTRÓNICO: DOMINIO DA INTERNET:
+ENDEREZO PARA OS EFECTOS DE NOTIFICACIÓNS:
+POBOACIÓN: PROVINCIA: CÓDIGO POSTAL:
+Mediador/a de seguros complementario/a  SI  NON
+GRUPO DE ENTIDADES
+Pertence a axencia de seguros vinculada a un grupo de entidades? SI  NON 
+Só se encherá no caso de responder SI:
+Grupo que exerce o control sobre a axencia de seguros vinculada:
+Domicilio do grupo que exerce o control:
+Poboación: .................. Provincia: .................. Código postal: .................. País: ..................
+.................................................. (Nome e apelidos), actuando en representación desta sociedade,
+DECLARO: que os datos que figuran nos presentes modelos de información do/da axente de seguros vinculado/a á persoa xurídica son certos
+e recollen fielmente a situación da entidade a que represento.
+1. Que o capital social é de .................. €, dividido en .......... accións/participacións de .................. €, subscritas polas persoas socias
+seguintes:
+Porcentaxe de
+Nome e apelidos/denominación NIF/NIE Data de adquisición
+participación
+2.Que as persoas que exercen como administradores/as da sociedade son:
+Nome e apelidos/denominación NIF/NIE Cargo Data de nomeamento
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34919
+3.Que as persoas que integran o órgano de dirección responsable da distribución, así como as responsables da actividade de distribución
+son:
+Nome e apelidos NIF/NIE Cargo Data de nomeamento
+Seguen vixentes estes datos no exercicio ?  SI  NON
+4.Que a entidade mantén subscrito un contrato de axente de seguros vinculado/a coas seguintes compañías:
+Data de
+Clave da
+Entidade aseguradora sinatura do
+entidade
+contrato
+5.Para os efectos de resolver calquera incidencia relacionada coa información contida nesta declaración, autorizo como interlocutor/a co
+órgano competente en materia de supervisión de seguros a:
+Nome e apelidos:
+Teléfono de contacto:
+Correo electrónico:
+6.Por último, remito información aclaratoria dos datos contidos nos seguintes modelos:
+Por todo o anterior, formulo a presente declaración
+..................., .................. de .................. de ..................
+Asdo.:
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34920
+MODELO 1 /AV
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+ESTRUTURA DA ORGANIZACIÓN
+Colaborad. Outro Outro
+Órgano/persoa Colaborad.
+MEDIOS Empregados/as Empregados/as externos/as persoal persoal
+responsable da externos/as Outros/as TOTAL
+PERSOAIS que asesoran que informan que que que
+actividade que informan
+asesoran asesora informa
+Afectos á
+actividade de
+mediación
+NON afectos
+á actividade
+de mediación
+MEDIOS PERSOAIS E FORMACIÓN
+MEDIOS PERSOAIS AFECTOS Á Formación previa
+Total
+ACTIVIDADE DE MEDIACIÓN
+1/A 2/B 3
+Órgano/persoa responsable da actividade
+Empregados/as que asesoran
+Empregados/as que informan
+Colaboradores/as externos/as que asesoran
+Colaboradores/as externos/as que informan
+Outro persoal que asesora
+Outro persoal que informa
+TOTAL
+FORMACIÓN CONTINUA
+Medios
+Persoal Núm. Horas
+Propios Alleos
+Órgano/persoa responsable da actividade
+Empregados/as que asesoran
+Empregados/as que informan
+Colaboradores/as externos/as que asesoran
+Colaboradores/as externos/as que informan
+Outro persoal que asesora
+Outro persoal que informa
+Outros/as
+TOTAL
+OUTROS DATOS DA OFICINA PRINCIPAL E SUCURSAIS
+Empregados/as
+Oficinas Réxime Primas devindicadas intermediadas (€)
+Que asesoran Que informan
+TOTAL
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34921
+MODELO 2.1
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+CARTEIRA DE SEGUROS INTERMEDIADA
+DISTRIBUCIÓN
+Primas devindicadas
+Código Entidade intermediadas Porcentaxe Porcentaxe Rede F cl o ie n n d t o e s s / d a e s
+da Colaborad. Colaborad. (véxase a
+entidade aseguradora Total de Nova vida non vida Propia externos/as que externos/as que lenda ao
+negocio produción asesoran informan pé)
+TOTAL TOTAL
+Denominación Descrición
+Contractualmente pactouse de forma expresa coa EA que todos os importes
+aboados pola clientela se realizarán directamente a través de domiciliación bancaria
+Non recibe fondos de en contas abertas a nome das entidades aseguradoras, e que todas as cantidades
+clientes/as aboadas en concepto de indemnizacións serán entregadas directamente polas
+entidades aseguradoras aos/as tomadores /as de seguros, asegurados/as ou
+beneficiarios/as.
+Recibe fondos de Recibe fondos de clientes/as e dispón de contas completamente separadas, de
+clientes/as conformidade co disposto no artigo 136.4 do Real decreto lei 3/2020.
+Modelo 2/AV
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+ISSN1130-9229
+Depósito
+legal
+C.494-1998
+https://www.xunta.gal/diario-oficial-galicia
+DOG
+Núm.
+113
+Xoves,
+18
+de
+xuño
+de
+2026
+Páx.
+34922
+CVE-DOG: 45ednkk8-m3v3-daa7-83o7-fncwd6750gf6
+MODELO 3/AV
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+CARTEIRA DE SEGUROS/REASEGUROS INTERMEDIADA
+DISTRIBUCIÓN EN RAMOS DE NON VIDA
+VOLUME TOTAL DE NEGOCIO NOVA PRODUCIÓN
+Primas devindicadas Porcentaxe de Comisións Primas devindicadas Comisións
+RAMOS NON VIDA Núm. de pólizas Porcentaxe de primas Núm. de pólizas
+intermediadas primas devindicadas intermediadas devindicadas
+Accidentes
+Enfermidade
+Asistencia sanitaria
+Dependencia
+Autos
+Transportes
+Incendios e elementos naturais
+Outros danos a bens-Seguros agrarios
+combinados
+Outros danos a bens-Roubo ou outros
+Outros danos a bens: avaría de
+maquinaria
+R.C. en xeral-Riscos nucleares
+R.C en xeral-Outros riscos
+Crédito
+Caución
+Perdas diversas
+Defensa xurídica
+Asistencia
+Decesos
+Multirrisco fogar
+Multirrisco comunidades
+Multirrisco comercios
+Multirrisco industriais
+Outros multirriscos
+Ciber-riscos
+TOTAL NON VIDA
+Modelo 3
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34923
+MODELO 4/AV
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+CARTEIRA DE SEGUROS INTERMEDIADA
+DISTRIBUCIÓN EN RAMOS DE VIDA
+Intermedia produtos de investimento baseados en seguros (IBIPS)?  SI  NON
+VOLUME TOTAL DE NEGOCIO
+Porcentaxe
+Primas devindicadas intermediadas (€) Comisións devindicadas(€) Núm. de pólizas
+de primas
+INDIVIDUAL
+COLECTIVO
+TOTAL VIDA
+NOVA PRODUCIÓN
+Porcentaxe de
+Primas devindicadas intermediadas (€) Comisións devindicadas(€) Núm. de pólizas
+primas
+INDIVIDUAL
+COLECTIVO
+TOTAL VIDA
+Modelo 4
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
+
+DOG Núm. 113 Xoves, 18 de xuño de 2026 Páx. 34924
+MODELO 5
+EXERCICIO
+NOME/DENOMINACIÓN: CLAVE DE INSCRICIÓN:
+DATOS CONTABLES
+Investimento/valor engadido
+Valor engadido ao custo dos factores
+Investimento bruto en bens materiais
+1.INGRESOS DA ACTIVIDADE DE MEDIACIÓN DE SEGUROS
+Comisións percibidas das entidades aseguradoras
+Ingresos financeiros
+Outros ingresos
+Total ingresos
+2.GASTOS DA ACTIVIDADE DE MEDIACIÓN DE SEGUROS
+Custos de persoal en metálico ou en especie
+Comisións aboadas a colaboradores externos/redes de distribución
+Formación continua
+Gastos financeiros
+Outros gastos
+Total gastos
+INGRESOS-GASTOS (actividade de mediación de seguros)
+3.CONTA DE PERDAS E GANANCIAS: TOTAL
+Total ingresos
+Total gastos
+INGRESOS-GASTOS (total) debedor/a
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6fg0576dwcnf-7o38-7aad-3v3m-8kknde54
+:GOD-EVC
