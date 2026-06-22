@@ -1,0 +1,881 @@
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 63
+I. COMUNIDAD DE CASTILLA Y LEÓN
+C. SUBVENCIONES
+C.1. Bases Reguladoras
+CONSEJERÍA DE ECONOMÍA Y HACIENDA
+ORDEN EYH/575/2026, de 16 de junio, por la que se aprueban las bases reguladoras
+de las subvenciones destinadas a favorecer la digitalización básica en las microempresas
+de Castilla y León.
+El Instituto para la Competitividad Empresarial de Castilla y León (en adelante
+ICECYL), ente público de derecho privado, adscrito a la Consejería de Economía y
+Hacienda, tiene como finalidad promover la competitividad del sistema productivo en
+Castilla y León, así como favorecer y dar apoyo financiero a las actuaciones dirigidas a
+las empresas para el fomento del desarrollo económico de la Comunidad.
+La digitalización, como parte del proceso de innovación en una empresa, constituye
+una palanca clave sobre la que actuar. Por ello, el ICECYL lleva a cabo programas de
+apoyo a las empresas para impulsar la mejora de su competitividad, mediante la adopción
+de tecnologías digitales y la implementación de nuevos modelos de negocio facilitados
+por éstas, con la finalidad de conseguir crecimiento económico, creación de empleo,
+liderazgo digital y desarrollo de talento en la región.
+Estas acciones están alineadas con la Estrategia de Investigación e Innovación
+para una Especialización Inteligente (RIS3) de Castilla y León para el periodo 2021-2027
+(aprobada en Consejo de Gobierno de la Junta de Castilla y León de 23 de septiembre de
+2021), la cual movilizará un total de 14.500 millones de euros en recursos tanto públicos
+como privados y marca los objetivos y prioridades de la política de ciencia y tecnología
+de la Comunidad, en el que se incluyen actuaciones en el ámbito de la investigación, el
+desarrollo tecnológico, la innovación (I+D+i) y la Agenda Digital para Castilla y León. Esta
+última tiene como objetivo hacer de las tecnologías de la información y comunicación
+herramientas facilitadoras para la cohesión social y territorial, la mejora de la prestación
+de servicios públicos y la innovación y competitividad de la economía, logrando un mayor
+desarrollo.
+Con esta finalidad, el ICECYL ha incluido, dentro de su Estrategia de Emprendimiento
+e Innovación 2027, la Línea Estratégica «Castilla y León con la Transformación Digital»
+en la que se encuadran diferentes medidas entre las que están las «Líneas de ayudas
+para la Transformación Digital», cuyo objetivo es proporcionar a las empresas el apoyo
+económico necesario para iniciar y/o avanzar en la transformación digital de su proceso
+productivo, de gestión y negocio con el objetivo de mejorar su competitividad.
+En este sentido, es importante disponer de herramientas de impulso a la adopción
+de primeras herramientas de digitalización en empresas para mejorar, automatizar o
+modernizar sus procesos internos de gestión de negocio. Por la naturaleza de estas
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 64
+primeras herramientas de digitalización, se considera que el objetivo de estas ayudas
+deber estar focalizado en microempresas, al ser estas las que tienen un menor grado de
+automatización y digitalización de sus procesos de gestión.
+Con esta Estrategia se mantiene el enfoque en las políticas de apoyo público, que
+concentran los esfuerzos en aquellos campos de conocimiento y en aquellas actividades
+que en Castila y León son más eficientes y disponen de suficiente masa crítica para ser
+competitivas en los mercados globales.
+Las ayudas previstas en la presente orden de bases se acogen al régimen de minimis,
+regulado en el Reglamento (UE) 2023/2831 de la Comisión de 13 de diciembre de 2023
+(DOUE de 15 de diciembre de 2023), relativo a la aplicación de los artículos 107 y 108 del
+Tratado de Funcionamiento de la Unión Europea a las ayudas de minimis.
+La Ley 38/2003, de 17 de noviembre, General de Subvenciones, establece en su
+artículo 9.2 que, con carácter previo al otorgamiento de las subvenciones, deberán
+aprobarse las normas que establezcan las bases reguladoras de concesión en los
+términos establecidos en esa ley.
+Asimismo, la Ley 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad
+de Castilla y León, establece en su artículo 6 que las bases reguladoras, con el carácter
+de disposiciones generales, deben desarrollar el régimen jurídico de cada subvención
+con el contenido mínimo establecido en las normas básicas y en el propio artículo 6.
+El artículo 7.1 de la Ley 5/2008, de 25 de septiembre, establece que, cuando las
+subvenciones hayan de ser otorgadas por entes integrantes de la Administración
+Institucional, las bases reguladoras se aprobaran mediante orden del titular de la
+Consejería correspondiente.
+En la elaboración de la presente norma se han tenido en cuenta los principios de
+necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia,
+previstos en el artículo 129 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas. En este sentido, la regulación
+de estas subvenciones es la estrictamente necesaria para su puesta en marcha y guarda
+coherencia con la regulación de otros programas de subvenciones, habiendo procurado,
+a su vez, el establecimiento del menor número posible de cargas administrativas.
+Estas bases incluyen las consideraciones sociales recogidas en el Acuerdo 82/2020,
+de 12 de noviembre, de la Junta de Castilla y León, por el que se aprueban las directrices
+vinculantes para el impulso de la responsabilidad social en el gasto público de la
+Administración General e Institucional de la Comunidad de Castilla y León.
+Esta línea de ayudas está incluida en el Plan Estratégico de Subvenciones del
+Instituto para la Competitividad Empresarial de Castilla y León 2026-2028, aprobado por
+Acuerdo de 10 de marzo de 2026 del Consejo de Administración, en el Programa de
+Digitalización, que busca el desarrollo de la economía digital para el crecimiento y la
+competitividad de las empresas.
+La presente orden se estructura en dos capítulos: en el primero se establecen las
+normas relativas a beneficiarios, tipos de proyectos, características de las subvenciones e
+intensidades máximas, entre otros aspectos. En el segundo, se describe el procedimiento
+de gestión de las subvenciones.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 65
+En su virtud, y de conformidad con las atribuciones conferidas por el artículo 7 de la
+Ley 5/2008, de 25 de septiembre,
+DISPONGO
+Artículo único.– Objeto.
+La presente orden tiene por objeto aprobar las bases reguladoras de las subvenciones
+destinadas a favorecer la digitalización básica en las microempresas de Castilla y León,
+que se incorporan como anexo, a la presente orden.
+Disposición Transitoria
+Los procedimientos iniciados con anterioridad de la entrada en vigor de esta orden
+se regirán por las disposiciones vigentes en el momento de su iniciación.
+Disposición Derogatoria
+Queda derogada la Orden EYH/836/2024, de 21 de agosto, por la que se aprueban
+las bases reguladoras de las subvenciones destinadas a favorecer la digitalización básica
+en las PYMES de Castilla y León.
+Disposición Final
+La presente Orden entrará en vigor el día siguiente al de su publicación en el Boletín
+Oficial de Castilla y León.
+Valladolid, 16 de junio de 2026.
+El Consejero de Economía
+y Hacienda,
+Fdo.: Carlos Fernández Carriedo
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 66
+ANEXO
+BASES REGULADORAS DE LAS SUBVENCIONES DESTINADAS A FAVORECER
+LA DIGITALIZACIÓN BÁSICA EN LAS MICROEMPRESAS DE CASTILLA Y LEÓN.
+CAPÍTULO I
+Disposiciones generales
+Base primera.– Objeto.
+Estas bases tienen por objeto establecer el régimen y procedimiento para la concesión
+de subvenciones destinadas a favorecer la digitalización básica en las microempresas de
+Castilla y León.
+Base segunda.– Régimen Jurídico y marco normativo aplicable.
+1. Estas subvenciones se regirán, además de por las presentes bases, por la
+siguiente normativa:
+a) Reglamento (UE) N º 2023/2831 de la Comisión, de 13 de diciembre de 2023,
+relativo a la aplicación de los artículos 107 y 108 del Tratado de Funcionamiento
+de la Unión Europea a las ayudas de minimis, (en adelante Reglamento de
+minimis).
+b) Ley 38/2003, de 17 de noviembre, General de Subvenciones y el Real Decreto
+887/2006, de 21 de julio, por el que se aprueba el Reglamento de la Ley 38/2003,
+de 17 de noviembre, General de Subvenciones.
+c) Ley 5/2008, de 25 de septiembre, de Subvenciones de la Comunidad de Castilla
+y León.
+d) Ley 39/2015 de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+e) Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+f) Real Decreto-ley 36/2020, de 30 de diciembre, por el que se aprueban medidas
+urgentes para la modernización de la Administración Pública y para la ejecución
+del Plan de Recuperación, Transformación y Resiliencia.
+g) Ley 2/2006, de 3 de mayo, de la Hacienda y del Sector Público de la Comunidad
+de Castilla y León.
+h) Ley 13/2005, de 27 de diciembre, de Medidas Financieras.
+i) Acuerdo 82/2020, de 12 de noviembre, de la Junta de Castilla y León, por el que
+se aprueban directrices vinculantes para el impulso de la responsabilidad social
+en el gasto público de la Administración General e Institucional de la Comunidad
+de Castilla y León.
+j) Cualquier otra normativa que por la materia le fuera de aplicación.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 67
+Base tercera.– Definiciones.
+A efectos de lo previsto en las convocatorias que se aprueben al amparo de la
+presente orden de bases, se entenderá por:
+1. «Microempresa»: conforme a las especificaciones incluidas en el Anexo I al
+Reglamento 651/2014 de la Comisión Europea de 26 de junio de 2014 por el que se
+declaran determinadas categorías de ayudas compatibles con el mercado interior en
+aplicación de los artículos 107 y 108 del Tratado (Reglamento general de exención
+por categorías) es la empresa que ocupa a menos de 10 personas y cuyo volumen de
+negocios anual o cuyo balance general anual no supera los 2 millones de euros.
+2. «Única empresa»: a los efectos del reglamento de minimis, incluye todas las
+empresas que tengan al menos uno de los siguientes vínculos entre sí:
+a) una empresa posee la mayoría de los derechos de voto de los accionistas o
+socios de otra empresa;
+b) una empresa tiene derecho a nombrar o revocar a la mayoría de los miembros
+del órgano de administración, dirección o supervisión de otra empresa;
+c) una empresa tiene derecho a ejercer una influencia dominante sobre otra en
+virtud de un contrato celebrado con ella de una disposición contenida en sus
+estatutos o en su escritura de constitución;
+d) una empresa, accionista o socia de otra, controla por si sola, en virtud de un
+acuerdo celebrado con otros accionistas o socios de la segunda, la mayoría de
+los derechos de voto de los accionistas o socios de esta.
+Las empresas que mantengan cualquiera de las relaciones contempladas en las
+letras a) a d) anteriores a través de otra u otras empresas también se considerarán una
+única empresa.
+3. «Empresa en crisis»: conforme al Reglamento general de exención por categorías,
+una empresa en la que concurra al menos una de las siguientes circunstancias:
+a) si se trata de una sociedad de responsabilidad limitada (distinta de una
+microempresa con menos de tres años de antigüedad), cuando haya desaparecido
+más de la mitad de su capital social suscrito como consecuencia de las pérdidas
+acumuladas. A estos efectos, por «sociedad de responsabilidad limitada»
+se entiende la sociedad anónima, la sociedad comanditaria por acciones y la
+sociedad de responsabilidad limitada (sociedades mencionadas en el anexo I
+de la Directiva 2013/34/UE del Parlamento Europeo y del Consejo, de 26 de
+junio) y por «capital social» se entiende que incluye, cuando proceda, toda prima
+de emisión.
+b) si se trata de una sociedad en la que al menos algunos socios tienen una
+responsabilidad ilimitada sobre la deuda de la sociedad (distinta de una
+microempresa con menos de tres años de antigüedad), cuando haya desaparecido
+por las pérdidas acumuladas más de la mitad de sus fondos propios que figuran
+en su contabilidad. A estos efectos, por «sociedad en la que al menos algunos
+socios tienen una responsabilidad ilimitada sobre la deuda de la sociedad»
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 68
+se entiende sociedad colectiva y sociedad en comandita simple (sociedades
+mencionadas en el anexo I de la Directiva 2013/34/UE del Parlamento Europeo
+y del Consejo, de 26 de junio).
+c) cuando la empresa se encuentre inmersa en un procedimiento de quiebra o
+insolvencia o reúna los criterios establecidos en su Derecho nacional para
+ser sometida a un procedimiento de quiebra o insolvencia a petición de sus
+acreedores.
+d) cuando la empresa haya recibido ayuda de salvamento y todavía no haya
+reembolsado el préstamo o puesto fin a la garantía, o haya recibido ayuda de
+reestructuración y esté todavía sujeta a un plan de reestructuración.
+4. «Intensidad de ayuda»: el importe bruto de ayuda expresado en porcentaje de los
+costes subvencionables del proyecto, antes de cualquier deducción fiscal u otras cargas.
+5. «Intensidad de ayuda en equivalente de subvención bruto (ESB)»: el importe de
+la ayuda si se ha proporcionado en forma de subvención a la empresa beneficiaria, antes
+de cualquier deducción fiscal o de otras cargas.
+6. «Fecha de concesión de la subvención»: fecha en que se otorgue a la entidad
+beneficiaria el derecho legal de recibir la ayuda en virtud del régimen legal nacional
+aplicable.
+7. «Software»: programa o conjunto de programas, procedimientos, documentación,
+instrucciones y datos asociados que se utilizan para controlar y gestionar el funcionamiento
+de un sistema informático. Es el componente lógico y no tangible de un ordenador o
+dispositivo electrónico que permite la ejecución de diversas tareas y aplicaciones.
+8. «Hardware»: conjunto de dispositivos físicos y tangibles de un sistema informático,
+que conforman la estructura material del ordenador o dispositivo electrónico y que
+permiten su funcionamiento.
+9. «XaaS (Cualquier tecnología como Servicio)»: servicio que ofrece una solución de
+software o una infraestructura de la tecnología de la información a los usuarios finales a
+través de Internet, mediante un modelo de pago por uso.
+10. «Digitalización básica»: la adopción de tecnologías incorporadas en dispositivos
+o sistemas electrónicos que consistan en las primeras herramientas o soluciones digitales
+de una empresa, y cuyo fin sea la incorporación de una solución basada en software
+que mejore, automatice o modernice los procesos internos de gestión de negocio,
+exceptuándose las relativas al proceso productivo.
+11. «Comercialización de productos agrícolas»: la tenencia o exposición de un
+producto agrícola con fines de venta, oferta para la venta, la entrega o cualquier otra
+forma de puesta en el mercado, con excepción de la primera venta por parte de un
+productor primario a intermediarios o transformadores y de toda actividad de preparación
+de un producto para dicha primera venta; la venta por parte de un productor primario a los
+consumidores finales se considerará comercialización de productos agrícolas si se lleva
+a cabo en instalaciones independientes reservadas para ese fin.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 69
+12. «Producción agrícola primaria»: Producción de productos derivados de la
+agricultura y de la ganadería, enumerados en el Anexo I del Tratado de Funcionamiento
+de la Unión Europea, sin llevar a cabo ninguna otra operación que modifique la naturaleza
+de dichos productos.
+13. «Transformación de productos agrícolas»: Toda operación efectuada sobre un
+producto agrícola cuyo resultado sea también un producto agrícola, salvo las actividades
+realizadas en la explotación que sean necesarias para preparar un producto animal o
+vegetal para su primera venta.
+14. «Productos agrícolas»: los productos enumerados en el anexo I del Tratado,
+con excepción de los productos de la pesca y de la acuicultura incluidos en el ámbito de
+aplicación del Reglamento (UE) n º 1379/2013 del Parlamento Europeo y del Consejo.
+15. «Producción primaria de productos de la pesca y la acuicultura»: todas las
+operaciones relacionadas con la pesca, la cría o el cultivo de organismos acuáticos, así
+como las actividades en la explotación o a bordo necesarias para preparar a un animal
+o planta para la primera venta, incluidos el despiece, el fileteado o la congelación, y la
+primera venta a revendedores o transformadores.
+16. «Transformación y comercialización de productos de la pesca y de la acuicultura»:
+el conjunto de todas las operaciones, incluidos la manipulación, el tratamiento y la
+transformación, realizadas tras el momento del desembarque–o de la recolección en
+el caso de la acuicultura–que dan lugar a un producto transformado, así como a su
+distribución.
+Base cuarta.– Entidades beneficiarias.
+1. Podrán tener la condición de entidades beneficiarias las microempresas, incluidos
+los autónomos, según la definición dada en el apartado 1 de la base tercera, que cumplan
+los requisitos exigidos en las presentes bases y en las correspondientes convocatorias y
+realicen proyectos subvencionables en la Comunidad de Castilla y León.
+2. Quedan excluidas las comunidades de bienes, las empresas públicas y las
+sociedades civiles, así como las asociaciones, fundaciones, administraciones públicas y,
+en general, las entidades sin ánimo de lucro.
+3. Asimismo, quedan excluidas las empresas cuya actividad económica, a fecha de
+solicitud de la ayuda, se corresponda o asimile con alguno de los siguientes códigos de
+la CNAE 2025:
+26.11 Fabricación de componentes electrónicos.
+26.12 Fabricación de circuitos impresos instalados.
+26.2 Fabricación de ordenadores y equipos periféricos.
+26.3 Fabricación de equipos de telecomunicaciones.
+26.4 Fabricación de productos electrónicos de consumo.
+26.51 Fabricación de instrumentos y aparatos de medida, verificación y navegación.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 70
+26.6 Fabricación de equipos de radiación, electromédicos y electroterapéuticos.
+26.7 Fabricación de instrumentos ópticos, soportes magnéticos y ópticos y equipos
+fotográficos.
+46.5 Comercio al por mayor de equipos para las tecnologías de la información y
+las comunicaciones.
+46.80 Otro comercio al por mayor especializado.
+47.40 Comercio al por menor de equipos para las tecnologías de la información y
+las comunicaciones.
+58.21 Edición de videojuegos.
+58.29 Edición de otros programas informáticos.
+61.10 Actividades de telecomunicaciones por cable, inalámbricas y por satélite.
+61.90 Otras actividades de telecomunicaciones.
+62.00 Programación, consultoría y otras actividades relacionadas con la informática.
+62.10 Actividades de programación informática.
+63.10 Infraestructura informática, procesamiento de datos, hosting y actividades
+relacionadas.
+63.90 Actividades de portales de búsqueda en la web y otras actividades de servicios
+de información.
+95.10 Reparación y mantenimiento de ordenadores y equipos de comunicación.
+4. No serán subvencionables los proyectos pertenecientes a sectores económicos
+excluidos por el Reglamento de minimis (Reglamento (UE) 2023/2831 de la Comisión, de
+13 de diciembre de 2023).
+5. No podrán ser beneficiarios las entidades en las que concurra alguna de las
+siguientes circunstancias:
+a) Estar incurso en alguna de las prohibiciones establecidas en el artículo 13.2 de
+la Ley 38/2003, de 17 de noviembre.
+b) Las que tengan la consideración de «empresas en crisis» con arreglo a la
+definición recogida en la base tercera o, en su caso, normativa comunitaria que
+la sustituya.
+c) Las que no cumplan con la cuota reservada de puestos de trabajo para personas
+con discapacidad, según lo dispuesto en el artículo 42 del Texto Refundido de
+la Ley General de derechos de las personas con discapacidad y de su inclusión
+social, aprobado mediante el Real Decreto Legislativo 1/2013, de 29 de noviembre.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 71
+d) Las entidades que no cumplan con la obligación de contar con un plan de
+igualdad, cuando concurra alguno de los supuestos recogidos en los apartados
+3 y 4 del artículo 45 de la ley Orgánica 3/2007, de 22 de marzo, para la igualdad
+efectiva de mujeres y hombres.
+Base quinta.– Obligaciones de la entidad beneficiaria.
+Son obligaciones de la entidad beneficiaria las siguientes:
+1. Cumplir el objetivo, ejecutar el proyecto, realizar la actividad o adoptar el
+comportamiento que fundamenta la concesión de la subvención.
+2. Justificar ante el ICECYL el cumplimiento de los requisitos y condiciones, así
+como la realización de la actividad y el cumplimiento de la finalidad que determinen la
+concesión de la subvención.
+3. Someterse a las actuaciones de comprobación que efectúe el ICECYL, así como
+cualesquiera otras de comprobación y control financiero que puedan realizar los órganos
+de control competentes, como la Intervención General de la Administración de Castilla
+y León, el Consejo de Cuentas o cualquier órgano que tenga competencias para ello.
+Igualmente facilitar todas las actuaciones necesarias para el anterior fin, aportando
+cuanta información le sea requerida en el ejercicio de las actuaciones anteriores.
+4. Conservar los documentos justificativos de la aplicación de los fondos recibidos,
+incluidos los documentos electrónicos, en tanto puedan ser objeto de las actuaciones de
+comprobación y control, así como de cualquier otra obligación derivada de la normativa
+estatal o autonómica durante un periodo de cuatro años contados desde la fecha en que
+se haya efectuado la justificación, o bien desde el vencimiento de las condiciones que
+deban ser cumplidas o mantenidas por la empresa con posterioridad a dicho plazo.
+5. Comunicar al ICECYL, tan pronto como se conozca, las ayudas totales obtenidas
+sujetas al régimen de minimis tanto para sí como para sus empresas vinculadas durante
+los tres años previos a la solicitud. Se consideran empresas vinculadas aquellas que
+cumplan los requisitos establecidos en la definición de única empresa establecida en la
+base tercera.
+Igualmente deberá comunicar tan pronto como se conozca, la obtención de otras
+subvenciones, ayudas, ingresos o recursos que financien el proyecto para el que solicita
+subvención al amparo de las presentes bases.
+6. Acreditar con anterioridad a dictarse la propuesta de resolución de concesión, con
+carácter previo a la propuesta de pago de la subvención, que se halla al corriente en el
+cumplimiento de sus obligaciones tributarias y frente a la Seguridad Social, en los términos
+establecidos en el artículo 22 del Reglamento general de subvenciones; y, en su caso, la
+entidad beneficiaria antes de producirse la propuesta de pago en virtud de lo dispuesto
+en el Decreto 27/2008 de 3 de abril, por el que se regula la acreditación del cumplimiento
+de las obligaciones tributarias y frente a la seguridad social, en materia de subvenciones.
+A efectos acreditativos será suficiente la aportación por el solicitante o el beneficiario
+de una declaración responsable de encontrarse al corriente en el cumplimiento de las
+obligaciones tributarias y frente a la Seguridad Social en aquellas convocatorias en las
+que la cuantía máxima a otorgar a cada beneficiario no exceda de 3.000 €, según se
+establece en el artículo 6 apartado f) del citado Decreto 27/2008, de 3 de abril.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 72
+7. Cumplir, en su caso, con la cuota de reserva de puestos de trabajo para personas
+con discapacidad, según lo dispuesto en el artículo 42 del Texto Refundido de la Ley
+General de derechos de las personas con discapacidad y de su inclusión social, aprobado
+mediante el Real Decreto Legislativo 1/2013, de 29 de noviembre.
+8. Cumplir con la obligación de contar con un plan de igualdad siempre que concurra
+algunos de los supuestos recogidos en los apartados 3 y 4 del artículo 45 de la ley
+Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres.
+9. Cumplir las consideraciones sociales establecidas en el punto 2 del apartado 21º
+del Acuerdo 82/2020, de 12 de noviembre, de la Junta de Castilla y León, por el que se
+aprueban directrices vinculantes para el impulso de la responsabilidad social en el gasto
+público de la Administración General e Institucional de la Comunidad de Castilla y León.
+10. Disponer de los libros contables en los términos exigidos por la legislación
+mercantil aplicable a la entidad beneficiaria en cada caso, así como cuantos estados
+contables y registros específicos sean exigidos en las convocatorias.
+Con la finalidad de garantizar el adecuado ejercicio de las facultades de comprobación
+y control, la entidad beneficiaria está obligada a llevar una contabilidad separada o
+código contable adecuado a todas las transacciones realizadas con el proyecto. Se
+entenderá que se cumple con esta obligación cuando cada uno de los gastos y de sus
+correspondientes transacciones estén perfectamente identificados en la contabilidad de
+la entidad beneficiaria.
+11. Aplicar medidas antifraude eficaces y proporcionadas en su ámbito de gestión,
+evitar, entre otros, la doble financiación, falsificación de documentos, así como
+proporcionar información para la detección de posibles señales de fraude a través del
+Servicio Nacional de Coordinación Antifraude.
+La entidad beneficiaria podrá comunicar al Servicio Nacional de Coordinación
+Antifraude (SNCA) aquellos hechos que pudieran ser constitutivos de fraude o irregularidad
+(en los términos establecidos en la Comunicación 1/2017 del SNCA de 6 de abril, sobre
+la forma en la que pueden proceder las personas que tengan conocimientos de hechos
+que puedan ser constitutivos de fraude o irregularidad en relación con proyectos u
+operaciones financiados total o parcialmente con cargo a fondos procedentes de la UE).
+A estos efectos, dicho Servicio ha habilitado un nuevo buzón de correo electrónico snca@
+igae.hacienda.gob.es.
+Asimismo, la entidad beneficiaria podrá comunicar aquellos hechos que pudieran
+ser constitutivos de fraude o irregularidad en el sistema interno de información de la
+Administración de la Comunidad de Castilla y León, regulado en el Decreto-ley 3/2023, de
+11 de mayo, por el que se regula el Sistema Interno de Información de la Administración de
+la Comunidad de Castilla y León, en el enlace https://gobierno.jcyl.es/web/es/consejerias/
+informaciones-sobre-hechos-relacionados.html.
+12. Proceder al reintegro de los fondos percibidos en los supuestos en que proceda,
+de acuerdo con el artículo 37 de la Ley 38/2003, de 17 de noviembre y con el artículo 47
+de la Ley 5/2008, de 25 de septiembre.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 73
+13. Adoptar las medidas de difusión contenidas en el apartado 4 del artículo 18 de
+la Ley 38/2003, de 17 de noviembre, en concreto, la promoción o difusión pública que la
+entidad beneficiaria realice de la actividad subvencionada por medio de cualquier soporte
+desde la fecha de concesión, en la que deberá figurar la colaboración del ICECYL y de
+la Junta de Castilla y León, de acuerdo con lo previsto en la Instrucción 1/2020, de la
+Dirección de Comunicación, para el cumplimiento del Acuerdo 27/2020, de 4 de junio,
+de la Junta de Castilla y León, por el que se establecen directrices sobre difusión de la
+identidad corporativa de la Administración de la Comunidad de Castilla y León y, en su
+caso, en la forma establecida en la convocatoria.
+14. Mantener las inversiones subvencionadas en el establecimiento objeto de la
+ayuda, al menos durante tres años, a contar desde la fecha de solicitud, salvo que sea
+preciso sustituir las instalaciones o equipos que hayan quedado obsoletos debido a
+rápidas transformaciones tecnológicas, y mantener la actividad económica en la región
+en dicho plazo
+15. Aquellas que se deriven de las condiciones impuestas en la resolución de
+concesión o de cualquier normativa de obligado cumplimiento.
+Base sexta.– Proyectos subvencionables y requisitos.
+1. Se consideran subvencionables los proyectos de digitalización básica, dirigidos a
+la implementación de las primeras herramientas o soluciones digitales en una empresa y
+cuyo fin sea la incorporación de una solución basada en software que mejore, automatice
+o modernice los procesos internos de gestión de negocio, exceptuándose las relativas al
+proceso productivo.
+3. Los proyectos deberán ser realizados por la entidad beneficiaria en un centro de
+trabajo de Castilla y León.
+3. El proyecto subvencionable deberá estar finalizado (realizado y pagado) a fecha
+de presentación de la solicitud de subvención.
+4. El gasto total subvencionable del proyecto, para resultar elegible, debe ser igual
+o superior a 1.500 euros.
+Base séptima.– Costes o gastos subvencionables.
+1. Serán gastos subvencionables los considerados como tales en el artículo 31 de la
+Ley 38/2003, de 17 de noviembre, que de manera indubitada respondan a la naturaleza de
+la actividad subvencionada, resulten estrictamente necesarios y que se hayan realizado
+en los plazos y condiciones establecidos en la correspondiente convocatoria.
+En ningún caso el coste de los gastos subvencionados podrá ser superior su valor
+de mercado.
+2. Se consideran subvencionables los gastos realizados y efectivamente pagados
+con anterioridad a la fecha de presentación de la solicitud de subvención.
+3. Podrán ser subvencionables, en los términos que se establezcan en cada
+convocatoria, los siguientes gastos y costes:
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 74
+a) Software, incluyendo SaaS; tratándose de licencias de carácter temporal, sólo
+será subvencionable el importe abonado por el tiempo que se establezca en la
+convocatoria.
+b) Hardware y los equipos necesarios para la implementación de la solución o
+soluciones objeto del proyecto.
+c) Colaboraciones externas necesarias para la realización de uno o varios de los
+siguientes conceptos:
+i. Consultoría de procesos que permita detectar las principales necesidades de
+la entidad beneficiaria en relación con su proceso de digitalización.
+ii. Consultoría tecnológica sobre las mejores herramientas para abordar las
+necesidades de la entidad beneficiaria.
+iii. Consultoría para la implantación de las herramientas/soluciones seleccionadas
+para su integración en los procesos de la microempresa.
+iv. Consultoría de seguimiento de la implantación realizada.
+v. Capacitación de empleados de la entidad beneficiaria en las herramientas/
+soluciones implantadas.
+Las colaboraciones externas se llevarán a cabo por profesionales con experiencia.
+4. En ningún caso se consideran costes subvencionables los impuestos indirectos
+cuando sean susceptibles de recuperación o compensación.
+5. Los gastos subvencionables en los que haya incurrido el beneficiario en sus
+operaciones comerciales deberán haber sido abonados en los plazos de pago previstos
+en la normativa sectorial que le sea de aplicación o, en su defecto, en los establecidos en
+la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la
+morosidad en las operaciones comerciales.
+6. No serán subvencionables las contrataciones con empresas/entidades vinculadas
+a la empresa beneficiaria. A estos efectos se consideran entidades vinculadas las
+definidas en el artículo 68.2 del Real Decreto 887/2006, de 21 de julio.
+7. Al efecto de determinar el gasto subvencionable se incluirán los impuestos
+indirectos en el caso de que no sean susceptibles de recuperación de acuerdo con la
+normativa vigente de aplicación; en caso contrario, el importe subvencionable vendrá
+determinado por la base imponible sin impuestos indirectos.
+Base octava.– Clase y cuantía de las subvenciones.
+La ayuda consistirá en una subvención a fondo perdido que se determinará en
+función de los siguientes tramos:
+– 1.200 € cuando el gasto que se establezca como subvencionable sea inferior a
+2.000 €.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 75
+– 1.500 € cuando el gasto que se establezca como subvencionable sea igual o
+superior 2.000€ e inferior a 2.500 €.
+– 1.800 € cuando el gasto que se establezca como subvencionable sea igual o
+superior 2.500 €.
+Base novena.– Límites e incompatibilidades.
+1. Estas subvenciones serán incompatibles con cualesquiera otras que se concedan
+para el mismo objeto y finalidad.
+2. El importe total de las ayudas de minimis concedidas a una única empresa no
+excederá de trescientos mil euros (300.000 €) en el período de tres años previos a la
+concesión.
+3. Las convocatorias podrán fijar un número máximo de solicitudes por empresa.
+CAPÍTULO II
+Procedimiento
+Base décima.– Procedimiento de concesión.
+1. Las subvenciones se tramitarán y resolverán en concurrencia no competitiva,
+atendiendo a su orden de presentación conforme el artículo 34.2 de la Ley 13/2005, de
+27 de diciembre, en función de que la documentación esté completa y teniendo en cuenta
+las disponibilidades económicas.
+Las convocatorias de subvenciones serán aprobadas mediante resolución de la
+Presidencia del ICECYL.
+2. El extracto de las convocatorias se publicará en el Boletín Oficial de Castilla y
+León, por conducto de la Base de Datos Nacional de Subvenciones (BDNS).
+3. La presente orden de bases junto a las correspondientes convocatorias se
+publicarán en la sede electrónica del ICECYL: https://empresas.jcyl.es/web/es/plataforma-
+financiera/ayudas.html.
+Base decimoprimera.– Solicitudes, forma, plazo de presentación y medios de
+notificación.
+1. Conforme a los apartados 2.a) y 3 del artículo 14 de la Ley 39/2015, de 1 de
+octubre, la tramitación electrónica será obligatoria en todas las fases del procedimiento y
+se realizará a través de la sede electrónica https://www.tramitacastillayleon.jcyl.es y en la
+web del ICECYL https://empresas.jcyl.es/web/es/plataforma-financiera/ayudas.html, en
+el Área Privada-Portal de Clientes.
+Si algún interesado presenta su solicitud por un medio distinto al previsto en el
+párrafo anterior, el órgano instructor del procedimiento le requerirá para que realice su
+presentación electrónica, considerándose como fecha de presentación de la solicitud
+aquella en la que haya sido realizada electrónicamente, tal y como establece el artículo
+68.4 de la Ley 39/2015, de 1 de octubre. Sin perjuicio de lo anterior, la presentación
+presencial carecerá de efectos jurídicos.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 76
+La solicitud, acompañada de la documentación exigida en esta orden de bases y en
+la correspondiente convocatoria, se presentará de manera electrónica según el modelo
+previsto en el formulario que podrá obtenerse en la sede electrónica de la Administración
+de la Comunidad de Castilla y León https://www.tramitacastillayleon.jcyl.es, mediante
+firma electrónica avanzada en el registro electrónico de la Junta de Castilla y León. El
+certificado electrónico deberá corresponder al solicitante de la ayuda o a quien ostente
+su representación.
+Para ello, los solicitantes deberán disponer de DNI electrónico o de cualquier
+certificado electrónico que haya sido previamente reconocido por esta Administración
+y sea compatible con los diferentes elementos habilitantes y plataformas tecnológicas
+corporativas.
+Las entidades prestadoras del servicio al que se refiere el apartado anterior
+reconocidas por la Junta de Castilla y León, figuran en una relación actualizada publicada
+en la sede electrónica (https://www.tramitacastillayleon.jcyl.es).
+El registro electrónico, una vez admitida la solicitud, emitirá automáticamente
+un resguardo de la presentación por medios electrónicos al interesado, que tendrá la
+consideración de recibo acreditativo de la fecha y hora de presentación de la solicitud,
+escrito o comunicación y de la documentación que, en su caso, se acompañe.
+La falta de recepción del mensaje de confirmación o, en su caso, la aparición de un
+mensaje de error o deficiencia de transmisión implica que no se ha producido la recepción
+correctamente, debiendo realizarse la presentación en otro momento o utilizando otros
+medios disponibles.
+El modelo de instancia, así como los anexos y los modelos de documentación a
+aportar se encontrarán disponibles en https://www.tramitacastillayleon.jcyl.es y en la web
+del ICECYL https://empresas.jcyl.es/web/es/plataforma-financiera/ayudas.html.
+2. La presentación de la solicitud de subvención, salvo oposición expresa, conlleva
+conforme el artículo 22 del Reglamento general de subvenciones, y el artículo 28 de la
+Ley 39/2015, de 1 de octubre, la autorización de quien solicita la subvención para que
+el órgano concedente obtenga, de forma directa, la acreditación del cumplimiento de
+las obligaciones tributarias y de la seguridad social, en cuyo caso no deberá aportar la
+correspondiente certificación.
+No obstante, el solicitante podrá denegar expresamente el consentimiento, debiendo
+aportar entonces la certificación en los términos previstos en el citado artículo 22.
+3. Plazo de presentación. Las solicitudes, acompañadas de la documentación
+correspondiente, se presentarán en el plazo y modelo que se señale en la convocatoria.
+Las solicitudes presentadas fuera de plazo se declararán no admitidas mediante
+resolución expresa.
+4. Medios de notificación. De conformidad con lo dispuesto en el artículo 41 de la
+Ley 39/2015, de 1 de octubre, las notificaciones se realizarán por medios electrónicos,
+de manera que todas las comunicaciones y notificaciones que se realicen a lo largo
+de la tramitación del expediente electrónico, incluida la consulta de situación de dicho
+expediente, se harán de forma electrónica mediante comparecencia en la sede electrónica
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 77
+de la Administración de la Comunidad de Castilla y León, utilizando para ello la aplicación
+corporativa denominada «Sistema de notificaciones por comparecencia en sede
+electrónica» (NOTI), accesible a través de la dirección electrónica: https://www.ae.jcyl.
+es/notifica, para lo cual el interesado deberá darse de alta y suscribirse al procedimiento
+correspondiente.
+No obstante, mediante la presentación de la solicitud de ayuda se autoriza al ICECYL,
+en caso de que el interesado no lo haya hecho ya, a darle de alta de oficio en la aplicación
+referida y a suscribir el procedimiento a la misma.
+Las notificaciones electrónicas también se podrán llevar a cabo, en su caso, a través
+de la Dirección Electrónica Habilitada Única cuando tenga disponible su acceso.
+La Administración enviará un aviso a la dirección de correo electrónico del interesado
+que éste haya designado, informándole de la puesta a disposición de una notificación en
+la sede electrónica correspondiente. La falta de práctica de este aviso no impedirá que la
+notificación sea considerada plenamente válida, todo ello de conformidad con el artículo
+41.6 de la Ley 39/2015, de 1 de octubre.
+En virtud de lo previsto en el artículo 43.2 de la Ley 39/2015, de 1 de octubre, las
+notificaciones por medios electrónicos se entenderán practicadas en el momento en el
+que se produzca el acceso a su contenido. Se entenderá rechazada la notificación cuando
+hayan transcurrido diez días naturales desde la puesta a disposición de la notificación sin
+que se acceda a dicho contenido.
+Asimismo, conforme a lo dispuesto en el artículo 43.3 de la Ley 39/2015, de 1
+de octubre, se entenderá cumplida la obligación de notificación a la que se refiere el
+artículo 40.4 con la puesta a disposición de la notificación en la sede electrónica de la
+administración o en la dirección electrónica habilitada única.
+Cuando el interesado o su representante rechace la notificación de una actuación
+administrativa, se hará constar en el expediente, especificándose las circunstancias
+del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el
+procedimiento.
+Cuando el interesado fuera notificado por distintos cauces, se tomará como fecha de
+notificación la de aquélla que se hubiera producido en primer lugar.
+Base decimosegunda.– Documentación.
+1. Una vez publicado el extracto de la convocatoria, y dentro del plazo que ésta
+disponga, los interesados o, en su caso, sus representantes legales, presentarán junto
+con la solicitud, la documentación exigida en la correspondiente convocatoria conforme
+establece el artículo 28 de la Ley 39/2015, de 1 de octubre.
+Dado que los gastos considerados subvencionables deben estar realizados y
+pagados con anterioridad a la fecha de presentación de la solicitud de subvención, la
+documentación de la justificación de acuerdo con lo dispuesto en el artículo 30 de la Ley
+38/2003, de 17 de noviembre y artículo 72 del Reglamento de la Ley 38/2003, de 17 de
+noviembre se presentará junto con la solicitud.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 78
+2. La convocatoria determinará qué documentos podrán sustituirse, en su caso, por
+una declaración responsable conforme a lo dispuesto en el artículo 18.3 de la Ley 5/2008,
+de 25 de septiembre. En este caso, con anterioridad a la propuesta de resolución de
+concesión se podrá requerir la presentación, en un plazo no superior a diez días, de la
+documentación que acredite la realidad de los datos contenido en la citada declaración.
+3. Cuando los documentos que deban acompañar a la solicitud ya estuvieran en poder
+de cualquier órgano de la entidad actuante, el solicitante podrá acogerse a lo establecido
+en el artículo 53.d) de la Ley 39/2015, de 1 de octubre, siempre que se haga constar la
+fecha y el órgano o dependencia en que fueron presentados o, en su caso, emitidos, y
+no hayan transcurrido más de cinco años desde la finalización del procedimiento al que
+correspondan los documentos.
+Si resultara materialmente imposible obtener el documento, el órgano instructor
+deberá requerir al solicitante, con anterioridad a la evaluación de las solicitudes, su
+presentación, o, en su defecto, la acreditación por otros medios de los requisitos a los
+que se refiere el documento, de acuerdo con lo dispuesto en el artículo 18.2 de la Ley
+5/2008, de 25 de septiembre.
+4. Igualmente la entidad solicitante podrá presentar, y el ICECYL solicitar, cualquier
+documento necesario para verificar el cumplimento de los requisitos exigibles en orden a
+la resolución correspondiente del procedimiento.
+5. La verificación del cumplimiento de las obligaciones, así como de cualquier aspecto
+relativo al cumplimiento de los requisitos para obtener la ayuda, incluidos los acreditados
+en el momento de la solicitud mediante declaración responsable, será realizada de oficio
+por el ICECYL, que se reserva el derecho de realizar cuantas actuaciones sean precisas
+para el cumplimiento del indicado fin.
+De acuerdo con lo previsto en el artículo 24, del Real Decreto 887/2006, de 21 de
+julio, por el que se aprueba el Reglamento de la Ley 38/2003, de 17 de noviembre, la
+presentación de la declaración responsable sustituirá la presentación de certificaciones
+tributaria y de Seguridad Social.
+6. Subsanación de defectos. Si la solicitud aportada no reúne los requisitos, fuera
+incompleta o presentara errores subsanables, se requerirá a la entidad solicitante para
+que, en el plazo máximo e improrrogable de diez días hábiles, desde el siguiente al de
+recepción del requerimiento, subsane la falta o acompañe los documentos preceptivos,
+con advertencia de que, si no lo hiciese, se le tendrá por desistido de su solicitud, de
+acuerdo con lo establecido en el artículo 68 de la Ley 39/2015, de 1 de octubre.
+7. Datos de carácter personal. Los datos aportados quedarán incorporados a
+una base de datos que aporte información suficiente para la gestión de subvenciones
+pudiéndose incorporar, asimismo, a los registros previstos normativamente.
+De acuerdo con lo establecido en el Reglamento General de Protección de Datos
+(Reglamento 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016,
+relativo a la protección de las personas físicas en lo que respecta al tratamiento de datos
+personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/
+CE), y la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales
+y garantía de los derechos digitales, el Instituto para la Competitividad Empresarial de
+Castilla y León con dirección en C/ Jacinto Benavente, número 2, 47195, Arroyo de
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 79
+la Encomienda (Valladolid), tratará los datos personales de los representantes de las
+entidades solicitantes conforme a lo señalado en las páginas 21 y 22 del «Registro de
+Actividades de Tratamiento del ICECYL» que figura en la página web https://empresas.
+jcyl.es/web/jcyl/Empresas/es/Plantilla100/1284498405601/_/_/_.
+De conformidad con lo establecido en el Reglamento (UE) 2016/679, de 27 de abril,
+y en la Ley Orgánica 3/2018, de 5 de diciembre, el tratamiento de los datos personales de
+los solicitantes de estas subvenciones se considera fundado en el ejercicio de un poder
+público por parte del responsable del tratamiento.
+En cualquier caso, el solicitante podrá ejercitar gratuitamente los derechos de acceso,
+rectificación, supresión, limitación y oposición, dirigiéndose tanto al ICECYL, como al
+Responsable del Tratamiento, como a su Delegado de Protección de Datos en el correo
+electrónico dpd.ice@jcyl.es.
+Base decimotercera.– Instrucción del procedimiento.
+1. El órgano instructor del procedimiento será la Dirección General del ICECYL
+quien realizará de oficio cuantas actuaciones estime necesarias para la determinación,
+conocimiento y comprobación del cumplimiento de los requisitos exigidos, las condiciones
+impuestas para adquirir la condición de beneficiario descritas en la base cuarta, así como
+la adecuación del proyecto a las tipologías de actuación descritas en la base sexta y en
+virtud de los cuales debe formular la propuesta de resolución.
+2. La Comisión de Análisis, Evaluación y Operaciones dictaminará e informará las
+solicitudes de subvención. La composición de la Comisión de Análisis, Evaluación y
+Operaciones se establece en el Acuerdo de 4 de mayo de 2012, de la Comisión Ejecutiva
+del ICECYL. El funcionamiento de esta Comisión se regirá por lo dispuesto en el
+capítulo IV del Título V de la Ley 3/2001, de 3 de julio, del Gobierno y de la Administración
+de la Comunidad de Castilla y León.
+3. Antes de formular la propuesta de resolución se comprobarán las subvenciones y
+ayudas solicitadas y/o concedidas para el mismo proyecto de lo que quedará constancia
+en el expediente.
+Base decimocuarta.– Resolución.
+1. Las solicitudes serán resueltas por la Presidencia del ICECYL, a propuesta de
+la Dirección General, sin perjuicio de la desconcentración o delegaciones que puedan
+efectuarse.
+En todo caso, las subvenciones se otorgarán a aquellos solicitantes que cumplan
+con los requisitos exigidos fijados en estas bases y en la convocatoria, con el límite de
+los créditos presupuestarios asignados a la convocatoria.
+2. El plazo máximo para resolver y notificar la resolución es de seis meses contados
+desde el día en que la solicitud haya tenido entrada en el registro electrónico de la
+Administración u Organismo competente para su tramitación.
+El vencimiento del mencionado plazo sin que se haya dictado y notificado resolución
+expresa, legitima a las entidades interesadas para entender desestimada la solicitud,
+conforme a lo establecido en el artículo 12 de la Ley 5/2008, de 25 de septiembre.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 80
+3. Las resoluciones podrán dictarse de manera conjunta, estarán motivadas y
+fundamentadas en el cumplimiento de los requisitos previstos en las bases, así como en
+aquellas disposiciones específicas establecidas en cada convocatoria y expresarán, en
+su caso, el importe de la subvención que se concede en relación con el gasto objeto de
+la misma, las condiciones generales y particulares a que queda sujeta y sus plazos y la
+sujeción de la subvención a la norma de minimis.
+4. Las subvenciones concedidas se publicarán en la Base de Datos Nacional de
+Subvenciones (BDNS), con expresión de la convocatoria, entidad beneficiaria, cantidad
+concedida y objetivo o finalidad de la subvención.
+Asimismo, según lo dispuesto en el artículo 27.3 de la Ley 5/2008, de 25 de septiembre,
+las subvenciones concedidas serán publicadas en la página web del ICECYL.
+Base decimoquinta.– Recursos.
+Contra la resolución del procedimiento de concesión de subvenciones, que pone fin
+a la vía administrativa, podrá interponerse recurso potestativo de reposición en el plazo
+de un mes ante la Presidencia del ICECYL, o bien, directamente recurso contencioso
+administrativo en el plazo de dos meses ante el Juzgado de lo Contencioso Administrativo,
+contados ambos plazos desde el día siguiente de la recepción de la notificación, conforme
+a lo dispuesto en la Ley 39/2015, de 1 de octubre y la Ley 29/1998, de 13 de julio,
+reguladora de la Jurisdicción Contencioso Administrativa.
+Base decimosexta.–Aceptación.
+La solicitud conlleva, en su caso, la aceptación de la subvención por parte del
+beneficiario y de las condiciones establecidas en las bases y convocatorias en los
+términos que fije la resolución de concesión y se entenderá solicitado el cobro del importe
+concedido.
+Base decimoséptima.– Renuncias.
+La entidad beneficiaria podrá renunciar a la subvención en cualquier momento
+mediante la correspondiente solicitud, que será aceptada por la Presidencia del ICECYL,
+sin perjuicio de la desconcentración o delegación que pueda efectuarse, una vez
+reintegrado, en su caso, el importe de la subvención, declarando el archivo del expediente.
+Base decimoctava.– Justificación y pago.
+1. Para las subvenciones concedidas al amparo de estas bases, y dado que los
+gastos considerados subvencionables deben estar realizados y pagados con anterioridad
+a la fecha de presentación de la solicitud de subvención, se entenderán justificadas con la
+presentación de la documentación necesaria para su tramitación, considerándose como
+plazo de justificación la fecha de solicitud de la subvención, de acuerdo con lo dispuesto
+en el artículo 30 de la Ley 38/2003, de 17 de noviembre, y artículo 72 del Reglamento de
+la Ley 38/2003, de 17 de noviembre.
+A los efectos de justificación de las actuaciones subvencionables, las solicitudes se
+acompañarán de una cuenta justificativa del coste de las actuaciones realizadas, que
+contendrá:
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 81
+a) Memoria de actuación justificativa de las acciones realizadas y resultados
+obtenidos.
+b) Una relación clasificada de los gastos de la actividad, con identificación del
+proveedor, descripción, tipo de documento, fechas de los documentos, importe
+sin IVA, importe con IVA, cuenta contable donde se haya registrado, fecha de
+pago y en su caso, cuenta bancaria en la que se ha producido la salida de
+tesorería.
+c) Facturas o documentos de valor probatorio y documentos acreditativos del
+pago efectivo correspondientes a los gastos objeto de subvención, así como los
+documentos que establezca la convocatoria sobre criterios de justificación de
+gastos y pagos.
+d) Justificación relativa a que los gastos subvencionables en los que haya incurrido
+en sus operaciones comerciales han sido abonados en los plazos de pago
+previstos en la normativa sectorial que le sea de aplicación o, en su defecto, en
+los establecidos en la Ley 3/2004, de 29 de diciembre, por la que se establecen
+medidas de lucha contra la morosidad en las operaciones comerciales.
+e) Presentación de los libros y registros contables que reflejen la contabilidad
+separada o la asignación de un código contable adecuado de todas las
+transacciones realizadas y perfectamente identificadas con el proyecto, para
+garantizar la adecuada justificación de la subvención.
+2. Dado que los gastos considerados subvencionables deben estar realizados y
+pagados con anterioridad a la fecha de presentación de la solicitud de subvención, no se
+prevé la realización de pagos a cuenta ni anticipos.
+3. El pago de la subvención será único y se realizará mediante transferencia bancaria
+a la cuenta corriente que haya indicado el solicitante en su solicitud, una vez concedida
+la subvención.
+Base decimonovena. – Incumplimientos y reintegros.
+1. Los incumplimientos de requisitos establecidos en esta orden y en las demás
+normas aplicables, así como de las condiciones que, en su caso, se hayan establecido en
+la correspondiente resolución de concesión, dará lugar a la pérdida del derecho al cobro de
+la subvención y, en su caso, previo el oportuno procedimiento de reintegro, a la obligación
+de devolver la subvención recibida más los intereses de demora correspondientes,
+conforme a lo previsto en la Ley 38/2003, de 17 de noviembre y la Ley 5/2008, de 25 de
+septiembre.
+2. Procederá la declaración de incumplimiento y, en su caso, el reintegro total de las
+cantidades percibidas, y la exigencia del interés de demora devengado desde el momento
+del pago de la subvención hasta la fecha en que se acuerde la procedencia del reintegro,
+en los supuestos incluidos en el artículo 37 de la Ley 38/2003, de 17 de noviembre y,
+además, en los siguientes:
+a) Obtener la subvención sin reunir las condiciones requeridas para ello.
+b) Incumplimiento de las condiciones impuestas a las empresas beneficiarias con
+motivo de la concesión de la subvención.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 82
+c) Cuando la empresa beneficiaria incurra en las situaciones de prohibición de
+acceso a las subvenciones.
+d) Incumplimiento de las obligaciones de la empresa beneficiaria previstas en la
+base quinta.
+3. Cuando el cumplimiento por la empresa beneficiaria se aproxime de modo
+significativo al cumplimiento total y se acredite por ésta una actuación inequívocamente
+tendente a la satisfacción de sus compromisos, para determinar el grado de incumplimiento
+se tendrá en cuenta el grado de ejecución de la acción subvencionable y el grado de
+consecución de la finalidad de la convocatoria aplicándose en todo caso el principio de
+proporcionalidad.
+4. Si se hubiere incumplido las medidas de publicidad se aplicarán las reglas incluidas
+en el artículo 31.3 del Reglamento de la Ley 38/2003, de 17 de noviembre.
+5. En todo caso, el alcance del incumplimiento será total en los siguientes casos:
+a) Haber obtenido la subvención sin reunir las condiciones requeridas para ello u
+ocultando aquellas que lo hubieran impedido.
+b) Cuando la empresa beneficiaria incurra en las situaciones de prohibición de
+acceso a las subvenciones.
+c) La falta de colaboración con las actuaciones de comprobación y control a que se
+refiere la base quinta de esta orden.
+6. Si el incumplimiento derivara de la inobservancia de alguna condición o supuesto
+distinto de los anteriores, su alcance, total o parcial, será determinado en función del
+grado y de la entidad de la condición incumplida.
+7. La concurrencia de distintas causas de incumplimiento dará lugar a la apreciación
+conjunta de las mismas para determinar el alcance del incumplimiento que en todo caso
+se graduará conforme al principio de proporcionalidad.
+8. Cuando el alcance del incumplimiento sea total, aplicando lo establecido en los
+apartados anteriores, no procederá el pago de la subvención a la empresa beneficiaria,
+dando lugar, en su caso, al reintegro de las cantidades percibidas y a la exigencia de los
+intereses de demora correspondientes.
+En los demás casos, la subvención procedente se obtendrá reduciendo la subvención
+concedida en el porcentaje del incumplimiento, dando lugar, en su caso, al reintegro
+de las cantidades percibidas en exceso y a la exigencia de los intereses de demora
+correspondientes.
+9. La tramitación del procedimiento de incumplimiento se realizará conforme a la
+normativa vigente, correspondiendo su inicio y resolución a la Presidencia del ICECYL,
+sin perjuicio de las desconcentraciones o delegaciones que puedan efectuarse, previo
+informe técnico del área competente por razón de la materia.
+El acuerdo por el que se inicie el procedimiento de reintegro deberá indicar la causa
+que determina su inicio, las obligaciones incumplidas y el importe de la subvención
+afectada.
+CV: BOCYL-D-22062026-118-11
+
+Boletín Oficial de Castilla y León
+Núm. 118 Lunes, 22 de junio de 2026 Pág. 83
+Recibida notificación del inicio del procedimiento de reintegro, el interesado podrá
+presentar las alegaciones y documentación que estime pertinentes, en un plazo de
+quince días.
+El plazo máximo para resolver y notificar la resolución será de doce meses desde la
+iniciación del procedimiento, teniendo en cuenta las posibles interrupciones producidas
+por causas imputables a los interesados. Transcurrido el plazo máximo se producirá la
+caducidad del procedimiento en los términos establecidos en la Ley 39/2015, de 1 de
+octubre, sin perjuicio de continuar las actuaciones hasta su terminación y sin que se
+considere interrumpida la prescripción por las actuaciones realizadas hasta la finalización
+del citado plazo.
+10. De conformidad con el artículo 90 del Reglamento de la Ley 38/2003, de 17 de
+noviembre, se entiende por devolución voluntaria aquella que es realizada por la entidad
+beneficiaria sin el previo requerimiento de la Administración. Cuando dicha devolución
+voluntaria se produzca por alguna de las causas establecidas en el artículo 37 de la Ley
+38/2003, de 17 de noviembre, los intereses de demora se calcularán hasta el momento
+en que se produjo la devolución efectiva por parte de las entidades beneficiarias.
+11. Contra las resoluciones de la Presidencia del ICECYL podrá interponerse
+recurso potestativo de reposición en el plazo de un mes ante el mismo órgano, o bien
+directamente recurso contencioso administrativo en el plazo de dos meses ante el
+Juzgado Contencioso Administrativo, a contar en ambos casos desde el día siguiente a la
+recepción de la notificación, conforme a lo dispuesto en la Ley 39/2015, de 1 de octubre,
+y la Ley 29/1998, de 13 de julio.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-22062026-118-11

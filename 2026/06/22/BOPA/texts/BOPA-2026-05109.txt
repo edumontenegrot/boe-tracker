@@ -1,0 +1,212 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 118 de 22-vi-2026 1/4
+https://miprincipado.asturias.es/bopa
+90150-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de salud
+serviCio de salud del PrinCiPado de asturias (sesPa)
+ResoluCión de 15 de junio de 2026, de la Dirección Gerencia del servicio de salud del Principado de Asturias, por
+la que se crea el sello electrónico y se establecen actuaciones administrativas automatizadas dentro del ámbito de
+las competencias del servicio de salud del Principado de Asturias.
+la implantación de medios electrónicos a los procedimientos administrativos supone la posibilidad de automatizar
+diversas actuaciones administrativas que se realizan dentro del procedimiento administrativo y cuya cobertura legal se
+encuentra recogida en la ley 40/2015, de 1 de octubre, de régimen jurídico del sector Público, en adelante lrjsP.
+así, de acuerdo con lo establecido en el artículo 41 de esa ley, se entiende por actuación administrativa automatizada,
+cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una administración pública en el
+marco de un procedimiento administrativo en la que no haya intervenido de forma directa un empleado público. este
+precepto tiene carácter básico, de conformidad con lo establecido en la disposición final decimocuarta de la LRJSP, pero
+ha de desarrollarse teniendo en cuenta las peculiaridades organizativas de la administración del Principado de asturias
+establecidas en la ley 2/1995, de 13 de marzo, sobre régimen jurídico de la administración del Principado de asturias,
+a cuyo efecto se dicta la presente resolución.
+en cuanto a la autenticación de las actuaciones administrativas automatizadas, el artículo 42 de la lrjsP establece la
+posibilidad de usar como sistema de firma electrónica el sello electrónico de Administración Pública, órgano, organismo
+público o entidad de derecho público, basado en certificado electrónico reconocido o cualificado que reúna los requisitos
+exigidos por la legislación de firma electrónica. De igual forma, el artículo 19 del Real Decreto 203/2021, de 30 de marzo,
+por el que se aprueba el reglamento de actuación y funcionamiento del sector público por medios electrónicos establece
+que las Administraciones Públicas podrán identificarse mediante el uso de un sello electrónico basado en un certificado
+electrónico cualificado que reúna los requisitos exigidos por la legislación de firma electrónica. Estos certificados electró-
+nicos incluirán el número de identificación fiscal y la denominación correspondiente, así como, en su caso, la identidad
+de la persona titular en el caso de los sellos electrónicos de órganos administrativos.
+la relación de sellos electrónicos utilizados por cada administración Pública, incluyendo las características de los
+certificados electrónicos y los prestadores que los expiden, debe hacerse pública y ser accesible por medios electrónicos,
+publicándose en la sede electrónica o sede asociada o en el portal de internet correspondiente. además, cada adminis-
+tración Pública adoptará las medidas adecuadas para facilitar la verificación de sus sellos electrónicos.
+Por otro lado, en caso de actuación administrativa automatizada deberá establecerse previamente el órgano u órga-
+nos competentes, según los casos, para la definición de las especificaciones, programación, mantenimiento, supervisión
+y control de calidad y, en su caso, auditoría del sistema de información y de su código fuente, así como para la autoriza-
+ción del uso del sello. asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación y
+en caso de que se detecten otras actuaciones susceptibles de automatización mediante firma con sello, se podrá solicitar
+la incorporación del sello a esa actuación, previa autorización de la persona titular de la Consejería mediante resolución
+de declaración de actuación administrativa automatizada. todo ello es objeto de la presente resolución para el ámbito
+del servicio de salud del Principado de asturias.
+asimismo, debe tenerse en cuenta lo dispuesto en el artículo 6 quinquies de la ley del Principado de asturias sobre
+régimen jurídico de la administración, que regula la actuación administrativa automatizada en el ámbito autonómico
+y establece que la determinación y el establecimiento de las actuaciones administrativas automatizadas se efectuarán
+mediante resolución de la persona titular de la Consejería competente en el procedimiento de que se trate. en dicha
+resolución, deberá indicarse, además, el órgano responsable a efectos de impugnación.
+el legislador asturiano ha indicado como principios generales de esta administración, el de innovación y mejora con-
+tinua entendido como la adopción de medidas de innovación que permitan cumplir los objetivos de eficacia, eficiencia y
+agilidad administrativa, así como someter los procedimientos a controles de cara a proponer mejoras en la gestión; y el
+de automatización entendido como preferencia de las actuaciones administrativas automatizadas en los actos o actua-
+ciones que sean susceptibles de ser configurados como tales en el marco de un procedimiento administrativo.
+esta resolución responde a la necesidad de establecer las actuaciones administrativas automatizadas dentro del ám-
+bito de las competencias funcionales de este servicio de salud para lo que también es necesaria la creación de su corres-
+pondiente sello electrónico. Por otra parte, esta resolución también contribuye a la satisfacción del principio de seguridad
+jurídica en el procedimiento administrativo al definir con claridad tanto los términos en que se realizarán las actuaciones
+administrativas automatizadas en el ámbito competencial funcional de este servicio de salud como la creación y titulari-
+dad de su sello electrónico. Asimismo, también respeta el principio de eficiencia, dado que contribuye a que la actuación
+administrativa pueda ser realizada íntegramente a través de medios electrónicos; al tiempo que también es eficaz al ser
+el instrumento necesario y adecuado para el fin perseguido, no limitando derechos y deberes de los ciudadanos.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 118 de 22-vi-2026 2/4
+https://miprincipado.asturias.es/bopa
+90150-6202
+.dóC
+de acuerdo con el principio de proporcionalidad, la iniciativa contiene la regulación imprescindible para atender la
+necesidad descrita, ejerciéndose de manera coherente con el resto del ordenamiento jurídico.
+La inclusión de la generación automatizada de certificados de actividades formativas responde a la conveniencia de
+dotar de plena validez administrativa, trazabilidad y verificabilidad a los certificados emitidos en relación con las activi-
+dades formativas organizadas por el Servicio de Salud del Principado de Asturias, permitiendo su firma mediante sello
+electrónico y su posterior comprobación mediante Código Seguro de Verificación.
+Por decreto 122/2025, de 11 de diciembre, por el que se establece la estructura orgánica básica de la Consejería de
+salud, se adscribe a dicha Consejería el servicio de salud del Principado de asturias (sesPa), ente de derecho público,
+dotado de personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines, cuya estructura
+orgánica básica se establece por decreto 123/2025, de 11 de diciembre.
+en virtud de todo lo expuesto, y de conformidad con lo establecido en los artículos 6 quinquies, 21.5 y 14.3 de la
+ley del Principado de asturias 2/1995, de 13 de marzo, sobre régimen jurídico de la administración del Principado de
+asturias, por la presente,
+resuelvo
+Primero.—objeto y ámbito de aplicación.
+1. esta resolución tiene por objeto la creación del sello electrónico del servicio de salud del Principado de asturias y
+establecer las actuaciones administrativas automatizadas a las que se aplicará.
+2. lo dispuesto en esta resolución será de aplicación a la totalidad de los órganos que tramitan procedimientos y
+trámites electrónicos y cuya dependencia orgánica le corresponde a este servicio de salud.
+segundo.—Creación del sello electrónico del servicio de salud.
+Se crea el sello electrónico del Servicio de Salud para la identificación y la autenticación del ejercicio de la competen-
+cia en las actuaciones administrativas automatizadas generadas en el ámbito funcional de este servicio de salud.
+Tercero.—titularidad del sello electrónico del servicio de salud.
+la titularidad del sello electrónico del servicio de salud así como la responsabilidad de su utilización corresponderá
+a la persona titular de la Dirección Gerencia del Servicio de Salud. Las características generales del sistema de firma y
+certificado aplicable serán las que consten en la Política de Firma del Principado de Asturias.
+Cuarto.—actuaciones administrativas a las que es aplicable el sello electrónico del servicio de salud.
+el sello electrónico del servicio de salud podrá ser utilizado en las actuaciones administrativas automatizadas
+siguientes:
+a) emisión de comunicaciones administrativas.
+b) Emisión de actos, resoluciones y notificaciones administrativas.
+c) Generación de copias electrónicas de documentos en soporte papel.
+d) Generación de certificados de inscripciones y/o anotaciones registrales.
+e) Firma automatizada para integraciones informáticas.
+f) Generación de certificados de actividades formativas.
+Quinto.—emisión de comunicaciones administrativas de forma automatizada.
+1. las comunicaciones administrativas que se produzcan en el seno de los procedimientos electrónicos del servicio
+de Salud podrán ser generadas de forma automática a partir de la firma electrónica del acto o documento que se comu-
+nica, incluyendo el apunte del registro electrónico de salida. Serán firmadas mediante el sello electrónico del Servicio
+de Salud, haciendo constar, en los casos en que sea posible, en los datos de firma, la identificación de la persona titular
+del servicio de salud.
+2. se comprobarán los datos del destinatario de la comunicación en las bases de datos propias, de modo que si
+concurren las condiciones establecidas se procederá a la emisión de las correspondientes comunicaciones de forma
+automatizada.
+sexto.—Emisión de actos, resoluciones y notificaciones administrativas de forma automatizada.
+1. Los actos, resoluciones y notificaciones que se produzcan en los procedimientos del Servicio de Salud a través de
+sus sistemas de información podrán ser generados de forma automática incluyendo el apunte de registro electrónico de
+salida. Serán firmados mediante el sello electrónico del Servicio de Salud haciendo constar en los casos en que sea posi-
+ble, en los datos de firma, la identificación de la persona titular del órgano superior del Servicio de Salud o, en su caso,
+el titular de la estructura administrativa responsable de la tramitación del procedimiento en que se hayan producido.
+2. Se comprobarán los datos para generar los actos y las notificaciones en las bases de datos propias, de modo
+que si concurren las condiciones establecidas se procederá a la emisión de los correspondientes documentos de forma
+automatizada.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 118 de 22-vi-2026 3/4
+https://miprincipado.asturias.es/bopa
+90150-6202
+.dóC
+séptimo.—Generación de copias electrónicas de documentos en soporte papel.
+1. la generación de una copia electrónica a partir de un documento en soporte papel podrá realizarse de forma au-
+tomatizada mediante el proceso de digitalización que se regula en el artículo 27.3 de la ley 39/2015, de 1 de octubre,
+del Procedimiento administrativo Común de las administraciones Públicas.
+2. La copia electrónica de documentos digitalizados de forma automatizada, obtiene una imagen codificada, fiel e
+íntegra del documento. El documento resultante se autenticará mediante la firma de sello electrónico del Servicio de
+salud.
+octavo.—Generación de certificados de inscripciones y/o anotaciones registrales.
+1. a solicitud de los interesados que formulen sus peticiones mediante los servicios electrónicos disponibles en la
+sede electrónica del Principado de Asturias, se podrán generar de forma automatizada certificados de inscripciones o
+anotaciones registrales que serán firmados por el sello electrónico del Servicio de Salud. Estos certificados serán el re-
+sultado del tratamiento y verificación de la información existente en las bases de datos de cada procedimiento registral
+de competencia funcional del servicio de salud.
+2. Lo aquí dispuesto será igualmente aplicable a la generación de hojas de servicios o certificaciones similares de los
+empleados públicos que presten servicios en el servicio de salud.
+noveno.—Firma automatizada para integraciones informáticas.
+el sello electrónico del servicio de salud podrá ser utilizado en las actuaciones administrativas automatizadas
+siguientes:
+a) La identificación y autenticación de la misma en las integraciones informáticas que se conecten con las infraes-
+tructuras y servicios comunes proporcionados por la administración General del estado, cuando éstas afecten a
+los sistemas de información que dan soporte a procesos propios del ámbito de la salud.
+b) La identificación y firma de la actuación administrativa automatizada de los procesos de gestión de las facturas
+electrónicas provenientes del Punto General de Entrada de Facturas Electrónicas de la Administración General
+del Estado regulado en la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del
+registro contable de facturas en el sector Público y que van dirigidas al servicio de salud.
+Décimo.—Generación de certificados de actividades formativas.
+1. Los certificados para los participantes de las actividades formativas organizadas por el Servicio de Salud podrán ser
+generados de forma automática. Serán firmados mediante el sello electrónico del Servicio de Salud, haciendo constar,
+en los casos en que sea posible, en los datos de firma, la identificación de la persona titular del órgano responsable de
+la actividad.
+2. Se comprobarán los datos incluidos en el certificado de la actividad formativa en las bases de datos propias, de
+modo que si concurren las condiciones establecidas se procederá a la emisión de los correspondientes documentos de
+forma automatizada.
+undécimo.—Órganos competentes en materia de actuaciones administrativas automatizadas.
+los órganos competentes en relación con las actuaciones administrativas automatizadas incluidas en el artículo cuar-
+to serán los siguientes:
+a) Para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad y,
+en su caso, auditoría del sistema de información y de su código fuente, será competente la dirección General
+competente en materia de estrategia digital respecto de las plataformas, servicios comunes e infraestructuras
+corporativas de administración electrónica, y la dirección General competente en materia de transformación
+digital de salud respecto de los sistemas de información propios del ámbito funcional del servicio de salud,
+conjuntamente en sistemas corporativos y sectoriales.
+b) la persona titular de la dirección Gerencia del servicio de salud que, mediante resolución y previa solicitud
+motivada del centro directivo, será la que autorice el uso del sello electrónico. dicha solicitud incluirá, al menos,
+una memoria justificativa, que exponga detalladamente los motivos que fundamentan la necesidad del uso del
+sello electrónico, así como un análisis pormenorizado de la actuación a la que se pretende aplicar.
+c) a efectos de impugnación de las actuaciones administrativas automatizadas, será responsable la persona titular
+del servicio de salud.
+Duodécimo.—Comprobación de los documentos generados de forma automatizada.
+1. todos los documentos que sean producto de las actuaciones administrativas automatizadas reguladas mediante la
+presente resolución deberán poder comprobarse mediante el acceso a la sede electrónica del Principado de asturias. Para
+ello, todos los documentos deberán incluir un Código Seguro de Verificación (CSV) generado de forma automática.
+2. el sistema de Csv deberá garantizar, en todo caso, el carácter único del código generado para cada documento,
+su vinculación con el documento generado y con el firmante.
+Decimotercero.—Gestión técnica de los Códigos Seguros de Verificación (CSV).
+La gestión técnica de las infraestructuras y aplicaciones necesarias para la generación y verificación del CSV corres-
+ponderá a la dirección general competente en materia de seguridad y estrategia digital.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 118 de 22-vi-2026 4/4
+https://miprincipado.asturias.es/bopa
+90150-6202
+.dóC
+Decimocuarto.—Plazo de disponibilidad de documentos generados mediante las actuaciones administrativas
+automatizadas.
+1. los documentos electrónicos generados mediante actuación administrativa automatizada estarán disponibles a
+efectos de comprobación mediante Csv en tanto no se acuerde la destrucción de los documentos sobre los que se hayan
+emitido, con arreglo a la normativa que resulte de aplicación o por decisión judicial.
+2. Cuando se intente cotejar en la sede electrónica un documento que incluye un Csv que ya no está disponible por
+decisión judicial o por la aplicación de la normativa vigente, aparecerá un mensaje que informe de esta circunstancia.
+Decimoquinto.—otras actuaciones administrativas automatizadas.
+Cuando se detecten otras actuaciones susceptibles de automatización mediante firma con el sello electrónico del
+servicio de salud, el órgano competente podrá solicitar la incorporación del sello a esa actuación, que deberá ser previa-
+mente autorizada por la persona titular de la dirección Gerencia del servicio de salud mediante resolución de declaración
+de actuación administrativa automatizada.
+Decimosexto.—aplicación de la resolución.
+esta resolución producirá efectos a partir del día siguiente al de su publicación en el Boletín Oficial del Principado de
+Asturias.
+Contra la presente resolución, cabe interponer recurso de alzada ante la Consejería de salud, en el plazo de un mes
+contado desde el día siguiente al de su publicación, conforme a lo dispuesto en el artículo 134 de la ley del Principado
+de asturias 7/2019, de 29 de marzo, de salud, en relación con el artículo 27 de la ley 2/1995, de 13 de marzo, sobre
+régimen jurídico de las administración del Principado de asturias, y el artículo 121 de la ley 39/2015, de 1 de octubre,
+de Procedimiento administrativo Común de las administraciones Públicas, sin perjuicio de la utilización de cualquier otro
+recurso que se estime procedente.
+en oviedo, a 15 de junio de 2026.—el director Gerente del servicio de salud del Principado de asturias.—Cód.
+2026-05109.
