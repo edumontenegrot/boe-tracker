@@ -1,0 +1,657 @@
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 185
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Soria
+RESOLUCIÓN de 18 de junio de 2026, de la Delegación Territorial de Soria, por la
+que se dicta el informe de impacto ambiental del proyecto de reforma de la LAMT «Nepas»
+15 kV, entre el apoyo existente L00678003-0002 y el CT existente Z06358 «Perdices»,
+promovido por «Edistribución Redes Digitales, S.L.U.», en el término municipal de Viana
+de Duero (Soria). Expte.: 013/25 EIA - EIAS/2025/SO/010.
+La titular de la Delegación Territorial de la Junta de Castilla y León en Soria, en
+relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental y en virtud de las atribuciones conferidas por el artículo 52.2
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano competente para dictar
+informe de impacto ambiental.
+La citada Ley de evaluación ambiental recoge en su anexo II los proyectos sometidos
+a evaluación de impacto ambiental simplificada. El presente proyecto está incluido en el
+Grupo 2, Industria energética, apartado b) «Construcción de líneas eléctricas (proyectos
+no incluidos en el anexo I) con un voltaje igual o superior a 15 kV, que tengan una
+longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo
+de los anteriores umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan
+las medidas preventivas establecidas en el Real Decreto 1432/2008, de 29 de agosto,
+por el que se establecen medidas para la protección de la avifauna contra la colisión y
+la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m de
+población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que
+discurran íntegramente en subterráneo por suelo urbanizado».
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+Considerando adecuadamente tramitado el expediente, vista la propuesta de la
+Comisión Territorial de Medio Ambiente y Urbanismo de Soria de 17 de junio de 2026, las
+observaciones y la documentación presentada,
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 186
+RESUELVO
+Dictar el Informe de impacto ambiental del proyecto «Reforma de Línea Aérea de
+Media Tensión «Nepas» 15 kV entre el apoyo existente L00678003-0002 y el Centro de
+Transformación existente Z06358 «Perdices», en término municipal de Viana de Duero
+(Soria), promovido por Edistribucion Redes Digitales, S.LU., que figura como anexo a
+esta Resolución. Expte. 013/25 EIA – EIAS/2025/SO/010.
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, y en el artículo 59 del texto refundido de la Ley
+de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este Informe de Impacto Ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Soria, 18 de junio de 2026.
+La Delegada Territorial,
+Fdo.: Yolanda de Gregorio Pachón
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 187
+ANEXO QUE SE CITA
+INFORME DE IMPACTO AMBIENTAL DEL PROYECTO DE REFORMA DE LAMT
+«NEPAS»15 kV ENTRE EL APOYO EXISTENTE L00678003-0002 Y EL CT EXISTENTE
+Z06358 «PERDICES», EN EL TÉRMINO MUNICIPAL DE VIANA DE DUERO (SORIA).
+EXPTE. 013/25 EIA–EIAS/2025/SO/010.
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+La finalidad del proyecto es la reforma de la Línea Aérea de Media Tensión (LAMT)
+«Nepas» de 15 kV entre el apoyo existente n.º 2 y el Centro de Transformación (CT)
+existente Z06358 «Perdices», para la mejora de suministro en la zona, en el término
+municipal de Viana de Duero.
+Para ello se realizarán las siguientes actuaciones:
+• Se desinstalarán 83 apoyos y 3.757 metros de línea de conductor Cu 35 y 186
+metros de línea de conductor Cu 10.
+• Se instalarán 30 nuevos apoyos de celosía y 3.947,04 metros de línea de
+conductor LA-110.
+• Se reformarán los centros de transformación existentes CT Z06359 «La Milana»
+y CT Z06358 «Perdices» donde se conectarán a seccionador existente del CT a
+través de cable seco y se instalarán autoválvulas y terminales en el exterior del
+CT para el cambio de conductor, se retirarán pasamuros existentes para permitir
+el paso del cable seco.
+El proyecto contempla las medias antielectrocución cumpliendo la normativa
+sin necesidad de utilización de forros. A excepción de los apoyos con aparamenta se
+contemplará cable aislado y no forro. En el caso de que se tenga que forrar se utilizará
+el material indicado en la norma BNA001 Forros de protección antielectrocución de la
+avifauna en las líneas eléctricas de distribución.
+Los elementos anticolisión a utilizar serán las cintas de neopreno.
+2. DOCUMENTO AMBIENTAL.
+La documentación presentada que se valora y que se corresponde con el contenido
+al que hace referencia el artículo 45 de la Ley 21/2013, de 9 de diciembre, de evaluación
+ambiental, incluye el proyecto de ejecución referido, así como el documento ambiental,
+fechados estos en diciembre de 2024 y mayo de 2025 respectivamente.
+En el documento ambiental se plantean y analizan las siguientes alternativas
+posibles, al objeto de seleccionar aquella que reúna la característica de suponer el menor
+impacto medioambiental posible, teniendo en cuenta su viabilidad técnica y económica:
+• La alternativa cero, de no ejecución de la reforma del tendido eléctrico, es decir,
+mantener la línea en su estado actual.
+• Alternativa 1: Trazado de la línea más favorable ambientalmente. Consiste en
+la modificación de la línea ya existente donde se instalarán nuevos apoyos,
+eliminando los existentes y cambiando el conductor. En trazado de la línea es
+prácticamente igual a la existente. Se reformarán los Centros de Transformación
+existentes. Se colocarán medidas de protección para la avifauna.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 188
+Tras evaluar los condicionantes técnicos, medioambientales y socioeconómicos, se
+opta por la alternativa 1, debido a que permitirá ajustarla a la normativa vigente (destacar
+que la línea se encuentra dentro de las zonas de aplicación del Real Decreto 1432/2008
+al afectar a zonas o espacios protegidos de interés para la fauna y, por tanto, en su
+estado actual se considera una línea potencialmente peligrosa para la fauna), mejorar la
+calidad del suministro y mejorar la explotación de la línea.
+El documento presenta un diagnóstico territorial y medioambiental de la zona
+de implantación del proyecto, que incluye una descripción del medio abiótico (clima,
+hidrología, geología y geomorfología), del medio biótico (vegetación y usos del suelo,
+hábitats de interés comunitario, taxones de flora catalogada, fauna, zonas de interés para
+la fauna), valores patrimoniales (dominio público, patrimonio cultural), medio perceptual
+y paisaje integrado y medio socioeconómico. Se señalan los impactos que pueden
+producirse durante la fase de ejecución de las obras y durante la fase de explotación del
+proyecto, en cada uno de los elementos del medio.
+Se realiza un análisis de la susceptibilidad del proyecto ante riesgos de accidentes
+graves o catástrofes.
+El documento ambiental identifica y valora los impactos, en la fase de construcción y
+en la fase de explotación, sobre la atmósfera, los suelos, el agua, la vegetación, la fauna,
+el paisaje, el dominio público, el patrimonio natural, el patrimonio cultural y la población
+y actividad económica. Se realiza una matriz de impactos donde se consideran las
+acciones del proyecto en las fases de construcción y explotación, así como los factores
+ambientales analizados.
+Concluye considerando todos los impactos en la fase de construcción como
+compatibles, menos sobre la fauna, el paisaje y la vegetación que son moderados. En la
+fase de explotación considera todos compatibles menos sobre la fauna que lo considera
+moderado.
+Este documento también incluye una serie de medidas preventivas y correctoras.
+Estas medidas tienen como objeto prevenir, reducir y compensar y, en la medida de lo
+posible, corregir, cualquier efecto negativo relevante en el medio ambiente de la ejecución
+del proyecto.
+Se desarrollará un Plan de Vigilancia Ambiental con los correspondientes objetivos,
+indicadores, frecuencia de medida y datos a controlar por factores ambientales, para
+evaluar la aplicación y ejecución de las medidas correctoras, por un lado, y por otro, los
+resultados obtenidos de la aplicación de esas medidas y la magnitud de los impactos
+residuales. Este programa atenderá a la vigilancia, durante la fase de obras, y al
+seguimiento, durante la fase de explotación del proyecto.
+3. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+3.1. Inicio del procedimiento. Con fecha de 30 de junio de 2025 tiene entrada en el
+Servicio Territorial de Medio Ambiente de Soria la solicitud de inicio del procedimiento
+de evaluación ambiental simplificada, junto con el proyecto técnico de ejecución
+y el documento ambiental relativo al proyecto «Reforma de la Línea Aérea de Media
+Tensión (LAMT) Nepas de 15 kV entre el apoyo existente L00678003-0002 y el Centro
+de Transformación (CT) existente Z06358 Perdices» en término municipal de Viana de
+Duero (Soria).
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 189
+3.2. Consultas a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, cuya estructura y contenido cumple con lo establecido en el artículo
+45 de la citada ley, se procedió por parte del Servicio Territorial de Medio Ambiente de
+Soria a la apertura del trámite de consultas a las Administraciones públicas afectadas y a
+las personas interesadas, con fecha de 11 de julio de 2025.
+La relación de los organismos consultados, así como los informes recibidos de forma
+previa a la redacción del presente informe se refleja en la siguiente tabla:
+EMISIÓN DE
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS
+INFORME
+Diputación Provincial de Soria -
+Confederación Hidrográfica del Duero SI
+Subdelegación del Gobierno de Soria SI
+Ayuntamiento de Viana de Duero -
+Servicio Territorial de Medio Ambiente de Soria. Área del Medio
+SI
+Natural
+Servicio Territorial de Cultura, Turismo de Soria SI
+Servicio Territorial de Movilidad y Transformación Digital de Soria SI
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de
+SI
+Soria
+Servicio Territorial de Sanidad de Soria SI
+Servicio Territorial de Industria, Comercio y Economía SI
+Asociación Soriana para la Defensa y Estudio de la Naturaleza
+-
+(ASDEN)
+• El Área del Medio Natural, del Servicio Territorial de Medio Ambiente de Soria,
+en su informe de 29 de octubre de 2025, concluye que no existe coincidencia
+territorial ni afecciones indirectas con Espacios naturales protegidos, zonas
+húmedas catalogadas, ejemplares incluidos en el Catálogo de Arboles Notables
+de Castilla y León y Zonas propuestas como Lugares Geológicos o Paleontológico
+de Interés Especial, montes de Utilidad Pública y Flora Protegida.
+En cuanto a la afección a espacios protegidos Red Natura 2000, una vez
+analizadas y valoradas las mismas, se considera realizada la evaluación
+requerida por el artículo 2 del Decreto 6/2011, de 10 de febrero, por el que se
+establece el procedimiento de evaluación de las repercusiones sobre la Red
+Natura 2000 de aquellos planes, programas o proyectos desarrollados en el
+ámbito territorial de la Comunidad de Castilla y León concluyéndose que las
+actuaciones proyectadas no presentan coincidencia con Red Natura y ya sea
+individualmente o en combinación con otros proyectos no causarán perjuicio a la
+integridad de ningún lugar incluido en Red Natura 2000, y por tanto no pueden
+causar efectos negativos apreciables.
+En cuanto a las afecciones al resto de valores naturales o figuras de protección
+(Vías pecuarias, Fauna Protegida, Hábitats de interés comunitario fuera de ZEC),
+se informa que la viabilidad ambiental del proyecto se condiciona al cumplimiento
+de todas las medidas ambientales contenidas en el informe emitido que se incluyen
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 190
+en el condicionado de esta declaración, así como las medidas preventivas y
+correctoras recogidas en el documento ambiental en los aspectos que no resulten
+contradictorios con las recogidas en el presente informe, prevaleciendo, en su
+caso, las recogidas en este informe.
+• El Servicio Territorial de Cultura, Turismo de Soria tras solicitar evaluación de la
+posible afección a restos arqueológicos en las inmediaciones, informa que, una
+vez analizada la estimación de la incidencia del proyecto sobre el patrimonio
+arqueológico y etnológico, la actuación es factible con el establecimiento de
+medidas correctoras que se han incluido en el condicionado de esta declaración.
+• El Servicio Territorial de Movilidad y Transformación Digital de Soria, informa
+que el proyecto al ser una instalación eléctrica son usos de infraestructuras y se
+consideran usos directamente permitidos mediante licencia urbanística cuando
+cuenten con declaración de impacto ambiental favorable o que determine que no
+tiene efectos significativos sobre el medio ambiente, conforme al Art. 25.1. a) de
+la Ley de Urbanismo de Castilla y León.
+• El Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Soria,
+informa que en relación las materias de su competencia, no es necesario el
+sometimiento de este proyecto a Evaluación de Impacto Ambiental Ordinaria.
+• El Servicio Territorial de Sanidad, no considera necesario realizar ninguna
+propuesta o indicación, a efectos de determinar si dicho proyecto debe someterse
+o no al procedimiento de evaluación de impacto ambiental ordinaria.
+• El Servicio Territorial de Industria, Comercio y Economía de Soria, indica que no
+es necesario someter el proyecto a evaluación de impacto ambiental ordinaria.
+• La Subdelegación del Gobierno en Soria, informa que no tiene consideraciones
+que emitir.
+• La Confederación Hidrográfica del Duero: este organismo considera que el
+proyecto de reforma de la línea eléctrica aérea de MT «NEPAS» no producirá
+impactos irreversibles sobre el dominio público hidráulico ni sobre las masas de
+aguas presentes en el ámbito de actuación, si se toman las oportunas medidas
+preventivas, protectoras y mitigadoras de las posibles afecciones al medio hídrico.
+En el mismo informe incluye una serie de medidas sobre el medio hídrico que se
+han introducido en el texto de este informe ambiental.
+4. ANÁLISIS DEL PROYECTO SEGÚN LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+Dimensiones y diseño del conjunto del proyecto. El proyecto se considera de tamaño
+medio en cuanto a dimensiones. El proyecto plantea reformar la línea eléctrica aérea de
+15 KV «Nepas» entre el apoyo existente 2 y el Centro de Transformación «Perdices». Se
+van a instalar 30 nuevos apoyos eliminando los 83 existentes en la actualidad. Tiene una
+longitud de 3.947 metros. Discurre principalmente por terrenos particulares dedicados al
+cultivo agrícola en término municipal de Viana de Duero.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 191
+Utilización de los recursos naturales: El consumo de materias primas y recursos
+naturales no se considera significativo debido a la propia naturaleza del proyecto. La
+utilización de recursos naturales durante la fase de ejecución del proyecto afectará
+principalmente al suelo y la vegetación al realizarse movimiento de tierras, ejecución de
+accesos y ubicación de los nuevos apoyos.
+Acumulación con otros proyectos existentes y/o aprobados. No se considera que el
+proyecto represente una acumulación significativa con otros proyectos en la zona.
+Utilización de viales. Se accederá a través de los caminos existentes y de las parcelas
+de labor.
+Generación de residuos. Se generan residuos tanto en el desmantelamiento de la
+línea existente como en la instalación de la nueva. Todos los residuos generados deberán
+ser recogidos y gestionados por gestor autorizado. Durante la fase de funcionamiento no
+se prevé que se produzcan residuos.
+Contaminación y otras perturbaciones. Podrán existir puntualmente emisiones de
+polvo en el desarrollo de las obras y un aumento en los niveles sonoros de la zona.
+Riesgos de accidentes graves y/o catástrofes. La realización del proyecto no
+supone riesgo de accidentes graves y/o catástrofes siempre que se cumplan las medidas
+especificadas en el documento ambiental, el proyecto básico y en el presente informe.
+Riesgos para la salud humana. Por las propias características del proyecto no se
+consideran que existan riesgos para la salud humana.
+4.2. UBICACIÓN DEL PROYECTO.
+Uso presente y aprobado del suelo. El proyecto se desarrollará en suelo rústico cuyo
+destino y uso mayoritario es el cultivo agrícola de secano.
+Abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa de los
+recursos naturales de la zona y su subsuelo. El proyecto se ejecutará en suelo rústico, en
+parcelas de aprovechamiento agrícola de secano. El consumo de agua será mínimo y se
+producirá fundamentalmente durante la fase de obras.
+Capacidad de absorción del medio natural. Se constata la ausencia de coincidencia
+territorial y de afecciones indirectas con Espacios Naturales Protegidos, la Red de Espacios
+Naturales Protegidos de Castilla y León, red Natura 2000, el ámbito de aplicación de
+planificación de especies, taxones incluidos en el Catálogo de Flora Protegida de Castilla
+y León y con Micro reservas de Flora, Zonas Húmedas Catalogadas de Castilla y León,
+ejemplares incluidos en el Catálogo de Árboles Notables de Castilla y León, Montes
+de Utilidad Pública y zonas propuestas como Lugares Geológico o Paleontológico de
+Interés Especial.
+En relación con espacios protegidos Red Natura 2000, el informe del Área de Medio
+Natural del Servicio Territorial de Medio Ambiente concluye en su informe, tras estudiar
+la ubicación de las actuaciones y comprobar su no coincidencia con la Red Natura 2000,
+y una vez analizadas y valoradas las mismas, que las actuaciones proyectadas, ya
+sea individualmente o en combinación con otros proyectos no causarán perjuicio a la
+integridad de ningún lugar incluido en Red Natura 2000, y por tanto no pueden causar
+efectos negativos apreciables, siempre que se cumplan las condiciones de este informe.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 192
+El proyecto coincide con la vía pecuaria «Vereda de la Cuesta la Casa», realizando
+un cruzamiento en el vano 10-11. Esta vía pecuaria ya es sobrevolada por el cableado de
+la línea actual, al igual que lo será tras la reforma, ya que ninguno de los nuevos apoyos
+se encontraría en su interior. Coincide el cruzamiento con camino en buen estado y con
+el canal de Almazán.
+En el ámbito de emplazamiento del proyecto evaluado, fuera de zonas de especial
+conservación (ZEC) de la Red Natura 2000, existen los siguientes hábitats de interés
+comunitario (HIC) incluidos en el Anexo I de la Ley 42/2007, de 13 de diciembre, del
+Patrimonio Natural y de la Biodiversidad:
+• 6420 Prados húmedos mediterráneos de hierbas altas del Molinion-Holoschoenion
+y 92A0 Bosques galería de Salix alba y Populus alba: presentes en el arroyo
+Garrigómez o del Vadillo y en el arroyo de La Milana que cruza el cableado de la
+línea eléctrica.
+• 4090 Brezales oromediterráneos endémicos con aliaga y 6220 Zonas subestépicas
+de gramíneas y anuales del Thero-Brachypodietea: en la parte final de la línea
+donde se instalarán 6 apoyos nuevos y se desmantelarán 13.
+En el caso de los hábitats ligados a los cauces, los arroyos del Vadillo y la Milana
+presentan un cauce profundo y encajado por la ocupación de sus márgenes por la actividad
+agrícola, por lo que la presencia de estos hábitats es escasa, discontinua y de escaso
+desarrollo y valor de conservación. Las zonas de cruce se encuentran desprovistas ya de
+vegetación arbórea por la existencia de la línea por lo que no se prevén discontinuidades
+longitudinales nuevas en estos hábitats. En relación con la instalación de apoyos sobre
+los HIC 4090 y 6220, la afección no es relevante siempre que se proceda a la restauración
+posterior de los terrenos puesto que todos los apoyos se encuentran muy próximos a
+caminos de acceso o tierras arables, y se trata de hábitats ampliamente distribuidos por
+la zona y la provincia, siendo la ocupación muy escasa.
+No amparadas por los espacios protegidos Red Natura 2000, se localizan varias
+especies de fauna de interés. De entre la información disponible en este servicio
+destacan las siguientes especies incluidas en los Anexos II, V y VI de la Ley 42/2007,
+de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, así como en el listado
+de especies silvestres en régimen de protección especial (LESRPE) y en el catálogo
+español de especies amenazadas (CEEA):
+• Comunidad de aves esteparias: presencia de avutarda (Otis tarda), incluida en
+el LESRPE, en periodo postreproductor y de aguilucho cenizo (Circus pygargus)
+catalogado como Vulnerable en el CEEA.
+• Área de campeo de águila real (Aquila chrysaetos) con nidificaciones conocidas
+a aproximadamente 5 km al noroeste de la línea.
+• Dormideros invernales de milano real (Milvus milvus), incluida en el CEEA como
+En peligro de extinción, a unos 2,5 km al suroeste de la línea.
+El principal impacto de este tipo de infraestructuras es el asociado a la mortalidad
+de aves por colisión y electrocución. Este impacto únicamente sería eliminado mediante
+el soterramiento de la totalidad del trazado, situación ideal que se recomienda ya que
+se trata de una zona con aves muy sensible especialmente a la colisión y con estados
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 193
+de conservación deficientes. No obstante, la escasa longitud del trazado y la aplicación
+de medidas contra la electrocución y la colisión contempladas en el proyecto y en este
+informe permitirán minimizar este riesgo y mejorar sustancialmente la situación actual.
+En este sentido, se deberían extender las medidas anti-electrocución a los dos apoyos
+existentes que se mantienen.
+El Atlas de los paisajes de España (Ministerio de Medio Ambiente, 2003) ubica el
+proyecto en la unidad del paisaje Campiñas de la tierra de Almazán, del tipo Campiñas
+de la meseta norte y subtipo Campiñas y altos campos sorianos. Si bien el tramo aéreo
+es de escasa longitud (3,9 km) y ya existente, su mantenimiento supone una intrusión
+en el medio perceptual. Aunque no se considera un impacto crítico, se recomienda el
+soterramiento de todo el trazado como única alternativa que podría eliminarlo por
+completo, al discurrir en su práctica totalidad por terrenos arables.
+La línea discurre realizando cruzamientos con el arroyo de La Milana y el arroyo
+del Vadillo, ambos afluentes del río Duero. También realiza el cruce sobre el Canal de
+Almazan.
+Tras la prospección arqueológica realizada en el ámbito afectado por el proyecto,
+no se ha documentado la presencia de elementos, estructuras o materiales de interés
+arqueológico relevante que permitan evidenciar la existencia de yacimientos o contextos
+patrimoniales.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+Magnitud y alcance espacial del impacto. Aunque la línea abarcará una longitud
+media, afectando al término municipal de Viana de Duero, el proyecto producirá impactos
+puntuales durante la fase de obra, así como en el desmontaje del trazado de la línea
+aérea existente actualmente.
+Naturaleza del impacto. Las acciones que generan un mayor número de impactos
+negativos se concentran en las fases de construcción y funcionamiento, asociadas a la
+preparación del terreno, el montaje y el funcionamiento de la línea eléctrica. Durante la
+fase de funcionamiento, la infraestructura es susceptible de generar impacto sobre la
+avifauna. Las medidas anticolisión y electrocución minimizarán dicha afección, pero el
+riesgo de muerte por colisión o electrocución permanecerá.
+Carácter transfronterizo del impacto. La extensión del impacto se ciñe al territorio
+donde se actúa y no se producirán efectos transfronterizos.
+Intensidad y complejidad del impacto. La intensidad y complejidad del impacto son
+reducidas.
+Probabilidad del impacto. Se estima que la probabilidad de ocurrencia del impacto
+es alta en las fases de construcción por la naturaleza de las obras a realizar. En la fase
+de funcionamiento, con las medidas correctoras establecidas se reducirá la probabilidad
+de impacto.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 194
+Inicio previsto y duración, frecuencia y reversibilidad del impacto. Se considera que
+el impacto del proyecto es limitado y no supone un aumento respecto a la extensión del
+impacto actual al ser una renovación de una línea existente. Varios de los impactos serán
+temporales y localizados en el espacio y el tiempo. El impacto de la construcción es
+reversible y se podrá recuperar con el desmantelamiento y retirada de la infraestructura.
+Acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. No se identifica acumulación del impacto con otros proyectos.
+Posibilidad de reducir el impacto de manera eficaz. Los posibles impactos del
+proyecto serán eliminados o minimizados con el cumplimiento de las medidas que se
+establecen en el presente informe.
+Por todo lo expuesto, considerando adecuadamente tramitado el expediente y de
+acuerdo con lo establecido en el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, teniendo en cuenta el resultado de las consultas realizadas y
+siguiendo los criterios del Anexo III de la citada Ley, se realiza el siguiente:
+5. PROPUESTA DE INFORME DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del proyecto «Reforma de Línea Aérea de
+Media Tensión «Nepas» 15 KV entre el apoyo existente L00678003-0002 y el Centro
+de Transformación existente Z06358 «Perdices» en término municipal de Viana de
+Duero (Soria), promovido por Edistribucion Redes Digitales, S.L.U., se determina que
+no tiene efectos significativos sobre el medio ambiente, en los términos establecidos en
+el presente informe de impacto ambiental, por los motivos que se justifican en el mismo
+y sin perjuicio del cumplimiento de la normativa urbanística y sectorial vigentes u otras
+normas que pudieran impedir o condicionar su realización.
+5.1. Medidas protectoras: Se deberán cumplir las medidas protectoras y correctoras
+que se indican a continuación, además de las que se incluyen en el documento ambiental
+aportado, de diciembre de 2024, con las siguientes condiciones que se citan a continuación
+y en lo que no contradigan al presente informe de impacto ambiental:
+a) Consideraciones previas: El promotor de las actuaciones deberá comunicar la
+fecha de inicio de los trabajos al Servicio Territorial de Medio Ambiente y a los
+Agentes Medioambientales de Almazán, con al menos 72 horas de antelación.
+Se deberá atender cuantas indicaciones en materia ambiental pudieran hacer los
+Agentes Medioambientales, quienes realizarán el seguimiento de los trabajos en
+lo que concierne a las competencias de este servicio.
+b) Delimitación de la superficie de actuación, señalización y vallado: De forma previa
+al inicio de los trabajos se replantearán y señalizarán con elementos visibles las
+zonas de trabajo, las zonas y plantas a proteger, la circulación y estacionamiento
+de maquinara en su caso, y acopio de materiales. Toda la señalización será de
+carácter provisional y se retirará completamente a la finalización de los trabajos.
+c) Protección del suelo: Las zonas de acopios, así como la circulación de la
+maquinaria se producirán sobre terrenos agrícolas ya alterados y caminos
+existentes, evitando las superficies de vegetación natural y la formación de
+roderas y remoción del terreno, debiendo detener los trabajos en caso de que se
+detecte dicho efecto.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 195
+En las tareas de desmantelamiento de apoyos, tendido de conductores, izado de
+nuevos apoyos, etc. deberá trabajarse con el terreno seco, evitando la formación
+de roderas y remoción del terreno, debiendo detener los trabajos en caso de que
+se detecte dicho efecto.
+El terreno circundante a los apoyos a desmontar quedará completamente
+restaurado, sin excavaciones o amontonamientos de tierras, y sin parte visible
+de las cimentaciones, que deberán desmantelarse al menos por debajo del nivel
+del terreno circundante, integrándose en el relieve original.
+d) Protección de las Vías Pecuarias: Con carácter previo a la realización de las
+actuaciones previstas deberá solicitarse la correspondiente ocupación de la
+vía pecuaria indicada, o la actualización de la existente, de conformidad con lo
+dispuesto en el artículo 14 de la Ley 3/1995, de 23 de marzo, Vías Pecuarias. La
+competencia para dicha autorización corresponde al Servicio Territorial de Medio
+Ambiente de Soria.
+El promotor deberá asegurar en todas las fases del proyecto que éste no produzca
+alteración del tránsito ganadero a través de las vías pecuarias, ni impedirá los
+demás usos compatibles o complementarios con aquel, y que tanto el uno como
+los otros se realizan en condiciones adecuadas, tomando las medidas pertinentes
+para garantizar la seguridad de los usuarios de la mencionada vía pecuaria.
+e) Protección a la flora y fauna:
+• Se ejecutarán todas las medidas antielectrocución y anticolisión de avifauna
+contempladas en el Real Decreto 1432/2008, de 29 de agosto, por el que se
+establecen medidas para la protección de la avifauna contra la colisión y la
+electrocución en líneas eléctricas de alta tensión. Se asume que el «cable
+seco» a instalar en los centros de trasformación existentes se refiere a
+conductores con aislamiento.
+Adicionalmente, deberán tenerse en consideración las «Recomendaciones
+técnicas para la corrección de los apoyos eléctricos del riesgo de electrocución
+de aves, para la adaptación de las líneas eléctricas al R.D. 1432/2008»
+del Ministerio para la Transición Ecológica (2018), que también contempla
+especificaciones para nuevas líneas.
+• Los dispositivos anticolisión (cintas de neopreno) tendrán las dimensiones
+establecidas en el Real Decreto 1432/2008, de 29 de agosto (5x35 cm en
+pares formando una X) y se colocarán en todos los conductores cada 20 m
+a tresbolillo, de manera que se genere un efecto visual cada menos de 10
+metros.
+• En caso de instalarse dispositivos antinido en los apoyos, no podrán ser con
+elementos cortantes o punzantes, recomendándose el uso de placas metálicas
+o tejadillos.
+• En caso de que durante la ejecución de los trabajos se detectara la presencia
+de nidos o refugios de especies de fauna protegidas en las proximidades
+de la obra, se pondrá inmediatamente en conocimiento de los Agentes
+Medioambientales de la Junta de Castilla y León, y se establecerá una zona
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 196
+de protección de 100 metros de radio, en la que se restringirá el uso de
+maquinaria. Los Agentes Medioambientales podrán adoptar otras medidas
+complementarias para evitar molestias, incluyendo la ampliación del radio de
+la zona de protección y restricción de maquinaria, o la detención temporal de
+los trabajos.
+f) Protección de las aguas:
+En todas las actuaciones se respetarán las servidumbres legales y, en particular,
+la servidumbre de 5 m de uso público a cada margen con las condiciones
+establecidas en la normativa de aguas. Dicha zona de servidumbre deberá
+dejarse completamente libre de cualquier obra que se vaya a realizar.
+El promotor, previamente a cualquier actuación que afecte a dominio público
+hidráulico y/o a zona de policía de cauce público, deberá obtener previamente la
+correspondiente autorización de la Confederación Hidrográfica del Duero.
+Para la realización de cruces en los cauces, antes de iniciarse las obras de
+instalación, será necesaria la autorización de cruce de línea eléctrica por parte
+de la Confederación Hidrográfica del Duero, para lo cual se deberá presentar la
+correspondiente solicitud, acompañada de la documentación que se indica en el
+artículo 127 del Reglamento del Dominio Público Hidráulico. También se deberá
+solicitar para el cruce sobre el Canal de Almazan.
+El emplazamiento de los apoyos de la línea eléctrica se deberá ubicar teniendo
+en cuenta lo establecido en Real Decreto 9/2008, de 11 de enero, por el que se
+modifica el Reglamento de Dominio Público Hidráulico.
+En cuanto a la altura de los conductores sobre el nivel del agua se cumplirá
+lo dispuesto en el artículo 127 del Reglamento del Dominio Público Hidráulico,
+respetando siempre, como mínimo, el valor que se deduce de la siguiente fórmula:
+H = G + 2,30 + 0,01 U;
+siendo H la altura mínima en metros sobre el nivel de las máximas crecidas
+ordinarias; G tendrá el valor de 4,70 m para casos normales y 10,50 m para
+embalses y ríos navegables, y U será la tensión de la línea expresada en
+kilovoltios. Se mantendrá una altura mínima sobre el terreno de 8 m en la zona de
+servidumbre, para permitir el paso de la maquinaria de dragado y conservación
+de cauces.
+En cuanto al posible alumbramiento de aguas subterráneas, se atenderá a
+lo dispuesto en los artículos 16 y 316.c del Reglamento del Dominio Público
+Hidráulico.
+En el caso de que fuera necesaria la captación de aguas superficiales y/o
+subterráneas, previamente, será preciso obtener de la Confederación Hidrográfica
+del Duero, la correspondiente autorización o concesión administrativa, según
+proceda teniendo en cuenta la normativa en vigor.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 197
+Durante los movimientos de tierras, se deberán establecer las medidas necesarias
+para la retención de sólidos previa a la evacuación de las aguas de escorrentía
+superficial, con el fin de evitar el incremento de sólidos en suspensión en el agua
+de los cauces de la zona de actuación, garantizando que tanto su instalación
+como su posterior retirada, una vez finalizada su función, no suponga la alteración
+de los valores ambientales que se pretenden proteger.
+En el caso de que se produjera vertido sobre algún elemento del dominio público
+hidráulico (aguas superficiales o subterráneas), previamente se deberá disponer
+de la correspondiente autorización de vertido de la Confederación Hidrográfica
+del Duero, según lo establecido en el artículo 245 y siguientes del Reglamento
+del Dominio Público Hidráulico.
+Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto; por escorrentía, erosión, infiltración
+u otros mecanismos sobre las aguas superficiales o subterráneas.
+Se deberán tomar las medidas oportunas para asegurar que, en ningún caso,
+se produzcan vertidos de aceites, combustibles, lubricantes, u otras sustancias
+similares al terreno o a los cursos de agua; sin perjuicio de lo cual se recomienda la
+elaboración de protocolos de actuación específicos en previsión de la ocurrencia
+de incidentes de este tipo, para poder así actuar de la manera más rápida posible
+y evitar la contaminación de las aguas superficiales y/o subterráneas.
+La ubicación de las instalaciones auxiliares deberá evitar la ocupación del dominio
+público hidráulico y de la zona de servidumbre de los cauces. Se evitará también,
+en la medida de lo posible, la ocupación de la zona de policía de cauce público y
+de terrenos situados sobre materiales de alta permeabilidad.
+Las zonas en las que se ubiquen las instalaciones auxiliares y parques de
+maquinaria deberán ser impermeabilizadas para evitar la contaminación de las
+aguas subterráneas. Las aguas procedentes de la escorrentía de estas zonas
+impermeabilizadas deberán ser recogidas y gestionadas adecuadamente para
+evitar la contaminación del dominio público hidráulico.
+Las aguas residuales generadas por la eventual instalación de aseos, duchas,
+en las casetas de obra, se recomienda la disposición de un depósito estanco,
+sin salida al exterior, que almacene las aguas residuales para, posteriormente,
+ser retiradas de forma periódica para su tratamiento mediante gestor autorizado.
+No obstante, en el caso de que, finalmente, se produjera vertido sobre algún
+elemento del dominio público hidráulico, previamente, se deberá disponer de
+la correspondiente autorización de vertido de la Confederación Hidrográfica del
+Duero, según lo establecido en el Reglamento del Dominio Público Hidráulico.
+Si durante las obras de infraestructura, remodelación y construcción de accesos,
+etc., fuera alterado el drenaje natural del terreno, éste deberá ser restaurado o
+restituido adecuadamente.
+Dado que el trazado propuesto para la línea eléctrica atraviesa varios cauces
+públicos, se deberá intentar compatibilizar, en la medida de lo posible, el
+mantenimiento de la vegetación de ribera autóctona existente, en su caso, en
+la zona de actuación, puesto que desempeña importantes funciones ecológicas
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 198
+e hidrológicas, con la adecuada creación de calles de seguridad entre los
+conductores de la línea y las masas de arbolado de ribera, según lo establecido
+en la normativa sectorial.
+Toda actuación no prevista en la documentación aportada que surja en el
+transcurso de las obras y/o durante la fase de funcionamiento, que pueda afectar
+al dominio público hidráulico será puesta en conocimiento del Organismo de
+cuenca, a la mayor brevedad posible.
+g) Ruido y vibraciones: La actividad deberá cumplir con los niveles de emisión
+e inmisión de la normativa vigente. En caso de superación de los niveles, se
+tomarán las medidas que se establezcan oportunas, como la revisión y reglaje
+de la maquinaria y de otros elementos que puedan generar emisiones acústicas,
+o la toma de medidas de aislamiento acústico si fuera necesario.
+h) Restauración de los terrenos afectados: Se restaurarán aquellos elementos
+naturales que hayan podido verse afectados directa o indirectamente por la obra.
+i) Gestión de residuos: Se dispondrá de los medios técnicos y materiales necesarios
+que aseguren una rápida intervención sobre cualquier vertido o derrame accidental
+de residuos o de productos peligrosos, actuando tanto sobre el foco de vertido
+como sobre su propagación, posterior recogida y gestión utilizando absorbentes
+o material similar para su posterior entrega a gestor autorizado de residuos.
+Una vez finalizadas las obras se deberá proceder a la retirada de cualquier
+residuo o elemento de señalización procedente de las mismas.
+j) Protección del Patrimonio Histórico y Arqueológico. Se realizará un control
+arqueológico de los movimientos de tierra asociados a la ejecución de los apoyos
+números 1 al 5, 11, 14 al 20 y 24.
+Si durante la ejecución del proyecto se detectasen hallazgos casuales con
+valores propios del Patrimonio Cultural de Castilla y León, se deberá proceder de
+acuerdo con lo contemplado en los artículos 38.2 y 38.3 de la Ley 7/2024, de 20
+de junio, de Patrimonio Cultural de Castilla y León.
+k) Protección frente a riesgos de accidentes graves o catástrofes. Ninguna de
+las actuaciones previstas, ni los diferentes usos que se asignen al suelo, debe
+incrementar el riesgo hacia las personas, sus bienes y el medio ambiente.
+l) Afecciones medioambientales sobrevenidas. Cualquier accidente o incidente
+que se produzca durante la ejecución y posterior explotación del proyecto con
+posible incidencia medioambiental, deberá comunicarse inmediatamente al
+Órgano sustantivo y al Servicio Territorial de Medio Ambiente de Soria, y en el
+caso de que afecte al dominio público hidráulico, será puesto en conocimiento de
+la Confederación Hidrográfica del Duero.
+m) Recomendaciones:
+• Se recomienda el soterramiento integral de la línea eléctrica de manera que
+se evite totalmente el impacto sobre el paisaje, así como sobre las especies
+de fauna protegidas por riesgo de colisión y electrocución.
+CV: BOCYL-D-24062026-120-8
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 199
+• Se recomienda la ejecución de las obras fuera del periodo comprendido entre
+el 1 de marzo y el 31 de agosto para evitar molestias adicionales sobre las
+especies de fauna protegidas en periodos críticos.
+• Debería extenderse la sustitución de apoyos o al menos los armados a
+aquellos existentes que se mantienen (apoyos 1 y 2) en términos de medidas
+antielectrocución para su adaptación a la normativa vigente.
+• En el proyecto de obra se recomienda incorporar la utilización de áridos
+reciclados procedentes de plantas de tratamiento de residuos de construcción
+y demolición, en las unidades de obra donde sea técnica y ambientalmente
+adecuado, en sustitución de áridos naturales. Los porcentajes mínimos de
+utilización de estos materiales serán de un 10% en peso de la cantidad total
+de áridos cuya utilización está prevista en la obra.
+5.2. Programa de Vigilancia Ambiental: Se desarrollará el programa de vigilancia
+ambiental, incorporando las medidas protectoras establecidas en este informe de
+impacto ambiental. Su seguimiento se hará de acuerdo con lo previsto en el Art. 52 de
+la Ley 21/2013, de 9 de diciembre de evaluación ambiental. El programa facilitará el
+seguimiento de las actuaciones durante la fase de construcción, de funcionamiento y de
+desmantelamiento y/o cese de la actividad.
+5.3. Seguimiento y vigilancia: Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquel al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.4. Modificaciones: Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Soria, que prestará su conformidad si procede, sin perjuicio de la tramitación de las
+licencias o permisos que, en su caso, correspondan. Se considerarán exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+5.5. Vigencia del informe de impacto ambiental: Conforme a lo establecido en el
+Art. 47.4 de la Ley 21/2013, de 9 de diciembre de evaluación ambiental, este Informe de
+Impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el B.O.C. y L., no se hubiera
+procedido a la autorización del proyecto.
+5.6. Objeto de recurso: De conformidad a lo establecido en el Art. 47.5 de la Ley de
+evaluación ambiental, el informe de impacto ambiental no será objeto de recurso alguno
+sin perjuicio de lo que, en su caso, proceda en vía administrativa o judicial frente al acto,
+en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-24062026-120-8

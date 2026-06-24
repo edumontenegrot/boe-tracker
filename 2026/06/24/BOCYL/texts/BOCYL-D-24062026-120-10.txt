@@ -1,0 +1,512 @@
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 211
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Soria
+RESOLUCIÓN de 18 de junio de 2026, de la Delegación Territorial de Soria, por la
+que se dicta el informe de impacto ambiental del proyecto de almacenamiento energético
+en baterías «BESS Rea Unificado» en hibridación con el módulo de generación de
+electricidad del parque eólico Rea Unificado, en el término municipal de Trévago (Soria),
+promovido por «Danta de Energías, S.A.». Expte.: 002/26 EIA - EIAS/2026/SO/002.
+La titular de la Delegación Territorial de la Junta de Castilla y León en Soria, en
+relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental y en virtud de las atribuciones conferidas por el artículo 52.2
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano competente para dictar
+informe de impacto ambiental.
+La citada Ley de evaluación ambiental recoge en su anexo II los proyectos sometidos
+a evaluación de impacto ambiental simplificada. El presente proyecto está incluido
+en el Grupo 4, letra n) Almacenamiento energético stand-alone a través de baterías
+electroquímicas o con cualquier tecnología de carácter hibridado con instalaciones de
+energía eléctrica.
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+Considerando adecuadamente tramitado el expediente, vista la propuesta de la
+Comisión Territorial de Medio Ambiente y Urbanismo de Soria de 17 de junio de 2026, las
+observaciones y la documentación presentada,
+RESUELVO
+Dictar el Informe de impacto ambiental del «Proyecto de instalación de almacenamiento
+energético en baterías (BESS) de carácter hibridado con el parque eólico existente Rea
+Unificado» en el término municipal de Trévago (Soria), promovido por Danta de Energías,
+S.A., que figura como anexo a esta Resolución. Expte. 002/26 EIA – EIAS/2026/SO/002.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 212
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, y en el artículo 59 del texto refundido de la Ley
+de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este Informe de Impacto Ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Soria, 18 de junio de 2026.
+La Delegada Territorial,
+Fdo.: Yolanda de Gregorio Pachón
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 213
+ANEXO QUE SE CITA
+INFORME DE IMPACTO AMBIENTAL DEL PROYECTO ALMACENAMIENTO
+ENERGÉTICO EN BATERÍAS «BESS REA UNIFICADO» EN HIBRIDACIÓN CON
+EL MÓDULO DE GENERACIÓN DE ELECTRICIDAD DEL PARQUE EÓLICO
+REA UNIFICADO EL TÉRMINO MUNICIPAL TRÉVAGO (SORIA). EXPTE. 002/26
+EIA - EIAS/2026/SO/002.
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+El proyecto consiste en la instalación de un sistema de almacenamiento energético
+en baterías (BESS) de carácter hibridado con el módulo de generación de electricidad
+del parque eólico existente «Rea Unificado», en las parcelas 192, 194, 9006 y 9046 del
+polígono 1 del término municipal de Trévago (Soria), conformando el conjunto la que se
+denomina «Central Híbrida «REA unificado», que tendrá como punto de evacuación la
+subestación «Trévago» 30/66/220 kV de propiedad compartida entre el promotor y Red
+Eléctrica de España, a la que se conectará a través de un circuito de media tensión y un
+Centro de Seccionamiento.
+La instalación tendrá una potencia nominal de 20.367,35 kW y una capacidad de
+almacenamiento de 81.469,4 kWh. Estará formado por 20 contenedores de 4.073,47 kWh,
+5 inversores, 5 transformadores y un centro de seccionamiento. Cada centro de
+transformación recibirá la entrada de corriente proveniente de 4 contenedores de baterías.
+Las baterías serán de fosfato de hierro y litio (LFP) con un tiempo de descarga optimizado
+hasta 4 horas.
+La superficie ocupada por el proyecto es de 0,83 ha, contará con un vallado de malla
+cinegética de 2 m de altura permeable a la fauna, un vial exterior para dar acceso al
+recinto, un vial interior y un sistema de drenaje para las aguas.
+La energía del sistema de almacenamiento irá por cableado subterráneo en media
+tensión, a través de zanja, desde los centros de transformación al centro de seccionamiento
+y de ahí conectará con la subestación existente SET Trévago 30/66/220 kV teniendo la
+línea de MT desde la BESS hasta la sala de celdas en la SE de Trévago una longitud de
+unos 437 m.
+2. DOCUMENTO AMBIENTAL.
+Para la realización del trámite de evaluación ambiental simplificada al que hace
+referencia el artículo 45 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental,
+se ha presentado documento ambiental de diciembre de 2025.
+En cuanto al estudio de alternativas, el documento plantea además de la alternativa
+cero, otras tres alternativas de emplazamiento:
+• Alternativa 1: En la parcela 213 del polígono 2 del término municipal de Trévago
+• Alternativa 2: En las parcelas 403, 404, 405, 406, 407, y 408 del polígono 5 del
+término municipal de Trévago.
+• Alternativa 3: En las parcelas 192, 194, 9006 y 9046 del polígono 1 del término
+municipal de Trévago (Soria),
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 214
+Tras un examen multicriterio de las mismas, el promotor señala que la alternativa
+ambientalmente más viable es la alternativa 3, por ser la más cerca del punto de conexión
+a la red y por tanto con menor longitud de trazado de la línea, por ser la más alejada
+de núcleos poblacionales, por estar en zona de sensibilidad ambiental baja, y por tener
+menor afección a figuras de protección que el resto de las alternativas.
+El documento ambiental incluye un diagnóstico territorial y del medio afectado
+por el proyecto, además del socioeconómico y cultural. Cuenta con un apartado de
+vulnerabilidad del proyecto y análisis de riesgos ante posibles catástrofes o accidentes
+graves, así como con otro apartado de análisis de los efectos acumulativos y sinérgicos
+con otros proyectos.
+Además, en el documento ambiental se realiza una identificación y evaluación de los
+impactos ambientales para establecer unas medidas de protección en cada una de las
+fases del proyecto y finalmente incluye un programa de vigilancia ambiental para analizar
+su cumplimiento.
+3. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+3.1. Inicio del procedimiento. Con fecha 26 de enero de 2026 tiene entrada en el
+Servicio Territorial de Medio Ambiente de Soria, procedente del Servicio Territorial de
+Industria, Comercio y Economía, la solicitud de inicio del procedimiento de evaluación
+ambiental simplificada, junto con el documento ambiental de fecha diciembre de 2025
+y documentación técnica del proyecto de fecha octubre de 2025 para la instalación de
+almacenamiento denominada «BESS Rea Unificado».
+3.2. Consultas a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, cuya estructura y contenido cumple con lo establecido en el artículo
+45 de la citada ley, se procedió por parte del Servicio Territorial de Medio Ambiente de
+Soria a la apertura del trámite de consultas a las Administraciones públicas afectadas y a
+las personas interesadas, con fecha de 4 de febrero de 2026.
+La relación de los organismos consultados, así como los informes recibidos de forma
+previa a la redacción del presente informe se refleja en la siguiente tabla:
+EMISIÓN DE
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS
+INFORME
+Diputación Provincial de Soria -
+Subdelegación del Gobierno de Soria SI
+Ayuntamiento de Trévago -
+Confederación Hidrográfica del Ebro SI
+Servicio Territorial de Cultura, Turismo de Soria SI
+Servicio Territorial de Movilidad y Trasformación Digital de Soria SI
+Servicio Territorial de Sanidad de Soria SI
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de
+SI
+Soria
+Servicio Territorial de Industria, Comercio y Economía de Soria SI
+Servicio Territorial de Medio Ambiente de Soria SI
+ASDEN -
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 215
+• El Área del Medio Natural, a través del informe de la Dirección General de
+Patrimonio Natural y Política Forestal, en su informe de 9 de junio de 2026,
+concluye que tras estudiar la ubicación de las actuaciones previstas y comprobar
+que no existe coincidencia geográfica con la Red Natura 2000, y una vez
+analizadas y valoradas las mismas, no se prevé la existencia de afecciones
+indirectas, ya sea individualmente o en combinación con otros, que pudieran
+causar perjuicio a la integridad de cualquier lugar incluido en aquélla, siempre
+que se cumplan las condiciones expuestas en este informe. Estas conclusiones,
+junto con las condiciones establecidas, constituyen el Informe de Evaluación de
+la Repercusiones sobre la Red Natura 2000 (IRNA) tal y como se define en el
+artículo 5 del Decreto 6/2011, de 10 de febrero.
+• El Servicio Territorial de Industria, Comercio y Economía considera que no es
+necesario someter el proyecto a evaluación de impacto ambiental ordinaria, no
+poniendo objeciones al proyecto.
+• El Servicio Territorial de Movilidad y Transformación Digital de Soria, informa desde
+el punto de vista urbanístico, indicando que el uso solicitado está directamente
+permitido por licencia urbanística municipal, sin requerimiento de autorización
+de uso excepcional en suelo rústico, cuando cuenten con informe o declaración
+de impacto ambiental que determine que no tiene efectos significativos sobre el
+medio ambiente, y sin perjuicio de otras autorizaciones concurrentes que fueran
+exigibles de conformidad con lo establecido en la Ley 5/1999, de 8 de abril, de
+Urbanismo de Castilla y León.
+• El Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Soria,
+informa que, en relación con las materias de su competencia, no es necesario
+someter el proyecto a evaluación de impacto ambiental ordinaria.
+• El Servicio Territorial de Sanidad, no considera necesario realizar ninguna
+propuesta o indicación, a efectos de determinar si dicho proyecto debe o no
+someterse al procedimiento de evaluación de impacto ambiental ordinaria, de
+acuerdo con los criterios del Anexo III de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental.
+• El Servicio Territorial de Cultura, Turismo de Soria informa que el proyecto resulta
+compatible con la protección del patrimonio cultural, con condiciones que se
+recogen en el presente informe.
+• La Subdelegación del Gobierno en Soria informa que no tiene consideraciones
+que emitir al respecto.
+• La Confederación Hidrográfica del Ebro informa favorablemente, si bien como el
+proyecto se ubica en zona de concentración de escorrentías, establece medidas
+que se recogen en el presente informe.
+4. ANÁLISIS DEL PROYECTO SEGÚN LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+Dimensiones y diseño del conjunto del proyecto. El proyecto ocupa una superficie
+de 0,83 ha.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 216
+El tamaño del proyecto se puede considerar pequeño al restringirse a su zona de
+influencia y teniendo en cuenta que en general la superficie ocupada para este tipo de
+instalaciones es reducida.
+Acumulación con otros proyectos existentes y/o aprobados. En el momento actual,
+en la zona del proyecto no existen otros proyectos de almacenamiento energético, si
+bien la zona cuenta con infraestructuras energéticas próximas (parques eólicos y plantas
+fotovoltaicas), existentes, autorizadas o en desarrollo a una distancia aproximada entre 2
+y 9 km, de la misma promotora y de otros promotores. La zanja para la evacuación de la
+energía de la instalación discurrirá por cercanías de dichas instalaciones, teniéndose en
+cuenta en las afecciones del proyecto.
+Utilización de recursos naturales. La utilización de recursos naturales durante la
+ejecución del proyecto no será significativa, debido a la propia naturaleza del proyecto. El
+principal recurso empleado será el suelo, el consumo de agua será mínimo y se producirá
+fundamentalmente durante la fase de obras.
+Generación de residuos. Durante la fase de obras se generarán residuos de
+construcción y demolición, y durante la fase de explotación podrían generarse residuos
+como consecuencia de las labores de mantenimiento de las infraestructuras. Todos
+deberán ser convenientemente gestionados a través de gestor autorizado.
+Contaminación y otras perturbaciones: En la fase de obras, se pueden producir
+efectos sobre la calidad del aire, por el aumento de partículas en suspensión provocado
+por el movimiento de la maquinaria, transporte de materiales y equipos, en los distintos
+trabajos de la obra y movimiento de tierras. También se producirá un incremento en
+los niveles de contaminación acústica. En la fase de funcionamiento no es previsible
+que se produzcan emisiones de contaminantes a la atmósfera, salvo las emisiones de
+gases procedentes de los vehículos empleados en las labores de mantenimiento de la
+instalación, que deberán contar con un mantenimiento adecuado y que en todo caso
+van a ser reducidas y de escasa significación. No existirán vertidos al dominio público
+hidráulico.
+Riesgos de accidentes graves y/o catástrofes. El documento ambiental incluye un
+análisis de riesgos de accidentes graves y/o catástrofes que concluye que el riesgo no
+es significativo.
+Riesgos para la salud humana. No se considera que la implantación del proyecto
+conlleve riesgos para la salud humana.
+4.2. UBICACIÓN DEL PROYECTO.
+Uso presente y aprobado del suelo. El proyecto se ubicará en las parcelas 192,
+194, 9006 y 9046 del polígono 1 del término municipal de Trévago (Soria), en terrenos
+clasificados como suelo rústico común.
+Abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa de
+los recursos naturales de la zona y su subsuelo. La actividad utilizará Suelo Rústico
+Común. En general la capacidad de acogida de la zona es alta, por la ausencia de
+valores ambientales significativos que realmente puedan verse afectados. La capacidad
+de regeneración de la zona una vez desmantelado el proyecto es relativamente
+fácil y rápida.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 217
+Capacidad de absorción del medio natural. La capacidad de absorción del medio
+natural es alta ya que las actividades descritas en el proyecto se van a desarrollar en un
+suelo rústico, en el que los valores naturales del medio ya se han visto transformados.
+El proyecto no presenta coincidencia territorial con la Red Natura 2000, espacios
+naturales protegidos, y áreas protegidas por instrumentos internacionales A priori no se
+afecta a ningún elemento de interés del patrimonio natural y arqueológico, aunque existe
+cercanía con el yacimiento de «Los Casales».
+Asimismo, el proyecto no afectará a cauce público alguno ni a sus zonas de protección.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+Magnitud y alcance espacial del impacto. La mayoría de los impactos significativos
+identificados tendrán un alcance puntual durante la fase de obras y más sostenidos
+durante su funcionamiento. salvo los de carácter positivo sobre el medio socioeconómico,
+que se extenderán en el tiempo.
+Naturaleza del impacto. Las acciones que producen un mayor número de impactos
+negativos se suelen concentrar en las fases de construcción y desmantelamiento,
+asociadas a la preparación del terreno y el montaje y desmontaje de las instalaciones.
+Se estima que el proyecto es compatible con el medio, siempre y cuando se ejecuten las
+medidas preventivas y correctoras recogidas en el estudio ambiental presentado y en el
+presente informe.
+Carácter transfronterizo del impacto. Por la situación geográfica de la actuación que
+se pretende el impacto no presenta carácter transfronterizo.
+Intensidad y complejidad del impacto. Los impactos negativos con mayor intensidad
+lo serán sobre el suelo, el ruido y las emisiones de polvo y partículas, pero de manera
+general no se considera que la complejidad de estos sea elevada con las medidas
+indicadas en este informe de impacto ambiental.
+Probabilidad del impacto. Se estima que la probabilidad de ocurrencia del impacto
+es alta en las fases de construcción y desmantelamiento. Sin embargo, en la fase de
+funcionamiento, la probabilidad se reduce con la aplicación de las medidas correctoras
+establecidas limitándose a situaciones accidentales. Por ello se considera compatible
+el impacto del proyecto mientras se cumpla lo establecido en el documento ambiental
+y demás documentación presentada, así como las medidas que se establecen en el
+presente informe de impacto ambiental, siempre con el cumplimiento de la legislación
+vigente que le sea de aplicación, y el seguimiento ambiental previsto.
+Inicio previsto y duración, frecuencia y reversibilidad del impacto. La reversibilidad
+de este tipo de actuaciones es bastante alta, permitiendo la restauración del medio una
+vez finalizada la vida útil de estas infraestructuras. La vida útil del proyecto se estima en
+25 años.
+Acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. Si bien en la zona del proyecto existen infraestructuras energéticas próximas
+(parques eólicos y plantas fotovoltaicas), existentes, autorizadas o en desarrollo el efecto
+acumulativo derivado de la implantación de la BESS se considera asumible.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 218
+Posibilidad de reducir el impacto de manera eficaz. Los posibles impactos del
+proyecto serán eliminados o minimizados con el cumplimiento de las medidas que se
+establecen en el presente informe.
+Por ello se considera el impacto ambiental global del proyecto compatible, siempre y
+cuando se apliquen las medidas preventivas incluidas en la documentación aportada, en
+este informe y demás legislación vigente que le sea de aplicación.
+Por todo lo expuesto, considerando adecuadamente tramitado el expediente y de
+acuerdo con lo establecido en el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, teniendo en cuenta el resultado de las consultas realizadas y
+siguiendo los criterios del Anexo III de la citada Ley, se realiza el siguiente:
+5. INFORME DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del «proyecto de instalación de almacenamiento
+energético en baterías (BESS) de carácter hibridado con el parque eólico existente «Rea
+Unificado», en las parcelas 192, 194, 9006 y 9046 del polígono 1 del término municipal
+de Trévago (Soria), promovido por Danta de Energías, S.A, se determina que no tiene
+efectos significativos sobre el medio ambiente, en los términos establecidos en el presente
+informe de impacto ambiental, por los motivos que se justifican en el mismo y sin perjuicio
+del cumplimiento de la normativa urbanística y sectorial vigentes u otras normas que
+pudieran impedir o condicionar su realización.
+5.1. Medidas protectoras: Se deberán cumplir las medidas protectoras y correctoras
+que se indican a continuación, además de las que se incluyen en el documento ambiental
+aportado, de diciembre de 2025, elaborado por la consultoría «Ideas medioambientales»
+remitido por el Servicio Territorial de Industria, Comercio y Economía, con las siguientes
+condiciones que se citan a continuación y en lo que no contradigan a las mismas:
+a) Consideraciones previas: El promotor de las actuaciones deberá comunicar la
+fecha de inicio de los trabajos al Servicio Territorial de Medio Ambiente de Soria
+con al menos 72 horas de antelación. Se deberá atender cuantas indicaciones en
+materia ambiental pudieran hacer los técnicos de ese Servicio.
+b) Protección de infraestructuras y vías de acceso. Siempre que sea posible, se
+aprovecharán las carreteras y caminos existentes para el acceso de vehículos
+y maquinaria durante las obras. El camino que se trazará para acceder a las
+nuevas instalaciones deberá mantenerse en buen estado, debiendo restaurarse
+o restituirse adecuadamente los sistemas de drenaje y otras infraestructuras que
+se puedan ver afectadas. Para cualquier actuación que pudiese tener alguna
+incidencia sobre las carreteras próximas, deberá tenerse en cuenta lo establecido
+en la normativa vigente en materia de carreteras, con especial hincapié en las
+medidas de seguridad durante la fase de construcción de la planta. Se habilitarán
+medidas para minimizar la incorporación de polvo y barro a las carreteras que dan
+acceso a la planta. Se respetarán las normas generales de obligado cumplimiento
+en zonas afectadas por la existencia de líneas eléctricas, etc., así como en
+sus zonas de servidumbre. Se respetarán de igual forma las servidumbres
+de paso existentes en todos los caminos, las propiedades de terceros, y las
+infraestructuras existentes.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 219
+c) Protección del suelo: Con el fin de conservar la capa vegetal del suelo, en las
+zanjas para la construcción de la línea eléctricas, en las explanaciones para la
+implantación de las baterías, de los sistemas de conversión de potencia y de las
+estaciones de transformación así como en las instalaciones auxiliares de obra se
+deberá retirar la capa superior de suelo vegetal (al menos 20 cm), acopiándola en
+montones de pequeña altura, con el objeto de mantener su estructura orgánica y
+humedad, para su posterior uso superficial en el relleno superficial de las zanjas
+o en las labores de restauración de las zonas alteradas durante las obras.
+Se establecerán medidas para proteger el suelo y controlar la erosión laminar en
+las superficies con erosión potencial entre 10-25 t/ha y año, máxime teniendo en
+cuenta que el proyecto se localiza en una zona de concentración de escorrentías.
+Se trata de una actividad potencialmente contaminadora del suelo por lo que
+se deberá presentar un informe preliminar de situación del suelo en el que se
+desarrollará la actividad.
+d) Protección de las aguas: Durante los movimientos de tierra se establecerán las
+medidas necesarias para la retención de sólidos previa a la evacuación de las
+aguas de escorrentía superficial, así como otras posibles medidas para reducir al
+mínimo el riesgo de contaminación de las aguas superficiales.
+Se garantizará en todo momento el drenaje superficial de las aguas hacia los
+cauces, manteniendo las márgenes limpias. Se reutilizará la capa de suelo vegetal
+para la regeneración vegetal y la red de drenaje del conjunto de la instalación
+canalizará la escorrentía de la zona hacia puntos de desagüe natural.
+Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto, por escorrentía, erosión, infiltración
+u otros mecanismos, sobre las aguas superficiales o subterráneas. Se deberán
+tomar las medidas oportunas para asegurar que, en ningún caso, se produzcan
+vertidos de aceites, combustibles, lubricantes, u otras sustancias similares al
+terreno o a los cursos de agua.
+Se evitará el uso de herbicidas y de pesticidas para controlar la vegetación natural
+por la posibilidad de contaminar las aguas superficiales y subterráneas.
+Deberán tomarse todas las medidas y precauciones necesarias tendentes a
+minimizar la magnitud de la posible afección de la actuación proyectada sobre
+el medio hídrico en la zona de actuación, garantizando que no se alterará
+significativamente la dinámica hidrológica de la zona y asegurando, en todo
+momento, la calidad de las aguas superficiales y subterráneas.
+Queda prohibido, con carácter general, el vertido directo o indirecto de aguas y
+de productos residuales susceptibles de contaminar las aguas continentales o
+cualquier otro elemento del dominio público hidráulico, salvo que se cuente con
+la previa autorización administrativa, a tramitar de acuerdo con lo establecido en
+el Reglamento del Dominio Público Hidráulico.
+En el caso de que fuera necesario realizar algún vertido al dominio público
+hidráulico se deberá disponer previamente de la correspondiente autorización
+del organismo de cuenca.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 220
+e) Protección de la atmósfera: Para evitar la producción de polvo, se efectuarán riegos
+periódicos en los caminos de acceso a las obras, siempre que las condiciones
+climáticas y meteorológicas así lo aconsejen, además de ejecutar cualquier otra
+medida adecuada a tal fin, todo ello con objeto de cumplir la normativa vigente de
+protección del medio ambiente atmosférico.
+f) Contaminación acústica: Se atenderá a lo dispuesto en la normativa vigente en
+materia de ruido en Castilla y León, cumpliéndose los niveles establecidos de
+transmisión de ruido por causas derivadas de la actuación en todas sus fases.
+g) Contaminación lumínica: Se evitará la iluminación nocturna del sistema de
+almacenamiento BEES, con las únicas excepciones de los dispositivos requeridos
+por la normativa y de los aparatos de iluminación imprescindibles para hacer
+frente a situaciones de riesgo. En el caso de que fuera necesario la implantación
+de dichos dispositivos, se deberá contar con elementos que reduzcan la
+contaminación lumínica y la luz se proyectará hacia el suelo por debajo del plano
+horizontal, limitándose a lo estrictamente necesario, de forma que se minimice el
+efecto de la luz sobre la fauna nocturna.
+h) Gestión de residuos: Se controlará el cumplimiento de la normativa vigente en
+materia de residuos y suelos contaminados. Se evitará el manejo incontrolado
+y la posibilidad de contaminación directa o inducida en la gestión de aceites,
+combustibles y residuos de vehículos y maquinaria en general. No podrán
+acopiarse aceites, grasas o residuos, ni efectuarse operaciones de mantenimiento,
+repuesto o reparaciones en la maquinaria y vehículos fuera de las zonas
+específicamente adecuadas para ello, evitándose en todo momento el vertido de
+sustancias que puedan contaminar el suelo, las aguas y los acuíferos de la zona.
+En caso de accidente o vertido accidental de residuos peligrosos, deberá
+procederse a la retirada y entrega a gestor autorizado de residuos y a la recogida
+y gestión del suelo afectado conforme establezca la normativa de residuos y
+suelos contaminados.
+El promotor será el responsable de mantener limpias las obras y sus alrededores
+de materiales sobrantes, así como de la retirada de instalaciones provisionales
+que no sean necesarias. Durante la fase de funcionamiento se generarán diversos
+tipos de residuos derivados del mantenimiento de las instalaciones, por lo que se
+deberá disponer de un punto de almacenamiento adecuado para estos residuos,
+especialmente para los peligrosos, con las suficientes medidas de protección
+del suelo frente a contaminaciones accidentales o vertidos. Cualquier incidencia
+relativa a la gestión de residuos deberá ser incluida en el correspondiente informe
+de seguimiento
+i) Uso de materiales reciclados en la fase de obras: En el proyecto de obra se
+deberá incorporar la utilización de áridos reciclados procedentes de plantas
+de tratamiento de residuos de construcción y demolición, en las unidades de
+obra donde sea técnica y ambientalmente adecuado, en sustitución de áridos
+naturales. Los porcentajes mínimos de utilización de estos materiales serán
+de un 10% en peso de la cantidad total de áridos cuya utilización está prevista
+en la obra.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 221
+j) Planes de autoprotección: De acuerdo con la Norma Básica de Autoprotección
+de los centros, establecimientos y dependencias dedicados a actividades que
+puedan dar origen a situaciones de emergencia, la actividad deberá elaborar
+un Plan de Autoprotección que deberá acompañar a los restantes documentos
+necesarios para el otorgamiento de la autorización necesaria para el comienzo
+de la actividad. Una vez elaborado el Plan de Autoprotección deberá ser inscrito
+en el Registro de Planes de Autoprotección de Castilla y León.
+k) Protección del Patrimonio Histórico y Arqueológico: Sí en el transcurso de las
+obras apareciesen en el subsuelo restos históricos, arqueológicos o etnológicos,
+se paralizarán éstas en la zona afectada, procediendo el promotor a ponerlo
+en conocimiento de la Delegación Territorial de la Junta de Castilla y León, que
+dictará las normas de actuación que procedan, en aplicación de los artículos 38.2
+y 38.3 de la Ley 7/2024, de 20 de junio, de Patrimonio Cultural de Castilla y León.
+Dada la cercanía del yacimiento de «Los Casales», deberá aplicarse un control
+arqueológico extensivo en todos los trabajos con remoción de tierras.
+l) Paisaje y protección de la vegetación: Las infraestructuras deberán contar con
+medidas de integración paisajística (sin estructuras metálicas con acabados
+brillantes y/o galvanizados y en colores discretos.
+Desde un punto de vista paisajístico y como elemento para la conservación y
+fomento de la biodiversidad, se deberá realizar una plantación perimetral, que
+se mantendrá a lo largo de toda la vida útil de la planta, alrededor del vallado
+de la instalación. La plantación se realizará por la parte exterior del cerramiento,
+por bosquetes, con pequeñas alineaciones al tresbolillo que sirvan de pantalla
+visual, pero a su vez evite una continuidad vertical y horizontal de masa forestal.
+Se utilizarán especies arbóreas y arbustivas propias del entorno, acorde a
+los cuadernos de Zona empleados en las ayudas a Forestación, (https://
+medioambiente.jcyl.es/web/es/medionatural/actualizacion-2024-cuadernos-
+zona.html). Esta elección de especies será acompañada de otras especies
+arbustivas y arbóreas que aporten alimento y refugio para la fauna.
+Se deberán respetar las superficies de monte, linderos con alineaciones de
+vegetación arbórea y arbustiva, así como arbolado disperso, tanto en las tierras
+de labor como junto al borde de los caminos. La instalación de almacenamiento
+y sus infraestructuras auxiliares no supondrán la eliminación de arbolado,
+cuya corta solo estará condicionada a una correcta gestión de la masa forestal
+conforme a su desarrollo. Si fuese necesario la corta de algún pie durante la fase
+de obras del proyecto deberá justificarse la ausencia de otras alternativas para
+su autorización que, en su caso, estará sujeta a lo recogido en la Ley 3/2009, de
+6 de abril, de Montes de Castilla y León, y contar con los permisos necesarios por
+parte del Servicio Territorial de Medio Ambiente de Soria.
+m) Cese de actividad: Si por cualquier causa cesara la actividad, de forma temporal
+o definitiva, el promotor establecerá un plan de actuación que será presentado
+ante el órgano sustantivo y el Servicio Territorial de Medio Ambiente para su
+conocimiento y consideración. En las fases de paralización de la instalación,
+será responsabilidad del promotor el adecuado mantenimiento y conservación
+de las infraestructuras y equipos, así como su reparación, sustitución o
+desmantelamiento, en caso de que su deterioro ponga en peligro las condiciones
+mínimas de seguridad o exista riesgo de afección al medio.
+CV: BOCYL-D-24062026-120-10
+
+Boletín Oficial de Castilla y León
+Núm. 120 Miércoles, 24 de junio de 2026 Pág. 222
+Al final de la vida útil de la instalación deberá garantizarse el desmantelamiento de
+toda la instalación incluidos equipos, residuos, etc. y procederse a la restauración
+e integración paisajística de la zona, previa redacción y presentación de proyecto
+con su correspondiente presupuesto.
+5.2. Programa de Vigilancia Ambiental: Se desarrollará el programa de vigilancia
+ambiental, incorporando las medidas protectoras establecidas en este informe de
+impacto ambiental. Su seguimiento se hará de acuerdo con lo previsto en el Art. 52 de
+la Ley 21/2013, de 9 de diciembre de evaluación ambiental. El programa facilitará el
+seguimiento de las actuaciones durante la fase de construcción, de funcionamiento y de
+desmantelamiento y/o cese de la actividad.
+5.3. Seguimiento y vigilancia: Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquél al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.4. Modificaciones: Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Soria, que prestará su conformidad si procede, sin perjuicio de la tramitación de las
+licencias o permisos que, en su caso, correspondan. Se considerarán exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+5.5. Vigencia del Informe de Impacto Ambiental: Conforme a lo establecido en el
+Art. 47.4 de la Ley 21/2013, de 9 de diciembre de evaluación ambiental, este Informe de
+Impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el B.O.C. y L., no se hubiera
+procedido a la autorización del proyecto.
+5.6. Objeto de recurso: De conformidad a lo establecido en el Art. 47.5 de la Ley de
+evaluación ambiental, el informe de impacto ambiental no será objeto de recurso alguno
+sin perjuicio de lo que, en su caso, proceda en vía administrativa o judicial frente al acto,
+en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-24062026-120-10
