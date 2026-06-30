@@ -1,0 +1,196 @@
+NÚMERO 124
+27998
+Martes 30 de junio de 2026
+RESOLUCIÓN de 17 de junio de 2026, de la Dirección General de Gestión
+Sostenible y Política Forestal, por la que se formula valoración ambiental
+sobre la modificación del proyecto de planta de generación de gas natural
+para su inyección en la red gasista, cuya promotora es Turn2x Asset Co I
+Extremadura, SLU, en el término municipal de Miajadas. Expte.: IA26/0320.
+(2026061671)
+ANTECEDENTES DE HECHO
+Primero. El proyecto de planta de generación de gas natural para su inyección en la red
+gasista, cuya promotora es Turn2x Asset Co I Extremadura, SLU, cuenta con declaración
+de impacto ambiental emitida mediante Resolución de 16 de junio de 2024, de la Dirección
+General de Sostenibilidad, por la que se formula declaración de impacto ambiental relativa
+al proyecto de planta de generación de gas natural para su inyección en la red gasista, en el
+término municipal de Miajadas (DOE n.º 122, de 25 de junio de 2024).
+Segundo. El proyecto original consistía en la construcción e instalación de una planta para
+producir gas natural a partir de dióxido de carbono e hidrógeno. El hidrógeno se produce me-
+diante electrólisis del agua mientras que el dióxido de carbono es suministrado por empresa
+autorizada para el suministro de gases industriales en forma líquida.
+La planta de generación de gas natural se ubica en polígono industrial Primero de Mayo de
+Miajadas, parcelas 37 y 38 del sector 11, con referencias catastrales 6959907TJ4365N0001D
+y 6959908TJ4365N0001D.
+Tercero. Con fecha 12 de enero de 2026 tuvo entrada en el Sistema de Registro Único de
+la Administración de la Comunidad Autónoma de Extremadura, documento ambiental para la
+modificación del proyecto de planta de generación de gas natural para su inyección en la red
+gasista en Miajadas presentado por la promotora, dándose así cumplimiento a lo dispuesto en
+el artículo 86.1 de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad
+Autónoma de Extremadura, que establece que “Los promotores que pretendan introducir mo-
+dificaciones de proyectos incluidos en el anexo IV, deberán presentar ante el órgano ambien-
+tal un documento ambiental con el contenido recogido en el artículo 74.1 de la presente ley”.
+La modificación propuesta consiste en el desarrollo de un proyecto de investigación I+D den-
+tro de la planta de generación de gas natural. El proyecto de investigación, que tiene como
+fin la mejora y optimización de la producción de metano, incluirá los siguientes elementos:
+— Reactor de metanización (prototipo EIC) de 1 MW que se alimentará del equipo auxiliar
+existente para probar los enfoques de optimización del diseño innovador del reactor. El
+prototipo de reactor EIC se situará cerca de la zona de metanización existente, de esta
+forma no se generarán cambios de importancia ni en las instalaciones ni en los sistemas
+ya existentes en la planta.
+
+NÚMERO 124
+27999
+Martes 30 de junio de 2026
+— Laboratorio de I+D en el que testar una aplicación de corriente lateral para investiga-
+ción más detallada sobre la reacción de metanización y los procesos de gestión térmica.
+Se ubicará en el espacio disponible entre la actual zona de metanización existente y el
+módulo de inyección, detrás de la nave de almacenamiento de residuos.
+Imagen: Ubicación del proyecto de I+D en la planta de gas natural existente.
+Fuente: Documento ambiental.
+Las superficies ocupadas por el proyecto I+D se muestran en en la siguiente tabla:
+Elementos del proyecto Superficie ya Superficie a ocupar
+Ubicación
+I+D construida (m2) proyecto I+D (m2)
+Reactor Prototipo EIC Zona de metanización
+109,53 6,48
+(2,7 x 2,4 m) (existente)
+Contenedor situado entre la
+Laboratorio I+D en con-
+zona de metanización y la 18
+tenedor (3 x 6 m)
+caseta de inyección
+Ninguna instalación Zona de electrolización
+108,72
+nueva (existente)
+Ninguna instalación
+Zona de oficinas (existente) 17,16 + 17,58
+nueva
+
+NÚMERO 124
+28000
+Martes 30 de junio de 2026
+— El funcionamiento del sistema prototipo reactor EIC será el que se describe a continuación:
+Periodo: Las instalaciones estarán en funcionamiento entre julio de 2026 y abril de
+2027.
+Tiempo de operación: El prototipo reactor EIC operará durante 10 días (10 horas cada
+día).
+El reactor actual existente en la planta opera como máximo durante 7.884 horas al año.
+Durante los días de operación del prototipo reactor EIC (10 días), no habrá producción
+de gas natural para inyección.
+El prototipo reactor EIC sólo funcionará en lugar del reactor existente de 1 MW de la
+planta cuando éste no esté funcionando, no funcionando en ningún caso de forma para-
+lela y garantizando que el prototipo reactor EIC no añadirá en ningún caso capacidad de
+producción adicional a la producción global de la central ni realizando inyección alguna
+a la red gasista.
+Los consumos requeridos por el prototipo reactor EIC son idénticos a los del reactor
+existente, siendo alimentados ambos reactores del mismo modo, a partir del H2 gene-
+rado en la planta de hidrólisis existente y desde el depósito de CO2 de un suministrador
+externo.
+El gas CH4 producido en el prototipo reactor EIC no será inyectado en la red de gas
+natural y será quemado en la antorcha de seguridad.
+— El funcionamiento del laboratorio de I+D será el que se describe a continuación:
+En el contenedor del laboratorio de I+D, la planta de metanización existente se reduce
+a escala y funciona independientemente del proceso de metanización de 1 MW para
+poder realizar ensayos de optimización. En consecuencia, el reactor de metanización de
+laboratorio es una réplica significativamente más pequeña que el reactor de 1 MW con
+la diferencia de que consta de un solo tubo en lugar de 181 tubos.
+Periodo: Las instalaciones estarán en funcionamiento entre mayo de 2026 y abril de
+2027.
+Tiempo de operación: 4 campañas de 30 horas, es decir, 120 horas de funcionamiento.
+El gas CH4 producido en el reactor de laboratorio será quemado en un equipo de com-
+bustión en antorcha a escala de laboratorio que se instalará.
+
+NÚMERO 124
+28001
+Martes 30 de junio de 2026
+Las actividades de desmantelamiento del proyecto de I+D comenzarán en julio de 2028
+finalizándo como máximo a finales de diciembre de 2028.
+En relación a los aspectos ambientales más relevantes en la modificación que se proyecta:
+— Emisiones a la atmósfera: Las intalaciones del proyecto I+D (en el reactor EIC y,
+en mucha menor medida en la Laboratorio I+D) producirán metano que no será
+inyectado en la red gasista. Éste será quemado completamente en las antorchas de
+seguridad de forma que se producirán emisiones de CO2.
+— Consumo de agua: El agua empleada en la electrólisis para alimentar la metanización
+con H2 será la misma al cabo del año que la empleada en la situación actual por
+parte de la planta de generación de gas natural, puesto que, durante las horas de
+funcionamiento del reactor EIC 1MW no funcionará el reactor de panal existente, y
+viceversa. Los vertidos tampoco variarán, puesto que el condensado se introducirá
+en el proceso de electrólisis.
+Cuarto. Conforme a lo dispuesto en el apartado 2 del artículo 86 de la Ley 16/2015, de 23 de
+abril, de protección ambiental de la Comunidad Autónoma de Extremadura, el órgano ambien-
+tal, a los efectos de pronunciarse sobre el carácter de la modificación, solicitará informes a las
+Administraciones Públicas afectadas por razón de la materia, en relación con los elementos
+esenciales que sean objeto de la modificación solicitada, y que fueron tenidos en cuenta en
+la evaluación de impacto ambiental. De acuerdo con ello, teniendo en cuenta la naturaleza y
+magnitud de la modificación de proyecto planteada y la localización del mismo, no se consi-
+dera afectada ninguna Administración Pública por razón de la materia por lo que se considera
+que no es necesario la solicitud de informes auxiliares.
+Quinto. Una vez analizada la documentación que obra en el expediente, se realiza el corres-
+pondiente análisis para determinar si la modificación del proyecto puede tener efectos ad-
+versos significativos sobre el medio ambiente de conformidad con lo dispuesto en el artículo
+73.c) de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma
+de Extremadura.
+Del análisis realizado se desprende que no se prevé que de la modificación del proyecto pue-
+dan derivarse efectos adversos significativos sobre el medio ambiente ya que no supone un
+incremento significativo de emisiones a la atmósfera, de vertidos a cauces públicos, de gene-
+ración de residuos, de utilización de recursos naturales, afección a Espacios Protegidos Red
+Natura 2000 ni una afección significativa al patrimonio cultural.
+A los anteriores antecedentes de hecho, le son de aplicación los siguientes
+
+NÚMERO 124
+28002
+Martes 30 de junio de 2026
+FUNDAMENTO DE DERECHO
+Primero. Es órgano competente para el dictado de la presente la Dirección General de Ges-
+tión Sostenible y Política Forestal de la Consejería de Industria, Energía, Ciencia y Territorio,
+de conformidad con lo dispuesto en el artículo 3.28 de la Ley 16/2015, de 23 de abril, de
+protección ambiental de la Comunidad Autónoma de Extremadura y en el artículo 17.6 del
+Decreto 18/2026, de 30 de abril, por el que se establece la estructura orgánica básica de la
+Administración de la Comunidad Autónoma de Extremadura.
+Segundo. El artículo 86 de la Ley 16/2015, de 23 de abril, de protección ambiental de la
+Comunidad Autónoma de Extremadura, regula el procedimiento de modificación de proyectos
+sometidos a evaluación ambiental ordinaria, disponiendo que el órgano ambiental se pronun-
+ciará sobre el carácter de las modificaciones que pretendan introducir los promotores respecto
+a los proyectos incluidos en el anexo IV de la propia ley, debiendo solicitar a estos efectos
+informe a las Administraciones Públicas afectadas por razón de la materia en relación con los
+elementos esenciales que sean objeto de la modificación solicitada y tenidos en cuenta en la
+evaluación de impacto ambiental.
+En caso de que la modificación del proyecto pueda tener efectos adversos significativos sobre
+el medio ambiente se determinará la necesidad de someter o no el proyecto a evaluación de
+impacto ambiental ordinaria, o si se determinara que la modificación del proyecto no tuviera
+efectos adversos significativos sobre el medio ambiente, el órgano ambiental, en su caso,
+actualizará el condicionado de la declaración de impacto ambiental emitida en su día para el
+proyecto, incorporando las nuevas medidas correctoras, protectoras o compensatorias que se
+consideren procedente u oportunas.
+En su virtud, atendiendo a los antecedentes de hecho y de acuerdo con los fundamentos ju-
+rídicos expuestos, este órgano directivo,
+RESUELVE:
+Primero. La no necesidad de someter a un nuevo procedimiento de evaluación de impacto
+ambiental la modificación del proyecto de planta de generación de gas natural para su inyec-
+ción en la red gasista, ya que dicha modificación no va a producir efectos adversos signifi-
+cativos sobre el medio ambiente de acuerdo a los criterios establecidos en el artículo 73.c)
+de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de
+Extremadura.
+Segundo. Mantener el condicionado de la Resolución de 16 de junio de 2024, de la Dirección
+General de Sostenibilidad, por la que se formula declaración de impacto ambiental relativa al
+proyecto de planta de generación de gas natural para su inyección en la red gasista, en el tér-
+mino municipal de Miajadas, promovida por Turn2x Asset Co I Extremadura, SLU, no siendo
+necesario la incorporación de nuevas medidas derivadas de la modificación que se proyecta.
+
+NÚMERO 124
+28003
+Martes 30 de junio de 2026
+Esta resolución deberá publicarse en el Diario Oficial de Extremadura, de conformidad con lo
+dispuesto en el artículo 86.3 de la Ley 16/2015, de 23 de abril, de protección ambiental de la
+Comunidad Autónoma de Extremadura.
+La presente resolución no podrá ser objeto de recurso alguno, sin perjuicio de los que, en su
+caso, procedan en vía administrativa y judicial frente al acto, en su caso, de autorización del
+proyecto.
+La presente resolución se emite a los solos efectos ambientales y en virtud de la legislación
+específica vigente, sin perjuicio de aquellas otras autorizaciones sectoriales o licencias que
+sean legalmente exigibles para la ejecución del proyecto.
+Mérida, 17 de junio de 2026.
+El Director General de Gestión
+Sostenible y Política Forestal,
+JUAN FRANCISCO ELOY RODRÍGUEZ
+UCEDO

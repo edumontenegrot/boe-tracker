@@ -1,0 +1,184 @@
+AÑO XLV Núm. 122 30 de junio de 2026 25242
+I.- DISPOSICIONES GENERALES
+Presidencia de la Junta
+Decreto 33/2026, de 23 de junio, por el que se modifica el Decreto 12/2026, de 31 de marzo, por el que se
+regula el Gobierno del Dato en la Junta de Comunidades de Castilla-La Mancha. [2026/4902]
+El presente decreto se dicta en ejercicio de las competencias exclusivas sobre organización, régimen y funcionamiento
+de sus instituciones de autogobierno y de procedimiento administrativo derivado de las especialidades de su
+organización propia atribuidas a la Junta de Comunidades de Castilla-La Mancha en los artículos 31.1 1ª y 28ª,
+respectivamente, del Estatuto de Autonomía de Castilla-La Mancha.
+En este sentido, el artículo 2.k) del Decreto 82/2024, de 12 noviembre, por el que se establece la estructura orgánica
+y se fijan las competencias de los órganos integrados en la Presidencia de la Junta de Comunidades de Castilla-
+La Mancha atribuye a la Vicepresidencia Primera la competencia de coordinación y supervisión de las políticas
+de gobernanza del dato, de estadística en los términos establecidos en la normativa de aplicación, así como la
+planificación de las estrategias, y actuaciones regionales relativas al tratamiento, protección y utilización de los datos
+competencia de la Junta de Comunidades de Castilla-La Mancha.
+Asimismo, la Ley 4/2025, de 11 de julio, de Simplificación, Agilización y Digitalización Administrativa de Castilla-
+La Mancha define gobierno del dato como conjunto de normas, recursos y estrategias que tienen como finalidad
+marcar las pautas para la gestión, calidad y evaluación de los datos gestionados por la Administración regional en el
+ejercicio de sus competencias, con el objetivo de mejorar la gestión de los servicios públicos y su personalización,
+la toma de decisiones informadas y la evaluación de las políticas públicas y establece los principios y derechos que
+asisten a la ciudadanía en su implementación.
+Ante la puesta en marcha de Espacio Ciudadano, área de servicios digitales desarrollada en el capítulo VI de la
+propia Ley 4/2025, se hace necesaria la regulación del ámbito de gobierno del dato de este proyecto, por lo que es
+imprescindible ampliar la composición y funciones de la Comisión de Coordinación del Dato y del Comité Regional
+del Dato.
+Por otro lado, se corrigen algunos errores tipográficos detectados en la publicación del Decreto 12/2026.
+Finalmente, este decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015,
+de 1 de octubre, del Procedimiento Común de las Administraciones Públicas: necesidad, eficacia, proporcionalidad,
+seguridad jurídica, transparencia y eficiencia.
+En virtud de lo expuesto, a propuesta de la Vicepresidencia Primera, y previa deliberación del Consejo de Gobierno
+en su reunión del día 23 de junio de 2026, dispongo:
+Artículo primero. Modificación del Decreto 12/2026, de 31 de marzo, por el que se regula el Gobierno del dato en la
+Junta de Comunidades de Castilla-La Mancha.
+Uno. Se modifica la definición de Datos maestros del artículo 3 de la forma siguiente:
+“Datos maestros: datos esenciales y estructurales que representan y describen de manera única, estable y consistente
+a las entidades fundamentales de la organización para garantizar su coherencia, uniformidad, integridad, calidad e
+interoperabilidad en todos los sistemas y procesos de la organización.”
+Dos. Se incorporan dos definiciones al final del artículo 3:
+“Espacio Ciudadano: de conformidad con la Ley 4/2025, de 11 de julio, de Simplificación, Agilización y Digitalización
+administrativa, el Espacio Ciudadano se constituye como un área de servicios digitales donde se incorporará toda la
+información relevante de las personas físicas o jurídicas, empresas y entidades usuarias, con el objetivo de facilitar
+su relación con la Administración regional en aquellos trámites y procedimientos en los que sean parte.
+Metadatos: datos que definen y caracterizan otros datos.”
+
+AÑO XLV Núm. 122 30 de junio de 2026 25243
+Tres. El punto 1 del artículo 5 queda redactado como sigue:
+“1. Se diseña un modelo de relación federado con coordinación centralizada de gobierno del dato, ordenando su
+estructura organizativa en tres niveles: estratégico, táctico y operativo.
+La coordinación será ejercida por el órgano con competencias en materia de gobierno del dato de la Administración
+regional. Las consejerías, organismos autónomos y entidades de derecho público serán responsables de desplegar
+el gobierno de los datos de su ámbito sectorial de acuerdo con el modelo y las directrices establecidas.”
+Cuatro. El artículo 7 queda redactado como sigue:
+“Artículo 7. Consejería competente en materia de gobierno del dato.
+La consejería competente en materia de gobierno del dato ejercerá la coordinación y supervisión de las políticas
+de gobernanza del dato, de estadística en los términos establecidos en la normativa de aplicación, así como la
+planificación de las estrategias, y actuaciones regionales relativas al tratamiento, protección y utilización de los datos
+competencia de la Administración regional.”
+Cinco. El artículo 8 queda redactado como sigue:
+“Artículo 8. Comisión de Coordinación del Dato.
+1. En el ámbito de la Administración regional, se crea la Comisión de Coordinación del Dato como órgano colegiado
+adscrito a la Consejería con competencias en materia de gobierno del dato.
+2. La Comisión de Coordinación del Dato es el órgano de participación y coordinación en materia de gobierno del
+dato a nivel estratégico de la Junta de Comunidades de Castilla-La Mancha.
+3. Las funciones de la Comisión de Coordinación del Dato son las siguientes:
+a) Actuar como órgano de participación y coordinación en materia de gobierno del dato, proponiendo objetivos
+estratégicos en torno al dato, así como políticas e instrumentos de desarrollo de gobierno del dato.
+b) Contribuir al impulso de la estrategia de gobierno del dato mediante el despliegue y supervisión de normas, planes,
+programas, proyectos y acciones coordinadas conducentes a la aplicación efectiva de las materias de gestión de los
+datos, velando por que los principios, las directrices y los estándares establecidos se cumplan.
+c) Resolver las cuestiones relevantes asociadas a los procesos de gobierno de los datos.
+d) Impulsar y priorizar las acciones de mejora que se precisen para la extensión efectiva del gobierno y gestión
+de datos en el ámbito de la Administración regional, así como para la extensión, desarrollo y uso del sistema de
+gobierno del dato.
+e) Supervisar, evaluar e informar instrumentos normativos en materia de datos.
+f) Acordar la creación, en su caso, de los Grupos de Trabajo del Dato, así como la finalidad y composición de los
+mismos.
+g) Estimular la participación de los diferentes órganos de la Administración regional en iniciativas de gobierno y
+gestión de datos.
+h) Supervisar, coordinar y proponer los contenidos de Espacio Ciudadano, así como de otros espacios de datos de
+la Administración regional.
+4. La composición de la Comisión de Coordinación del Dato es la siguiente:
+a) Presidencia: persona titular de la consejería competente en gobierno del dato.
+b) Vicepresidencia:
+1º. Persona titular de la Oficina del Dato.
+2º. En los asuntos relativos a Espacio Ciudadano, así como en otros espacios de datos de la Administración regional,
+la vicepresidencia se constituye como órgano colegiado integrado por cuatro miembros:
+i. Persona titular de la Oficina del Dato
+ii. Persona titular del órgano con competencias en materia de transformación digital
+iii. Persona titular del órgano con competencias en materia de coordinación de procedimientos administrativos
+iv. Persona con competencias en materia de coordinación.
+c) Vocalías:
+1º. Personas titulares de las secretarías generales de las consejerías.
+2º. Personas titulares de las secretarías generales, o cargo similar, de los organismos autónomos y las entidades
+de derecho público.
+3º. Persona que dirija el Centro Cartográfico de Castilla-La Mancha.
+d) Secretaría: ejercida por una persona funcionaria de carrera adscrita a la Oficina del Dato, que actuará con voz,
+pero sin voto.
+5. La Comisión de Coordinación del Dato se reunirá, en sesión ordinaria, al menos una vez al año y, en sesión
+extraordinaria, cuando la presidencia lo estime oportuno para el cumplimiento de sus funciones o a solicitud expresa
+
+AÑO XLV Núm. 122 30 de junio de 2026 25244
+de cualquiera de sus miembros para deliberar sobre los asuntos que éstos hubieran propuesto para su inclusión en
+el orden del día.
+6. A las reuniones de la Comisión de Coordinación del Dato podrán asistir otras personas representantes técnicas,
+con voz, pero sin voto, cuando así lo considere la Presidencia, para garantizar el cumplimiento de las funciones que
+tiene encomendadas.”.
+Seis. El artículo 9 queda redactado como sigue:
+“Artículo 9. Comité Regional del Dato.
+1. En el ámbito de la Administración regional, se crea el Comité Regional del Dato como órgano colegiado adscrito
+a la Consejería con competencias en materia de gobierno del dato.
+2. El Comité Regional del Dato es el órgano táctico de despliegue del gobierno del dato.
+3. Las funciones del Comité Regional del Dato son las siguientes:
+En materia de gobierno de datos:
+a) Contribuir a la elaboración de las directrices para documentar las decisiones, acciones y operaciones con el fin
+de realizar un uso eficaz, eficiente y responsable de los datos, que ayude a proteger la integridad y la cadena de
+custodia de estos durante todo su ciclo de vida.
+b) Informar de todas las iniciativas, planes, programas y proyectos que tengan especial trascendencia por afectar al
+resto de la organización y que estén encaminados a garantizar un gobierno del dato efectivo.
+c) Proponer las medidas necesarias para la difusión de los procesos y procedimientos relacionados con la gestión
+de datos.
+d) Proponer la inclusión de ámbitos de actuación en el desarrollo del gobierno del dato
+e) Intercambiar buenas prácticas y resultados de su implantación.
+f) Promover el desarrollo y actualización del inventario de conjuntos y productos de datos y fuentes de información.
+En materia de protección de datos:
+a) Informar los proyectos de disposiciones de carácter general en materia de protección de datos personales, así
+como promover su cumplimiento y divulgación.
+b) Proponer planes de concienciación y formación en materia de protección de datos personales e informar los
+elaborados por otros órganos.
+c) Informar todas las iniciativas, planes y proyectos que tengan especial trascendencia por afectar al resto de la
+organización y que estén encaminados a garantizar plenamente el derecho a la protección de los datos personales,
+que vayan a realizarse por cualquier órgano de la Administración de la Junta de Comunidades de Castilla-La Mancha
+y sus organismos públicos.
+En materia de estadística:
+Las contempladas en el artículo 35 de la Ley 10/2002, de 21 de junio, de Estadística de Castilla-La Mancha.
+En materia de Espacio Ciudadano, así como de otros espacios de datos de la Administración regional:
+a) Coordinar la actualización de sus contenidos según las indicaciones de la Comisión de Coordinación del Dato.
+4. La composición del Comité Regional del Dato es la siguiente:
+a) Presidencia: persona titular de la Oficina del Dato.
+b) Vicepresidencia: persona funcionaria de carrera adscrita a la Oficina del Dato.
+c) Vocalías:
+En materia de gobierno del dato, Espacio Ciudadano, así como de otros espacios de datos de la Administración
+regional:
+1º. Personas referentes del dato de las consejerías.
+2º. Personas referentes del dato de los organismos autónomos y entidades de derecho público.
+3º. Persona referente del dato del Archivo Regional.
+4º. Persona referente del dato del órgano competente en materia de datos abiertos.
+5º. Persona referente del dato del órgano competente en materia de cartografía.
+6º. Delegado de protección de datos de la Administración de la Junta de Comunidades de Castilla-La Mancha, así
+como otros delegados de protección de datos cuando así fuera necesario.
+En materia de protección de datos:
+1º. Las personas designadas como delegado de protección de datos en la Administración de la Junta de Comunidades
+de Castilla-La Mancha y sus organismos públicos.
+2º. Las personas designadas como referentes de protección de datos de cada una de las consejerías en las que no
+existe delegado de protección de datos.
+3º. Las personas que representen a otros organismos autónomos o a entidades de derecho público de la
+Administración Regional cuya presencia haya sido autorizada por la presidencia.
+En materia de estadística:
+1º. Las personas designadas como referentes de estadística de cada una de las consejerías.
+
+AÑO XLV Núm. 122 30 de junio de 2026 25245
+2º. Las personas designadas como referentes de estadística de los organismos autónomos.
+d) Secretaría: ejercida por una persona funcionaria de carrera del grupo A1 o A2 adscrita a la Oficina del Dato, que
+actuará con voz, pero sin voto.
+e) Cualquiera de los vocales podrá solicitar a la presidencia la asistencia a las reuniones de personas que tengan
+conocimientos técnicos o especializados en las materias a tratar.
+En casos de vacante, ausencia, o enfermedad, la presidencia será sustituida por la vicepresidencia; las vocalías
+por personas funcionarias del grupo A1 o A2 que preste servicios en las secretarías generales de las diferentes
+consejerías; o en su caso, por personas al servicio del correspondiente organismo autónomo o entidad de derecho
+público. La secretaría será sustituida por una persona funcionaria del grupo A1 o A2 adscrita a la Oficina del Dato.
+5. El Comité Regional del Dato se reunirá, en sesión ordinaria, al menos una vez al año y, en sesión extraordinaria,
+cuando la presidencia lo estime oportuno para el cumplimiento de sus funciones o a solicitud expresa de cualquiera
+de sus miembros para deliberar sobre los asuntos que éstos hubieran propuesto para su inclusión en el orden del
+día.
+Las convocatorias de las sesiones del Comité Regional del Dato se realizarán por la presidencia por medios
+electrónicos. El desarrollo de sus sesiones podrá realizarse de forma presencial o a distancia.”.
+Siete. El apartado j) del artículo 17 queda redactado como sigue:
+“j) Cualquier otro que determine el Comité Regional del Dato.”
+Disposición final. Entrada en vigor.
+El presente decreto entrará en vigor al día siguiente de su publicación en el Diario Oficial de Castilla-La Mancha.
+Dado en Toledo, el 23 de junio de 2026
+El Presidente
+EMILIANO GARCÍA-PAGE SÁNCHEZ
+El Vicepresidente Primero
+JOSÉ LUIS MARTÍNEZ GUIJARRO
