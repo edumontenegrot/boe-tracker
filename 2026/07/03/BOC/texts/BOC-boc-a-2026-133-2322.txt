@@ -1,0 +1,547 @@
+Boletín Oficial de Canarias núm. 133 24740 Viernes 3 de julio de 2026
+I. Disposiciones generales
+Consejería de Política Territorial, Cohesión Territorial y Aguas
+2322 DECRETO 114/2026, de 29 de junio, por el que se aprueba el Reglamento del
+Consejo Cartográfico de Canarias.
+PREÁMBULO
+La cartografía constituye una herramienta esencial para el conocimiento, gestión
+y planificación del territorio. En un archipiélago como Canarias, caracterizado por
+su diversidad geográfica, fragilidad ecológica y complejidad urbanística, disponer de
+información geoespacial precisa, accesible y normalizada es un requisito indispensable
+para una gobernanza eficaz, sostenible y adaptada a los retos del siglo XXI.
+La generalización de las tecnologías de la información, la sensorización del territorio,
+la proliferación de datos abiertos y la implantación de Infraestructuras de Datos Espaciales
+(IDE) han cambiado radicalmente la forma en que se genera, gestiona y utiliza la cartografía.
+El artículo 22 de la Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales
+Protegidos de Canarias, define al Consejo Cartográfico de Canarias como un órgano de
+planificación, asesoramiento y coordinación en materia cartográfica y de sistemas de
+información geográfica en el ámbito de la Comunidad Autónoma de Canarias y remite a
+desarrollo reglamentario su organización y el régimen de funcionamiento.
+Después de varias décadas desde la creación del Consejo Cartográfico de Canarias
+realizada por el actualmente derogado Decreto 125/1994, de 1 de julio, el ámbito de la
+información geográfica ha experimentado una profunda transformación por lo que el
+Consejo necesita una norma que regule internamente su funcionamiento, establezca las
+bases de la relación entre las administraciones en materia cartográfica y contribuya al
+impulso del Sistema de Información Territorial de Canarias (en adelante, SITCAN) que, bajo
+la tutela del propio Consejo Cartográfico de Canarias, la disposición adicional séptima de la
+Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias,
+recoge como el sistema de información geográfico de las administraciones públicas de la
+Comunidad Autónoma de Canarias en el que se desarrollarán y/o consolidarán instrumentos
+tales como:
+- el Plan Cartográfico de Canarias,
+- la Cartografía Oficial de Canarias,
+- el Registro Cartográfico de Canarias,
+- la Infraestructura de Datos Espaciales de Canarias (IDECanarias),
+- el Nomenclátor Geográfico de Canarias y
+- la Red Geodésica Activa de Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24741 Viernes 3 de julio de 2026
+Por ello, se hace imprescindible definir la composición del Consejo Cartográfico de
+Canarias como órgano asesor, de coordinación y planificación estratégica en materia de
+información geográfica, y como garante de la calidad, normalización y disponibilidad de
+los datos cartográficos producidos en el ámbito de la Comunidad Autónoma. Y, a su vez,
+iniciar el camino para que el Gobierno de Canarias cuente con un sistema de información
+territorial de amplia implantación y uso generalizado, acorde con los requerimientos
+normativos autonómicos, estatales y europeos, sensible a unas tecnologías de la información
+en continua evolución y acorde a una ciudadanía que demanda información que le interesa,
+que deberá suministrarse bajo la tutela de este órgano de supervisión.
+La Comunidad Autónoma de Canarias tiene la competencia exclusiva en materia de
+ordenación del territorio, tal y como han dispuesto las sucesivas redacciones de su Estatuto
+de Autonomía (en la actualidad, recogida en el artículo 156 de la Ley Orgánica 1/2018,
+de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias), y por tal razón ha
+venido desarrollando, desde 1994, un importante esfuerzo inversor y planificador en materia de
+cartografía e información espacial georreferenciada. Por otra parte, el artículo 61.1 del
+Estatuto de Autonomía de Canarias dispone que a la Comunidad Autónoma de Canarias le
+corresponde la organización de su propia Administración Pública, de conformidad con el
+propio Estatuto y las leyes, que responderá a los principios de eficacia, economía, máxima
+proximidad a los ciudadanos y atención al hecho insular. En sintonía con lo anterior, el
+artículo 104 del Estatuto de Autonomía de Canarias atribuye a la Comunidad Autónoma
+de Canarias la competencia exclusiva para establecer la organización y el régimen de
+funcionamiento de su Administración, sin perjuicio de lo dispuesto en el artículo 149.1.18.ª
+de la Constitución.
+Las modificaciones legislativas y estructurales introducidas por la Ley 4/2017, de 13 de
+julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, hacen necesaria la
+adaptación de la organización, composición y funcionamiento del Consejo Cartográfico de
+Canarias.
+La Consejería de Política Territorial, Cohesión Territorial y Aguas, en virtud del
+artículo 8 del Decreto 41/2023, de 14 de julio, del Presidente, por el que se determinan
+las competencias de la Presidencia y Vicepresidencia, así como el número, denominación,
+competencias y orden de precedencia de las Consejerías, asume las competencias en
+materia de ordenación del territorio e información geográfica que anteriormente ostentaba
+la Consejería de Transición Ecológica, Lucha contra el Cambio Climático y Planificación
+Territorial, siendo el departamento de la Administración Pública de la Comunidad
+Autónoma de Canarias encargado de las propuestas y ejecución de directrices y la política
+del Gobierno de Canarias en estas materias, de conformidad con el Reglamento Orgánico
+de la Consejería de Política Territorial, Cohesión Territorial y Aguas, aprobado por Decreto
+28/2025, de 7 de abril.
+El presente Decreto se compone de un artículo único, una disposición adicional, tres
+disposiciones finales y un anexo con el Reglamento del Consejo Cartográfico de Canarias. El
+Reglamento se compone de tres Capítulos que regulan las funciones del órgano colegiado,
+así como la organización y funcionamiento tanto del Pleno, la Comisión Permanente y
+las comisiones especializadas para asistencia técnica. Esta estructura permite una gestión
+eficiente de las funciones cartográficas de la Comunidad Autónoma tales como promover
+estudios sobre necesidades cartográficas, proponer normas y el Nomenclátor Geográfico, y
+asesorar a las Administraciones públicas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24742 Viernes 3 de julio de 2026
+El Pleno del Consejo está compuesto por la Presidencia, la Vicepresidencia y por
+vocalías en representación de diversas administraciones y personas representantes de
+universidades. Esta diversidad asegura una representación amplia en la toma de decisiones.
+Por su parte, la Comisión Permanente tiene un régimen común con el del Pleno en
+cuanto a convocatorias y adopción de acuerdos. Su función, con carácter general, es
+preparar y estudiar asuntos específicos del Pleno.
+Además, se pueden constituir comisiones especializadas para el análisis de asuntos
+concretos, compuestas por la Presidencia, la Secretaría y vocalías integradas por personas
+expertas en la materia. Estas comisiones ayudan en la elaboración de propuestas y estudios
+técnicos.
+El Consejo Cartográfico, por tanto, es esencial para garantizar una gestión eficiente,
+coordinada y de calidad de la información geográfica y cartográfica, lo que contribuye
+al desarrollo sostenible, la planificación territorial y la toma de decisiones informadas en
+Canarias.
+El presente Decreto se adecúa a los principios de buena regulación que se contemplan
+en el artículo 129.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y que son los principios de necesidad, eficacia,
+proporcionalidad, seguridad jurídica, transparencia y eficiencia. En similares términos se
+pronuncian los artículos 66.2 y 80.5 de la Ley 4/2023, de 23 de marzo, de la Presidencia y
+del Gobierno de Canarias, respecto de la adecuación a los principios de buena regulación,
+en el preámbulo de los proyectos de reglamento.
+La adecuación a los principios de necesidad y de eficacia se fundamenta en que da
+cumplimiento a las previsiones contenidas en la Ley 4/2017, de 13 de julio, del Suelo y
+de los Espacios Naturales Protegidos de Canarias, que remite a norma reglamentaria la
+concreción de la organización y el régimen de funcionamiento del Consejo.
+La adecuación a los principios de proporcionalidad y eficiencia queda de manifiesto en
+que se ha buscado una regulación clara y concisa de la organización y el funcionamiento,
+sin restringir derechos de la ciudadanía ni imponerles obligaciones directas de ningún tipo
+y su aplicación permite llevar a cabo una organización racional coherente de los recursos
+existentes.
+Igualmente se ajusta a los principios de seguridad jurídica y transparencia, siendo
+coherente con el resto del ordenamiento jurídico, y genera un marco normativo estable,
+predecible, integrado, claro y de certidumbre, que facilite su conocimiento y comprensión
+y, en consecuencia, la actuación y toma de decisiones.
+En cuanto a la redacción del presente Decreto, y por lo que respecta a la igualdad de
+género y de expresión de género, se ha dado cumplimiento, respectivamente, a la Ley
+1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley 2/2021,
+de 7 de junio, de igualdad social y no discriminación por razón de identidad de género,
+expresión de género y características sexuales. Esta disposición, por tanto, no contempla ni
+prevé condiciones discriminatorias que supongan impacto negativo alguno en la igualdad
+de género, ni afecta negativamente a la igualdad y no discriminación por razón de la
+identidad y expresión de género o de las características sexuales.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24743 Viernes 3 de julio de 2026
+Este Decreto se aprueba en el marco de lo dispuesto en los artículos 28.d) y 76.1 de la
+Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias, que atribuye al
+Gobierno la competencia de ejercer la potestad reglamentaria, en los términos establecidos
+en el Estatuto de Autonomía, en dicha ley y en el resto del ordenamiento jurídico.
+Conforme dispone el artículo 27.4 de la Ley 14/1990, de 26 de julio, de Régimen
+Jurídico de las Administraciones Públicas de Canarias, corresponde al Gobierno de Canarias
+la creación, organización y funcionamiento de los órganos colegiados de la Administración
+pública autonómica, a los que se atribuyen competencias decisorias, de propuesta o
+informes preceptivos, así como de seguimiento o control de órganos administrativos y,
+según el artículo 29.2 del Decreto 212/1991, de 11 de septiembre, de organización de los
+Departamentos de la Administración Autonómica de Canarias, estos órganos deben figurar
+en los reglamentos orgánicos de los Departamentos.
+En su virtud, a propuesta conjunta de la Consejera de Presidencia, Administraciones
+Públicas, Justicia y Seguridad y del Consejero de Política Territorial, Cohesión Territorial y
+Aguas, visto el Dictamen n.º 208/2026, de 3 de junio, del Consejo Consultivo de Canarias,
+y previa deliberación del Gobierno en su reunión celebrada el día 29 de junio de 2026,
+DISPONGO:
+Artículo único.- Aprobación del Reglamento del Consejo Cartográfico de
+Canarias.
+Se aprueba el Reglamento del Consejo Cartográfico de Canarias, cuyo texto figura
+como anexo al presente Decreto.
+Disposición adicional única.- Indemnizaciones por razón de servicio.
+Los miembros del Consejo Cartográfico de Canarias, así como las personas expertas que
+sean requeridas para la asistencia a sus reuniones, tendrán derecho a las indemnizaciones que
+correspondan con sujeción al régimen establecido por la normativa de indemnizaciones por
+razón del servicio de la Administración Pública de la Comunidad Autónoma de Canarias.
+A estos efectos, quedarán encuadradas en la categoría 2.ª, cuando asistan a las sesiones
+del Pleno, y en la categoría 3.ª, cuando asistan a las sesiones de la Comisión Permanente
+y de las Comisiones Especializadas, del Reglamento de Indemnizaciones por razón del
+servicio, aprobado por Decreto 251/1997, de 30 de septiembre, o norma que lo sustituya.
+Disposición final primera.- Modificación del Reglamento Orgánico de la Consejería
+de Política Territorial, Cohesión Territorial y Aguas, aprobado por Decreto 28/2025,
+de 7 de abril.
+Uno. Se da nueva redacción al apartado 2 del artículo 40 del Reglamento Orgánico de
+la Consejería de Política Territorial, Cohesión Territorial y Aguas, con el siguiente tenor:
+“2. El Consejo Cartográfico de Canarias se regirá, en cuanto a sus funciones,
+organización y funcionamiento, por su propio Reglamento”.
+Dos. Se suprime el apartado 3 del artículo 40 del Reglamento Orgánico de la Consejería
+de Política Territorial, Cohesión Territorial y Aguas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24744 Viernes 3 de julio de 2026
+Disposición final segunda.- Ejecución y cumplimiento.
+Se faculta a la persona titular de la Consejería competente en materia cartográfica para
+dictar las disposiciones que sean necesarias para la ejecución y cumplimiento del presente
+Decreto.
+Disposición final tercera.- Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín
+Oficial de Canarias.
+Dado en Canarias, a 29 de junio de 2026.
+EL PRESIDENTE
+DEL GOBIERNO,
+Fernando Clavijo Batlle.
+LA CONSEJERA DE PRESIDENCIA, EL CONSEJERO DE POLÍTICA TERRITORIAL,
+ADMINISTRACIONES PÚBLICAS, COHESIÓN TERRITORIAL Y AGUAS,
+JUSTICIA Y SEGURIDAD, Manuel Miranda Medina.
+Nieves Lady Barreto Hernández.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24745 Viernes 3 de julio de 2026
+ANEXO
+REGLAMENTO DEL CONSEJO CARTOGRÁFICO DE CANARIAS
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1.- Naturaleza y adscripción del Consejo Cartográfico de Canarias.
+1. El Consejo Cartográfico de Canarias es el órgano colegiado de la Consejería
+competente en materia de ordenación del territorio y urbanística del Gobierno de Canarias
+para la planificación, asesoramiento y coordinación en materia cartográfica y de sistemas
+de información geográfica en el ámbito de la Comunidad Autónoma de Canarias.
+2. El Consejo Cartográfico de Canarias se integra en el Sistema de Información
+Territorial de Canarias, regulado por la disposición adicional séptima de la Ley 4/2017, de
+13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias, o norma que la
+sustituya.
+Artículo 2.- Funciones del Consejo Cartográfico de Canarias.
+Se atribuyen al Consejo Cartográfico de Canarias las siguientes funciones:
+a) Realizar los estudios destinados a determinar las necesidades cartográficas de las
+Administraciones Públicas canarias, y su financiación, proponiendo al Consejero o Consejera
+competente en materia de ordenación del territorio el Plan Cartográfico de Canarias, en
+coordinación y desarrollo del Plan Cartográfico Nacional, para su elevación al Gobierno de
+Canarias.
+b) Elaborar y promover, para su aprobación por el Gobierno de Canarias, las normas
+cartográficas que sirvan de base común para la realización de todo tipo de trabajos sobre el
+territorio del Archipiélago que utilicen la cartografía como soporte básico de información.
+c) Realizar los estudios necesarios para la creación del Registro Cartográfico de
+Canarias que, coordinado con el Registro Central de Cartografía, será el responsable de
+formar, corregir y actualizar las bases de datos cartográficos que se efectúen, así como de
+toda la información sectorial que se vaya incorporando al soporte básico territorial.
+d) Realizar los programas cartográficos en los que deberán incorporarse las
+determinaciones expresas derivadas del Plan Cartográfico de Canarias.
+e) Promover, dirigir, coordinar y, en su caso, centralizar la actividad cartográfica de las
+distintas Administraciones Públicas canarias.
+f) Promover la aprobación en materia cartográfica de las bases técnicas y jurídicas
+del régimen de actuación con otros organismos públicos y privados, tanto de las
+Administraciones Públicas canarias como de la Administración General del Estado o de
+otras Comunidades Autónomas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24746 Viernes 3 de julio de 2026
+g) Promover la normalización metodológica para la actividad cartográfica de la
+Comunidad Autónoma de Canarias, coordinando esta con la estatal.
+h) Promover la mayor difusión de la información cartográfica del territorio total o parcial
+de Canarias, facilitando la utilización de soportes cartográficos básicos normalizados de las
+Administraciones y ciudadanos.
+Artículo 3.- Memoria de actividades anual.
+El Consejo Cartográfico de Canarias aprobará, dentro del primer trimestre de cada año,
+una memoria anual de las actividades desarrolladas durante el año anterior.
+CAPÍTULO II
+ORGANIZACIÓN
+Artículo 4.- Estructura del Consejo.
+1. El Consejo Cartográfico de Canarias se estructura en los órganos siguientes:
+A) Órganos de dirección de las políticas de planificación, asesoramiento y coordinación:
+1.º) Pleno.
+2.º) Comisión Permanente.
+B) Órganos de asistencia técnica de los órganos de dirección: Comisiones
+Especializadas.
+2. Con carácter general, la composición de estos órganos deberá respetar el principio
+de representación equilibrada de mujeres y hombres, en los términos establecidos en el
+artículo 12.2 de la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y
+Hombres, o norma que la sustituya.
+Artículo 5.- Composición del Pleno.
+1. El Pleno del Consejo Cartográfico de Canarias estará compuesto por los siguientes
+miembros:
+a) La Presidencia: la ostentará la persona titular de la Consejería competente en materia
+de ordenación del territorio.
+b) La Vicepresidencia: la ostentará la persona titular de la Viceconsejería o, en su
+defecto, de la Dirección General competente en materia de ordenación del territorio.
+c) Vocalías:
+1.º) La persona titular de la Viceconsejería o, en su defecto, de la Dirección General
+competente en materia de infraestructuras viarias y de transporte.
+2.º) La persona titular de la Dirección General competente en materia de ordenación del
+territorio, cuando no ostente la Vicepresidencia.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24747 Viernes 3 de julio de 2026
+3.º) La persona titular de la Dirección General competente en materia de medio
+ambiente.
+4.º) La persona titular de la dirección del Instituto Canario de Estadística.
+5.º) Dos personas representantes de los Cabildos Insulares, designadas por la Federación
+Canaria de Islas (FECAI).
+6.º) Tres personas representantes de los Ayuntamientos canarios, designadas por la
+Federación Canaria de Municipios (FECAM).
+7.º) Dos personas representantes de la Administración General del Estado, pertenecientes a
+organismos con competencia cartográfica.
+8.º) Ocho personas empleadas públicas con responsabilidad en materia cartográfica
+correspondientes a las Consejerías del Gobierno de Canarias competentes en materia
+de protección civil, ordenación del territorio, aguas, medio ambiente, agricultura, obras
+públicas, telecomunicaciones y tributos, designadas por la persona titular de la Consejería
+correspondiente.
+9.º) La persona que desempeñe la gerencia o dirección de la sociedad pública mercantil
+de titularidad autonómica cuyo objeto sea la elaboración de cartografía, si existiera.
+10.º) Una persona representante de cada una de las Universidades públicas de Canarias
+con conocimientos en el campo de la información geográfica o la cartografía.
+11.º) La Secretaría, con voz, pero sin voto.
+2. Por cada una de las Vocalías del Pleno, así como para la Vicepresidencia, deberá
+designarse una persona suplente que les sustituya en caso de vacante, ausencia o enfermedad
+u otra causa legal que imposibilite la asistencia.
+3. Cuando el orden del día del Pleno incluya algún asunto promovido o tramitado por
+una Corporación local o insular, podrá ser convocado, con voz, pero sin voto, la persona
+titular de la presidencia de aquella Corporación.
+4. La Presidencia podrá invitar a las sesiones del Pleno a las personas o instituciones
+que estime conveniente para el mejor asesoramiento de dicho órgano, que asistirán con voz,
+pero sin voto.
+Artículo 6.- Funciones del Pleno.
+1. Corresponden al Pleno las propuestas que, en relación con el ámbito funcional del
+Consejo, deban ser elevadas al Gobierno de Canarias, así como aprobar las normas internas
+de funcionamiento del Consejo.
+2. Asimismo, corresponde al Pleno aprobar la memoria anual de actividades.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24748 Viernes 3 de julio de 2026
+Artículo 7.- Comisión Permanente.
+1. La Comisión Permanente, presidida por la Vicepresidencia del Pleno, estará
+compuesta por los siguientes miembros del Pleno:
+a) La persona titular de la Dirección General competente en materia de ordenación del
+territorio, cuando no ostente la Vicepresidencia del Pleno.
+b) La persona titular de la Dirección General competente en materia de medio
+ambiente.
+c) La persona que desempeñe la gerencia o dirección de la sociedad pública mercantil
+de titularidad autonómica cuyo objeto sea la elaboración de cartografía, si existiera.
+d) Tres de las ocho personas empleadas públicas referidas en el artículo 5.1.c).8.º) del
+presente Reglamento, elegidas por el Pleno.
+e) Una de las personas representantes de la Administración General del Estado
+pertenecientes a organismos con competencia en materia cartográfica, elegida por el Pleno.
+f) Una persona representante de los Cabildos, elegida por el Pleno.
+g) Una persona representante de los Ayuntamientos, elegida por el Pleno.
+h) La Secretaría del Pleno.
+2. En los casos señalados en las letras e), f) y g) del apartado anterior, será oída
+previamente por el Pleno la entidad representada.
+Artículo 8.- Funciones de la Comisión Permanente.
+Corresponde a la Comisión Permanente el estudio, preparación e impulso de los asuntos
+propios de las funciones atribuidas al Pleno. También le corresponden las propuestas
+que no sean de la competencia de aquel y las que, por razones de urgencia debidamente
+acreditadas, exijan una decisión inmediata, dando cuenta al primer Pleno que se celebre, o
+las que le delegue expresamente el Pleno.
+Artículo 9.- De la Presidencia y sus funciones.
+1. Corresponden a la Presidencia del Pleno del Consejo Cartográfico de Canarias las
+siguientes funciones:
+a) Representar al Consejo Cartográfico de Canarias.
+b) Convocar las sesiones y fijar el orden del día.
+c) Presidir las sesiones, dirigiendo sus deliberaciones y votaciones.
+d) Asignar las ponencias a sus miembros.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24749 Viernes 3 de julio de 2026
+e) Dirimir con voto de calidad los empates en las votaciones.
+f) Solicitar informes técnicos y jurídicos para el mejor asesoramiento de los miembros.
+g) Adoptar cuantos actos sean procedentes para asegurar la efectividad y ejecución de
+los acuerdos.
+h) Visar las actas y certificaciones de los acuerdos.
+i) Las demás inherentes a la presidencia del órgano.
+2. Corresponden a la Presidencia de la Comisión Permanente, respecto de este órgano,
+las funciones previstas en el apartado anterior, salvo la señalada en la letra a).
+Artículo 10.- De las funciones de la Vicepresidencia del Pleno.
+Corresponde a la Vicepresidencia del Pleno:
+a) Presidir la Comisión Permanente.
+b) Sustituir a la Presidencia del Pleno en los casos de vacante, ausencia o enfermedad
+u otra causa legal.
+c) Aquellas funciones que expresamente le delegue la Presidencia.
+Artículo 11.- De las funciones de las vocalías del Pleno y de la Comisión Permanente.
+Las vocalías del Pleno y de la Comisión Permanente del Consejo tienen las siguientes
+atribuciones:
+a) Asistir a las sesiones del Pleno y de la Comisión Permanente del Consejo.
+b) Examinar la documentación relativa a los asuntos a tratar.
+c) Recabar de la persona ponente, o de cualquier representante técnico presente en la
+sesión, las aclaraciones o explicaciones que estime necesarias para un mejor conocimiento
+de los asuntos examinados, sin perjuicio de la información documental que sobre cada
+asunto se pondrá a su disposición desde la correspondiente convocatoria.
+d) Intervenir en las deliberaciones y participar, en su caso, en la votación de acuerdos.
+e) Las demás inherentes a las vocalías del Pleno y de la Comisión Permanente.
+Artículo 12.- Secretaría del Pleno y de la Comisión Permanente.
+1. La Secretaría del Pleno y de la Comisión Permanente del Consejo la ostentará una
+persona funcionaria adscrita a la Consejería competente en materia de ordenación del
+territorio, perteneciente al Grupo A, Subgrupo A1, preferentemente con licenciatura o
+grado en Derecho y categoría de jefatura de servicio, que designe la Presidencia del Pleno,
+con voz, pero sin voto.
+En caso de vacante, ausencia o enfermedad, la Secretaría será sustituida por otra persona
+funcionaria que reúna los mismos requisitos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24750 Viernes 3 de julio de 2026
+2. Corresponden a la Secretaría del Pleno y de la Comisión Permanente las siguientes
+funciones:
+a) Adoptar cuantos actos de trámite sean pertinentes para garantizar la corrección y
+regularidad de la documentación de los asuntos sometidos a la consideración del Pleno y de la
+Comisión Permanente, procediendo a su devolución para que se cumplimenten los requisitos
+o trámites omitidos o defectuosos, con suspensión del plazo establecido para resolver.
+b) Efectuar por orden de la Presidencia la convocatoria de las sesiones del Pleno y la
+Comisión Permanente, así como las citaciones a los miembros de los referidos órganos.
+c) Preparar y despachar los asuntos sometidos o que deban someterse a la consideración
+del Pleno o de la Comisión Permanente.
+d) Recibir y dar trámite a las comunicaciones, notificaciones o cualquier otra clase de
+escritos dirigidos a cualquier órgano del Consejo.
+e) Redactar, autorizar y custodiar las actas de las sesiones.
+f) Notificar los acuerdos adoptados por el Pleno o la Comisión Permanente.
+g) Poner a disposición de las personas integrantes del Pleno y de la Comisión Permanente
+la documentación correspondiente a los asuntos incluidos en el orden del día.
+h) Asistir a las reuniones del Pleno y de la Comisión Permanente, con voz y sin voto.
+i) Expedir certificaciones sobre los acuerdos y datos contenidos en las actas del Pleno
+y de la Comisión Permanente.
+j) Las demás inherentes a la Secretaría del Pleno y de la Comisión Permanente.
+Artículo 13.- Constitución de Comisiones Especializadas.
+Se podrán constituir por la Comisión Permanente comisiones especializadas para el
+análisis y propuesta sobre asuntos concretos, a propuesta de su Presidencia y por mayoría
+absoluta del número legal de miembros de la misma.
+Artículo 14.- Composición.
+1. Cada una de las comisiones especializadas estará integrada por los siguientes
+miembros:
+a) La Presidencia.
+b) Vocalías: un mínimo de tres personas expertas en la materia de que se trate y un
+máximo de cinco.
+c) La Secretaría.
+2. La Presidencia de cada Comisión será una persona perteneciente a una vocalía de la
+Comisión Permanente, siendo designada por esta.
+3. Las vocalías serán designadas por la Comisión Permanente.
+4. La Secretaría será elegida por la Comisión Permanente entre las personas
+pertenecientes a una vocalía que tengan la condición de persona empleada pública.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24751 Viernes 3 de julio de 2026
+CAPÍTULO III
+RÉGIMEN DE FUNCIONAMIENTO
+Sección 1.ª
+Normas de carácter general
+Artículo 15.- Régimen de funcionamiento.
+En lo no previsto expresamente en la legislación estatal o autonómica aplicables en
+materia de órganos colegiados, o por el presente Reglamento, el régimen de funcionamiento
+del Consejo Cartográfico de Canarias se regirá por lo dispuesto en las normas internas que
+se aprueben o, en su defecto, por la normativa estatal no básica.
+Artículo 16.- Convocatoria.
+1. Las sesiones serán convocadas por la Presidencia o quien le sustituya.
+2. La convocatoria se realizará con una antelación mínima de tres días hábiles, salvo
+en los casos de urgencia, apreciada por la Presidencia, en que bastará una antelación de
+veinticuatro horas.
+3. La citación para la convocatoria será cursada por la Secretaría, en nombre de la
+Presidencia, incluyendo el orden del día y el lugar, día y hora de celebración en primera y
+segunda convocatoria.
+4. Junto con la convocatoria, se remitirán los expedientes relativos a los asuntos a tratar
+y el acta o actas de las sesiones anteriores.
+5. La notificación de la convocatoria podrá hacerse por cualquier medio que permita
+tener constancia de su recepción por el órgano o persona destinataria.
+6. El orden del día será determinado por la Presidencia, al fijar la convocatoria,
+pudiendo, no obstante, ser modificado por motivos de urgencia, debiendo notificarse la
+modificación con una antelación mínima de veinticuatro horas.
+7. Podrán asistir por medios electrónicos los miembros, o quienes los sustituyan,
+debiendo acreditarse la asistencia de forma fehaciente y continua durante la reunión.
+Artículo 17.- Preparación de asuntos.
+1. Corresponde a la Secretaría la preparación del despacho de los asuntos que hayan
+de someterse a valoración, salvo aquellos que, por resolución motivada de la Presidencia,
+hayan de someterse directamente al Pleno, a la Comisión Permanente o a las Comisiones
+especializadas.
+2. La preparación de los asuntos consistirá en la elaboración de un borrador de informe-
+propuesta sobre cada asunto a tratar.
+3. La documentación deberá aportarse en formato electrónico, ordenada y numerada y
+el expediente administrativo constará del correspondiente índice.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24752 Viernes 3 de julio de 2026
+Artículo 18.- Régimen de adopción de acuerdos.
+1. Abierta la sesión por la Presidencia, se procederá, en su caso, a la aprobación del acta
+de la última sesión celebrada.
+En ningún caso podrá modificarse el fondo de los acuerdos adoptados y solo cabrá
+subsanar los meros errores materiales o de hecho. Al reseñar en cada acta de una sesión
+la lectura y aprobación de la anterior, se consignarán las observaciones y rectificaciones
+practicadas.
+2. A continuación, se iniciará el examen y debate de los asuntos siguiendo el orden
+del día, con la lectura por la persona ponente, íntegra o en extracto, del informe-propuesta
+respectivo.
+3. Los miembros podrán solicitar la lectura íntegra de aquellas partes del expediente
+o del informe-propuesta que se consideren convenientes para la mejor comprensión del
+asunto. Tras la lectura, si nadie solicita la palabra, el asunto se someterá a votación.
+4. Si se promueve el debate, las intervenciones serán ordenadas por la Presidencia,
+conforme a las siguientes reglas:
+a) El debate se iniciará con una exposición y justificación de la propuesta a cargo de la
+persona ponente.
+b) A continuación, los miembros podrán intervenir en un primer turno.
+c) Si se solicitara por algún miembro, se procederá por la Presidencia a abrir un segundo
+turno de intervenciones, consumido el cual la Presidencia dará por terminada la discusión,
+que se cerrará con una intervención de la persona ponente en la que brevemente ratificará
+o modificará el informe-propuesta.
+d) Los miembros con derecho a voto podrán formular enmiendas al texto propuesto,
+con inclusión, en su caso, de un texto alternativo. En tales supuestos, se debatirán en primer
+lugar las enmiendas a la totalidad y posteriormente las enmiendas parciales.
+5. Terminado el debate, se someterá el asunto a votación.
+6. No obstante lo anterior, a propuesta de la Presidencia, podrá acordarse que uno o
+varios asuntos debatidos no se sometan a votación y queden sobre la mesa, incluyéndose
+en el orden del día de la siguiente sesión.
+7. A propuesta de la Presidencia, y con sujeción a los requisitos establecidos legalmente,
+podrá acordarse la alteración del orden del día de la sesión.
+8. En caso de que, previamente a la votación, todas las personas representantes de
+los Ayuntamientos y de los Cabildos Insulares, o todas las personas representantes de la
+Administración General del Estado, anuncien su intención de votar negativamente, el
+asunto podrá ser trasladado a la próxima sesión.
+9. Los acuerdos serán adoptados por mayoría simple.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24753 Viernes 3 de julio de 2026
+10. Cuando uno o más miembros con derecho a voto discrepen del criterio mayoritario
+adoptado, podrán presentar voto particular contra el acuerdo de la mayoría, debiendo hacerlo
+constar así antes de que se levante la sesión, pudiendo optar por manifestarlo oralmente en
+la sesión para su transcripción en el acta, o remitirlo por escrito a la Secretaría dentro de un
+plazo no superior a tres días hábiles contados a partir del día siguiente a la terminación de
+la sesión. Los votos particulares se incorporarán al acuerdo adoptado y serán notificados
+junto con este.
+Artículo 19.- De las actas.
+1. De cada sesión se levantará acta por la Secretaría, en la que se recogerán los nombres
+de las personas asistentes, el orden del día de la sesión, las circunstancias de lugar y tiempo
+de su celebración, los puntos principales de las deliberaciones, los acuerdos adoptados,
+número y sentido de los votos emitidos y su autoría.
+2. Los votos particulares se insertarán en el acta, si fueran formulados en la misma
+sesión o, en su defecto, se adicionarán al acta, si fueren remitidos en tiempo y forma,
+dentro de los tres días hábiles siguientes a la celebración de la sesión, sin perjuicio de su
+incorporación y notificación junto con el acuerdo adoptado.
+3. Las actas se aprobarán en la misma o en la siguiente sesión. La Secretaría, no
+obstante, podrá emitir certificación sobre los acuerdos adoptados, aun cuando no haya sido
+aprobada la correspondiente acta, haciendo constar dicha circunstancia en la certificación.
+Sección 2.ª
+Régimen específico
+Artículo 20.- Periodicidad de las sesiones del Pleno y de la Comisión Permanente.
+1. El Pleno se reunirá al menos una vez al año, sin perjuicio de que se reúna tantas
+veces como su Presidencia lo estime necesario o se solicite por la mayoría absoluta de las
+personas que lo integran con derecho a voto.
+2. La Comisión Permanente se reunirá, como mínimo, dos veces al año, sin perjuicio
+de otras sesiones convocadas por su Presidencia o cuando lo solicite la mayoría absoluta de
+las personas que la integran con derecho a voto.
+Artículo 21.- Quorum de constitución del Pleno.
+1. Para la válida constitución, en primera convocatoria, del Pleno será necesaria la
+presencia de la Presidencia y de la Secretaría, o quienes les sustituyan, y de la mitad de las
+personas que lo integran con derecho a voto.
+2. De no existir el quorum previsto en el apartado anterior para la constitución del
+Pleno, este podrá constituirse, en segunda convocatoria, transcurridos treinta minutos desde
+la hora señalada para la primera, siempre que estén presentes la Presidencia y la Secretaría,
+o quienes les sustituyan, y, al menos, seis de los restantes miembros con derecho a voto.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
+
+Boletín Oficial de Canarias núm. 133 24754 Viernes 3 de julio de 2026
+Artículo 22.- Quorum de constitución de la Comisión Permanente.
+1. Para la válida constitución, en primera convocatoria, de la Comisión Permanente
+será necesaria la presencia de la Presidencia y de la Secretaría, o quienes les sustituyan, y
+de la mitad de las personas que lo integran con derecho a voto.
+2. De no existir el quorum previsto en el apartado anterior para la constitución de
+la Comisión Permanente, esta podrá constituirse, en segunda convocatoria, transcurridos
+treinta minutos desde la hora señalada para la primera, siempre que estén presentes la
+Presidencia y la Secretaría, o quienes les sustituyan, y, al menos, tres de los restantes
+miembros con derecho a voto.
+Artículo 23.- Quorum de constitución de las Comisiones Especializadas.
+1. Para la válida constitución, en primera convocatoria, de las comisiones especializadas,
+será necesaria la presencia de la Presidencia y de la Secretaría, o quienes les sustituyan, y
+de la mitad de las personas que lo integran.
+2. De no existir el quorum previsto en el apartado anterior para la constitución de
+las comisiones especializadas, estas podrán constituirse, en segunda convocatoria,
+transcurridos treinta minutos desde la hora señalada para la primera, siempre que estén
+presentes la Presidencia y la Secretaría, o quienes les sustituyan, y, al menos, uno de los
+restantes miembros con derecho.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-133-2322
