@@ -1,0 +1,420 @@
+AÑO XLV Núm. 126 6 de julio de 2026 25845
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 25/06/2026, de la Dirección General de Calidad Ambiental, por la que se formula el informe de
+impacto ambiental del proyecto: Planta de tratamiento de residuos no peligrosos. (Expediente S478/2025/
+DG/00052), situado en el término municipal de Cuenca (Cuenca), cuya promotora es Gremios Coordinados
+Aranguren, SLU. [2026/5045]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental actualizada por el Real Decreto 445/2023, de 13 de junio, por el que se modifican los anexos
+I, II y III, concretamente, el grupo 9. Otros proyectos, b) Instalaciones de eliminación o valorización de residuos
+no incluidas en el anexo I, excepto eliminación o valorización de residuos propios no peligrosos en el lugar de
+producción.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental, de fecha julio de 2025, la actividad pretendida consiste en la ejecución y explotación
+de una planta de tratamiento de residuos no peligrosos asociada a las actividades desarrolladas por Gremios
+Coordinados Aranguren (GCA), destinada al tratamiento de residuos generados en trabajos de desatascos, limpieza
+de redes de saneamiento y vaciado de fosas sépticas, entre otros residuos no peligrosos vinculados al saneamiento
+urbano.
+La instalación proyectada se ubica en el Polígono Industrial “Carretera de Motilla”, calle Estrella número 83, en el
+término municipal de Cuenca, sobre la parcela con referencia catastral 5409710WK7350G0001OH. Las coordenadas
+UTM ETRS89 H30 son X: 575.350, 84; Y: 4.430.652, 45. El acceso a la parcela se realiza desde el km 133 de la
+carretera CM-220.
+El proyecto se desarrollará en el interior de una nave industrial existente propiedad de GCA, ubicada en el citado
+polígono industrial. La zona destinada al tratamiento ocupará aproximadamente 64 m² distribuidos en dos alturas,
+quedando separada del resto de instalaciones mediante tabiquería y cerramiento de panel sándwich hasta cubierta.
+La planta contará además con un portón de acceso independiente para las operaciones de descarga de residuos.
+Se ha optado por un tratamiento aerobio mediante contactor biológico rotativo (CBR), previo tratamiento de desbaste
+y separación sólido- líquido mediante decantación tamizado.
+Tanto los residuos inertes como los procedentes del proceso aerobio serán gestionados en un centro de tratamiento
+y eliminación de este tipo de residuos.
+Se estima que puedan acumularse hasta 120 t de residuo al año que, en función del residuo entrante, deberán
+gestionarse periódicamente con el código LER 200301 “Mezclas de residuos municipales”.
+La actividad cuenta con las siguientes zonas:
+– Zona de Recepción y Pretratamiento Sólido: Los vehículos cisterna descargan los residuos en un contenedor
+ranurado de 6 m³ de capacidad. Este equipo actúa como filtro mecánico, reteniendo sólidos de gran tamaño y
+arenas, permitiendo una deshidratación inicial por filtración laminar.
+– Unidad de Decantación Primaria: Consiste en una fosa séptica enterrada de 12 m³ dividida en dos cámaras. En
+ella se realizan procesos físicos de separación de sólidos sedimentables y flotantes, junto con una degradación
+anaerobia parcial de la fracción orgánica, reduciendo el volumen de lodos acumulados.
+
+AÑO XLV Núm. 126 6 de julio de 2026 25846
+– Sistema de Elevación e Impulso: Un pozo de bombeo de hormigón de 3 m³ recoge el efluente primario para elevar
+la cota hidráulica hacia las etapas posteriores del tratamiento.
+– Equipo de Tamizado: Se dispone un tamiz rotativo con una capacidad de tratamiento de 25 m³/h y una luz de
+paso inferior a 1 mm. Este equipo protege los procesos biológicos posteriores de posibles obstrucciones por fibras
+o partículas remanentes.
+– Depósito de Homogeneización: Ubicado en una estructura elevada, es un tanque de PRFV de 25 m³ de volumen.
+Su función es laminar las puntas de caudal derivadas de las descargas puntuales de los camiones, permitiendo una
+alimentación constante y regulada por gravedad hacia el reactor biológico.
+– Reactor Biológico (Biodisco): El núcleo del tratamiento es un Contactor Biológico Rotativo (CBR). El equipo consta
+de un material soporte que gira lentamente (1-2 rpm) semisumergido al 40%, facilitando que la biomasa bacteriana
+adherida alterne el contacto con el residuo y el aire. Esta tecnología destaca por su bajo consumo energético y alta
+estabilidad ante variaciones de carga. Los rendimientos ensayados alcanzan reducciones del 85-95% en DBO5 y
+del 80-90% en DQO.
+– Decantación Secundaria: Se emplea un decantador troncocónico de 5 m³ para asegurar la clarificación final del
+efluente, separando el fango biológico desprendido del reactor antes del vertido.
+– Arqueta de Control y Vertido: Situada a la salida de la nave, permite la toma de muestras periódicas y el control
+volumétrico del efluente para asegurar el cumplimiento del Reglamento del Servicio de Vertidos de Cuenca. Toda
+la instalación cuenta con pavimento impermeable de hormigón y una red perimetral de recogida de fluidos para
+prevenir contaminaciones accidentales.
+Segundo. Tramitación y consultas.
+El 2 de agosto de 2025, se reciben en la Dirección General de Economía Circular y Agenda 2030, la solicitud de
+inicio del procedimiento de Evaluación de Impacto Ambiental Simplificada del proyecto y el documento ambiental,
+dando cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El mismo 2 de agosto de 2025, el promotor presentó copia del resguardo de la tasa correspondiente según la Ley
+9/2012 de 29 de noviembre, de tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias.
+El 5 de septiembre de 2025, la Dirección de Economía Circular y Agenda 2030, en calidad de órgano sustantivo,
+da traslado de la documentación de inicio de evaluación ambiental del proyecto a la Dirección General de Calidad
+Ambiental, que actúa como órgano ambiental.
+El 27 de octubre de 2025, el órgano ambiental notificó al promotor del proyecto que la documentación presentada
+junto con la solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53
+de la citada Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas
+interesadas, con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones
+consultadas han sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las
+consultas formuladas):
+1. Delegación Provincial Consejería Hacienda, Administraciones Públicas y Transformación Digital Cuenca - Servicio
+Protección Ciudadana Cuenca
+2. Delegación Provincial de Sanidad en Cuenca - Servicio Salud Pública Cuenca (*)
+3. Infraestructuras del Agua de Castilla-La Mancha (*)
+4. Agencia del Agua de Castilla-La Mancha - Servicio Provincial de la Agencia del Agua en Cuenca (*)
+5. Asoc Ecología y Libertad (*)
+6. Asociación para la Defensa de la Naturaleza WWF/Adena
+7. Sociedad Española de Ornitología
+8. Asociación Agrupación Naturalista Esparvel Cuenca
+9. Ecologistas en Acción-Cuenca
+10. Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio de Medio Natural de Cuenca (*)
+11. Delegación Provincial de Desarrollo Sostenible en Cuenca - Unidad de Coordinación Provincial de Agentes
+Medioambientales de Cuenca
+12. Delegación Provincial de Cuenca de la Consejería de Educación, Cultura y Deportes - Servicio Cultura Cuenca (*)
+13. Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio Calidad Ambiental Cuenca (*)
+14. Confederación Hidrográfica del Júcar (*)
+15. Ayuntamiento de Cuenca (*)
+
+AÑO XLV Núm. 126 6 de julio de 2026 25847
+Todos los informes recibidos se encuentran disponibles en el siguiente enlace de la aplicación Nevia:
+https://nevia.castillalamancha.es, buscando por el expediente S478/2025/DG/00052.
+Mediante escrito de 31 de mayo de 2026, se solicitó al titular información complementaria a la documentación
+presentada a fin de dar respuesta a los informes recibidos en la fase de consultas. Esta documentación fue aportada
+correctamente en tiempo y forma.
+Durante el trámite de consultas previas, se ha de destacar las alegaciones presentadas por la Asociación Ecología
+y Libertad plantea, emitidas con fecha 3 de noviembre de 2025, por un lado, que la actividad podría considerarse
+potencialmente insalubre debido al tratamiento de lodos, aguas residuales y residuos procedentes de fosas
+sépticas, señalando posibles riesgos asociados a emisiones odoríferas, aerosoles biológicos, gases, proliferación
+de patógenos y contaminación accidental de suelos o aguas. Asimismo, considera que la incertidumbre sobre estos
+posibles efectos justificaría la tramitación del procedimiento de evaluación ambiental ordinaria en aplicación del
+principio de precaución.
+No obstante, de acuerdo con la documentación aportada por el promotor, la actividad se desarrollará íntegramente
+en el interior de una nave industrial existente, sobre pavimento impermeable, disponiendo de sistemas de ventilación
+y evacuación de aire por cubierta, red de recogida de fluidos, control de vertidos mediante arqueta de muestreo
+y gestión de los residuos y fangos generados a través de gestor autorizado. Asimismo, la instalación se sitúa en
+suelo industrial y a una distancia significativa de núcleos habitados y espacios ambientalmente sensibles. Por ello,
+se considera que, aplicando las medidas preventivas y correctoras previstas, no se esperan molestias ni impactos
+ambientales significativos sobre la población ni sobre el medio ambiente.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Se espera gestionar 9 t/día de residuo de media, para un total de residuos gestionados en torno a 2.000 t/año, aunque
+la planta de tratamiento tendrá una capacidad mayor previendo futuras ampliaciones. No se prevé almacenamiento
+de ningún tipo de residuo, ya que los residuos inertes serán gestionados periódicamente.
+Los residuos a tratar corresponden a residuos no peligrosos incluidos en distintos códigos LER, entre los que se
+encuentran lodos de fosas sépticas y lodos procedentes del tratamiento de aguas residuales urbanas e industriales.
+En relación con los consumos energéticos, el documento únicamente señala que determinadas fases del tratamiento
+requieren equipos electromecánicos y consumo eléctrico, mientras que otras etapas, como la fosa séptica y parte de
+la línea hidráulica, han sido diseñadas para funcionar por gravedad y minimizar el consumo energético. Asimismo,
+se destaca que el sistema CBR presenta un bajo consumo energético respecto de otras tecnologías.
+El suministro de agua potable procede de la red municipal de Cuenca, siendo la demanda prevista entre 120 y 200
+m3. El consumo se estima mínimo, limitándose exclusivamente a usos domésticos de higiene persona y tareas de
+limpieza puntual de las superficies pavimentadas de la zona de proceso, sin demanda hídrica directa por parte del
+tratamiento biológico.
+En cuanto al consumo eléctrico, la instalación se conecta a la red de baja tensión del polígono industrial. El consumo
+eléctrico es reducido, destinado principalmente a la iluminación, el motor de giro del biodisco y las bombas de
+trasiego, aprovechando la eficiencia de los equipos electromecánicos de baja potencia instalados.
+Al ser una planta de tratamiento, el “producto” resultante es el agua depurada que se vierte directamente a la red
+de saneamiento municipal de Cuenca. Los residuos sólidos e inertes generados durante el proceso, así como los
+fangos procedentes del tratamiento biológico, serán gestionados mediante gestor autorizado en instalaciones de
+tratamiento adecuadas.
+
+AÑO XLV Núm. 126 6 de julio de 2026 25848
+La nave tiene cubierta que recoge las aguas pluviales y las conduce hacia el alcantarillado municipal a través de las
+conducciones internas, así como las zonas descubiertas, que tienen sumideros de recogida.
+Las aguas residuales depuradas, tras pasar por la arqueta de toma de muestras, se conducen al colector municipal
+para su tratamiento definitivo en la EDAR de Cuenca. Se garantiza el cumplimiento de parámetros rigurosos,
+cumpliendo con la normativa local.
+Se instalará un sistema de ventilación mediante conducciones de PVC hacia la cubierta, con altura suficiente para
+no provocar posibles molestias odoríferas, que renovará el aire del interior mediante extractor de acero inoxidable.
+3.2. Ubicación del proyecto.
+La instalación se ubicará en un polígono industrial, a una distancia aproximada de 1.725 metros del núcleo urbano
+más próximo, correspondiente a la pedanía de La Melgosa.
+En el entorno de la actuación se localizan diversos espacios y elementos de interés ambiental. A aproximadamente
+6 km se encuentran la Microrreserva Complejo Lagunar del río Moscas y el espacio perteneciente a la Red Natura
+2000 Complejo lagunar de Ballesteros y valle del río Moscas.
+Respecto a la hidrología superficial, el cauce más próximo corresponde al Barranco de la Azuela, situado a una
+distancia aproximada de 800 metros de la instalación proyectada.
+Asimismo, la Cañada Real Conquense se localiza a unos 3.200 metros. Por último, el Monte de Utilidad Pública
+Dehesa de la Melgosa se sitúa aproximadamente a 1.700 metros del emplazamiento previsto para la instalación.
+3.3. Características del potencial impacto.
+Los potenciales impactos (producción de ruido, olor, etc.) serán todos temporales y durarán mientras se desarrolle
+la actividad. Será fácilmente reversible a la situación previa, una vez esta finalice. La minimización de su efecto
+dependerá de la correcta aplicación de las medidas preventivas y correctoras derivadas de la evaluación de impacto
+ambiental del proyecto.
+El proyecto no parece contemplar afecciones negativas sobre el medio ambiente, al considerar que:
+a) No se prevé afección al Dominio Público Hidráulico ni a sus márgenes de protección, ya que el suelo donde se va
+a realizar la actividad se encuentra correctamente hormigonados y a una distancia suficiente de aguas superficiales.
+b) No se prevé afección a recursos naturales, en particular, no aparecen hábitats ni elementos geomorfológicos de
+protección especial.
+c) La actuación es compatible con la preservación de los montes de utilidad pública y vías pecuarias.
+d) La ubicación propuesta no se encuentra incluida dentro de las áreas protegidas previstas en la Ley 9/1999, de 26
+de mayo, de Conservación de la Naturaleza.
+e) La propia actividad a desarrollar se considera, desde un punto de vista global, beneficiosa, ya que la actividad
+principal consiste en la valorización de residuos.
+f) El proyecto se instalará en polígono industrial, donde no hay constancia de presencia de valores ambientales
+o recursos naturales. Al estar en zona completamente urbanizada y dotada de los servicios municipales
+correspondientes, en cuanto a vertidos, residuos y otros posibles contaminantes, que impiden que pudieran llegar
+al suelo o red hidrológica cercana.
+g) La actuación es compatible con la preservación del patrimonio cultural.
+h) En relación con las posibles molestias por olores, la actividad se desarrollará en una zona específicamente
+delimitada en el interior de una nave industrial existente, separada del resto de instalaciones mediante cerramiento
+de panel sándwich. Asimismo, parte de las unidades de tratamiento, como la fosa séptica de decantación primaria, se
+encuentran soterradas, lo que contribuye a reducir la emisión y dispersión de compuestos odoríferos. Adicionalmente,
+la instalación dispone de un sistema de ventilación mediante conducciones hasta cubierta diseñado para minimizar
+las posibles molestias por olores.
+Por otra parte, el emplazamiento se localiza en suelo industrial y a una distancia aproximada de 1.725 metros del
+núcleo urbano más próximo (La Melgosa), distancia que se considera suficiente para minimizar la afección sobre
+zonas residenciales. En este sentido, el Plan de Prevención y Gestión de Residuos de Castilla-La Mancha establece
+criterios de ubicación orientados a garantizar la compatibilidad de las instalaciones de gestión de residuos con los
+
+AÑO XLV Núm. 126 6 de julio de 2026 25849
+usos residenciales y la protección de la salud y del medio ambiente, fijando con carácter general distancias mínimas
+de 2.000 metros para determinadas instalaciones con potencial generación de olores. No obstante, también prevé
+la posibilidad de autorizar emplazamientos a menor distancia cuando se adopten medidas correctoras adicionales
+que garanticen la ausencia de afecciones. Considerando las características del proyecto, su implantación en una
+nave cerrada, las medidas de confinamiento y ventilación previstas y la distancia existente al núcleo habitado más
+próximo, no se prevé la generación de molestias significativas por olores sobre la población.
+Por todo ello, y dada la tipología de la actuación, el diseño en cuanto a su funcionamiento, la ubicación seleccionada
+y las medidas preventivas y correctoras aplicadas, se considera que el proyecto es compatible con la preservación
+de los factores ambientales, como son los recursos naturales, las áreas protegidas, bienes de dominio público,
+población y salud humana, siempre que se realice según señala la Documentación Ambiental y se incorporen los
+condicionantes marcados en la Resolución.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1.- Protección del suelo y del sistema hidrológico.
+En la memoria se indica que la nave donde se va a desarrollar la actividad se encuentra pavimentada, con equipos
+enterrados sobre losa de hormigón y sin vertidos al terreno, considerándose el riesgo de contaminación del suelo
+y/o acuíferos bajo, en base a lo planteado, debiéndose mantener el pavimento en adecuadas condiciones de
+mantenimiento, reparando de inmediato cualquier fisura o degradación que pueda permitir infiltraciones.
+Dentro del plan de vigilancia se incluirá la revisión periódica del estado de la impermeabilización de la fosa séptica,
+del depósito de regulación y homogeneización, y el pozo de bombeo de hormigón, que deberán contar con un plan
+de mantenimiento.
+Se adoptarán las medidas necesarias para evitar posible contaminación de aguas superficiales y subterráneas. Para
+ello, se revisará periódicamente los vehículos cisternas y maquinaria asociados a la gestión y tratamiento de los
+residuos no peligrosos.
+Además, se deberá asegurar que todas las operaciones de descarga y pretratamiento se realizan en áreas
+pavimentadas e impermeables con recogida a fosa y sin escorrentías al exterior, con sistemas de confinamiento de
+derrames.
+Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales susceptibles de
+contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente
+con la preceptiva autorización del Organismo cuenca.
+Por último, y de acuerdo con lo previsto en el artículo 3.1 del Real Decreto 9/2005, de 14 de enero, por el que se
+establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la
+declaración de suelos contaminados, la recogida y tratamiento de otros residuos están incluidos como actividades
+contaminantes del suelo en el Anexo I, considerando la Orden PRA/1080/2017, de 2 de noviembre, por la que se
+modifica en Anexo.
+Por este motivo, el titular deberá dar cumplimiento a las obligaciones establecidas en dicha normativa, en particular
+en lo relativo a la presentación del informe preliminar de situación del suelo ante la Dirección General competente en
+materia de calidad ambiental, con el alcance y contenido mínimo establecido en el Anexo II del Real Decreto 9/2005,
+en caso de que no haya sido previamente presentado o cuando proceda su actualización.
+4.2.- Protección a la atmósfera, calidad del aire y prevención del ruido.
+Para evitar la emisión de polvo y olores y reducir el impacto acústico de la actividad, además de las medidas
+contempladas en el Documento Ambiental presentado, se deberá tener en cuenta las siguientes:
+– Todas las operaciones de descarga, pretratamiento y tratamiento de residuos se realizarán en el interior de la nave,
+manteniendo cerrados los accesos durante el funcionamiento habitual de la instalación, salvo para las operaciones
+estrictamente necesarias de entrada y salida de vehículos.
+– Las instalaciones y equipos de tratamiento deberán mantenerse en adecuadas condiciones de limpieza y
+conservación, evitando acumulaciones de residuos, lodos o materia orgánica susceptible de generar olores.
+
+AÑO XLV Núm. 126 6 de julio de 2026 25850
+– En caso de detectarse molestias odoríferas en el entorno atribuibles a la actividad, el titular deberá adoptar
+medidas adicionales de minimización, tales como la mejora de los sistemas de captación y tratamiento del aire o
+cualquier otra solución técnicamente adecuada.
+La actividad a desarrollar está incluida en el ámbito de aplicación de la Ley 34/2007, de 15 de noviembre, de calidad
+del aire y protección de la atmósfera y del Real Decreto 100/2011, de 28 de enero, por el que se actualiza el Catálogo
+de Actividades Potencialmente Contaminantes de la Atmósfera (Capca) y se establece las disposiciones básicas
+para su aplicación.
+Puesto que la instalación está destinada a producción de compost, estaría recogida en el grupo B, código 09 10
+03 00. Según el artículo 13 de la Ley 34/2007 y el artículo 5 del Real Decreto, las actividades pertenecientes a
+los grupos A y B están sometidas a autorización administrativa. Dicho trámite será realizado a través de la unidad
+competente de la Dirección General de Calidad Ambiental.
+Con respecto a la contaminación acústica, y con carácter genérico, el promotor deberá adoptar las medidas y
+dispositivos en maquinaria y equipos utilizados en la actividad que disminuya al máximo los niveles de ruido y
+emisiones generados por estos. La máquina, a este respecto, estará al corriente de las revisiones que a tal efecto
+marque la normativa sectorial de aplicación.
+En materia de prevención acústica la actividad se dará cumplimiento a la Ordenanza Municipal de Prevención frente
+a la Contaminación Acústica (BOP número 142 de 15 de diciembre de 2010), en lo relativo al cumplimiento del art.
+161. donde se establecen los niveles sonoros límite de transmisión al medio ambiente exterior, para el caso de
+zonas industriales.
+4.3.- Producción y gestión de residuos.
+La gestión y manejo de la totalidad de residuos que se reciban en la instalación deberá cumplir en todo momento las
+prescripciones que vengan establecidas en la Resolución de la autorización de gestión de residuos, que actualmente
+el promotor tiene solicitada ante la Dirección General de Economía Circular y Agenda 2030, en virtud a lo dispuesto
+en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, así como el Plan de
+Prevención y Gestión de Residuos de Castilla-La Mancha (2023-2030), aprobado mediante el Decreto 35/2004, 2
+de julio.
+Aquellos propios residuos generados por el propio funcionamiento de la planta deberán ser gestionados debidamente
+según lo establecido en el condicionado de la autorización, y en todo caso, estarán sujeto a lo dispuesto en la Ley
+7/2022.
+Respecto a los residuos sólidos, fangos y otros residuos inertes retenidos en el pretratamiento se gestionarán
+adecuadamente priorizando jerarquía: prevención, reutilización, reciclaje, valorización energética y vertido controlado.
+Por último, la zona de almacenamiento de residuos peligrosos deberá cumplir con lo establecido en la Orden 21 de
+enero de 2003 de Consejería de Agricultura y Medio Ambiente, por la que se regulan las normas técnicas específicas
+que deben cumplir los almacenes y las instalaciones de transferencia de residuos peligrosos.
+4.4.- Protección urbanística del suelo y del patrimonio cultural.
+La actividad pretendida deberá ser compatible con los usos permitidos en la clase de suelo donde se quieren
+desarrollar, según las normas urbanísticas vigentes en el término municipal de Cuenca. A este respecto, el
+Ayuntamiento podrá incorporar los condicionantes que considere oportuno en el otorgamiento de la licencia de la
+actividad.
+Por otro lado, el Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deporte en Cuenca
+informa favorablemente el referido proyecto, no obstante, en el caso de que aparecieran restos arqueológicos/
+paleontológicos durante la ejecución del proyecto, se deberá actuar conforme a lo previsto en el artículo 44.1 de
+la Ley 16/1985 de Patrimonio Histórico Español y 52.4 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de
+Castilla-La Mancha (deber de comunicar a la Administración competente en materia de Patrimonio Cultural) para
+antes de continuar con la ejecución de dicho proyecto, garantizar su control arqueológico.
+
+AÑO XLV Núm. 126 6 de julio de 2026 25851
+4.5.- Control y gestión de vertidos a la red de saneamiento.
+La actividad pretendida generará un efluente depurado que verterá a la red de saneamiento municipal y, residuos
+sólidos (residuo inerte) que se enviará a gestor autorizado. En cumplimiento de la Ordenanza Municipal de Medio
+Ambiente (OMMA) (BOP núm 27 de 7 de marzo de 2001) en el municipio de Cuenca, la actividad se clasifica como
+usuario no doméstico, quedando obligada a:
+– Deberá contar al final de sus redes de saneamiento privadas, formando parte de las mismas y antes de su conexión
+a la red de alcantarillado público, con una estación de control compuesta por los siguientes elementos: Pozo de
+registro, de fácil acceso y libre de cualquier interferencia, antes de la conexión con la red de alcantarillado público,
+y elementos de control para la toma de muestras y medición de caudales (instalación de un medidor de caudal
+autonómico con registrador de datos). Dichos requerimientos vienen regulados en el artículo 201 de la OMMA.
+– El efluente previo a su vertido deberá cumplir con los límites regulados en el artículo 220 de la OMMA, que regula
+las concentraciones máximas de contaminantes permisibles en el vertido al alcantarillado municipal.
+– La actividad deberá implantar un sistema de regulación de caudal a la salida del depósito pulmón que evite puntas
+que puedan comprometer la capacidad hidráulica de la red municipal. Medidor de caudal automático con registrador.
+– Será preciso la instalación de un medidor de pH y conductividad en continuo, con un sistema de alarma ante
+posibles desviaciones.
+– Se deberá establecer un programa de autocontrol de la calidad del efluente vertido al saneamiento municipal con,
+al menos, análisis trimestrales de los parámetros principales (DBO, DQO, SS, pH, temperatura, aceites y grasas,
+metales y otros que se determine en el permiso de vertido), a costa del titular, remitiendo los resultados a Aguas de
+Cuenca y al servicio municipal competente para comprobación del cumplimiento del vertido.
+– Se dispondrá de un plan interno de emergencias que contemple riesgos de vertidos accidentales, fugas o mal
+funcionamiento de la planta, con procedimiento de comunicación inmediata a Aguas de Cuenca, como órgano
+responsable de la inspección y control de vertidos al alcantarillado municipal, y el Ayuntamiento de Cuenca.
+La actividad deberá solicitar permiso de vertido al alcantarillado municipal, ante el organismo municipal competente,
+esto es, Aguas de Cuenca, que es el encargado de los siguiente, tal y como viene regulado en el Reglamento
+del Servicio de Vertidos del municipio de Cuenca, que dice así: (...)El conjunto de atribuciones de la competencia
+municipal relativas al saneamiento, a excepción de las previstas en el siguiente apartado, serán desarrolladas
+por Aguas de Cuenca, así le quedan encomendadas las facultades de otorgar, denegar, suspender, extinguir las
+autorizaciones provisionales y definitivas de vertidos a la EDAR de Cuenca, según lo previsto en este Reglamento,
+las tareas de inspección, vigilancia, control y toma de muestras, y la gestión y cobro de la tarifa de vertido/depuración
+vigente. Corresponde al Ayuntamiento de Cuenca la potestad sancionadora y la clausura de vertidos no autorizados,
+así como la adopción de medidas provisionales, la exigencia de reparación de daños y la emisión de órdenes de
+restauración. Siendo Aguas de Cuenca, como ente instrumental del Ayuntamiento de Cuenca, quien desarrollará
+todas las fases procedimentales hasta su resolución(...).
+Por ello, será preciso contar con el permiso de vertido para la concesión de licencia de actividad de la planta de
+tratamiento.
+4.6.- Condicionantes sanitarios.
+Deberán de cumplirse en todo momento las disposiciones del Real Decreto 3/2023, de 10 de enero, por el que se
+establecen los criterios técnico- sanitarios de la calidad de agua de consumo, su control y suministro, por lo que
+respecta a los trabajadores durante las distintas fases de actuación.
+Durante el desarrollo de la actividad deberán observarse, en todo momento, las disposiciones de la Ley 31/1995,
+de prevención de riesgos laborales.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o
+de las medidas correctoras y compensatorias establecidas. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia. Cada informe deberá estar suscritos conjuntamente por el promotor
+
+AÑO XLV Núm. 126 6 de julio de 2026 25852
+y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre
+el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+– Control de la correcta gestión de todos los residuos que entran a la planta y que se generarán a lo largo del
+proceso, incidiendo en el cumplimiento de los criterios de admisión de residuos en planta, en el control documental
+(contratos con gestores autorizados), y en que la gestión efectuada sobre los residuos se adecua a lo especificado
+en las autorizaciones otorgadas y en la presente Resolución.
+– Control de la adecuada impermeabilización de la fosa séptica, del depósito de regulación y homogeneización, y
+el pozo de bombeo de hormigón.
+– Control del correcto estado de los vehículos cisternas y maquinaria asociada a la gestión y tratamiento de los
+residuos no peligrosos, para evitar posible contaminación de aguas superficiales y subterráneas.
+– Control del correcto estado de limpieza de las instalaciones y de las zonas de descarga y tratamiento, evitando
+acumulaciones de materia orgánica susceptibles de generar molestias odoríferas o favorecer la proliferación de
+vectores.
+– Seguimiento de la posible generación de olores asociados a la recepción, almacenamiento temporal y tratamiento
+de los residuos, prestando especial atención al correcto funcionamiento de las medidas de ventilación previstas y a
+la adopción de medidas correctoras en caso de detectarse incidencias o reclamaciones justificadas.
+– Vigilancia en la explotación del proyecto, para verificar que se están cumpliendo las condiciones del Documento
+Ambiental presentado y de la presente Resolución.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Dirección General de Calidad
+Ambiental:
+a) Antes del inicio de la actividad:
+– Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+– Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+– Acreditar la obtención de la correspondiente autorización de actividad potencialmente contaminadora de la
+atmósfera.
+– Contar con el permiso de vertido para la concesión de licencia de actividad de la planta de tratamiento.
+b) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cuatro primeros años de
+funcionamiento del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y
+vigilancia ambiental.
+
+AÑO XLV Núm. 126 6 de julio de 2026 25853
+c) Dentro de los dos primeros años desde el inicio de la actividad: Informe Preliminar de la Situación de Suelos de
+la Instalación (IPSS)
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Dirección General de Calidad Ambiental, en virtud del Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+resuelve que el proyecto “Planta de tratamiento de residuos no peligrosos” (Expediente S478/2025/DG/00052), no
+necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos
+en el medio ambiente, siempre que se cumplan las medidas ambientales y de seguimiento que propone el promotor
+y los requisitos ambientales que se desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Toledo, 25 de junio de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO
