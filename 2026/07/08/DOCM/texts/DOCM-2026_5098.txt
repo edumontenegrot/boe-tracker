@@ -1,0 +1,160 @@
+AÑO XLV Núm. 128 8 de julio de 2026 26247
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 30/06/2026, de la Dirección General de Transición Energética, sobre la modificación de
+autorización administrativa previa y de construcción de la subestación eléctrica transformadora SET El
+Llano 220/30 kV. Referencia: 2701/00124/ST-LLA. [2026/5098]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible de Cuenca y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia objeto de la presente resolución: 2701/00124/ST-LLA-A3 (DP: 162401-00065)
+- Peticionario: Parque Eólico Escepar, S.A. CIF: A45568680.
+- Documentación técnica:
+Adenda al Proyecto de ejecución denominado Proyecto modificado de la ampliación SET El Llano para hibridación
+con baterías FV Bolarque I, cuyo autor es el ingeniero industrial Borja de Carlos Gandasegui, colegiado n.º 527 del
+Colegio Oficial de Ingenieros Industriales de Navarra, con fecha de firma digital de la adenda y de la declaración
+responsable del técnico competente proyectista de 12/05/2026
+- Características principales de la modificación de las instalaciones: Modificación de la ampliación de la Subestación
+Transformadora (SET) 220/30 kV “El Llano”, ubicada en la parcela 89 del polígono 508 del término municipal de
+Villalba del Rey (Cuenca), para evacuar la energía generada por la hibridación con baterías de almacenamiento de
+la planta solar fotovoltaica Bolarque I a través del transformador TF-2 de 40/50 MVA 220/30 kV.
+La modificación consiste en el cambio de ubicación del centro de seccionamiento. Las coordenadas originales y las
+coordenadas finales correspondientes a esta modificación son:
+Coordenadas originales autorizadas Coordenadas finales tras modificación
+533465.63 4466996.83 533478.29 4466967.49
+533466.13 4466999.48 533480.95 4466966.99
+533471.92 4466998.39 533479.85 4466961.19
+533471.92 4466955.74 533477.20 4466961.69
+Además, se amplía el sistema de 30 kV correspondiente a las BESS en el CS con la instalación de una (1) nueva
+celda de MT de SSAA, en uno de los dos (2) espacios reservados y autorizados para futuras ampliaciones, para los
+SSAA requeridos por la instalación de baterías.
+Por último, se realiza una canalización subterránea, por donde discurrirán los circuitos, formados por tres (3) ternas
+de cable HEPRZ1 Al 18/30 kV de 500 mm2 de sección, para la interconexión y evacuación desde el CS hasta la sala
+de celdas de 30 kV existente de la planta solar fotovoltaica Bolarque I de la SET. Esta canalización discurre por el
+interior de la SET en la zona del parque intemperie.
+Nota: Las anteriores descripciones tienen carácter meramente indicativo. Para una descripción detallada de la
+misma se deberá acudir a la documentación técnica que se encuentra en el expediente.
+- Ubicación: Parcela 89 del polígono 508 del término municipal de Villalba del Rey (Cuenca).
+- Presupuesto total de ejecución material: 166.936,24 €
+- Finalidad: Evacuación de la energía generada por la hibridación con baterías de almacenamiento de la planta solar
+fotovoltaica Bolarque I.
+Antecedentes de hecho.
+Primero: La instalación de referencia se encuentra en funcionamiento y como titular consta la sociedad Parque
+Eólico Escepar, S.A.
+Segundo: Mediante resolución de 01/10/2021 de la Dirección General de Transición Energética (Ref.: 2701/00124/
+ST-LLA-A1), se otorgó autorización administrativa previa y de construcción de ampliación y reforma de la instalación
+de referencia a Parque Eólico Escepar, S.A.
+Tercero: Mediante resolución de 30/01/2025 de la Dirección General de Transición Energética (Ref.: 2701/00124/
+ST-LLA-A2), se otorgó autorización administrativa previa y de construcción de ampliación y reforma de la instalación
+de referencia a Parque Eólico Escepar, S.A.
+
+AÑO XLV Núm. 128 8 de julio de 2026 26248
+Cuarto: Con fecha 21/05/2026 Parque Eólico Escepar, S.A. presentó solicitud de autorización administrativa previa
+y de construcción de ampliación de las instalaciones de referencia. Además, fue adjuntada documentación técnica
+y adenda al documento privado de constitución de derecho de arrendamiento, firmado el 20 de julio de 2022 por
+ambas partes, arrendadora y arrendataria, para instalación de una subestación y otros extremos, donde se recoge
+que la arrendataria podrá disponer sin limitación alguna de la totalidad de la superficie de la parcela 89, polígono
+508 (denominada La Finca), objeto del arrendamiento, para el uso que la arrendataria considere pertinente para el
+desarrollo, instalación, construcción, mantenimiento, reparación, conservación, explotación y desmantelamiento de la
+subestación y sus infraestructuras y servidumbres de paso, pudiendo llevar a cabo nuevas afecciones, instalaciones
+y/u ocupaciones temporales y/o permanentes sobre La Finca.
+Quinto: Con fecha 25/06/2026 se consulta al Servicio de Calidad Ambiental para que dirima sobre la necesidad
+de someter la instalación a un procedimiento ambiental reglado como consecuencia de a la Ampliación SET El
+Llano para hibridación con baterías de la planta solar FV Bolarque I. Con fecha 27/05/2026 se recibe informe de
+contestación de ese Servicio (Ref. SLEE/2026/CU/01701) en el que se indica que estudiada la adenda al proyecto
+considera que la modificación efectuada no precisa la realización de un procedimiento reglado de evaluación de
+impacto ambiental. Se remite el informe al promotor para su conocimiento y efectos oportunos.
+Sexto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los procedimientos
+de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de Castilla-La Mancha
+y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las Administraciones públicas,
+organismos y, en su caso, empresas de servicio público o de servicios de interés general que fueron identificadas
+por el peticionario como bienes o servicios a su cargo afectadas por la modificación de la instalación. Las entidades
+consultadas, fueron las siguientes (contestan los marcados con *):
+- Ayuntamiento de Villalba del Rey. (*)
+En relación a las contestaciones realizadas por las AAPP y organismos afectados, y sobre aspectos que versan sobre
+la autorización administrativa, o del proyecto básico/construcción, se informa que las entidades que respondieron
+a la petición informaron favorablemente a la autorización y, en los casos en los que se estableció condicionado,
+éste se ha limitado al recordatorio de la legislación medioambiental o sectorial de aplicación, sin repercusión en el
+proyecto, y ha sido aceptado por el solicitante.
+Séptimo: La Delegación Provincial de Desarrollo Sostenible de Cuenca cumplió con lo establecido en la resolución
+de 03/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as
+delegados/as provinciales y elaboró con fecha 29/05/2026 informe favorable para la autorización administrativa
+previa y autorización administrativa de construcción de las instalaciones de referencia.
+Octavo: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción de las instalaciones de referencia.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y de construcción de este tipo de instalaciones según lo establecido en el Decreto 112/2023, de 25 de julio,
+por el que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y de construcción de
+la instalación y su tramitación se ha realizado según lo establecido en el Decreto 80/2007, de 19/06/2007, por el
+que se regulan los procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de
+Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y demás normativa de aplicación.
+En relación con el contenido del expediente indicar:
+A. Respecto a los anexos al proyecto presentados y que no se han sometido a información pública.
+No es necesario someterlos al trámite de información pública de acuerdo a lo contemplado en el artículo 13.3 del Decreto
+80/2007. Se recibe por parte del promotor acuerdo previo con el titular del bien y derecho afectado por la modificación.
+
+AÑO XLV Núm. 128 8 de julio de 2026 26249
+Además, las modificaciones no implican aumento de la potencia nominal. En base a lo dispuesto en la INSTRUCCIÓN
+2/2020 de la Dirección General de Transición Energética sobre el tratamiento de determinadas modificaciones de
+instalaciones de producción de energía eléctrica al no superarse el 5 % entendemos que no es necesario someter
+dicho anexo a información pública.
+B. Respecto del resto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020, de 29 de diciembre, de acceso y
+conexión a las redes de transporte y distribución de energía eléctrica; el Decreto 80/2007; la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación concordante
+de aplicación.
+En su virtud resuelve:
+Otorgar a Parque Eólico Escepar, S.A. la autorización administrativa previa y de construcción de las instalaciones
+eléctricas de referencia, de acuerdo al proyecto presentado, con las características anteriormente indicadas, sujeta
+a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se cumplirá lo establecido en el informe de 27/05/2026 (SLEE/2026/CU/01701) de la Delegación Provincial
+de Desarrollo Sostenible de Cuenca (Servicio de Calidad Ambiental), así como el resto de informes emitidos por el
+órgano ambiental, en el marco de lo dispuesto en la normativa básica aplicable y en la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha y demás normativa autonómica de aplicación.
+Sexta: Se concede un plazo de dos años, para la ejecución del proyecto a partir de la fecha de la presente resolución.
+Dicho plazo podrá ser ampliado previa solicitud motivada del titular.
+Séptima: El plazo indicado se encuentra condicionado por la vigencia del permiso de acceso y conexión.
+Novena: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+
+AÑO XLV Núm. 128 8 de julio de 2026 26250
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos recurrentes (o sus representantes) tenga
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es , código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 30 de junio de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
