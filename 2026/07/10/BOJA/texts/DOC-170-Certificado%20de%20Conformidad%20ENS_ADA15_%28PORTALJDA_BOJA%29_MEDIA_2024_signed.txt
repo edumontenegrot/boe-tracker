@@ -1,0 +1,177 @@
+CERTIFICADO DE CONFORMIDAD CON
+EL ESQUEMA NACIONAL DE SEGURIDAD
+Audertis Audit Services certifica que, de acuerdo con la declaración de aplicabilidad vigente, los sistemas
+de información reseñados, todos ellos de categoría MEDIA, y los servicios que se relacionan, de la
+organización pública
+AGENCIA DIGITAL DE ANDALUCÍA (ADA)
+con NIF: Q4100953A
+domiciliada en C/ Gonzalo Jiménez de Quesada, 2, 3ª
+0 Edificio Torre Sevilla, 41092, Sevilla
+7
+4
+5
+3
+6 7 han sido auditados y encontrados conforme a las exigencias del Real Decreto 311/2022, de 3 de mayo,
+8
+B
+:F
+- por el que se regula el Esquema Nacional de Seguridad en el ámbito de la Administración Electrónica,
+IN
+según se indica en el correspondiente Informe de Auditoría de fecha veintitrés de mayo del 2024 para:
+D
+IR
+D
+A
+M “Los sistemas de información gestionados por la Agencia Digital de Andalucía, que dan soporte a la Junta
+–
+6 de A ndalucía en lo que se refiere a:
+4
+0
+8 2 • Portal institucional de la Junta de Andalucía en Internet (PORTALJDA)
+)9
+2 • Punto de Acceso General Electrónico de la Administración de la Junta de Andalucía (PORTALJDA)
+a
+tn
+a • Sede electrónica general de la Administración de la Junta de Andalucía (PORTALJDA)
+lP
+,a • Sede electrónica del Boletín Oficial de la Junta de Andalucía (BOJA)"
+p
+o
+ru
+E
+e
+rro
+T
+o ic DESGLOSE DEL CUMPLIMIENTO GLOBAL DE LA CATEGORÍA
+ifid
+CATEGORÍA C I T A D Total de Medidas
+E
+(
+,5 MEDIA
+9
+a PORTALJDA Baja Media Baja Media Media 65
+n
+a
+lle BOJA Baja Media Baja Media Media 65
+ts
+a
+C
+a
+l
+e
+d
+º
+P
+2
+8
+8
+7
+8
+Número de certificado: CERT-ENS-24315
+3
+8
+1
+Fecha de certificación de conformidad: 26/05/2024
+9
+.le
+- Certificación válida hasta el: 26/05/2026
+se
+T Certificación inicial el: 26/05/2024
+.s
+itre
+d
+u
+a
+.w
+w
+w
+Certificado expedido digitalmente
+Dirección Técnica de AUDERTIS
+Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato.
+La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion
+
+CERTIFICADO DE CONFORMIDAD CON
+EL ESQUEMA NACIONAL DE SEGURIDAD
+Ubicaciones principales para el sistema de información:
+• Sede Central: Edificio Torre Sevilla - C/ Gonzalo Jiménez de Quesada, 2, 3ª, 41092, Sevilla
+• Oficinas: Edificio Torre Triana - C/ Juan Antonio de Vizarrón, s/n., 41092, Sevilla
+• (#2) Centros asociados (NDA)
+0
+7
+4
+5
+3
+6
+7
+8
+B-
+:F
+IN
+D
+IR
+D
+A
+M
+–
+6
+4
+0
+8
+2
+)9
+2
+a
+tn
+a
+lP
+,a
+p
+o
+ru
+E
+e
+rro
+T
+o
+ic
+ifid
+E
+(
+,5
+9
+a
+n
+a
+lle
+ts
+a
+C
+a
+l
+e
+d
+º
+P
+2
+8
+8
+7
+8
+3
+8
+1
+9
+.le
+-
+T
+se
+.s
+itre
+d
+u
+a
+.w
+w
+w
+Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato.
+La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion
