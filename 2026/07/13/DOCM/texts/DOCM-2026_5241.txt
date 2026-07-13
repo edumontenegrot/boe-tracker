@@ -1,0 +1,520 @@
+AÑO XLV Núm. 131 13 de julio de 2026 26708
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 03/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que se
+formula el informe de impacto ambiental del proyecto de modificación de la subestación Ciudad Real Norte
+para reforma y ampliación de 45/15 kV a 132/15 kV 2x30 MVA en el municipio de Ciudad Real (Ciudad Real)
+(expediente S478/2026/CR/00120), cuya promotora es UFD Distribución Electricidad, SA. [2026/5241]
+La Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental (estatal), en su artículo 7.2 concreta los proyectos
+que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar
+si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario
+someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y
+pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020 de 7 de febrero, de evaluación ambiental de Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de tramitación, así como aquellos proyectos
+adicionales a los ya indicados por la Ley 21/2013, que se ven incluidos en el ámbito de aplicación de la legislación
+de evaluación ambiental.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, dentro del Grupo 4. Industria
+Energética, b) Construcción de líneas eléctricas (proyectos no incluidos en el anexo I) con un voltaje igual o superior
+a 15 kV, que tengan una longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo
+de los anteriores umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan las medidas preventivas
+establecidas en el Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protección
+de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200
+m de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente
+en subterráneo por suelo urbanizado.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+La Subestación Ciudad Real Norte “Puerta de Toledo” se localiza en parcela catastral 13900A098000630000XZ
+con una superficie de 3.241 m2, en las coordenadas UTM (ETRS89 30N) (X: 419.321,40; Y: 4.317.698,10), en el
+municipio de Ciudad Real, provincia de Ciudad Real, en el entorno del Camino de Ibarrola.
+Actualmente la subestación consta de 2 transformadores de 45/15 kV 25 MVA situados en el patio, y de un edificio
+en cuyo interior se encuentra un parque blindado de 45 kV y otro de 15kV en configuración de doble barra junto con
+los servicios auxiliares que incluyen un transformador de servicios auxiliares, cuadro general de B.T., baterías de
+125 Vcc y 48 Vcc, y los equipos de telecontrol y comunicaciones.
+El proyecto de reforma y modificación planteado para adecuar la subestación al nivel 132/15 kV mediante 2×30 MVA
+de transformación (capacidad total instalada de 60 MVA), se encuentra incluido dentro de los planes de mejora de la
+calidad del suministro y aumento de potencia de la zona, con objeto de mejorar y reforzar la calidad del suministro
+eléctrico.
+La migración del nivel 45 kV a 132 kV y el incremento de la potencia de transformación responden a motivos técnicos
+y de explotación:
+- Incremento de capacidad en 15 kV para atender la demanda actual y el crecimiento previsible, elevando los
+márgenes operativos y la capacidad de maniobra.
+- Mejora de la calidad y continuidad del suministro mediante esquemas más robustos (doble barra en 15 kV, nuevas
+celdas blindadas) y mayor facilidad de mantenimiento con menor afección al servicio.
+- Modernización tecnológica de equipos de maniobra, protección, control, medida y comunicaciones, reduciendo
+obsolescencia y mejorando la seguridad operativa y el telecontrol.
+- Optimización de la explotación al operar a 132 kV en alta, contribuyendo a una red más mallada y con mejores
+condiciones de transferencia de carga en el entorno de Ciudad Real.
+- Minimización de afecciones territoriales: la actuación se concentra en el emplazamiento existente y su entorno
+inmediato, evitando nuevas implantaciones y reduciendo la necesidad de infraestructuras adicionales.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26709
+Las principales actuaciones proyectadas, que combinan demoliciones y reforma del edificio de 15 kV, la construcción
+de un nuevo edificio para el parque blindado de 132 kV, y la ejecución de dos nichos de transformadores de potencia
+132/15 kV de 30 MVA, manteniendo y reorganizando los circuitos de 15 kV y desmantelando las aparamentas de 45
+kV, son las siguientes:
+- Reforma de dos edificios: un edificio de ampliación con una sala para celdas GIS (blindadas en SF6) y los
+transformadores de SS. AA, y otro edifico existente de reforma con una sala para celdas blindadas de 15 kV, una
+sala de armarios y los equipos auxiliares de la subestación.
+- Ampliación de dos nichos para dos transformadores 132/15 kV 30 MVA, en nicho semicerrado (cerrado por tres de
+sus caras mediante muros de hormigón, un frontal desmontable de lamas metálicas y abierto por la parte superior),
+con sus elementos de seguridad, drenaje y contención de aceite.
+- Reubicación de los circuitos de 15 kV al edificio reformado de 15 kV y de los tres circuitos de 45 kV, dos de ellos
+se empalmarán entre sí y el tercero pasará a explotarse en 15 kV conectado a una celda de línea de la nueva
+instalación de celdas de 15 kV. El retranqueo de los circuitos de 45 kV no forma parte del objeto de este proyecto.
+La obra se plantea en fases para mantener el suministro: primero se ejecutan el edificio de 132 kV y los nichos de
+transformador; la carga de 15 kV se alimenta mediante trenes de celdas provisionales montados en carretones
+móviles ubicados en el exterior. Tras desmantelar el equipamiento de 15 y 45 kV del edificio existente, se instalan
+allí las nuevas celdas de 15 kV; en la fase final se retiran los provisionales y se conectan los cables definitivos a sus
+celdas.
+La urbanización interior incluye vial de hormigón armando con cunetas prefabricadas y cerramiento perimetral, con
+control de accesos, antintrusión y televigilancia.
+No se prevé vertidos industriales. Las aguas de lluvia y bombeos se conducirán a pozo drenante.
+El documento ambiental contempla un análisis de 3 alternativas de ubicación, y la alternativa de no ejecución,
+manteniendo la subestación en su configuración previa y operar la red con maniobras, refuerzos puntuales
+de 15 kV y transferencias de carga. Basado en criterios ambientales (suelo y hábitat, afecciones a espacios y
+elementos sensibles, proximidad a población, ruido y paisaje, residuos y vertidos, riesgo de incendios, campos
+electromagnéticos) y criterios técnico-operativos y económicos (continuidad de servicio y plazos, integración en la
+red, tramitación y servidumbres, coste global) se procede a seleccionar la alternativa 3 consistente en ejecutar la
+reforma y ampliación según se ha descrito en los párrafos anteriores.
+Segundo. Tramitación y consultas.
+El 28-01-2026 se recibe en el Servicio de Calidad Ambiental de Ciudad Real, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada del proyecto y el documento ambiental (20-01-2026), dando
+cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+También se presentó copia del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de
+tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias.
+El 24-02-2026 el órgano ambiental notificó al promotor del proyecto que la documentación presentada junto con la
+solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada
+Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas,
+con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas
+han sido los siguientes (se señalan con (X) aquellos que han emitido contestación a las consultas formuladas):
+1. Ayuntamiento de Ciudad Real
+2. Dirección General de Calidad Ambiental - Servicio Prevención E Impacto Ambiental
+3. Confederación Hidrográfica del Guadiana (X)
+4. Delegación Provincial Consejería Hacienda, Administraciones Públicas y Transformación Digital Ciudad Real -
+Servicio Protección Ciudadana Ciudad Real (X)
+5. Delegación Provincial de Ciudad Real de la Consejería de Educación, Cultura y Deportes - Servicio Cultura
+Ciudad Real (X)
+6. Delegación Provincial de Desarrollo Sostenible en Ciudad Real - Servicio de Industria y Energía de Ciudad Real
+7. Delegación Provincial de Desarrollo Sostenible en Ciudad Real - Servicio de Medio Natural de Ciudad Real-
+Sección Vías Pecuarias (X)
+
+AÑO XLV Núm. 131 13 de julio de 2026 26710
+8. Delegación Provincial de Desarrollo Sostenible en Ciudad Real - Servicio de Medio Natural de Ciudad Real-
+Sección Vida Silvestre, EE. NN e informes ambientales.
+9. Delegación Provincial de Desarrollo Sostenible en Ciudad Real - Servicio Incendios Forestales y Ayudas Ciudad
+Real
+10. Delegación Provincial de Desarrollo Sostenible en Ciudad Real - Unidad de Coordinación Provincial de Agentes
+Medioambientales de Ciudad Real (X)
+11. Delegación Provincial de Sanidad en Ciudad Real - Servicio Salud Publica Ciudad Real (X)
+12. Asociación para la Defensa de la Naturaleza WWF/Adena
+13. Ecologistas en Acción Ciudad Real
+14. Sociedad de Historia Natural de Ciudad Real
+15. Sociedad Española de Ornitología
+Para conocimiento completo y cumplimiento cuando proceda, los informes recibidos se publican en la sede electrónica
+de la Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia).
+Las sugerencias y los aspectos más importantes que figuran en todos los informes recibidos en el órgano ambiental
+se incluyen en el apartado Cuarto de la presente Resolución.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Las características del proyecto se han reseñado en el apartado Primero de la presente Resolución. Se trata de
+la ejecución de actuaciones para la reforma y ampliación de las instalaciones actuales de la Subestación “Puerta
+de Toledo” hasta su configuración a S.E. Ciudad Norte 132/15 kV 2×30 MVA, todo ello dentro del recinto existente
+de la subestación, sin implantaciones nuevas fuera de la parcela actual, conforme a la documentación técnica del
+proyecto.
+3.2. Ubicación del proyecto.
+El proyecto se localiza dentro de la parcela de la subestación Ciudad Real Norte “Puerta de Toledo”, cuya referencia
+catastral es 13900A098000630000XZ, perteneciente al polígono 98 parcela 63 del término municipal de Ciudad
+Real, en el entorno del Camino de Ibarrola.
+El acceso principal se produce desde la salida del municipio de Ciudad Real por la N-401 carretera de Toledo, hacia
+el Camino de Ibarrola.
+En cuanto a la clasificación/calificación urbanística, según fuente del catastro, el inmueble está clasificado como
+rústico y su uso principal es agrario. La superficie total es de 3.241 m2, de los cuales, la superficie construida es de
+340 m2 del año 1997. El uso principal de la construcción es industrial. El proyecto actual mantiene el uso industrial
+(eléctrico) preexistente en el emplazamiento actual.
+3.3. Características del potencial impacto.
+Las actuaciones proyectadas se implantarán dentro de la parcela donde se localizan las instalaciones actuales
+de la subestación. Respecto a la proximidad a suelos urbanos o urbanizables y a otras infraestructuras, desde
+la perspectiva de relación con el tejido urbano, la parcela de la subestación se sitúa a menos de 200 m de suelo
+urbano residencial conforme al planeamiento vigente de Ciudad Real, y se ha identificado una vivienda aislada a
+aproximadamente 100 m del recinto.
+El Servicio de Cultura informa que, una vez revisado el Documento de Protección del Patrimonio Arqueológico en el
+Planeamiento Urbanístico de Ciudad Real, remitido el 4 de enero de 2010 por el órgano competente (Expte. Cultura
+09.0826-R) al Ayuntamiento, sobre la Carta Arqueológica, Paleontológica, Etnográfica e Industrial del municipio,
+
+AÑO XLV Núm. 131 13 de julio de 2026 26711
+se ha comprobado, salvo error u omisión, que la parcela 63, polígono 98 dónde se ubica la subestación no se
+encuentra incluida en ningún ámbito de Protección/ Prevención arqueológica ni se localiza en las inmediaciones
+ningún elemento patrimonial documentado.
+Desde el punto de vista de áreas y recursos ambientales protegidos, no consta afección a figuras legales de
+protección: el proyecto no se emplaza dentro de los límites de ningún espacio natural protegido conforme a la
+Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza, ni dentro de ningún Espacio Red Natura 2000 (ni
+LIC/ZEC ni ZEPA). Asimismo, no se ven afectados elementos geomorfológicos de protección especial ni hábitats
+catalogados de protección especial. Esta ausencia de solapes reduce el potencial de impactos críticos asociados
+a pérdida de valores de conservación, fragmentación de hábitat o afección directa a objetivos de conservación de
+espacios protegidos.
+Con todo, el emplazamiento se integra en una zona de importancia para el águila imperial ibérica (Aquila adalberti)
+y para el buitre negro (Aegypius monachus), fuera de las Áreas Críticas de conservación de dichas especies.
+El MUP La Atalaya se localiza a aproximadamente 2.000 m al noreste del proyecto.
+En el límite de la parcela existe colindancia con la Vereda del Camino del Vicario, vía pecuaria integrante de la red
+de dominio público.
+El proyecto se encuentra en la demarcación hidrográfica del Guadiana, en la subcuenca del río Guadiana-embalse
+de El Vicario, y dentro de la masa de agua subterránea “041.009 “Campo de Calatrava”. El cauce del río Guadiana
+discurre a unos 5.770 metros al norte de la zona de actuación planteada, por lo que no se prevé afección física
+alguna a cauces que constituyan dominio público hidráulico (DPH) del Estado, ni a las zonas de servidumbre y
+policía.
+El municipio de Ciudad Real, y, por tanto, la ubicación del proyecto, se encuentra dentro de zona declarada vulnerable
+a la contaminación por nitratos de origen agrario “Campo de Calatrava” (Orden de 21/05/2009, de la Consejería de
+Industria, Energía y Medio Ambiente).
+Por la naturaleza del proyecto no se prevé que se requiera consumo de agua para su funcionamiento. Tampoco se
+prevé la generación de aguas residuales.
+En síntesis, el emplazamiento no interseca espacios protegidos ni hábitats o elementos geomorfológicos sensibles,
+si bien se ubica en zona de importancia para rapaces y colinda con una vía pecuaria, además de situarse próximo
+a suelos residenciales. Con el encapsulamiento de la actuación dentro del recinto actual, la ausencia de tendidos
+aéreos nuevos en el alcance del proyecto y la aplicación de medidas preventivas razonables en obra y explotación
+(planificación de ruidos e iluminación, control de polvo y tráfico), el riesgo ambiental residual se mantiene bajo y
+controlable dentro de los estándares habituales para subestaciones de este tipo.
+En las áreas del entorno donde se prevé el empleo de maquinaria existe la probabilidad de vertido de combustible,
+riesgo derivado de condiciones inadecuadas del estado de la maquinaria o malas prácticas en su empleo. También se
+puede dar cierta compactación del suelo provocada por el trasiego de maquinaria, vehículos y acopio de materiales.
+El documento ambiental recoge la valoración de los efectos ambientales derivados de la vulnerabilidad del proyecto
+frente a accidentes y catástrofes, adoptando un enfoque preventivo y operativo, determinando la aplicación de
+medidas preventivas y seguimiento en el programa de vigilancia, en los riesgos identificados.
+En la fase de funcionamiento de la actividad, los posibles impactos a valorar son la emisión de ruidos, campos
+electromagnéticos e impacto lumínico, así como emisiones contaminantes a la atmósfera (básicamente emisiones
+fugitivas del contaminante SF ), y generación de residuos, básicamente en las actividades de mantenimiento de
+6
+la instalación. Estos impactos en líneas generales se consideran de baja magnitud y compatibles, aplicando las
+medidas preventivas y correctoras correspondientes.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Las medidas para la adecuada protección del medio ambiente indicadas por el promotor en el documento ambiental
+se deberán cumplir en cada fase del proyecto complementadas con las que se expresan a continuación, teniendo
+en cuenta que en los casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en
+
+AÑO XLV Núm. 131 13 de julio de 2026 26712
+la presente Resolución. Estas condiciones deberán tenerse debidamente en cuenta por el órgano sustantivo en el
+procedimiento de autorización del proyecto, de conformidad con el artículo 56.1 de la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla- La Mancha.
+4.1. Protección de áreas y recursos naturales protegidos. Fauna y vegetación.
+La ubicación propuesta no se emplaza dentro de los límites de espacio natural protegido previstos en la Ley 9/1999,
+de 26 de mayo, de Conservación de la Naturaleza, ni dentro de los límites de ningún Espacio Red Natura 2000.
+Al integrarse la ubicación en zona de importancia de avifauna, el documento ambiental contempla que esta circunstancia
+aconseja precauciones específicas durante la fase de construcción para minimizar molestias: planificación de las
+actividades más ruidosas en horarios diurnos; control de polvo y tráfico de obra; y reducción de focos de iluminación
+orientándolos hacia el interior del recinto para evitar un aumento de atracción o deslumbramiento sobre fauna en
+tránsito. En fase de explotación, al tratarse de una instalación de transformación y maniobra sin tendidos aéreos
+nuevos asociados al proyecto; las medidas de explotación habituales (balizamiento, marcaje o apantallamiento
+puntual de elementos sobresalientes, si se considerase) constituyen un marco suficiente de prevención y vigilancia.
+4.2. Protección de los sistemas hidrológico e hidrogeológico.
+El cauce del Río Guadiana discurre a una distancia aproximada de 5.770 m al norte de la actuación planteada, por
+lo que no se prevé afección física alguna a cauces que constituyan el dominio público hidráulico del Estado (DPH),
+definido en el artículo 2 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el Texto Refundido
+de la Ley de Aguas (TRLA).
+Se recuerda que el artículo 245 del Reglamento del DPH, aprobado por Real Decreto 849/1986, de 11 de abril,
+establece que con carácter general queda prohibido el vertido directo o indirecto de aguas y productos residuales
+susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo
+que se cuente con la previa autorización del Organismo de Cuenca.
+En cualquier caso, se deberán adoptar las medidas oportunas para evitar la contaminación del suelo y de las aguas
+superficiales y subterráneas de cualquier tipo de vertido artificial durante las obras y explotación del proyecto.
+4.3. Protección a infraestructuras, Vías Pecuarias y Monte de Utilidad Pública
+La Vereda del Camino del Vicario no se encuentra ni deslindada ni amojonada en el tramo afectado, si clasificada
+según O.M. 29-07-1963 con una anchura de 20,89 m. Cualquier actuación en las parcelas colindantes deberá
+respetar los límites establecidos en la clasificación, dado que no está deslindada en este punto, se tomará como eje
+de la vía el eje del camino extendiéndose 10,45m a cada lado el eje, más 5 metros de zona de protección ambiental
+a cada lado. En esta franja de protección no se instalará ninguna construcción permanente o infraestructura. No
+obstante, será en la realización del deslinde donde se determinará con carácter definitivo sus límites de conformidad
+con lo establecido en su clasificación. Conforme a la Ley 9/2003, de Vías Pecuarias de Castilla-La Mancha, éstos
+son terrenos de dominio público y en consecuencia inalienables, imprescriptibles e inembargables, siendo su destino
+específico el tránsito ganadero y aquellos otros de carácter rural que sean compatibles y complementarios por lo que
+no se podrá realizar ninguna actuación sin autorización sobre la misma.
+El documento ambiental recoge que la colindancia de la parcela con la Vereda del Camino del Vicario exige respeto
+estricto de alineaciones y servidumbres y la no ocupación de la traza de la vía pecuaria con instalaciones temporales
+o permanentes. En el proyecto, la reforma y ampliación se concentran dentro del recinto existente, por lo que no se
+prevé afección directa a la vía pecuaria; en todo caso, el cerramiento se plantea transparente hacia la Vereda del
+Camino del Vicario y se han justificado distancias a eje de camino y a edificaciones en planos de la separata de vías
+pecuarias presentada. Como medida preventiva se prevé que antes del inicio de las obras se apruebe un plan de
+obra sostenible que concrete accesos, zonas de acopio, talleres móviles y estacionamientos dentro de la parcela,
+evitando ocupaciones fuera del vallado y, en particular, cualquier invasión de la Vereda del Camino del Vicario.
+En relación a la afección a los caminos de uso público, el promotor deberá respetar la integridad física y la transitabilidad
+de los mismos para su uso por terceras personas, garantizando la ausencia de peligro para tales usuarios.
+4.4. Protección del medio ambiente atmosférico (contaminación atmosférica, acústica y lumínica).
+El documento ambiental contempla la proximidad de las actuaciones a suelo urbano o urbanizables y a otras
+infraestructuras, desde la perspectiva de relación con el tejido urbano, lo que refuerza la necesidad de medidas
+
+AÑO XLV Núm. 131 13 de julio de 2026 26713
+de buenas prácticas en obra (control de polvo y lodos en viales, limitación de ruido y vibraciones, limpieza de
+rodadura a la salida del recinto y gestión de horarios) y de gestión de iluminación para minimizar intrusión lumínica
+hacia el exterior, así como de mantener la logística de accesos por los itinerarios existentes evitando itinerarios
+alternativos por vías de menor capacidad. En explotación, la instalación no introduce emisiones atmosféricas ni
+vertidos de proceso; los focos ambientales relevantes se restringen a ruido de equipos (transformadores y auxiliares)
+e iluminación de seguridad, aspectos que se controlan con diseño de bancadas y nichos semicerrados, muros
+cortafuegos que actúan como pantallas, selección de luminarias y operación del alumbrado en régimen de seguridad
+y mantenimiento.
+Además, el documento ambiental prevé las siguientes medidas:
+- El equipamiento GIS con SF6 cumplirá los requerimientos del Reglamento (UE) 2024/573 del Parlamento Europeo
+y del Consejo, de 7 de febrero de 2024, sobre los gases fluorados de efecto invernadero, por el que se modifica la
+Directiva (UE) 2019/1937, y se deroga el Reglamento (UE) nº 517/2014 (control de fugas, mantenimiento recuperación
+y restricciones progresivas), con registro de equipos y gestión del gas por personal certificado.
+Se mantendrán controles de estanqueidad y registros de carga, recuperación y emisiones conforme a normativa de
+gases fluorados; el personal encargado estará titulado. En caso de fuga, se aislará el compartimento, se recuperará
+el gas con equipo homologado y se registrará el trabajo, evaluando su impacto climático.
+- La arquitectura de nicho y el carácter interior de la GIS mantienen niveles bajos de ruido en perímetro. Se
+realizará una verificación inicial pospuesta en servicio y rondas periódicas con sonómetro de control (si procede con
+receptores vulnerables próximos). Los servicios auxiliares se optimizarán con consignas de eficiencia (iluminación
+LED, ventilación ajustada a necesidad) y se revisará anualmente el consumo propio, aplicando mejoras razonables.
+- La iluminación exterior será orientada hacia el interior, con temperatura de color cálida y encendidos temporizados,
+reduciendo atracción de insectos y molestias a fauna voladora. Se mantendrá limpio el perímetro de vegetación seca
+en campaña estival.
+Para evitar la emisión de material particulado a la atmósfera durante el tránsito de la maquinaria pesada y otros
+vehículos sobre caminos y viales de firme natural (no pavimentados), con la consiguiente suspensión y resuspensión
+de polvo en la atmósfera, se adoptarán todas las medidas necesarias para evitar la emisión de polvo a la atmósfera.
+Entre otras, se deberá circular a una velocidad que no rebase los 20 km/g cuando transiten por caminos o pistas de
+firme natural y, los camiones de transporte de áridos deberán ir convenientemente cubiertos cuando vayan cargados.
+Además, en cuanto a la prevención del ruido, se adoptarán las medidas y dispositivos en maquinaria y equipos
+asociados a la actividad para que se disminuyan al máximo los niveles de ruido generados por los mismos.
+Se procederá a la revisión y control periódico de los silenciadores de los escapes, rodamientos, engranajes y
+mecanismos de la maquinaria conforme determina el Real Decreto 212/2002, de 22 de febrero, por el que se regulan
+las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre, modificado por el Real
+Decreto 524/2006, de 28 de abril. El promotor del proyecto también será responsable de cumplir con lo establecido
+en la Ley 37/2003, de 17 de noviembre, del Ruido y en sus reglamentos de desarrollo, así como lo que puedan
+establecer al efecto la ordenanza municipal de Ciudad Real.
+4.5. Protección de bienes materiales, incluido el patrimonio cultural
+El Servicio de Cultura informa que, una vez revisado el Documento de Protección del Patrimonio Arqueológico en el
+Planeamiento Urbanístico de Ciudad Real, remitido el 4 de enero de 2010 por el órgano competente (Expte. Cultura
+09.0826-R) al Ayuntamiento, sobre la Carta Arqueológica, Paleontológica, Etnográfica e Industrial del municipio,
+se ha comprobado, salvo error u omisión, que la parcela 63, polígono 98 dónde se ubica la subestación no se
+encuentra incluida en ningún ámbito de Protección/ Prevención arqueológica ni se localiza en las inmediaciones
+ningún elemento patrimonial documentado. Concluye finalmente que la actuación es compatible con la preservación
+del Patrimonio Cultural de la zona.
+No obstante, se recuerda que la Ley 4/2013, de 16 de mayo, del Patrimonio Cultural de Castilla- La Mancha, en su
+artículo 52.2 establece que “El hallazgo casual de restos materiales con valor cultural se comunicará en un plazo
+máximo de 48 horas a la Consejería competente en materia de Patrimonio Cultural y a los Cuerpos y Fuerzas de
+Seguridad del Estado”.
+4.6. Protección del suelo y la geomorfología.
+La actividad de distribución de energía eléctrica (subestaciones eléctricas con transformadores de potencia o
+reactancias) está incluida como actividad susceptible de causar contaminación en el suelo de acuerdo a lo establecido
+
+AÑO XLV Núm. 131 13 de julio de 2026 26714
+en el Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades potencialmente
+contaminantes del suelo y los criterios estándares para la declaración de suelos contaminados, por lo que se deberán
+cumplir las especificaciones señaladas en la mencionada legislación.
+El documento ambiental recoge que los transformadores 132/15 kV operarán en nichos semicerrados con cubetos
+estancos y punto de muestreo. Se establecerá una lista de verificación de estado de válvulas tras cada intervención.
+Las operaciones de mantenimiento de la maquinaria y vehículos se realizarán en las instalaciones adecuadas para
+ello, evitando así posibles vertidos al medio. En ningún caso se llevarán a cabo operaciones de mantenimiento sobre
+terreno natural sin protección.
+En caso de producirse accidentalmente depósitos de residuos o vertidos de aceites, combustibles u otro residuo
+peligroso, se procederá inmediatamente a su recogida y deberán de ser entregados a gestor autorizado, según
+las características del depósito o vertido. Se retirará igualmente la porción de suelo contaminado, si existiera,
+asegurándose en todo caso la no afección a aguas superficiales o subterráneas.
+Se tendrán en consideración todas las normas urbanísticas que, en su caso, sean de aplicación, en especial el Texto
+Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla – La Mancha, Reglamento
+de Suelo Rústico.
+Deberá tenerse en cuenta los requisitos que sean de aplicación por la Orden 4/2020, de 8 de enero, de la Consejería
+de Fomento, por la que se aprueba la Instrucción Técnica de Planeamiento sobre determinados requisitos sustantivos
+que deberán cumplir las obras, construcciones e instalaciones en suelo rústico.
+Las franjas de protección a establecer a cualquier infraestructura que pudiera verse afectada, tanto por las actuaciones
+a realizar como por el trasporte de medios y materiales, serán las que marque en cada caso su organismo gestor.
+4.7. Protección de la salud humana.
+Respecto los campos electromagnéticos, el documento ambiental recoge que la subestación cumple la ITC-RAT
+15 (aprobada por Real Decreto 337/2014, de 9 de mayo, por el que se aprueban el Reglamento sobre condiciones
+técnicas y garantías de seguridad en instalaciones eléctricas de alta tensión y sus Instrucciones Técnicas
+Complementarias ITC-RAT 01 a 23), así como los límites del Real Decreto 1066/2001 (50 Hz, 100 μT para población
+general). La simulación de CEM incluida en el proyecto muestra que en el perímetro no se superan los valores
+máximos permitidos, incluso en condiciones de carga máxima.
+Además, contempla que el diseño y explotación de la subestación cumple las restricciones de exposición del público
+establecidas por la Recomendación 1999/519/CE (0 Hz–300 GHz), referencia adoptada por España y citada por la
+reglamentación estatal; se trata de valores límites ampliamente por debajo de umbrales de riesgo según la evidencia
+disponible, especialmente en instalaciones cerradas y con perímetro vallado.
+Se debe garantizar el cumplimiento de la normativa referente a la prevención de riesgos laborales y demás legislación
+vigente que contemple la protección de la salud humana.
+4.8. Protección ante accidentes graves y/o catástrofes
+En relación a la zona del proyecto en que se ubica este, el Servicio provincial de Protección Ciudadana informa
+de los niveles de riesgo identificados en los diferentes Planes, circunstancia que habrá de ser tenida en cuenta a
+efectos oportunos:
+- De acuerdo con el Plan especial de protección civil ante el riesgo de accidente en el transporte de mercancías
+peligrosas por carreteras y ferrocarriles en Castilla- La Mancha (Petcam), existen varias infraestructuras en el término
+municipal de Ciudad Real afectadas por itinerario RIMP, entre las que se encuentran:
+* Tramo de la carretera N-401 que transcurre desde el cruce con la carretera N-401, en la salida de Fernancaballero,
+hasta el cruce con la carretera CR-2112, en Ciudad Real, con una longitud de 13 km. El total de mercancías
+transportadas en este tramo es de 32.317 t/año, siendo en su mayoría materias de clase 3, como son el gasóleo,
+pintura o gasolina. El accidente más desfavorable estudiado en esta área de especial exposición corresponde con el
+incendio de charco ocurrido como consecuencia del colapso o rotura de un camión cisterna de gasolina, el cual daría
+lugar a una zona de intervención de 164 metros, una zona de alerta de 231 metros y una zona de efecto dominó
+
+AÑO XLV Núm. 131 13 de julio de 2026 26715
+de 97 metros. Los términos municipales que se verían afectados por este accidente son Ciudad Real, Miguelturra y
+Fernán Caballero, aunque ninguna localidad de dichos términos se vería afectada.
+* Tramo de ferrocarril de la línea Madrid – Puertollano (LMP), (perteneciente a la línea Madrid-Sevilla) que tiene su
+origen en la población de Manzanares y su fin en Puertollano. Tiene una longitud aproximada de 102 km. El total
+de mercancías transportadas en este tramo es de 140.772 t/año, siendo en exclusivamente materias de clase 2 y
+3 como son el óxido de propileno, benceno, etanol, Etil butil éter o Butadienos estabilizados o mezcla estabilizada
+de butadienos e hidrocarburos. El accidente más desfavorable estudiado en esta área de especial exposición
+corresponde con el colapso o rotura de un vagón cisterna, que origina una nube tóxica de amoniaco para el que se
+ha obtenido una zona de intervención de 1.704 metros y una zona de alerta de 5.725 metros, el accidente podría
+afectar a Ciudad Real, alcanzando a esta localidad como zona de intervención
+- Respecto del Plan especial de protección civil ante el riesgo de inundaciones de Castilla- La Mancha (Pricam), el
+municipio de Ciudad Real se encuentra de zonas de inundación, con clasificación A1.
+- Según el Plan específico de fenómenos meteorológicos adversos de Castilla- La Mancha (Meteocam), Ciudad Real
+presenta riesgo alto por nevadas, por heladas, por altas temperaturas y por granizo, así como riesgo muy alto por
+nieblas y por lluvias.
+- Según el Plan regional de incendios forestales (Infocam), el municipio de Ciudad Real aparece clasificado como
+zona de alto riesgo de incendio para ciertos polígonos, entre los que no se encuentra el polígono 98 donde se
+localiza la subestación.
+4.9. Protección contra incendios forestales.
+En cuanto a la prevención de incendios forestales, se tendrán en cuenta las medidas encaminadas a la prevención
+de incendios forestales de acuerdo a lo establecido por la Orden 76/2026, de 26 de mayo, de la Consejería de
+Desarrollo Sostenible, por la que se regulan medidas preventivas, usos del fuego y actividades con riesgo de
+incendio forestal en el medio natural, terrenos forestales y su zona de influencia en Castilla-La Mancha, así como la
+Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla–La Mancha, y todas las medidas de
+seguridad de la normativa que le sea de aplicación.
+Con carácter general, cuando una actividad tenga riesgo de generar incendio forestal, las personas promotoras,
+titulares y las ejecutoras directas de tales actividades, velarán por que sean desarrolladas con la debida diligencia y
+empleando las medidas pertinentes para mitigar el riesgo de manera proporcional.
+4.10. Generación de residuos
+Todos los residuos generados durante las fases de ejecución de obras, explotación de la actividad y, en su caso,
+desmantelamiento, independientemente del origen de los mismos, deberán ser categorizados y destinados
+adecuadamente a su correspondiente gestor autorizado, y en todo caso almacenados y gestionados conforme
+con la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, y conforme con el
+Decreto 35/2024, de 2 de julio, por el que se aprueba el Plan de Prevención y Gestión de Residuos de Castilla-La
+Mancha 2030. También será de observancia lo establecido en el Real Decreto 105/2008, de 1 de febrero, por el que
+se regula la producción y gestión de los residuos de construcción y demolición, en su caso.
+El almacenamiento de residuos peligrosos cumplirá lo dispuesto en la citada Ley 7/2022, de 8 de abril, y en la
+Orden de 21/01/2003, de la Consejería de Agricultura y Medio Ambiente, por la que se regulan las normas técnicas
+específicas que deben cumplir los almacenes y las instalaciones de transferencia de residuos peligrosos y deberán
+ser entregados para su gestión a gestor autorizado. Todos los residuos almacenados, incluyendo los peligrosos,
+deberán estar etiquetados conforme a la normativa en vigor (Ley 7/2022, de 8 de abril, de residuos y suelos
+contaminados para una economía circular y Reglamento (CE) Nº 1272/2008 del Parlamento y del Consejo de 16
+de diciembre de 2008 sobre clasificación, etiquetado y envasado de sustancias y mezclas). El almacenamiento
+de sustancias que conlleven riesgos de vertidos accidentales solo se realizará sobre soleras convenientemente
+impermeabilizadas. El promotor debe conservar la documentación acreditativa de entrega de los residuos generados
+a gestores autorizados, el tiempo establecido en la normativa de residuos.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizad. En caso de
+cualquier incidencia, como derrame accidental de combustibles o lubricantes, se actuará de forma que se restaure
+el suelo afectado, extrayendo la parte de suelo contaminado, que deberá ser recogido y transportado por gestor
+autorizado para su posterior tratamiento.
+4.11. Desmantelamiento y cambio de titular.
+El documento ambiental recoge que, en caso de clausura, el cese ordenado contempla el desmontaje y retirada
+de aparamenta GIS, transformadores y servicios auxiliares, vaciado y gestión de aceites y gases SF6 por gestores
+
+AÑO XLV Núm. 131 13 de julio de 2026 26716
+autorizados, levantado de cables y bandejas, y demolición selectiva de edificaciones y elementos de obra civil que
+no vayan a reutilizarse. Se aplicaría el plan de gestión de residuos (separación en origen, valorización de RCD y
+tratamiento de RP) y la retirada de provisionales y acopios, procediendo a la limpieza y restitución del terreno dentro
+del ámbito de parcela, conforme a criterios de seguridad y medioambientales (Criterios y prácticas de gestión según
+Estudio de Seguridad y Salud y Estudio de Residuos).
+Una vez finalizada la actividad de forma permanente, en caso de que se opte por el desmantelamiento de las
+instalaciones, se retirarán todos los restos de material y residuos a vertederos adecuados a la naturaleza de
+cada residuo y se restaurarán los terrenos ocupados por estas a su estado original, dejando el área de actuación
+en perfecto estado de limpieza. Será de obligado cumplimiento la Ley 7/2022 de 8 de abril, residuos y suelos
+contaminados, para una economía circular. El desmontaje deberá ponerse en conocimiento del órgano ambiental,
+para lo que dispone de un plazo máximo de 1 año tras la finalización de la actividad.
+Asimismo, en caso de que la actividad sea traspasada o cambie de titular, también se deberá poner en conocimiento
+de los órganos sustantivo y ambiental.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones,
+o de las medidas correctoras y compensatorias establecidas, [especificando número de ocasiones, frecuencia y
+hasta qué momento]. Este informe incluirá un listado de comprobación de las medidas previstas en el programa de
+vigilancia. Cada informe deberá estar suscritos conjuntamente por el promotor y el responsable del seguimiento y
+vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre el 1 de enero y el 31 de marzo del
+año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control de la ejecución del proyecto conforme a las prescripciones que figuran en la presente Resolución, así como
+las que se proponen en el documento ambiental presentado por el promotor mientras no se opongan o contradigan
+a las primeras.
+- Control de la implantación y eficacia de las medidas de carácter preventivo y corrector.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Control del cumplimiento de las condiciones técnicas y garantías de seguridad en instalaciones eléctricas de alta
+tensión, en relación a los campos electromagnéticos.
+- Control de la no afección a infraestructuras viarias, ni a vía pecuaria.
+- Control de la no afección a suelo sin protección.
+- Control de las medidas de protección al medio ambiente atmosférico establecidas.
+- Control de la correcta gestión de los residuos producidos.
+- Control de las medidas para evitar y gestionar, en su caso, posibles derrames y vertidos de sustancias peligrosas
+de la maquinaria empleada.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26717
+El seguimiento de las actuaciones y medidas se justificará, en su caso, mediante las suficientes fotos georreferenciadas
+con marcas de agua y metadatos, que evidencien de forma precisa su desarrollo en todas sus fases de ejecución y
+su cumplimiento, así como todo archivo digital adicional necesario, como transectos realizados, puntos de ubicación
+con coordenadas, mediciones, planos, información del número y fecha de las visitas, etc., para cada una de las
+actuaciones en orden enumeradas y descritas.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo (Servicio de
+Industria y Energía de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real):
+1) Antes del inicio de la actividad:
+- (*) Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- (*) Designación por parte del promotor de un responsable para el cumplimiento del Programa de Seguimiento y
+Vigilancia Ambiental del proyecto.
+- Contratos para el tratamiento de residuos generados.
+2) Iniciada la actividad:
+- (**) Con frecuencia anual, antes del 1 de abril de cada año, y durante los primeros tres años desde el inicio
+de actividad, deberán presentarse los Informes correspondientes a los controles y actuaciones en aplicación
+del Programa de Seguimiento y Vigilancia Ambiental (PSVA) según las condiciones que figuran en la presente
+Resolución.
+- En un plazo no superior a 2 años, justificante de comunicación a la D. Gral. Calidad Ambiental de la Consejería de
+Desarrollo Sostenible en materia de suelos contaminados (trámite https://www.jccm.es/tramites/1002914).
+El órgano sustantivo remitirá una copia de la documentación marcada con (*) al órgano ambiental (Servicio de
+Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real). El promotor presentará la
+documentación indicada con (**) ante el órgano sustantivo y ante el órgano ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Ciudad Real, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, y sus modificaciones, y en el ejercicio de las atribuciones
+conferidas por la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan
+competencias en las delegaciones provinciales de la Consejería de Desarrollo Sostenible, y conforme a la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto “proyecto de
+modificación de la subestación “Ciudad Real norte” para reforma y ampliación de 45/15 kV A 132/15 kV 2x30 MVA
+en el municipio de Ciudad Real (Ciudad Real)” (Exp. S478/2026/CR/00120) no necesita someterse a una Evaluación
+de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que
+se cumplan las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se
+desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, y con el artículo 47.4 de la Ley 21/202013, de
+9 de diciembre, de evaluación ambiental (estatal). El promotor podrá solicitar prorroga de vigencia antes de que
+transcurra el plazo de la misma, la cual se podrá conceder, en su caso, por dos años adicionales, contados a partir
+de la finalización del plazo inicial de vigencia, para lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020.
+En el caso de producirse la caducidad, el promotor deberá iniciar nuevamente el procedimiento de evaluación de
+impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26718
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Se adjunta anexo cartográfico con la situación del proyecto.
+Ciudad Real, 3 de julio de 2026
+El Delegado Provincial
+AGUSTÍN ESPINOSA ROMERO
+
+AÑO XLV Núm. 131 13 de julio de 2026 26719
+ANEXO CARTOGRÁFICO

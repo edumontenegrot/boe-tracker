@@ -1,0 +1,657 @@
+AÑO XLV Núm. 131 13 de julio de 2026 26629
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 30/06/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que
+se formula el informe de impacto ambiental del proyecto: Fábrica de productos precocinados de cebolla y
+estación depuradora de aguas residuales en Socuéllamos (Ciudad Real) (expediente S478/2026/CR/00115),
+cuya promotora es Cabezuelo Foods, SL. [2026/5238]
+La Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental (estatal), en su artículo 7.2 concreta los proyectos
+que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar
+si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario
+someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y
+pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de tramitación, así como aquellos proyectos
+adicionales a los ya indicados por la Ley 21/2013, que se ven incluidos en el ámbito de aplicación de la legislación
+de evaluación ambiental.
+En concreto, la actuación se encuentra contemplada en el anexo II de la citada Ley 21/2013, dentro del Grupo
+2 “Industrias de productos alimenticios”, Subgrupo b) “Instalaciones industriales para el envasado y enlatado de
+productos animales y vegetales”.
+En el artículo 8 de la citada Ley 2/2020 se establece que no se realizará evaluación de impacto ambiental de los proyectos
+que se encuentren parcial o totalmente ejecutados sin haberse sometido previamente al procedimiento de evaluación de
+impacto ambiental. El proyecto de referencia se sometió a un procedimiento sancionador (SANCI/25/231101/000817-
+IA) en el que se estableció como medida complementaria la necesidad de someter el mismo a procedimiento de
+evaluación ambiental establecido en la Ley 2/2020, conforme con el artículo 51 y siguientes. En su tramitación se
+tendrá en cuenta lo establecido en la Disposición adicional decimosexta de la Ley 21/2013.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+El objeto del proyecto consiste en la implantación de una fábrica de precocinados de verduras e instalaciones auxiliares,
+localizadas en el Polígono Industrial I-3 “El Llano”, C/ Portugal nº5 (referencia catastral 8769710WJ1486N0001RL)
+y en C/ Portugal nº 3 (referencia catastral 8568511WJ1486N0001HL) de Socuéllamos (Ciudad Real).
+El proyecto evaluado se encuentra parcialmente ejecutado, y consiste en la construcción de una edificación para
+albergar 4 líneas de producción, si bien inicialmente solo se van a implantar 2 líneas de precocinados de cebolla
+con una producción anual total de 32 Tm/día, así como su sala de envasado, resto de instalaciones industriales
+e infraestructuras necesarias para su funcionamiento, incluyendo una estación depuradora de aguas residuales
+industriales (en adelante Edari), con capacidad para 8.333 habitantes equivalentes/día.
+Se prevé que la fábrica de productos precocinados de cebolla opere durante 16 horas/día trabajando 225 días/ año,
+resultando una producción máxima de 32.000 kg/día (7.200 Tm/año). Se instalarán 2 líneas de 900 mm de ancho de
+banda con un rendimiento de 1.000 kg/h cada línea.
+La fábrica dispone de las siguientes áreas:
+- Módulo de mantenimiento.
+- Módulo de producción. Líneas de producción, túneles de congelado, sala de envasado, cámara de perecederos,
+almacén auxiliar, y otros.
+- Módulo de dependencias auxiliares: control de calidad, cámara de verduras, sala elaboración cebolla, lavaderos,
+almacén cajas, salida residuos, sala de bombas, y otros.
+- Módulo de personal: sala reuniones, sala formación, comedor, y otros.
+- Sala de calderas (caldera de aceite térmico).
+- Sala de depósitos.
+- Muelle taller.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26630
+- Centro de transformación CT 2.200 kVA.
+- Módulo control de infraestructuras.
+- Depuradora.
+- Zona aparcamiento para 57 plazas.
+La principal maquinaria con que cuenta la instalación es la siguiente:
+* Cortadoras.
+* Maquinaria de tratamiento térmico.
+* Encoladoras.
+* Dosificador de encolante.
+* Dosificador de pan.
+* Elevador de mixes.
+* Enharinadora.
+* Empanadora.
+* Rebozadora.
+* Freidora industrial.
+* Cintas transportadoras y estructura espiral- Túneles congelación.
+* Cintas alimentación a línea de envasado y salidas de reenvase.
+* Multicabezales de pesado para cebolla en tempura para la alimentación a líneas de envasado.
+* Envasadora vertical.
+* Equipo de codificación automática.
+* Enfardadora.
+* Túnel de lavado y secado de cajas de plástico.
+La Edari con capacidad para 200 m3/día cuenta con etapa de pretratamiento, tratamiento físico-químico y tratamiento
+de lodos. El vertido del efluente depurado se pretende incorporar a la red de saneamiento municipal de Socuéllamos,
+para su posterior tratamiento en la estación depuradora de aguas residuales urbanas (Edaru) de la aglomeración
+urbana.
+La red de saneamiento es de tipo separativa para aguas residuales, fecales y aguas de viales y pluviales:
+- Red de saneamiento de aguas industriales. Con arqueta separadora de grasas y fangos, y pozo de bombeo para
+su envío a la Edari.
+- Red de saneamiento de aguas fecales procedentes de aseos y vestuarios. Conectada a la red de saneamiento
+municipal de Socuéllamos.
+- Red de saneamiento de aguas pluviales y viales. Dispone de depósito de recogida de aguas con capacidad de
+30.000 litros con aliviadero. Conectada a la red de saneamiento municipal de Socuéllamos.
+El suministro eléctrico procede de la red de distribución eléctrica, contando la instalación con centro de transformación
+para 2.200 kVA. El suministro de agua se realiza mediante acometida a la red de abastecimiento municipal del
+polígono industrial I-3 El Llano.
+En la misma parcela donde se localiza la fábrica, se sitúan las instalaciones existentes de silo autoportante frigorífico
+automatizado para conservación de congelados, con antecámara para la preparación de pedidos y muelles de carga
+y descarga.
+De acuerdo con el documento ambiental, se prevé la ejecución de una pantalla vegetal (seto) en el perímetro de la
+parcela.
+El documento ambiental contempla la realidad física existente, con la construcción parcial del proyecto en la ubicación
+descrita en este apartado, realizando un análisis de alternativas y una valoración de los impactos ambientales para
+la alternativa seleccionada, proponiéndose una serie de medidas preventivas y correctoras para minimizar y mitigar
+los posibles impactos negativos, las cuales, sin perjuicio de las condiciones que figuran en la presente resolución,
+se consideran adecuadas y por lo tanto vinculantes con el contenido de la misma.
+Segundo. Tramitación y consultas.
+El 07-01-2026 se recibe en el Servicio de Calidad Ambiental de Ciudad Real, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada del proyecto y el documento ambiental (28-12-2025), dando
+
+AÑO XLV Núm. 131 13 de julio de 2026 26631
+cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+También se presentó copia del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de
+tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias.
+El 28-01-2026 el órgano ambiental notificó al promotor del proyecto que la documentación presentada junto con la
+solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada
+Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas,
+con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas
+han sido los siguientes (se señalan (X) aquellos que han emitido contestación a las consultas formuladas):
+1.- Ayuntamiento de Socuéllamos (X)
+2.- Consejería de Desarrollo Sostenible- Dirección Gral. Calidad Ambiental- Servicio de Prevención e Impacto
+Ambiental
+3.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real- Servicio de Industria y Energía de Ciudad Real.
+4.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real-Servicio de Medio Natural (X)
+5.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real- Unidad Coordinación Provincial Agentes
+Medioambientales.
+6.- Delegación Provincial de Educación, Cultura y Deportes de Ciudad Real- Servicio de Cultura (X)
+7.- Confederación Hidrográfica del Guadiana (CHGn)- Ciudad Real (X)
+8.- Delegación Provincial Consejería Hacienda, Administraciones Públicas y Transformación Digital Ciudad Real-
+Servicio de Protección Ciudadana (X)
+9.- Delegación Provincial Consejería Sanidad de Ciudad Real- Servicio de Salud Pública (X)
+10.- Delegación Provincial Agricultura, Ganadería y Desarrollo Rural de Ciudad Real- Servicio Producción
+Agroalimentaria y Cooperativas Ciudad Real
+11.- Dirección Gerencia Agencia del Agua- Servicio de Abastecimiento y Tratamiento de Aguas
+12.- Dirección General de Carreteras- Servicio Conservación y Explotación (X)
+13.- Ecologistas en Acción Ciudad Real
+14.- Asociación para la defensa de la naturaleza WWF/Adena
+15.- Sociedad Española de Ornitología
+16.- Sociedad de Historia Natural de Ciudad Real
+En fecha 26-03-2026 y 15-05-2026 se reiteran las solicitudes de los informes de CHGn y del Ayuntamiento de
+Socuéllamos.
+Para conocimiento completo y cumplimiento cuando proceda, los informes recibidos se publican en la sede electrónica
+de la Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia).
+Las sugerencias y los aspectos más importantes que figuran en todos los informes recibidos en el órgano ambiental
+se incluyen en el apartado Cuarto de la presente Resolución.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Las características del proyecto se han reseñado en el apartado Primero de la presente Resolución. Se trata de
+la implantación de una nueva fábrica de precocinados de verduras e instalaciones auxiliares, localizadas en el
+Polígono Industrial I-3 “El Llano”, C/ Portugal nº5 (referencia catastral 8769710WJ1486N0001RL) y C/ Portugal nº 3
+(referencia catastral 8568511WJ1486N0001HL) de Socuéllamos (Ciudad Real).
+3.2. Ubicación del proyecto.
+El proyecto se localiza al sur del municipio de Socuéllamos (Ciudad Real), en la C/Portugal números 3 y 5, parcelas
+pertenecientes al Polígono Industrial I-3 “El Llano” de Socuéllamos.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26632
+El acceso a la fábrica y a la Edari se realiza desde la calle Portugal considerada como un vial urbano del polígono
+industrial I-3 “El Llano”, accediendo principalmente por la CM-3111 (variante de población) situada al sur del municipio.
+3.3. Características del potencial impacto.
+Las instalaciones proyectadas se sitúan en suelo industrial del Polígono Industrial El Llano-3 de Socuéllamos, que
+cuenta con aprobación del Programa de Actuación Urbanizadora (Anuncio de 27-05-2011, DOCM de 21-06-2011,
+núm. 119).
+Las instalaciones objeto de informe pueden generar una afección al drenaje de la carretera CM-3111 (variante), dado
+que la instalación se sitúa colindante con la margen izquierda de la citada carretera.
+En el ámbito del Patrimonio Cultural, la Carta Arqueológica de Socuéllamos (hoy integrada en el Inventario de
+Patrimonio Cultural de Castilla-La Mancha), fue elaborada en el año 2005. Los terrenos afectados por el proyecto
+sometido a evaluación ambiental no se incluyen dentro de los ámbitos de protección o prevención arqueológica
+definidos en él, ni se localizan en los mismos elementos del patrimonio cultural de Castilla-La Mancha.
+El proyecto no se ubica en áreas críticas para flora y fauna, ni en espacios naturales protegidos, ni en Red Natura
+2000, ni en Reserva de la Biosfera de la Mancha Húmeda, ni afecta al dominio público pecuario, ni a elementos
+geomorfológicos protegidos.
+El proyecto se encuentra en la demarcación hidrográfica del Guadiana, en la subcuenca del río Córcoles, y dentro
+de la masa de agua subterránea “041.006 Mancha Occidental II”. El cauce del río Córcoles discurre a unos 2.650
+metros al noreste de la zona de actuación planteada, por lo que no se prevé afección física alguna a cauces que
+constituyan dominio público hidráulico (DPH) del Estado, ni a las zonas de servidumbre y policía. Sin embargo, la
+zona de actuación se ubica dentro de un perímetro de protección de una captación destinada a consumo humano.
+El municipio de Socuéllamos, y, por tanto, la ubicación del proyecto, se encuentra dentro de zona declarada vulnerable
+a la contaminación por nitratos de origen agrario “Mancha Occidental” (Orden de 21/05/2009, de la Consejería de
+Industria, Energía y Medio Ambiente).
+El documento ambiental contempla que en la fase de construcción se han llevado a cabo las actuaciones necesarias
+para la construcción de la totalidad de la fábrica en la parcela de c/ Portugal nº 5, y respecto de la Edari en la
+c/ Portugal Nº3, la construcción de la nave e instalaciones pendientes de terminar las obras de urbanización y
+obras exteriores. Los trabajos de construcción han implicado movimiento de tierras para cimentación y redes de
+saneamiento y acondicionamiento del terreno, resaltando que durante su ejecución no se han hallado restos u
+objetos con valor cultural.
+La fase de obras pendiente de ejecutar podrá conllevar un aumento del ruido ambiental y gases de combustión en
+el entorno próximo a la maquinaria empleada. También se prevén emisiones de material particulado a la atmósfera
+producidas por los movimientos de tierras que se realicen. Los mismos también son la principal causa de las posibles
+afecciones al suelo. Los posibles impactos que se puedan generar en esta fase serán de efecto temporal, como,
+por ejemplo, la producción de residuos procedentes de las obras, la emisión de ruidos y gases por la maquinaria
+y vehículos de la obra, etc. Los residuos anteriormente mencionados, serán entregados a un gestor autorizado
+para residuos de construcción y demolición. De la valoración realizada se concluye que los impactos en esta fase
+serán de carácter temporal a corto plazo, reversibles y recuperables, que quedarán minimizados con las medidas
+preventivas, considerándose por tanto impactos compatibles.
+En las áreas del entorno donde se prevé el empleo de maquinaria existe la probabilidad de vertido de combustible,
+riesgo derivado de condiciones inadecuadas del estado de la maquinaria o malas prácticas en su empleo. También se
+puede dar cierta compactación del suelo provocada por el trasiego de maquinaria, vehículos y acopio de materiales.
+El documento ambiental recoge la valoración de los efectos ambientales derivados de la vulnerabilidad del proyecto
+frente a accidentes y catástrofes, determinando la aplicación de medidas preventivas y seguimiento en el programa
+de vigilancia, en los riesgos con valoración media.
+En la fase de funcionamiento de la actividad, los posibles impactos a valorar son la emisión de contaminantes a la
+atmósfera, generación de aguas residuales y generación de residuos, así como la emisión de ruidos y generación de
+olores, consumos de agua para abastecimiento y un posible aumento del tráfico en el acceso a la fábrica, impactos,
+
+AÑO XLV Núm. 131 13 de julio de 2026 26633
+que pueden derivar en molestias. Estos impactos en líneas generales también se consideran de baja magnitud y
+compatibles, aplicando las medidas preventivas y correctoras correspondientes.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Las medidas para la adecuada protección del medio ambiente indicadas por el promotor en el documento ambiental
+se deberán cumplir en cada fase del proyecto complementadas con las que se expresan a continuación, teniendo
+en cuenta que en los casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en
+la presente Resolución. Estas condiciones deberán tenerse debidamente en cuenta por el órgano sustantivo en el
+procedimiento de autorización del proyecto, de conformidad con el artículo 56.1 de la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha.
+4.1. Protección de áreas y recursos naturales protegidos. Fauna y vegetación.
+El proyecto no se ubica en áreas críticas para flora y fauna, ni en espacios naturales protegidos, ni en Red Natura
+2000, ni en Reserva de la Biosfera de la Mancha Húmeda, ni afecta al dominio público pecuario, ni a elementos
+geomorfológicos protegidos, por lo que no se prevé afección a los mismos.
+4.2. Protección de los sistemas hidrológico e hidrogeológico.
+CHGn emite Informe en fecha 29-04-2026 que habrá de ser tenido en cuenta en su totalidad. A continuación, se
+recogen algunos aspectos del mismo:
+Se detallan las principales características de la Edari:
+* Línea de agua:
+- Pozo de acumulación y bombeo de agua bruta con bomba centrífuga de 40 m3/h de caudal.
+- Desbaste de sólidos en tamiz rotativo de 1 mm. de luz de paso.
+- Depósito de homogeneización cilíndrico vertical fabricado en AISI-304 de 220 m3 de capacidad, dotado de agitador
+sumergible.
+- Bombeo a tratamiento físico-químico con dos (1+1R) bombas centrífugas de 20 m3/h de caudal nominal.
+- Caudalímetro electromagnético.
+- Tratamiento físico-químico consistente en: Mezclador estático con dosificación de coagulante y floculante; Medidor
+de pH; Depósito DAF de coagulación-floculación fabricado en AISI-304 de dimensiones: 4,5 m de largo x 1,6 m de
+ancho x 2 m. de alto.
+- Depósito de bombeo a tratamiento biológico fabricado en poliester reforzado con fibra de vidrio (PRFV) de 1 m3 de
+capacidad dotado de dos (1+1R) bombas centrífugas de 25 m3/h de caudal.
+- Reactor biológico en proceso de fangos activos por oxidación prolongada, fabricado en AISI-304, de 395 m3 de
+capacidad y dotado de parrilla de difusores de membrana fina.
+- Medida de caudal de agua tratada en caudalímetro electromagnético.
+- Clarificador de fangos por flotación en un segundo depósito DAF fabricado en AISI-304 de dimensiones: 4,5 m de
+largo x 1,6 m de ancho x 2 m de alto.
+- Salida de agua tratada a colector municipal.
+* Línea de fangos:
+- Bombeo de fangos desde el clarificador mediante bomba tipo tornillo de 4 m3/h de caudal.
+- Tanque de homogeneización y acondicionamiento de fangos fabricado en PRFV de 30 m3 de capacidad, dotado
+de agitar lateral y bombeo a deshidratación.
+- Deshidratación mecánica de fangos mediante tornillo deshidratador de 2 m3/h de capacidad.
+- Almacenamiento del fango deshidratado en tolva troncocónica de 3 m de diámetro y 10,46 m de altura total, para
+posterior retirada periódica por gestor autorizado.
+El vertido del efluente depurado se pretende incorporar a la red de saneamiento municipal de Socuéllamos, para su
+posterior tratamiento en la estación depuradora de aguas residuales urbanas (Edaru) de la aglomeración urbana, en
+un punto de vertido con coordenadas UTM aproximadas (Datum ETRS89) X(30): 516.503; Y: 4.348.691.
+El proyecto se encuentra fuera de zona de policía de cauces públicos, por lo que no se prevé afección física alguna
+a cauces que constituyen el Dominio Públicos Hidráulico (DPH) del Estado (definido en el artículo 2 del Real Decreto
+Legislativo 1/2001, de 20 de julio, por el que se aprueba el Texto Refundido de la Ley de Aguas (TRLA)), ni zonas
+
+AÑO XLV Núm. 131 13 de julio de 2026 26634
+de servidumbre y policía de los mismos, de acuerdo con los artículos 6 y 7 del Reglamento del DPH, aprobado por
+Real Decreto 849/1986, de 11 de abril.
+La zona de actuación se ubica dentro de un perímetro de protección de una captación destinada a consumo
+humano, de acuerdo con plano incluido en informe de CHGn de 29-04-2026. Este perímetro está incluido en el
+apéndice 2 del Anejo 8 de la Memoria del Plan Hidrológico de la parte española de la Demarcación Hidrográfica
+del Guadiana (DHGn), aprobado por el Real Decreto 35/2023, de 24 de enero (B.O.E. nº 35, de 10/02/2023). Los
+perímetros de protección se limitan a proteger el área de llamada asociada a la captación de agua (con límites
+hidrogeológicos y zonas de recarga lateral). Dentro de los perímetros de protección, y conforme al artículo 97 del
+TRLA, queda prohibida, con carácter general y sin perjuicio de lo dispuesto en el artículo 100 de la citada ley, el
+ejercicio de actividades susceptibles de provocar la contaminación o degradación del DPH. Asimismo, los planes
+hidrológicos podrán además imponer limitaciones al otorgamiento de nuevas concesiones de aguas, autorizaciones
+de vertido u otras autorizaciones o concesiones de su competencia con objeto de reforzar la protección de las aguas
+superficiales y subterráneas en estos perímetros. Los perímetros de protección podrán imponer condicionamientos
+a otras actividades o instalaciones que puedan afectar a la calidad y cantidad de las aguas, de forma directa o
+indirecta, poniendo en riesgo la consecución de los objetivos establecidos en la normativa sobre calidad de las
+aguas de consumo humano.
+Respecto del abastecimiento de agua a las instalaciones, cuando éste se realiza desde la red municipal, la
+competencia para el suministro es del propio Ayuntamiento, siempre y cuando disponga de los derechos de uso
+suficientes.
+Respecto de las aguas residuales generadas por las instalaciones, cuando estas se viertan a la red municipal,
+la competencia para su autorización de vertido corresponde al propio Ayuntamiento. Dichos vertidos de aguas
+residuales domésticas y asimiladas, así como las aguas residuales industriales generadas, habrán de cumplir lo
+establecido en la ordenanza municipal de vertidos a la red general de saneamiento del municipio de Socuéllamos
+(publicada en el BOP de Ciudad Real nº 117 de 30 de septiembre de 2009), y que recoge los siguientes valores
+límites aplicables en el efluente de salida de la Edari previamente a su incorporación a la red de saneamiento:
+Parámetro Valores límite en salida Edari Valores límites puntuales permitidos en la Ordenanza
+pH Entre 6 y 9 Entre 6 y 9
+DBO5 Menor o igual que 350 mg/l Menor o igual que 600 mg/l
+DQO Menor o igual que 500 mg/l Menor o igual que 1.500 mg/l
+Sólidos en Suspensión Menor o igual que 100 mg/l Menor o igual que 500 mg/l
+Nitrógeno total Menor o igual que 60 mg/l Menor o igual que 69 mg/l
+Aceites y Grasas Menor o igual que 100 mg/l Menor o igual que 200 mg/l
+Tabla 1
+Informa CHGn que, de acuerdo con el apartado 2 del artículo 101 del vigente texto refundido de la Ley de Aguas
+(TRLA), le corresponde al núcleo urbano de Socuéllamos la función de control, policía y autorización de los vertidos
+efectuados en cualquier punto de la red de saneamiento municipal.
+Se recuerda que el artículo 245 del Reglamento del DPH, aprobado por Real Decreto 849/1986, de 11 de abril,
+establece que, queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales
+susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo
+que se cuente con la previa autorización. Dicha autorización corresponde a la administración hidráulica competente,
+salvo en los casos de vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores gestionados
+por las Administraciones autonómicas o locales o por entidades dependientes de las mismas, en los que la
+autorización corresponderá al órgano autonómico o local competente.
+El artículo 8 del Real Decreto 509/1996, de 15 de marzo, de desarrollo del Real Decreto-Ley 11/1995, de 28 de
+diciembre, por el que se establecen las normas aplicables al tratamiento de las aguas residuales urbanas, dispone
+que, los vertidos de las aguas residuales industriales en los sistemas de alcantarillado, sistemas colectores o en las
+instalaciones de depuración de aguas residuales urbanas, serán objeto del tratamiento previo que sea necesario para:
+a) Proteger la salud del personal que trabaje en los sistemas colectores y en las instalaciones de tratamiento.
+b) Garantizar que los sistemas colectores, las instalaciones de tratamiento y los equipos correspondientes no se
+deterioren.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26635
+c) Garantizar que no se obstaculice el funcionamiento de las instalaciones de tratamiento de aguas residuales.
+d) Garantizar que los vertidos de las instalaciones de tratamiento no tengan efectos nocivos sobre el medio ambiente
+y no impidan que las aguas receptoras cumplan los objetivos de calidad de la normativa vigente.
+e) Garantizar que los fangos puedan evacuarse con completa seguridad de forma aceptable desde la perspectiva
+medioambiental. En ningún caso se autorizará su evacuación al alcantarillado o al sistema colector.
+En virtud de lo anterior, los vertidos procedentes de industrias establecidas en el municipio de Socuéllamos deberán
+ser objeto del tratamiento previo que sea necesario para, entre otros extremos, garantizar que no se obstaculice
+el funcionamiento adecuado de la estación depuradora de aguas residuales urbanas (Edaru) del núcleo urbano de
+Socuéllamos y que los vertidos de esta Edaru no tengan efectos nocivos sobre el medio ambiente.
+No obstante, en virtud de lo dispuesto en el precitado artículo 8 del Real Decreto 209/1996, los vertidos procedentes
+de industrias deberán ser objeto del tratamiento depurador previo que sea necesario para, entre otros extremos,
+garantizar que no se obstaculice el funcionamiento adecuado de la Edaru de la aglomeración urbana de Socuéllamos
+y que los vertidos de esta Edaru no tengan efectos nocivos sobre el medio ambiente.
+A la vista de la documentación remitida, el efluente una vez depurado con la Edari proyectada se podría verter, en
+principio, a la red de saneamiento municipal cumpliendo en todo momento con lo dispuesto en la correspondiente
+Ordenanza municipal de vertidos a la red general de saneamiento de Socuéllamos.
+Dado que el vertido urbano de la aglomeración urbana de Socuéllamos a la Edaru es muy superior al vertido
+industrial objeto del presente informe, el porcentaje del mismo apenas afectaría al efluente de entrada en la Edaru.
+Por todo lo anterior, la sociedad promotora Cabezuelo Foods, S.L. deberá obtener la correspondiente autorización
+administrativa del Ayuntamiento de Socuéllamos para el vertido el efluente generado en las instalaciones, una vez
+depurado, a la red de saneamiento municipal.
+Con objeto de proteger adecuadamente la calidad de las aguas del dominio público hidráulico respecto de los
+efectos perjudiciales que pudiera producir la gestión que se efectúe con las aguas residuales industriales de esta
+instalación, se deben observar las condiciones siguientes:
+- En el condicionado de la autorización de vertido otorgada por el Ayuntamiento de Socuéllamos, y de conformidad
+con lo establecido en el Reglamento municipal de vertidos, se debería obligar a la entidad promotora a disponer de
+una arqueta de toma de muestras fácilmente accesible desde el exterior de la instalación y a implantar y explotar
+adecuadamente los equipos e instalaciones que permitan medir en continuo, registrar y poner a disposición del
+personal técnico del Ayuntamiento de Socuéllamos (o del que designe esta entidad municipal) y del personal técnico
+responsable de la explotación del sistema de saneamiento y depuración de la aglomeración urbana de Socuéllamos,
+los valores relativos al caudal de vertido que se esté efectuando, según lo dispuesto en la Ordenanza municipal de
+vertidos.
+Personal técnico del Ayuntamiento de Socuéllamos, y en su caso el que designe esa entidad municipal, deberá
+poder acceder en todo momento a los elementos de control referidos en los párrafos anteriores.
+- El Ayuntamiento de Socuéllamos deberá requerir al titular de la autorización (TA) que le informe, sobre el
+funcionamiento de las instalaciones de tratamiento de las aguas residuales, para lo cual, deberá remitirle un informe
+anual, dentro de los tres (3) primeros meses de cada año, conteniendo entre otros extremos las incidencias y los
+principales datos relativos a la explotación del año anterior de las instalaciones de evacuación y tratamiento de las
+aguas residuales: caudales reales de vertido, incidencias, declaraciones, autocontroles e informes de análisis de
+aguas de vertido realizado por un Organismo de control autorizado.
+- Si la práctica demostrase la insuficiencia del dimensionamiento y/o tratamiento de las instalaciones de depuración
+proyectadas, el Ayuntamiento debería fijar un plazo al TA para que proceda a ejecutar las obras, instalaciones y
+medidas correctoras necesarias para su corrección inmediata. Asimismo, se pondrá en conocimiento, por escrito, al
+Ayuntamiento de Socuéllamos y a la Confederación Hidrográfica del Guadiana dichas circunstancias, así como a los
+demás Organismos encargados de velar por la protección del Medio Ambiente, a fin de que se tomen las medidas
+adecuadas.
+- Los lodos y/o productos residuales obtenidos deberán ser retirados, con la frecuencia que estime la legislación en
+esta materia, y gestionados mediante gestor autorizado de residuos debidamente homologado por la Consejería de
+Desarrollo Sostenible de la JCCM.
+- Deberá llevarse al día un registro documental que permita acreditar adecuadamente la gestión que se efectúa
+con estos lodos y residuos. Este registro documental estará disponible en todo momento para las comprobaciones
+que estimen oportunas efectuar los inspectores de las distintas administraciones con competencias en materias de
+
+AÑO XLV Núm. 131 13 de julio de 2026 26636
+protección del medio ambiente. Los documentos que integran este registro, deberán conservarse por un plazo no
+inferior a cinco (5) años.
+- Deberá tener a disposición de los Organismos encargados de velar por la protección del Medio ambiente, a petición
+del personal acreditado por los mismos, la documentación que permita demostrar la correcta realización de la
+gestión de las aguas residuales generadas en la instalación.
+En cualquier caso, se deberán adoptar las medidas oportunas para evitar la contaminación del suelo y de las aguas
+superficiales y subterráneas de cualquier tipo de vertido artificial durante las obras y explotación del proyecto.
+4.3. Protección a infraestructuras, Vías Pecuarias y Monte de Utilidad Pública
+En relación con las posibles afecciones a la carretera CM-3111 (variante población), la Dirección General de
+Carreteras de la Consejería de Fomento en su Informe de 28-04-2026 señala lo siguiente:
+- En la documentación presentada se expone que, para la recogida de las aguas pluviales, el recinto dispone de
+una serie de colectores que, mediante una red de bajantes de PVC de diferentes diámetros, canalizan el agua hasta
+las arquetas, donde conectan con la red existente separativa de pluviales y viales de la instalación, la cual vierte
+finalmente a la red municipal de saneamiento.
+- En cualquier caso, se hace constar de forma expresa que si en el futuro se producen episodios de inundaciones en
+la carretera CM-3111 (variante) por las instalaciones previstas en el proyecto, el promotor o la entidad que ostente
+la gestión de las mismas queda obligado a la implementación de medidas adicionales a su cargo, como por ejemplo
+la colocación de obras de drenaje de mayores dimensiones o complementarias a las existentes que garantice la
+evacuación de los caudales de avenida producidos.
+- Las zonas de afección de la carretera CM-3111 como variante de población vienen definidas en el apartado 5.02
+del informe de D. Gral. Carreteras y básicamente son las siguientes:
+* La zona de dominio público queda definida exteriormente por una línea situada a 8 m, medidos desde la arista
+exterior de la explanación.
+* La zona de servidumbre queda definida exteriormente por una línea situada a 25 m, medidos desde la arista
+exterior de la explanación.
+* La zona de protección queda definida exteriormente por una línea situada a 30 m, medidos desde la arista exterior
+de la explanación, si bien debe ser coincidente o exterior a la línea de edificación.
+* La línea límite de edificación se sitúa a una distancia de 50 m, medidos desde la arista exterior de la calzada (línea
+blanca del arcén).
+Para poder valorar adecuadamente la viabilidad técnica del proyecto respecto la afección directa a la red de
+carreteras autonómica, se debe elaborar y presentar un plano de planta en el que aparezcan todos los elementos que
+componen la fábrica de productos precocinados y la Edari (edificación fábrica, puertas de entrada, infraestructuras
+Edari, vallado, almacenes, viales, etc.), junto con la carretera CM-3111 (variante), y las líneas de afección de la
+misma trazadas según las distancias indicadas anteriormente, acotadas desde la arista exterior de la explanación
+y la arista exterior de la calzada. Junto a las líneas de afección, deben grafiarse las líneas que definen las aristas
+exteriores de la explanación y de la calzada desde las que se acotan las distintas zonas de afección de la CM-3111.
+- Los accesos a las carreteras son un concepto fundamental, ya que condicionan de forma importante la seguridad
+vial, razón por la cual están regulados normativamente en el Reglamento de la Ley 9/90 de Carreteras y Caminos
+de Castilla-La Mancha, (Decreto 1/2015, de 22 de enero), en sus artículos 66 y siguientes, y en la Orden Circular
+1/2019 sobre Accesos a la Red de Carreteras Autonómicas.
+El acceso a las instalaciones del proyecto se prevé desde la calle Portugal, considerada como un vial urbano del
+polígono industrial I-3 “El Llano”, con conexión con el núcleo urbano de Socuéllamos, por lo que cabe afirmar que no
+se produce ninguna afección por cambio de uso o nueva creación de los accesos existente a la Red de Carreteras
+Autonómica.
+En el caso de que se requiera un acceso de nueva creación o por uso de uno existente desde la red de carreteras
+autonómica, tal y como se establece en el artículo 66 y siguientes del Reglamento de Carreteras (Decreto 1/2015,
+de 22 de enero), se debe solicitar autorización de forma expresa a esta Dirección General de Carreteras.
+En cualquier caso, la instalación respetará las infraestructuras existentes y otras servidumbres que existan que
+serán transitables de acuerdo con sus normas específicas y el Código Civil.
+4.4. Protección del medio ambiente atmosférico (contaminación atmosférica, acústica y lumínica).
+Las estaciones depuradoras de aguas residuales en la industria están consideradas actividades potencialmente
+contaminadoras de la atmósfera (APCA), de acuerdo a lo especificado en la Ley 34/2007, de 15 de noviembre, de
+calidad del aire y protección de la atmósfera, y en el Real Decreto 100/2011, de 28 de enero, por el que se actualiza
+
+AÑO XLV Núm. 131 13 de julio de 2026 26637
+el catálogo de actividades potencialmente contaminadoras de la atmósfera y se establecen las disposiciones
+básicas para su aplicación. Siendo esta una planta con capacidad de tratamiento de 200 m3 al día, y, por tanto,
+encuadrándose la actividad en el grupo C, epígrafe 09 10 01 02, se deberán cumplir las especificaciones señaladas en
+la mencionada legislación. De acuerdo con su artículo 13, la actividad deberá ser notificada al órgano competente de
+la Comunidad Autónoma (actual Dirección General de Calidad Ambiental de la Consejería de Desarrollo Sostenible),
+que podrá establecer valores límites de los parámetros que correspondan (partículas, olores, etc.), y requisitos de
+control de los mismos.
+Por otro lado, los procesos industriales con combustión con calderas también están consideradas APCA pudiéndose
+encuadrar en el grupo A, B, C o sin grupo, dependiendo de su potencia térmica nominal, por lo que, su actividad
+deberá ser notificada igualmente a la Dirección General de Calidad Ambiental.
+Durante el tránsito de la maquinaria pesada y otros vehículos sobre caminos y viales de firme natural (no
+pavimentados), se adoptarán todas las medidas necesarias para evitar la emisión de polvo a la atmósfera. Para ello,
+entre otras medidas, se deberá circular a una velocidad que no rebase los 20 km/h cuando transiten por caminos o
+pistas de firme natural, y si fuera necesario, se realizará la humectación de las superficies de tránsito.
+En todo momento se utilizará maquinaria homologada y en perfectas condiciones de uso, con los requisitos de
+marcado CE o equivalente, en cuanto a emisión de ruidos y gases de combustión.
+Se aconseja aplicar las mejores técnicas disponibles en depuración para cumplir con los rendimientos requeridos y de
+acuerdo con las normas de calidad ambiental, para la consecución de los objetivos medioambientales establecidos
+y respetando los límites de emisión fijados reglamentariamente.
+Para evitar la molestia por dispersión de olores que pueda originar el transporte de los lodos generados en la
+Edari hacia las instalaciones del gestor autorizado de destino, los camiones deberán emplear lonas para cubrir la
+mercancía y evitar circular por zonas pobladas.
+En el caso de que las medidas correctoras resulten ser insuficientes y se detecten molestias significativas por
+malos olores, se podrá requerir al titular de la estación depuradora que cuenten con sistemas de desodorización
+adicionales a los previstos, previo estudio de olores en las fuentes de emisión, según establece la UNE 13725
+(Emisiones de fuentes estacionarias. Determinación de la concentración de olor por olfatometría dinámica y tasa de
+emisión de olor).
+Además, en cuanto a la prevención del ruido, se adoptarán las medidas y dispositivos en maquinaria y equipos
+asociados a la actividad para que se disminuyan al máximo los niveles de ruido generados por los mismos.
+Se procederá a la revisión y control periódico de los silenciadores de los escapes, rodamientos, engranajes y
+mecanismos de la maquinaria conforme determina el Real Decreto 212/2002, de 22 de febrero, por el que se regulan
+las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre, modificado por el Real
+Decreto 524/2006, de 28 de abril. El promotor del proyecto también será responsable de cumplir con lo establecido
+en la Ley 37/2003, de 17 de noviembre, del Ruido y en sus reglamentos de desarrollo, así como lo que puedan
+establecer al efecto las ordenanzas del municipio de Socuéllamos.
+Respecto a la iluminación, el diseño de las instalaciones contemplará un máximo aprovechamiento y optimización
+de la luz solar. Para la iluminación artificial se recomienda el uso de un sistema de iluminación LED para lograr un
+nivel de iluminación adecuado y eficiente.
+4.5. Protección de bienes materiales, incluido el patrimonio cultural
+El Servicio de Cultura informó que el proyecto evaluado y parcialmente ejecutado es compatible con la preservación
+del Patrimonio Cultural de la zona.
+Se recuerda que la Ley 4/2013, de 16 de mayo, en su artículo 52.2 establece que “El hallazgo casual de restos
+materiales con valor cultural se comunicará en un plazo máximo de 48 horas a la Consejería competente en materia
+de Patrimonio Cultural y a los Cuerpos y Fuerzas de Seguridad del Estado”.
+4.6. Protección del suelo y la geomorfología.
+La actividad de depuración de aguas residuales industriales está incluida como actividad susceptible de causar
+contaminación en el suelo de acuerdo a lo establecido en el Real Decreto 9/2005, de 14 de enero, por el que
+
+AÑO XLV Núm. 131 13 de julio de 2026 26638
+se establece la relación de actividades potencialmente contaminantes del suelo y los criterios estándares para la
+declaración de suelos contaminados, por lo que se deberán cumplir las especificaciones señaladas en la mencionada
+legislación.
+Las operaciones de mantenimiento de equipos, maquinaria y vehículos se realizarán dentro de instalaciones regladas
+para ello, con el objeto de evitar posibles vertidos. Las áreas de almacenamiento de productos químicos y residuos
+peligrosos o aquellas en las que se realice operaciones de mantenimiento de maquinaria y equipos deberán estar
+completamente aisladas de las redes de captación de aguas y suelo sin protección, garantizando la ausencia total
+de vertido o arrastre de contaminantes a dichos medios.
+Las zonas de almacenamiento de productos químicos dispondrán de redes estancas e independientes de captación
+de derrames y fugas, realizadas en suelo hormigonado e impermeabilizado, quedando imposibilitada la conducción
+de dichos vertidos a la red de evacuación de aguas residuales, pluviales o sin protección. Cualquier tipo de vertido o
+derrame por accidente de productos contaminantes, deberán ser gestionados mediante gestor autorizado.
+En caso de producirse accidentalmente depósitos de residuos o vertidos de aceites, combustibles u otro residuo
+peligroso, se procederá inmediatamente a su recogida y deberán de ser entregados a gestor autorizado, según
+las características del depósito o vertido. Se retirará igualmente la porción de suelo contaminado, si existiera,
+asegurándose en todo caso la no afección a aguas superficiales o subterráneas.
+Se tendrán en consideración todas las normas urbanísticas que, en su caso, sean de aplicación, en especial el Texto
+Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla – La Mancha.
+Las franjas de protección a establecer a cualquier infraestructura que pudiera verse afectada, tanto por las actuaciones
+a realizar como por el trasporte de medios y materiales, serán las que marque en cada caso su organismo gestor.
+4.7. Protección de la salud humana
+El sistema de abastecimiento de agua deberá cumplir las disposiciones del Real Decreto 3/2023, de 10 de enero,
+por el que se establecen los criterios técnico sanitarios de la calidad del agua de consumo, su control y suministro,
+especialmente el capítulo VI, que se refiere a la calidad del agua en la empresa alimentaria. Además, la industria
+alimentaria deberá cumplir con la normativa aplicable sobre higiene de alimentos.
+Se debe garantizar el cumplimiento de la normativa referente a la prevención de riesgos laborales y demás legislación
+vigente que contemple la protección de la salud humana.
+Se deberá realizar el adecuado mantenimiento de la instalación durante su funcionamiento, para evitar afecciones
+por malos olores. Además, es recomendable la implantación de un programa de desinsectación, desratización y
+desinfección de la instalación para evitar la proliferación de vectores.
+4.8. Protección ante accidentes graves y/o catástrofes
+En relación con el municipio de Socuéllamos, se detectan los siguientes niveles de riesgo identificados en los
+diferentes Planes, circunstancia que habrá de ser tenida en cuenta a efectos oportunos:
+- Según el Plan Territorial de Emergencia de Castilla la Mancha (Platecam), el municipio de Socuéllamos no figura
+incluida dentro del grupo de localidades afectadas de riesgo químico por alguna de las instalaciones industriales
+sujetas a normativa de prevención de accidentes graves con sustancias peligrosas (normativa Seveso).
+- Según el Plan Especial de protección Civil ante el riesgo de Inundaciones en Castilla-La Mancha (Pricam), el
+municipio de Socuéllamos está afectado por un Área de Riesgo Potencialmente Significativo de Inundación (ARPSI),
+estando obligado a la elaboración de un Plan de Actuación Municipal ante el Riesgo por Inundaciones.
+La norma básica de autoprotección (NBA), aprobada por Real Decreto 393/2007, establece en su Anexo I las
+actividades (estableciendo umbrales mínimos) para las que se deberán presentar el correspondiente Plan de
+Autoprotección (PA), junto con el resto de los documentos necesarios para el otorgamiento de la licencia, permiso o
+autorización necesaria para el comienzo de la actividad. En caso de ser necesario, el titular de la actividad deberá
+inscribir el citado documento en el Registro de Planes de Autoprotección de Castilla-La Mancha, regulado por
+Decreto 1/2018, de 9 de enero.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26639
+Los almacenamientos de productos químicos cumplirán las especificaciones técnicas establecidas en el Real Decreto
+656/2017, de 23 de julio, por el que se aprueba el Reglamento de Almacenamiento de Productos Químicos y sus
+Instrucciones Técnicas Complementarias, siempre que les sean de aplicación. En su caso, se mantendrán las distancias
+establecidas respecto a construcciones, almacenamientos y vías de comunicación, y se colocarán, bien visibles, en el
+almacenamiento y, sobre todo, en las áreas de manipulación, señales normalizadas según establece el Real Decreto
+485/1997, de 14 de abril, sobre disposiciones mínimas en materia de señalización de seguridad y salud en el trabajo,
+que indiquen claramente la presencia del producto químico además de los riesgos que pudieran existir.
+Las instalaciones contarán con una protección contra incendios de acuerdo con el Real Decreto 164/2025, de 4 de
+marzo, por el que se aprueba el Reglamento de seguridad contra incendios en los establecimientos industriales, y
+resto de normativa de aplicación.
+4.9. Generación y gestión de residuos
+Todos los residuos generados, incluidos los lodos procedentes de la Edari, deberán ser categorizados y destinados
+adecuadamente a su correspondiente gestor autorizado, y en todo caso almacenados y gestionados conforme con
+la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, la Orden de 21/01/2003,
+de la Consejería de Agricultura y Medio Ambiente, por la que se regulan las normas técnicas específicas que deben
+cumplir los almacenes y las instalaciones de transferencia de residuos peligrosos, y el Decreto 35/2024, de 2 de
+julio, por el que se aprueba el Plan de Prevención y Gestión de Residuos de Castilla-La Mancha 2030. También será
+de observancia lo establecido en el Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y
+gestión de los residuos de construcción y demolición, en su caso.
+Todos los residuos almacenados deberán estar etiquetados conforme a la normativa en vigor (Ley 7/2022, de 8
+de abril, de residuos y suelos contaminados para una economía circular y Reglamento (CE) Nº 1272/2008 del
+Parlamento y del Consejo de 16 de diciembre de 2008 sobre clasificación, etiquetado y envasado de sustancias y
+mezclas). En el caso de almacenamiento de residuos peligrosos, éstos deberán estar protegidos de la intemperie y
+disponer de sistemas de retención de vertidos y derrames.
+En caso de generarse lodos y residuos sólidos de carácter contaminante deberán ser eliminados por un procedimiento
+adecuado que no dé lugar a la contaminación de aguas superficiales o subterráneas por infiltración o escorrentías,
+ni produzca contaminación atmosférica, o del suelo, por encima de los niveles permitidos en la legislación vigente.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado. En caso de
+cualquier incidencia, como derrame accidental de combustibles o lubricantes, se actuará de forma que se restaure
+el suelo afectado, extrayendo la parte de suelo contaminado, que deberá ser recogido y transportado por gestor
+autorizado para su posterior tratamiento.
+Durante el desarrollo de la actividad debe conservarse la documentación acreditativa de entrega de los residuos
+generados a gestores autorizados.
+Tras la finalización de las obras proyectadas, la zona de actuación deberá quedar totalmente limpia de residuos y
+sin dejar ningún elemento en superficie.
+4.10. Desmantelamiento y cambio de titular.
+Una vez finalizada la actividad de forma permanente, en caso de que se opte por el desmantelamiento de las
+instalaciones, se retirarán todos los restos de material y residuos a vertederos adecuados a la naturaleza de
+cada residuo y se restaurarán los terrenos ocupados por estas a su estado original, dejando el área de actuación
+en perfecto estado de limpieza. Será de obligado cumplimiento la Ley 7/2022 de 8 de abril, residuos y suelos
+contaminados, para una economía circular. El desmontaje deberá ponerse en conocimiento del órgano ambiental,
+para lo que dispone de un plazo máximo de 1 año tras la finalización de la actividad.
+Asimismo, en caso de que la actividad sea traspasada o cambie de titular, también se deberá poner en conocimiento
+de los órganos sustantivo y ambiental.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26640
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o
+de las medidas correctoras y compensatorias establecidas. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia. Cada informe deberá estar suscritos conjuntamente por el promotor
+y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre
+el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia y seguimiento ambiental (PVSA) y el listado de comprobación se harán públicos en la sede
+electrónica del órgano sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El Programa de Seguimiento y Vigilancia Ambiental (PSVA) establecerá un sistema que garantice el cumplimiento
+de las indicaciones y de las medidas previstas en la presente Resolución, tanto en la fase de ejecución como en la
+de explotación, desmantelamiento o demolición. Este programa atenderá a la vigilancia, durante la fase de obras,
+y al seguimiento, durante la fase de explotación del proyecto, y deberá contener un cronograma estimado para las
+actuaciones de vigilancia y seguimiento que contemple con el fin de supervisar su cumplimiento, estableciendo un
+número mínimo de visitas.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control de la ejecución del proyecto conforme a las prescripciones que figuran en la presente Resolución, así como
+las que se proponen en el documento ambiental presentado por el promotor mientras no se opongan o contradigan
+a las primeras.
+- Control de la implantación y eficacia de las medidas de carácter preventivo y corrector.
+- Control de arqueológico de las obras de ejecución del proyecto.
+- Control del cumplimiento del Informe de CHGn de 29-04-2026.
+- Control de la no afección a las infraestructuras viarias.
+- Control de las medidas de protección al medio ambiente atmosférico establecidas, en particular las relativas a
+emisión de material particulado y a olores.
+- Control de la correcta gestión de los residuos producidos.
+- Control de las medidas para evitar y gestionar, en su caso, posibles derrames y vertidos de sustancias peligrosas.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo (Ayuntamiento
+de Socuéllamos):
+1) Antes del inicio de la actividad:
+- (*) Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- (*) Designación por parte del promotor de un responsable para el cumplimiento del Programa de Seguimiento y
+Vigilancia Ambiental del proyecto.
+- Documentación para obtención de la autorización de vertido del Ayuntamiento de Socuéllamos respecto del efluente
+depurado en la Edari. Se hace observar que dicha autorización habrá de incorporar los condicionantes establecidos
+por CHGn en su Informe de 29-04-2026.
+- De la D. Gral. de Carreteras, informe de afección a la CM-3111 (variante población), de acuerdo con lo indicado en
+su informe de 28-04-2026.
+
+AÑO XLV Núm. 131 13 de julio de 2026 26641
+- Contratos para el tratamiento de residuos generados por la fábrica y Edari con gestor autorizado.
+- Justificante de Comunicación a la D. Gral. Calidad Ambiental de la Consejería de Desarrollo Sostenible como actividad
+potencialmente contaminadora de la atmósfera (notificación grupo C https://www.jccm.es/sede/tramite/JYS ).
+2) Iniciada la actividad:
+- (**) Con frecuencia anual, antes del 1 de abril de cada año, y durante los primeros tres años desde el inicio
+de actividad, deberán presentarse los Informes correspondientes a los controles y actuaciones en aplicación
+del Programa de Seguimiento y Vigilancia Ambiental (PSVA) según las condiciones que figuran en la presente
+Resolución.
+- En un plazo no superior a 2 años, justificante de comunicación a la D. Gral. Calidad Ambiental de la Consejería de
+Desarrollo Sostenible en materia de suelos contaminados (trámite https://www.jccm.es/tramites/1002914).
+El órgano sustantivo remitirá una copia de la documentación marcada con (*) al órgano ambiental (Servicio de
+Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real). El promotor presentará la
+documentación indicada con (**) ante el órgano sustantivo y ante el órgano ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Ciudad Real, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y
+las competencias de la Consejería de Desarrollo Sostenible, y modificaciones posteriores, y en el ejercicio de las
+atribuciones conferidas por la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que
+se delegan competencias en las delegaciones provinciales de la Consejería de Desarrollo Sostenible, y conforme a
+la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto de “fábrica
+de productos precocinados de cebolla y estación depuradora de aguas residuales en Socuéllamos (Ciudad Real)”
+(Exp. S478/2026/CR/00115), no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse
+que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales y de
+seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha,
+salvo que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, y con el artículo 47.4 de la Ley 21/2013,
+de 9 de diciembre, de evaluación ambiental (estatal). El promotor podrá solicitar prorroga de vigencia antes de que
+transcurra el plazo de la misma, la cual se podrá conceder, en su caso, por dos años adicionales, contados a partir
+de la finalización del plazo inicial de vigencia, para lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020.
+En el caso de producirse la caducidad, el promotor deberá iniciar nuevamente el procedimiento de evaluación de
+impacto ambiental simplificada del proyecto. De conformidad con el artículo 55.5 de la Ley 2/2020, el presente
+informe de impacto ambiental no será objeto de recurso alguno sin perjuicio de los que pudieran proceder en vía
+administrativa o judicial frente al acto futuro de autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Se adjunta anexo cartográfico con la situación del proyecto.
+Ciudad Real, 30 de junio de 2026
+El Delegado Provincial
+AGUSTÍN ESPINOSA ROMERO
+
+AÑO XLV Núm. 131 13 de julio de 2026 26642
+ANEXO CARTOGRÁFICO
