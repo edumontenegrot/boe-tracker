@@ -1,0 +1,579 @@
+AÑO XLV Núm. 132 14 de julio de 2026 27010
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 24/06/2026, de la Dirección General de Calidad Ambiental, por la que se formula la declaración
+de impacto ambiental del proyecto: Ampliación de industria de fabricación de canalizaciones eléctricas
+metálicas y de PVC (expediente S478/2025/DG/00018), situado en el término municipal de Almansa (Albacete),
+cuya promotora es Basor Electric, SA. [2026/5292]
+La Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, define la Declaración de Impacto
+Ambiental en su artículo 4.3 como el informe preceptivo y determinante del órgano ambiental con el que concluye la
+Evaluación de Impacto Ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el proyecto y
+determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de los recursos
+naturales durante la ejecución y la explotación y, en su caso, el desmantelamiento o demolición del proyecto.
+Asimismo, en su artículo 8.1 se establece que los proyectos incluidos en su ámbito de aplicación deben someterse
+a una Evaluación Ambiental antes de su autorización por el órgano sustantivo, o bien, si procede, antes de la
+presentación de la correspondiente declaración responsable o comunicación previa. En particular, su artículo 6
+determina los proyectos que deben someterse a una Evaluación de Impacto Ambiental ordinaria y los que deben
+someterse a una Evaluación de Impacto Ambiental simplificada.
+El proyecto denominado “Ampliación de industria de fabricación de canalizaciones eléctricas metálicas y de PVC”
+constituye una ampliación de instalaciones existentes que se encuadra en el artículo 6.1.c de la Ley 2/2020, al poder
+tener efectos adversos significativos sobre el medio ambiente de acuerdo con los criterios definidos en el mismo
+artículo.
+El proyecto objeto de ampliación se incluye en los epígrafes 4.c y 4.f de su Anexo I: instalaciones para la elaboración
+de metales ferrosos en las que se aplican de capas protectoras de metal fundido con una capacidad de tratamiento
+de más de 2 t de acero bruto por hora e instalaciones para el tratamiento de la superficie de metales y materiales
+plásticos por proceso electrolítico o químico, cuando el volumen de las cubetas o de las líneas completas destinadas
+al tratamiento empleadas sea superior a 30 metros cúbicos.
+En este caso, la actuación ha sido objeto de Evaluación de Impacto Ambiental ordinaria, de acuerdo con el artículo
+6.1.c de la Ley 2/2020, solicitada por el promotor mediante la aportación del Estudio de Impacto Ambiental junto con
+la solicitud de la Autorización Ambiental Integrada para la Modificación Sustancial de la instalación, registrada con
+número 1579210 de 24 de abril de 2025.
+En efecto, tras el análisis de la documentación del expediente, se concluye que la ampliación supera por sí sola los
+umbrales, tanto del epígrafe 4.c del Anexo I (aplicación de capas protectoras de metal fundido con una capacidad
+de tratamiento de más de acero bruto por hora 2 t) pues la nueva línea de galvanizado cuenta con una capacidad
+de producción de 4 t/ hora de acero bruto, como del epígrafe 4.f (30 m3 de volumen de las cubetas o de las líneas
+completadas destinadas al tratamiento), ya que el volumen total de las cubas destinadas al tratamiento que se
+incorporan a la planta con la nueva línea de electrocincado es de 233 m3, sin contar los volúmenes de las cubetas
+destinadas a los lavados.
+Al respecto de este umbral, procede tener en consideración que el Reglamento de emisiones industriales y de
+desarrollo de la Ley 16/2002 de 1 de julio, de Prevención y Control Integrados de la Contaminación, aprobado por
+el Real Decreto 815/2013 de 18 de octubre, aclara que debe ser excluido el volumen de las cubetas de lavado
+para el cómputo del volumen total destinado al tratamiento (epígrafe 2.6 del Anexo I del Reglamento). Si bien esta
+aclaración se refiere al ámbito de aplicación de la Ley de Prevención y Control Integrados de la Contaminación (cuyo
+Texto Refundido se aprueba por el Real Decreto Legislativo 1/2016 de 16 de diciembre), procede extender esta
+aclaración al epígrafe equivalente de la legislación de Evaluación de Impacto Ambiental.
+Primero. Promotor, órgano sustantivo y descripción del proyecto.
+1.1 Promotor, órgano sustantivo y ubicación.
+El promotor del proyecto es Basor Electric, S.A. sociedad con CIF A-46362778 y domicilio social en Avda. Alcodar,
+45, Polígono Industrial Alcodar, CP 46071, de Gandía (Valencia).
+
+AÑO XLV Núm. 132 14 de julio de 2026 27011
+El órgano sustantivo es el Ayuntamiento de Almansa. No obstante, de acuerdo con el artículo 60 de la Ley 2/2020, las
+funciones atribuidas al órgano sustantivo en la tramitación de la Evaluación de Impacto Ambiental son desempeñadas
+por el órgano competente en emitir la Autorización Ambiental Integrada de las instalaciones: la Dirección General de
+Economía Circular inicialmente, y la Dirección General de Calidad Ambiental en la actualidad.
+El proyecto evaluado consiste en la implantación de una nueva línea de cincado electrolítico con doble bastidor, una
+línea de galvanizado en caliente con horno de alta eficacia y una línea de extrusión de tubo corrugado de pared simple,
+ampliando de esta forma las instalaciones existentes de fabricación de canalizaciones eléctricas metálicas y de PVC,
+titularidad de Basor Electric, S.A., situadas en Almansa, Polígono Industrial El Mugrón cuarta fase, Calle Industrial Juan
+Fito Pérez, 4 (parcelas M1 Y M8). Sus coordenadas UTM referidas al huso 30 (sistema ETRS89) son:
+- Parcela M1: X: 662.907, Y: 4.304.604
+- Parcela M8: X: 662.726, Y: 4.304.490
+Conviene aclarar que todas las nuevas instalaciones proyectadas estarán ubicadas en la parcela M1.
+Las distancias aproximadas desde la planta hasta las zonas sensibles y vías de comunicación públicas más próximas,
+son las siguientes:
+- Núcleo urbano de Almansa a un kilómetro aproximado de distancia.
+- Zona de especial Conservación (ZEC) de la Sierra del Mugrón a 6 km.
+- Zona de Especial Protección de las Aves (ZEPA) del Área Esteparia del Este de Albacete a unos 9,6 km.
+- Carretera CM-412 lindante con la instalación al este.
+- Autovía A-31 a menos de 200 m de la instalación al norte.
+1.2 Descripción global de las instalaciones.
+Se trata una instalación industrial destinada a la fabricación de canalizaciones eléctricas metálicas y de materiales
+plásticos (PVC, PP y policarbonato) con y sin tratamiento superficial aplicado, como acabado de las canalizaciones
+(pintura, electrocincado, bicromatizado y pasivado).
+En la planta se realizan básicamente los siguientes procesos:
+- Fabricación de bandeja metálica.
+- Fabricación de bandeja de hilo.
+- Fabricación de bandeja de PVC.
+- Fabricación de bandeja en escalera mediante proceso de soldado automático, contando con una celda de soldado
+robotizada con dos robots antropomorfos.
+- Fabricación mediante extrusión de bandeja de PC-ABS.
+- Fabricación de tubo de PVC/PP/policarbonato.
+- Proceso de corte de bobinas y electrosoldado.
+- Proceso de tratamiento superficial en túnel de pintura, con resinas híbridas epoxi-poliéster o poliéster en polvo,
+mediante aplicación electrostática y posterior polimerización en horno.
+- Proceso de tratamiento superficial mediante 2 líneas de electrocincado (una de ellas también con bicromatizado).
+Mediante el proceso de electrocincado se da a las piezas metálicas un recubrimiento de zinc para protegerlas de la
+oxidación y de la corrosión.
+- Proceso de tratamiento superficial mediante pasivado (1 línea). El tratamiento de pasivado, se realiza al acero
+inoxidable con el fin de limpiarlo y protegerlo, a través de un procedimiento complejo de desengrase químico, lavado,
+decapado, pasivado y lavado.
+Las tres líneas de tratamiento superficial de metales mediante electrocincado y pasivado, están compuestas
+básicamente por los siguientes elementos y capacidades aproximadas:
+- Línea electrocincadora 1: línea de electrocincado que puede realizar también acabado bicromatizado. Está
+compuesta por 21 cubas de líquidos y 2 cubas de secado, para un volumen total de las balsas de 124,31 m3 incluidos
+enjuagues (83,81 m3 sin los enjuagues).
+- Línea electrocincadora 2: esta línea de electrocincado no puede realizar proceso de bicromatizado. Está compuesta
+por 23 cubas de líquidos y 2 cubas de secado, para un volumen total de las balsas de 116,85 m3 incluidos enjuagues
+(84,5 m3 sin los enjuagues).
+
+AÑO XLV Núm. 132 14 de julio de 2026 27012
+- Línea de pasivado: compuesta por 7 cubas, para un volumen total de las balsas de 49 m3 incluidos enjuagues (21
+m3 sin los enjuagues).
+La sección de productos plásticos cuenta con 8 líneas: 7 de extrusión (líneas PT389, PT388, PT387, PT386, PT410,
+PT385 y nueva línea de extrusión) en las que se fabrican tubo y bandejas de PVC, PP y policarbonato y 1 máquina
+de inyección (PT412), en la que se fabrica tornillería y soportería de plástico en PVC.
+Como principales instalaciones auxiliares se dispone de:
+- Una torre de gases por vía húmeda. Todos los gases emitidos por las diferentes balsas de las líneas de electrocincado
+y pasivado son llevados por una conducción hasta una torre de lavado de flujo vertical.
+- Estación depuradora de aguas residuales industriales (edari), que amplía su capacidad, pasando de 3.500 l/h, a un
+caudal máximo de tratamiento previsto de 7.500 l/h, si bien su capacidad máxima se sitúa en torno a los 12.000 l/h.
+Los efluentes resultantes de los procesos de electrocincado y pasivado son tratados en una depuradora fisicoquímica,
+previamente al vertido a la red municipal de alcantarillado del polígono industrial. La técnica utilizada para la depuración
+de las aguas residuales generadas por las líneas de tratamiento es la neutralización, floculación y precipitación
+de metales. De cara a la modificación prevista en la instalación, inicialmente la Edari ya había sido dimensionada
+contemplando la posibilidad de futuras ampliaciones, por lo que solo será necesario realizar adaptaciones menores,
+con incorporación de algunos nuevos equipos, como son: nuevas bombas de dosificado, filtro de prensa y depósito de
+25.000 litros para la acumulación de concentrados generados en la nueva línea de cincado.
+- Almacenamientos de materia prima y de producto acabado.
+- Almacenes de productos químicos y de residuos.
+- Depósito de almacenamiento de propano.
+La planta tiene una capacidad de producción anual de 8.530.000 unidades (estimadas en 150.000 t aproximadas de
+producto final terminado), canalizaciones eléctricas en forma de bandejas, escaleras y tapas (metálicas, metálicas
+de hilo y de PVC), soportería metálica, perfiles metálicos y tubos aislantes, en acabados con y sin tratamiento
+superficial.
+1.3. Descripción de las nuevas líneas.
+- Línea electrocincadora 3: proceso electrolítico en el que se deposita una capa de zinc sobre las piezas metálicas,
+que deben haber sido previamente tratadas a lo largo de una serie de baños. Está compuesta por 3 cubas de
+secado, 1 de soplado y 31 cubas de líquidos, para un volumen total de las balsas de 341 m3 incluidos enjuagues
+(233 m3 sin los enjuagues).
+- Línea de galvanizado en caliente: consiste en sumergir las piezas pretratadas en un baño de zinc fundido, lo que
+proporciona una protección contra la corrosión más duradera. El proceso consta de las siguientes etapas:
+i. Pretratamiento químico, en la que se lleva a cabo: desengrase, decapado ácido y fluxado, esta etapa está integrada
+por un total de 12 cubas, 2 de ellas de enjuague (posiciones D1 a D12), con un volumen de 17 m3 cada una.
+ii. Secado y precalentamiento, para mejorar la adherencia del zinc antes de su entrada en el crisol de galvanizado.
+iii. Galvanizado, inmersión de las piezas en el crisol que contiene zinc fundido, a temperaturas de 440-460°C.
+iv. Enfriado, mediante inmersión en una cuba con agua de red (posición D13), de 17 m3 de volumen.
+v. Pasivado, para mejorar la resistencia a la oxidación mediante el tratamiento con cromo trivalente (posición D14),
+realizado en una cuba del mismo volumen.
+La línea de galvanizado cuenta con 14 cubas de líquidos, con un volumen total de las balsas de 238 m3 incluidos
+enjuagues (204 m3 sin los enjuagues).
+Esta línea de galvanizado incorpora:
+a. Horno de alta eficiencia con control automático.
+b. Sistema de filtración de gases y neutralización de ácidos de forma que los vapores ácidos generados en el túnel
+encapsulado de pretratamiento (desengrase, decapado, aclarado y fluxado) son captados mediante sistema de
+aspiración dirigido y conducidos a una torre vertical de lavado en contracorriente.
+c. Sistema de manipulación automatizada mediante grúas y transportadores.
+- Línea de extrusión para la fabricación de tubo corrugado de pared simple: destinada a la producción de tubos de
+protección para cables eléctricos mediante extrusión de polímero PA 66 (poliamida).
+Asociados a estas nuevas líneas se incluyen los siguientes focos:
+- Foco 10, lavador de gases húmedo para el tratamiento de los gases generados en el pretratamiento previo al
+galvanizado.
+- Foco 11, filtro de mangas asociado al horno de galvanizado.
+- Foco 12, foco de combustión asociado el quemador del horno de galvanizado.
+- Foco 13, 14 y 15, focos de combustión asociados a los tres quemadores de la línea 3 de electrocincado.
+
+AÑO XLV Núm. 132 14 de julio de 2026 27013
+Como se ha comentado en el apartado anterior, los efluentes generados en los distintos tratamientos aplicados en
+la instalación serán tratados en la Edari de la instalación, cuya capacidad de tratamiento ha sido incrementada para
+tratar todos los vertidos generados en la planta, incluyendo nuevas bombas de dosificado, un filtro de prensa y un
+depósito de 25.000 litros para la acumulación de concentrados generados en la nueva línea de cincado.
+1.4. Alternativas contempladas.
+El Estudio de Impacto Ambiental contempla los argumentos por los que se descartan otras alternativas a la ampliación
+planteada:
+- La alternativa 0 o no realización de la ampliación, supondría limitar la capacidad de crecimiento productivo de la
+instalación, con el consiguiente perjuicio económico para el titular, así como, para en desarrollo socioeconómico del
+entorno en la que se sitúa la instalación.
+- En cuanto a las alternativas de ubicación, el promotor descarta una nueva de ubicación para la ampliación prevista,
+ya que la actual instalación dispone del espacio necesario para colocar las nuevas líneas productivas en las
+proximidades de las ya instaladas. Por otra parte, una nueva ubicación para la ampliación conllevaría la construcción
+de naves adicionales, la necesidad de asegurar la idoneidad de los nuevos terrenos en cuanto al uso del suelo, a la
+vez que dicho cambio también generaría un incremento del impacto ambiental y económico debido a los traslados
+por carretera que serían necesarios.
+- Sobre posibles alternativas tecnológicas, se destacan la ventajas técnicas, económicas, ambientales y de larga
+experiencia en el tratamiento de electrocincado, que suponen las tecnologías que van a incorporarse en la ampliación.
+1.5. Consumos de recursos, emisiones, vertidos y residuos generados.
+Para el conjunto de las instalaciones, incluyendo la nueva línea de lacado vertical, se tienen previstos los siguientes
+consumos máximos anuales, según el Estudio de Impacto Ambiental:
+- 9.500 toneladas anuales de chapa de acero en bobinas.
+- 7.415 toneladas anuales de hilo de acero en bobinas.
+- 1.880 toneladas anuales PVC granulado en sacas.
+- 271.540 litros anuales de propano (GLP)
+- 5.688.253,5 kWh anuales de energía eléctrica.
+- 40.000 m3 anuales de agua procedente de la red municipal de abastecimiento, de los que 34.341 m3 se corresponden
+con agua destinada a los procesos y los 5.659 m3 restantes con agua sanitaria.
+En la instalación existen actualmente 9 focos (6 de ellos correspondientes a combustiones de gas propano), a los
+que mediante la ampliación proyectada se suman 6 focos adicionales (incluyendo 4 nuevos focos de combustión).
+Todos estos focos son de potencias térmicas inferiores a 1 MW.
+En la situación actual los focos de combustión de la instalación suman 1.200 kW de potencia térmica, con la adición
+de los nuevos cuatro focos de combustión incluidos en la ampliación prevista, se alcanzan 2.168 kW, incrementando
+la potencia en un 80,6 %.
+Por otro lado, se contempla un vertido global de aguas residuales industriales de 29.045,61 m3 anuales.
+La documentación recoge las principales siguientes producciones máximas anuales de residuos peligrosos:
+- 19 02 05*, lodos de tratamientos fisicoquímicos que contienen sustancias peligrosas: 250 toneladas anuales.
+- 11 01 05*, ácidos de decapado: 200 toneladas anuales.
+- 15 01 10*, envases que contienen restos de sustancias peligrosas o están contaminados por ellas: 7 toneladas
+anuales.
+- 13 02 05*, aceites minerales no clorados de motor, de transmisión mecánica y lubricantes: 5,5 toneladas anuales.
+- 11 01 11*, líquidos acuosos de enjuague que contienen sustancias peligrosas: 5 toneladas anuales.
+- 15 02 02*; absorbentes, materiales de filtración (incluidos los filtros de aceite no especificados en otra categoría),
+trapos de limpieza y ropas protectoras contaminados por sustancias peligrosas: 4,5 toneladas anuales.
+- 16 05 04*, gases en recipientes a presión (incluidos los halones) que contienen sustancias peligrosas: 1 tonelada anual.
+- 08 01 11*, residuos de pintura y barniz que contienen disolventes orgánicos u otras sustancias peligrosas: 0,9
+toneladas anuales.
+- 06 01 06*, otros ácidos: 0,362 toneladas anuales.
+
+AÑO XLV Núm. 132 14 de julio de 2026 27014
+Segundo. Procedimiento realizado: información pública y consultas.
+El 24 de abril de 2025 (registro número 1579210), se recibe la solicitud de Evaluación de Impacto Ambiental ordinaria
+junto con el Estudio de Impacto Ambiental del proyecto “Ampliación de industria de fabricación de canalizaciones
+eléctricas metálicas y de PVC”, situado en el término municipal de Almansa (Albacete), cuyo promotor es Basor
+Electric, S.A. Se le asigna el número de expediente S478/2025/DG/00018, además de iniciarse la tramitación de
+la nueva Autorización Ambiental Integrada como consecuencia de la Modificación Sustancial de las instalaciones
+(expediente AAI-AB-127).
+Con fecha 24 de junio de 2024, se requiere documentación adicional, para completar algunos aspectos necesarios
+para sendas tramitaciones. Se recibe contestación el 9 de julio de 2025 (registro número 2844152).
+Esta documentación está disponible en el expediente S478/2025/DG/00018, dentro de la aplicación Nevia https://
+nevia.castillalamancha.es
+De acuerdo con el artículo 16 del Real Decreto Legislativo 1/2016 de 16 de diciembre, por el que se aprueba el Texto
+Refundido de la Ley de Prevención y Control Integrados de la Contaminación, así como con los artículos 10.4, 40 y
+60.5 de la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, el 1 de agosto de 2025 se
+publica en el DOCM número 147 el Anuncio del 23 de julio de 2025 de esta Dirección General de Calidad Ambiental,
+por el que se inicia el período de información pública de la solicitud de Autorización Ambiental Integrada y del Estudio
+de Impacto Ambiental del proyecto de ampliación (expedientes AAI-AB-127 y S478/2025/DG/00018).
+En paralelo, el 22 de julio de 2025 se efectúan las consultas a las Administraciones Públicas afectadas y el público
+interesado del artículo 41 de la Ley 2/2020, recibiéndose las contestaciones de las entidades marcadas con un
+asterisco (*) del siguiente listado:
+Entidad Consultada
+Delegación Provincial de Desarrollo Sostenible de Albacete - Servicio de Medio Natural de Albacete (*)
+Delegación Provincial de Sanidad en Albacete - Servicio Salud Pública Albacete
+Agencia del Agua de Castilla-La Mancha - Servicio Provincial de la Agencia del Agua en Albacete (*)
+Adif-Administrador de Infraestructuras Ferroviarias (*)
+Infraestructuras del Agua de Castilla-La Mancha (*)
+Demarcación de Carreteras del Estado en Castilla-La Mancha (*)
+Asociación para la Defensa de la Naturaleza WWF/Adena
+Ecologistas en Acción de Albacete
+Sociedad Albacetense de Ornitología (SAO)
+Sociedad Española de Ornitología
+Delegación Provincial de Albacete de la Consejería de Fomento - Servicio de Ejecución y Disciplina Urbanística de
+Albacete
+Delegación Provincial de Desarrollo Sostenible en Albacete - Servicio Calidad Ambiental Albacete
+Delegación Provincial de Albacete de la Consejería de Educación, Cultura y Deportes - Servicio Cultura Albacete (*)
+Delegación Provincial de Desarrollo Sostenible de Albacete - Unidad Coordinación Provincial Agentes
+medioambientales (*)
+Delegación Provincial Consejería Hacienda, Administraciones Públicas y Transformación Digital Albacete - Servicio
+Protección Ciudadana Albacete (*)
+Fundación Global Nature
+Asociación Nacional Micorriza
+Ayuntamiento de Almansa (*)
+Confederación Hidrográfica del Júcar en Albacete
+A continuación, se reseña lo más relevante de los informes recibidos, que están disponibles en expediente S478/2025/
+DG/00018, dentro de la aplicación Nevia (https://nevia.castillalamancha.es).
+- El Servicio de Medio Ambiente y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de Albacete,
+en su informe de 8 de agosto de 2025, hace una serie de observaciones sobre las medidas a adoptar para evitar
+
+AÑO XLV Núm. 132 14 de julio de 2026 27015
+afecciones a la flora y fauna del entorno, indicando que las actuaciones deben ser supervisadas por los agentes
+medioambientales de la zona.
+- El Servicio Provincial de la Agencia del Agua, en su informe de 22 de julio de 2025, no realiza alegaciones al
+proyecto.
+- Adif-Administrador de Infraestructuras Ferroviarias, en su informe de 7 de agosto de 2025, indica una de las parcelas
+en la que se ubican las instalaciones de Basor Electric, S.A. (parcela 2946101XJ6024N0001MF) es colindante a
+suelos titularidad de ADIF y está invadiendo suelos de esta en una superficie de aproximadamente 550 m2, por lo
+que se indica que el promotor debe solicitar autorización a Adif antes de llevar a cabo cualquier actuación.
+- Infraestructuras del Agua de Castilla-La Mancha, en su informe remitido el 14 de octubre de 2025, indica que
+el proyecto objeto de análisis no afecta a infraestructuras de los Sistemas de Abastecimiento y/o de Depuración
+gestionados por esta entidad.
+- La Demarcación de Carreteras del Estado en Castilla-La Mancha, en su informe remitido el 22 de septiembre de
+2025, indica que las actuaciones de ampliación descritas se sitúan fuera de la zona de afección de la autovía A-31
+y por lo tanto fuera del ámbito competencial de esa Administración.
+- La Delegación Provincial de Educación, Cultura y Deportes de Albacete, emite un informe el 1 de agosto de 2025,
+autorizando el proyecto y señalando la necesidad de vigilar la aparición de restos durante la ejecución de las obras
+previstas.
+- La Unidad de Coordinación Provincial de Agentes Medioambientales, en su informe de 18 de septiembre de
+2025, indica que no encuentra objeción al desarrollo de la ampliación prevista en las instalaciones de Basor
+Electric, S.A.
+- El Servicio de Protección Ciudadana de la Delegación Provincial de Hacienda y Administraciones Públicas de
+Albacete, en informe emitido 16 de septiembre de 2025, informa sobre los riesgos de emergencia en materia de
+protección civil, destacando que los riesgos más importantes son: sísmico, meteorológico y nuclear, por la ubicación
+del municipio de Almansa.
+- Por último, el Ayuntamiento de Almansa, emite informe de 19 de agosto de 2025, en el que indica que el titular debe
+solicitar modificación de la autorización de vertido vigente y debe dar cumplimiento a la legislación vigente en materia
+de gestión de residuos, vertido de aguas residuales, emisiones a la atmósfera y almacenamiento de productos
+químicos. Así mismo, el Ayuntamiento emite certificado de 15 de septiembre de 2025, sobre el sometimiento a
+información pública del Estudio de Impacto Ambiental.
+Los informes recibidos durante la fase de consultas son trasladados por esta Dirección General al promotor con fecha
+3 de octubre de 2025, recibiendo respuesta de este el 24 de octubre de 2025, con número de registro 4296373, en
+la que se incluyen las siguientes consideraciones:
+- Respecto de las alegaciones realizadas por Adif-Administrador de Infraestructuras Ferroviarias, el promotor indica
+que las modificaciones proyectadas en la instalación se encuentran fuera de las áreas que Adif considera que están
+siendo invadidas, habiendo contado además con las preceptivas licencias para el desarrollo de su actividad.
+- En relación con el informe emitido por El Servicio de Medio Ambiente y Biodiversidad de la Delegación Provincial
+de Desarrollo Sostenible de Albacete, el promotor indica que durante las actuaciones requeridas para llevar a cabo
+la ampliación no se van a producir modificaciones de la cubierta vegetal, tampoco será necesario ningún cambio en
+el trazado de acceso y se informará a los Agentes Medioambientales en el momento de realizar las obras.
+- Atendiendo al informe emitido por el Ayuntamiento de Almansa, el promotor aporta documentación justificativa de
+la solicitud de modificación de vertido. Con respecto al resto de vectores medioambientales, indica que atenderá al
+condicionado establecido en la nueva Autorización Ambiental Integrada.
+- Finalmente, aporta una versión actualizada de su Plan de Emergencia, que recoge las situaciones de riesgo
+indicadas en el informe emitido por el Servicio de Protección Ciudadana de la Delegación Provincial de Hacienda
+y Administraciones Públicas de Albacete. Además, indica que la actividad desarrollada en sus instalaciones no se
+incluye dentro del ámbito de aplicación del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban
+Medidas de Control de los Riesgos Inherentes a los Accidentes Graves en los que intervengan sustancias
+peligrosas.
+Por otra parte, con fecha 4 de diciembre de 2025, se recibe Requerimiento de documentación adicional por parte de
+la Confederación Hidrográfica del Júcar, es atendido por el titular mediante envío de fecha 15 de enero de 2026 y
+trasladado desde esta Dirección General a Confederación con fecha 26 de enero de 2026.
+Tercero. Resumen del análisis técnico del expediente.
+Conforme al artículo 45 de la Ley 2/2020, una vez examinado el Estudio de Impacto Ambiental y considerando
+el resultado de las consultas y, que la información pública se ha llevado conforme a la Ley, procede realizar el
+análisis técnico del proyecto, evaluando los efectos ambientales previsibles, al objeto de determinar si procede la
+
+AÑO XLV Núm. 132 14 de julio de 2026 27016
+realización o no del proyecto, las condiciones en las que puede desarrollarse y las medidas adicionales, correctoras
+o compensatorias necesarias. En el apartado cuarto se detallan las medidas preventivas y correctoras del proyecto.
+Las instalaciones de Basor Electric, S.A., ubicadas en el Polígono Industrial Mugrón, fase IV, ocupan en la actualidad
+dos parcelas: M1 de 46.399 m2, donde se encuentran ubicadas actualmente las líneas de producción; la parcela M8
+de 30.464 m2, destinada al almacenamiento y expedición del producto terminado, una superficie total de parcelas
+de 76.863 m2.
+Las nuevas líneas productivas que se incluyen en la ampliación (línea de electrocincado 3, galvanizado en caliente
+y extrusión) van a instalarse dentro de las naves ubicadas en la parcela M1, la línea de electrocincado 3 en las
+proximidades de las ya existentes, la nueva extusora en la zona de extrusión y la línea de galvanizado en caliente
+junto a la depuradora, para la instalación de esta última línea se requiere ampliar las instalaciones en 375 m2, en la
+zona noroeste de la edificación ubicada en la parcela M1, el resto se ubicarán dentro de las naves ya existentes.
+Por este motivo, esta Dirección General de Calidad Ambiental considera acertado el análisis de alternativas
+efectuado, y valora de forma apropiada el emplazamiento seleccionado por el promotor, resultando el más idóneo
+para la empresa, así como, para el entorno pues no supone prácticamente incremento de la superficie construida
+necesaria para el desarrollo de la actividad.
+En cuanto al consumo de agua, las instalaciones una vez ampliadas demandarán 40.000 m3 al año, frente a los
+11.487 m3 de consumo anual actual, suponiendo un incremento del consumo de agua del 150%. El abastecimiento
+se efectuará desde la red municipal de agua potable, habiéndose recibido informe de Aqualia, como entidad gestora
+del Servicio municipal de aguas de Almansa, en el que se indica que el incremento de caudal requerido por la
+ampliación de Basor Electric, S.A. no supone ningún problema técnico para la red municipal de abastecimiento.
+Respecto a la aceptación del vertido de las aguas destinado a la red de saneamiento municipal de 29.045,61 m3/
+año de aguas industriales, con un caudal punta de 12,28 m3/h y 5.659 m3/año de aguas sanitarias, ni la entidad
+Infraestructuras del Agua de Castilla-La Mancha, ni la Agencia del Agua, ni el propio Ayuntamiento plantean
+objeciones a su recepción. El Ayuntamiento sí destaca, en su informe del 19 de agosto de 2025, la necesidad de que
+se solicite la ampliación de autorización de vertido vigente y que se cumplan las ordenanzas municipales en relación
+con la composición y características del vertido. El promotor, por su parte, aporta documentación justificativa de
+haber tramitado ante el Ayuntamiento de Almansa solicitud de modificación de vertido, en escrito de 24 de octubre
+de 2025, con el que contesta a los informes recibidos durante la fase de consultas.
+En relación con el uso de sustancias peligrosas y generación de residuos, la actividad desarrollada en la planta, que
+incluye electrocincado, pasivado y galvanizado, requiere del paso del metal por etapas previas de desengrasado,
+activado, decapado, neutralizado, las cuales suponen un elevado consumo y manejo de sustancias químicas
+peligrosas, generando a su vez cantidades importantes de residuos peligrosos. Para garantizar la protección de la
+salud humana y el medio ambiente, el titular debe cumplir con la legislación vigente, incorporada en el condicionado
+de la Autorización Ambiental Integrada que tiene otorgada la instalación y que va a ser modificado con motivo de
+la incorporación de las nuevas líneas de producción que están siendo evaluadas. Adicionalmente, el titular tiene la
+obligación de implementar en su instalación las mejores técnicas disponibles recogidas en la Decisión de Ejecución
+(UE) 2022/2110 de la Comisión, de 11 de octubre de 2022, que le son de aplicación. El cumplimiento con ambos
+condicionados permitirá que el riesgo generado por la instalación sea asumible.
+En lo que se refiere al incremento de emisiones de contaminantes a la atmósfera, se considera que siempre que
+se cumpla lo establecido en la respectiva legislación y lo marcado en la Autorización Ambiental Integrada, una vez
+adaptada a las nuevas instalaciones incorporadas, no se producirán impactos significativos sobre la salud humana
+ni sobre el medio ambiente.
+Se cuenta con un informe base sobre la situación del suelo y de las aguas subterráneas, actualizado en enero
+de 2024, en el que se concluye que no se producen superaciones de los niveles genéricos de referencia en los
+puntos de muestreo, no siendo necesario efectuar un análisis cuantitativo de riesgo. A raíz de la ampliación de las
+instalaciones y en el marco de la Autorización Ambiental Integrada, se establecerá el nuevo condicionado requerido
+para el control de suelos y aguas subterráneas.
+De acuerdo con lo indicado por el Servicio de Medio Natural de Albacete, en su informe de 8 de agosto de 2025, no
+se prevé afección a la vegetación natural, recomendando la supervisión de los trabajos de ejecución del proyecto
+
+AÑO XLV Núm. 132 14 de julio de 2026 27017
+por los Agentes Medioambientales, no debiendo producirse alteración de las superficies ocupadas por vegetación
+durante el desarrollo de dichos trabajos.
+El informe del 16 de septiembre de 2025 del Servicio de Protección Ciudadana de Albacete manifiesta que los
+principales riesgos asociados a la instalación son el riesgo sísmico, meteorológico y nuclear, debiendo evaluarse
+la necesidad de elaborar un plan de Autoprotección, así como la posibilidad de que la instalación entre dentro del
+ámbito de aplicación del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control
+de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas. Por su parte el
+promotor ha elaborado una nueva versión de su Plan de Emergencia que incorpora estos riesgos, indicando además
+que su actividad no está incluida dentro del ámbito de aplicación del Real Decreto 840/2015.
+En lo que respecta a la proximidad de la instalación de las vías de comunicación cercanas, la Demarcación de
+Carreteras del Estado en Castilla-La Mancha, en su informe de 22 de septiembre de 2025, indica que ampliación
+prevista se encuentra fuera de la zona de afección a la autovía A-31.
+Por su parte, Adif informa, en su escrito de 7 de agosto de 2025, que parte de los terrenos de la parcela M1 de Basor
+Electric, S.A. están invadiendo terrenos que son titularidad de Adif, indicando que dicha situación debe regularizarse.
+Revisado el informe emitido por Adif, se observa que la zona en la que va llevarse a cabo la ampliación prevista se
+encuentra en el extremo opuesto a la zona en la Adif indica que se invaden sus terrenos, por lo que la actuación
+prevista no afecta a las zonas sobre cuya titularidad hay discrepancias.
+Por otro lado, la Delegación Provincial de Educación, Cultura y Deportes de Albacete autoriza, el 1 de agosto de
+2025, el proyecto de ampliación de la planta, a los efectos de la Ley 4/2013 de 16 de mayo, de Patrimonio Cultural
+de Castilla-La Mancha, sin perjuicio de que, en el caso de aparecieran restos durante la ejecución de las obras, se
+garantice el control arqueológico.
+Por último, debido a la situación de las nuevas instalaciones en el interior del polígono industrial, no se consideran
+apreciables los impactos sobre las áreas y recursos naturales protegidos, ni sobre el paisaje circundante.
+Cabe señalar que la ampliación está siendo objeto del procedimiento de emisión de una nueva Autorización
+Ambiental Integrada para el conjunto de las instalaciones, dentro del expediente AAI-AB-127. En consecuencia,
+se está contrastando el proyecto con las exigencias derivadas de la Ley de Prevención y Control Integrados de
+la Contaminación, cuyo Texto Refundido se aprueba por el Real Decreto Legislativo 1/2016 de 16 de diciembre,
+por lo que en su diseño y funcionamiento se emplearán las Mejores Técnicas Disponibles (MTD) seleccionadas
+en el ámbito de la Unión Europea para este tipo de instalaciones, es decir, en la instalación se emplearán las
+técnicas más eficaces para alcanzar un alto nivel general de protección del medio ambiente en su conjunto. En
+concreto la actividad está afectada por la Decisión de Ejecución (UE) 2022/2110 de la Comisión de 11 de octubre
+de 2022 por la que se establecen las conclusiones sobre las Mejores Técnicas Disponibles (MTD), con arreglo a la
+Directiva 2010/75/UE del Parlamento Europeo y del Consejo sobre las emisiones industriales, para la industria de
+transformación de metales férreos.
+En consecuencia, una vez finalizado el análisis técnico del expediente de Evaluación de Impacto Ambiental conforme
+a la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, de acuerdo con las competencias
+atribuidas por el Decreto 112/2023, de 25 de julio, por el que se establece la Estructura Orgánica y las Competencias
+de la Consejería de Desarrollo Sostenible, esta Dirección General de Calidad Ambiental considera viable el proyecto
+desde el punto de vista ambiental, siempre que se realice conforme al Estudio de Impacto Ambiental presentado y a
+las prescripciones de esta Resolución.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas que con carácter general se señalan en el Estudio de Impacto Ambiental, se cumplirán las
+condiciones que se expresan a continuación, significando que en los casos en que pudieran existir discrepancias
+entre unas y otras, prevalecerán las contenidas en el presente informe.
+4.1. Manejo de sustancias y residuos peligrosos.
+La actividad de toda la planta, y en particular de las nuevas líneas electrocincado y galvanizado, se caracteriza por
+el empleo de sustancias peligrosas y por la generación de residuos peligrosos.
+
+AÑO XLV Núm. 132 14 de julio de 2026 27018
+En cumplimiento de la Decisión de Ejecución (UE) 2022/2110 de la Comisión, de 11 de octubre de 2022, por la que
+se establecen las conclusiones sobre las Mejores Técnicas Disponibles (MTD) y para garantizar el manejo seguro
+de las sustancias químicas, el titular debe implementar un sistema de gestión de estas sustancias. Adicionalmente,
+la instalación debe contar con un plan para la prevención y el control de las fugas y los derrames, según el cual
+la instalación debe dispone de cubetos de retención en las zonas de almacenamiento y de trasvase para evitar
+derrames en las operaciones y almacenamiento. Por su parte, las zonas de carga y descarga deben disponer de
+pavimento especial para protección contra ácidos, con un sistema para la recogida de derrames, que permita su
+posterior gestión.
+En relación con los residuos, la instalación debe contar con un plan de gestión ambiental de residuos, contemplado
+dentro del sistema de gestión integrado, cuyo objetivo es reducir la cantidad de residuos y mejorar el potencial de
+reciclado. En particular, el almacenamiento de residuos peligrosos deberá efectuarse cumpliendo la Orden del 21
+de enero de 2003 de la Consejería de Agricultura y Medio Ambiente, por la que se regulan las normas técnicas
+específicas que deben cumplir los almacenes y las instalaciones de transferencia de residuos peligrosos.
+4.2. Protección del suelo y de las aguas superficiales y subterráneas.
+La actividad llevada a cabo en la planta está incluida en el Anexo I del Real Decreto 9/2005, de 14 de enero, por el
+que se establece la Relación de Actividades Potencialmente Contaminantes del Suelo y los Criterios y Estándares
+para la Declaración de Suelos Contaminados (CNAE 25, fabricación de productos metálicos).
+En consecuencia, debe presentar el informe preliminar de situación del suelo que se requiere en su artículo 3, con
+el contenido detallado en su Anexo II. La presentación de este informe se realiza el 8 de abril de 2025, debiendo ser
+actualizado cada dos años.
+De acuerdo con lo exigido en el artículo 12.1.f del Real Decreto Legislativo 1/2016 de 16 de diciembre, de Prevención
+y Control Integrados de la Contaminación, el titular presentó informe base de la situación del suelo y las aguas
+subterráneas el 12 de febrero de 2024, concluyendo que los resultados obtenidos eran conformes con la legislación.
+En la nueva Autorización Ambiental Integrada se establecerán los controles periódicos que deben realizarse sobre
+suelos y aguas subterráneas.
+Según la documentación, todos los flujos de aguas generados en el ámbito de la planta cuentan con redes separativas
+y son canalizados hasta la red de alcantarillado municipal:
+- Las aguas sanitarias procedente de las instalaciones (aseos, vestuarios y zonas de descanso del personal), se
+dirigen a través de una red separativa a la red de saneamiento municipal.
+- Las aguas pluviales procedentes de las cubiertas de las naves, se vierte directamente a la red de alcantarillado.
+- Las aguas industriales descartadas en los distintos procesos productivos se someten a depuración en la depuradora
+de aguas industriales, para ello la planta dispone de dos colectores diferentes de forma que uno conduce los
+efluentes diluidos de la planta y otro los efluentes concentrados, desembocando en dos fosos. Los vertidos diluidos
+son directamente enviados al módulo de tratamiento de la depuradora, mientras que los vertidos concentrados, son
+enviados a su correspondiente depósito de almacenamiento de 10.000 l, en función de su naturaleza, bien sea ácida
+o alcalina. Como parte de la ampliación proyectada, está prevista la instalación de un depósito de 25.000 litros con
+el fin de acumular los concentrados generados en la nueva línea de electrocincado.
+La depuradora existente en la instalación es capaz de asumir el vertido generado como consecuencia de la ampliación
+prevista, para lo que se van a duplicar las bombas de dosificado, se va a instalar un nuevo filtro de prensa, un
+turbidímetro para el control de calidad del agua de vertido que sale del filtro de prensa, así como, el depósito
+anteriormente indicado de 25.000 litros de capacidad, para acumular los concentrados generados en la nueva
+línea de electrocincado. En esta depuradora de aguas industriales se llevan a cabo tratamientos físico-químicos,
+consistentes en neutralización, floculación, decantación y espesamiento de lodos. El flujo de agua ya depurada se
+dirige hacia al colector del municipal, debiendo contar con una arqueta de toma de muestras, fácilmente accesible,
+antes del punto de vertido final.
+De acuerdo con la Decisión de Ejecución (UE) 2022/2110 de la Comisión, de 11 de octubre de 2022, por la que se
+establecen las conclusiones sobre las Mejores Técnicas Disponibles (MTD), el titular debe con un plan de gestión del
+agua, monitorizar la generación de aguas residuales, comprobando que no se superar los valores límite de vertido
+que establezca la Autorización Ambiental Integrada para los puntos de control. En caso de producirse superaciones
+
+AÑO XLV Núm. 132 14 de julio de 2026 27019
+accidentales, estas deberán ser comunicadas a la Delegación Provincial de Desarrollo Sostenible y adoptarse las
+medidas correctoras oportunas para solucionar las causas del problema.
+4.3. Protección de la calidad del aire.
+En la Autorización Ambiental Integrada de la instalación, una vez adecuada a la modificación proyectada, se
+enumerarán los focos canalizados existentes y de nueva incorporación, sus características técnicas y las obligaciones
+de control de sus emisiones, fijando los valores límite de emisión que deben regir para los distintos contaminantes y
+las frecuencias de inspección a las que se deben someter, de acuerdo con la Decisión de Ejecución (UE) 2022/2110
+de la Comisión, de 11 de octubre de 2022, por la que se establecen las conclusiones sobre las Mejores Técnicas
+Disponibles (MTD). Cumpliendo con esta Decisión, el titular indica que las distintas líneas de tratamiento superficial
+cuentan con capotas extractoras que captan y extraen las emisiones, dirigiéndolas a los scrubbers en los que se
+asegura su tratamiento.
+La instalación deberá cumplir con el artículo 112, relativo a las chimeneas de evacuación de gases, de la Ordenanza
+de Medio Ambiente, (BOP número 74, 25/06/2007 y BOP número 133 de 14/11/ 2008). Debiendo realizar los controles
+fijados en la Autorización Ambiental Integrada de la instalación, con la periodicidad que en ella se indique.
+4.4. Protección del patrimonio cultural.
+Ante cualquier actuación que suponga remoción del suelo, deberá atenderse a la aparición de restos arqueológicos
+y actuar de acuerdo con el artículo 44.1 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español, y el
+artículo 52 de la Ley 4/2013 de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha, estando obligado el titular
+de las instalaciones a comunicar su existencia a la Consejería de Educación, Cultura y Deportes.
+4.5. Protección del patrimonio público ferroviario.
+De acuerdo con el informe remitido por Adif-Administrador de Infraestructuras Ferroviarias, de fecha 7 de
+agosto de 2025, una de las parcelas en la que se ubican las instalaciones de Basor Electric, S.A. (parcela
+2946101XJ6024N0001MF) es colindante a suelos titularidad de Adif y está invadiendo suelos de esta en una
+superficie de aproximadamente 550 m2, en la zona oriental de dicha parcela.
+Por su parte, el promotor indica que la zona en la que se va a llevar a cabo la ampliación de la instalación, ubicada
+en el noroeste de la instalación, se encuentra muy alejada de la zona en la que ADIF indica que se está produciendo
+intrusión, habiendo contado, además, con los permisos administrativos requeridos para llevar a cabo su actividad.
+Dado que entre ambas comunicaciones parecer haber discrepancias, el promotor deberá adoptar medidas que
+permitan dirimir si efectivamente esta intrusión se está produciendo y regularizar la situación.
+4.6. Cese de la actividad.
+En el caso de cesar la actividad, las instalaciones deberán ser objeto de un plan de desmantelamiento, siendo
+obligatoria la retirada y entrega a gestor autorizado de todas las sustancias y residuos peligrosos.
+Así mismo, deberá quedar confirmada la situación final del suelo y de las aguas subterráneas, de acuerdo con lo
+establecido en el artículo 23 del Texto Refundido de la Ley de Prevención y Control Integrados de la Contaminación,
+aprobado mediante el Real Decreto Legislativo 1/2016 de 16 de diciembre.
+Quinto. Programa de vigilancia ambiental.
+5.1. Especificaciones generales para el programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, el
+seguimiento y vigilancia del cumplimiento de las prescripciones contenidas en la presente Resolución corresponden
+al Ayuntamiento de Almansa como Órgano Sustantivo, sin perjuicio de las informaciones que pueda recabar el
+Órgano Ambiental al respecto, así como efectuar las comprobaciones necesarias para verificar el cumplimiento del
+condicionado.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se deben
+adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo nombrar a un responsable del
+programa de seguimiento y control de este informe.
+
+AÑO XLV Núm. 132 14 de julio de 2026 27020
+De las inspecciones llevadas a cabo por el Órgano Sustantivo o por el Órgano Ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos de esta
+Resolución. Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+El seguimiento y la vigilancia tendrán por objeto comprobar que el proyecto se desarrolla cumpliendo las condiciones
+establecidas en el Estudio de Impacto Ambiental presentado y en esta Resolución, debiendo completarse en estos
+aspectos:
+- El titular deberá actualizar el programa de vigilancia y prevención ambiental, presentado el 10 de julio de 2023,
+adecuándolo a las características de las nuevas instalaciones y considerando las repercusiones medioambientales
+que la ampliación de la instalación puede suponer.
+- La medida de autocontrol de los niveles de vertido contemplada en el programa de vigilancia y prevención ambiental
+(apartado 1.5.3. “programa de vigilancia de vertidos”), antes mencionado, establece una analítica mensual de
+los parámetros de vertido para asegurar el cumplimiento de los límites marcados. Se destaca la necesidad de
+mantener con rigor esta medida, dejando constancia de su realización, al ser uno de los principales impactos de las
+instalaciones.
+En particular, este control de los parámetros de vertido debe efectuarse con especial atención sobre las aguas
+industriales depuradas antes de su incorporación a la red de recogida de saneamiento municipal.
+- El titular mantendrá la periodicidad para llevar a los estudios de impacto sonoro de su actividad recogidos en la
+Autorización Ambiental Integrada, una vez adaptada esta a la modificación proyectada, debiendo cumplir con los
+índices de ruido recogidos en el artículo 164 de la Ordenanza Municipal de Medio Ambiente de Almansa.
+5.2. Documentación adicional.
+Es necesario disponer de la Autorización Ambiental Integrada para el conjunto de las instalaciones en cumplimiento
+de la Ley de Prevención y Control Integrados de la Contaminación, cuyo texto refundido se aprueba por el Real
+Decreto Legislativo 1/2016 de 16 de diciembre.
+Posteriormente, se deberán aportar los informes de seguimiento anuales y el resto de documentación que contemple
+la propia Autorización Ambiental Integrada.
+Por último, de conformidad con lo indicado por el Administrador de Infraestructuras Ferroviarias (Adif) en el trámite
+de consultas, el promotor deberá resolver las discrepancias existentes relativas a la titularidad y ocupación de
+terrenos colindantes con infraestructuras ferroviarias. El titular deberá tramitar y obtener, en coordinación con Adif,
+las autorizaciones o títulos habilitantes que resulten procedentes, debiendo acreditar ante el órgano ambiental
+la efectiva regularización de dicha situación, en el plazo máximo de un año desde la publicación de la presente
+Declaración de Impacto Ambiental.
+Sexto. Otras consideraciones.
+a) Vigencia de la presente declaración de impacto ambiental.
+De acuerdo con el artículo 48.1 de la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+la presente Declaración de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios si, una vez publicada en el Diario Oficial de Castilla-La Mancha, no se hubiera comenzado la ejecución
+del proyecto o actividad en el plazo de cuatro años.
+Si el promotor lo estimara conveniente, podrá solicitar una prórroga de la vigencia de la declaración si no se han
+producido cambios sustanciales en los elementos esenciales que sirvieron para emitirla y siempre y cuando no se
+haya alcanzado la fecha final de la vigencia, según establece el artículo 48.2 de la Ley 2/2020.
+b) Comunicación de inicio y cese de actividad, y de cambios de titular.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+c) Modificaciones de proyecto.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental, de
+forma que se valore la necesidad de someterla a Evaluación de Impacto Ambiental porque así lo establezca la legislación.
+d) Otras autorizaciones.
+La presente declaración de impacto ambiental no exime de obtener los informes y autorizaciones pertinentes de
+otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+
+AÑO XLV Núm. 132 14 de julio de 2026 27021
+e) Publicación.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible, tal y como establece el artículo 46.4 de la Ley 2/2020 de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha.
+f) Recursos.
+De acuerdo con el artículo 46.5 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+esta Declaración de Impacto Ambiental no será objeto de recurso, salvo los que procedan en vía administrativa o
+judicial frente al acto por el que se autoriza el proyecto.
+g) Aprobación del proyecto.
+Por último, y de conformidad con el artículo 47 de la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-
+La Mancha, el órgano sustantivo, en el plazo de quince días desde que adopte la decisión de autorizar o denegar
+el proyecto, remitirá al Diario Oficial de Castilla-La Mancha, un extracto del contenido de dicha decisión para su
+publicación.
+Asimismo, publicará en su sede electrónica la decisión sobre la autorización o denegación del proyecto y una
+referencia al Diario Oficial de Castilla-La Mancha en el que se ha publicado esta Declaración de Impacto Ambiental.
+Toledo, 24 de junio de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO

@@ -1,0 +1,185 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 134 de 14-VII-2026 1/3
+https://miprincipado.asturias.es/bopa
+13750-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de ordenaCIón de TerrITorIo, UrbanIsmo, VIVIenda y dereChos
+CIUdadanos
+ResoluCión de 1 de julio de 2026, de la Consejería de ordenación de Territorio, urbanismo, Vivienda y Derechos
+Ciudadanos, por la que se crea el sello electrónico y se regulan las actuaciones administrativas automatizadas
+dentro del ámbito de competencias de la Consejería de ordenación de Territorio, urbanismo, Vivienda y Derechos
+Ciudadanos.
+La implantación de medios electrónicos en los procedimientos administrativos supone la posibilidad de automatizar
+diversas actuaciones administrativas que se realizan dentro del procedimiento administrativo y cuya cobertura legal se
+encuentra recogida en la Ley 40/2015, de 1 de octubre, de régimen jurídico del sector Público (en adelante, LrjsP).
+así, según lo establecido en el artículo 41 LrjsP, «se entiende por actuación administrativa automatizada, cualquier
+acto o actuación realizada íntegramente a través de medios electrónicos por una administración pública en el marco de
+un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público». este precepto
+tiene carácter básico según lo establecido en la disposición final decimocuarta de la LRJSP, pero ha de desarrollarse
+teniendo en cuenta las peculiaridades organizativas de la administración del Principado de asturias, establecidas en la
+Ley 2/1995, de 13 de marzo, sobre régimen jurídico de la administración del Principado de asturias, para lo que se dicta
+la presente resolución.
+en cuanto a la autenticación de las actuaciones administrativas automatizadas, el artículo 42 LrjsP establece la po-
+sibilidad de usar como sistema de firma electrónica el «sello electrónico de Administración Pública, órgano, organismo
+público o entidad de derecho público, basado en certificado electrónico reconocido o cualificado que reúna los requisitos
+exigidos por la legislación de firma electrónica». Según lo previsto en el artículo anterior, el artículo 19 del Real Decreto
+203/2021, de 30 de marzo, por el que se aprueba el reglamento de actuación y funcionamiento del sector público por
+medios electrónicos establece que «las Administraciones Públicas podrán identificarse mediante el uso de un sello elec-
+trónico basado en un certificado electrónico cualificado que reúna los requisitos exigidos por la legislación de firma elec-
+trónica. Estos certificados electrónicos incluirán el número de identificación fiscal y la denominación correspondiente, así
+como, en su caso, la identidad de la persona titular en el caso de los sellos electrónicos de órganos administrativos».
+La relación de sellos electrónicos utilizados por cada administración pública, incluyendo las características de los cer-
+tificados electrónicos y los prestadores que los expiden, debe hacerse pública y ser accesible por medios electrónicos,
+publicándose en la sede electrónica o sede asociada o en el portal de Internet correspondiente. además, cada adminis-
+tración Pública adoptará las medidas adecuadas para facilitar la verificación de sus sellos electrónicos.
+Por otro lado, en caso de actuación administrativa automatizada deberá establecerse previamente el órgano u órga-
+nos competentes, según los casos, para la definición de las especificaciones, programación, mantenimiento, supervisión
+y control de calidad y, en su caso, auditoría del sistema de información y de su código fuente, así como para la autoriza-
+ción del uso del sello. asimismo, se indicará el órgano que debe ser considerado responsable a efectos de impugnación y
+en caso de que se detecten otras actuaciones susceptibles de automatización mediante firma con sello, se podrá solicitar
+la incorporación del sello a esa actuación, previa autorización de la persona titular de la Consejería mediante resolución
+de declaración de actuación administrativa automatizada. Todo ello es objeto de la presente resolución para el ámbito
+de la Consejería de ordenación de Territorio, Urbanismo, Vivienda y derechos Ciudadanos.
+asimismo, debe tenerse en cuenta lo dispuesto en el artículo 6 quinquies de la Ley del Principado de asturias sobre
+régimen jurídico de la administración, que regula la actuación administrativa automatizada en el ámbito autonómico
+y establece que la determinación y el establecimiento de las actuaciones administrativa automatizadas se efectuarán
+mediante resolución de la persona titular de la Consejería competente en el procedimiento de que se trate, en dicha
+resolución, se indicará, además el órgano responsable a efectos de impugnación.
+el legislador ha indicado como principios generales de esta administración, el de innovación y mejora continua en-
+tendido como la adopción de medidas de innovación que permitan cumplir los objetivos de eficacia, eficiencia y agilidad
+administrativa, así como someter los procedimientos a controles de cara a proponer mejoras en la gestión; y el de auto-
+matización entendido como preferencia de las actuaciones administrativas automatizadas en los actos o actuaciones que
+sean susceptibles de ser configurados como tales en el marco de un procedimiento administrativo.
+Por otra parte, esta resolución se ajusta a los principios de buena regulación recogidos en el artículo 129 de la Ley
+39/2015, de 1 de octubre, del Procedimiento administrativo Común de las administraciones Públicas (en adelante, LPa-
+CaP). en concreto, la norma responde a la necesidad de regular las actuaciones administrativas automatizadas dentro
+del ámbito de las competencias funcionales de esta Consejería para lo que también es necesaria la creación de su co-
+rrespondiente sello electrónico. además, esta resolución también contribuye a la satisfacción del principio de seguridad
+jurídica en el procedimiento administrativo al definir con claridad tanto los términos en que se realizarán las actuaciones
+administrativas automatizadas en el ámbito competencial funcional de esta Consejería como la creación y titularidad de
+su sello electrónico. Asimismo, también respeta el principio de eficiencia, dado que contribuye a que la actuación admi-
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 134 de 14-VII-2026 2/3
+https://miprincipado.asturias.es/bopa
+13750-6202
+.dóC
+nistrativa pueda ser realizada íntegramente a través de medios electrónicos; al tiempo que también es eficaz al ser el
+instrumento necesario y adecuado para el fin perseguido, no limitando derechos y deberes de los ciudadanos.
+de acuerdo con el principio de proporcionalidad, la iniciativa contiene la regulación imprescindible para atender la
+necesidad descrita, ejerciéndose de manera coherente con el resto del ordenamiento jurídico.
+en cuanto al cumplimiento de los principios de publicidad activa de la Ley 19/2013, de 9 de diciembre, en su tra-
+mitación se ha dado cumplimiento al principio de transparencia, sometiéndose a la debida publicación en los términos
+previstos en la Ley 19/2013, de 9 de diciembre, de Transparencia, acceso a la Información Pública y buen Gobierno y
+en la Ley del Principado de asturias 8/2018, de 14 de septiembre, de Transparencia, buen Gobierno y Grupos de Inte-
+rés. Teniendo en cuenta la naturaleza organizativa de la norma y su carácter estrictamente interno, al no afectar a los
+derechos ni intereses de los ciudadanos, ni imponerles derechos ni obligaciones, ni existir terceros potenciales destina-
+tarios se ha dispuesto, en cumplimiento de lo establecido en el artículo 133.4 LPaCaP, que la tramitación de la presente
+disposición prescinda de los trámites de consulta pública previa, audiencia e información pública.
+Por decreto 22/2023, de 31 de julio, del Presidente del Principado de asturias, de reestructuración de las Consejerías
+que integran la administración de la Comunidad autónoma, se regula la Consejería de ordenación de Territorio, Urba-
+nismo, Vivienda y derechos Ciudadanos, cuya estructura orgánica básica se establece por decreto 75/2023, de 18 de
+agosto.
+en virtud de todo lo expuesto, y según lo establecido en el artículo 38, letra i), de la Ley del Principado de asturias
+6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno,
+resUeLVo
+artículo 1.—objeto y ámbito de aplicación.
+1. Esta Resolución tiene por objeto la creación del sello electrónico de la Consejería de Ordenación de Territorio,
+Urbanismo, Vivienda y derechos Ciudadanos y la regulación de las actuaciones administrativas automatizadas
+a las que se aplicarán.
+2. Lo dispuesto en esta resolución será de aplicación a la totalidad de los órganos que tramitan procedimientos y
+trámites electrónicos y cuya dependencia orgánica le corresponde a esta Consejería.
+artículo 2.—Creación del sello electrónico de la Consejería.
+se crea el sello electrónico de la Consejería de ordenación de Territorio, Urbanismo, Vivienda y derechos Ciudadanos
+para la identificación y la autenticación del ejercicio de la competencia en las actuaciones administrativas automatizadas
+generadas en el ámbito funcional de esta Consejería.
+artículo 3.—Titularidad del sello electrónico de la Consejería.
+La titularidad del sello electrónico de la Consejería de ordenación de Territorio, Urbanismo, Vivienda y derechos
+Ciudadanos, así como la responsabilidad de su utilización corresponderá al titular de la Consejería. Las características
+generales del sistema de firma y certificado aplicable serán las que consten en la Política de Firma del Principado de
+asturias.
+artículo 4.—Actuaciones administrativas a las que es aplicable el sello electrónico de la Consejería.
+el sello electrónico de la Consejería podrá ser utilizado en las actuaciones administrativas automatizadas siguientes:
+a) emisión de comunicaciones administrativas
+b) Emisión de actos, resoluciones y notificaciones administrativas.
+c) Generación de copias electrónicas de documentos en soporte papel
+d) Generación de certificados de inscripciones y/o anotaciones registrales.
+e) Firma automatizada para integraciones informáticas.
+f) Supervisión de Proyectos de urbanización y edificación.
+g) Sellado del Servicio de Edificación de Vivienda.
+artículo 5.—emisión de comunicaciones administrativas de forma automatizada.
+1. Las comunicaciones administrativas que se produzcan en el seno de los procedimientos electrónicos de la Con-
+sejería podrán ser generadas de forma automática a partir de la firma electrónica del acto o documento que se
+comunica, incluyendo el apunte del registro electrónico de salida. Serán firmadas mediante el sello electrónico
+de la Consejería, haciendo constar en los datos de firma los datos del titular de la Consejería.
+2. Se comprobarán los datos del destinatario de la comunicación en las bases de datos propias, de modo que si
+concurren las condiciones establecidas se procederá a la emisión de las correspondientes comunicaciones de
+forma automatizada.
+artículo 6.—Emisión de actos, resoluciones y notificaciones administrativas de forma automatizada.
+1. Los actos, resoluciones y notificaciones que se produzcan en los procedimientos de la Consejería a través de sus
+sistemas de información podrán ser generados de forma automática incluyendo el apunte de registro electrónico
+de salida. Serán firmados mediante el sello electrónico de la Consejería haciendo constar en los casos en que
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 134 de 14-VII-2026 3/3
+https://miprincipado.asturias.es/bopa
+13750-6202
+.dóC
+sea posible, los datos de firma el titular del órgano central superior de la Consejería o, en su caso, el titular de
+la estructura administrativa responsable de la tramitación del procedimiento en que se hayan producido.
+2. Se comprobarán los datos para generar los actos y las notificaciones en las bases de datos propias, de modo que
+si concurren las condiciones establecidas procederá a la emisión de los correspondientes documentos de forma
+automatizada.
+artículo 7.—Generación de copias electrónicas de documentos en soporte papel.
+1. La generación de una copia electrónica a partir de un documento en soporte papel podrá realizarse de forma
+automatizada mediante el proceso de digitalización que se regula en el artículo 27.3 LPACAP.
+2. La copia electrónica de documentos digitalizados de forma automatizada, obtiene una imagen codificada, fiel
+e íntegra del documento. El documento resultante se autenticará mediante la firma de sello electrónico de la
+Consejería.
+artículo 8.—Generación de certificados de inscripciones y/o anotaciones registrales.
+a solicitud de los interesados que formularán sus peticiones mediante los servicios electrónicos disponibles en la
+sede electrónica del Principado de Asturias, se podrán generar de forma automatizada certificados de inscripciones o
+anotaciones registrales que serán firmados por el sello electrónico de la Consejería. Estos certificados serán el resulta-
+do del tratamiento y verificación de la información existente en las bases de datos de cada procedimiento registral de
+competencia funcional de la Consejería.
+artículo 9.—órganos competentes en materia de actuaciones administrativas automatizadas.
+Los órganos competentes en relación con las actuaciones administrativas automatizadas incluidas en el artículo 4
+serán los siguientes:
+a) Para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad y, en
+su caso, auditoría del sistema de información y de su código fuente, la dirección general competente en materia
+de seguridad y estrategia digital.
+b) La persona titular de la Consejería que, mediante resolución y previa solicitud motivada del centro directivo,
+será la que autorice el uso del sello electrónico. Dicha solicitud incluirá, al menos, una memoria justificativa,
+que exponga detalladamente los motivos que fundamentan la necesidad del uso del sello electrónico, así como
+un análisis pormenorizado de la actuación a la que se pretende aplicar.
+c) a efectos de impugnación de las actuaciones administrativas automatizadas, será competente la persona titular
+de la Consejería.
+artículo 10.—Comprobación de los documentos generados de forma automatizada.
+1. Todos los documentos que sean producto de las actuaciones administrativas automatizadas reguladas me-
+diante la presente resolución deberán poder comprobarse mediante el acceso a la sede electrónica. Para ello,
+todos los documentos deberán incluir un Código Seguro de Verificación (en adelante, CSV) generado de forma
+automática.
+2. El sistema de CSV deberá garantizar, en todo caso, el carácter único del código generado para cada documento,
+su vinculación con el documento generado y con el firmante.
+artículo 11.—Gestión técnica de los códigos seguros de verificación (CCSV).
+La gestión técnica de las infraestructuras y aplicaciones necesarias para la generación y verificación del CSV corres-
+ponderá a la dirección general competente en materia de seguridad y estrategia digital.
+artículo 12.—Plazo de disponibilidad de los documentos generados mediante las actuaciones administrativas
+automatizadas.
+1. Los documentos electrónicos generados mediante actuación administrativa automatizada estarán disponibles a
+efectos de comprobación mediante CsV en tanto no se acuerde la destrucción de los documentos sobre los que
+se hayan emitido, con arreglo a la normativa que resulte de aplicación o por decisión judicial.
+2. Cuando se intente cotejar en la sede electrónica un documento que incluye un CSV que ya no está disponible
+por decisión judicial o por la aplicación de la normativa vigente, aparecerá un mensaje que informe de esta
+circunstancia.
+Disposición adicional única.—otras actuaciones administrativas automatizadas
+Cuando se detecten otras actuaciones susceptibles de automatización mediante firma con el sello electrónico de la
+Consejería, el órgano competente podrá solicitar la incorporación del sello a esa actuación, que deberá ser previamen-
+te autorizada por la persona titular de la Consejería mediante resolución de declaración de actuación administrativa
+automatizada.
+Disposición final única.—Entrada en vigor
+esta resolución entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Principado de Asturias.
+en oviedo, a 1 de julio de 2026.—el Consejero de ordenación de Territorio, Urbanismo, Vivienda y derechos Ciuda-
+danos, ovidio Zapico González.—Cód. 2026-05731.
