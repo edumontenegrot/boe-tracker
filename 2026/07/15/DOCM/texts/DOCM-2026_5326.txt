@@ -1,0 +1,686 @@
+AÑO XLV Núm. 133 15 de julio de 2026 27265
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 02/07/2026, de la Dirección General de Calidad Ambiental, por la que se formula la declaración
+de impacto ambiental del proyecto: Ampliación de explotación avícola, de 140.000 a 284.000 pollitas de recría.
+(Expediente PRO-SC-25-1255), situado en el término municipal de Millana (Guadalajara), cuya promotora es
+la mercantil Dosany, SL. [2026/5326]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, define la declaración de impacto
+ambiental en su artículo 4 como el informe preceptivo y determinante del órgano ambiental con el que finaliza la
+evaluación de impacto ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el proyecto
+y determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de los
+recursos naturales durante la ejecución y la explotación y, en su caso, el cese, el desmantelamiento o demolición
+del proyecto.
+Asimismo, en su artículo 8.1 se establece que los proyectos incluidos en su ámbito de aplicación deben someterse
+a una evaluación ambiental antes de su autorización por el órgano sustantivo, o bien, si procede, antes de la
+presentación de la correspondiente declaración responsable o comunicación previa. En particular, su artículo 6.1
+determina los proyectos que deben someterse a una evaluación de impacto ambiental ordinaria.
+El proyecto denominado “Ampliación de explotación avícola, de 140.000 a 284.000 pollitas de recría” se encuadra
+en el apartado 2.c) del artículo 6 de la Ley 2/2020: “Cualquier modificación de las características de un proyecto
+consignado en el anexo I o en el anexo II, 4 que pueda tener efectos significativos sobre el medio ambiente”. No
+obstante, el promotor se ha encuadrado voluntariamente en el supuesto 6.1.d de la citada Ley 2/2020, de 7 de
+febrero, “los proyectos incluidos en el apartado 2, cuando así lo solicite el promotor”, por lo que se somete al trámite
+de evaluación ambiental ordinaria de proyectos de forma voluntaria.
+Además, la ampliación está sometida al ámbito de aplicación del Real Decreto Legislativo 1/2016, de 16 de diciembre,
+por el que se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, por lo
+que, simultáneamente, está siendo tramitado su procedimiento de otorgamiento de la Modificación Sustancial de la
+Autorización Ambiental Integrada, con número de expediente AAI-GU-014.
+Primero. Promotor, órgano sustantivo y descripción del proyecto.
+El promotor del proyecto “Ampliación de explotación avícola, de 140.000 a 284.000 pollitas de recría” es Dosany, SL.
+Actúa como órgano sustantivo el Ayuntamiento de Millana (Guadalajara).
+El objeto del proyecto consiste en llevar a cabo la ampliación de 144.000 pollitas de recría de una explotación avícola
+existente, pasando de 140.000 a 284.000 pollitas de recría, en las parcelas 53 y 54 del polígono 504 del término
+municipal de Millana (Guadalajara), con coordenadas UTM: X = 536.801 e Y= 4.483.746.
+El terreno ocupado por la instalación tiene la clasificación de suelo rústico de reserva. La superficie de la parcela
+donde se ubica el proyecto tiene una superficie total de 11.495 m2 y con la ampliación propuesta supone una
+superficie total construida de 3.749,85 m2, lo cual supone un porcentaje de ocupación sobre el total de las parcelas
+del 32,62 %.
+La fase de recría transcurre hasta la semana 17, llegado este momento se dispone de una pollita sana con buen
+peso y perfectamente igualada para proceder a su traslado a la nave de puesta de sus propietarios finales. Se
+realizan aproximadamente dos ciclos por año.
+El sistema opera bajo el principio de “todo dentro, todo fuera” por cada unidad de producción. Durante la estancia de
+las aves, se lleva a cabo un control riguroso de la temperatura (óptima entre 24-25ºC), la humedad (50-60%) y un
+programa de iluminación creciente de 30 minutos semanales para completar su madurez sexual.
+Al finalizar cada lote de pollitas (aproximadamente cada 17-18 semanas), se lleva a cabo una limpieza profunda de
+las naves que coincide con el vaciado sanitario, el cual tiene una duración de entre 40 y 50 días.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27266
+Para llevar a cabo la ampliación de este proyecto, en cuanto a instalaciones principales proyectadas, se prevé:
+- La construcción de 1 nave (denominada nave B) de 1.902,69 m2, de una sola planta y con unas dimensiones de
+78 m x 24,3 m. La nave irá dotada de un sistema de ventilación que garantice la renovación del aire. Interiormente
+dispone de un sistema que utiliza comederos de bandejas que se llenan de forma automática a través de tolvas, las
+cuales se desplazan a lo largo de las filas de jaulas mediante 6 carros de distribución.
+En cuanto a la iluminación, se empleará luz artificial con objeto de influenciar la actividad y ritmo de puesta.
+Asimismo, se permitirá la entrada de luz natural mediante las puertas y ventanas dispuestas al exterior. Se dispone
+de elementos de iluminación de bajo consumo tipo LED, estando regulada por un temporizador. Se dispone de dos
+líneas de alumbrado a dos niveles por cada pasillo existente entre las baterías, o entre estas y las paredes de la
+nave. Se utilizan lámparas de bajo consumo tipo LED de 9 W.
+La ventilación será dinámica de barrido lateral, la entrada de aire se realiza mediante la ventana corrida existente
+en un lateral (regulación automática de apertura en función de la depresión) y en la fachada opuesta se disponen
+20 ventiladores de 1 CV. Su funcionamiento se escalona en grupos y su gestión se realiza mediante un autómata
+programable.
+En cuanto a la calefacción, para la ampliación propuesta, se llevará a cabo mediante dos equipos móviles con motor
+de combustión interna y una potencia de 200.000 kcal cada uno. Cada equipo trabaja de forma independiente.
+Para suministrar gasóleo a dichos equipos, se dispone de 2 depósitos de gasóleo de 1.000 litros cada uno. Las
+instalaciones disponen de modernos controladores ambientales. Mediante sondas, autómatas y un ordenador
+central, la nave activa y desactiva, tanto la calefacción como la ventilación en función de las condiciones ambientales
+de las naves (humedad y temperatura) y los parámetros establecidos en cada etapa del crecimiento de las pollitas.
+Las instalaciones cuentan con un grupo electrógeno de emergencia diseñado para garantizar el suministro eléctrico
+continuo, el cual tiene una potencia de 175 Kva y cuenta con un depósito de gasóleo.
+Por otro lado, la instalación, conforme al proyecto original, ya cuenta con las siguientes instalaciones:
+- 1 nave (denominada A) con una superficie de 1.654 m2, de una sola planta y con unas dimensiones de 17,36 m x
+95,32 m., con sistema de extracción de gallinaza, reparto de pienso y agua en el interior de las naves, para albergar
+140.000 gallinas.
+- 1 nave de usos varios de dos plantas de 114,40 m2 cada una (dimensiones de 6,59 m. x 17,36 m.)
+- 1 nave de 75,5 m2 (dimensiones de 10 m. x 7,25 m.) como almacén de utensilios y maquinaria agrícola.
+- Vallado perimetral.
+- Estercolero impermeabilizado con una capa de hormigón con impermeabilización bajo la solera mediante lámina
+de polietileno.
+- Fosa séptica estanca de poliéster reforzado con fibra de vidrio, con dimensiones de 140 cm. y 225 cm. de alto.
+- Almacén de residuos peligrosos con una superficie de 3,5 m2.
+- Zona de extracción de gallinaza al exterior de 51,25 m2 (de 4,1 m x 12,50 m). La cinta se encuentra en el interior de
+una nave. En dicha nave se encuentra un depósito impermeable que recoge la red de captación de aguas residuales
+que se pudieran producir en el interior de la nave para su retirada por gestor autorizado.
+- Instalación de protección contra incendios.
+- Contenedor estanco (de 800 litros de capacidad) para almacenamiento de cadáveres de animales, hasta su retirada
+semanal por una empresa autorizada.
+- Contenedores para almacenamiento de residuos peligrosos.
+1.1. Distancias.
+La parcela donde se pretende llevar a cabo la ampliación es de fácil acceso, esto es, se accede a la parcela 53 y 54
+del polígono 504 del término municipal de Millana desde la altura del punto kilométrico 6,300 de la CM-2015. Desde
+este punto se accede al camino del Escobar, por el cual se recorre una distancia de 520 m, encontrándose el acceso
+a la explotación en la margen izquierda de esa vía. “
+El núcleo de población más cercano es la localidad de Millana, la cual se encuentra a más de 600 m de las
+edificaciones de la explotación. La distancia a cauce más cercano, es el que linda con la parcela en su orientación
+este, el Arroyo de Las Navas. Las vías públicas más cercanas son el Camino del Escobar, el cual linda al oeste con
+la explotación y la carretera CM-2015, la cual se encuentra a unos 520 m.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27267
+No existe, a menos de 500 metros, industrias cárnicas, mataderos, áreas de enterramiento de cadáveres, instalaciones
+de tratamiento de estiércol, establecimientos de transformación o eliminación de cadáveres, etc.
+1.2. Alimentación.
+Para el almacenamiento del pienso se prevé la instalación de 3 silos verticales de chapa metálica lisa de 15 toneladas
+cada uno, ubicados en el exterior de las mismas, de los cuales el pienso se extrae mediante sinfín accionado por
+motores de 1,1 kW. El pienso se dosifica automáticamente a través de un sinfín con bajantes que conducen hasta
+los seis carros de distribución de pienso. Tanto comederos como bebederos son regulables en altura, por lo que de
+esta forma podrán ser adaptados al crecimiento y con un diseño tal que tenga fácil acceso para las aves, que eviten
+todo tipo de desperdicios y faciliten la limpieza.
+Para la alimentación de los animales se llevará a cabo el suministro de pienso ad libitum. El consumo de pienso
+medio por ave depende del período de crecimiento, por lo que con la ampliación propuesta se estima un consumo
+total de pienso de 3.976 Tm/año aproximadamente.
+1.3. Consumo de agua.
+Principalmente la demanda de agua de la explotación avícola es para el consumo de los animales, y en pequeña
+proporción para el consumo de los empleados de la granja. El consumo total anual estimado para la explotación,
+teniendo en cuenta los requerimientos de las pollitas de recría, asciende a 4.260 m3/año, aproximadamente. El
+manejo del agua en la explotación estará optimizado, tanto en su distribución a los animales como en su utilización
+en las distintas dependencias para limpieza, a fin de evitar pérdidas y excesos que incrementen el volumen de
+líquido a tratar.
+El abastecimiento de agua para el funcionamiento de esta explotación se realiza a través del suministro desde el
+pozo de captación de agua ubicado en la parcela 53 del polígono 504 del término municipal de Millana (Guadalajara),
+el cual dispone de autorización de la Confederación Hidrográfica del Tajo.
+El agua se almacena en un aljibe de 150.000 litros y de ahí es higienizada en un depósito intermedio de 1.500
+litros mediante peróxido para su uso en la alimentación de las pollitas. Así mismo, dicho agua de pozo se utiliza
+para la vivienda del granjero, limpieza de instalaciones (en caso necesario ya que se realiza limpieza en seco), y
+para suministro de medicación a las pollitas en aquellas vacunas que deben ser administradas en forma líquida.
+El suministro de agua se realiza a través de tuberías a los bebederos tipo tetina, garantizando la disponibilidad de
+agua (ad libitum). La tubería dispone de dos tetinas por jaula, cuyo caudal es controlado por un regulador de presión
+situado en cabecera. Se dispone de canaletas y recoge gotas que recogen el agua que escurren los animales al
+beber y las posibles pérdidas en los bebederos.
+La limpieza de la planta de las naves se realizará en seco. Se eliminan partículas gruesas, plumas y polvo mediante
+raspado y el uso de máquinas industriales de aspiración o aire a presión. Se prioriza este método para minimizar el
+uso de agua. No obstante, a pesar de que se fomenta la limpieza en seco, se dispone de equipos de alta presión
+para garantizar la desinfección de alojamientos y utillaje cuando sea necesario.
+1.4. Energía.
+En cuanto al suministro eléctrico, la energía procede de un centro de transformación propio con una potencia de 60
+kVA. Tras la ampliación solicitada, se prevé la necesidad de modificar esta instalación para aumentar su potencia.
+El promotor, por otro lado indica que se prevé la instalación de 1 grupo electrógeno de emergencia de 175kVA
+(gasoil), lo que permitirá el continuo funcionamiento de todos los aparatos eléctricos en caso de cese de fluido
+eléctrico.
+1.5. Residuos urbanos, peligrosos y aguas fecales.
+Se dispondrá de contenedores destinados a albergar los diferentes tipos de residuos generados por la actividad
+humana del personal que trabaja en las instalaciones, que se utilizarán para la separación de vidrio - papel y cartón,
+plásticos, latas y bricks, y basura orgánica. Estos serán vaciados, como mínimo, una vez por semana para evitar que
+se conviertan en focos de atracción de animales o insectos y serán retirados por gestor autorizado.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27268
+Las aguas de limpieza y sanitarias serán recogidas por el sistema de saneamiento y son conducidas a un depósito
+subterráneo estanco de polietileno de capacidad suficiente para el volumen de aguas generadas en la explotación,
+las cuales son retiradas por gestor autorizado.
+Segundo. Procedimiento realizado: información pública y consultas.
+El 3 de octubre de 2024 se recibe en la Dirección General de Calidad Ambiental de la Consejería de Desarrollo
+Sostenible la solicitud de inicio del procedimiento de Evaluación de Impacto Ambiental del proyecto “Ampliación de
+explotación avícola, de 140.000 a 284.000 pollitas de recría”, situado en el término municipal de Millana (Guadalajara),
+cuya promotora es la mercantil Dosany, SL siendo de aplicación la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha.
+El proyecto se encuadra en el apartado 2.c) del artículo 6 de la Ley 2/2020: “Cualquier modificación de las
+características de un proyecto consignado en el anexo I o en el anexo II, 4 que pueda tener efectos significativos
+sobre el medio ambiente”. No obstante, el promotor se ha encuadrado voluntariamente en el supuesto 6.1.d de la
+citada Ley 2/2020, de 7 de febrero, “los proyectos incluidos en el apartado 2, cuando así lo solicite el promotor”, por
+lo que se somete al trámite de evaluación ambiental ordinaria de proyectos de forma voluntaria.
+La solicitud se completa con el estudio de impacto ambiental del proyecto, así como con la tasa, planos e informe del
+Ayuntamiento de Millana (Guadalajara). De igual forma y de acuerdo con el Real Decreto Legislativo1/2016, de 16 de
+diciembre, por el que se aprueba el texto refundido de la Ley de control y prevención integrados de la contaminación,
+tiene lugar la presentación del Proyecto básico de la Modificación Sustancial de la Autorización Ambiental Integrada
+del proyecto referenciado, tasa, planos y resumen no técnico del proyecto. Al expediente administrativo de evaluación
+ambiental se le asignó el número PRO-SC-25-1255 y al de Autorización Ambiental Integrada el AAI-GU-014.
+El 11 de junio de 2025 se publica en el Diario Oficial de Castilla-La Mancha número 111, el anuncio de 04/06/2025,
+de la Dirección General de Calidad Ambiental, por el que se inicia el período de información pública del estudio de
+impacto ambiental y de la modificación sustancial de la autorización ambiental integrada del proyecto, conforme a
+lo establecido en el artículo 60 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y
+con lo dispuesto en el artículo 36 de Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental.
+Simultáneamente se realiza el trámite de consultas a las administraciones, organismos e instituciones, previsiblemente
+afectadas por la ejecución del proyecto, para que informen sobre los aspectos que les correspondan en función de
+sus competencias.
+A continuación, se expone la relación de organismos consultados por esta Dirección General, señalando con
+asterisco (*) aquellos que han emitido contestación:
+Ayuntamiento de Millana (Guadalajara).*
+Delegación Provincial de Desarrollo Sostenible de Guadalajara. Servicio de Medio Natural. *
+Delegación Provincial de Agricultura, Ganadería y Desarrollo Rural de Guadalajara – Servicio de Agricultura y
+Ganadería. *
+Delegación Provincial de Sanidad de Guadalajara. *
+Desarrollo Sostenible de Guadalajara. Unidad de Coordinación Provincial Agentes Medioambientales.
+Delegación Provincial de Desarrollo Sostenible de Guadalajara. Servicio de Calidad Ambiental.
+Delegación Provincial de Agricultura, Agua y Desarrollo Rural de Guadalajara. OCA de Pastrana.
+Delegación Provincial de Educación, Cultura y Deportes de Guadalajara. Servicio de Cultura-Sección de
+Arqueologia. *
+Confederación Hidrográfica del Tajo. *
+WWF/Adena.
+Ecologistas en Acción de Guadalajara. *
+Sociedad Española de Ornitología (Seo Birdlife).
+Las alegaciones e informes recibidos durante el período de información pública iniciada mediante el anuncio de 04/06/2025
+de la Dirección General de Calidad Ambiental sobre información pública del estudio de impacto ambiental y autorización
+ambiental integrada, publicado el 11 de junio de 2025 Diario Oficial de Castilla-La Mancha, así como la respuesta dada por
+el promotor a las mismas, se encuentran disponibles en la aplicación Nevia (https://neva.jccm.es/nevia) de la página www.
+castillalamancha.es, en la documentación relativa al proyecto (dentro del apartado “Proyectos” introduciendo el número
+de expediente PRO-SC-25-1255).
+
+AÑO XLV Núm. 133 15 de julio de 2026 27269
+De forma muy resumida se presentan a continuación los aspectos más destacables de tipo ambiental en las
+alegaciones presentadas por la asociación Ecologistas en Acción de Guadalajara (recibidas el 17 de junio de 2026),
+así como la respuesta del promotor a las mismas y a otras cuestiones (recibidas el 28 de octubre de 2025):
+- Proximidad al núcleo urbano: La granja se sitúa a solo 615 metros de Millana, lo que generará olores persistentes,
+molestos y potencialmente nocivos para la salud de los vecinos según la dirección del viento.
+- Bienestar animal y mortalidad: El informe denuncia condiciones de hacinamiento y crueldad, con luz artificial y
+ruidos constantes que impiden los ciclos naturales de las aves. Se estima una mortalidad del 5%, lo que equivale a
+la “dramática cifra” de 28.400 gallinas muertas anualmente.
+- Salud pública: Las altas densidades de animales fomentan enfermedades como la gripe aviar, que pueden
+transmitirse a los humanos.
+- Contaminación de aguas y suelos: La instalación generará unas 1.192 toneladas de gallinaza al año, residuo rico
+en nitratos que puede filtrar a los acuíferos y contaminar fuentes de abastecimiento humano. Además, se ubica a
+solo 62 metros de dos arroyos, con riesgo de vertidos directos.
+- Impacto climático y atmosférico: Se denuncian emisiones de metano, amoníaco y CO2. El sector ganadero industrial
+es responsable del 92% de las emisiones de amoníaco declaradas en España. También se vincula el uso de piensos
+con la deforestación en países del tercer mundo.
+Con fecha 28 de octubre de 2025 se recibe por parte del promotor escrito de respuesta a las alegaciones, que en
+referencia a las alegaciones expuestas por la asociación de Ecologistas en Acción de Guadalajara, en las cuales se
+expone:
+- Cumplimiento de Distancias y Olores: la explotación cumple con la distancia mínima de 500 metros al núcleo
+urbano exigida por el Real Decreto 637/2021, por el que se establecen las normas básicas de ordenación de las
+granjas avícolas. Se expone que se emplean sistemas de ventilación eficaces y una gestión de la gallinaza que
+minimizan el impacto por olores. Por último, el promotor sostiene que mover la granja a otra ubicación tendría un
+impacto ambiental “incompatible” debido a la necesidad de nuevas infraestructuras (tendido eléctrico, pozos, naves
+auxiliares) que ya existen en la parcela actual.
+- Bienestar Animal y Sanidad: el promotor indica que la tasa del 5% es una estimación conservadora y habitual en
+el sector y que se cumple con la legislación europea de bienestar animal, utilizando sistemas automatizados de
+control ambiental y alimentación balanceada. El proyecto incluye medidas de bioseguridad y vigilancia sanitaria que
+minimizan los riesgos de enfermedades como la gripe aviar.
+- En cuanto a la gestión de la gallinaza y la protección de los suelos, se indica que la gallinaza sed retira para su
+uso como fertilizante orgánico en parcelas agrícolas; y las naves cuentan con suelos de hormigón impermeables
+para evitar filtraciones al subsuelo y no se almacena gallinaza en el exterior (salvo en un estercolero de emergencia
+existente que nunca ha sido necesario usar).
+- El proyecto cuenta con la autorización de la Confederación Hidrográfica del Tajo para actuar en zona de policía,
+garantizando que no habrá vertidos a los arroyos cercanos. Por otro lado, el consumo de agua se optimiza mediante
+bebederos de bajo caudal, sensores de temperatura y medidores de caudal para detectar fugas inmediatamente.
+- Emisiones y Cambio Climático: se adoptan mejores técnicas disponibles (MTD) para reducir las emisiones de
+amoníaco y otros gases.
+- Empleo y supervisión: el promotor rechaza que los puestos de trabajo sean escasos; sostiene que la monitorización
+y tecnificación del sector demandan perfiles técnicos mejor remunerados y con formación.
+Los informes recibidos pueden consultarse en la aplicación de consulta de expedientes de Evaluación Ambiental:
+Nevia: https://nevia.castillalamancha.es/forms/nevif100.php. El contenido de los mismos se ha tenido en cuenta
+para la redacción de esta Declaración de Impacto Ambiental y en concreto en el apartado cuarto de “Condiciones y
+medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente”.
+El Ayuntamiento de Millana (Guadalajara) remite a la Dirección General de Calidad Ambiental el 19 de agosto
+de 2025 (número de registro 3373075) oficio en el que se remiten las alegaciones recibidos en dicho organismo
+durante la información pública.; así como el informe en virtud del artículo 18 del Real Decreto Legislativo 1/2016, por
+el que se aprueba el Texto Refundido de la Ley de Prevención y Control Integrados de la Contaminación, sobre la
+adecuación de la instalación en todos aquellos aspectos que sean de su competencia en el municipio.
+Tercero. Resumen del análisis técnico del expediente.
+Conforme al artículo 45 de la Ley 2/2020, una vez examinado el Estudio de Impacto Ambiental y considerando
+que se ha tenido en cuenta el resultado de las consultas y, que la información pública se ha llevado conforme a la
+ley, procede realizar el análisis técnico del proyecto, evaluando los efectos ambientales previsibles, al objeto de
+determinar si procede la realización o no del proyecto, las condiciones en las que puede desarrollarse y las medidas
+
+AÑO XLV Núm. 133 15 de julio de 2026 27270
+adicionales, correctoras o compensatorias necesarias. En el apartado cuarto se detallan las medidas preventivas y
+correctoras del proyecto.
+3.1. Análisis de alternativas.
+Se plantean tres alternativas. La Alternativa 0 o de no actuación; la Alternativa 1, situada en la parcela 73 del
+polígono 514 del término municipal de Millana (Guadalajara), alternativa planteada como ampliación de la explotación
+avícola que el promotor posee en la ubicación mencionada; y la Alternativa 2 (la elegida) alternativa planteada como
+ampliación de la explotación avícola que el promotor posee en la ubicación mencionada, situada en las parcelas 53
+y 54 del polígono 504 del término municipal de Millana (Guadalajara).
+- La alternativa 0, o de no actuación, consistiría en no llevar a cabo ningún tipo de construcción; lo cual desde un
+punto de vista socio - económico mermaría el desarrollo, no sólo de la empresa, sino de aquellas empresas que
+indirectamente se ven beneficiadas por la consolidación y el sostenimiento del empleo en general y en el municipio
+de Millana (Guadalajara) en concreto.
+- La alternativa 1 se corresponde con el escenario de la realización del proyecto, en una ubicación diferente a la que
+ocupa actualmente la granja en funcionamiento. Esta alternativa, es inviable desde un punto de vista económico,
+ya que la construcción de las instalaciones proyectadas en una ubicación separada de las instalaciones actuales,
+conllevaría la necesidad de inversiones inasumibles.
+- La alternativa 2 consiste en llevar a cabo la ampliación de la cabaña ganadera de las instalaciones existentes
+situadas en las parcelas 53 y 54 del polígono 504 del término municipal de Millana (Guadalajara), y de esta forma
+aprovechar las instalaciones e infraestructuras existentes, ya que las alteraciones medioambientales serán mínimas,
+puesto que ya se está ejerciendo la actividad agrícola; por lo que esta alternativa podría albergar la ampliación sin
+objeciones.
+En definitiva, la alternativa 2, significa situar la ampliación en la misma ubicación donde se encuentra otra explotación
+propiedad del promotor, aprovechándose de esta forma de todas las instalaciones ya existentes.
+3.2. Distancia a poblaciones y molestia por olores.
+El núcleo de población más cercano es la localidad de Millana (Guadalajara), la cual se encuentra a más de 600
+m de las edificaciones de la explotación. La distancia a cauce más cercano, es el que linda con la parcela en su
+orientación este, el Arroyo de Las Navas. Las vías públicas más cercanas son el Camino del Escobar, el cual linda
+al oeste con la explotación y la carretera CM-2015, la cual se encuentra a unos 520 m.
+No existe, a menos de 500 metros, industrias cárnicas, mataderos, áreas de enterramiento de cadáveres, instalaciones
+de tratamiento de estiércol, establecimientos de transformación o eliminación de cadáveres, etcétera.
+La posición relativa de la explotación respecto al núcleo urbano de Millana, unido a la configuración de los vientos en
+la zona y el relieve que los separa, hace que esta Dirección General de Calidad Ambiental estime como compatible
+la ampliación desde el punto de vista de las molestias a la población.
+Por otro lado, la explotación es objeto de la tramitación de su autorización ambiental integrada (expediente AAI-
+GU-014), y en ella se le deberá imponer la aplicación de las mejores técnicas disponibles relativas a la prevención
+de la generación de olores, de acuerdo con la Decisión de Ejecución (UE) 2017/302 de la Comisión de 15 de febrero
+de 2017 por la que se establecen las conclusiones sobre las mejores técnicas disponibles respecto a la cría intensiva
+de aves de corral o de cerdos.
+3.3. Gestión de los estiércoles.
+La cantidad anual de estiércol producido por las 284.000 pollitas de recría será de 1.192 toneladas al año,
+aproximadamente.
+La retirada del estiércol o gallinaza, se realizará de forma automática, mediante cintas longitudinales de recogida
+que trasladan las deyecciones directamente a los vehículos de transporte, para gestión del residuo por gestor
+autorizado, extrayéndose directamente de las naves. La retirada se realiza de forma frecuente, generalmente dos
+veces por semana.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27271
+Como se ha comentado en apartados anteriores, aunque la gestión principal es la carga directa, la granja dispone
+de un estercolero exclusivo para casos de emergencia, de 525 m3, construido en una losa y muros de hormigón de
+1,50 m e impermeabilizada con polietileno bajo la solera. Cuenta con una lona impermeable para cubrir la gallinaza.
+A pesar de que la aplicación agrícola es un sistema contemplado como apto por la Unión Europea en la Decisión
+de Ejecución (UE) 2017/302 de la Comisión de 15 de febrero de 2017, por la que se establecen las conclusiones
+sobre las mejores técnicas disponibles respecto de la cría intensiva de cerdos y aves de corral, la gestión de estos
+estiércoles se va a llevar a cabo a través de la contratación de un gestor autorizado sin ser necesario, por parte del
+promotor de disponer de una superficie agrícola mínima donde valorizarlos.
+3.4. Necesidades hídricas del proyecto.
+El consumo de agua según la documentación aportada en el Estudio de Impacto Ambiental asciende a 4.260 m3/
+año, siendo la mayor parte para bebida de los animales. Se dispondrá de depósitos de agua, los cuales son de gran
+utilidad, pues por si algún motivo patológico de las aves, se tuviese que medicar por vía oral en el agua se puede
+hacer de forma directa y dosis correcta.
+La actividad no genera efluentes líquidos, ya que el agua tanto de limpieza así como el exceso de humedad en las
+deyecciones se elimina por evaporación (por medio de una ventilación adecuada), quedando el residuo sólido de
+éstas como parte del estiércol producido.
+3.5. Afecciones sobre áreas y recursos naturales protegidos y sobre áreas forestales.
+De acuerdo con el informe recibido del Servicio Provincial de Medio Natural de Guadalajara, la ampliación propuesta
+no se encuentra en Espacios Naturales Protegidos, ni espacios de la Red Natura 2000, ni Hábitats de Interés
+Comunitario ni Hábitats y Elementos Geomorfológicos de protección especial de Castilla-La Mancha. Por otro lado,
+se indica que el emplazamiento se encuentra en una zona de campeo de rapaces generalistas como el águila
+calzadam el milano negro y el ratonero, todas ellas de interés especial. No se prevé afección a vías pecuarias.
+En el referenciado informe se indica que el Arroyo de las Navas se encuentra colindante con la explotación.
+3.6.- Relación con el cambio climático.
+Se considera que la aplicación de las Mejores Técnicas Disponibles (MTD) recogidas en la Autorización Ambiental
+Integrada de la explotación, permitirá reducir al máximo la contribución desfavorable del proyecto al cambio climático.
+3.7.- Conclusión.
+En consecuencia, una vez finalizado el análisis técnico del expediente de evaluación de impacto ambiental, conforme
+a la Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, de acuerdo con las competencias
+atribuidas en el Decreto 17/2026, de 14 de abril, por el que se modifica el Decreto 112/2023, de 25 de julio, por el
+que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible, esta Dirección
+General de Calidad Ambiental considera viable el proyecto desde el punto de vista ambiental, siempre que se realice
+conforme al Estudio de Impacto Ambiental presentado y a las prescripciones de esta resolución.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas que con carácter general se señalan en el estudio de impacto ambiental, se cumplirán las
+condiciones que se expresan a continuación, significando que en los casos en que pudieran existir discrepancias
+entre unas y otras, prevalecerán las contenidas en el presente informe.
+4.1. Bienestar animal.
+Con fecha 14 de mayo de 2025 se recibe informe del Servicio de Agricultura y Ganadería de la Delegación Provincial
+de Agricultura, Ganadería y Desarrollo Rural de Guadalajara.
+En dicho informe se indica que con los datos que figuran en dicho organismo sobre la ampliación propuesta se
+indica que se siguen cumpliendo las condiciones en materia de sanidad y bienestar animal, así como el resto de
+requisitos contemplados en el Real Decreto 637/2021, de 27 de julio, por lo que se informa favorablemente para
+
+AÑO XLV Núm. 133 15 de julio de 2026 27272
+que continúe la tramitación del mismo. Una vez disponga de la Modificación Sustancial de la Autorización Ambiental
+Integrada, deberá solicitar la modificación en el registro de explotaciones ganaderas, por ampliación, tal y como
+recoge el Decreto 69/2018, de 2 de octubre, por el que se establecen las normas para la ordenación y registro de
+explotaciones ganaderas y núcleos zoológicos en Castilla-La Mancha.
+Por otro lado, se cumplirá lo contemplado en el Reglamento (ce) número 1069/2009 del Parlamento Europeo y del
+consejo de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos
+animales no destinados al consumo humano, contratando con empresa especializada para la recogida y posterior
+gestión de los cadáveres.
+4.2. Protección de áreas y recursos naturales protegidos, fauna y vegetación.
+La actuación se limitará a la parcela solicitada, respetando de cualquier manera las superficies con vegetación
+forestal. Se recuerda que, en caso de que haya presencia de especies arbóreas, éstas no se deben ver dañadas
+y/o en todo caso deberá obtenerse autorización previa del Servicio Provincial de Medio Natural y Biodiversidad de
+Guadalajara para las actuaciones de desbroce y modificación de la cubierta vegetal que sean necesarias.
+En el caso de ser necesarias zonas de acopio de materiales, éstas se dispondrán de forma que ocupen la menor
+superficie posible, y preferentemente, en zonas desprovistas de vegetación natural.
+El control de roedores deberá limitarse exclusivamente al interior de las naves, en condiciones que reduzcan la
+posibilidad de ingestión directa por fauna silvestre o envenenamiento secundario.
+Otras indicaciones a tener en cuenta son:
+- De acuerdo al artículo 58 de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La
+Mancha, las urbanizaciones, instalaciones de naturaleza industrial, turística, recreativa o deportiva, ubicadas dentro
+de los montes o en su colindancia, deberán contar con un plan de autoprotección, en el que entre otras medidas,
+figurará la construcción de un cortafuego perimetral cuya anchura, medida en distancia natural, estará en función,
+al menos, del tipo de vegetación circundante y pendiente del terreno, debiéndose tener especialmente en cuenta en
+la colindancia con monte arbolado. Del mismo modo, cuando se trate de granjas, deberán adoptarse precauciones
+semejantes para aislar las construcciones de la masa forestal.
+- El tendido de suministro eléctrico se deberá adaptar en su totalidad a las normas de carácter técnico establecidas
+por el Real Decreto 1432/2008, por el que se establecen medidas para la protección de la avifauna contra la colisión
+y la electrocución en líneas eléctricas de alta tensión, así como a las normas que contempla el Decreto 5/1999, de
+2 de febrero de 1999, aunque no se considera necesaria la señalización.
+- En el caso del grupo electrógeno para el abastecimiento eléctrico de emergencia a la instalación, estará dotado de
+sistemas que minimicen el ruido a niveles que no molesten a la fauna presente en la zona, así como de elementos
+que eviten la contaminación del suelo por derrames accidentales de combustible y posibles pérdidas de aceite.
+4.3. Protección del sistema hidrológico.
+El término municipal de Millana (Guadalajara) y el lugar donde se ubica la explotación, se encuentra administrativamente
+incluida en la Confederación Hidrográfica del Tajo.
+La ampliación consistente en la construcción de una nueva nave se encuentra colindante con un Arroyo innominado
+(afluente del Arroyo Carrapareja). En el informe del promotor de respuesta a alegaciones se adjunta Resolución de
+la Confederación Hidrográfica del Tajo de fecha de firma 29/06/2024 en el cual se autoriza a la mercantil Dosany, SL
+para ejecutar las siguientes actuaciones solicitadas ubicadas en las coordenadas aproximadas UTM ETRS89 (30N)
+X: 537 178 e Y:4 484 277, en la parcela de referencia catastral 19215A50400053, en zona de policía de un arroyo
+innominado afluente del arroyo Carrapareja, en el término municipal de Millana (Guadalajara):
+- Nivelación del terreno mediante un desmonte (1.810 m3) y un terraplén (2.350 m3).
+- Construcción de un muro de hormigón perimetral para la contención del terraplén.
+- Construcción de una nave agrícola (1.902 m2).
+Al margen de lo anterior se recuerda que toda actuación que se realice en zona de Dominio Público Hidráulico
+deberá contar con la preceptiva autorización de la Confederación Hidrográfica del Tajo, así como aquellas que se
+realicen en la Zona de Policía (banda de 100 metros colindante con terrenos de Dominio Público Hidráulico), según
+
+AÑO XLV Núm. 133 15 de julio de 2026 27273
+lo dispuesto en la vigente legislación de aguas, y en particular las actividades mencionadas en el artículo 9 del
+Reglamento del Dominio Público Hidráulico.
+Se han de respetar las servidumbres de 5 metros de anchura de los cauces públicos, según establece el artículo
+6 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto refundido de la Ley de Aguas.
+En cualquier caso, queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales
+susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo
+que se cuente con la previa autorización. Dicha autorización corresponde a esta Confederación Hidrográfica del
+Tajo salvo en los casos de vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores
+gestionados por las Administraciones autonómicas o locales o por entidades dependientes de las mismas, en los
+que la autorización corresponderá al órgano autonómico o local competente.
+Respecto al parque de maquinaria a utilizar para la realización de las distintas unidades de obra, se indica que éste
+puede generar residuos líquidos peligrosos susceptibles de contaminación de aguas subterráneas y superficiales,
+como pueden ser aceites y otros compuestos. En consecuencia, se recomienda una gestión adecuada de estos
+residuos que evite la contaminación de las aguas.
+En lo relativo al consumo de agua, a día de hoy, tal y como indica, la mercantil Dosany, SL tiene otorgado un
+aprovechamiento de aguas concesión de agua subterránea por la Confederación Hidrográfica del Tajo de hasta
+7.000 m³ anual (con fecha 26 de abril de 1996), volumen más que suficiente para el normal funcionamiento de la
+actividad tras la ampliación del proyecto.
+En cualquier caso, queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales
+susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo
+que se cuente con la previa autorización. Dicha autorización corresponde a esta Confederación Hidrográfica del
+Tajo, salvo en los casos de vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores
+gestionados por las Administraciones autonómicas o locales o por entidades dependientes de las mismas, en los
+que la autorización corresponderá al órgano autonómico o local competente.
+En lo que respecta a las deyecciones ganaderas, el almacenamiento interior deberá diseñarse acorde a la premisa
+de evitar la contaminación del dominio público hidráulico no solo en lo que respecta a las deyecciones, sino también
+en lo relativo a aguas de limpieza.
+En relación al almacenamiento exterior (estercolero) existente, se recuerda que éste debe estar diseñado para
+evitar la contaminación del dominio público hidráulico, para lo cual deberá impermeabilizarse totalmente para evitar
+infiltraciones a las aguas subterráneas. El titular de la actividad está obligado a llevar el adecuado mantenimiento
+del mismo, de forma que quede asegurada su impermeabilidad. En ningún caso se podrá almacenar estiércol en
+superficies que no estén debidamente impermeabilizadas.
+Respecto al parque de maquinaria a utilizar para la realización de las distintas unidades de obra, se indica que éste
+puede generar residuos líquidos peligrosos susceptibles de contaminación de aguas subterráneas y superficiales,
+como pueden ser aceites y otros compuestos. En consecuencia, se recomienda una gestión adecuada de estos
+residuos que evite la contaminación de las aguas.
+El 20 de mayo de 2025 se recibe informe del Servicio de Salud Pública de la Delegación Provincial de Sanidad de
+Guadalajara en el que se indica que las instalaciones deberán cumplir con el Real Decreto 3/2023, de 10 de enero,
+por el que se establecen los criterios técnico-sanitarios de la calidad del agua de consumo, su control y suministro y
+con el Real Decreto 487/2022, de 21 de junio, por el que se establecen los requisitos sanitarios para la prevención
+y el control de la legionelosis, en las partes que pudieran ser afectadas por los mismos.
+Se dispondrá de aseos para el personal que trabaje en la explotación. Las aguas residuales generadas se conducirán
+a una fosa séptica de polietileno impermeable, de 140 cm de diámetro por 225 cm de alto; para posteriormente ser
+retiradas por un gestor autorizado.
+El manejo del agua en la explotación estará optimizado, tanto en su distribución a los animales como en su utilización
+en las distintas dependencias para limpieza, a fin de evitar pérdidas y excesos que incrementen el volumen de
+líquido a tratar.
+La limpieza de la planta de las naves se realizará con agua, con ayuda de pistolas a presión que proporcionan una
+adecuada limpieza con un uso mínimo de agua.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27274
+4.4. Gestión de residuos y de subproductos animales.
+Todos los residuos generados durante las fases de construcción y funcionamiento del proyecto, independientemente
+del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos
+contaminados para una economía circular.
+En el caso de que se generara cualquier residuo de construcción y demolición, éstos se gestionarán conforme al
+Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción
+y demolición, por lo tanto, serán entregados a gestor autorizado o a recogedor – transportista de residuos no
+peligrosos autorizado.
+El Estudio de Impacto Ambiental señala que se utilizarán medicamentos para los tratamientos de prevención y
+control de enfermedades del ganado, así como aditivos para el pienso autorizados en la vigente normativa. Los
+tratamientos sanitarios se registrarán. Además, la retirada de los residuos sanitarios veterinarios y envases vacíos
+de medicamentos se realizará mediante gestor autorizado y se almacenarán en depósitos específicos, en los
+términos que establece la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular
+y legislación concurrente.
+En este mismo sentido cabe indicar que, además de los residuos procedentes de tratamientos veterinarios (envases
+vacíos de medicamentos, medicinas caducadas, etc.) todos los residuos clasificados como peligrosos, como
+desinfectantes, insecticidas, raticidas, tubos fluorescentes, deberán gestionarse a través de gestor autorizado, en
+los términos que establece la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía
+circular y legislación concurrente.
+Se cumplirá lo contemplado en el Reglamento (ce) número 1069/2009 del Parlamento Europeo y del consejo de
+21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los subproductos animales no
+destinados al consumo humano, contratando con empresa especializada para la recogida y posterior gestión de los
+cadáveres.
+La gestión de los residuos se realizará según los requerimientos que a tal efecto establezca la Autorización Ambiental
+Integrada de esta Dirección General de Calidad Ambiental (Expediente AAI-GU-014).
+4.5. Protección del patrimonio cultural.
+En relación a la preservación del patrimonio cultural de la zona, se recibe informe firmado el 26 de junio de 2025
+procedente de la Delegación Provincial de Educación, Cultura y Deportes de Guadalajara, en cual se informa
+favorablemente el referido proyecto. De igual forma, se indica que en el caso de que aparecieran restos durante
+la ejecución del proyecto, se deberá actuar conforme a lo previsto a lo previsto en el artículo 52 de la Ley 4/2013,
+de Patrimonio Cultural de Castilla-La Mancha, esto es, llevara a cabo la paralización inmediata de los trabajos y
+comunicación a la Administración competente en materia de Patrimonio Cultural.
+Por otro lado y al margen de lo anterior se recuerda que cualquier modificación y/o ampliación del emplazamiento de
+las diversas infraestructuras del proyecto de obra civil autorizado en este momento deberá contar con el visado y la
+autorización de dicha Delegación Provincial competente en materia de Patrimonio Cultural.
+4.6. Protección contra el ruido, olores y emisión de partículas a la atmósfera.
+Respecto a las emisiones a la atmósfera se deberán cumplir las condiciones establecidas en la Autorización
+Ambiental Integrada. No obstante, deberán tomarse las siguientes medidas preventivas y correctoras (algunas de
+ellas propuestas por el promotor) durante el funcionamiento de la actividad:
+A) En relación con la generación de polvo:
+- Durante la fase de construcción se realizarán riegos periódicos de la zona de obras, así como de los viales de
+acceso, de modo que se reduzca la cantidad de polvo emitido a la atmósfera.
+- La descarga de pienso se realizará en silos estancos.
+- Cualquier operación de descarga se realizará a la mínima altura posible para disminuir la producción de material
+pulverulento.
+- El suministro de pienso a los animales se realizará de forma automática.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27275
+- Mantener toda la explotación limpia de polvo y restos de pienso, regando ligeramente si fuera preciso.
+- El patio de maniobras, los viales interiores y el vial de acceso estarán acondicionados para el paso de vehículos
+pesados. Se realizará un sistema de pavimentación que permita acceder a los camiones para la retirada de gallinaza,
+así como la llegada y retirada de las pollitas.
+- Se limitará la velocidad de los vehículos a 20 km/h.
+B) Para evitar las posibles molestias por olores:
+- La ventilación será dinámica de barrido lateral, la entrada de aire se realiza mediante la ventana corrida existente
+en un lateral (regulación automática de apertura en función de la depresión) y en la fachada opuesta se disponen
+20 ventiladores de 1 CV. Su funcionamiento se escalona en grupos y su gestión se realiza mediante un autómata
+programable. Este sistema renovará el aire, asegurando que la temperatura, concentración de polvo y gases estén
+dentro de límites aceptables para los animales. Se dispondrá de control automático para los ventiladores en función
+de la temperatura.
+- Se realizará una monitorización de las condiciones ambientales de las naves en relación a la temperatura y
+humedad.
+- Se empleará un dispositivo para conocer la dirección del viento y planificar mejor la retirada del estiércol. Se evitará
+su retirada en días de viento intenso y en los que la dirección predominante del viento para evitar molestias al núcleo
+urbano más cercano.
+- Mantener toda la explotación limpia de polvo y restos de pienso, regando ligeramente si fuera preciso.
+- La evacuación del estiércol se realizará periódicamente.
+- Se planearán los itinerarios de transporte del estiércol de forma que se evite el paso por núcleos urbanos o zonas
+sensibles (uso recreativo, espacios protegidos, etc.), evitando las horas de mucho calor, los días en que el viento
+sople con fuerza y los festivos.
+- Se evitarán puntos de acumulación incontrolados fuera de las naves.
+- Se actuará con diligencia en caso de vertidos de estiércol o lixiviados.
+- Se controlará el estado de los suelos de las naves y del sistema de retirada y transporte de gallinaza.
+- Se proporcionará a los animales de dietas bajas en proteínas.
+- Se procurará realizar vacíos sanitarios correctamente.
+C) Para evitar las posibles molestias por ruidos:
+- Se planificará la actividad de modo que aquellas actividades más ruidosas como la descarga de pienso, la
+distribución de la comida o la carga y descarga de los animales o la retirada del estiércol, se produzca en horario
+diurno, y preferentemente en horario de mañana. El reparto de pienso y retirada de estiércol se realizarán siempre
+durante el día.
+- Se procederá a la revisión y control periódico de los silenciosos de los escapes, rodamientos, engranajes y
+mecanismos en general de la maquinaria.
+- Todos los movimientos de vehículos y maquinaria, necesarios para el normal funcionamiento de la explotación, se
+desarrollarán en horario diurno y se reducirán al mínimo imprescindible las tareas durante el fin de semana.
+- Los motores a instalar serán de bajo nivel de ruido.
+- Se restringirá y controlará el acceso de vehículos a la explotación.
+- Se llevará a cabo un mantenimiento periódico de los vehículos (tractores, camiones) de la explotación y un engrase
+periódico del mecanismo sinfín del repartidor de pienso.
+- Los niveles de ruido generados durante las obras y el funcionamiento de las instalaciones deben cumplir lo
+establecido en la Ley 37/2003, de 17 de noviembre, del ruido, reglamentos de desarrollo y ordenanzas municipales.
+4.7. Protección del paisaje.
+La adecuación en relación a la armonización con el entorno deberá ajustarse a lo dispuesto en el artículo 16 del
+Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico. En concreto se destaca
+la obligación de que las construcciones deberán presentar todos los paramentos exteriores y cubiertas totalmente
+terminados, con empleo en ellos de las formas y los materiales que menor impacto produzcan, así como de los
+colores tradicionales en la zona o, en todo caso, los que favorezcan en mayor medida la integración en el entorno
+inmediato y en el paisaje.
+El estudio de impacto ambiental establece que, el efecto sobre el paisaje será mínimo ya que la tipología de
+las edificaciones se verá integrada en una zona rural, de explotaciones agrícolas – ganaderas, con diferentes
+infraestructuras cercanas a las nuevas instalaciones, carreteras, líneas eléctricas, etcétera.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27276
+Los acabados exteriores de cerramientos, cubiertas y silos se realizarán en colores acordes con las propias
+características del entorno. En ningún caso permanecerán sin tratar superficies de colores brillantes o que produzcan
+reflejos.
+Por otro lado, se informa que una vez finalizada la actividad, las instalaciones deberán quedar limpias de residuos y
+estiércoles, retirándose mediante entrega a gestor autorizado.
+4.8. Adecuación urbanística y protección de infraestructuras.
+El terreno ocupado por la instalación tiene la clasificación de suelo rústico de reserva. La superficie de la parcela
+donde se ubica el proyecto tiene una superficie total de 11.495 m2 y con la ampliación propuesta supone una
+superficie total construida de 3.749,85 m2, lo cual supone un porcentaje de ocupación sobre el total de las parcelas
+del 32,62 %.
+De acuerdo con la Orden 4/2020, de 8 de enero, de la Consejería de Fomento, por la que se aprueba la instrucción
+técnica de planeamiento sobre determinados requisitos sustantivos que deberán cumplir las obras, construcciones e
+instalaciones en suelo rústico, la superficie máxima ocupada por la edificación no podrá superar el 20% de la superficie
+de la finca en todos los casos. Así mismo, se indica en la misma Orden que, excepcionalmente, para aquellos usos y
+actividades cuyo relevante interés social o económico resulte en cada caso justificado, podrá otorgarse licencia para
+la realización de obras, construcciones e instalaciones en fincas con mayor porcentaje de ocupación cuando exista
+informe previo favorable de la Consejería competente en materia del uso o actividad propuesta. Así, deberá constar
+en el expediente el citado informe de la Consejería de Agricultura, Ganadería y Desarrollo Rural, previamente al
+otorgamiento de la licencia de obras por parte del Ayuntamiento de Millana.
+A este respecto, el promotor adjunta informe del Servicio de Medio Rural de la Consejería de Agricultura, Agua y
+Desarrollo Rural firmado con fecha 19 de octubre de 2023 en el que se indica que “Según la información catastral, la
+superficie de la parcela de rústica es de 11.495,00 m2. La superficie total de ocupación de las edificaciones existentes
+ya en esta parcela es de 1.925,16 m2, por lo que con esta nueva nave resulta un porcentaje de ocupación total por
+edificación en la finca del 32,62%. La empresa solicitante figura en REGA y ya viene explotando una granja avícola en
+esta parcela por lo que con esta nave pretende su ampliación. Por lo expuesto, se informa favorable a la excepción
+sobre la superficie mínima de la finca y la superficie máxima de ocupación, para la ejecución de una nave avícola de
+1.902,70 m2, en la parcela 53 del Polígono 504 de Millana (Guadalajara), promovida por Dosany, SL”.
+Por otra parte, se aporta informe del Ayuntamiento de Mira, firmado el 6 de junio de 2025, en el cual se emite informe
+por los Servicios Técnicos referente a la compatibilidad urbanística para la ampliación de la actividad avícola (en
+virtud del artículo 18 del Real Decreto Legislativo 1/2016, por el que se aprueba el Texto Refundido de la Ley de
+Prevención y Control Integrados de la Contaminación), así como lo relativo a la adecuación de la instalación en
+todos aquellos aspectos competencia del municipio, así como el informe de afecciones socioeconómicas, resultando
+estas positivas.
+Indicar en la misma línea de lo anterior que el Ayuntamiento de Millana podrá incorporar los condicionados adicionales
+que considere oportunos en el otorgamiento de la licencia de actividad correspondiente.
+Al margen de lo anterior, el proyecto respetará las distancias de retranqueo a caminos para construcciones y
+edificaciones establecidas en el artículo 16 del Decreto 242/2004. Según éste, y en tanto no exista cualquier otra
+indicación al respecto en la normativa urbanística municipal, las obras deberán retranquearse, como mínimo, cinco
+metros a linderos y quince metros al eje de caminos o vías de acceso.
+Del mismo modo, la instalación estará a lo dispuesto en la Ley 9/1990, de 28 de diciembre, de Carreteras y Caminos
+de Castilla-La Mancha, en relación a las distancias de protección y autorizaciones pertinentes.
+En caso de afección a caminos, indicar que éstos no serán objeto de ocupación de estructuras, adecuaciones de acceso
+o contenedores de la explotación. En este sentido, recordar que la actuación se limitará a las parcelas solicitadas.
+4.9. Autorización Ambiental Integrada
+Esta instalación es objeto del procedimiento de una Modificación Sustancial de la Autorización Ambiental Integrada
+(AAI-GU-014). En cualquier caso, deberá obtenerse la correspondiente resolución del procedimiento antes de iniciar
+la construcción de la nave.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27277
+El Ayuntamiento de Millana (Guadalajara) no podrá emitir las licencias para la realización de obras y para el desarrollo
+de la actividad hasta que no se emita la correspondiente Resolución de otorgamiento de la Autorización Ambiental
+Integrada por esta Dirección General.
+Quinto. Programa de vigilancia ambiental.
+5.1. Especificaciones generales para el programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Estudio de Impacto Ambiental, sin perjuicio
+de las informaciones que pueda recabar el órgano ambiental al respecto, así como efectuar las comprobaciones
+necesarias para verificar el cumplimiento del condicionado.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se deben
+adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo nombrar a un responsable
+del programa de seguimiento y control de este informe, notificando su nombramiento al Órgano Sustantivo, como
+encargado último del control e inspección del cumplimiento de dicho programa y de las condiciones fijadas en la
+presente Declaración.
+De las inspecciones llevadas a cabo por el Órgano Sustantivo o por el Órgano Ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos de esta resolución.
+Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+Se subraya que, de acuerdo con la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, el
+seguimiento y vigilancia del cumplimiento de las prescripciones contenidas en la presente Resolución corresponden
+al Órgano Sustantivo (Ayuntamiento de Millana) sin perjuicio de la información que pueda recabar el Órgano
+Ambiental al respecto.
+Sin perjuicio del seguimiento que corresponde al órgano sustantivo, así como las competencias que ostenten
+otros órganos, el personal adscrito al órgano ambiental y los agentes medioambientales, así como aquellos otros
+funcionarios designados por el órgano ambiental para tal efecto, serán competentes para realizar la inspección
+y vigilancia de lo previsto en la ley 2/2020, de 7 de febrero, y en el ejercicio de dichas funciones gozarán de la
+condición de agentes de la autoridad.
+Todas las actuaciones y mediciones que se realicen en aplicación del Programa de Vigilancia Ambiental, deberán
+tener constancia escrita en forma de actas, lecturas, estadillos, etcétera, de forma que permitan comprobar su
+correcta ejecución y respeto de los trabajos a las condiciones establecidas y a la normativa vigente que le sea de
+aplicación. Esta documentación recogerá todos los datos desde el inicio de actividad, estando a disposición de los
+órganos de inspección y vigilancia.
+El seguimiento y la vigilancia tendrán por objeto comprobar que el proyecto se desarrolla cumpliendo las condiciones
+establecidas en el estudio de impacto ambiental presentado y en esta resolución, debiendo completarse en estos
+aspectos:
+- Control del cumplimiento de los valores límites establecidos en la Modificación Sustancial de la Autorización
+Ambiental Integrada.
+- Control del cumplimiento medidas correctoras de contaminación atmosférica. En particular, se deberá controlar la
+afección por malos olores en las poblaciones más próximas.
+- Control del almacenamiento y la correcta gestión de todos los residuos generados (peligrosos, no peligrosos,
+estiércoles, cadáveres, etc.).
+- Control de la retirada de la gallinaza generada.
+- Control de la adecuada estanqueidad de los elementos constructivos, de forma que se evite cualquier tipo de
+afección hidrológica.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Vigilancia de los trabajos cumpliendo las condiciones establecidas en el Estudio de Impacto Ambiental y en la
+presente Declaración.
+5.2. Documentación adicional a presentar por el promotor.
+El Ayuntamiento de Millana (Guadalajara) no podrá emitir la licencia de obras de la ampliación hasta que no se
+presente la correspondiente Resolución de otorgamiento de la Modificación Sustancial de la Autorización Ambiental
+
+AÑO XLV Núm. 133 15 de julio de 2026 27278
+Integrada emitida por esta Dirección General. Por otro lado, el promotor de este proyecto deberá presentar la
+siguiente documentación ante la Dirección General de Calidad Ambiental:
+A) Antes de la autorización de obras a otorgar por el Ayuntamiento:
+- Calendario de obras de la construcción de la nave.
+- Designación del responsable del cumplimiento de la presente Declaración.
+B) Antes del inicio de la actividad:
+- Contrato con gestor autorizado para la recogida de cadáveres y de la gallinaza producida.
+C) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cinco años siguientes:
+- Informe sobre los controles y actuaciones en aplicación del Plan de Seguimiento y Vigilancia.
+Sexto. Otras consideraciones.
+a) Vigencia de la presente Declaración de Impacto Ambiental.
+De acuerdo con el artículo 48.1 de la Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha,
+la presente declaración de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios si, una vez publicada en el Diario Oficial de Castilla-La Mancha, no se hubiera comenzado la ejecución
+del proyecto o actividad en el plazo de cuatro años.
+Si el promotor lo estimara conveniente, podrá solicitar una prórroga de la vigencia de la declaración si no se han
+producido cambios sustanciales en los elementos esenciales que sirvieron para emitirla y siempre y cuando no se
+haya alcanzado la fecha final de la vigencia, según establece el artículo 48.2 de la Ley 2/2020.
+b) Comunicación de inicio y cese de actividad, y de cambios de titular.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+c) Modificaciones de proyecto.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación.
+d) Otras autorizaciones.
+La presente declaración de impacto ambiental no exime de obtener los informes y autorizaciones pertinentes de
+otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+e) Publicación.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible, tal y como establece el artículo 46.4 de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha.
+f) Recursos.
+De acuerdo con el artículo 46.5 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+esta declaración de impacto ambiental no será objeto de recurso, salvo los que procedan en vía administrativa o
+judicial frente al acto por el que se autoriza el proyecto.
+Toledo, 2 de julio de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO

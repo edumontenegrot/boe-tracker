@@ -1,0 +1,913 @@
+AÑO XLV Núm. 133 15 de julio de 2026 27279
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 07/07/2026, de la Dirección General de Calidad Ambiental, por la que se modifica la titularidad
+y los equipos de la línea 13 de reciclaje termoquímico de fracciones de rechazo, para producción de materias
+primas circulares a favor de Valogreene CML, SL, dentro de la autorización ambiental integrada, de las
+instalaciones de la planta de tratamiento de residuos, ubicadas en el término municipal de Madridejos
+(Toledo), titularidad de la empresa Castellano Manchega de Limpiezas, SLU. (Expediente AAI-TO-367).
+[2026/5333]
+Número Expediente: AAI-TO-367.
+Nima Planta Tratamiento de Residuos: 4540004308.
+Nima Línea 13 Pirolisis: 4570010725.
+Antecedentes de hecho:
+D. Juan José Hernández Samaniego, en representación de la empresa Valogreene CML, S.L., con CIF B06914030,
+solicita mediante solicitud de Modificación no Sustancial de Autorización Ambiental Integrada de fecha de Registro
+23/07/2025, número 3064227, el cambio de titularidad y la actualización de equipos de proceso de la planta de
+reciclaje termoquímico de fracciones de rechazo mediante pirólisis destinado a la producción de materias primas
+circulares, denominada “línea 13, valorización material de fracciones de rechazo”, dentro de las instalaciones de la
+planta de tratamiento de residuos sita en el paraje Senda de los Estambreros, del término municipal de Madridejos
+(Toledo) incluidas en la Autorización Ambiental Integrada con Expediente AAI-TO-367 y NIMA 4540004308 y con
+titularidad de Castellano Manchega de Limpiezas, S.L.U., con CIF B45058096.
+En fecha de 21/10/2025, la Dirección General de Calidad Ambiental solicita documentación adicional para el cambio
+de titularidad de la línea 13, notificándolo a Valogreene CML, S.L. mediante Registro de Salida número 1124406, y
+a Castellano Manchega de Limpiezas, S.L.U. mediante Registro número 1124380.
+Valogreene CML, S.L. presenta documentación adicional de fecha de registro 14/11/2025, número 4621423, aportando
+carta de aceptación de la titularidad de Castellano Manchega de Limpiezas, S.L.U. así como documentación sobre
+reparto de responsabilidades en cuanto a las distintas áreas y obligaciones medioambientales de la Línea 13 que se
+regulan en la Autorización Ambiental Integrada número AAI-TO-367.
+Se hace notar que la solicitud de cambio de titularidad aplica exclusivamente a la Línea 13, denominada valorización
+material de fracciones de rechazo, dedicada al reciclaje termoquímico mediante pirólisis de fracciones de rechazo
+para producción de materias primas circulares. El titular del resto de las instalaciones de la planta de tratamiento de
+residuos sigue siendo Castellano Manchega de Limpiezas, S.L.U.
+Respecto a la solicitud de Modificación no Sustancial para actualización de equipos de proceso, básicamente, se
+modifican los siguientes aspectos:
+- Se cambia la ubicación inicialmente propuesta de la Línea 13, desde las parcelas 71 y 75 del polígono 8, a parcela
+la parcela 113 del polígono 8, la cual se ubica anexa al suroeste de las anteriores.
+- El proceso de pirólisis inicialmente en una etapa, ahora se realiza en dos etapas.
+- Mejoras en el sistema de condensación, ahora es en 4 etapas y dividida a su vez para los productos de cada etapa
+de pirólisis.
+- El proceso de secado ahora es con contacto, depurándose los vapores de los residuos secados junto con el resto
+de emisiones del foco principal de la planta.
+- Mejora de los sistemas de depuración de emisiones del proceso principal.
+- Se introduce un proceso de cogeneración a partir de la combustión de Syngas, cuyas emisiones son tratadas en
+los sistemas de depuración del foco principal de la planta.
+- Actualización de sistema de control y supervisión mediante tecnología Scada y PLC de última generación.
+Por otro lado, resulta necesario modificar de oficio ciertos condicionantes sobre la Línea 13, en particular los valores
+límite de emisión para actualizarlos a los valores que se establecen actualmente para el tipo de actividad realizada,
+
+AÑO XLV Núm. 133 15 de julio de 2026 27280
+así como los requisitos de control de las emisiones atmosféricas del foco principal de la Línea 13, para aclarar
+ciertos aspectos de los SAM y el cumplimiento de valores límite de las mediciones en continuo y de las mediciones
+puntuales con OCA, los cuales no estaban suficientemente definidos en la Resolución original.
+A fecha de 05/05/2026, se emite, en trámite de audiencia, la Propuesta de Resolución para modificación de la
+Autorización Ambiental Integrada con expediente número AAI-TO-367, notificándose a los dos titulares, Castellano
+Manchega de Limpiezas, S.L.U. y Valogreene CML, S.L., otorgándose un plazo de 10 días, de acuerdo con lo
+establecido en el artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, para que presenten cuantas observaciones y alegaciones estimen oportunas.
+Transcurrido el plazo establecido, ninguna de las partes implicadas presenta alegaciones.
+Antecedentes de derecho:
+Vistos:
+- El Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el Texto Refundido de la Ley de
+Prevención y Control Integrados de la Contaminación.
+- El Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de Emisiones Industriales y de
+desarrollo de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación.
+- La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+- La Resolución de 17/01/2017, de la Viceconsejería de Medio Ambiente, por la que se otorga Autorización Ambiental
+Integrada para la planta de tratamiento de residuos ubicada en el término municipal de Madridejos (Toledo),
+titularidad de la empresa Castellano Manchega de Limpiezas, S.L.U. (expediente AAI-TO-367, NIMA 4540004308)
+y modificaciones posteriores.
+- La Resolución de 15/03/2023, de la Dirección General de Economía Circular, por la que se modifica la Autorización
+Ambiental Integrada de la planta de tratamiento de residuos ubicada en el término municipal de Madridejos (Toledo)
+cuya titular es Castellano Manchega de Limpiezas, S.L.U., relativa a la implantación de las Líneas 12 y 13.
+- La solicitud de cambio de titularidad y actualización de equipos de proceso de la Línea 13, y resto de documentación
+aportada.
+Considerando que:
+Primero. Las referidas modificaciones no suponen incrementos significativos en las emisiones a la atmósfera,
+los vertidos a cauces públicos, la generación de residuos ni la utilización de recursos naturales por parte de las
+instalaciones, así como tampoco implican afecciones sobre áreas protegidas, el patrimonio cultural ni alteran de
+forma significativa el paisaje, de acuerdo con la información suministrada por el promotor sobre la actuación y las
+características de la ubicación.
+Segundo. De acuerdo con la documentación remitida por el interesado y el artículo 14 del Reglamento de Emisiones
+Industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación,
+aprobado por el Real Decreto 815/2013, de 18 de octubre, estas modificaciones no representan una mayor incidencia
+sobre la seguridad, la salud de las personas ni el medio ambiente, así como tampoco concurren los siguientes
+criterios:
+- No se produce ningún incremento de capacidad de la actividad.
+- No se produce ningún incremento superior al 50 % de las cantidades autorizadas en el consumo de agua, materias
+primas o energía.
+- No se produce ningún incremento superior al 25 % de la emisión másica de cualquiera de los contaminantes
+atmosféricos que figuran en la autorización ambiental integrada o del total de las emisiones atmosféricas producidas
+en cada uno de los focos emisores, así como la introducción de nuevos contaminantes en cantidades significativas.
+- No se producen vertidos al dominio público hidráulico.
+- No se produce ningún incremento de más del 25 % del total de residuos peligrosos generados calculados sobre la
+cantidad máxima de producción de residuos peligrosos autorizada.
+- No se produce ningún incremento de más del 50 % del total de residuos no peligrosos generados calculados sobre
+la cantidad máxima de producción de residuos no peligrosos autorizada.
+De acuerdo con el Decreto 112/2023, de 25 de julio, por el que se establece la Estructura Orgánica y las Competencias
+de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero, esta Dirección
+General de Calidad Ambiental.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27281
+Resuelve:
+Primero. Modificar la titularidad de la Línea 13, planta de reciclaje termoquímico mediante pirólisis de fracciones
+de rechazo para producción de materias primas circulares, dentro de la Autorización Ambiental Integrada de las
+instalaciones de la planta de tratamiento de residuos ubicadas en paraje “Senda de los Estambreros”, sita en
+Ctra. Madridejos-Villacañas, km 5,300, del término municipal de Madridejos (Toledo) cambiando la titularidad de la
+empresa Castellano Manchega de Limpiezas, S.L.U., con CIF B45058096, a favor de la empresa Valogreene CML,
+S.L., con CIF B06914030, acumulando en el expediente de ésta todos los actos administrativos llevados a cabo con
+el anterior titular.
+El resto de las instalaciones de la planta de tratamiento de residuos permanecen con la titularidad de Castellano
+Manchega de Limpiezas, S.L.U.
+Segundo. Considerar que las modificaciones propuestas relativas a la Línea 13, de conformidad con lo dispuesto
+en el artículo 6.2.c de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental en Castilla-La Mancha, no suponen
+un agravamiento o ampliación de los efectos ambientales de la actividad ni suponen efectos adversos significativos
+sobre el medio ambiente, la seguridad o las personas, por lo que no se considera necesario realizar un procedimiento
+de evaluación de impacto ambiental para dichas modificaciones.
+Tercero. Confirmar el carácter no Sustancial de las referidas modificaciones que se aceptan, de acuerdo con lo
+previsto en el artículo 10 del Texto Refundido de la Ley de Prevención y Control Integrados de la Contaminación,
+aprobado por el Real Decreto Legislativo 1/2016, de 16 de diciembre, y en el artículo 14 del Reglamento de Emisiones
+Industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de Prevención y Control Integrados de la Contaminación,
+aprobado mediante el Real Decreto 815/2013, de 18 de octubre.
+Cuarto. Modificar la Resolución de 17/01/2017, de la Viceconsejería de Medio Ambiente, por la que se otorga
+Autorización Ambiental Integrada para la planta de tratamiento de residuos ubicada en el término municipal de
+Madridejos (Toledo), titularidad de la empresa Castellano Manchega de Limpiezas, S.L.U. (expediente AAI-TO-367),
+en los términos que se indican a continuación.
+A) Cambio de Titularidad de la Línea 13, Valorización Material de Fracciones de Rechazo:
+Se incorpora el siguiente nuevo apartado en la Resolución citada:
+5.6 Titularidad compartida de la Autorización Ambiental Integrada:
+Se establece una doble titularidad de la instalación. La Línea 13 dedicada a la valorización material de fracciones de
+rechazo mediante pirólisis, pasa a ser de Valogreene CML, S.L. y el resto de la instalación de la planta de tratamiento
+de residuos permanece con la titularidad de Castellano Manchega de Limpiezas, S.L.U.
+Se establecen dos NIMA para la instalación.
+El NIMA de la planta de reciclaje termoquímico por pirólisis (Línea 13) es el 4570010725.
+El NIMA del resto de la instalación de la planta de tratamiento de residuos continúa siendo 4540004308.
+El artículo 6 del Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de Emisiones Industriales
+establece que “en caso de que una Autorización Ambiental Integrada sea válida para varias instalaciones o partes de
+una instalación explotada por diferentes titulares, deberá delimitarse en la autorización el alcance de la responsabilidad
+de cada uno de ellos”. Procede por tanto la definición de las responsabilidades de cada uno de los titulares.
+Responsable de las instalaciones.
+Con independencia de posibles responsabilidades civiles o penales que pudieran derivarse como consecuencia
+del funcionamiento de la planta de reciclaje termoquímico por pirólisis (Línea 13) de Valogreene CML, S.L. será
+nombrado un responsable de la gestión de ambiental la misma.
+Seguro de responsabilidad medioambiental.
+Con relación a la responsabilidad que por daños al medio ambiente se pudiese derivar por parte de la actividad,
+Castellano Manchega de Limpiezas, S.L.U. y Valogreene CML, S.L. deberán contratar y suscribir, en caso de
+
+AÑO XLV Núm. 133 15 de julio de 2026 27282
+no haberlo hecho anteriormente, y cada una en la parte de la instalación de la que son titulares, un seguro de
+responsabilidad civil objetiva y solidaria que cubra los posibles costes derivados de la regeneración de los daños
+ocasionados al medio ambiente a consecuencia de emisiones o vertidos producidos accidentalmente, daños
+derivados de la gestión, producción y almacenamiento de los residuos generados en la empresa, así como del
+consumo y manejo de sustancias peligrosas, con independencia de que exista culpa o negligencia por parte del
+responsable de la actividad.
+La garantía financiera inicial del seguro de responsabilidad deberá corresponder al análisis de riesgos ambientales
+que debería actualizarse, de acuerdo con las especificaciones del Capítulo III del Real Decreto 2090/2008, de 22
+de diciembre, por el que se aprueba el Reglamento de desarrollo parcial de la Ley 26/2007, de 23 de octubre, de
+Responsabilidad Medioambiental.
+Deberán aportar, y mantener actualizada ante las modificaciones de la instalación, la siguiente documentación al
+respecto:
+1. Declaración responsable de la constitución de la garantía financiera regulada en el artículo 33 del Reglamento de
+desarrollo parcial de la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental, aprobado por el Real
+Decreto 2090/2008 de 22 de diciembre, modificado por el Real Decreto 183/2015 de 13 de marzo. El contenido de
+dicha declaración será el detallado en su Anexo IV.
+2. Justificación de la capacidad de representación del declarante, en caso de no constar previamente en esta
+Administración.
+3. Copia de los documentos constitutivos de la garantía financiera acorde por la Ley 26/2007, que cubra los riesgos
+valorados en los términos indicados en la misma. Dicha garantía financiera deberá indicar explícitamente que cubre
+los riesgos indicados en dicha Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental.
+4. Análisis de riesgos que cumpla con lo establecido en el Capítulo III del Real Decreto 2090/2008, de 22 de diciembre,
+por el que se aprueba el Reglamento de desarrollo parcial de la Ley 26/2007, de 23 de octubre, de Responsabilidad
+Medioambiental.
+De acuerdo con lo establecido en la Ley 26/2007,de 23 de octubre, de Responsabilidad Medioambiental, los titulares
+de la instalación quedarán exentos de la obligación de constituir garantía financiera en caso de acreditar, mediante la
+presentación de certificados expedidos por organismos independientes, que está adherida con carácter permanente
+y continuado, bien al sistema comunitario de gestión y auditoria medioambientales (EMAS), bien al sistema de
+gestión medioambiental UNE-EN ISO 14001:2015, o versión que la modifique, siempre que la cuantía de la garantía
+financiera estimada a partir del análisis de riesgos sea inferior a la cantidad prevista en Ley 26/2007 para acogerse
+a la citada exención.
+Emisiones atmosféricas.
+Es responsabilidad de Castellano Manchega de Limpiezas, S.L.U. el cumplimiento de las condiciones relativas al
+control de control y seguimiento de las emisiones atmosféricas, en particular de los focos de emisión canalizados
+y difusos, cumplimiento de valores límite de emisión y, en su caso, de inmisión, las realización de controles
+reglamentarios y, en su caso, autocontroles de emisiones atmosféricas, y la correcta aplicación y mantenimiento
+de medidas preventivas y correctoras de la contaminación atmosférica relativos a de todas las líneas de procesos
+de tratamiento de residuos autorizadas (a fecha de emisión de la presente Resolución, hay 14 líneas de tratamiento
+de residuos autorizadas en la planta), salvo las condiciones relativas a las emisiones atmosféricas de la Línea 13,
+la planta de reciclaje termoquímico por pirólisis, cuya responsabilidad corresponde íntegramente a Valogreene
+CML, S.L.
+Ruido.
+Es responsabilidad de Castellano Manchega de Limpiezas, S.L.U. adoptar las medidas necesarias en la planta de
+tratamiento de residuos de Madridejos para garantizar el cumplimiento de los valores límites de ruido establecidos
+y de Valogreene CML, S.L. aplicar las medidas requeridas en el desarrollo de la actividad de la planta de reciclaje
+termoquímico (Línea 13), de manera que los niveles de ruido del conjunto de las dos actividades se encuentren por
+debajo de los límites establecidos en esta autorización.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27283
+Gestión y producción de residuos.
+Tendrá la consideración de titular de instalación de tratamiento de residuos cada uno de los titulares, Castellano
+Manchega de Limpiezas, S.L.U. y Valogreene CML, S.L., a efectos de las obligaciones de información necesarias
+que se establecen para el tratamiento de residuos en la Ley 7/2022, de 8 de abril.
+Concretamente, cada titular deberá crear y mantener un archivo cronológico con el contenido establecido en el
+artículo 64 de la Ley 7/2022, de 8 de abril. La información recogida en el mencionado archivo cronológico deberá ser
+concordante con lo reflejado en los documentos de identificación.
+Asimismo, cada persona física o jurídica que trate residuos en cada parte/línea de la instalación, deberá cumplir con
+las obligaciones de información establecidas en el artículo 65 de la Ley 7/2022, de 8 de abril,
+En particular, cada persona física o jurídica que trate residuos en cada parte o línea de la instalación deberá presentar
+su memoria anual de gestión de residuos independiente y bajo el NIMA asignado a cada uno.
+En este sentido, los flujos de residuos tratados que Castellano Manchega de Limpiezas, S.L.U. entregue a Valogreene
+CML, S.L. para su gestión en la planta de pirólisis, deberán computarse como salidas en la memoria de gestor de
+residuos de Castellano Manchega de Limpiezas, S.L.U. y como entradas en la memoria de gestor de residuos de
+Valogreene CML, S.L.
+Tendrá la consideración de productor inicial de residuos, de acuerdo con el artículo 20 de la Ley 7/2022, 8 de abril, de
+Residuos y Suelos Contaminados para una Economía Circular, por una parte, Castellano Manchega de Limpiezas,
+S.L.U. para los residuos generados como consecuencia de la actividad de tratamiento de residuos realizadas en
+todas las líneas de tratamiento de residuos excepto en la Línea 13, y por otra, Valogreene CML, S.L. para aquellos
+residuos que se generan por el funcionamiento de la Línea 13, la planta de pirólisis. Asimismo, cada uno será
+productor de los residuos que produce como consecuencia de operaciones de mantenimiento, servicios, etcétera.
+generados en la parte de la instalación de la que es titular.
+Por tanto, cada uno de los titulares está obligado a asegurar el tratamiento adecuado de sus residuos, de conformidad
+con los principios establecidos en los artículos 7 y 8 de la Ley 7/2022 (sobre “Protección de la salud humana y el
+medio ambiente” y “Jerarquía de residuos”, respectivamente).
+Tanto la gestión como la producción de residuos de cada una de las partes, deberá gestionarse bajo el número de
+identificación MedioAmbiental (NIMA) asignado a la parte de la instalación perteneciente a cada titular:
+NIMA Instalación planta gestión de residuos Castellano Manchega de Limpiezas: 4540004308
+NIMA Instalación Línea 13 Valogreene CML: 4570010725
+Vertidos.
+La actividad desarrollada en la planta de tratamiento de residuos de Madridejos, no genera vertidos de
+aguas residuales ni a cauce público ni a la red municipal de saneamiento. Todos los efluentes generados son
+gestionados internamente en las distintas líneas de proceso de la instalación o bien gestionados externamente
+como residuo.
+No obstante, cada una de las partes titulares será responsable de aplicar el tratamiento adecuado para sus distintos
+efluentes, y será responsable de aplicar las medidas preventivas y correctoras necesarias para evitar vertidos
+accidentales procedentes de funcionamientos en condiciones distintas de las normales de cada una de las líneas
+de las que es titular.
+Protección del suelo y de las aguas subterráneas.
+Las prescripciones para la protección del suelo y las aguas subterráneas de la planta de tratamiento de residuos
+serán responsabilidad de Castellano Manchega de Limpiezas, S.L.U., salvo en lo referente a la Línea 13 de
+proceso, ubicada en el recinto 3, parcela 113, del polígono 8, del término municipal de Madridejos (Toledo),
+referencia catastral 45088A008001130000OU, (superficie de la parcela 1,19 ha), que será responsabilidad de
+Valogreene CML, S.L.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27284
+Notificación PRTR.
+La actividad de la planta de tratamiento de residuos de Madridejos se encuentra dada de alta en el Registro de
+Emisiones y Fuentes Contaminantes de Castilla-La Mancha, por lo que Castellano Manchega de Limpiezas,
+S.L.U. está obligada a comunicar a la Dirección General de Calidad Ambiental sus emisiones contaminantes y otra
+información en el periodo que se establezca el año posterior al de los datos a notificar, en aplicación del artículo 8.3
+del Texto refundido de la Ley de prevención y control integrados de la contaminación, aprobado por Real Decreto
+Legislativo 1/2016, y del Real Decreto 508/2007 por el que se regula el Suministro de Información sobre Emisiones
+del Reglamento E-PRTR y de las Autorizaciones Ambientales Integradas.
+Por su parte, Valogreene CML, S.L., como titular de la Línea 13 de proceso, suministrará a Castellano Manchega
+de Limpiezas, S.L.U. los datos de emisiones y fuentes contaminantes (emisiones, residuos generados, etcétera) así
+como cualquier otro dato necesario para realizar el Informe Anual y dar cumplimiento a las obligaciones que derivan
+del artículo 8.3 del Real Decreto 508/2007.
+Resto de condiciones de la Autorización Ambiental Integrada.
+En general será responsabilidad de Valogreene CML, S.L. el cumplimiento de las condiciones de la Autorización
+Ambiental Integrada en la Línea 13, instalación de reciclaje termoquímico de residuos, y será responsabilidad de
+Castellano Manchega de Limpiezas, S.L.U. el cumplimiento de dichas condiciones en el resto de la instalación.
+Modificaciones de la Línea 13: Valorización Material de Fracciones de Rechazo:
+El apartado 3. Descripción de las instalaciones, donde se describen las líneas de proceso de la planta, el texto
+referido en la Línea 13. Valorización material de fracciones de rechazo, se sustituye íntegramente por el texto que
+se indica a continuación:
+13. Valorización material de fracciones de rechazo mediante proceso termoquímico de pirólisis para la producción
+de materias primas circulares:
+Línea de reciclaje termoquímico de residuos mediante proceso de pirólisis, que valorizará fracciones de rechazo de
+carácter no peligroso procedentes de la Línea 4 (lodos no aptos de uso agrícola) y de la Línea 7 (residuos sólidos
+industriales), pudiéndose aceptar también entradas externas directas, para la obtención de fracciones valorizables,
+principalmente fracción aceitosa de crudo pirolítico, fracción acuosa de crudo pirolítico, gases permanentes, syngas
+o pirogás, char y cenizas.
+Ubicación de la Línea 13, en el recinto 3, parcela 113, del polígono 8, del término municipal de Madridejos (Toledo),
+referencia catastral 45088A008001130000OU. Superficie de la parcela 1,19 ha.
+Resumen de etapas del proceso de la Línea 13:
+1. Recepción de materias primas.
+2. Secado.
+3. Pirólisis.
+4. Condensación.
+5. Procesos auxiliares.
+Resumen del proceso productivo de la Línea 13:
+Dentro del proceso que se llevará a cabo en la planta de Valogreene CML, S.L., se puede distinguir el proceso
+productivo principal, donde se refleja el proceso de la obtención de los productos; y el proceso auxiliar, que ayuda a
+la generación de energía térmica aportada al proceso productivo, haciendo un proceso autotérmico.
+El proceso productivo principal se basa en la pirólisis, un tratamiento termoquímico de sustancias en ausencia
+de oxígeno, donde en primer término, con la aplicación de elevada temperatura, se degrada la materia en dos
+fases: Una sólida o char, compuesta por un alto contenido en carbono y compuestos inertes; y otra gaseosa,
+denominada syngas o pirogás, donde aparecen todos los compuestos volátiles a esa temperatura de trabajo, junto
+
+AÑO XLV Núm. 133 15 de julio de 2026 27285
+con una fracción de gases permanentes. Posteriormente, en una segunda fase, la fracción gaseosa es objeto de
+condensación, obteniéndose también una fase líquida, mezcla de hidrocarburos y sustancias químicas orgánicas.
+El proceso de termoquímico de pirólisis aplicado en la planta se divide en dos etapas, según la temperatura, y en
+cada etapa se realiza un procesamiento diferente:
+1. Baja temperatura: En esta etapa de pirolisis se piroliza la fase orgánica y sobre el gas obtenido se realizan las
+siguientes acciones:
+a. Limpieza del pirogás.
+b. Primera condensación donde se condensa el aceite más pesado rico en compuestos de largas cadenas de
+hidrocarburos.
+c. Maduración del gas que sale de esta primera condensación. En esta maduración las cadenas de hidrocarburos
+se rompen en otras más cortas.
+d. Otra etapa de condensación donde se condensa el agua con una pequeña cantidad de compuestos oxigenados.
+Dicha agua se recupera para el uso en la planta tras un proceso de limpieza mediante un filtro de carbón activo
+donde los compuestos oxigenados quedan retenidos.
+Tras esta última etapa de condensación, queda un producto en forma de gases no condensables similar a un gas de
+síntesis, a partir de ahora llamado gas madurado, y que se derivará al proceso auxiliar.
+2. Alta temperatura: En esta etapa de pirolisis se degrada la fase más plástica y tras la pirolisis se procede a
+condensar en varias etapas. En esta primera fase se obtienen aceites pesados y ligeros ricos en compuestos
+de largas cadenas de hidrocarburos. Tras la condensación hay un producto de gases no condensables, gases
+permanentes de ahora en adelante, que se derivarán al proceso auxiliar.
+El proceso auxiliar se encarga de dar soporte al proceso productivo. Se utilizará para la combustión y para la
+cogeneración para autoconsumo, los gases que no pueden ser condensados en el proceso productivo. Esto aplica
+la potencia térmica necesaria para el proceso de pirólisis, haciendo que el sistema pueda alimentarse de un gas que
+no es posible condensar, obtenido del mismo residuo de entrada.
+Concretamente, se plantea una línea de valorización termoquímica con capacidad de hasta 40.000 tn/año de
+residuos. La línea tendrá, una línea de pretratamiento del residuo para adecuarlo a las condiciones de pirólisis,
+dos líneas gemelas de pirolisis, formadas cada una de ellas por dos pirolizadores, uno para cada etapa de trabajo,
+una de baja temperatura con salida de pirogás a filtrado específico (etapa 1) y otra de alta temperatura con salida
+de pirogás a filtrado específico (etapa 2) y finalmente un sistema de condensación a diferentes temperaturas,
+pero diferenciados entre condensación de baja temperatura y alta temperatura, para la obtención de los productos
+finales.
+Cabe destacar que el pretratamiento de la materia prima se realiza íntegramente en las instalaciones de Castellano
+Manchega de Limpiezas, S.L.U. Una vez finalizado dicho pretratamiento, el material es trasladado hasta las
+instalaciones de Valogreene CML, S.L. a través de un túnel de conexión subterráneo, mediante un sistema de
+cintas transportadoras que conducen directamente el producto hasta el área de secado. Este sistema garantiza una
+transferencia continua, eficiente y segura del material, evitando manipulaciones intermedias y reduciendo el riesgo
+de emisiones o vertidos.
+Principales equipos y zonas de la Línea 13:
+- Sistema de dosificación de residuos automatizado.
+- Secado térmico (2 secaderos rotativos de contacto).
+- Pirólisis: 2 líneas de pirólisis en paralelo, compuesta cada una por 2 reactores: 1 reactor de baja temperatura y 1
+reactor de alta temperatura, conectados estos en serie. Los reactores son rotativos y trabajan en proceso continuo.
+- Sistema acondicionamiento y depuración del pirogás: filtro mangas cerámicas con sistema dosificador de hidróxido
+de calcio.
+- Condensadores 4 etapas tras pirólisis baja temperatura.
+- Condensadores 4 etapas tras pirólisis alta temperatura
+- Cámara de combustión (potencia térmica nominal, PTN, 6,4 MWt) y cámara de maduración de syngas (PTN 500
+kWt). El diseño de las cámaras permitirá que los gases de la combustión tengan un tiempo de residencia de más de
+2 segundos a más de 850ºC. Combustible apoyo y arranques, gas propano. Combustible habitual, syngas.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27286
+- Motogenerador, PTN 1.800 kWt, potencia generación eléctrica 616 kWe. Combustible habitual, syngas.
+- Sistema de limpieza y acondicionamiento de humos: trata los gases de la combustión de syngas y gas propano de
+cámara de combustión, motor de cogeneración y secadero, con las siguientes etapas:
+- Reactor catalítico SCR con sistema de inyección de reactivo (amoniaco o urea).
+- Sistema de neutralización de gases ácidos mediante la inyección de un sorbente (bicarbonato sódico) por vía seca
+e inyección de carbón activo.
+- Filtro de mangas.
+- Ventilador de impulsión a chimenea de evacuación de humos de combustión de 20 m de altura. Este foco de
+emisión canalizado contará con sistemas automáticos de medida (SAM) de emisiones atmosféricas.
+- Sistema de absorción y torres de refrigeración.
+- Dispositivo de combustión de emergencia (antorcha de seguridad de llama oculta), con punto de emisión no
+sistemática a 23 m de altura y 1,8 m de diámetro interno.
+- Tanques almacenamiento aceite de pirólisis: 3 unidades de tanques de 275 m3 de capacidad para el almacenamiento
+del producto final y un tanque de 100 m3 para los aceites que al no cumplir las especificaciones serán sometidos a un
+reproceso. El almacenamiento cumplirá con Reglamento de Almacenamiento de Productos Químicos, concretamente
+a la Instrucción Técnica Complementaria MIE APQ-1 “Almacenamiento de líquidos inflamables y combustibles en
+recipientes fijos”. Se ubicarán dentro de cubeto de retención de derrames diseñado según normativa.
+- Almacenamiento de char y material particulado: Contenedores estancos de acero al carbono de 7 x 2,5 x 2,5 m (2
+Ud. Char 1 Ud. Particulado). Los contenedores se ubican en una caseta cubierta para evitar emisiones de polvo en
+el trasiego del char.
+- Almacenamiento de agua condensada: 1 tanque vertical de 20 m3 de capacidad para el agua condensada que será
+tratada por gestor autorizado.
+- Almacenamiento de solución acuosa NH : 1 Ud. tanque vertical de 30 m3 de capacidad.
+3
+- Almacenamiento bicarbonato sódico: 1 Ud. Silo de 60 m3.
+- Almacenamiento hidróxido de calcio: 2 Big Bag en uso y 10 de almacenamiento (Limpieza pirogás) Almacenado en
+la cubierta destina al almacenamiento de aditivos.
+- Instalaciones auxiliares:
+- Red de abastecimiento de agua.
+- Redes separativas de aguas residuales: red aguas sanitarias y red aguas pluviales. No hay vertido de aguas de
+proceso industrial. Las aguas residuales industriales serán externamente gestionadas como residuo.
+- Red de abastecimiento eléctrico, 1.250 kVA.
+- Generación de energía eléctrica de origen renovable, mediante placas solares fotovoltaicas para una potencia total
+de 500 kVA.
+- Grupos electrógenos de emergencia: 2 unidades, combustible gasóleo, con PTN 605 kWt.
+- Depósito de propano.
+- Instalación aire comprimido y generadores de oxígeno y nitrógeno.
+- Iluminaciones de naves, viales y exterior.
+- Sistema de protección contra incendios.
+- Alumbrado de emergencia y señalización
+- Pararrayos.
+- Laboratorio.
+- Punto limpio para almacenamiento de residuos.
+Los parámetros de admisión de residuos a introducir en proceso de reciclaje químico de la Línea 13 serán:
+- Los residuos tratados en esta línea serán residuos caracterizados como no peligrosos, procedentes del rechazo de
+tratamiento de residuos efectuado en las Líneas 4 y 7 de la instalación, así como entradas externas directas.
+- Las mezclas de residuos (CDR / CSR) introducidos en proceso de gasificación deberán cumplir con los requisitos
+siguientes:
+PCI > 3.000 kcal/kg.
+S ≤ 2 % peso.
+N ≤ 4 % peso.
+Cl ≤ 1 % peso.
+Hg ≤ 0,06 mg/kg.
+Cd ≤ 0,3 mg/kg.
+Pb ≤ 50 mg/kg.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27287
+Consumo de energía eléctrica de la Línea 13: la cogeneración del gas permanente producirá energía eléctrica para
+autoconsumo estimada de unos 3,5 GW/año y la generación total de energía fotovoltaica anual se estima en unos
+0,2 GW, por lo que la demanda de energía eléctrica exterior será menor, unos 6,8 GW/año.
+Consumo de energía térmica de la Línea 13: los procesos térmicos de aporte de calor a los reactores consumen como
+combustible el syngas previamente depurado que ha sido generado en el proceso de pirólisis. Como combustible de
+apoyo y para arranques se usará gas propano, con un consumo anual estimado de 60 t.
+Consumo de agua de la Línea 13: 138 m³/año.
+Capacidad de tratamiento de residuos de la Línea 13: 40.000 t/año.
+En el apartado 5.2.7., Tratamiento, control y evaluación de emisión de contaminantes a la atmósfera, se modifica lo
+siguiente:
+Donde dice:
+Línea 13, Valorización Material de Fracciones de Rechazo:
+Focos de emisión canalizados:
+La Línea 13 de proceso cuenta con los siguientes focos de emisión canalizada de contaminantes atmosféricos:
+Altura total Diámetro
+Potencia térmica
+Núm. Contaminantes Medidas desde interno o
+Denominación nominal (kWt) y
+Foco significativos correctoras el suelo equivalente
+combustible
+(metros) (metros)
+Depuración
+previa del 7.050
+NO , SO ,
+Foco principal X 2 pirogás, Pirogás
+CO, partículas
+gasificación (cámara adsorción con (funcionamiento
+sólidas, COT,
+1 de combustión, motor carbón activo, 13 1,10 habitual)
+NH , HCl,
+cogeneración y secado 3 inyección y propano
+HF, metales,
+de materia prima) carbonato (arranques y
+PCDD+PCDF
+sódico, filtro de apoyo)
+mangas y SCR
+Grupo electrógeno de Gases de 998
+2 - n.e. n.e.
+emergencia combustión Gasóleo
+Gases de n.e.
+3 Antorcha de seguridad Oxidación 7 1,7
+combustión Pirogás
+El foco principal de la planta de gasificación (foco número 1) canaliza las emisiones de una cámara de combustión
+de gas permanente o pirogás de 5,5 MW de potencia térmica nominal, un motor de cogeneración de 1.550 kW
+de potencia térmica nominal (450 kWe de potencia de generación eléctrica) que usa como combustible el gas
+permanente o pirogás y del proceso de secado previo de materia prima.
+Este foco de emisión número 1 contará con acondicionamiento para toma de muestras según norma UNE-EN 15259
+(Calidad del aire. Emisiones de fuentes estacionarias. Requisitos de las secciones y sitios de medición y para el
+objetivo, plan e informe de medición), contando con escalera y plataforma fijas, cuatro bocas de toma de muestras
+de DN = 100 mm ubicadas cumpliendo la relación L1 ≥ 5D y L2 ≥ 5D.
+Los focos de emisión canalizada número 2 (grupo electrógeno de emergencia) y número 3 (antorcha de seguridad),
+al tratarse de equipos de seguridad y emergencia que únicamente funcionarán en condiciones de funcionamiento
+distintas a las normales, se considera que tienen emisiones no sistemáticas a efectos de lo establecido en el artículo
+
+AÑO XLV Núm. 133 15 de julio de 2026 27288
+2.i del Real Decreto 100/2011, de 28 de enero, por lo que se les exime de la necesidad de Control Periódico de sus
+Emisiones Atmosféricas.
+Debe decir:
+Línea 13, Valorización Material de Fracciones de Rechazo:
+Focos de emisión canalizados:
+La Línea 13 de proceso cuenta con los siguientes focos de emisión canalizada de contaminantes atmosféricos:
+Diámetro
+Altura total Potencia térmica
+Número Contaminantes Medidas interno o
+Denominación desde el suelo nominal (kWt) y
+Foco significativos correctoras equivalente
+(metros) combustible
+(metros)
+Depuración
+previa del
+pirogás,
+Foco principal combustión
+proceso a más de
+8.700
+(cámara de 850 ºC y
+NO , SO , CO, Syngas
+combustión, X 2 t.res. 2
+partículas sólidas, (funcionamiento
+cámara seg, SCR,
+1 COT, NH , HCl, 20 1,10 habitual)
+maduración, 3 inyección
+HF, metales, y propano
+motor bicarbonato
+PCDD+PCDF (arranques y
+cogeneración sódico y
+apoyo)
+y secado de carbón
+materia prima) activo, filtro
+de mangas,
+impulsión y
+chimenea
+Grupos
+electrógenos 605 x 2 unidades
+2 Gases de combustión - n.e. n.e.
+de emergencia Gasóleo
+(2 unidades)
+Dispositivo de
+Oxidación n.e.
+3 combustión de Gases de combustión 23 1,8
+térmica Syngas
+emergencia
+El foco principal de proceso (foco número 1) canaliza las emisiones de la cámara de combustión de syngas de 6.400
+kWt de potencia térmica nominal, una cámara de maduración de syngas de PTN 500 kWt, un motor de cogeneración
+de 1.800 kW de PTN, que usan como combustible principal syngas y como combustible de apoyo y arranques, gas
+propano, así como las emisiones del proceso de secado previo de materia prima.
+Este foco de emisión número 1 contará con acondicionamiento para toma de muestras según norma UNE-EN 15259
+(Calidad del aire. Emisiones de fuentes estacionarias. Requisitos de las secciones y sitios de medición y para el
+objetivo, plan e informe de medición), contando con escalera y plataforma fijas, cuatro bocas de toma de muestras
+de DN = 100 mm ubicadas cumpliendo la relación L1 ≥ 5D y L2 ≥ 5D. En cualquier caso, a partir del 15 de diciembre
+de 2026 los focos de emisión canalizados sobre los que deban realizarse mediciones de sus emisiones, deberán
+cumplir con la IT-CLM-AT-E-03 aprobada por la Orden 180/2025, de 4 de diciembre, de la Consejería de Desarrollo
+Sostenible, por la que se aprueban las Instrucciones Técnicas en materia de Control de las Emisiones a la Atmósfera.
+Los focos de emisión canalizada número 2 (los dos grupos electrógenos de emergencia) y número 3 (dispositivo
+de combustión de emergencia), al tratarse de equipos de seguridad y emergencia que únicamente funcionarán
+en condiciones de funcionamiento distintas a las normales, se considera que tienen emisiones no sistemáticas a
+efectos de lo establecido en el artículo 2.i del Real Decreto 100/2011, de 28 de enero, por lo que se les exime de la
+necesidad de control periódico de sus emisiones atmosféricas.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27289
+En el apartado 5.2.7., Tratamiento, control y evaluación de emisión de contaminantes a la atmósfera, se modifica lo
+siguiente:
+Donde dice:
+Sobre el funcionamiento del proceso de gasificación de residuos:
+Los gases permanentes obtenidos en el proceso de gasificación de residuos, también denominados pirogás, serán
+objeto de valorización energética in situ mediante combustión en una cámara de combustión que genera la energía
+térmica necesaria para el proceso de pirolización/gasificación. Esta cámara de combustión está diseñada para
+funcionar exclusivamente con el pirogás generado en proceso, disponiendo de un quemador auxiliar de gas propano
+para los arranques y como apoyo puntual en caso de no generar suficiente pirogás en proceso.
+El diseño de la cámara de combustión de pirogás garantiza un tiempo de residencia promedio de gases en la cámara
+de combustión de 2 segundos, teniendo en cuenta el caudal nominal de funcionamiento y 850 ºC de temperatura
+objetivo.
+Asimismo, se contará con un motor de cogeneración que usa pirogás como combustible, y que generará energía
+eléctrica que será consumida en la planta y energía térmica que será aprovechada en la línea de gasificación.
+Debe decir:
+Sobre el funcionamiento del proceso de gasificación de residuos:
+Los gases permanentes obtenidos en el proceso de gasificación de residuos, también denominados pirogás o
+syngas, serán objeto de valorización energética in situ mediante combustión en una cámara de combustión que
+genera la energía térmica necesaria para el proceso de reciclaje químico, así como en una cámara de maduración
+para el syngas generado. Esta cámara de combustión está diseñada para funcionar exclusivamente con el pirogás
+generado en proceso, pudiendo usar también gas propano para los arranques y como apoyo.
+El diseño de la cámara de combustión de syngas y cámara de maduración de syngas garantizan un tiempo de
+residencia promedio de gases en las cámaras de combustión de 2 segundos, teniendo en cuenta el caudal nominal
+de funcionamiento y 850 ºC de temperatura objetivo.
+Asimismo, se contará con un motor de cogeneración que usa syngas como combustible, y que generará energía
+eléctrica que será consumida en la planta y energía térmica que será aprovechada entre otros, en el proceso de
+secado previo de los residuos.
+En el apartado 5.2.7 Tratamiento, control y evaluación de emisión de contaminantes a la atmósfera, se modifica lo
+siguiente:
+Donde dice:
+Medidas preventivas y correctoras de la contaminación atmosférica:
+Fase de acondicionamiento y limpieza del pirogás a la salida del pirolizador y previamente a su combustión:
+- Dosificación de Ca(OH) .
+2
+- Filtros metálicos y/o cerámicos
+- Unidad de condensación
+Proceso de combustión de syngas:
+- Combustión de pirogás en cámara de combustión que garantiza 850 ºC de temperatura y tiempo de residencia de
+gases de 2 segundos.
+Depuración de los gases generados en la combustión del pirogás y secado de materia prima:
+El foco principal de proceso (foco número 1) contará con un sistema de depuración de emisiones que depura la
+corriente de gases generada en el proceso de combustión de los gases permanentes (pirogás) en la cámara de
+
+AÑO XLV Núm. 133 15 de julio de 2026 27290
+combustión, en el motor de cogeneración y las emisiones del proceso de secado previo de los residuos, mediante
+las siguientes etapas:
+- Adsorción con carbón activo,
+- Inyección NaHCO o Na2CO
+3 3
+- Filtro de mangas
+- Unidad de reducción catalítica selectiva (SCR) con inyección de urea o amoniaco
+Antorcha de seguridad:
+Se dispondrá de una antorcha de seguridad de llama oculta con capacidad para quemar la totalidad del pirogás
+generado en planta en caso de que el almacenamiento de gas esté lleno y no pueda valorizarse energéticamente en
+la cámara de combustión o en el motor de cogeneración. La antorcha está diseñada para quemar hasta 1.500 Nm³/h
+de pirogás y deberá contar con un sistema para el control y registro del caudal de gases derivados a la antorcha.
+Anualmente se informará del caudal total de pirogás que ha sido oxidado en la antorcha, incluyéndolo en el Informe
+Anual de AAI.
+Debe decir:
+Medidas preventivas y correctoras de la contaminación atmosférica:
+Fase de acondicionamiento y limpieza del syngas a la salida de los pirolizadores y previamente a su combustión en
+el proceso:
+- Dosificación de Ca(OH) .
+2
+- Filtros metálicos y/o cerámicos
+- Unidades de condensación
+Procesos de combustión de syngas:
+- Combustión de syngas en cámara de combustión y cámara de maduración que garantizan al menos 850 ºC de
+temperatura y tiempo de residencia de gases de al menos 2 segundos.
+- Combustión en motor de cogeneración, con posterior aprovechamiento de la energía térmica contenida en los
+gases de combustión del motor en proceso de secado directo de los residuos de entrada.
+Sistema de depuración de los gases generados en los procesos de combustión del syngas y en el secado de materia
+prima:
+El foco principal de proceso (foco número 1) contará con un sistema de depuración de emisiones que depura
+la corriente de gases generada en el proceso de combustión de los gases generados (syngas) en la cámara de
+combustión, cámara de maduración, motor de cogeneración y las emisiones del proceso de secado previo de los
+residuos, mediante las siguientes etapas aplicadas en serie:
+1. Reactor catalítico SCR con sistema de inyección de reactivo (solución amoniaco 25%).
+2. Sistema de neutralización de gases ácidos mediante la inyección de un sorbente (bicarbonato sódico) por vía
+seca e inyección de carbón activo.
+3. Filtro de mangas.
+4. Ventilador de impulsión a chimenea de evacuación de humos de combustión de 20 m de altura.
+Dispositivo de combustión de emergencia (antorcha de seguridad de llama oculta):
+Se dispondrá de un dispositivo de combustión de emergencia con capacidad para quemar la totalidad del syngas
+generado en planta en caso de que el almacenamiento de gas esté lleno y no pueda valorizarse energéticamente en
+la cámara de combustión, cámara de maduración o en el motor de cogeneración. El dispositivo deberá contar con un
+sistema para el control y registro del caudal de gases derivados a la antorcha. Anualmente se informará del caudal
+total de pirogás que ha sido oxidado en la antorcha, incluyéndolo en el Informe Anual de AAI.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27291
+En el apartado 5.2.2 Valores límite de emisión de contaminantes a la atmósfera.
+Donde dice:
+Las emisiones del foco principal de proceso de gasificación de residuos, una vez depuradas, deberán cumplir con
+los siguientes valores límite de emisión, referidos al 11 % de O , en condiciones normales de presión y temperatura
+2
+y gas seco:
+Parámetro Valor límite de emisión
+Partículas 5 mg/Nm³
+NO 200 mg/Nm³
+X
+SO 50 mg/Nm³
+2
+CO 50 mg/Nm³
+COVT 10 mg/Nm³
+NH 10 mg/Nm³
+3
+HCl 10 mg/Nm³
+HF 1 mg/Nm³
+Hg 0,05 mg/Nm³
+Sumatorio Cd + Tl 0,05 mg/Nm³
+Sumatorio Sb + As + Pb + Cr +
+0,5 mg/Nm³
+Co + Cu + Mn + Ni + V
+PCDD + PCDF 0,1 ng I-TEQ/Nm³ *
+* Factor de equivalencia para dibenzo-para-dioxinas y dibenzoburanos según parte 1 del Anejo 2 del Real Decreto
+815/2013, de 18 de octubre.
+Debe decir:
+Las emisiones del foco principal de los procesos de combustión de la Línea 13 (Foco de emisión número 1, chimenea
+principal del proceso) que usan gas de pirólisis (syngas / pirogás) de residuos como combustible, una vez aplicados
+los procesos de depuración de emisiones correspondientes, deberán cumplir con los siguientes valores límite de
+emisión a la atmósfera, referidos al 11 % de oxígeno, en condiciones normales de presión y temperatura y gas seco:
+Parámetro Valor límite de emisión
+Partículas 10 mg/Nm³
+NO 200 mg/Nm³
+X
+SO 50 mg/Nm³
+2
+CO 100 mg/Nm³
+COVT 10 mg/Nm³
+HCl 10 mg/Nm³
+HF 1 mg/Nm³
+Hg 0,05 mg/Nm³
+Sumatorio Cd + Tl 0,05 mg/Nm³
+Sumatorio Sb + As + Pb + Cr +
+0,5 mg/Nm³
+Co + Cu + Mn + Ni + V
+PCDD + PCDF 0,1 ng I-TEQ/Nm³ (*)
+(*) Factor de equivalencia para dibenzo-para-dioxinas y dibenzoburanos según parte 1 del Anejo 2 del Real Decreto
+815/2013, de 18 de octubre.
+Los valores límite de emisión de los parámetros que son objeto de controles externos puntuales, deberán controlarse
+en función de lo dispuesto en las condiciones de explotación de la presente autorización, considerándose que los
+
+AÑO XLV Núm. 133 15 de julio de 2026 27292
+mismos han sido superados cuando cualquiera de los valores medios obtenidos a lo largo del periodo de muestreo
+supere los valores límite de emisión dispuestos, debiendo adoptarse las medidas correctoras que se precisen para
+corregir dicha superación.
+Los valores límite de emisión de los parámetros que se controlan de forma continua mediante SAM deberán cumplirse
+en forma de valor medio diario.
+En el mismo apartado 5.2.7 Tratamiento, control y evaluación de emisión de contaminantes a la atmósfera.
+Donde dice:
+Monitorización de las emisiones atmosféricas:
+Controles externos de las emisiones (mediciones reglamentarias):
+En el foco de emisión principal del proceso de gasificación (foco número 1), se realizarán los siguientes controles
+externos de emisión de los siguientes contaminantes atmosféricos por parte de un Organismo de Control Autorizado
+en materia de calidad ambiental, área de atmósfera, de acuerdo a las siguientes metodologías de referencia:
+Tipo de control de emisión Método de referencia
+Partículas totales UNE-EN 13284-1
+CO UNE-EN 14385
+NO UNE-EN 14792
+X
+SO UNE-EN 15058
+2
+COT UNE-EN 12619
+NH Normas EN genéricas
+3
+HCl UNE-EN 1911
+HF UNE-ISO 15713
+As, Cd, Cr, Co, Cu, Mn, Ni, Pb, Sb, Tl y V UNE-EN 14385
+Hg UNE-EN 13211
+Dioxinas y furanos (PCDD+PCDF) UNE-EN 1948
+Periodicidad de medición reglamentaria en el foco principal de la línea de gasificación:
+Durante el primer año de funcionamiento: Mediciones semestrales de contaminantes para los que se establecen
+valores límite de emisión.
+Durante segundo año de funcionamiento y posteriores: si se cumple con los valores límite de emisión establecidos,
+el titular podrá solicitar la realización de mediciones anuales o la revisión de parámetros a medir periódicamente.
+Los focos 2 y 3 de la Línea 13, al tratarse de procesos de emergencia, quedan exentos de realizar mediciones de
+sus emisiones atmosféricas.
+Sistemas automáticos de medida (SAM):
+Se dispondrá de sistemas automáticos de medida (SAM) de las emisiones atmosféricas en el foco principal de la
+planta de gasificación, los cuales deberán dar cumplimiento a lo establecido en la norma UNE-EN 14181, adquiriendo
+equipos certificados en NGC1 que serán calibrados periódicamente según NGC2, NGC3 y EAS.
+Parámetros que se medirán en continuo:
+- Caudal.
+- Presión.
+- Temperatura.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27293
+- Partículas.
+- NO .
+X
+- NH .
+3
+- Sox.
+- CO.
+- COT.
+- HCl.
+- H O.
+2
+- O .
+2
+De estimarse necesario, se podrá solicitar la presentación de los resultados obtenidos en el medidor en continúo
+asociado al foco de emisión, por lo que deberán cumplir con los siguientes condicionantes:
+- Los datos de emisión, parámetros de control en los gases de escape (O , CO , caudal de gases de escape,
+2 2
+temperatura, humedad, presión, etcétera) y parámetros de control del proceso (consumo de combustible, etcétera),
+se almacenarán en formato digital a través de un sistema de adquisición de datos que permita su revisión y análisis.
+- El periodo de integración mínimo de los datos transmitidos debe ser horario.
+- La validación y marcación de los datos se realizará teniendo en cuenta las posibles situaciones que se puedan
+producir como puestas en marcha, paradas, mantenimientos, fallos de tensión, calibraciones, etcétera. El protocolo
+de validación de los datos de emisión será comunicado por esta Administración al titular de la planta, ante su
+requerimiento.
+- Se registrarán dos tipos de datos de emisión y caudal: datos sin ninguna corrección, tal cual se miden, y datos en
+condiciones normales y en base seca.
+No obstante, una vez que los SAM del foco 1 entren en funcionamiento, se recomienda conectarlos con la Red de
+Control de Calidad del Aire de la Junta de Comunidades de Castilla-La Mancha (más información en controlambiental@
+jccm.es).
+Control periódico de composición de los gases permanentes:
+El pirogás obtenido en el proceso de gasificación, denominado en proyecto como gas permanente, una vez
+acondicionado y depurado, y previamente a su combustión, será periódicamente analizado al menos una vez cada
+seis meses, analizándose, al menos, el contenido de las siguientes sustancias:
+- S Total.
+- Flúor.
+- Cloro.
+- Amoníaco.
+- Mercurio.
+Los resultados de las analíticas de composición del pirogás se incluirán en el Informe Anual de seguimiento de la
+Autorización Ambiental Integrada.
+Debe decir:
+Monitorización de las emisiones atmosféricas de la Línea 13:
+Se establecen las siguientes obligaciones de control de las emisiones atmosféricas con el fin de garantizar un
+adecuado seguimiento y control de la contaminación atmosférica que potencialmente puede generar la actividad
+desarrollada en la instalación.
+La periodicidad para la realización de controles externos de las emisiones de contaminantes atmosféricos mediante
+la actuación de un Organismo de Control en Atmósfera (OCA) acreditado por un organismo de acreditación como
+laboratorio de ensayo (LE) de acuerdo con la norma de referencia UNE-EN ISO/IEC 17025 queda establecida de
+forma diferenciada para cada actividad potencialmente contaminadora de la atmósfera, asociada a cada foco de
+emisión canalizada o difusa, de acuerdo con la siguiente tabla:
+
+AÑO XLV Núm. 133 15 de julio de 2026 27294
+Foco de emisión
+Tipo de control Periodicidad de control externo o reglamentario
+canalizado
+Emisión de CO, NO ,
+Foco 1: Chimenea de X NO , SO , CO, COVT y partículas: Control en continuo
+SO , partículas, HCl, HF, X 2
+emisión del proceso 2 mediante SAM. (*)
+metales, dioxinas y furanos
+HCl, HF, metales, dioxinas y furanos:
+Primer año, semestral.
+Segundo año, revisable.
+Focos 2 (2.1 y 2.2):
+grupos electrógenos de Emisión no sistemática Exento de mediciones.
+emergencia
+Foco 3: Dispositivo
+de combustión de Emisión no sistemática Exento de mediciones.
+emergencia
+(*) Hasta que los SAM estén en funcionamiento y debidamente calibrados y, las mediciones de estos contaminantes
+atmosféricos (NO , SO , CO, COVT y partículas) se realizarán de forma externa, reglamentaria y mediante actuación
+X 2
+de un OCA, y con una periodicidad semestral.
+El primer control externo de las emisiones se realizará durante los cuatro primeros meses de funcionamiento de
+actividad.
+Sobre la periodicidad de control externo, durante el primer año de funcionamiento se realizarán mediciones
+semestrales de contaminantes para los que se establecen valores límite de emisión.
+Durante segundo año de funcionamiento y posteriores: si se cumple con los valores límite de emisión establecidos,
+el titular podrá solicitar la realización de mediciones anuales, así como la revisión de los parámetros a medir
+periódicamente de forma externa.
+Los sistemas automáticos de medida (SAM) de las emisiones atmosféricas deberán estar instalados, calibrados, en
+funcionamiento y conectados con la Red de control de la calidad del aire de Castilla-La Mancha, en el plazo de un
+año respecto al inicio de la actividad.
+Metodologías de referencia para el control de las emisiones atmosféricas:
+Los controles de las emisiones atmosféricas serán realizados atendiendo a los procedimientos técnicos
+correspondientes establecidos en la Orden 180/2025, de 4 de diciembre, de la Consejería de Desarrollo Sostenible,
+por la que se aprueban las Instrucciones Técnicas en materia de Control de las Emisiones a la Atmósfera, en
+concreto según los establecidos en el apartado 5 de la IT-CLM-AT-E-01: Métodos de referencia de muestreo.
+Instrucción Técnica para establecer los métodos de referencia en el control de las emisiones a la atmósfera en focos
+canalizados.
+Durante cada medición, la instalación funcionará en condiciones estables y con una carga uniforme representativa.
+En este contexto, las fases de puesta en marcha y de parada no se tendrán en cuenta.
+Sistemas automáticos de medida (SAM) de las emisiones atmosféricas en el foco de emisión número 1:
+La instalación deberá contar con Sistemas Automáticos de Medida (SAM o CEMS) de las emisiones atmosféricas
+del foco principal de emisión (foco 1), que emite los productos de la combustión del gas de pirólisis.
+Se han de instalar SAM para los siguientes parámetros a controlar en continúo: NO , CO, SO , partículas, COT,
+X 2
+contenido en humedad, contenido en O , presión, temperatura y caudal de gases.
+2
+Los SAM a instalar deberán disponer de certificación Nivel de Garantía de Calidad 1 (NGC1) según norma UNE EN
+14181:2015 o norma que la sustituya, y en principio, serán calibrados periódicamente según NGC2, NGC3 y EAS
+según dicha norma UNE EN 14181:2015 o norma equivalente que la sustituya.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27295
+Los resultados obtenidos en el medidor en continúo asociado al foco de emisión se han de presentar mediante
+conexión y transmisión de datos a la Red de Vigilancia y Control de la Calidad del Aire de Castilla-La Mancha, por lo
+que deberán cumplir con los siguientes condicionantes:
+- La dirección de correo electrónico de contacto de la Red de Vigilancia y Control de la Calidad del Aire de Castilla-La
+Mancha actual es ccalaire@jccm.es, por si es necesario más información. A su vez, el teléfono de contacto actual
+es 925 24 88 58.
+- El SAM dispondrá de Certificado NGC 1 según la serie de normas UNE-EN15267 y EN ISO 14956, válido para los
+valores límite que se establezcan en relación con los rangos certificados de medida. Los SAM, una vez instalados,
+deberán ser objeto de aseguramiento de calidad según norma UNE-EN 14181, realizándose los correspondientes
+niveles de garantía que demuestre la aptitud del SAM para su aplicación, después de su instalación (NGC 2 y EAS)
+y las verificaciones periódicas de cero y rango para comprobar la deriva y precisión (NGC 3) a fin de demostrar que
+los SAM están funcionando dentro de las especificaciones requeridas de incertidumbre.
+- Adicionalmente a la medición de los contaminantes establecidos es necesario también medir en continuo caudal,
+oxígeno, temperatura, presión y humedad de los gases que se emiten por el foco canalizado. La siguiente información
+se ha de incluir en los datos a transmitir:
+Parámetro Condiciones
+Emisión Partículas base húmeda, mg/Nm3
+Emisión Partículas base seca, mg/Nm3, O2 ref
+Emisión NO base húmeda, mg/Nm3
+X
+Emisión NO base seca, mg/Nm3, O2 ref
+X
+Emisión SO base húmeda, mg/Nm3
+2
+Emisión SO base seca, mg/Nm3, O2 ref
+2
+Emisión CO base húmeda, mg/Nm3
+Emisión CO base seca, mg/Nm3, O2 ref
+Emisión COVT base húmeda, mg/Nm3
+Emisión COVT base seca, mg/Nm3, O2 ref
+O en humos %
+2
+Presión salida humos Pa
+Humedad salida humos %
+Temperatura salida
+ºC
+humos
+Caudal salida humos base seca, Nm3/h
+Caudal salida humos base húmeda, Nm3/h
+- Los datos de emisión, parámetros de control en los gases de escape (O , CO , caudal de gases de escape,
+2 2
+temperatura, humedad, presión, etcétera) y parámetros de control del proceso (consumo de combustible, etcétera),
+se almacenarán en formato digital a través de un sistema de adquisición de datos que permita su revisión y análisis.
+- La transmisión de datos al centro de control de la Red de Vigilancia y Control de la Calidad del Aire de Castilla-La
+Mancha se realizará mediante la copia de archivos de intercambio de datos en el directorio ftp.jccm.es al cuál se
+accederá utilizando el Usuario (UID) y la contraseña que se facilitarán por el personal de la propia Red de Control.
+- El archivo de intercambio de datos se ajustará a lo indicado en el documento “Transmisión de datos al centro de
+control de la Red de Vigilancia y Control de la Calidad del Aire de Castilla-La Mancha”, que se facilitará.
+- Los datos de los SAM de las emisiones y parámetros complementarios de emisión (oxígeno, temperatura, humedad,
+presión y caudal) se almacenarán en formato digital, integrándose los datos en valores promedios de periodos
+semihorarios (30 minutos), quedando registrado en un sistema de adquisición que permita la revisión, análisis,
+validación y exportación de los datos.
+- Los datos se registrarán y dispondrán en dos categorías: datos temporales y datos validados para todos los
+parámetros anteriormente indicados. Los datos temporales corresponden con los inicialmente generados por el
+SAM de manera automática sin ninguna corrección, tal cual se miden o datos brutos. Los datos validados es una
+etiquetación de los datos temporales, realizada por una persona responsable, teniendo en cuenta las posibles
+situaciones que se puedan producir, tales como: puestas en marcha, paradas, mantenimientos, fallos de tensión,
+calibraciones, etcétera.
+- Los datos temporales se comunicarán a la Red de Vigilancia y Control de la Calidad del Aire de Castilla-La Mancha
+al menos de forma diaria.
+
+AÑO XLV Núm. 133 15 de julio de 2026 27296
+- La validación, marcación, y envío de los datos validados se realizará preferentemente de forma diaria, y nunca
+menos de tres días por semana. A este respecto, se nombrará a un responsable que supervisará la recepción,
+validación y exportación de los datos a la Red de Vigilancia y Control de la Calidad del Aire de Castilla-La Mancha. Se
+puede solicitar en cualquier momento el envío de datos validados hasta esa fecha desde el organismo competente.
+Adicionalmente es necesario que se nos presente la siguiente documentación adicional sobre la persona responsable
+del titular del funcionamiento, estado y gestión de datos (recepción, validación y exportación a la Red de Vigilancia
+de la Contaminación Atmosférica de Castilla-La Mancha) del SAM:
+- Nombre y apellidos.
+- Dirección/es de correo electrónico de contacto.
+- Teléfono/s de contacto.
+El cambio de la persona y/o datos de contacto de la persona responsable del titular del funcionamiento, estado y
+gestión de datos del SAM deberán ser comunicados a esta Dirección General.
+Asimismo, una vez que los equipos SAM entren en funcionamiento, se deberán conectar con la Red de Vigilancia
+y Control de la Calidad del Aire de Castilla-La Mancha de la Junta de Comunidades de Castilla-La Mancha para
+facilitar la transmisión de datos con esta Administración (más información en ccalaire@jccm.es).
+Control periódico de composición del gas de pirólisis:
+Una vez puesta en marcha la instalación, la fracción gaseosa incondensable obtenido en el proceso de pirólisis
+de residuos, denominado gas de pirólisis o pirogás, una vez acondicionado y depurado, en el estado previo a su
+combustión, será periódicamente analizado al menos una vez cada seis meses, analizándose, como mínimo, el
+contenido de las siguientes sustancias:
+- S Total.
+- Flúor.
+- Cloro.
+- Amoníaco.
+- Mercurio.
+Para el cumplimiento de este punto, deberán remitir una propuesta que ha de recoger la metodología que se va a
+seguir para obtener la caracterización del pirogás, cada cuánto se caracteriza (si es cada determinado volumen del
+pirogás, si es diario, si es horario, si es semanal, si es mensual, si es en continuo, etcétera), teniendo en cuenta
+que la caracterización se realizará preferentemente mediante entidad habilitada, y en tanto no existan entidades
+con acreditaciones para la toma de muestra y/o análisis de la muestra, la persona titular debe realizar previamente
+la consulta ante la Dirección General de Calidad Ambiental para solicitar conformidad a dicha propuesta. Dicha
+propuesta, salvo que desde esta Dirección General se comunique lo contrario, sería de obligado cumplimiento.
+Los resultados de dichas analíticas se incluirán en el informe anual de Autorización Ambiental Integrada.
+La presente autorización se otorga sin perjuicio del resto de autorizaciones y licencias que le resulten exigibles.
+Contra la presente Resolución, que no pone fin a la vía administrativa, podrá interponerse recurso de alzada
+ante la persona titular de la Consejería de Desarrollo Sostenible, en el plazo de un mes, desde el día siguiente
+al de su notificación, de conformidad con lo establecido en el artículo 122 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de interponer cualquier otro que
+se considere procedente.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, la interposición de cualquier recurso
+administrativo podrá realizarse a través de medios electrónicos. Para ello debe dirigirse a la página de la Sede
+Electrónica de la Junta de Comunidades de Castilla-La Mancha (www.jccm.es) y en el Buscador de Trámites indicar
+“Recurso de Alzada”, o bien seguir el correspondiente enlace directo: https://www.jccm.es/tramites/1003700.
+Toledo, 7 de julio de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO
