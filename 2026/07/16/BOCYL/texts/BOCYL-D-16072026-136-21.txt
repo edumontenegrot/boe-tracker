@@ -1,0 +1,44 @@
+Boletín Oficial de Castilla y León
+Núm. 136 Jueves, 16 de julio de 2026 Pág. 251
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+CORRECCIÓN de errores de la Resolución de 30 de octubre de 2025, de la Dirección
+General de Producción Agrícola y Ganadera, por la que se delimitan las zonas geográficas
+autorizadas para la producción de patata de siembra en la Comunidad de Castilla y León.
+Advertido error en el texto remitido para su publicación, de fecha 30 de octubre
+de 2025, publicado en el Boletín Oficial de Castilla y León número 216 de fecha 10 de
+noviembre de 2025, se procede a efectuar la oportuna rectificación:
+En el ANEXO,
+Debe suprimirse la siguiente línea:
+ZONA DESCRIPCIÓN
+CÓDIGO NOMBRE Provincia Municipio Agregado Zona Polígono
+E LOSA 09-BURGOS 52-BERBERANA 0 0 504
+En el ANEXO,
+Donde dice:
+ZONA DESCRIPCIÓN
+CÓDIGO NOMBRE Provincia Municipio Agregado Zona Polígono
+195-JURISDICCIÓN DE SAN
+N VALDEGOVIA 09-BURGOS 0 0 503
+ZADORNIL
+195-JURISDICCIÓN DE SAN
+N VALDEGOVIA 09-BURGOS 0 0 504
+ZADORNIL
+195-JURISDICCIÓN DE SAN
+N VALDEGOVIA 09-BURGOS 0 0 505
+ZADORNIL
+Debe decir:
+ZONA DESCRIPCIÓN
+CÓDIGO NOMBRE Provincia Municipio Agregado Zona Polígono
+195-JURISDICCIÓN DE SAN
+E LOSA 09-BURGOS 0 0 503
+ZADORNIL
+195-JURISDICCIÓN DE SAN
+E LOSA 09-BURGOS 0 0 504
+ZADORNIL
+195-JURISDICCIÓN DE SAN
+E LOSA 09-BURGOS 0 0 505
+ZADORNIL
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-16072026-136-21
