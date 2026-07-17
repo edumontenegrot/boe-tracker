@@ -1,0 +1,983 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 1/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de CIenCIa, IndustrIa y empleo
+ResoluCión de 9 de julio de 2026, de la Consejería de Ciencia, industria y empleo, por la que se autoriza insta-
+lación eléctrica de alta tensión. expte. AuTo/2023/630 (AT-10774).
+antecedentes de hecho
+Primero.—Con fecha de entrada en esta Consejería el 27/12/2023, sarvolt 1, s. l., presenta solicitud de admisión
+a trámite, autorización administrativa previa, autorización administrativa de construcción y declaración de impacto
+ambiental de la instalación energética híbrida tabiella HBess 22 kV de potencia instalada 10,365 mW (9,635 mW
+de almacenamiento y 0,73 mW de fotovoltaica) y su infraestructura de evacuación, correspondiéndole el expediente
+auto/2023/630 (at-10774). una vez subsanada la solicitud y la documentación presentada, de acuerdo con el reque-
+rimiento efectuado, con fecha 17/01/2024 se admite a trámite y se inician los procedimientos de evaluación ambiental
+simplificada y autorización administrativa.
+segundo.—remitidas las separatas del proyecto a las distintas administraciones, organismos o empresas de servicio
+público o de servicios de interés general afectadas, con bienes y derechos a su cargo, al objeto de que establezcan el
+condicionado técnico procedente, se reciben entre otros, el informe desfavorable del ayuntamiento de avilés y el informe
+de red eléctrica de españa mostrando su disconformidad con el trazado de la línea. a su vez, remitido el documento
+ambiental junto con la solicitud de inicio de evaluación ambiental al órgano ambiental, éste comunica la inadmisión del
+mismo y la necesidad de someter a evaluación ambiental estratégica el instrumento urbanístico que sea necesario para
+obtener, en su caso, la compatibilidad urbanística. por otro lado, sometido el proyecto a información pública, mediante
+anuncio publicado en el Bopa de 30/01/2024, no se recibieron alegaciones.
+Tercero.—a la vista de lo anterior, con fecha de entrada en esta Consejería el 30/07/2025, sarvolt 1, s. l., presenta
+solicitud de autorización administrativa previa, autorización administrativa de construcción e inicio del procedimiento de
+evaluación ambiental simplificada del modificado de proyecto de la instalación Tabiella H-BESS 22 kV, tras su reubicación
+a parcelas de uso industrial en el polígono de maqua, como consecuencia de la suspensión de autorizaciones urbanísticas
+para este tipo de instalaciones en suelos no urbanizables dentro del principado de asturias. asimismo, dado que la via-
+bilidad del proyecto dependía de la modificación del Plan General de Ordenación y la tramitación del Plan Especial, cuyos
+plazos mínimos impedían el cumplimiento de los hitos administrativos en los tiempos establecidos por el real decreto-
+ley 23/2020, se procedió al desistimiento del módulo fotovoltaico. por tanto, el proyecto continuará únicamente con el
+módulo de almacenamiento energético, con la potencia instalada de 9,635 mW y una capacidad de almacenamiento de
+38,76 mWh a 4 horas.
+Cuarto.—la instalación dispone de permisos de acceso y conexión a la red de distribución, otorgados por Hidrocantá-
+brico distribución eléctrica, s. a. u. (en adelante HC) con fecha 23/08/2023, para una potencia de 8,8 mW de capacidad
+de acceso, siendo el punto de conexión una nueva posición a instalar en Barras 22 KV de se tabiella. dichos permisos se
+actualizaron por HC en fecha 6/05/2026 con motivo del cambio de ubicación de la instalación así como de la limitación
+del proyecto exclusivamente al módulo de almacenamiento energético, considerando que se trata de la misma insta-
+lación de generación a efectos de los permisos de acceso y conexión, tal y como se establece en disposición adicional
+decimocuarta del real decreto 1955/2000 y teniendo en cuenta que dicha actualización en ningún caso conlleva la mo-
+dificación de la fecha de concesión inicial.
+Quinto.—Remitidas las separatas del proyecto modificado a las distintas Administraciones, organismos o empresas
+de servicio público o de servicios de interés general afectadas, con bienes y derechos a su cargo, al objeto de que esta-
+blezcan el condicionado técnico procedente, se recibieron informes del ayuntamientos de avilés, Confederación Hidro-
+gráfica del Cantábrico (CHC), la sociedad Gestión de Infraestructuras Públicas de Telecomunicaciones del Principado de
+Asturias (GITPA), Red Eléctrica de España (REE) y Telefónica. A continuación, se resume el contenido de los informes y
+las respuestas del promotor.
+— el ayuntamiento de avilés emite un primer informe desfavorable, en el que señala que, si bien la planta de
+almacenamiento se localiza en el municipio de Gozón, la energía almacenada será transportada a la Estación
+de tabiella, sita en el municipio de avilés, estando, por tanto, dicho municipio afectado por la construcción de
+la línea de alta tensión, que discurrirá por parcelas que cuentan con calificación como Suelo No Urbanizable
+Interés Forestal y Suelo no Urbanizable Interés Paisajístico. En base a las Normas Urbanísticas del Plan Gene-
+ral de ordenación de avilés, la línea subterránea solo sería viable caracterizándola como un Infraestructura y
+no quedando suficientemente acreditados ni justificados la necesidad, utilidad pública, interés general para el
+municipio, ni servicio directo a la zona o núcleo rural próximo, procede considerarla como un uso prohibido.
+asimismo, respecto al recorrido de la línea subterránea a través de la carretera de titularidad autonómica as-
+238, se deberá dar traslado a la Consejería competente.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 2/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+traslado al promotor, éste responde haciendo referencia a numerosa legislación del sector eléctrico, entre la que se
+encuentra el reglamento (ue) 2022/25771 del Consejo de 22 de diciembre de 2022, por el que se establece un marco
+para acelerar el despliegue de energías renovables, que dispone que las instalaciones de producción de energía proce-
+dente de fuentes renovables y su conexión a la red, así como la propia red conexa y los activos de almacenamiento, son
+de interés público superior y contribuyen a la salud y la seguridad públicas, por lo que la línea podría ser autorizable.
+Remitida la respuesta del promotor al Ayuntamiento, éste responde que las alegaciones presentadas no modifican lo
+señalado en su anterior informe.
+El promotor presenta entonces para su remisión al Ayuntamiento una justificación del trazado basada en las alter-
+nativas analizadas por HC para poder realizar la conexión en la subestación, en la que se concluye que la única alterna-
+tiva técnicamente viable consiste en bordear la subestación hasta alcanzar el edificio de media tensión en el que debe
+materializarse la conexión, dado que cualquier trazado interior de la línea interferiría con los trabajos y la operativa
+propia de la subestación, lo que implica necesariamente afectar a los suelos no urbanizables objeto del primer informe
+desfavorable.
+En paralelo, desde el Servicio de Gestión Energética de la Consejería de Ciencia, Industria y Empleo del Principado
+de asturias se elabora un informe en relación a la utilidad pública y el interés general de las instalaciones de almacena-
+miento de energía eléctrica, en concreto para la instalación referida, que se remite al ayuntamiento.
+a la vista de lo anterior, con fecha 16/03/2026, el ayuntamiento emite un nuevo informe, en el que en base a los
+últimos informes y recibidos, considera que procede informar que, en lo relativo a la línea subterránea de evacuación
+que discurre por el término municipal de Avilés, una vez justificado el interés general y particular para el municipio, así
+como la imposibilidad de un trazado alternativo, podría calificarse la línea como un uso permitido.
+— Confederación Hidrográfica informa que la actuación proyectada incluye la ejecución de un cruce de la conduc-
+ción bajo el cauce del arroyo de tabiella, que se producirá en suelo rural, a efectos de aplicación de la normativa
+de aguas y parte de la línea de evacuación invadirá la zona de dominio público hidráulico. sin embargo, dado
+que se trata de una obra subterránea, con esta ubicación queda expedita la zona de servidumbre, permitiendo
+la realización de los fines previstos para ella en el artículo 7 del Reglamento del Dominio Público Hidráulico. Ade-
+más dichas actuaciones se encuentran fuera de la zona inundable de cauces y no es de esperar afección alguna
+al régimen de la corriente por parte de dichas actuaciones, puesto que no agravan la inundabilidad, ni el riesgo
+preexistente en el entorno. teniendo en consideración lo anterior, y de acuerdo con lo dispuesto en los artículos
+9, 53, 78 y 127 del Reglamento del Dominio Público Hidráulico, la ejecución de estas obras o trabajos en dominio
+público hidráulico y en zona de policía deberá contar con la correspondiente autorización administrativa previa
+ante este organismo de cuenca. la entidad peticionaria quedará obligada a respetar las servidumbres legales
+vigentes y a mantener expedita la franja de servidumbre de 5 metros de anchura medidos desde el borde del
+cauce ocupado por las aguas en las máximas crecidas ordinarias, a cuyo efecto, queda prohibido en la misma
+cualquier tipo de instalación o construcción complementaria, incluso cierres, tengan carácter definitivo o provi-
+sional. en relación con los cruces subálveos este organismo de cuenca viene prescribiendo, con carácter gene-
+ral, que la generatriz superior de la conducción se disponga al menos 1,5 m por debajo del fondo del cauce en
+corrientes de pequeña entidad sin dinámicas erosivas, cuidando de que la protección y lastrado de la conducción
+alcance todo el ámbito del dominio público hidráulico y se extienda, en la medida de lo posible, bajo la zona de
+servidumbre.
+Trasladado el informe al promotor, éste manifiesta su conformidad y dado que se considera viable la actuación
+desde el punto de vista hidráulico y normativo, procederá a solicitar la correspondiente autorización y cumplirán
+las condiciones de ejecución establecidas.
+— GITPA informa que no existe afección de la línea eléctrica de evacuación 22 kV prevista en el proyecto a infra-
+estructuras gestionadas por ellos, ya que las existentes en las tres zonas indicadas pertenecen a otro operador
+de telecomunicaciones.
+trasladado el informe al promotor, éste muestra su conformidad.
+— ree informa que, en cuanto a la planta Bess, no presenta oposición al no existir afecciones a instalaciones de su
+titularidad, pero en cuanto a la línea soterrada, presenta oposición al incumplir las distancias mínimas al apoyo
+1 de la línea aérea a 220 kV Asturiana de Zinc-Tabiella 2, al apoyo 2 de la línea aérea a 220 kV D/C Asturiana de
+Zinc-Tabiella 1 y 2 y al apoyo 42 de la línea aérea Carrio-Tabiella 1. Estas distancias mínimas se cumplen en el
+apoyo 41 de la línea aérea a 220 kV D/C Carrio-Tabiella 1 y 2 y en el apoyo 82 y 82BIS de la línea aérea a 220
+kV Soto de Ribera-Tabiella. Debido a la proximidad de la canalización a los apoyos 82 y 82BIS de la línea aérea
+a 220 kV Soto de Ribera-Tabiella, será necesario que los trabajos en el entorno de los mismos sean vigilados por
+personal de REE con el fin de evitar que se produzcan afecciones al sistema de puesta tierra de los apoyos. No
+obstante, en el caso de que sea posible, es recomendable que ninguna canalización subterránea diste menos de
+20 metros a la pata más desfavorable del apoyo para que, de esta forma, quede asegurada la no interferencia
+de dichas canalizaciones con el sistema de puesta a tierra del apoyo y se minimicen los posibles efectos deriva-
+dos del drenaje de sobretensiones al terreno a través de dicho sistema de puesta a tierra. en el caso de que, a
+causa de estos trabajos, el sistema de puesta a tierra de alguno de los apoyos resultara afectado, los costes de
+reposición deberán ser asumidos por el promotor del proyecto.
+Trasladado el informe al promotor, éste presenta un documento técnico que describe las modificaciones realiza-
+das en el proyecto para dar cumplimiento a los condicionantes de ree, acompañado de declaración responsable
+manifestando que cumple también con la totalidad de las condiciones establecidas en el artículo 115.2 del Real
+Decreto 1955/2000, ya que la modificación no conlleva la afección de nuevos fincas, ni ocupa nuevas zonas de
+usos urbanísticos distintos dentro del municipio afectado por las mencionadas modificaciones. No obstante, no
+es viable técnicamente la separación solicitada por ree entre la canalización subterránea y la pata más des-
+favorable del apoyo, por lo que se adoptarán todas las medidas necesarias para evitar interferencias con las
+puestas a tierra de las torres de ree, considerando que la zanja en esa zona tendrá una profundidad máxima
+de aproximadamente 1 metro.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 3/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+remitido el documento técnico a ree, se recibe nueva contestación en la que informa, en relación con la impo-
+sibilidad técnica de dotar de mayor separación entre la línea de evacuación subterránea y los apoyos afectados,
+que no presenta oposición a la misma, siempre y cuando tomen las medidas de seguridad convenientes para la
+ejecución de los trabajos. no obstante, reitera que será necesario que los trabajos en el entorno de los apoyos
+sean vigilados por personal de REE con el fin de evitar que se produzcan afecciones al sistema de puesta a tierra
+de los apoyos afectados y recuerda que los trabajos deberán ejecutarse conforme a lo establecido en el real
+Decreto 614/2001, sobre disposiciones mínimas para la protección de la salud y seguridad de los trabajadores
+frente al riesgo eléctrico. para ello, deberán respetar la distancia de seguridad eléctrica establecida para tra-
+bajos en proximidad a una línea a 220 kV, mediante la colocación de gálibos que garanticen que ningún medio
+humano o material se aproximará a los conductores en tensión a menos de 5 metros. Además, y como medida
+de seguridad adicional (debido a que la posición de los conductores es variable con la temperatura), deberán
+hacerse verificaciones periódicas que aseguren la distancia mencionada.
+Trasladado el nuevo informe al promotor, éste manifiesta la conformidad con su contenido y confirma que se
+tendrán en cuenta las medidas de seguridad expuestas en dicho informe para la construcción de la correspon-
+diente línea de evacuación.
+— telefónica responde que no tiene objeción alguna a la ejecución del proyecto, siempre y cuando se cumpla la
+normativa vigente en relación con los paralelismos y cruzamientos con líneas de telecomunicación.
+trasladado el informe al promotor, éste muestra su conformidad.
+Además el promotor aporta los informes de compatibilidad urbanística emitidos por el Ayuntamiento de Gozón
+para la planta de almacenamiento y para la línea subterránea. en el primero, una vez determinado que el uso
+proyectado de planta de almacenamiento energético, tiene la consideración de mediana industria, se considera
+un uso compatible en la parcela propuesta. En el segundo se identifican todos los tipos de suelos por los que
+discurre la línea proyectada, concluyendo que su ejecución es un uso permitido en suelo urbano y suelo no ur-
+banizable de núcleo rural, siendo un uso autorizable en el resto de las categorías de suelos afectados.
+sexto.—Sometido el proyecto modificado a información pública, mediante anuncio publicado en el BOPA en 27/10/2025
+(Boletín n.º 206), se formularon las siguientes alegaciones:
+La Asociación de Vecinos ENLAZE, inscrita en el registro de Asociaciones del Principado de Asturias con el número 6992
+de la sección primera y en el registro de Asociaciones del Ayuntamiento de Gozón con el número 15, en representación de
+los vecinos de la parroquia de laviana, solicita que se dicte resolución denegatoria de evaluación de impacto ambiental y no
+se otorgue el permiso sustantivo de la instalación, para lo que formula alegaciones en relación a los siguientes puntos:
+— la capacidad del promotor para la ejecución del proyecto haciendo referencia a la ley Contratos del sector
+público.
+— la discrepancia en el emplazamiento entre el indicado en el anuncio publicado y el contenido en el proyecto
+expuesto en el tablón, que sigue siendo el del proyecto inicialmente tramitado.
+— la posible afección urbanística y ambiental, derivada de la falta de precisión sobre el emplazamiento, que im-
+pide verificar la compatibilidad urbanística y la afección a espacios protegidos, servidumbres o infraestructuras
+existentes.
+— la ausencia de un estudio de compatibilidad técnica en el documento ambiental entre la línea subterránea de
+alta tensión proyectada y los colectores de saneamiento que discurren por el mismo trazado en la parroquia de
+laviana.
+— La justificación de la alternativa elegida, indicando que una infraestructura como la proyectada y su ubicación,
+no encuentra ningún tipo de acomodo en relación a la red de transporte de energía eléctrica, salvo que el pro-
+pio promotor esté considerando el almacenamiento de energía procedente de terceros. ninguna alternativa es
+buena salvo el puro interés empresarial.
+— el impacto en zonas con protección ambiental, haciendo referencia a la imprecisión de la información, de la que
+se deduce que no se conocen en profundidad los terrenos sometidos a estudio.
+— el riesgo de incendios, que se indica que es moderado, sin hacer referencia a la emisión a la atmósfera en caso
+de incendio de Fluoruro de Hidrógeno ni de Cianuro de Hidrógeno, ni tener en cuenta que hacer este tipo de
+instalación al lado de una empresa de fabricación de plásticos y otra de reciclaje industrial supone un alto riesgo
+para toda la población de la parroquia de laviana y alrededores. se señala también la discrepancia antes indi-
+cada en el emplazamiento del proyecto.
+— se plantea la duda sobre la necesidad de la instalación en asturias.
+— Falta de fiabilidad del documento ambiental, que carece de un rigor técnico y fiable por lo que debería ser re-
+chazado en su totalidad.
+una alegación particular de una vecina de la parroquia de laviana, en relación con el trámite de información pública
+relativa a la autorización administrativa previa, sobre los siguientes puntos, aportando también las alegaciones que pre-
+sentó en el procedimiento de evaluación ambiental:
+— Discrepancia en el emplazamiento publicado, de forma idéntica a la Asociación de Vecinos ENLAZE.
+— Posible afección urbanística y ambiental, al igual que la Asociación de Vecinos ENLAZE, solicitando que se sus-
+penda el procedimiento hasta que se publique la información correcta y completa, incluyendo planos actualiza-
+dos y coordenadas exactas, para garantizar la participación informada.
+— revisión del procedimiento, solicitando la apertura del un nuevo período de alegaciones una vez subsanado el
+error.
+séptimo.—trasladas las alegaciones al promotor, éste respondió a todas las cuestiones planteadas, resumiendo a
+continuación el contenido de las respuestas.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 4/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+Respuesta a la Asociación de Vecinos ENLAZE:
+— respecto a la capacidad del promotor para la ejecución del proyecto, el capital social de una sociedad no cons-
+tituye, por sí solo, un indicador determinante de su capacidad real para promover y ejecutar una instalación de
+esta naturaleza. La normativa aplicable al sector energético, y en particular el Real Decreto 1955/2000, contem-
+pla expresamente la necesidad de acreditar la capacidad legal, técnica y económico-financiera suficiente para
+poder tramitar y ejecutar este tipo de proyectos y corresponde al órgano competente encargado de autorizar la
+instalación verificar que el promotor cumple con todos los requisitos exigidos por la normativa vigente antes de
+otorgar las correspondientes autorizaciones administrativas. es decir, la administración no se limita a valorar
+el capital social inscrito de la sociedad, sino el conjunto de garantías, solvencia, medios técnicos, estructura
+empresarial, capacidad de financiación y viabilidad del proyecto presentado. Además, en proyectos de esta en-
+vergadura es habitual que la sociedad promotora adopte una estructura societaria específica para el desarrollo
+del proyecto concreto, apoyándose en financiación externa, acuerdos con entidades financieras, proveedores
+tecnológicos, ingenierías, contratistas especializados y otros mecanismos habituales en el sector energético e
+industrial. Por ello, el capital social mínimo de constitución de la sociedad no refleja necesariamente la capacidad
+inversora real ni los recursos disponibles para la ejecución del proyecto. en consecuencia, si el expediente conti-
+núa su tramitación implica que los órganos competentes han considerado acreditada la capacidad legal, técnica
+y económico-financiera exigida por el Real Decreto 1955/2000 y por el resto de normativa sectorial aplicable.
+— en relación a la discrepancia en el emplazamiento publicado, si bien la solicitud del trámite se presentó correc-
+tamente junto con la documentación actualizada, el proyecto técnico administrativo publicado en el anuncio del
+Boletín Oficial del Principado de Asturias (Bopa) correspondía a una versión anterior y ya desactualizada de la
+instalación prevista. Por este motivo, el viernes 15 de mayo el Principado procedió a publicar nuevamente el
+anuncio con la documentación correcta, que coincide plenamente con la publicada.
+— respecto a la posible afección urbanística y ambiental, la última documentación publicada una vez subsanado el
+error, permite verificar adecuadamente todas las compatibilidades contempladas en el proyecto técnico-admi-
+nistrativo, así como la coherencia y viabilidad de las actuaciones previstas. En este sentido, se puede verificar la
+compatibilidad urbanística del proyecto mediante un informe favorable emitido por el Ayuntamiento de Gozón,
+tanto para la instalación de almacenamiento como para su línea de evacuación. además, la ubicación elegida,
+sobre suelo industrial, se corresponde con la tipología de emplazamiento considerada como la más adecuada
+para este tipo de instalaciones, por su compatibilidad urbanística, por naturaleza de la actividad y por su bajo
+impacto ambiental, con una línea de evacuación subterránea que se ha configurado con la solución más factible
+tanto técnicamente como ambientalmente.
+— en cuanto a la ausencia de estudio de compatibilidad técnica, en zonas de coexistencia de la traza de la línea
+de evacuación de la planta de almacenamiento Tabiella H-BESS 22 con instalaciones subterráneas canalizadas
+de aguas se seguirá en todo momento lo indicado en la Instrucción Técnica Complementaria ITC-LAT-06 del
+R. D. 223/2008, de 15 de febrero, y en particular lo indicado en el apartado 5 Cruzamientos, proximidades y
+paralelismos, y sus subapartados 5.2.5, 5.2.7 y 5.3.3, que se recogen en la respuesta. Estas circunstancias se
+encuentran recogidas en el proyecto, en los apartados 4.5.4.4, 4.5.4.6 y en esta respuesta. Se describe igual-
+mente en el apartado 2.4.2 de la memoria descriptiva del proyecto que el trazado de la línea soterrada será
+directamente enterrado, excepto en los cruzamientos y cuando discurra bajo vial, que irá entubado. la distancia
+mínima entre ambas instalaciones será la que permita las coexistencias sin provocar daños físicos entre ambas,
+siempre y cuando los tubos donde se ejecuten las instalaciones de los cables de evacuación del proyecto sean
+las indicadas en la normativa, y que se recoge en el proyecto en el documento Fichas técnicas. se concluye que
+las condiciones de cruzamiento y paralelismo de las instalaciones proyectadas se definen en el proyecto y la
+compatibilidad entre las instalaciones de colectores de agua y las instalaciones de alta tensión del proyecto de
+Tabiella HBESS 22 se justifica técnicamente, cumpliendo prescripciones normativas.
+— Respecto a la justificación de alternativa elegida, se quiere reafirmar la justificación sobre la necesidad de im-
+plantación del proyecto en la línea de lo expuesto en las exposiciones sobre la motivación de interés de la ins-
+talación y de forma más completa en el próximo punto en el que se responde a la alegación sobre la necesidad
+de esta instalación, dado que se justifica la importancia capital de este tipo de instalaciones de almacenamiento
+a la hora de complementarse con las instalaciones de generación renovable, ampliamente desplegadas a nivel
+nacional, y que permiten dotar de gestionabilidad a un sistema energético que tiene esta importante limitación,
+con lo cual lograrían reforzar la seguridad del suministro y de la red eléctrica. en consecuencia, el despliegue de
+las instalaciones de almacenamiento constituye un pilar fundamental para poder alcanzar la transición energé-
+tica, motivo por el cual el almacenamiento energético se conforma como una de las vertientes estratégicas del
+plan nacional Integrado de energía y el Clima. por otra parte, la alternativa de ubicación elegida se considera
+como debidamente justificada al considerarse un emplazamiento sobre suelo industrial, única alternativa urba-
+nísticamente viable tras el Acuerdo del Consejo de Gobierno de fecha 25 de agosto de 2025, mediante el cual se
+acordó la suspensión temporal del otorgamiento de licencias para instalaciones de almacenamiento energético
+mediante baterías en suelo no urbanizable por parte de la Comisión de urbanismo y ordenación del territorio de
+Asturias (CUOTA). No se puede considerar que haya el mismo potencial impacto entre las alternativas 2 y 1 en
+cuanto al riesgo de vertido dada la diferencia en cuanto a la proximidad del canal de maqua. en cualquier caso,
+se deben considerar como impactos compatibles ya que el riesgo obedece a una situación puntual y extraordi-
+naria, situación por la cual se prevén medidas preventivas y de protección propias de la instalación a los efectos
+de sus respectivas normas de seguridad, por lo cual se podría evitar la contaminación ambiental por vertidos en
+caso de ocurrencia de accidente.
+— en relación al impacto en zonas con protección ambiental, el procedimiento de evaluación ambiental incluye un
+análisis con las posibles repercusiones en cuanto a la coherencia de la Red Natura 2000, pese a que la instala-
+ción se proyecta fuera de sus delimitaciones, y se considera que dada la naturaleza de la instalación, sus dimen-
+siones y el entorno antropizado, no se puede estimar que la proyección de esta instalación pueda ser causa de
+un perjuicio significativo para la distribución de las especies vinculadas a los espacios de la Red Natura 2000.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 5/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+— respecto al riesgo de incendios, la alegación parte de escenarios genéricos asociados a incendios industriales
+complejos, pero no tiene en consideración ni las características técnicas concretas de las instalaciones Bess
+modernas, ni las medidas de seguridad activa y pasiva actualmente exigidas por la normativa técnica, ambien-
+tal e industrial aplicable a este tipo de proyectos. en primer lugar, debe señalarse que los sistemas de alma-
+cenamiento energético mediante baterías de ion-litio actualmente implantados en europa incorporan múltiples
+niveles de protección y seguridad destinados precisamente a evitar fenómenos de propagación térmica, com-
+bustión incontrolada o emisiones peligrosas. entre dichas medidas se incluyen sistemas avanzados de monito-
+rización continua, control térmico, detección temprana de gases, compartimentación de módulos, sistemas au-
+tomáticos de extinción, desconexión eléctrica automática y protocolos de aislamiento inmediato ante cualquier
+anomalía operativa. asimismo, las instalaciones proyectadas deben cumplir obligatoriamente con la normativa
+industrial, ambiental y de seguridad vigente. Respecto a la posible emisión de sustancias como fluoruro de
+hidrógeno (HF) o cianuro de hidrógeno (HCn), conviene aclarar que estos compuestos únicamente podrían pro-
+ducirse en escenarios extremos y excepcionales de combustión descontrolada de determinados componentes
+químicos, tratándose además de hipótesis contempladas en los estudios de seguridad industrial y en los análi-
+sis de riesgo exigidos para este tipo de instalaciones. en cualquier caso, la mera posibilidad teórica de genera-
+ción de determinados compuestos durante un incendio no implica automáticamente la existencia de un riesgo
+inadmisible para la población. precisamente por ello, la normativa actual exige distancias de seguridad, secto-
+rización, medidas de confinamiento, sistemas de detección temprana, planes de autoprotección y protocolos de
+intervención coordinados con los servicios de emergencia. Gobierno del Principado de Asturias Consejería de
+Ciencia, Industria y Empleo Estado del documento Original Página 7 de 20 Dirección electrónica de validación
+CSV https://consultaCVS.asturias.es Código Seguro de Verificación (CSV) 16340704410036034757 Comparar
+una instalación BESS moderna con el incendio producido el 4 de julio de 2025 en una planta de reciclaje de
+baterías en azuqueca de Henares resulta técnicamente improcedente, pues una planta de reciclaje industrial
+gestiona grandes volúmenes de residuos heterogéneos, baterías degradadas, materiales dañados y procesos
+industriales completamente distintos a los de una instalación estacionaria de almacenamiento energético di-
+señada específicamente bajo estándares internacionales de seguridad, monitorización y operación controlada.
+las instalaciones Bess como la proyectada no constituyen vertederos ni plantas de tratamiento de residuos
+peligrosos, sino infraestructuras energéticas estandarizadas, diseñadas bajo estrictos criterios de ingeniería,
+con celdas homologadas, sistemas redundantes de protección y supervisión permanente de parámetros eléctri-
+cos y térmicos. en consecuencia, no puede sostenerse técnicamente que la instalación proyectada suponga un
+alto riesgo para toda la población, afirmación carece de respaldo en los estudios técnicos, análisis de riesgos y
+evaluaciones administrativas realizados en el marco del expediente.
+— sobre la necesidad de esta instalación en asturias, la cuestión parte de una premisa que no se ajusta al funcio-
+namiento real del sistema eléctrico ni al marco normativo vigente en materia energética, tanto a nivel nacional
+como europeo. las instalaciones de almacenamiento energético no se diseñan para abastecer exclusivamente el
+consumo de un territorio concreto, sino para aportar estabilidad, flexibilidad y seguridad al conjunto del sistema
+eléctrico interconectado, del que asturias forma parte integrada. el sistema eléctrico español funciona de ma-
+nera coordinada y mallada a nivel nacional y europeo, de modo que la generación, el transporte, el almacena-
+miento y el consumo de energía no se limitan a fronteras autonómicas. del mismo modo que asturias consume
+energía generada en otras comunidades autónomas, también puede generar, evacuar o almacenar energía que
+contribuya al equilibrio y estabilidad del sistema en su conjunto. precisamente por ello, tanto la unión europea
+como el Estado español han identificado el almacenamiento energético como una infraestructura estratégica
+imprescindible para garantizar la transición energética, la integración masiva de energías renovables y la se-
+guridad de suministro. En este sentido, la Estrategia de Almacenamiento Energético aprobada por el Gobierno
+de España contempla alcanzar aproximadamente 20 GW de capacidad de almacenamiento en 2030 y 30 GW en
+2050, considerando esta tecnología esencial para la estabilidad de la red y la descarbonización de la economía.
+Asimismo, el Plan Nacional Integrado de Energía y Clima (PNIEC) 2023-2030 establece objetivos muy ambicio-
+sos de penetración renovable, alcanzando un 81 % de generación eléctrica renovable en 2030, lo que necesaria-
+mente exige desplegar sistemas de almacenamiento capaces de absorber excedentes energéticos y gestionarlos
+en momentos de mayor demanda o menor producción renovable. por tanto, el almacenamiento energético no
+debe analizarse únicamente desde la óptica del consumo instantáneo de una comunidad autónoma, sino desde
+la necesidad técnica de equilibrar un sistema eléctrico cada vez más renovable y menos dependiente de com-
+bustibles fósiles. de hecho, regiones con elevada capacidad de generación renovable, como asturias, desempe-
+ñan un papel especialmente relevante en este proceso de transformación energética. además, las instalaciones
+de almacenamiento aportan beneficios directos al territorio donde se implantan, independientemente de dónde
+se consuma finalmente la energía almacenada, entre los que pueden destacarse el refuerzo de la estabilidad y
+calidad del suministro eléctrico, la reducción de vertidos y pérdidas de energía renovable, la menor necesidad
+futura de centrales térmicas de respaldo, la atracción de inversión industrial y tecnológica, la generación de
+empleo directo e indirecto durante la construcción y operación, el incremento de la competitividad energética e
+industrial del territorio, la mejora de la capacidad de integración de renovables ya existentes y futuras y la con-
+tribución a los objetivos climáticos y de descarbonización establecidos por la unión europea y el estado. en este
+contexto, el almacenamiento energético cuenta actualmente con un respaldo normativo y estratégico expreso
+por parte de las administraciones públicas. El Ministerio para la Transición Ecológica y el Reto Demográfico ha
+definido estas infraestructuras como “clave para garantizar la seguridad del suministro y precios más bajos de la
+energía”. por ello, plantear que una comunidad autónoma únicamente debería disponer de capacidad de alma-
+cenamiento equivalente a su porcentaje de consumo eléctrico supondría desconocer el funcionamiento técnico
+del sistema eléctrico moderno, así como los objetivos energéticos nacionales y europeos actualmente vigentes.
+El despliegue de almacenamiento responde a criterios de planificación energética, integración renovable, segu-
+ridad de red y resiliencia del sistema eléctrico en su conjunto, y no exclusivamente al balance instantáneo entre
+generación y consumo de un territorio concreto.
+— Respecto a la fiabilidad del documento ambiental, no se debe cuestionar la rigurosidad de un estudio ambiental
+por un error de apreciación de un edificio en una imagen, sobre todo cuando las conclusiones de los diferentes
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 6/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+informes asociados se respaldan mediante la aplicación de herramientas tangibles y objetivas como programas
+especializados y con proyecciones sobre plano.
+respuesta a la alegación particular:
+— en relación a la discrepancia en el emplazamiento publicado y la posible afección urbanística y ambiental, las
+respuestas son las mismas que las dadas a la Asociación de Vecinos ENLAZE.
+— Respecto a la revisión del procedimiento, el 15 de mayo de 2026 se publicó en el BOPA nuevo anuncio con la
+información correcta y actualizada a la solicitud, iniciándose un nuevo período de información pública.
+— en cuanto a las alegaciones presentadas en el procedimiento de evaluación ambiental, la referente a la ausencia
+de estudio de compatibilidad técnica es la misma que la planteada en las alegaciones de la asociación de Vecinos
+ENLAZE, por lo que la respuesta es la misma. En respuesta a la referente a los requisitos normativos, se mani-
+fiesta que tanto la planta de almacenamiento como su línea eléctrica de evacuación cumplirán en todo momento
+con la normativa técnica y reglamentaria aplicable, por la cual se tendrán en cuenta los requisitos constructivos
+y eléctricos para garantizar la coexistencia de redes técnicas, siendo en todo caso compatible. por otra parte,
+el procedimiento de evaluación ambiental tiene presente la consideración de los posibles efectos acumulativos
+con otras instalaciones proyectadas dentro del ámbito del proyecto, teniendo en cuenta sus posibles afecciones
+paisajísticas, sobre la flora y sobre la radiación electromagnética.
+octavo.—en relación con la alegación relativa al cambio de emplazamiento del proyecto, se advierte que efectivamen-
+te se produce un error en la publicación del proyecto expuesto en el tablón del principado de asturias durante el período
+de información pública, dado que no correspondía al anuncio publicado en el Bopa de fecha 27/10/2025, tal como ma-
+nifestaron los alegantes, por lo que el principado decide, por cuestiones de seguridad jurídica, someter el proyecto con
+su nuevo emplazamiento a un nuevo plazo de observaciones, por lo que se procede a realizar de nuevo el trámite de
+información pública, mediante anuncio publicado en el Bopa en fecha 15/05/2026 (Boletín n.º 92) y la exposición en el
+Tablón del Principado del proyecto modificado consistente en su reubicación a parcelas de uso industrial en el Polígono
+de maqua. durante el nuevo período de información pública se recibieron las siguientes alegaciones:
+La Asociación de Vecinos ENLAZE presenta un nuevo documento de alegaciones, con los mismos puntos que el an-
+terior, añadiendo lo siguiente:
+— respecto a la discrepancia del proyecto en el emplazamiento publicado, señala que, el anuncio en el Bopa
+indica que estará situado en las parcelas con referencias catastrales 5317001TP6351N001YB (Pl. Maqua 601) y
+5317002TP6351N001GB (Pl. Maqua 602) y la línea de evacuación discurre desde las mismas hasta la subesta-
+ción de tabiella. sin embargo, este proyecto fue diseñado en principio para su emplazamiento en las parcelas
+52025A03900087 y 52025A03912088, lo que supone una inconsistencia grave que afecta a la transparencia y
+a la correcta identificación del ámbito territorial del proyecto. Asimismo, en el texto de la disposición se indica
+que este proyecto sustituye al que se sometió a información pública en el BOPA de fecha 30/01/2024, pero el
+documento a consultar sigue siendo el mismo que en aquel momento, lo que impide a los interesados conocer
+con certeza lo que realmente se propone y vulnera el principio de publicidad y participación recogido en la ley
+39/2015 y en el artículo 46 de la Ley 21/2013, de Evaluación Ambiental.
+— En relación a la posible afección urbanística y ambiental, en el apartado 13.2.10 Edificaciones indica: No se esta-
+blece en el PGOU de Gozón distancia mínima hasta edificaciones o viviendas en zonas externas a zona urbana,
+para el caso de industria energética. esto es una excusa, ya que próximo al emplazamiento de la instalación
+existen viviendas, dos ganaderías y una captación de agua de un manantial municipal. El PGO del concejo de
+Gozón fue aprobado el 22 de mayo de 2012 y entró en vigor tras su aprobación en julio de 2015, no pudiendo
+indicar distancia mínima hasta edificaciones o viviendas porque no contempla la instalación de parques de
+baterías.
+— Por último, en la alegación referente a la fiabilidad del documento ambiental, considera que también hay fallos
+del Proyecto Técnico Administrativo que son motivo suficiente para denegar este proyecto de instalación de
+parque de baterías.
+tagenergy spain Investments 1, s. l., presenta las siguientes alegaciones, aportando a su vez las alegaciones que
+ya presentó en el mismo sentido en el procedimiento de evaluación ambiental:
+— Expone que es titular del Proyecto Tabiella BESS 132 kV, de 100 MW de potencia instalada, que cuenta con infor-
+me favorable de impacto ambiental y autorización administrativa previa (aap) otorgadas por la administración
+General del Estado y actualmente está tramitando modificaciones del proyecto para obtener la autorización
+administrativa de construcción. La línea de evacuación/suministro del proyecto Tabiella H-BESS 22 kV genera
+una importante afección sobre las infraestructuras de evacuación/suministro del proyecto Tabiella BESS 132
+kV, que es susceptible de hacerse compatible en la medida en que se establezca la obligación de alcanzar un
+acuerdo con tagenergy para el uso común de las infraestructuras eléctricas, pues el trazado de ambas líneas
+es coincidente en distintos tramos a lo largo de su recorrido y se intensifica la incidencia en el modificado del
+segundo que está en tramitación, sin que se haya realizado un estudio técnico y ambiental detallado, ni se haya
+consensuado o contrastado la información con tagenergy, cuyo proyecto se encuentra en un estado más avan-
+zado y consolidado, además de presentar mayor interés público por su mayor potencia.
+— en virtud de lo anterior, solicita que se imponga como condición previa para el otorgamiento de la aap al pro-
+yecto Tabiella H-BESS 22 kV, que se alcance un acuerdo con Tagenergy para el establecimiento de una solución
+conjunta en lo relativo a las infraestructuras eléctricas de suministro-vertido que viabilice su compatibilidad con
+el proyecto Tabiella BESS 132 kV, todo ello, en virtud del principio de menor impacto ambiental y racionalización
+de las instalaciones exigido por los órganos ambientales y administrativos, que vienen reconociendo la necesi-
+dad de que los proyectos conectados a un mismo punto de la red de transporte compartan infraestructuras y
+por la doctrina jurisprudencial.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 7/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+9 vecinos particulares presentan alegaciones, cada una en un documento independiente, siguiendo todos el mismo
+modelo, solicitando que se dicte resolución denegatoria de evaluación de impacto ambiental y no se otorgue el permiso
+sustantivo de la instalación, en base a los siguientes puntos:
+— ausencia de estudio de Compatibilidad técnica, con idéntico contenido que la alegación presentada en ambas
+ocasiones por la Asociación de Vecinos ENLAZE.
+— Impacto en zonas con protección ambiental, con contenido similar al de la alegación presentada por la aso-
+ciación de Vecinos ENLAZE en ambas ocasiones, añadiendo que la línea de evacuación secciona igualmente la
+canalización del nacimiento del Arrollo de Barreo a la altura del área recreativa, no estando reflejada este cru-
+zamiento en ningún plano.
+— Impacto patrimonial, pues proyectan la línea de alta tensión a través de 4 muros que forman parte del mayor y
+atraviesan unos de los bienes patrimoniales de mayor interés de la parroquia de santiago de ambiedes, como
+es la “Casa del Difuntin”, proponiendo un trazado que demolerá los muros de entrada al recinto, sin mencionar
+su impacto.
+— Capacidad del promotor para la ejecución del proyecto, con idéntico contenido que la alegación presentada por
+la Asociación de Vecinos ENLAZE en ambas ocasiones.
+— Consultas a propietarios directamente afectados, indicando que en el proyecto aparecen un total de 47 fincas
+afectadas por la línea de alta tensión, que en su mayoría no han sido consultados, ni se ha hecho un estudio
+riguroso de afectación de la traza y de posibles alternativas con menor afección ambiental o vecinal y señalando
+que a algunos de los vecinos consultados se les contó que se pretende instalar una fibra óptica, engañando en
+el uso final del proyecto y en las servidumbres a las que serían obligados.
+— necesidad de la instalación, con idéntico contenido que la alegación presentada por la asociación de Vecinos
+ENLAZE en ambas ocasiones.
+— Contexto, haciendo referencia a investigaciones científicas según las cuales una transición energética 100 %
+renovable, manteniendo el consumo actual, es inaceptable, insostenible e inviable, pues la instalación masiva
+de parques de baterías sólo busca el beneficio empresarial, no sustituye al consumo de combustibles fósiles, su
+potencial es finito, requieren de grandes áreas para su instalación, materias primas y metales escasos y que se
+reciclan muy poco, es ambientalmente poco respetuoso, en las zonas rurales está creando más problemas de los
+que dice resolver y avoca al colapso. en asturias, con la instalación de los parques de baterías, se pretende apro-
+vechar una red eléctrica que está sobredimensionada y supondría instalar una capacidad superior al consumo de
+toda españa.
+noveno.—trasladas las alegaciones al promotor, éste respondió a todas las cuestiones planteadas, resumiendo a
+continuación el contenido de las nuevas respuestas.
+Respuesta a la Asociación de Vecinos ENLAZE:
+— en relación a la discrepancia en el emplazamiento publicado, se reitera en la contestación anterior, indicando
+que quedó subsanada con la nueva publicación (Número 92 del BOPA). Y respecto a lo añadido en la segunda
+alegación referente a la falta de consistencia y transparencia, hacen constar su discrepancia, pues por parte
+de la sociedad promotora se están cumpliendo escrupulosamente las normas legales relativas a la publicidad
+y transparencia que rigen para la tramitación de estos proyectos, desconociendo qué motiva a realizar esa
+consideración.
+— en cuanto a la posible afección urbanística y ambiental, se indica que, con la documentación disponible se
+pueden verificar todas las compatibilidades contempladas en el proyecto técnicoadministrativo, así como la co-
+herencia y viabilidad de las actuaciones previstas, así como verificar la compatibilidad urbanística del proyecto
+mediante un informe favorable emitido por el Ayuntamiento de Gozón, tanto para la instalación de almacena-
+miento como para su línea de evacuación. el suelo industrial en el que se ha proyectado la instalación es sobre el
+que la normativa actualmente vigente plantea este tipo de proyectos, cumpliendo el promotor con las exigencias
+legalmente establecidas en el ordenamiento jurídico.
+— Respecto a la fiabilidad del documento ambiental y el Proyecto Técnico Administrativo, la existencia de los fallos
+indicados no son motivo suficiente para denegar este proyecto de instalación de parque de baterías.
+respuesta a tagenergy spain Investments 1, s. l.:
+— Sarvolt 1, S. L., reconoce que la existencia de proyectos en emplazamientos próximos puede generar sinergias
+tanto desde el punto de vista técnico como ambiental y manifiesta que cualquier coordinación en materia de
+infraestructura eléctrica reviste carácter estrictamente potestativo y habrá de articularse, en su caso, en régi-
+men de paridad entre las partes y de forma simultánea e independiente a la tramitación administrativa, a la vez
+que manifiesta su disposición a explorar, de buena fe y dentro del referido marco potestativo, las posibilidades
+de coordinación que pudieran resultar mutuamente beneficiosas, sin perjuicio del desarrollo autónomo de cada
+proyecto.
+— sobre la solicitud de imponer el acuerdo con tagenergy como condición previa para el otorgamiento de la aap,
+se reitera la intención de explorar conjuntamente las vías de colaboración, sin que la disposición al diálogo
+comporte el reconocimiento ni la asunción de obligación alguna, ni puede producir el efecto de supeditar el
+otorgamiento del título habilitante solicitado a la previa conclusión de un acuerdo de naturaleza privada entre
+las partes. la circunstancia de que la traza de las líneas de evacuación discurran próximas, ha sido debidamente
+considerada en el procedimiento de evaluación ambiental, sin que se haya determinado obstáculo alguno a la
+tramitación del proyecto. La jurisprudencia invocada por Tagenergy (STS de 11 de diciembre de 2013 y STS de
+21 de marzo de 2024) avala la conveniencia de compartir infraestructuras cuando ello resulte ambientalmente
+favorable, pero en ningún caso establece que dicha solución conjunta sea jurídicamente obligatoria ni que deba
+articularse como condición previa a la autorización de ninguno de los proyectos. además, tagenergy reconoce
+en su escrito que la modificación no sustancial presentada por dicha sociedad el 4 de diciembre de 2025 inten-
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 8/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+sifica la incidencia a nivel de infraestructura eléctrica, por lo que la afección que ahora invoca deriva, al menos
+parcialmente, de una decisión de configuración adoptada por la propia alegante con posterioridad. Tampoco se
+está de acuerdo con la prevalencia que tagenergy invoca por la diferencia de potencia entre ambos proyectos
+o el mayor grado de tramitación, criterios que no se establecen en el ordenamiento jurídico aplicable, como
+sí existe respecto a la eventual concurrencia entre proyectos en materia de acceso y conexión a la red, que
+cuenta con un cauce propio y reglado. Por último, Tagenergy invoca el artículo 123.2 del R. D. 1955/2000 como
+fundamento de su solicitud, al considerar que la solución de conexión conjunta que propone es coherente con
+dicho precepto, que sin embargo, no resulta de aplicación al presente supuesto, pues se refiere al acuerdo vin-
+culante en relación con el uso compartido de las infraestructuras de evacuación, suscrito por todos los titulares
+de instalaciones con permisos de acceso y de conexión otorgados en una misma posición de línea de llegada a
+la subestación de la red de transporte o distribución, que no es este caso, pues ambos proyectos tienen puntos
+de conexión distintos a tensiones distintas (132 kV y 22 kV).
+respuesta a los 9 vecinos particulares:
+— en cuanto a la ausencia de estudio de compatibilidad técnica, idéntica respuesta a la dada a la asociación de
+Vecinos ENLAZE.
+— respecto al impacto en zonas con protección ambiental, misma respuesta a la dada a la asociación de Vecinos
+ENLAZE, añadiendo, en relación a la afección al Arroyo de Barreo, que, en el trámite de consultas a los órganos
+afectados, CHC emitió informe por el que se establecen las autorizaciones a solicitar, no oponiéndose ni hacien-
+do mención alguna a dicho arroyo, siendo el sentido del informe favorable.
+— respecto al impacto patrimonial, en la tramitación de la línea se ha solicitado por parte de este promotor, trami-
+tación separada para el expediente de autorización administrativa de construcción. en el proyecto constructivo
+se recogerán los condicionados expuestos en el informe de impacto ambiental y la autorización administrativa
+previa sobre la materia en cuestión, para evitar cualquier impacto sobre el patrimonio de la zona, salvaguardan-
+do de este modo el interés cultural de los bienes patrimoniales. además, durante el tiempo que duren las obras,
+se tomarán todas las medidas necesarias para preservar al máximo el estado de los bienes que pudieran verse
+afectados por las mismas, siendo devueltos a su estado original en caso de que sufrieran algún menoscabo.
+— respecto a la capacidad del promotor para la ejecución del proyecto, idéntica respuesta a la dada a la asociación
+de Vecinos ENLAZE.
+— en cuanto a la consulta a propietarios directamente afectados, las gestiones con los propietarios afectados
+se van a llevar a cabo, con un intermediario de la zona, para que se ponga en contacto con los propietarios
+afectados y puedan alcanzarse los acuerdos necesarios para el buen fin del proyecto y para beneficio de todas
+las partes. En último término, aclara que desconoce el hecho alegado sobre “la instalación de la fibra óptica”,
+defendiendo la buena fe de las partes intervinientes en este procedimiento y poniéndose a disposición de los
+vecinos para aclarar cualquier aspecto sobre el que haya podido haber un malentendido.
+— Respecto a la necesidad de esta instalación, misma respuesta a la dada a la Asociación de Vecinos ENLAZE.
+— respecto al contexto, el almacenamiento energético cuenta actualmente con un respaldo normativo y estratégi-
+co expreso por parte de las administraciones públicas. el propio ministerio para la transición ecológica y el reto
+Demográfico ha definido estas infraestructuras como clave para garantizar la seguridad del suministro y precios
+más bajos de la energía. es cierto que la transición energética tiene límites materiales y ambientales y que redu-
+cir el consumo y aumentar la eficiencia son imprescindibles. Sin embargo, de estos hechos no se desprende que
+el almacenamiento energético mediante baterías (Bess) sea una tecnología inviable, insostenible o incapaz de
+contribuir a la sustitución de los combustibles fósiles. Por el contrario, la evidencia científica y técnica disponible
+indica que el almacenamiento constituye una herramienta esencial para integrar una mayor proporción de ener-
+gías renovables en el sistema eléctrico y reducir la dependencia de las centrales térmicas. la mayor parte de
+organismos científicos y técnicos internacionales consideran precisamente el almacenamiento como una de las
+piezas fundamentales para reducir el uso de combustibles fósiles. respecto a la supuesta escasez de materias
+primas, conviene diferenciar entre reservas económicamente explotables, recursos geológicos conocidos y pro-
+ducción anual. las reservas minerales evolucionan continuamente gracias a nuevos descubrimientos, mejoras
+tecnológicas y cambios en la viabilidad económica de su extracción. además, el almacenamiento energético no
+depende exclusivamente del litio. en la actualidad existen diversas tecnologías comerciales o en desarrollo, co-
+mo las baterías de litioferrofosfato (LFP), que no utilizan cobalto ni níquel, las de sodio, las de flujo, el almacena-
+miento hidroeléctrico por bombeo, el almacenamiento térmico o el aire comprimido. por tanto, resulta incorrecto
+presentar el futuro del almacenamiento como una dependencia exclusiva de un único material. asimismo, la
+afirmación de que España necesitaría el 80 % del litio mundial para respaldar las energías renovables carece de
+respaldo en los escenarios elaborados por organismos internacionales como la agencia Internacional de la ener-
+gía (Iea) o la Comisión europea. además, el litio empleado en las baterías no se consume durante su utilización,
+sino que permanece almacenado y puede recuperarse al final de su vida útil mediante procesos de reutilización y
+reciclaje, cuyo desarrollo aumentará progresivamente conforme las primeras generaciones de baterías alcancen
+el final de su servicio. También se sostiene que las energías renovables dependen de grandes cantidades de
+combustibles fósiles para su fabricación, transporte y mantenimiento, por lo que no contribuyen realmente a la
+descarbonización. es cierto que la industria actual todavía utiliza combustibles fósiles en numerosos procesos
+productivos. sin embargo, los análisis de ciclo de vida muestran que la energía empleada en fabricar un panel
+solar o un aerogenerador se recupera en un período relativamente corto, mientras que su producción eléctrica
+libre de emisiones continúa durante varias décadas. Como consecuencia, las emisiones asociadas a la electrici-
+dad renovable son muy inferiores a las derivadas del carbón, el petróleo o el gas natural. es igualmente cierto
+que la electricidad representa aproximadamente una cuarta parte del consumo final de energía y que determi-
+nados sectores industriales presentan dificultades para su electrificación completa. Sin embargo, esta realidad
+no constituye un argumento contra el almacenamiento energético. Precisamente porque la electrificación será
+gradual y coexistirá durante años con otros vectores energéticos, resulta imprescindible disponer de un siste-
+ma eléctrico más flexible, capaz de integrar una mayor producción renovable y reducir el funcionamiento de
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 9/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+las centrales de combustibles fósiles. en este contexto, conviene recordar que una batería no produce energía,
+sino que la almacena. su función consiste en desplazar temporalmente la electricidad generada cuando existe
+abundancia de producción renovable para utilizarla posteriormente cuando la demanda es mayor o cuando dis-
+minuye la generación solar o eólica. Gracias a ello se reducen los vertidos de energía renovable, disminuye la
+necesidad de recurrir a centrales de gas para cubrir la demanda y mejora la estabilidad y seguridad del sistema
+eléctrico. por ello, los principales operadores eléctricos y organismos internacionales consideran el almacena-
+miento como un elemento indispensable para una elevada penetración de energías renovables. la mayor parte
+de los escenarios elaborados por el IpCC no plantean una elección entre reducir el consumo o desplegar alma-
+cenamiento energético, sino la necesidad de combinar ambas estrategias. La eficiencia energética, la reducción
+del despilfarro, la electrificación de los usos posibles, el desarrollo de energías renovables y el almacenamiento
+constituyen medidas complementarias, no excluyentes. En consecuencia, la evidencia científica disponible no
+respalda la afirmación de que el almacenamiento energético mediante baterías sea incompatible con una tran-
+sición sostenible. antes, al contrario, los estudios técnicos coinciden en que el almacenamiento constituye una
+herramienta necesaria para aumentar el aprovechamiento de la generación renovable, reducir la dependencia
+de los combustibles fósiles, mejorar la estabilidad de la red eléctrica y avanzar hacia un sistema energético más
+eficiente y menos intensivo en emisiones, siempre que su implantación se realice con criterios de planificación,
+proporcionalidad y adecuada evaluación ambiental.
+Décimo.—en relación a las alegaciones presentadas, desde esta Consejería se realizan los siguientes análisis y con-
+clusiones, teniendo en cuenta que las cuestiones de carácter ambiental del proyecto ya fueron consideradas y analizadas
+en su Informe de Impacto ambiental (expediente auto/2025/21656//Ia-Ia-0145/2025), publicado en el Bopa de fecha
+07/04/2026:
+— en cuanto a la capacidad del promotor, en primer lugar se debe aclarar que el proyecto objeto de este trámite
+no corresponde a una obra pública, por lo que no es aplicable la clasificación empresaria ni los requisitos esta-
+blecidos para las empresas en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. El promotor sí
+aportó la documentación requerida en el artículo 121 del Real Decreto 1955/2000, que es la normativa aplicable,
+para acreditar la capacidad legal, técnica y económico-financiera para la realización del proyecto, de acuerdo
+con lo siguiente:
+a) Capacidad legal: acreditación de la personalidad jurídica propia mediante la presentación de la escritura
+de constitución de la sociedad, CIF y certificado acreditativo de estar al corriente en el cumplimiento de las
+obligaciones tributarias.
+b) Capacidad técnica: presentan contrato de asistencia técnica para el desarrollo del proyecto objeto de este
+expediente, con una empresa con reconocida experiencia en todas las actividades del sector eléctrico,
+aportando además referencias y relación de medios técnicos y humanos puestos a disposición del cliente.
+c) Capacidad económica: presentan acuerdo en modalidad epC con empresa constructora para llevar a cabo
+la ejecución y financiación del proyecto, aportando datos económicos, cuentas anuales con informe de
+auditoría y referencias de dicha empresa, que garantizan la viabilidad económica financiera del proyecto.
+— en relación a la discrepancia en el emplazamiento entre el indicado en el anuncio publicado y el contenido en el
+proyecto expuesto en el tablón, se subsanó con una nueva publicación en el Bopa y la exposición en el tablón
+del proyecto correspondiente, como se indica en el punto séptimo. no es correcto por lo tanto lo que alega la
+Asociación de Vecinos ENLAZE en su segundo escrito de alegaciones, pues el proyecto de modificó y se adaptó
+para ubicarlo en el nuevo emplazamiento en suelo industrial y la tramitación se inició totalmente para ese nuevo
+emplazamiento, incluyendo la tramitación ambiental, y en la segunda publicación el proyecto expuesto para
+información pública fue el correspondiente al anuncio publicado en el Bopa y al trámite ambiental efectuado, no
+existiendo por lo tanto ninguna inconsistencia, falta de transparencia, ni vulneración.
+— en cuanto a la solicitud de revisión del procedimiento, solicitando la apertura de un nuevo período de alegacio-
+nes una vez subsanado el error, así se hizo, tal como ya se expuso.
+— Respecto a la posible afección urbanística y a infraestructuras existentes, con el objeto de identificar esas afec-
+ciones, el procedimiento de autorización administrativa regulado en el Real Decreto 1955/2000 incluye en su
+artículo 127 la obligación de dar traslado a las distintas Administraciones, organismos o, en su caso, empresas
+de servicio público o de servicios de interés general con bienes y derechos a su cargo que puedan ser afectados
+por la instalación objeto de tramitación, de una separata, para que, en un plazo de treinta días presten su con-
+formidad u oposición a la autorización solicitada. transcurrido dicho plazo sin que hayan contestado, se enten-
+derá la conformidad con la autorización de la instalación. en el punto siguiente de esta resolución se recoge el
+resultado de esta fase de consultas, de la que se concluye que ninguna de las afecciones identificadas supone la
+negativa a que se ejecute la instalación, debiendo eso sí, cumplir los requerimientos establecidos por cada uno
+de ellos, a los que el promotor ha manifestado su conformidad. las afecciones ambientales a su vez han sido
+valoradas en el procedimiento de evaluación ambiental.
+— en relación a la alternativa elegida y su acomodo en relación a la red de transporte de energía eléctrica y el al-
+macenamiento de energía procedente de terceros, hay que señalar que la instalación objeto de este expediente
+tiene como finalidad almacenar energía eléctrica procedente de la red y verterla también a la red, actuando
+como consumidor y generador respectivamente en distintos momentos, de acuerdo con los permisos de acceso
+y conexión concedidos y los procedimientos de operación del sistema. lógicamente esa operación debe hacerla
+de forma que resulte económicamente beneficiosa, al igual que cualquier inversión en instalaciones de genera-
+ción, pero eso no quita que las instalaciones de almacenamiento (no sólo las baterías, también otras tecnologías
+como los bombeos hidráulicos, los sistemas de almacenamiento con sales, etc.) aportan beneficios al sistema
+eléctrico al facilitar su operación y contribuir a su estabilidad, como resultado entre otras cosas de los condicio-
+nantes técnicos que se les exigen para conectarse a la red. por otro lado, la ubicación en relación a la red está
+condicionada por el permiso de acceso y conexión, que se concede en un punto concreto de la red en el que
+existe capacidad disponible publicada por el gestor de la red, que en este caso es red de distribución, hasta el
+que se debe proyectar la infraestructura de conexión, no pudiendo conectarse en un punto diferente de la red.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 10/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+— sobre la necesidad de la instalación en asturias, hay que aclarar en primer lugar que la necesidad de las instala-
+ciones de almacenamiento en el sistema eléctrico peninsular y europeo está recogida en todos los documentos
+de planificación y en la normativa nacional y europea relacionada con el sector eléctrico de los últimos años, de
+modo que este tipo de instalaciones se han declarado de interés público superior, contribuyendo a la salud y la
+seguridad públicas. La ubicación final de las mismas, en Asturias o en otras regiones, está condicionada por la
+existencia de capacidad de conexión de generación a la red en los nudos de la misma, siendo asturias una de
+las zonas de españa donde existía más capacidad disponible, pues a diferencia de otras regiones, el despliegue
+de energías renovables y sobre todo fotovoltaica en los últimos años ha sido menor. y en cualquier caso, sí que
+existe la necesidad de desarrollo de red y de instalaciones de generación y almacenamiento en asturias para
+posibilitar las inversiones industriales y de consumo que la región necesita para mantener su actividad econó-
+mica y las demandas solicitadas por particulares y empresas.
+— respecto a la posible afección urbanística derivada de la distancia a viviendas, ganaderías y una captación de
+agua de un manantial municipal, no contemplada en el PGO, por un lado el Ayuntamiento de Gozón emitió in-
+forme de compatibilidad urbanística para la planta una vez analizadas sus características y la parcela en la que
+se proyecta. por otro lado, si bien no existe una distancia mínima a viviendas y ganaderías, más allá de las dis-
+tancias de seguridad de los reglamentos de instalaciones y líneas de alta tensión a puntos accesibles, inferiores
+a 10 metros, las viviendas más cercanas están a más de 100 m de distancia y las estabulaciones más próximas
+se sitúan a 200 m y en cualquier caso el promotor deberá justificar y adoptar las medidas necesarias para que
+no se superen en ellas los niveles de ruidos y campos electromagnéticos establecidos en la normativa aplicable,
+así como las medidas de seguridad exigidas por los distintos organismos implicados.
+— En relación a la existencia de fallos del Proyecto Técnico Administrativo, que son motivo suficiente para dene-
+gar este proyecto de instalación de parque de baterías, se considera que el proyecto define suficientemente
+la instalación a efectos administrativos y cumple con la finalidad y contenido requerido en los reglamentos
+técnicos de instalaciones y líneas de alta tensión y en particular en las instrucciones técnicas complementarias
+correspondientes.
+— Respecto a la solicitud de TAGENERGY de que se imponga como condición para el otorgamiento de esta au-
+torización, que se alcance un acuerdo para el establecimiento de una solución conjunta en lo relativo a las
+infraestructuras de conexión de ambos proyectos, no es aplicable la referencia al acuerdo que deben alcanzar
+los titulares de proyectos de generación que comparten punto de conexión a la red, que no es este caso, pues
+los dos proyectos tienen puntos de conexión diferentes, en dos posiciones en dos niveles de tensión distintos
+de la misma subestación. no obstante, sí se exigirá a ambos promotores el cumplimiento de las distancias re-
+glamentarias establecidas en el reglamento de líneas eléctricas de alta tensión. pero hay que tener en cuenta
+en ese punto que los dos proyectos se están tramitando en administraciones diferentes, pues los proyectos de
+generación de más de 50 MW de potencia instalada, como el promovido por TAGENERGY, son competencia de
+la Administración General del Estado (AGE), por lo que la justificación de dicho cumplimiento se comprobará
+durante la tramitación de la autorización administrativa de construcción de ambos, en un caso en base al pro-
+yecto directamente presentado en esta Consejería y en el otro en la fase de consultas realizadas por la AGE a
+los organismos afectados.
+— En relación al cruce con el Arrollo de Barreo, remitida la separata a Confederación Hidrográfica del Cantábrico,
+ésta no ha señalado esa deficiencia, pero sí ha establecido condiciones y la necesidad de solicitar autorización
+administrativa en el ámbito de sus competencias.
+— En cuanto al impacto patrimonial sobre la “Casa del Difuntín”, tanto el informe del Servicio de Instituciones Cul-
+turales y protección patrimonial, como la Comisión permanente del Consejo de patrimonio Cultural de asturias
+en sesión de 20/11/2025, establecen que no se prevé que de la construcción de la planta de almacenamiento
+“Tabiella H-Bess” (Expte IA-IA- 0145/2025), se deriven afecciones a bienes del patrimonio cultural. No obstante,
+se comprobará la existencia de esta afección en el proyecto de ejecución que presente el promotor para solicitar
+la autorización administrativa de construcción y de ser así se solicitará nuevo informe al servicio de Institucio-
+nes Culturales y protección patrimonial.
+— Respecto a la falta de consultas a los propietarios directamente afectados, el Real Decreto 1955/2000 define
+detalladamente el procedimiento administrativo a seguir para poder autorizar las instalaciones incluidas en el
+ámbito de la ley del sector eléctrico, sin que para la autorización administrativa previa y de construcción se
+requiera una notificación particular a los vecinos o propietarios. Dicha notificación sí se haría en caso de trami-
+tar la declaración de utilidad pública a los vecinos afectados de acuerdo con la relación de bienes y derechos
+afectados por la solicitud, en concreto, del reconocimiento de la utilidad pública. pero en este procedimiento
+no se está tramitando la declaración de utilidad pública, que por otro lado actualmente no es posible solicitar
+para instalaciones de almacenamiento stand-alone mediante baterías. precisamente al no poder solicitarse la
+declaración de utilidad pública, resulta imprescindible que el promotor del proyecto llegue a acuerdos con todos
+los propietarios de fincas afectadas por la imposición de servidumbres, lo que deberá hacer de forma paralela e
+independiente de la tramitación del expediente de autorización administrativa de construcción, que no conlleva
+consultas a los propietarios afectados.
+— en cuanto a la necesidad del proyecto en el contexto energético actual, el pnIeC ya establecía unos objetivos de
+almacenamiento para el año 2030 que están lejos de alcanzarse. Ante esta situación y para facilitar su implan-
+tación, el Reglamento (UE) 2022/2577 del Consejo de 22 de diciembre de 2022 por el que se establece un marco
+para acelerar el despliegue de energías renovables, establece que los activos de almacenamiento son de interés
+público superior y contribuyen a la salud y la seguridad públicas y el Real Decreto-ley 7/2025, de 24 de junio,
+por el que se aprueban medidas urgentes para el refuerzo del sistema eléctrico, las considera necesarias para
+mejorar la resiliencia y robustez del sistema eléctrico, a la vez que pueden reducir costes al permitir una integra-
+ción más eficiente de la energía en cada momento y permitir la descarbonización de la economía. Por otro lado,
+la red eléctrica en asturias no sólo no está sobredimensionada, sino que de no llevarse a cabo las actuaciones
+planificadas para los próximos años tanto en la red de transporte como de distribución, no será posible que se
+implanten nuevas industrias con consumos eléctricos importantes ni que las existentes ejecuten los proyectos
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 11/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+de descarbonización que tienen previstos, con consecuencias económicas y sociales importante para la región.
+no se analiza aquí si otro modelo es posible, sino la tramitación de este proyecto en el modelo existente en la
+actualidad.
+— respecto a la posible consideración como interesados en el expediente de los vecinos particulares que presen-
+taron alegaciones en los dos trámites de información pública, procede señalar que, de acuerdo con lo dispuesto
+en el artículo 83.3 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Adminis-
+traciones públicas, la comparecencia en el trámite de información pública no otorga, por sí misma, la condición
+de interesado, debiendo ser acreditado, en su caso, el cumplimiento de lo establecido en el artículo 4 de mismo
+texto legal.
+— siendo las alegaciones formuladas en ambos períodos de información pública sustancialmente idénticas o ha-
+biéndose presentado con anterioridad en el procedimiento de evaluación ambiental y estando consideradas en
+la resolución por la que se formula el Informe de Impacto ambiental, no parece que se produjera indefensión
+alguna provocada por el error de publicación del proyecto, toda vez que, todos los interesados han podido con-
+sultar el texto correcto sin especial dificultad.
+— por otra parte, las razones de legalidad y seguridad jurídica que aconsejaron una nueva publicación, compor-
+taron una inevitable dilación en los plazos de resolución que no pueden perjudicar los legítimos intereses del
+solicitante.
+undécimo.—de conformidad con lo dispuesto en la ley 21/2013, de 9 de diciembre, de evaluación ambiental, este
+tipo de actuación está sujeta a evaluación de impacto ambiental simplificada. Por Resolución de 23/03/2026 de la Con-
+sejería de Movilidad, Medio Ambiente y Gestión de Emergencias, se formula Informe de Impacto Ambiental (expediente
+auto/2025/21656//Ia-Ia-0145/2025), que considera ambientalmente viable la alternativa 1 de entre las propuestas
+en el documento ambiental, recogidas en el anexo I de dicha resolución, siempre que cumplan las determinaciones,
+medidas y/o condiciones previstas en dicho documento ambiental y en las aportaciones efectuadas por las administra-
+ciones durante la fase de consultas en lo relativo a sus competencias sectoriales y, por ello, no debe ser sometido a una
+evaluación ambiental ordinaria. en relación a la línea subterránea de evacuación, para mejorar la aceptación vecinal del
+proyecto, se recomienda la tramitación de un modificado del proyecto que evite la ocupación en parcelas edificadas y
+en parcelas situadas en núcleo rural.
+a esos efectos, en la resolución indicada se establecen requerimientos adicionales en relación con la vulnerabilidad
+del proyecto, la calidad acústica, los campos electromagnéticos, la seguridad industrial, la hidrología, la calidad del agua,
+los residuos, la contaminación lumínica, el cambio climático y el vallado e integración paisajística, que deberán garan-
+tizarse por parte del promotor en las fases de ejecución, explotación y desmantelamiento según se especifica en cada
+caso. en particular, se deben cumplir los siguientes requerimientos:
+— desde el punto de vista de la vulnerabilidad del proyecto, la autorización del mismo requerirá un estudio geotéc-
+nico previo que determine las condiciones de cimentación de las instalaciones para evitar los riesgos geológicos
+e inestabilidad. el promotor deberá elaborar y registrar en el servicio de emergencias del principado de asturias
+(sepa) un plan de autoprotección conforme a la normativa vigente. la planta dispondrá de hidrantes o sistema
+de abastecimiento de agua para servicios de extinción de incendios, garantizando un suministro de caudal y
+presión adecuados y accesible para uso de los servicios de bomberos en caso de emergencia. en caso de no dis-
+poner de toma de agua a red, se deberá instalar una red seca para uso exclusivo de bomberos. esta instalación
+deberá mantenerse operativa y en óptimas condiciones durante toda la vida útil del proyecto. el diseño del vial
+de acceso y los viales internos de la planta garantizará el acceso y maniobrabilidad de camiones de bomberos a
+todos los sae (sistemas de almacenamiento estacionarios de energía). las distancias entre contenedores será
+suficiente para evitar que en caso de incendio en uno de ellos, el fuego se propague a otros próximos. El cierre
+perimetral de seguridad actuará además como muro cortafuegos. los módulos de los sistemas de almacena-
+miento dispondrán de los sistemas de prevención y protección frente a riesgo de incendios y explosión indicados
+y cumplirán los estándares técnicos que se señalan. Con carácter previo a la puesta en servicio de la instalación
+el responsable técnico de la planta justificará ante el órgano competente en materia de industria: el cumpli-
+miento de los estándares técnicos señalados, los procedimientos para inspeccionar y probar rutinariamente las
+alarmas y los sistemas de protección contra incendios y de fuga térmica y el plan de autoprotección.
+En fecha 09/06/2026, el promotor presenta el estudio geotécnico solicitado, realizado sobre las parcelas con
+referencias catastrales 5317001TP6351N001YB y 5317002TP6351N001GB del polígono industrial de Maqua, en el
+que se recogen las conclusiones de todos aquellos aspectos que, desde el punto de vista geológico-geotécnico,
+afectan al proyecto y una serie de recomendaciones para la construcción del parque de baterías descrito en el
+proyecto.
+— respecto a la calidad acústica, se deberán implementar las medidas necesarias para garantizar el cumplimiento
+de toda la normativa aplicable en lo referente a zonificación acústica, objetivos de calidad y emisiones acústicas.
+Se minimizarán las emisiones de las fuentes de ruido, se identificarán aquellas que suponen mayor contribución,
+se elegirán los equipos con menor firma acústica y, en caso de que puedan producir vibraciones, se instala-
+rán sobre bancadas o en sistemas dotados con elementos absorbentes. durante la fase de funcionamiento los
+equipos estarán en buen estado de mantenimiento. en caso de que se detecte una superación de los niveles
+permitidos, se procederá a la adopción de las medidas correctoras necesarias, mediante la insonorización de los
+equipos causantes, procediendo en caso necesario a la paralización total o parcial de las instalaciones hasta que
+se restablezcan los niveles dentro de los límites legales.
+— En relación con los campos electromagnéticos, en ausencia de otra normativa específica, se adoptará como
+referencia el anexo II Límites de exposición a las emisiones radioeléctricas del R. D. 1066/2001, en el que se
+establecen las condiciones de protección del dominio público radioeléctrico y medidas de protección sanitaria en
+el que se establecen las restricciones y valores de referencia para campo eléctricos, magnéticos y electromag-
+néticos. en caso de detectarse una superación de los valores límites o de referencia de la normativa indicada, se
+adoptarán las medidas correctoras necesarias para su atenuación o se eliminarán las causas que los producen.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 12/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+— respecto a la seguridad industrial se cumplirán los reglamentos de alta y baja tensión y el de seguridad contra
+incendios en establecimientos industriales.
+— en cuanto a la hidrología, se deberán tomar medidas de diseño técnico (plataformas o cubetos de retención, sis-
+tema de drenaje y balsa o depósito de recogida) que garanticen la recogida de las aguas generadas en sucesos
+de extinción que se integrarán en el proyecto constructivo, asegurando así una protección eficaz de los acuíferos
+y masas de agua superficiales y subterráneas.
+— en relación con la calidad del agua, no se producirán afecciones de infraestructuras dedicadas al abastecimiento
+de agua de consumo a la población. se adoptarán las medidas necesarias para que no se produzcan afeccio-
+nes a la concesión de aguas de manantial margalina y para preservar la calidad de las aguas subterráneas y
+superficiales.
+— en cuanto a los residuos, los generados, tanto en fase de construcción como de funcionamiento, se gestionarán
+de acuerdo a la normativa aplicable. Las baterías de ion-litio, al final de su vida útil, se gestionarán de acuerdo
+con la jerarquía de residuos y los residuos finales conforme el Real Decreto 106/2008 sobre pilas y acumuladores
+y la gestión ambiental de sus residuos.
+— en relación a la posible contaminación lumínica, en caso de disponer de instalación de iluminación se asegurará
+la utilización de lámparas de bajo consumo y alta eficiencia energética, la instalación de iluminación direccional
+dirigida al suelo, que limite la dispersión de la luz y se usarán temperaturas de color que minimicen el impacto
+sobre la fauna y el medio ambiente.
+— respecto al cambio climático, el aislamiento de los interruptores y las celdas del centro de transformador se
+realizará preferentemente con aislantes distintos al SF6, con menor potencial de generación de gases de efecto
+invernadero. en caso de utilización de este aislante la instalación deberá disponer de un control semestral de
+fugas de este gas. Finalizada la vida útil de la instalación el SF6 será gestionado como residuo peligroso ante
+gestor autorizado.
+— En cuanto al vallado de la instalación y la integración paisajística, en las superficies no utilizadas dentro del perímetro
+de la instalación se establecerá una cubierta vegetal, que será objeto de mantenimiento. la instalación deberá contar
+con un cierre perimetral de seguridad y se implantará un apantallamiento vegetal en todo su perímetro para facilitar
+la integración paisajística, preferentemente con especies autóctonas de hoja perenne, o bien otras especies de hoja
+perenne. Los equipos exteriores (contenedores, edificio del centro de seccionamiento, etc.) y los cerramientos de la
+instalación, serán de colores neutros, acordes con el entorno.
+además, para realizar el seguimiento de los efectos ambientales del proyecto, se seguirá lo establecido al respecto
+en el Documento Ambiental, a fin de garantizar el cumplimiento de las indicaciones y medidas protectoras y correctoras
+contenidas en dicho documento y en el Informe de Impacto ambiental.
+en el primer año de funcionamiento de la instalación se presentará ante el órgano ambiental:
+— Campaña de medición acústica en horarios diurno y nocturno en los puntos residenciales que pueda presentar
+mayor afección acústica, para determinar la incidencia de la instalación en relación con los valores límites de
+emisión y los objetivos de calidad acústica.
+— Campaña de medición de densidad de corriente, intensidad del campo eléctrico, magnético e inducción magné-
+tica (μT) en límite de parcela y justificación cumplimiento valores de referencia en posibles receptores.
+— Reportaje fotográfico de la instalación y de los apantallamientos vegetales.
+la conclusión del análisis técnico incluido en la resolución señala que, visto lo expuesto y teniendo en cuenta las di-
+ferentes normativas sectoriales de aplicación, las observaciones planteadas por las administraciones públicas durante la
+fase de consultas en lo relativo a sus competencias sectoriales y las alegaciones recibidas por las personas interesadas,
+se concluye que con las medidas recogidas en el documento ambiental y en el Informe de Impacto ambiental se alcan-
+zará una significativa mitigación de los posibles impactos, que permitirá proporcionar una protección efectiva del medio
+ambiente. por tanto, no resultaría necesario someterlo al procedimiento de evaluación de impacto ambiental ordinaria
+prevista en la ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+Duodécimo.—Con fecha de entrada en esta Consejería el 13/01/2026 sarvolt 1, s. l., presenta solicitud de separa-
+ción de autorizaciones previa y de construcción.
+Décimo tercero.—Cumplidos los trámites reglamentarios regulados en el título VII del real decreto 1955/2000, de
+1 de diciembre, se han realizado las oportunas comprobaciones y análisis de la documentación técnica, alegaciones e
+informes presentados.
+Fundamentos de derecho
+Primero.—es competente esta Consejería para resolver el presente expediente, en virtud de las atribuciones que en
+esta materia le vienen conferidas por el ordenamiento jurídico vigente, artículo 38 de la ley del principado de asturias
+6/1984, de 5 de julio, del Presidente y del Consejo de Gobierno, en relación con el artículo 5.4 del Decreto 22/2023,
+de 31 de julio, del presidente del principado de asturias, de reestructuración de las Consejerías que integran la admi-
+nistración de la Comunidad autónoma, en su redacción dada por el decreto 23/2025, de 16 de abril, del presidente del
+Principado de Asturias, de quinta modificación de aquél, el Decreto 49/2025, de 29 de abril, por el que se establece la es-
+tructura orgánica básica de la Consejería de Ciencia, Industria y empleo, y teniendo en cuenta que mediante resolución
+de 19 de mayo de 2025, de la Consejería de Ciencia, Industria y empleo, se delega en la persona titular de la dirección
+General de Energía y Minería la competencia para resolver el referido expediente.
+segundo.—reglamento (ue) 2022/2577 del Consejo de 22 de diciembre de 2022 por el que se establece un marco
+para acelerar el despliegue de energías renovables, según el cual los activos de almacenamiento son de interés público
+superior y contribuyen a la salud y la seguridad públicas, al ponderar los intereses jurídicos de cada caso, a efectos del
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 13/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+artículo 6, apartado 4 y el artículo 16, apartado 1, letra c), de la directiva 92/43/Cee del Consejo, el artículo 4, apartado
+7, de la directiva 2000/60/Ce del parlamento europeo y del Consejo y el artículo 9, apartado 1, letra a), de la directiva
+2009/147/Ce del parlamento europeo y del Consejo.
+Tercero.—reglamento (ue) 2023/1542 del parlamento europeo y del Consejo, de 12 de julio de 2023, relativo a las
+pilas y baterías y sus residuos y por el que se modifican la Directiva 2008/98/CE y el Reglamento (UE) 2019/1020 y se
+deroga la directiva 2006/66/Ce.
+Cuarto.—ley 39/2015, de 1 de octubre, del procedimiento administrativo Común de las administraciones públicas.
+Quinto.—la ley 24/2013, de 26 de diciembre, del sector eléctrico, establece que las instalaciones de almacenamien-
+to de energía eléctrica forman parte de las actividades destinadas al suministro de energía y sus titulares son las perso-
+nas físicas o jurídicas que poseen instalaciones en las que se difiere el uso final de electricidad a un momento posterior a
+cuando fue generada, o que realizan la conversión de energía eléctrica en una forma de energía que se pueda almacenar
+para la subsiguiente reconversión de dicha energía en energía eléctrica.
+sexto.—el real decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribu-
+ción, comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que la desa-
+rrolla y el real decreto 1183/2020, de 29 de diciembre, de acceso y conexión a las redes de transporte y distribución
+de energía eléctrica.
+séptimo.—el real decreto 337/2014, de 9 de mayo, por el que se aprueban el reglamento sobre condiciones técnicas
+y garantías de seguridad en instalaciones eléctricas de alta tensión y sus Instrucciones técnicas Complementarias ItC-
+rat-01 a 23, el real decreto 223/2008, de 15 de febrero, por el que se aprueban el reglamento sobre condiciones téc-
+nicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas complementarias ItC-lat
+01 a 09, el real decreto 842/2002, de 2 de agosto, por el que se aprueba el reglamento electrotécnico para baja tensión
+y sus instrucciones complementarias, así como la demás normativa y directrices vigentes que sean de aplicación.
+octavo.—la ley 21/2013, de 9 de diciembre, de evaluación ambiental, la ley del principado de asturias 1/2001, de 6
+de marzo de patrimonio Cultural y ley del principado de asturias 4/2021, de 1 de diciembre, de medidas administrativas
+urgentes.
+noveno.—por su parte, el real decreto-ley 23/2020, de 23 de junio, por el que se aprueban medidas en materia de
+energía y en otros ámbitos para la reactivación económica establece que “…los titulares de permisos de acceso para
+instalaciones de generación de energía eléctrica que sean otorgados desde la entrada en vigor de este real decreto-ley
+deberán cumplir los hitos administrativos previstos en el apartado b), computándose los plazos desde la fecha de obten-
+ción de los permisos de acceso”
+a estos efectos, el punto 3 de dicho apartado b) establece un plazo de 34 meses para la obtención de la autorización
+administrativa previa. Este plazo aplicado al caso que nos ocupa, habría finalizado el 23 de junio de 2026.
+Décimo.—Que sin perjuicio de lo referido en el punto anterior, no podemos obviar tal y como se explicaba en los an-
+tecedentes de hecho, que el procedimiento para el otorgamiento de la autorización es un procedimiento largo y complejo
+y sujeto a eventuales incidencias no previstas. en ese sentido la apertura de un nuevo plazo de información pública,
+derivado de una inadecuada publicación inicial del proyecto, si bien respondía a razones de legalidad y seguridad jurídi-
+ca, comportaba a su vez una dilación que no debería de perjudicar las legítimas expectativas del solicitante a resolver
+en el plazo máximo establecido al efecto o, en su caso, a otorgar efectos administrativos retroactivos a la autorización,
+siempre que sean compatibles con el ordenamiento jurídico y no se lesionen derechos de terceros.
+en esta línea se enmarca el artículo art. 39.3 ley 39/2015, de 1 de octubre de procedimiento administrativo Común,
+de las administraciones públicas, al disponer:
+3. Excepcionalmente, podrá otorgarse eficacia retroactiva a los actos cuando se dicten en sustitución de actos anulados,
+así como cuando produzcan efectos favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya
+en la fecha a que se retrotraiga la eficacia del acto y ésta no lesione derechos o intereses legítimos de otras personas.
+en el supuesto que nos ocupa, consta en el expediente que los supuestos de hecho necesarios para la autorización,
+ya se podrían considerar acreditados a fecha 23 de junio de 2026, si bien el procedimiento se alargó por razones de
+seguridad jurídica.
+Por otra parte, otorgar la autorización ajustada a los plazos fijados en el Real Decreto-ley 23/2020, de 23 de junio,
+no lesiona derechos ni intereses legítimos de terceros.
+Vistos los antecedentes de hecho y fundamentos jurídicos citados, por la presente,
+resuelVo
+Primero.—otorgar la autorización administrativa previa a sarvolt 1, sociedad limitada, con efectos de 23 de junio de
+2026, para la siguiente instalación eléctrica:
+Instalación:
+planta de almacenamiento energético stand alone tabiella H-Bess 22 kV consistente en:
+— Parque de baterías de ión-litio con una potencia instalada de 9,635 MW (la potencia evacuada no podrá superar
+los 8,8 MW) y una capacidad de almacenamiento de 38,76 MWh (4 horas), formado por 2 bloques de potencia
+(power station), cada uno con 2 inversores de 2.408,75 kVA, 1 transformador de 5 MVA con relación de transfor-
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 137 de 17-VII-2026 14/14
+https://miprincipado.asturias.es/bopa
+28950-6202
+.dóC
+mación 22/0,6 kV y refrigeración ONAN/KNAN y las celdas de protección. A cada inversor se conectan 26 racks
+de baterías contenerizados de dimensiones 1040.5x270x1192mm cada uno.
+— Edificio de control y almacén, de tipo prefabricado, que albergará también el transformador de servicios auxilia-
+res de la planta de 250 kVA.
+— Centro de seccionamiento, en edificio prefabricado, con dos celdas de línea para la entrada de las líneas de alta
+tensión desde el parque de baterías, celda de protección del transformador de servicios auxiliares, celda de línea
+de reserva y celda de línea de salida hacia la subestación Tabiella, todas ellas de 24 kV de nivel de aislamiento.
+En el mismo edificio se instalarán los sistemas de control y monitorización y los servicios auxiliares.
+— Línea subterránea de alta tensión de 22 kV de simple circuito con 2 conductores por fase, con conductor de
+aluminio tipo RHZ1 18/30 kV 3x2x240 Al+H25, directamente enterrada, excepto en cruzamientos y bajo vial que
+irá entubada, con una longitud de 4.596 metros, desde el centro de seccionamiento hasta el edificio de celdas
+de 22 kV de la subestación Tabiella, perteneciente a HC.
+emplazamiento: el parque de baterías y el centro de seccionamiento estarán situados en las parcelas con referen-
+cias catastrales 5317001TP6351N001YB (Pl. Maqua 601) y 5317002TP6351N001GB (Pl. Maqua 602), en el Polígono de
+Maqua, concejo de Gozón y la línea de evacuación discurre desde las mismas hasta la subestación de Tabiella, en el
+concejo de avilés.
+Objeto: Almacenamiento de energía eléctrica para optimizar su uso, mejorar la eficiencia en el suministro eléctrico y
+favorecer la penetración de las energías renovables en el mix de generación.
+presupuesto: 8.931.250,19 €.
+segundo.—en el plazo máximo de diez meses deberá ser solicitada la autorización administrativa de construcción,
+acompañada del proyecto de ejecución que cumpla los condicionantes establecidos en los informes recibidos y traslada-
+dos al promotor, de las distintas administraciones, organismos y empresas de servicio público o de servicios de interés
+general afectadas, además de los condicionantes establecidos en la resolución de 23/03/2026 de la Consejería de movi-
+lidad, Medio Ambiente y Gestión de Emergencias, por la que se formula Informe de Impacto Ambiental y las modificacio-
+nes necesarias para asegurar la compatibilidad con las infraestructuras existentes y autorizadas en la zona, producién-
+dose la caducidad de la autorización administrativa previa si transcurrido dicho plazo aquella no ha sido solicitada.
+Tercero.—la presente autorización lo es únicamente a efectos administrativos, dejando a salvo los derechos y obli-
+gaciones de carácter civil, se otorga sin perjuicio de tercero y no dispensa en modo alguno de la necesaria obtención
+por parte del titular de la instalación de cualesquiera otras autorizaciones, concesiones, licencias, permisos, contratos o
+acuerdos que la legislación vigente establezca con carácter preceptivo y en especial las relativas a ordenación del terri-
+torio, urbanismo y medio ambiente, debiendo tener en cuenta en particular las medidas y condiciones introducidas en
+el Informe de Impacto ambiental.
+oviedo, a 9 de julio de 2026.—el Consejero de Ciencia, Industria y empleo, p. d., resolución de 19/05/2025 (Bopa
+de 23 de mayo), el Director General de Energía y Minería.—Cód. 2026-05982.
