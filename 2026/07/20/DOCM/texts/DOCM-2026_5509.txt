@@ -1,0 +1,476 @@
+AÑO XLV Núm. 136 20 de julio de 2026 27726
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Hacienda, Administraciones Públicas y Transformación Digital
+Resolución de 14/07/2026, de la Secretaría General, por la que se dispone la publicación del convenio de
+colaboración entre la Junta de Comunidades de Castilla-La Mancha y la Universidad de Castilla-La Mancha
+para el fomento de la sostenibilidad software. [2026/5509]
+La Consejería de Hacienda, Administraciones Públicas y Transformación Digital de la Junta de Comunidades de
+Castilla-La Mancha y la Universidad de Castilla-La Mancha han formalizado, con fecha 13/07/2026, un Convenio
+de colaboración entre la Junta de Comunidades de Castilla-La Mancha y la Universidad de Castilla-La Mancha, a
+través de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital, para reforzar y ampliar
+las capacidades necesarias para abordar la sostenibilidad del software como un factor estratégico, relevante y
+diferenciador en las aplicaciones software de la Junta de Comunidades de Castilla-La Mancha, cuyo texto se recoge
+como anexo a esta resolución, esta Secretaría General ha resuelto disponer su publicación en el Diario Oficial de
+Castilla-La Mancha.
+Toledo, 14 de julio de 2026
+La Secretaria General
+MACARENA SÁIZ RAMOS
+
+AÑO XLV Núm. 136 20 de julio de 2026 27727
+Anexo
+Convenio entre la Junta de Comunidades de Castilla-La Mancha y la Universidad de Castilla-La Mancha para el
+fomento de la sostenibilidad software.
+Reunidos
+De una parte, D. Juan Alfonso Ruiz Molina, en su calidad de Consejero de Hacienda, Administraciones Públicas
+y Transformación Digital de la Junta de Comunidades de Castilla-La Mancha (en adelante ‘JCCM’), en virtud del
+Decreto 104/2023, de 25 de julio, por el que se establece la estructura orgánica y competencias de la Consejería de
+Hacienda, Administraciones Públicas y Transformación Digital y Presidente de la Agencia de Transformación Digital
+de Castilla-La Mancha.
+De otra parte, en su calidad de Rector de la Universidad de Castilla–La Mancha, el Excelentísimo y Magnífico D.
+José Julián Garde López–Brea, con domicilio a efectos del presente convenio en calle Altagracia nº 50, C.P. 13071
+Ciudad Real, Universidad de Castilla–La Mancha (en adelante ‘UCLM’), nombrado por Decreto 97/2024, de 23 de
+diciembre (D.O.C.M. nº 251 de 30 de diciembre de 2024), de la Consejería de Educación, Cultura y Deportes, de
+conformidad con las facultades que tiene atribuidas por el art. 50 de la Ley Orgánica 2/2023, de 22 de marzo, del
+Sistema Universitario y en virtud del Acuerdo del Consejo de Gobierno de la Universidad de Castilla-La Mancha
+de fecha 27/03/2025 (D.O.C.M nº 67 de 7/04/2025), por el que se delega la competencia de aprobación de los
+convenios de colaboración y cooperación académica y de investigación.
+Ambas partes se reconocen mutuamente capacidad jurídica suficiente para suscribir el presente Convenio, y a tal
+efecto
+Exponen
+Que la Consejería de Hacienda, Administraciones Públicas y Transformación Digital tiene entre sus funciones la
+dirección, gestión y seguimiento de las actuaciones en materia de tecnologías de la información en la JCCM, así
+como promover la implantación de la sociedad de la información en todos los ámbitos de la actividad económica
+y social, en coordinación con el resto de órganos de la Administración Regional y de otras Administraciones
+Públicas.
+Que la UCLM tiene entre sus fines fundamentales el desarrollo científico, técnico, cultural y social de la Comunidad
+de Castilla-La Mancha, así como la difusión y la valoración y la transferencia del conocimiento al servicio de la
+ciencia, de la técnica y de la cultura, de la calidad de vida y del desarrollo económico, promoviendo el desarrollo
+tecnológico y artístico, la transferencia de la tecnología y la innovación como aplicación de los resultados de la
+investigación, procurando la mayor proyección social de sus actividades, mediante el establecimiento de cauces
+de colaboración, convenios, contratos y estructuras que instrumenta la Ley Orgánica 2/2023 de 22 de marzo, del
+Sistema Universitario, BOE núm. 70, de 23/03/2023, con el fin de asistencia a la sociedad, con el objeto de favorecer
+el progreso social, económico y cultural y contribuir a la mejora del sistema educativo a través del fomento de los
+medios tecnológicos más avanzados.
+Que las Tecnologías de la Información y las Comunicaciones (TIC) se han consolidado como un pilar esencial
+de la sociedad actual, sustentando una parte significativa de las actividades económicas, científicas y sociales, y
+facilitando la automatización, optimización y digitalización de procesos en prácticamente todos los sectores. Sin
+embargo, el sector de las TIC’s, dentro del cual se encuentra el desarrollo de software, es un gran consumidor de
+energía. Esta situación se ha visto notablemente agudizada en los últimos años como consecuencia de la expansión
+y adopción masiva de la Inteligencia Artificial, que requiere infraestructuras computacionales de alta capacidad y
+un uso intensivo de recursos energéticos. En este contexto, resulta necesario promover enfoques de sostenibilidad
+software que integren criterios que aseguren que este escenario sea sostenible a largo plazo.
+Que la Consejería de Hacienda, Administraciones Públicas y Transformación Digital está acometiendo, desde
+la Agencia de Transformación Digital, y de acuerdo con su estrategia marcada para el periodo 2023-2027, en el
+apartado de contexto estratégico se pone el acento en la sostenibilidad. La relación de las tecnologías digitales
+y estos objetivos de desarrollo sostenible es amplia, desde las consideraciones energéticas sobre el consumo de
+energía hasta el uso de aquéllas como una herramienta transversal.
+
+AÑO XLV Núm. 136 20 de julio de 2026 27728
+Además, hay que enmarca este convenio en uno de los puntos de decálogo de actuaciones de la propia Agencia:
+9: Sostenibilidad Digital:
+La digitalización sostenible es crucial para el avance de las sociedades modernas al combinar eficiencia con
+responsabilidad ambiental. Al adoptar prácticas digitales sostenibles, no solo optimizamos recursos y reducimos
+residuos, sino que también fomentamos la innovación para un equilibrio entre el progreso tecnológico y la preservación
+del medio ambiente, beneficiando tanto a las generaciones actuales como a las futuras. La Unión Europea está
+incrementando sus exigencias en prácticas sostenibles, y es crucial adoptar una perspectiva sostenible de manera
+anticipada, especialmente en acciones de largo plazo, para cumplir con futuras obligaciones y garantizar el respeto
+al medio ambiente.
+Por otro lado, resulta fundamental que las empresas líderes del sector tecnológico que concurran a licitaciones
+públicas promovidas por la Junta de Comunidades de Castilla-La Mancha incorporen de manera explícita criterios
+de sostenibilidad software en sus propuestas. En este sentido, se considera necesario avanzar en la integración de
+requisitos y medidas relacionados con la sostenibilidad software en los pliegos de contratación pública, con el fin de
+fomentar el desarrollo y la adopción de soluciones software más sostenibles.
+Asimismo, resulta imprescindible promover una mayor concienciación entre las empresas dedicadas al desarrollo
+de software respecto al impacto medioambiental asociado a los productos software que diseñan, desarrollan y
+mantienen y a la importancia de realizar dicho desarrollo de manera sostenible. De igual forma, cabe destacar que
+es fundamental sensibilizar a la ciudadanía de que el uso del software conlleva un consumo energético, de modo
+que, si bien corresponde a los profesionales de la ingeniería del software la responsabilidad principal de desarrollar
+soluciones más eficientes, los usuarios finales también pueden contribuir a la reducción de dicho impacto mediante
+un uso responsable de las tecnologías digitales.
+En este contexto, la puesta en marcha del presente Convenio tiene como objetivo integrar la sostenibilidad del
+software como un factor en el diseño, desarrollo, evaluación y uso de soluciones software en el ámbito de la Junta
+de Comunidades de Castilla-La Mancha, mediante la formación especializada, el desarrollo de marcos y modelos de
+evaluación, el asesoramiento para la medición y mejora del consumo energético del software a lo largo de su ciclo
+de vida, y la divulgación y transferencia de conocimiento.
+Las instituciones aquí representadas tienen objetivos que comparten y coinciden con los que persigue el Convenio
+contando todas ellas, con los medios y experiencia necesaria para llevarlos a cabo, manifestando su voluntad
+expresa de colaborar en el marco del presente convenio.
+Este convenio está enmarcado dentro del objeto prioritario de la Agencia:
+OP 3: Apoyar el desarrollo digital de la economía y sociedad castellanomanchega
+OS 3.1 Potenciar un ecosistema empresarial digital
+OS 3.2 Consolidar las alianzas estratégicas
+Este objetivo busca impulsar el crecimiento económico y el progreso social mediante la aplicación de soluciones
+digitales innovadoras. Todo ello gracias a fomentar la transformación digital de las empresas, fortalecer alianzas
+estratégicas para potenciar el ecosistema empresarial digital, y promover la capacitación y sensibilización de la
+población en temas digitales. En esencia, este objetivo pretende desarrollar un ecosistema digital innovador en
+Castilla-La Mancha, aunando sector público, privado y tercer sector.
+Y siempre teniendo como principio fundamental el desarrollo sostenible en todas sus actuaciones.
+En virtud de lo mencionado, acuerdan suscribir el presente Convenio con arreglo al siguiente clausulado.
+Clausulado
+Primero. - Objeto
+El objeto del presente Convenio es establecer la colaboración entre la UCLM y la JCCM, a través de la Consejería de
+Hacienda, Administraciones Públicas y Transformación Digital, para reforzar y ampliar las capacidades necesarias
+
+AÑO XLV Núm. 136 20 de julio de 2026 27729
+para abordar la sostenibilidad del software como un factor estratégico, relevante y diferenciador en las aplicaciones
+software de la JCCM, pudiéndose distinguir los siguientes ámbitos de colaboración:
+a.- Ámbito 1: Formación en sostenibilidad software.
+Coordinación e impartición de cursos de sostenibilidad y eficiencia energética del software dentro del ámbito de la
+Junta de Comunidades de Castilla-La Mancha.
+b.- Ámbito 2: Desarrollo de un marco para la evaluación de la sostenibilidad software.
+Por un lado, se establecerá un marco que permita evaluar la sostenibilidad del software. Por otro lado, se definirá un
+modelo de madurez para determinar el nivel de sostenibilidad software de una empresa de desarrollo de software.
+c.- Ámbito 3: Asesoramiento para la evaluación del consumo energético del software en la JCCM.
+Asesoramiento para la evaluación del consumo de energía del software, mediante la incorporación de estimadores
+softwares en el ciclo de vida de desarrollo.
+d.- Ámbito 4: Iniciativas de divulgación, científicas, /o tecnológicas.
+Participar en la promoción de la sostenibilidad del software y concienciación a la sociedad mediante la difusión de
+buenas prácticas y la transferencia de conocimiento tecnológico a empresas, profesionales y a la sociedad a través
+de diferentes actividades y canales de comunicación.
+Segundo. - Compromisos de la Universidad de Castilla-La Mancha:
+a.- Ámbito 1: Formación en sostenibilidad software.
+- Desarrollo de un curso que permita adquirir conocimientos de sostenibilidad software y habilidades prácticas de
+evaluación de consumo software.
+- Desarrollo de un curso sobre Green IA (Inteligencia Artificial) para aportar una visión general del impacto
+medioambiental de la IA y como incorporar elementos de evaluación del mismo, así como la importancia de medir
+dicho impacto para mejorarlo.
+- Impartición de ambos cursos por parte de personal de la UCLM con un número máximo de asistentes de 25
+personas por cada edición del curso, con un máximo de 4 ediciones en total.
+- El material será desarrollado por la UCLM y será propiedad de las personas que lo desarrollen, pudiéndose utilizar
+en otras formaciones.
+b.- Ámbito 2: Desarrollo de un marco para la evaluación de la sostenibilidad software.
+- Desarrollo de un marco que permita evaluar la sostenibilidad del software.
+- Desarrollo de un modelo de madurez para determinar el nivel de sostenibilidad software de una empresa de
+desarrollo de software.
+- Realización de un piloto para determinar la aplicabilidad, refinar y adaptar el modelo de madurez a las expectativas
+y características del software de la JCCM.
+- Realización de asesoría para la inclusión de aspectos evaluables relacionados con la sostenibilidad software en los
+pliegos de ofertas públicas, que incluyan desarrollo y mantenimiento de software.
+c.- Ámbito 3: Asesoramiento para la evaluación del consumo energético del software en la JCCM.
+- Realización de asesoría para la evaluación del consumo de energía del software, mediante la incorporación de
+estimadores software en el ciclo de vida de desarrollo
+- Realización de un caso de estudio de evaluación de consumo de energía de software propuesto por la JCCM.
+d.- Ámbito 4: Iniciativas de divulgación, científicas, /o tecnológicas.
+- Colaborar en la promoción y difusión de la sostenibilidad software, participando en grupos de trabajo para el
+intercambio de buenas prácticas, presentaciones y otros eventos o acciones divulgativas que se desarrollen.
+- Colaborar en la transferencia de conocimiento tecnológico a las empresas y profesionales de la región a través de
+eventos y conferencias específicos.
+- El material será desarrollado por la UCLM y será propiedad de las personas que lo desarrollen, pudiéndose utilizar
+en otras charlas divulgativas que se impartan.
+Tercero. - Compromisos de la Junta de Comunidades de Castilla-La Mancha
+a.- Ámbito 1: Formación en sostenibilidad software.
+- Promover la realización de los cursos, principalmente, por parte de los desarrolladores de software pertenecientes
+a la Junta de Comunidades de Castilla-La Mancha.
+- Proporcionar las instalaciones para la impartición de los cursos.
+b.- Ámbito 2: Desarrollo de un marco para la evaluación de la sostenibilidad software
+- Facilitar el acceso a la información, documentación y datos necesarios para la correcta ejecución del piloto de
+aplicación del modelo de madurez, así como designar y poner a disposición el personal técnico y responsable que
+resulte necesario para su adecuado desarrollo.
+
+AÑO XLV Núm. 136 20 de julio de 2026 27730
+- Incluir en los pliegos de ofertas públicas de la JCCM, que impliquen el desarrollo y mantenimiento de software,
+aspectos evaluables relacionados con la sostenibilidad software en base a los resultados de este convenio y a la
+asesoría realizada por parte de la UCLM.
+Los aspectos evaluables relacionados con el presente Convenio deberán tenerse en cuenta como propósitos u
+objetivos de cumplimiento, pero no como condiciones obligatorias a incluir dentro de los pliegos de ofertas públicas,
+pues esto último supondría desvirtuar el propio contenido de los pliegos de cláusulas administrativas particulares de
+conformidad con el artículo 122 de la LCSP.
+En ningún caso los aspectos evaluables tendrán carácter obligatorio para el objeto de la licitación. Solo como un
+elemento para tener en cuenta en cuanto a los criterios de evaluación de las ofertas.
+c.- Ámbito 3: Asesoramiento para la evaluación del consumo energético del software en la JCCM.
+- Facilitar el acceso a la información necesaria para posibilitar la incorporación de estimadores de consumo energético
+en el ciclo de vida del software.
+- Poner a disposición uno o varios sistemas software, junto con la información técnica asociada, con el objetivo de
+llevar a cabo un caso de estudio de evaluación del consumo energético del software.
+Cuarto. - Compromisos de ambas partes
+a. Ámbito 1: Formación en sostenibilidad software
+-Coordinarse para la correcta impartición de los cursos de formación.
+b Ámbito 4: Iniciativas de divulgación, científicas, /o tecnológicas.
+- Colaborar activamente en la promoción y difusión de la sostenibilidad software, participando en grupos de trabajo
+para el intercambio de buenas prácticas, presentaciones y otros eventos o acciones divulgativas que se desarrollen.
+- Colaborar en la transferencia de conocimiento tecnológico a las empresas y profesionales de la región a través de
+eventos y conferencias específicos.
+El convenio trata de una colaboración científico-técnica, no en una simple prestación de y, en consecuencia, que no
+es posible la contratación de personal a través de un convenio. No obstante, cabe entender que dicha afirmación
+responde a la intención de evitar que el convenio se utilice como un mecanismo encubierto para la contratación
+de trabajadores, extremo que no concurre en el presente caso. El personal que, en su caso, se contrate con cargo
+a este convenio no desarrollará funciones propias del personal estructural de la Universidad ni se integrará en su
+organización, sino que su actividad quedará circunscrita al desarrollo y gestión de las actuaciones previstas en el
+propio convenio, en el marco de una colaboración entre instituciones.
+Quinto. - Régimen económico
+El coste total máximo del convenio asciende a 140.000,00€, este coste queda financiado con aportación económica
+de la JCCM, con el detalle que a continuación se desglosa:
+Concepto Coste (€)
+Formación en sostenibilidad software 8.000,00 €
+Desarrollo de un marco para la evaluación de la sostenibilidad software 68.000,00 €
+Asesoramiento para la evaluación del consumo energético del software en la JCCM 41.740,00 €
+Iniciativas de divulgación, científicas, y/o tecnológicas acordadas entre ambas partes 4.000,00 €
+Total 121.740,00 €
+Costes indirectos (CCII 15%) 18.260,00 €
+Financiación total por parte de la JCCM 140.000,00 €
+con cargo a la partida presupuestaria 77010000G/521B/42200 del programa 521B de la Dirección Gerencia de la
+Agencia de Transformación Digital de Castilla-La Mancha.
+Por lo que respecta a las anualidades se estima el importe de 140.000,00 € para la primera anualidad, y única de la
+vigencia del convenio. Para cada año que se prorrogue tendrá el importe de 140.000,00 €.
+
+AÑO XLV Núm. 136 20 de julio de 2026 27731
+1.- La Universidad de Castilla-La Mancha contribuirá al desarrollo del Convenio a través de las siguientes aportaciones
+desglosadas en los siguientes componentes:
+Medios Humanos:
+- Esfuerzo funcional de personal de la UCLM experto en Sostenibilidad Software: que se centrará en la realización
+de los cuatro ámbitos recogidos en este convenio.
+Medios materiales:
+- Los necesarios para la generación del material docente, el desarrollo del marco de evaluación y del modelo de
+madurez, la realización de los estudios piloto, la asesoría y la preparación del material divulgativo. Tanto medios
+tecnológicos (ordenadores, impresoras, laboratorio de medición) como no tecnológicos, incluidos en las instalaciones
+y que podrán ser usados para el desarrollo de las actividades de este convenio.
+Medios económicos:
+- Es importante señalar que el objeto de convenio está centrado en actividades de formación y el tipo de coste que
+se imputará será: coste de personal propio, que se justificará con las horas de profesorado (% de nómina) y contrato
+de personal para el desarrollo y gestión las actuaciones propias del convenio. En ninguno de los casos se emiten
+facturas ni se liquida IVA.
+Presupuesto detallado Convenio JCCM-UCLM Sostenibilidad Software
+La colaboración entre la JCCM y el Green Team del Grupo Alarcos se va a desarrollar en cuatro ámbitos. Para el
+presupuesto se han unido los ámbitos 2 y 3 por ser del mismo tipo.
+Por tanto, el presupuesto se ha calculado por ámbito tal y como se desglosa a continuación
+1. Formación técnica sobre sostenibilidad software
+Se estima un mínimo de 2 y un máximo de 4 cursos por cada año del convenio, con una duración de 10 horas cada
+edición del curso y un máximo de 25 asistentes. La realización de cada curso será por petición de la JCCM.
+Presupuesto por edición: 2000 € (200 €/hora)
+Cada curso contará con dos profesores impartiendo cada sesión, con el objetivo de dinamizar las clases y resolver
+de manera más ágil las dudas y problemas técnicos que puedan surgir durante las mismas.
+Presupuesto ámbito 1: 8000 €
+2. Desarrollo de un marco para la evaluación de la sostenibilidad software y asesoramiento para la evaluación del
+consumo energético del software en la JCCM)
+Se estima una dedicación de 3300 horas a realizar entre los siguientes perfiles:
+- Experto Senior (categoría catedrático de Universidad) con una dedicación de 900 horas a 62,57 €/hora: 56313 €
+- Experto Junior (categoría doctorando con máster o doctor) con una dedicación de 600 horas a 40,22 €/hora: 24132 €
+- Contratado Segunda-M: 29295 €
+En caso de necesidad se podrá modificar la dedicación de los perfiles para conseguir alcanzar los objetivos
+planteados no sólo de dedicación sino de resultados.
+Presupuesto ámbitos 2 y 3: 109740 €
+3. Iniciativas de divulgación, científicas, /o tecnológicas acordadas entre ambas partes
+Diez actividades de divulgación por año dependiendo de la disponibilidad de los miembros del grupo para su
+impartición, intentando cubrir todas las provincias de la región.
+Presupuesto: 400 € por actividad
+Presupuesto ámbito 4: 4000 €
+
+AÑO XLV Núm. 136 20 de julio de 2026 27732
+Los gastos de desplazamiento se encuentran incluidos en el coste por hora de las actividades de formación y
+divulgación.
+Presupuesto total
+Ámbito 1: 8000 €
+Ámbitos 2 y 3: 109740 €
+Ámbito 4: 4000 €
+Total: 121740 €
+2.- Los gastos susceptibles de imputación al presente Convenio serán los siguientes:
+a) Gastos de contratación de personal vinculado a las actividades a realizar dentro de este Convenio. Estas
+contrataciones se llevarán a cabo por parte de la UCLM.
+b) Gastos no recurrentes de personal investigador interno UCLM por actividades vinculadas a este Convenio
+adicionales a sus actividades ordinarias.
+c) Dietas y gastos de desplazamiento de personal interno UCLM vinculados a las actividades de este Convenio.
+d) Gastos de personal externo: prestación de servicios, impartición de ponencias, dietas y gastos de desplazamiento.
+e) Gastos de publicidad, desarrollo de marca, difusión y comunicación.
+f) Otros gastos: fungibles o derivados de las actividades aprobadas por la Comisión de Seguimiento del Convenio.
+g) Gastos indirectos (15%) que formen parte de los gastos del Convenio, pero que por su naturaleza no se puedan
+imputar de forma directa por no poder individualizarse: luz, agua, calefacción, telefonía, mensajería, correo, limpieza
+y seguridad.
+3.- El pago de la cantidad aportada por la Junta de Comunidades de Castilla-La Mancha, será de 140.000,00 € para
+la primera anualidad del convenio, El pago se hará en un único libramiento a la firma del convenio.
+Cuando los costes totales de la actuación no superen las cantidades señaladas, la obligación económica de Junta
+de Comunidades de Castilla-La Mancha se entenderá́ referida al coste realmente ejecutado y justificado.
+La justificación total del gasto máximo del convenio se realizará mediante la presentación ante la Dirección General
+de Digitalización e Inteligencia Artificial, perteneciente a la Agencia de Transformación Digital de Castilla-La Mancha,
+de la documentación que se relaciona a continuación:
+a) Memoria de las actuaciones realizadas.
+b) Informe de la Gerencia o Servicio de Contabilidad de la Universidad de Castilla- La Mancha, en el que se
+especifiquen, detallados por concepto, los gastos efectuados en la ejecución del proyecto y se aporten justificantes
+de sus correspondientes pagos.
+c) Certificado en el que se haga constar que se ha destinado la cantidad concedida a los fines previstos, así ́ como
+que los documentos aportados como justificación no han sido presentados ante otras Administraciones Públicas
+como justificantes de ayudas concedidas por aquellas.
+El plazo para la presentación de la documentación será de 3 meses, una vez finalizada la fecha de finalización del
+convenio.
+Sexto. - Comisión de seguimiento
+Dentro del mes siguiente a la aprobación del presente Convenio, se constituirá una comisión de seguimiento
+que interprete y asegure el buen fin y cumplimiento del objeto del presente Convenio, así como la resolución de
+controversias surgidas como consecuencia de su ejecución.
+La comisión estará conformada por dos representantes de la UCLM y dos de la Consejería de Hacienda,
+Administraciones Públicas y Transformación Digital de la JCCM, nombrados por sus máximos responsables.
+La comisión se reunirá por solicitud de cualquiera de las partes firmantes, al menos semestralmente, considerándose
+constituida si asiste, por lo menos, uno de los representantes autorizados de cada entidad.
+La comisión tendrá la posibilidad de celebrar reuniones extraordinarias si alguno de los miembros así lo decide, para
+tratar temas de excepcional importancia.
+
+AÑO XLV Núm. 136 20 de julio de 2026 27733
+La adopción de los acuerdos de la comisión se realizará por consenso, actuando como secretario una persona
+funcionaria de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital.
+Los miembros de esta Comisión podrán acudir a las reuniones, acompañados por las personas que consideren
+necesarios en cada momento.
+Serán funciones de la Comisión de Seguimiento:
+a. Aprobar las acciones y operativas concretas a desarrollar para dar cumplimiento al objeto de este Convenio.
+b. Supervisar la evolución de la ejecución de las actuaciones incluidas en el marco del presente Convenio,
+especialmente la supervisión de los informes anuales presentados por las partes.
+c. Interpretar el contenido del presente Convenio y su aplicación.
+d. Analizar las propuestas técnicas y de gestión sobre las actuaciones en el marco del presente Convenio y adoptar
+las decisiones que procedan.
+e. Autorizar cualquier cesión que cualquiera de las partes quiera hacer de la documentación, contenidos y productos
+generados a través del presente Convenio.
+f. Proponer las condiciones de finalización de las actividades que estuvieran en marcha, así como las planificadas
+en el supuesto de extinción del Convenio por causa diferente a la expiración del plazo de vigencia.
+g. Desarrollar el presente Convenio en aquellos aspectos no previstos en los puntos anteriores y necesarios
+para el cumplimiento del mismo, y proponer modificaciones en función del seguimiento realizado. En su caso, las
+modificaciones acordadas se incorporarán como anexo al presente Convenio.
+h. Cualesquiera otras que se encaminen al cumplimiento de este Convenio o a su desarrollo, conforme a los intereses
+de las partes.
+Séptimo. - Confidencialidad
+Por Información confidencial las Partes entienden: toda información revelada por las Partes de forma escrita, oral,
+visual o legible por máquina, que:
+a. Esté marcada como confidencial.
+b. Se describa oralmente como confidencial.
+c. Contenga o se describa con una marca patentada o confidencial similar en el momento en que se proporcione.
+d. Contenga cualquier otra información relativa a la tecnología, la propiedad intelectual, las finanzas, los planes,
+las estrategias, los empleados, los productos, los servicios o las relaciones de la parte reveladora que, por su
+naturaleza, se reconozca razonablemente como información confidencial; siempre y cuando se envíe a la parte
+receptora un resumen escrito, marcado como Confidencial, de la Información Confidencial revelada en forma oral o
+visual, dentro de los treinta (30) días siguientes a dicha revelación oral o visual. La Información Confidencial incluye
+todas las notas, resultados de pruebas u otros datos desarrollados por el Receptor en relación con la Información
+Confidencial.
+Las Partes acuerdan utilizar la información confidencial revelada con el mismo grado de cuidado que emplea para
+proteger su propia información confidencial, y en ningún caso con menos cuidado del razonable.
+La información confidencial sólo podrá revelarse a los empleados, agentes y contratistas que necesiten conocerla, y a
+sus auditores y asesores jurídicos, en cada caso, que tienen la obligación, por escrito, de mantener dicha información
+confidencial, utilizando normas de confidencialidad no menos restrictivas que las exigidas en el presente Convenio.
+Estas obligaciones subsistirán por un periodo de dos (2) años después de finalizar las relaciones entre las partes,
+con excepción de la información que sea o se convierta de dominio o carácter público, o que no se considere
+confidencial.
+No se considera como Información Confidencial la información que:
+a. Esté o llegue a ser de dominio público, a menos que sea como consecuencia del incumplimiento del presente
+Convenio.
+b. Ya sea conocida por la Parte receptora de la información, en el momento en que sea divulgada por la Parte
+reveladora.
+c. Es o sea desarrollada independientemente por la Parte receptora de la información.
+d. Sea revelada por la Parte receptora de la información, para satisfacer un requerimiento legal, siempre que
+la Parte receptora y, en la medida en que esté legalmente permitida a hacerlo, notifique y consulte primero a la
+
+AÑO XLV Núm. 136 20 de julio de 2026 27734
+Parte reveladora sobre el alcance del requerimiento de revelar y le conceda la oportunidad de impugnar cualquier
+revelación de este tipo.
+e. Sea generalmente conocida o fácilmente verificable por partes con conocimientos ordinarios en los negocios del
+Receptor.
+f. Se divulgue a un tercero de conformidad con la autorización escrita de la Parte Reveladora.
+g. Se recibe de un tercero, sin que se infrinja ninguna otra obligación de confidencialidad pertinente.
+h. Es código de software en forma de código objeto (object code) o código fuente (source code) que se licencia con
+base en una licencia de código abierto (open source license) (según la definición otorgada por la Iniciativa de Código
+Abierto (Open Source Initiative), en su sitio web: www.opensource.org.
+Octavo. - Protección de datos personales
+Las Partes se comprometen a cumplir la normativa vigente en materia de protección de datos de carácter personal,
+y concretamente, la Ley 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos
+digitales y el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a
+la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación de
+estos datos Reglamento y el resto de disposiciones europeas vigentes en materia de protección de datos.
+Estas obligaciones subsistirán por un periodo de dos (2) años después de finalizar las relaciones entre las partes,
+con excepción de la información que sea o se convierta de dominio o carácter público, o que no se considere
+confidencial o de carácter personal.
+A efectos de lo dispuesto en el artículo 13 del Reglamento general de protección de datos, se facilita la información
+exigida.
+Respecto al tratamiento que es responsabilidad de la JCCM:
+Información básica de protección de datos
+Responsable Dirección General de Infraestructuras de las Telecomunicaciones y Ciberseguridad.
+Finalidad Gestión de expedientes de contratación, convenios, encomiendas y encargos.
+Legitimación 6.1.e) Misión en interés público o ejercicio de poderes públicos del Reglamento General de
+Protección de Datos.
+Ley 39/2015, de uno de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas. Ley 11/2003, de 25 de septiembre, del Gobierno y el Consejo
+Consultivo de Castilla-La Mancha.
+Destinatarios Existe cesión de datos.
+Derechos Puede ejercer los derechos de acceso, rectificación o supresión de sus datos, así como
+otros derechos, tal y como se explica en la información adicional.
+Información Disponible en la dirección electrónica: https://rat.castillalamancha.es/info/0686
+adicional
+Respecto al tratamiento que es responsabilidad de la UCLM:
+Información básica de protección de datos
+Responsable Universidad de Castilla-La Mancha
+Finalidad Gestión y control de convenios de colaboración.
+Legitimación 6.1.e) Misión en interés público o ejercicio de poderes públicos del Reglamento General de
+Protección de Datos.
+Destinatarios Existe cesión de datos de los firmantes a la otra parte
+Derechos Puede ejercer los derechos de acceso, rectificación o supresión de sus datos, así como
+otros derechos, tal y como se explica en la información adicional.
+Información Disponible en la dirección electrónica:
+adicional https://www.uclm.es/es/legal/informacion-legal/proteccion-datos
+
+AÑO XLV Núm. 136 20 de julio de 2026 27735
+Noveno. - Propiedad intelectual
+Titularidad de los resultados. La titularidad de todos los derechos de propiedad intelectual e industrial que recaigan
+sobre los resultados, desarrollos, metodologías, documentos, materiales docentes, obras, invenciones, bases de
+datos, software, información técnica o cualquier otro resultado susceptible de protección que sea generado con
+motivo de la ejecución del presente Convenio corresponderá, de manera exclusiva, a la Parte que los haya creado o
+desarrollado, conservando esta la plenitud de los derechos de explotación que le reconozca la legislación aplicable.
+Licencia de uso. Sin perjuicio de lo dispuesto en el apartado relativo a la titularidad de los resultados, la UCLM
+concede a la JCCM una licencia de uso no exclusiva, gratuita, intransferible y no sublicenciable, por todo el plazo
+de vigencia de los derechos de propiedad intelectual que recaigan sobre los resultados correspondientes al “Ámbito
+2 y 3, para su utilización en el desarrollo de sus actividades institucionales y para el cumplimiento de los fines y
+objetivos del presente Convenio, así como de las actividades que de él se deriven. La presente licencia no implicará,
+en ningún caso, la cesión o transmisión de la titularidad de los derechos de propiedad intelectual o industrial, la cual
+permanecerá en todo momento en favor de la UCLM.
+Acceso y suministro de resultados correspondientes a los Ámbitos 1 y 4. Respecto de los resultados generados
+en el marco del Ámbito 1 y del Ámbito 4 del presente Convenio, la UCLM conservará la titularidad exclusiva de los
+correspondientes derechos de propiedad intelectual, sin que la firma del presente Convenio implique la concesión a
+favor de la JCCM de licencia de uso alguna sobre dichos resultados.
+No obstante lo anterior, cuando la JCCM requiera la utilización de materiales, documentos, metodologías, desarrollos
+u otros resultados comprendidos en los citados ámbitos para el adecuado desarrollo de las actuaciones derivadas
+del presente Convenio, podrá solicitarlo por escrito a la UCLM, que facilitará el acceso o la entrega del material
+solicitado en un plazo razonable y exclusivamente para la finalidad expresamente indicada en la solicitud, sin que
+ello implique la concesión de una licencia general o permanente de uso ni la cesión de los correspondientes derechos
+de propiedad intelectual.
+La entrega de dichos materiales o la autorización para su utilización tendrá carácter puntual y se limitará a la
+finalidad expresamente autorizada por la UCLM, sin que de ello pueda derivarse, en ningún caso, una licencia
+general o permanente de uso, ni la cesión o transmisión, total o parcial, de los derechos de propiedad intelectual o
+industrial sobre los resultados, que permanecerán en todo momento en favor de la UCLM.
+Reconocimiento de titularidad. Cada Parte reconoce y respetará en todo momento la titularidad de los derechos
+de propiedad intelectual e industrial de la otra Parte, obligándose a no realizar acto alguno que pueda menoscabar
+dichos derechos.
+Se reconocen los derechos personales y morales que la Ley otorga al Personal Investigador que haya participado en
+la obtención de un resultado susceptible de protección intelectual, y en especial el de ser reconocidos como autores
+o inventores del resultado.
+Décimo. - Vigencia del convenio
+El presente convenio entrará en vigor a partir del día siguiente al de su publicación en el Diario Oficial de Castilla-La
+Mancha, pudiendo ser denunciado por cualquiera de las partes firmantes con un aviso previo mínimo de tres meses.
+La duración del presente Convenio será de doce meses. En cualquier momento antes de la finalización del plazo
+previsto, los firmantes del convenio podrán acordar unánimemente su prórroga por un periodo de hasta cuatro años
+adicionales.
+Decimoprimero. - Resolución
+Serán causas de resolución del presente convenio.
+- El transcurso del plazo de vigencia del convenio sin haberse acordado la prórroga del mismo.
+- El acuerdo unánime de todos los firmantes.
+- El incumplimiento de las obligaciones y compromisos asumidos por parte de alguno de los firmantes. En este caso,
+cualquiera de las partes podrá notificar a la parte incumplidora un requerimiento para que cumpla en un determinado
+plazo con las obligaciones o compromisos que se consideran incumplidos. Este requerimiento será comunicado al
+
+AÑO XLV Núm. 136 20 de julio de 2026 27736
+responsable del mecanismo de seguimiento, vigilancia y control de la ejecución del convenio y a las demás partes
+firmantes.
+Si trascurrido el plazo indicado en el requerimiento persistiera el incumplimiento, la parte que lo dirigió notificará a
+las partes firmantes la concurrencia de la causa de resolución y se entenderá resuelto el convenio. La resolución
+del convenio por esta causa podrá conllevar la indemnización de los perjuicios causados si así se hubiera previsto.
+- Por decisión judicial declaratoria de la nulidad del convenio.
+La finalización anticipada no deberá afectar, en ningún caso, a los participantes en las acciones ya iniciadas, a cuyo
+efecto ambas partes se comprometen a garantizar su terminación, mediante el cumplimiento de las obligaciones
+comprometidas hasta ese momento.
+Decimosegundo. - Modificación
+La modificación del contenido del convenio requerirá acuerdo unánime de los firmantes, a, previa propuesta de la
+Comisión de Seguimiento.
+Decimotercero. - Régimen jurídico
+El presente convenio es de carácter interadministrativo, de acuerdo con lo previsto en el artículo 47.2.a) de la Ley
+40/2015, de 1 de octubre, y se rige por lo dispuesto en el Capítulo VI del Título Preliminar de la citada Ley.
+Las cuestiones que pudieran suscitarse con ocasión de la interpretación, resolución y efectos del mismo, que no
+hayan sido resueltas en el seno de la Comisión de Seguimiento, se someterán al Orden Jurisdiccional Contencioso-
+Administrativo, de conformidad con la Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso
+Administrativa.
+Como el presente Convenio se financia con fondos propios.
+Y para que conste y en prueba de conformidad, los comparecientes firman el presente Convenio en la fecha de la
+última firma digital.
+Toledo, 13 de julio de 2026
+El Rector de la Universidad de Castilla-La Mancha. José Julián Garde López-Brea
+El Consejero de Hacienda, Administraciones Públicas y Transformación Digital. Juan Alfonso Ruiz Molina

@@ -1,0 +1,382 @@
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 83
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA
+Servicio Territorial de Industria, Comercio y Economía de Soria
+RESOLUCIÓN de 26 de junio de 2026, del Servicio Territorial de Industria,
+Comercio y Economía de Soria, de autorización administrativa previa y autorización
+de construcción del proyecto técnico administrativo de modificación de sistemas 132,
+45 y 13 kV en subestación transformadora de 132/45/13 kV «ST Soria», en el término
+municipal de Golmayo (Soria), titularidad de «i-DE Redes Eléctricas Inteligentes, S.A.U.».
+Expte.: IE/AT/16-2026.
+ANTECEDENTES DE HECHO
+• Con fecha 1 de junio de 2026 se recibió por parte de I-DE REDES ELÉCTRICAS
+INTELIGENTES, S.A.U. solicitud de Autorización Administrativa y Autorización
+de Construcción para el proyecto mencionado en el asunto.
+• El titular solicita tramitación simplificada de acuerdo con lo establecido en el
+art. 9.2 del Decreto 46/2022 de Castilla y León por pertenecer a la red de
+distribución, no someterse a evaluación de impacto ambiental y no se solicite
+la declaración en concreto de utilidad pública porque se disponga de acuerdos
+previos con todos los titulares de bienes y derechos afectados. Tampoco tiene
+afecciones a otros organismos o Administraciones Públicas.
+• El expediente ha sido instruido por el Servicio Territorial de Industria, Comercio y
+Economía de Soria.
+• Vista la propuesta de la Sección de Energía del Servicio Territorial de Industria,
+Comercio y Economía de fecha 26 de junio de 2026.
+FUNDAMENTOS DE DERECHO:
+• Teniendo en cuenta que el servicio Territorial de Industria, Comercio y Economía
+de la Junta de Castilla y León en Soria, es competente para resolver este
+expediente, según establece el Decreto 44/2018, de 18 de octubre, por el que
+se desconcentran competencias en los Órganos Directivos Centrales de la
+Consejería de Economía y Hacienda y en las Delegaciones Territoriales de la
+Junta de Castilla y León y según la Resolución de 9 de marzo de 2023, de la
+Delegación Territorial de Soria, por la que se delegan determinadas competencias
+en el Jefe del Servicio Territorial competente en materia de energía y minas.
+• La normativa aplicable es:
+– Ley 24/2013, de 26 de diciembre, del Sector Eléctrico.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 84
+– R.D. 1955/2000, por el que se regulan las actividades de transporte,
+distribución, comercialización, suministros y procedimientos de autorización
+de instalaciones de energía eléctrica de 1 de diciembre, que la desarrolla.
+– Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+– Decreto 46/2022, de 24 de noviembre, por el que se regulan los procedimientos
+de autorizaciones administrativas de instalaciones eléctricas en Castilla y
+León.
+– Real Decreto 223/2008 de 15 de febrero por el que se aprueba en el Reglamento
+sobre condiciones técnicas y garantías de seguridad en líneas eléctricas de
+alta tensión y sus instrucciones técnicas complementarias I.T.C.-LAT 01 a 09.
+– Real Decreto 337/2014 de 9 de mayo por el que se aprueba en el Reglamento
+sobre condiciones técnicas y garantías de seguridad en instalaciones eléctricas
+de alta tensión y sus instrucciones técnicas complementarias I.T.C.-RAT 01 a 23.
+– Real Decreto 842/2002, de 2 de agosto, que aprueba el Reglamento
+Electrotécnico de baja tensión.
+Este Servicio Territorial, RESUELVE:
+1.– Otorgar autorización administrativa previa a i-DE Redes Eléctricas Inteligentes,
+S.A.U., para la instalación eléctrica descrita. Esta autorización se concede de acuerdo con
+la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, con el Real Decreto 223/2008,
+de 15 de febrero, por el que se aprueban Reglamento sobre condiciones técnicas y
+garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones técnicas
+complementarias I.T.C.-LAT 01 a 09, con el Real Decreto 337/2014 de 9 de mayo por el
+que se aprueba en el Reglamento sobre condiciones técnicas y garantías de seguridad
+en instalaciones eléctricas de alta tensión y sus instrucciones técnicas complementarias
+I.T.C.-RAT 01 a 23 y con el Reglamento electrotécnico de baja tensión y sus instrucciones
+técnicas complementarias (R.D. 842/2002 de 2 de agosto).
+2.– Otorgar Autorización Administrativa De Construcción (Aprobación del proyecto
+de ejecución) para la instalación eléctrica descrita de acuerdo con el proyecto firmado
+por la Ingeniero Mónica Tascon Abril de fecha mayo de 2026 con visado n.º 202602101
+de fecha 29 de mayo de 2026:
+1.– Sistema de 132 kV
+El sistema de 132 kV, de instalación de exterior convencional de intemperie, se
+sustituirá por un nuevo módulo de posiciones tipo GIS 132 kV, de servicio interior, con
+aislamiento en gas (natural sintético), que se alojará en el interior de un nuevo edificio a
+instalar dentro del recinto de la subestación.
+Este nuevo sistema presentará una configuración de doble barra, formado por las
+siguientes posiciones:
+• Cuatro (4) posiciones de línea blindadas de interior, con interruptor, para la
+compactación del sistema 132 kV existente.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 85
+• Tres (3) posiciones de transformador de potencia blindadas de interior, con
+interruptor (T-1, T-2 y T-3).
+• Una (1) posición de enlace de barras blindada de interior, con interruptor.
+• Dos (2) posiciones de medida de tensión en barras blindadas de interior, sin
+interruptor.
+• Cinco (5) huecos para posiciones futuras.
+2.–Transformadores de potencia
+En el alcance del presente proyecto no se contemplan modificaciones en los
+transformadores de potencia T-1, T-2 y T-3 de 132/45 kV ni en el T-6 45/13 kV, salvo la
+instalación de soportes de botellas en los primarios y secundarios de los transformadores
+T-1, T-2, T-3, T-4 y T-5, para su transición aéreo/subterránea y su conexión con sus
+respectivas posiciones y celdas de cada sistema de tensión.
+Sí se contempla en este proyecto la sustitución de los transformadores de potencia
+T-4 y T-5 por transformadores nuevos normalizados de las siguientes características:
+Dos (2) transformadores de potencia (T-4 y T-5) 45/13,80 kV de 20/25 MVA (ONAN/
+ONAF), de instalación en intemperie conexión Dyn11, con regulación en carga.
+Se prevé instalar nuevas bancadas para los nuevos transformadores, cumpliendo
+las distancias reglamentarias que hacen innecesario instalar un muro cortafuegos
+entre ellos.
+3.– Sistema de 45 kV
+• Celdas 45 kV:
+Se procederá a la compactación del sistema convencional de intemperie de 45 kV
+presente en la subestación, instalando dos (2) nuevos módulos de celdas blindadas en
+gas (natural o sintético) de interior, cada uno de ellos en un nuevo edificio CIAT (Módulo
+1 y Módulo 3), que se interconectarán con el Módulo 2 existente, instalado en un edificio
+independiente. En este módulo 2, se instalarán dos (2) posiciones de unión de barras
+para conectar con el módulo 3 y una (1) posición de línea para trasladar la L/Rábanos 2.
+La actual celda de Unión se mantendrá para conectar con el parque de intemperie de 45
+kV durante la construcción.
+Una vez traspasadas todas las posiciones de intemperie a su posición definitiva de
+interior, se procederá al desmantelamiento completo del parque intemperie y la celda de
+unión existente quedará fuera de servicio, pero no se contempla desmantelarla.
+La configuración de este sistema será de doble barra, albergando cada módulo las
+siguientes posiciones:
+• Módulo 1 (nuevo)
+– Tres (3) posiciones de línea blindadas de interior, con interruptor.
+– Dos (2) posiciones de transformador blindadas de interior (T-1 y T-4), con
+interruptor (para alimentación al embarrado).
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 86
+– Una (1) posición de enlace de barras blindada de interior, con interruptor.
+– Una (1) posición de batería de condensadores blindada de interior (BC-1), con
+interruptor.
+– Dos (2) posiciones de medida de tensión en barras blindadas de interior, sin
+interruptor, instaladas en una celda física.
+– Dos (2) posiciones de partición blindadas de interior, con interruptor.
+– Dos (2) posiciones de unión blindadas de interior, sin interruptor.
+– Un (1) hueco para posiciones futuras
+• Módulo 2 (existente)
+Se procederá a la ampliación del módulo mediante:
+– Dos (2) posiciones de unión blindadas de interior, sin interruptor.
+– Una (1) posición de línea blindada de interior, con interruptor.
+– Tres (3) huecos para posiciones futuras.
+La celda de línea Garray 1, conectada actualmente en el módulo 2 del sist. 45 kV
+se llevará al módulo 1 para optimizar el recorrido de líneas y, en esta celda liberada del
+módulo 2 se conectará la línea Norte 2.
+Se mantendrá la posición de unión blindada de interior, sin interruptor, existente para
+la unión temporal del parque de intemperie de 45 kV con el módulo de celdas blindadas
+de interior.
+Una vez traspasadas todas las posiciones de intemperie a su posición definitiva de
+interior, se procederá al desmantelamiento completo del parque intemperie y la celda
+de unión existente quedará fuera de servicio, como reserva, pero no se contempla
+desmantelarla.
+• Módulo 3 (nuevo)
+– Tres (3) posiciones de línea blindadas de interior, con interruptor.
+– Dos (2) posiciones de transformador blindadas de interior (T-3 y T-5), con
+interruptor (para alimentación al embarrado).
+– Una (1) posición de enlace de barras blindada de interior, con interruptor.
+– Dos (2) posiciones de medida de tensión en barras blindadas de interior, sin
+interruptor, instaladas en una celda física.
+– Dos (2) posiciones de partición blindadas de interior, con interruptor.
+– Cuatro (4) huecos para posiciones futuras.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 87
+• Transformadores de auxiliares:
+Se eliminarán los dos transformadores de servicios auxiliares/esenciales
+existentes en el parque de intemperie de 100 kVA 45/0,230 kV.
+• Baterías de condensadores:
+Se instalará una nueva batería de condensadores de capacidad 14,4 MVAr
+y se desmantelarán las baterías de condensadores existentes (BC-1 de 10,8
+MVArs y BC-2 de 14,4 MVArs).
+4.– Sistema de 13 kV
+• Celdas 13 kV:
+Se procederá a la compactación de la parte convencional de intemperie del
+sistema de 13 kV presente en la instalación, instalando dos nuevos módulos
+de celdas blindadas de gas (sintético o natural) de interior (Módulo 1 y Módulo
+2), dentro del edificio existente, que se interconectarán con el Módulo 3,
+también existente.
+Este sistema mantendrá una configuración de simple barra partida, el cual contará
+con las siguientes posiciones, por módulo:
+• Módulo 1 (nuevo)
+– Cinco (5) posiciones de línea blindadas de interior, con interruptor
+– Una (1) posición de transformador blindada de interior, con interruptor (para
+alimentación al embarrado desde T-5).
+– Una (1) posición de alimentación de transformador de servicios auxiliares
+blindada de interior, sin interruptor (TSA-1).
+– Una (1) posición de medida de tensión en barras blindada de interior, sin
+interruptor, instalada en una celda física de la posición de TSA-1.
+– Una (1) posición de unión blindada de interior, sin interruptor.
+– Un (1) hueco para posiciones futuras.
+• Módulo 2 (nuevo)
+– Seis (6) posiciones de línea blindadas de interior, con interruptor.
+– Una (1) posición de transformador blindada de interior, con interruptor (para
+alimentación al embarrado desde T-4).
+– Una (1) posición de alimentación de transformador de servicios auxiliares
+blindada de interior, sin interruptor (TSA-2).
+– Una (1) posición de medida de tensión en barras blindada de interior, sin
+interruptor, instalada en una celda física de la posición del TSA-2.
+– Una (1) posición de unión blindada de interior, sin interruptor.
+– Una (1) posición de partición blindada de interior, con interruptor.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 88
+• Módulo 3 (existente)
+Aunque no se tiene contemplado modificación de la configuración de este
+módulo sí se contempla modificación en las conexiones de las líneas: la celda
+de línea Camaretas, conectada actualmente en el módulo 3 del sist. 13 kV se
+llevará al módulo 1 así como la línea Prados Vellacos, también conectada en
+el módulo 3 del sist. 13 kV se llevará al módulo 2 para optimizar el recorrido
+de líneas. Una posición de línea existente se quedará como posible conexión
+futura (*).
+La distribución quedaría como sigue:
+– Cuatro * (4) posiciones de línea blindadas de interior, con interruptor.
+– Una (1) posición de línea blindada de interior, con interruptor, que se quedará en
+reserva.
+– Una (1) posición de transformador blindada de interior, con interruptor (para
+alimentación al embarrado desde T-6).
+– Una (1) posición de partición blindada de interior, con interruptor
+Transformadores de auxiliares:
+Se instalarán dos (2) nuevos transformadores de servicios auxiliares normalizados
+de 250 kVA 13/0,420 kV, asociados a las celdas de MT de los nuevos módulos 1 y 2.
+Resistencias y reactancias:
+Se instalarán dos (2) nuevas resistencias de puesta a tierra asociadas a los neutros
+de los transformadores T-4 y T-5 para limitar la intensidad de defecto, de 500 A – 15 s y
+15Ω.
+5.– Edificios
+En la modificación de la ST Soria se prevé la instalación de los siguientes edificios
+citados a continuación (medidas exteriores):
+– Sist. GIS 132 kV con sala de control y sótano – 34,60 x 10,40 = 359,84 m2
+correspondientes a (1) edificio
+– CIAT-1 sist. 45 kV – 13,80 x 4,20 = 57,96 m²
+– CIAT-2 sist. 45 kV – 13,80 x 4,20 = 57,96 m²
+Los edificios CIATs, tipo prefabricados modulares, son de una sola planta y de escasa
+entidad. Esto unido al hecho de que la instalación se explotará el régimen abandonado
+(y, por tanto, sin personal permanentemente), hace innecesario Proyecto Constructivo
+asociado a esta tipología de edificios.
+Será necesario Proyecto Constructivo para el edificio del sist. GIS 132 kV y control
+por ser un edificio prefabricado panelable.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 89
+El actual edificio donde se encuentra el sistema de control y protección de la
+subestación se tiene previsto mantener previendo una reforma de este para poder albergar
+los equipos necesarios para la compactación del sist. 45 y 13 kV. El nuevo edificio GIS
+132 kV contendrá el sist. GIS 132 kV así como una sala de control y protecciones con los
+nuevos equipos necesarios para este sistema.
+Actualmente existe en la instalación una caseta de escasa entidad que se utiliza
+como almacén y que se tiene contemplado mantener.
+La disposición en planta de las edificaciones en su fase final puede verse en el
+documento n.º 4 «Planos».
+Nuevo edificio GIS 132 kV
+La instalación contará con un (1) nuevo edificio prefabricado de hormigón de una
+planta más sótano para el sistema GIS 132 kV y armarios de protecciones asociados con
+una superficie interior de 346,00 m² en planta calle. Dicho edificio estará formado por las
+siguientes plantas:
+• Planta sótano:
+– Sala de cables de potencia, con 284,00 m² superficie interior.
+• Planta superior:
+– Sala de GIS de 132 kV, de 284,00 m² de superficie interior.
+– Sala de control, de 62 m² de superficie interior.
+La superficie de la escalera está incluida en la superficie tanto de la planta sótano
+como de la planta superior.
+Nuevos edificios CIAT 45 kV
+La instalación contará con dos (2) nuevos edificios CIAT para el sistema de
+45 kV, siendo estos prefabricados de hormigón, con una superficie exterior de 57,96 m²
+cada uno.
+La disposición en planta de las edificaciones puede verse en el documento n.º 4
+«Planos».
+6.– Posiciones sin equipar con obra civil realizada
+Formando parte del alcance proyectado para la instalación, esta contará con las
+siguientes posiciones futuras sin equipar, pero con la obra civil realizada de forma
+completa para las mismas, en concreto:
+Sistema de 132 kV:
+• Cinco (5) posiciones de línea blindadas de interior, con interruptor.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 90
+Sistema de 45 kV:
+• Una (1) posición de línea blindadas de interior, con interruptor. (Módulo 1)
+• Tres (3) posiciones de línea blindadas de interior, con interruptor y una (1) celda
+de Unión barras A blindada para dos ternas de interior, sin interruptor. (Módulo 2)
+• Cuatro (4) posiciones de línea blindadas de interior, con interruptor. (Módulo 3)
+Sistema de 13 kV
+• Dos (2) posiciones de línea blindadas de interior, con interruptor. (Módulo 1)
+7.– Resto instalaciones
+Para el hipotético caso de una fuga del material dieléctrico de los transformadores
+T-1 (existente), T-2 (existente), T-3 (existente), T-4 (nuevo), T-5 (nuevo) y T-6 (existente)
+del parque de intemperie se encuentra instalado un sistema preventivo de recogida del
+mismo compuesto por: cubeta solidaria con la bancada de cada transformador, sistema
+de evacuación desde cada transformador y un receptor de emergencia de 40 m³.
+Inicialmente este receptor de emergencia es válido contemplando la sustitución de los
+transformadores T-4 y T-5. Dicho receptor de emergencia será capaz de almacenar el
+volumen de dieléctrico equivalente al contenido de la cuba del transformador de mayor
+capacidad. Se ejecutarán las arquetas, canalizaciones necesarias para la conducción del
+dieléctrico desde las bancadas de los transformadores hasta el receptor de emergencia.
+Ver mayor detalle en Anexo 6 «Obra Civil».
+Se procederá a la ejecución de las galerías, cerramientos, cimentaciones y
+canalizaciones necesarias para la realización de los trabajos descritos en los aparatados
+anteriores.
+La subestación cuenta con los equipos necesarios de seguridad industrial instalados
+en el edificio actual y se mantendrá y ampliará para incluir los nuevos edificios y equipos
+en este sistema.
+Además de los circuitos y elementos principales descritos en los anteriores apartados,
+también se ha previsto la instalación de los correspondientes aparatos de medida,
+mando, control, protección y comunicaciones necesarios para la adecuada explotación
+de la instalación, y los sistemas de distribución de servicios auxiliares en corriente alterna
+y corriente continua desde los respectivos equipos rectificadores-batería.
+Por sus características, estos aparatos son de instalación interior, y para su control y
+fácil maniobrabilidad, se han ubicado en cuadros y armarios situados en las salas de control
+y comunicaciones, habilitadas en edificios donde se instalan todos aquellos componentes
+que, por su función, centralizan de alguna manera el control de la subestación. El alcance
+de la actuación no contempla modificar el sistema de telecomunicaciones ni la torre de
+telecomunicaciones existente.
+En el presente alcance se pasará a nuevo sistema de control tipo SIPCO para los
+sistemas compactados de 45 y 13 kV. Por otra parte, en el caso del sistema de 132 kV,
+se instalará el sistema SAS 61850.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 91
+3.– ESTABLECER LAS CONDICIONES SIGUIENTES:
+3.1. En todo momento se deberá dar cumplimiento a lo establecido en la Ley 24/2013,
+de 26 de diciembre, del Sector Eléctrico y su normativa de desarrollo, en el
+Decreto 46/2022, de 24 de noviembre, así como a todo lo establecido en la reglamentación
+de seguridad industrial, o cualquier otra normativa vigente, que le sea de aplicación para
+la realización, puesta en marcha y explotación de estas instalaciones.
+3.2. Esta autorización se entiende otorgada sin perjuicio de terceros, dejando a salvo
+los derechos particulares, y sin perjuicio de las autorizaciones, licencias o permisos de
+competencia municipal, provincial u otros organismos, necesarias para la realización de
+las obras de producción de energía eléctrica, en especial las relativas a la ordenación del
+territorio, al medio ambiente y servidumbres aeronáuticas.
+3.3. Debe cumplirse el contenido y condicionado indicado en los informes emitidos
+por los organismos consultados aceptados por el peticionario y, en caso de discrepancias,
+los admitidos por este Servicio Territorial, realizando las modificaciones en los proyectos
+que, en su caso, se requieran.
+3.4. Las obras deberán realizarse de acuerdo con el proyecto presentado indicado en
+esta resolución y conforme a las disposiciones reglamentarias que le sean de aplicación.
+3.5. Si se introducen modificaciones al ejecutar el proyecto, se estará en lo dispuesto
+en el artículo 3 del Decreto 46/2022, de 24 de noviembre, debiendo ser comunicadas a
+este Servicio Territorial.
+3.6. El plazo de puesta en marcha será de treinta y seis meses, contados a partir de
+la Resolución.
+3.7. La Administración dejará sin efecto la presente resolución si durante el
+transcurso del tiempo se observase incumplimiento, por parte del titular de los derechos
+que establece la misma, de las condiciones impuestas en ella. En tales supuestos, la
+Administración, previo oportuno expediente, acordará la anulación de la correspondiente
+Autorización con todas las consecuencias de orden administrativo y civil que se deriven
+de dicha situación, según las disposiciones legales vigentes.
+3.8. El titular informará del comienzo y terminación de las obras de los trabajos
+al Servicio Territorial de Industria, Comercio y Economía de Soria, a efectos del
+reconocimiento definitivo y extensión del acta de puesta en servicio o explotación.
+3.9. El titular de la instalación tendrá en cuenta, para su ejecución, los condicionados
+que le han sido establecidos por otros Organismos, los cuales han sido puestos en su
+conocimiento y aceptados expresamente por el mismo.
+3.10. Todos los elementos de la red de distribución que, con motivo de la instalación que
+se autoriza en esta resolución, queden sin servicio deberán ser desmantelados, incluidas
+las cimentaciones de los apoyos, en un plazo de seis meses a partir de la fecha en que
+se formalice la autorización de explotación. La empresa distribuidora deberá comunicar al
+Servicio Territorial de Industria, Comercio y Economía este desmantelamiento en el plazo
+de 10 días contados a partir del momento en que se realice.
+CV: BOCYL-D-20072026-138-13
+
+Boletín Oficial de Castilla y León
+Núm. 138 Lunes, 20 de julio de 2026 Pág. 92
+3.11. Deberá cumplirse lo establecido en el Real Decreto 1432/2008, de 29 de agosto,
+por el que se establecen medidas para la protección de la avifauna contra la colisión y la
+electrocución en líneas eléctricas de alta tensión.
+Esta Resolución se dicta sin perjuicio de que el interesado obtenga cualquier otra
+autorización que la legislación vigente establezca, de acuerdo con otras disposiciones que
+resulten aplicables, que sean competencia de otros Organismos y/o Administraciones.
+Contra la presente Resolución, que no pone fin a la vía administrativa, cabe interponer
+recurso de alzada ante el Ilmo. Sr. Director General de Energía y Minas, en un plazo de
+un mes a contar desde el día siguiente a la fecha de esta publicación, en relación con lo
+dispuesto en los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas.
+Soria, 26 de junio de 2026.
+El Jefe del Servicio Territorial,
+Fdo.: Manuel López Represa
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-20072026-138-13

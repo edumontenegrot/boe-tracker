@@ -1,0 +1,768 @@
+Boletín Oficial de Canarias núm. 144 26808 Lunes 20 de julio de 2026
+I. Disposiciones generales
+Consejería de Educación, Formación Profesional, Actividad Física y Deportes
+2561 DECRETO 120/2026, de 13 de julio, por el que se regulan los procedimientos para
+la certificación, acreditación y reconocimiento de la competencia digital docente en
+el ámbito de la Comunidad Autónoma de Canarias.
+PREÁMBULO
+I
+El Plan para la Educación Digital de Canarias en el siglo XXI contempla un conjunto
+de medidas y estrategias integradas para poder ofrecer servicios, herramientas, recursos
+digitales, apoyo, dinamización y asesoramiento a la comunidad educativa, capacitando
+al sistema educativo canario para la sociedad digital del siglo XXI, a través del cual se
+persigue transformar los centros educativos en espacios digitalizados capaces de asumir
+nuevos retos en la educación, garantizando asimismo la superación de la brecha digital y la
+e-inclusión a la comunidad educativa.
+El Acuerdo de 14 de mayo de 2020 de la Conferencia Sectorial de Educación sobre
+el Marco de Referencia de la Competencia Digital Docente (en adelante, MRCDD) se
+configura como el instrumento dentro del ámbito de competencias del Ministerio de
+Educación y Formación Profesional y las Consejerías de Educación de las Comunidades
+Autónomas para el diseño de sus respectivas políticas educativas con el fin de mejorar la
+competencia digital del profesorado para contribuir con ello a la adquisición y desarrollo de
+las competencias del alumnado y al buen funcionamiento de los centros educativos.
+En virtud de Acuerdo de 30 de marzo de 2022 de la Conferencia Sectorial de Educación
+se procede a la actualización del precitado MRCDD, dejando sin efecto el Anexo I del
+precedente Acuerdo de 14 de mayo de 2020.
+Mediante Acuerdo de 23 de junio de 2022 de la Conferencia Sectorial de Educación
+sobre la certificación, acreditación y reconocimiento de la competencia digital docente, se
+acuerda establecer los procedimientos para la acreditación de los niveles de la competencia
+digital docente incluidos en el MRCDD, a fin de adecuarlo a la evolución de las tecnologías
+digitales y a su uso educativo.
+Por su parte, el apartado sexto de la parte dispositiva del antedicho acuerdo gubernamental
+establece que serán unidades de las Administraciones educativas las responsables de
+aprobar, en el ámbito de sus competencias, la normativa que regule la acreditación de la
+competencia digital docente en los términos recogidos en el presente Acuerdo en el plazo
+de un año a partir de su publicación en el Boletín Oficial del Estado.
+El presente Decreto tiene por objeto regular los procedimientos para la certificación,
+acreditación y reconocimiento de la competencia digital docente en el ámbito de la
+Comunidad Autónoma de Canarias, en cumplimiento de lo dispuesto en el apartado sexto
+de la parte dispositiva del precitado Acuerdo de 23 de junio de 2022 de la Conferencia
+Sectorial de Educación.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26809 Lunes 20 de julio de 2026
+II
+De conformidad con lo previsto en el artículo 133.1.d) de la Ley Orgánica 1//2018,
+de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias, se atribuye a la
+Comunidad Autónoma de Canarias la competencia de desarrollo legislativo y de ejecución
+en materia de enseñanza no universitaria, con relación a las enseñanzas obligatorias y no
+obligatorias que conducen a la obtención de un título académico o profesional con validez
+en todo el Estado y a las enseñanzas de educación infantil, que incluye, en todo caso, la
+formación permanente y el perfeccionamiento del personal docente.
+Por su parte, el artículo 106.1.c) de la citada norma institucional autonómica preceptúa
+que corresponde a esta Comunidad Autónoma la competencia en materia de régimen jurídico
+y procedimientos de las administraciones públicas canarias, sin perjuicio de lo dispuesto
+en el artículo 149.1.18.ª de la Constitución, que incluye, en todo caso, la aprobación de las
+normas de procedimiento administrativo que deriven de las particularidades del derecho
+sustantivo de Canarias o de las especialidades de la organización de la Administración
+Pública canaria.
+Asimismo, el apartado 3 del artículo 6 bis de la Ley Orgánica 2/2006, de 3 de mayo,
+de Educación (LOE), tras la modificación introducida por la Ley Orgánica 3/2020, de
+29 de diciembre (LOMLOE), establece que “Corresponde a las comunidades autónomas
+el ejercicio de sus competencias estatutarias en materia de educación y el desarrollo de las
+disposiciones de la presente Ley Orgánica”.
+De igual forma, el artículo 102, apartado 1, de la LOE determina que “La formación
+permanente constituye un derecho y una obligación de todo el profesorado y una
+responsabilidad de las Administraciones educativas y de los propios centros”. A su vez,
+el apartado 3 del reseñado precepto legal dispone que “Las Administraciones educativas
+promoverán la utilización de las tecnologías de la información y la comunicación y la
+formación tanto en digitalización como en lenguas extranjeras de todo el profesorado,
+independientemente de su especialidad, estableciendo programas específicos de formación
+en estos ámbitos”.
+Por su parte, el artículo 111 bis, apartado 5, de la LOE establece que “Las Administraciones
+educativas y los equipos directivos de los centros promoverán el uso de las tecnologías de la
+información y la comunicación (TIC) en el aula como medio didáctico apropiado y valioso
+para llevar a cabo las tareas de enseñanza y aprendizaje. Las Administraciones educativas
+deberán establecer las condiciones que hagan posible la eliminación en el ámbito escolar
+de las situaciones de riesgo derivadas de la inadecuada utilización de las TIC, con especial
+atención a las situaciones de violencia en la red. Se fomentará la confianza y seguridad en
+el uso de las tecnologías prestando especial atención a la desaparición de estereotipos de
+género que dificultan la adquisición de competencias digitales en condiciones de igualdad”.
+Asimismo, el apartado 6 del precitado artículo de dicho texto legal preceptúa que “El
+Ministerio de Educación y Formación Profesional elaborará y revisará, previa consulta
+a las Comunidades Autónomas, los marcos de referencia de la competencia digital que
+orienten la formación inicial y permanente del profesorado y faciliten el desarrollo de una
+cultura digital en los centros y en las aulas”.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26810 Lunes 20 de julio de 2026
+Por otro lado, el artículo 83.2 de la Ley Orgánica 3/2018, de 5 de diciembre, de
+Protección de Datos Personales y garantía de los derechos digitales, establece que “El
+profesorado recibirá las competencias digitales y la formación necesaria para la enseñanza
+y transmisión de los valores y derechos”.
+A lo que se suma lo dispuesto en el artículo 33 de la Ley Orgánica 8/2021, de 4 de
+junio, de protección integral a la infancia y la adolescencia frente a la violencia, relativo a
+la formación en materia de derechos, seguridad y responsabilidad digital: “Las administraciones
+públicas garantizarán la plena inserción del alumnado en la sociedad digital y el aprendizaje
+de un uso de los medios digitales que sea seguro y respetuoso con la dignidad humana, los
+valores constitucionales, los derechos fundamentales y, particularmente con el respeto y la
+garantía de la intimidad personal y familiar y la protección de datos personales, conforme a
+lo previsto en el artículo 83 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de
+Datos Personales y garantía de los derechos digitales. Específicamente, las administraciones
+públicas promoverán dentro de todas las etapas formativas el uso adecuado de Internet”.
+El artículo 24.2 de la Ley 6/2014, de 25 de julio, Canaria de Educación no Universitaria,
+determina que “La consejería competente en materia educativa promoverá el desarrollo de
+entornos de aprendizaje abiertos que ofrezcan nuevas condiciones y formas de aprendizaje y
+docencia adaptadas a un mundo digitalizado, así como la utilización de recursos educativos
+abiertos, es decir, un mayor acceso al conocimiento, el material didáctico y otros recursos de
+apoyo en internet y la formación del profesorado y de todos los miembros de la comunidad
+educativa para que dominen estas tecnologías”.
+Por su parte, el artículo 40.5 de la precitada Ley 6/2024, de 25 de julio, preceptúa que
+“El profesorado que imparta enseñanzas en la modalidad de educación no presencial debe
+poseer la titulación requerida para cada etapa educativa y debe acreditar la capacitación
+para ejercer la docencia utilizando medios telemáticos y los otros recursos propios de la
+educación no presencial”.
+Asimismo, el artículo 64.6 de la reseñada Ley 6/2014, de 25 de julio, reafirma que:
+“La formación permanente constituye un derecho y una obligación del profesorado. A tales
+efectos, la consejería competente en materia de educación realizará una oferta de actividades
+formativas diversificada, adecuada a las líneas estratégicas del sistema educativo, a las
+necesidades demandadas por los centros en este ámbito y al diagnóstico de necesidades que
+se desprendan de los planes de evaluación desarrollados”.
+Finalmente, el apartado 5 del artículo 65 del citado texto legal autonómico dispone
+que “En este sentido, y con carácter general, se potenciará el desarrollo de medidas de
+profesionalización docente como la formación permanente, la innovación y la investigación
+educativas dirigidas a la mejora y actualización de la competencia profesional de la práctica
+docente, así como a su reconocimiento en la promoción e incentivación del profesorado”.
+III
+El presente Decreto consta de veintidós artículos estructurados en tres capítulos, tres
+disposiciones adicionales, una disposición derogatoria única y una disposición final única,
+así como dos anexos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26811 Lunes 20 de julio de 2026
+El Capítulo I, relativo a las disposiciones generales, regula el objeto y ámbito de
+aplicación del presente Decreto.
+El Capítulo II define los procedimientos de acreditación de la competencia digital
+docente. Se establecen los principios generales para las distintas modalidades, y a
+continuación, dicho capítulo se divide en tres secciones. La sección 1.ª regula las convocatorias,
+requisitos de participación, solicitudes y admisión de las mismas. La sección 2.ª establece
+la composición, constitución, funcionamiento y funciones de las comisiones de valoración.
+La sección 3.ª contempla los procedimientos de reconocimiento y acreditación de la
+competencia digital docente.
+El Capítulo III define las distintas modalidades de acreditación para cada uno de los
+niveles de competencia digital docente y regula los procedimientos para desarrollar cada
+una de tales modalidades.
+En su parte final, las tres disposiciones adicionales van referidas a su aplicación, al
+reconocimiento de las acreditaciones emitidas por otras Administraciones educativas y a
+la validez y reconocimiento de los procesos de acreditación desarrollados con anterioridad
+a su entrada en vigor, respectivamente. Asimismo, se incluye una disposición derogatoria
+única y una disposición final única relativa a su entrada en vigor.
+Finalmente, el Anexo I muestra en un cuadro el resumen de las modalidades de
+acreditación para cada uno de los niveles de competencia digital docente y el Anexo II
+presenta un modelo del certificado de acreditación.
+IV
+La regulación prevista se ajusta a los principios de buena regulación contenidos en
+el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, esto es, los principios de necesidad, eficacia,
+proporcionalidad, seguridad jurídica, transparencia y eficiencia, en relación con los apartados 1
+y 2 del artículo 66 y el artículo 80.5 de la Ley 4/2023, de 23 de marzo, de la Presidencia y
+del Gobierno de Canarias, en tanto persigue el interés general, al conferir validez, estabilidad
+y continuidad al procedimiento por el que se certifica, acredita y reconoce la competencia
+digital docente y la unificación de criterios y homogeneidad para su reconocimiento en
+todo el territorio nacional, ajustándose a los requerimientos establecidos en el Acuerdo de
+23 de junio de 2022 de la Conferencia Sectorial de Educación.
+De esta manera, en lo que se refiere a los principios de necesidad y eficacia, se trata
+de una norma necesaria para la regulación del reconocimiento de la competencia digital
+del personal docente, adecuando su objeto con la normativa vigente y constituyendo el
+instrumento más adecuado para la consecución de los fines de interés general perseguidos
+con el presente Decreto.
+De acuerdo con el principio de proporcionalidad, contiene la regulación imprescindible
+sobre el procedimiento de reconocimiento y certificación de la competencia digital
+docente, al no existir ninguna alternativa regulatoria menos restrictiva de derechos. En
+cumplimiento de los principios de seguridad jurídica y de eficiencia, resulta coherente con
+el ordenamiento jurídico y permite una gestión más eficiente de los recursos públicos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26812 Lunes 20 de julio de 2026
+Finalmente, cumple también con el principio de transparencia, ya que identifica
+claramente su propósito, esto es, regular los procedimientos de certificación, acreditación y
+reconocimiento de la competencia digital docente. Por otro lado, durante el procedimiento
+de elaboración de la norma, se ha garantizado la participación activa de las potenciales
+personas destinatarias de la misma, dándose cumplimiento a los preceptivos trámites de
+participación ciudadana, al haber sido puesta a disposición de la ciudadanía mediante su
+publicación en el portal web de la Consejería de Presidencia, Administraciones Públicas,
+Justicia y Seguridad.
+Conforme a lo dispuesto en la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre
+Mujeres y Hombres, se realiza una evaluación previa del impacto de género para garantizar
+la integración del principio de igualdad entre mujeres y hombres garantizando un desarrollo
+profesional no sesgado por el género. Además, en cumplimiento de la Ley 2/2021, de 7 de
+junio, de igualdad social y no discriminación por razón de identidad de genero, expresión
+de género y características sexuales, se realiza una evaluación del impacto sobre identidad
+y expresión de género y de diversidad sexual, concluyéndose en ambos que, del contenido
+del proyecto normativo se aprecia impacto positivo por razón de identidad o expresión de
+género, no siendo necesario incluir medidas correctoras o compensatorias por no existir
+desigualdades.
+En su virtud, en ejercicio de la potestad reglamentaria que confiere al Gobierno el
+artículo 28.d) de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de
+Canarias, una vez oído el Consejo Escolar de Canarias, de acuerdo con el dictamen n.º
+154/2026, de 30 de abril, del Consejo Consultivo de Canarias, a propuesta del Consejero
+de Educación, Formación Profesional Actividad Física y Deportes, de conformidad con el
+artículo 58.1.a) de la mencionada Ley, y previa deliberación del Gobierno en su reunión
+celebrada el día 13 de julio de 2026,
+DISPONGO:
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1.- Objeto.
+El presente Decreto tiene por objeto regular los procedimientos para la certificación,
+acreditación y reconocimiento de la competencia digital docente en el ámbito de la
+Comunidad Autónoma de Canarias, rigiéndose por los principios básicos comunes
+establecidos en el Acuerdo de 23 de junio de 2022 de la Conferencia Sectorial de Educación
+sobre la certificación, acreditación y reconocimiento de la competencia digital docente.
+Artículo 2.- Ámbito de aplicación.
+La regulación contenida en este Decreto será de aplicación al personal docente no
+universitario de enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de mayo, de
+Educación, o normativa legal que la sustituya, en el ámbito de la Comunidad Autónoma de
+Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26813 Lunes 20 de julio de 2026
+CAPÍTULO II
+PROCEDIMIENTO DE ACREDITACIÓN
+Artículo 3.- Principios generales para las distintas modalidades.
+Los procedimientos de acreditación de la competencia digital docente convocados bajo
+las especificaciones del presente Decreto se regirán por los siguientes principios generales:
+a) Las modalidades de acreditación para cada uno de los niveles del Marco de
+Referencia de la Competencia Digital Docente (MRCDD) se ajustarán a los establecidos en
+la normativa nacional vigente y a los acuerdos adoptados en esta materia por la Conferencia
+Sectorial de Educación.
+b) Se tomarán como referente las áreas, competencias, etapas, niveles de progresión e
+indicadores de logro descritos en el MRCDD vigente.
+c) Para superar cada uno de los niveles habrá que cubrir todas las áreas del MRCDD
+vigentes y al menos el 80% de los indicadores del nivel.
+d) Únicamente se certificará la acreditación de áreas del MRCDD vigente de forma
+independiente en el nivel C2.
+e) Los procedimientos de acreditación se realizarán de conformidad con los principios
+de igualdad, publicidad, mérito y capacidad.
+Sección 1.ª
+Convocatorias, solicitudes y admisión
+Artículo 4.- Convocatorias.
+La persona titular de la Dirección General competente en materia de formación del
+profesorado convocará los distintos procedimientos de acreditación, atendiendo a lo
+establecido en los siguientes artículos.
+Artículo 5.- Requisitos de participación.
+1. Podrá participar en los procedimientos regulados por el presente Decreto el personal
+docente no universitario de enseñanzas reguladas por la Ley Orgánica 2/2006, de 3 de
+mayo, de Educación, o normativa legal que la sustituya, en el ámbito de la Comunidad
+Autónoma de Canarias.
+2. En aquellos procedimientos que convoquen los niveles A1 y A2 de competencia
+digital docente, podrán participar personas que, no estando en servicio activo docente,
+acrediten la titulación necesaria para el acceso a la función docente en el ámbito de la
+Comunidad Autónoma de Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26814 Lunes 20 de julio de 2026
+Artículo 6.- Solicitudes.
+1. Quienes deseen participar en los procedimientos regulados por el presente
+Decreto, deberán solicitar su participación a través del modelo normalizado que deberá
+cumplimentarse y presentarse a través de la aplicación de inscripción a actividades
+formativas de la Consejería competente en materia de educación o de la sede electrónica
+del Gobierno de Canarias, según establezca la propia convocatoria.
+2. El plazo de presentación de solicitudes se establecerá en cada convocatoria y será
+publicado en la página web de la Consejería competente en materia de educación.
+3. Las personas solicitantes deberán estar en posesión de los requisitos exigidos en
+cada procedimiento en la fecha de finalización del plazo de presentación de solicitudes de
+cada convocatoria. No se tendrá en cuenta información o documentación no declarada o no
+aportada en la solicitud.
+Artículo 7.- Documentación acreditativa.
+1. En aquellos procedimientos que lo requieran, deberá presentarse junto a la solicitud
+la documentación acreditativa de la circunstancia que se alegue como requisito de acceso,
+de conformidad con lo previsto en el apartado 2 del artículo 5 del presente Decreto.
+2. En el caso de titulaciones obtenidas en el extranjero, deberá acreditarse que estas
+están debidamente homologadas por el Estado español, de conformidad con lo dispuesto
+en la normativa vigente en lo referido a requisitos y procedimientos para la homologación
+y declaración de equivalencia a titulación y a nivel académico universitario oficial y para
+la convalidación de estudios extranjeros y regulación del procedimiento para establecer la
+correspondencia al nivel del Marco Español de cualificaciones para la Educación Superior
+de títulos universitarios oficiales pertenecientes a ordenaciones académicas vigentes o
+anteriores.
+Artículo 8.- Admisión de solicitudes.
+1. Finalizado el plazo de presentación de solicitudes, la Dirección General competente
+en materia de formación del profesorado comprobará que las personas solicitantes cumplen
+los requisitos exigidos para participar en la convocatoria y publicará las listas provisionales
+de solicitudes admitidas y excluidas, indicando, en este último caso, los motivos de la
+exclusión, por la vía establecida en cada convocatoria.
+2. A partir de la publicación de las listas provisionales de solicitudes admitidas y
+excluidas, se establecerá un plazo de diez (10) días hábiles, contados a partir del siguiente
+al de la publicación de las listas provisionales, para subsanar la solicitud o reclamar contra
+la exclusión u omisión de las listas, conforme se establezca en la Resolución de cada
+convocatoria.
+3. Una vez resueltas las reclamaciones presentadas en el tiempo y forma establecidos,
+se publicarán las listas definitivas de las personas admitidas y excluidas al procedimiento
+por el medio especificado en cada convocatoria.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26815 Lunes 20 de julio de 2026
+Sección 2.ª
+La comisión de valoración
+Artículo 9.- Composición y designación de las comisiones de valoración.
+1. Las comisiones de valoración estarán integradas por un presidente o presidenta,
+perteneciente al servicio con competencias en formación del profesorado y que será
+designado o designada por la persona titular de la Dirección General competente en la que
+se encuentre adscrito dicho servicio, y por cuatro (4) vocales, que serán designados por el
+presidente o presidenta, de entre personal del servicio con competencias en formación del
+profesorado y del Área de Tecnología Educativa.
+2. Los miembros de la comisión serán funcionarios en activo de cuerpos docentes.
+3. Actuará como secretario o secretaria el vocal con menor antigüedad en el cuerpo,
+salvo que la comisión acuerde determinarlo de otra manera por mayoría absoluta.
+4. La comisión de valoración podrá proponer la incorporación a sus trabajos de asesores
+y asesoras especialistas en tecnologías educativas, si así lo precisan.
+Artículo 10.- Constitución de las comisiones de valoración.
+Las comisiones de valoración se constituirán en una primera sesión que será convocada
+por el presidente o presidenta. En la misma se designará la persona que ostentará la
+secretaría del órgano.
+Artículo 11.- Funcionamiento y funciones de las comisiones de valoración.
+1. Con carácter general, el régimen de funcionamiento de las diferentes comisiones de
+valoración se ajustará a lo establecido en la Sección 3.ª del Capítulo II del Título Preliminar
+de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, o normativa
+legal que la sustituya.
+2. Las comisiones de valoración tendrán atribuidas las siguientes funciones:
+a) Valorar las tareas, evidencias, documentación o méritos acreditados por las personas
+participantes, según la modalidad en la que participe, de conformidad con los criterios
+establecidos en este Decreto y la convocatoria específica de cada procedimiento.
+b) Solicitar, en caso necesario, aquella documentación original que sirva para verificar
+los méritos alegados en las solicitudes.
+c) Coordinar las pruebas específicas de acreditación.
+d) Elaborar y proponer el listado provisional de las personas participantes propuestas
+como acreditadas y no acreditadas, valorando la información y documentación que se derive
+del procedimiento (memorias, actas de propuestas de acreditación, etc.), una vez finalizado
+y remitirla a la Dirección General competente en materia de formación del profesorado.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26816 Lunes 20 de julio de 2026
+e) Informar sobre las reclamaciones presentadas durante el desarrollo de cada
+procedimiento.
+f) Elaborar y proponer el listado definitivo de las personas participantes propuestas
+como acreditadas y no acreditadas.
+g) Cuantas otras sean necesarias para garantizar el correcto desarrollo del
+procedimiento.
+Sección 3.ª
+Reconocimiento y acreditación de la competencia digital docente
+Artículo 12.- Lista provisional de personas acreditadas.
+La Dirección General competente en materia de formación del profesorado publicará
+en la web de la Consejería competente en materia de educación, en el plazo establecido en
+la convocatoria, la lista provisional de personas acreditadas y no acreditadas, con expresión
+de los motivos para la desestimación de la acreditación.
+Artículo 13.- Reclamaciones.
+Se establecerá un plazo de diez (10) días hábiles, contados a partir del siguiente al de la
+publicación de las listas provisionales de acreditados y no acreditados, para reclamar contra
+las mismas mediante escrito dirigido a la Dirección General competente en materia de
+formación del profesorado, junto con la documentación correspondiente, por vía telemática,
+conforme se establezca en la Resolución por la que se publica la lista provisional.
+Artículo 14.- Lista definitiva de personas acreditadas.
+1. Mediante Resolución de la Dirección General competente en materia de formación del
+profesorado se publicarán las listas definitivas de las personas acreditadas y no acreditadas.
+2. Contra la Resolución definitiva, que no pondrá fin a la vía administrativa, cabrá
+interponer, en el plazo de un mes, recurso de alzada ante la Viceconsejería con competencias
+en materia educativa, sin perjuicio de cualquier otro que pudiera interponerse. Dichos
+plazos comenzarán a contar a partir del día siguiente al de su publicación.
+Artículo 15.- Registro de la acreditación de la competencia digital docente.
+La Consejería competente en materia de educación expedirá la correspondiente
+certificación de la acreditación de la competencia digital docente que se registrará en el
+libro de registros de certificados correspondiente y se reflejará en el Portfolio de Formación
+Permanente del Profesorado.
+Artículo 16.- Modelo de acreditación.
+La acreditación se expedirá según el modelo establecido en el Anexo II del presente
+Decreto. En el caso de acreditación de una o varias áreas del nivel C2 de competencia
+digital, se indicará en el certificado el área o áreas acreditadas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26817 Lunes 20 de julio de 2026
+CAPÍTULO III
+MODALIDADES DE ACREDITACIÓN
+Artículo 17.- Modalidades de acreditación.
+La acreditación de la competencia digital docente se efectuará por alguna de las
+siguientes modalidades:
+a) A través de certificación de la formación para los niveles A1, A2, B1 y B2.
+b) Por superación de pruebas específicas de los niveles A1, A2, B1 o B2.
+c) Por poseer títulos oficiales que habiliten para la profesión docente para los niveles
+A1 y A2.
+d) Por evaluación a través de la observación del desempeño para los niveles B1, B2,
+C1 y C2.
+e) A través del análisis y validación de evidencias para los niveles C1 y C2.
+Artículo 18.- Modalidades de acreditación a través de certificación de la formación.
+La forma de acreditar un determinado nivel en competencia digital a través de
+programas formativos podrá realizarse de dos maneras:
+A) Mediante programas formativos específicos conducentes a alcanzar un nivel
+determinado:
+a) La Dirección General competente en materia de formación del profesorado
+convocará cursos específicos de acreditación de la competencia digital docente para los
+niveles A1, A2, B1 y B2.
+b) Las convocatorias se publicarán en la página web de la Consejería competente en
+materia educativa y contendrán como mínimo información sobre: normas de carácter
+general; el nivel del MRCDD al que se opta; criterios de selección; plazos de inscripción;
+lugar/plataforma de celebración; número de horas; fechas de inicio y fin de la formación
+y de publicación de listas provisionales y definitivas de personas admitidas y plazos de
+reclamación contra las mismas.
+c) Las formaciones serán de un número mínimo de 40, 50, 60 y 70 horas
+correspondientes a los niveles A1, A2, B1 y B2, respectivamente.
+d) Las formaciones incluirán un procedimiento de evaluación conforme a los
+requerimientos establecidos para el nivel concreto en el MRCDD vigente, que evaluará
+todas las áreas y al menos el 80% de los indicadores del nivel correspondiente.
+e) La evaluación a través de programas formativos tendrán como referencia las
+calificaciones obtenidas en los distintos instrumentos de evaluación desarrollados durante
+el programa.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26818 Lunes 20 de julio de 2026
+B) A través de varias formaciones no convocadas específicamente para la obtención
+de un nivel de la acreditación, pero que, en su conjunto, cubran el número de indicadores
+necesarios para alcanzar un determinado nivel:
+a) La Dirección General competente en materia de formación del profesorado convocará
+procedimientos de reconocimiento de formaciones conducentes a la acreditación de niveles
+específicos.
+b) Las formaciones que se reconocerán serán aquellas que se hayan impartido en línea
+estratégica de “Formación en el uso de las TIC” y “Competencia Digital Docente” y que
+estén reconocidas en el registro de actividades que cada docente tiene en el portfolio de
+formación de la Dirección General competente en materia de formación del profesorado,
+para lo que se realizará un mapeo de las formaciones realizadas, impartidas a partir del
+año 2019, salvo las celebradas en la modalidad de congresos y jornadas, con el fin de
+determinar las áreas del MRCDD que abarcan y el nivel.
+c) También se reconocerán aquellas actividades que hayan sido reconocidas u
+homologadas por otras Administraciones educativas y que especifiquen en sus certificados
+las áreas del MRCDD que abordan y el nivel alcanzado.
+d) Para el cómputo total de áreas superadas, únicamente se tendrán en cuenta las
+formaciones de duración igual o superior a 10 horas y debiéndose alcanzar, como mínimo,
+el número de horas que requiere la acreditación del nivel.
+e) Solo se tendrán en cuenta aquellas formaciones descritas en los apartados b), c) y
+d) que cubran un área completa y, al menos, el 80 por ciento de indicadores de la misma.
+f) El nivel solo se acreditará cuando la persona haya superado un número de
+formaciones suficiente para que se cubran todas las áreas en un mismo nivel del MRCDD
+y el 80 por ciento de indicadores, salvo para el nivel C2 que podrá acreditarse cada área de
+forma independiente.
+g) Para acreditar los niveles B1 y B2, será obligatorio realizar una evaluación a través de
+la observación del desempeño si los certificados de la formación no demuestran evidencias
+de su puesta en práctica.
+Artículo 19.- Modalidades de acreditación a través de superación de prueba
+específica de acreditación.
+1. La Dirección General competente en materia de formación del profesorado convocará
+pruebas específicas de acreditación de la competencia digital docente para los niveles A1,
+A2, B1 y B2.
+2. Las convocatorias se publicarán en la página web de la Consejería competente en
+materia educativa y contendrán como mínimo información sobre: normas de carácter
+general; el nivel del MRCDD; criterios de selección; lugar/plataforma de celebración;
+duración de la prueba y plazos de inscripción; plazos de publicación de listas provisionales
+y definitivas de personas admitidas y de reclamación contra las mismas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26819 Lunes 20 de julio de 2026
+3. Cada prueba estará referida a un nivel concreto del MRCDD, atendiendo a todas las
+áreas en el nivel correspondiente y, al menos, el 80% de indicadores. Para la realización de
+la misma se dispondrán de las herramientas necesarias para la evaluación del conocimiento
+y de capacidades y habilidades.
+4. La prueba se realizará a través de plataformas que cumplan con lo dispuesto en la
+normativa vigente en materia de protección de datos personales.
+5. El proceso de evaluación será realizado por la correspondiente comisión evaluadora,
+que tendrá como referencia los criterios e instrumentos de evaluación y las calificaciones
+obtenidas en el desarrollo de la prueba.
+Artículo 20.- Modalidades de acreditación por títulos oficiales que habiliten para
+la profesión docente.
+1. Los títulos oficiales que se evaluarán serán los siguientes: Grado en Maestro en
+Educación Infantil; Grado en Maestro en Educación Primaria; Máster Universitario
+de Formación del Profesorado de Secundaria; cursos de especialización didáctica para
+profesores técnicos de Formación Profesional; las menciones sobre tecnologías educativas
+en los Grados en Maestro y másteres oficiales universitarios en materia de competencia
+digital docente para el uso de las tecnologías en el aula.
+2. La posesión de estas titulaciones conllevará la acreditación del nivel A1 o A2
+siempre que se observe una convergencia en los planes de estudios que cubra todas las
+áreas y, al menos, el 80% de los indicadores del nivel correspondiente del MRCDD vigente.
+3. Cuando los planes de estudio de títulos oficiales que habiliten para la profesión
+docente sufran modificaciones, la Dirección General competente en materia de formación
+del profesorado iniciará de oficio o a instancia de la persona interesada procedimientos de
+evaluación de la convergencia entre estos y los niveles A1 y A2 del MRCDD vigente.
+4. Cuando el procedimiento de evaluación previsto en el apartado anterior se inicie
+a instancia de la persona interesada, esta deberá aportar copia veraz del plan de estudios
+conducente al título oficial del que solicita determinar la convergencia con el marco,
+reservándose la administración la potestad de solicitar a la entidad que lo imparte cualquier
+documentación que precise si fuese necesario.
+5. El proceso de evaluación de la convergencia de los planes de estudios de los títulos
+oficiales citados en el apartado 1 de este artículo será realizado por la comisión evaluadora
+que podrá designar a un grupo de trabajo específico que informe sobre la evaluación.
+La comisión evaluadora elaborará una memoria en la que deberá establecer la
+convergencia directa entre el plan de estudios y los indicadores del MRCDD y si
+cumple con los mínimos exigidos en el apartado 2 del presente artículo. La Dirección
+General competente en materia de formación del profesorado formulará y publicará la
+correspondiente resolución.
+6. No será necesario evaluar la convergencia de aquellas titulaciones que referencien
+de forma oficial que ya hayan sido evaluadas por otras Administraciones educativas del
+territorio español y tengan reconocido el nivel correspondiente del MRCDD vigente por
+alguna de estas administraciones.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26820 Lunes 20 de julio de 2026
+Artículo 21.- Modalidades de acreditación a través de observación del desempeño.
+1. La Dirección General competente en materia de formación del profesorado efectuará
+las convocatorias necesarias para la acreditación a través de procesos de observación del
+desempeño de los niveles B1, B2, C1 y C2.
+2. Las convocatorias se publicarán en la página web de la Consejería competente en
+materia educativa y contendrán como mínimo información sobre: normas de carácter
+general; niveles del MRCDD; criterios de selección; desempeños que se van a valorar;
+guía de evaluación; documentación profesional a aportar; plazos de inscripción; plazos
+de publicación de listas provisionales y definitivas de personas admitidas y plazos de
+reclamación de las mismas.
+3. Para la evaluación del desempeño, se seguirá una guía de evaluación establecida en
+la resolución de la convocatoria del procedimiento y que obedecerá a la consecución del
+nivel correspondiente atendiendo al MRCDD vigente.
+4. El proceso de evaluación a través de la observación del desempeño será realizado por
+la comisión evaluadora que podrá designar a un grupo de trabajo específico que informe
+sobre la evaluación. La comisión evaluadora emitirá una memoria con los resultados de
+la aplicación de la guía de evaluación. La Dirección General competente en materia de
+formación del profesorado formulará y publicará la correspondiente resolución.
+5. En el caso de la acreditación del nivel C2 el proceso de evaluación por observación
+del desempeño permitirá acreditar de forma independiente cada una de las áreas del MRCDD
+vigente.
+Artículo 22.- Modalidades de acreditación mediante procedimiento de análisis y
+validación de evidencias.
+1. La Dirección General competente en materia de formación del profesorado efectuará
+las convocatorias necesarias para la acreditación mediante un proceso de análisis y
+validación de evidencias para los niveles C1 y C2.
+2. Las convocatorias se publicarán en la página web de la Consejería competente
+en materia educativa y contendrán como mínimo información sobre normas de carácter
+general, niveles del MRCDD, criterios de selección, actuaciones que tendrán consideración
+de evidencias, guía de evaluación, documentación a aportar, plazos de inscripción, plazos
+de publicación de listas provisionales y definitivas de personas admitidas y plazos de
+reclamación contra las mismas.
+3. Los participantes deberán documentar de forma veraz las evidencias que van a ser
+evaluadas. Estas deben estar específicamente relacionadas con las competencias digitales
+docentes que se enumeran en el Anexo I.
+4. El proceso de evaluación a través del análisis y validación de las evidencias será
+realizado por la comisión evaluadora que podrá designar a un grupo de trabajo específico
+que informe sobre la evaluación.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26821 Lunes 20 de julio de 2026
+La comisión evaluadora elaborará una memoria con los resultados de la aplicación de
+la guía de evaluación para cada participante. La Dirección General competente en materia
+de formación del profesorado formulará y publicará la correspondiente resolución.
+5. En el caso de la acreditación del nivel C2, el análisis y validación de las evidencias
+permitirá acreditar de forma independiente cada una de las áreas del MRCDD vigente.
+Disposición adicional primera.- Aplicación.
+Se autoriza a la persona titular de la Dirección General competente en materia de
+formación del profesorado a dictar cuantas resoluciones de carácter ejecutivo procedan
+para la aplicación de lo dispuesto en el presente Decreto.
+Disposición adicional segunda.- Acreditaciones de otras Administraciones
+educativas.
+La Comunidad Autónoma de Canarias considera equivalente y reconoce como tales
+las acreditaciones de competencia digital docente emitidas por otras Administraciones
+educativas que estén basadas en la normativa nacional vigente dispuesta al efecto y los
+acuerdos adoptados en esta materia por la Conferencia Sectorial de Educación, así como
+los efectos sobre el desarrollo profesional que de ellos pudieran derivarse.
+Disposición adicional tercera.- Procesos de acreditación desarrollados antes de la
+publicación del presente Decreto.
+Tienen validez y reconocimiento todos los procedimientos de acreditación en
+competencia digital docente convocados y desarrollados por la Consejería competente en
+materia de educación desde el 1 de septiembre de 2021.
+Disposición derogatoria única.- Derogación normativa.
+Quedan derogadas todas las disposiciones de igual o inferior rango al presente Decreto
+que se opongan o contradigan lo establecido en el mismo.
+Disposición final única.- Entrada en vigor.
+Este Decreto entrará en vigor el día siguiente al de su publicación en el Boletín Oficial
+de Canarias.
+Dado en Canarias, a 13 de julio de 2026.
+EL PRESIDENTE
+DEL GOBIERNO,
+Fernando Clavijo Batlle.
+EL CONSEJERO DE EDUCACIÓN, FORMACIÓN
+PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES,
+Hipólito Alejandro Suárez Nuez.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26822 Lunes 20 de julio de 2026
+ANEXO I
+CUADRO RESUMEN DE LAS MODALIDADES DE ACREDITACIÓN
+POR NIVELES DE COMPETENCIA DIGITAL DOCENTE
+Nivel Procedimientos
+A1 Se podrá acreditar el nivel A1 a través de los procedimientos establecidos en este Decreto, de entre los
+Nivel inicial siguientes:
+1.Certificación de la formación:
+Una o varias actividades formativas con una duración total mínima de 40 horas, exceptuando congresos y
+jornadas, reconocidas para este fin por la Administración educativa, que atiendan a todas las áreas de un
+nivel A1 y, al menos, el 80% de los indicadores, en el desarrollo de las competencias del MRCDD vigente.
+2.Superación de prueba específica de acreditación:
+Prueba específica de acreditación que atienda a un nivel A1 en el desarrollo de las competencias del MRCDD
+vigente, cubriendo todas las áreas y, al menos, el 80% de los indicadores del MRCDD vigente.
+3. Títulos oficiales que habiliten para la profesión docente (Grado en maestro en Educación Infantil,
+Grado en maestro en Educación Primaria, Máster universitario de formación del profesorado de secundaria,
+cursos de especialización didáctica para profesores técnicos de FP, etc.), las menciones sobre tecnologías
+educativas en los Grados en maestro y máster oficial universitario en materia de competencia digital docente
+para el uso de las tecnologías en el aula; siempre que cubran todas las áreas de un nivel A1 en el desarrollo
+de las competencias del MRCDD vigente y, al menos, el 80% de los indicadores del MRCDD vigente
+A2 Se podrá acreditar el nivel A2 a través de los procedimientos establecidos en este Decreto, de entre los
+Nivel inicial siguientes:
+1.Certificación de la formación:
+Una o varias actividades formativas con una duración total mínima de 50 horas, exceptuando congresos y
+jornadas, reconocidas para este fin por la Administración educativa, que atiendan a todas las áreas de un
+nivel A2 y, al menos, el 80% de los indicadores, en el desarrollo de las competencias del MRCDD vigente.
+2.Superación de prueba específica de acreditación:
+Prueba específica de acreditación que atienda a un nivel A2 en el desarrollo de las competencias del MRCDD
+vigente cubriendo todas las áreas y, al menos, el 80% de los indicadores del MRCDD vigente.
+3. Títulos oficiales que habiliten para la profesión docente (Grado en maestro en Educación Infantil,
+Grado en maestro en Educación Primaria, Máster universitario de formación del profesorado de secundaria,
+cursos de especialización didáctica para profesores técnicos de FP, etc.), las menciones sobre tecnologías
+educativas en los Grados en maestro y máster oficial universitario en materia de competencia digital docente
+para el uso de las tecnologías en el aula; siempre que cubran todas las áreas de un nivel A2 en el desarrollo
+de las competencias del MRCDD vigente y, al menos, el 80% de los indicadores del MRCDD vigente.
+B1 Se podrá acreditar el nivel B1 a través de los los procedimientos establecidos en este Decreto, de entre los
+Nivel intermedio siguientes:
+1.Certificación de la formación:
+Una o varias actividades formativas con una duración total mínima de 60 horas, exceptuando congresos y
+jornadas, reconocidas para este fin por la Administración educativa, que atiendan a todas las áreas de un
+nivel B1 y, al menos, el 80% de los indicadores, en el desarrollo de las competencias del MRCDD vigente.
+2.Superación de prueba específica de acreditación:
+Prueba específica de acreditación que atienda a un nivel B1 en el desarrollo de las competencias del MRCDD
+vigente cubriendo todas las áreas y, al menos, el 80% de los indicadores del MRCDD vigente.
+3.Evaluación a través de la observación del desempeño (será de obligatorio cumplimiento en el caso de
+que los certificados de formación no demuestren evidencia de su puesta en práctica):
+Superación de una evaluación del nivel B1 del MRCDD vigente a través de la observación del desempeño,
+siguiendo una guía de evaluación pública que determinen las Administraciones educativas en el ámbito de
+Nivel Procedimientos
+sus competencias.
+B2 Se podrá acreditar el nivel B2 a través de los procedimientos establecidos en este Decreto, de entre los
+Nivel intermedio siguientes:
+1.Certificación de la formación:
+Una o varias actividades formativas con una duración total mínima de 70 horas, exceptuando congresos y
+jornadas, reconocidas para este fin por la Administración educativa, que atiendan a todas las áreas de un
+nivel B2 y, al menos, el 80% de los indicadores, en el desarrollo de las competencias del MRCDD vigente.
+2.Superación de prueba específica de acreditación:
+Prueba específica de acreditación que atienda a un nivel B2 en el desarrollo de las competencias del MRCDD
+vigente cubriendo todas las áreas y, al menos, el 80% de los indicadores del MRCDD vigente.
+3.Evaluación a través de la observación del desempeño (será de obligatorio cumplimiento en el caso de
+que los certificados de formación no demuestren evidencia de su puesta en práctica):
+Superación de una evaluación del nivel B2 del MRCDD vigente, a través de la observación del desempeño,
+siguiendo una guía de evaluación pública que determinen las Administraciones educativas, en el ámbito de
+sus competencias.
+C1 Se podrá acreditar el nivel C1 a través de los procedimientos establecidos en este Decreto, en el ámbito de
+Nivel avanzado sus competencias, de entre los siguientes (cubriendo todas las áreas y, al menos, el 80% de los indicadores
+del nivel C1 del MRCDD vigente):
+1.Evaluación a través de la observación del desempeño:
+Superación de una evaluación del nivel C1 del MRCDD vigente a través de la observación del desempeño
+siguiendo la guía de evaluación pública que determinen las Administraciones educativas, en el ámbito de sus
+https://sede.gobiernodecanarias.orgc/obmocpetencias. boc-a-2026-144-2561
+2. Acreditación por un proceso de análisis y validación de las evidencias compatibles con los
+indicadores del nivel C1 del MRCDD vigente.
+Tendrán consideración de evidencias y deberán documentarse y estar específicamente relacionadas con las
+competencias digitales docentes:
+–Coordinación TIC o puesto equivalente.
+–Los premios nominales otorgados por las Administraciones educativas.
+–Las publicaciones con NIPO y/o ISBN, ISSN, DOI o URL.
+–La coordinación de proyectos de formación en centros.
+–La participación en acciones formativas en calidad de tutor/a o ponente.
+–La participación en proyectos colectivos de investigación y de innovación.
+–Así como cualquier otra evidencia que acredite el nivel C1.
+C2 Se podrá acreditar el nivel C2 por áreas, a través de los procedimientos los procedimientos establecidos en
+Nivel avanzado este Decreto, en el ámbito de sus competencias, de entre los siguientes:
+1.Evaluación a través de la observación del desempeño:
+Superación de una evaluación del nivel C2 del MRCDD vigente a través de la observación del desempeño
+siguiendo la guía de evaluación pública que determinen las Administraciones educativas, en el ámbito de sus
+competencias.
+2. Acreditación por un proceso de análisis y validación de las evidencias compatibles con los
+indicadores del nivel C2 del MRCDD vigente.
+Tendrán consideración de evidencias y deberán documentarse y estar específicamente relacionadas con las
+competencias digitales docentes:
+–Los premios nominales otorgados por las Administraciones educativas.
+–Las publicaciones con NIPO y/o ISBN, ISSN, DOI o URL.
+–La participación como ponente en congresos de ámbito autonómico, nacional e internacional.
+–La coordinación y autoría de proyectos de investigación y de innovación educativa.
+– Los reconocimientos por parte de las Administraciones educativas de haber implementado mejoras
+significativas en el ámbito educativo.
+–Currículo para evaluar la trayectoria profesional.
+–Así como cualquier otra evidencia que acredite el nivel C2.
+
+Nivel Procedimientos
+B2 Se podrá acreditar el nivel B2 a través de los procedimientos establecidos en este Decreto, de entre los
+Nivel intermedio siguientes:
+1.Certificación de la formación:
+Una o varias actividades formativas con una duración total mínima de 70 horas, exceptuando congresos y
+jornadas, reconocidas para este fin por la Administración educativa, que atiendan a todas las áreas de un
+Boletín Oficial de nCivaenl aBr2ia ys, naúl mme. n1o4s4, el 80% de los indica2d6o8r2e3s, en el desarrollo de las competencias del LMuRnCeDs D20 v idgee njtuel.io de 2026
+2.Superación de prueba específica de acreditación:
+Prueba específica de acreditación que atienda a un nivel B2 en el desarrollo de las competencias del MRCDD
+vigente cubriendo todas las áreas y, al menos, el 80% de los indicadores del MRCDD vigente.
+3.Evaluación a través de la observación del desempeño (será de obligatorio cumplimiento en el caso de
+que los certificados de formación no demuestren evidencia de su puesta en práctica):
+Superación de una evaluación del nivel B2 del MRCDD vigente, a través de la observación del desempeño,
+siguiendo una guía de evaluación pública que determinen las Administraciones educativas, en el ámbito de
+Nivel sus competencias. Procedimientos
+BC21 SSee ppooddrráá aaccrreeddiittaarr eel ln niviveel lC B12 a a tr atrvaévsé sd ed elo slo spr opcroecdeimdiimenietonsto ess etasbtalebcleidcoidso esn e ens tees Dtee cDreectore, teon, deel á emnbtrieto ldoes
+NNiivveell i anvtearnmzeaddioo ssuigsu iceonmtepse:tencias, de entre los siguientes (cubriendo todas las áreas y, al menos, el 80% de los indicadores
+d1e.Cl neivrteifl iCca1c dióenl M dRe ClaD fDo rvmigaecnitóen)::
+1U.nEav oa luvaarciaiósn a ac ttivraidvaédse ds ef olarm oabtisvearsv accoinó nu ndae ld duerasceiómnp etoñtaol: mínima de 70 horas, exceptuando congresos y
+Sjournpaedraacsi,ó nre cdoen uoncaid aesv apluaarac ióenst ed eflin n ipvoerl Cla1 A ddeml iMniRstCraDcDió nv iegdeunctea taiv atr,a qvéuse daeti eland oabns ear vtoadciaósn ladse l ádreesaesm dpee ñuon
+sniigveuli eBn2d oy ,l aa lg muíean odse, eevl a8l0u%ac idóen lpoús binlicdaic aqduoer edse,t eernm einl edne slaasrr oAldlom dinei slatrsa ccioomnepse teednucciaasti vdaesl ,M eRnC eDl áDm vbigiteon dtee. sus
+c2o.mSuppeeternacciiaósn. de prueba específica de acreditación:
+2P.ruAebcare edsiptaecciíófinca pdoer a curned iptarcoicóens qou ed aeti eanndáal ias iusn yni vveal lBid2a ecnió enl ddeesa lrarosll oe dveid leansc cioams pceotemnpcaiatisb ldeesl McoRnC DloDs
+ivnigdeicnatdeo cruebs rdieenl dnoiv teold Ca1s dlaesl áMrReaCsD yD, avli gmeennteo.s, el 80% de los indicadores del MRCDD vigente.
+T3.eEndvraálnu accoinósnid ae rtaracivóéns d dee e lvai doebnsceiarsv ayc dióenb edreáln d deosceummpeenñtaor s(es eyr áe sdtea ro ebslipgeactoífriicoa mcuemnpteli mreielanctioo neand eals c caosno ldaes
+cqoume ploest ecnecrtiaifisc addigoitsa dlees fdoormceanctieósn: no demuestren evidencia de su puesta en práctica):
+–SuCpoeorradciinóanc idóen uTnICa eov paulueasctoió enq dueivl anleivnetle B.2 del MRCDD vigente, a través de la observación del desempeño,
+–sigLuoise npdreom uinoas ngoumíai ndaele esv oatlouragcaiódno sp púobrli claas qAudem dineitsetrrmacinioenne sla esd Audcamtiivnaisst.raciones educativas, en el ámbito de
+–suLsa cso pmupbelicteanccioianse.s con NIPO y/o ISBN, ISSN, DOI o URL.
+–La coordinación de proyectos de formación en centros.
+C1 –SeL ap opdarráti caipcarecdióitna re ne la ncicvieoln Ces1 fao rtmraavtéivsa ds ee nlo csa plirdoacde ddiem tiuetnotro/as oe sptoanbelenctied.os en este Decreto, en el ámbito de
+Nivel avanzado –suLsa c poamrtpiceitpeanccióians ,e dne p reonyterec tlooss csoigleucietinvotess d (ec uinbvrieesntdigoa ctoiódna sy ldaes iánrneoavsa cyi,ó anl. menos, el 80% de los indicadores
+–deAl sníi vceolm Co1 cdueal lMquRieCr DoDtra v iegveidneten)c:ia que acredite el nivel C1.
+1.Evaluación a través de la observación del desempeño:
+C2 SSeup peoradcráió anc dreed uitnaar eelv nailvuealc Ció2n pdoerl ánrieveals ,C a1 tdraevl éMsR dCeD loDs vpigroecnetedi ma ietrnatvoéss l odse plaro ocbesdeimrvieancitóons deestla dbelesceimdopse ñeon
+Nivel avanzado esisgtuei eDnedcore lato g, ueína e dl eá mevbaitlou adceió snu sp úcbolmicap eqtueen cdiaeste, rdmei neenntr ela lso sA sdimguinieisnttreasc:iones educativas, en el ámbito de sus
+1co.mEvpaeltueancciiaósn. a través de la observación del desempeño:
+S2.upAecrarecdióinta dceió nun ap oerv auluna cpiórno cdeesl on ivdeel Ca2n ádleisl iMs RyC DvDal ivdiagceinótne ad etra vlaéss deev ildae onbcsiaesrv accoiómnp adteibl ldeess ecmonpe lñoos
+sinigduicieanddoore lsa dgeul ínai vdeel eCv1a dlueal cMióRnC pDúDbl ivciag eqnutee .determinen las Administraciones educativas, en el ámbito de sus
+cToemndpreátne nccoinassi.deración de evidencias y deberán documentarse y estar específicamente relacionadas con las
+2co.mApcerteednictiaacsi ódnig itpaolers duonc epnrtoecse:so de análisis y validación de las evidencias compatibles con los
+i–ndCiocaodrdoirneasc dióenl nTiIvCe lo C p2u edsetlo M eRqCuiDvaDle vnigtee.nte.
+T–eLnodsr ápnre cmoinossi dneormacinióanle ds eo teovrigdaednocsia pso yr ldaesb Aedrámni ndisotcruamcioennetasr seed uyc eastitvaars e.specíficamente relacionadas con las
+c–oLmaps epteubnlciciaasc idoingeitas lecos nd oNcIPenOt eys/o: ISBN, ISSN, DOI o URL.
+––LLoas c poroermdinioasc nióonm dinea plerosy oetcotrogsa ddeo sf opromr alacsió An demn icneisntrtraocsio.nes educativas.
+––LLaas p paurtbicliicpaacciioónne esn c aocnc NioInPeOs yfo/orm ISaBtivNa,s I SeSn Nc,a DlidOaId o d Ue RtuLt.or/a o ponente.
+––LLaa ppaarrttiicciippaacciióónn ceonm poro pyoencetonst ec oelne cctoivnogsr edseo isn vdees átimgabcitioó na yu tdoen óinmniocova, cniaócni.onal e internacional.
+––LAas íc cooomrdoin caucaiólqnu yie ar uottorarí ae vdied epnrcoiyae qcutoes adcere indvitees etilg naicvieóln C y1 d.e innovación educativa.
+– Los reconocimientos por parte de las Administraciones educativas de haber implementado mejoras
+C2 sSieg npifoicdarátiv aacsr eedni tealr á eml bniitvoe el dCu2c aptoivr oá.reas, a través de los procedimientos los procedimientos establecidos en
+Nivel avanzado –esCteu rDríeccurleot op,a eran eevl aálmuabri tloa dtrea yseucst ocroiam ppreotfeenscioiansa, l.de entre los siguientes:
+–1.AEsví acloumacoi ócnua alq turaievré ostr dae e lvaid oebnsceiar vqaucei óancr dedeilt ed eesl enmiveple Cñ2o.:
+Superación de una evaluación del nivel C2 del MRCDD vigente a través de la observación del desempeño
+siguiendo la guía de evaluación pública que determinen las Administraciones educativas, en el ámbito de sus
+competencias.
+2. Acreditación por un proceso de análisis y validación de las evidencias compatibles con los
+indicadores del nivel C2 del MRCDD vigente.
+Tendrán consideración de evidencias y deberán documentarse y estar específicamente relacionadas con las
+competencias digitales docentes:
+–Los premios nominales otorgados por las Administraciones educativas.
+–Las publicaciones con NIPO y/o ISBN, ISSN, DOI o URL.
+–La participación como ponente en congresos de ámbito autonómico, nacional e internacional.
+–La coordinación y autoría de proyectos de investigación y de innovación educativa.
+– Los reconocimientos por parte de las Administraciones educativas de haber implementado mejoras
+significativas en el ámbito educativo.
+–Currículo para evaluar la trayectoria profesional.
+–Así como cualquier otra evidencia que acredite el nivel C2.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
+
+Boletín Oficial de Canarias núm. 144 26824 Lunes 20 de julio de 2026
+ANEXO II
+MODELO DE ACREDITACIÓN
+(Responsable firmante)
+Don/Doña [Nombre y Apellidos] con DNI ………. ha superado el procedimiento de
+acreditación, convocado por Orden/Resolución de xxx de xxx de xxxx, mediante
+[homologación / certificación] de la [indicar el procedimiento de acreditación:
+programa formativo, prueba de nivel, ...] expide la
+Hace constar que D./D.ª [Nombre y Apellidos] con DNI ………. ha superado el
+procedimiento de acreditación, convocado por Orden/Resolución …. /….. , de …. de
+…., por la modalidad de [indicar el procedimiento de acreditación: programa
+formativo, prueba de nivel, …], conforme al marco de referencia de la competencia
+digital docente vigente1 y según se dispone en el Decreto 120/2026, de 13 de julio, por
+el que se regulan los procedimientos para la certificación, acreditación y reconocimiento
+de la competencia digital docente en el ámbito de la Comunidad Autónoma de Canarias,
+por lo que se reconoce la obtención de la
+ACREDITACIÓN DEL NIVEL [Indicar nivel correspondiente] DE
+COMPETENCIA DIGITAL DOCENTE
+O
+ÁREA …..... DEL NIVEL C2 conforme al marco de referencia de la competencia
+digital docente vigente.
+En.................., a xx de xxx de xxx.
+(Responsable firmante)
+Registro de Formación del Profesorado
+1 Resolución de la Dirección General de Evaluación y Cooperación Territorial, de 4 de mayo de
+1
+2022, por la que se publica el Acuerdo de la Conferencia Sectorial de Educación, sobre la actualización
+del marco de referencia de la competencia digital docente. https://www.boe.es/diario_boe/txt.php?
+id=BOE-A-2022-8042
+https://sede.gobiernodecanarias.org/boc boc-a-2026-144-2561
