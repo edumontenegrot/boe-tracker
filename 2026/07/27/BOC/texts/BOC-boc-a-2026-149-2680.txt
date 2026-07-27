@@ -1,0 +1,287 @@
+Boletín Oficial de Canarias núm. 149 28066 Lunes 27 de julio de 2026
+III. Otras Resoluciones
+Consejería de Transición Ecológica y Energía
+2680 DECRETO 124/2026, de 20 de julio, por el que se acuerda la ejecución de la
+instalación eléctrica de “Parque Fotovoltaico Agrícola Arguineguín 1”, de 2 MW,
+en el término municipal de San Bartolomé de Tirajana, isla de Gran Canaria,
+expediente ER220673, promovido por Agrícola Arguineguín, S.L.U., y se ordena la
+modificación del planeamiento afectado.
+Visto que con fecha 30 de junio de 2023 la entidad Agrícola Arguineguín, S.L.U.
+presenta ante la Dirección General de Energía del Gobierno de Canarias solicitud motivada
+de declaración de interés general para la construcción de las instalaciones contempladas
+en el proyecto denominado “Parque Fotovoltaico Agrícola Arguineguín 1”, en el término
+municipal de San Bartolomé de Tirajana.
+El proyecto describe la implantación de una planta fotovoltaica de 2 MW, constituido
+por 4.030 paneles fotovoltaicos de 600 Wp cada uno, 8 inversores de 250 kW de potencia
+unitaria, un centro de transformación de 2.000 kVA, un centro de seccionamiento, protección
+y medida; una línea interior subterránea en M.T. con conductores RHZ1 Al 12/20 kV 1x150
+mm² y, por último, la conexión con la red de distribución aérea (en la misma parcela).
+La instalación consiste en un parque solar fotovoltaico con vertido puro a red ubicado
+en una finca rústica en la que actualmente existe una explotación agrícola con cultivo
+de plataneras. Con el fin de mantener la producción agraria en la finca se proyecta una
+solución de instalación solar sobre suelo intercalada con un nuevo cultivo de bajo porte en
+sustitución de plataneras existentes afectadas por el mal de Panamá.
+La instalación solar no ocupará la totalidad de la finca y se restringirá a la parte
+afectada por la plaga, quedando el resto de la finca en explotación con el cultivo actual. La
+disposición del campo solar se realizará manteniendo y aprovechando los viales existentes
+utilizados por la explotación agraria.
+No existe instalación de autoconsumo asociada por lo que a continuación se describe
+únicamente la instalación de generación de energía eléctrica con vertido puro a red que
+lleva asociada una infraestructuras de evacuación (conjunto de instalaciones necesarias
+para conectar la instalación de producción a la red de distribución en el sentido que
+establece el artículo 21.5 de la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico) y las
+instalaciones de extensión de red de distribución que serán cedidas a la compañía titular de
+la red de distribución:
+Instalación de generación.
+El parque fotovoltaico (PFV) tendrá las siguientes características principales:
+- Potencia pico total (kWp) 2.418.
+- Potencia nominal total (kW) 2.000.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680
+
+Boletín Oficial de Canarias núm. 149 28067 Lunes 27 de julio de 2026
+Campo de generación.
+- 3.720 uds. Módulo fotovoltaico marca Longi Hi-MO X10 LR7-72HVD 640~670M
+Bifacial de 650 Wp o similar sobre seguidor solar.
+- 7 uds. Inversor tipo string Huawei SUN2000-330 KTL o similar.
+- Tensión de generación máxima en CC: 1.500 V.
+- Tensión de generación en CA: 800 V trifásica.
+- Módulos por string (serie) : 27-30.
+- Strings por inversor (paralelo): 19-22.
+- Intensidad de string-Imp- (A) 14.5.
+- Tensión de string -Vmp- (V) 1.170.
+- Horas equivalentes (kWh/kWp/año) 2.508.
+- Producción estimada (MWh/año) 6.072.
+Instalaciones de conexión a red MT pertenecientes a la instalación de producción:
+- Tensión de conexión a red de distribución eléctrica: 20 kV.
+- 1 ud. Centro de transformación (CT) de 2.000 kVA (0,8/20 kV) privado en edificio
+prefabricado de hormigón.
+- 1 línea subterránea de evacuación en media tensión a 20 kV con conductores RHZ1
+AL 12/20 kV 1x150 mm2 de 342 m de canalización discurriendo por el interior de la propia
+parcela.
+- 1 ud. Centro de entrega o seccionamiento (CE) tipo mixto en edificio prefabricado de
+hormigón, albergando celdas MT con funciones de protección y medida.
+Extensión de red de distribución MT (instalaciones cedidas a Edistribución).
+- 4 uds. Celdas de MT en el recinto compañía del CE.
+- 1 tramo de doble línea subterránea de extensión de red de distribución en media
+tensión a 20 kV con conductores RHZ1 AL 12/20 kV 1x150 mm2 de 215 m de longitud de
+canalización discurriendo por el interior de la propia parcela.
+Vista la Orden n.º 10/2024, del Consejero de Transición Ecológica y Energía, de 15 de
+enero de 2024, por la que se declara el interés general del proyecto Parque Fotovoltaico
+Planta Agrícola Arguineguín 1, de 2 MW, en el término municipal de San Bartolomé de
+Tirajana, expediente ER220673, conforme a lo establecido en el artículo 6 bis de la Ley
+11/1997, de 2 de diciembre, de regulación del Sector Eléctrico Canario.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680
+
+Boletín Oficial de Canarias núm. 149 28068 Lunes 27 de julio de 2026
+Visto que el Cabildo Insular de Gran Canaria, con fecha 24 de abril de 2024, emitió un
+informe concluyendo lo siguiente:
+«…se concluye que el proyecto denominado “Proyecto de ejecución de la instalación
+Parque Fotovoltaico Agrícola Arguineguín 1” (modificado con anexo), sometido a la
+consideración de este cabildo resulta disconforme con lo que establece el PIOGC23 por lo
+que se considera más conveniente desde el punto de vista técnico ubicar dicha planta solar
+fotovoltaica en otra localización más adecuada territorialmente».
+Visto que con respecto al Ayuntamiento de San Bartolomé de Tirajana, no se ha
+recibido ningún informe de contestación acerca de la consulta realizada sobre la Orden
+de Declaración de Interés General (DIG) n.º 10/2024, efectuada con fecha 17 de enero
+de 2024. Además, se reiteró la consulta sobre la mencionada Orden DIG con fecha 23 de
+febrero de 2024, sin respuesta alguna.
+Visto informe del entonces Director General de Energía, de fecha 12 de diciembre
+de 2022, el cual concluye que “...Los datos que se aportan en el proyecto en cuanto a
+su ubicación y características técnicas, el mismo no se encuentra entre los supuestos
+contemplados en los anexos de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental,
+por lo que no le es de aplicación ninguno de los procedimientos de evaluación de impacto
+ambiental previstos en la misma, siempre y cuando el proyecto en cuestión no sea fracción
+de otros…”.
+Considerando que el proyecto se encuentra exento de Declaración de Impacto Ambiental
+(DIA) al no encontrarse las actuaciones en ninguno de los supuestos de los Anexos I y II de
+la de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental:
+Actividad no clasificada.
+La actividad, producción de energía eléctrica a partir de energía solar fotovoltaica,
+se considera inocua al no estar clasificada como actividad molesta, insalubre, nociva o
+peligrosa. No obstante, requiere someterse al régimen de autorización administrativa que
+se establece para la construcción de instalaciones eléctricas de tensión igual o superior a
+1 kV (Decreto 141/2009) y para instalaciones fotovoltaicas de potencia superior a 100 kW
+(Decreto 52/2012).
+La finca en la que se proyecta la instalación se utiliza actualmente para cultivo de
+plataneras.
+El suelo ocupado por la instalación fotovoltaica no impide el uso agrícola del mismo.
+La actividad de producción de energía eléctrica fotovoltaica puede ser compatible con la
+actividad agrícola lo que no dará lugar a la pérdida de terreno para la agricultura.
+La instalación del sistema FV no se realiza con la finalidad de utilizar la energía
+generada para consumo propio, sino para su inyección en la red de distribución y venta
+en el mercado de electricidad, acogiéndose al derecho que otorga la Ley 24/2013, de 26
+de diciembre, del Sector Eléctrico. La actividad a desarrollar se considera inocua ya que
+no tiene incidencia sobre la fauna, el agua o el aire, y las afecciones susceptibles de ser
+provocadas (ruido, vibraciones, calor, olores, residuos, vertidos, emisiones de materia o
+energía lumínica) son inapreciables.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680
+
+Boletín Oficial de Canarias núm. 149 28069 Lunes 27 de julio de 2026
+Visto informe-propuesta del Director General de Energía, de fecha 30 de junio de 2026,
+complementado por informe jurídico de ese Centro Directivo de fecha 17 de julio de 2026.
+Visto que concurren razones justificadas de urgencia y excepcional interés que motivaron
+la declaración de interés general de las obras necesarias para la ejecución del referido
+proyecto y que se han cumplido los requisitos previstos en el artículo 6 bis, apartado 1,
+de la Ley 11/1997, de 2 de diciembre, de regulación del Sector Eléctrico Canario:
+Necesidad del impulso de la producción eléctrica con fuentes renovables.
+Las singularidades de los sistemas eléctricos en territorios no peninsulares respecto
+del sistema peninsular, derivadas fundamentalmente de su carácter aislado y su reducido
+tamaño, encarecen el coste de generación eléctrica frente al peninsular, diferencia que se
+ha visto incrementada sustancialmente en los últimos años. Este extracoste es repercutido
+bien entre todos los consumidores eléctricos a través de los peajes o bien entre todos los
+contribuyentes a través de los Presupuestos Generales del Estado.
+En Canarias, el coste de generación a partir de la tecnología eólica y fotovoltaica es
+sensiblemente inferior a la generación a partir de tecnologías térmicas de origen fósil, lo
+que supone que su participación en la generación eléctrica reduce el coste energético.
+Por otro lado, las energías renovables presentan incuestionables ventajas de índole
+ambiental, entre ellas, con carácter general, un menor impacto por contaminación
+atmosférica y una mejora de las condiciones de cumplimiento del Acuerdo de París sobre
+el calentamiento global (Convención Marco de las Naciones Unidas sobre el Cambio
+Climático, celebrada entre el 30 de noviembre al 12 de diciembre de 2015).
+El Gobierno de Canarias acordó, el 30 de agosto de 2019, la Declaración de Emergencia
+Climática con la finalidad de comprometer todas las políticas del Gobierno de Canarias
+y de las Administraciones Públicas canarias, que puedan contribuir a frenar la amenaza
+mundial que entraña el cambio climático. Dicho Acuerdo fija como meta alcanzar la
+descarbonización de la economía canaria en el año 2040. Asimismo, marca entre sus
+objetivos la máxima penetración de las instalaciones de producción de energía eléctrica a
+partir de fuentes renovables.
+Asimismo, el Gobierno de Canarias acordó, el 2 de octubre de 2023, la Declaración
+de Emergencia Energética en la Comunidad Autónoma de Canarias. Dicho Acuerdo tiene
+por objeto comprometer todas las políticas y medidas que sean necesarias a adoptar por
+el Gobierno de Canarias tendentes a resolver en primera instancia la actual situación de
+vulnerabilidad que presenta la generación eléctrica en Canarias, en aras a garantizar la
+seguridad del suministro eléctrico con los niveles necesarios de calidad, pero también
+para propiciar una adecuada transición energética en condiciones de seguridad energética,
+promoviendo para ello el desarrollo de las energías renovables, la implantación de sistemas
+de almacenamiento y la ejecución de las infraestructuras de transporte y distribución
+planificadas. Uno de los principales objetivos de dicho Acuerdo es posibilitar la mayor
+contribución de las energías renovables en los sistemas insulares canarios priorizando la
+seguridad del suministro eléctrico.
+En sintonía con lo anterior, el Plan Nacional de Energía y Clima (PNIEC) trata de
+impulsar la máxima utilización posible de fuentes de energía renovable, especialmente la
+eólica y solar, como medios para reducir la vulnerabilidad exterior del sistema energético y
+para mejorar la protección del medio ambiente y lucha contra el cambio climático.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680
+
+Boletín Oficial de Canarias núm. 149 28070 Lunes 27 de julio de 2026
+A la vista de lo anterior, nos encontramos ante una situación energética excepcional
+que requiere el impulso de todas las medidas posibles por las Administraciones Públicas
+para la implantación urgente de las infraestructuras de aprovechamiento de las energías
+renovables.
+En cuanto a los impactos positivos por la ejecución del proyecto, tenemos los siguientes:
+Reducción del coste de la energía eléctrica de los sistemas eléctricos.
+Así, la sustitución de generación convencional por generación renovable, concretamente
+por la ejecución del proyecto Parque Fotovoltaico Agrícola Arguineguín 1, de 2 MW, cuya
+declaración de interés general se propuso, supone una reducción aproximada del extracoste
+de generación en los sistemas eléctricos de los territorios no peninsulares, estimándose su
+producción en 5.883 MWh/año. Esta energía equivale a unas 505,8 toneladas equivalentes
+de petróleo anuales (tep) que no será necesario consumir, y dada la escasez de este producto
+en el territorio, conllevará un significativo ahorro en la factura energética y en la balanza
+de pagos.
+Contribución al cumplimiento de las previsiones de la planificación energética.
+Para establecer el valor de potencia instalada de generación por tipo de tecnología en
+el escenario 2026, el Plan de Desarrollo de la Red de Transporte de Energía Eléctrica para
+el periodo 2021-2026 interpola linealmente los datos fijados en el PNIEC en los escenarios
+Objetivo 2025 y 2030. Respecto a la energía fotovoltaica, el citado Plan establece un
+objetivo de potencia para el sistema eléctrico de Gran Canaria de 180 MW, de los cuales,
+142,18 MW están actualmente instalados, por debajo de los objetivos previstos.
+La lucha contra el cambio climático.
+La energía generada por las instalaciones de generación que evacuarán a través de este
+proyecto, supondría una reducción anual de 4.565 toneladas de CO a la atmósfera.
+2
+Impulso de la economía.
+La inversión aproximada de las instalaciones de generación propuestas asciende a
+1.525.226 euros.
+Para hacer frente a esta situación, es decir, las razones excepcionales para la implantación
+de las energías renovables por un lado y, por otro, el retraso de la planificación territorial
+acorde a las necesidades de implantación de dichas energías, justifican la necesidad de
+acudir al procedimiento excepcional previsto en el artículo 6 bis de la Ley 11/1997, de 2
+de diciembre, de regulación del Sector Eléctrico Canario, a través del procedimiento
+excepcional para obras de interés general para el suministro de energía eléctrica.
+De acuerdo con el apartado 6 de dicho artículo, en caso de detectarse disconformidad
+con el planeamiento, inexistencia de este, o ausencia de ordenación concreta aplicable al
+proyecto, se elevará dicho proyecto al Gobierno de Canarias, el cual decidirá si procede o
+no su ejecución y, en el primer caso, precisará los términos de la ejecución y ordenará a la
+Administración competente la adaptación del planeamiento correspondiente con ocasión
+de la primera modificación sustancial del mismo.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680
+
+Boletín Oficial de Canarias núm. 149 28071 Lunes 27 de julio de 2026
+En este caso, al proyectarse la instalación sobre suelo rústico y constar en el expediente
+la disconformidad informada por el Cabildo Insular de Gran Canaria con el planeamiento
+insular vigente, así como la ausencia de ordenación urbanística municipal concreta y
+suficientemente pormenorizada que permita legitimar directamente su implantación,
+resulta necesaria la adopción del Acuerdo del Gobierno de Canarias previsto en el apartado
+6 del artículo 6 bis de la Ley 11/1997, de 2 de diciembre, de regulación del Sector Eléctrico
+Canario.
+Por su parte, el apartado 7 del citado artículo 6 bis especifica que el acuerdo favorable
+del Gobierno de Canarias legitimará por sí mismo la ejecución de los actos de construcción,
+edificación y uso del suelo incluidos en los correspondientes proyectos de instalaciones
+de generación, transporte y distribución, sin necesidad de ningún otro instrumento de
+planificación territorial o urbanística.
+Vista la solicitud del promotor, de 21 de febrero de 2022, para el otorgamiento de
+la autorización administrativa de construcción del proyecto objeto de este Decreto con
+eficacia retroactiva.
+Resultando que la citada autorización administrativa no ha podido ser otorgada dentro
+del plazo establecido por el artículo 1 del Real Decreto-ley 23/2020, de 23 de junio, por
+el que se aprueban medidas en materia de energía y en otros ámbitos para la reactivación
+económica, el cual finalizó el pasado 13 de julio de 2026.
+Considerando lo señalado en el artículo 39.3 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, que permite
+otorgar, excepcionalmente, “eficacia retroactiva a los actos cuando… produzcan efectos
+favorables al interesado, siempre que los supuestos de hecho necesarios existieran ya en
+la fecha a que se retrotraiga la eficacia del acto y esta no lesiones derechos o intereses
+legítimos de otras personas”. A estos efectos del informe emitido por la Dirección General
+de Energía de fecha 17 de julio de 2026, cabe deducir el parecer de dicho Centro Directivo
+a la aplicación de la eficacia retroactiva.
+Resultando que, en este caso, se trata de un acto que genera efectos favorables para los
+interesados cuyos términos, condiciones y requisitos constan cumplidos ya el 13 de julio
+de 2026, según el informe emitido por la Dirección General de Energía de fecha 17 de julio
+de 2026, de tal forma que el otorgamiento retroactivo permite cumplir con lo establecido
+en el citado Real Decreto-ley 23/2020, de 23 de junio, evitando así que el retraso en el
+otorgamiento de la autorización cause perjuicios a la promotora. En este sentido, vista
+la documentación obrante en el expediente administrativo remitido desde la Dirección
+General de Energía y el citado informe de fecha 17 de julio de 2026, se desprende que
+no se lesionan derechos e intereses legítimos de otras personas interesadas en el proyecto
+“Parque Fotovoltaico Agrícola Arguineguín 1 de 2 MW, EXPTE ER220673”.
+Considerando que, de conformidad con el artículo 45.1 de la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los
+actos administrativos podrán ser objeto de publicación cuando así lo aconsejen razones
+de interés público. En el presente caso, esas razones vienen dadas por la afección que
+tiene el artículo 6 bis de la Ley 11/1997, de 2 de diciembre, sobre los planes territoriales o
+urbanísticos, que son disposiciones de carácter general y que, a su vez, también se publican
+en los diarios oficiales correspondientes.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680
+
+Boletín Oficial de Canarias núm. 149 28072 Lunes 27 de julio de 2026
+En su virtud, y de conformidad con las disposiciones de general aplicación, a propuesta
+del Consejero de Transición Ecológica y Energía, y previa deliberación del Gobierno, en su
+reunión celebrada el día 20 de julio de 2026,
+RESUELVO:
+Primero.- Acordar la ejecución de la instalación eléctrica de “Parque Fotovoltaico
+Agrícola Arguineguín 1”, de 2 MW, en el término municipal de San Bartolomé de Tirajana,
+isla de Gran Canaria, expediente ER220673, promovido por Agrícola Arguineguín, S.L.U.,
+conforme a la documentación obrante en la Consejería de Transición Ecológica y Energía,
+con efectos desde el 13 de julio de 2026.
+Segundo.- Ordenar paralelamente la modificación del planeamiento territorial afectado,
+con ocasión de la primera modificación sustancial del mismo, respecto de todas aquellas
+determinaciones que resulten necesarias para la ejecución del proyecto objeto del presente
+Decreto.
+Tercero.- Publicar el presente Decreto en el Boletín Oficial de Canarias.
+Contra el presente acto, que pone fin a la vía administrativa, podrá interponerse recurso
+potestativo de reposición ante el Gobierno de Canarias en el plazo de un mes a contar desde
+el día siguiente a su notificación o publicación, o bien directamente recurso contencioso-
+administrativo ante la Sala competente de lo Contencioso-administrativo del Tribunal
+Superior de Justicia de Canarias, en el plazo de dos meses a contar desde el día siguiente
+al de su notificación o publicación, significando que, en caso de presentarse recurso de
+reposición, no se podrá interponer recurso contencioso-administrativo hasta que se resuelva
+expresamente el primero o se produzca la desestimación presunta del mismo, y todo ello
+sin perjuicio de cualquier otro recurso que pudiera interponerse.
+Dado en Canarias, a 20 de julio de 2026.
+EL PRESIDENTE
+DEL GOBIERNO,
+Fernando Clavijo Batlle.
+EL CONSEJERO DE TRANSICIÓN
+ECOLÓGICA Y ENERGÍA,
+Mariano Hernández Zapata.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-149-2680

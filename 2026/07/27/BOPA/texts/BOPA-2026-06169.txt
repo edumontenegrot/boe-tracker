@@ -1,0 +1,70 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 143 de 27-VII-2026 1/2
+https://miprincipado.asturias.es/bopa
+96160-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+UnIVersIdad de OVIedO
+ResoluCión de 16 de julio de 2026, de la universidad de oviedo, por la que se publica el plan de estudios de
+Máster universitario en Aplicaciones de supercomputación y Aprendizaje Automático en Ciencia y Tecnología por
+la universidad de oviedo.
+de conformidad con lo dispuesto en los artículos 26 y 27 del real decreto 822/2021, de 28 de septiembre, por el que
+se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad, una
+vez aprobada la propuesta de implantación por el Consejo de Gobierno de la Universidad de Oviedo, y habiendo sido
+verificada mediante Resolución del Consejo de Universidades de fecha 21 de enero de 2026 previo informe favorable de
+la agencia nacional de evaluación de la Calidad y acreditación (aneCa), este rectorado ha resuelto:
+Ordenar la publicación del plan de estudios de las enseñanzas conducentes a la obtención del título oficial de Máster
+Universitario en Aplicaciones de Supercomputación y Aprendizaje Automático en Ciencia y Tecnología por la Universidad
+de Oviedo, una vez obtenida la autorización de la Comunidad autónoma del Principado de asturias según acuerdo de 23
+de marzo de 2026 (BOPA 23-03-2026) y establecido el carácter oficial del título por Acuerdo del Consejo de Ministros de
+16 de junio de 2026 (BOe 24-06-2026), quedando estructurado según consta en el anexo a esta resolución.
+Oviedo, a 16 de julio de 2026.—el rector.—Cód. 2026-06169.
+Anexo
+PlAn De eSTUDiOS COnDUCenTe Al TíTUlO OfiCiAl De MáSTeR UniveRSiTARiO en APliCACiOneS De SUPeRCOMPUTACión y
+APRenDizAje AUTOMáTiCO en CienCiA y TeCnOlOgíA POR lA UniveRSiDAD De OvieDO
+Código RUCT: 3500887.
+rama de Conocimiento: Ciencias.
+Campo de estudio: Interdisciplinar.
+Distribución del plan de estudios en créditos eCTs por tipo de materia
+Tipo de materia Créditos ECTS
+Obligatoria (OB) 30
+Optativa (OP) 12
+Prácticas Académicas externas (PAe) 6
+Trabajo de fin de Máster (TfM) 12
+Total créditos 60
+estructura del plan de estudios por módulos, asignaturas, carácter y temporalidad de las mismas
+Módulo Asignatura ECTS Carácter Temporalidad
+Herramientas Científicas para el Análisis y Modelización de Datos 6 OB s1
+Computación Científica de Altas Prestaciones 6 OB s1
+fundamental Aspectos legales y Éticos del Tratamiento de Datos Científicos 3 OB s1
+(30 eCTS) Herramientas Científicas Avanzadas para el Análisis y Modelización de Datos 6 OB s1
+Aprendizaje Automático para Aplicaciones Científicas y Tecnológicas 6 OB s1
+visualización y Análisis de Datos Científicos 3 OB s1
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 143 de 27-VII-2026 2/2
+https://miprincipado.asturias.es/bopa
+96160-6202
+.dóC
+Módulo Asignatura ECTS Carácter Temporalidad
+Aprendizaje Automático Avanzado para Aplicaciones Científicas y Tecnológicas 3 OP s2
+Optimización de Procesos asistida por Ordenador 3 OP s2
+Computación Cuántica 3 OP s2
+Biomarcadores multiómicos para medicina Personalizada 3 OP s2
+Optativo
+(a elegir 12 eCTS Cribado de alto rendimiento en Ciencia de materiales 3 OP s2
+de los 30 eCTS diseño y simulación de nuevos materiales y nanoestructuras 3 OP s2
+ofertados)
+Simulación y Diseño Computacional de Biomoléculas 3 OP s2
+Química Computacional de Moléculas y Sólidos 3 OP s2
+interpretación y Análisis de Datos genómicos 3 OP s2
+Metagenómica y Transcriptómica 3 OP s2
+Prácticas
+Académicas
+Prácticas Académicas externas 6 Pae s2
+externas
+(6 eCTS)
+Trabajo fin de
+Máster Trabajo fin de Máster 12 TfM s2
+(12 eCTS)
