@@ -1,0 +1,80 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 184 Miércoles 29 de julio de 2026 Sec. III. Pág. 106758
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+16541 Resolución de 16 de julio de 2026, de la Universidad de Oviedo, por la que se
+publica el plan de estudios de Máster Universitario en Aplicaciones de
+Supercomputación y Aprendizaje Automático en Ciencia y Tecnología.
+De conformidad con lo dispuesto en los artículos 26 y 27 del Real Decreto 822/2021,
+de 28 de septiembre, por el que se establece la organización de las enseñanzas
+universitarias y del procedimiento de aseguramiento de su calidad, una vez aprobada la
+propuesta de implantación por el Consejo de Gobierno de la Universidad de Oviedo, y
+habiendo sido verificada mediante Resolución del Consejo de Universidades de fecha 21
+de enero de 2026 previo informe favorable de la Agencia Nacional de Evaluación de la
+Calidad y Acreditación (ANECA),
+Este Rectorado ha resuelto ordenar la publicación del plan de estudios de las
+enseñanzas conducentes a la obtención del título oficial de Máster Universitario en
+Aplicaciones de Supercomputación y Aprendizaje Automático en Ciencia y Tecnología
+por la Universidad de Oviedo, una vez obtenida la autorización de la Comunidad
+Autónoma del Principado de Asturias según Acuerdo de 23 de marzo de 2026 (BOPA 23
+de marzo de 2026) y establecido el carácter oficial del título por Acuerdo del Consejo de
+Ministros de 16 de junio de 2026 (BOE 24 de junio de 2026), quedando estructurado
+según consta en el anexo a esta resolución.
+Oviedo, 16 de julio de 2026.–El Rector, Ángel Ignacio Villaverde Menéndez.
+ANEXO
+Plan de estudios conducente al título oficial de Máster Universitario en
+Aplicaciones de Supercomputación y Aprendizaje Automático en Ciencia y
+Tecnología por la Universidad de Oviedo. Código RUCT: 3500887
+Rama de Conocimiento: Ciencias
+Campo de Estudio: Interdisciplinar
+Distribución del plan de estudios en créditos ECTS por tipo de materia:
+Créditos
+Tipo de materia
+ECTS
+Obligatoria (OB). 30
+Optativa (OP). 12
+Prácticas Académicas Externas (PAE). 6
+Trabajo de Fin de Máster (TFM). 12
+Total créditos. 60
+14561-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 184 Miércoles 29 de julio de 2026 Sec. III. Pág. 106759
+Estructura del plan de estudios por módulos, asignaturas, carácter y temporalidad de
+las mismas:
+Módulo Asignatura ECTS Carácter Temporalidad
+Herramientas Científicas para el Análisis y Modelización de Datos. 6 OB S1
+Computación Científica de Altas Prestaciones. 6 OB S1
+Aspectos Legales y Éticos del Tratamiento de Datos Científicos. 3 OB S1
+Fundamental (30 ECTS). Herramientas Científicas Avanzadas para el Análisis y Modelización
+6 OB S1
+de Datos.
+Aprendizaje Automático para Aplicaciones Científicas y
+6 OB S1
+Tecnológicas.
+Visualización y Análisis de Datos Científicos. 3 OB S1
+Aprendizaje Automático Avanzado para Aplicaciones Científicas y
+3 OP S2
+Tecnológicas.
+Optimización de Procesos Asistida por Ordenador. 3 OP S2
+Computación Cuántica. 3 OP S2
+Biomarcadores Multiómicos para Medicina Personalizada. 3 OP S2
+Optativo (a elegir 12 ECTS de los 30 ECTS Cribado de Alto Rendimiento en Ciencia de Materiales. 3 OP S2
+ofertados).
+Diseño y Simulación de Nuevos Materiales y Nanoestructuras. 3 OP S2
+Simulación y Diseño Computacional de Biomoléculas. 3 OP S2
+Química Computacional de Moléculas y Sólidos. 3 OP S2
+Interpretación y Análisis de Datos Genómicos. 3 OP S2
+Metagenómica y Transcriptómica. 3 OP S2
+Prácticas Académicas Externas (6 ECTS). Prácticas Académicas Externas. 6 PAE S2
+Trabajo Fin de Máster (12 ECTS). Trabajo Fin de Máster. 12 TFM S2
+14561-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X
