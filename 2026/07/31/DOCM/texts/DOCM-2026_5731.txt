@@ -1,0 +1,1313 @@
+AÑO XLV Núm. 145 31 de julio de 2026 29249
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 23/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, por la que
+se formula el informe de impacto ambiental del proyecto: Planta de captación solar con almacenamiento
+térmico y generación fotovoltaica con baterías para autoconsumo (expediente S478/2025/AB/00044), situado
+en el término municipal de Albacete (Albacete), cuya promotora es Intermalta, SA. [2026/5731]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, dentro del Grupo 4 “Industria
+Energética”, apartado h “Instalaciones para la producción de energía eléctrica a partir de la energía solar no incluidas
+en el anexo I ni instaladas sobre cubiertas o tejados de edificios, y que ocupen una superficie mayor de 10 hectáreas”.
+También se incluye en el anexo II de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, modificada por el
+Real Decreto 445/2023, de 13 de junio, dentro del Grupo 4 “Industria energética”, apartado “j) Instalaciones para la
+producción de energía eléctrica a partir de la energía solar no incluidas en el anexo I, ni instaladas sobre cubiertas o
+tejados de edificios, así como, las que ocupen una superficie inferior a 5 ha salvo que cumplan los criterios generales
+1 o 2”.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+1.1. Descripción general del proyecto.
+Según el documento ambiental, fechado en enero de 2026, el proyecto consiste en un nuevo sistema de producción
+térmico y eléctrico renovable que está destinado a atender las demandas térmicas y eléctricas de la factoría de
+Intermalta en Albacete. Este sistema estará formado por una planta de producción de agua sobrecalentada por un
+sistema de concentración solar térmica con un sistema común de almacenamiento térmico que permite aprovechar
+el 100% de la generación térmica renovable, así como una instalación fotovoltaica con almacenamiento eléctrico.
+El proyecto consiste en una instalación híbrida que integra un campo solar fotovoltaico con una potencia pico de
+3,4 MW y una potencia nominal eléctrica de 3,005 MVA que dispondrá 2 contenedores diseñados para albergar los
+módulos de baterías de capacidad de almacenamiento de unos 5 MWh y una potencia nominal de carga/descarga de
+unos 2 MWdc; y una instalación de concentración solar térmica destinada a la generación de agua sobrecalentada
+a 220 ºC, con una potencia térmica de 12 MWt y una capacidad de almacenamiento de 40 MWht.
+El conjunto de las instalaciones ocupa aproximadamente 3,39 ha e incluye una línea eléctrica de evacuación
+subterránea a 20 kV y conducciones térmicas subterráneas. La potencia nominal eléctrica corresponde exclusivamente
+a la instalación fotovoltaica; la potencia térmica no se computa a efectos de los umbrales eléctricos, aunque sus
+características se consideran en la evaluación ambiental del proyecto.
+La energía eléctrica y térmica producida no se verterá a la red, sino que se destinará exclusivamente al autoconsumo
+de la planta industrial Intermalta, lo que reduce significativamente los posibles impactos ambientales asociados a la
+distribución y consumo de energía.
+El proyecto se ubicará dentro de 5 parcelas y una parte de la parcela 4 del Polígono 29, una finca libre de edificaciones
+arrendada por Intermalta, próxima al Polígono Industrial de Romica. La finca resultante tiene una superficie de
+322.057 m², a una altura de 681 m.s.n.m.
+Las áreas vinculadas de las superficies de cada una de estas parcelas, ubicadas en el polígono 29 del t.m. de
+Albacete, son las siguientes: parcela 4 (66.979 m²); parcela 8 (76.491 m²); parcela 9 (53.589 m²); parcela 10 (48.291
+m²); parcela 12 (47.625 m²); y parcela 13 (29.082 m²). Suponen un total de 322.057 m².
+
+AÑO XLV Núm. 145 31 de julio de 2026 29250
+En el Anexo I (cartografía), se muestra un plano de implantación del proyecto sobre ortofoto.
+El campo solar fotovoltaico tendrá una potencia pico de 3,4 MW y una potencia nominal de 3,005 MVA, e incluirá los
+siguientes equipos:
+- Paneles fotovoltaicos y seguidores.
+- Módulo skid de inversor central, transformador de potencia y auxiliares.
+- Edificio prefabricado CPM, con celdas de media tensión.
+- Contenedores de baterías (almacenamiento eléctrico). Se dispondrán 2 contenedores diseñados para albergar
+los módulos de baterías que componen el sistema de almacenamiento eléctrico. Las baterías dispondrán de una
+capacidad de almacenamiento de unos 5 MWh y una potencia nominal de carga/descarga de unos 2 MWdc. Su
+objetivo es almacenar energía durante los periodos de alta producción de fotovoltaica que excede las necesidades
+del usuario y verterla a la industria en momentos de demanda donde la energía fotovoltaica no produce suficiente
+energía para suplir las necesidades industriales.
+El campo solar térmico tendrá la capacidad de generar 12 MWt (potencia pico) de agua sobrecalentada a 220ºC y
+una capacidad de almacenamiento de energía térmica de 40 Mwht, e incluirá los siguientes equipos:
+- Colectores parabólicos de concentración solar, los cuales emplean su superficie reflectante con forma de parábola
+extruida para concentrar la radiación solar directa en un receptor lineal.
+- Almacenamiento térmico, en 4 tanques de agua sobrecalentada estratificada, en los cuales, mediante la diferencia
+de densidad del agua a diferentes temperaturas, se genera una termoclina.
+- Bombas.
+- Sistema de expansión.
+- Intercambiador de calor de 9 MW de tipo carcasa-tubo, el cual suministrará energía térmica desde la concentración
+solar a la planta actual de Intermalta.
+En el Anexo I de esta resolución se incluye un plano que muestra la implantación de las instalaciones sobre ortofoto.
+El desarrollo de este proyecto también requiere determinados trabajos de obra civil. Entre ellos, para la conexión
+entre las instalaciones existentes de Intermalta Albacete con el campo de concentración solar térmica y el campo
+solar fotovoltaico, es necesaria la construcción de una zanja enterrada para el transporte de redes enterradas de
+unos 840 metros de longitud y 2,5 metros de ancho aproximadamente, seguido por un paso subterráneo a través de
+la carretera AB-104, con el sistema de una perforación horizontal dirigida. El área ocupada por esta intervención de
+las redes enterradas será de unos 2.100 m², aproximadamente, seguido del paso enterrado de aproximadamente
+45 a 50 metros de longitud.
+Se realizará un vallado perimetral de la instalación, basado en malla metálica de torsión simple, con postes metálicos
+lacados. Incorporará portones para el ingreso y salida de los vehículos y personal necesario para el mantenimiento
+del proyecto. En ciertos sectores, tendrá alturas variables, para cumplir funciones de cortavientos o anti-reflectantes,
+para lo cual se adicionarán mallas de polietileno de alta densidad (HDPE).
+En particular, se prevé la instalación de un vallado cortavientos para evitar cargas excesivas de viento que puedan
+originar el vuelco de la estructura de espejos de los colectores del campo solar térmico. Según la información de la
+rosa de los vientos, en Albacete el viento predominante y de mayor velocidad procede del Noroeste, por lo que se ha
+previsto un vallado cortavientos de 6,5 m de altura en el lado Oeste (y un tramo del lado Norte) de la ubicación de los
+colectores del campo solar térmico, situado a 20 m del límite de la parcela, y dejando la distancia adecuada (16,5 m)
+hasta el eje de los colectores del campo solar térmico. Este vallado cortavientos también hará función de anti-reflejo
+para evitar afectación de reflejos a los vehículos que circulen por la carretera AB-104. La longitud aproximada para
+el lado oeste del proyecto son 464 metros, y para el lado norte 44 metros.
+Además, en el lado Sureste del campo de concentración solar también se instalará un vallado anti-reflejo para evitar
+afectación de los reflejos a los vehículos que circulen por la carretera N-322. Este vallado será de características
+similares al anterior, pero de menor altura (3 m.), y menor longitud (224 m. + 81 m. en el lado Este), y estará situado
+a 20 m. del límite de parcela.
+Se indica que, junto al vallado cinegético perimetral, se realizará una plantación de anchura variable, con un máximo
+de 5 m. Esta plantación se realizará a lo largo del vallado perimetral exterior al norte y al sur, evitando las pantallas
+antirreflejos y cortavientos. Se utilizarán arbustos del tipo coscoja (Quercus coccifera), lentisco (Pistacia lentiscus),
+
+AÑO XLV Núm. 145 31 de julio de 2026 29251
+aladierno (Rhamnus alaternus) y aulaga (Genista scorpius). En el caso de realizarse siembras mixtas (herbáceas
+más arbustivas de porte bajo) se realizará un sembrado con un porcentaje de semillas de especies arbustivas en las
+proporciones marcadas en esta memoria. Dichas semillas estarán garantizadas y tendrán una potencia germinativa de
+acuerdo al porcentaje admitido en la práctica forestal. En este caso se utilizarán las siguientes especies: manzanilla
+(Santolina chamaeciparissus), lavandula (Lavandula angustifolia) y tomillo (Thymus vulgaris). Las especies arbóreas y
+arbustivas se dispondrán sobre la franja perimetral exterior del vallado cinegético norte y sur, de 545,57 m de longitud
+total y 3 metros de anchura máxima, con una superficie resultante de 0,16 ha. La plantación se realizará al tresbolillo,
+con un marco de plantación de 3 x 3 m, con una densidad de 1.112 plantas/ha, procurando una distribución irregular,
+con hoyos (de apertura manual o mecánica) de 30 x 30 x 30 cm ó 40 x 40 x 40 cm.
+Los consumos de agua asociados al proyecto serán reducidos y se concentrarán principalmente en las fases de
+construcción y desmantelamiento, derivados del uso por parte del personal implicado en las obras (principalmente
+en aseos y para la humectación de hormigón y arenas), así como en la fase de operación, asociados al uso de agua
+en los espacios auxiliares y de control de la instalación (oficina y aseos).
+En relación con la instalación de concentración solar térmica, el sistema de almacenamiento de energía se basa en
+el uso de agua como fluido caloportador en circuito cerrado, almacenada en forma de agua estratificada a diferentes
+temperaturas (termoclina). La capacidad de almacenamiento térmico prevista es de 40 MWh térmicos, para lo cual
+se dispondrán cuatro tanques de aproximadamente 120 m³ cada uno, con un volumen total aproximado de 480 m³.
+Este volumen de agua corresponde exclusivamente al llenado inicial del sistema de almacenamiento y del circuito
+térmico, no tratándose de un consumo periódico ni continuado durante la fase de explotación. El funcionamiento de
+la instalación termosolar no requiere captaciones adicionales de agua ni genera vertidos asociados a su operación,
+más allá de reposiciones puntuales de escasa entidad por operaciones de mantenimiento.
+No se prevén consumos significativos de energía durante la fase de construcción, más allá de los asociados al
+funcionamiento de equipos auxiliares, como equipos informáticos de la caseta de obra, grupos de soldadura y
+otros pequeños consumos. La energía necesaria para las tareas constructivas se suministrará mediante grupos
+electrógenos diésel localizados en la zona de obras. Durante la fase de explotación, el consumo energético auxiliar
+será reducido y estará asociado principalmente a los sistemas de control, monitorización y seguridad de la instalación.
+Se realiza un análisis de riesgos y vulnerabilidad del proyecto, indicando que no se prevén efectos derivados de la
+vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se produzcan
+los mismos, y sobre los probables efectos adversos significativos sobre el medio ambiente, en caso de ocurrencia
+de los mismos. Tras analizar la vulnerabilidad para cada uno de los fenómenos naturales y de funcionamiento
+durante las fases, por un lado, de construcción y desmantelamiento con un periodo temporal más corto y por otro
+lado de funcionamiento, con un periodo temporal más amplio, se establece en ambos casos que la vulnerabilidad
+de la instalación se considera muy baja, lo cual implica que no se requieren medidas de actuación pero que sí se
+requieren comprobaciones periódicas para asegurar que se mantiene la eficacia de las medidas de control y no
+aumenta el riesgo.
+1.2. Estudio de alternativas.
+En cuanto al estudio de alternativas, en primer lugar, se plantea la alternativa cero, que consiste en la no intervención,
+lo cual supone la no realización del proyecto Planta Solar Fotovoltaica (PSF) y Planta Solar Térmica (PST)
+Intermalta. En ese caso, no se afectaría a ningún elemento del medio natural (vegetación, suelos, geología, etc.), si
+bien, la no actuación repercutiría de forma negativa en el aprovechamiento del recurso solar para la producción de
+energía eléctrica o el elemento socio-económico. Tras analizar ventajas e inconvenientes, el documento ambiental
+expone que la consideración de la Alternativa 0 (la no construcción de la PSF y PST) no sería viable, puesto que
+con la ejecución del proyecto se favorece la mejora de las infraestructuras sociales y económicas de la zona de
+implantación, además de tener una serie de ventajas medioambientales frente a otras fuentes de energía eléctrica
+tales como centrales de ciclo combinado o centrales de carbón. Se destacan las siguientes ventajas:
+- No produce emisión de gases contaminantes.
+- No contribuye a la lluvia ácida y al efecto invernadero.
+- Se reduce la emisión de CO2 a la atmósfera.
+- Es una energía inagotable.
+- Poseer un suministro propio de energía evitando la dependencia energética de terceros países.
+- No existen impactos por la extracción, transporte y transformación que originan las fuentes de energía convencionales
+(fósiles como carbón, petróleo o gas).
+
+AÑO XLV Núm. 145 31 de julio de 2026 29252
+Una vez descartada la alternativa cero, se procede a realizar la selección del área de implantación. Para la selección
+de las posibles ubicaciones de los emplazamientos, se siguen una serie de criterios rigurosos, tales como la
+disponibilidad de suficiente recurso, la facilidad para el desarrollo de accesos y la orientación adecuada.
+Se ha tenido en cuenta que la tecnología de concentración solar térmica requiere extensiones de terreno amplias
+y continuas, lo que resulta inviable en suelo urbano o industrial. Su implantación es, en cambio, compatible con el
+carácter agroenergético del suelo rústico, al no interferir con usos agrícolas activos ni comprometer su potencial
+productivo. Asimismo, este tipo de instalaciones requiere condiciones solares óptimas, que se dan en mayor medida
+en el emplazamiento propuesto, donde la irradiación solar es superior a la disponible en entornos urbanos, mejorando
+la eficiencia energética del sistema.
+Una vez determinados los criterios previos de exclusión y realizado un análisis previo a nivel territorial, se procede a
+la selección definitiva de las alternativas, en la que se deberá evaluar la viabilidad de las alternativas consideradas
+viables (se definen tres). Se comparan las tres alternativas (áreas potenciales) mediante un sistema cualitativo, en
+función de cada uno de los criterios considerados para su valoración, que son los siguientes: longitud de la conexión
+eléctrica, facilidad de conexión eléctrica, erosión, permeabilidad, fisiografía, orientación, distancia a poblaciones,
+hidrología, vegetación y usos, hábitats, fauna, espacios protegidos, vías pecuarias y paisaje. Tras aplicar estos
+condicionantes, se obtiene el ámbito de implantación más adecuado, que es el representado por la alternativa
+1, cuyo emplazamiento dispone de diversas ventajas, como por ejemplo, la ubicación más cercana al recinto de
+conexión de Intermalta; la disponibilidad de terreno suficiente para instalar el proyecto con la potencia asignada y
+compatibilidad constructiva derivada de las características del territorio de implantación; respecto a la vegetación
+natural y los hábitats de interés existentes, se minimiza la afección en aquellas zonas de mayor valor ecológico,
+potenciando las zonas agrícolas exentas de vegetación natural o arbolado diseminado; menor impacto paisajístico;
+o evitar la afección directa o indirecta a espacios protegidos o integrados en la Red Natura 2000.
+1.3. Estudio de sinergias.
+El documento ambiental incluye un estudio de sinergias. Como conclusión del mismo, tras haber analizado los
+posibles impactos acumulativos y sinérgicos que pudiera generar, se deduce que este proyecto produce un impacto
+global compatible, por lo que en su conjunto es viable con la consideración de las medidas preventivas y correctoras
+activadas y la puesta en marcha del Programa de Seguimiento Ambiental en obra. Se concluye lo siguiente:
+- El desarrollo de los proyectos en la zona ayudaría a alcanzar un desarrollo sostenible en referencia a energías
+renovables, tal como propugnan los actuales modelos de lucha contra el cambio climático.
+- Los impactos de carácter acumulativo sobre la calidad del aire son leves y puntuales debido a las otras infraestructuras
+existentes en el ámbito.
+- Los impactos sobre el factor geológico y edáfico se producen principalmente en la fase de construcción. No se
+prevén alteraciones geomorfológicas graves que pudieran causar efectos sinérgicos.
+- No existe afección considerable a masas o cauces de agua superficiales definidas, así como aguas subterráneas,
+por tanto, los posibles impactos sinérgicos y/o acumulativos se consideran no significativos.
+- La implantación se realiza íntegramente en zonas agrícolas, por tanto, la mayor parte de la vegetación natural
+localizada en el ámbito de estudio no se verá afectada de manera significativa.
+- En base al indicador de tamaño de malla efectivo (mCBC) se observa una reducción y fragmentación de matriz
+constituida por hábitats agrícolas en las zonas sobre las que se sitúa el proyecto y las adyacentes.
+- Los impactos acumulativos que producen una incidencia visual en la escena paisajística derivados del número de
+infraestructuras o elementos visualizados en la zona de estudio se consideran moderados.
+En cuanto a las infraestructuras recogidas en el estudio de sinergias, cabe destacar, entre otras, las siguientes:
+- Infraestructuras viarias. N-322: Se localiza a 80 m al este del vallado del proyecto y es la vía principal de acceso a
+la zona del proyecto, contando con vial de servicio; AB-104: Se localiza al oeste del proyecto, siendo cruzada por la
+LSMT. Conectará con el vial de acceso al proyecto.
+- Zonas industriales. Polígono industrial Romica: Colindante por el oeste al proyecto, siendo atravesado por la LSMT;
+en él se incluye la Fábrica de Intermalta (fuera del alcance de este proyecto): Instalación industrial de interconexión
+con el proyecto.
+- Centros energéticos. PSF Romica: se localiza a 2,9 km al W del proyecto; Huerto solar Romica: se localiza a 2,4
+km al W del proyecto; Huerto solar Los Yesares: se localiza a 6,9 km al W del proyecto; SET Romica: se localiza a
+2,8 km al W del proyecto.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29253
+- Líneas eléctricas. Línea eléctrica de <100 kV: se localizan 2; Línea eléctrica de 100-150 kV: se localizan 7, una de
+estas líneas cruza en aéreo en dirección NE-SW el proyecto, en paralelo al vallado sur; Línea eléctrica de 400 kV:
+se localiza un total de 1.
+1.4. Medidas compensatorias.
+Con el fin de compensar los posibles efectos residuales del proyecto sobre la fauna protegida presente en el ámbito
+de actuación, y en particular sobre especies como el cernícalo primilla (Falco naumanni), el milano (Milvus spp.) y
+el águila imperial ibérica (Aquila adalberti), se proponen una serie de medidas compensatorias. Dichas medidas se
+orientan a la mejora del hábitat, el refuerzo de recursos tróficos y el apoyo a programas de conservación existentes,
+conforme a las indicaciones del Servicio de Medio Natural:
+- Instalación de primillares en edificaciones antiguas.
+- Mantenimiento de palomar tradicional como medida compensatoria para el águila imperial ibérica.
+- Dotación de campaña para la protección del aguilucho cenizo.
+1.5. Programa de seguimiento y vigilancia ambiental.
+El seguimiento ambiental se ordenará en diversas fases relacionadas con la marcha de las obras y puesta en
+funcionamiento de los campos solares. En este sentido, el PVA se divide en 4 fases:
+- Fase previa a la construcción: Se ejecutará el replanteo y jalonamiento de la obra (incluyéndose los elementos del
+medio que, por su valor, deben protegerse especialmente), se localizarán las actividades auxiliares de obra (parque
+de maquinaria, caminos de obra, parking, zonas de acopio, etc.). Se realizará un Informe técnico inicial de vigilancia
+ambiental de obra, previo al inicio de las obras, en el que se describan y valoren las condiciones generales de la obra
+en relación con las medidas generales de protección e integración ambiental.
+- Fase constructiva: Se corresponde con la etapa de construcción de las obras, y se extiende desde la fecha del Acta
+de Replanteo hasta la de Recepción. La duración será la de las obras.
+Se realizarán los siguientes informes: Informes ordinarios, con periodicidad mensual, para reflejar el desarrollo de las
+distintas labores de vigilancia y seguimiento ambiental, durante la ejecución de las obras; Informes extraordinarios,
+cuando exista alguna afección no prevista o cualquier aspecto que precise de una actuación inmediata, y que, por
+su importancia, merezca la emisión de un informe especial; Informes específicos, serán aquellos exigidos de forma
+expresa por el órgano ambiental competente; Informe Final Previo a la recepción de las obras.
+- Fase de explotación: Se extiende desde la fecha del Acta de Recepción hasta el final de la vida útil de las
+instalaciones. Se realizarán los siguientes informes: Informes ordinarios anuales; Informes extraordinarios, cuando
+exista alguna afección no prevista o cualquier aspecto que precise de una actuación inmediata, y que, por su
+importancia, merezca la emisión de un informe especial; Informes específicos, serán aquellos exigidos de forma
+expresa por el órgano ambiental competente; Informe final, con anterioridad al desmantelamiento.
+- Fase de desmantelamiento: Se procede al desmontaje de las instalaciones y a la restitución de la zona a las
+condiciones previas a la obra. En un plazo de dos meses previos a la fase de desmantelamiento se notificará al
+Órgano Ambiental el comienzo de esta fase. Durante las obras de desmantelamiento se pondrá en marcha una
+vigilancia ambiental similar a la llevada a cabo en fase de construcción. Los informes y registros a generar serán
+de la misma periodicidad y naturaleza que los descritos para la fase de construcción. Se presentará también un
+informe posterior al desmantelamiento en un plazo de dos meses contados desde la finalización de los trabajos de
+desmantelamiento del parque, acompañado por un reportaje fotográfico que refleje el estado final del área, realizada
+la correspondiente revegetación.
+Segundo. Tramitación y consultas.
+Con fecha 29 de septiembre de 2025, el órgano sustantivo (Gerencia Municipal de Urbanismo – G.M.U. del
+Ayuntamiento de Albacete) remite al órgano ambiental (Servicio de Calidad Ambiental de Albacete) la solicitud de
+inicio del procedimiento de Evaluación de Impacto Ambiental Simplificada del proyecto y el documento ambiental
+(firmado con fecha 26 de noviembre de 2024), dando cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha, así como la copia del resguardo de la tasa correspondiente según
+la Ley 9/2012, de 29 de noviembre, de tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias.
+También se remite un informe técnico de urbanismo de la G.M.U., de fecha 23/09/2025.
+Tras realizar una modificación del proyecto planteado, con fecha 12/02/2026 el promotor presenta un nuevo
+documento ambiental (fechado en enero de 2026). También se remite un segundo informe técnico de urbanismo de
+la G.M.U., de fecha 09/02/2026.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29254
+Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada Ley 2/2020, se formularon consultas
+previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que informaran en
+el ámbito de sus competencias. El 17 de junio de 2025, el órgano ambiental envió una notificación comunicando
+al promotor del proyecto el inicio de la fase de consultas. Los organismos e instituciones consultadas han sido los
+siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+1. Gerencia Municipal de Urbanismo del Ayuntamiento de Albacete (ya remitió dos informes técnicos junto a la
+documentación).
+2. Confederación Hidrográfica del Júcar (*).
+3. Delegación Provincial de Educación, Cultura y Deportes de Albacete - Servicio de Cultura (*).
+4. Delegación Provincial de Desarrollo Sostenible de Albacete - Servicio de Medio Natural y Biodiversidad (*).
+5. Delegación Provincial de Desarrollo Sostenible-Unidad Provincial de Coordinación de Agentes Medioambientales (*).
+6. Consejería de Desarrollo Sostenible-Dirección General de Calidad Ambiental-Servicio de Prevención e Impacto
+Ambiental.
+7. Sociedad Albacetense De Ornitología (SAO).
+8. Ecologistas en Acción de Albacete.
+9. WWF/Adena - España (Madrid).
+10. Delegación Provincial de Hacienda, Administraciones Públicas y Transformación Digital de Albacete - Servicio
+Protección Ciudadana (*).
+11. Delegación Provincial de Desarrollo Sostenible – Servicio de Industria y Energía.
+12. Delegación Provincial de Desarrollo Sostenible de Albacete - Servicio de Incendios Forestales y Ayudas (*).
+13. Delegación Provincial de Albacete de la Consejería de Fomento – Servicio de Ejecución y Disciplina Urbanística
+(* responde el Servicio de Planeamiento Municipal de la D.G. de Planificación Territorial y Urbanismo).
+14. Demarcación de Carreteras del Estado en Castilla-La Mancha.
+15. Diputación Provincial de Albacete (*).
+Por petición del Servicio de Medio Natural y Biodiversidad, el promotor ha aportado adicionalmente varios informes
+mensuales de seguimiento de la avifauna, con fechas de presentación 09/03/2026, 16/04/2026, 12/05/2026 y
+02/06/2026.
+Las sugerencias y los aspectos más importantes que figuran en las contestaciones a las consultas recibidas en el
+órgano ambiental se incluyen en el apartado cuarto del presente Informe.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Se trata de un proyecto de autoconsumo para el aprovechamiento de la energía solar, formado por:
+- Una planta de producción de agua sobrecalentada con un sistema de concentración solar térmica con un sistema
+común de almacenamiento térmico que permite aprovechar el 100% de la generación térmica renovable.
+- Una instalación fotovoltaica con almacenamiento eléctrico.
+El campo solar fotovoltaico cuenta con una potencia pico de 3,4 MW y una potencia nominal eléctrica de 3,005 MVA,
+dispondrá de 2 contenedores diseñados para albergar los módulos de baterías de capacidad de almacenamiento
+de unos 5 MWh y potencia nominal de carga/descarga de unos 2 MWdc; y una instalación de concentración solar
+térmica destinada a la generación de agua sobrecalentada a 220 ºC, con una potencia térmica de 12 MWt y una
+capacidad de almacenamiento de 40 Mwht.
+La energía eléctrica y térmica producida se destinará exclusivamente al autoconsumo de la planta industrial
+Intermalta, situada en las proximidades del presente proyecto, lo que reduce significativamente los posibles impactos
+ambientales asociados a la distribución y consumo de energía. Se plantea una línea eléctrica de evacuación
+subterránea a 20 kV y conducciones térmicas subterráneas.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29255
+Los consumos de agua asociados al proyecto serán reducidos y se concentrarán principalmente en las fases de
+construcción y desmantelamiento (uso por parte del personal implicado en las obras, en aseos y para la humectación
+de hormigón y arenas), así como en la fase de operación (oficina y aseos).
+En la instalación de concentración solar térmica, el sistema de almacenamiento de energía se basa en el uso de
+agua como fluido caloportador en circuito cerrado. La capacidad de almacenamiento térmico prevista es de 40 MWh
+térmicos, para lo cual se requiere un volumen total aproximado de 480 m³, que corresponde al llenado inicial del
+sistema de almacenamiento y del circuito térmico, no tratándose de un consumo periódico ni continuado durante la
+fase de explotación (no requiere captaciones adicionales de agua ni genera vertidos asociados a su operación, más
+allá de reposiciones puntuales de escasa entidad por operaciones de mantenimiento).
+No se prevén consumos significativos de energía durante las fases de construcción y de explotación (funcionamiento
+de equipos auxiliares; sistemas de control, monitorización y seguridad de la instalación; y otros pequeños consumos).
+Según el análisis de riesgos y vulnerabilidad del proyecto, no se prevén efectos derivados de la vulnerabilidad del
+proyecto ante riesgos de accidentes graves o de catástrofes.
+A pesar de que la fabricación de los paneles solares y la construcción y operación de este tipo de proyectos conllevan
+unas emisiones de CO2 equivalente asociadas, existe una amplia compensación por las emisiones evitadas gracias a
+la generación de electricidad a partir de esta fuente renovable frente a su generación con alternativas convencionales.
+En cuanto a la generación de residuos, emisión de contaminantes, o riesgo de accidentes, son aspectos controlables
+mediante el cumplimiento de la legislación oportuna y de lo establecido en el presente informe ambiental, por lo que
+no se prevé que generen efectos ambientales negativos significativos.
+3.2. Ubicación del proyecto.
+La planta fotovoltaica y térmica se ubicará próxima a las instalaciones existentes de Intermalta (situada en el Polígono
+Industrial de Romica). Concretamente, en las siguientes parcelas, ubicadas en el polígono 29 del t.m. de Albacete:
+parcela 4 (66.979 m²); parcela 8 (76.491 m²); parcela 9 (53.589 m²); parcela 10 (48.291 m²); parcela 12 (47.625 m²);
+y parcela 13 (29.082 m²). Se trata de una finca libre de edificaciones arrendada por Intermalta, próxima al Polígono
+Industrial de Romica, con una superficie resultante de 322.057 m², a una altura de 681 m.s.n.m.
+La zona de ubicación de la planta solar fotovoltaica y térmica Intermalta presenta un Índice de Sensibilidad Ambiental
+de valor bajo según el mapa de zonificación ambiental para energías renovables (fotovoltaica), publicado por el
+Miteco.
+Según el informe del Servicio de Planeamiento Municipal, de la D.G. de Planificación Territorial y Urbanismo de la
+Consejería de Fomento, de fecha 13/04/2026, el parcelario afectado está clasificado como suelo rústico de reserva,
+con cruzamiento de la LASMT bajo SRNUEP: suelo rústico no urbanizable de especial protección de infraestructuras
+(carretera AB-104). La ejecución de las instalaciones debe someterse al trámite de calificación urbanística, según lo
+establecido en el artículo 54.1.3º, suelo rústico de reserva, del Decreto Legislativo 1/2023, de 28 de febrero, por el
+que se aprueba el Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística, de Castilla-
+La Mancha.
+Según indica el informe de 17/06/2026 de la Confederación Hidrográfica del Júcar, no existen cauces a una distancia
+inferior a 100 metros a los terrenos afectados por el proyecto.
+La superficie solicitada se encuentra actualmente clasificada como terreno agrícola, en la cual se cultiva cereal de
+secano, y zona de erial - pasto arbustivo en Sigpac, según señala el informe de los Agentes Medioambientales, de
+20/02/2026.
+El informe del Servicio de Protección Ciudadana de Albacete, de 26/03/2026, indica que, revisados los principales
+riesgos de posibles emergencias de protección civil, se concluye que los más significativos serán: riesgo de incendios
+forestales (por la masa forestal colindante); el riesgo sísmico (se debe evaluar la posible aplicación de la NCSR-02),
+y el riesgo meteorológico (precipitación in situ, granizo, nieblas, etc.). No obstante, y ante cualquier situación de
+emergencia que pudiera producirse se activarían los correspondientes Planes de Emergencia (recursos ordinarios,
+planes municipales, regionales y/o estatales).
+
+AÑO XLV Núm. 145 31 de julio de 2026 29256
+Según el informe de 19/02/2026 del Servicio de Incendios Forestales y Ayudas, deberán contar con un Plan de
+Autoprotección frente a riesgo por incendio forestal (PAIF), las instalaciones que cumplan con lo establecido en
+el artículo 58 apartado 9 de la Ley 3/2008, de 12 de junio, de montes y gestión forestal sostenible de Castilla-
+La Mancha. Dicho artículo establece “En todo caso, las urbanizaciones, instalaciones de naturaleza industrial,
+turística, recreativa o deportiva, ubicadas dentro de los montes o en su colindancia, deberán contar con un plan de
+autoprotección, en el que, entre otras medidas, figurará la construcción de un cortafuego perimetral cuya anchura,
+medida en distancia natural, estará en función, al menos, del tipo de vegetación circundante y pendiente del terreno”.
+Según consta en la documentación aportada en el expediente, el proyecto se implantará en un uso principal agrario,
+por lo que no sería de aplicación en ese caso la normativa anterior.
+El informe del Servicio de Medio Natural y Biodiversidad, de 11/06/2026, señala que el Espacio Natural Protegido
+más cercano a la PSF es la Reserva Natural de la Laguna Salada de Pétrola (Decreto 102/2005 de 13 de septiembre
+de 2005), situándose a más de 30 km al sureste, y la zona sensible más cercana se localiza a unos 18 km al noreste
+del proyecto, siendo esta la ZEC-ZEPA “Hoces del rio Júcar”, código ES4210001. No se recogen en el entorno
+elementos geomorfológicos que sean afectados por el proyecto, ni hábitats de protección especial. En la ubicación
+del proyecto tampoco se detectan hábitats de interés comunitario, encontrándose el más cercano a unos 2 km al
+noreste de la instalación. La alternativa seleccionada se ubica a unos 10,5 km al noreste de la zona de dispersión
+del águila perdicera (Aquila fasciata), y a unos 18 km al suroeste de su área crítica, coincidente con la ZEC “Hoces
+del río Júcar”, código ES4210001, especie catalogada como “en peligro de extinción” por el Catálogo Regional de
+Especies Amenazadas de Castilla-La Mancha (Decreto 33/1998), y cuyo plan de recuperación fue aprobado por
+Decreto 76/2016.
+La zona es susceptible de albergar especies de aves rapaces incluidas en el anexo IV de la Ley 42/2007 de 13 de
+diciembre, del Patrimonio Natural y de la Biodiversidad, y en el Catálogo Regional de Especies Amenazadas de
+Castilla-La Mancha (Decreto 33/1998 de 5 de mayo), como, aguilucho pálido (Circus cyaneus), aguilucho lagunero
+(Circus aeruginosus), cernícalo primilla (Falco naumanni), avutarda (Otis tarda), sisón (Tetrax tetrax), ganga ibérica
+(Pterocles alchata) o ganga ortega (Pterocles orientalis), catalogadas como vulnerables. Además, el sisón se
+encuentra en la categoría de “en peligro de extinción” en el Catálogo Nacional de Especies Amenazadas.
+En cuanto a vías pecuarias, la línea de evacuación cruza la vía clasificada denominada “Cordel del Camino Ancho”
+de ancho legal de 38 m. En cuanto a dominio público forestal, esta actuación no limita ni afecta a Montes de Utilidad
+Pública.
+El citado informe del Servicio de Medio Natural y Biodiversidad también indica que, según la zonificación establecida
+en la Estrategia Regional de Infraestructura Verde y de la Conectividad y Restauración Ecológica de Castilla-La
+Mancha, la zona del proyecto se ubica en área considerada clave para la conectividad de las especies esteparias.
+3.3. Características del potencial impacto.
+Fundamentalmente, los impactos negativos de este tipo de proyectos inciden mayoritariamente sobre el suelo,
+la fauna, la vegetación y el paisaje, siendo el principal la detracción de hábitat. Con respecto a la fauna, porque
+provocan la reducción del hábitat de campeo de las aves y crean un efecto barrera originado por el cerramiento
+perimetral, lo que supone un obstáculo para el libre tránsito. No obstante, dada la ubicación de esta PSF de forma
+próxima al polígono industrial de Romica y las instalaciones de la empresa Intermalta, se trata de una zona altamente
+antropizada, por lo que el impacto sobre el medio natural se minimiza en gran parte.
+Otro de los posibles impactos debido a la implantación del campo solar fotovoltaico y del campo de concentración
+solar térmica es la generación de reflejos asociados a la reflexión de la radiación solar sobre las superficies de los
+módulos fotovoltaicos y de los elementos reflectantes del campo solar térmico. Para evitar este impacto, se han
+previsto sendos vallados que tendrán la función de anti-reflejo para evitar afectación a los vehículos que circulen por
+la carretera AB-104 y por la carretera N-322.
+La energía eléctrica y térmica producida no se verterá a la red, sino que se destinará exclusivamente al autoconsumo
+de la planta industrial Intermalta, lo que reduce significativamente los posibles impactos ambientales asociados a la
+distribución y consumo de energía.
+Los efectos negativos esperados asociados a la fase de construcción del proyecto se centran sobre todo en el suelo
+(movimientos, compactaciones, etc.), con afecciones moderadas. Durante el funcionamiento, la fauna junto con el
+paisaje serán los factores con mayor probabilidad de impacto por la presencia de las infraestructuras.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29257
+Dado que la alternativa elegida ocupa relativamente poca superficie para un proyecto de este tipo, que se localiza
+anexa al punto de evacuación y la línea de evacuación es subterránea, que se ubica en las proximidades de
+un polígono industrial, que resulta factible atenuar los impactos sobre la fauna, la vegetación y el paisaje con el
+desarrollo de medidas preventivas y correctoras, y que se incluyen medidas compensatorias que contrarrestarían
+los impactos residuales, se estima que la capacidad de acogida del territorio resulta apta para la actividad propuesta,
+siempre que el promotor adopte las medidas fijadas en el documento ambiental y en el presente Informe, y se
+realicen las correspondientes tareas de mantenimiento y de seguimiento y vigilancia ambiental durante la vida útil
+de las instalaciones y su desmantelamiento.
+En consecuencia, teniendo en cuenta el tamaño, acumulación con otros proyectos, utilización de recursos naturales,
+generación de residuos, contaminación, riesgo de accidentes, etc., así como las medidas preventivas, correctoras y
+compensatorias, no se considera necesario someter el presente proyecto al procedimiento de evaluación de impacto
+ambiental ordinaria.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor del proyecto en el documento
+ambiental presentado, las cuales se consideran vinculantes con el contenido del presente Informe, y considerando
+las respuestas recibidas a las consultas realizadas, se formulan las siguientes medidas adicionales de protección,
+tratándose de condiciones que deberán incorporarse en la correspondiente autorización emitida por el órgano sustantivo.
+En relación al conjunto de las medidas compensatorias que finalmente deba realizar el promotor, se deberá tener
+en consideración que, si la ejecución de alguna de ellas resultara inviable por motivos sobrevenidos de índole legal
+o técnica, se reemplazará por otra de naturaleza equivalente en cuanto a la inversión económica prevista y el fin
+pretendido inicialmente; esto es, que se compense lo más exactamente posible el impacto residual generado. Para
+tal fin, el órgano ambiental, previo a su autorización, podrá recabar los informes necesarios que considere oportunos
+a aquellas administraciones que ostenten la competencia sobre los recursos afectados por el proyecto.
+El promotor deberá adoptar las medidas que se indican a continuación, además de los condicionantes ambientales
+incluidos en el Documento Ambiental presentado, siempre que no se opongan a lo establecido en el presente
+Informe de Impacto Ambiental.
+Se informará a todo el personal implicado en la realización de las obras, del contenido del presente Informe de
+Impacto Ambiental, de manera que se ponga en su conocimiento las medidas que deben adoptarse a la hora de
+realizar los trabajos.
+4.1. Protección de los recursos naturales de la zona, flora y fauna.
+Durante las tareas de replanteo de las obras, se delimitará (mediante balizamiento) toda zona susceptible de
+afección, así como formaciones o elementos vegetales a proteger fuera del área de actuación directa. Se tratará de
+ocupar la menor superficie posible evitando la invasión de zonas aledañas a las áreas de actuación directa.
+Los acopios de tierra procedente de la excavación de las zanjas, así como los materiales a emplear, deberán
+hacerse en zonas desprovistas de vegetación.
+En relación al mantenimiento y control de la vegetación espontánea que pueda surgir bajo el campo solar de la PSF
+(seguidores y pasillos de separación), deberán emplearse técnicas alternativas al uso de fitocidas o herbicidas, con
+especial preferencia por el control mediante el pastoreo libre con ganado ovino por sus ventajas ambientales, o el
+desbroce manual con medios mecánicos como segunda opción.
+El proyecto se ubica Zona Periférica de Protección para el Uso Sostenible de Productos Fitosanitarios (ZUSF), por
+lo que es de aplicación el Real Decreto 1311/2012, de 14 de septiembre. Por ello, para el control de la vegetación
+adventicia o no deseada, a erradicar, deberá optarse por medios físicos como la siega o el pastoreo, no pudiendo
+utilizarse productos químicos. En este sentido, la vegetación natural únicamente debe controlarse en la medida en
+que pueda afectar al correcto funcionamiento de las instalaciones, debiendo procurarse en todo momento el mayor
+grado de naturalización posible.
+La existencia del tapiz herbáceo bajo el campo solar puede representar una zona potencial para la alimentación,
+cobijo y reproducción de determinadas especies de fauna silvestre, extremo que, entre otros, será comprobado
+durante el desarrollo del plan de seguimiento y vigilancia ambiental del proyecto.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29258
+En caso de interferir con cualquier especie de fauna amenazada que no cuente con planes de recuperación, de
+conservación del hábitat o de manejo específicos, se estará al régimen general de protección del artículo 64 y a
+las prohibiciones del artículo 77 de la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza. Por ello, en
+caso de constatar la presencia de cualquier especie protegida en ciclo reproductor en la fase de construcción, se
+comunicará a los Agentes Medioambientales de la comarca, pudiendo llegar a requerirse un periodo preventivo de
+paralización de las obras o “parada biológica” si fuera necesario.
+En el diseño de las instalaciones ha de contemplarse la protección de los cableados y otros elementos sensibles
+frente a roedores y lagomorfos, protegiéndolos adecuadamente para evitar problemas futuros.
+Se aislarán los elementos de la estructura fotovoltaica que puedan provocar la electrocución del ganado y de la
+fauna silvestre que pueda circular por los campos solares.
+Con el fin de mantener refugio y cobijo a la fauna silvestre, se mantendrán los majanos de piedras y otras estructuras
+similares que puedan existir en la zona afectada, o se planteará su reubicación a zonas de las poligonales libres de
+módulos solares.
+El informe del Servicio de Medio Natural y Biodiversidad, de 11 de junio de 2026, también propone las siguientes
+condiciones para la protección de los recursos naturales:
+- Se debe realizar un estudio de fauna mínimo de un año que recoja un ciclo fenológico completo, teniendo en
+cuenta los parámetros propuestos por dicho servicio, incluyendo también el estudio de refugios y poblaciones de
+quirópteros, así como un estudio de insectos.
+- Se debe dar aviso de inicio de los trabajos a los agentes medioambientales y se comprobará la correcta señalización
+y balizamiento de todas las zonas de obra.
+- La instalación de los seguidores únicamente deberá realizarse mediante hincado, ocupando la mínima superficie
+de suelo posible.
+- El cerramiento se debe ajustar a los elementos de las instalaciones para reducir la longitud de vallados y mejorar
+la permeabilidad de la infraestructura.
+- Al existir especies incluidas en el Catálogo Regional de Especies Amenazadas, le es de aplicación el régimen
+de protección establecido en el Artículo 77 de la Ley 9/1999 (modificado por la Ley 8/2007): “Para las especies
+catalogadas como vulnerables o de interés especial, la prohibición de la destrucción, corta, arranque, deterioro,
+muerte, captura, recolección, posesión, transporte, comercio o naturalización no autorizadas de los ejemplares, así
+como la destrucción de su hábitat, en particular del lugar de reproducción, invernada, reposo, campeo o alimentación”.
+- De los datos de fauna presentado de los meses de enero a abril se desprende que la zona alberga poblaciones
+de aves esteparias y rapaces importante, estando la mayoría protegidas, por lo que se deben tomar las medidas
+preventivas, correctoras y en su caso compensatorias adecuadas para conservarlas. Respecto al censo de primillares
+realizado se debe aportar capa en formato Shp., o similar, que recoja la localización en coordenadas UTM ETRS
+89, así como una memoria del estado constructivo de los mismos con el objetivo de poder ser recuperados como
+medida compensatoria.
+- De forma previa al inicio de las obras, se deberá realizar una prospección de campo en materia de flora, de
+manera detallada, en el área afectada, con el fin de verificar in situ la presencia o ausencia de especies de interés,
+especialmente aquellas catalogadas como amenazadas o vulnerables.
+- En la medida de lo posible, se respetará la vegetación natural existente en los bordes y en el interior de las
+parcelas, especialmente la existente en los recintos etiquetados como “Forestal” y “Pasto arbustivo”. Según el
+Artículo 49 de la Ley 3/2008, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha, en caso de que se
+realicen operaciones de descuaje de cubiertas vegetales de matorral o arbolado, se deberá solicitar autorización
+previa a esta Delegación Provincial.
+- También se deben respetar los elementos del paisaje (EP), como árboles aislados, majanos de piedra, linderos o
+ribazos. Respecto a este punto se debe respetar la linde que separa las parcelas 4, 8 y 9 del polígono 29 del término
+municipal de Albacete, en la que se existe presencia de retama y crea un pequeño montículo de separación entra
+parcelas, proporcionando refugio, alimento y sombra a la fauna silvestre.
+- En el documento ambiental se recoge que la erosión es un fenómeno que no se debe tener muy en consideración
+ya que la zona es muy llana (inferior al 5%) y el tiempo de obra es bajo. A priori se desprende que en los terrenos
+donde se ubica la planta solar presentan niveles de pérdida de suelo es menor de 5 t/ha/año. No obstante, se debe
+vigilar que no se produzcan efectos erosivos en ninguna de las fases del proyecto, en caso de detectarse se deben
+establecer las medidas correctoras necesarias.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29259
+- En caso de realizar el control de vegetación mediante ganado, este debe ser el estrictamente necesario para el
+funcionamiento de la instalación y, se debe disponer de un plan de pastoreo que controle la carga ganadera con el
+fin de evitar la compactación.
+- Se deberán realizar los trámites oportunos para obtener la autorización de Ocupación en la Sección de Vías
+Pecuarias de este Servicio Provincial de Medio Natural y Biodiversidad, y siempre que se cumplan los condicionantes
+y criterios establecidos en la legislación sectorial. Así mismo, debe observarse la Resolución de 29/07/2021, de la
+Dirección General de Medio Natural y Biodiversidad, por la que se aprueban las instrucciones para la tramitación de
+expedientes de autorización de ocupaciones temporales en montes demaniales (código Siaci SJFQ) y autorización
+de ocupaciones de carácter temporal en vías pecuarias (código Siaci S244).
+- El vallado de la instalación por sus peculiaridades, dispondrá de alturas variables, para cumplir funciones de
+cortavientos o anti-reflectantes, para lo cual se adicionarán mallas de polietileno de alta densidad (HDPE), estos
+vallados se plantean con malla de simple torsión. Además, se plantea un tercer tipo de vallado en otras zonas del
+perímetro siendo de tipo cinegético. Los vallados, independientemente de su altura y tipología deben cumplir las
+siguientes características:
+Todo el vallado en su perímetro debe contar con un hueco inferior de al menos 15 cm para permitir la permeabilidad
+de la fauna.
+No tendrá anclaje al suelo, ni cable tensor inferior.
+No podrá contar con voladizos o con visera superior.
+Carecerá de elementos cortantes o punzantes, dispositivos o trampas que permitan la entrada de fauna silvestre e
+impidan o dificulten su salida. No se permite en ningún caso tener incorporados dispositivos para conectar corriente
+eléctrica.
+- Previo a las obras y en época fenológica adecuada, se realizará un muestreo de campo exhaustivo en la zona
+de actuación y su área de influencia (1 kilómetro), así como en las masas forestales circundantes o de ribera, por
+técnico especialista, con el fin de descartar la posible presencia de nidos, lugares de cría y otros elementos del
+medio que puedan servir de refugio a la fauna. Los resultados se presentarán ante el órgano ambiental, para revisión
+por este servicio provincial y establecer las medidas preventivas necesarias adicionales en caso de presencia de
+nidos o ejemplares de especies protegidas.
+- En la zona sur del proyecto se localizada una línea eléctrica que lo cruza de oeste a este. Bajo la zona de
+servidumbre de esta línea eléctrica se debe hacer una propuesta de naturalización mediante pequeños bosquetes
+de especies autóctonas de matorral o arbustivas que sirvan de refugio y alimento a la fauna.
+4.1.1. Plan de Seguimiento Específico de la Fauna (PSEF).
+Se considera necesaria la elaboración de un PSEF, que se extenderá durante toda la vida útil de la instalación,
+debiendo constar, al menos, los siguientes puntos:
+• Censo anual de aves esteparias y rapaces y mamíferos en zona actuación y área de influencia (5 kilómetros aves
+esteparias, 5 kilómetros rapaces y 2 km en mamíferos o en función de distribución de hábitats forestales), anfibios y
+reptiles, comunidad de quirópteros con estudios de actividad mediante equipos de registro sonoro instalados desde
+el ocaso hasta el orto.
+• Estudio del tránsito de vertebrados terrestres en zona de actuación y su área de influencia. Uso de corredores
+identificados y/o habilitados.
+• Estudio del tránsito de vertebrados terrestres en zona de actuación y su área de influencia. Uso de corredores
+identificados y/o habilitados. Se realizará durante al menos 10 días por campaña (una en primavera y otra en
+otoño), censos mediante registros de huellas, transectos de registro de indicios de presencia y fototrampeo, con
+presentación de resultados mediante indicadores de efectividad (número de especies, frecuencia de uso y porcentaje
+de especies).
+• Siguiendo la guía metodológica para la valoración de repercusiones de las instalaciones solares sobre especies
+de avifauna esteparia, algunos estudios han demostrado, aunque con baja frecuencia, colisiones con los paneles
+solares, por lo que se ha de contemplar no sólo el seguimiento de mortalidad de fauna a lo largo de los vallados
+perimetrales sino también el interior del recinto de la planta solar, mediante transectos para la búsqueda de cadáveres
+en el interior, que pueden venir apoyados por el empleo de otros métodos específicos (como perros entrenados para
+su detección) comprobando si hay presencia de individuos muertos o atrapados, que deberá ser subsanado de
+forma inmediata. Los accesos, arquetas o carreteras se revisarán para detectar puntos negros por atropello y caída
+y la estación de media tensión por posibles electrocuciones.
+Periodicidad, al menos quincenal que cubra la longitud de los vallados e interior de instalaciones solares, durante
+los tres primeros años y en base a resultados, se revisará frecuencia el resto de los años de seguimiento, por lo que
+debe revisarse y completar las frecuencias y alcance contemplado en el plan.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29260
+También ha de contemplarse el seguimiento de la utilización de la superficie de las instalaciones solares por parte
+de la fauna, aprovechando la búsqueda de cadáveres, realizando también una búsqueda de rastros de fauna y
+avistamientos. Debe recogerse en un apartado específico en el plan de vigilancia.
+• Se aportarán datos de mortalidad estimada mediante la aplicación de factores de corrección de permanencia
+de cadáveres y de detectabilidad obtenidos en ensayos realizados en el emplazamiento de todo el proyecto. Se
+presentarán fechas de realización, relación de censadores, distribución de cadáveres y/o señuelos y resultados. El
+ensayo de permanencia de cadáveres, se realizará uno en primavera y otro en otoño.
+• El documento debe reflejar cualquier colisión, víctima de accidente encontrado en la planta o proximidades a
+consecuencia de un impacto con las instalaciones, observación de nidificación de las aves en la zona y, además,
+el promotor debe informarlo inmediatamente al Servicio de Medio Natural y Biodiversidad. El seguimiento deberá
+prolongarse durante toda la vida útil del proyecto.
+• Estudio de fauna específico con trabajo de campo en las zonas donde se están aplicando la medida compensatoria
+de agroambientales. Se realizará un estudio previo y posteriormente, seguimientos anuales para evaluar la
+consecución de objetivos en cuanto a riqueza y evolución poblacional de especies esteparias.
+• Caracterización faunística mediante censos de la misma naturaleza con periodicidad anual en zona próxima a la
+de actuación (parcelas testigo) y de las mismas características con respecto al uso de suelo actual a ocupar por el
+complejo solar que permita un estudio comparativo del uso que la fauna silvestre hace del hábitat modificado y de
+su respuesta a la nueva situación.
+• Se indicará Metodología y fechas de prospección, resultados y análisis. La cartografía de metodologías y resultados
+de censos se presentarán en formato digital (archivo shapefile o similar).
+El PSEF comenzará a aplicarse una vez finalicen las obras. Se presentará anualmente ante el órgano sustantivo y
+ambiental el informe anual del PSEF dentro del informe global del PSVA.
+4.1.2. Medidas compensatorias.
+El documento ambiental propone medidas compensatorias enfocadas a la mejora del hábitat, el refuerzo de recursos
+tróficos y el apoyo a programas de conservación existentes, concretamente las siguientes: instalación de primillares
+en edificaciones antiguas; mantenimiento de palomar tradicional como medida compensatoria para el águila imperial
+ibérica; y dotación de campaña para la protección del aguilucho cenizo.
+Adicionalmente, el informe del Servicio de Medio Natural y Biodiversidad, de 11/06/2026, propone las siguientes:
+- Medidas agroambientales para el fomento del hábitat estepario en una proporción mínima de 1:1,5 a la superficie
+ocupada por las infraestructuras, para lo que se deberá cumplir con el Anexo II incluido en el citado informe del
+Servicio de Medio Natural y Biodiversidad, o compra de parcelas.
+- Por afección a la vía pecuaria por la LSMT, se deberá poner en contacto con la sección de vías pecuarias para
+establecer actuaciones para compensar el cruce transversal.
+- En las parcelas donde se ubicará el proyecto existe un vallado de simple torsión, concretamente en los lados
+noreste y sureste de la parcela 4 del polígono 29, este vallado debe desmantelarse completamente, incluyendo el
+hormigonado de los postes, y gestionarse de acuerdo a la naturaleza del residuo.
+Para calcular la superficie de medidas compensatorias agroambientales se tendrá en cuenta la superficie total
+ocupada por el cerramiento del proyecto.
+Por otro lado, como medida compensatoria de los impactos residuales de carácter social que pueda generar el
+proyecto, se deberán implementar actuaciones socio-ambientales valoradas en al menos el 0,01% del Presupuesto
+de Ejecución Material, cuyos contenidos y plazos se deberán recoger en una memoria específica que deberá ser
+desarrollada en coordinación y aprobada por el órgano ambiental provincial (Servicio de Calidad Ambiental de
+Albacete).
+De forma previa al inicio de las obras, el promotor deberá presentar una memoria con la propuesta completa de
+medidas compensatorias, incluyendo sus características, plazos de realización y presupuesto, debiendo obtener el
+informe favorable del órgano ambiental antes del inicio de la ejecución de las obras.
+Los contenidos de la memoria de medidas compensatorias deberán ceñirse a lo propuesto en el condicionado de la
+presente resolución, debiendo quedar reflejadas sus características, el cronograma con los plazos de realización y
+sus presupuestos, debiendo adjuntar en formato electrónico (capas shape: *.shp y datum ETRS89) las superficies
+de las parcelas afectadas tanto por el proyecto como por las medidas compensatorias.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29261
+En general, estas medidas deberán estar operativas antes de la puesta en marcha del proyecto; en el caso de las
+medidas de fomento del hábitat, antes de la finalización de la construcción del mismo. Las medidas se mantendrán
+durante toda la vida útil de las instalaciones y hasta su desmantelamiento.
+Los plazos de ejecución indicados podrán prorrogarse siempre que esté justificado por cuestiones de índole técnica
+o legal, y en unos plazos que no desvirtúen la finalidad de las medidas compensatorias. En el caso de que las
+condiciones meteorológicas comprometan la realización de algunas actuaciones (revegetaciones, etc.), se realizarán
+dentro del año natural siguiente y una vez que las condiciones meteorológicas sean adecuadas, aunque en todo
+caso las parcelas deberán estar disponibles antes de la puesta en marcha.
+El informe del Plan de Seguimiento y Vigilancia Ambiental correspondiente al fin de obra deberá incluir referencia
+específica al grado de cumplimiento del proyecto de medidas compensatorias en ese momento.
+De forma previa a la ejecución de las medidas compensatorias, el promotor deberá disponer de las autorizaciones
+administrativas y permisos necesarios por parte de aquellos organismos cuyas competencias pudieran verse
+afectadas, conforme a la legislación sectorial.
+Si la ejecución de alguna de dichas medidas resultara inviable por motivos sobrevenidos de índole legal o técnica,
+ésta se reemplazará por otra de naturaleza equivalente en cuanto a la inversión económica prevista y el fin pretendido
+inicialmente, esto es, que se compense lo más exactamente posible el impacto residual generado. Para tal fin, el
+órgano ambiental podrá recabar los informes necesarios que considere oportunos a aquellas administraciones que
+ostenten la competencia sobre los recursos afectados por el proyecto.
+4.2. Protección de los sistemas hidrológico e hidrogeológico.
+Se deberán tener en cuenta las indicaciones del informe de 17 de junio de 2026 de la Confederación Hidrográfica
+del Júcar:
+- En relación a las aguas residuales que se pudieran generar se recuerda que queda prohibido, con carácter general,
+el vertido directo o indirecto de aguas y de productos residuales susceptibles de contaminar las aguas continentales o
+cualquier otro elemento del dominio público hidráulico, salvo que se cuente con la previa autorización administrativa
+(artículo 100 del Texto Refundido de la Ley de Aguas). Dichas autorizaciones de vertido corresponderán a la
+Administración hidráulica competente, salvo en los casos de vertidos efectuados en cualquier punto de la red
+de alcantarillado o de colectores gestionados por las Administraciones autonómicas o locales o por entidades
+dependientes de las mismas, en los que la autorización corresponderá al órgano autonómico o local competente
+(Real Decreto Ley 4/2007 por el que se modifica el Texto Refundido de la Ley de Aguas).
+- La instalación de un depósito impermeable para las aguas residuales requiere, previamente al inicio de la actividad,
+que el promotor realice el correspondiente trámite para la gestión de las aguas residuales sin vertido al dominio
+público hidráulico, tal y como viene descrito en la página web de la Confederación Hidrográfica del Júcar:
+(https://www.chj.es/es-es/ciudadano/masinformaciontramites/Paginas/Vertidos.aspx).
+- En caso de pretender realizar vertido de aguas pluviales al dominio público hidráulico, previamente se deberá
+contar con la autorización de dicho Organismo.
+- No se dispone de datos de inundabilidad en la zona dado que, a fecha del presente escrito, los cauces presentes
+no han sido estudiados para la elaboración del Sistema Nacional de Cartografía de Zonas Inundables, por lo que la
+ausencia de dichos datos no implica la ausencia de inundabilidad en los terrenos próximos a dichos cauces.
+- Tal y como se ha indicado anteriormente, la actuación se encuentra fuera de zona de policía de cauce público. No
+obstante, se recuerda que de acuerdo con lo dispuesto en el artículo 9 del Reglamento del Dominio Público Hidráulico
+(Real Decreto 849/1986), en la zona de flujo preferente de los cauces no pueden autorizarse actividades vulnerables
+frente a las avenidas ni actividades que supongan una reducción significativa de la capacidad de desagüe de la
+citada zona de flujo preferente.
+- De acuerdo con lo dispuesto en el artículo 5.2 del Texto Refundido de la Ley de Aguas, las obras que se realicen en
+la zona de la actuación no podrán alterar el curso natural de las aguas en perjuicio del interés público ni de terceros
+y, además, deberá cumplirse lo dispuesto en el artículo 47 del Texto Refundido de la Ley de Aguas, según el cual
+los predios inferiores están sujetos a recibir las aguas que naturalmente y sin obra del hombre desciendan de los
+predios superiores, así como la tierra o piedra que arrastren en su curso; ni el dueño del predio inferior puede hacer
+obras que impidan esta servidumbre ni el del superior obras que la agraven, no pudiéndose, entre otros, modificar
+el drenaje natural ni la escorrentía de los terrenos. Igualmente, se deberán minimizar los riesgos de erosión y evitar
+cualquier variación en el régimen de corrientes aguas arriba y aguas abajo de la actuación.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29262
+- En el Documento Ambiental se incluyó entre sus anexos un estudio hidrológico para determinar los caudales de
+avenida para distintos periodos de retorno de las cuencas de drenaje que vierten la escorrentía superficial en dichos
+terrenos tras episodios de lluvia intensa. En el citado estudio se calcularon caudales, calados y velocidades para los
+períodos de retorno de 10, 100 y 500 años en la situación pre-operacional, concluyéndose que las avenidas asociadas
+a los citados períodos de retorno producen afecciones sobre la zona de estudio, especialmente en las inmediaciones
+del vial de acceso a las instalaciones y en el sector centro-norte del recinto vallado donde se localizarán los seguidores
+solares. En el estudio aportado inicialmente únicamente se contempló la situación pre-operacional, mientras que
+con la documentación aportada en fechas 2 y 6 de junio de 2026 se evaluaron los procesos erosivos derivados
+de la transformación del terreno, transformaciones topográficas, tala de árboles, desbroce y limpieza del terreno
+necesarios para la construcción y explotación del proyecto y, así mismo, se propusieron medidas correctoras. Los
+resultados de los cálculos realizados muestran que la variación que se produce en los caudales no es significativa
+tras la aplicación de las medidas propuestas.
+- No obstante, el informe de la CHJ queda condicionado al cumplimiento del artículo 47 del Texto Refundido de la
+Ley de Aguas.
+- En la documentación inicialmente aportada se estimó un consumo de agua en las instalaciones objeto de informe
+de, aproximadamente, 480 m³ , de acuerdo a la documentación aportada el 2 de junio de 2026, el suministro de
+agua se realizará desde el contrato de suministro de agua industrial de las instalaciones de Intermalta que están
+localizadas en el polígono industrial Romica, con número de contrato 1390003 y punto de suministro CR Mahora
+SN Agua, cuya titularidad corresponde al promotor. Atendiendo a dichas manifestaciones, el suministro de agua
+procederá de la red municipal de abastecimiento de Albacete (Albacete).
+- El artículo 49 bis.1.a) 1º del Reglamento del Dominio Público Hidráulico dispone que el uso destinado al
+abastecimiento de núcleos urbanos incluye las necesidades de agua para consumo humano, otros usos domésticos
+distintos del consumo humano, los usos municipales (baldeos, fuentes y otros) y los usos de industrias, comercios,
+ganadería y regadío de poco consumo de agua, situados en núcleos de población y conectados a la red municipal,
+por lo que, en los aprovechamientos situados en núcleos de población y conectados a la red municipal, sin perjuicio
+de lo dispuesto en el artículo 50.4 y 116.3 c) del Texto Refundido de la Ley de Aguas, los derechos al uso privativo
+de las aguas para abastecimiento, en este caso del municipio de Albacete (Albacete), deberán ser suficientes para
+atender la demanda generada por el proyecto informado, puesto que, en la actualidad, el uso pretendido está
+incluido en el título habilitante que otorga el derecho al abastecimiento de la localidad de Albacete (Albacete), cuyo
+titular es el Ayuntamiento.
+- No obstante, el artículo 55.1 del Texto Refundido de la Ley de Aguas establece que el Organismo de cuenca podrá
+fijar el régimen de explotación al que habrá de adaptarse la utilización coordinada de los aprovechamientos existentes
+al objeto de evitar la duplicidad de caudales. En este sentido, se ha comprobado que en las instalaciones de la
+mercantil Intermalta existe un aprovechamiento de aguas subterráneas para el que se solicitó concesión de aguas
+subterráneas y que, de acuerdo a lo informado en párrafos anteriores, deberá formar parte del aprovechamiento
+destinado al abastecimiento de la población de Albacete (Albacete), siendo necesario que dicha captación se incluya
+como toma complementaria al mismo, lo cual deberá ser solicitado por el titular del derecho.
+Por otro lado, en la apertura de zanjas se evitará en todo momento alcanzar el nivel freático.
+Se informa que el entorno de actuación se encuentra dentro de una zona declarada como vulnerable a la
+contaminación por nitratos de origen agrario, denominada “Mancha Oriental”, según consta en la Resolución de 10-
+02-2003, de la Consejería de Agricultura y Medio Ambiente, por la que se designan, en el ámbito de la Comunidad
+Autónoma de Castilla-La Mancha, determinadas áreas como zonas vulnerables a la contaminación de las aguas
+producida por nitratos procedentes de fuentes agrarias. Por tanto, deberá cumplirse lo establecido en el Programa de
+Actuación aplicable a las zonas vulnerables a la contaminación por nitratos de origen agrario aprobado por la Orden
+de 02/08/2012, de la Consejería de Agricultura, por la que se modifica la Orden de 07/02/2011, de la Consejería de
+Agricultura y Medio Ambiente. Para evitar contaminaciones de capas freáticas por fertilización abusiva se deberá
+cumplir el Código de Buenas Prácticas Agrarias (Resolución 24-09-98 de la Dirección General de Producción
+Agraria).
+4.3. Protección del suelo.
+En la medida de lo posible, se respetarán las barreras de piedra que puedan existir en la zona afectada, como
+medida de conservación de suelos agrícolas, de forma que éstas seguirán cumpliendo la función de retención de
+suelos frente a escorrentía superficial. No se realizará ninguna actuación que implique la inversión de las capas
+de suelo existentes. Así mismo, no se realizará ninguna actuación que implique desmontes o terraplenados (salvo
+que se obtenga una autorización de forma previa), de forma que no se modifique el perfil existente, evitando que se
+generen procesos de escorrentía superficial.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29263
+Tal y como cita el Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades
+potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados, el
+transporte y la distribución de energía eléctrica -concretamente las subestaciones eléctricas y los transformadores
+de potencia o reactancias-, están incluidas en el Anexo 1 “Actividades potencialmente contaminantes del suelo”, por
+lo que el promotor podrá estar obligado a remitir al órgano competente de la comunidad autónoma correspondiente,
+en un plazo no superior a dos años, un informe preliminar de situación para cada uno de los suelos en los que se
+implanten los elementos citados, con el alcance y contenido mínimo que se recoge en el anexo II del citado Real
+Decreto. En su caso, el seguimiento de dicha tramitación se incluirá dentro del PVSA.
+El desmantelamiento de las instalaciones al final de su vida útil y la restauración final deberán realizarse en el plazo
+máximo de un año tras el cese de la actividad, poniéndolo en conocimiento del órgano ambiental.
+Se hará uso de los caminos existentes, evitándose abrir nuevos en la medida de lo posible, procediéndose a su
+mejora y mantenimiento. En cualquier caso, se garantizará la libre circulación por los mismos.
+De forma previa al inicio de las obras, se deberá jalonar la zona estricta de actuaciones con el fin de minimizar
+la afección a la vegetación natural tanto debida a la propia actuación como al paso de la maquinaria si fuese
+necesaria. La ejecución de la actividad debe realizarse bajo la supervisión y el seguimiento ambiental de los agentes
+medioambientales de la zona. En caso de ser necesarias zonas de acopio de materiales, éstas se dispondrán de
+forma que ocupen la menor superficie posible y, preferentemente, en zonas desprovistas de vegetación natural.
+Los suelos fértiles extraídos en tareas de excavación, caminos de acceso y zonas de instalaciones de obra, serán
+trasladados a zonas potencialmente mejorables. Dichas tareas de traslado se realizarán sin alterar los horizontes del
+suelo, con el fin de no alterar la estructura del mismo. El almacenaje de las capas fértiles se realizará en cordones
+con una altura inferior a 1,5 m, situándose en zonas donde no exista compactación por el paso de maquinaria y
+evitando así la pérdida de suelo por falta de oxígeno en el mismo. Se comprobará, previamente a su instalación, la
+estanquidad de la fosa séptica y de todos aquellos depósitos que pudieran albergar efluentes contaminados.
+Las zonas auxiliares usadas durante las obras se recuperarán lo antes posible, mediante la adecuada descompactación
+del terreno y la correspondiente revegetación del mismo. La plantación y protección de los taludes de desmontes y
+terraplenes generados por la apertura de viales o por acondicionamiento de tramos, se realizará lo más rápidamente
+posible.
+Antes del inicio de las obras se definirá exactamente la localización de depósitos para las tierras y lugares de acopio,
+para las instalaciones auxiliares y el parque de maquinaria. En su caso, se llevará a cabo un control topográfico de
+los límites de excavación y de depósito, para ajustarse a lo señalado en el proyecto.
+Para evitar la contaminación del suelo y del subsuelo, los productos de limpieza, aceites usados, etc., generados
+durante el funcionamiento, serán almacenados correctamente en depósitos herméticos y enviados a centros de
+gestión de residuos autorizados, no permitiéndose en ningún caso su vertido en el terreno. Se evitará en la medida
+de lo posible realizar cambios de aceite a pie de obra.
+Quedará prohibida la deposición en el terreno de restos del lavado de hormigón, mediante la apertura de hoyos de
+sobrantes de cementos. Se deberán utilizar cubetas para su posterior traslado a plantas de tratamiento.
+Las obras de construcción consistentes en colmatación de zonas o huecos de un emplazamiento con el fin de
+compensar desmontes y terraplenes dentro de la misma parcela, no requieren autorización. No obstante, será
+necesario solicitar autorización ante el Servicio de Economía Circular y Agenda 2030 cuando en la construcción
+del proyecto sea necesario realizar operaciones de relleno de tierra o depósito de tierras sobrantes en parcelas
+distintas a las del proyecto, de acuerdo a la Ley 7/2022, de residuos y suelos contaminados para una economía
+circular. Cuando pueda ser de aplicación, se podrá tramitar un expediente de valorización de materiales naturales
+excavados, rigiéndose por la Orden APM/1007/2017, de 10 de octubre, sobre normas generales de valorización
+de materiales naturales excavados para su utilización en operaciones de relleno y obras distintas a aquellas en
+las que se generaron, siempre que sustituyan otros materiales que no sean residuos para obras de construcción y
+operaciones de relleno, según el artículo 2.4. de dicha Orden.
+4.4. Protección a la atmósfera, calidad del aire y prevención del ruido.
+La actividad no se encuentra en el catálogo de actividades potencialmente contaminadoras de la atmósfera, publicado
+en el Real Decreto 100/2011, de 28 de enero.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29264
+A fin de cumplir con la normativa vigente respecto a los niveles de emisión de partículas a la atmósfera y con el fin
+de minimizar la producción y dispersión del polvo, se estará a lo dispuesto por la Ley 34/2007, de 15 de noviembre,
+de calidad del aire y protección de la atmósfera.
+En la fase de obras, en relación a la calidad del aire, se prohibirá circular a más de 20 km/h para evitar la dispersión
+masiva de polvo; un camión cisterna regará los caminos y los camiones cargados de estériles se cubrirán con lona.
+La maquinaria y vehículos a utilizar deberán haber pasado las correspondientes y obligatorias Inspecciones Técnicas
+de Vehículos, en especial las revisiones referentes a las emisiones de gases.
+Con respecto al ruido, se tendrá en cuenta lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, sus
+Reglamentos de desarrollo (Real Decreto 1367/2007, de 19 de octubre y el Real Decreto 212/2002, de 22 de
+febrero) y lo que establezcan al respecto las correspondientes ordenanzas municipales. En general, se procederá a
+la revisión y control periódico de los silenciosos de los escapes, rodamientos, engranajes y mecanismos en general
+de la maquinaria; todas las revisiones de ruido de la maquinaria se recogerán en fichas de mantenimiento y se
+aplicarán las medidas preventivas oportunas para minimizar el efecto de las proyecciones y de la onda aérea.
+Para evitar la contaminación lumínica, deberá cumplirse lo establecido en el Real Decreto 1890/2008, de 14 de
+noviembre, por el que se aprueba el Reglamento de Eficiencia Energética en instalaciones de alumbrado exterior
+y sus Instrucciones técnicas complementarias. Las zonas alumbradas se limitarán a las imprescindibles para el
+correcto funcionamiento de las instalaciones de control y mantenimiento de la PSFV. En estos casos, el alumbrado
+se dimensionará empleando tipos de luz que minimicen la contaminación lumínica vertical y los deslumbramientos,
+con los haces de luz dirigidos hacia el suelo. Las luminarias en el resto de la planta solar fotovoltaica funcionarán
+únicamente en casos de emergencia por motivos de seguridad en el trabajo y frente a actos vandálicos, quedando
+prohibido el alumbrado permanente en el interior de los campos generadores fotovoltaicos.
+Se tomarán las medidas necesarias para evitar la alteración lumínica de la zona y la incidencia en la atracción de
+lepidópteros nocturnos. Por ello, se recomienda la reducción del número de luminarias al mínimo imprescindible, la
+instalación de sistemas de iluminación de más alta eficiencia, evitar la proyección directa de luz hacia el cielo o que
+supongan reflejos y la regulación de su encendido con sensores de movimiento.
+La actividad también deberá ajustarse a la regulación que a tal efecto establezca la normativa municipal en sus
+ordenanzas.
+4.5. Protección del paisaje. Plan de Restauración e integración paisajística.
+La implantación de infraestructuras supone la intromisión en el entorno de un elemento no natural, que producirá
+un impacto negativo sobre el paisaje del entorno, por lo que se adoptarán medidas encaminadas a minimizar dicho
+impacto.
+En las edificaciones, se deberán emplear acabados de los paramentos con colores y materiales tales que consigan
+la integración paisajística para dar cumplimiento al artículo 16 del Reglamento de Suelo Rústico aprobado por
+Decreto 242/2004 y modificado por Decreto 177/2010.
+Para mitigar el impacto paisajístico, las infraestructuras se integrarán en el entorno, siendo sus coloraciones acordes
+con las tonalidades naturales de los alrededores en la medida de lo posible. Los acabados exteriores de cerramientos
+y cubiertas se realizarán en colores mates acordes con las propias características del entorno. En ningún caso
+permanecerán sin tratar superficies de colores brillantes o que produzcan reflejos. Asimismo, los paneles solares se
+ubicarán, en la medida de lo posible, en las zonas menos visibles desde las principales vías de circulación, siendo de
+utilidad la utilización de pantallas vegetales para su integración paisajística. En las casetas o edificios de los centros
+transformadores, de control y demás construcciones auxiliares, se emplearán materiales acordes con el entorno y
+respetando la tipología constructiva y colores de la zona.
+En fase de construcción, las instalaciones provisionales se situarán en zonas poco visibles y su color será poco
+llamativo. Como medida correctora complementaria se estima necesaria la realización de batidas de limpieza de
+residuos en el área de influencia directa del parque (alrededor de 200 metros) y de la línea de evacuación (alrededor
+de 50 metros). Dichas batidas estarán destinadas a la retirada de residuos voluminosos procedentes de las obras,
+pequeños residuos procedentes de la afluencia de trabajadores, tales como botellas, botes, colillas, etc.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29265
+Se recuerda que, tanto la pantalla vegetal perimetral como las plantaciones que se puedan efectuar en espacios
+libres comprendidos en el interior del cerramiento perimetral de la PSF, deberán supervisarse anualmente y efectuar
+las labores de mantenimiento necesarias para garantizar su arraigo y consolidación durante la vida útil de la planta.
+Una vez finalizadas las obras, antes del inicio de la actividad y dentro del primer informe del PSVA, el promotor
+deberá elaborar un informe acerca del grado de cumplimiento de las medidas de restauración propuestas en el
+documento ambiental, en aspectos tales como la gestión de las tierras (desbroces, acopios y almacenamiento de la
+tierra vegetal, preparación de suelo) y la regeneración de la vegetación en el ámbito afectado por las instalaciones.
+4.5.1. Directrices para naturalización e integración de instalaciones.
+De cara a la reducción del impacto visual y paisajístico del proyecto en el entorno, se deberá incorporar una pantalla
+vegetal alrededor del perímetro del proyecto y deberá aportarse un estudio de integración paisajística y naturalización,
+donde se sugiere que se contemplen medidas como las siguientes:
+1.- Se implantará una pantalla vegetal en todo el perímetro exterior de las zonas valladas de la planta solar con
+especies vegetales autóctonas naturalmente presentes en la zona, en ningún caso podrán utilizarse especies exóticas
+ni las incluidas en el Catálogo Español de Especies Exóticas Invasoras. Las especies que finalmente conformen la
+pantalla vegetal y su disposición se deberán consensuar con el Servicio de Medio Natural y Biodiversidad, eligiéndose
+con preferencia aquellas que proporcionen alimento y refugio a la fauna. La anchura mínima de la pantalla será de
+5 metros con plantación al tresbolillo y un mínimo de tres filas. Se procurará la naturalidad empleando especies
+arbóreas, arbustivas y de matorral y procurando darle una forma sinuosa de anchura variable que cubra distintos
+rangos de altura. Asimismo, deberá evitarse la linealidad de la misma y la repetición de patrones fijos. También se
+proporcionarán todos los cuidados necesarios para asegurar su buen arraigo y desarrollo, incluyendo la reposición
+de las marras que se pudiesen producir.
+2.- También deberán realizarse plantaciones que se ejecutarán en los espacios libres que sean adecuados para ello
+dentro del interior del cerramiento perimetral de la instalación solar fotovoltaica. La plantación se realizará en teselas
+aisladas de contorno irregular. La densidad inicial de la plantación será de al menos 600 plantas/ha.
+3.- Tanto la pantalla perimetral como las plantaciones de los espacios libres comprendidos entre el interior del
+cerramiento perimetral de la PSF, así como el resto de plantaciones o siembras ejecutadas para la restauración
+e integración paisajística del proyecto en su conjunto, deberán supervisarse anualmente y efectuar las labores
+de mantenimiento necesarias para garantizar su arraigo y consolidación durante toda la vida útil del proyecto,
+procediendo a la reposición de las marras halladas en su caso. El porcentaje de marras no podrá exceder el 20% de
+la densidad inicial establecida, debiendo reponerse en cualquier momento la vegetación perdida cuando se supere
+dicho porcentaje de marras. La densidad se irá ajustando con el paso del tiempo hasta el final de la vida útil de la
+PSF de ser necesario, garantizando el efecto de apantallamiento deseado y el estado sanitario óptimo de la masa.
+4.- La instalación fotovoltaica se adaptará a la orografía del terreno y sólo se realizarán nivelaciones de terreno en
+las zonas estrictamente necesarias. Las obras a realizar no modificarán la pendiente natural del terreno ni alterarán
+el régimen general de escorrentía de la zona, no podrán modificar el drenaje natural de los terrenos, respetando la
+integridad de los cauces naturales de agua con un adecuado diseño de las instalaciones, viales, cunetas y pasos de
+agua, planteando medidas para evitar la erosión por cárcavas.
+5.- La tierra vegetal retirada en la fase de construcción, se acopiará y reservará convenientemente para su empleo
+posterior en la revegetación.
+6.- Se debe minimizar el uso de recursos como el agua, así como el empleo de hormigón en las cimentaciones.
+7.- Se preservarán los elementos del paisaje, linderos, ribazos, pies aislados, que pudiesen existir, así como aquellos
+otros elementos que pueden ayudar a mantener la conectividad territorial.
+8.- Se preservarán/crearán islas o manchas de vegetación arbustiva distribuidas en mosaico dentro de las
+instalaciones. En la medida de lo posible, se implantarán entre un 5-10% de la superficie de la PSF de plantaciones
+en el interior de la planta solar, repartidas en islas de vegetación de unos 100 metros cuadrados aproximadamente;
+en estas islas se emplearán especies vegetales autóctonas naturalmente presentes en la zona, fomentando el
+empleo de especies que precisen un menor consumo de agua.
+9.- En la fase de explotación, en la medida de lo posible, se procurará generar un hábitat y cubierta vegetal dentro
+de la PSFV que permita el desarrollo o alimentación de especies silvestres. Para el control de la vegetación se
+eliminarán los tratamientos fitosanitarios químicos, permitiéndose únicamente procedimientos físicos y/o el pastoreo.
+10.- Se emplearán materiales y colores que permitan la integración paisajística de las instalaciones en el entorno,
+y se emplearán materiales opacos para evitar destellos y reflejos en las diferentes infraestructuras y edificaciones
+proyectadas; en el caso de la planta solar, se propone tratar los módulos con un tratamiento químico anti-reflectante
+para impedir su excesiva visibilidad desde puntos alejados, siempre que sea viable desde el punto de vista técnico.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29266
+11.- Se propone crear puntos de agua/charcas para la fauna, asegurando la disponibilidad de agua especialmente
+en verano.
+12.- Se construirán en el interior de la planta solar refugios para reptiles, consistentes en un montón de piedras de
+2x2 m de superficie y 50 cm de altura, dispuestos irregularmente.
+13.- Se instalarán posaderos/oteaderos, así como cajas nido que favorezcan la nidificación de especies de aves
+presentes en el territorio.
+14.- Instalación de cajas nido para quirópteros.
+15.- Instalación de hoteles de insectos/colmenas de polinizadores.
+16.- Para atenuar la afección a las poblaciones de anfibios –en caso de que se constate su presencia-, se deberán
+construir pasos para anfibios donde sea procedente.
+17.- No se instalará alumbrado exterior en la planta fotovoltaica, a excepción del asociado a los edificios auxiliares
+que, en cualquier caso, será de baja intensidad y apantallado hacia el suelo, iluminando exclusivamente el área
+deseada. Se instalarán interruptores con control de encendido y apagado de la iluminación según la hora de puesta
+y salida del sol. En cualquier caso, se cumplirá con las condiciones establecidas en el Real Decreto 1890/2008,
+de 14 de noviembre, por el que se aprueba el reglamento de eficiencia energética en instalaciones de alumbrado
+exterior y sus instrucciones técnicas complementarias, especialmente en lo referente a contaminación lumínica.
+18.- Con objeto de garantizar la permeabilidad de la valla a mamíferos de pequeño tamaño, la distancia entre el
+hilo horizontal inferior de la malla y el suelo y entre los dos hilos horizontales inferiores será de, al menos, 15 cm.,
+y la distancia entre hilos verticales será de 30 cm. como mínimo. El cerramiento carecerá de elementos cortantes o
+punzantes y de voladizo o visera superior. En ninguna circunstancia será eléctrico o con dispositivos incorporados
+para conectar corriente de esa naturaleza.
+19.-Se proyectarán viales con la anchura mínima imprescindible y por trazados con menor visibilidad, minimizando
+movimientos de tierras y evitando grandes taludes.
+20.- Se procederá a la restauración paisajística de cualquier zona del entorno afectada durante la fase de obras y
+no necesaria para el normal funcionamiento de la explotación (zonas de acopio, plataformas de montaje, viales…).
+21.- Se procederá a la limpieza general de las áreas afectadas, retirando las instalaciones temporales, los restos de
+residuos y los escombros, que se depositarán en vertederos controlados e instalaciones adecuadas para su tratamiento.
+Además, en el diseño de las instalaciones ha de contemplarse la protección de los cableados y otros elementos
+sensibles frente a roedores y lagomorfos, protegiéndolos adecuadamente para evitar problemas futuros.
+4.6. Protección a patrimonio, infraestructuras y dominio público.
+En materia de patrimonio histórico, se deberá cumplir con lo que establezca el Servicio de Cultura de la Delegación
+Provincial de Educación, Cultura y Deportes de Albacete. Según su informe de 23/02/2026 (exp/cult.: 26.0159), dicha
+Administración ha iniciado el procedimiento de control arqueológico del presente proyecto, mediante la emisión de
+una autorización de trabajos arqueológicos, con fecha 05/02/2026, para efectuar la prospección sistemática de los
+terrenos afectados por el proyecto. Una vez sea recibido el informe con los resultados de dichos trabajos, se emitirá
+la resolución al respecto.
+En cualquier caso, en el caso de la aparición de restos durante la ejecución del proyecto, se deberá actuar conforme
+a lo previsto en el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha, y
+el artículo 44.1 de la Ley 16/1985, de 25 de junio, del Patrimonio Histórico Español (deber de comunicación a la
+administración competente en materia de patrimonio cultural), y garantizar el control arqueológico antes de continuar
+con la ejecución del proyecto.
+Cualquier modificación del emplazamiento de la actuación autorizada deberá contar con el visado y la autorización
+de la Viceconsejería de Cultura y Deportes.
+Deberán respetarse en todo momento los elementos correspondientes al patrimonio cultural y etnográfico que
+pudiesen encontrarse presentes en el área de actuación. Así mismo, se restaurarán los elementos del paisaje
+agrario tradicional que hayan tenido que ser destruidos por la ejecución de la obra.
+En la medida de lo posible, el acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas no
+previstos en el proyecto, utilizando siempre la traza ya existente.
+El proyecto deberá garantizar la continuidad territorial de las vías de comunicación afectadas (vías pecuarias,
+caminos públicos, servidumbres...) que deberán quedar expeditas y funcionales, cualquier otra afección o uso
+pretendido deberá ser autorizable de acuerdo con sus normas específicas y el Código Civil.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29267
+Deberán respetarse las zonas de dominio público (viario, pecuario, forestal e hidráulico) que puedan existir en el
+ámbito del proyecto, de acuerdo con su legislación sectorial.
+Para la protección del viario rural una vez que se han terminado las obras, se procederá al acondicionamiento de
+los caminos afectados.
+En caso de existir afección a cualquier infraestructura (carreteras, caminos, etc.) se deberá cumplir con lo dispuesto
+en la Ley 9/1990, de Carreteras y Caminos de Castilla-La Mancha, así como contar con las diferentes autorizaciones.
+De igual modo, cuando no exista normativa de ordenación específica en el término municipal afectado, se respetarán
+las distancias de retranqueo a caminos y fincas colindantes establecidas en el Reglamento de Suelo Rústico (Decreto
+242/2004, de 27 de julio).
+Con respecto al resto de infraestructuras que pudieran ser afectadas, se estará a lo que disponga su normativa
+sectorial según su naturaleza, en relación con los retranqueos mínimos, distancias de seguridad y gálibos, y
+autorizaciones pertinentes.
+4.7. Gestión de residuos.
+Todos los residuos generados durante la fase de ejecución, funcionamiento y desmantelamiento del proyecto,
+estarán sujetos a lo dispuesto en la Ley 7/2022, de residuos y suelos contaminados para una economía circular, el
+Real Decreto 952/1997, de 20 de junio, que modifica el Reglamento para la ejecución de la Ley 20/1986, el Real
+Decreto 105/2008, de 1 de febrero, por el que se regula la Producción y Gestión de los Residuos de Construcción
+y Demolición y el Real Decreto 110/2015, de 20 de febrero, sobre Residuos de Aparatos Eléctricos y Electrónicos.
+La entrega de cualquiera de las categorías de residuos especificadas se hará a gestor autorizado. Para ello se
+deberá disponer de un contrato de tratamiento antes de su retirada, y deberá cumplirse con lo establecido en el Real
+Decreto 553/2020, de 2 de junio, por el que se regula el traslado de residuos en el interior del Estado.
+En cuanto a las aguas residuales provenientes de la instalación de cocinas o comedores eventuales, así como de
+los aseos para el personal de obra durante la fase de construcción, deberán recogerse en depósitos estancos y ser
+recogidas por gestor autorizado en este tipo de residuo, estableciéndose los correspondientes contratos.
+Tras las obras, la zona debe quedar libre de residuos. En general, los residuos serán caracterizados y separados
+con objeto de determinar su naturaleza y destino, almacenados sin originar un riesgo para la salud humana y el
+medio ambiente, y cumpliendo los tiempos máximos de almacenamiento establecidos en la Ley 7/2022, de residuos
+y suelos contaminados para una economía circular.
+Entre los residuos no peligrosos principalmente se encontrarían los restos orgánicos derivados de los desbroces y
+los restos de poda y los asimilables a urbanos. En lo referente a los principales residuos peligrosos, en la fase de
+funcionamiento del proyecto, destacan los procedentes de las labores de mantenimiento de los equipos, así como
+restos de productos químicos y sus envases.
+Por su complejo tratamiento, especialmente se incidirá en la gestión de residuos peligrosos, debiendo el promotor
+inscribirse en el Registro de Productores de Residuos y tener contratos con gestores externos autorizados. Los
+trámites relacionados con la inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha
+(altas, bajas o modificación), deberán realizarse a través de la sede electrónica de la página web del Gobierno
+Regional de Castilla-La Mancha.
+Durante el desarrollo de la actividad debe conservarse la documentación acreditativa de entrega de los residuos
+generados a gestores autorizados.
+Para el almacenamiento de los residuos peligrosos, estos deberán depositarse en un punto habilitado al efecto,
+cumpliendo los condicionantes de la Orden de 21-01-2003, de la Consejería de Agricultura y Medio Ambiente, por la
+que se regulan las normas técnicas específicas que deben cumplir los almacenes e instalaciones de transferencia
+de residuos peligrosos.
+Se extremará la precaución para evitar vertido alguno de aceites, así como cualquier otro contaminante.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29268
+Los residuos serán preferentemente reutilizados, reciclados o valorizados en la propia explotación. Si el productor o
+poseedor inicial de residuos no efectúa el tratamiento o gestión por sí mismo, se procederá a una eliminación segura
+retirándolos a través de gestor autorizado.
+En relación a la gestión, reparación, mantenimiento y en su caso la retirada por sustitución o desmantelamiento
+definitivo de las placas solares fotovoltaicas, deberá cumplirse lo establecido en el Real Decreto 110/2015, de 20
+de febrero, sobre Residuos de Aparatos Eléctricos y Electrónicos (y el Real Decreto 27/2021, de 19 de enero, por el
+que se modifica el RD anterior), así como la posible catalogación de estos residuos como peligrosos, ateniéndose
+en este caso a lo dispuesto en la legislación vigente.
+4.8. Adecuación urbanística.
+El proyecto y actividad pretendidos deberán ser compatibles con los usos permitidos en la clase de suelo donde se
+quieren desarrollar, según el planeamiento urbanístico vigente en el municipio.
+Todas las obras, construcciones e instalaciones que se realicen y todos los usos que se desarrollen en suelo
+clasificado como rústico deberán serlo con estricta sujeción a la legislación sectorial que en cada caso los regule
+(carreteras, medio ambiente, patrimonio, confederación hidrográfica, minas...) y al cumplimiento de la condiciones,
+requisitos y limitaciones establecidas por el Decreto Legislativo 1/2023, de 28 de febrero, por el que se aprueba el
+Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística, por el Decreto 242/2004, de 27
+de julio, por el que se aprueba el reglamento de suelo rústico, y el planeamiento territorial y urbanístico.
+Deberán tenerse en cuenta los requisitos exigidos por la Orden 4/2020, de 8 de enero, de la Consejería de Fomento,
+por la que se aprueba la instrucción técnica de planeamiento sobre determinados requisitos sustantivos que deberán
+cumplir las obras, construcciones e instalaciones en suelo rústico.
+El informe del Servicio de Planeamiento Municipal, de la D.G. de Planificación Territorial y Urbanismo de la Consejería
+de Fomento, de fecha 13/04/2026, señala que el proyecto debe someterse al trámite de calificación urbanística,
+según lo establecido en el artículo 54.1.3º, suelo rústico de reserva, del Decreto Legislativo 1/2023, de 28 de febrero,
+por el que se aprueba el Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística, de
+Castilla-La Mancha. Este informe incluye algunas observaciones, entre ellas, las siguientes:
+- Se estima conveniente proyectar la ejecución del cruzamiento del suelo SRNUEP por perforación horizontal
+dirigida, con objeto de no afectar a dicho suelo y simplificar el trámite de calificación urbanística, que será en tal caso
+municipal, siempre y cuando el proyecto no afecte a ningún otro suelo rústico no urbanizable de especial protección.
+- De conformidad con el Art. 64.2 del TRLOTAU y 38.1 del RSR, se deberá fijar la superficie objeto de reforestación,
+que podrá asimilarse a la plantación propuesta en el punto 15.4 Plan de revegetación. La plantación a lo largo del
+exterior del vallado cinegético perimetral incluirá la sección Este, que colinda con la vía pecuaria Cañada Real
+del Villar de Pozorrubio y carretera N-322, además de las indicadas al norte y sur. El estudio indica que “la mayor
+cantidad de posibles observadores se localizan en torno al polígono industrial de Romica en su extremo este, así
+como en las redes de transporte que discurren cerca del área del proyecto, como la N-322 y la AB-104”. Se asume
+la reducción de visibilidad debida a la instalación del vallado perimetral cortavientos y antirreflejos (pág. 103). De
+acuerdo con las características definidas en el punto 2.4.7 (pág. 16 del Estudio de deslumbramiento) se estima que
+su función puede ser asumida por la pantalla de reforestación con mayor eficacia y mejor integración paisajística.
+- El proyecto deberá obtener autorización del Ministerio de Defensa por situarse en zona de posible afección
+aeronáutica, aportando los datos necesarios del material a instalar por su posible contribución al deslumbramiento.
+Con estos datos se completará el Estudio de deslumbramiento.
+- En el punto 13.5 Medidas compensatorias (págs. 176-179), se proponen la instalación de primillares en edificaciones
+antiguas para reproducción y asentamiento del cernícalo primilla, mantenimiento de palomar tradicional para el
+águila imperial ibérica y dotación de campaña para la protección del aguilucho cenizo. Se deberá indicar con claridad
+en todos los casos la ubicación de las medidas propuestas.
+Por otro lado, cabe señalar que la Diputación de Albacete ha remitido sendos decretos, de fechas 22 y 24 de febrero
+de 2026, en los que autoriza a Intermalta, S.A., para el acondicionamiento de acceso a la carretera AB-104, y para
+la construcción de un cruce subterráneo mediante tres perforaciones mecánicas subterráneas en dicha carretera.
+4.9. Riesgo de accidentes y Prevención de incendios.
+Según indica el informe del Servicio de Protección Ciudadana de Albacete, de 23/03/2026, los planes, proyectos
+o actuaciones de índole urbanística deben de cumplir y respetar los estudios de riesgo de los distintos Planes
+
+AÑO XLV Núm. 145 31 de julio de 2026 29269
+de Protección Civil existentes en la actualidad en Castilla-La Mancha, en función de su tipología (Territoriales,
+Especiales y Específicos). Será el técnico competente que elabore el correspondiente Plan, Proyecto o Actuación
+quien, a la vista del correspondiente análisis de riesgos, fijado por cualquier plan de protección civil que pudiera
+afectar a la instalación, determine, en su caso, las medidas concretas a adoptar por el titular de la actividad.
+El citado informe de Protección Ciudadana de Albacete expone que los riesgos más significativos que pudieran
+afectar al presente proyecto, de acuerdo con los análisis de riesgos que la JCCM tiene elaborados a nivel regional,
+son los siguientes:
+- Riesgo de emergencia por inundaciones. Consultado el SNCZI (Sistema Nacional de Cartografía de Zonas
+Inundables) en la zona destinada a las construcciones que engloba dicho proyecto, NO se localiza ninguna zona
+con riesgo de inundación para varios periodos de retorno estudiados (10, 50, 100 y 500 años). En cualquier caso,
+y así viene recogido en el proyecto, la zona, prácticamente llana, puede tener problemas de encharcamiento
+por precipitaciones in situ; por lo que será necesario adoptar las medidas preventivas oportunas (elevación de
+infraestructuras, protección de instalaciones vulnerables, etc.). En cualquier caso, llegado el momento se activarían
+los correspondientes Planes Municipales de Emergencia y/o el correspondiente Pricamde ámbito regional.
+- Riesgo de emergencia por incendios forestales. El presente proyecto se plantea sobre terrenos del polígono nº
+29 del t.m. de Albacete (terrenos agrícolas), NO apareciendo en la relación de polígonos clasificados como de
+Riesgo Alto de Incendios Forestales, del Anexo II del Plan de Emergencia por Incendios Forestales de Castilla-La
+Mancha (Infocam), aprobado por Orden 187/2017, de 20 de octubre, de la Consejería de Hacienda y AAPP. No
+obstante, indicar que en las parcelas limítrofes al Noreste del proyecto aparece vegetación forestal; por lo que habrá
+que establecer las medidas preventivas oportunas para evitar posibles conatos de incendio forestal (maquinaria,
+soldaduras, radiales, etc.). Para ello, será la Consejería competente en materia de incendios forestales (Consejería
+de Desarrollo Sostenible) la encargada de informar y establecer recomendaciones al respecto (posibles desbroces,
+operaciones de soldaduras, etc.).
+- Riesgo de emergencia sísmica. De acuerdo con el Plan Especial por Riesgo Sísmico en Castilla-La Mancha
+(Sismicam), aprobado por Orden 196/2018, de 14 de diciembre, de la Consejería de Hacienda y Administraciones
+Públicas, este término municipal SÍ se encuentra incluido en el listado de los municipios con mayor riesgo sísmico
+de la Comunidad de Castilla-La Mancha, teniendo en cuenta la previsión de posibles daños tanto a personas como
+en bienes materiales. Asimismo, de acuerdo con el mapa de peligrosidad sísmica del IGN, en la zona del proyecto
+se estima una aceleración sísmica pico (pga) del 0,04-0,05 g, con valores de intensidad por debajo de VI (EMS-
+98). Por lo tanto, habría que tener en cuenta dichos parámetros y evaluar la necesidad o no de aplicación de la
+NCSR-02 (Norma de Construcción Sismorresistente-02), y en base a ello, según proceda, proyectar con materiales
+y dimensiones resistentes a posibles sismos.
+- Riesgo de emergencia por fenómenos meteorológicos adversos. Según el Plan Específico Ante Riesgo por
+Fenómenos Meteorológicos Adversos en Castilla-La Mancha (Meteocam), aprobada la última revisión mediante
+Orden 104/2025 de 11 de julio, de la Consejería de Hacienda, Administraciones Públicas y Transformación Digital,
+el término municipal de Albacete presenta un riesgo alto ante Femas (fenómenos meteorológicos adversos), tales
+como: lluvia, nieve, granizo, heladas, altas temperaturas y niebla. Por lo tanto, se deberán adoptar aquellas medidas
+constructivas y/o preventivas que minimicen los daños producidos por algunos de estos Femas (lluvias in situ,
+escorrentías, granizo, niebla, etc.), tanto entre el personal de trabajo como en las infraestructuras.
+- Norma básica de autoprotección. Se deberá consultar, por si fuese necesario la elaboración de un Plan de
+Autoprotección, la Norma Básica de Autoprotección (NBA), aprobada por Real Decreto 393/2007, del Ministerio de
+Interior, que establece en su Anexo I las actividades (estableciendo umbrales mínimos) para las que se deberán
+presentar el correspondiente Plan de Autoprotección (PA), junto con el resto de documentos necesarios, para el
+otorgamiento de la licencia, permiso o autorización necesaria para el comienzo de la actividad. Recordar, también, el
+Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control de los riesgos inherentes
+a los accidentes graves en los que intervengan sustancias peligrosas, por si fuese de aplicación.
+Se deberán adoptar las medidas de prevención de incendios forestales que correspondan, de acuerdo con el artículo
+58 de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla – La Mancha, debiéndose
+consultar al organismo competente.
+En cuanto al riesgo de contaminación, a priori no es significativo pues el proyecto no está incluido en el Anejo I
+del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de
+prevención y control integrados de la contaminación, de modo que no requiere autorización ambiental integrada.
+De forma general, para la protección de los trabajadores, durante el desarrollo de las actividades deben observarse
+las disposiciones de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29270
+4.10. Innovación tecnológica y cambio climático.
+Se utilizarán las mejores técnicas disponibles, conforme a la Directiva 2010/75/UE y la normativa que la transponga
+al ordenamiento jurídico nacional, incluyendo el Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que
+se aprueba el texto refundido de la Ley de prevención y control integrados de la contaminación, el Real Decreto
+815/2013, de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales, el Real Decreto
+773/2017, de 28 de julio, por el que se modifican diversos reales decretos en materia de productos y emisiones
+industriales, así como el resto de normativa que sea de aplicación.
+Asimismo, se propone la aplicación de Sistemas de Gestión y Auditoría Medioambiental (EMAS) conforme al
+Reglamento (CE) nº 1221/2009 del Parlamento Europeo y del Consejo, relativo a la participación voluntaria de
+organizaciones en un sistema comunitario de gestión y auditorías medioambientales.
+Se fomentará la eficiencia energética de las edificaciones, ya que así se reducen las emisiones de CO2 a la atmósfera
+y por tanto los efectos adversos del cambio climático. A nivel regional, la Ley 1/2007, de 15 de febrero, de Fomento
+de las Energías Renovables e Incentivación del Ahorro y Eficiencia Energética en Castilla-La Mancha, establece
+como objetivo el potenciar el uso racional de los recursos energéticos de carácter renovable en Castilla-La Mancha,
+fomentar la utilización racional de la energía en cualquiera de sus formas y promover el ahorro y la eficiencia
+energética. Además, la Ley 7/2019, de 29 de noviembre, de Economía Circular de Castilla-La Mancha establece un
+marco general para fomentar la transición a una economía hipocarbónica y reducir la generación de residuos y su
+carga contaminante, promoviendo su valorización, entre otros objetivos.
+Se recomienda al promotor realizar la inscripción del estudio de la huella de carbono de la presente actividad en
+el registro creado mediante el Real Decreto 163/2014, de 14 de marzo, por el que se crea el registro de huella de
+carbono, compensación y proyectos de absorción de dióxido de carbono.
+Se recuerda la existencia del Real Decreto 163/2014, de 14 de marzo, por el que se crea el registro de huella de
+carbono, compensación y proyectos de absorción de dióxido de carbono, y del Plan Nacional de Adaptación al
+Cambio Climático 2021-2030, instrumento de planificación básico para promover la acción coordinada y coherente
+frente a los efectos del cambio climático en España.
+4.11. Plan de desmantelamiento.
+Una vez finalizada la actividad de forma permanente, la totalidad de las instalaciones y elementos asociados al proyecto
+deberá desmantelarse y retirarse de la zona por gestores autorizados en función de la naturaleza de los residuos
+generados, procurando en la medida de lo posible la reutilización de dichos elementos. El desmantelamiento incluirá
+la retirada de todos los restos de material, residuos o tierras sobrantes, incluidos los cerramientos perimetrales, el
+cableado subterráneo y la cimentación de los centros de transformación de los campos solares.
+Se extremarán las precauciones en el caso de los residuos peligrosos (aceites, placas fotovoltaicas si no se pueden
+reutilizar en otras ubicaciones, etc.), procediendo a la retirada y gestión de los residuos producidos de acuerdo a la
+legislación vigente.
+Los terrenos afectados por el proyecto se restaurarán y restituirán a su estado genuino (el que presentaba antes de
+la construcción del proyecto), procurando mantener la topografía original del terreno y dejando el área de actuación
+en perfecto estado de limpieza, con el restablecimiento de la escorrentía original. A tal efecto, el promotor del
+proyecto presentará un Plan de Restauración con una antelación mínima de tres meses al cese de la actividad. Este
+Plan deberá contar con el visto bueno del Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo
+Sostenible de Albacete. El desmontaje y la restauración deberán realizarse en el plazo máximo de un año tras la
+finalización de la actividad y deberá ponerse en conocimiento de dicho servicio para dar por finalizado el expediente.
+En caso de que la actividad sea traspasada, también se deberá poner en conocimiento del órgano ambiental.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+5.1. Especificaciones generales para el programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental, sin perjuicio
+
+AÑO XLV Núm. 145 31 de julio de 2026 29271
+de las informaciones que pueda recabar el órgano ambiental al respecto, así como efectuar las comprobaciones
+necesarias para verificar el cumplimiento del condicionado.
+El Plan de Seguimiento y Vigilancia Ambiental (PSVA), que será revisado anualmente (o bien de forma especial y
+puntual si alguna circunstancia excepcional lo requiriera) mediante un informe global a presentar ante los órganos
+sustantivo y ambiental, será el documento rector que englobe todas aquellas actuaciones encaminadas a evaluar el
+cumplimiento de las prescripciones contenidas en el presente Informe, así como en el Documento Ambiental, y en
+el que se englobarán tanto el seguimiento ambiental como la evaluación de las medidas preventivas, correctoras,
+compensatorias y de restauración.
+Desde el inicio de las obras y durante toda la vida útil del proyecto, se realizará un informe compendio incluyendo las
+visitas efectuadas al proyecto a lo largo de un año completo. Este informe deberá reflejar el transcurso de los trabajos
+realizados durante dicho año, indicando la adecuación de las medidas previstas, y en su caso la implementación
+de aquellas que se hayan considerado necesarias para mitigar los impactos que en su caso se detectaren. Este
+informe incluirá un listado de comprobación de las medidas previstas en el programa de vigilancia, además de un
+anexo fotográfico y, si fuera necesario, un anexo cartográfico para constatar su contenido. Este informe deberá estar
+suscrito conjuntamente por el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y se
+presentará anualmente ante el órgano ambiental, entre el 1 de enero y el 31 de marzo del año siguiente al de los
+trabajos efectuados.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Todo el personal implicado en el proyecto deberá tener conocimiento de las medidas medioambientales que se deben
+adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo nombrar a un responsable
+del PVSA, que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al
+órgano sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia tendrán por objeto comprobar que el proyecto se desarrolla cumpliendo las condiciones
+establecidas en el documento ambiental presentado y en esta resolución. Comprenderá los contenidos descritos en
+esta resolución, y se completará con los siguientes aspectos:
+A) Durante la fase de ejecución de las obras de construcción del proyecto:
+- Debe realizarse el replanteo de las obras con los Agentes Medioambientales, así como el jalonamiento del ámbito
+mínimo imprescindible para la circulación de la maquinaria pesada, evitando de esta forma ocupar más terreno del
+necesario.
+- Control de que se adoptan medidas preventivas y correctoras para mantener los caminos en buen estado.
+- Comprobación de que se han adoptado medidas para garantizar un tráfico ordenado para garantizar la seguridad
+de los vecinos de la zona.
+- Control de que el vallado se ha ejecutado según lo propuesto en la presente Resolución.
+- Control de la implantación de las medidas preventivas, de protección y correctoras previstas en el documento
+ambiental y en esta resolución.
+- Control de las posibles afecciones a la flora y fauna.
+- Control sobre los movimientos de tierras realizados, posibles aportes o vertidos. Medidas para evitar fenómenos
+erosivos y de pérdida de suelo.
+- Control de las medidas preventivas encaminadas a la minimización de polvo y otros contaminantes a la atmósfera.
+- Control de la correcta gestión de todos los residuos generados durante la construcción del proyecto, con especial
+atención a los residuos peligrosos y a los contratos suscritos con los gestores de residuos.
+- Control de la posible aparición de restos arqueológicos.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29272
+B) Durante la fase de funcionamiento del proyecto:
+- Control de la eficacia de las medidas preventivas, de protección y correctoras propuestas por el promotor en el
+documento ambiental y en esta resolución.
+- Comprobación de que la aplicación del PSVA es correcta.
+- Mantenimiento óptimo de la pantalla vegetal perimetral. Descripción de los trabajos de mantenimiento de
+plantaciones y reposición de marras y de los trabajos de restauración ambiental, así como seguimiento del control
+de los procesos erosivos y corrección y del correcto mantenimiento de la vegetación natural.
+- Control de la no utilización de herbicidas, plaguicidas, insecticidas, rodenticidas y otros productos químicos.
+- Control del plan de gestión de las poblaciones de conejo en el interior de la PSF.
+- Control de la correcta gestión de los residuos generados durante la fase de explotación del proyecto, con especial
+atención a los residuos peligrosos, y a la validez de los contratos suscritos con los diferentes gestores de residuos.
+- Informe anual sobre seguimiento de ejecución y desarrollo de todas las medidas compensatorias y de las
+actuaciones de mantenimiento. Se deberá verificar la efectividad de dichas medidas mediante y en el caso de
+que se constate que no son efectivas, podrían cambiarse por otras consensuadas con el órgano ambiental. Para
+el programa de medidas agroambientales, se presentará relación de parcelas SIGPAC y detalle de las medidas
+desarrolladas (descripción y fechas de labores de mantenimiento de vegetación natural, calendarios de pastoreo,
+localización de lindes, charcas como bebederos para la fauna, control no aplicación de herbicidas/insecticidas, etc,
+acompañado de anejo fotográfico georreferenciado y fechado, para cada una de las labores de gestión y parcela).
+- Informe del Plan de Seguimiento Específico de la Fauna (PSEF).
+C) Durante el desmantelamiento del proyecto, tras la finalización de su vida útil o cese de la actividad: control de los
+extremos previstos en el apartado 4.11 de la presente resolución.
+5.2. Control externo de puntos críticos.
+De acuerdo con la Orden del 26 de enero de 2005 de la Consejería de Medio Ambiente, por la que se regula la
+autorización a entidades y profesionales para el seguimiento y control de las actividades sometidas a evaluación de
+impacto ambiental, se requiere un control externo de los puntos críticos que se enumeran a continuación.
+Las entidades responsables de realizar este seguimiento tendrán que estar inscritas en el Registro de Entidades y
+Profesionales de la Consejería de Desarrollo Sostenible encargados de realizar el control externo de la vigilancia
+ambiental.
+Se deberá realizar el seguimiento de los siguientes puntos críticos:
+- Control de no afección a la vegetación, barreras de piedra y linderos preexistentes.
+- Control de la idoneidad del vallado.
+- Control de la gestión de los residuos.
+- Control del programa de seguimiento y vigilancia específico de la fauna.
+- Control del cumplimiento de las medidas compensatorias.
+- Control de la barrera vegetal perimetral.
+- Control de la integración paisajística.
+Como mínimo, la entidad encargada por el promotor para efectuar este control externo deberá elaborar el informe
+ambiental al que hace referencia el artículo 3 de la citada Orden cada año desde el inicio de las obras hasta, al
+menos, los cinco primeros años de funcionamiento del proyecto (el órgano ambiental podrá determinar la necesidad
+de ampliar este periodo de cinco años, en función de los resultados del seguimiento).
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo (Servicio de
+Industria y Energía de la Delegación Provincial de Desarrollo Sostenible de Albacete) y ante el órgano ambiental
+(Servicio de Calidad Ambiental de la misma Delegación), en formato digital:
+a) Antes del inicio de las obras:
+- Memoria con la propuesta de medidas compensatorias, según lo indicado en el apartado 4.1.2 (deberá obtener el
+visto bueno del órgano ambiental antes del inicio de las obras).
+- Memoria del estudio de integración paisajística y naturalización.
+- Notificación de la fecha prevista para el inicio de las obras con una antelación mínima de 10 días.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29273
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Copia de la comunicación de inicio de actividades que conllevan producción de residuos, según la Ley 7/2022,
+de residuos y suelos contaminados para una economía circular, así como de los contratos establecidos con los
+diferentes gestores autorizados para la retirada de los residuos generados y almacenados en la explotación, con
+especial atención a los diferentes tipos de residuos peligrosos.
+b) Antes de la puesta en marcha de la actividad (una vez finalizadas las obras):
+- La fecha de inicio de la puesta en marcha de la actividad se comunicará por parte del responsable del PSVA con
+una antelación mínima de 10 días.
+- Primer informe del PSVA que haga referencia a las actuaciones realizadas y al estado de la zona tras las obras,
+en el que se deberán recoger los aspectos indicados en la disposición quinta de esta resolución, incluyendo una
+evaluación de las medidas compensatorias, de restauración y de integración paisajística.
+c) Anualmente, desde el inicio de la actividad y durante toda la vida útil del proyecto:
+- Informes sobre los controles y actuaciones en aplicación del Plan de Seguimiento y Vigilancia Ambiental,
+incluyendo el Plan de Seguimiento Específico de la Fauna (PSEF).
+- Informe de Control Externo de Puntos Críticos (con la duración especificada en esta resolución).
+d) Tres meses antes de la finalización de la vida útil del proyecto o del cese de la actividad:
+- Plan de restauración integral de los terrenos afectados.
+Las representaciones gráficas que se acompañen como anexos a los diferentes documentos técnicos y memorias
+que se aporten en cualquier fase del procedimiento, deberán aportarse en formato electrónico vectorial shapefile
+(*shp), sistema de referencia geodésico ETRS89, conforme al Real Decreto 1071/2007, de 27 de julio, por el que
+se regula el sistema geodésico de referencia oficial en España. El nivel de detalle será el adecuado para que cada
+administración quede informada en su ámbito.
+Las fotografías adjuntas a documentos técnicos, memorias, plan de seguimiento y vigilancia ambiental, etc., deberán
+ser georreferenciadas, con caracteres legibles.
+Séptimo. Conclusión.
+En consecuencia, una vez realizado el análisis técnico del expediente de evaluación de impacto ambiental conforme
+a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, en virtud del Decreto 112/2023,
+de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo
+Sostenible, modificado por el Decreto 6/2024, de 20 de febrero, y en el ejercicio de las atribuciones conferidas por
+la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en
+las delegaciones provinciales de la Consejería de Desarrollo Sostenible, esta Delegación Provincial de Desarrollo
+Sostenible de Albacete resuelve que el proyecto “Planta de captación solar con almacenamiento térmico y generación
+fotovoltaica con baterías para autoconsumo” (Exp. S478/2025/AB/00044) no necesita someterse a una Evaluación
+de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que
+se cumplan las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se
+desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+
+AÑO XLV Núm. 145 31 de julio de 2026 29274
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Se adjunta anexo cartográfico.
+Albacete, 23 de julio de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ
+
+AÑO XLV Núm. 145 31 de julio de 2026 29275
+ANEXO I. CARTOGRAFÍA.
+Plano 1. Implantación del proyecto sobre ortofoto (fuente: plano P-02 del Documento Ambiental).
