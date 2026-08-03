@@ -1,0 +1,173 @@
+AÑO XLV Núm. 146 3 de agosto de 2026 29394
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 15/07/2026, de la Dirección General de Transición Energética, sobre modificación de la
+instalación solar fotovoltaica denominada Matillas, infraestructuras auxiliares y de evacuación. (Referencia:
+2703/01256). [2026/5748]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Guadalajara y su informe,
+y el informe del Servicio de Instalaciones y Tecnologías Energéticas para la modificación de la instalación solar
+fotovoltaica denominada Matillas, infraestructuras auxiliares y de evacuación, con las siguientes características:
+- Referencia objeto de la presente resolución: 2703/01256-M1 (DP: 16270200500)
+- Peticionario: Tohora Solar Inversión, S.L. - NIF: B90387358.
+- Documentación Técnica: Proyecto ejecutivo modificado de Planta Solar Fotovoltaica de 5,775 MWp “PSFV
+Matillas” en el T.M. de Jadraque (Guadalajara), versión v02, marzo 2025. Redactado por el Ingeniero Industrial D.
+Daniel Correro Cabrera (Ingnova Enterprise, S.L., CIF: B-56006984), nº col. 7.426 del Colegio Oficial de Ingenieros
+Industriales de Andalucía Occidental, con declaración responsable de técnico titulado competente proyectista y
+director de la ejecución de los trabajos.
+- Características tras la modificación: Instalación solar fotovoltaica de estructura fija con potencia pico 5,775 MWp,
+potencia instalada 5,25 MW y capacidad de acceso en el punto de conexión 5,00 MW, en el T.M. de Jadraque
+(Guadalajara).
+Planta solar fotovoltaica con estructura fija:
+9.240 módulos fotovoltaicos bifaciales de 625 Wp modelo CHSM78N(DG)/F-BH-625, instalados en estructura fija
+monoposte Braux 2V inclinada 20º, con pitch de 7,6 m.
+15 inversores de cadena CPS SCH350KTL-DO/EU de 350 kW AC nominal cada uno (a 45 ºC).
+1 centro de transformación de 5.500 kVA (a 30 ºC) con relación de transformación 0,8 kV/20 kV.
+1 línea subterránea de alta tensión 20 kV de 275 m que enlaza el centro de transformación con el Centro de
+Protección y Medida (CPM).
+1 Centro de Protección y Medida ubicado en las coordenadas UTM X=507.224,72 / Y=4.531.491,44.
+Línea de evacuación subterránea de MT de 20 KV desde CPM hasta STR Jadraque de 1250 m.
+Nueva posición de línea en el transformador 66/20 kV de 12,5 MVA de la STR Jadraque propiedad de i-DE Redes
+Eléctricas Inteligentes, S.A.U. (referencia 9037030664-C000764006).
+- Ubicación: Polígono 508, parcela 34 del T.M. de Jadraque (Guadalajara).
+- Evacuación: Dispone de punto de acceso y conexión a la red de distribución de 20 kV, y una potencia de 5.000 kW,
+por medio de la respuesta de I-DE e informe de aceptabilidad emitido por REE.
+- Finalidad: Producción de energía eléctrica por generación fotovoltaica, y su transformación y evacuación a la red
+de distribución.
+Antecedentes de hecho.
+Primero: Mediante resolución de 25/01/2023 de la Dirección General de Transición Energética se otorgó a Tohora
+Solar Inversión, S.L., autorización administrativa previa y de construcción la instalación solar fotovoltaica denominada
+Matillas, infraestructuras auxiliares y de evacuación (referencia: 2703/01256), publicada en el DOCM nº 25 de 6 de
+febrero de 2023.
+Segundo: El 10/04/2025 Tohora Solar Inversión, S.L., solicitó autorización administrativa previa y de construcción de
+la modificación del proyecto, con las características indicadas.
+Tercero: Mediante Anuncio de 27/02/2026, de la Delegación Provincial de Desarrollo Sostenible en Guadalajara, se
+sometió a información pública la modificación del proyecto de planta solar fotovoltaica Matillas de 5,775 MWp y sus
+infraestructuras de evacuación en Jadraque (Guadalajara), a efectos de la autorización administrativa previa, del
+expediente número 2020PROD006.
+Dicho anuncio ha sido publicado en los siguientes medios:
+- DOCM de 11/03/2026.
+- Tablón de Anuncios Electrónico de la JCCLM, entre el 13/03/2026 y el 15/04/2026.
+
+AÑO XLV Núm. 146 3 de agosto de 2026 29395
+Cuarto: Con fecha de 12 de febrero de 2026, se emite Resolución de Informe de Impacto Ambiental del proyecto
+PSFV Matillas de 5,775 MWp y su infraestructura de evacuación (Exp. ambiental S478_2025_GU_00054_PSFV
+Matillas) por la Delegación Provincial de la Consejería de Desarrollo Sostenible en Guadalajara, concluyendo que el
+proyecto no necesita someterse a evaluación de impacto ambiental ordinaria siempre que se cumplan las medidas
+ambientales y de seguimiento establecidas en dicha Resolución.
+Con fecha de 13 de mayo de 2026 y número de registro de salida 523933 del Servicio de Calidad Ambiental de
+la Delegación Provincial de la Consejería de Desarrollo Sostenible en Guadalajara, se recibe notificación (asunto:
+2026_PVSA 06_Programa de Vigilancia y Seguimiento Ambiental) en la que dicho Servicio informa sobre la
+documentación aportada por la promotora en cumplimiento del hito temporal 6.a) de la Resolución de Informe de
+Impacto Ambiental de 12 de febrero de 2026 (expediente ambiental S478_2025_GU_00054_PSFV Matillas). El
+Servicio de Calidad Ambiental da su conformidad a la documentación presentada con número de registro de entrada
+22240 de fecha 10 de abril de 2026,
+Quinto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Ayuntamiento de Jadraque (Guadalajara). Se le remite separata del proyecto con fecha de 6 de mayo de 2025.
+Transcurrido el plazo de 20 días desde la notificación sin haber recibido respuesta, se tienen por aprobadas las
+especificaciones técnicas propuestas por el solicitante de la autorización.
+- Dirección General de Carreteras de la Consejería de Fomento de Castilla-La Mancha. Se le remite separata
+del proyecto con fecha de 6 de mayo de 2025. Con fecha de 29 de agosto de 2025 se recibe informe favorable
+con condicionado técnico (ref. GU-10016-22-SC) relativo al paralelismo y cruzamiento subterráneo de la línea de
+evacuación en la glorieta entre las carreteras CM-101 y CM-1003 en el término municipal de Jadraque. Con fecha
+de 19 de septiembre de 2025 el titular manifiesta su conformidad y aceptación del condicionado.
+- Delegación Provincial de Educación, Cultura y Deportes en Guadalajara - Servicio de Cultura. Se le remite separata
+del proyecto con fecha de 6 de mayo de 2025. Con fecha de 19 de mayo de 2025 se recibe informe del Servicio
+de Cultura indicando que sigue vigente la resolución emitida con fecha 9 de junio de 2020 (Expediente Cultura
+20.0922), sin inconveniente para la autorización solicitada. Con fecha de 22 de mayo de 2025, el titular manifiesta
+su conformidad.
+- i-DE Redes Eléctricas Inteligentes, SAU. Se le remite separata del proyecto con fecha de 6 de mayo de 2025. Con
+fecha de 16 de mayo de 2025, se recibe condicionado técnico de i-DE Redes Eléctricas Inteligentes, S.A.U. relativo
+a la conexión en la STR Jadraque (ref. 9037030664-C000764006). Con fecha de 22 de mayo de 2025, el titular
+manifiesta su conformidad y aceptación del condicionado.
+Sexto: La Delegación Provincial de Desarrollo de Sostenible en Guadalajara cumplió con lo establecido en la
+resolución de 3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en
+los/as delegados/as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 05/06/2026
+informe favorable a las solicitudes realizadas.
+Séptimo: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable a las solicitudes
+realizadas.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+
+AÑO XLV Núm. 146 3 de agosto de 2026 29396
+80/2007, de 19/6/2007, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica
+a tramitar por la Junta de Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y demás
+normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe alguna que impida otorgar la autorización administrativa previa y autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; el Real Decreto-ley 23/2020; la Ley 24/2013; la Ley 2/2020; el Decreto 80/2007; la
+ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás
+legislación concordante de aplicación.
+En su virtud Resuelve: Otorgar a Tohora Solar Inversión, S.L. la autorización administrativa previa y de construcción
+de las instalaciones eléctricas de referencia, con las características anteriormente indicadas, sujeta a las siguientes
+condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Sexta: Se debe cumplir lo establecido en Resolución de 12/02/2026 de la Delegación Provincial de Desarrollo
+Sostenible en Guadalajara, por la que se formula el Informe de Impacto Ambiental del proyecto PSFV Matillas de
+5,775 MWp y su infraestructura de evacuación (Expediente ambiental S478_2025_GU_00054_PSFV Matillas), en el
+marco de lo dispuesto en la normativa básica aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha y demás normativa autonómica de aplicación.
+Séptima: El titular debe, en su caso, comunicar al gestor de red la modificación de los datos que constan en los
+permisos de acceso y conexión obtenidos, en cumplimiento de lo dispuesto en la disposición adicional decimocuarta
+del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que en su punto
+4 establece que “En aquellos casos en los que las instalaciones con permisos de acceso y conexión solicitados
+y/o concedidos hayan sufrido modificaciones que impliquen que dichas instalaciones puedan ser consideradas las
+mismas de acuerdo con lo establecido en esta disposición, los titulares deberán actualizar la solicitud de los permisos
+de acceso y conexión, o en su caso, actualizar los permisos de acceso y conexión concedidos para adaptarlos a las
+características de la instalación modificada”, para que, en su caso, proceda a actualizar los permisos de acceso y
+conexión.
+Octava: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+
+AÑO XLV Núm. 146 3 de agosto de 2026 29397
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 15 de julio de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
