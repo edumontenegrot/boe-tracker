@@ -1,0 +1,93 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 190 Miércoles 5 de agosto de 2026 Sec. III. Pág. 109932
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+17074 Resolución de 23 de julio de 2026, de la Universidad Complutense de Madrid,
+por la que se publica la modificación del plan de estudios de Graduado o
+Graduada en Ingeniería de Computadores.
+Obtenida la verificación del Plan de Estudios por el Consejo de Universidades, previo
+informe positivo de la Agencia Nacional de Evaluación de la Calidad y Acreditación, y
+acordado el carácter oficial del título por el Consejo de Ministros de 1 de octubre de 2010
+(publicado en el BOE del 11 de noviembre de 2010 por Resolución de la Secretaría
+General de Universidades de 18 de octubre de 2010), y obtenida la aprobación de
+modificación del Plan de Estudios por el Consejo de Universidades, previo informe
+favorable de la Agencia Evaluadora Fundación para el Conocimiento Madri+d, de fecha 8
+de julio de 2025.
+Este Rectorado, de conformidad con lo dispuesto en el artículo 8.3 de la Ley
+Orgánica 2/2023, de 22 de marzo, del Sistema Universitario, ha resuelto publicar la
+modificación del Plan de Estudios conducente a la obtención del título oficial de
+Graduado o Graduada en Ingeniería de Computadores por la Universidad Complutense
+de Madrid, que queda estructurado conforme figura en el anexo de la misma.
+La presente modificación será de aplicación a aquellos estudiantes que realicen el
+Grado a partir del curso académico 2026-27.
+Madrid, 23 de julio de 2026.–El Rector, Joaquín Goyache Goñi.
+ANEXO
+Modificación del Plan de Estudios del título de Graduado o Graduada en Ingeniería
+de Computadores
+RAMA DE CONOCIMIENTO: INGENIERÍA Y ARQUITECTURA
+Campo de Estudio: Ingeniería Informática y de Sistemas
+Distribución del plan de estudios en créditos ECTS
+Tipo de materia Créditos ECTS
+Formación básica. 60
+Obligatorias. 144
+Optativas. 24
+Prácticas Externas. –
+Trabajo de Fin de Grado. 12
+Créditos Totales. 240
+47071-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 190 Miércoles 5 de agosto de 2026 Sec. III. Pág. 109933
+Créditos de formación básica. Distribución en materias
+Campo de estudio Materia Asignaturas Vinculadas ECTS Curso
+Cálculo. 6 1.º
+Matemáticas y estadística. Matemáticas.
+Álgebra Lineal. 6 1.º
+Ingeniería eléctrica, ingeniería electrónica e ingeniería de la telecomunicación. Física. Fundamentos de Electrónica Digital. 6 1.º
+Matemática Discreta. 6 1.º
+Matemáticas.
+Lógica Matemática. 6 1.º
+Fundamentos de la Programación. 6 1.º
+Ingeniería informática y de sistemas.
+Programación y Algoritmia Básica. 9 1.º
+Informática.
+Tecnología de Computadores. 6 1.º
+Fundamentos de Computadores. 9 1.º
+Créditos totales. 60
+Plan de estudios resumido (por módulo)
+Módulo Materia Carácter Créditos ECTS
+Física. Básica. 6
+Materias Básicas. Matemáticas. Básica. 24
+Informática. Básica. 30
+Estructura de computadores. Obligatoria. 6
+Programación Fundamental. Obligatoria. 18
+Desarrollo de Software Fundamental. Obligatoria. 15
+Materias Comunes a la Informática. Sistemas Operativos y Redes Fundamentales. Obligatoria. 12
+Ética, Legislación y Profesión. Obligatoria. 6
+Empresa. Obligatoria. 3
+Interacción Persona-Ordenador. Obligatoria. 3
+Sistemas Operativos y Redes Avanzados. Obligatoria. 12
+Tecnología y Arquitectura de Computadores. Obligatoria. 18
+Ingeniería de Computadores.
+Sistemas Distribuidos. Obligatoria. 12
+Software de Sistemas. Obligatoria. 6
+Métodos Estadísticos. Obligatoria. 6
+Desarrollo de Software Avanzado. Obligatoria. 12
+Complementario.
+Robótica. Obligatoria. 6
+Seguridad Informática. Obligatoria. 9
+Optatividad General. Optativa. 156
+Optativo. (1)
+Prácticas Académicas Externas. Optativa. 6
+Trabajo de Fin de Grado. Trabajo de Fin de Grado. Trabajo Fin de Grado. 12
+(1) El/la estudiante debe cursar 24 ECTS de todos los créditos optativos ofertados dentro del módulo Optativo.
+47071-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

@@ -1,0 +1,62 @@
+AÑO XLV Núm. 148 5 de agosto de 2026 29803
+V.- ANUNCIOS
+OTROS ANUNCIOS OFICIALES
+Consejería de Desarrollo Sostenible
+Anuncio de 21/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, sobre información
+pública del proyecto de instalación de energía eléctrica denominado: Planta de almacenamiento
+BESS Campanario-Rotonda 2 de 7,560 MW, para hibridar con la planta FV Campanario Rotonda 2 y sus
+infraestructuras de evacuación, emplazada en el término municipal de Bonete (Albacete), a efectos de su
+autorización administrativa previa y su autorización administrativa de construcción. Referencia: 02271200004.
+[2026/5615]
+Según lo establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y el Decreto 80/2007, de 19 de
+junio, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica a tramitar por
+la Junta de Comunidades de Castilla-La Mancha, y su régimen de revisión e inspección, se somete a información
+pública el proyecto que se indica a continuación, a efectos de su autorización administrativa previa y su autorización
+administrativa de construcción.
+Los datos básicos del proyecto son:
+- Referencia: 02271200004 (BAT).
+- Peticionario: Renovables Rotonda 2SPV, S.L.U. CIF: B01795327.
+- Denominación del proyecto de ejecución: Planta de Almacenamiento “BESS Campanario-Rotonda 2” de 7,560 MW,
+para Hibridar con la Planta “FV Campanario Rotonda 2”, y suscrito el 24/03/2026, por el técnico titulado competente
+Dº Juan Useros de La Calzada.
+- Ubicación : Parcelas 151 y 152 del polígono 8, del término municipal de Bonete (Albacete).
+- Descripción: El sistema de almacenamiento en baterías (BESS), emplazado en el interior del área de vallado
+del módulo de generación fotovoltaico denominado; “FV Campanario Rotonda 2”, (referencia: 02250401952 (FV) /
+(DGTE: 2703/01141_M1), junto al existente centro de seccionamiento de la planta fotovoltaica (CSFV), y constituido
+por una agrupación de tres unidades de contenedores “marítimos”, que alojan (c/u), baterías de ión de litio con
+inversores de 2520 kW y capacidad de 5.015 kWh, La potencia instalada total del módulo de almacenamiento es de
+7,560 MW, y una capacidad total de 15,045 MWh.
+- La capacidad de acceso de la instalación híbrida FV+BESS: 17,5 MW.
+- Nuevas infraestructuras de evacuación de 30 kV: Emplazado junto a los contenedores “marítimos” de las baterías,
+están constituidas por:
+a) Dos centros de transformación de potencia (CT), de superficie y maniobra exterior, instalados en contenedor
+“marítimo”. El CT1 aloja un transformador de potencia de 2.750 kVA – 0,690 /30 kV, que se conecta a 1 contenedor
+de baterías, y el CT2 aloja un transformador de potencia de 5.140 kVA - 0,690 /30 kV, que se conecta a dos
+contenedores de baterías, Los CT’s disponen de las celdas de 36 kV, para protección de transformadores, y de línea
+necesarias. El CT2 se conecta con el CT1, y éste con el nuevo CSFV+BESS, mediante línea subterránea de 30 kV
+S/C, y conductor tipo RHZ1 18/30 kV 3x240 mm2 Al, y longitud total aproximada de 16 m.
+b) Un nuevo centro de seccionamiento (CSFV+BESS), de superficie y de interior en edificio prefabricado de hormigón,
+que aloja un conjunto de celdas de 36 kV, formadas por 1 celda de línea de conexión con el existente CSFV, 1 celda
+de medida para FV, 1 celda de remonte, 1 ceda de protección con interruptor automático de FV+BESS para la
+salida de la línea subterránea hacia la ST Almansol, 1 celda de protección con ruptofusible para alimentación de
+SS.AA, 1 celda de remonte, 1 celda de medida para BESS, y 1 celda de línea para BESS. Se incluye también un
+transformador de SS.AA de 250 kVA – 0,23-0,4 / 30 kV.
+- Infraestructuras de evacuación en alta tensión existentes: Desde el nuevo CSFV+BESS , parte la línea subterránea
+de evacuación de la instalación híbrida de 30 kV, (que sufre una variación por cambiar su origen del CSFV al
+CSFV+BESS), con longitud acumulada de 295 m, conductor AL HEPRZ1 18/30 kV tipo unipolar, y sección 400
+mm2 , y con final en la subestación transformadora (ST) “Almansol” 30/132 kV (referencia: 02240108014_A1 /
+DGTE: 2703/00918_A1), de donde parte la línea eléctrica de 132 kV de evacuación, con final en la ST “Campanario
+Renovables” 132/400 kV, (con referencia: 02210103693 / DGTE: 2703/0918).
+- Presupuesto de ejecución material: 1.705.591, 39 €.
+
+AÑO XLV Núm. 148 5 de agosto de 2026 29804
+- Finalidad: Nuevo módulo de almacenamiento de energía en hibridación con módulo existente de generación
+fotovoltaica, su transformación y evacuación final a la red de transporte de 400 kV.
+Lo que se hace público para que pueda ser examinado el proyecto, en el Servicio de Industria y Energía, sito en Avd.
+de España, nº 8-B., de Albacete, C.P. 02071, o en el tablón electrónico de la JCCM a través del enlace:
+https://www.jccm.es/servicios/tablon-de-anuncios
+pudiendo presentarse las alegaciones que se estimen oportunas en el plazo de 20 días, contados a partir del
+siguiente al de la publicación de este anuncio.
+Albacete, 21 de julio de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ

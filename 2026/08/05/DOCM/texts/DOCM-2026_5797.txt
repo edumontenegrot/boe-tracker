@@ -1,0 +1,263 @@
+AÑO XLV Núm. 148 5 de agosto de 2026 29794
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 13/07/2026, de la Dirección General de Transición Energética, sobre el proyecto denominado
+repotenciación del parque eólico Prototipo de Aerogenerador de 3,6 MW, emplazado en el término municipal
+de Barrax (Albacete). (Referencia: 2701/00296). [2026/5797]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible de Albacete y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia objeto de la presente resolución: 2701/00296_M1 (DP: 02271000480_3R), hibridado con la instalación
+solar fotovoltaica “HFV Barrax” con nº expediente: 2703/01675 (DP: 02250402016 (FV)).
+- Peticionario: Planta Enersos III, S.L.U. CIF: B02503332.
+- Documentación técnica:
+a) Proyecto de ejecución: Repotenciación del Parque Eólico “Prototipo de Aerogenerador de 3,6 MW”, con fecha
+de firma de 08/11/2023, a cargo del técnico D. Jorge Córdoba López, y visado n.º 45023, de fecha 08/11/2023, del
+Colegio Oficial de Ingenieros Industriales de Albacete.
+b) Estudio de impacto ambiental denominado: Proyecto de Repotenciación del Parque Eólico “Prototipo de
+Aerogenerador de 3,6 MW”, con fecha de firma de 16/11/2023, por Alejandro Carpena López y otros, en nombre de
+Coproyma.
+- Características principales de las instalaciones de generación, evacuación y de conexión a red tras la modificación:
+Características de la repotenciación del parque eólico “Prototipo de aerogenerador de 3,6 MW”:
+a) Ubicación: Parcela 55 del polígono 2, del término municipal de Barrax (Albacete).
+b) Aerogeneradores: Reforma del parque eólico existente mediante la instalación de 1 nuevo aerogenerador del
+modelo V163 o similar, del fabricante VESTAS, cuya potencia nominal es de 3.600 kW, con rotor tripala de 163
+metros de diámetro y 113 metros de altura de buje, y transformador 0,72/20 kV de 5.300 kVA.
+c) Potencia total instalada: 3,6 MW.
+d) Línea de interconexión a 20 kV: Mediante una línea subterránea de 20 kV (tensión más elevada 24 kV), con una
+longitud de 267 metros, se interconexionarán el nuevo aerogenerador con el nuevo centro de protección, control y medida
+(CPCyM, objeto de otro proyecto y otro expediente) asociado también a una planta solar fotovoltaica (Hibridación “HFV
+Barrax”). Los conductores serán tipo RH5Z1 12/20 kV, de 240 mm2 de sección de aluminio, aislamiento de polietileno
+reticulado, pantalla de aluminio y cubierta de poliolefina. Se acompañarán de cable de fibra óptica.
+e) Obra civil: Comprende plataforma y cimentación de aerogenerador, zanjas para línea de media tensión, vial de
+acceso, etc.
+f) Infraestructura de evacuación existente (no objeto de esta solicitud): En el CPCyM mencionado se conectará la
+línea de evacuación actual, a excepción del tramo que ha de conectar en este centro. Consta de un primer tramo
+de línea subterránea 20 kV de 287 metros de longitud, desde el CPCyM hasta el apoyo A-1, de un segundo tramo
+de línea aérea 20 kV de 7.664 metros de longitud, desde el apoyo A-1 hasta el apoyo A-49 (no se modifica), y de un
+tercer tramo de línea subterránea 20 kV de 119 metros de longitud, desde el apoyo A-49 hasta la ST Barrax (no se
+modifica).
+g) Otras actuaciones: La reforma contempla el desmantelamiento del aerogenerador existente.
+- Presupuesto total de ejecución material: 2.962.549,84 € (PE Modificado).
+- Evacuación: Se mantiene la misma capacidad de acceso asignada de 3,6 MW, siendo esta su potencia máxima de
+evacuación, según los permisos de acceso y conexión concedidos por la empresa distribuidora.
+- Finalidad: Producción de energía eléctrica mediante generación eólica, su transformación y evacuación final a la
+red de distribución.
+Antecedentes de hecho.
+Primero: Mediante resolución de 17/08/2001 de la Delegación Provincial de la Consejería de Industria y Trabajo
+(ref.: 02271000480), se otorgó autorización administrativa y aprobación del proyecto de ejecución de la instalación
+eléctrica de referencia a favor de Enron Wind, S.A., con las siguientes características:
+Aerogenerador de 3.600 kW, centro de transformación de 4.000 kVA y 5,8 km de línea eléctrica aéreo-subterránea
+12/20 kV en el término municipal de Barrax (Albacete).
+
+AÑO XLV Núm. 148 5 de agosto de 2026 29795
+Segundo: Con fecha 04/07/2002, mediante resolución de la Excma. Sra. Consejera de Industria y Trabajo, se
+autorizó el cambio de titularidad del Plan eólico Estratégico concedido a Enron Wind de España, S.L. a favor de GE
+Wind Energy, S.L.
+Tercero: Mediante resolución de la Delegación Provincial de la Consejería de Industria y Trabajo de Albacete, se
+autorizó la puesta en marcha de la instalación de referencia a favor de Ge Wind Energy, S.L.
+Cuarto: Mediante resolución de 01/04/2015, de la Dirección General de Industria, Energía y Minas, se autorizó la
+transmisión de la titularidad de la instalación de referencia propiedad de GE Wind Energy, S.L. a favor de Planta
+Enersos III, S.L.U.
+Quinto: Con fecha 01/12/2023 Planta Enersos III, S.L.U., presentó solicitud de autorización administrativa previa,
+de construcción y de inicio de evaluación de impacto ambiental ordinaria de la modificación sustancial de las
+instalaciones de referencia, junto a las solicitudes se aportó la documentación técnica.
+Sexto: Mediante anuncio de 31/07/2024, de la Delegación Provincial de Desarrollo Sostenible de Albacete, sobre
+información pública del estudio de impacto ambiental, y del proyecto de instalación de energía eléctrica denominado:
+Repotenciación parque eólico “Prototipo de Aerogenerador de 3,6 MW” emplazado en el término municipal de Barrax,
+provincia de Albacete, a efectos de su declaración de impacto ambiental, su autorización administrativa previa, y su
+autorización administrativa de construcción. Publicado en los siguientes medios:
+- Diario Oficial de Castilla-La Mancha de 13/08/2024.
+- Tablón de Anuncios Electrónico de la JCCLM, entre el 14/08/2024 y el 13/09/2024.
+Durante el trámite de información pública se recibieron las siguientes alegaciones de entidades/personas no
+directamente consultadas:
+- Ministerio de Defensa: Con fecha 18/07/2025, se recibe informe con fecha de firma de 02/07/2025, en que el
+Estado Mayor del Ejército del Aire y del Espacio concluye que es contrario a la autorización del proyecto.
+Con fecha de 14/08/2025 se da traslado de estas alegaciones al promotor.
+Con fecha de registro de 26/03/2026, se recibe del promotor informe y resolución favorable, ambos emitidos por el
+Ministerio de Defensa, con fechas de 16/02/2026 y 17/03/2026, respectivamente.
+Séptimo: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas por el peticionario como bienes o servicios a su cargo afectadas por la instalación. Las
+entidades consultadas, fueron las siguientes (contestan los marcados con *):
+1. Confederación Hidrográfica del Júcar. (*)
+2. Delegación Provincial de la Consejería de Educación, Cultura y Deportes en Albacete (Servicio de Cultura).
+3. Ayuntamiento de Barrax.
+4. Delegación Provincial de la Consejería de Fomento en Albacete (Servicio de Carreteras). (*)
+5. Agencia Estatal de Seguridad Aérea del Ministerio de Transportes y Movilidad Sostenible. (*)
+6. i-DE Redes Eléctricas Inteligentes, S.A.U.
+En relación a las contestaciones realizadas por las AAPP y organismos afectados, y sobre aspectos que versan
+sobre la autorización administrativa, (excluidas las ambientales, que se han valorado por la DIA), se informa que
+la mayoría de las entidades que respondieron a la petición informaron favorablemente a la autorización y, en los
+casos en los que se estableció condicionado, éste se ha limitado al recordatorio de la legislación medioambiental o
+sectorial de aplicación, sin repercusión en el proyecto, y ha sido aceptado por el solicitante.
+Octavo: En cumplimiento de la legislación ambiental, se ha puesto en conocimiento de las Administraciones Públicas
+afectadas y las personas interesadas del contenido del Estudio de Impacto Ambiental.
+Noveno: El resultado de las informaciones públicas y de las consultas y respuestas fue remitido al órgano ambiental
+al objeto de iniciar la Evaluación de Impacto Ambiental.
+
+AÑO XLV Núm. 148 5 de agosto de 2026 29796
+Décimo: Con fecha de 15/04/2025 se publica en el D.O.C.M. Núm. 73 la Resolución de 07/04/2025, de la Delegación
+Provincial de Desarrollo Sostenible de Albacete, por la que se formula la declaración de impacto ambiental del
+proyecto: Repotenciación del parque eólico Prototipo de Aerogenerador de 3,6 MW (expediente de Industria y Energía
+02271000480_3R) (expediente de evaluación ambiental S478/2025/AB/00005), situado en el término municipal de
+Barrax (Albacete), cuyo promotor es Planta Enersos III, S.L.U. La declaración de impacto ambiental considera viable
+el proyecto desde el punto de vista ambiental, siempre que se realice conforme al Estudio de Impacto Ambiental
+presentado y sus adendas, y a las prescripciones establecidas en la misma.
+De esta DIA cabe indicar:
+1. Su apartado final tercero: “Resumen del análisis técnico del expediente”, donde se concluye que: “…esta
+Delegación Provincial de Albacete considera viable el proyecto desde el punto de vista ambiental, siempre que se
+realice conforme al Estudio de Impacto Ambiental presentado y a las prescripciones de esta resolución”.
+2. Su apartado cuarto: “Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el
+medio ambiente”, donde además de las medidas que con carácter general se señalan en el estudio de impacto
+ambiental, se cumplirán las condiciones que se expresan en este apartado, significando que en los casos en que
+pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en esta resolución DIA.
+Además, incluye un subapartado 4.10 “Plan de desmantelamiento, restauración y cese de la actividad”, que
+contempla tanto el desmantelamiento del parque eólico existente como el desmantelamiento del parque eólico
+repotenciado tras el cese de su actividad.
+3. Su apartado quinto: “Programa de vigilancia ambiental”, dividido en los siguientes subapartados:
+5.1 Especificaciones generales.
+5.2 Control externo de puntos críticos.
+5.3. Documentación adicional. Donde no se establece la obligación de presentarse documentación antes de la
+autorización administrativa previa y de construcción.
+Esta resolución DIA adjunta 2 anexos, y de los que se destacan:
+- Anexo I. Protocolo de aerogeneradores conflictivos.
+Decimoprimero: Con fecha de registro de entrada de 01/07/2025, el promotor presentó ante el Servicio de Calidad
+Ambiental, documento denominado Actualización del Plan de Desmantelamiento PE Prototipo AEG 3,6 dado
+el siniestro ocurrido el 14 de marzo de 2025, cuando un incendio se originó en la “nacelle” del aerogenerador,
+comprometiendo gravemente la integridad estructural del aerogenerador, y que como consecuencia, el aerogenerador
+del parque eólico quedó completamente inoperativo desde el punto de vista mecánico y funcional.
+Añadía el promotor en su escrito de presentación que, consecuencia de dicho siniestro, resultaba prioritaria la
+ejecución de las tareas de desmantelamiento del actual aerogenerador. Por tanto, teniendo en cuenta que las
+condiciones derivadas del siniestro hacían inviable la ejecución del plan de desmantelamiento original por cuestiones
+de seguridad, Planta Enersos III, S.L.U. registra ante el Servicio de Calidad Ambiental de Albacete, la Actualización
+del Plan de Desmantelamiento y Restauración del parque eólico, a través del cual se actualizan los trabajos del
+desmantelamiento mediante una demolición controlada del aerogenerador en su totalidad, con un replanteamiento
+completo del procedimiento, priorizando en todo momento la integridad física del personal técnico y el cumplimiento
+de la normativa vigente en materia de prevención de riesgos laborales.
+Es por lo que solicitó al Servicio de Calidad Ambiental de Albacete que, teniendo por presentada esta instancia y
+su documentación adjunta, procediese a revisar la Actualización del Plan de Desmantelamiento y Restauración del
+Parque Eólico Prototipo de Aerogenerador de 3,6 MW, y emitiera su Visto Bueno a dicha actualización del plan de
+desmantelamiento.
+El Servicio de Calidad Ambiental de Albacete, en oficio de fecha de firma de 17/07/2025 (Expediente: S478/2025/
+AB/00005), a la vista de la documentación recibida, y teniendo en cuenta que la modificación propuesta del plan de
+desmantelamiento está motivada por una circunstancia de fuerza mayor, como es el incendio del aerogenerador,
+informa favorablemente la modificación propuesta con una serie de condiciones a cumplir.
+
+AÑO XLV Núm. 148 5 de agosto de 2026 29797
+Decimosegundo: La Delegación Provincial de Desarrollo Sostenible de Albacete cumplió con lo establecido en la
+resolución de 03/09/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en
+los/as delegados/as provinciales y elaboró con fecha 25/05/2026 informe favorable para la autorización administrativa
+previa y autorización administrativa de construcción del proyecto de referencia.
+Decimotercero: Con fecha 30/06/2026 Planta Enersos III, S.L., presentó las autorizaciones requeridas por los distintos
+organismos y por las que se procedió al desmantelamiento mediante una demolición controlada del aerogenerador
+en su totalidad. Entre las autorizaciones aportadas se encuentran:
+- Resolución Subdelegación del Gobierno en Albacete de 29/09/2025, en el que se acuerda autorizar el empleo
+de explosivos en la obra denominada “demolición de aerogenerador mediante voladuras controladas en el parque
+eólico Barrax”.
+- Licencia urbanística de 22/01/2026, para la ejecución “Desmantelamiento y Demolición del aerogenerador existente
+AEG 3,6 MW” en Polígono 2 Parcela 55, en el término municipal de Barrax.
+- Acta de replanteo e inicio de obra del 12/03/2026, del proyecto de desmantelamiento y demolición del aerogenerador
+existente AEG 3,6 MW firmada por las personas intervinientes en el proyecto.
+- Comunicación de inicio de actividades que conllevan producción de residuos de Castilla-La Mancha de
+16/03/2026.
+- Registro comunicación de inicio de obras al Ayuntamiento de Barrax del 16/03/2026.
+- Resolución Dirección General de Carreteras de la Consejería de Fomento del 07/04/2026 por el que se autoriza a
+Planta Enersos III, S.L.U. para la ejecución de las obras del acceso temporal en el p.k. 12+360 de la CM-3135 para
+la retirada de residuos por la realización de las obras de demolición y desmantelamiento del aerogenerador situado
+en la parcela 55 del polígono 2, en el término municipal de Barrax (Albacete).
+- Autorización corte de circulación de la vía CM-3135 por parte de la Dirección General de Tráfico con fecha
+15/04/2026.
+- Comunicación a la Guardia Civil del corte de la vía CM-3135 por la voladura de un aerogenerador autorizador por
+la DGT para el día 16/04/2026 a las 16:00 h, con una duración estimada.
+- Comunicación a la Delegación Provincial de la Consejería de Desarrollo de Albacete (Servicio de Calidad ambiental)
+del día de la demolición del aerogenerador.
+- Comunicación a la Delegación Provincial de la Consejería de Desarrollo de Albacete (Servicio de Calidad ambiental)
+de la actualización del plan de Desmantelamiento y restauración del Parque Eólico Prototipo de Aerogenerador de
+3,6 MW, ya mencionado en el apartado decimoprimero.
+Decimocuarto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción del proyecto de repotenciación de referencia, con las características
+anteriormente indicadas.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y de construcción de este tipo de instalaciones según lo establecido en el Decreto 112/2023, de 25 de julio,
+por el que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y de construcción de
+la instalación y su tramitación se ha realizado según lo establecido en el Decreto 80/2007, de 19/06/2007, por el
+que se regulan los procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de
+Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y demás normativa de aplicación.
+En relación con el contenido del expediente indicar:
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y de construcción
+solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+
+AÑO XLV Núm. 148 5 de agosto de 2026 29798
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020, de 29 de diciembre, de acceso y
+conexión a las redes de transporte y distribución de energía eléctrica; el Decreto 80/2007; la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación concordante
+de aplicación.
+En su virtud Resuelve:
+Otorgar a Planta Enersos III, S.L.U. la autorización administrativa previa y de construcción del proyecto de
+repotenciación de referencia, con las características anteriormente indicadas, sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se cumplirá lo establecido en la resolución 07/04/2025 (expediente S478/2025/AB/00005) de la Delegación
+Provincial de Desarrollo Sostenible de Albacete, por el que se formula la declaración de impacto ambiental del
+proyecto, así como el resto de informes emitidos por el órgano ambiental, en el marco de lo dispuesto en la normativa
+básica aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y demás
+normativa autonómica de aplicación.
+Sexta: Se concede un plazo de dos años, para la ejecución del proyecto a partir de la fecha de la presente resolución.
+Dicho plazo podrá ser ampliado previa solicitud motivada del titular.
+Séptima: El titular debe, en su caso, comunicar al gestor de red la modificación de los datos que constan en los
+permisos de acceso y conexión obtenidos, en cumplimiento de lo dispuesto en la disposición adicional decimocuarta
+del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que en su punto
+4 establece que “En aquellos casos en los que las instalaciones con permisos de acceso y conexión solicitados
+y/o concedidos hayan sufrido modificaciones que impliquen que dichas instalaciones puedan ser consideradas las
+mismas de acuerdo con lo establecido en esta disposición, los titulares deberán actualizar la solicitud de los permisos
+de acceso y conexión, o en su caso, actualizar los permisos de acceso y conexión concedidos para adaptarlos a las
+características de la instalación modificada”, para que , en su caso, proceda a actualizar los permisos de acceso y
+conexión.
+Octava: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Novena: En cuanto al desmantelamiento del aerogenerador existente quedará sujeto a lo establecido en el informe
+del Servicio de Calidad Ambiental de la Delegación Provincial de Albacete de fecha 17/07/2025 (Expediente:
+S478/2025/AB/00005) por el que se informó favorablemente la modificación del plan de desmantelamiento.
+
+AÑO XLV Núm. 148 5 de agosto de 2026 29799
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos recurrentes (o sus representantes) tenga
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es , código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 13 de julio de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
