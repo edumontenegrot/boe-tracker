@@ -1,0 +1,616 @@
+AÑO XLV Núm. 150 7 de agosto de 2026 29938
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 28/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Proyecto de sondeo y modificación de secano a
+regadío en el término municipal de Almorox (Toledo) (expediente. PRO-TO-24-3400), cuyo promotor es
+Rubén Daniel Carrasco López. [2026/5874]
+La Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, en su artículo 7.2 concreta los proyectos que deben
+ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental, para analizar los efectos
+significativos sobre el medio ambiente que pudieran tener antes de su adopción, aprobación o autorización por el
+órgano sustantivo.
+Por su parte, la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos
+que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar
+si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario
+someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y
+pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+El proyecto objeto de este informe se encuentra recogido en el Anexo II de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha, concretamente en:
+Grupo 1. Agricultura, silvicultura, acuicultura y ganadería. c) Proyectos de gestión de recursos hídricos para la
+agricultura. 2º. Proyectos de transformación a regadío o de avenamiento de terrenos, cuando afecten a una superficie
+superior a 10 ha.
+La evaluación del expediente compete a la Delegación Provincial de Desarrollo Sostenible de Toledo por delegación
+de la Dirección General de Calidad Ambiental de la Consejería de Desarrollo Sostenible de la Junta de Comunidades
+de Castilla-La Mancha, conforme al Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica
+y las competencias de la Consejería de Desarrollo Sostenible (modificado por el Decreto 6/2024, de 20 de febrero),
+y la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias
+en las delegaciones provinciales de la Consejería de Desarrollo Sostenible.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Se pretende plantar Almendros y la ejecución de un sondeo, con transformación de suelo de secano a Regadío. El
+marco de plantación es de 6 x 4 en todas las parcelas
+Los datos de las parcelas de leñosos son las siguientes:
+T. Municipal Pol. Par
+Almorox 12 41
+Almorox 12 71
+Almorox 12 72
+Almorox 12 77
+Almorox 12 78
+Se limita la transformación a los recintos de Tierra Arable (TA).
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 41 2 6,6781 TA 8,10
+Almorox 12 41 8 2,1319 TA 10,80
+Almorox 12 41 10 5,5684 TA 14,90
+Total 14,3784
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29939
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 71 6 4,3770 TA 12,40
+Total 4,3770
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 72 2 0,5000 TA 11,50
+Total 0,5000
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 77 2 1,8404 TA 13,40
+Total 1,8404
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 71 5 1,2719 TA 16,30
+Almorox 12 71 6 0,0839 TA 11,80
+Total 1,3558
+El total a transformar son 22,4516 has. El volumen total anual necesario para el riego de las parcelas a transformar
+es 40.412,88 m³. Captados a través del pozo objeto de este proyecto.
+Se proyecta la ejecución de un sondeo con un diámetro de 0,405 metros y una profundidad comprendida entre 190 -
+200 m. El sondeo será revestido mediante tubería de acero al carbono de diametro 0,20 m., y un espesor de 0,50 cm.
+La longitud de cada tramo de tubería es de 6 m. instalándose los tramos necesarios hasta completar el revestimiento
+del sondeo. Los tubos se dispondrán enfrentados extremos con extremo y serán unidos mediante electrosoldadura,
+con el fin de garantizar el correcto aplomo. Entre las paredes del sondeo y el revestimiento de la tubería se introduce
+un relleno de gravilla, con la granulometría adecuada, seleccionada en función de las características del terreno
+atravesado. Este relleno filtrante permite mejorar la permeabilidad del conjunto, facilitar la entrada de agua al sondeo
+y evitar el arrastre de finos desde la formación geológica hacia el interior del pozo, contribuyendo así a su correcto
+funcionamiento, mayor durabilidad y a la prevención de la formación de huecos o cavidades (“covachas”) que
+puedan comprometer la estabilidad del terreno y de la captación.
+La ubicación del sondeo es la siguiente:
+Coordenadas UTM X Y
+ETRS89; Huso:30 381.667 4.451.383
+Para el riego se prevé la instalación de una electrobomba de 20 CV, situada a una profundidad de 100 m, con una
+capacidad de bombeo de 20.000 l/h.
+El sistema de riego será por goteo, el agua se extrae del pozo, pasa por un cabezal de filtrado y regulación de
+presión, y se reparte por una red de tuberías generales hasta los sectores de riego; de cada sector salen los
+ramales segundarios, que a su vez alimentan las líneas de goteo instaladas en cada hilera de árboles. Los ramales
+portagoteros tendrán un diámetro de 20 mm. los goteros se insertan cada metro y tienen un caudal de 1,6 litros/hora.
+La instalación se divide en 4 sectores de riego, cada uno gobernado por un electroválvula hidráulica y mando
+manual. Se riegan de forma independiente, por turnos, controlados desde el programador.
+El suministro de energía eléctrica necesaria se obtendrá de una instalación fotovoltaica compuesta de 32 módulos
+fotovoltaicos Jinko Solar 480 (Total de potencia instalada 15360 WP). Se montarán sobre estructura metálica de
+dimensiones 1903 x 1134 x 30 mm. ocupando una superficie de 64 m²
+No se describe vallado, ni nuevas construcciones, tampoco describe construcciones previas.
+El proyecto se encuentra en el Paraje Las Tablas, al sur del municipio de Almorox (Toledo), la zona objeto de estudio
+se localiza a 2.000 metros en línea recta del núcleo urbano.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29940
+Linda con la carretera Nacional N-403, el cauce más cercano el Arroyo Vallajustares, está a 300 metros de las
+parcelas, situándose estas fuera de zona policía.
+El Municipio cuenta con Normas Subsidiarias de octubre de 1999, con sus correspondientes modificaciones. El
+suelo se clasifica en su Planeamiento como rústico no urbanizable.
+Por último, las parcelas en las que se ubica el proyecto no se encuentran dentro de espacios naturales protegidos,
+ni presentan afecciones ambientales relevantes en este ámbito.
+El documento ambiental del proyecto analiza tres opciones distintas basadas principalmente en la cantidad de agua
+subterránea que se va a extraer para las parcelas. La primera opción es la alternativa 0, que consiste en no hacer
+nada, dejando las tierras en su estado actual de secano sin instalar ningún sistema de riego. La segunda es la
+Alternativa 1, que propone un sistema de riego por goteo eficiente y automatizado, con una extracción controlada
+de agua inferior a los 60.000 metros cúbicos al año. Por último, la Alternativa 2 contemplaba un regadío con un
+consumo de agua mucho mayor y con menos tecnologías de control.
+Tras analizar el impacto de cada una, la opción elegida ha sido la Alternativa 1. El motivo principal es que permite
+al propietario cumplir su objetivo de plantar los almendros de forma rentable, pero asegurando la conservación de
+la naturaleza. Al utilizar un riego por goteo gota a gota y controlado por ordenador, se gasta solo el agua justa y
+necesaria, evitando que el recurso se agote o se desperdicie por la evaporación.
+Además, los estudios técnicos demostraron que el agua extraída con esta alternativa se recupera de forma natural
+gracias a la lluvia en un radio de menos de 600 metros alrededor del pozo. Esto garantiza que el proyecto no
+afectará a otros pozos vecinos ni a los caudales de la zona. También se reduce al mínimo el riesgo de contaminar la
+tierra con los abonos, convirtiéndolo en la opción más equilibrada y respetuosa con el medio ambiente.
+En el proyecto se hace un Análisis de Vulnerabilidad y Riesgos que determina que el peligro general es bajo, ya
+que no es una actividad industrial ni almacena sustancias peligrosas. El estudio evalúa los escenarios mediante una
+matriz que mide su probabilidad y gravedad ambiental.
+Frente a las catástrofes naturales, el riesgo de inundación es mínimo por estar a más de 3.5 Km del río Alberche y
+fuera de la zona de peligro del arroyo Vallajustares. El riesgo de incendios es moderado-bajo por el entorno rural, lo
+que obliga a mantener la zona pozo limpia de hierba seca. Ante una sequía, el impacto se controlará usando el riego
+eficiente y respetando los límites de agua permitidos.
+En cuanto a los accidentes graves, la mayor preocupación es la contaminación del agua subterránea por vertidos.
+Los riesgos de la obra son bajos porque los trabajos durarán menos de una semana.
+Para el futuro, se incluye la obligación de sellar y desmantelar correctamente el sondeo cuando termine la actividad,
+evitando así que el pozo quede abandonado y se convierta en una vía de contaminación para el acuífero.
+Segundo. Tramitación y consultas.
+El 13 de mayo de 2024 se registra la solicitud de Evaluación Ambiental del Proyecto, así como documentación
+relativa al inicio del procedimiento de evaluación ambiental, que comprende la solicitud de inicio del procedimiento,
+el documento ambiental y la acreditación del pago de la tasa correspondiente, conforme a la Ley 9/2012, de 29 de
+noviembre de Tasas y Precios Públicos de Castilla-La Mancha. Todo ello conforme al artículo 52 de la Ley 2/2020,
+de 7 de febrero de Evaluación Ambiental. Se le asigna la referencia: PRO-TO-24-3400.
+El 21 de noviembre 2024 desde el órgano ambiental, y de acuerdo con el artículo 53 de la citada Ley 2/2020, se
+inició el trámite de consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el
+objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido
+los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas con
+la fecha de firma del informe):
+1. Servicio de Medio Natural. Delegación Provincial de la Consejería de Desarrollo Sostenible en Toledo. (*)
+2. Unidad Coordinadora Provincial Agentes Medioambientales. Delegación Provincial de la Consejería de Desarrollo
+Sostenible en Toledo. Coordinador de Torrijos- La Sagra. (*)
+3. Ayuntamiento de Almorox. (*)
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29941
+4. Confederación Hidrográfica del Tajo. (*)
+5. Delegación Provincial de Agricultura, Agua y Desarrollo Rural. Servicio de Medio Rural. (*)
+6. Delegación Provincial de Educación, Cultura y Deportes de Toledo, Servicio Provincial de Patrimonio Cultural. (*)
+7. Ecologistas en Acción.
+8. Sociedad Española de Ornitología (S.E.O.)
+9. WWF/España.
+10. Agrupación Naturalista Esparvel.
+11. Ardeidas.
+12. Asociación Toledo Limpio.
+13. Dirección General de Carreteras. Consejería de Fomento. (*)
+De entre los informes recibidos:
+- El informe del Servicio de Medio natural nº ref: 17128, de fecha de firma 10/10/2025 solicita información con
+relación al proyecto, a fin de conocer las características de la plantación a realizar.
+- Con fecha 21/11/2025, se solicita al promotor la información referida por el Servicio de Medio Natural.
+- Con fecha 16 de abril de 2026 y nº de ref: 18473 el Servicio de Medio Natural, redacta nuevo informe teniendo en
+cuenta la documentación complementaria aportada por el promotor.
+- Con fechas 15/12/2025, 03/04/2026, 22/06/2026 y 02/07/2026 el promotor presenta información complementaria.
+- Con fecha 09/07/2026 Se ha notificado al promotor la publicación de los informes preceptivos de las administraciones
+consultadas y la apertura del correspondiente plazo de alegaciones previo a la resolución del procedimiento. No
+habiéndose recibido alegaciones.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1 Ubicación del proyecto
+Las parcelas afectadas por este proyecto son las siguientes:
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 41 2 6,6781 TA 8,10
+Almorox 12 41 8 2,1319 TA 10,80
+Almorox 12 41 10 5,5684 TA 14,90
+Almorox 12 41 11 2,4032 PR 19,90
+Almorox 12 41 12 0,0486 PR 8,10
+Almorox 12 41 13 0,0571 PR 16,60
+Total 17,6639
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 71 1 0,0749 PR 14,00
+Almorox 12 71 2 0,2503 PR 12,20
+Almorox 12 71 3 0,1206 PR 26,20
+Almorox 12 71 4 0,2505 PR 21,40
+Almorox 12 71 5 0,1562 PR 22,10
+Almorox 12 71 6 4,3770 TA 12,40
+Total 5,2295
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29942
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 72 1 0,1258 PR 13,40
+Almorox 12 72 2 0,5000 TA 11,50
+Total 0,6258
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 77 2 1,8404 TA 13,40
+Total 1,8404
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 71 1 0,1504 PR 19,90
+Almorox 12 71 5 1,2719 TA 16,30
+Almorox 12 71 6 0,0839 TA 11,80
+Total 1,5062
+(*) Superficie Sigpac a fecha 15/12/2025
+Todas las parcelas tienen recintos con uso PR.
+La consulta en la Sede Electrónica del Catastro indica que todas las parcelas tienen la calificación de suelo rústico
+agrario con cultivo o aprovechamiento de labor o labradío en secano.
+El sondeo se localiza en el recinto 2 de la parcela 41, concretamente en las coordenadas ETS89 UTM H30 X:
+381667 e Y: 4451383.
+En lo referente a zonas protegidas recogidas oficialmente en el PHT 2023-2027, las parcelas en las que se
+ubican las actuaciones se encuentran dentro del área de captación de la zona sensible “Embalse de Cazalegas-
+ES030ZSENESCM573”, de la zona vulnerable “Madrid-Talavera-Tiétar- ES030_ZVULES42_5” y de las zonas de
+abastecimiento “Escalona - Alberche- ES030ZCCM0000000518” y “Almorox - Alberche - ES030ZCCM0000000515”.
+En cuanto a las aguas superficiales, la zona de actuación intercepta el arroyo Valle Justares.
+En relación a las aguas subterráneas, las parcelas asientas sobre la masa de agua subterránea “Talavera-
+ES030MSBT030.015”.
+Las parcelas se ubican fuera de Espacios Naturales Protegidos. Las parcelas se ubican fuera de áreas Red Natura
+2000. Las parcelas no se ubican sobre áreas críticas, pero si se encuentran próximas al ‘Área crítica’ del águila
+imperial ibérica de nombre Valle del Alberche y al ‘Área Crítica’ de la cigüeña negra, de mismo nombre que el área
+anterior.
+Por otro lado, las parcelas se sitúan sobre ‘Zona de dispersión’ de águila perdicera y ‘zona de importancia’ para
+buitre.
+El informe de medio natural de referencia 17128/bab de fecha 10/10/2025 confirma la presencia de águila imperial
+ibérica en el área donde se ubican las parcelas.
+Las parcelas se ubican fuera de dominio público pecuario y forestal y no afectan a Elementos Geomorfológicos de
+Protección Especial.
+3.2. Características del proyecto.
+El objeto de proyecto es obtener la transformación de secano a regadío de todos los recintos de Tierras Arables.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29943
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 41 2 6,6781 TA 8,10
+Almorox 12 41 8 2,1319 TA 10,80
+Almorox 12 41 10 5,5684 TA 14,90
+Total 14,3784
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 71 6 4,3770 TA 12,40
+Total 4,3770
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 72 2 0,5000 TA 11,50
+Total 0,5000
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 77 2 1,8404 TA 13,40
+Total 1,8404
+T. Municipal Pol. Par Rec Sup. Uso Sigpac Pendiente %
+Almorox 12 71 5 1,2719 TA 16,30
+Almorox 12 71 6 0,0839 TA 11,80
+Total 1,3558
+La parcela 41 está actualmente plantada de almendros, mientras que el resto se ejecutará en fases sucesivas. El
+suministro hídrico para el riego procederá del sondeo ubicado en la propia parcela 41, adaptándose a la dotación
+autorizada por la Confederación Hidrográfica del Tajo.
+Según se indica en el informe EIA-0632/2024 de fecha 13 de enero de 2025 emitido por la CHT, se encuentran en
+tramitación el expediente SB-0448/2023, relativo a solicitud de un aprovechamiento de aguas subterráneas en la
+parcela 41 del polígono 12 del TM de Almorox (Toledo).
+Para el suministro de agua será imprescindible disponer de la autorización previa de la Confederación Hidrográfica
+del Tajo, correspondiente al volumen total necesario para el riego, de acuerdo con las dotaciones establecidas en
+los apartados aplicables del Apéndice 13 del Anexo V, Disposiciones Normativas del Plan Hidrológico de la parte
+española de la Demarcación Hidrográfica del Tajo.
+La CHT evaluará la compatibilidad del aprovechamiento con el Plan Hidrológico de la Demarcación del Tajo, teniendo
+en cuenta tanto las actividades proyectada como los caudales solicitados. Durante este proceso, el proyecto será
+sometido a la valoración técnica por parte del personal de la Confederación.
+El suministro eléctrico para el riego será de origen solar fotovoltaico. La instalación solar-fotovoltaica se ubica en la
+parcela 41.
+3.3 Características del potencial impacto.
+Considerando los criterios contenidos en los apartados 1 y 2 del Anexo III de la Ley 2/2020 (características de los
+proyectos, ubicación de los proyectos), se concluye que el potencial impacto será compatible con el medio. No se
+esperan efectos irreversibles, irrecuperables, severos o críticos.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29944
+En relación con el impacto del regadío, hay datos científicos que demuestran que la intensificación agrícola supone
+una mayor presión sobre los recursos del territorio con la consiguiente pérdida de biodiversidad (mayor contaminación
+por nitratos, efecto borde, reducción de la disponibilidad del recurso hídrico, etc.).
+El almacenamiento de fertilizantes puede ocasionar contaminación por derrames, la actividad agraria puede suponer
+contaminación difusa por nitratos procedentes de la fertilización.
+No se produce afección a Espacios Naturales Protegidos, Red Natura 2000. La instalación no afecta al Patrimonio
+cultural, ni a vías pecuarias ni montes públicos.
+Si bien las parcelas no se ubican sobre áreas críticas, sí se encuentran próximas al ‘Área crítica’ del águila imperial
+ibérica de nombre Valle del Alberche y al ‘Área crítica’ de la cigüeña negra, de mismo nombre que el área anterior.
+Por otro lado, las parcelas se sitúan sobe ‘Zona de dispersión’ de águila perdicera y ‘Zona de importancia’ para
+buitre. Finalmente destacar que se tiene constancia de la presencia de Águila imperial ibérica en el área donde se
+ubican las parcelas.
+Se identifica la existencia de diversos cursos de agua(arroyos) tanto en el interior de las parcelas como en su
+entorno próximo, además de observarse signos evidentes de escorrentía y acumulación de agua en el terreno. La
+actividad agrícola ya iniciada ha provocado la fragmentación de los cauces y la interrupción del flujo natural del agua.
+Se ha eliminado vegetación natural directamente asociada a estos cursos de agua con el fin de implantar los cultivos
+leñosos del proyecto.
+El estudio ambiental justifica la alternativa seleccionada como la más adecuada, basándose en el equilibrio entre la
+viabilidad económica y el mínimo impacto ambiental.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Todas las medidas para la adecuada protección del medio ambiente y del patrimonio histórico-cultural indicadas por
+el promotor en el documento ambiental se deberán cumplir en cada fase del proyecto, complementadas con las que
+se mencionan a continuación, teniendo en cuenta que en los casos en que pudieran existir discrepancias entre unas
+y otras, prevalecerán las contenidas en la presente resolución.
+4.1 Protección de fauna y vegetación natural.
+El Servicio de Medio Natural de la Delegación de Desarrollo Sostenible de Toledo, en su informe de fecha 16 de abril
+de 2026, emite informe favorable al no tener afección significativa sobre los recursos naturales de su competencia
+con el siguiente condicionado que es suma de los dos informes emitidos:
+- Cumplimiento de las premisas establecidas en el informe ref: 17128:
+- Mantener libres de cultivos las áreas marcadas en este informe en las que se ha observado flujo y/o acumulación
+de agua, de manera que se permita el crecimiento de vegetación natural espontanea.
+- No eliminar vegetación natural existente en las parcelas, así como permitir el crecimiento de la misma en las áreas
+donde se ha eliminado.
+- Mantener la parcela catastral ‘Arroyo’ sin cultivar, de manera que no se interrumpa el flujo natural del agua.
+- Cumplimiento de las medidas preventivas, correctoras, compensatorias y el Plan de Vigilancia Ambiental, descritas
+en la última versión del documento ambiental, revisado a fecha 02/07/2026.
+- Los trabajos de instalación del riego se ejecutarán fuera de la época crítica para la reproducción de especies
+protegidas, para ello se evitará su realización en el periodo comprendido entre febrero y julio, ambos inclusive.
+- Para los pies de encina de las parcelas se tendrá en cuenta lo siguiente:
+- En la realización de las zanjas para el establecimiento del riego se evitará excavar bajo la proyección de la copa
+de las encinas, rodeándolas si fuera necesario.
+- Se respetarán los pies de encina presentes. Como defensa de estos, se establecerá una franja de protección
+alrededor de la base del tronco que comprenda la proyección de la copa más cinco metros medidos sobre el terreno.
+En esta franja no se realizarán labores agrícolas, no se regará y se dejará el natural desarrollo de la vegetación
+natural. Tampoco se llevarán a cabo tratamientos con herbicidas.
+- Se llevará a cabo la reposición de los pies de encina muertos en los lugares próximos, dejando el hueco de la
+encina muerta que no se ocupará con el leñoso, favoreciendo estos espacios para el crecimiento de la vegetación
+natural.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29945
+En la ficha de campo de fecha 8 de abril de 2025, el agente medioambiental confirma que la zona del proyecto es
+un área de campeo habitual para varias parejas de águila imperial. Hay nidos localizados a más de 2 kilómetros de
+distancia de las parcelas afectadas. Dado que la vegetación presente en la parcela sirve como refugio para la fauna
+local, el informe aconseja explícitamente mantener los rodales naturales de encinas y retamas que crecen dentro de
+las áreas designadas para el sondeo y la plantación.
+4.2 Protección del Patrimonio Histórico-cultural.
+El 09 de diciembre de 2024, la Delegación Provincial de Educación, Cultura y Deportes de Toledo informó
+favorablemente sobre el proyecto. En el caso de que aparecieran restos materiales con valor cultural durante su
+ejecución, se deberá actuar conforme a lo previsto en el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio
+Cultural de Castilla-La Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería
+competente en materia de Patrimonio Cultural. Además, cualquier modificación del emplazamiento de las diversas
+infraestructuras del proyecto de obra autorizado en este momento deberá contar con el visado y la autorización de
+la Delegación Provincial. A fin de facilitar los controles o inspecciones que puedan realizar tanto los técnicos de la
+Consejería de Educación, Cultura y Deportes, como los Cuerpos de Seguridad del Estado, deberá existir una copia
+del presente documento en la oficina de obra.
+4.3 Protección de los sistemas hidrológico e hidrogeológico.
+El informe de la CHT recoge, entre otras, las siguientes indicaciones:
+Toda actuación que se realice en Dominio Público Hidráulico (definido en el artículo 2 y desarrollado en los posteriores
+artículos del Texto Refundido de la Ley de Aguas, TRLA) deberá contar de la preceptiva autorización por parte de la
+Confederación Hidrográfica del Tajo.
+Toda actuación que se realice en Zona de Policía (banda de 100 metros colindante con terrenos de Dominio Público
+Hidráulico), deberá atender a lo indicado en el artículo 9.4 del Reglamento del Dominio Público Hidráulico (RDPH).
+Además, se indica que la Zona de Servidumbre (banda de 5 metros colindante con terrenos de Dominio Público
+Hidráulico) deberá ser respetada, según se establece en el artículo 6 del TRLA y en el artículo 7 del RDPH.
+El artículo 97 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el TRLA, prohíbe, con carácter
+general, y sin perjuicio de lo dispuesto en el artículo 100, toda actividad susceptible de provocar la contaminación o
+degradación del Dominio Público Hidráulico.
+Las actividades desarrolladas no deberán ser causa de incumplimiento, tanto de los objetivos medioambientales
+recogidos en el Plan Hidrológico, cuyos criterios para definir el buen estado de las aguas superficiales están
+recogidos en el Real Decreto 817/2015, de 11 de septiembre, como de los objetivos medioambientales señalados
+en el artículo 4 de la Directiva 2000/60/CE, que establece que para las aguas superficiales se deberá prevenir su
+deterioro reduciendo la contaminación procedente de sustancias prioritarias. Para el caso de las aguas subterráneas,
+se deberá evitar o eliminar la entrada de contaminantes y evitar el deterioro de todas las masas de agua; en este
+último caso la evaluación de las masas de agua subterráneas se establece en el Real Decreto 1514/2009, de 2 de
+octubre, por el que se regula la protección de las aguas subterráneas contra la contaminación y el deterioro.
+La explotación deberá ser acorde con la Directiva 91/676/CEE, de 12 de diciembre de 1991, transpuesta a nuestro
+ordenamiento jurídico a través del Real Decreto 47/2022, de 18 de enero, sobre protección de las aguas contra la
+contaminación difusa producida por los nitratos procedentes de fuentes agrarias.
+De acuerdo con lo establecido en el artículo 8.4 del Real Decreto 47/2022, de 18 de enero, relativo a la protección
+de las aguas frente a la contaminación difusa por nitratos de origen agrario, la actividad proyectada al implicar
+la posible incorporación de fertilizantes nitrogenados a las masas de agua deberá ajustarse a las obligaciones
+previstas en el Real Decreto 1051/2022, de 27 de diciembre, por el que se regulan las normas para la nutrición
+sostenible en los suelos agrarios. Entre dichas obligaciones se incluyen la elaboración de un plan de abonado con el
+oportuno asesoramiento técnico, el registro de todas las operaciones de fertilización en el cuaderno de explotación,
+así como la aplicación regulada de estiércoles y otros materiales de origen orgánico. Asimismo, se recuerda que
+queda prohibida la aplicación de estiércoles tanto sólidos como purines a menos de 5 metros de las orillas de ríos,
+lagos, masas de agua estancadas, captaciones subterráneas destinadas al consumo humano, pozos y fuentes, sin
+perjuicio de que las comunidades autónomas puedan establecer distancias mayores, especialmente en aquellas
+masas de agua que incumplan los objetivos medioambientales.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29946
+Las parcelas se ubican en una zona vulnerable a la contaminación por nitratos, por lo que la actuación debe cumplir
+íntegramente lo establecido en el Programa de Actuación aprobado por el Decreto 80/2025, de 14 de octubre.
+La fertilización nitrogenada del almendro deberá ajustarse a las dosis máximas de nitrógeno permitidas para cultivos
+de regadío según lo establecido en el Anejo III del Decreto, evitando cualquier aportación que exceda las necesidades
+reales del cultivo.
+La aplicación de fertilizantes queda prohibida durante los periodos restrictivos, así como en suelos saturados,
+inundados, nevados, helados o donde tengan pendientes elevadas, manteniendo además las distancias mínimas
+obligatorias a cauces, pozos y zonas protegidas, conforme al Programa de Actuación.
+Los aportes deberán realizarse preferentemente mediante fertiirrigación controlada, asegurando un manejo eficiente
+del riego para evitar el lavado de nitratos y ajustando las dosis a la evolución hídrica y fenológica del cultivo.
+Si se emplean fertilizantes orgánicos, su uso, almacenamiento y aplicación deberán cumplir las especificaciones
+establecidas para estiércoles sólidos y líquidos según los anexos del Decreto 80/2025. En zonas vulnerables, la
+cantidad máxima de estiércol aplicada al terreno no podrá superar en ningún caso el límite absoluto de 170 kg
+de nitrógeno por hectárea al año. No obstante, el aporte real estará estrictamente limitado por las necesidades
+nutricionales específicas de cada cultivo concreto, debiendo descontarse además el contenido de nutrientes presente
+en el agua de riego.
+La actuación deberá contribuir a la reducción de la contaminación difusa por nitratos mediante un manejo sostenible
+del suelo, evitando escorrentías y favoreciendo la infiltración segura, todo ello conforme al marco general del
+Programa aprobado por la Junta de Comunidades de Castilla-La Mancha.
+En relación con el uso de productos fitosanitarios, se aplicarán las obligaciones establecidas en el Real Decreto
+1311/2012, de 14 de septiembre, orientadas a garantizar un uso sostenible de estos productos. En particular,
+deberán adoptarse medidas para evitar la contaminación difusa de las masas de agua, recurriendo a técnicas que
+minimicen su riesgo y evitando, en lo posible, las aplicaciones en suelos muy permeables. Se respetará una banda
+mínima de seguridad de 5 metros respecto a las masas de agua superficial, salvo que la etiqueta del producto exija
+una distancia mayor, quedando exceptuados los cultivos en terrenos inundados como el arroz y las acequias de
+riego. Cuando existan riesgos específicos asociados a estas situaciones, la comunidad autónoma podrá establecer
+medidas adicionales de mitigación. Asimismo, cualquier tratamiento dentro de las bandas de seguridad solo podrá
+realizarse bajo autorización expresa en el marco de un control de plagas declarado de utilidad pública o por razones
+de emergencia, y siempre cumpliendo las condiciones fijadas por la autoridad competente. Finalmente, se evitará
+realizar tratamientos cuando la velocidad del viento supere los 3 m/s.
+Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales susceptibles de
+contaminar las aguas continentales o cualquier otro elemento del Dominio Público Hidráulico, salvo que se cuente
+con la previa autorización. Dicha autorización corresponde a la CHT, salvo en los casos de vertidos efectuados en
+cualquier punto de la red de alcantarillado o de colectores gestionados por las Administraciones autonómicas o
+locales o por entidades dependientes de las mismas, en los que la autorización corresponderá al órgano autonómico
+o local competente.
+Respecto al parque de maquinaria a utilizar para la realización de las distintas unidades de obra, se indica que pueden
+generarse residuos líquidos peligrosos susceptibles de contaminación de aguas subterráneas y superficiales, como
+pueden ser aceites y otros compuestos. En consecuencia, se recomienda una gestión adecuada de estos residuos
+que evite la contaminación de las aguas.
+El proyecto no describe el vallado de las parcelas, se advierte que toda delimitación perimetral proyectada dentro
+del Dominio Público Hidráulico y su zona de policía requerirá la correspondiente autorización de este Organismo.
+En lo que concierne a los movimientos de tierras, un posible impacto sobre la hidrología puede proceder de la
+remoción de tierras durante los trabajos y su posterior arrastre pluvial, provocando un incremento del aporte de
+sólidos a los cauces, por lo que habrá que tomar las medidas necesarias para evitarlo.
+4.4 Gestión de residuos.
+Los posibles residuos generados serán procedentes de las operaciones de instalación, ejecución y desarrollo de
+la actividad del proyecto. Todos los residuos generados durante los trabajos estarán sujetos a lo dispuesto en la
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29947
+Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular. Los residuos de envases
+de productos fitosanitarios generados en la explotación agrícola deberán gestionarse en los términos establecidos
+por el Real Decreto 1055/2022, de 27 de diciembre, de envases y residuos de envases. Además, se estará a lo
+dispuesto en la Ley 43/2002, de 20 de noviembre, de sanidad vegetal, que señala el obligado cumplimiento de las
+disposiciones relativas a la eliminación de los envases vacíos de acuerdo con las condiciones establecidas y, en
+todo caso, con aquellas que figuren en sus etiquetas.
+Cualquier vertido accidental o de tratamiento puntual que pudiera afectar al suelo, deberá ser descontaminado
+a la mayor brevedad posible, extrayendo la parte de suelo contaminado y entregado a gestor autorizado para su
+posterior tratamiento. Todos los residuos generados serán retirados por gestores autorizados y se dispondrá de los
+contratos con los mismos ante el requerimiento de los mismos por la autoridad ambiental o sustantiva.
+4.5 Protección de la atmósfera, calidad del aire y prevención del ruido.
+Con el objetivo de cumplir con la normativa vigente respecto a los niveles de emisión de contaminantes a la atmósfera
+y de minimizar la producción y dispersión del polvo durante las obras y durante la explotación de las actividades a
+implantar, se estará a lo dispuesto por la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la
+atmósfera.
+La maquinaria para utilizar deberá haber pasado las correspondientes y obligatorias Inspecciones Técnicas de
+Vehículos, en especial las revisiones referentes a las emisiones de gases.
+Los niveles de ruido generados durante las obras y el funcionamiento de las instalaciones deben cumplir lo establecido
+en la Ley 37/2003, de 17 de noviembre, del Ruido, así como sus Reglamentos de desarrollo y ordenanzas municipales.
+Los motores de las bombas para la extracción y distribución del agua se deberán dotar de sistemas que minimicen
+el ruido a niveles que no molesten a la fauna presente en la zona.
+4.6 Protección de la población.
+Todos los pozos y sondeos deben estar tapados y vallados, principalmente, para proteger a las personas y los
+animales de caídas accidentales, así como para preservar el agua del acuífero de la contaminación. Esta obligación
+es aplicable tanto a los que están en uso como a los que están fuera de uso. En este último caso se debe llevar a
+cabo un sellado definitivo. Se ha de evitar, mediante el empleo de señales y barreras, que se acceda a ellos y que
+se pueda producir un accidente, tanto de los propios usuarios como de cualquier persona ajena.
+4.7 Prevención de incendios.
+Se cumplirá la normativa vigente en materia de prevención de incendios forestales. Por tanto, se atenderá a lo
+establecido en materia de prevención de incendios forestales en los artículos 3, 5, 6 y 7 de la Orden de 16/05/2006,
+de la Consejería de Medio Ambiente y Desarrollo Rural, por la que se regulan las campañas de prevención de
+incendios forestales, y sus sucesivas modificaciones, particularmente la operada por la Orden 198/2022, de 14 de
+octubre, de la Consejería de Desarrollo Sostenible.
+Durante la época de peligro alto, queda prohibido, dentro del territorio regional, la quema de restos vegetales en
+terrenos agrícolas y de rastrojos.
+Fuera de la época de peligro alto, la quema de rastrojos y de restos vegetales en terrenos agrícolas se regulará
+por su normativa específica, teniéndose igualmente en cuenta la Ley 7/2022, de 8 de abril, de residuos y suelos
+contaminados para una economía circular, su quema deberá realizarse cumpliendo además de lo estipulado en
+dicha normativa las siguientes condiciones generales:
+No quemar en condiciones de viento en las que se superen los 15 km/h. Si tras comenzar la quema las condiciones
+meteorológicas empeoran, proceder al apagado de la misma. No quemar, o interrumpir la actividad de quema,
+cuando el humo pueda afectar a carreteras, edificios o núcleos de población.
+Los montones de restos a quemar no deben superar los dos metros de altura y tres metros de diámetro.
+En quemas agrícolas, situar los montones a quemar lo más alejados posible del monte.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29948
+Asegurar la discontinuidad de los residuos vegetales a quemar con otros combustibles forestales o que puedan
+llegar a afectar a estos. A su alrededor se debe mantener una zona limpia de vegetación con un radio de cinco
+metros para la altura máxima de pila permitida, pudiendo reducirse dicha faja si la altura de la pila es menor a la
+máxima establecida, siempre en la misma proporción.
+En quema bajo arbolado se ha de tener en cuenta la altura de las copas, evitando situar las pilas de manera que se
+pueda soflamar el dosel arbóreo.
+Disponer del personal y de los medios materiales suficientes para poder controlar la quema y sofocar los posibles
+conatos de incendio.
+No iniciar la quema antes de las dos horas previas a la salida del sol y dejarla perfectamente apagada antes de las
+16:00 horas.
+Prever el tiempo necesario, antes de finalizar la jornada, para proceder a la total extinción de las pilas quemadas. Si
+es posible, se deben mojar los restos hasta el punto en que no queden brasas ni restos humeantes. En todo caso,
+se deben esparcir los restos y cubrir con tierra, teniendo en cuenta que al enterrar restos candentes de diámetros
+gruesos se pueden formar carboneras que pueden mantener brasas durante varios días.
+Vigilar y controlar permanentemente la quema, permaneciendo en el lugar hasta que no haya llama, humo o
+rescoldos incandescentes.
+Interrumpir toda actividad de quema o uso del fuego cuando así lo indique verbalmente un Agente de la autoridad, en
+el caso de que estime que no se están cumpliendo las debidas medidas de control y seguridad o que las condiciones
+de las mismas suponen un peligro para el Medio Natural.
+Se debe disponer de teléfono móvil. Si ocurre cualquier imprevisto, llamar inmediatamente al 1-1-2 para advertir del
+inicio del conato y, en su caso, colaborar, dentro de sus posibilidades, en la extinción del mismo.
+También deberá atenderse a lo indicado en el Plan Especial de Emergencia por Incendios Forestales de Castilla-La
+Mancha vigente en cada momento.
+4.8 Adecuación urbanística.
+De conformidad con el artículo 165.1 del Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad
+Urbanística de Castilla-La Mancha, aprobado por Decreto Legislativo 1/2023, de 28 de febrero, están sujetos a la
+obtención de licencia urbanística, sin perjuicio de las demás autorizaciones que sean procedentes con arreglo a la
+legislación sectorial aplicable, los actos de construcción y edificación y de uso del suelo que en el mismo se detallan,
+en particular, entre otros: las obras de construcción, edificación e implantación de instalaciones de toda clase; los
+movimientos de tierra; y las instalaciones que afecten al subsuelo.
+El promotor deberá disponer de un certificado de compatibilidad urbanística expedido por el ayuntamiento de Almorox
+para la transformación en regadío según la normativa urbanística municipal.
+4.9 Plan de desmantelamiento y restauración.
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos
+de material, residuos o tierras sobrantes a gestores de residuos autorizados conforme a la naturaleza de cada
+residuo y se restaurarán los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado
+de limpieza. El desmontaje y la restauración deberá realizarse en el plazo máximo de un año tras la finalización
+de la actividad y deberá ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial
+de Toledo de la Consejería de Desarrollo Sostenible para dar por finalizado el expediente. Asimismo, en caso de
+que la actividad sea traspasada o cambie de titular, también se deberá poner en conocimiento de esta Delegación
+Provincial.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental, sin perjuicio de
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29949
+la potestad del órgano ambiental para recabar información y realizar las comprobaciones que considere necesarias
+para verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas
+a cabo podrán derivarse modificaciones de las actuaciones previstas, al objeto de lograr la consecución de los
+objetivos de la presente Resolución. El promotor remitirá al órgano ambiental, en este caso, el Servicio de Calidad
+Ambiental de la Delegación Provincial de Desarrollo Sostenible de Toledo, un informe de seguimiento sobre el
+cumplimiento de las condiciones y de las medidas preventivas y correctoras establecidas, en el primer trimestre de
+cada año, desde el inicio de la actividad y durante los cinco primeros años de vida útil. Este informe incluirá un listado
+de comprobación de todas las medidas previstas en el documento ambiental y en esta Resolución, dando cuenta de
+la efectiva ejecución de las mismas.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable de este, que
+podrá ser personal interno o externo de la empresa promotora, y deberá notificar su nombramiento tanto al órgano
+sustantivo como al ambiental. Cada informe deberá estar suscrito conjuntamente por el promotor y el responsable
+del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre el 1 de enero y
+el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada. El programa de vigilancia ambiental y
+el listado de comprobación se harán públicos en la sede electrónica del órgano sustantivo.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas y de la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción, estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en el control de las condiciones y medidas impuestas en el
+apartado Cuarto de esta Resolución, dando cuenta de la ejecución de las distintas medidas dentro del plazo de
+ejecución otorgado para las mismas.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control de las extracciones del agua conforme a la autorización y concesiones otorgadas por el organismo de
+cuenca.
+- Supervisión de los restos arqueológicos que apareciesen y su notificación al Servicio de Cultura de la Delegación
+Provincial de Educación, Cultura y Deportes de Toledo.
+- Control de medidas para la fauna y vegetación (mantenimiento del marco de cultivo, eco-regímenes de biodiversidad,
+mantenimiento de la vegetación natural, preservación de los elementos del paisaje.
+- Control en la aplicación de productos fitosanitarios, manteniendo correctamente cumplimentado el cuaderno de
+explotación
+- Control de aplicación de productos fertilizantes, elaboración de un plan de abonado y correcta cumplimentación del
+cuaderno de explotación.
+- Control de las condiciones impuestas en el apartado cuarto, con respecto a las medidas preventivas, correctoras o
+compensatorias para la integración ambiental del proyecto.
+- Vigilancia para la gestión de residuos y documentos generados en la gestión de los mismos.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo y el órgano
+ambiental (Delegación Provincial de Desarrollo Sostenible de Toledo, Servicio de Calidad Ambiental):
+a) Antes del inicio de la actividad:
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Certificado de compatibilidad urbanística expedido por el ayuntamiento de Almorox para la transformación en
+regadío según la normativa urbanística municipal.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Resolución de la concesión administrativa para aprovechamiento de aguas de la Confederación Hidrográfica del
+Tajo necesarias para todos los usos descritos en el presente informe.
+No obstante, aún sin estar aquí recogidas, este informe no exime al promotor de contar con el resto de las
+autorizaciones administrativas de otros organismos oficiales que fuesen necesarias de acuerdo con la legislación
+sectorial.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29950
+b) Iniciada la actividad:
+- Durante el primer trimestre, desde el inicio de la actividad, copia de la solicitud de cambio de cultivo y uso de
+secano a regadío en el catastro y solicitud de modificación en la base de datos del Sigpac.
+- De manera anual en el primer trimestre de cada año, durante los 5 primeros años de explotación, informes sobre
+los controles y actuaciones en aplicación del plan de seguimiento y vigilancia ambiental y de esta Resolución.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de Desarrollo Sostenible de Toledo, en virtud
+del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la
+Consejería de Desarrollo Sostenible, y la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental,
+por la que se delegan competencias en materia de evaluación ambiental en las Delegaciones Provinciales de la
+Consejería de Desarrollo Sostenible, resuelve que el proyecto denominado “ Proyecto de sondeo y Modificación
+de secano a regadío” (Exp. PRO-TO-24-3400), no necesita someterse a una Evaluación de Impacto Ambiental
+Ordinaria, por estimarse que no tiene efectos significativos sobre el medio ambiente, siempre que se cumplan las
+medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se detallan en el
+presente Informe de Impacto Ambiental.
+Esta resolución no autoriza la ejecución de los trabajos necesarios para la transformación en regadío de los terrenos
+incluidos en el proyecto evaluado. El documento válido para realizar la transformación será la correspondiente
+autorización de concesión emitida por la Confederación Hidrográfica.
+Esta Resolución se remitirá al promotor y al órgano sustantivo y se hará pública a través del Diario Oficial de
+Castilla-La Mancha, sin perjuicio de su publicación en la sede electrónica de la Consejería de Desarrollo Sostenible
+(https://neva.jccm.es/nevia) tal y como establece el artículo 54.3 de la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha. Por otra parte, cualquier modificación o ampliación del proyecto evaluado, será
+objeto de consulta sobre la necesidad o no de sometimiento al procedimiento de evaluación de impacto ambiental.
+Tal y como se establece en el art. 54.2. de la Ley 2/2020, el presente informe de impacto ambiental perderá su
+vigencia y cesará en la producción de los efectos que le son propios si, una vez publicado en el Diario Oficial de
+Castilla-La Mancha, no se hubiera comenzado la ejecución del proyecto o actividad en el plazo máximo de cuatro
+años desde su publicación, salvo que se acuerde la prórroga de su vigencia en los términos previstos en el artículo
+55. En el caso de perder su vigencia, el promotor deberá iniciar nuevamente el procedimiento de evaluación de
+impacto ambiental simplificada del proyecto.
+El incumplimiento de lo establecido en esta resolución podrá ser causa de revocación de las autorizaciones tramitadas
+ante el sustantivo, sin perjuicio de la apertura de expedientes sancionadores y de la responsabilidad civil o penal
+que hubiere lugar, teniendo en cuenta que son infracciones graves el incumplimiento de las condiciones ambientales
+establecidas en el informe ambiental, e incluidas en la resolución que aprueba o autoriza finalmente el proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, se notifica que la presente resolución no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último y en aplicación del art. 56.4 de la Ley 2/2020, de 7 de febrero, el órgano sustantivo, en el plazo más
+breve posible y, en todo caso, antes de los quince días hábiles desde que adopte la resolución del procedimiento
+de autorización del proyecto, en su caso, remitirá al Diario Oficial de Castilla-La Mancha, para su publicación.
+Asimismo, publicará en su sede electrónica el contenido de la decisión y las condiciones sobre la autorización o
+denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha en el que se ha publicado este
+Informe de Impacto Ambiental.
+Se adjunta anexo cartográfico.
+Toledo, 28 de julio de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29951
+Anexo cartográfico
+Mapa nº 1: ubicación parcelas proyecto.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29952
+Mapa nº 2: parcelas de estudio sobre ortofoto.
+
+AÑO XLV Núm. 150 7 de agosto de 2026 29953
+Mapa nº 3: ubicación del pozo
+Mapa nº 4: zonas de paso y acumulación de agua.

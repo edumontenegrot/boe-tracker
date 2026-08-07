@@ -1,0 +1,111 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 152 de 7-viii-2026 1/2
+https://miprincipado.asturias.es/bopa
+95460-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de CienCia, industria y empleo
+ResoluCión de 27 de julio de 2026, de la Consejería de Ciencia, industria y empleo, por la que se autoriza instalación
+eléctrica de alta tensión. expte. AuTo/2026/43445 (AT-12935).
+antecedentes de hecho
+Primero.—Con fecha de entrada en esta Consejería el 28/05/2026, Hidrocantábrico distribución eléctrica, s. a., solicita
+autorización administrativa previa y autorización administrativa de construcción de instalación eléctrica de alta tensión,
+correspondiéndole el expediente auto/2026/43445 (at-12935).
+segundo.—Cumplidos los trámites reglamentarios regulados en el título vii del real decreto 1955/2000, de 1 de
+diciembre, se han realizado las oportunas comprobaciones y análisis de la documentación técnica presentada.
+Fundamentos de derecho
+Primero.—la ley 24/2013, de 26 de diciembre, del sector eléctrico, y el real decreto 1955/2000, de 1 de diciembre,
+por el que se regulan las actividades de transporte, distribución, comercialización, suministro y procedimientos de auto-
+rización de instalaciones de energía eléctrica, que la desarrolla.
+segundo.—es competente esta Consejería para resolver el presente expediente, en virtud de las atribuciones que en
+esta materia le vienen conferidas por el ordenamiento jurídico vigente, artículo 38 de la ley del principado de asturias
+6/1984, de 5 de julio, del presidente y del Consejo de Gobierno, en relación con el artículo 5.4 del decreto 22/2023,
+de 31 de julio, del presidente del principado de asturias, de reestructuración de las Consejerías que integran la admi-
+nistración de la Comunidad autónoma, en su redacción dada por el decreto 23/2025, de 16 de abril, del presidente del
+Principado de Asturias, de quinta modificación de aquél, el Decreto 49/2025, de 29 de abril, por el que se establece la es-
+tructura orgánica básica de la Consejería de Ciencia, industria y empleo, y teniendo en cuenta que mediante resolución
+de 19 de mayo de 2025, de la Consejería de Ciencia, industria y empleo, se delega en la persona titular de la dirección
+General de energía y minería la competencia para resolver el referido expediente.
+vistos los antecedentes de hecho y fundamentos jurídicos citados, por la presente,
+resuelvo
+Primero.—otorgar la autorización administrativa previa a Hidrocantábrico distribución eléctrica, s. a., para la siguiente
+instalación eléctrica:
+instalación:
+nueva subestación eléctrica denominada se laviana 132/24 kv, formada por:
+• Edificio de 132 kV, con configuración eléctrica de doble barra, compuesta por seis posiciones blindadas tipo GIS
+de interior, que corresponden a:
+— dos posiciones de línea.
+— una posición de acoplamiento transversal de barras.
+— una posición de medida de tensión de barras.
+— Dos posiciones de transformador 132/24 kV (TR-1 y TR-2).
+— Previstas a futuro tres posiciones más, una de transformador 132/24 kV (TR-3) y dos de línea.
+• Dos transformadores 132/24 kV de 50 MVA de potencia cada uno, de intemperie.
+— Previsto a futuro un transformador más 132/24 kV (TR-3).
+• Edificio de 24 kV, con dos módulos de celdas de 24 kV de doble barra compuestos por:
+modulo a:
+— Cuatro posiciones de línea.
+— Una posición de transformador TR-1.
+— Una posición de servicios auxiliares TSA1.
+— una posición de medida de tensión de barras a.
+— Una posición de acoplamiento transversal 1A-2A.
+— Dos posiciones de acoplamiento longitudinal 1A-1B/2A-2B.
+— previstas a futuro cuatro posiciones de línea adicionales.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 152 de 7-viii-2026 2/2
+https://miprincipado.asturias.es/bopa
+95460-6202
+.dóC
+Modulo B:
+— Dos posiciones de acoplamiento longitudinal 2A-2B/1A-1B.
+— Cuatro posición de línea.
+— Una posición de transformador TR-2.
+— Una posición de servicios auxiliares TSA 2.
+— Una posición de medida de tensión de barras B.
+— Una posición de acoplamiento transversal 1B-2B.
+— previstas a futuro cuatro posiciones de línea adicionales y dos posiciones de acoplamiento longitudinal
+1B-1C/2B-2C.
+modulo C previsto a futuro en su totalidad:
+— ocho posiciones de línea.
+— Una posición de transformador TR-3.
+— una posición de medida de tensión de barras C.
+— Una posición de acoplamiento transversal 1C-2C.
+— Dos posiciones de acoplamiento longitudinal 1B-1C/2B-2C.
+sala de servicios auxiliares con dos conjuntos de celdas con esquema lp (remonte de línea y protección de
+transformador) de distribución secundaria 24 kV para alimentación de los servicios auxiliares.
+Dos transformadores de servicios auxiliares 24/0,42 kV de 160 kVA.
+Un grupo electrógeno de emergencia de 100 kVA.
+• Obra civil asociada, equipos de protección y control, comunicaciones, seguridad y servicios auxiliares necesarios
+para su explotación.
+Emplazamiento: parcela PB1, terreno desarrollado en la urbanización del SUNC-15 Pozo Carrió/Barredos, avenida
+principado, 20, referencia catastral 0936701tn9903n0001oo, concejo de laviana.
+objeto: mejorar la calidad del servicio eléctrico con una nueva subestación que permitirá atender las necesidades de
+operación y explotación de la red de alta y media tensión (132 y 24 kv) de la zona.
+presupuesto: 3.865.264,35 €.
+segundo.—otorgar la autorización administrativa de construcción de la instalación reseñada.
+Tercero.—la instalación deberá cumplir las condiciones especiales siguientes:
+1.ª Ha de realizarse de acuerdo con el proyecto presentado y se ajustará estrictamente a los reglamentos electro-
+técnicos de Alta y Baja Tensión que le sean de aplicación.
+2.ª una vez ejecutado el proyecto, se presentará la correspondiente solicitud de autorización de explotación, acompa-
+ñada de un certificado de final de obra suscrito por un técnico facultativo competente, en el que conste que la instalación
+se ha realizado de acuerdo con las especificaciones contenidas en el proyecto de ejecución aprobado, así como con las
+prescripciones de la reglamentación técnica aplicable a la materia.
+3.ª se dará cumplimiento, además, a las condiciones técnicas impuestas por las distintas administraciones, organismos
+o, en su caso, empresas de servicio público o de servicios de interés general en la parte que la instalación pueda afectar, a
+bienes y derechos a su cargo, las cuales han sido puestas en conocimiento del titular y aceptadas expresamente por él.
+Cuarto.—las presentes autorizaciones lo son únicamente a efectos administrativos, dejando a salvo los derechos y
+obligaciones de carácter civil, se otorgan sin perjuicio de tercero y no dispensa en modo alguno de la necesaria obtención
+por parte del titular de la instalación de cualesquiera otras autorizaciones, concesiones, licencias, permisos, contratos o
+acuerdos que la legislación vigente establezca con carácter preceptivo y en especial las relativas a ordenación del territorio,
+urbanismo y medio ambiente, disponiéndose de un plazo de ejecución de un año a partir de la obtención de todas ellas.
+Este acto pone fin a la vía administrativa y contra el mismo cabe interponer recurso contencioso-administrativo ante
+la sala de lo Contencioso-administrativo del tribunal superior de justicia de asturias, en el plazo de dos meses contados
+desde el día siguiente al de su notificación, sin perjuicio de la posibilidad de previa interposición del recurso potestativo
+de reposición ante el mismo órgano que dictó el acto en el plazo de un mes contado desde el día siguiente al de su noti-
+ficación, no pudiendo simultanearse ambos recursos, conforme a lo establecido en el artículo 28 de la Ley del Principado
+de asturias 2/1995, de 13 de marzo, sobre régimen jurídico de la administración del principado de asturias, y en los
+artículos 123 y 124 de la ley 39/2015, de 1 de octubre, del procedimiento administrativo Común de las administraciones
+públicas, sin perjuicio de que los interesados puedan ejercitar cualquier otro que estimen oportuno.
+Oviedo, a 27 de julio de 2026.—El Consejero de Ciencia, Industria y Empleo, P. D. Resolución de 19/05/2025 (BOPA
+de 23 de mayo), el director General de energía y minería.—Cód. 2026-06459.
