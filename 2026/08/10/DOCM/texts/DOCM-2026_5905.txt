@@ -1,0 +1,582 @@
+AÑO XLV Núm. 151 10 de agosto de 2026 30021
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que
+se formula el informe de impacto ambiental del: Proyecto de planta de almacenamiento de estiércol en
+polígono 59 parcela 264 de Herencia (Ciudad Real) (expediente S478/2026/CR/00124), cuyo promotor es
+Gabriel Molina-Prados García-Valdivieso. [2026/5905]
+La Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental (estatal), en su artículo 7.2 concreta los proyectos
+que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar
+si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario
+someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y
+pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de tramitación, así como aquellos proyectos
+adicionales a los ya indicados por la Ley 21/2013, que se ven incluidos en el ámbito de aplicación de la legislación
+de evaluación ambiental.
+En concreto, la actuación se encuentra contemplada en el anexo II de la citada Ley 2/2020, dentro del Grupo
+9 “Proyectos de tratamiento y gestión de residuos”, Subgrupo d) “Instalaciones destinadas a la valorización de
+residuos (incluyendo el almacenamiento fuera del lugar de producción) que no se desarrollen en el interior de una
+nave en polígono industrial, excluidas las instalaciones de residuos no peligrosos cuya capacidad de tratamiento no
+supere las 5.000 t anuales y de almacenamiento inferior a 100 t.”.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+El objeto del proyecto consiste en la implantación de una planta de almacenamiento de estiércol con una capacidad
+máxima anual de 20.000 toneladas, sin que se realice ningún proceso de compostaje y localizada en la parcela
+264 del polígono 59 del término municipal de Herencia (Ciudad Real), paraje conocido como “Cañada del Monte”.
+El estiércol procederá fundamentalmente de ganado vacuno y ovino de explotaciones ganaderas de la zona. Las
+coordenadas UTM ETRS89 30N aproximadas son X: 466918,92 Y: 4358594,81.
+Se proyectan las siguientes instalaciones:
+- Plataforma de almacenamiento de estiércol. Se trata de una explanada de superficie 9.390,67 m2 donde se
+formarán las pilas de estiércol.
+El documento ambiental indica que, considerando una ratio de 3 m³/m² de plataforma (esto es, pilas de 3 m de
+altura), la capacidad total sería de 28.172,01 m³ de estiércol. Y considerando una densidad del estiércol de 0,8
+toneladas/m³, la capacidad máxima total de la planta será de 22.537,61 toneladas, superior a las 20.000 toneladas
+previstas.
+No obstante, la altura del estiércol almacenado no podrá ser superior a 2,66 m (altura máxima), teniendo en cuenta
+que el proyecto evaluado se corresponde con una capacidad máxima de 20.000 toneladas, que en volumen supondría
+una capacidad máxima de almacenamiento de 25.000 m³, según cálculos realizados para la densidad y superficie de
+almacenamiento indicada anteriormente.
+La zona de almacenamiento sobre la que se asentarán los estiércoles presentará una solera impermeable, lograda
+mediante la extensión de una capa de zahorra compactada de 20 cm de espesor sobre lámina de polietileno de alta
+densidad PEAD 1 mm de espesor, dispuesta sobre el terreno natural, una vez desbrozado y compactado.
+La plataforma contará con la pendiente adecuada, aprovechando la pendiente natural del terreno, hacia el canal de
+recogida de lixiviados, que desembocará en la balsa proyectada.
+- Canal de recogida de lixiviados. Adosada a la plataforma en dos de sus lados (según plano G03 del Documento
+Ambiental y que se incluye en Anexo de la presente Resolución), con una anchura de 1 m y una profundidad máxima
+de 50 cm, será la encargada de recibir los posibles lixiviados generados, así como el agua de lluvia precipitada en
+la plataforma, y conducirlos hasta la balsa de recogida de lixiviados aprovechando la pendiente de la plataforma.
+Contará con la misma impermeabilización descrita para la plataforma de material. Cumplirá con el coeficiente de
+permeabilidad igual o inferior a 1x10-9 m/s.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30022
+- Balsa de lixiviados. Tendrá 860,62 m³ capacidad y las dimensiones indicadas en plano G03 del Documento
+Ambiental y que se incluye en Anexo de la presente Resolución. La balsa estará impermeabilizada con una lámina
+de polietileno de alta densidad (PEAD) de 1 mm de espesor, debidamente soldada y sellada, sobre membrana
+geotextil. Cumplirá con el coeficiente de permeabilidad igual o inferior a 1x10-9 m/s. Además, se dispondrá de un
+sistema de detección de fugas por vertidos mediante al menos dos pozos de control o piezómetros ubicados aguas
+arriba y abajo.
+- Vallado perimetral con puerta de acceso y pantalla vegetal. El conjunto de la planta de gestión de estiércol se
+vallará mediante una malla de simple torsión de 2 m de altura, además de una barrera vegetal a base de especies
+arbustivas adaptadas a las características de la zona y de bajas necesidades hídricas y nutritivas. El detalle de
+ambos se incluye en el plano G03 del Documento Ambiental y en el Anexo de la presente Resolución).
+El documento ambiental no contempla el consumo de agua previsto para el funcionamiento de la planta de estiércol,
+en su caso. Tampoco prevé la implantación de ninguna fuente de suministro eléctrico.
+El documento ambiental contempla un análisis de 4 alternativas, incluida la alternativa 0 por la que no se ejecutaría
+el proyecto. Se valora una alternativa 1 que contempla la ubicación de las instalaciones descritas en este apartado
+Primero de la presente Resolución. La alternativa 2 contempla la ejecución en otra ubicación más cercana a
+población, y la alternativa 3, de procesos. Se selecciona la alternativa 1 como proyecto a ejecutar y ahora evaluado.
+Segundo. Tramitación y consultas.
+El 28-01-2026 se recibe en el Servicio de Calidad Ambiental de Ciudad Real, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada del proyecto, el documento ambiental, y el justificante del pago
+de la tasa correspondiente al procedimiento de evaluación ambiental según la Ley 9/2012, de 29 de noviembre,
+de tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias, y por tanto, dando cumplimiento al
+artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El 11-03-2026 el órgano ambiental notificó al promotor del proyecto que la documentación presentada junto con la
+solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada
+Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas,
+con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas
+han sido los siguientes (se señalan (X) aquellos que han emitido contestación a las consultas formuladas):
+1.- Ayuntamiento de Herencia
+2.- Consejería de Desarrollo Sostenible - Servicio de Prevención e Impacto Ambiental.
+3.- Consejería de Desarrollo Sostenible - Dirección General de Economía Circular y Agenda 2030 - Servicio de Residuos.
+4.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real-Servicio de Medio Natural (X)
+5.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real - Unidad Coordinación Provincial Agentes
+Medioambientales (X)
+6.- Delegación Provincial de Educación, Cultura y Deportes de Ciudad Real- Servicio de Cultura (X)
+7.- Confederación Hidrográfica del Guadiana (CHGn)- Ciudad Real (X)
+8.- Delegación Provincial Consejería Hacienda, Administraciones Públicas y Transformación Digital Ciudad Real-
+Servicio de Protección Ciudadana (X)
+9.- Delegación Provincial Consejería Sanidad de Ciudad Real- Servicio de Salud Pública (X)
+10.- Delegación Provincial Agricultura, Ganadería y Desarrollo Rural de Ciudad Real - Servicio Producción
+Agroalimentaria y Cooperativas Ciudad Real
+11.- Diputación Provincial de Ciudad Real-Departamento de Carreteras
+12.- Ecologistas en Acción de Ciudad Real
+13.- WWF/Adena - España (Madrid)
+14.- Sociedad Española de Ornitología (Seo Birdlife)
+15.- Sociedad de Historia Natural de Ciudad Real
+16.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real-Servicio de Calidad Ambiental - Sección de
+Control Ambiental
+Para conocimiento completo y cumplimiento cuando proceda, los informes recibidos se publican en la sede electrónica
+de la Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia).
+Las sugerencias y los aspectos más importantes que figuran en todos los informes recibidos en el órgano ambiental
+se incluyen en el apartado Cuarto de la presente Resolución.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30023
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Las características del proyecto se han reseñado en el apartado Primero de la presente Resolución. De acuerdo
+con el informe de 17-06-2026 del Ayuntamiento de Herencia, la implantación de una planta de almacenamiento
+de estiércol en la ubicación propuesta, esto es, en polígono 59 parcela 264 de Herencia (Ciudad Real), resulta
+urbanísticamente compatible, al tratarse de un uso ganadero auxiliar admisible en suelo no urbanizable.
+3.2. Ubicación del proyecto.
+El proyecto se localiza al Noroeste del municipio de Herencia (Ciudad Real), a aproximadamente 1.500 m de su
+casco urbano.
+De acuerdo con el informe de 17-06-2026 del Ayuntamiento de Herencia, la parcela 264 del polígono 59 objeto del
+proyecto se encuentra clasificada por las Normas Subsidiarias Municipales como suelo no urbanizable, resultándole
+de aplicación la normativa urbanística vigente en materia de ordenación del territorio y actividad urbanística de
+Castilla-La Mancha y las normas Subsidiarias de Castilla-La Mancha.
+El acceso a la parcela se hace desde el Camino Alto a Herencia o Camino del Arca, que une la localidad de Herencia
+con la de Camuñas.
+3.3. Características del potencial impacto.
+En el ámbito del Patrimonio Cultural, los terrenos afectados por el proyecto sometido a evaluación ambiental no
+se incluyen dentro de los ámbitos de protección o prevención arqueológica definidos en él, ni se localizan en los
+mismos elementos del patrimonio cultural de Castilla-La Mancha.
+En el ámbito de áreas y recursos naturales protegidos, la ubicación del proyecto no se encuentra incluida dentro
+de las áreas protegidas previstas en la Ley 9/1999 de 26 de mayo, de Conservación de la Naturaleza, pero se
+encuentra dentro del límite de la Reserva de la Biosfera- La Mancha Húmeda, en su zona de transición, como
+espacio protegido internacionalmente de acuerdo con la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y
+de la Biodiversidad y el Programa internacional sobre el hombre y la biosfera dependiente de la Unesco. Se ubica
+en Zona de importancia del Lince ibérico, pero fuera de sus áreas críticas.
+No se vería afectado el dominio público pecuario, ni elementos geomorfológicos protegidos. La ubicación tampoco
+se encuentra incluida en zona de alto riesgo de incendios forestales (ZAR).
+El proyecto se encuentra en la demarcación hidrográfica del Guadiana, en la subcuenca Guadiana I. El cauce más
+cercano es el Río Amarguillo a aproximadamente 4.220 m al norte del proyecto.
+El municipio de Herencia, y, por tanto, la ubicación del proyecto, se encuentra dentro de zona declarada vulnerable
+a la contaminación por nitratos de origen agrario “Mancha Occidental” (Orden de 21/05/2009, de la Consejería de
+Industria, Energía y Medio Ambiente).
+Se detecta como carretera más cercana a la ubicación del proyecto, la CR-1104 situada a aproximadamente 680 m
+al noreste.
+La fase de obras podrá conllevar un aumento del ruido ambiental y gases de combustión en el entorno próximo a
+la maquinaria empleada. También se prevén emisiones de material particulado a la atmósfera producidas por los
+movimientos de tierras que se realicen.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30024
+En las áreas del entorno donde se prevé el empleo de maquinaria existe la probabilidad de vertido de combustible,
+riesgo derivado de condiciones inadecuadas del estado de la maquinaria o malas prácticas en su empleo. También se
+puede dar cierta compactación del suelo provocada por el trasiego de maquinaria, vehículos y acopio de materiales.
+En la fase de explotación, por el tipo de instalación de que se trata, las emisiones más importantes a la atmósfera
+podrían manifestarse en forma olores desagradables para la población próxima al entorno de la instalación, y que
+también podría deberse al movimiento de los vehículos encargados de transportar los estiércoles. También pueden
+generarse emisiones sonoras originadas por el tránsito de vehículos. El documento ambiental señala que los posibles
+olores generados en la planta no afectarán significativamente al núcleo urbano, debido a la situación y distancia de
+la planta con éste, teniendo en cuenta el análisis de vientos predominantes en la zona.
+El documento ambiental recoge la valoración de los efectos ambientales derivados de la vulnerabilidad del proyecto
+frente a accidentes y catástrofes, no resultando efectos significativos.
+Las principales afecciones al suelo podrían producirse por disposición del estiércol en terreno sin protección y
+por percolación de lixiviados al terreno, pudiendo verse afectadas también las aguas superficiales y subterráneas.
+Para evitarlo, habrá de ejecutarse una adecuada plataforma de almacenamiento de estiércol debidamente
+impermeabilizada junto con un sistema de recogida y almacenamiento de lixiviados y aguas pluviales que entren
+en contacto con el estiércol, y un sistema de control y detección de fugas, así como establecer una adecuada
+frecuencia de retirada por gestor autorizado de los lixiviados almacenados.
+En la fase de construcción del proyecto los posibles impactos que se puedan generar serán de efecto temporal, como,
+por ejemplo, la producción de residuos procedentes de las obras, la emisión de ruidos y gases por la maquinaria
+y vehículos de la obra, etc. Los residuos anteriormente mencionados, serán entregados a un gestor autorizado
+para residuos de construcción y demolición. De la valoración realizada se concluye que los impactos en esta fase
+serán de carácter temporal a corto plazo, reversibles y recuperables, que quedarán minimizados con las medidas
+preventivas, considerándose por tanto impactos compatibles.
+En la fase de funcionamiento de la actividad, los posibles impactos a valorar, considerados como efecto discontinuo,
+son la emisión de olores y partículas a la atmósfera, generación de lixiviados y generación de residuos, así como
+la emisión de ruidos, e impacto visual y un posible aumento del tráfico en el acceso a la instalación, impactos,
+que pueden derivar en molestias. Estos impactos en líneas generales también se consideran de baja magnitud y
+compatibles, aplicando las medidas preventivas y correctoras correspondientes.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Las medidas para la adecuada protección del medio ambiente indicadas por el promotor en el documento ambiental
+se deberán cumplir en cada fase del proyecto complementadas con las que se expresan a continuación, teniendo
+en cuenta que en los casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en
+la presente Resolución. Estas condiciones deberán tenerse debidamente en cuenta por el órgano sustantivo en el
+procedimiento de autorización del proyecto, de conformidad con el artículo 56.1 de la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha.
+4.1. Protección de áreas y recursos naturales protegidos. Fauna y vegetación.
+De acuerdo con el informe de 08-04-2026 del Servicio provincial de Medio Natural, se deberá asegurar que el
+proyecto cumpla lo establecido en las “Directrices Estratégicas para la gestión de la Reserva de la Biosfera de
+la Mancha Húmeda”, que le sea de aplicación al estar localizado el proyecto dentro de su zona de transición,
+publicadas en www.castillalamancha.es en el siguiente enlace
+https://medionatural.castillalamancha.es/sites/default/files/documentos/pdf/20170403/directrices_gestion_rb_mancha_humeda.pdf.
+De conformidad con su apartado 2.3.3, la zona de transición no requiere, a priori, y en cuanto a protección de los
+valores naturales y culturales, una limitación adicional a la existente que en cualquier otro territorio. Si bien, es
+conveniente observar las conductas y usos que se especifican en dicho apartado.
+Por fotointerpretación y declaración en Solicitud Unificada (PAC) se comprueba que los recintos pueden llevar más
+de 10 años sin cultivarse. El artículo 3.1.b) de la Ley 3/2008 de Montes y Gestión Forestal Sostenible de Castilla-
+La Mancha, establece que también tendrán la consideración legal de monte: “Los terrenos de carácter agrícola con
+abandono de dicha actividad durante 10 años consecutivos, siempre que hayan sido poblados por vegetación forestal
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30025
+y sean susceptibles de uso o destino forestal”. Por ello, con carácter previo a la actuación, debe solicitar Información
+sobre el carácter agrícola o forestal de un terreno (procedimiento SL54 https://www.jccm.es/sede/tramite/L54) y, en su
+caso, obtener resolución favorable para el cambio de uso de un terreno forestal en régimen general administrativo,
+cuyo procedimiento (SG88) y documentación puede consultar en https://www.jccm.es/sede/tramite/G88
+En caso de resultar necesaria cualquier actuación de descuaje, corta o poda de vegetación natural o naturalizada,
+esta requerirá autorización administrativa previa del Servicio de Medio Natural de la Delegación Provincial de
+Desarrollo Sostenible de Ciudad Real, según dispone la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal
+Sostenible de Castilla-La Mancha.
+El cerramiento perimetral de la planta deberá ser permeable y seguro para la fauna silvestre, cumpliendo con
+el artículo 34 del Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico que
+establece que los vallados y cerramientos de fincas y parcelas se deberán realizar de manera que no supongan un
+riesgo para la conservación y circulación de la fauna silvestre de la zona, ni degraden el paisaje. Además, cumplirá
+con las características para cerramientos tipo cinegéticos previstos en la normativa regional vigente y no podrá
+contar con voladizos o con visera superior.
+Por otro lado, con el fin de evitar posibles riesgos para la fauna silvestre y para personas no autorizadas, la balsa
+de lixiviados deberá estar vallada perimetralmente. También deberá contar con dispositivos que permitan la salida
+de animales que accidentalmente pudieran caer en su interior. A tal efecto, se instalarán sistemas como rampas
+de escape accesibles o redes adecuadas que faciliten su salida, especialmente en los puntos donde la pendiente
+y profundidad supongan mayor dificultad para los animales. Todo ello salvo que existan motivos fundados de
+imposibilidad material de instalar dichos dispositivos, lo que deberá acreditarse adecuadamente por el promotor.
+4.2. Protección del sistema hidrológico y del suelo.
+El cauce del río Amarguillo discurre a unos 4.220 m al norte de la zona de actuación planteada por lo que no se prevé
+afección física alguna a cauces que constituyen el Dominio Públicos Hidráulico del Estado (definido en el artículo
+2 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el Texto Refundido de la Ley de Aguas
+(TRLA)), ni zonas de servidumbre y policía de los mismos, de acuerdo con los artículos 6 y 7 del Reglamento del
+DPH, aprobado por Real Decreto 849/1986, de 11 de abril.
+A pesar de ello, se deberán adoptar las medidas oportunas para evitar la contaminación del suelo y de las aguas
+superficiales y subterráneas de cualquier tipo de vertido artificial durante las obras y explotación del proyecto.
+Se recuerda que el artículo 245 del Reglamento del Dominio Público Hidráulico (DPH), aprobado por Real Decreto
+849/1986, de 11 de abril, establece que con carácter general queda prohibido el vertido directo o indirecto de aguas
+y productos residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio
+público hidráulico, salvo que se cuente con la previa autorización del Organismo de cuenca.
+Respecto del abastecimiento de agua, el documento ambiental no indica nada al respecto, sin embargo, CHGn
+informa que consta en ese organismo de cuenca, que el promotor es titular de un aprovechamiento de agua:
+Expediente 3007/2010, Inscrito en la Sección B del Registro de Aguas con un volumen máximo anual de 500 m³/año
+para uso doméstico en la parcela 264 del polígono 59, en el t.m. de Herencia (Ciudad Real) a partir de una captación
+de aguas subterráneas.
+Respecto de la plataforma de almacenamiento de estiércol, así como el sistema de canalización de lixiviados y su
+balsa de almacenamiento:
+- Para evitar que la construcción y/o gestión de las infraestructuras de almacenamiento de residuos pudieran
+contribuir a la degradación del entorno y constituir un riesgo de contaminación del suelo y las aguas (superficiales y/o
+subterráneas), todas ellas deberán estar debidamente impermeabilizadas, dimensionadas, diseñadas y ubicadas, de
+tal manera que se evite el riesgo de filtración y contaminación de las aguas superficiales y subterráneas, asegurando
+que se impidan pérdidas por rebosamiento o por inestabilidad geotécnica.
+- Asimismo, se deberán tomar las medidas necesarias para reducir al mínimo el volumen de aguas contaminadas
+con los estiércoles almacenados, asegurando su recogida y almacenamiento hacia la balsa de lixiviados, y su
+correcta gestión posterior.
+- Deberán cumplir con un coeficiente de permeabilidad igual o inferior a 1x10-9 m/s, mediante sistemas artificiales,
+tales como la colocación de lámina de material impermeable o el empleo de una solera de hormigón.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30026
+- Se deberá disponer de un programa de seguimiento y mantenimiento que asegure la impermeabilidad con
+verificación al menos cada tres años. En el caso de la balsa, esta verificación implicará su previo vaciado (retirada
+de su contenido por gestor autorizado) y limpieza.
+- Será necesario contar con un sistema de detección de fugas mediante al menos dos pozos de control a ubicar
+aguas arriba y aguas abajo (plataforma y balsa de lixiviados).
+- Se podrá disponer la cubrición de la plataforma de almacenamiento y de la balsa de lixiviados en caso de previsión
+de episodios torrenciales de lluvia o de emisión de fuertes olores.
+Además, resulta de aplicación el Decreto 80/2015, de 14 de octubre, por el que se aprueba el programa de actuación
+aplicable en las zonas vulnerables a la contaminación de las aguas por nitratos, provenientes de fuentes agrarias
+en la comunidad autónoma de Castilla-La Mancha y se establece el listado de medidas adicionales y acciones
+reforzadas. Entre otros, se tendrán en cuenta los siguientes requisitos:
+- Como entidad gestora de estiércoles debe llevar de manera actualizada un libro de gestión de estiércoles conforme
+las hojas del anexo V del Decreto 80/2015, y que se pondrá a disposición de las autoridades competentes cuando éstas
+lo requieran, y se conservará durante al menos los cinco años siguientes a la última anotación, independientemente
+de un eventual cese de la actividad.
+- Los almacenamientos de estiércoles deberán cumplir los requisitos técnicos recogidos en el anejo VI del Decreto
+80/2015. Entre ellos los siguientes:
+* Las balsas de estiércoles líquidos tendrán la capacidad necesaria para cubrir las necesidades de almacenamiento
+justificadas en el Plan de producción y gestión de estiércoles. Como mínimo tendrán la capacidad necesaria para
+almacenar el volumen total generado por la explotación durante al menos tres meses, calculada según se indica en
+dicho anejo.
+En el dimensionado de estas balsas también se tendrá en cuenta la totalidad de la lluvia anual, considerando un
+periodo de retorno de 10 años, y los sólidos que se pudieran acumular.
+En los casos en que las balsas no estén cubiertas, éstas deberán contar con un resguardo de 0,5 metros, adicional
+a la capacidad calculada, para evitar el desbordamiento por lluvias torrenciales.
+Las balsas nuevas deberán estar impermeabilizadas artificialmente, mediante láminas impermeabilizantes
+(generalmente polietileno) o mediante solera de hormigón (de al menos 20 cm) con paredes de hormigón o de
+ladrillo enfoscado. En caso de tratarse de lámina plástica, se debe vigilar el periodo de garantía y duración del
+material, evitando las agresiones mecánicas.
+El sistema de llenado se realizará por debajo del nivel del lixiviado y el vaciado lo más cercano al fondo de la balsa.
+En almacenamientos de planta circular, la proporción entre altura y diámetro será de 1:4 o superior. En el resto de
+almacenamientos, la proporción entre altura y superficie será de 1:50 o superior.
+* El estercolero (en este caso referido a la plataforma de almacenamiento de estiércol) tendrá la capacidad necesaria
+para cubrir las necesidades de almacenamiento justificadas en el Plan de producción y gestión de estiércoles. Como
+mínimo tendrán la capacidad necesaria para almacenar el volumen total generado por la explotación durante al
+menos tres meses, calculada según se indica en dicho anejo.
+Para almacenamiento de estiércol sólido, el estercolero estará debidamente impermeabilizado, para evitar riesgo de
+filtraciones y contaminación de las aguas superficiales y subterráneas.
+Los estercoleros nuevos deberán estar impermeabilizados artificialmente, mediante solera de hormigón (de al menos
+20 cm) con paredes de hormigón o de ladrillo enfoscado. Se podrá sustituir por otros sistemas de impermeabilización
+artificial que garanticen un nivel de protección del suelo y de las aguas superficiales y subterráneas equivalente al
+anterior.
+Los estercoleros dispondrán de un sistema que evite la salida de los lixiviados del recinto impermeabilizado o de
+un sistema de recogida de lixiviados dotado de foso. En el caso de que los estercoleros no estén adecuadamente
+cubiertos, el sistema adoptado debe contar con la suficiente capacidad de almacenamiento de lixiviados para
+almacenar la media de las precipitaciones máximas concentradas en 24 horas en la superficie del estercolero, para
+un período de retorno de 10 años.
+Los lixiviados recogidos serán gestionados adecuadamente, evitando su vertido incontrolado. Para ello, la persona o
+entidad titular podrá instalar conducciones a la balsa de estiércoles líquidos, destinarlos a su valorización agronómica
+o entregarlos a gestor autorizado de residuos no peligrosos para el código LER 02 01 06.
+* Tanto la balsa como el estercolero deberán cumplir las distancias mínimas de ubicación legalmente establecidas,
+si las hubiere, y en todo caso, las distancias establecidas en la legislación a la que hace referencia el apartado 4.3.3
+del Programa de Actuación aprobado por Decreto 80/2025.
+También resulta de aplicación lo establecido en el citado Decreto 80/2025 a las parcelas de las explotaciones
+agrícolas en las que se aplicará el producto obtenido, y a los apilamientos temporales del mismo, cuando éstas se
+ubiquen en zona vulnerable a la contaminación por nitratos.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30027
+Por otro lado, no se prevén importantes movimientos de tierra, pero si se generasen tierras y piedras limpias
+sobrantes tendrán un destino autorizado y tratándose de la capa vegetal, previamente dispuesta en acopios de
+hasta un metro de altura, será destinada preferentemente al terreno circundante de extracción.
+Las operaciones de mantenimiento de equipos, maquinaria y vehículos se realizarán fuera del medio natural y
+dentro de instalaciones regladas para ello, con el objeto de evitar posibles vertidos. Las áreas de almacenamiento
+de productos químicos y residuos peligrosos o aquellas en las que se realice operaciones de mantenimiento de
+maquinaria y equipos deberán estar completamente aisladas de las redes de captación de aguas y suelo sin
+protección, garantizando la ausencia total de vertido o arrastre de contaminantes a dichos medios.
+La zona de almacenamiento de productos químicos dispondrá de redes estancas e independientes de captación de
+derrames y fugas, realizadas en suelo hormigonado e impermeabilizado, quedando imposibilitada la conducción de
+dichos vertidos a la red de evacuación de aguas residuales, pluviales o sin protección. Cualquier tipo de vertido o
+derrame por accidente de productos contaminantes, deberán ser gestionados mediante gestor autorizado.
+En caso de producirse accidentalmente depósitos de residuos o vertidos de aceites, combustibles u otro residuo
+peligroso, se procederá inmediatamente a su recogida y deberán de ser entregados a gestor autorizado, según
+las características del depósito o vertido. Se retirará igualmente la porción de suelo contaminado, si existiera,
+asegurándose en todo caso la no afección a aguas superficiales o subterráneas.
+Se tendrán en consideración todas las normas urbanísticas que, en su caso, sean de aplicación, en especial el Texto
+Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla-La Mancha, Reglamento
+de Suelo Rústico.
+Deberá tenerse en cuenta los requisitos exigidos por la Orden 4/2020, de 8 de enero, de la Consejería de Fomento,
+por la que se aprueba la Instrucción Técnica de Planeamiento sobre determinados requisitos sustantivos que
+deberán cumplir las obras, construcciones e instalaciones en suelo rústico.
+Las franjas de protección a establecer a cualquier infraestructura que pudiera verse afectada, tanto por las actuaciones
+a realizar como por el trasporte de medios y materiales, serán las que marque en cada caso su organismo gestor.
+4.3. Protección a infraestructuras, Vías Pecuarias y Monte de Utilidad Pública.
+El acceso desde las vías de acceso cumplirá las condiciones y requisitos que, en su caso, pudiera establecer el
+titular de la misma, de acuerdo con la normativa vigente en la materia.
+En cualquier caso, la instalación respetará los caminos de uso público, vías pecuarias, cauces públicos y otras
+servidumbres que existan que serán transitables de acuerdo con sus normas específicas y el Código Civil.
+4.4. Protección del medio ambiente atmosférico (contaminación atmosférica, acústica y lumínica).
+La actividad desarrollada en la planta de almacenamiento de estiércol está considerada actividad potencialmente
+contaminadora de la atmósfera, de acuerdo a lo especificado en la Ley 34/2007, de 15 de noviembre, de calidad del
+aire y protección de la atmósfera, y en el Real Decreto 100/2011, de 28 de enero, por el que se actualiza el catálogo
+de actividades potencialmente contaminadoras de la atmósfera y se establecen las disposiciones básicas para su
+aplicación. De acuerdo con el artículo 13 de la citada Ley, la actividad deberá ser notificada al órgano competente de
+la Comunidad Autónoma (actual Dirección General de Calidad Ambiental de la Consejería de Desarrollo Sostenible),
+que podrá establecer los valores límites de los parámetros que correspondan (partículas, olores, etc.), y requisitos
+de control de los mismos.
+Se tomarán las medidas necesarias para reducir al mínimo inevitable las molestias y los riesgos procedentes de la
+planta de almacenamiento de estiércol debido a la emisión de olores y polvo, materiales transportados por el viento,
+ruido y tráfico, aves, parásitos e insectos, formación de aerosoles e incendios, etc.
+Durante el tránsito de la maquinaria pesada y otros vehículos sobre caminos y viales de firme natural (no
+pavimentados), se adoptarán todas las medidas necesarias para evitar la emisión de polvo a la atmósfera. Para ello,
+entre otras medidas, se deberá circular a una velocidad que no rebase los 20 km/h cuando transiten por caminos o
+pistas de firme natural, y si fuera necesario, se realizará la humectación de las superficies de tránsito.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30028
+En todo momento se utilizará maquinaria homologada y en perfectas condiciones de uso, con los requisitos de
+marcado CE o equivalente, en cuanto a emisión de ruidos y gases de combustión.
+Además, en cuanto a la prevención del ruido, se adoptarán las medidas y dispositivos en maquinaria y equipos
+asociados a la actividad para que se disminuyan al máximo los niveles de ruido generados por los mismos.
+Se procederá a la revisión y control periódico de los silenciadores de los escapes, rodamientos, engranajes y
+mecanismos de la maquinaria conforme determina el Real Decreto 212/2002, de 22 de febrero, por el que se regulan
+las emisiones sonoras en el entorno debidas a determinadas máquinas de uso al aire libre, modificado por el Real
+Decreto 524/2006, de 28 de abril. El promotor del proyecto también será responsable de cumplir con lo establecido
+en la Ley 37/2003, de 17 de noviembre, del Ruido y en sus reglamentos de desarrollo, así como lo que puedan
+establecer al efecto las ordenanzas del municipio de Herencia.
+Respecto a la iluminación, el diseño de las instalaciones contemplará un máximo aprovechamiento y optimización
+de la luz solar. Para la iluminación artificial, en su caso, se recomienda el uso de un sistema de iluminación LED para
+lograr un nivel de iluminación adecuado y eficiente.
+4.5. Protección de bienes materiales, incluido el patrimonio cultural.
+El Servicio de Cultura informó que el proyecto evaluado es compatible con la preservación del Patrimonio Cultural de
+la zona, informando favorablemente el mismo, sin condicionar su ejecución al control y seguimiento arqueológicos
+de los movimientos de tierra para ello necesarios.
+Se recuerda que la Ley 4/2013, de 16 de mayo, en su artículo 52.2 establece que “El hallazgo casual de restos
+materiales con valor cultural se comunicará en un plazo máximo de 48 horas a la Consejería competente en materia
+de Patrimonio Cultural y a los Cuerpos y Fuerzas de Seguridad del Estado”.
+4.6. Protección de la salud humana.
+Al ser el estiércol un subproducto animal no destinado al consumo humano, le es de aplicación el Reglamento (CE)
+nº 1069/2009 del Parlamento Europeo y del Consejo, de 21 de octubre de 2009, por el que se establecen normas
+sanitarias aplicables a los subproductos animales y los productos derivados no destinados al consumo humano.
+Por tanto, deberá ponerse en contacto con la Delegación Provincial de la Consejería de Agricultura, Ganadería y
+Desarrollo Rural de Ciudad Real, que, en el ámbito de sus competencias, ejercerá las actuaciones que resulten
+necesarias conforme con la legislación sobre subproductos animales no destinados al consumo humano (Sandach).
+La planta deberá estar equipada para evitar que la suciedad originada en la instalación se disperse en la vía pública
+y en las tierras circundantes. Y deberá disponer de medidas de control de acceso adecuadas que impidan el libre
+acceso a las instalaciones.
+Se debe garantizar el cumplimiento de la normativa referente a la prevención de riesgos laborales y demás legislación
+vigente que contemple la protección de la salud humana.
+Se deberá realizar el adecuado mantenimiento de la instalación durante su funcionamiento, para evitar afecciones
+por malos olores. Además, es recomendable la implantación de un programa de desinsectación, desratización y
+desinfección de la instalación.
+4.7. Protección ante accidentes graves y/o catástrofes.
+En relación con el municipio de Herencia, se detectan los siguientes niveles de riesgo identificados en los diferentes
+Planes, circunstancia que habrá de ser tenida en cuenta a efectos oportunos:
+- Según el Plan Territorial de Emergencia de Castilla la Mancha (Platecam), el municipio de Herencia no figura
+incluida dentro del grupo de localidades afectadas de riesgo químico por alguna de las instalaciones industriales
+sujetas a normativa de prevención de accidentes graves con sustancias peligrosas (normativa Seveso).
+- Según el Plan especial de protección Civil ante el riesgo de accidente en el transporte de mercancías peligrosas
+por carreteras y ferrocarril en Castilla-La Mancha (Petcam), el término municipal de Herencia, se encuentra afectado
+por: Tramo de la circunvalación de Alcázar de San Juan, por el oeste, que empieza en el cruce con la carretera
+CM-4133 y con la carretera que une la CM-42 con Alcázar de San Juan y termina en el cruce con las carreteras
+CM-310, CM-3012, CM-3166, al norte de la localidad. Este tramo tiene una longitud aproximada de 2,2 km. El total
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30029
+de mercancías transportadas en este tramo es de 154.837 t/año, siendo en su mayoría materias de clase 3, como
+son la mezcla de hidrocarburos gaseosos licuados, gasóleo y gasolina, en menor medida. No obstante, también
+se recogen en este tramo un transporte de 1.853 t/año de dióxido de azufre (SO2), por lo que el accidente más
+desfavorable estudiado en esta área de especial exposición corresponde con el colapso de un camión cisterna de
+dióxido de azufre (SO2), para el que se ha obtenido una zona de intervención de 14.207 metros y una zona de
+alerta de 16.332 metros, por dispersión de nube tóxica. El accidente afectaría a varios municipios, entre los que se
+encuentra Herencia.
+- Según el Plan Especial de protección Civil ante el riesgo de Inundaciones en Castilla-La Mancha (Pricam), el
+municipio de Herencia está afectado por un Área de Riesgo Potencialmente Significativo de Inundación (Arpsi),
+estando obligado a la elaboración de un Plan de Actuación Municipal ante el Riesgo por Inundaciones.
+- Según el Plan Regional de Incendios Forestales (Infocam), el municipio de Herencia aparece clasificado como
+Zona de Alto Riesgo de Incendio en varias zonas, no estando incluido el polígono 59 donde se localiza el proyecto.
+La norma básica de autoprotección (NBA), aprobada por Real Decreto 393/2007, establece en su Anexo I las
+actividades (estableciendo umbrales mínimos) para las que se deberán presentar el correspondiente Plan de
+Autoprotección (PA), junto con el resto de los documentos necesarios para el otorgamiento de la licencia, permiso o
+autorización necesaria para el comienzo de la actividad. En caso de ser necesario, el titular de la actividad deberá
+inscribir el citado documento en el Registro de Planes de Autoprotección de Castilla-La Mancha, regulado por
+Decreto 1/2018, de 9 de enero.
+4.8. Protección del Paisaje.
+Según lo dispuesto en el Reglamento de Suelo Rústico (aprobado por el Decreto 242/2004, de 27 de julio) y sus
+modificaciones posteriores, las construcciones deberán armonizarse con el entorno inmediato, así como con las
+características propias de la arquitectura rural o tradicional de la zona donde se vayan a implantar. Los acabados
+exteriores de cerramientos, cubiertas y silos se realizarán en colores mates acordes con las propias características
+del entorno. En ningún caso permanecerán sin tratar superficies de colores brillantes o que produzcan reflejos.
+De acuerdo con el documento ambiental, se prevé la ejecución de una pantalla vegetal en el perímetro de la planta
+con trazado según se indica en el plano G03 del Documento Ambiental y en el Anexo de la presente Resolución.
+4.9. Generación y gestión de residuos
+La colocación del estiércol en la plataforma de almacenamiento se hará de manera tal que garantice la estabilidad
+de la masa almacenada y estructuras asociadas, en particular para evitar los deslizamientos.
+Todos los residuos generados deberán ser categorizados y destinados adecuadamente a su correspondiente gestor
+autorizado, y en todo caso almacenados y gestionados conforme con la Ley 7/2022, de 8 de abril, de residuos y
+suelos contaminados para una economía circular, y el Decreto 35/2024, de 2 de julio, por el que se aprueba el Plan
+de Prevención y Gestión de Residuos de Castilla-La Mancha 2030. También será de observancia lo establecido en el
+Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción
+y demolición, en su caso.
+Todos los residuos almacenados deberán estar etiquetados conforme a la normativa en vigor (Ley 7/2022, de 8
+de abril, de residuos y suelos contaminados para una economía circular y Reglamento (CE) Nº 1272/2008 del
+Parlamento y del Consejo de 16 de diciembre de 2008 sobre clasificación, etiquetado y envasado de sustancias y
+mezclas). En el caso de almacenamiento de residuos peligrosos, éstos deberán estar protegidos de la intemperie y
+disponer de sistemas de retención de vertidos y derrames.
+Durante el desarrollo de la actividad debe conservarse la documentación acreditativa de entrega de los residuos
+generados a gestores autorizados.
+Tras la finalización de las obras proyectadas, la zona de actuación deberá quedar totalmente limpia de residuos y
+sin dejar ningún elemento en superficie.
+4.10. Desmantelamiento y cambio de titular.
+Una vez finalizada la actividad de forma permanente, se retirarán todos los restos de material y residuos a vertederos
+adecuados a la naturaleza de cada residuo y se restaurarán los terrenos ocupados por estas a su estado original,
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30030
+dejando el área de actuación en perfecto estado de limpieza. Será de obligado cumplimiento la Ley 7/2022 de 8 de
+abril, residuos y suelos contaminados, para una economía circular. El desmontaje deberá ponerse en conocimiento
+del órgano ambiental, para lo que dispone de un plazo máximo de 1 año tras la finalización de la actividad.
+Asimismo, en caso de que la actividad sea traspasada o cambie de titular, también se deberá poner en conocimiento
+de los órganos sustantivo y ambiental.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o
+de las medidas correctoras y compensatorias establecidas. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia. Cada informe deberá estar suscritos conjuntamente por el promotor
+y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre
+el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia y seguimiento ambiental (PVSA) y el listado de comprobación se harán públicos en la sede
+electrónica del órgano sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El Programa de Seguimiento y Vigilancia Ambiental (PSVA) establecerá un sistema que garantice el cumplimiento
+de las indicaciones y de las medidas previstas en la presente resolución, tanto en la fase de ejecución como en la
+de explotación, desmantelamiento o demolición. Este programa atenderá a la vigilancia, durante la fase de obras,
+y al seguimiento, durante la fase de explotación del proyecto, y deberá contener un cronograma estimado para las
+actuaciones de vigilancia y seguimiento que contemple con el fin de supervisar su cumplimiento, estableciendo un
+número mínimo de visitas.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control de la ejecución del proyecto conforme a las prescripciones que figuran en la presente Resolución, así como
+las que se proponen en el documento ambiental presentado por el promotor mientras no se opongan o contradigan
+a las primeras.
+- Control de la no superación de la capacidad máxima de almacenamiento ni de la altura máxima del estiércol
+almacenado de acuerdo con lo indicado en el apartado Primero de la presente Resolución.
+- Control del cumplimiento del coeficiente de permeabilidad en la plataforma de almacenamiento de estiércol, así
+como en el sistema de recogida y almacenamiento de lixiviados.
+- Control de la ejecución e implantación del programa de seguimiento y mantenimiento para asegurar la impermeabilidad
+de la plataforma de almacenamiento de estiércol y sistema de recogida y almacenamiento de lixiviados.
+- Control de la correcta ejecución de los cerramientos perimetrales de la planta y de la balsa de lixiviados.
+- Control de la implantación y eficacia de las medidas de carácter preventivo y corrector.
+- Control de la no afección a especies de fauna y flora protegida. Control de no afección a vegetación leñosa
+existente.
+- Control de la no afección a las infraestructuras viarias.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30031
+- Control de las medidas de protección al medio ambiente atmosférico establecidas, en particular las relativas a
+emisión de material particulado y a olores.
+- Control de la correcta gestión de los residuos producidos. En particular, la gestión de los lixiviados recogidos en la
+plataforma y almacenados en la balsa.
+- Control de las medidas para evitar y gestionar, en su caso, posibles derrames y vertidos de sustancias peligrosas
+de la maquinaria empleada.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo (Ayuntamiento
+de Herencia):
+1) Antes del inicio de las obras:
+- Documentación para la obtención de las licencias y calificación urbanística indicadas por el Ayuntamiento de
+Herencia en su informe de 17-06-2026.
+- Del Servicio provincial de Medio Natural:
+* Resolución favorable para el cambio de uso de un terreno forestal en régimen general administrativo (https://
+www.jccm.es/sede/tramite/G88), en caso que se haya obtenido informe sobre dicha obligación en el trámite previo
+de Información sobre el carácter agrícola o forestal de un terreno (https://www.jccm.es/sede/tramite/L54).
+* Autorización de modificación de cubierta vegetal natural, en su caso.
+2) Antes del inicio de la actividad:
+- (*) Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- (*) Designación por parte del promotor de un responsable para el cumplimiento del Programa de Seguimiento y
+Vigilancia Ambiental del proyecto.
+- Certificado de impermeabilización de la plataforma de almacenamiento, así como del sistema de recogida y
+almacenamiento de los lixiviados (canales y balsa), suscrito por técnico competente.
+- Contratos con gestor autorizado para el tratamiento de residuos generados, incluidos los lixiviados almacenados
+en la balsa, en su caso.
+- Comunicación como actividad potencialmente contaminadora de la atmósfera (notificación grupo C
+https://www.jccm.es/sede/tramite/JYS).
+- Autorizaciones que correspondan del órgano competente en materia Sandach.
+3) Iniciada la actividad:
+- (**) Con frecuencia anual, antes del 1 de abril de cada año, y durante los primeros tres años desde el inicio
+de actividad, deberán presentarse los Informes correspondientes a los controles y actuaciones en aplicación
+del Programa de Seguimiento y Vigilancia Ambiental (PSVA) según las condiciones que figuran en la presente
+Resolución.
+- (*) Comunicación de cambio de titular, en su caso.
+El órgano sustantivo remitirá una copia de la documentación marcada con (*) al órgano ambiental (Servicio de
+Calidad Ambiental de Ciudad Real). El promotor presentará la documentación indicada con (**) ante el órgano
+sustantivo y ante el órgano ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Ciudad Real, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y
+las competencias de la Consejería de Desarrollo Sostenible, y modificaciones posteriores, y en el ejercicio de
+las atribuciones conferidas por la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por
+la que se delegan competencias en las delegaciones provinciales de la Consejería de Desarrollo Sostenible,
+y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el
+“Proyecto de planta de almacenamiento de estiércol en polígono 59 parcela 264 de Herencia (Ciudad Real)” (Exp.
+S478/2026/CR/00124), no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse
+que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales y de
+seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30032
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, y con el artículo 47.4 de la Ley 21/202013, de
+9 de diciembre, de evaluación ambiental (estatal). El promotor podrá solicitar prorroga de vigencia antes de que
+transcurra el plazo de la misma, la cual se podrá conceder, en su caso, por dos años adicionales, contados a partir
+de la finalización del plazo inicial de vigencia, para lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020.
+En el caso de producirse la caducidad, el promotor deberá iniciar nuevamente el procedimiento de evaluación de
+impacto ambiental simplificada del proyecto. De conformidad con el artículo 55.5 de la Ley 2/2020, el presente
+informe de impacto ambiental no será objeto de recurso alguno sin perjuicio de los que pudieran proceder en vía
+administrativa o judicial frente al acto futuro de autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Se adjunta anexo cartográfico con la situación del proyecto.
+Ciudad Real, 22 de julio de 2026
+El Delegado Provincial
+AGUSTÍN ESPINOSA ROMERO
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30033
+ANEXO GRÁFICO
+Figura 1
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30034
+Figura 2

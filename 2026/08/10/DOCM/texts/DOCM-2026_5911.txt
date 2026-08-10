@@ -1,0 +1,506 @@
+AÑO XLV Núm. 151 10 de agosto de 2026 30061
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que
+se formula informe de impacto ambiental del proyecto: Transformación en regadío para riego de cultivos
+leñosos (expediente: PRO-CR-24-1746), ubicado en el término municipal de Torre de Juan Abad, cuya
+promotora es doña Beatriz Vigil de Quiñones de Agustín. [2026/5911]
+La Ley 2/2020, de 9 de diciembre, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben
+ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o
+no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, grupo 1. Agricultura, silvicultura,
+acuicultura y ganadería. apartado c) Proyectos de gestión de recursos hídricos para la agricultura: 2º. Proyectos de
+transformación a regadío o de avenamiento de terrenos, cuando afecten a una superficie superior a 10 hectáreas.
+1.- Descripción del proyecto y condiciones propuestas por el promotor en el documento ambiental
+1.1.- Definición, características y ubicación del proyecto
+Según el documento ambiental presentado por la promotora, esta es titular de una concesión de aguas subterráneas,
+de referencia 3311/2018, para riego de 5,949 ha de cultivos leñosos en las parcelas 1 y 16 del polígono 87 del t.m. de
+Torre de Juan Abad. Ahora, la misma pretende ampliar la superficie de riego a 33,4534 ha para riego de los almendros
+y olivos existentes en esas mismas parcelas. Para ello se ha solicitado una modificación de características de la
+concesión anterior ante Confederación Hidrográfica del Guadiana, en aplicación del Real Decreto 35/2023, de 24 de
+enero, y en cuyo Anexo VI Disposiciones Normativas del Plan Hidrológico de la parte española de la Demarcación
+Hidrográfica Del Guadiana. Considerando que la explotación se ubica fuera de Masa de agua en riesgo y dicho Plan
+Hidrológico no cuantifica de forma diferenciada los recursos subterráneos disponibles fuera de las masas definidas
+ni establece asignación específica para el aprovechamiento de estos recursos. No obstante, de acuerdo con el art.
+27.3 de esa normativa, en zonas situadas fuera de las masas de agua subterránea, existe la posibilidad de otorgar
+en concesión recursos adicionales no cuantificados en el Plan, siempre que no se produzca afección a las masas de
+agua superficial ni a otros aprovechamientos preexistentes.
+La superficie total objeto de transformación a regadío es de 33,4551 ha (según Sigpac), sin incluir las 5,949 ha ya
+inscritas en la concesión 3311/2018. La situación inicial e inscrita originalmente:
+Ubicación de la captación Sup con derechos Ubicación de los derechos
+Nº expte. Cultivo
+t.m. Pol Parc (ha) Pol Parc Rec
+87 1 7
+3311/2018 Torre de Juan Abad 87 16 5,949 4 Almendro
+87 16
+8
+Y la situación final, después de la modificación de características de la concesión inscrita sería:
+Ubicación de las captaciones Sup con derechos Ubicación de los derechos
+Nº expte. Sup (ha) Cultivo
+Pol Parc (ha) Pol Parc Rec
+87 1 7 3,2597 Almendro
+87 16
+1* 20,330 Olivar
+3* 4,6165
+3311/2018 87 16 39,399
+87 16 4 1,6328
+Almendro
+7* 8,5086
+87 16
+8 1,0565
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30062
+Existen pequeñas discrepancias entre las superficies actuales del Sigpac y catastro. Para garantizar una cierta
+estabilidad durante el proceso de autorización de la concesión el promotor ha decidido escoger los datos actualizados
+por el Sigpac para la redacción del presente documento, y permitir descontar viales, construcciones, improductivos,
+elementos del paisaje, etc.
+Se ha solicitado la modificación de características de la concesión 3311/2018 y continuar con la captación inscrita y
+apertura de dos nuevas captaciones. Las instalaciones necesarias para la puesta en riego, la extracción de agua e
+impulsión se realizan utilizando electrobomba sumergida de la potencia suficiente para dar el servicio requerido. El
+grupo se dimensionará en función del caudal obtenido y de la profundidad final, con una potencia suficiente de forma
+que la extracción del gua se realice de la forma más económica posible.
+El control del agua extraída se hará mediante la instalación de un contador ubicado en la tubería de impulsión, lo
+más cerca posible de la toma, dentro de una arqueta protegida que permita la lectura directa desde el exterior.
+El abastecimiento eléctrico para el funcionamiento de las bombas se llevará a cabo mediante instalación soterrada
+propia de la finca, sin la necesidad de ejecución de edificaciones o casetas anexas.
+El sistema de riego por goteo constará de un cabezal de riego, tuberías de reparto y tuberías portagoteros,
+conduciendo los caudales detraídos de las captaciones y distribución del agua a los cultivos. Con el fin de optimizar
+el aprovechamiento del recurso se distribuirá mediante goteros, que recibirán el agua mediante una red de tuberías
+de PVC y PEBD.
+Los goteros son los emisores directos del agua, suelen evacuar entre 2 y 8 l/h, siendo los proyectados goteros de
+2,2 l/h de caudal y que será el adoptado en la presente instalación y en número de 3 por olivo y almendro, con una
+separación entre emisores de 1,25 m, enterrándose las líneas de riego.
+No se contempla la instalación e sistemas y líneas eléctricas para el suministro de energía ni construcción de
+edificios, casetas de obra, depósitos o cerramientos perimetrales, siendo necesario el movimiento de tierras en las
+operaciones de zanjeo del terreno y posterior relleno en la instalación de las tuberías generales de abastecimiento
+(red primaria y secundaria) que dotará a los ramales portagoteros.
+1.2.- Medidas preventivas, correctoras o compensatorias para la adecuada protección del medio ambiente
+- Realizar riegos cuando sea necesario como consecuencia de las condiciones climáticas, no utilizando el agua para
+otro fin que no sea el riego del cultivo establecido.
+- El consumo de agua se controlará mediante la instalación de un caudalímetro.
+- Inmediata reparación de las instalaciones en caso de producirse una fuga por deterioro o rotura.
+- Todos los residuos generados durante la actividad agraria derivada de productos fitosanitarios serán retirados en
+el momento de su generación y gestionados por gestor autorizado.
+- Con el fin de intentar mitigar el impacto atmosférico, se adquirirán equipos con un bajo nivel sonoro.
+- Realizar las labores propias de la actividad fuera del periodo de nidificación y cría de la fauna existente en la zona.
+1.3.- Principales alternativas estudiadas
+El proyecto contempla las siguientes alternativas:
+- Alternativa 0: no ejecución del proyecto, sin realizar la transformación en regadío. Por tanto, no ejecutar la obra
+supondría que, no sería posible realizar un riego de apoyo en determinadas épocas secas del año en las que los
+cultivos puedan sufrir estrés hídrico, como así viene siendo tradicionalmente. De continuarse la gestión de los
+cultivos sin riego es contraria a las pautas socioeconómicas que tiene actualmente la agricultura de la comarca,
+máxime cuando el promotor tiene iniciativa para hacer mejoras en la explotación familiar.
+- Alternativa 1: Se plantea la transformación en regadío de la superficie de leñosos propuesta. Los riegos
+proyectados en los recintos de leñosos serán localizados, pero de baja frecuencia. Serán únicamente riegos de
+apoyo y/o mantenimiento para permitir una adecuada actividad vegetativa, manteniendo un buen estado sanitario
+de la plantación y consiguiendo frutos más homogéneos y de mayor calidad.
+Las principales alternativas del sistema de riego son:
+1.1 Riego por gravedad: Consiste en aplicar agua en los surcos, a partir de una acequia regadora. La única adecuación
+que este sistema requiere es la nivelación de los surcos con una pendiente que permita que el agua avance. Este
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30063
+sistema lleva implícito el empleo de una gran mano de obra con el consiguiente aumento de presencia humana. Es
+un sistema de riego de bajo costo, pero igualmente su eficiencia es baja.
+1.2 Riego por aspersión: permite una dosificación adecuada del riego por lo que se disminuye el riesgo de
+percolación, su manejo no requiere gran mano de obra. Por otro lado, como potencial impacto se puede apuntar
+que las instalaciones son fijas y requieren movimientos de tierras en su instalación y los elementos de distribución
+del agua se encuentran presentes en el cultivo. Esto puede provocar un aumento de las enfermedades en las
+plantaciones por lo que agronómicamente puede provocar que aumente la necesidad de tratamientos fitosanitarios.
+1.3 Riego por goteo: es un sistema que funciona a presión para hacer circular el agua por tubos perforados dispuestos
+sobre el suelo y aplicar así las cantidades necesarias de agua al cultivo, humectándose únicamente el área bajo
+copa.
+Este sistema proporciona un riego uniforme y constante, que mejora la calidad del cultivo. Es ideal para el riego en
+zonas áridas, porque este sistema permite un uso más eficiente del agua.
+Las principales ventajas del riego por goteo son:
+·Elevada eficiencia.
+·Posibilidad de regar en todo tipo de terrenos sin que la topografía o características físicas del suelo ofrezcan un
+obstáculo mayor.
+·Aumento de producción: Se logran mejores rendimientos de los cultivos y en algunos casos reducción del periodo
+vegetativo.
+·Control de malezas y enfermedades.
+·Una mayor uniformidad del riego.
+Por todas las ventajas descritas, la alternativa elegida es riego por goteo.
+2.- Tramitación y consultas
+Con fecha 17-05-2024 tiene entrada en el Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo
+Sostenible de Ciudad Real, el documento ambiental del proyecto de referencia.
+Visto y analizado el documento ambiental, se inicia la fase de consultas prevista en la Ley 2/2020 a las siguientes
+administraciones públicas afectadas y personas interesadas, marcando con asterisco (*) los que han emitido
+respuesta:
+- (*)Delegación Provincial de Desarrollo Sostenible de Ciudad Real. Servicio de Medio Natural.
+- (*)Delegación Provincial de Desarrollo Sostenible de Ciudad Real. Unidad de Coordinación de Agentes
+Medioambientales.
+- (*)Delegación Provincial de Educación, Cultura y Deporte de Ciudad Real. Servicio de Cultura.
+- Consejería de Fomento. Agencia del Agua de Castilla-La Mancha.
+- (*)Confederación Hidrográfica del Guadiana.
+- (*)Ayuntamiento de Torre de Juan Abad (Ciudad Real).
+- Sociedad Española de Ornitología (S.E.O BirdLife).
+- Ecologistas en Acción de Ciudad Real.
+- WWF/Adena
+- Dirección General de Economía Circular de la Consejería de Desarrollo Sostenible. Servicio de Prevención e
+Impacto Ambiental.
+Las observaciones más significativas de estos organismos son:
+El Servicio de Medio Natural ha informado que el proyecto no se ubica en espacios naturales protegidos, ni en Red
+Natura 2000, ni en Reserva de la biosfera de la Mancha Húmeda. Pero sí se ubica sobre Área de dispersión del
+Águila imperial ibérica y Águila perdicera, así como en zona de importancia para Águila imperial, Buitre negro y Lince
+ibérico, sin que el riego suponga afección a priori.
+La parcela 16 es colindante al sur con la vía pecuaria “Cordel del Pozo de la Serna” deslindado y amojonado en
+este tramo, con una anchura legal de 37,61 metros. La plantación de leñosos más el espacio para la maniobra de la
+maquinaria no deben afectar al dominio público pecuario.
+La Confederación Hidrográfica del Guadiana informa que el promotor es titular de una concesión de aguas
+subterráneas, expediente 3311/2018, para riego de 5,949 ha cultivos leñosos en las parcelas 1 y 16 del polígono 87
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30064
+del t.m. Torre de Juan Abad (Ciudad Real), a partir de una captación de aguas subterráneas. Consta, asimismo, que,
+con fecha 29/10/2018 la promotora solicitó modificar las características de la concesión anterior para aumentar la
+superficie de riego en 33,45 ha de cultivos leñosos y realizar dos nuevas captaciones.
+Estas y otras consideraciones ambientales determinantes realizadas en esta fase de consultas forman parte de la
+presente Resolución bien incluyéndose como medidas correctoras o bien respecto de las autorizaciones necesarias
+previas a la ejecución del proyecto, en su caso.
+3. Análisis según los criterios del anexo III
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis para determinar la necesidad o no de sometimiento del proyecto
+a evaluación de impacto ambiental, según los criterios recogidos en el anexo III de la Ley 2/2020 de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha.
+- Características del proyecto
+El proyecto implica la transformación en regadío de 33,45 ha ubicadas en el polígono 87 / parcela 16 / recintos 1, 3,
+7 del t.m. de Torre de Juan Abad para riego de leñosos.
+- Ubicación del proyecto
+No consta la afección a áreas y recursos naturales o ambientales protegidos. Pero sí se ubica sobre Área de
+dispersión del Águila imperial ibérica y Águila perdicera, así como en zona de importancia para Águila imperial,
+Buitre negro y Lince ibérico.
+Parte de la explotación linda con la vía pecuaria “Cordel del Pozo de la Serna”.
+Toda la superficie de riego se ubica fuera de la masa de agua subterránea definidas en el Apéndice 4 de la
+Disposiciones Normativas del Plan.
+Los terrenos se localizan dentro de la zona vulnerable a la contaminación por nitratos denominada “Mancha
+Occidental”, designada como tal por Orden de 21/05/2009, de la Consejería de Industria, Energía y Medio Ambiente.
+- Características del potencial impacto
+El impacto de transformación de secano a regadío previsiblemente podría afectar a la fauna presente en la zona del
+proyecto. No obstante, la aplicación de las medidas preventivas y correctoras recogidas en el documento ambiental
+y la presente resolución minimizarán las posibles afecciones a la fauna.
+El cultivo de leñosos en la zona afectada por el proyecto ha sido tradicionalmente un cultivo de secano y no
+ha necesitado aporte de agua, manteniendo un grado de producción aceptable. Por ello, la transformación en
+regadío se considera una adaptación a las exigencias climáticas y sociales actuales que implicarían aumento en la
+rentabilidad de los productos en detrimento de la naturalidad del entorno por el consumo de recursos naturales y del
+aumento de fertilizantes y residuos generados. Se deberá hacer un uso responsable de estos productos para evitar
+contaminación y eutrofización de las aguas subterráneas.
+El mayor impacto que producen este tipo de transformaciones a regadío es la reducción del hábitat de determinadas
+especies, el aumento del uso y aplicación de productos fitosanitarios y nitrogenados, con el consiguiente aumento
+del riesgo de contaminación de los acuíferos, afección a la biodiversidad y el consumo de agua subterránea
+para satisfacer los cultivos. En ningún momento se deberá ver afectado el abastecimiento a población. El efecto
+acumulativo sobre el sistema acuífero del que se extraerán, deberá ser controlado por la Confederación Hidrográfica
+del Guadiana. Para minimizar los impactos al acuífero deberán tenerse en cuenta las consideraciones de la
+Confederación Hidrográfica del Guadiana, que se exponen en el apartado siguiente. Esta zona empieza a contar con
+numerosas explotaciones de este tipo, por lo que el efecto acumulativo es indudable, suponiendo una modificación
+de las especies vegetales, así como otros riesgos específicos, como por ejemplo el de contaminación del acuífero
+por la intensificación del abonado y el aumento del uso de productos fitosanitarios. Debido a ello, se deberá realizar
+un manejo correcto de fertilizantes y pesticidas, para evitar la contaminación de suelos y agua derivada de estos
+productos y así minimizar el impacto producido. En cualquier caso, la actividad depende de la disponibilidad de los
+recursos hídricos cuya competencia corresponde a la Confederación Hidrográfica del Guadiana.
+En cuanto a los residuos, el proyecto provocará un aumento de envases y residuos que, en el caso de autorizarse,
+serán gestionados conforme a la normativa vigente entregándose a un gestor autorizado. De acuerdo con lo
+anteriormente expuesto, es posible conseguir una reducción del impacto ambiental que haga compatible el
+desarrollo del proyecto con los valores naturales del entorno. Para ello se deberán aplicar y, tener en cuenta las
+medidas siguientes.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30065
+4.- Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto
+a) Recursos naturales del área
+El proyecto se encuentra fuera de la Red Regional de Áreas Protegidas de Castilla-La Mancha. Tampoco existe
+afección a hábitats ni elementos geomorfológicos de protección especial ni montes públicos. Pero sí se ubica sobre
+Área de dispersión del Águila imperial ibérica y Águila perdicera, así como en zona de importancia para Águila
+imperial, Buitre negro y Lince ibérico.
+La explotación se ubica sobre la zona de dispersión del Águila imperial ibérica (Aquila adalberti), y Águila
+Perdicera (Aquila fasciata), especies catalogadas como “en peligro de extinción”, en el Catálogo Regional de
+Especies Amenazadas de Castilla-La Mancha (Decreto 33/1998, de 5 de mayo) y como “en peligro de extinción”
+y “vulnerable” respectivamente en el Catálogo Español de Especies Amenazadas (Real Decreto 139/2011, de 4
+de febrero); y el Decreto 275/2003, de 09/09/2003, por el que se aprueba los Planes de Recuperación del Águila
+imperial ibérica (…) y se declaran zonas sensibles las áreas críticas para la supervivencia de estas especies en
+Castilla-La Mancha; y además, el Decreto 76/2016, de 13/12/2016, por el que se aprueba el Plan de Recuperación
+del Águila Perdicera y se declaran zonas sensibles las áreas críticas para la supervivencia de esta especie en
+Castilla-La Mancha.
+En caso de operaciones que impliquen afección sobre vegetación natural se requerirá autorización previa de
+Delegación Provincial de Desarrollo Sostenible de Ciudad Real, conforme con la normativa vigente en materia de
+montes.
+Se prohíbe la alteración significativa o destrucción de las lindes, setos, superficies ocupadas por vegetación natural,
+árboles, arbustos o bosquetes de especies forestales, y demás elementos estructurales o característicos del paisaje
+agrario.
+El acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas, utilizando siempre la traza ya
+existente.
+Las zonas de acopio de materiales y demás instalaciones auxiliares se localizarán preferentemente en lugares
+desprovistos de vegetación natural.
+Durante la realización de las obras, y en la fase de explotación, se tendrá en cuenta la normativa de prevención
+de incendios forestales en vigor, y en particular las medidas encaminadas a la prevención de incendios forestales
+durante la época de peligro alto establecidas en la Orden 76/2026, de 26 de mayo, por la que se regulan medidas
+preventivas, usos del fuego y actividades con riesgo de incendio forestal en el medio natural, terrenos forestales y
+su zona de influencia en Castilla-La Mancha.
+Se recuerda que sería necesario que se estudien minuciosamente las condiciones particulares de cada
+aprovechamiento para que se valore adecuadamente su compatibilidad con la preservación y mejora de los acuíferos,
+siempre teniendo en consideración el principio de cautela, ante la duda razonable de que puedan causar de manera
+acumulativa todos los pozos en su conjunto, un efecto negativo de difícil corrección.
+Se recomienda integrar paisajísticamente las infraestructuras necesarias para el bombeo e instalaciones auxiliares,
+mediante el completo acabado de sus caras vistas, el uso de materiales y tonos acordes con el entorno, etc...
+Los tratamientos fitosanitarios deberán realizarse con productos de bajo efecto residual. En cualquier caso, se
+empleará la dosis mínima recomendada por el fabricante. Alrededor de cada encina u otra especie de árbol de
+especies autóctonas presente en el interior o borde del cultivo, se respetará una zona de protección coincidente
+con la proyección de la copa sobre el terreno y un metro adicional alrededor de ella en la que no podrán utilizarse
+productos biocidas ni arar la tierra.
+Los motores de extracción de agua se deberán dotar del sistema que minimicen el ruido a niveles que no molesten
+a la fauna presente en la zona. En este sentido, se sugiere la conveniencia de valorar la utilización de bombas
+eléctricas autosustentables, como las alimentadas por placas fotovoltaicas, con objeto se minimizar el ruido y
+mejorar la sostenibilidad ambiental.
+b) Protección del sistema hidrológico e hidrogeológico
+Respecto a cauces, zona de servidumbre y zona de policía, no se prevé afección física alguna a cauces que
+constituyan el Dominio Público Hidráulico (DPH) del Estado, definido en el artículo 2 del Texto Refundido de la Ley
+de Aguas, aprobado por el Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el Texto Refundido
+de la Ley de Aguas (TRLA), ni a las zonas de servidumbre y policía.
+Respecto al consumo de agua de la concesión en trámite, el promotor es titular de una concesión de aguas
+subterráneas, expediente 3311/2018, para riego de 5,949 ha cultivos leñosos en las parcelas 1 y 16 del polígono 87,
+t.m. Torre de Juan Abad (Ciudad Real), a partir de una captación de aguas subterráneas. Consta, asimismo, que,
+con fecha 29/10/2018 la promotora solicitó modificar las características de la concesión anterior para aumentar la
+superficie de riego en 33,45 ha de cultivos leñosos y realizar dos nuevas captaciones.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30066
+La superficie de riego solicitada será:
+Ubicación de las captaciones Ubicación de los derechos
+Sup con derechos (ha) Cultivo
+Pol Parc Pol Parc Rec
+87 1 7 Almendro
+87 16
+1 Olivar
+3
+87 16 39,399
+87 16 4
+Almendro
+7
+87 16
+8
+La captación del recurso se sitúa dentro del Sistema de Explotación Oriental-Alto Guadiana, definido en el art. 2 y
+el Apéndice 2 de las Disposiciones Normativas del vigente Plan Hidrológico de la parte española de la Demarcación
+Hidrográfica del Guadiana (DHGn), aprobado por Real Decreto 35/2023 de 24 de enero (BOE nº 35 de 10/02/2023),
+y fuera de las MASb definidas en el Apéndice 4 de la Disposiciones Normativas del Plan.
+El Plan Hidrológico no cuantifica de forma diferenciada los recursos subterráneos disponibles fuera de las masas
+definidas ni establece asignación específica para el aprovechamiento de estos recursos. No obstante, de acuerdo
+con el art. 27.3 de su Normativa, en zonas situadas fuera de las masas de agua subterránea, existe la posibilidad de
+otorgar en concesión recursos adicionales no cuantificados en el Plan, siempre que no se produzca afección a las
+masas de agua superficial ni a otros aprovechamientos preexistentes.
+En cualquier caso, como ya se ha expuesto, se estaría a lo dispuesto en la correspondiente resolución sobre la
+tramitación de la solicitud de modificación de características de concesión (expte. 3311/2018).
+El cambio a regadío no ha de suponer un incremento significativo en el total de caudal detraído, y la consecuente
+afección al medio natural, desde el momento en que, anualmente, no se sobrepasará la cantidad de hectáreas en
+regadío ni los volúmenes que figuran en las inscripciones de agua privadas preexistentes. Todo ello, controlado por
+el organismo de cuenca correspondiente.
+En cualquier caso, será la CHG la que determinará la sostenibilidad del proyecto evaluando la disponibilidad del
+recurso, los niveles piezométricos, la afección a la hidrología superficial y la capacidad de recarga, así como la
+aplicación del Plan Hidrológico de la Demarcación Hidrográfica y del Plan Especial del Alto Guadiana.
+Se presentará, al inicio de la actividad, ante la Agencia del Agua, título otorgado por el organismo de cuenca
+correspondiente para el aprovechamiento de la captación existente y de las dos nuevas captaciones previstas.
+Se tendrá en cuenta el impacto que la modernización de los regadíos pueda tener en el consumo global de las
+masas de agua subterráneas y en la calidad de la misma. Considerando que con los regadíos actuales el retorno
+de agua a ríos y acuíferos se reduce sustancialmente, lo que implica que las masas de agua vayan mermando junto
+con la reducción de aportaciones que soporta por el cambio climático. La mayor eficiencia en el uso del agua de
+la modernización de regadíos suele conducir al final a un mayor consumo, en lugar de un ahorro, hecho que debe
+valorar en este tipo de proyectos el Organismo de cuenca.
+Para minimizar, prevenir y controlar posibles impactos sobre la abundancia de recursos hídricos, se utilizarán
+sistemas de medición de los niveles (o volúmenes) de agua captados que deberán estar correctamente instalados,
+junto con un sistema de registro, almacenamiento y transmisión electrónica de la información generada, todo ello
+convenientemente precintado y con un mantenimiento adecuado, conforme a lo dispuesto en la Orden TED/1191/2024,
+de 24 de octubre, por la que se regulan los sistemas electrónicos de control de los volúmenes de agua utilizados por
+los aprovechamientos de agua, los retornos y los vertidos al dominio público hidráulico.
+Considerando que la parcela se encuentra dentro de la zona declarada como vulnerable a la contaminación por
+nitratos de origen agrario “Mancha Occidental”, deberá cumplirse lo establecido en el Programa de Actuación
+vigente aprobado por la Orden de 07/02/2011, de la Consejería de Agricultura y Medio Ambiente. En todo caso,
+es recomendable la aplicación del Manual de Buenas Prácticas Agrarias. También deberá cumplirse la normativa
+vigente en materia de productos fertilizantes, en este caso, el Real Decreto 506/2013, de 28 de junio, sobre productos
+fertilizantes.
+La actuación no conlleva vertidos al DPH del estado, salvo los correspondientes retornos de riego.
+Conforme a lo dispuesto en el artículo 253 ter del Reglamento del DPH, no tendrán la consideración de vertido de
+agua residual, tal como se define en el artículo 1 bis.a) de dicho Reglamento, los retornos de agua procedentes del
+regadío. Será objeto de regulación específica la protección de las aguas frente a la contaminación generada por la
+actividad agraria, sin perjuicio de aplicar el régimen sancionador del TRLA cuando dicha actividad sea causante de
+contaminación en las aguas continentales.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30067
+El organismo de cuenca, podrá establecer, a la vista de la incidencia de los retornos de regadío en la consecución
+de los objetivos ambientales de las masas de agua, requisitos complementarios a los sistemas de control efectivo
+de los caudales de agua utilizados y retornados al DPH, que se integrarán, en su caso, en un plan de vigilancia
+específico para cada aprovechamiento. Dicho plan de vigilancia tendrá por objeto el control de los caudales de
+agua retornados y su calidad a partir de la realización de aforos directos o de la toma de muestras en las épocas
+que se considere representativas del aprovechamiento, todo ello certificado por una entidad colaboradora de la
+administración hidráulica.
+Los titulares del derecho al uso privativo del agua para riego deberán elaborar el plan cuando así lo prevea el
+organismo de cuenca, de acuerdo con las indicaciones concretas que éste les notifique, así como adoptar las medidas
+necesarias para su puesta en práctica, comunicando cualquier incidencia que pudiera suceder relacionada con el
+objeto de control. Asimismo, las autoridades agrarias de las comunidades autónomas podrán imponer requisitos
+de control en materia de enriquecimiento por nutrientes y plaguicidas de las aguas tras su aprovechamiento, que
+podrán incluirse en dicho plan.
+Según los términos utilizados habitualmente en los informes emitidos por la Agencia del Agua para proyectos
+equiparables, deberá tenerse en cuenta para el proyecto definitivo que se presente para la obtención de las
+autorizaciones pertinentes que:
+- Sobre la apertura de zanjas para la instalación de tuberías, deberá evitarse, en todo momento, alcanzar el nivel
+freático.
+- Dada la posible afección a los cauces naturales de escorrentía, se describirán detalladamente las soluciones
+técnicas adoptadas para paliar dicha afección, justificando su efectividad y garantizando la no producción de futuras
+inundaciones.
+c) Gestión de residuos
+Todos los residuos generados, tanto durante la fase de instalación del regadío como durante la fase de explotación,
+estarán sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía
+circular, y del Decreto 35/2024, de 25 de julio, por el que se aprueba el Plan de Prevención y Gestión de Residuos
+de Castilla-La Mancha 2023-2030.
+Durante la fase de explotación, los residuos procedentes de tratamientos fitosanitarios deberán gestionarse a través
+de gestor autorizado en los términos que establece el Real Decreto 1416/2001, de 14 de diciembre, sobre Envases
+de Productos Fitosanitarios, en particular sobre la obligación de entregar los envases vacíos de fitosanitarios a un
+sistema integrado de gestión y cumplir lo referido en el Real Decreto 1311/2012, de 14 de septiembre, por el que
+se establece el marco de actuación para conseguir un uso sostenible de los productos fitosanitarios, en especial en
+lo relativo a la protección del medio acuático y el agua potable y la manipulación de los productos fitosanitarios y
+restos.
+Además, se estará a lo dispuesto en la Ley 43/2002, de 20 de noviembre de 2002, de Sanidad Vegetal, que
+recoge que se deben cumplir las disposiciones relativas a la eliminación de los envases vacíos de acuerdo con las
+condiciones establecidas y, en todo caso, con aquellas que figuren en sus etiquetas.
+El almacenamiento de sustancias que conlleven riesgos de vertidos accidentales sólo se hará sobre suelo que esté
+convenientemente impermeabilizado.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, o en su
+defecto, el promotor comunicará inicio de actividad para su inscripción en el Registro de Producción y Gestión de
+Residuos de Castilla-La Mancha (pudiéndose realizar a través de la Oficina Virtual de la Consejería de Desarrollo
+Sostenible). En caso de cualquier incidencia como derrame accidental de combustibles o lubricantes, se actuará
+de forma que se restaure el suelo afectado, extrayendo la parte de suelo contaminado que deberá ser recogido y
+transportado por gestor autorizado para su posterior tratamiento. Tampoco deberán realizarse vertidos de materiales
+de obra, residuos sólidos urbanos, residuos no inertizados o de dudosa caracterización, o cualquier otro elemento
+en el entorno de actuación. Los residuos generados en la fase de ejecución se adecuarán a lo establecido en la Ley
+7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+d) Protección al patrimonio y dominio público
+Según el informe emitido por el Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes
+de Ciudad Real, el proyecto no afecta a ningún Ámbito de Protección ni de Prevención Arqueológica del municipio
+de Socuéllamos según su Inventario de Patrimonio Cultural, por lo que la ejecución del proyecto resulta compatible
+con la preservación del Patrimonio Cultural del entorno, y en consecuencia se exime al promotor del proyecto para
+realizar un Estudio de Valoración de Afecciones al Patrimonio Histórico según determina el artículo 48 de la Ley
+4/2013, de 16 de mayo, del Patrimonio Cultural de Castilla-La Mancha.
+No obstante lo anterior, en el caso de aparición de restos arqueológicos y/o paleontológicos, será de aplicación lo
+dispuesto en el artículo 52 de la Ley 4/2013, debiendo paralizar las obras y comunicar el hallazgo en un plazo no
+superior a 48 horas a la Administración o a los Cuerpos de Seguridad del Estado. El incumplimiento de este deber
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30068
+de comunicación es causa de infracción administrativa sancionable conforme a lo dispuesto en los artículos 72 y
+siguientes de la Ley 4/2013.
+La instalación respetará todos los caminos de uso público, vías pecuarias y otras servidumbres que existan, que
+serán transitables de acuerdo con sus normas específicas y el Código Civil.
+Parte de la explotación es colindante al sur con la vía pecuaria “Cordel del Pozo de la Serna”, deslindada y
+amojonada en este tramo, con anchura legal de 37,61 metros, que deberá ser respetada por ser bien de dominio
+público. La plantación de leñosos más el espacio para la maniobra de la maquinaria no deben afectar al dominio
+público pecuario. En el caso de que el desarrollo del proyecto pudiera invadir esta vía pecuaria, deberá solicitar la
+autorización correspondiente dirigida a la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, Sección
+de Vías Pecuarias, conforme a lo dispuesto en la ley 9/2003, de 20 de marzo, de Vías Pecuarias de Castilla-La
+Mancha. La plantación de leñosos más el espacio para la maniobra de la maquinaria no deben afectar al dominio
+público pecuario.
+Existen algunos caminos públicos colindantes con el perímetro de riego, por lo que el promotor del proyecto deberá
+garantizar la integridad física y transitabilidad de la totalidad de los caminos potencialmente afectados, respetando
+en todo momento lo dispuesto en las Ordenanzas municipales de Torre de Juan Abad.
+e) Plan de desmantelamiento
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos
+de material, residuos o tierras sobrantes a gestor autorizado adecuados a la naturaleza de cada residuo y se
+restaurarán los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado de limpieza.
+El desmontaje deberá realizarse en el plazo máximo de un año tras la finalización de la actividad y deberá ponerse
+en conocimiento de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, para dar por finalizado el
+expediente. Asimismo, en caso de que la actividad sea traspasada, también se deberá poner en conocimiento de
+esta Delegación Provincial.
+5.- Especificaciones para el seguimiento y vigilancia ambiental del proyecto
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación de Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo (Confederación Hidrográfica del Guadiana y Delegación Provincial de Desarrollo
+Sostenible de Ciudad Real) el seguimiento del cumplimiento de lo establecido en la presente resolución, pudiendo
+el órgano ambiental recabar información al respecto y realizar las comprobaciones que considere necesarias
+para garantizar la observancia del condicionado del informe de impacto ambiental. Asimismo, podrán modificarse
+las condiciones del proyecto o de esta Resolución si se comprueba que surgen efectos perjudiciales para el
+medioambiente no previstos.
+Con el fin de garantizar el cumplimiento de las medidas descritas en el apartado anterior (Cuarto) se considera
+necesario nombrar a un responsable del seguimiento y vigilancia de las actividades inherentes a las actuaciones
+previstas, que se notificará expresamente al órgano sustantivo y al ambiental.
+Para ello, el promotor deberá formalizar un programa de vigilancia y seguimiento ambiental en el que figuren las
+actuaciones y mediciones que se realicen para la observación de las medidas impuestas, así como la documentación
+necesaria. Las anotaciones constarán por escrito en forma de actas, lecturas, estadillos o en archivos digitales de
+fácil lectura y comprensión, de tal manera que permitan comprobar su correcta ejecución y el respeto de los trabajos
+a las condiciones establecidas. El seguimiento y vigilancia se basará especialmente en los siguientes puntos:
+- Control de la obtención de la pertinente autorización de la Confederación Hidrográfica del Guadiana para la
+concesión en trámite; así como del cumplimiento de las condiciones que en ella se establezcan.
+- Información sobre la presencia de especies protegidas que pudieran ser molestadas durante las obras.
+- Control de la superficie de riego, y de los volúmenes de agua extraída.
+- Control de no afección a la vía pecuaria “Cordel del Pozo de la Serna”.
+- Control de la zona de protección de cada encina u otra especie de árbol de especies autóctonas presente en la
+zona de actuación.
+- Control del estado de equipos de riego en parcelas y elementos accesibles de las redes de riego, reparando
+aquellos que se encuentren en mal estado o por los que se produzcan pérdidas de agua.
+- Control de la correcta gestión de los residuos producidos.
+- Control sobre la aplicación del programa de actuación en zonas vulnerables a la contaminación por nitratos.
+- Control sobre la presentación ante la Agencia del Agua de título otorgado por el organismo de cuenca correspondiente
+para el aprovechamiento de la captación existente y de las dos nuevas proyectadas.
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30069
+- Control de la correcta gestión de los envases de productos fitosanitarios y de los restos de plaguicidas en suelos
+y aguas subterráneas.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Control de las condiciones impuestas en el apartado cuarto, con respecto a las medidas preventivas, correctoras o
+compensatorias para la integración ambiental del proyecto.
+6. Documentación adicional
+La documentación de que deberá disponer el promotor, previo al inicio de la actividad, es la siguiente:
+- Programa de seguimiento y/o vigilancia ambiental.
+- Autorización de la Confederación Hidrográfica del Guadiana para la concesión de aprovechamiento de aguas.
+- Autorización del ayuntamiento de Torre de Juan Abad para el inicio y ejecución de las obras, en su caso.
+- En caso de afección a: vegetación, fauna, etc. deberán contar con la preceptiva autorización de la Delegación
+Provincial de Desarrollo Sostenible de Ciudad Real, conforme con la normativa vigente en materia de montes y
+Conservación de la Naturaleza.
+7. Valoración final
+Como consecuencia del análisis realizado, esta Delegación Provincial de Desarrollo Sostenible de Ciudad Real, en
+virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la
+Consejería de Desarrollo Sostenible; en el ejercicio de las atribuciones conferidas por la Resolución de 24/05/2024,
+de la Dirección General de Calidad Ambiental, por la que se delegan competencias en las delegaciones provinciales
+de la Consejería de Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha, resuelve que el proyecto de referencia no necesita someterse a una Evaluación de Impacto
+Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan
+las medidas ambientales y de seguimiento que figuran en la documentación presentada por el promotor y los
+requisitos ambientales que se desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia/), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente informe de impacto ambiental, de carácter preceptivo y determinante según la Ley 2/2020, art. 4.3,
+perderá su vigencia y cesará en la producción de los efectos que le son propios si, una vez publicado en el Diario
+Oficial de Castilla-La Mancha, no se hubiera comenzado la ejecución del proyecto o actividad en el plazo máximo
+de cuatro años desde su publicación, salvo que se acuerde la prórroga de su vigencia en los términos previstos en
+el artículo 55 de la ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y su Disposición
+transitoria única 5. En el caso de perder su vigencia, el promotor deberá iniciar nuevamente el procedimiento de
+evaluación de impacto ambiental simplificada del proyecto. En defecto de regulación específica, se entenderá por
+inicio de la ejecución del proyecto cuando, una vez obtenidas todas las autorizaciones que sean exigibles, hayan
+comenzado materialmente las obras o el montaje de las instalaciones necesarias para la ejecución del proyecto o
+actividad y así conste a la Administración. A los efectos previstos en este apartado, el promotor de cualquier proyecto
+o actividad sometido a evaluación de impacto ambiental deberá comunicar al órgano ambiental la fecha de comienzo
+de la ejecución de dicho proyecto o actividad. El promotor podrá solicitar la prórroga de la vigencia del informe de
+impacto ambiental antes de que transcurra el plazo de cuatro años previsto en el artículo 54.4. La solicitud formulada
+por el promotor suspenderá este plazo (Ley 2/2020, art. 55.1).
+Este informe de impacto ambiental no será objeto de recurso alguno, sin perjuicio de los que pudieran proceder en
+vía administrativa o judicial frente al futuro acto de autorización del proyecto, de conformidad con el artículo 54.5 de
+la Ley 2/2020, el presente informe de impacto ambiental no será objeto de recurso alguno, sin perjuicio de los que
+pudieran proceder en vía administrativa o judicial frente al acto futuro de autorización del proyecto, en su caso.
+Cualquier cambio o ampliación del proyecto evaluado será objeto de consulta ambiental sobre la necesidad o no de
+nuevo procedimiento de evaluación de impacto ambiental.
+De las inspecciones llevadas a cabo por el órgano sustantivo o por el órgano ambiental, o si se comprueba
+que surgen efectos perjudiciales para el medio ambiente no previstos, podrán derivarse modificaciones de las
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30070
+actuaciones y condiciones previstas, en función de una mejor consecución de los objetivos de esta Resolución.
+Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos administrativos.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo más breve posible,
+y en todo caso antes de los quince días hábiles desde que adopte la resolución del procedimiento de autorización
+del proyecto, en su caso, remitirá al Diario Oficial de Castilla-La Mancha, para su publicación, un extracto del
+contenido de dicha decisión. Asimismo, publicará en su sede electrónica el contenido de esta decisión sobre la
+autorización o denegación del proyecto y las condiciones que eventualmente la acompañen, los principales motivos
+y consideraciones en los que se basa la decisión, incluida la información recabada mediante las consultas a las
+Administraciones públicas afectadas y a las personas interesadas y cómo esa información se ha incorporado o
+considerado, y una referencia al Diario Oficial de Castilla-La Mancha en el que se haya publicado este informe de
+impacto ambiental.
+Este Informe no exime al promotor de contar con el resto de autorizaciones administrativas de otros organismos
+oficiales que fuesen necesarias de acuerdo con la legislación sectorial.
+Ciudad Real, 22 de julio de 2026
+El Delegado Provincial
+AGUSTÍN ESPINOSA ROMERO
+
+AÑO XLV Núm. 151 10 de agosto de 2026 30071
+ANEXO CARTOGRÁFICO
