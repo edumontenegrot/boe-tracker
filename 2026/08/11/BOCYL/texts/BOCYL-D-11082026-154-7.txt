@@ -1,0 +1,892 @@
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 69
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Valladolid
+RESOLUCIÓN de 4 de agosto de 2026, de la Delegación Territorial de Valladolid,
+por la que se hace público el informe de impacto ambiental del proyecto de instalación
+solar fotovoltaica «Chenla Solar» e instalaciones de evacuación para acceso a la red de
+distribución, en el término municipal de Ciguñuela (Valladolid), promovido por «Chenla
+Investments». Expte.: EIA/VA/2026/032.
+La Delegación Territorial, es el órgano administrativo de medio ambiente competente
+para ejercer en el ámbito de la Comunidad de Castilla y León, las funciones fijadas en
+el artículo 11.2 de la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, en virtud
+del artículo 52.2.a) del Decreto Legislativo 1/2015, de 12 de noviembre, por el que se
+aprueba el texto refundido de la Ley de Prevención Ambiental de Castilla y León.
+El artículo 7.2 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental,
+establece que serán objeto de una evaluación de impacto ambiental simplificada, entre
+otros, los proyectos comprendidos en el Anexo II. El proyecto se incluye dentro del Anexo II,
+Grupo 4, apartado j) «Instalaciones para la producción de energía eléctrica a partir de la
+energía solar no incluidos en el anexo I, que ocupen una superficie superior a 5 ha.»
+Conforme establece el artículo 47 de la ley 21/2013, de 9 de diciembre, de evaluación
+ambiental, el órgano ambiental formulará el informe de impacto ambiental, que podrá
+determinar de forma motivada, de acuerdo con los criterios del anexo III, si dicho proyecto
+debe someterse a una evaluación de impacto ambiental ordinaria o, por el contrario, no
+tiene efectos adversos significativos sobre el medio ambiente, en los términos establecidos
+en el correspondiente informe de impacto ambiental.
+1. ANTECEDENTES.
+En el marco del proceso de evaluación de impacto ambiental simplificada del proyecto
+referido en el encabezamiento del presente informe, con fecha 23 de diciembre de 2025
+tiene entrada en Territorial de Medio Ambiente de Valladolid,
+2. OBJETO LOCALIZACIÓN Y DESCRIPCIÓN DEL PROYECTO.
+La versión evaluada del proyecto plantea la construcción de la instalación solar
+fotovoltaica «Chenla Solar», de 3,2 MW, e instalaciones de evacuación para acceso a
+red de distribución en Ciguñuela (Valladolid).
+La planta solar fotovoltaica (PSFV) se ubica en la parcela 147 del polígono 3 de
+Ciguñuela, Valladolid, con referencia catastral 47052A003001470000ML.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 70
+La superficie de la parcela en la que se ubica la planta solar es de 6,63 ha, siendo la
+superficie ocupada por la instalación de 6,14 ha.
+La instalación generadora eléctrica proyectada tendrá una capacidad de acceso de
+3.200 kW y está compuesta por 5.992 módulos modelo TSM-DEG21C.20 de 700 Wp,
+con una potencia pico de 4.194,4 kWp. Estos módulos se conectarán en series de 28
+unidades cada una.
+Se instalarán diez inversores modelo Sungrosw SG350HX de 352 kWn de potencia,
+lo que supone un total de 3.520 kW. La energía generada se evacuará hasta el centro de
+transformación (CT), que contará con un transformador de 4.000 kVA de potencia y una
+relación de transformación 13,2/0,8 kV.
+La energía generada en la PSFV se evacuará mediante una línea subterránea de
+13,2 kV y 12,364 km desde el nuevo centro de transformación de Chenla Solar hasta el
+centro de seccionamiento designado de i-DE, en el término municipal de Valladolid. Para
+ello se construirá una nueva canalización enterrada en una zanja con una profundidad y
+anchura mínimas de 0,6 m y 0,5 m respectivamente.
+Módulos TSM-NEG21C.20 de 700Wp 5.992 ud x 700= 4.1994,4 kWp
+Estructura Seguidor con disposición 2V14 214 ud
+Inversor Sungrow SG350HX de 352 kW 10 ud x 352 kW
+Potencia modular (o pico) 4.1994,4 kWp
+Potencia total conjunto de inversores 3.520 kW
+Potencia de la instalación (según R.D. 413/2014) 3.520 kW
+Capacidad de acceso a red 3.520 kW
+Ratio potencia modular / Capacidad de acceso a red 1,311
+El acceso a las instalaciones se realizará por caminos y carreteras existentes.
+Además, dentro de la planta fotovoltaica, se diseñarán una serie de caminos para dar
+acceso hasta las estructuras. Los caminos perimetrales se diseñarán con un ancho de
+4 m y el firme será una capa de zahorra de 20 cm y una mejora de 20 cm de suelo.
+El cerramiento perimetral de la PSFV se realizará con malla tipo cinegética y no
+irá anclado al suelo. Los postes serán de madera hincados directamente. La altura del
+cerramiento no será superior a los 2 m y se deberá dejar, al menos cada 50 m, una
+zona libre de malla de 30x30 cm de la parte de abajo del vallado, que permita la salida y
+entrada de animales.
+Se plantarán especies arbóreas autóctonas por la parte del exterior del perímetro del
+vallado para su naturalización.
+3. DOCUMENTO AMBIENTAL.
+Se redacta el Documento Ambiental como parte del trámite de Evaluación de Impacto
+Ambiental Simplificada del Proyecto de ejecución de la Instalación solar fotovoltaica
+«Chenla Solar», e instalaciones de evacuación para acceso a red de distribución en
+Ciguñuela (Valladolid).
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 71
+En el documento ambiental conforme a lo establecido en el artículo 45.1.c) de la
+Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental en el presente apartado se
+desarrolla una exposición de las principales alternativas estudiadas, incluida la alternativa
+cero, y una justificación de las principales razones de la solución adoptada, teniendo en
+cuenta los efectos ambientales.
+• Alternativa 0 (no ejecutar el proyecto). Consiste en mantener la situación actual
+y no construir la planta fotovoltaica. Se descarta porque supondría perder una
+capacidad de generación renovable de 3,2 MW, reduciendo la contribución a
+los objetivos del PNIEC y a la disminución de emisiones de gases de efecto
+invernadero.
+• Alternativa tecnológica: Se compararon estructuras fijas y seguidores solares. Los
+seguidores solares generan aproximadamente un 22% más de energía ocupando
+una superficie similar. Por ello se seleccionó la tecnología de seguidores a un eje,
+por presentar mejores resultados ambientales y económicos.
+• Alternativa de emplazamiento: Se analizaron tres ubicaciones:
+Alternativa 1 (Ciguñuela): próxima a cauces y con presencia de vegetación
+natural e HIC.
+Alternativa 2 (Fuensaldaña): cercana a un cauce y al núcleo urbano de
+Fuensaldaña.
+Alternativa 3 (Ciguñuela, parcela 147 del polígono 3): situada sobre cultivos de
+secano, sin afección a hábitats de interés, patrimonio o espacios protegidos y
+alejada de Red Natura 2000.
+Tras el análisis multicriterio, la Alternativa 3 obtuvo la mayor puntuación (535
+puntos), siendo considerada la más favorable desde el punto de vista técnico y
+ambiental.
+• «Alternativa 3 de evacuación»: Se analizan tres opciones de trazado, aérea-
+subterránea, totalmente subterránea por el este, y totalmente subterránea por el
+oeste, con mayor aprovechamiento de zanjas compartidas con otros proyectos y
+menor afección ambiental global.
+Se eligió la Alternativa 3 de emplazamiento y la Alternativa 3 de evacuación, ya
+que ofrecen el mejor equilibrio entre viabilidad técnica, menor impacto ambiental y mejor
+integración territorial.
+Además, se presenta un estudio del medio, valoración de impactos, medidas
+preventivas, correctoras y compensatorias, y plan de vigilancia ambiental.
+4. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+4.1. Solicitud de inicio del procedimiento. Con fecha de 11 de marzo de 2026 tiene
+entrada en el Servicio Territorial de Medio Ambiente de Valladolid, la solicitud de inicio
+del procedimiento de evaluación de impacto ambiental simplificada, acompañando dicha
+solicitud del documento ambiental.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 72
+4.2. Consulta a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 46, de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, con fecha de 11 de junio de 2025 se procedió por parte del Servicio
+Territorial de Medio Ambiente de Valladolid, a la apertura del trámite de consultas a las
+Administraciones públicas afectadas y a las personas interesadas. La relación de los
+organismos consultados, así como los informes recibidos de forma previa a la redacción
+del presente informe se refleja en la siguiente tabla:
+EMISIÓN DE
+ADMINISTRACIONES PÚBLICAS AFECTADAS Y PERSONAS INTERESADAS
+INFORME
+Confederación Hidrográfica del Duero Sí
+Sección de Protección Ciudadana de la Delegación Territorial de Valladolid Sí
+Dirección General de Patrimonio Natural y Política forestal Sí
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Valladolid Si
+Servicio Territorial de Cultura, Turismo y Deporte de Valladolid Sí
+Diputación Provincial de Valladolid Sí
+Ayuntamiento de Ciguñuela No
+Asociación Ecologistas en Acción No
+La Confederación Hidrográfica del Duero Según las comprobaciones cartográficas
+realizadas por este Organismo de cuenca a partir de la documentación aportada por el
+promotor, se informa que el perímetro de la planta solar no afecta a cauce público alguno
+ni a sus zonas de protección (servidumbre y policía); en cuanto a las infraestructuras
+de carácter lineal, la línea subterránea de evacuación atraviesa en varias ocasiones el
+arroyo Madre, además de discurrir en parte de su trazado por la zona de policía del
+mismo, también atraviesa el arroyo de Pozuelo y discurre por la zona de policía del arroyo
+del Prado Herrarte y del arroyo de Carrocastellares. Estas cuestiones pueden observarse
+en el análisis espacial adjunto al presente informe.
+La Sección de Protección Ciudadana de la Delegación Territorial de Valladolid emite
+informe relativo, entre otras cuestiones, al riesgo de inundaciones, al riesgo por incendios
+forestales, al riesgo derivado del transporte por carretera y ferrocarril de sustancias
+peligrosas y al riesgo por proximidad a establecimientos que almacenan sustancias
+peligrosas.
+TIPO DE RIESGO CLASIFICACIÓN
+Riesgo de inundaciones ALTO en Valladolid y NO CLASIFICADO.
+Riesgo por incendios forestal Índice de Riesgo Local: MEDIO
+Índice de Peligrosidad: BAJO
+Índice de Riesgo Potencial: MODERADO
+Riesgo derivado del transporte Riesgo por carretera: Sin delimitar.
+por carretera y ferrocarril de Riesgo por ferrocarril: Sin delimitar
+sustancias peligrosas Riesgo por proximidad a establecimientos que
+almacenan sustancias peligrosas: no se encuentra
+afectado por la Zona de Alerta e Intervención de los
+establecimientos afectados por la por la Zona de Alerta
+e Intervención
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 73
+El Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Valladolid,
+emite informe, indicando que en el municipio de Ciguñuela (Valladolid) se ha llevado a
+cabo una concentración parcelaria, cuya fecha de firmeza de acuerdo de concentración
+es el 28 de abril de 1965. En la actualidad no se están realizando actuaciones atribuidas
+a la competencia del Área de Estructuras Agrarias de Valladolid.
+Incluye medidas para una mejor adecuación del proyecto fotovoltaico al entorno.
+El Servicio Territorial de Cultura, Turismo y Deporte de Valladolid en uso de
+las competencias que ostenta la Delegación Territorial de Valladolid en virtud del
+artículo 12.I) del Decreto 37/2007, de 19 de abril, por el que se aprueba el Reglamento
+para la Protección del Patrimonio Cultural de Castilla y León, en cumplimiento de
+lo dispuesto en el artículo 82.1) del mismo Decreto, de acuerdo con el informe de la
+Comisión Territorial de Patrimonio Cultural se informa favorablemente la estimación de la
+incidencia, condicionando tal informe a la ejecución de las siguientes medidas preventivas:
+Un control general de obra de todos los movimientos de tierra del proyecto, que será
+intensivo en el entorno de la «Colada del Camino Real de Valladolid a Castrodeza».
+Respecto a la «Estructura Etnográfica», siempre y cuando se encuentre dentro del
+margen de servidumbre de la obra, de manera previa al inicio de las obras, será balizada
+con malla trupper, la cual permanecerá en buen estado hasta la reposición y fin de obra
+civil en sus cercanías.
+La Diputación provincial de Valladolid, no informa.
+La Dirección General de Patrimonio Natural y Política Forestal informa que, una vez
+estudiada la versión del proyecto presentada se constata la no coincidencia territorial ni
+de afecciones indirectas con:
+• Espacios naturales protegidos.
+• Planes de especies protegidas.
+• Zonas húmedas de interés especial.
+• Árboles notables.
+• Montes protectores.
+• Zonas naturales de esparcimiento.
+• Vías Pecuarias.
+• Otras figuras de protección: Reservas naturales fluviales / Reservas de la
+biosfera/ Geoparques mundiales / Áreas Ramsar / Otras.
+• Propuestas de lugares geológicos o paleontológicos de interés especial.
+• Propuestas de microrreservas de flora.
+• Habitat de interés comunitario fuera de ZEC
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 74
+En cuanto a espacios protegidos Red Natura 2000. Una vez analizadas y valoradas
+las actuaciones, se considera realizada la evaluación requerida por el artículo 2 del
+Decreto 6/2011, de 10 de febrero, por el que se establece el procedimiento de evaluación
+de las repercusiones sobre la Red Natura 2000 de aquellos planes, programas o proyectos
+desarrollados en el ámbito territorial de la Comunidad de Castilla y León, concluyéndose
+que las actuaciones proyectadas, ya sea individualmente o en combinación con
+otros proyectos, no causarán perjuicio a la integridad de ningún espacio protegido
+Red Natura 2000.
+Estas conclusiones constituyen el informe de evaluación de las repercusiones sobre
+Red Natura 2000 (IRNA) tal y como se define en el artículo 5 del Decreto 6/2011, de 10
+de febrero.
+No afectarán a la presencia o conservación de las especies de flora protegidas o de
+sus poblaciones.
+Posee una indudable afección paisajística, aunque cumpliendo las medidas
+ambientales impuestas se conseguirá una mayor integración.
+Presenta coincidencia territorial de la línea de evacuación y colindancia del vallado de
+la PSFV con Colada del Camino Real de Valladolid a Castrodeza. La planta es colindante
+por su vallado norte, mientras que la línea exclusiva de CHENLA Solar coincide en buena
+parte del trazado con la vía pecuaria y, además la zanja compartida también coincide
+en un tramo con esta vía y la cruza en un punto cercano al núcleo urbano de Zaratán,
+el vallado deberá respetar el ámbito de la vía, modificando su posición en caso de ser
+necesario. La colocación del vallado deberá situarse fuera del dominio público pecuario,
+de este modo siempre se mantendrá el libre tránsito. Tampoco se podrán utilizar terrenos
+dentro de la vía como zonas de acopio o parque de maquinaria.
+La citada vía pecuaria se verá afectada por la zanja de canalización para la línea
+de evacuación, pero al tratarse de un trazado soterrado, no se esperan afecciones a los
+usos propios de esta vía, sin perjuicio de la necesidad de obtención de la autorización de
+ocupación del dominio público pecuario.
+En el ámbito del proyecto se localizan diversas especies de fauna protegida ubicada
+fuera de figuras de protección con normativa específica para esas especies. De entre la
+información disponible en esta dirección general, destacan el aguilucho cenizo, Circus
+pygargus incluida en el anexo IV de la Ley 42/2007, de 13 de diciembre, del Patrimonio
+Natural y de la Biodiversidad, así como en el listado de especies silvestres en régimen
+de protección especial (LESRPE) y en el catálogo español de especies amenazadas
+(CEEA).
+Una vez descritas las afecciones e impactos residuales asociados a la versión del
+proyecto evaluada, se informa que la viabilidad ambiental del proyecto se condiciona al
+cumplimiento de todas las medidas ambientales contenidas en el presente informe, así
+como las medidas preventivas y correctoras recogidas en el documento ambiental en
+los aspectos que no resulten contradictorios con las recogidas en el presente informe,
+prevaleciendo, en su caso, las recogidas en este informe.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 75
+5. ANÁLISIS DEL PROYECTO SEGÚN LOS CRITERIOS DEL ANEXO III.
+El pronunciamiento se justificará con arreglo a los criterios establecidos en el
+artículo 47.2, recogidos en el Anexo III, de la Ley 21/ 2013, de 9 de diciembre, de
+evaluación ambiental, que se analizan a continuación:
+5.1. CARACTERÍSTICAS DEL PROYECTO.
+Dimensiones y diseño del conjunto del proyecto. El proyecto consiste en la
+implantación de una planta fotovoltaica de 3,52 MW de potencia instalada, compuesta por
+5.992 módulos fotovoltaicos de 700 Wp montados sobre seguidores de un eje, ocupando
+una superficie aproximada de 6,14 ha. La energía generada será evacuada mediante una
+línea eléctrica subterránea de media tensión de 13,2 kV y 12,364 km de longitud. La planta
+que se informa dista considerablemente en su extensión superficial del límite a partir del
+cual los proyectos deben someterse a evaluación de impacto ambiental ordinaria.
+Acumulación con otros proyectos existentes y/o aprobados. La presencia de otras
+instalaciones energéticas y de infraestructuras eléctricas en el entorno de Valladolid puede
+generar efectos acumulativos sobre el paisaje, la ocupación del territorio y determinados
+grupos faunísticos. No obstante, la planta presenta una potencia moderada y una
+superficie relativamente reducida respecto a otros desarrollos fotovoltaicos regionales.
+La línea de evacuación aprovecha en gran medida caminos e infraestructuras existentes,
+reduciendo nuevas afecciones territoriales.
+En el DA se incluye una Adenda al «Estudio de Efectos Acumulativos y Sinérgicos
+del Nudo Zaratán 220» realizado en agosto de 2021, para incorporar las PSFV
+«FV Zaratán I», «FV Zaratán II», «FV Vislandi Solar», «FV Zaratán III», «FV Chenla Solar»
+y «FV Grace Solar», localizadas en los términos municipales de Zaratán, Ciguñuela y
+Valladolid (Valladolid).
+Teniendo en cuenta la inclusión de estos proyectos, se obtiene un listado actual de
+veintiséis plantas solares y dos parques eólicos y sus infraestructuras asociadas en el
+área de estudio. El ámbito se mantiene con respecto al considerado en el Estudio de
+Efectos Acumulativos y Sinérgicos del Nudo Zaratán 220 del año 2021.
+Los efectos sinérgicos y acumulativos más reseñables se producen sobre la fauna
+y el paisaje, asociados a la ocupación de hábitats y molestias durante la fase de obras,
+mortalidad por presencia de infraestructuras, pérdida de hábitat y de conectividad, y
+alteración paisajística en la fase de funcionamiento.
+Resulta indudable que se trata de un número muy elevado de instalaciones que
+difícilmente van a poder disimularse en el paisaje, que cambiará para siempre, dejando
+de ser una zona de cultivos para convertirse en una llanura salpicada de manchas oscuras
+similares a masas de agua que en realidad son plantas fotovoltaicas. Al ubicarse en la
+parte alta de Montes Torozos, estas infraestructuras no serán visibles, por ejemplo, desde
+la ciudad de Valladolid, pero sí lo serán desde las poblaciones de esta comarca y, dado
+que el aeropuerto de Valladolid se encuentra dentro del buffer del estudio de sinergias,
+también será más que evidente su presencia para los viajeros que utilicen el avión desde
+este aeropuerto.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 76
+Medidas como el establecimiento de corredores para evitar el efecto barrera o
+medidas de compensación de hábitats podrían disminuir este efecto acumulativo de
+pérdida de hábitat o fragmentación, también limitando el número de instalaciones que el
+territorio puede soportar, haciendo un estudio de la capacidad de carga y el efecto a largo
+plazo que estas instalaciones pueden tener sobre la fauna presente en la zona, podrían
+disminuir las afecciones que van acumulándose en el entorno debido al cada vez mayor
+número de infraestructuras propuestas para su instalación en la zona.
+Utilización de recursos naturales. La actuación supone la ocupación de suelo rústico
+común actualmente destinado a uso agrario. Durante la construcción se requerirá el
+consumo de combustibles para maquinaria, materiales de construcción y recursos
+auxiliares propios de las obras. En fase de explotación el aprovechamiento del recurso
+principal es la radiación solar, sin consumo significativo de materias primas ni combustibles.
+Generación de residuos. Durante la fase de construcción se producirán residuos
+derivados de movimientos de tierras, excavación de zanjas, embalajes, restos de
+cableado, hormigón y materiales de construcción. En fase de explotación la generación de
+residuos será reducida y limitada principalmente a labores de mantenimiento y sustitución
+de componentes. El proyecto incorpora una partida específica para gestión de residuos.
+Contaminación y otras perturbaciones. En la fase de obras, se pueden producir
+efectos sobre la calidad del aire, por el aumento de partículas en suspensión provocado
+por el movimiento de la maquinaria, transporte de materiales y equipos, en los distintos
+trabajos de la obra y movimiento de tierras. También se producirá un incremento
+en los niveles de contaminación acústica. En la fase de funcionamiento este tipo de
+infraestructuras no producen ningún tipo de contaminación, sino más bien al contrario, ya
+que se trata de energías renovables cuya finalidad última es reducir la emisión de gases
+efecto invernadero producida por otras formas de producción de energía. Únicamente
+se puede mencionar las posibles emisiones de gases a la atmósfera procedentes de los
+vehículos empleados en las labores de mantenimiento de la planta, que deberán contar
+con un mantenimiento adecuado y que en todo caso van a ser muy reducidas.
+Riesgos de accidentes graves y/o catástrofes. Se considera que la ejecución del
+proyecto y su puesta en marcha no van a generar un especial riesgo de accidentes
+de carácter ambiental, ni supondrá un riesgo añadido de incendio siempre y cuando se
+cumplan las condiciones expuestas en el presente informe de impacto ambiental y en el
+documento ambiental.
+Ninguna de las actuaciones que se planifiquen, ni los diferentes usos que se asignen
+al suelo deberían incrementar el riesgo hacia las personas, sus bienes y el medio ambiente
+Riesgos para la salud humana. Este tipo de actividades no supone un riesgo de
+accidentes graves y/o catastróficos relevantes, ni se considera que puedan tener
+incidencia negativa sobre el cambio climático o riesgos para la salud humana con los
+conocimientos científicos actuales siempre que se cumpla con toda la normativa relativa
+a este tipo de proyectos.
+Con el fin de proteger la salud de los operarios responsables del funcionamiento de
+la instalación se establecerán protocolos para minimizar las posibles afecciones sobre
+la salud.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 77
+5.2. UBICACIÓN DEL PROYECTO.
+Uso presente y aprobado del suelo. a planta se localiza sobre suelo rústico común
+de uso agrario en el término municipal de Ciguñuela. La ocupación se desarrolla sobre
+terrenos agrícolas transformados y no sobre áreas industriales o urbanizadas.
+Abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa de los
+recursos naturales de la zona y su subsuelo. La zona afectada no se considera un medio
+con valor natural relevante al ser una zona ya transformada por la actividad humana
+por lo que, aplicando los condicionantes necesarios, el uso de los recursos puede ser
+considerado de carácter sostenible.
+Capacidad de absorción del medio natural. Como previamente se ha constatado, el
+proyecto presenta viabilidad ambiental siempre que se apliquen las medidas preventivas
+y correctoras que se recogen el este informe.
+5.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+Magnitud y alcance espacial del impacto. El proyecto producirá un impacto
+ambiental puntual durante la fase de obra, y moderado y sostenido en el tiempo durante
+su funcionamiento. En general se deduce que la capacidad de acogida de la zona es
+media-alta, pero la acumulación de efectos sinérgicos, dada la considerable superficie de
+ocupación por parte de esta y otras instalaciones circundantes, magnifica las afecciones
+al medio natural.
+Los impactos negativos sobre la población y el medio se verán minimizados con la
+aplicación de las medidas protectoras contenidas en este informe de impacto ambiental
+y en el documento ambiental.
+Naturaleza del impacto. Aunque las acciones que producen un mayor número de
+impactos negativos se suelen concentrar en las fases de construcción y desmantelamiento,
+asociadas a la preparación del terreno y el montaje y desmontaje de las instalaciones, en
+este caso se producirán impactos negativos de moderada importancia durante la fase de
+funcionamiento, relacionados con la fauna (pérdida de hábitat y fragmentación), el paisaje
+y el suelo. Tales impactos, además serán de larga duración. Se estima que el proyecto
+es compatible con el medio, siempre y cuando se ejecuten las medidas preventivas,
+correctoras y compensatorias recogidas en el presente informe y en el Plan de Medidas
+correspondiente.
+Carácter transfronterizo del impacto. Por la situación geográfica de la actuación que
+se pretende, el impacto no presenta carácter transfronterizo.
+Intensidad y complejidad del impacto. La intensidad y complejidad del impacto son
+reducidos. La ocupación del suelo es limitadas, no se producen excavaciones profundas
+ni grandes movimiento de tierras, la línea eléctrica está totalmente soterrada, reduciendo
+impactos visuales, sobre avifauna y electromagnetismo.
+Probabilidad del impacto. Las afecciones más conocidas de este tipo de proyectos
+son las referidas a la destrucción y alteración de los hábitats y pérdida de áreas de
+campeo por ocupación directa de grandes extensiones de terreno y su fragmentación.
+Otros impactos negativos que podrían producirse son el efecto rechazo de algunas
+especies de fauna a la presencia de infraestructuras, las molestias durante los trabajos
+debido a la emisión de ruidos y el aumento de trasiego de maquinaria pesada y personas.
+En última instancia, tales molestias provocarían la interrupción del ciclo reproductivo de
+la avifauna.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 78
+La pérdida de hábitat generará un efecto negativo sobre las especies que hacen
+uso de este espacio, debido tanto a esta PSFV como a la gran cantidad de plantas
+fotovoltaicas construidas y en tramitación en la zona. Resulta conveniente, por tanto,
+advertir sobre el efecto acumulativo que este tipo de instalaciones está implicando al
+ocupar grandes superficies, tanto de manera individual como combinada con otros
+proyectos, disminuyendo la zona de campeo disponible para la mayoría de estas especies.
+No obstante, aunque en el ámbito del proyecto se cita la presencia de las mencionadas
+especies, el proyecto evaluado no parece ubicarse en áreas de vital importancia para
+esas especies, ni tampoco implicar una significativa reducción de su hábitat general.
+Inicio previsto y duración, frecuencia y reversibilidad del impacto. Los impactos
+ambientales asociados al proyecto PSFV CHENLA SOLAR presentan una alta
+reversibilidad, ya que son mayoritariamente temporales, no estructurales, espacialmente
+limitados y compensables mediante medidas correctoras, permitiendo la recuperación de
+las condiciones ambientales previas tanto a corto como a largo plazo, especialmente tras
+la fase de desmantelamiento.
+Acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. Puede destacarse el posible impacto de efecto sinérgico con otros proyectos
+de plantas solares, destacado desde varias instancias, sobre el paisaje y sobre las
+aves debido a la pérdida de hábitat. No obstante, el impacto, por el momento, se prevé
+compatible si se cumplen las condiciones expuestas más adelante, especialmente
+aquellas relacionadas con la mejora del hábitat de las especies.
+Posibilidad de reducir el impacto de manera eficaz. Medidas como el establecimiento
+de corredores para evitar el efecto barrera o medidas de compensación de hábitats
+podrían disminuir este efecto acumulativo de pérdida de hábitat o fragmentación,
+también limitando el número de instalaciones que el territorio puede soportar, haciendo
+un estudio de la capacidad de carga y el efecto a largo plazo que estas instalaciones
+pueden tener sobre la fauna presente en la zona, podrían disminuir las afecciones que
+van acumulándose en el entorno debido al cada vez mayor número de infraestructuras
+propuestas para su instalación en la zona.
+6. INFORME DE IMPACTO AMBIENTAL.
+Por todo ello, considerado adecuadamente tramitado el expediente y de acuerdo
+con lo establecido en el artículo 47 de la Ley 21/2013, de 9 de diciembre, de evaluación
+ambiental, teniendo en cuenta el resultado de las consultas realizadas y siguiendo los
+criterios del Anexo III de la citada ley, la propuesta de la Comisión Territorial de Medio
+Ambiente y Urbanismo de Valladolid es:
+Determinar que el proyecto «Instalación generadora fotovoltaica PSFV Chenla Solar
+e instalacciones de evacacuación para acceso a la red de distribución en el término
+municipal de Ciguñuela (Valladolid). promovido por Chenla Investments, S.L. no tendrá
+efectos significativos sobre el medio ambiente, en los términos establecidos en el presente
+informe de impacto ambiental, debiéndose observar asimismo todas las consideraciones
+advertidas por los diferentes organismos y sin perjuicio del cumplimiento de otras normas
+vigentes de tipo urbanística, ambiental o sectorial que le sean de aplicación.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 79
+6.1. Medidas protectoras. Las medidas preventivas y correctoras, a efectos
+ambientales, a las que queda sujeta la ejecución del proyecto son las siguientes, además
+de las contempladas en el documento ambiental en lo que no contradigan a estas:
+a) Autorizaciones
+Se deberán obtener cuantas autorizaciones fueran necesarias, asegurando el
+cumplimiento de la normativa de aplicación en cada caso.
+El presente informe no exime de cualquier autorización o concesión que competa
+otorgar en aplicación de la legislación vigente. Cualquier obra en cauce o zona de policía
+requerirá de la correspondiente autorización de la Confederación Hidrográfica, así como
+de autorización de vertido en caso de que éste se realice al dominio público hidráulico.
+En relación con el medio hídrico deberá observarse a la hora de ejecutar el proyecto
+cuantas consideraciones y autorizaciones disponga la normativa sectorial, en particular:
+– Posibles afecciones al dominio público hidráulico, zona de policía de cauce
+público y servidumbre.
+– Posibles afecciones a las aguas subterráneas.
+– Posibles captaciones de aguas superficiales y/o subterráneas.
+– Calidad de aguas superficiales y/o subterráneas. Vertidos.
+– Compatibilidad con el Plan hidrológico de Cuenca.
+b) Replanteos y consideraciones previas.
+Previamente al inicio de las obras, se deberá realizar un replanteo de la zona de
+actuación, de las áreas de movimiento de maquinaria y los puntos de acopio de materiales
+y equipos auxiliares.
+Las zonas donde se lleven a cabo las labores auxiliares del proyecto, como parque
+de maquinaria y equipos auxiliares, acopio de materiales, etc., se situarán alejadas
+de cualquier zona ambientalmente sensible: terrenos con vegetación natural, etc... Se
+deberán delimitar los espacios estrictamente necesarios para dichos usos y respetar.
+Para prevenir, evitar o reducir la generación de emisiones en su conjunto, las
+nuevas instalaciones deberán diseñarse basándose en las mejores técnicas disponibles
+establecidas a través de las guías oficiales disponibles a nivel nacional o europeo.
+Los seguidores se instalarán mediante hincado en el terreno.
+Las obras de construcción de las zanjas deberán quedar perfectamente delimitadas,
+evitando la afección fuera de estos límites. De manera general, la capa superior de suelo
+vegetal se deberá retirar y acopiar en montones de pequeña altura, con el objeto de
+mantener su estructura orgánica y humedad, para su posterior utilización en el tapado
+de la zanja y su revegetación. En aquellos caminos principales que por su uso previsto sí
+requieran de actuaciones de consolidación, estas se realizarán con zahorras de la misma
+tonalidad que el entorno.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 80
+c) Protección de infraestructuras.
+Con objeto de evitar posibles afecciones a hábitats o cualquier otro valor natural
+sensible a las actuaciones proyectadas, el trazado de la línea de evacuación subterránea
+deberá hacerse coincidir con la plataforma de los caminos existentes.
+El trazado de la línea eléctrica de evacuación discurrirá, preferentemente, por
+terrenos de uso público. En el caso de que lo hiciera por parcelas agrícolas privadas, la
+localización de los apoyos se ubicará en los límites entre parcelas.
+Se deberá garantizar que el proyecto de explotación se adecuará a la red de
+infraestructuras existente, estudiando las afecciones a la red de infraestructura viaria,
+asegurando la continuidad y funcionalidad de la misma.
+Sobre esa red viaria existente, se respetarán los correspondientes elementos de
+drenaje, tales como cunetas, marcos, caños y pasos salvacunetas, asegurando el uso y
+la continuidad de los mismos.
+Los accesos de las fincas de labor contiguas que puedan verse afectados por la
+ejecución de las obras del proyecto mantendrán el que ya tenían o, en su defecto, se
+realizará otro de nueva ejecución de acuerdo con el propietario.
+En el caso de haber infraestructuras de regadío, se deberán respetar el servicio de
+los elementos que las componen, respetando las servidumbres correspondientes a las
+tuberías.
+Se deberán respetar los hitos y/o mojones que delimitan las fincas rústicas contiguas.
+Si estos son alterados como consecuencia de la realización de las obras necesarias o de
+la explotación del proyecto, deberán ser reubicados en su lugar original.
+d) Protección de la flora.
+– Se deberán respetar las superficies de monte, linderos con alineaciones de
+vegetación arbórea y arbustiva, así como el arbolado disperso junto al borde
+de los caminos. La instalación de la planta y sus infraestructuras, como la línea
+subterránea de evacuación, vallado de recintos, etc., no determinará en ningún
+momento la eliminación de arbolado y cuya corta solo estará condicionada a una
+correcta gestión de la masa forestal conforme a su desarrollo.
+– Si fuese necesario la corta de algún pie, en el desarrollo del proyecto, deberá
+justificarse la ausencia de otras alternativas para su autorización que, en su caso,
+estará sujeta a lo recogido en la Ley 3/2009, de 6 de abril, de Montes de Castilla
+y León, y contar con los permisos necesarios por parte del Servicio Territorial de
+Medio Ambiente de Valladolid.
+– En relación con las labores de mantenimiento y control de la vegetación
+espontánea que puedan surgir en el campo solar (bajo los seguidores y en los
+pasillos de separación), no se utilizarán métodos químicos para el control de la
+vegetación ni quemas de residuos o de control de la vegetación, excepto en el
+caso de plaga declarada oficialmente, conforme a la Ley 43/2002, de sanidad
+vegetal, en cuyo caso se habilitarán oficialmente los productos y métodos
+a emplear.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 81
+– El control de la vegetación en la planta fotovoltaica se realizará preferentemente
+con medios manuales frente a los mecánicos y quedará prohibido el empleo de
+herbicidas u otros productos químicos para su control. En la fase de explotación
+se establecerá y mantendrá una cobertura permanente herbácea o camefítica
+protectora del suelo.
+e) Integración paisajística.
+– Los vallados perimetrales de las instalaciones, excepto los de los centros de
+transformación, deberán ser permeables a la fauna, por lo que se empleará un
+vallado de tipo cinegético o ganadero, con luz de malla amplia, en la parte inferior
+más próxima al suelo, sin zócalo ni sujeción inferior al terreno. Además, se deben
+ejecutar aberturas en la parte inferior del vallado, de dimensiones 30 x 30 cm
+y/o 45 x 30 cm, al menos cada 50 metros, con el fin de alcanzar la máxima
+permeabilidad posible para la fauna. La altura del cerramiento no será superior a
+2 m y carecerá de elementos punzantes o cortantes. Se señalizará el vallado de
+la planta para hacerlo más visible a las aves y quirópteros, con placas metálicas
+o plásticas de 25x25 cm, una en cada vano. Estas placas serán de color blanco,
+mates y sin bordes cortantes y se colocarán en la parte superior del vallado.
+– Desde un punto de vista paisajístico, se deberá realizar una plantación perimetral
+alrededor del vallado de las instalaciones que se mantendrá durante toda la
+vida útil de la planta solar, salvo en aquellas zonas que ya sean colindantes con
+montes, con el fin de ocultar la instalación de una manera más eficaz, así como
+evitar posibles reflejos metálicos del vallado y paneles solares. La plantación
+se realizará por la parte exterior del cerramiento, por bosquetes, con pequeñas
+alineaciones al tresbolillo que sirvan de pantalla visual, pero a su vez evite una
+continuidad vertical y horizontal de masa forestal. Se utilizarán especies arbóreas
+y arbustivas propias del entorno, acorde a los cuadernos de Zona empleados
+en las ayudas a Forestación, (https://medioambiente.jcyl.es/web/es/medio-
+natural/actualizacion-2024-cuadernoszona.html). Esta elección de especies será
+acompañada de otras especies arbustivas y arbóreas que aporten alimento y
+refugio para la fauna.
+Por tanto, teniendo en cuenta lo anterior, el promotor deberá retranquear el
+cerramiento con respecto a la linde de la parcela colindante, lo suficiente y
+conforme a las ordenanzas municipales, de manera que la plantación no ocasione
+perjuicio a las tierras colindantes.
+– Así mismo, se destinarán una o varias áreas, dentro del recinto de la PFV para
+la instalación de zonas de refugio con la plantación de pequeños bosquetes de
+vegetación arbórea o arbustiva. Se considera suficiente un 1% de la superficie
+total ocupada por los paneles solares, ubicando estas zonas junto al cerramiento
+u otras zonas como puede ser aquellas utilizadas para los acopios durante la
+ejecución de la obra.
+f) Protección de la fauna.
+– De forma previa al inicio de los trabajos, se realizarán recorridos sistemáticos por
+la zona de actuación que permitan detectar nidos o posaderos de avifauna. En
+el caso de confirmar la presencia de elementos propios de especies protegidas
+en estas zonas se comunicará al Servicio Territorial de Medio Ambiente quien
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 82
+establecerá medidas conducentes a la salvaguarda de estos elementos, entre
+las que caben limitaciones temporales a la ejecución de trabajos. En el caso
+de detectarse presencia de nidos de aguilucho cenizo, se retrasará el inicio de
+los trabajos de construcción de la planta al menos hasta que los pollos hayan
+abandonado estos nidos.
+– Los módulos fotovoltaicos deberán incluir un acabado con un tratamiento químico
+anti reflectante, que minimice o evite el reflejo de la luz, incluso en periodos
+nocturnos con luna llena, con el fin de evitar el efecto llamada sobre las aves.
+Se utilizarán bandas blancas en forma de rejilla que dividen los paneles solares
+en franjas para minimizar la mortalidad de insectos, en especial acuáticos, que
+se ven atraídos por la luz polarizada y pueden confundir la superficie de los
+paneles con la lámina de agua.
+g) Protección de las vías pecuarias
+Las vías pecuarias deben tener garantizado su libre tránsito y uso, tanto durante
+la fase de obras como durante la fase de explotación, así como respetar su integridad
+superficial. Se retranqueará el vallado de la PSFV en caso de ser necesario si llegase a
+afectar a ámbito de vía pecuaria. En cualquier caso, con carácter previo a la realización de
+las actuaciones previstas deberá solicitarse la correspondiente autorización de ocupación
+de conformidad con los dispuesto en el artículo 14 de la Ley 3/1995, de 23 de marzo,
+de Vías Pecuarias, además de asegurar todos los usos compatibles y complementarios
+según se recoge en la citada ley.
+h) Contaminación atmosférica.
+Con objeto de evitar la generación de polvo, durante la fase de construcción se
+efectuarán riegos periódicos con la frecuencia que las condiciones de la obra o las
+circunstancias meteorológicas aconsejen. Además, todos los camiones de obra que
+transporten materiales pulverulentos, estériles o préstamos para obra, deberán llevar
+la caja cubierta, de tal manera que se evite, en la medida de lo posible, la emisión de
+partículas a la atmósfera.
+En la documentación aportada se indica que será necesario el uso de agua no
+potable para el riego de la zona de obra y que esta será abastecida mediante camión
+cisterna o tractor remolcando una cuba. No obstante, se recuerda que en el caso de
+que fuera necesaria la captación de aguas superficiales y/o subterráneas, previamente,
+será preciso obtener de Confederación Hidrográfica la correspondiente autorización o
+concesión administrativa, según proceda teniendo en cuenta la normativa en vigor.
+i) Contaminación acústica y lumínica.
+Protección atmosférica. Con carácter general se aplicará lo establecido en la
+normativa sobre calidad del aire y protección de la atmósfera.
+Durante la actividad de la planta se atenderá a lo dispuesto en la legislación vigente
+en cuanto a las condiciones de niveles sonoros o de vibraciones, y en todo caso, no
+deberán superarse los límites establecidos en la Ley 5/2009, de 4 de junio, del Ruido de
+Castilla y León.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 83
+Se evitará la iluminación nocturna de la planta fotovoltaica, así como los trabajos
+nocturnos durante la construcción, con las únicas excepciones de sistemas requeridos
+por la normativa y de dispositivos de iluminación imprescindibles en las edificaciones
+auxiliares o para hacer frente a situaciones de riesgo. En tal caso, se utilizarán luminarias
+que no emitan luz blanca rica en longitudes de onda corta (azules y UV), la iluminación se
+proyectará hacia el suelo por debajo del plano horizontal, y se limitará a lo estrictamente
+necesario.
+j) Residuos.
+Los residuos generados se gestionarán en función de su catalogación, debiendo
+cumplirse a este respecto, lo estipulado en la normativa que regula la producción y gestión
+de los residuos de construcción y demolición. Se prohíbe la acumulación incontrolada o el
+vertido de escombros en la zona objeto del proyecto o en sus alrededores.
+Se cumplirá con lo establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos
+contaminados para una economía circular.
+k) Vertidos.
+– Durante los movimientos de tierras, se deberán establecer las medidas necesarias
+para la retención de sólidos previa a la evacuación de las aguas de escorrentía
+superficial, así como otras posibles medidas para reducir al mínimo el riesgo de
+contaminación de las aguas superficiales.
+– En la documentación aportada no se contempla ningún vertido, salvo los de
+carácter accidental. No obstante, en el caso de que, finalmente, se produjera
+vertido sobre algún elemento del dominio público hidráulico (aguas superficiales
+o subterráneas), previamente se deberá disponer de la correspondiente
+autorización de vertido de esta Confederación Hidrográfica, según lo establecido
+en el artículo 245 y siguientes del Reglamento del Dominio Público Hidráulico.
+– Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto; por escorrentía, erosión, infiltración
+u otros mecanismos sobre las aguas superficiales o subterráneas.
+– Se deberán tomar las medidas oportunas para asegurar que, en ningún caso,
+se produzcan vertidos de aceites, combustibles, lubricantes, u otras sustancias
+similares al terreno o a los cursos de agua; sin perjuicio de lo cual se recomienda la
+elaboración de protocolos de actuación específicos en previsión de la ocurrencia
+de incidentes de este tipo, para poder así actuar de la manera más rápida posible
+y evitar la contaminación de las aguas superficiales y/o subterráneas.
+– Para la elección de la ubicación de las instalaciones auxiliares se deberá evitar
+la ocupación del dominio público hidráulico y de la zona de servidumbre de los
+cauces. Se evitará también, en la medida de lo posible, la ocupación de la zona
+de policía de cauce público y de terrenos situados sobre materiales de alta
+permeabilidad.
+– En relación con las aguas residuales generadas por la eventual instalación de
+aseos, duchas,… en las casetas de obra,…, se recomienda la disposición de un
+depósito estanco, sin salida al exterior, que almacene las aguas residuales para,
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 84
+posteriormente, ser retiradas de forma periódica para su tratamiento mediante
+gestor autorizado. No obstante, en el caso de que, finalmente, se produjera vertido
+sobre algún elemento del dominio público hidráulico, previamente, se deberá
+disponer de la correspondiente autorización de vertido de esta Confederación
+Hidrográfica, según lo establecido en el Reglamento del Dominio Público
+Hidráulico.
+l) Maquinaria.
+– Las zonas en las que se ubiquen las instalaciones auxiliares y parques de
+maquinaria deberán ser impermeabilizadas para evitar la contaminación de las
+aguas subterráneas. Las aguas procedentes de la escorrentía de estas zonas
+impermeabilizadas deberán ser recogidas y gestionadas adecuadamente para
+evitar la contaminación del dominio público hidráulico.
+– Durante la fase del desmantelamiento se identifican impactos sobre la calidad de
+las aguas tanto superficiales como subterráneas por acumulación de residuos y
+derrames accidentales como consecuencia del transporte y el funcionamiento de
+la maquinaria. Estos impactos se valoran como compatibles.
+– Se evitará establecer zonas de acopios de materiales potencialmente
+contaminantes, zonas de estacionamiento o mantenimiento de vehículos o
+maquinaria, en zonas de sustrato permeable sobre masas de agua subterránea,
+o en la proximidad de masas de agua superficial y su zona de policía.
+– Se deberá respetar la correspondiente banda de protección de los cauces de
+los ríos y arroyos afectados por las instalaciones de producción de energía y
+sus infraestructuras de evacuación, así como por sus vías de acceso. En esta
+banda no se permitirán los movimientos de tierras, cimentaciones, apertura de
+zanjas o construcción de viales, la circulación masiva de vehículos y maquinaria
+pesada, etc…
+– No se admitirán, en ningún caso, acciones que pongan en riesgo el buen estado de
+las Zonas protegidas por la Directiva Marco del Agua, en donde no se permitirán
+los movimientos de tierras, cimentaciones, apertura de zanjas y construcción de
+viales, la circulación masiva de vehículos y maquinaria pesada, etc…
+m) Protección de las aguas.
+– La limpieza de los módulos fotovoltaicos se realizará únicamente con agua o
+por métodos mecánicos. Quedará prohibida la utilización de cualquier producto
+químico para esta limpieza.
+– Se realizará un seguimiento bianual de la efectividad de medidas de protección
+del suelo adoptadas para controlar la erosión laminar real al finalizar la fase
+de construcción, mediante testigos semienterrados, en todas las zonas de
+implantación fotovoltaica con erosión potencial superior a 10 t/ha y año.
+– Se evitará establecer zonas de acopios de materiales potencialmente
+contaminantes, zonas de estacionamiento o mantenimiento de vehículos o
+maquinaria, en zonas de sustrato permeable sobre masas de agua subterránea,
+o en la proximidad de masas de agua superficial y su zona de policía.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 85
+– Los transformadores contarán con una cubeta, bandeja o sistema de retención
+de aceites de volumen superior al total contenido en los transformadores para
+evitar vertidos a suelo y aguas.
+– Se establecerán bandas de retención de sedimentos en las márgenes de los
+cauces públicos que sean susceptibles de recibir aportes sólidos durante las obras
+del proyecto para lo cual se solicitará la oportuna autorización a la Confederación
+Hidrográfica.
+– Se deberá respetar la correspondiente banda de protección de los cauces de
+los ríos y arroyos afectados por las instalaciones de producción de energía y
+sus infraestructuras de evacuación, así como por sus vías de acceso. En esta
+banda no se permitirán los movimientos de tierras, cimentaciones, apertura de
+zanjas o construcción de viales, la circulación masiva de vehículos y maquinaria
+pesada, etc…
+– No se admitirán, en ningún caso, acciones que pongan en riesgo el buen estado de
+las Zonas protegidas por la Directiva Marco del Agua, en donde no se permitirán
+los movimientos de tierras, cimentaciones, apertura de zanjas y construcción de
+viales, la circulación masiva de vehículos y maquinaria pesada, etc…
+– Los cruces con el DPH deberán garantizar el no deterioro de las masas de agua
+y la no afección a las zonas protegidas del vigente Plan Hidrológico. En su caso,
+los cruces subterráneos de cauces, considerados masas de agua superficial o
+que se encuentren en zonas protegidas de la DMA, no se ejecutarán mediante
+el sistema de zanja abierta, debiendo utilizarse el método de hinca o perforación
+horizontal dirigida, o sustituirse por cruces aéreos cuando ello sea posible,
+respetando las bandas de protección y bajo los condicionantes de la autorización
+correspondiente por parte de la Comisaría de Aguas de este Organismo de
+cuenca.
+– La ejecución de las obras no supondrá, en ningún caso, modificaciones
+topográficas del terreno que pudieran suponer una modificación de la delimitación
+de las cuencas vertientes de las microcuencas afectadas.
+– Se diseñará una red de drenaje que derive todas las escorrentías producidas en
+la planta solar hacia sus cuencas de drenaje natural, con objeto de mantener las
+aportaciones en régimen natural de las masas de agua afectadas y mantener las
+condiciones hidrológicas de sus arroyos tributarios.
+– Se realizará un seguimiento de la escorrentía producida por la planta solar
+fotovoltaica en episodios de lluvia intensa (>50 mm/día), que podría evacuar
+hacia fincas y caminos circundantes. En el caso de que existan afecciones estas
+deberán ser comunicadas a este Organismo de cuenca y al titular de la vía y se
+tomarán las oportunas medidas preventivas y correctoras.
+– En el caso de accidentes no previstos razonablemente que puedan suponer
+un deterioro temporal de las masas de agua, el titular de la instalación deberá
+presentar la documentación a que se refiere el artículo 22 de la Normativa del
+Plan Hidrológico vigente.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 86
+n) Protección del Patrimonio Cultural y Arqueológico.
+Cabe recordar que las labores de control están dirigidas a garantizar la protección
+y conservación del Patrimonio Arqueológico y Etnográfico. Si durante dicho control se
+detectasen bienes pertenecientes al Patrimonio Arqueológico que pudieran ser alterados
+por la obra, se procederá a detener los movimientos de tierra y a documentar la evidencia
+arqueológica mediante la metodología adecuada (excavación arqueológica). A tal fin,
+será necesario presentar la pertinente propuesta de actuación para su autorización por
+parte de la Comisión Territorial de Patrimonio Cultural.
+o) Riesgos de accidentes graves o catástrofes.
+Ninguna de las actuaciones que se planifiquen, ni los diferentes usos que se asignen
+al suelo, deben incrementar el riesgo hacia las personas, sus bienes y el medio ambiente.
+Si alguna de las actuaciones derivadas de la modificación pudiera potencialmente
+aumentar el riesgo sobre las personas, sus bienes o el medio ambiente, debería hacerse
+un análisis previo, indicando el grado de afección, así como las medidas necesarias para
+evitar incrementar dichos riesgos.
+p) Cese de la actividad y cierre de la instalación
+Al final de la vida útil de la planta, cuando el sistema de producción de energía deje
+de ser operativo o se paralice definitivamente su funcionamiento, deberá garantizarse
+el desmantelamiento de toda la instalación y edificaciones, retirarse todos los equipos,
+residuos y materiales sobrantes conforme a la legislación sectorial vigente, y procederse
+a la restauración e integración paisajística de toda el área afectada.
+Para garantizar el desmantelamiento total se presentará un proyecto de
+desmantelamiento y restauración de la zona afectada, debiéndose incorporar un
+presupuesto valorado de este.
+6.2. Medidas compensatorias. Las medidas compensatorias aplicadas ante impacto
+residuales, definidas en el apartado k del artículo 5.1 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental.
+Con anterioridad al inicio de los trabajos de construcción y puesta en funcionamiento
+del proyecto, el promotor elaborará un Programa de medidas compensatorias, en el que
+se incluirán un conjunto de medidas definidas en planes encaminados a la mejora del
+medio natural en sus diferentes aspectos, que deberá ser aprobado por la Dirección
+General de Patrimonio Natural y Política Forestal. En particular, dicho programa deberá
+contemplar una línea de actuaciones para la mejora del hábitat de avifauna esteparia,
+compensación de superficies naturales ocupadas y afección al paisaje, entre otras.
+6.3. Informes periódicos: A partir del inicio de las actuaciones, el promotor presentará
+anualmente ante el órgano sustantivo un informe sobre el desarrollo del programa de
+vigilancia ambiental. Se recogerá el resultado de los controles, así como el grado de
+eficacia y cumplimiento de las medidas preventivas y correctoras establecidas en el
+documento ambiental y en este informe de impacto ambiental.
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 87
+6.4. Seguimiento y vigilancia. Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquél al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+El resultado de este plan de vigilancia y control de las aguas subterráneas se enviará
+al Organismo de cuenca con una frecuencia anual y copia al Servicio Territorial de Medio
+Ambiente de Valladolid.
+El Programa de Vigilancia Ambiental deberá realizarse en los términos que recoge
+el EsIA, así como en aquellos que se indican a continuación y que establece los mínimos
+que deberán contemplarse en dicho plan conforme a lo establecido en la Instrucción 4/
+FYM/2020, de 15 de junio. Dicha instrucción puede consultarse en el siguiente enlace:
+https://transparencia.jcyl.es/directrices/medioambiente/Instrucción4-FYM-2020
+Instalaciones energías renovables.pdf.
+CONTENIDOS Y EXIGENCIAS PARA EL PROGRAMA DE VIGILANCIA AMBIENTAL
+El seguimiento del impacto real de las PFV una vez en funcionamiento es una
+cuestión importante toda vez que aún se desconoce su dimensión real. Aunque, como ya
+se ha descrito, la literatura científica disponible hasta la fecha apunta en la dirección de
+que no existen repercusiones importantes para la fauna durante su funcionamiento, si no
+ha habido pérdida de hábitat.
+Otro elemento destacado de las instalaciones de las PFV, por los impactos que
+podrían generar, es la línea eléctrica de evacuación. Si es aérea presenta la misma
+problemática que cualquier otra, exigiendo por tanto idéntico tratamiento. Si la línea de
+evacuación fuera soterrada no sería necesario su seguimiento en la fase de explotación
+de la PFV.
+A continuación, se indican las exigencias mínimas a establecer para los planes de
+vigilancia ambiental tanto de la propia PFV como de su línea eléctrica de evacuación
+aérea.
+Recinto de la PSFV
+• Durante el primer año, búsqueda intensiva de cadáveres o cualquier resto de
+animales en torno al vallado y dentro de la superficie de la PFV. Se persigue
+detectar mortalidad por colisión tanto con los paneles como con la valla del
+cerramiento. Se realizará una visita quincenal, recorriendo la totalidad de los
+pasillos entre los paneles. Se efectuará también un recorrido siguiendo el borde
+exterior del vallado.
+El planteamiento del segundo y posteriores años deberá ser consecuente con los
+resultados del primer año de seguimiento, adaptándose a ellos.
+Por otro lado, si durante el proceso de evaluación se ha constatado la presencia
+de fauna especialmente susceptible a cambios en el paisaje, aunque se haya
+considerado compatible con el proyecto, será preciso evaluar la modificación de
+su comportamiento antes y después de la instalación de la PFV. Para ello durante
+el primer año de funcionamiento de la planta se aplicará un seguimiento igual al
+CV: BOCYL-D-11082026-154-7
+
+Boletín Oficial de Castilla y León
+Núm. 154 Martes, 11 de agosto de 2026 Pág. 88
+realizado para el EsIA con el fin de poder comparar los resultados con idéntica
+metodología.
+• Seguimiento de la vegetación implantada o existente en el interior de la PFV.
+• Seguimiento de la utilización de la superficie de la PFV por parte de la fauna.
+Aprovechando la búsqueda de cadáveres deberá realizarse también una
+búsqueda de rastros de fauna, con el fin de determinar el uso que se hace de
+esa superficie.
+6.5. Autorización del proyecto y publicidad. Conforme a lo establecido en el
+artículo 48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano
+sustantivo deberá tener en cuenta en el procedimiento de autorización del proyecto,
+las conclusiones del presente informe de impacto ambiental, así como las condiciones
+ambientales establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de diez
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión y publicará en su sede electrónica la decisión sobre la
+autorización o denegación del proyecto y una referencia al boletín oficial donde se publicó
+el informe de impacto ambiental.
+6.6. Modificaciones. Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe, deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Valladolid, que prestará su conformidad si procede, sin perjuicio de la tramitación de las
+licencias o permisos que, en su caso, correspondan. Se consideran exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+6.7. Vigencia del informe de impacto ambiental. Conforme a lo establecido en el
+artículo 47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este informe
+de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que
+le son propios, si en el plazo de cuatro años desde su publicación en el Boletín Oficial de
+Castilla y León, no se hubiera procedido a la autorización del proyecto.
+6.8. Objeto de recurso. De conformidad a lo establecido en el Art. 47.5 de la
+Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el informe de impacto ambiental
+no será objeto de recurso alguno sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+Valladolid, 4 de agosto de 2026.
+La Delegada Territorial,
+Fdo.: Raquel Alonso Hernández
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-11082026-154-7
