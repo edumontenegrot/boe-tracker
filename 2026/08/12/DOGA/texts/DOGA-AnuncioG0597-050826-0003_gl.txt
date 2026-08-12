@@ -1,0 +1,453 @@
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44223
+I. DISPOSICIÓNS XERAIS
+CONSELLERÍA DE FACENDA E ADMINISTRACIÓN PÚBLICA
+DECRETO 89/2026, do 3 de agosto, polo que se regula o Rexistro do Persoal
+Funcionario Público Habilitado e a asistencia para a identificación e a sinatura
+electrónicas no ámbito da Administración xeral da Comunidade Autónoma de
+Galicia e das entidades públicas instrumentais do sector público autonómico.
+I
+O artigo 27.Cinco do Estatuto de autonomía de Galicia establece, como competencia
+exclusiva da comunidade autónoma, a materia das normas procesuais e procedementos
+administrativos que se deriven da organización propia dos poderes públicos galegos.
+Pola súa banda, o artigo 28.Un da devandita norma atribúelle á comunidade autónoma
+o desenvolvemento lexislativo e a execución da lexislación do Estado nos termos que esta
+estableza en materia do réxime xurídico da Administración pública de Galicia e do réxime
+estatutario do seu persoal funcionario.
+A Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administra-
+cións públicas, establece no seu artigo 13.b) como un dos dereitos das persoas o de seren
+asistidas no uso de medios electrónicos nas súas relacións coas administracións públicas.
+O artigo 12 do devandito texto legal describe a forma de desenvolvemento deste dereito.
+Así, no seu número 1, sinala que as administracións públicas deberán garantir que as per-
+soas interesadas poidan relacionarse coa Administración a través de medios electrónicos,
+para o que se poñen á súa disposición as canles de acceso necesarias, así como os siste-
+mas e aplicacións que en cada caso se determinen.
+Por outra banda, esta evolución da actuación administrativa non debe supoñer discri-
+minación para aquelas persoas que polo seu nivel formativo, capacidade económica ou
+habilidades no uso das novas tecnoloxías, non estean en disposición de poder relacionarse
+desta forma coas administracións públicas. Para paliar esta circunstancia, o apartado 2
+do mesmo artigo establece que estas asistirán no uso de medios electrónicos as persoas
+interesadas non incluídas nos números 2 e 3 do artigo 14 (precepto que regula as persoas
+obrigadas a relacionarse de forma obrigatoria a través destes medios) que así o soliciten,
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44224
+especialmente no referente á identificación e sinatura electrónicas, presentación de soli-
+citudes a través do rexistro electrónico xeral e obtención de copias auténticas. Continúa
+sinalando o precepto que se algunha destas persoas interesadas non dispón dos medios
+electrónicos necesarios, a súa identificación ou sinatura electrónica no procedemento ad-
+ministrativo poderá ser validamente realizada por unha persoa funcionaria pública median-
+te o uso do sistema de sinatura electrónica de que estea dotada para ete fin. Neste caso,
+será preciso que a persoa interesada que careza dos medios electrónicos necesarios se
+identifique ante a persoa funcionaria e preste o seu consentimento expreso para esta ac-
+tuación, do cal deberá quedar constancia no suposto de que se produza algunha discre-
+pancia ou litixio.
+O número 3 do artigo 12 da referida Lei 39/2015, do 1 de outubro, establece que a
+Administración do Estado, as comunidades autónomas e as entidades locais manterán
+actualizado un rexistro, ou outro sistema equivalente, onde constará o persoal funcionario
+habilitado para a identificación ou a sinatura regulada no artigo 12.2, e que estes rexistros
+ou sistemas serán plenamente interoperables e estarán interconectados para os efectos
+de comprobar a validez das habilitacións. Finalmente, dispón que no rexistro ou sistema
+equivalente constará, polo menos, o persoal funcionario que preste servizos nas oficinas
+de asistencia en materia de rexistros.
+O artigo 30.1 do Regulamento de actuación e funcionamento do sector público por me-
+dios electrónicos, aprobado polo Real decreto 203/2021, do 30 de marzo, completa a regu-
+lación estatal en materia de identificación ou sinatura electrónicas das persoas interesadas
+mediante persoal funcionario público habilitado.
+O artigo 27 da devandita Lei 39/2015, do 1 de outubro, regula a validez e a eficacia das
+copias realizadas polas administracións públicas, e establece que estas poderán realizar
+copias auténticas mediante persoal funcionario habilitado ou mediante actuación admi-
+nistrativa automatizada e que se deberá manter actualizado un rexistro, ou outro sistema
+equivalente, onde constará o persoal funcionario habilitado para a expedición de copias
+auténticas. O precepto impón, así mesmo, que estes rexistros ou sistemas deben ser ple-
+namente interoperables e estar interconectados cos das restantes administracións públi-
+cas, para os efectos de comprobar a validez da citada habilitación, e que neles constarán,
+polo menos, as funcionarias e funcionarios que presten servizos nas oficinas de asistencia
+en materia de rexistros.
+De acordo co establecido anteriormente, a Lei 4/2019, do 17 de xullo, de administración
+dixital de Galicia, no seu artigo 77, crea, no eido do sector público autonómico, o Rexistro
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44225
+do Persoal Funcionario Público Habilitado, onde constará o persoal funcionario habilitado
+para a expedición de copias auténticas e a realización da identificación e sinatura electró-
+nicas das persoas interesadas que non dispoñan dos medios electrónicos necesarios.
+A mesma lei faise eco desta asistencia á cidadanía na utilización dos medios electró-
+nicos. Así, no seu artigo 36 establece que, de acordo co artigo 12.2 da Lei 39/2015, do 1
+de outubro, para que a identificación ou sinatura electrónicas das persoas interesadas
+que non dispoñan de medios electrónicos necesarios poida ser validamente realizada por
+persoal funcionario público habilitado, será necesario que elas se identifiquen perante a
+persoa funcionaria e que presten o seu consentimento expreso para a devandita actuación,
+do que deberá quedar constancia para os casos de discrepancia ou litixio.
+Pola súa banda, a disposición derradeira quinta da Lei 4/2019, do 17 de xullo, habilita
+o Consello da Xunta de Galicia para que dite as disposicións que sexan necesarias para o
+desenvolvemento do establecido nesta lei.
+II
+Este decreto consta de tres capítulos, once artigos, unha disposición adicional e dúas
+disposicións derradeiras.
+O capítulo I contén as disposicións xerais do decreto. Nos artigos 1 e 2, determínanse
+o seu obxecto e ámbito de aplicación, respectivamente, mentres que o artigo 3 se refire á
+protección dos datos de carácter persoal.
+O capítulo II recolle a regulación do Rexistro do Persoal Funcionario Público Habilitado.
+O artigo 4 establece o órgano competente para a xestión do rexistro e o artigo 5 quen será
+o persoal funcionario que poderá inscribirse neste rexistro.
+O artigo 6 regula os órganos competentes para a solicitude e a inscrición da habilitación
+do persoal funcionario, o artigo 7 o procedemento de inscrición, modificación e baixa no
+rexistro e o artigo 8 regula a vixencia das habilitacións.
+O artigo 9 determina o contido do rexistro e o artigo 10 a interoperabilidade e interco-
+nexión do rexistro.
+O capítulo III regula a asistencia para a identificación e a sinatura electrónicas e, no ar-
+tigo 11, establece as persoas ás que se lles proporcionará esta asistencia, os trámites e as
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44226
+actuacións que poderán realizarse e as condicións para o outorgamento do consentimento
+por parte das cidadás e cidadáns que lle soliciten esa asistencia ao persoal funcionario
+habilitado.
+Ademais, a disposición adicional determina o órgano competente para a actualización
+dos modelos normalizados recollidos nos anexos.
+A disposición derradeira primeira recolle a habilitación normativa e a disposición derra-
+deira segunda a entrada en vigor da norma.
+Finalmente, inclúense os anexos que recollen os modelos de Solicitude de alta, mo-
+dificación ou baixa no Rexistro do Persoal de Funcionario Público Habilitado e de Con-
+sentimento expreso para a súa identificación e/ou sinatura electrónicas por medio dunha
+funcionaria ou funcionario público habilitado.
+III
+O decreto axústase aos principios de boa regulación contidos no artigo 129 da
+Lei 39/2015, do 1 de outubro, e no artigo 37.a) da Lei 14/2013, do 26 de decembro, de
+racionalización do sector público autonómico de Galicia.
+O decreto preséntase como unha norma necesaria e eficaz, ao atoparse xustificada por
+unha razón de interese xeral, basearse nunha identificación clara dos fins perseguidos, ser
+o instrumento máis axeitado para garantir a seguridade xurídica e evitar cargas administra-
+tivas innecesarias á cidadanía. Ademais, é eficiente ao non supoñer un custo significativo,
+xa que actúa de xeito proactivo e racionaliza, na súa aplicación, a xestión dos recursos
+públicos.
+Do mesmo xeito, este decreto contén a regulación imprescindible para atender a nece-
+sidade que se pretende cubrir, de xeito que cumpre co principio de proporcionalidade. Así
+mesmo, garántese a seguridade xurídica, posto que contribúe a xerar un marco normativo
+estable, predicible, integrado, claro e de certeza que facilita o seu coñecemento e com-
+prensión e, en consecuencia, a actuación e a toma de decisións da cidadanía, empresas e
+institucións, en coherencia co resto do ordenamento xurídico nacional e da Unión Europea.
+Ademais, na tramitación desta norma respectouse o principio de transparencia, o que
+posibilita que as potenciais persoas destinatarias teñan unha participación activa na súa
+elaboración.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44227
+Finalmente, na elaboración desta disposición observáronse os trámites previstos na
+Lei 16/2010, do 17 de decembro, de organización e funcionamento da Administración xeral
+e do sector público autonómico de Galicia, entre os que cómpre destacar a realización dun-
+ha consulta pública previa, o sometemento do proxecto ao trámite de información pública
+para garantir a participación cidadá, así como a emisión dos informes preceptivos.
+De conformidade co exposto, por proposta do conselleiro de Facenda e Administración
+Pública, de acordo co ditame do Consello Consultivo de Galicia, e logo da deliberación do
+Consello da Xunta de Galicia na súa reunión do día tres de agosto de dous mil vinte e seis,
+DISPOÑO:
+CAPÍTULO I
+Disposicións xerais
+Artigo 1. Obxecto
+1. Este decreto ten por obxecto a regulación do Rexistro do Persoal Funcionario Público
+Habilitado e da asistencia para a identificación e a sinatura electrónicas das persoas inte-
+resadas por parte deste persoal, en desenvolvemento dos artigos 77 e 36 da Lei 4/2019,
+do 17 de xullo, de administración dixital de Galicia.
+2. En particular, regúlase o funcionamento e a organización do Rexistro do Persoal Fun-
+cionario Público Habilitado, o persoal funcionario habilitado que será obxecto de inscrición
+nel, o alcance e a vixencia da habilitación e os requisitos e as condicións para a identi-
+ficación e a sinatura electrónicas das persoas interesadas mediante persoal funcionario
+público habilitado.
+Artigo 2. Ámbito de aplicación
+1. Este decreto será de aplicación á Administración xeral da Comunidade Autónoma, así
+como ás entidades públicas instrumentais recollidas no artigo 45.a) da Lei 16/2010, do 17
+de decembro, de organización e funcionamento da Administración xeral e do sector público
+autonómico de Galicia.
+2. Segundo o sinalado no artigo 77.4 da Lei 4/2019, do 17 de xullo, as restantes admi-
+nistracións públicas galegas poderanse adherir voluntariamente a este rexistro mediante
+os correspondentes convenios de colaboración.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44228
+3. De acordo co previsto no artigo 13.b) da Lei 39/2015, do 1 de outubro, do procede-
+mento administrativo común das administracións públicas, a Administración autonómica e
+as entidades públicas instrumentais do sector público autonómico asistirán as persoas no
+uso de medios electrónicos nas súas relacións coas administracións públicas.
+De xeito específico, a Administración autonómica e as entidades públicas instrumen-
+tais do sector público autonómico asistirán as persoas que non están non obrigadas a
+relacionarse a través de medios electrónicos coa Administración que así o soliciten para a
+identificación e/ou a sinatura electrónicas mediante persoal funcionario público habilitado.
+Artigo 3. Protección de datos de carácter persoal
+Os tratamentos de datos de carácter persoal someteranse ás exixencias da normativa
+en materia de protección de datos persoais, en especial o Regulamento (UE) 2016/679
+do Parlamento Europeo e do Consello, do 27 de abril de 2016, relativo á protección das
+persoas físicas no que respecta ao tratamento dos seus datos persoais e á libre circulación
+destes datos, e polo que se derroga a Directiva 95/46/CE e a Lei orgánica 3/2018, do 5 de
+decembro, de protección de datos persoais e garantía dos dereitos dixitais.
+CAPÍTULO II
+Rexistro do Persoal Funcionario Público Habilitado
+Artigo 4. Xestión do rexistro
+O órgano de dirección da Administración xeral da Comunidade Autónoma competente
+en materia de emprego público será o encargado da xestión do Rexistro do Persoal Fun-
+cionario Público Habilitado.
+Artigo 5. Persoal inscrito no rexistro
+Inscribirase no Rexistro do Persoal Funcionario Público Habilitado o seguinte persoal en
+situación de servizo activo:
+a) O persoal funcionario habilitado que realice funcións de atención ás cidadás e cida-
+dáns nas oficinas da Rede de oficinas de atención á cidadanía e de rexistro. Este persoal
+estará habilitado para a identificación e a sinatura electrónicas das persoas interesadas
+naqueles procedementos e servizos que se determinen e para a expedición de copias au-
+ténticas de calquera documento que estas presenten.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44229
+b) O persoal funcionario habilitado para a expedición de copias auténticas dos docu-
+mentos públicos administrativos ou privados, xa sexa en formato papel ou electrónico,
+conforme ao disposto no artigo 27 da Lei 39/2015, do 1 de outubro.
+c) O persoal funcionario habilitado para a identificación e a sinatura electrónicas das
+persoas interesadas naqueles procedementos e servizos que determinen a consellería ou
+entidade competente para a súa tramitación.
+d) O persoal funcionario habilitado das restantes administracións públicas galegas no
+caso da prestación de servizos á cidadanía que impliquen a actuación coordinada e com-
+plementaria de diversas administracións no territorio.
+Artigo 6. Órganos competentes para solicitar a inscrición no rexistro
+1. No caso do apartado a) do artigo 5, o órgano competente para solicitar a inscrición
+será aquel ao que lle corresponda a dirección, coordinación e control das oficinas de asis-
+tencia en materia de rexistro e atención á cidadanía.
+2. No caso do apartado b) do artigo 5, o órgano competente para solicitar a inscrición
+para a expedición de copias auténticas será aquel ao que lle corresponda a emisión, cus-
+todia ou arquivo dos documentos orixinais, así como aqueles órganos que teñan atribuída
+a función de expedición de copias auténticas.
+3. No caso do apartado c) do artigo 5, o órgano de dirección ao que lle corresponda
+a xestión do persoal de cada consellería ou entidade será o competente para solicitar a
+inscrición do persoal funcionario que preste servizos nos órganos e unidades dependentes
+deles para a identificación e a sinatura electrónicas das persoas interesadas.
+4. Para a incorporación ao rexistro do persoal funcionario das restantes administracións
+públicas galegas no caso da prestación de servizos á cidadanía que impliquen a actua-
+ción coordinada e complementaria de diversas administracións no territorio, será precisa
+a presentación do anexo I asinado polo titular do órgano competente da correspondente
+Administración pública.
+Artigo 7. Inscrición, modificación e baixa no rexistro
+1. As anotacións de inscrición, modificación e baixa no Rexistro do Persoal Funcionario
+Público Habilitado realizaraas o órgano encargado da xestión do rexistro.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44230
+2. Unha vez realizada a inscrición do persoal funcionario, o rexistro xerará unha cre-
+dencial na que se fará constar a súa identificación persoal e administrativa, o tipo de habi-
+litación, os procedementos e servizos aos que alcanza esta e a súa data de inicio. Tamén
+deberá xerarse a correspondente credencial no caso de modificarse os termos da habili-
+tación.
+Artigo 8. Vixencia da habilitación
+1. A habilitación producirá efectos no momento da súa inscrición ou na data posterior
+que se indique para tal efecto.
+2. A habilitación estará vixente mentres non se produza un cambio de posto de traballo
+ou non se supriman os procedementos ou servizos para os que alcanza a habilitación.
+3. Así mesmo, a habilitación poderá ser revogada en calquera momento a solicitude do
+órgano competente para a solicitude da súa inscrición.
+Artigo 9. Contido do rexistro
+O Rexistro do Persoal Funcionario Público Habilitado deberá proporcionarlle a cada
+persoa inscrita a seguinte información:
+a) Documento nacional de identidade ou documento equivalente de acreditación da
+identidade.
+b) Nome e apelidos da funcionaria ou funcionario.
+c) Órgano ou entidade no que presta servizos e centro de destino identificado mediante
+o seu código de unidade no Directorio común de unidades orgánicas e oficinas, e indica-
+rase o código de oficina no caso de persoal que presta servizos nas oficinas da Rede de
+oficinas de atención á cidadanía e de rexistro.
+d) Posto de traballo que desempeña, coa indicación da denominación e do código da
+relación de postos de traballo, de existir esta.
+e) Data de alta no rexistro.
+f) Data de baixa no rexistro, se é o caso.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44231
+g) Tipo de habilitación: para a expedición de copias auténticas e/ou para a identificación
+e a sinatura electrónicas das persoas interesadas.
+h) No caso de que a habilitación sexa para a identificación e a sinatura electrónicas das
+persoas interesadas, procedementos e servizos para os que está habilitada, identificados
+mediante o código recollido no Inventario de información administrativa.
+Artigo 10. Interoperabilidade e interconexión
+1. Para facilitar a xestión administrativa das unidades, o Rexistro do Persoal Funcionario
+Público Habilitado integrarase ou estará interconectado con outras aplicacións operativas
+da Administración autonómica. Por esa razón, as persoas responsables dos órganos ou
+das unidades administrativas tramitadoras dos procedementos e servizos en cuxa xestión
+interveña un funcionario ou funcionaria habilitada poderán solicitar o acceso á información
+contida no rexistro, co obxecto de comprobar a vixencia e o alcance da habilitación.
+2. De igual forma, o rexistro, será interoperable e garantirase a interconexión con outros
+rexistros da mesma natureza dependentes de calquera Administración pública, conforme
+aos artigos 12.3 da Lei 39/2015, do 1 de outubro, e 77.5 da Lei 4/2019, do 17 de xullo, para
+os efectos de comprobar a validez das habilitacións.
+CAPÍTULO III
+Asistencia para a identificación e a sinatura electrónicas
+Artigo 11. Identificación e sinatura electrónicas das persoas interesadas por persoal
+funcionario habilitado
+1. Para os efectos do previsto no artigo 77.7 da Lei 4/ 2019, do 17 de xullo, na Guía de
+procedementos e servizos constará a indicación dos procedementos e servizos nos que
+poderá realizarse a identificación e/ou a sinatura electrónicas das persoas interesadas me-
+diante persoal funcionario público habilitado.
+2. As persoas interesadas non obrigadas a relacionarse electronicamente coa Adminis-
+tración e que non dispoñan dos medios electrónicos necesarios para a súa identificación
+e/ou sinatura electrónicas poderán solicitar a súa realización por persoal funcionario públi-
+co habilitado, e para tal fin deben comparecer ante calquera oficina da Rede de oficinas de
+atención á cidadanía e de rexistro ou, cando así se estableza, ante o órgano ou a unidade
+administrativa encargada da tramitación do correspondente procedemento.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44232
+Para que a identificación e/ou a sinatura electrónicas poida realizarse validamente por
+persoal funcionario público habilitado será necesario que a persoa interesada se identifique
+mediante a presentación do documento nacional de identidade ou, cando sexa estranxeira,
+do número de identificación de estranxeiro, documento de identificación de identidade no
+país de orixe ou pasaporte en vigor.
+Igualmente, deberá consentir expresamente a súa identificación e/ou sinatura electró-
+nica por persoal funcionario habilitado para cada actuación administrativa que requira me-
+dios electrónicos. Para iso, deberá cubrir e asinar o formulario que figura como anexo II nas
+oficinas da Rede de oficinas de atención á cidadanía e de rexistro e na sede electrónica da
+Xunta de Galicia.
+Esta asistencia será prestada polo persoal funcionario público habilitado mediante o uso
+do sistema de sinatura electrónica de que estea dotado.
+3. Logo de finalizada a actividade realizada, o persoal funcionario habilitado entregaralle
+á persoa interesada toda a documentación acreditativa do trámite ou xestión realizado e
+unha copia do documento de consentimento expreso cuberto e asinado. Esta documenta-
+ción estará dispoñible na carpeta cidadá.
+4. Estes documentos conservaranse na oficina da Rede de oficinas de atención á cida-
+danía e de rexistro ou na que se prestase a asistencia solicitada pola persoa interesada,
+como proba da actuación realizada e do consentimento para facela efectiva.
+5. O alcance da intervención do persoal funcionario limitarase a lles proporcionar ás
+persoas interesadas os medios electrónicos necesarios para a identificación e/ou a sinatu-
+ra electrónicas, sen que tal intervención se estenda á comprobación do contido da docu-
+mentación achegada por aquelas, á veracidade do que declaren ou ao cumprimento dos
+requisitos esixidos nas solicitudes, trámites ou procedementos.
+Disposición adicional única. Actualización de modelos normalizados
+A consellería competente en materia de emprego público será o órgano competente
+para a actualización dos modelos normalizados recollidos nos anexos I e II.
+Disposición derradeira primeira. Habilitación normativa
+Facúltase a persoa titular da consellería competente en materia de emprego público
+para que aprobe as disposicións necesarias para o desenvolvemento deste decreto no
+relativo á organización e materias propias do seu departamento.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44233
+Disposición derradeira segunda. Entrada en vigor
+O presente decreto entrará en vigor aos vinte días da súa publicación no Diario Oficial
+de Galicia.
+O Rexistro do Persoal Funcionario Público Habilitado entrará en funcionamento aos tres
+meses da entrada en vigor deste decreto.
+Santiago de Compostela, tres de agosto de dous mil vinte e seis
+Alfonso Rueda Valenzuela
+Presidente
+Miguel Corgos López-Prado
+Conselleiro de Facenda e Administración Pública
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44234
+ANEXO I
+Solicitude de alta, modificación ou baixa no Rexistro do Persoal Funcionario
+Público Habilitado
+DATOS DO ÓRGANO OU ENTIDADE
+Órgano ou entidade
+Código DIR3
+Centro de destino
+Titular do órgano competente para efectuar a habilitación
+DATOS DA FUNCIONARIA OU FUNCIONARIO HABILITADO
+DNI ou documento equivalente de acreditación da
+identidade
+Nome e apelidos
+Código do posto de traballo
+Denominación do posto de traballo
+INFORMACIÓN PARA AS ALTAS OU MODIFICACIÓNS NO REXISTRO
+Data de alta
+Data de baixa
+Tipo de habilitación:
+Emisión de copias auténticas
+Identificación e sinatura das persoas interesadas
+Procedementos e servizos para os que está
+habilitada/o
+INFORMACIÓN PARA AS BAIXAS NO REXISTRO
+Data de baixa
+SINATURA DA PERSOA TITULAR DO ÓRGANO COMPETENTE
+Lugar e data
+, de de
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44235
+ANEXO II
+Consentimento expreso para a identificación e/ou a sinatura electrónicas por
+medio dunha funcionaria ou funcionario habilitado
+DATOS DA PERSOA INTERESADA
+NOME PRIMEIRO APELIDO SEGUNDO APELIDO NIF
+TIPO NOME DA VÍA NÚM. BLOQ. ANDAR PORTA
+PARROQUIA LUGAR
+CÓDIGO
+PROVINCIA CONCELLO LOCALIDADE
+POSTAL
+TELÉFONO 1 TELÉFONO 2 CORREO ELECTRÓNICO
+ACTUACIÓNS (Neste apartado, recollerase o procedemento ou o servizo para o que se
+presta o consentimento, que se identificará polo seu código e denominación na Guía de
+procedementos e servizos)
+A persoa interesada consente en que a súa identificación e/ou sinatura electrónicas
+para a realización das actuacións indicadas sexa realizada por unha funcionaria ou
+funcionario público mediante o uso do sistema de sinatura electrónica, de acordo co
+establecido no parágrafo segundo do número 2 do artigo 12 da Lei 39/2015, do 1 de
+outubro, do procedemento administrativo común das administracións públicas, e no
+artigo 36 da Lei 4/2019, do 17 de xullo, de administración dixital de Galicia.
+SINATURA DA PERSOA INTERESADA
+Lugar e data
+, de de
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC
+
+DOG Núm. 151 Mércores, 12 de agosto de 2026 Páx. 44236
+INFORMACIÓN BÁSICA SOBRE A PROTECCIÓN DE DATOS PERSOAIS
+Responsable do tratamento Xunta de Galicia. Consellería de Facenda e Administración Pública.
+Finalidades do tratamento Asistencia no uso de medios electrónicos ás persoas interesadas.
+Lexitimación para o O cumprimento dunha misión realizada en interese público ou no
+tratamento exercicio de poderes públicos, en particular na Lei 39/2015, do 1 de
+outubro, do procedemento administrativo común das
+administracións públicas, e na Lei 4/2019, do 17 de xullo, de
+administración dixital de Galicia.
+Destinatarias dos datos As administracións públicas no exercicio das súas competencias e, en
+particular, a unidade ou órgano administrativo responsable da
+actuación para a que se outorga o consentimento.
+Exercicio de dereitos As persoas interesadas poderán solicitar da responsable do
+tratamento o acceso, rectificación, oposición, limitación,
+portabilidade e supresión dos seus datos, a través da sede
+electrónica da Xunta de Galicia ou nos lugares e rexistros
+establecidos na normativa reguladora do procedemento
+administrativo común, segundo se recolle en
+https://www.xunta.gal/exercicio-de-dereitos
+Contacto coa persoa https://www.xunta.gal/informacion-xeral-proteccion-datos
+delegada de protección de
+datos e máis información
+LEXISLACIÓN APLICABLE
+Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administracións públicas.
+Lei 4/2019, do 17 de xullo, de administración dixital de Galicia.
+Decreto 89/2026, do 3 de agosto, polo que se regula o Rexistro do Persoal Funcionario Público
+Habilitado e a asistencia para a identificación e a sinatura electrónicas no ámbito da
+Administración xeral da Comunidade Autónoma de Galicia e das entidades públicas instrumentais
+do sector público autonómico.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+22pjzyi7u4zm-0gmm-8hqj-2mgs-7mvp38oc
+:GOD-EVC

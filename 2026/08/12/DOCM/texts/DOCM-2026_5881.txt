@@ -1,0 +1,74 @@
+AÑO XLV Núm. 153 12 de agosto de 2026 30196
+V.- ANUNCIOS
+OTROS ANUNCIOS OFICIALES
+Consejería de Desarrollo Sostenible
+Anuncio de 30/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, sobre información
+pública del proyecto de instalación de energía eléctrica denominado: Planta solar fotovoltaica de 21300
+kW PF Los Crespos, y sus infraestructuras de evacuación, emplazado en el término municipal de
+Almansa (Albacete), a efectos de modificación de la autorización administrativa previa y de la autorización
+administrativa de construcción. Referencia: 02250401984/02240108022. [2026/5881]
+Según lo establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y el Decreto 80/2007, de 19 de
+junio, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica a tramitar por
+la Junta de Comunidades de Castilla-La Mancha, y su régimen de revisión e inspección, se somete a información
+pública el proyecto que se indica a continuación, a efectos de modificación de la resolución de 20/07/2023 de
+autorización administrativa previa y de autorización administrativa de construcción, y publicada en el DOCM de
+31/07/2023.
+Los datos básicos de los proyectos modificados de la planta solar fotovoltaica (FV), e infraestructuras de evacuación
+(subestación transformadora 66/30 kV (ST)), son:
+- Referencia fotovoltaica (FV): 02250401984.
+- Peticionario: Botein Investments, S.L.U. CIF: B- 42885533.
+- Denominación del proyecto modificado de ejecución de FV: Planta solar fotovoltaica de 21,3 MW “PF Los Crespos”,
+de enero de 2026 y suscrito el 4/02/2026, por Dº Antonio Navarro Albal.
+- Denominación del proyecto modificado de ejecución de ST: Subestación transformadora 66/30 kV, 30 MVA “ST Los
+Crespos”, de enero de 2026 y suscrito el 4/02/2026, por Dº Antonio Navarro Albal.
+- Ubicación de FV: Parcelas 107, 10107, 30107 y 40107 del polígono 519, del T.M. de Almansa (Albacete).
+- Descripción FV: Constituida por 23.212 módulos fotovoltaicos bifaciales de 715 Wp (potencia de la cara superior)
+c/u, y 9.772 módulos fotovoltaicos bifaciales de 720 Wp (potencia de la cara superior) c/u, montados sobre seguidor
+solar en eje horizontal (N-S), y una potencia pico total instalada (incluida la ganancia) de 27.177 kWp. La planta
+contará para la conversión de energía de CC a CA, a una tensión de salida de 800 V, con 71 inversores de tipo
+multi-string para exterior, de 300 kW de potencia c/u, y potencia total de inversores de 21.300 kW. El cableado de
+continua será de cobre tipo RV-K 0,6/1 kV, con montaje superficial al aire sobre la estructura, hasta los inversores. El
+cableado en alterna desde inversores hasta los cuadros de baja tensión ubicados en la ET, será de aluminio, aéreo
+trenzado tipo 0,6/1 kV RZ. Dispondrá de las protecciones necesarias tanto en continua como en alterna, así como un
+edificio prefabricado para sala de control y almacén de repuestos. Superficie delimitada por vallado de 460.279,88
+m². Potencia instalada de la planta: 21.300 kWn.
+- Infraestructuras de 30 kV de FV: Dispondrá de tres estaciones transformadoras (ET), en contenedor marítimo
+adaptado para alojar un armario de maniobra exterior con el conjunto de cuadros generales de protección de BT en
+CA a 800 V, un compartimento con el transformador de potencia de aceite de tipo exterior con relación 0,8/30 kV, y
+un armario de maniobra exterior que contendrá un conjunto de celdas 36 kV, formadas por celda de línea de salida,
+celda de protección general con interruptor automático, y celda de línea de entrada. La ET-3 y la ET-2 dispondrán de
+un transformador de 6600 kVA, y la ET-1 dispondrá de un transformador de 9000 kVA.
+Las ET’s se irán conectando entre sí, y con final en la ST “Los Crespos” 66/30 kV, mediante una línea subterránea
+de alta tensión de 30 kV, S/C, enterrada directamente, de conductor tipo Al HEPRZ1 18/30 kV, y sección de 240 mm²
+en el tramo de 768 m entre ET-3 y ET-2, en 400 mm² en el tramo de 662 m entre ET-2 y ET-1, y de 630 mm² en el
+tramo de 421 m entre ET-1 y la ST. La longitud total será de 1851 m.
+- Servicios auxiliares de FV: Los consumos asociados a inversores, sistema de seguridad, sistema de monitorización,
+y edificio de control, serán realizados desde transformadores de servicios auxiliares ubicado en las ET’s.
+- -Subestación transformadora “Los Crespos” 66/30 kV, (ST). Referencia ST: 02240108022.
+- Ubicación de ST: En parcela 40107 del polígono 519, del T.M. de Almansa (Albacete).
+- Descripción ST: Destinada a la evacuación compartida de las plantas solares fotovoltaicas “PF Virgen de Belén”,
+y “PF Los Crespos”. El sistema de 66 kV, tiene una configuración de simple barra tipo intemperie, con una posición
+de transformador / línea convencional con interruptor, con el aparellaje necesario, y un transformador 66/30 kV de
+
+AÑO XLV Núm. 153 12 de agosto de 2026 30197
+30 MVA. El sistema de 30 kV es interior-exterior, con un edificio de control, celdas, y comunicaciones, que alojará en
+una sala el conjunto de celdas de 36 kV, constituidas por 1 celda de protección del transformador, 2 celdas de línea,
+1 celdas de servicios auxiliares que alimenta un transformador seco de servicios auxiliares de 150 kVA, y relación
+30/0,400-0,23 kV, 1 celda de medida de tensión, y espacio para 4 futuras posiciones. En exterior en la salida de 30
+kV del transformador 66/30 kV, se instalará una reactancia trifásica de puesta a tierra de 500 a-30 segundos. La ST
+será telegestionada, disponiendo de los sistemas necesarios de protección y control en alterna y continua.
+- Línea eléctrica de 66 kV para evacuación (LAT), con referencia LAT: 02210103699, y origen en la ST “Los Crespos”,
+y final en barras de 66 kV de la ST “Almansa” de 132/66/20 kV, de i-DE Redes Eléctricas Inteligentes, y punto de
+conexión. Con longitud total de 3.441,7 m, en simple circuito, y conductor tipo Al HEPRZ1 de sección de 630 mm²,
+y que no ha sido objeto de modificación sustancial.
+- Presupuesto de ejecución material de FV+ST+LAT: 7.622.769,58 €.
+- Finalidad: Producción de energía eléctrica por generación fotovoltaica, transformación, transporte y vertido a la red
+de distribución en 66 kV.
+Lo que se hace público para que pueda ser examinado el proyecto, en el Servicio de Industria y Energía, sito en Avd.
+de España, nº 8-B., de Albacete, C.P. 02071, o en el tablón electrónico de la JCCM a través del enlace:
+https://www.jccm.es/servicios/tablon-de-anuncios
+pudiendo presentarse las alegaciones que se estimen oportunas en el plazo de 20 días, contados a partir del
+siguiente al de la publicación de este anuncio.
+Albacete, 30 de julio de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ
