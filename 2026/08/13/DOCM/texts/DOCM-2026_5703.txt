@@ -1,0 +1,78 @@
+AÑO XLV Núm. 154 13 de agosto de 2026 30242
+V.- ANUNCIOS
+OTROS ANUNCIOS OFICIALES
+Consejería de Desarrollo Sostenible
+Anuncio de 22/07/2026, de la Delegación Provincial de Desarrollo Sostenible de Guadalajara, para información
+pública del proyecto Nueva LSMT. 20 kV S/C desde apoyo número 9418 hasta nuevo CS,Camino Bustares,
+número 903712319, a efectos de la Autorización Administrativa Previa, del expediente 2021DIST024, cuya
+tramitación ha sido declarada de urgencia. [2026/5703]
+Según lo establecido en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico, y en el Decreto 80/2007, de 19 de
+junio, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica a tramitar por
+la Junta de Comunidades de Castilla-La Mancha, y su régimen de revisión e inspección, modificado por el Decreto
+34/2017, de 2 de mayo, se somete al trámite de información pública el proyecto preliminar para el que se solicita
+autorización administrativa previa. Dicha solicitud se tramita conjuntamente con la de autorización administrativa de
+construcción.
+Por acuerdo de esta Delegación Provincial se ha declarado la aplicación al presente procedimiento de la tramitación
+de urgencia, al amparo del artículo 33.1 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común
+de las Administraciones Públicas, por concurrir razones de interés público derivadas de la necesidad de restablecer
+en condiciones definitivas el suministro eléctrico en la zona afectada por el incendio de La Mierla. En consecuencia,
+el plazo del trámite de información pública previsto en el artículo 9.2.a) del Decreto 80/2007 queda reducido a la
+mitad.
+Referencia: 2021DIST024
+Denominación: Nueva L.S.M.T. 20 kV S/C desde apoyo N.º 9418 hasta Nuevo C.S. «Camino Bustares» N.º 903712319
+Peticionario: I-DE Redes Eléctricas Inteligentes, S.A.U. (C.I.F. A-95075578)
+Situación: Términos municipales de Bustares y Condemios de Arriba (Aldeanueva de Atienza), en Guadalajara.
+Características:
+Línea de Alta Tensión
+N.º Expediente: 2021DIST024
+Titular: I-DE Redes Eléctricas Inteligentes, S.A.U.
+TT. MM. de Bustares y Condemios de Arriba (Aldeanueva de
+Ubicación:
+Atienza) (Guadalajara)
+Año: 2026
+Tipo de conductor: HEPRZ1 12/20 kV 3(1x240) mm² Al + H16
+N.º Circuitos: 1 / 2 (1.215 m en simple circuito y 80 m en doble circuito)
+Tipo de instalación: Subterránea
+Longitud: 1.295 metros de traza
+Tensión: 20 kV
+X: 493.717 Y: 4.556.502 (apoyo n.º 9418 existente, doble entronque
+Origen (Coordenadas 30 UTM ETRS89):
+aéreo-subterráneo)
+X: 494.110 Y: 4.556.920 (nuevo C.S. «Camino Bustares» n.º
+Vértices (Coordenadas 30 UTM ETRS89):
+903712319)
+X: 494.110 Y: 4.556.986 y X: 494.114 Y: 4.556.988 (empalmes
+Fin (Coordenadas 30 UTM ETRS89): con la L.S.M.T. existente entre el C.S. «Alto Rey» y el repetidor de
+Bustares)
+
+AÑO XLV Núm. 154 13 de agosto de 2026 30243
+Centro de Seccionamiento
+N.º Expediente: 2021DIST024
+Titular: I-DE Redes Eléctricas Inteligentes, S.A.U.
+Denominación: C.S. «Camino Bustares» n.º 903712319
+Ubicación: Polígono 1, parcela 2.106, T.M. de Bustares (Guadalajara)
+Coordenadas 30 UTM ETRS89: X: 494.110 Y: 4.556.920
+Año: 2026
+Tipo: Prefabricado de superficie, tipo CMS-21 o similar
+Conjunto compacto automatizado 3L1A (tres celdas de línea y una
+Celdas:
+celda de servicios auxiliares), aislamiento y corte en SF6, 24 kV
+Tensión: 20 kV
+Telemandado, con armario de automatización y transformador de
+Otras características:
+servicios auxiliares de 600 VA
+Nota: La anterior descripción tiene carácter meramente indicativo. Para una descripción detallada de la misma se
+deberá acudir a la documentación técnica que se encuentra en el expediente.
+Órgano competente para la resolución: Delegación Provincial de la Consejería de Desarrollo Sostenible en
+Guadalajara.
+Lo que se hace público por orden del Delegado Provincial de Desarrollo Sostenible, a efectos de que pueda ser
+examinado el expediente, pudiendo ser consultado en el Servicio de Industria y Energía de la Delegación Provincial
+de la Consejería de Desarrollo Sostenible en Guadalajara, sito en C/ Federico García Lorca, 14, Guadalajara, C.P.
+19071, así como en la siguiente dirección electrónica:
+https://almacen.redsara.es/sending/public/882cd5aa-4ae1-4e7a-849f-cc637bfd72e5,
+donde podrá consultar el proyecto, pudiendo presentar las alegaciones1 que se estimen oportunas, durante el plazo
+de diez (10) días hábiles contados a partir del siguiente al de la publicación de este anuncio, en aplicación de la
+tramitación de urgencia declarada conforme al artículo 33.1 de la Ley 39/2015, de 1 de octubre.
+Guadalajara, 22 de julio de 2026
+El Delegado Provincial
+RUBÉN GARCÍA ORTEGA
