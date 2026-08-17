@@ -1,0 +1,130 @@
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 325
+I. COMUNIDAD DE CASTILLA Y LEÓN
+E. ANUNCIOS
+E.2. Otros Anuncios Oficiales
+CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA
+Servicio Territorial de Industria, Comercio y Economía de Valladolid
+ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid,
+por el que se somete a información pública la solicitud de autorización administrativa
+previa y autorización administrativa de construcción de una instalación de distribución
+eléctrica, en el término municipal de Valladolid. Expte.: AT-51797 ATCT-2959.
+Vista la solicitud de fecha 19/06/2026 de i-DE Redes Eléctricas Inteligentes S.A.U.
+(en adelante I-De) con N.I.F. A95075578 y domicilio a efectos de notificaciones en
+C/ Vázquez de Menchaca n.º 19–Polígono de Argales (Valladolid),
+A los efectos previstos en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico
+y en el Decreto 46/2022, de 24 de noviembre, por el que se regulan los procedimientos
+de autorizaciones administrativas de instalaciones eléctricas en Castilla y León, se
+somete a información pública, al no presentar los informes favorables de todas las
+Administraciones y empresas de servicios de interés general afectadas (Ayuntamiento de
+Valladolid), la solicitud de autorización administrativa previa y autorización administrativa
+de construcción del proyecto denominado: «Proyecto de dos centros de transformación
+«Morelia 1» Y «Morelia 2», enlace con infraestructura a 13,2/20 kv y nueva red de
+baja tensión para suministro a edificio de viviendas en calle Morelia de la ciudad de
+Valladolid» firmado por el Ingeniero Juan Carlos Llames Álvarez, con visado VD2600949 a
+fecha 30/04/2026 en el Colegio Oficial de Ingenieros Técnicos Industriales de León.
+Las características principales se señalan a continuación.
+Expediente: AT-51797 ATCT-2959.
+Peticionario: i-DE Redes Eléctricas Inteligentes S.A.U.
+Objeto: El objeto del presente proyecto es el de especificar las condiciones técnicas,
+de ejecución y económicas de la instalación de dos Centros de Transformación de
+Compañía tipo edificio prefabricado subterráneos para una capacidad máxima en cada
+caso de un transformador de 630 kVA (inicialmente se instalarán transformadores de
+400 kVA), la alimentación a 13,2/20 kV y la red en Baja Tensión de cada uno de los
+C.T, para llevar a cabo la demanda de energía eléctrica del nuevo edificio de 100 viviendas,
+quedando previsto para futuras demandas de energía eléctrica en la zona.
+CV: BOCYL-D-17082026-158-35
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 326
+Características:
+RED DE MEDIA TENSIÓN
+Tipo de red: Subterránea Bajo Tubo. Categoría de la línea: 3ª Categoría Tensión
+Nominal: 13,2/20 kV Tensión más elevada: 24 kV Línea Subterránea a 13,2/20 kV «Doctor
+Villacian» (5) explotada como «La Vega 1» de la Subestación STR «El Peral»
+TRAMO 1
+Origen: Empalme a instalar en la LSMT a 13,2/20 kV «DOCTOR VILLACIAN» (5)
+explotada como «LA VEGA 1» procedente del CT «Parquesol 32» N.º120129470.
+Final: Celda de Línea prevista en nuevo Centro de Transformación de Compañía CT
+«Morelia 1»
+Conductor a instalar HEPRZ1 12/20 kV 3(1x240) mm² Al K +H16 → Longitud aprox.
+40 m.
+TRAMO 2
+Origen: Celda de Línea prevista en nuevo Centro de Transformación de Compañía
+CT «Morelia 1».
+Final: Celda de Línea prevista en nuevo Centro de Transformación de Compañía CT
+«Morelia 2»
+Conductor a instalar HEPRZ1 12/20 kV 3(1x240) mm² Al K +H16. → Longitud aprox.
+92 m.
+TRAMO 3
+Origen: Celda de Línea prevista en nuevo Centro de Transformación de Compañía
+«Morelia 2».
+Final: Empalme a instalar en la LSMT a 13,2/20 kV «Doctor Villacian» (5) explotada
+como «La Vega 1» procedente del CT «Parquesol 34» N.º120129490
+Conductor a instalar HEPRZ1 12/20 kV 3(1x240) mm2 Al K +H16. → Longitud aprox.
+42 m
+CENTRO DE TRANSFORMACIÓN «Morelia 1»
+Tipo Edificio prefabricado subterráneo de Compañía tipo EPSH-24-630 s/NI 50.40.02.
+Configuración Celdas CNE 2L-1PF -24 TELE Interconexión A.T. Celda-Trafo (1) HEPRZ1
+(AS) 12/20 kV 3(1x50) mm2 Al Transformador (Posición 1) Transformador de 400 kVA
+B2A Interconexión BT. Trafo-Cuadro BT (1) XZ1 (S) 0,6/1 kV 3x3(1x240) +2(1x240) mm2
+Al Cuadro B.T. (1) Cuadro con cinco salidas tipo CBT-EAS-ST-SL-1600-5 Telegestión
+Comunicaciones vía Operador Móvil/PLC
+CV: BOCYL-D-17082026-158-35
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 327
+CENTRO DE TRANSFORMACIÓN «MORELIA 2»
+Tipo Edificio prefabricado subterráneo de Compañía tipo EPSH-24-630 s/NI 50.40.02.
+Configuración Celdas CNE 2L-1PF -24 TELE Interconexión A.T. Celda-Trafo (1) HEPRZ1
+(AS) 12/20 kV 3(1x50) mm2 Al Transformador (Posición 1) Transformador de 400 kVA
+B2A Interconexión BT. Trafo-Cuadro BT (1) XZ1 (S) 0,6/1 kV 3x3(1x240) +2(1x240) mm2
+Al Cuadro B.T. (1) Cuadro con cinco salidas tipo CBT-EAS-ST-SL-1600-5 Telegestión
+Comunicaciones vía Operador Móvil/PLC
+RED DE BAJA TENSIÓN CENTRO DE TRANSFORMACION «Morelia 1»
+Transformador 1 POSICIONES OCUPADAS: L01-L02–L03-L04 POSICIONES
+LIBRES: L05
+L01: Potencia 78,145 kW, Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 10 m)
+L02: Potencia 103,445 kW, Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 81 m)
+L03: Potencia 86,195 kW Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 81 m)
+L04: Potencia 91,764 kW, Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 106 m)
+RED DE BAJA TENSIÓN CENTRO DE TRANSFORMACION «MORELIA 2»
+Transformador 1 POSICIONES OCUPADAS: L01-L02–L03-L04-L05
+L01: Potencia 47,02 kW, Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 28 m)
+L02: Potencia 154,67 kW Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 71 m)
+L03: Potencia 124,205 kW Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 74 m)
+L04: Potencia 93,325 kW Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 77 m)
+L05: Potencia 152,98 kW Cable 0,6/1 kV XZ1 (S) 0,6/1 kV 3(1x240)+1x150 mm² Al
+(Long = 71 m)
+Ubicación de la instalación: Calles Martín Santos Romero y Morelia de la ciudad de
+Valladolid.
+Presupuesto: Dieciocho mil ciento cincuenta y ocho euros con cuatro céntimos de
+euro (232.143,00 €).
+CV: BOCYL-D-17082026-158-35
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 328
+Lo que se hace público a los efectos del artículo 9 del Decreto 46/2022, de 24 de
+noviembre, para que cualquier persona pueda examinar el proyecto, en la página web de
+la Junta de Castilla y León, sección correspondiente a Energía y Minería, con dirección
+electrónica:
+https://energia.jcyl.es/web/es/informacion-publica-energia-minas/energia-valladolid.html
+y formular las alegaciones que considere oportunas ante el Servicio Territorial de
+Industria, Comercio y Economía de Valladolid, en la Plaza del Milenio, n.º 1 – 6ª planta,
+en días hábiles de lunes a viernes, en horario de 9 a 14 horas, en el plazo de veinte días,
+contados a partir de la publicación de este anuncio.
+Valladolid, 2 de julio de 2026.
+El Jefe del Servicio Territorial,
+(P.A. Res. 08/06/2026)
+La Secretaria Técnica
+Fdo.: Isabel del Blanco Álvarez
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-17082026-158-35

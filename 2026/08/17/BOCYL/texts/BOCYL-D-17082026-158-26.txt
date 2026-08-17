@@ -1,0 +1,665 @@
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 271
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Valladolid
+RESOLUCIÓN de 10 de agosto de 2026, de la Delegación Territorial de Valladolid,
+por la que se hace público el informe de impacto ambiental del proyecto de nuevo
+sondeo para abastecimiento de agua, en el término municipal de San Pelayo (Valladolid),
+promovido por su Ayuntamiento. Expte.: EIA VA-2025-154.
+La Delegación Territorial, es el órgano administrativo de medio ambiente competente
+para ejercer en el ámbito de la Comunidad de Castilla y León, las funciones fijadas en
+el artículo 11.2 de la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, en virtud
+del artículo 52.2.a) del Decreto Legislativo 1/2015, de 12 de noviembre, por el que se
+aprueba el texto refundido de la Ley de Prevención Ambiental de Castilla y León.
+El proyecto de referencia se somete al procedimiento de evaluación de impacto
+ambiental simplificada en aplicación de lo dispuesto en el artículo 7.2 de la Ley
+21/2013, de 9 de diciembre, de evaluación ambiental, al estar incluido en su Anexo II,
+concretamente en el Grupo 3, Perforaciones, dragados y otras instalaciones mineras e
+industriales, apartado a) Perforaciones profundas, con excepción de las perforaciones
+para investigar la estabilidad o la estratigrafía de los suelos y subsuelo, en particular, el
+punto 3.° Perforaciones para el abastecimiento de aguas.
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+1. Objeto y descripción del proyecto.
+El objeto del proyecto es la ejecución de un nuevo sondeo para el abastecimiento
+de agua al municipio de San Pelayo. Se proyecta en el paraje Las Matas, en el centro del
+municipio de San Pelayo, en la parcela catastral: 47150A001000420000RO
+San Pelayo cuenta con una captación, que parte de un manantial, donde el agua tiene
+problemas d escasez, contaminación por nitratos y una dureza elevada. Este manantial
+está situado en el paraje de Antanal, situado a unos 80 m de la captación disponen de un
+depósito antiguo.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 272
+La red de alimentación al municipio tiene una longitud de unos 1200 m. Las
+canalizaciones eléctrica e hidráulica discurrirán por el camino de Antanal. En el
+presupuesto aparece como partida el desbroce y limpieza superficial del terreno por
+medios mecánicos, incluso tala con extracción de tocón y poda de árboles necesaria
+para disponer de un ancho mínimo de trabajo.
+Se estima una duración de los trabajos de 4 semanas.
+Una vez realizada la nueva captación se procederá a clausurar la existente toma
+actual (a partir de un manantial).
+Actuaciones de clausura del sondeo existente:
+– Limpieza del sondeo: extraer equipos.
+– Sellado (tapado).
+– Protección superficial: cubrir la boca del sondeo y señalizar.
+– Documentación y cierre administrativo.
+– Restaurar ambiental.
+San Pelayo cuenta con la concesión de CHD(c-0432/2023).
+DESCRIPCIÓN DEL PROYECTO Y EMPLAZAMIENTO
+Parcela 42 Polígono 1
+Término municipal SAN PELAYO Provincia Valladolid
+UTM (X) Uso 30 331.163 UTM (Y) Uso 30 4.617.526 Altitud 770 m
+Masa de agua
+Cuenca hidrográfica Duero 400032
+subterránea
+Profundidad sondeo 180 Potencia bomba 5,5 kw
+Volumen de agua Caudal máximo
+7.131 m³ 1,56l/s
+extraíble instantáneo
+Las características del nuevo sondeo son:
+- Profundidad: 180 metros.
+- Perforación 222 mm de diámetro y entubado en 180 mm.
+- Limpieza sondeo mediante bombeo de agua con aire comprimido.
+Descripción - Tubería de impulsión 50 mm. para llevar el agua al depósito (aproximadamente a 280 m
+del sondeo).
+- Bomba de potencia 5,5 kW a 180 m.
+- Caudal instantáneo de derivación: 1,56 l/s.
+- Contador tipo Wolman.
+2. Documento ambiental.
+Las diversas alternativas geográficas para el desarrollo del proyecto de sondeo son:
+Alternativa 0 (no actuación). Consiste en no ejecutar el proyecto.
+Consecuencia: se mantienen los problemas actuales de abastecimiento en San
+Pelayo (escasez y mala calidad del agua).
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 273
+Alternativa 1 (ejecución del proyecto). Consiste en realizar un nuevo sondeo para
+captación de agua subterránea. Incluye la definición del tipo de captación más adecuado
+tras estudio hidrogeológico.
+Dentro de la alternativa 1 se hace un análisis de elección por el del nivel de captación:
+Se identifican tres unidades geoeléctricas:
+Unidad 1 (0–200 m): Arcillas con arenas, limos y gravas. Interés hidrogeológico:
+ALTO (mejor calidad del agua).
+Unidad 2 (hasta ~600 m): Similar litología pero con alta salinidad. Interés: BAJO
+(agua no apta).
+Unidad 3 (>600 m): Unidad profunda con información geológica incierta. Interés
+indeterminado (alta profundidad y poca viabilidad).
+Se selecciona la Unidad 1 como óptima. La profundidad aproximada del sondeo son
+180 m, está ubicado próximo al depósito existente.
+3. Tramitación y consultas realizadas.
+3.1. Solicitud de inicio del procedimiento. Con fecha de 21 de noviembre de 2025 se
+recibe en el Servicio Territorial de Industria, Comercio y Economía de Valladolid.
+La solicitud de inicio del procedimiento de evaluación de impacto ambiental
+simplificada, acompañando dicha solicitud del documento «Proyecto de sondeo
+para extracción de aguas subterráneas en San Pelayo(Valladolid)».
+3.2. Consulta a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 46, de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, con fecha de 06 de febrero de 2026 se
+procedió por parte del Servicio Territorial de Medio Ambiente de Valladolid, a la
+apertura del trámite de consultas a las Administraciones públicas afectadas y a
+las personas interesadas. La relación de los organismos consultados, así como
+los informes recibidos de forma previa a la redacción del presente informe se
+refleja en la siguiente tabla:
+ADMINISTRACIONES PÚBLICAS AFECTADAS Y PERSONAS INTERESADAS EMISIÓN DE INFORME
+Confederación Hidrográfica del Duero Sí
+Sección de Protección Civil de la Delegación Territorial No
+Servicio Territorial de Medio Ambiente de Valladolid. Área del Medio Natural Sí
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Valladolid. Sí
+Servicio Territorial de Cultura, Turismo de Valladolid Sí
+Diputación Provincial de Valladolid Si
+Ayuntamiento de San Pelayo No
+Asociación Ecologistas en Acción No
+Los informes emitidos analizan técnicamente el proyecto desde las distintas
+perspectivas sectoriales, sugiriendo, en algunos casos, el establecimiento de medidas
+correctoras que se incorporan al condicionado de este informe de impacto ambiental:
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 274
+La Confederación Hidrográfica del Duero informa que en el entorno no se identifican
+elementos hidrológicos sensibles, como embalses, zonas húmedas catalogadas, áreas
+de baño ni zonas vulnerables a la contaminación.
+El Organismo de cuenca incluye una serie de medidas correctoras que se han
+incorporado a este informe de impacto ambiental.
+El Área de Medio Natural del Servicio Territorial de Medio Ambiente de Valladolid
+emite informe relativo a las afecciones al medio natural, en el que se constata la ausencia
+de colindancia o coincidencia geográfica con espacios naturales protegidos; espacios
+de la Red Natura2000; con vías pecuarias; con el ámbito de planificación de especies;
+con montes de utilidad pública, montes privados y otros montes gestionados; con flora
+protegida de Castilla y León; con especímenes vegetales de singular relevancia; con zonas
+húmedas catalogadas; con hábitats prioritarios; con zonas naturales de esparcimiento;
+con otras figuras de protección: Reservas naturales fluviales / Reservas de la biosfera /
+Geoparques mundiales / Áreas Ramsar / Otras; con propuestas de lugares geológicos
+o paleontológicos de interés especial; con propuestas de microrreservas de flora; con
+hábitats de interés comunitario no amparados por Red Natura 2000; así como con el
+paisaje. En consecuencia, no es previsible una afección a dichas figuras o valores
+naturales.
+El Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Valladolid emite
+informe donde indica que actualmente, no se prevén actuaciones destacables en esta
+zona que pudieran interferir en el proyecto del sondeo. Por todo lo expuesto se concluye
+que, en relación con las materias competencia de esta Área del Servicio Territorial, no
+existen interferencias para la realización del citado proyecto.
+El Servicio Territorial de Cultura, Turismo de Valladolid, analizada la documentación
+remitida, informa que, dada la reducida área de afección no se considera que puedan
+producirse afecciones al patrimonio Arqueológico documentado y, por tanto, no sería
+preciso en el trámite ambiental realizar la estimación de la incidencia sobre el Patrimonio
+Cultural, conforme establece el artículo 62 de la Ley 7/2024, de 20 de junio, del Patrimonio
+Cultural de Castilla y León y 80 a 83 del Decreto 37/2007, de 19 de abril, por el que se
+aprueba el reglamento para la protección del Patrimonio Cultural de Castilla y León, a
+los efectos de dar respuesta a lo requerido en el artículo 35 de la ley 21/2013, de 9 de
+diciembre, de evaluación ambiental.
+La Diputación Provincial de Valladolid no procede emitir informe al respecto, teniendo
+en cuenta que de acuerdo con la legislación vigente la Diputación Provincial no tiene
+competencias específicas en las materias relacionadas.
+4. Análisis del proyecto según los criterios del Anexo III.
+El pronunciamiento se justificará con arreglo a los criterios establecidos en el
+artículo 47.2, recogidos en el Anexo III, de la Ley 21/ 2013, de 9 de diciembre, de
+evaluación ambiental, que se analizan a continuación:
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+Dimensiones y diseño del conjunto del proyecto. El proyecto consiste en la ejecución
+de un sondeo para abastecimiento de agua potable al municipio de San Pelayo, con una
+profundidad aproximada de 180 m y las instalaciones asociadas (bomba, conducción
+hidráulica y conexión eléctrica). Se trata de una actuación puntual y de pequeña escala,
+sin grandes movimientos de tierras ni ocupaciones extensivas del territorio.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 275
+Acumulación con otros proyectos existentes y/o aprobados. No se identifican otros
+proyectos relevantes en el entorno inmediato que puedan generar efectos acumulativos
+significativos.
+Utilización de recursos naturales. El recurso principal es el agua subterránea
+(acuífero del Páramo de Torozos). El volumen autorizado es reducido (≈ 7.131 m³/año),
+por lo que el consumo es limitado y sostenible, considerando que el estado cuantitativo
+del acuífero es bueno. Uso de materiales y energía propios de obras de perforación, de
+carácter temporal.
+Generación de residuos. En la fase de obra se generan residuos de construcción y
+demolición, que serán gestionados por gestores autorizados (tierras contaminadas, lodos,
+etc.) y en la fase de explotación los residuos generados serán muy escasos (plásticos,
+aceite, gasoil, etc.) y se entregarán también a gestores autorizados en función de su
+naturaleza. El impacto es bajo, temporal y controlado.
+Contaminación y otras perturbaciones. Se producirán principalmente en la fase de
+obra y consistirán en las emisiones a la atmósfera relacionadas con cualquier actividad
+vinculada al uso de maquinaria, como es la perforadora. Durante la fase de funcionamiento
+y abandono apenas se va a producir contaminación ni perturbaciones.
+Riesgos de accidentes graves y/o catástrofes.
+El proyecto incorpora medidas de seguridad: Tapa metálica con candado para evitar
+caídas. Control estricto para prevenir contaminación accidental de aguas subterráneas.
+Procedimientos para clausura segura si fuera necesario, presenta riesgo muy bajo sin
+sustancias peligrosas ni infraestructuras complejas.
+Se considera que la ejecución del proyecto y su puesta en marcha no van a generar
+un especial riesgo de accidentes de carácter ambiental, ni supondrá un riesgo añadido de
+incendio siempre y cuando se cumplan las condiciones expuestas en el presente informe
+y en el documento ambiental.
+Riesgos para la salud humana. Este tipo de actividades no supone un riesgo de
+accidentes graves y/o catastróficos relevantes, ni se considera que puedan tener
+incidencia sobre el cambio climático o riesgos para la salud humana con los conocimientos
+científicos actuales y siempre y cuando se cumpla con toda la normativa relativa a este
+tipo de proyectos, se cumplan las medidas preventivas y correctoras, y se lleve a cabo la
+vigilancia ambiental propuesta en el proyecto.
+4.2. UBICACIÓN DEL PROYECTO.
+Uso presente y aprobado del suelo. La parcela se localiza en el Polígono 1 Parcela 42
+del Término Municipal de San Pelayo, con referencia catastral 47150A001000420000RO,
+en el paraje Las Matas. Suelo de carácter agrícola (cultivos de secano), con baja
+naturalidad y alto grado de transformación antrópica.
+Abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa de los
+recursos naturales de la zona y su subsuelo. Considerando la escasa superficie de suelo
+a ocupar, su uso actual y el aprovechamiento que se pretende, se estima que la ubicación
+presenta escasa sensibilidad ambiental.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 276
+Este tipo de proyecto tiene una capacidad de regeneración muy sencilla y rápida,
+una vez que finaliza la fase útil de los mismo ya que una vez producido el cese de la
+actividad se lleva a cabo un desmantelamiento de todas las infraestructuras y el completo
+sellado de la captación con material inerte, de tal forma que no quede alterado el flujo
+subterráneo en el entorno del sondeo y que el terreno quede en condiciones similares a
+las condiciones geológicas originales.
+Capacidad de absorción del medio natural. Se constata que el proyecto no coincide
+territorialmente ni afectará indirectamente a:
+• Espacios Naturales Protegidos.
+• Espacios de la Red Natura 2000.
+• Vías Pecuarias.
+• Ámbito de planificación de especies.
+• Montes de Utilidad Pública, montes privados y otros montes gestionados.
+• Flora Protegida de Castilla y León.
+• Especímenes Vegetales de Singular Relevancia.
+• Zonas húmedas catalogadas.
+• Hábitats prioritarios.
+• Zonas naturales de esparcimiento.
+• Reservas naturales fluviales / Reservas de la biosfera / Geoparques mundiales /
+Áreas Ramsar / Otros.
+• Propuestas de lugares geológicos o paleontológicos de interés especial.
+• Propuestas de microrreservas de flora.
+• Hábitats de interés comunitario no amparados por Red Natura 2000.
+• Paisaje.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+Magnitud y alcance espacial del impacto. Se trata de un impacto espacial muy
+reducido, el área afectada 100 m² es mínima. Los impactos se concentran en la propia
+parcela y no afectan a terceros.
+Intensidad y complejidad del impacto. Baja intensidad con emisiones atmosféricas
+y acústicas bajas y muy temporales. Sin vertidos ni ocupación permanente adicional. El
+volumen de agua extraído es muy pequeño.
+Probabilidad del impacto. Con las medidas del proyecto (gestión de lodos,
+precauciones sanitarias, clausura correcta, control de volúmenes, contador homologado),
+la probabilidad de impacto es: Muy baja.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 277
+Inicio previsto y duración, frecuencia y reversibilidad del impacto. Explotación:
+de carácter habitual agrícola, sin efectos irreversibles. El terreno se recupera tras la
+perforación. La mayoría de los impactos serán temporales, reversibles a corto o medio
+plazo, localizados y recuperables.
+Acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. Los sondeos cercanos ya se encuentran ejecutados, por lo que la acumulación
+de impactos no se daría.
+Posibilidad de reducir el impacto de manera eficaz. Los posibles impactos serán
+eliminados o minimizados siempre y cuando se apliquen las medidas preventivas y
+correctoras incluidas en el documento ambiental, en este informe y demás legislación
+vigente que le sea de aplicación.
+5. Informe de impacto ambiental.
+Por todo ello, considerado adecuadamente tramitado el expediente y de acuerdo
+con lo establecido en el artículo 47 de la Ley 21/2013, de 9 de diciembre, de evaluación
+ambiental, teniendo en cuenta el resultado de las consultas realizadas y siguiendo los
+criterios del Anexo III de la citada ley, la propuesta de la Comisión Territorial de Medio
+Ambiente y Urbanismo de Valladolid es:
+Determinar que el «Proyecto de Nuevo Sondeo para abastecimiento de Agua al
+Municipio», en el T.M. de San Pelayo (Valladolid), promovido por Ayuntamiento San Pelayo»
+no tiene efectos significativos sobre el medio ambiente, en los términos establecidos
+en el presente informe de impacto ambiental, por los motivos que se justifican en el
+mismo, siempre y cuando se cumplan las condiciones que se recogen a continuación,
+y sin perjuicio del cumplimiento de la normativa urbanística y sectorial vigentes u otras
+normas que pudieran impedir o condicionar su realización.
+5.1. Medidas protectoras. Las medidas preventivas y correctoras, a efectos
+ambientales, a las que queda sujeta la ejecución del proyecto son las siguientes,
+además de las contempladas en el documento ambiental aportado, de noviembre
+de 2025, en lo que no contradigan a estas:
+I. FASE DE PROYECTO.
+Autorizaciones previas. Se deberán obtener cuantas autorizaciones fueran
+necesarias, asegurando el cumplimiento de la normativa de aplicación en cada
+caso.
+El presente informe no exime de cualquier autorización o concesión que competa
+otorgar en aplicación de la legislación vigente.
+Se recuerda que el uso del agua sin la correspondiente autorización o concesión
+supone una infracción administrativa y puede ser objeto de sanción
+II. FASE DE CONSTRUCCIÓN.
+a) Accesos. El acceso a la finca se realiza a través del camino de Antanal. Los
+caminos utilizados deberán mantenerse en perfectas condiciones de uso,
+evitando su deterioro, así como las ocupaciones que dificulten el tránsito o la
+funcionalidad. En caso de producirse daños o deterioro durante la perforación,
+deberán ser restaurados a su estado original.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 278
+b) Maquinaria. La maquinaria utilizada en las distintas fases del proyecto
+estará sometida a un correcto mantenimiento preventivo, conforme a las
+instrucciones del fabricante y normativa vigente, con el fin de minimizar la
+emisión de contaminantes, evitar la excesiva producción de ruidos y el vertido
+de contaminantes por roturas o averías.
+Se exigirá que toda la maquinaria de obra cuente con las fichas técnicas
+de potencia acústica y cumpla la normativa que regula las emisiones de
+maquinaria de uso al aire libre.
+c) Instalaciones temporales de obra y acopios de materiales. Con el fin de
+garantizar que las zonas afectadas por la ejecución del proyecto sean las
+mínimas imprescindibles, se deberán replantear y señalizar antes del
+comienzo de las obras las zonas de trabajo y las zonas donde se van a ubicar
+las instalaciones temporales de obra, evitando cualquier afección al dominio
+público hidráulico.
+Se minimizarán las zonas de acopio de materiales. En su conjunto se ubicarán
+fuera del ámbito de cauces o cualquier otra área identificada con alguna
+figura de protección, terrenos de vía pecuaria, terrenos de monte, tenga o no
+arbolado y otras zonas sensibles.
+Se deberá emplear un dispositivo en el que recoger los lodos y otros productos
+resultantes de la ejecución del sondeo, que posteriormente deberán ser
+gestionados según lo establecido en la normativa sectorial de residuos. Estos
+dispositivos podrán ser contenedores o piscinas autoportantes, o bien balsas
+excavadas in situ, las cuales deberán estar debidamente impermeabilizadas
+mediante lámina tipo PEAD. El espesor mínimo de la lámina deberá ser
+de 1 mm.
+Se utilizará como zona de acopios una zona delimitada dentro de la parcela en
+la que se encuentra el sondeo.
+La ubicación de la balsa de lodos, que tendrá unas dimensiones adecuadas,
+se elegirá teniendo en cuenta que no exista riesgo de desbordamiento,
+atendiendo a las adversidades climáticas y otros aspectos que pudieran
+afectar a su efectividad. Se encontrará en todo momento convenientemente
+señalizada y protegida. Una vez terminada la obra, la balsa será tapada con el
+material anteriormente retirado.
+d) Gestión de residuos y suelos contaminados. Los residuos generados durante
+la fase de construcción se gestionarán en función de su catalogación,
+debiendo cumplirse a este respecto, lo estipulado en la normativa que regula
+la producción y gestión de los residuos de construcción y demolición. Los
+aceites usados y cualquier otro residuo peligroso deberán ser retirados por
+gestor autorizado.
+En general, la producción, almacenamiento y gestión de los residuos será la
+adecuada para cada tipo, debiéndose cumplir en todo momento lo establecido
+en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una
+economía circular, y resto de normativa de desarrollo.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 279
+Los estériles que se produzcan en el interior de la obra, una vez finalizada la
+explanación, deberán retirarse a medida que se vayan produciendo, evitando
+así la acumulación de materiales y la necesidad de terrenos de acopio. Estos
+materiales deberán gestionarse adecuadamente retirándose a vertedero o
+gestor autorizado.
+Una vez ejecutada la obra, se procederá a la retirada de todos los materiales
+y restos generados. Se realizará una limpieza general de la zona afectada y
+se deberá restaurar tanto la zona directamente alterada como aquellas áreas
+afectadas por el paso de maquinaria y vehículos, manteniendo su topografía
+y sustrato original, procediendo, en caso necesario, a la descompactación del
+suelo en las áreas naturales.
+Se prohíbe la acumulación incontrolada o el vertido de escombros en la zona
+objeto del proyecto o en sus alrededores; en ningún caso los materiales
+sobrantes se depositarán en los cauces de ríos o arroyos, ni en sus márgenes
+o proximidades. Durante el desarrollo de los trabajos se adoptarán las medidas
+necesarias para evitar cualquier posible afección indeseada a las aguas o al
+terreno.
+En el caso de producirse accidentalmente vertidos de residuos peligrosos,
+se deberán llevar a cabo inmediatamente operaciones de descontaminación,
+limpieza y recuperación de suelos afectados. Se retirará la porción de suelo
+contaminado, si existiera, y se entregarán a un gestor autorizado según las
+características del depósito o vertido.
+e) Protección de los suelos. Se realizarán los mínimos movimientos de tierra y se
+separará la tierra vegetal para ser utilizada posteriormente en la adecuación
+del terreno en el entorno de la instalación. La capa superior de suelo vegetal
+se retirará y acopiará en montones de pequeña altura.
+En caso de necesitar áridos o cualquier otro material de relleno, distintos del
+propio material excavado, estos materiales deberán proceder de proveedores
+o extracciones autorizadas, quedando prohibida en todo caso la extracción
+de préstamos en zonas próximas a las obras, salvo que se dispongan de las
+preceptivas autorizaciones para ello, y conforme a la normativa vigente.
+f) Protección del dominio público hidráulico. Con carácter general se informa
+desfavorablemente la intercepción de cauces públicos o la modificación de
+estos en cualquiera de sus dimensiones espaciales.
+En todas las actuaciones a realizar se respetarán las servidumbres legales y,
+en particular, la servidumbre de uso público de 5 m en cada margen establecida
+en los artículos 6 y 7 del Reglamento del Dominio Público Hidráulico (en
+adelante, RDPH), aprobado por Real Decreto 849/1986, de 11 de abril, en su
+redacción dada por el Real Decreto 9/2008, de 11 de enero. A este respecto,
+se deberá dejar completamente libre de cualquier obra que se vaya a realizar
+dicha zona de servidumbre.
+Para la correcta identificación de los bienes que integran el dominio público
+hidráulico, podrá consultarse la cartografía oficial disponible en el Sistema
+Nacional de Cartografía de Zonas Inundables (SNCZI), el Inventario de Presas
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 280
+y Embalses del Ministerio para la Transición Ecológica o el visor cartográfico
+de la Confederación Hidrográfica del Duero. No obstante, estas herramientas
+tienen carácter orientativo, debiendo atenderse en todo caso a la definición
+legal vigente.
+g) Protección de las aguas subterráneas
+De acuerdo con lo dispuesto en el art. 170 bis del RDPH, la construcción
+y explotación de las captaciones de aguas subterráneas deberá realizarse
+de forma que preserve la integridad del acuífero, impidiendo la entrada de
+contaminantes y evitando la interconexión de acuíferos, para lo cual se
+deberán cumplir las instrucciones básicas para la protección de las aguas
+subterráneas frente a la entrada de contaminantes recogidas en el anexo III
+parte A del RDPH.
+Para la habilitación de los sondeos, en ningún caso se podrán utilizar tuberías
+ranuradas mediante empleo de radial o cualquier otra herramienta mecánica.
+El sondeo deberá ser entubado con tuberías comerciales dotadas de filtro.
+Cualquier captación de agua subterránea deberá contar con las instalaciones
+de seguridad pertinentes para evitar el riesgo de vertido de sustancias durante
+su construcción y explotación, sin menoscabo de permitir la medida del nivel
+piezométrico.
+La cementación del sondeo se deberá ejecutar de modo que se produzca
+el aislamiento de la zona superior no productiva, evitando la contaminación
+a través del espacio anular o desprendimientos del terreno y evitando la
+comunicación de acuíferos de diferentes calidades.
+En este caso, al tratarse de un acuífero semi-confinado o confinado debe
+penetrar 1 m por debajo del techo del acuífero. El cerramiento deberá ser
+adecuado a las características del sondeo de manera que impida también la
+caída de piedras o deshechos en su interior.
+– Se deberá emplear un dispositivo en el que recoger los lodos y otros
+productos resultantes de la ejecución del sondeo, que posteriormente
+deberán ser gestionados según lo establecido en la normativa sectorial
+de residuos. Estos dispositivos podrán ser contenedores o piscinas
+autoportantes, o bien balsas excavadas in situ, las cuales deberán estar
+debidamente impermeabilizadas mediante lámina tipo PEAD. El espesor
+mínimo de la lámina deberá ser de1 mm.
+– Si durante la explotación la captación quedara seca o no operativa, o se
+declarase la extinción del derecho al uso privativo de las aguas, el titular
+deberá proceder a la eliminación de los dos metros más superficiales de la
+tubería, así como al completo sellado de dicha captación con material inerte,
+de tal forma que no quede alterado el flujo subterráneo en el entorno de la
+misma y que el terreno quede en condiciones similares a las condiciones
+geológicas originales. Además, se procederá a la retirada de todos los
+materiales eléctricos y mecánicos para su reciclado, utilización o traslado a
+un vertedero autorizado, según establece el art. 188 bis del RDPH
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 281
+Se atenderá a lo dispuesto en los apartados 2 3 y 4 del artículo 32 del Plan
+Hidrológico vigente:
+• Toda captación directa de agua subterránea deberá permitir medir la
+profundidad del agua en su interior, tanto en reposo como durante el
+bombeo. Para ello todas las perforaciones deberán quedar equipadas
+con tubería auxiliar de al menos 30 mm de diámetro interior, para permitir
+la lectura del nivel piezométrico con una sonda o hidronivel eléctrico.
+• Para los pozos o sondeos que se encuentren en situación de surgencia
+se deberán tomar las medidas técnicas que impidan la salida libre del
+agua.
+• Cuando la captación se sitúe en la vertical de varias masas de agua
+subterránea se deberán cementar los tramos que no sean objeto de
+explotación, así como cuando se trate de masas de acuíferos multicapa
+con distinta presión hidrostática o composición química entre los distintos
+niveles.
+h) Posibles captaciones de aguas superficiales y/o subterráneas:
+La concesión administrativa otorgada por la Confederación Hidrográfica del
+Duero para el aprovechamiento de aguas subterráneas establece un volumen
+máximo anual de 7.131 m³, un caudal máximo instantáneo de 1,56 litros por
+segundo y un caudal medio equivalente de 0,23 litros por segundo.
+Estas condiciones fijan los límites de extracción autorizados, garantizando que
+el uso del recurso hídrico se realice de forma compatible con la disponibilidad
+del acuífero y conforme a la normativa vigente en materia de dominio público
+hidráulico, asegurando así una explotación sostenible del recurso.
+i) Vertidos. Durante la fase de ejecución de las obras, y en particular durante
+los movimientos de tierras, deberán implantarse las medidas necesarias
+para garantizar la adecuada retención de sólidos en suspensión antes de la
+evacuación de las aguas de escorrentía, evitando su incorporación a la red
+de drenaje natural. Asimismo, deberán adoptarse todas aquellas actuaciones
+necesarias para minimizar el riesgo de contaminación de las aguas superficiales
+y subterráneas.
+Con carácter general, queda prohibido el vertido directo o indirecto de aguas
+residuales o sustancias contaminantes —incluidas las generadas durante las
+pruebas de aforo y ensayos de bombeo— que puedan afectar a las aguas
+continentales o al dominio público hidráulico, así como los vertidos indirectos
+al subsuelo, salvo que se disponga de la correspondiente autorización
+administrativa, de acuerdo con lo establecido en el artículo 100 del Texto
+Refundido de la Ley de Aguas. Igualmente, deberán establecerse medidas
+preventivas que eviten cualquier vertido accidental de aceites, combustibles,
+lubricantes u otras sustancias peligrosas, recomendándose la elaboración
+de protocolos de actuación específicos que permitan una respuesta
+rápida y eficaz ante posibles incidentes, minimizando así las afecciones al
+medio hídrico.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 282
+Dado que la finalidad del sondeo es el abastecimiento de agua para consumo
+humano, se deberá prestar especial atención a la calidad del agua captada,
+en particular a la posible presencia de nitratos, con el fin de garantizar que
+el suministro cumpla en todo momento con los criterios técnico-sanitarios
+establecidos para el agua de consumo. En este sentido, será necesario
+realizar los controles analíticos oportunos y adoptar, en su caso, las medidas
+necesarias para asegurar su aptitud sanitaria.
+j) Protección de la fauna. Durante la explotación del sondeo, se aislará
+adecuadamente el cuadro electrógeno del sistema de bombeo, con el
+fin de minimizar las emisiones ruidosas que puedan afectar a la avifauna.
+Si se construye una caseta para el sondeo o el equipo de bombeo, deberá
+integrarse paisajísticamente, evitando materiales reflectantes o galvanizados
+y respetando la normativa urbanística vigente.
+La boca del sondeo permanecerá siempre cubierta para evitar la caída
+accidental de fauna silvestre.
+La conexión eléctrica, si la hubiera, se realizará mediante línea subterránea,
+debiendo solicitarse un nuevo informe indicando su trazado. Si no fuera
+posible, se adoptarán alternativas de suministro conforme al RD 1432/2008
+sobre protección de avifauna frente a colisión y electrocución.
+J) Protección de la vegetación. No estará permitido el uso de herbicidas ni biocidas
+en las labores de limpieza de la vegetación por el alto riesgo de contaminación
+de las aguas públicas y el daño a las poblaciones animales silvestres.
+k) Protección del paisaje. No podrán verse afectados los elementos estructurales
+del paisaje agrario de interés para la biodiversidad (linderos de piedra y de
+vegetación, muros de piedra, majanos, regatos, afloramientos rocosos, etc.),
+realizando su reposición al estado inicial en el caso de afección.
+Finalizada la obra, se retirarán materiales y residuos, se limpiará la zona
+afectada y se restaurarán las áreas alteradas, manteniendo topografía
+y sustrato originales, incluyendo la descompactación del suelo cuando
+sea necesario. Se cumplirá el artículo 5ª a) del Decreto 329/1991 sobre
+restauración de espacios naturales afectados por actividades mineras. Los
+residuos peligrosos se almacenarán y gestionarán mediante gestor autorizado
+conforme a la Ley 22/2011.
+l) Protección acústica. Durante la ejecución de las obras, la maquinaria que
+trabaje al aire libre cumplirá los valores límites de potencia sonora que se
+reflejan en el Real Decreto 212/2002, de 22 de febrero, por el que se regulan
+las emisiones sonoras en el entorno debidas a determinadas máquinas de uso
+al aire libre y cualquier otra normativa que resulte de aplicación.
+m) Prevención de incendios. En la ejecución de las actividades contenidas en este
+proyecto, deberán cumplirse las condiciones prescritas en la Orden vigente
+por la que se regula el uso del fuego y se establecen medidas preventivas
+para la lucha contra los incendios forestales en Castilla y León. Se prestará
+especial atención a las actividades permitidas o limitadas y a las medidas
+fijadas para el uso de maquinaria, contempladas todas en la citada Orden.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 283
+n) Protección del patrimonio histórico y arqueológico. En el caso de la zanja
+de conexión con el depósito, que no es objeto de evaluación ambiental, el
+Ayuntamiento propone realizar un control arqueológico de los movimientos de
+tierra durante la fase de ejecución. Atendiendo a que igualmente no se observan
+interferencias con bienes catalogados en la actualidad, se considera que la
+aplicación de tal medida garantiza la protección del patrimonio arqueológico
+presunto, no catalogado, pero igualmente protegido.
+III. FASE DE FUNCIONAMIENTO.
+o) Protección acústica. Durante el funcionamiento de la actividad no se
+sobrepasarán los niveles de ruido en el ambiente exterior determinados por
+la normativa de aplicación; en el caso de que se superasen estos niveles,
+se tomarán las medidas adecuadas como el aislamiento de estructuras y el
+empleo de atenuadores de ruido.
+p) Protección de las aguas. Si durante la explotación la captación quedara seca
+o no operativa, o se declarase la extinción del derecho al uso privativo de
+las aguas, el titular deberá proceder a la eliminación de los dos metros más
+superficiales de la tubería, así como al completo sellado de dicha captación
+con material inerte, de tal forma que no quede alterado el flujo subterráneo
+en el entorno de esta y que el terreno quede en condiciones similares a las
+condiciones geológicas originales. Además, se procederá a la retirada de
+todos los materiales eléctricos y mecánicos para su reciclado, utilización o
+traslado a un vertedero autorizado.
+Deberá cumplirse con la normativa vigente en cuanto a la captación y volumen
+de agua captada prevista, tanto la Ley de Aguas como el Real Decreto 3/2023,
+de 10 de enero, por el que se establecen los criterios técnico-sanitarios de la
+calidad del agua de consumo, su control y suministro.
+q) Prevención de accidentes. El sondeo deberá estar tapado y vallado para
+proteger a las personas y animales de caídas accidentales, así como para
+preservar el agua del acuífero de la contaminación.
+r) Producción y gestión de residuos. Tanto la gestión como la producción de
+residuos atenderán a lo dispuesto en la normativa sobre residuos y suelos
+contaminados, así como en las demás normas de desarrollo.
+Se llevarán a cabo medidas para la minimización de generación de los residuos
+en obra.
+s) Protección frente a riesgos de accidentes graves o catástrofes. Ninguna de
+las actuaciones previstas, ni los diferentes usos que se asignen al suelo, debe
+incrementar el riesgo hacia las personas, sus bienes y el medio ambiente.
+Si alguna de las actuaciones derivadas de la aprobación/modificación pudiera
+potencialmente aumentar estos riesgos, debería hacerse un análisis previo,
+indicando el grado de afección, así como las medidas necesarias para evitar
+incrementar dichos riesgos.
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 284
+t) Afecciones medioambientales sobrevenidas. Cualquier accidente o incidente
+que se produzca durante la ejecución y posterior explotación del proyecto
+con posible incidencia medioambiental, deberá comunicarse inmediatamente
+al órgano sustantivo y al Servicio Territorial de Medio Ambiente de Valladolid
+y, en el caso de que afecte al dominio público hidráulico, será puesto en
+conocimiento de la Confederación Hidrográfica del Duero.
+IV. FASE DE DESMANTELAMIENTO Y CESE.
+u) Restauración y abandono. Si el sondeo no resulta favorable y no llega a
+entubarse, se deberá sellar de forma adecuada para evitar caída de personas o
+animales, o la contaminación de los acuíferos. Para ello se procedería a rellenar
+el sondeo en toda su longitud con lechada de cemento y/o bentonita. Una vez
+concluida la ejecución del sondeo, se restaurará todo el entorno alterado por
+las obras requeridas, restauración de la balsa de lodos, desmantelamiento y
+limpieza del lugar ocupado por la perforadora, recuperando el aspecto natural
+de los terrenos. Se establecerá un procedimiento detallado de abandono
+en caso de resultar negativo el sondeo o por cualquier causa, incluyendo el
+sellado del sondeo que se prevé sustituir. Para el sellado se deberá emplear,
+en la medida de lo posible, materiales sólidos inertes, con objeto de lograr
+que el terreno quede en condiciones similares a las condiciones geológicas
+originales, eliminando los 2 m más superficiales de tubería y procediendo a su
+sellado y relleno con tierra vegetal.
+5.2. Informes periódicos: A partir del inicio de las actuaciones, el promotor presentará
+anualmente ante el órgano sustantivo un informe sobre el desarrollo del programa
+de vigilancia ambiental. Se recogerá el resultado de los controles, así como
+el grado de eficacia y cumplimiento de las medidas preventivas y correctoras
+establecidas en la documentación aportada y en este informe de impacto
+ambiental.
+5.3. Seguimiento y vigilancia. Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de
+ello, el órgano ambiental podrá recabar información de aquél al respecto, así
+como efectuar las comprobaciones necesarias para verificar el cumplimiento del
+condicionado de este informe de impacto ambiental.
+5.4. Autorización del proyecto y publicidad. Conforme a lo establecido en el
+artículo 48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el
+órgano sustantivo deberá tener en cuenta en el procedimiento de autorización
+del proyecto, las conclusiones del presente informe de impacto ambiental, así
+como las condiciones ambientales establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de
+diez días desde que se adopte la decisión de autorizar o denegar el proyecto,
+un extracto del contenido de dicha decisión y publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al
+boletín oficial donde se publicó el informe de impacto ambiental.
+5.5. Modificaciones. En caso de modificar el proyecto original, por ejemplo, en caso
+de que se reforme o amplíe el camino de acceso, así como sí se instala un
+cerramiento perimetral o ante la necesidad de nuevas acometidas a suministros
+CV: BOCYL-D-17082026-158-26
+
+Boletín Oficial de Castilla y León
+Núm. 158 Lunes, 17 de agosto de 2026 Pág. 285
+(electricidad, agua, saneamiento, etc.), se deberá presentar un nuevo proyecto
+para la evaluación de sus afecciones. Además, no se realizará ningún tipo de
+obra auxiliar que el proyecto no contemple y que requiera una evaluación de
+afecciones previa según la legislación vigente (líneas eléctricas, nuevos accesos,
+nuevas captaciones de agua, cerramientos, etc.).
+Cualquier variación en los parámetros o definición de las actuaciones proyectadas
+que pudiera producirse con posterioridad a este informe, deberá ser notificada
+previamente a la Delegación Territorial de la Junta de Castilla y León en Valladolid,
+que prestará su conformidad si procede, sin perjuicio de la tramitación de las
+licencias o permisos que, en su caso, correspondan. Se consideran exentas de
+esta notificación, a efectos ambientales, las modificaciones que se deriven de la
+aplicación de las medidas protectoras de este informe.
+5.6. Vigencia del informe de impacto ambiental. Conforme a lo establecido en el
+artículo 47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este
+informe de impacto ambiental perderá su vigencia y cesará en la producción de
+los efectos que le son propios, si en el plazo de cuatro años desde su publicación
+en el Boletín Oficial de Castilla y León, no se hubiera procedido a la autorización
+del proyecto.
+5.7. Objeto de recurso. De conformidad a lo establecido en el Art. 47.5 de la
+Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el informe de impacto
+ambiental no será objeto de recurso alguno sin perjuicio de los que, en su caso,
+procedan en vía administrativa o judicial frente al acto, en su caso, de autorización
+del proyecto.
+Valladolid, 10 de agosto de 2026.
+La Delegada Territorial,
+Fdo.: Raquel Alonso Hernández
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-17082026-158-26
