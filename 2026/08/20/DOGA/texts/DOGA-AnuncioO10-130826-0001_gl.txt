@@ -1,0 +1,313 @@
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45511
+III. OUTRAS DISPOSICIÓNS
+CONSELLO DE CONTAS DE GALICIA
+RESOLUCIÓN do 13 de agosto de 2026 pola que se ordena a publicación do
+Acordo do Pleno, do 29 de xullo de 2026, polo que se aproba o proxecto de
+política de uso da intelixencia artificial nesta entidade.
+En cumprimento do Acordo de 29 de xullo de 2026, do Pleno do Consello de Contas,
+polo que se aproba o proxecto de política de uso da intelixencia artificial no Consello de
+Contas de Galicia, resolvo publicar no Diario Oficial de Galicia o seu texto completo.
+Santiago de Compostela, 13 de agosto de 2026
+Juan Carlos Aladro Fernández
+Conselleiro maior do Consello de Contas de Galicia
+ANEXO
+Acordo do 29 de xullo de 2026, do Pleno do Consello de Contas de Galicia,
+polo que se aproba o proxecto de política de uso da intelixencia artificial
+no Consello de Contas de Galicia
+Preámbulo
+A transformación dixital e a aplicación de novos sistemas baseados na intelixencia arti-
+ficial no ámbito das administracións públicas achegan un conxunto de oportunidades para
+mellorar a eficiencia, a calidade técnica e mais o alcance cos que o Consello de Contas
+de Galicia desenvolve as funcións que ten encomendadas. A natureza das competencias
+esenciais do Consello –fiscalización externa do sector público da Comunidade Autónoma
+de Galicia, prevención da corrupción e función consultiva– exixe que calquera incorpora-
+ción tecnolóxica preserve os principios institucionais de independencia e sometemento ao
+ordenamento xurídico incluídos na Lei 6/1985, do 22 de marzo, do Consello de Contas de
+Galicia, e no Regulamento de réxime interior.
+Por outra banda, o eixe 3 do Plan estratéxico do Consello de Contas (2023-2028) esta-
+blece no obxectivo estratéxico 3.1 (Desenvolver sistemas avanzados de goberno do dato)
+a necesidade de asegurar que os datos recibidos e procesados respondan a criterios estri-
+tos de calidade en termos de corrección, fiabilidade, seguridade e utilidade. A seguir, pro-
+pón a creación dunha estrutura robusta de normas e procesos para asegurar a calidade do
+dato en todo o seu ciclo. Adicionalmente, o obxectivo estratéxico 3.2 (Implantar un modelo
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45512
+dixital e colaborativo de auditoría) insta para promover e articular o traballo colaborativo
+dos equipos de auditoría por medio da implantación do posto de traballo dixital.
+A intelixencia artificial xerativa pode e debe contribuír ao mellor cumprimento destes
+principios e á consecución dos obxectivos do plan estratéxico, sempre que o seu uso se
+realice dentro dun marco de gobernanza sólido, ético e seguro que garanta a primacía da
+decisión humana, a protección dos datos, a ausencia de nesgos inxustificados, a rastrexa-
+bilidade dos procesos e a inexistencia de automatismos susceptibles de afectar o xuízo
+profesional do persoal. Por todo isto, cómpre que o Consello de Contas de Galicia dispoña
+dunha política explícita para que a adopción da intelixencia artificial en todos os seus ám-
+bitos de actuación –non só na fiscalización, prevención e función de asesoramento, senón
+tamén nos seus procesos internos de administración e xestión– se realice de maneira co-
+herente, planificada e eficaz.
+A regulación proposta a través desta política é un primeiro paso que ten como finalidade
+promover non só a eficiencia no desenvolvemento de todas as actividades que se desen-
+volven dentro do Consello de Contas, senón tamén a calidade dos procesos, así como a
+dos produtos e resultados obtidos. Neste sentido, a creación dun marco regulatorio básico
+para a aplicación da intelixencia artificial concíbese como o alicerce sobre o que se poida
+ir consolidando unha arquitectura institucional que deberá necesariamente incorporar ou-
+tros aspectos, como a formación do persoal e a adopción de solucións técnicas concretas
+adaptadas a un contorno tecnolóxico en constante evolución.
+Esta política sitúase no contexto da regulación adoptada polas institucións con compe-
+tencias en materia de intelixencia artificial, así como polas iniciativas emprendidas polos
+referentes máis próximos no eido do control externo.
+Así, no ámbito da Unión Europea, atende ao Regulamento (UE) 2024/1689 do Parla-
+mento Europeo e do Consello, do 13 de xuño de 2024; ao Regulamento (UE) 2016/679,
+de protección dos datos persoais (RXPD); ás directrices da Comisión Europea relativas á
+definición de sistemas de intelixencia artificial establecida no Regulamento da Unión Eu-
+ropea 2024/1689, e ás directrices da Comisión sobre as prácticas de intelixencia artificial
+prohibidas que se establecen no Regulamento UE 2024/1689.
+No plano estatal, considera o establecido polo Real decreto lei 6/2023, do 19 de decem-
+bro, polo que se aproban medidas urxentes para a execución do Plan de recuperación,
+transformación e resiliencia en materia de servizo público de xustiza, función pública, réxi-
+me local e mecenado.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45513
+No eido autonómico, malia que a Lei 2/2025, do 2 de abril, para o desenvolvemento e
+impulso da intelixencia artificial en Galicia, non inclúe o Consello de Contas dentro do seu
+ámbito subxectivo de aplicación, este órgano de control externo recolle e fai seus os princi-
+pios consagrados nesta norma, en exercicio da súa autonomía organizativa como órgano
+estatutario.
+Para a elaboración da presente política, consideráronse de xeito moi salientable as ini-
+ciativas desenvolvidas en diferentes institucións de control externo. En concreto, tivéronse
+en conta documentos do Tribunal Europeo de Contas (Artificial Intelligence initial strategy
+and deployment roadmap 2024-206 e Artificial Intelligence strategy 2026-2023), así como
+as experiencias que están implantando nos ámbitos da formación e das aplicacións de
+carácter experimental á fiscalización o Tribunal de Contas e mais outros órganos autonó-
+micos de control externo. En particular, cómpre salientar como un froito relevante da cola-
+boración dos OCEX a aprobación dunha guía práctica de fiscalización para a aplicación da
+intelixencia artificial á auditoría no marco de Asocex.
+Por último, o presente texto tamén recolle aspectos derivados da Política do Comité
+Técnico Estatal da Administración Xudicial Electrónica (CTEAXE) de uso da intelixencia
+artificial na Administración de xustiza, do 21 de xuño de 2024, e a Instrución 2/2026, do 28
+de xaneiro, do Pleno do Consello Xeral do Poder Xudicial, na medida en que constitúen un
+referente inmediato dentro do sector público español.
+TÍTULO I
+Disposicións xerais
+Artigo 1. Obxecto
+A presente política ten por obxecto regular o uso, implantación, avaliación, supervisión e
+control das tecnoloxías baseadas en intelixencia artificial no ámbito do Consello de Contas
+de Galicia, garantindo a súa utilización responsable e cumprindo a normativa vixente e os
+seus principios institucionais.
+Artigo 2. Ámbito de aplicación
+Esta política é aplicable ao emprego dos recursos tecnolóxicos agrupados baixo a de-
+nominación de Intelixencia artificial no Consello de Contas de Galicia.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45514
+Artigo 3. Definicións
+Para os efectos desta política, enténdese por:
+a) Sistema de intelixencia artificial: sistema baseado nunha máquina que está deseñado
+para operar con distintos niveis de autonomía e capacidade de adaptación posterior ao seu
+despregamento e que, para obxectivos explícitos ou implícitos, infire a partir da entrada
+que recibe resultados tales como predicións, contidos, recomendacións ou decisións que
+poden influír en contornas físicas ou virtuais.
+b) Sistema de intelixencia artificial xerativa: sistema capaz de xerar de forma automa-
+tizada contidos, incluídos textos, imaxes, sons, códigos ou outros materiais, a partir de
+instrucións formuladas pola persoa ou axente usuario.
+c) Datos de fiscalización: toda información incorporada aos procedementos de fiscali-
+zación á que ten acceso o persoal do Consello no exercicio das súas funcións, incluídos
+borradores de informe, papeis de traballo, correspondencia con entidades fiscalizadas e
+datos de carácter reservado.
+d) Datos persoais: toda información sobre unha persoa física identificada ou identifica-
+ble, conforme ao artigo 4 do Regulamento (UE) 2016/679, do 27 de abril.
+e) Nesgo algorítmico: desviación sistemática nos resultados xerados por un sistema de
+intelixencia artificial derivada dos datos, modelos ou procesos utilizados, susceptible de
+producir efectos arbitrarios ou discriminatorios.
+f) Fontes abertas: toda información accesible ao público en xeral sen restricións.
+g) Alucinación: resposta xerada por un sistema de intelixencia artificial formalmente co-
+herente, pero de facto incorrecta, ficticia ou non verificable, presentada con aparencia de
+fundamento técnico.
+TÍTULO II
+Principios reitores do uso da intelixencia artificial
+Artigo 4. Primacía do xuízo humano
+A intelixencia artificial terá exclusivamente carácter de apoio e asistencia técnica, sen
+que poida substituír en ningún caso o xuízo profesional do persoal do Consello de Contas.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45515
+Artigo 5. Independencia institucional do Consello de Contas
+A utilización de sistemas de intelixencia artificial realizarase de maneira compatible coa
+independencia institucional do Consello de Contas respecto das entidades fiscalizadas,
+sen que os resultados xerados polos devanditos sistemas poidan condicionar, directa ou
+indirectamente, a obxectividade do xuízo profesional.
+Artigo 6. Legalidade, ética e proporcionalidade
+1. Comprobarase que o uso da intelixencia artificial se axuste sempre á legalidade vi-
+xente.
+2. Os sistemas de intelixencia artificial empregaranse unicamente cando sexan ade-
+cuados, necesarios, con proporcionalidade á finalidade perseguida, e sempre han evitar
+impactos indebidos sobre dereitos ou intereses lexítimos.
+Artigo 7. Transparencia, explicabilidade e intepretabilidade
+Todo uso de intelixencia artificial deberá ser auditable, documentable e susceptible de
+supervisión posterior para asegurar niveis suficientes de coñecemento sobre os eventos
+realizados no sistema (transparencia), o proceso a través do que se xeraron as decisións
+adoptadas polo sistema (explicabilidade) e a motivación da decisión e o contexto de aplica-
+ción para a persoa usuaria (interpretabilidade).
+Artigo 8. Categorías de risco e medidas de mitigación
+1. O uso da intelixencia artificial someterase a unha análise previa de riscos.
+2. As medidas de mitigación incluirán a limitación e a minimización de datos; a anonimi-
+zación ou a pseudoanonimización, cando proceda; os controis de acceso, e o rexistro de
+actividades.
+3. Queda prohibido o tratamento masivo ou indiscriminado de datos persoais e de datos
+de fiscalización mediante sistemas de intelixencia artificial.
+4. Os sistemas de intelixencia artificial autorizados deberán incorporar medidas técnicas
+e organizativas que garantan a seguridade dos datos tratados, a prevención de accesos
+non autorizados, a rastrexabilidade das operacións realizadas e a imposibilidade da súa
+reutilización con finalidades distintas daquelas para as que foron tratados.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45516
+Artigo 9. Non discriminación e control de nesgos
+1. Queda prohibida a utilización de sistemas de intelixencia artificial que, de forma coñe-
+cida ou probable, produzan nesgos discriminatorios ou resultados inxustos.
+2. O persoal do Consello adoptará as cautelas necesarias para identificar e evitar nes-
+gos algorítmicos derivados da utilización de sistemas de intelixencia artificial.
+3. Antes da autorización dun sistema de intelixencia artificial, avaliarase o risco de nes-
+gos coñecidos ou previsibles e estableceranse, de ser o caso, as condicións de uso que
+mitiguen ese risco.
+4. Adoptaranse mecanismos de avaliación periódica que permitan identificar nesgos non
+aparentes na fase de autorización inicial.
+Artigo 10. Formación e capacitación do persoal
+O persoal do Consello de Contas recibirá a formación e a capacitación específica sobre
+o uso dos sistemas de intelixencia artificial. O Consello asume o compromiso institucional
+de ofrecela de forma continuada. A formación recollerá tanto os aspectos técnicos coma os
+principios éticos e operativos da utilización da intelixencia artificial no ámbito do Consello
+de Contas, incluídos os riscos asociados á intelixencia artificial xerativa, os nesgos
+algorítmicos e as alucinacións.
+TÍTULO III
+Gobernanza da intelixencia artificial
+Artigo 11. Órgano de gobernanza da intelixencia artificial
+1. Créase o Comité de Gobernanza da Intelixencia Artificial como órgano colexiado en-
+cargado da coordinación, supervisión e control da implantación e uso da intelixencia artifi-
+cial no Consello de Contas.
+2. O Comité estará integrado por:
+a) Presidente/a: a Presidencia será asumida polo conselleiro ou conselleira maior ou a
+persoa en quen delegue.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45517
+b) Vogais: un auditor ou auditora por cada un dos distintos departamentos sectoriais do
+Consello, designado polo respectivo conselleiro ou conselleira; a persoa responsable do
+Servizo de Informática, e a persoa titular da Delegación de Protección de Datos.
+c) Secretario/a: actuará como secretario ou secretaria da Comisión a persoa titular da
+Secretaría Xeral do Consello de Contas ou a persoa en quen delegue.
+3. O Comité actuará segundo as normas xerais sobre órganos colexiados e elaborará un
+regulamento interno de funcionamento que será aprobado polo Pleno.
+4. En función das necesidades concretas, o Comité de Gobernanza poderá crear gru-
+pos de traballo integrados polo persoal que considere adecuado a cada actuación. Dada
+a súa importancia estratéxica, o persoal do Consello de Contas de Galicia prestará a súa
+colaboración a estes proxectos.
+Artigo 12. Funcións específicas do Comité de Gobernanza da Intelixencia Artificial
+Corresponderanlle ao órgano indicado no artigo anterior:
+a) Autorizar novos usos, proxectos ou adquisicións de sistemas de intelixencia artificial.
+b) Avaliar os riscos derivados do uso da intelixencia artificial.
+c) Fixar estándares, procedementos e guías internas para o uso da intelixencia artificial.
+d) Manter un rexistro actualizado dos sistemas autorizados, condicionados ou prohibi-
+dos, que será accesible para o persoal.
+e) Promover a formación e a capacitación do persoal nesta materia.
+f) Elaborar un informe anual sobre o uso da intelixencia artificial no Consello, que se
+incorporará á memoria anual do Consello e cuxo contido se fará público no portal de trans-
+parencia institucional. No informe suprimiranse aqueles aspectos cuxa publicidade poida
+comprometer a seguridade da información ou os intereses lexítimos da institución.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45518
+Artigo 13. Rexistro e autorización de sistemas de intelixencia artificial
+1. Todo sistema de intelixencia artificial de uso corporativo deberá contar con autoriza-
+ción previa.
+2. Os sistemas autorizados serán obxecto de revisión periódica polo Comité, cunha
+periodicidade non superior a dous anos, sen prexuízo de que se poidan realizar revisións
+extraordinarias en caso de se produciren cambios significativos nos sistemas, no marco
+normativo aplicable ou nas condicións do servizo. O resultado da revisión poderá conducir
+á confirmación, condicionamento ou revogación da autorización inicial.
+3. O Comité manterá un rexistro no que constarán os sistemas autorizados e prohibidos,
+así como as condicións do seu uso. Todo o persoal do Consello de Contas terá que coñe-
+cer e observar as especificacións contidas no devandito rexistro.
+4. Fóra do rexistro de sistemas autorizados e prohibidos, o persoal do Consello poderá
+utilizar outros sistemas de intelixencia artificial, sempre que:
+a) A información empregada con tal fin proceda exclusivamente de fontes abertas.
+b) Non se incorporen, directa ou indirectamente, datos do Consello de Contas nin infor-
+mación clasificada como de difusión limitada ou confidencial.
+c) Os resultados así obtidos non se incorporen aos traballos de fiscalización en curso. O
+Comité poderá publicar orientacións sobre este particular.
+TÍTULO IV
+Usos permitidos, limitacións e prohibicións
+Artigo 14. Usos permitidos na fiscalización
+Poderán empregarse sistemas de intelixencia artificial, baixo supervisión humana, para:
+a) A análise masiva de datos públicos, orzamentarios ou contables.
+b) A busca semántica e a extracción automatizada de información.
+c) A detección preliminar de riscos ou anomalías.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45519
+d) O apoio á elaboración de borradores internos non vinculantes.
+e) A clasificación e organización documental.
+Artigo 15. Limitacións no uso da intelixencia artificial
+1. En ningún caso poderá empregarse a intelixencia artificial como substituto do xuízo
+profesional.
+2. Todos os materiais (informacións, análises, resultados e documentos) xerados me-
+diante intelixencia artificial deberán ser revisados e validados por unha persoa responsable.
+3. A intelixencia artificial non poderá elaborar conclusións de auditoría, recomendacións
+formais, cualificacións xurídicas; tomar decisións automatizadas; elaborar xuízos profesio-
+nais nin realizar valoracións sobre responsabilidades.
+4. Queda expresamente prohibida a utilización de sistemas de intelixencia artificial para
+a elaboración de perfís de persoas físicas, predición de comportamentos, avaliación de ris-
+cos individuais ou clasificación de suxeitos no exercicio das funcións do Consello, fóra dos
+supostos expresamente autorizados pola normativa vixente e debidamente autorizados.
+Artigo 16. Natureza e valor dos resultados obtidos mediante sistemas de intelixencia
+artificial
+1. Os resultados xerados por sistemas de intelixencia artificial terán carácter auxiliar e
+non constituirán por si mesmos evidencia de auditoría suficiente e adecuada.
+2. A súa utilización deberá ser corroborada mediante outras fontes de evidencia obtidas
+conforme ás normas de auditoría aplicables.
+Artigo 17. Documentación, rastrexabilidade e identificación do uso da intelixencia
+artificial
+1. Todo uso de intelixencia artificial deberá quedar documentado, especialmente nos
+papeis de traballo de fiscalización.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
+
+DOG Núm. 157 Xoves, 20 de agosto de 2026 Páx. 45520
+2. En todos os documentos xerados no Consello de Contas en que se empregue inteli-
+xencia artificial deberá indicarse expresamente esta circunstancia, o sistema utilizado e a
+persoa responsable da validación.
+TÍTULO V
+Responsabilidades
+Artigo 18. Responsabilidades no uso da intelixencia artificial
+O persoal do Consello é responsable de utilizar a intelixencia artificial conforme a esta
+política. O uso indebido da intelixencia artificial poderá dar lugar ás responsabilidades que
+procedan conforme á normativa aplicable.
+A responsabilidade plena polas conclusións, valoracións e recomendacións contidas
+nos informes de fiscalización corresponde, en todo caso, ao persoal auditor e aos órganos
+do Consello competentes para a súa aprobación, con independencia da utilización de siste-
+mas de intelixencia artificial como instrumento de apoio ou asistencia. O uso de intelixencia
+artificial non altera nin atenúa esta responsabilidade.
+Disposición derradeira única. Entrada en vigor
+A presente política entrará en vigor o día seguinte ao da súa publicación no Diario Oficial
+de Galicia.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+1casxqqhry6e-1ibi-74iv-5azd-03sia5yb
+:GOD-EVC
