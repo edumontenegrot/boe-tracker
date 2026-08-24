@@ -1,0 +1,1459 @@
+NÚMERO 163
+36995
+Lunes 24 de agosto de 2026
+III OTRAS RESOLUCIONES
+CONSEJERÍA DE INDUSTRIA, ENERGÍA, CIENCIA Y TERRITORIO
+RESOLUCIÓN de 14 de agosto de 2026, de la Dirección General de Gestión
+Sostenible y Política Forestal, por la que se formula informe de impacto
+ambiental del proyecto de instalación de una planta de valorización de residuos
+(alperujos) para la producción de biogás en el término municipal de Oliva
+de Plasencia, cuya promotora es Desarrollos Bioenergéticos de Extremadura
+Alagón, SL. Expte.: IA24/0025. (2026062168)
+La Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Ex-
+tremadura, en su artículo 73 prevé los proyectos que deben ser sometidos a evaluación am-
+biental simplificada por el órgano ambiental a los efectos de determinar que el proyecto no
+tiene efectos significativos sobre el medio ambiente, o bien, que es preciso su sometimiento
+al procedimiento de evaluación de impacto ambiental ordinaria, regulado en la subsección 1.ª
+de sección 2.ª del capítulo VII, del título I, de la ley, por tener efectos significativos sobre el
+medio ambiente.
+El proyecto de instalación de una planta de biometanización de alperujos en el término muni-
+cipal de Oliva de Plasencia es encuadrable en el anexo V de la Ley 16/2015, de 23 de abril, de
+protección ambiental de la Comunidad Autónoma de Extremadura, por encontrarse incluido
+en el anexo II, grupo 9, epígrafe b) “Instalaciones de eliminación o valorización de residuos no
+incluidas en el anexo I, excepto la eliminación o valorización de residuos propios no peligrosos
+en el lugar de producción” de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+La promotora del proyecto es Desarrollos Bioenergéticos de Extremadura Alagón, SL.
+Es órgano competente para la formulación del informe de impacto ambiental relativo al pro-
+yecto, la Dirección General de Gestión Sostenible y Política Forestal de la Consejería de In-
+dustria, Energía, Ciencia y Territorio, de conformidad con lo dispuesto en el artículo 7.1.d)
+del Decreto 107/2026, de 26 de mayo, por el que se establece la estructura orgánica de la
+Consejería de Industria, Energía, Ciencia y Territorio.
+Los principales elementos del análisis ambiental del proyecto son los siguientes:
+1. Objeto, descripción y localización del proyecto
+El presente proyecto tiene por objeto la instalación de una planta de valorización de resi-
+duos mediante biometanización. Los residuos a valorizar serán sólo alperujos.
+
+NÚMERO 163
+36996
+Lunes 24 de agosto de 2026
+El proyecto se localiza en la parcela 13 del polígono 533 del término municipal de Oliva
+de Plasencia, presentando una superficie de 180.011 m2. El acceso a la parcela se realiza
+desde la carretera CC-212 y posteriormente por el camino del Pimpollar.
+La materia prima empleada en la planta será la siguiente:
+Cantidad máxima
+Nombre genérico Código LER Clase de producto
+(t/año)
+Lodos de lavado, limpieza, pelado, cen-
+02 03 01 Alperujos 50.000
+trifugado y separación
+El proyecto se implantará en dos fases. La capacidad de tratamiento de la planta en la fase
+uno será de 25.000 t/año de alperujo. Tras la ejecución de la segunda fase, la capacidad
+de tratamiento de la planta será de 50.000 t/año de alperujo.
+Las producciones esperadas de digestato serán las siguientes:
+Producto Anual
+Digestato sólido 11.600
+Digestato líquido 30.416
+Para el desarrollo de la biometanización de los alperujos la planta contará con las siguientes
+instalaciones:
+— Sistema de alimentación.
+— Tanque de recepción o pre-tanque. Ejecutado en hormigón armado y con techo también
+de hormigón. Contará con un volumen útil de llenado de 393 m3, y estará equipado con
+agitadores, sensores y válvulas de seguridad.
+— Digestor tipo tritón. Ejecutado en hormigón armado. Consiste en un sistema de tanques
+concéntricos, donde el tanque central sirve como digestor secundario y el anillo exterior
+como digestor primario. La cubierta del digestor primario será de hormigón, mientras
+que la del digestor secundario es de doble lámina de membrana.
+— Digestor terciario. Ejecutado en hormigón. Está conectado a la tubería del sistema de
+biogás y equipado con dos anillos de calentamiento, para aumentar la producción de
+biogás.
+
+NÚMERO 163
+36997
+Lunes 24 de agosto de 2026
+— Módulo técnico. Equipado con instrumentos de medición de gas, sopladores de desulfu-
+ración, sistema de distribución y calefacción y bombas.
+— Separador de tornillo. El digestato una vez extraído de los digestores, pasa por un se-
+parador de tornillo para extraer impurezas.
+— Sistema de upgrading. Para el filtrado del biogás y obtener biometano.
+— Sistema de licuefacción del CO (en la segunda fase de proyecto).
+2
+— Antorcha de seguridad.
+— Balsas de almacenamiento de alperujo. Se contará con dos balsas de 25.000 m3 de
+capacidad de almacenamiento cada una de ellas. Estarán impermeabilizadas mediante
+geomembrana de polietileno de alta densidad de 1,50 mm de espesor y un geotextil de
+500 gr/m2. Dispondrá de sistema de detección de fugas tipo espina de pez, mediante
+tubería ranurada de PVC con camisa de geotextil y engravado, ejecutado sobre zanja
+en la plataforma del depósito, y conectado a arqueta de registro con sonda automática.
+También se dispondrá de piezómetros. Tendrán una profundidad máxima de 10 m, y
+una altura de llenado de 8,80 m, contando con un resguardo de 1,20 m bajo la corona-
+ción. Las balsas contarán con una cubierta flotante para evitar una fermentación precoz
+indeseada y malos olores.
+— Balsa de almacenamiento de digestato líquido. Se contará con una balsa de 20.000 m3
+de capacidad de almacenamiento. Estará impermeabilizada mediante geomembrana
+de polietileno de alta densidad de 1,50 mm de espesor y un geotextil de 500 gr/m2.
+Dispondrá de sistema de detección de fugas tipo espina de pez, mediante tubería
+ranurada de PVC con camisa de geotextil y engravado, ejecutado sobre zanja en la
+plataforma del depósito, y conectado a arqueta de registro con sonda automática.
+También se dispondrá de piezómetros. Tendrá una profundidad máxima de 10 m, y una
+altura de llenado de 8,80 m, contando con un resguardo de 1,20 m bajo la coronación. La
+balsa contará con una cubierta flotante para evitar una fermentación precoz indeseada
+y malos olores.
+— Silo para almacenamiento del digestato sólido. Se contará con un silo rectangular, eje-
+cutado en hormigón, con una capacidad de almacenamiento de 3.375 m3.
+— Oficinas prefabricadas mediante estructuras modulares de 262 m2 de superficie. En esta
+construcción se localizarán oficinas, sala de reuniones, sala de descanso y aseo con
+vestidor.
+
+NÚMERO 163
+36998
+Lunes 24 de agosto de 2026
+— Caldera de biomasa (hueso de aceituna) de 351,5 kW de potencia.
+— Sistema de iluminación.
+— Abastecimiento de agua. El agua necesaria para el desarrollo de la actividad provendrá
+de un pozo en la parte sur de la parcela. Se estima un consumo de agua de 5.000 m3/año.
+— Abastecimiento eléctrico. La energía eléctrica para el desarrollo de la actividad proven-
+drá de una línea eléctrica aérea de alta tensión (132 kV) existente que discurre por el
+interior de la parcela donde se localiza el proyecto. Para ello se instalará un apoyo de
+seccionamiento situado entre dos apoyos existentes (entronque aéreo-subterráneo), y
+se ejecutará un tramo en subterráneo de unos 100 m de longitud de 132 kV entre el
+apoyo de seccionamiento y la subestación transformadora (132/15 kV) y el centro de
+transformación (15/0,4 kV) previstos.
+— Conexión con el gasoducto. El punto de conexión se realizará dentro de la misma parce-
+la. La posición de transporte en que se va a inyectar biometano y la longitud de ramal
+de esta conexión es inferior a 100 m. La conexión se ubicará dentro de una caseta de
+obra.
+La superficie ocupada por los diferentes elementos que componen la planta de biometani-
+zación de alperujos es la siguiente:
+N.º Elemento Superficie (m2)
+1 Oficinas 262
+2 Caldera 10
+3 Deshuesadora 28
+4 Centro de transformación 225
+5 Zona de aparcamiento 120
+6 Báscula 54
+7 Foso de descarga de alperujo 887
+8 Pretanque 88
+9 Digestor Tritón 1.018
+10 Digestor Terciario 452
+
+NÚMERO 163
+36999
+Lunes 24 de agosto de 2026
+N.º Elemento Superficie (m2)
+11 Almacenamiento de digestato sólido 405
+12 Almacenamiento de hueso de aceituna 103
+13 Depósito de agua 605
+14 Balsa de alperujo 1 3.035
+15 Balsa de alperujo 2 3.010
+16 Balsa de digestato líquido 2.671
+17 Punto de inyección de biometano 400
+18 Antorcha de seguridad 18
+19 Módulo de upgrading 204
+22 Zona de taludes 4.500
+— TOTAL 18.095
+Fuente. Documento ambiental.
+
+NÚMERO 163
+37000
+Lunes 24 de agosto de 2026
+2. Tramitación y consultas.
+Con fecha 14 de diciembre de 2023, la promotora del proyecto presenta ante la extinta
+Dirección General de Sostenibilidad el documento ambiental del proyecto para su someti-
+miento al procedimiento de evaluación de impacto ambiental. El documento ambiental re-
+cibido inicialmente no aportaba información suficiente para la correcta evaluación ambien-
+tal del proyecto, habiéndose considerado el mismo como correcto, en cuanto a contenido,
+tras recibir una nueva versión del mismo con fecha 24 de abril de 2024.
+Dando cumplimiento a lo establecido en el artículo 75.1 de la Ley 16/2015, de 23 de abril,
+de protección ambiental de la Comunidad Autónoma de Extremadura, la extinta Dirección
+General de Sostenibilidad, con fecha 21 de mayo de 2024, ha realizado consultas a las
+Administraciones Públicas afectadas y las personas interesadas que se relacionan en la
+tabla adjunta. Se han señalado con una “X” aquellas Administraciones Públicas y personas
+interesadas que han emitido respuesta.
+Respuestas
+Relación de organismos y entidades consultados
+recibidas
+Servicio de Conservación de la Naturaleza y Áreas Protegidas X
+Dirección General de Bibliotecas, Archivos y Patrimonio Cultural X
+Dirección General de Urbanismo, Ordenación del Territorio y Agenda Urbana X
+Servicio de Prevención y Extinción de Incendios Forestales de la Dirección General de
+-
+Prevención y Extinción de Incendios
+Servicio de Ordenación y Gestión Forestal de la Dirección General de Gestión
+X
+Forestal, Caza y Pesca
+Servicio de Protección Civil de la Secretaría General de Interior, Emergencias y
+X
+Protección Civil
+Confederación Hidrográfica del Tajo X
+Ecologistas en Acción X
+Ecologistas Extremadura -
+ADENEX -
+SEO/BirdLife -
+Fundación Naturaleza y Hombre -
+
+NÚMERO 163
+37001
+Lunes 24 de agosto de 2026
+Respuestas
+Relación de organismos y entidades consultados
+recibidas
+AMUS -
+GREENPEACE -
+Ayuntamiento de Oliva de Plasencia X
+A continuación, se resume el contenido principal de los informes recibidos:
+El Servicio de Urbanismo de la Dirección General de Urbanismo, Ordenación del Territorio
+y Agenda Urbana informa que, en el término municipal de Oliva de Plasencia se encuentra
+actualmente vigente el Plan General Municipal aprobado definitivamente por Resolución
+de 15 de marzo de 2010, de la Comisión de Urbanismo y Ordenación del Territorio de
+Extremadura, publicado en el DOE n.º 104, de 1 de junio de 2011. En virtud de lo esta-
+blecido en los artículos 143.3.a), 145.1 y 164 de la Ley 11/2018, de 21 de diciembre, de
+ordenación territorial y urbanística sostenible de Extremadura, corresponde al municipio
+de Oliva de Plasencia realizar el control de legalidad de las actuaciones, mediante el pro-
+cedimiento administrativo de control previo o posterior que en su caso corresponda, com-
+probando su adecuación a las normas de planeamiento y al resto de legislación aplicable.
+También comunica que no le consta expediente administrativo en tramitación destinado
+al otorgamiento de la calificación rústica, regulada en los artículos 69 y siguientes de la
+Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible de Ex-
+tremadura. La materialización de edificaciones, construcciones e instalaciones destinadas
+a cualquiera de los usos permitidos y/o autorizables recogidos en los apartados 4 y 5 del
+artículo 67 de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística
+sostenible de Extremadura, que se pretendan realizar en el suelo rústico, requerirá de la
+oportuna calificación rústica mediante resolución expresa como requisito imprescindible
+previo a la licencia municipal. El procedimiento de calificación rústica para legitimar la ac-
+tuación pretendida deberá tramitase conforme a lo dispuesto en el apartado 9 del artículo
+69 de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible
+de Extremadura.
+El Ayuntamiento de Oliva de Plasencia emite informe, en el que se indica lo siguiente:
+Clase de suelo: Suelo No Urbanizable Común, según Plan General Municipal en vigor, equi-
+valente a Rústico según la disposición transitoria segunda de la Ley 11/2018 LOTUS.
+La parcela cuenta con una superficie de 180.011 m2 y la misma no posee edificación
+alguna.
+
+NÚMERO 163
+37002
+Lunes 24 de agosto de 2026
+La distancia de las instalaciones a núcleo urbano o urbanizable de Oliva de Plasencia es de
+1.370 m según medición obtenida en el portal IDE Extremadura.
+La distancia de las instalaciones a zona de viviendas en situación de “actuación disconfor-
+me” en la zona denominada “Angosturas” es de 1.040 m según medición obtenida en el
+portal IDE Extremadura.
+En cuanto a la compatibilidad urbanística del uso pretendido y usos urbanísticos admitidos,
+informa que, el Plan General Municipal, en vigor desde fecha 01/06/2011, establece en su
+artículo 3.1.2.4 los usos del Suelo No Urbanizable Común.
+
+NÚMERO 163
+37003
+Lunes 24 de agosto de 2026
+Uso principal. Se podrán admitir las edificaciones para explotación agrícola, ganadera o
+forestal. También los edificios de servicio de estas actividades, así como los de servicio de
+carretera.
+Uso compatible. Mediante calificación urbanística previa, aquellas edificaciones permitidas
+en el Art. 23 de la Ley del Suelo y Ordenación del Territorio de Extremadura (Ley 15/2001,
+LSOTEX). Tras el cambio normativo, sería de aplicación la ley 11/2018 LOTUS.
+Por tanto, la instalación se planeta en un área de Suelo No Urbanizable, Común, en las
+que las actividades descritas pueden clasificarse como autorizables, según se establece al
+artículo 67 de la ley 11/2018 LOTUS, que establece:
+“Se consideran usos autorizables, aquellos usos distintos de los usos naturales y los
+usos vinculados del suelo, cuando el planeamiento no los catalogue expresamente
+como permitidos o prohibidos” sujeto a control municipal mediante el procedimiento de
+licencia, previa obtención de la calificación rústica’’.
+En cuanto a modificación del planeamiento en tramitación, informa que, en la actualidad
+no se encuentran tramitando modificaciones del planeamiento urbanístico en la localidad.
+Así mismo se informa de que en la localidad no existe ninguna ordenanza ambiental al
+respecto.
+En cuanto a obligaciones y deberes impuestos por el ayuntamiento, informa que, será
+necesaria la obtención de la calificación rústica, que debe otorgar la Junta de Extrema-
+dura previa a la licencia de obras, ya que la actividad necesita de autorización ambiental
+integrada (grupo 3.b) Instalaciones para la producción de gas combustible distinto del gas
+natural y gases licuados del petróleo).
+
+NÚMERO 163
+37004
+Lunes 24 de agosto de 2026
+En lo referente a la compatibilidad de la actividad con la protección ambiental, la actuación
+propuesta, deberá obtener autorización ambiental Integrada, según lo establecido en la
+Sección I.a, Autorización ambiental integrada, artículos del 5 al 19 del Decreto 81/2011 de
+autorizaciones ambientales de Extremadura.
+El régimen de distancias mínimas establecido en el Decreto 81/2011 de autorizaciones
+ambientales de Extremadura, establece que:
+ANEXO IV
+RÉGIMEN DE DISTANCIAS MÍNIMAS PARA ACTIVIDADES CONSIDERADAS PELIGROSAS,
+INSALUBRES O MOLESTAS
+El régimen de distancias mínimas regulado en este anexo es aplicable a las actividades so-
+metidas a autorización ambiental integrada o unificada y a comunicación ambiental y se es-
+tablece sin perjuicio de las distancias o incompatibilidades de usos o actividades que puedan
+recoger la normativa de ordenación territorial o urbanística, o las ordenanzas municipales
+aplicables en cada municipio. Igualmente, se atenderá al régimen de distancias respecto a la
+población que venga dispuesto en la normativa sectorial para las distintas actividades.
+La distancia establecida en cada caso en base a este anexo se considerará desde el límite del
+suelo urbano o urbanizable, de uso no industrial hasta las instalaciones de la actividad que
+puedan ocasionar efectos negativos sobre el medio ambiente, tomando la que resulte más
+restrictiva.
+Según se establece en el apartado 2 del anexo IV antes mencionado, se consideran activi-
+dades insalubres aquellas que dan lugar a desprendimiento o evacuación de productos que
+puedan resultar directa o indirectamente perjudiciales para la salud humana; y molestas,
+aquellas que constituyan una incomodidad por los ruidos o vibraciones que produzcan o por
+los humos, gases, olores, nieblas, polvos en suspensión o sustancias que eliminen. De forma
+general, se aplicará un régimen de distancias cuando lo determine la normativa sectorial de
+aplicación o cuando no puedan aplicarse medidas o condiciones técnicas que eviten las afec-
+ciones al entorno o garanticen su reducción a niveles asumibles. La distancia mínima que se
+establezca en base a este anexo podrá ser superior a la recogida en la normativa sectorial, en
+la normativa de ordenación territorial o urbanística o en las ordenanzas municipales.
+En la determinación de las distancias mínimas que se exigirán a este tipo de actividades se
+tendrán en cuenta los siguientes criterios:
+a) Características de las emisiones producidas por la actividad.
+
+NÚMERO 163
+37005
+Lunes 24 de agosto de 2026
+b) Características técnicas de la instalación, de los procesos tecnológicos y de las medidas
+correctoras aplicadas.
+c) Características físicas del entorno inmediato de la instalación que puedan incrementar o
+reducir la insalubridad o las molestias como topografía, hidrología, climatología o vien-
+tos dominantes, entre otras.
+d) Calidad ambiental del área donde se desarrolla la actividad, con especial atención a
+objetivos y planes existentes relacionados con la calidad del aire y la contaminación
+acústica.
+e) Proximidad de otras instalaciones o actividades que puedan aumentar la insalubridad y
+las molestias.
+Posteriormente, realiza las siguientes conclusiones:
+Tras todo lo anteriormente expuesto se concluye que, en aplicación de lo dispuesto en el
+PGM en vigor actualmente en Oliva de Plasencia, la propuesta de instalación de planta de
+biometanización en la parcela 13 del polígono 533, promovido por Desarrollos Energéticos
+de Extremadura Alagón, en lo que respecta a las intervenciones planteadas en el término
+municipal de Oliva de Plasencia, podría ser considerada como compatible urbanísticamente,
+previa obtención de calificación rústica de competencia autonómica regulada en el artículo 69
+de la LOTUS, Ley 11/2018 de Ordenación Territorial y Urbanística Sostenible de Extremadura.
+Con respeto a la compatibilidad ambiental, sería viable siempre que cumpla con los requisi-
+tos fijados en el PGM de Oliva de Plasencia y por el órgano ambiental, mediante la obtención
+de autorización ambiental integrada, estableciendo la misma todas las medidas correctoras
+necesarias para que la actividad no pueda ser considerada como insalubre o molesta para la
+población, que se encuentra a poco más de 1.000 m de la planta proyectada.
+El Ayuntamiento de Oliva de Plasencia, durante el periodo de información pública del proyecto
+en el procedimiento de autorización ambiental integrada, emitió alegaciones referentes a la
+contaminación atmosférica, abastecimiento de agua potable e infraestructura viaria y tráfi-
+co, las cuales se trasladaron para su análisis en el procedimiento de evaluación de impacto
+ambiental. Estas alegaciones han sido consideradas durante el análisis del expediente y en la
+elaboración del presente informe.
+El Servicio de Ordenación del Territorio de la Dirección General de Urbanismo, Ordenación
+del Territorio y Agenda Urbana informa que, a efectos de ordenación del territorio de la Co-
+munidad Autónoma de Extremadura, no se detecta afección sobre ningún Plan Territorial ni
+Proyecto de Interés Regional con aprobación definitiva (Ley 15/2001, de 14 de diciembre, del
+Suelo y Ordenación del Territorio de Extremadura, con modificaciones posteriores).
+
+NÚMERO 163
+37006
+Lunes 24 de agosto de 2026
+Asimismo, no se detecta afección sobre ningún instrumento de ordenación territorial general
+(Plan Territorial), de ordenación territorial de desarrollo (Plan de Suelo Rústico, Plan Especial
+de Ordenación del Territorio) ni de intervención directa (Proyecto de Interés Regional) de la
+Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extre-
+madura, en vigor desde el 27 de junio de 2019.
+Si bien, actualmente se halla en redacción, por Resolución de 22 de marzo de 2024, del Con-
+sejero de Infraestructuras, Transporte y Vivienda, por la que se acuerda la redacción del Plan
+Territorial de Ambroz- Tierras de Granadilla-Hurdes, el cual deberá adaptarse a las disposicio-
+nes de la Ley 11/2018, ámbito territorial en el que se incluye el término municipal de Oliva de
+Plasencia, que establecerá una nueva regulación cuando se apruebe definitivamente.
+Confederación Hidrográfica del Tajo emite informe en relación a zonas protegidas, aguas su-
+perficiales y masas de aguas subterráneas.
+Zonas protegidas. En lo referente a zonas protegidas recogidas oficialmente en el Plan Hi-
+drológico de la parte española de la Demarcación Hidrográfica del Tajo 2023-2027, la parcela
+donde se desarrollan las actuaciones se encuentra dentro del área de captación de la zona
+sensible “Embalse de Alcántara II – ES030ZSENESCM552”.
+Aguas superficiales. En cuanto a aguas superficiales, según la cartografía consultada (visor
+cartográfico de la Confederación Hidrográfica del Tajo: http://visor.chtajo.es/VisorCHT/ ), la
+parcela donde se desarrollan las actuaciones se ubica fuera de la zona de policía de cauces
+de dominio público.
+Masas de agua subterránea. En relación a las aguas subterráneas, la parcela donde se desa-
+rrollan las actuaciones no asienta sobre ninguna masa de agua subterránea. No obstante, a
+pesar de que las actuaciones no se localicen en las cercanías de aguas superficiales ni asien-
+ten sobre masas de agua subterránea, se significa que han de ser protegidas, en cualquier
+caso. Por lo tanto, se significa que en la puesta en práctica de las actuaciones contempladas
+en el proyecto deberán tenerse en cuenta las consideraciones expuestas en este informe para
+evitar cualquier actuación que pudiera afectar negativamente al dominio público hidráulico.
+Aprovechamientos de agua. La documentación aportada explica que “Para satisfacer las ne-
+cesidades de consumo de agua en la planta de biometanización, se tiene previsto solicitar los
+permisos necesarios para la construcción de un pozo en la ubicación de la instalación. Este
+pozo sería una fuente de energía inagotable y sostenible para respaldar los procesos operati-
+vos esenciales. Sin embargo, en caso de que no se obtengan los permisos requeridos para la
+construcción del pozo, se explorarán alternativas que garanticen un suministro ininterrumpido
+de agua, como la compra de agua de fuentes autorizadas”.
+
+NÚMERO 163
+37007
+Lunes 24 de agosto de 2026
+Al respecto, desde el presente informe se realizan las siguientes indicaciones por parte de
+este organismo:
+— Para realizar el abastecimiento de aguas directamente del dominio público hidráulico
+(aguas superficiales y/o subterráneas), deberá disponer de un título concesional de
+aguas previo al empleo de las mismas, cuyo otorgamiento corresponde a esta confede-
+ración y es a quién también deberá solicitarse.
+— En caso de que se posea un título concesional en vigor y se pretendiese efectuar
+una variación de lo recogido en el mismo (como por ejemplo: empleo de mayores
+volúmenes/caudales que los autorizados, uso no recogido en la autorización, empleo
+de captación no recogida en la autorización, o cualquier otra cuestión que incumpla lo
+expresado en el título), se indica que dicha variación requiere de autorización previa
+por parte de este organismo, y es también a éste a quién deberá solicitarse (mediante
+una solicitud de modificación de las características o mediante una solicitud de un nuevo
+título concesional).
+— Por último, para su información, se dan indicaciones de algunos de los trámites rela-
+cionados con aprovechamientos de aguas en esta confederación, que le resultará de
+utilidad en el supuesto de que sean necesarios:
+Las solicitudes de aprovechamientos de aguas, en función de las características del aprove-
+chamiento se diferencian en la actualidad en:
+Inscripciones en sección B:
+Son aprovechamientos de aguas subterráneas utilizadas en la misma finca en la que se
+encuentra la captación, y con un volumen anual no mayor de 7000 m3.
+También puede tratarse de aprovechamientos de aguas pluviales que discurren por una
+finca para ser utilizadas exclusivamente en la misma.
+Concesiones: el resto de casos.
+El título concesional puede solicitarse mediante el formulario correspondiente que se puede
+descargar de la página web de la Confederación Hidrográfica del Tajo, en donde además pue-
+den obtenerse otro tipo de formularios (modificación de las características, transferencia de
+titularidad, etc.), así como información:
+http://www.chtajo.es/Servicios/Tramitaciones/Paginas/AprovechamientosAgua.aspx
+
+NÚMERO 163
+37008
+Lunes 24 de agosto de 2026
+Dado que, durante la tramitación necesaria para la concesión/inscripción, el proyecto será
+sometido a la valoración de los técnicos de la Confederación Hidrográfica del Tajo encargados
+de la gestión del dominio público hidráulico, se entiende que las actividades previstas deberán
+ajustarse a los requerimientos que surjan durante la tramitación (y que serán reflejados en el
+condicionado de dicha concesión/inscripción) y a los que queden recogidos en la declaración
+de impacto ambiental o informe de impacto ambiental (según proceda).
+Una vez realizada la solicitud, antes de su otorgamiento por parte de este organismo, se va-
+lorará si los recursos existentes son compatibles con el Plan Hidrológico del Tajo en función
+de la actividad que se pretende desarrollar y del caudal que se solicita. Por lo tanto, será en
+ese momento en el cual la Confederación Hidrográfica del Tajo se pronuncie acerca de este
+extremo.
+Saneamiento y vertidos. Respecto a las aguas residuales del proceso, según la documenta-
+ción, se prevé la instalación de un reactor biológico secuencial (SBR).
+En lo que concierne a los vertidos, esta Confederación indica en primera instancia lo siguiente:
+— Se consideran vertidos los que se realicen directa o indirectamente en las aguas con-
+tinentales, así como en el resto del dominio público hidráulico, cualquiera que sea el
+procedimiento o técnica utilizada.
+Son vertidos directos la emisión directa de contaminantes a las aguas continentales o a
+cualquier otro elemento del dominio público hidráulico, así como la descarga de conta-
+minantes en el agua subterránea mediante inyección sin percolación a través del suelo
+o del subsuelo.
+Son vertidos indirectos tanto los realizados en aguas superficiales a través de azarbes,
+redes de colectores de recogida de aguas residuales o de aguas pluviales o por cualquier
+otro medio de desagüe, o a cualquier otro elemento del dominio público hidráulico, así
+como los realizados en aguas subterráneas mediante filtración a través del suelo o del
+subsuelo.
+— Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos
+residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento
+del dominio público hidráulico, salvo que se cuente con la previa autorización. Dicha au-
+torización corresponde a esta Confederación Hidrográfica del Tajo, salvo en los casos de
+vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores ges-
+tionados por las Administraciones autonómicas o locales o por entidades dependientes
+de las mismas, en los que la autorización corresponderá al órgano autonómico o local
+competente.
+
+NÚMERO 163
+37009
+Lunes 24 de agosto de 2026
+En consecuencia, en el caso de que se vaya a realizar un vertido (como, por ejemplo, el
+vertido resultante del empleo de una fosa séptica (o similar) dotada de un sistema de
+filtrado/depuración como puede ser filtros biológicos (o cualquier otro sistema) cuyas
+aguas residuales una vez tratadas son evacuadas al medio exterior) desde este orga-
+nismo se indica lo siguiente:
+— Esta Confederación Hidrográfica del Tajo no autoriza vertidos individuales al dominio
+público hidráulico cuando los mismos puedan formar parte de una comunidad o aglome-
+ración urbana, por lo que, si el vertido de las aguas residuales puede conducirse a una
+red general de saneamiento, deberá conectar el vertido a dicha red de saneamiento.
+— En el caso de que haya imposibilidad de conexión a una red general de saneamiento,
+se deberán unificar (en la medida de lo posible) todos los flujos de aguas residuales
+generados en la actividad para su conducción a una única instalación de tratamiento y
+evacuación en un único punto de vertido final. Además, desde este organismo se indica
+que al existir entonces vertido al dominio público hidráulico se deberá obtener la corres-
+pondiente autorización de vertido, para lo cual se deberá:
+Realizar la solicitud y declaración general (o simplificada, en su caso) de vertido a este
+organismo, en donde según sea el caso se deberá proceder en consecuencia y acom-
+pañar con la documentación pertinente correspondiente, a tenor de lo dispuesto en la
+legislación vigente, para la obtención de la autorización de vertido. Se indica a continua-
+ción el enlace de solicitudes y trámites de la Confederación del Tajo:
+http://www.chtajo.es/Servicios/Tramitaciones/Paginas/default.aspx
+En el caso de que se tratase de una autorización ambiental integrada (AAI), la tramita-
+ción de la autorización de vertido deberá realizarse a través del órgano ambiental com-
+petente, quien trasladará la documentación y solicitará informe preceptivo y vinculante
+en materia de vertidos a este organismo.
+En el caso de que se posea una autorización de vertidos, se indica que el vertido que se
+pretende dar en la actualidad y en el futuro deberá ajustarse a lo dispuesto en la auto-
+rización (o si no se deberá proceder a realizar una revisión de la autorización del vertido
+vigente, y en función de cómo se resuelva ésta podrá autorizarse o no la modificación
+pretendida del vertido vigente).
+En cualquier caso, en el supuesto que se empleen conducciones de redes de sanea-
+miento, éstas deberán ser estancas, para evitar infiltración de las aguas residuales a las
+aguas subterráneas. Por otro lado, en el caso de que se contemple ejecutar un drenaje
+de aguas pluviales, esta Confederación Hidrográfica del Tajo indica:
+
+NÚMERO 163
+37010
+Lunes 24 de agosto de 2026
+• La red de saneamiento se recomienda que sea separativa (red de saneamiento de
+aguas residuales separada de la red de drenaje de aguas pluviales). En el supuesto
+de que vaya a realizarse una red unitaria, se deberá disponer de algún método o dis-
+positivo (por ejemplo, depósito Anti–DSU o tanque de tormentas, etc.) cuya función
+sea evitar el vertido de contaminantes al medio receptor durante sucesos de lluvia.
+• En cualquier caso, se recomienda el empleo de técnicas de drenaje de aguas pluviales
+sostenible.
+Asimismo, se informa que deberá realizarse una adecuada gestión para evitar que las aguas
+de escorrentía pluvial incorporen contaminación adicional susceptible de contaminar las aguas
+continentales o cualquier otro elemento del dominio público hidráulico, sin comprometer la
+consecución de los objetivos medioambientales y el cumplimiento de las normas de calidad
+ambiental establecidas en el medio receptor conforme a la legislación de aguas.
+Otras cuestiones. En relación al posible empleo de combustibles (por ejemplo, para grupos
+electrógenos, calefacción, etc.), desde este organismo se indica que todos los depósitos de
+combustibles y redes de distribución de los mismos, ya sean enterrados o aéreos, deberán
+ir debidamente sellados y estancos para evitar igualmente su infiltración a las aguas subte-
+rráneas. Estas instalaciones deben pasar periódicamente sus pruebas de estanqueidad. Lo
+mismo se ha de aplicar para todas las instalaciones de almacenamiento y distribución de otras
+sustancias susceptibles de contaminar el medio hídrico.
+Por otro lado, se indica que, con carácter general, todas aquellas zonas de la instalación en
+donde vayan a desarrollarse actividades susceptibles de contaminar las aguas superficiales o
+subterráneas, deberán de estar debidamente impermeabilizadas y además confinadas para
+evitar desbordamientos hacia zonas no impermeabilizadas, o en definitiva proceder de otras
+maneras tales que se evite la mencionada contaminación.
+Respecto al parque de maquinaria, a utilizar para la realización de las distintas unidades de
+obra, puede generar residuos líquidos peligrosos susceptibles de contaminación de aguas sub-
+terráneas y superficiales, como pueden ser aceites y otros compuestos. Se recomienda una
+gestión adecuada de estos residuos que evite la contaminación de las aguas.
+Se recomienda también que en la fase de construcción la ubicación del parque de maquinaria,
+instalaciones auxiliares y acopio de materiales se realice previa creación de solera impermea-
+ble en pendiente, con zanja de recogida para posibles vertidos de aceite de cambios, derrame
+de combustibles, grasas, etc. Estos derrames serán recogidos en bidones para su posterior
+gestión correcta.
+
+NÚMERO 163
+37011
+Lunes 24 de agosto de 2026
+Por último, cabe señalar lo siguiente en lo que respecta a las captaciones de agua (pozos,
+sondeos, tomas superficiales en cauces, embalses, lagos o lagunas, manantiales, charcas,
+balsas, etc.) y de su infraestructura asociada (si existiese):
+Se deberá garantizar la seguridad frente a accidentes de todo tipo durante toda la vida útil
+de la perforación, es decir: en los preparativos al sondeo, durante la ejecución del mismo,
+durante su explotación y, finalmente, durante su clausura. Garantizar la seguridad es una
+obligación de los propietarios y/o titulares de los mismos y/o los que acometen la perfora-
+ción y, por lo tanto, las responsabilidades recaen sobre ellos.
+En este sentido, se detallan las medidas a adoptar:
+— Todos los pozos y sondeos deben estar tapados y vallados, principalmente, para pro-
+teger a las personas y los animales de caídas accidentales, así como para preservar el
+agua del acuífero de la contaminación. Esta obligación es aplicable tanto a los que están
+en uso como a los que están fuera de uso. En este último caso se debe llevar a cabo un
+sellado definitivo.
+Se ha de evitar, mediante el empleo de señales y barreras, que se acceda a ellos y que
+se pueda producir un accidente, tanto de los propios usuarios como de cualquier perso-
+na ajena.
+— Pudiera darse el caso de que, en su propiedad, observase la existencia de una captación
+de aguas (con infraestructura asociada o sin ella) que se encuentra carente de medidas
+de seguridad visibles o que esté abandonada. En consecuencia, deberá ejecutar inme-
+diatamente medidas que garanticen la seguridad y eviten la ocurrencia de accidentes,
+así como ejecutar su clausura.
+— Los sondeos y las obras relacionadas (éstas últimas si existiesen, como, por ejemplo,
+balsas para recoger el material que se extrae con el sondeo, etc.) deberán ser ejecuta-
+dos garantizando la no contaminación de las aguas superficiales o subterráneas. Para
+ello, se deberán tomar las medidas pertinentes además de seguir las indicaciones del
+presente informe.
+— Los lodos de perforación serán a base de agua y aditivos permitidos.
+— Las balsas deberán estar impermeabilizadas (por ejemplo, mediante la utilización de
+lámina de plástico), además de adoptarse en ellas medidas de seguridad para evitar la
+ocurrencia de accidentes (caídas, etc.). Una vez finalizados los trabajos, deberán ser
+tapadas hasta adoptar la topografía original.
+
+NÚMERO 163
+37012
+Lunes 24 de agosto de 2026
+El Servicio de Conservación de la Naturaleza y Áreas Protegidas emite informe a los
+efectos de Informe de Afección a Red Natura 2000, con la consideración de informe de
+evaluación de las repercusiones que pueda producir un determinado proyecto, actua-
+ción, plan o programa directa o indirectamente sobre uno o varios espacios de la Red
+Natura 2000, y en concreto sobre los hábitats o especies que hayan motivado su desig-
+nación o declaración, atendiendo a lo dispuesto en el artículo 6 de la Directiva 92/43/
+CEE del Consejo, de 21 de mayo de 1992, relativa a la conservación de los hábitats na-
+turales y de la fauna y flora silvestres, y en base al Decreto 110/2015, de 19 de mayo,
+por el que se regula la Red Ecológica Europea Natura 2000 en Extremadura y a la Ley
+2/2023, de 22 de marzo, por la que se regulan determinados aspectos de la Red Eco-
+lógica europea Natura 2000 en la Comunidad Autónoma de Extremadura, e Informe de
+Afección a Biodiversidad, como valoración ambiental de proyectos, actividades, planes
+y programas en lo relativo a especies protegidas y hábitats protegidos fuera de la Red
+de Áreas Protegidas de Extremadura, conforme a lo establecido en los Planes de Recu-
+peración, Conservación del Hábitat y Conservación de determinadas especies de flora y
+fauna vigentes en la Comunidad Autónoma de Extremadura, a lo establecido en la Ley
+42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y atendiendo
+a los objetivos de la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992, relativa
+a la conservación de los hábitats naturales y de la fauna y flora silvestres y en la Direc-
+tiva 2009/147/CE del Parlamento Europeo y del Consejo, de 30 de noviembre de 2009,
+relativa a la conservación de las aves silvestres, con referencia (CN24/3313).
+En lo referente a áreas protegidas y valores naturales protegido y presentes en la zona
+de actuación, comunica que la actividad solicitada se localiza fuera de la Red de Áreas
+Protegidas de Extremadura (Red Natura 2000 y Red de Espacios Naturales Protegidos
+de Extremadura). Los valores naturales reconocidos en su Plan de Gestión y/o en la Ley
+42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad se detallan a
+continuación:
+— Los censos de biodiversidad no constatan territorios de reproducción cercanos de es-
+pecies protegidas, si bien la parcela actúa como área de campeo y alimentación de la
+fauna silvestre que habita las extensas dehesas ubicadas al norte del proyecto: cigüeña
+negra, milano real, alimoche, etc.
+— No se constata en la parcela en la que se proyectan las actuaciones la presencia de há-
+bitats de interés comunitario inventariados en la Directiva 92/43/CEE.
+En el análisis que realiza comunica que este tipo de proyectos de valorización de resi-
+duos orgánicos contribuye a la conservación de los recursos naturales, disminuyendo
+el consumo de otros nuevos, y a la reducción de la contaminación ambiental. Además,
+
+NÚMERO 163
+37013
+Lunes 24 de agosto de 2026
+la parcela, si bien se ubica en un entorno naturalizado, posee cierto grado de antropi-
+zación por la cercanía a poblaciones e infraestructuras viarias. Por tanto, se considera
+que este proyecto, con la aplicación de medidas preventivas y correctoras, no es sus-
+ceptible de causar de forma significativa degradaciones sobre los hábitats protegidos
+ni alteraciones sobre las especies por las que se han declarado los lugares de la Red
+Natura 2000 objeto del presente informe, y que resulta compatible con los planes de
+protección vigentes de las especies presentes.
+Posteriormente informa favorablemente la actividad solicitada, ya que no es susceptible
+de afectar de forma apreciable a los lugares incluidos en la Red Natura 2000 siempre
+que se cumplan una serie de medidas incluidas en el presente informe.
+El Servicio de Ordenación y Gestión Forestal de la extinta Dirección General de Gestión
+Forestal, Caza y Pesca, emite informe en el que comunica que, la zona afectada por el
+proyecto se encuentra poblada por pastizales con presencia de matorrales y pies dis-
+persos de encima. En la documentación presentada no se especifica la necesidad de
+corta de especies arbóreas autóctonas. Se prevé según el estudio del expediente que el
+proyecto afecta a superficie declarada como forestal.
+Posteriormente informa favorablemente la actividad desde el punto de vista forestal,
+con una serie de medidas incluidas en el presente informe.
+La extinta Dirección General de Bibliotecas, Archivos y Patrimonio Cultural emitió infor-
+me en el que comunica que, el área de afección del proyecto fue analizada por los téc-
+nicos de la citada Dirección General y se pudo comprobar que, según la documentación
+existente en ese organismo, el proyecto no presenta incidencias sobre el patrimonio
+arqueológico conocido. No obstante, y como medida preventiva de cara a la protección
+del patrimonio arqueológico no detectado, se deberá adoptar lo recogido en el artículo
+54 de la Ley 2/1999, de 29 de marzo, de Patrimonio Histórico y Cultural de Extremadu-
+ra, medida que se ha incluido en el presente informe.
+El Servicio de Protección Civil de la Secretaría General de Interior, Emergencias y Pro-
+tección Civil emite informe sobre la vulnerabilidad del proyecto frente a riesgos de ac-
+cidentes graves, en base a la documentación presentada, en virtud de lo establecido en
+la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de
+Extremadura. Comunica que, la falta de legislación nacional y autonómica en relación
+con los criterios de aceptabilidad del riesgo, no permiten valorar la aceptación o no del
+mismo, por lo que en el informe solo se enumeran los análisis y valoraciones efectuadas
+por el industrial, en función de la documentación aportada.
+
+NÚMERO 163
+37014
+Lunes 24 de agosto de 2026
+Vulnerabilidad del proyecto frente a catástrofes naturales.
+— Vulnerabilidad frente a catástrofes naturales. Los riesgos evaluados que pueden ame-
+nazar al proyecto, derivados de sucesos de origen natural son: geológicos (sísmicos
+y movimientos de ladera,), condiciones meteorológicas adversas (lluvias torrenciales,
+vientos fuertes, nieve, tormentas eléctricas y temperaturas extremas), hidrológicos
+(inundaciones y avenidas), incendios forestales. Para cada uno de ellos, el técnico re-
+dactor establece la siguiente categorización en cuanto a su nivel de riesgo:
+— Medidas para mitigar el efecto adverso significativo. Se han informado sistemas y medi-
+das protectoras y de prevención frente a los riesgos provocados por los fenómenos na-
+turales informados. El organismo con competencias en cada materia deberá considerar,
+valorar y evaluar la idoneidad de medidas de mitigación para los efectos adversos.
+Vulnerabilidad del proyecto frente a riesgos de accidentes graves.
+La documentación desarrollada por Desarrollos Bioenergéticos de Extremadura Alagón,
+SL, proporciona la siguiente información:
+— Información para identificar las sustancias peligrosas y la categoría. En la documenta-
+ción aportada, se ha identificado las siguientes sustancias peligrosas:
+— Determinación de aplicación del Real Decreto 840/2015, de 21 de septiembre. En la do-
+cumentación aportada, se afirma que el Real Decreto 840/2015, de 21 de septiembre,
+por el que se aprueban medidas de control de los riesgos inherentes a los accidentes
+graves en los que intervengan sustancias peligrosas, no es de aplicación al proyecto
+
+NÚMERO 163
+37015
+Lunes 24 de agosto de 2026
+referenciado puesto que la cantidad de sustancias peligrosas presentes en el estableci-
+miento no supera los umbrales de la columna 2 de la parte 1 de su anexo I.
+— Determinación de aplicación del Real Decreto 393/2007, de 23 de marzo. En la docu-
+mentación aportada, se afirma que el Real Decreto 393/2007, de 23 de marzo, por el
+que se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y
+dependencias dedicados a actividades que puedan dar lugar a situaciones de emergen-
+cia, no es de aplicación al proyecto referenciado puesto que la actividad realizada en el
+establecimiento industrial no se encuentra recogida en el catálogo de actividades de su
+anexo I.
+— Determinación de aplicación del Real Decreto 1217/2024, de 3 de diciembre. En la do-
+cumentación aportada, se afirma que el Real Decreto 1217/2024, de 3 de diciembre,
+por el que se aprueba el Reglamento sobre instalaciones nucleares y radiactivas, y otras
+actividades relacionadas con la exposición a las radiaciones ionizantes, no es de apli-
+cación al proyecto referenciado puesto que la actividad realizada en el establecimiento
+industrial no está sometida a lo dispuesto en el citado reglamento.
+— Información del establecimiento y del entorno.
+Se trata de un proyecto cuyas instalaciones estarán distribuidas en una parcela de
+referencia catastral 10139A53300013, en el término municipal de Oliva de Plasencia
+(Cáceres).
+El técnico redactor informa que la actividad desarrollada en las instalaciones consiste en
+la valorización de alperujo mediante la producción de biometano y fertilizante.
+Además, ha identificado y categorizado en el entorno, los siguientes elementos
+vulnerables:
+— Evaluación de la vulnerabilidad para las personas.
+En base a la información aportada, en relación a la vulnerabilidad del proyecto en el
+ámbito del riesgo de accidentes graves, se clasifica con una vulnerabilidad hacia las
+
+NÚMERO 163
+37016
+Lunes 24 de agosto de 2026
+personas con la categoría de baja, puesto que ninguna de las sustancias peligrosas que
+van a estar presentes en el establecimiento superarán el 60 % de la cantidad indicada
+como umbral inferior o I en el anexo I, del Real Decreto 840/2015, de 21 de septiembre
+y no se encuentran zonas o espacios catalogados como vulnerables, excepto parcelas
+de uso agrario y la carretera CC-212, considerados Elementos Poco Vulnerables (EPV),
+total o parcialmente a una distancia igual o inferior a 400 m, medidos linealmente entre
+los límites más próximos del establecimiento y la zona vulnerable.
+— Evaluación de la vulnerabilidad para el medio ambiente.
+No se ha informado la presencia de sustancias peligrosas para el medio ambiente. Será
+el órgano competente en materia de responsabilidad ambiental quien ha de considerar,
+valorar y evaluar la vulnerabilidad para el medio ambiente.
+— Medidas para mitigar el efecto adverso significativo.
+Resultado de la baja vulnerabilidad, no se precisará establecer en el establecimiento
+medidas adicionales para la reducción del riesgo, más allá de las derivadas del cumpli-
+miento normativo que sea de aplicación.
+Posteriormente presenta unas conclusiones, incluidas en el presente informe, y establece
+las siguientes medidas:
+El industrial no podrá modificar el número y cantidad de sustancias peligrosas informadas,
+ni la configuración de los elementos de la instalación, si con ello se viera incrementado el
+riesgo en cualquier zona situada en el exterior del establecimiento.
+El titular o promotor de la infraestructura es el responsable de la veracidad de la informa-
+ción facilitada, y deberá cumplir y desarrollar las medidas establecidas necesarias para la
+explotación del nuevo establecimiento.
+Ecologistas en Acción, durante el periodo de información pública del proyecto en el proce-
+dimiento de autorización ambiental integrada emitió alegaciones, las cuales se trasladaron
+para su análisis en el procedimiento de evaluación de impacto ambiental. Estas alegacio-
+nes han sido consideradas durante el análisis del expediente y en la elaboración del pre-
+sente informe.
+3. Análisis de expediente.
+Una vez analizada la documentación que obra en el expediente, y considerando las respues-
+tas recibidas a las consultas practicadas, se realiza el siguiente análisis para determinar la
+
+NÚMERO 163
+37017
+Lunes 24 de agosto de 2026
+necesidad de sometimiento del proyecto al procedimiento de evaluación de impacto am-
+biental ordinaria previsto en la subsección 1.ª de la sección 2.ª del capítulo VII del título I,
+según los criterios del anexo X, de la Ley 16/2015, de 23 de abril, de protección ambiental
+de la Comunidad Autónoma de Extremadura.
+3.1. Características del proyecto.
+a) El tamaño del proyecto. El proyecto consistente en la construcción y explotación de
+una planta de biometanización mediante la valorización de alperujos, contando con la
+siguiente capacidad de valorización:
+Cantidad máxima
+Nombre genérico Código LER Clase de producto
+(t/año)
+Lodos de lavado, limpieza, pelado, centrifu-
+02 03 01 Alperujos 50.000
+gado y separación
+El proyecto se localiza en una parcela que cuenta con una superficie de 180.011 m2. La
+superficie ocupada por la planta será de 18.095 m2.
+b) La acumulación con otros proyectos. El proyecto se localiza en suelo rústico, en una
+zona agroganadera de dehesa, en la que se localizan explotaciones de ganado bovino
+en mayor medida. No hay presencia de industrias o fábricas en las cercanías de la loca-
+lización del proyecto, limitándose la actividad a la agroganadería.
+c) La utilización de recursos naturales. Los recursos naturales utilizados corresponden a
+la ocupación del suelo por parte de las instalaciones, construcciones, viales, etc. as-
+cendiendo a una superficie de 1,81 ha. Otro recurso natural consumido corresponde al
+consumo de agua durante la fase de funcionamiento, estimándose unas necesidades
+máximas de consumo de 5.000 m3 anuales.
+En cuanto a consumo de combustibles, se estima un consumo medio de 161,74 t/año
+de huesillo de aceituna para la caldera.
+d) La generación de residuos. Durante la fase de ejecución se generarán residuos propios
+de la construcción y demolición. En la fase de funcionamiento, según la documentación
+aportada por la promotora del proyecto, se generarán los siguientes residuos:
+
+NÚMERO 163
+37018
+Lunes 24 de agosto de 2026
+Residuos peligrosos:
+Cantidad
+Residuo Origen Código LER anual
+estimada(t)
+Aceites sintéticos de motor, de transmisión mecá-
+13 02 06* 0,03
+nica y lubricantes
+Envases que contienen restos de sustancias peli-
+15 01 10* 0,1
+grosas o están contaminados por ellas. Operaciones de man-
+tenimiento
+Absorbentes, materiales de filtración (incluidos
+los filtros de aceite no especificados en otra ca-
+15 02 02* 0,05
+tegoría), trapos de limpieza y ropas protectoras
+contaminados por sustancias peligrosas.
+Equipos desechados que contiene componentes Residuos de aparatos
+peligrosos, distintos de los especificados en los eléctricos y electró- 16 02 13* 0,2
+códigos 16 02 09 a 16 02 12. nicos
+Carbón activo usado Limpieza de biogás 19 01 10* 27
+Residuos no peligrosos:
+Cantidad anual
+Residuo Origen Código LER
+estimada (t)
+Cenizas de fondo de la caldera Caldera de biomasa
+10 01 01 10
+biomasa (hueso de aceituna)
+Recuperación y licue-
+Residuos de alúmina 10 03 05 10
+facción CO2
+Absorbentes, materiales de filtración,
+trapos de limpieza y ropas protectoras Operaciones de man-
+15 02 03 1,2
+distintos de los especificados en el tenimiento
+código 15 02 02
+Equipos desechados distintos de los Residuos de aparatos
+especificados en los códigos 16 02 09 eléctricos y electró- 16 02 14 0,2
+a 16 02 13. nicos
+
+NÚMERO 163
+37019
+Lunes 24 de agosto de 2026
+Cantidad anual
+Residuo Origen Código LER
+estimada (t)
+Licor del tratamiento anaeróbico de
+Proceso de digestión 19 06 05 30.416
+residuos animales y vegetales
+digestión anaeróbica
+Lodos de digestión de tratamiento
+de orujo graso hú-
+anaeróbico de residuos animales y 19 06 06 11.600
+medo
+vegetales
+Lodos de tratamiento de aguas resi-
+Fosa séptica de aseos 19 08 05 225
+duales urbanas
+Papel y cartón des-
+Papel y cartón 20 01 01 0,5
+echados
+Residuos plásticos
+Plásticos 20 01 39 2
+desechados
+Limpieza de oficinas,
+Mezclas de residuos municipales 20 03 01 5
+vestuarios y aseos
+e) Contaminación y otros inconvenientes. En cuanto a los riesgos de contaminación por
+el desarrollo de la actividad, se podría dar contaminación del medio por una incorrecta
+impermeabilización de las balsas, incorrecta gestión de los residuos generados en la
+fase de funcionamiento y contaminación atmosférica por las emisiones ocasionadas por
+la caldera y la antorcha cuando sea necesario su uso. Además de las emisiones difusas
+de la propia planta.
+f) Vulnerabilidad del proyecto ante riesgos de accidentes graves o catástrofes. La promo-
+tora del proyecto realiza un análisis de la vulnerabilidad del proyecto el cual se ha reco-
+gido en el informe del Servicio de Protección Civil de la Secretaría General de Interior,
+Emergencias y Protección Civil anteriormente reflejado.
+3.2. Ubicación del proyecto.
+3.2.1. Descripción del lugar.
+El proyecto se localiza en la parcela 13 del polígono 533 del término municipal de Oliva
+de Plasencia, presentando una superficie de 180.011 m2. El acceso a la parcela se rea-
+liza desde la carretera CC-212 y posteriormente por el camino del Pimpollar.
+La parcela catastral donde se ubica el proyecto es un terreno de herbazal con encinas
+dispersas. Los terrenos circundantes son dehesas con mayor densidad de encinas. Los
+
+NÚMERO 163
+37020
+Lunes 24 de agosto de 2026
+campos de cultivo del municipio se localizan alrededor del núcleo de población. Esta
+parcela se encuentra atravesada por una línea de alta tensión en superficie, y una tu-
+bería de gas soterrada.
+En cuanto a espacios protegidos, se localiza fuera de la Red Natura 2000 y no se cons-
+tata en la parcela en la que se proyectan las actuaciones la presencia de hábitats de
+interés comunitario inventariados en la Directiva 92/43/CEE.
+En cuanto a la orografía, la zona de la parcela donde se localiza el proyecto es prácti-
+camente llana, sin presentar fuertes pendientes. La pendiente máxima de la zona de
+estudio es del 7,4 % en dirección N-S, presentando una pendiente media del 4 % apro-
+ximadamente.
+En relación a los cauces, por el interior de la localización del proyecto no discurre nin-
+gún curso de agua, siendo el más cercano el arroyo Garganta de la Oliva, El proyecto
+se localiza entre dos masas de agua subterránea: ‘’Zarza de Granadilla ‘’ y ‘’Galisteo’’.
+En cuanto a patrimonio arqueológico conocido, en la zona donde se ubicará la planta no
+hay constancia de yacimientos inventariados.
+En cuanto a vías pecuarias, no existen vías pecuarias afectadas por el proyecto, siendo
+la más cercana la Cañada Real de Merinas, que discurre a 2.815 m al este.
+3.2.2. Alternativas.
+El documento ambiental presenta un análisis de alternativas.
+Alternativa 0 o de no actuación. Se trata de la no ejecución del proyecto, lo cual supon-
+dría desaprovechar la oportunidad de transformar un residuo orgánico húmedo de difícil
+gestión en productos valorizables, como energía renovable y fertilizante orgánico. Así
+mismo, impediría avanzar en la aplicación de las mejores técnicas disponibles, reducir
+la carga contaminante asociada a estos residuos y disminuir la dependencia de solucio-
+nes de gestión menos sostenibles.
+Alternativas de ubicación. En cuanto a las opciones para el emplazamiento, se realiza
+un análisis de tres localizaciones diferentes. Dos localizaciones en el término municipal
+de Plasencia y otra localización en el término municipal de Oliva de Plasencia, corres-
+pondiendo a la alternativa planteada.
+Tras realizar un análisis de las diferentes alternativas, la promotora considera la alter-
+nativa de ubicación en la parcela 13 del polígono 533 del término municipal de Oliva de
+
+NÚMERO 163
+37021
+Lunes 24 de agosto de 2026
+Plasencia la opción más favorable para la implantación de la planta de biometanización
+de alperujo, tanto desde el punto de vista ambiental y técnico como socioeconómico.
+3.3. Características del potencial impacto.
+— Red Natura 2000 y Áreas Protegidas. El proyecto se localiza fuera de la Red de Áreas
+Protegidas de Extremadura (Red Natura 2000 y Red de Espacios Protegidos de Extrema-
+dura). En cuanto a valores naturales presentes en la localización del proyecto y recono-
+cidos en su Plan de Gestión y/o en la Ley 42/2007, de 13 de diciembre, del Patrimonio
+de Natural y de la Biodiversidad, los censos de biodiversidad no constatan territorios
+de reproducción cercanos de especies protegidas, si bien la parcela actúa como área de
+campeo y alimentación de la fauna silvestre que habita las extensas dehesas ubicadas al
+norte del proyecto: Cigüeña negra, milano real, alimoche; etc. Además, no se constata
+en la parcela en la que se proyectan las actuaciones la presencia de hábitats de interés
+comunitario inventariados en la Directiva 92/43/CEE.
+— Sistema hidrológico y calidad de las aguas. La contaminación de las aguas superficiales
+y/o subterráneas podría producirse por una incorrecta gestión de la materia prima a
+utilizar en la planta y/o incorrecta gestión del digestato. También se podría producir una
+incorrecta impermeabilización de las diferentes balsas y depósitos, provocando derra-
+mes o filtraciones a las aguas subterráneas. El estudio hidrogeológico aportado espe-
+cifica que, “los tramos de suelo ensayados quedan clasificados como de permeabilidad
+baja a muy baja”.
+El proyecto no plantea el vertido de aguas residuales, ya que las incorpora al proceso
+de digestión anaerobia, o serán gestionadas mediante gestor autorizado de residuos.
+También plantea las zonas de trabajo y tránsito hormigonadas. Con la adopción de las
+medidas oportunas se prevé que no se produzca afección, o en caso de producirse no
+resulte una afección significativa.
+— Suelos. Es de esperar que el impacto sobre el suelo no sea de una magnitud elevada,
+principalmente debido a que la zona de actuación no presenta pendientes elevadas.
+Asimismo, mediante la correcta aplicación de medidas preventivas y/o correctoras para
+mitigar estos impactos, se reducirá su magnitud de manera aceptable para el medio
+edáfico. En cuanto al impacto en la fase de funcionamiento, al igual que ocurre en la
+posible afección al sistema hidrológico y calidad de las aguas, podrían derivar de una
+incorrecta gestión de la materia prima y/o digestato. Con la adopción de las medidas
+oportunas se prevé que no se produzca afección, o en caso de producirse no resulte una
+afección significativa.
+
+NÚMERO 163
+37022
+Lunes 24 de agosto de 2026
+— Fauna. En la localización de la planta no hay constancia de la presencia de territorios
+de reproducción de especies incluidas en el Catálogo Regional de Especies Amenazadas
+de Extremadura, ni de la Directiva 2009/147/CE relativa a la conservación de las aves
+silvestres. Aunque las proximidades a la localización de la planta pudieran ser zona de
+campeo y alimentación de ejemplares de avifauna, no se prevé que la ejecución del pro-
+yecto y el desarrollo de la actividad cause una afección significativa sobre estas espe-
+cies. En cuanto a la afección al resto de fauna, igualmente, no se prevé que la ejecución
+del proyecto y el desarrollo de la actividad cause una afección significativa.
+— Vegetación. La zona afectada por el proyecto se encuentra poblada por vegetación na-
+tural, constituida por pastizales con presencia de matorrales y pies dispersos de encina.
+En la documentación presentada no se especifica la necesidad de corta de especies
+arbóreas autóctonas. Según el Servicio de Ordenación y Gestión Forestal, el proyecto
+afecta a superficie declarada como forestal, si bien informa favorablemente con la apli-
+cación de las medidas incluidas en el presente informe.
+— Paisaje. El emplazamiento del proyecto se localiza en un paisaje de tipo Penillanura Ex-
+tremeña (granitos) asociado al dominio de Llanos y Penillanuras. Destaca la presencia
+de vallados de piedra que suelen reticular el territorio, pequeños embalses y la abun-
+dante presencia de charcas artificiales excavadas para su uso como abrevaderos. El pai-
+saje se verá impactado con la introducción de los diferentes elementos que componen
+la planta de biometanización. Del estudio de integración paisajística presentado por la
+promotora del proyecto, con la adopción de medidas de integración paisajísticas, no se
+espera una afección significativa sobre el paisaje.
+— Calidad del aire, ruido y contaminación lumínica. Durante la fase de funcionamiento,
+la planta generará emisiones debido a la combustión de hueso de oliva en la caldera a
+instalar. También se generarán emisiones ocasionales derivadas del funcionamiento de
+la antorcha de seguridad. La planta también presenta emisiones difusas a la atmósfera
+ocasionadas por la materia prima.
+Se han identificado los siguientes focos de emisiones:
+Foco 1: Sistema de upgrading.
+Foco 2: Antorcha de seguridad.
+Foco 3: Chimenea asociada a la caldera de biomasa, de 351,5 kW de potencia.
+Foco 4: Digestato sólido.
+
+NÚMERO 163
+37023
+Lunes 24 de agosto de 2026
+Los focos 1 y 2 se encuentran incluidos en el grupo B, códigos 09 10 06 00 y 09 02 04
+00, y el foco 3 en el grupo C, código 03 01 03 04, según el anexo IV de la Ley 34/2007,
+de 15 de noviembre, de la calidad del aire y protección de la atmósfera, por lo que se
+estará a lo dispuesto en la citada normativa.
+En cuanto a las emisiones difusas, el digestato sólido no se encuentra incluido en ningún
+grupo, presentando el código 09 10 09 52 de la citada norma.
+En cuanto a molestias por malos olores, la promotora presenta un estudio de disper-
+sión de olores, en el que se concluye que, en ninguno de los receptores seleccionados,
+se supera el valor objetivo de inmisión establecido para actividades de destilación de
+productos de origen vegetal. También se propone una serie de medidas para reducir los
+olores, como es la instalación de cubiertas flotantes en las balsas de almacenamiento de
+alperujo y de digestato líquido, con sistema de recogida de gases producidos. La planta
+se encuentra a unos 1.000 m de distancia del núcleo de población más cercano, por lo
+que no se prevé que las molestias por malos olores afecten de manera significativa a la
+población.
+En cuanto a ruido, se producirán emisiones sonoras del funcionamiento de la maquinaria
+y equipos a instalar, así como del tránsito de vehículos y camiones. Según el estudio
+acústico presentado por la promotora del proyecto, y con la aplicación de medidas,
+el nivel de ruido estaría por debajo de los límites establecidos según normativa de
+aplicación.
+La contaminación lumínica provendrá del alumbrado exterior de la planta.
+Con la adopción de las medidas oportunas, y el propio diseño de la planta, no se prevé
+una afección significativa en cuanto a emisiones atmosféricas, ruido y contaminación
+lumínica.
+— Patrimonio Arqueológico y dominio público. Según el informe emitido por la extinta Di-
+rección General de Bibliotecas, Archivos y Patrimonio Cultural, el proyecto no presenta
+incidencias sobre el patrimonio arqueológico conocido. No obstante, no obstante, con
+el cumplimiento de la medida establecida por la citada Dirección General, al objeto de
+protección del patrimonio arqueológico no detectado, se eliminará o reducirá el riesgo
+de afección.
+— Consumo de recursos y cambio climático. Los recursos naturales utilizados correspon-
+den a la ocupación del suelo por parte de las instalaciones, construcciones, viales, etc.
+ascendiendo a una superficie de 18.095 m2. Otro recurso natural consumido correspon-
+de al consumo de agua durante la fase de funcionamiento, estimándose unas necesida-
+des máximas de consumo de 5.000 m3 anuales.
+
+NÚMERO 163
+37024
+Lunes 24 de agosto de 2026
+En cuanto a cambio climático, el proyecto tendrá un impacto positivo al generar energía
+térmica en forma de biometano que serán utilizados en sustitución de los combustibles
+fósiles, por lo que se evita la incorporación de nuevo carbono al ciclo, aspecto favorable
+respecto al cambio climático.
+— Medio socioeconómico. El impacto socioeconómico de la ejecución del proyecto es po-
+sitivo por la generación de empleo y de la actividad económica. Esto contribuirá a fijar
+población en el entorno de la instalación. En cuanto a la actividad económica se verá
+beneficiada por la recaudación de impuestos (Impuesto sobre los Bienes Inmuebles,
+Impuesto sobre la Actividad Económica, Impuesto sobre Construcciones, Instalaciones
+y Obras).
+— Sinergias. Del análisis efectuado por la promotora, no se prevé que pudieran surgir si-
+nergias de los impactos ambientales provocados por la actividad objeto del proyecto con
+otras actividades desarrolladas en el entorno del mismo.
+— Vulnerabilidad del proyecto. Según las conclusiones del Servicio de Protección Civil de la
+Secretaría de Interior, Emergencias y Protección Civil, el proyecto “Planta de biometani-
+zación de alperujos Alagón”, en el término municipal de Oliva de Plasencia (Cáceres):
+“Presenta una vulnerabilidad baja frente a las personas por accidentes graves puesto
+que el técnico redactor determina que ninguna de las sustancias que van a estar pre-
+sentes en el establecimiento superarán el 60 % de la cantidad indicada como umbral
+inferior o I en el anexo I, del Real Decreto 840/2015, de 21 de septiembre y no se
+encuentran zonas o espacios catalogados como vulnerables, excepto parcelas de uso
+agrario y la carretera CC-212, considerados elementos poco vulnerables (EPV), total o
+parcialmente a una distancia igual o inferior a 400 m, medidos linealmente entre los
+límites más próximos del establecimiento y la zona vulnerable.
+El proyecto no está regulado por el Real Decreto 840/2015, de 21 de septiembre, por el
+que se aprueban medidas de control de los riesgos inherentes a los accidentes graves
+en los que intervengan sustancias peligrosas.
+El proyecto no está regulado por el Real Decreto 393/2007, de 23 de marzo, por el que
+se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y de-
+pendencias dedicados a actividades que puedan dar lugar a situaciones de emergencia.
+El proyecto no está regulado por el Real Decreto 1217/2024, de 3 de diciembre, por el
+que se aprueba el Reglamento sobre instalaciones nucleares y radiactivas, y otras acti-
+vidades relacionadas con la exposición a las radiaciones ionizantes”.
+
+NÚMERO 163
+37025
+Lunes 24 de agosto de 2026
+En conclusión, se trata de una actividad que no tiene efectos adversos significativos so-
+bre el medio ambiente, siempre que se apliquen las medidas recogidas en el apartado 4
+“Condiciones y medidas para prevenir, corregir y compensar los efectos sobre el medioam-
+biente”. Igualmente, el proyecto no afecta a espacios de la Red Natura 2000. Por ello, del
+análisis técnico se concluye que no es preciso someter el proyecto a evaluación de impacto
+ambiental ordinaria.
+4. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el
+medio ambiente.
+a. Condiciones de carácter general.
+— La promotora deberá cumplir todas las medidas establecidas en los informes emitidos
+por las administraciones públicas consultadas, las medidas concretadas en el docu-
+mento ambiental y en la documentación obrante en el expediente, así como cumplir
+las medidas que se expresan a continuación, establecidas como respuesta al análisis
+técnico realizado. En los casos en que pudieran existir discrepancias entre unas y otras,
+prevalecerán las contenidas en el presente informe.
+— Se informará a todo el personal implicado en la ejecución de este proyecto del conteni-
+do del presente informe, de manera que se ponga en su conocimiento las medidas que
+deben adoptarse a la hora de realizar los trabajos. Asimismo, se dispondrá de una copia
+del presente informe en el lugar donde se desarrollen los trabajos.
+— Cualquier modificación del proyecto original deberá ser comunicada al órgano ambien-
+tal. Dichas modificaciones no podrán llevarse a cabo hasta que éste no se pronuncie
+sobre el carácter de la modificación, al objeto de determinar si procede o no someter
+nuevamente el proyecto al trámite ambiental oportuno.
+— Si durante la ejecución de las obras se hallasen restos u objetos con valor arqueológico,
+la promotora y/o la dirección facultativa de la misma paralizarán inmediatamente los
+trabajos, tomarán las medidas adecuadas para la protección de los restos y comunica-
+rán su descubrimiento en el plazo de cuarenta y ocho horas a la Consejería de Cultura,
+Turismo, Jóvenes y Deporte.
+— Si durante la ejecución del proyecto y el desarrollo de la actividad se detectara la pre-
+sencia o molestias a alguna especie incluida en el Catálogo de Especies Amenazadas
+de Extremadura (Decreto 37/2001; DOE n.º 30, de 13 de marzo de 2001) que pudiera
+verse afectada por el mismo, se estará a lo dispuesto por los técnicos de la Dirección
+General de Gestión Sostenible y Política Forestal, del Servicio de Conservación de la
+Naturaleza y Áreas Protegidas y/o Coordinación de la Unidad Territorial de Vigilancia
+número 2, previa comunicación de tal circunstancia.
+
+NÚMERO 163
+37026
+Lunes 24 de agosto de 2026
+— Cualquier actuación contemplada en la obra deberá estar de acuerdo con lo estipulado
+en la Ley 43/2003, de 21 de noviembre, de Montes, y en sus modificaciones posterio-
+res, así como en el título VII de la Ley 6/2015, Agraria de Extremadura y el Decreto
+134/2019, de 3 de septiembre, por el que se regula la realización de determinadas
+actuaciones forestales en el ámbito de la Comunidad Autónoma de Extremadura y los
+Registros de Cooperativas, Empresas e Industrias Forestales y de Montes Protectores de
+Extremadura.
+— Durante la ejecución de los trabajos y el desarrollo de la actividad deberán adoptarse
+las medidas preventivas recogidas en el Decreto 260/2014, de 2 de diciembre, por el
+que se regula la prevención de los incendios forestales en la Comunidad Autónoma de
+Extremadura (Plan PREIFEX), modificado por el Decreto 144/2016, de 6 de septiembre.
+— Respecto a la ubicación y construcción, se atenderá a lo establecido en la normativa
+urbanística y en la autorización ambiental integrada, correspondiendo al Ayuntamiento
+de Oliva de Plasencia y a la Dirección General de Gestión Sostenible y Política Forestal
+las competencias en estas materias.
+— En todo caso, si como consecuencia del desarrollo de la actividad se produjese la degra-
+dación física y/o química del suelo o la contaminación de las aguas, será responsabilidad
+del propietario, el cual deberá adoptar las medidas correspondientes para la recupera-
+ción del medio.
+b. Medidas en la fase de construcción.
+— Se notificará a la Dirección General de Gestión Sostenible y Política Forestal el inicio de
+los trabajos. Esta notificación se realizará un mes antes del inicio de las obras.
+— Se deberá avisar al Agente del Medio Natural de la zona antes de comenzar los trabajos
+quien marcará y supervisará las actuaciones necesarias para la implantación de la ins-
+talación.
+— Si fuera necesaria la corta de arbolado forestal tendrá que aportar anexo de la corta y
+poda de estos pies que será estudiado y dependiendo del alcance de éstas, se podrá dar
+conformidad o tendrá que ajustarse el proyecto a un nuevo trazado.
+Si fuera autorizable la corta, se calculará las medidas compensatorias por la corta de
+arbolado que se tendrán que realizar por la pérdida del sumidero de carbono.
+Si fuera imprescindible y autorizable la corta de arbolado forestal, los trabajos se rea-
+lizarán siempre siguiendo las normas establecidas en del Decreto 134/2019, de 3 de
+
+NÚMERO 163
+37027
+Lunes 24 de agosto de 2026
+septiembre, por el que se regula la realización de determinadas actuaciones forestales
+en el ámbito de la Comunidad Autónoma de Extremadura y los Registros de Cooperati-
+vas, Empresas e Industrias Forestales y de Montes Protectores de Extremadura.
+— Se cuidará que no se vea afectado el arbolado de zonas limítrofes a la zona de implan-
+tación del proyecto y se cuidará el suelo para evitar la degradación de ecosistemas
+forestales y la erosión.
+— Se procederá previamente al inicio de los correspondientes movimientos de tierra a la
+retirada selectiva del substrato edáfico para su utilización en las labores de restauración
+del terreno o su uso en los taludes exteriores de las balsas.
+— Los movimientos de tierra se limitarán a los necesarios para la construcción de las
+instalaciones. Estos se limitarán a la zona de obras, estando prohibida la realización
+de cualquier tipo de desbroces, decapados, nivelaciones y compactaciones fuera de la
+zona de actuación. Estos movimientos de tierra no deberán provocar procesos erosivos
+derivados de los mismos. Así como también se dispondrán las medidas necesarias que
+eviten procesos erosivos en taludes y explanaciones.
+— Las tierras procedentes de la excavación de las zanjas serán utilizadas para su posterior
+relleno, y los posibles sobrantes podrán reutilizarse en la adecuación de los caminos
+afectados durante las obras, evitando extender éstas en los lugares con presencia de
+vegetación natural. Las zanjas deberán quedar el menor tiempo posible abiertas. En
+cumplimiento del principio de jerarquía en la gestión de residuos, se deberá priorizar
+su reutilización en la propia obra, y si ello no fuera posible se deberán valorizar me-
+diante su uso en restauración, acondicionamiento o relleno, evitando en todo caso su
+eliminación en vertedero. En este sentido, se deberá cumplir lo establecido en la Orden
+APM/1007/2017, de 10 de octubre, sobre normas generales de valorización de materia-
+les naturales excavados para su utilización en operaciones de relleno y obras distintas
+a aquéllas en las que se generaron, así como contar con las autorizaciones e informes
+ambientales correspondientes en caso de ser necesario.
+— Las áreas de acopio y el parque de maquinaria se ubicarán en un lugar adecuado,
+tomando las medidas necesarias de protección de los materiales para evitar posibles
+derrames accidentales y arrastres hacia la red de drenaje natural y/o contaminación del
+suelo.
+— Todas las maniobras de mantenimiento de la maquinaria se realizarán en instalaciones
+adecuadas para ello (cambios de aceite, lavados, etc.), evitando los posibles vertidos
+accidentales al medio. Los aceites usados y residuos peligrosos que pueda generar la
+
+NÚMERO 163
+37028
+Lunes 24 de agosto de 2026
+maquinaria se recogerán y almacenarán en recipientes adecuados para su evacuación
+y tratamiento por gestor autorizado. En todo caso se cumplirá la normativa relativa a
+residuos.
+— Los caminos que se hayan visto afectados durante la ejecución de las obras serán res-
+tituidos a su estado original.
+— El silo destinado a almacenamiento de digestato sólido deberá estar dotado de una cu-
+bierta al objeto de evitar que el agua de lluvia entre en su interior. Así mismo, deberá
+contar con una red de recogida de lixiviados que permita su reincorporación al ciclo de
+digestión anaerobia con el resto de alperujos.
+— Al objeto de proteger la calidad de las aguas del dominio público hidráulico y no com-
+prometer la consecución de los objetivos medioambientales, se debe garantizar la com-
+pleta estanqueidad del sistema de recogida y almacenamiento de los efluentes líquidos
+residuales, incluyendo conducciones, arquetas, fosos, depósitos/tanques y cubetos. Asi-
+mismo, debe garantizarse la compatibilidad química de los materiales empleados para la
+fabricación de dicho sistema en relación con los productos a recoger. A fin de dar cum-
+plimiento a esta condición, se debe tener a disposición de los organismos encargados
+de velar por la protección del medio ambiente, a petición del personal acreditado por
+los mismos, el correspondiente certificado suscrito por técnico competente. El sistema
+de almacenamiento de efluentes líquidos residuales debe ser vaciado con la periodici-
+dad adecuada para evitar el riesgo de rebosamiento del mismo y gestionados conforme
+a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía
+circular. La industria no podrá disponer de sistemas o conducciones fijas o móviles que
+permitan la realización de vertidos de aguas residuales al dominio público hidráulico de
+forma directa o de forma indirecta mediante infiltración al terreno. Las balsas contarán
+con sistema de detección de fugas mediante tuberías permeables dispuestas en forma
+de espina de pez, que conducirán hasta pozos de control.
+— Las superficies que rodeen a las balsas, así como las zonas de acceso a las mismas y
+cualquier otra en las que puedan generarse escorrentías pluviales contaminadas debe-
+rán estar impermeabilizadas y conectadas a una red de saneamiento que conecte con
+un depósito de almacenamiento de aguas sucias para su reutilización en el digestor
+anaerobio o bien para retirada por gestor autorizado de residuos.
+— Al finalizar los trabajos se llevará a cabo una limpieza general de todos aquellos restos
+de materiales no biodegradables generados durante la fase de construcción, que serán
+depositados en un vertedero autorizado para ello.
+
+NÚMERO 163
+37029
+Lunes 24 de agosto de 2026
+— Se realizará la restauración ambiental de la zona aprovechando el substrato edáfico
+retirado antes del comienzo de las obras. Se descompactará el suelo que se haya visto
+afectado, se extenderá la tierra vegetal acopiada y se revegetarán los taludes y zonas
+afectadas. Estos trabajos deberán concluirse en un plazo no superior a un mes desde la
+finalización de las obras.
+— Los residuos de construcción y demolición (RCD) generados, se deberán separar ade-
+cuadamente y entregar a una planta de reciclaje autorizada para su tratamiento, cum-
+pliendo en todo caso lo establecido en el Real Decreto 105/2008, de 1 de febrero, por
+el que se regula la producción y gestión de los residuos de construcción y demolición,
+y en el Decreto 20/2011, de 25 de febrero, por el que se establece el régimen jurídico
+de la producción, posesión y gestión de los residuos de construcción y demolición en la
+Comunidad Autónoma de Extremadura.
+— Durante el desarrollo de las obras se tomarán las medidas necesarias que aseguren que
+las actividades realizadas sean compatibles con el normal funcionamiento de la carre-
+tera CC-212, en especial aquellas que puedan producir polvo, humos, vapores, olores
+y otras sustancias volátiles que pudieran invadir la calzada y reducir la visibilidad a los
+usuarios. Para ello, se realizarán riegos sobre el terreno que impida la formación de
+polvo, así como la maquinaria deberá contar con una correcta puesta a punto que evite
+la emisión de humos que interfieran en los usuarios de la carretera.
+— Para la línea eléctrica (apoyo de seccionamiento), serán de aplicación las medidas para
+la protección de la avifauna contra la colisión (artículo 7) y la electrocución (artículo 6)
+en las líneas eléctricas aéreas de alta tensión determinadas a nivel nacional por el Real
+Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protec-
+ción de la avifauna contra la colisión y electrocución en líneas eléctricas de alta tensión.
+De igual forma se cumplirá lo dispuesto en el Decreto 47/2004, de 20 de abril, por el
+que se dictan Normas de Carácter Técnico de adecuación de las líneas eléctricas para la
+protección del medio ambiente en Extremadura y Resolución de 14 de julio de 2014, de
+la Dirección General de Medioambiente.
+— Para el cerramiento perimetral, se atenderá a lo dispuesto en el Decreto 226/2013, de
+3 de diciembre por el que se regulan las condiciones para la instalación, modificación y
+reposición de los cerramientos cinegéticos y no cinegéticos en la comunidad autónoma
+de Extremadura.
+c. Medidas en fase de explotación.
+— Se mantendrán en correcto estado de funcionamiento y operativas todas las instalacio-
+nes y dispositivos para cumplir las medidas incluidas en el presente informe.
+
+NÚMERO 163
+37030
+Lunes 24 de agosto de 2026
+— Los residuos producidos se gestionarán por gestor autorizado conforme a la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular. Los re-
+siduos peligrosos generados en las instalaciones deberán envasarse, etiquetarse y al-
+macenarse conforme a lo establecido en la normativa vigente y normas técnicas de
+aplicación.
+— La planta no generará vertido de aguas residuales, según lo recogido en el documento
+ambiental. Para las pluviales recogidas en las cubiertas de los edificios y zona pavimen-
+tada, se deberá evitar que entren en contacto con elementos y/o sustancias que las
+contaminen antes de evacuarlas de la planta. En caso contrario, se deberán incorporar
+al proceso de digestión, o bien se derivarán a red de saneamiento con recogida en de-
+pósito estanco y posterior retirada por gestor autorizado de residuos.
+— En cuanto a las aguas residuales generadas en los aseos, serán recogidas en una fosa
+séptica estanca y serán retiradas periódicamente por gestor de residuos autorizado.
+— Para el control de posibles contaminaciones de las aguas subterráneas, se dispondrá de
+piezómetros según lo reflejado en el estudio hidrogeológico aportado por la promotora,
+ubicándose en función de las líneas de flujo de aguas subterráneas / subsuperficiales
+(aguas arriba y aguas abajo) y en el límite de parcela, además deberán ejecutarse de
+forma que no constituyan una vía de entrada de contaminantes en las aguas subterrá-
+neas, ni que sean el origen de contaminaciones cruzadas. La cabeza del sondeo del pie-
+zómetro debe estar cimentada, y disponer de tapa para evitar su posible contaminación.
+— Antes del inicio de la actividad se realizará un análisis de las aguas subterráneas de la
+parcela en los piezómetros, al objeto de que se tenga como referencia (blanco) para la
+detección de contaminación en las aguas subterráneas. Se realizarán análisis periódicos
+mediante la toma de muestras en los piezómetros, que serán comparadas con las mues-
+tras de referencia (blanco). Los parámetros a analizar, además del nivel piezométrico,
+serán los siguientes: nitratos, nitritos, amonio y nitrógeno total, fosfatos, fluoruros,
+sulfatos, potasio, arsénico, fenoles, hidrocarburos, metales pesados, DQO, COT, DBO5,
+Escherichia coli, además de aquellos parámetros relacionados con los materiales em-
+pleados en la actividad (carbón activo, aceites y grasas lubricantes y carburante). En
+el caso de que no haya agua en los piezómetros y no se pueda realizar la muestra de
+referencia (blanco), se deberá comunicar tal circunstancia a la Dirección General de
+Gestión Sostenible y Política Forestal.
+— Los controles periódicos de aguas subterráneas se deberán realizar cada tres años por
+parte de un organismo acreditado y anualmente por parte de la empresa. Estos análi-
+sis se realizarán en dos épocas distintas del año, en aguas altas (febrero-marzo) y en
+
+NÚMERO 163
+37031
+Lunes 24 de agosto de 2026
+aguas bajas (septiembre-octubre). Todos los análisis se deberán llevar a cabo en labo-
+ratorios debidamente acreditados para cada uno de los parámetros a analizar.
+— Periódicamente se realizarán las labores de mantenimiento oportunas en las balsas
+de almacenamiento, al objeto de garantizar una correcta impermeabilización. Además,
+se deberá inspeccionar regularmente los piezómetros y los pozos de control a los que
+llegan las tuberías permeables dispuestas en forma de espina de pez del sistema de
+detección de fugas.
+— Aunque las balsas cuenten con cubierta flotante, se las dotará de elementos de salida
+desde el interior para evitar el ahogamiento de fauna. Se contará con elementos especí-
+ficos que faciliten la adherencia y permitan la salida. Para garantizar la eficacia de estos
+elementos, deben cumplir las siguientes características:
+• Anchura mínima de un metro.
+• El número mínimo de rampas instaladas debe ser de una rampa por cada 30 metros
+de perímetro exterior de la balsa.
+• Adherencia eficaz para cualquier grupo de fauna.
+• Resistencia a la intemperie que garantice la durabilidad a largo plazo.
+• Color que contraste con el color de la lámina, para que atraiga la atención de los
+animales.
+• Características del material de la rampa sin riesgo para la integridad del polietileno de
+la balsa.
+Se proponen los siguientes materiales para su empleo como dispositivos de salida: Tela
+metálica de simple torsión (imagen 1); PVC rizado (imagen 2); geocompuestos (imagen
+3 y 4).
+
+NÚMERO 163
+37032
+Lunes 24 de agosto de 2026
+Fuente. Informe del Servicio de Conservación de la Naturaleza y Áreas Protegidas
+— Todos los procesos susceptibles de generar malos olores en las instalaciones deberán
+efectuarse bajo condiciones que minimicen su emisión. En caso de no ser suficientes las
+condiciones establecidas inicialmente, se podrán determinar medidas más restrictivas.
+— Se cumplirá con la normativa de ruidos, el Decreto 19/1997, de 4 de febrero, de Regla-
+mentación de Ruidos y Vibraciones de Extremadura y Real Decreto 1367/2007, de 19
+de octubre, por el que se desarrolla la Ley 37/2003, de 17 de noviembre, del Ruido, en
+lo referente a zonificación acústica, objetivos de calidad y emisiones acústicas.
+— Las instalaciones y los elementos de iluminación se han de diseñar e instalar de manera
+que se prevenga la contaminación lumínica y se favorezca el ahorro, el uso adecuado
+y el aprovechamiento de la energía, y ha de contar con los componentes necesarios
+para este fin. Durante el periodo nocturno sólo permanecerán encendidas las luminarias
+estrictamente necesarias para el desarrollo correcto de la actividad, garantizando, así
+mismo, la seguridad laboral. Se instalarán focos de emisión de luz cuyos rayos no so-
+brepasen la horizontal y que serán dirigidos únicamente hacia donde sea necesario. Se
+evitará, por tanto, el uso de rayos de luz dirigidos hacia el cielo, lo que se conseguirá
+mediante el empleo de luminarias con reflectores hacia el suelo. Se evitará el uso de
+fuentes de luz blanca con elevado componente en color azul por ser el más perjudicial
+durante la noche. Se recomienda el uso de luminarias con longitud de onda dentro del
+rango de luz cálida.
+
+NÚMERO 163
+37033
+Lunes 24 de agosto de 2026
+— La instalación de alumbrado se adecuará a lo indicado en el Real Decreto 1890/2008,
+de 14 de noviembre, por el que se aprueba el Reglamento de eficiencia energética en
+instalaciones de alumbrado exterior y sus Instrucciones técnicas complementarias EA-
+01 a EA-07.
+— En general, para todos los productos químicos almacenados en la instalación, deberá
+observarse minuciosamente el cumplimiento de todas aquellas prescripciones técnicas
+de seguridad que sean de aplicación al almacenamiento y manipulación de los mismos,
+especialmente el de aquellas que se recojan en las correspondientes Fichas Técnicas
+de Seguridad y en el Real Decreto 656/2017, de 23 de junio, por el que se aprueba el
+Reglamento de Almacenamiento de Productos Químicos y sus Instrucciones Técnicas
+Complementarias MIE APQ 0 a 10.
+— Los camiones encargados del suministro de alperujo y demás materias a la planta, así
+como los camiones encargados de la salida de digestato y resto de elementos de la plan-
+ta, en la medida de lo posible, realizarán el acceso y la salida de la planta sin atravesar
+el municipio de Oliva de Plasencia, realizando el recorrido por la carretera CC-212 desde
+la autovía A-66.
+— En caso de situaciones anormales de explotación que puedan afectar al medio ambiente,
+se deberá comunicar la situación a la Dirección General de Gestión Sostenible y Política
+Forestal en el menor tiempo posible, sin perjuicio de la correspondiente comunicación
+por vía ordinaria. Además, se adoptarán las medidas necesarias para volver a la situa-
+ción normal de funcionamiento en el plazo más breve posible.
+c.1 Medidas específicas para el digestato.
+— Se deberá llevar un control del digestato producido en la planta mediante un archivo
+cronológico que incluya la trazabilidad del mismo.
+— El digestato producido en la planta será gestionado por gestor autorizado de residuos,
+con el código LER 19 06 06 “lodos de digestión del tratamiento anaeróbico de residuos
+animales y vegetales” para la fracción sólida, y código LER 19 06 05 “licor del tratamien-
+to anaeróbico de residuos animales y vegetales” para la fracción líquida, que disponga
+de la operación correspondiente de acuerdo con la Ley 7/2022, de 8 de abril, de resi-
+duos y suelos contaminados para una economía circular.
+— El digestato producido en la planta podrá usarse como componente para la elaboración
+de producto fertilizante según lo establecido en el Real Decreto 506/2013, de 28 de
+junio, sobre productos fertilizantes, y en el Reglamento (UE) 2019/1009 del Parlamento
+Europeo y del Consejo, de 5 de junio de 2019, por el que se establecen disposiciones
+
+NÚMERO 163
+37034
+Lunes 24 de agosto de 2026
+relativas a la comercialización de los productos fertilizantes UE y se modifican los Re-
+glamentos (CE) n.º 1069/2009 y (CE) n.º 1107/2009 y se deroga el Reglamento (CE)
+n.º 2003/2003, siempre y cuando el digestato cumpla con lo recogido en la CMC 5: di-
+gestato distinto del digestato de cultivos frescos del anexo II, Categorías de materiales
+componentes (CMC), del Reglamento (UE) 2019/1009 del Parlamento Europeo y del
+Consejo.
+— Además, con el digestato producido en la planta se podrá realizar una aplicación agrí-
+cola, operación R1001 “Valorización de residuos en suelos agrícolas y en jardinería”
+según lo establecido en el Real Decreto 1051/2022, de 27 de diciembre, por el que se
+establecen normas para la nutrición sostenible en los suelos agrarios, siempre y cuando
+el digestato cumpla con lo recogido en la parte 1 y parte 2 del anexo VIII del citado real
+decreto. En este caso, el gestor aplicador deberá disponer de la operación R1001 “Valo-
+rización de residuos en suelos agrícolas y en jardinería”, y la aplicación se regirá según
+lo establecido en el citado Real Decreto 1051/2022.
+d. Medidas de integración paisajística.
+— Con objeto de minimizar el impacto visual se realizará una plantación de especies arbó-
+reas en las lindes de la parcela, en los tramos donde no exista actualmente vegetación
+arbórea. Se emplearán especies de arbolado autóctono de gran porte, algunos de creci-
+miento rápido, recomendándose utilizar al menos dos distintas de las siguientes: fresno
+(Fraxinus angustifolia), chopos (Populus alba, Populus nigra) y olmo (Ulmus minor),
+alternando con alguna especie de hoja perenne como encina (Quercus ilex), alcornoque
+(Quercus suber) o acebuche (Olea europaea), que pueden ir acompañados de almez
+(Celtis australis), y otras especies arbustivas como retama (Retama sphaerocarpa),
+majuelo (Crataegus monogyna), piruétano (Pyrus bourgaeana), rosa silvestre (Rosa
+canina) y/o adelfa (Nerium oleander). Todas ellas se pueden complementar con plantas
+tapizantes y trepadoras, recomendando la madreselva etrusca (Lonicera etrusca), la
+especie más resistente a las sequías dentro de éstas. En cualquier caso, se debe garan-
+tizar la viabilidad de esta pantalla, mediante reposición de marras y un mantenimiento
+adecuado. A su vez se realizarán los oportunos riegos de apoyo durante los primeros
+años de la plantación, que debe evitar formas y marcos regulares.
+— Bajo ningún concepto se implantarán especies catalogadas como invasoras, recogidas
+en el Catálogo Español de Especies Exóticas Invasoras.
+— Las plantas a utilizar deberán estar libres de agentes patógenos y provenir de vivero
+certificado.
+
+NÚMERO 163
+37035
+Lunes 24 de agosto de 2026
+e. Medidas a aplicar al final de la actividad.
+— En el caso de no finalizarse las obras, o al final de la actividad se procederá al derribo
+de las construcciones, al desmantelamiento de las instalaciones y al relleno de las
+fosas, demoliendo adecuadamente las instalaciones, y retirando los residuos a gestor
+autorizado.
+— Si una vez finalizada la actividad se pretendiera adaptar las instalaciones para otro uso
+distinto, éstas deberán adecuarse al nuevo uso. Dicha modificación deberá contar con
+todos los informes y autorizaciones exigibles en su caso.
+f. Programa de vigilancia y seguimiento ambiental.
+— La actividad será sometida a inspección, vigilancia y control a efectos de comprobar que
+se realice según las condiciones recogidas en este informe, a fin de analizar, determinar
+y asegurar la eficacia de las medidas establecidas, así como de verificar la exactitud y
+corrección de la evaluación ambiental realizada.
+— La promotora deberá realizar una labor de seguimiento ambiental de la actividad, en
+la que se verificará la adecuada aplicación de las medidas incluidas en el informe de
+impacto ambiental.
+— Cualquier incidencia ambiental destacada deberá ser comunicada a la autoridad am-
+biental a la mayor brevedad posible, emitiendo un informe con la descripción de la mis-
+ma, de las medidas correctoras aplicadas y de los resultados finales observados.
+— En base a la vigilancia ambiental practicada a la actividad se podrán exigir medidas
+correctoras suplementarias para corregir las posibles deficiencias detectadas, así como
+otros aspectos relacionados con el seguimiento ambiental no recogidos inicialmente.
+— Se remitirá un informe anual, dentro del primer trimestre de cada año, en el que se
+recoja el cumplimiento de las medidas y la eficacia de las mismas.
+Teniendo en cuenta todo ello, así como la no afección del proyecto a espacios de la Red Natura
+2000, a propuesta del Servicio de Prevención, Calidad Ambiental y Climático y, de acuerdo
+con la evaluación de impacto ambiental simplificada practicada conforme a lo previsto en la
+subsección 2.ª de la sección 2.ª del capítulo VII del título I, tras el análisis realizado con los
+criterios del anexo X de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comu-
+nidad Autónoma de Extremadura, la Dirección General de Gestión Sostenible y Política Fores-
+tal resuelve, mediante la formulación del presente informe de impacto ambiental, que no es
+previsible que el proyecto de instalación de una planta de valorización de residuos (alperujos)
+
+NÚMERO 163
+37036
+Lunes 24 de agosto de 2026
+para la producción de biogás en el término municipal de Oliva de Plasencia vaya a producir
+impactos adversos significativos sobre el medio ambiente, y por tanto, la innecesariedad de
+su sometimiento al procedimiento de evaluación de impacto ambiental ordinaria.
+El presente informe se emite a los solos efectos ambientales y en virtud de la legislación es-
+pecífica vigente, sin perjuicio de aquellas otras autorizaciones sectoriales o licencias que sean
+necesarias para la ejecución del proyecto.
+El informe de impacto ambiental perderá su vigencia y cesará en la producción de los efectos
+que le son propios si, una vez publicado en el Diario Oficial de Extremadura, no se hubiera
+procedido a la autorización del proyecto en el plazo de cinco años desde su publicación.
+Su condicionado podrá ser objeto de revisión y actualización por parte del órgano ambiental
+cuando:
+— Se produzca la entrada en vigor de nueva normativa que incida sustancialmente en el
+cumplimiento de las condiciones fijadas en el mismo.
+— Cuando durante el seguimiento del cumplimiento del mismo se detecte que las medidas
+preventivas, correctoras o compensatorias son insuficientes, innecesarias o ineficaces.
+De conformidad con lo dispuesto en el artículo 76.6 de la Ley 16/2015, de 23 de abril, de
+protección ambiental de la Comunidad Autónoma de Extremadura, el informe de impacto am-
+biental no será objeto de recurso alguno, sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+El informe de impacto ambiental será objeto de publicación en el Diario Oficial de Extremadura
+y en la página web de la Consejería de Agricultura, Ganadería y Desarrollo Sostenible
+(http://extremambiente.gobex.es/ ).
+Mérida, 14 de agosto de 2026.
+El Director General de Gestión
+Sostenible y Política Forestal,
+JUAN ELOY RODRÍGUEZ UCEDO
+• • •
