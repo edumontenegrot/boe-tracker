@@ -1,0 +1,423 @@
+AÑO XLV Núm. 162 25 de agosto de 2026 30917
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 14/08/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, por la que
+se formula el informe de impacto ambiental del proyecto: Consolidación y mejora de regadío mediante
+modernización a riego por goteo y plantación de pistachero en la parcela 1 del polígono 55 y parcela 33 del
+polígono 54 en la finca Pozo Majano de Albacete (expediente S478/2026/AB/00092), situado en el término
+municipal de Albacete, cuya promotora es Latitud 38 Agro SL. [2026/6232]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Asimismo, en su artículo 8.1 se establece que los proyectos incluidos en su ámbito de aplicación deben someterse
+a una evaluación ambiental antes de su autorización por el órgano sustantivo, o bien, si procede, antes de la
+presentación de la correspondiente declaración responsable o comunicación previa. En particular, su artículo 50
+determina los proyectos que deben someterse a una evaluación de impacto ambiental simplificada.
+El proyecto denominado “Consolidación y mejora de regadío mediante modernización a riego por goteo y plantación
+de pistachero en la parcela 1 del polígono 55 y parcela 33 del polígono 54 en la finca “Pozo Majano” de Albacete”
+se encuadra en el Anexo II, Grupo 1 “Agricultura, silvicultura, acuicultura y ganadería”, apartado c) 1.º “Proyectos de
+consolidación y mejora de regadíos en una superficie superior a 100 ha” de la citada Ley, al afectar a una superficie
+de 193,5419 ha.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+1.1.- Descripción del proyecto.
+Según el documento ambiental de fecha mayo de 2026, el proyecto, objeto de esta actuación, se localiza en la
+comarca centro de la provincia de Albacete, dentro del término municipal de Albacete, en la finca conocida como
+“Pozo Majano”. Las coordenadas centrales aproximadas de la finca, en proyección UTM huso 30 ETRS89, se
+encuentran en torno a X = 592.800 m, Y = 4.320.300 m.
+Los terrenos donde se pretende llevar a cabo la modernización del sistema de riego y la plantación de pistachero se
+encuentran en la parcela 1 del polígono 55 y la parcela 33 del polígono 54 del catastro de Albacete. Los datos de la
+superficie afectada se resumen en la siguiente tabla:
+Municipio Polígono Parcela Recinto Superficie (ha)
+Albacete 55 1 1 100,2022
+Albacete 55 1 3 0,4009
+Albacete 55 1 4 0,1440
+Albacete 55 1 7 0,2277
+Albacete 55 1 13 0,0636
+Albacete 54 33 1 92,4163
+Albacete 54 33 7 0,0155
+Albacete 54 33 9 0,0717
+Total 193,5419
+De esta superficie de 193,5419 hectáreas, actualmente dedicada al cultivo de cereal, hortícolas y almendros en
+regadío por aspersión (coberturas y sistema pivot), se sustituirá por un sistema de riego a goteo de alta eficiencia y
+se plantará pistachero (Pistacia vera L.), variedad principal Sirora injertada sobre patrón UCB-1, con polinizadores
+Randy y Pioneer Gold (“02-18”) en proporción 1:14, con marco de plantación al tresbolillo de 6 × 4 m.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30918
+El nuevo sistema de riego localizado incorpora cabezal con equipos de filtrado, inyectores de fertirrigación, sistema de
+control automatizado y telemetría, conducciones primarias de PE/PVC enterradas a 60-80 cm y líneas portagoteros
+con goteros autocompensantes integrados de 2,3 l/h.
+1.2.- Captación y disponibilidad de recursos hídricos.
+El cambio de sistema de riego mantiene el régimen concesional preexistente ante la Confederación Hidrográfica
+del Júcar, correspondiente al aprovechamiento de aguas subterráneas UGH AB0015 (expediente 1999PT0058
+(1988IC2214)), en la Unidad Hidrogeológica 08.29 “Mancha Oriental”, sin incrementarse el volumen máximo anual
+otorgado de 1.063.200 m³/año. Se estima que el consumo bruto anual en plena producción se situará en torno a
+950.000-1.030.000 m³/año, por debajo del citado techo concesional.
+Captaciones de agua.
+El riego se abastece mediante un total de 10 captaciones de agua subterránea (sondeos) que abastecen la totalidad
+de la finca, procedentes de la masa de agua subterránea 080.29 “Mancha Oriental”. La titularidad de la concesión
+de aguas subterráneas corresponde a Energética Albacete S.L., otorgada por Resolución de la Presidencia de la
+Confederación Hidrográfica del Júcar de 28 de Junio de 2002, expediente 1999PT0058 (1988IC2214) - UGH AB0015.
+En la tabla siguiente se resumen las características esenciales de las tomas de agua subterránea actuales:
+Nº toma UTM: X UTM: Y Cota (m) Prof. (m) Diám. (mm) Caudal (l/s) Potencia bomba (CV)
+1 592.047 4.320.313 649 100 500 20 100
+2 592.971 4.320.031 653 105 500 87 180
+3 593.147 4.319.936 ND 150 500 ND ND
+4 592.924 4.319.840 652 120 500 102 90
+5 592.839 4.320.196 652 120 500 120 180
+6 593.938 4.319.330 660 260 500 55 75
+7 592.812 4.320.361 660 114 500 141 210
+8 592.791 4.319.213 654 100 500 58 73
+9 592.950 4.320.334 657 180 500 134 120
+10 592.791 4.319.564 649 100 500 71 90
+Estos pozos no se van a modificar.
+La concesión ampara un volumen máximo anual de 1.063.200 m³/año, para uso agropecuario-riego de una superficie
+regable de 195,74 hectáreas (dotación de 5.431,69 m³/ha y año), superficie que resulta superior a las 193,5419 ha
+objeto del presente proyecto, quedando en consecuencia acreditada la disponibilidad de recursos hídricos necesaria
+para la actuación.
+Los cultivos previstos son los tradicionales de la zona, mostrándose a continuación su consumo previsto:
+Cultivo Superficie (ha) Consumo agua según concesión (m³/ha) Volumen total (m³/año)
+Pistachos 193,54 5.430,00 1.050.922
+1.3.- Alternativas estudiadas.
+El Documento Ambiental analiza como alternativa 0 el mantenimiento de la situación actual (cultivos hortícolas y
+cereal en regadío por aspersión), descartada por su mayor consumo hídrico bruto, mayor aporte de fertilizantes
+nitrogenados y mayor intensidad fitosanitaria.
+Entre las alternativas de cultivo leñoso (almendro en seto, olivar en seto, viñedo en espaldera), se selecciona el pistachero
+por sus menores necesidades hídricas y su compatibilidad con cubiertas vegetales en calles. Entre las alternativas
+de sistema de riego (aspersión, microaspersión, goteo subterráneo, goteo en superficie), se selecciona el goteo en
+superficie con goteros autocompensantes por su mayor eficiencia de aplicación (90-92 %) y robustez de mantenimiento.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30919
+1.4.- Análisis de los impactos potenciales reflejados en el documento ambiental.
+Según el documento ambiental aportado, no se detectan afecciones sobre espacios naturales protegidos de la Red
+Natura 2000 (ZEC, LIC, ZEPA), elementos geomorfológicos de protección especial de la Ley 9/1999, hábitats de
+la Directiva 92/43/CEE, ni sobre el patrimonio arqueológico, según consulta al visor de espacios sensibles de la
+Consejería de Agricultura y a la cartografía de Patrimonio Cultural de Castilla-La Mancha.
+1.5.- Medidas preventivas, correctoras y de vigilancia propuestas por el promotor.
+El promotor propone, entre otras, medidas relativas a la vigilancia de la ejecución de las obras de instalación de
+riego y plantación del pistacho a marco 6x4 m, control del volumen anual extraído de las captaciones subterráneas
+mediante lectura de contadores volumétricos con telelectura y ajuste al techo de la concesión, control de la calidad
+del agua de bombeo (nitratos) y del balance de fertilización nitrogenada frente a las extracciones del cultivo, control
+del estado y buen funcionamiento de los equipos de riego y de la correcta aplicación del plan de abonado, control de
+la correcta gestión de los residuos generados por la actividad, control de no afección al patrimonio arqueológico, así
+como cumplimiento de las medidas correctoras frente a contaminación atmosférica y ruido.
+Como medidas de vigilancia ambiental, el promotor prevé la designación de un responsable del seguimiento, con
+constancia escrita de las actuaciones e inspecciones, atendiendo especialmente al control de las áreas de actuación,
+la vegetación y la correcta gestión de residuos.
+Segundo. Tramitación y consultas.
+El 16 de Mayo de 2026, se reciben en el Servicio de Calidad Ambiental de Albacete de la Delegación Provincial de
+Consejería de Desarrollo Sostenible, por parte del promotor, la solicitud de inicio del procedimiento de Evaluación de
+Impacto Ambiental Simplificada del proyecto, el proyecto y el documento ambiental de la actuación, así como la tasa
+correspondiente al procedimiento, trámite necesario en aplicación de la Ley 9/2012, de 29 de noviembre, de Tasas
+y Precios Públicos de Castilla-La Mancha y otras medidas presupuestarias.
+El 20 de mayo de 2026, el órgano ambiental notificó al promotor del proyecto que la documentación presentada junto
+con la solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 46 de
+la citada Ley 21/2013, se formularon consultas previas a las Administraciones públicas afectadas y a las personas
+interesadas, con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones
+consultadas han sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las
+consultas formuladas):
+● Gerencia Municipal de Urbanismo de Albacete
+● Servicio de Medio Natural y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de Albacete (*)
+● Unidad de Coordinación de Agentes medioambientales de la Delegación Provincial de Desarrollo Sostenible de
+Albacete (*)
+● Confederación Hidrográfica del Júcar
+● Agencia del Agua de Castilla-La Mancha
+● Sección de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Albacete (*)
+● Sociedad Albacetense de Ornitología
+Entre las respuestas de los organismos consultados, ninguna se opone al proyecto, informando sobre las condiciones
+que debe cumplir según la normativa en vigor de su competencia:
+• El Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Albacete (Exp/Cult 26.1535
+R) emite visado autorizable con fecha de salida de 9 de junio de 2026, condicionado a que, en caso de aparición
+de restos durante la ejecución de las obras, se actúe conforme al artículo 44.1 de la Ley 16/85, de Patrimonio
+Histórico Español, y al artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha,
+garantizándose su control arqueológico.
+• La Unidad de Agentes Medioambientales de Albacete, mediante ficha de campo de fecha 25 de mayo de 2026,
+constata que el proyecto se encuentra sin iniciar, que la parcela se dedica actualmente a cultivo de cereal, hortícolas
+y almendros de regadío, y formula consideraciones sobre gestión de residuos (incluidos los peligrosos derivados de
+envases fitosanitarios y mantenimiento de maquinaria), respeto de lindes para la fauna cinegética, mantenimiento
+y planificación eficiente del riego, control administrativo del consumo de agua por la Confederación Hidrográfica del
+Júcar, protección de los aportes de agua a caminos y control del uso de fertilizantes y fitosanitarios.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30920
+• El Servicio de Medio Natural y Biodiversidad, con fecha 29 de mayo de 2026, informa que el proyecto se encuentra
+fuera de la Red Regional de Áreas Protegidas de Castilla-La Mancha, siendo zona de reproducción de aves
+esteparias y del águila perdicera, con posible existencia de hábitats botánicos protegidos, no afectando a montes de
+utilidad pública ni a vías pecuarias, estableciendo un condicionado para la ejecución de la actuación que se recoge
+en el apartado Cuarto de esta resolución.
+De acuerdo con el artículo 53.2 de la Ley 2/2020 y transcurrido el plazo sin haberse recibido respuesta de los
+organismos no señalados con (*), se entiende que se cuenta con elementos de juicio suficientes para resolver, al
+obrar en el expediente los informes oportunos, que se consideran válidos a estos efectos.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Características del proyecto.
+El proyecto consiste en la modernización del sistema de riego, de aspersión a goteo de alta eficiencia, y en el cambio
+de cultivo herbáceo y hortícola a pistachero, en una superficie de 193,5419 ha ubicadas en la parcela 1 del polígono
+55 y la parcela 33 del polígono 54 del término municipal de Albacete, finca “Pozo Majano”. El cambio de sistema
+de riego no supone incremento del volumen concesional otorgado por la Confederación Hidrográfica del Júcar
+(1.063.200 m³/año), estimándose además una reducción efectiva del consumo respecto a la situación actual, dada
+la mayor eficiencia de aplicación del riego por goteo (90-92 %) frente a la aspersión (70-75 %).
+Esta zona de Albacete ha experimentado en la última década un notable incremento de las plantaciones de
+pistachero, sustituyendo progresivamente a los cultivos herbáceos y hortícolas tradicionales, por lo que el efecto de
+acumulación con otras explotaciones similares del entorno es apreciable. Ello supone una modificación del mosaico
+agrícola tradicional, con los correspondientes riesgos específicos, entre ellos la posible afección a la avifauna
+esteparia asociada a los cultivos herbáceos y de cereal.
+Los impactos negativos de la alternativa seleccionada serán, por un lado, económicos para el promotor, derivados de
+la inversión necesaria para la modernización del riego y la plantación, si bien resultarán beneficiosos económicamente
+durante la vida útil del proyecto, dada la mayor rentabilidad del nuevo cultivo. No se identifican impactos sociales
+sobre los usuarios del entorno, al no verse afectados caminos públicos ni zonas de servidumbre, situándose la
+actuación íntegramente sobre una finca de titularidad privada.
+Los impactos negativos sobre el entorno se derivan fundamentalmente del cambio estructural del hábitat agrícola (de
+mosaico cerealista/hortícola a cultivo leñoso permanente), que puede afectar a las especies faunísticas esteparias
+asociadas. No se prevé desbroce, tala o afección a vegetación natural protegida, no localizándose especies florísticas
+de especial interés en el área afectada por tratarse de superficie agrícola en explotación.
+3.2.- Ubicación del proyecto.
+El proyecto se ubica sobre superficie actualmente en cultivo de regadío, dentro de la Demarcación Hidrográfica
+del Júcar y de la masa de agua subterránea ES080.29 “Mancha Oriental”, figurando como zona vulnerable a la
+contaminación por nitratos. Las parcelas no se encuentran incluidas en ningún espacio de la Red Natura 2000 ni en
+otra figura de protección de la Red Regional de Áreas Protegidas de Castilla-La Mancha, si bien constituyen zona
+de reproducción de aves esteparias y del águila perdicera, con posible existencia de hábitats botánicos protegidos,
+según el informe del Servicio de Medio Natural y Biodiversidad.
+En el entorno provincial se sitúan la ZEPA “Áreas Esteparias del Este de la Llanura Manchega” y las ZEC/ZEPA
+“Lagunas de Ruidera”, “Lagunas de El Salobral - Ojos de Villaverde” y “Lagunas Saladas del Cordel del Pozohondo”,
+sin que se identifique afección directa por la distancia existente. No se localizan vías pecuarias ni montes de utilidad
+pública en el interior de las parcelas, ni yacimientos arqueológicos catalogados.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30921
+3.3.- Características del potencial impacto.
+A continuación, se expone un listado de las acciones del proyecto que pueden ser causa de impacto sobre el medio,
+diferenciando la fase de instalación, la fase de funcionamiento y la fase de cese.
+La fase de instalación comprende el replanteo topográfico, la preparación del terreno mediante subsolado y chisel, la
+enmienda orgánica del suelo, la instalación del cabezal y de las conducciones de riego, y la plantación propiamente
+dicha, con una duración estimada de tres a seis meses.
+La fase de funcionamiento se limita a las labores agrícolas propias del cultivo (poda, manejo del suelo, fertirrigación,
+tratamientos fitosanitarios y recolección).
+La fase de cese, dado el carácter leñoso permanente del pistachero, no se prevé antes de un horizonte de 30-40 años,
+comprendiendo entonces el arranque de la masa arbórea, el desmantelamiento de la red de riego y la restitución del
+terreno.
+No se han estimado afecciones directas o indirectas relevantes sobre los siguientes elementos:
+• Recursos hidrológicos e hidrogeológicos: no se estima afección significativa dada la ausencia de incremento del
+volumen concesional y la mejora de eficiencia del riego, si bien la masa de agua subterránea se encuentra en mal
+estado cuantitativo y químico, por lo que se mantiene el condicionado específico correspondiente.
+• Vegetación y hábitats: el proyecto se localiza sobre terrenos agrícolas previamente dedicados a cultivo herbáceo y
+hortícola de regadío, sin afectar a vegetación natural circundante ni a hábitats de interés comunitario.
+• Patrimonio (vías pecuarias, montes de utilidad pública y patrimonio histórico-artístico): no se considera afección,
+sin perjuicio del condicionado derivado del informe del Servicio de Cultura sobre control arqueológico.
+• Socioeconomía: el proyecto genera efectos positivos sobre la economía local por la fijación de empleo en las
+labores de plantación, poda y recolección, y por la diversificación de la actividad agraria.
+Los principales impactos identificados son los siguientes:
+• Afección sobre la atmósfera: derivada del polvo y de las emisiones de la maquinaria durante la fase de instalación,
+de carácter compatible por su baja intensidad, escasa extensión y reversibilidad, reduciéndose además de forma
+significativa en la fase de funcionamiento respecto a la situación actual, al requerir el pistachero menos pases de
+maquinaria (6-8 frente a 12-18 en hortícolas).
+• Afección sobre el suelo y el agua: compatible, dado que no se producen vertidos ni incremento del consumo de
+agua, y que el cambio de cultivo reduce los aportes de nitrógeno (de 200-300 a 100-150 kg N/ha·año) y mejora la
+estructura y el contenido en materia orgánica del suelo a medio y largo plazo.
+• Afección sobre la fauna: el principal impacto se concentra en la pérdida funcional de parte del hábitat de las especies
+esteparias asociadas al mosaico cerealista/hortícola actual (avutarda, sisón, aguilucho cenizo, entre otras), efecto
+que se considera compatible-moderado dada la distancia a los espacios protegidos más próximos, la persistencia
+de amplias superficies cerealistas en el entorno y la intensidad de la actividad agrícola ya existente en la finca,
+resultando mitigable mediante el condicionado específico del apartado Cuarto.
+• Afección sobre el paisaje: moderada, por la introducción de elementos verticales de porte medio en sustitución del
+paisaje cerealista tradicional, mitigable mediante el respeto a lindes, vías pecuarias y caminos.
+• Afección sobre el patrimonio cultural: no se estiman impactos, sin perjuicio del condicionado de control arqueológico
+establecido por el Servicio de Cultura.
+Como conclusión, la valoración arroja afecciones potenciales compatibles con el medio, si bien la naturaleza de
+las mismas hace necesario proponer e implementar las medidas preventivas, correctoras y compensatorias que
+se recogen en el apartado siguiente, con objeto de evitar, minimizar o compensar las afecciones detectadas, en
+particular sobre la avifauna esteparia y sobre la masa de agua subterránea “Mancha Oriental”.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1.- Protección de la atmósfera.
+Para reducir la emisión de polvo, se limitará la velocidad de los vehículos en las áreas de trabajo a 30 km/h en pistas
+y caminos rurales, y se realizará riego periódico de caminos y zonas de actividad de maquinaria.
+Se empleará maquinaria con motorización homologada (etapa V o equivalente) y mantenimiento preventivo
+periódico, con el objetivo de minimizar la producción de ruido y gases, debiendo contar con las inspecciones técnicas
+obligatorias en vigor. Los trabajos se limitarán al horario diurno (8:00 a 20:00 h), respetando los días festivos, y no
+se realizará quema de restos vegetales.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30922
+4.2.- Protección de la vegetación.
+El acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas, utilizando siempre la traza ya
+existente.
+Cualquier actuación que implique descuaje de cubiertas vegetales de matorral o arbolado requerirá autorización
+previa de la Delegación Provincial de Desarrollo Sostenible de Albacete, en aplicación del artículo 49 de la Ley
+3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha, sin que deba entenderse
+dicha autorización como concedida por la emisión de esta Resolución.
+Se deberá comunicar el inicio de las obras con suficiente antelación a los agentes medioambientales de la zona,
+en coordinación con los cuales se jalonará la zona estricta de actuación con el fin de minimizar la afección a
+la vegetación natural, tanto por la propia actuación como por el paso de maquinaria. La ejecución del proyecto
+se realizará bajo la supervisión y el seguimiento ambiental de dichos agentes, atendiéndose a sus indicaciones
+y sugerencias, quienes podrán establecer una limitación temporal para evitar molestias sobre la reproducción o
+nidificación de la avifauna protegida
+Se prohíbe la alteración significativa o destrucción de las lindes, setos, superficies ocupadas por vegetación natural,
+árboles, arbustos o bosquetes de especies forestales y demás elementos estructurales o característicos del paisaje
+agrario, así como la posible afección a hábitats botánicos protegidos.
+La eliminación de los restos vegetales se realizará con la mayor brevedad posible para evitar la aparición de plagas
+forestales y reducir el riesgo de incendios, cumpliendo la normativa vigente en materia de prevención de incendios
+forestales. Las zonas de acopio de materiales y demás instalaciones auxiliares se localizarán preferentemente en
+lugares desprovistos de vegetación natural.
+4.3.- Protección de la fauna.
+El proyecto no afecta a espacios naturales protegidos ni a la Red Natura 2000, encontrándose fuera de la Red
+Regional de Áreas Protegidas de Castilla-La Mancha. No obstante, dado que la zona constituye área de reproducción
+de aves esteparias y del águila perdicera, los trabajos de preparación del terreno, ejecución del riego y plantación se
+realizarán en el período comprendido entre el 1 de octubre y el 28 de febrero, evitando la temporada reproductora
+de aves esteparias y rapaces (1 de marzo a 30 de junio), salvo comprobación previa, mediante inspección de técnico
+ornitólogo o agente medioambiental, de la inexistencia de nidos activos de aguilucho cenizo o sisón en las parcelas.
+Se mantendrá el trazado de las vías pecuarias colindantes y un pasillo de 5 m sin laboreo en su perímetro adyacente.
+Se respetará la vegetación arbórea y las lindes existentes, favoreciendo la biodiversidad y el refugio de fauna auxiliar.
+Se recomienda la instalación de cajas-nido para cernícalo primilla, mochuelo y aves insectívoras paseriformes, así
+como el mantenimiento de corredores ecológicos y de mosaicos no productivos en el perímetro de la finca, en la
+medida de lo posible, con objeto de compensar la pérdida funcional de hábitat esteparia derivada del cambio de
+cultivo.
+En lo no dispuesto en este condicionado se atenderá a las recomendaciones de los agentes medioambientales de la
+zona, quienes ejercerán la supervisión y el seguimiento ambiental de la actuación, debiendo el promotor tener en su
+posesión, en el lugar de realización de los trabajos, el contenido de la presente Resolución, pudiendo ser requerido
+en cualquier momento por los agentes de la autoridad.
+4.4.- Protección de los sistemas hidrológico e hidrogeológico.
+Previamente a la realización de los trabajos, se deberá contar con los permisos correspondientes de la Confederación
+Hidrográfica del Júcar, debiendo respetarse en todo caso el volumen máximo anual concesional de 1.063.200 m³/año
+del expediente 1988IC2214 (UGH AB0015), sin que la presente resolución exima de la obtención de dichos permisos.
+Se informa que el entorno de actuación se encuentra dentro de la masa de agua subterránea ES080.29 “Mancha
+Oriental”, declarada zona vulnerable a la contaminación por nitratos de origen agrario, siendo de aplicación el
+Programa de Actuación en Zonas Vulnerables a Nitratos vigente en Castilla-La Mancha y el Código de Buenas
+Prácticas Agrarias. Las dosis de fertilización se ajustarán anualmente a las extracciones reales del cultivo mediante
+análisis de suelo y foliares, aplicándose la fertirrigación de forma fraccionada en las fases de mayor demanda.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30923
+En relación con la aplicación de fitosanitarios, se emplearán los productos autorizados de menor toxicidad o
+persistencia compatible con la eficacia del tratamiento, conforme al Real Decreto 1311/2012 y a los principios de la
+Gestión Integrada de Plagas, llevándose un registro de los productos utilizados (fecha, zona de aplicación, categoría
+de peligrosidad, producto, materia activa y dosis).
+Se instalarán contadores volumétricos con telelectura en todos los pozos del aprovechamiento, programándose el
+riego mediante sondas de humedad, dendrómetros y balance hídrico con datos del SIAR, reportándose anualmente
+a la Confederación Hidrográfica del Júcar los volúmenes extraídos, en cumplimiento de la Orden ARM/1312/2009.
+4.5.- Generación de residuos.
+Todos los residuos generados durante las fases de instalación y funcionamiento, sean peligrosos o no, estarán sujetos
+a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular. Los
+envases vacíos de fitosanitarios y fertilizantes se gestionarán a través del Sistema Integrado de Gestión SIGFITO.
+Los aceites usados y demás residuos peligrosos derivados del mantenimiento de la maquinaria se almacenarán
+en condiciones adecuadas y se entregarán a gestor autorizado, debiendo el promotor, en su caso, inscribirse en el
+registro correspondiente de productores de residuos peligrosos.
+4.6.- Protección del suelo.
+El subsolado se realizará únicamente en condiciones de tempero, evitándose trabajos sobre suelo seco compactado
+o excesivamente húmedo. Se restringirá el paso de maquinaria pesada a las pistas habilitadas, procediéndose a la
+descompactación superficial en los pasillos de tránsito al final de la fase de ejecución de los trabajos de plantación.
+En la apertura de zanjas para las conducciones se realizará acopio de la capa superficial fértil, que será restituida al
+final conservando el orden de horizontes. Se realizará una enmienda orgánica generalizada previa a la plantación,
+y se mantendrá una cubierta vegetal espontánea o sembrada en las calles del cultivo, favoreciendo la infiltración, la
+estructura del suelo y la reducción del riesgo de erosión.
+4.7.- Protección contra el ruido.
+Se tendrá en cuenta lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, y sus reglamentos de
+desarrollo. La maquinaria y vehículos empleados deberán haber pasado las inspecciones técnicas obligatorias, en
+especial las referentes a emisiones de gases y ruido, procediéndose a su revisión y mantenimiento periódico.
+4.8.- Protección del paisaje.
+Las líneas de plantación se dispondrán adaptadas a las curvas de nivel y a las orientaciones que minimicen la
+fragmentación visual, manteniéndose setos y vegetación natural en lindes y zonas de servicio para la integración
+paisajística, y limitándose el uso de elementos verticales innecesarios (postes, tendidos, depósitos exteriores).
+4.9.- Patrimonio Histórico y Bienes de Dominio Público e Infraestructuras
+Se deberá actuar conforme a lo previsto en el artículo 44.1 de la Ley 16/85, de Patrimonio Histórico Español, y en
+el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha. A este respecto, el
+Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Albacete autoriza la actuación
+con visado autorizable (Exp/Cult 26.1535 R), condicionado al control arqueológico en caso de aparición de restos
+durante la ejecución de las obras y a su comunicación inmediata a la Consejería competente en materia de cultura.
+Se respetará la distancia reglamentaria a caminos y fincas colindantes. No se localizan vías pecuarias ni montes de
+utilidad pública en el entorno inmediato de las parcelas.
+4.10.- Plan de desmantelamiento.
+Dado el carácter leñoso permanente del pistachero y su elevada vida útil (30-50 años), no se prevé el cese de la
+actividad antes de dicho horizonte temporal. En el supuesto de cese definitivo del cultivo, se procederá al arranque
+y triturado de la masa arbórea, al desmantelamiento de la red de riego enterrada con entrega de los materiales a
+gestor autorizado, al sellado de los pozos en caso de cese del aprovechamiento (artículo 196 ter del RDPH) y a
+la restitución del terreno, asegurándose la implantación de cubiertas vegetales en la fase de transición para evitar
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30924
+pérdidas por erosión. La fase de cese será objeto de un Plan de Desmantelamiento específico, que se redactará al
+menos un año antes del cese efectivo y se someterá a la consideración de la Administración competente, poniéndose
+en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de Albacete
+para dar por finalizado el expediente.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o de
+las medidas correctoras y compensatorias establecidas en la presente resolución. Este informe incluirá un listado de
+comprobación de las medidas previstas en el programa de vigilancia. Cada informe deberá estar suscrito conjuntamente
+por el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano
+ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+Vigilancia en la construcción y funcionamiento de las instalaciones, para verificar que se están cumpliendo las
+condiciones establecidas en el documento ambiental y en la presente Resolución.
+Vigilancia de la ejecución de las obras de instalación del riego y de la plantación de pistachero a marco 6 × 4 m,
+verificando el cumplimiento del calendario establecido para la protección de la avifauna esteparia.
+Control del volumen anual extraído por pozo, mediante los contadores volumétricos con telelectura, y de su ajuste
+al techo concesional de 1.063.200 m³/año.
+Control de la calidad del agua de bombeo (nitratos) y del balance de fertilización nitrogenada frente a las extracciones
+del cultivo.
+Control del estado y buen funcionamiento de los equipos de riego.
+Control de la correcta aplicación del plan de abonados y tratamientos fitosanitarios.
+Control del libro registro de productos fitosanitarios utilizados.
+Correcta revisión de las líneas eléctricas afectadas conforme al Decreto 5/1999.
+Control de la correcta gestión de todos los residuos generados por la actividad.
+Control de no afección al patrimonio arqueológico.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Delegación Provincial de
+Desarrollo Sostenible de Albacete:
+a) Antes del inicio de la obra:
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+
+AÑO XLV Núm. 162 25 de agosto de 2026 30925
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Resolución de modificación de características de la concesión emitida por la Confederación Hidrográfica del Júcar
+(Exp. 1988IC2214 (UGH AB0015)).
+- Autorización/licencia de obras emitida por el Ayuntamiento de Albacete
+b) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cuatro primeros años de
+funcionamiento del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y
+vigilancia ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Albacete, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, Resuelve que el proyecto “Consolidación y mejora de regadío mediante
+modernización a riego por goteo y plantación de pistachero en la parcela 1 del polígono 55 y parcela 33 del polígono
+54 en la finca “Pozo Majano” de Albacete” (Exp. S478/2026/AB/00092), cuyo promotor es la mercantil Latitud 38
+Agro S.L., no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse que no tiene
+efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales y de seguimiento que
+propone el promotor y los requisitos ambientales que se desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Albacete, 14 de agosto de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ
