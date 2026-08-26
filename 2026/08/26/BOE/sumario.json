@@ -1,0 +1,61 @@
+{
+  "bulletin": "BOE",
+  "date": "2026-08-26",
+  "acts": [
+    {
+      "id": "BOE-A-2026-18148",
+      "title": "Real Decreto-ley 21/2026, de 25 de agosto, de transparencia e integridad de las actividades de los grupos de interés.",
+      "section": "I",
+      "section_name": "Disposiciones generales",
+      "rank": "Medidas urgentes",
+      "organism": "JEFATURA DEL ESTADO",
+      "pdf_url": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18148.pdf",
+      "summary": "",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "BOE-A-2026-18149",
+      "title": "Real Decreto 681/2026, de 25 de agosto, por el que se declara la situación de interés para la seguridad nacional en la ciudad de Ceuta.",
+      "section": "I",
+      "section_name": "Disposiciones generales",
+      "rank": "Situación de interés para la seguridad nacional",
+      "organism": "PRESIDENCIA DEL GOBIERNO",
+      "pdf_url": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18149.pdf",
+      "summary": "",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "BOE-A-2026-18200",
+      "title": "Resolución de 19 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio entre el Consulado General de España en Hong Kong y CaixaBank, SA, para la celebración de la Fiesta Nacional de España.",
+      "section": "III",
+      "section_name": "Otras disposiciones",
+      "rank": "Convenios",
+      "organism": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+      "pdf_url": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18200.pdf",
+      "summary": "",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "BOE-A-2026-18201",
+      "title": "Resolución de 17 de agosto de 2026, de la Secretaría General Técnica, por la que se publica el Convenio con la Sociedade Mineira de Cultura, para la constitución del Colegio Español Santa Maria Minas Unidade Cidade Nova como centro de convenio en Brasil.",
+      "section": "III",
+      "section_name": "Otras disposiciones",
+      "rank": "Convenios",
+      "organism": "MINISTERIO DE EDUCACIÓN, FORMACIÓN PROFESIONAL Y DEPORTES",
+      "pdf_url": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18201.pdf",
+      "summary": "",
+      "date": "2026-08-26"
+    },
+    {
+      "id": "BOE-A-2026-18202",
+      "title": "Resolución de 25 de agosto de 2026, del Banco de España, por la que se publican los cambios del euro correspondientes al día 25 de agosto de 2026, publicados por el Banco Central Europeo, que tendrán la consideración de cambios oficiales, de acuerdo con lo dispuesto en el artículo 36 de la Ley 46/1998, de 17 de diciembre, sobre la Introducción del Euro.",
+      "section": "III",
+      "section_name": "Otras disposiciones",
+      "rank": "Mercado de divisas",
+      "organism": "BANCO DE ESPAÑA",
+      "pdf_url": "https://www.boe.es/boe/dias/2026/08/26/pdfs/BOE-A-2026-18202.pdf",
+      "summary": "",
+      "date": "2026-08-26"
+    }
+  ]
+}
