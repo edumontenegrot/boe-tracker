@@ -1,0 +1,1344 @@
+Boletín Oficial de Canarias núm. 173 33499 Viernes 28 de agosto de 2026
+III. Otras Resoluciones
+Consejería de Transición Ecológica y Energía
+3093 Dirección General de Calidad Ambiental.- Resolución de 29 de mayo de 2026, por la
+que se formula el Informe de Impacto Ambiental del proyecto denominado «Proyecto
+de ejecución de derivación de la LMT “Tajao” desde el apoyo A405668 hasta el
+Centro de Transformación C402546 “Los Abriguitos SAT0001248150-SIB35023”»,
+promovido por Edistribución Redes Digitales SLU, en el término municipal de Arico,
+Tenerife.- Expte. 14/2025-0326085101.
+ANTECEDENTES
+Primero.- Con fecha 20 de marzo de 2025 (n.º Registro: CTEE/2544/2025) se recibió
+en el Servicio de Impacto Ambiental de la Dirección General de Calidad Ambiental
+(denominada entonces Dirección General de Transición Ecológica y Lucha contra el Cambio
+Climático), escrito de la Dirección General Energía por el cual solicitaba el inicio del
+procedimiento de evaluación de impacto ambiental simplificada del proyecto denominado
+«Proyecto de ejecución de derivación de la LMT “Tajao” desde el apoyo A405668 hasta
+el Centro de Transformación C402546 “Los Abriguitos SAT0001248150-SIB35023”»,
+atendiendo a lo establecido en el artículo 45 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental.
+Adjunto a dicha solicitud se remitió el Documento Ambiental del “Proyecto de ejecución
+de derivación de la LMT “Tajao” desde apoyo A405668 hasta el Centro de Transformación
+C402546 “Los Abriguitos SAT0001248150-SIB35023”, Proyecto de Interés General para
+la mejora del suministro eléctrico incluido en los Planes de Calidad PIC2025”, firmado por
+D. Aitor Barroso Roig (Técnico de medio ambiente/Grado en Ciencias Ambientales) de la
+empresa iPlan Gestión Integral de Proyectos, el 24 de enero de 2025.
+Posteriormente, con fecha 14 de mayo de 2025 (n.º Registro: CTEE/4940/2025), y
+en contestación a solicitud de este Centro Directivo de 6 de mayo de 2025 (n.º Registro:
+CTEE/4570/2025), el órgano sustantivo ha remitido el Proyecto Técnico denominado
+“Proyecto de ejecución de derivación de la LMT “Tajao” desde apoyo A405668 hasta
+el Centro de Transformación C402546 “Los Abriguitos SAT0001248150-SIB35023”,
+elaborado y firmado por D. Xavier García Costa (Ingeniero Técnico Eléctrico), con fecha
+diciembre de 2025.
+Segundo.- Con fecha 18 de marzo de 2026 y registro de entrada Com. Inter. 91539/2026,
+se produjo una nueva remisión de documentación, en este caso un documento denominado
+“Estudio Patrimonial para el proyecto “Proyecto de ejecución de derivación de la LMT
+“Tajao” desde apoyo A405668 hasta el Centro de Transformación C402546 “Los Abriguitos
+SAT0001248150-SIB35023”, para dar respuesta a lo requerido por el Cabildo de Tenerife
+a través de su Servicio Administrativo de Patrimonio Cultural en su informe de fecha 8 de
+agosto de 2025, emitido en el trámite de consultas.
+CONSIDERACIONES TÉCNICAS
+Primero.- Objeto y descripción del proyecto.
+Edistribución Redes Digitales, S.L.U., como gestor de la red de distribución de la zona
+y con el fin de mejorar el servicio eléctrico, promueve la derivación de la Línea de Media
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33500 Viernes 28 de agosto de 2026
+Tensión “Tajao” desde el apoyo existente A405668 hasta el centro de transformación,
+también existente, C402546 denominado “Los Abriguitos”. Se trata de un proyecto del
+plan de calidad con cargo a la tarifa de las redes de distribución, cuya ejecución estaba
+prevista para 2025 y cuyo beneficio redunda en el interés general de todos los clientes del
+municipio afectado.
+El proyecto consiste en la instalación de una nueva Línea Subterránea de Media Tensión
+(en adelante, LSMT), que conectará un Centro de Transformación que ya existe denominado
+(CT) C402546 “Los Abriguitos” con el apoyo, también existente, denominado A405668.
+Ambas infraestructuras pertenecen a la Línea Media Tensión “Tajao” de la Subestación
+“Arico_2”, ubicado a uno 600m del núcleo urbano de Abades, donde se hará la conversión A/S
+MT.
+Esta nueva LSMT a ejecutar (de características RH5ZI 0,6/1kV3x1x150mm2 AI 12/20
+kV SECO), tendrá una longitud de 1.820 metros, discurrirá por caminos existentes, de
+manera que parte del tendido se aprovechará de la canalización existente (casi todo el tramo
+que discurre por la Avenida Ocira), mientras que otra parte se ejecutará mediante una nueva
+canalización.
+Para llevar a cabo esta actuación será necesario, además, reformar el mencionado CT
+C402546 “Los Abriguitos”. Este tiene la función de seccionar y maniobrar la Línea de
+Media Tensión y de suministrar potencia en baja tensión. Se encuentra localizado en la
+Avenida Ocira (en los bajos de la plazoleta) y actualmente está conectado en punta a la red
+de media tensión de 20 kV perteneciente a la línea “Tajao” de la Subestación “Arico_2”.
+El CT no modificará su ubicación, ni su ocupación superficial actual. Sí se llevará a cabo
+en su interior la modificación de la paramenta actual de corte al aire, de manera que será
+sustituida por un conjunto compacto compuesto por dos celdas de línea y una celda de
+protección (2L+P) con aislamiento en SF6.
+En cuanto a la obra civil necesaria para instalar el mencionado proyecto, será necesario
+acometer los siguientes trabajos:
+• Limpieza de arquetas y canalizaciones existentes.
+• Realización de nuevas canalizaciones y arquetas.
+• Tendido de LSMT RH5ZI 0,6/1kV 3x(1x150) mm2 AI
+• Reforma del CT C402546 “Los Abriguitos”, consistente en cambio de aparamenta de
+corte al aire por conjunto compacto de celdas (2L+P) con aislamiento en SF6.
+La ocupación permanente de la infraestructura será de unos 617,5 m², coincidiendo
+estos con la superficie ocupada por la nueva LSMT. El CT no producirá ocupación de suelo
+distinta a la actual, puesto que este se mantiene en su ubicación actual y sin necesidad de
+ampliar el local donde se encuentra.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33501 Viernes 28 de agosto de 2026
+El plazo de ejecución de la obra se estima en 25 días.
+Trazado del proyecto. Fuente: Plano recogido en el Anexo I del DA
+SEGSUegNuDnAd.-a Á.-r Áearse aPsr optreogtiedgaisdas.
+El ámbito de estudio del proyecto de referencia no afecta ni se inserta en espacios protegidos
+europeos de la Red Natura 2000 -Zona Especial de Conservación (ZEC) y/o Zona de Especial
+El ámbito de estudio del proyecto de referencia no afecta ni se inserta en espacios
+Protección para las Aves (ZEPA)-, ni en espacios naturales protegidos de la Red Canaria, ni en
+pRroetseegrivdaoss deeu lrao Bpeioossf edrae, lnai eRne Gd eNopaaturqrau e2s0. 0S0in -eZmobnaar gEos,p seíc diaislc udrer eC eonn psearrtvea, cdieónnt r(oZ dEeCl )Á rye/ao
+Z2o1n a“ Ldaed Eersapse cdiael PGrroatneacdciillóan-A priacroa” lacso nAsvideesr a(Z d E a P A co)m-, on i Áerne aes ppraicoiroitas rniaa tudera lreesp prordoutecgciiódno,s ddee
+alimentación, de dispersión y de concentración de las especies de avifauna amenazada en la
+la Red Canaria, ni en Reservas de la Biosfera, ni en Geoparques. Sin embargo, sí discurre en
+Comunidad Autónoma de Canarias (Orden de 15 de mayo de 2015, de la Consejería de
+pEardtuec daecniótnro, Udenliv Áerrseiad a2d1e s“L ya dSeorsatse ndieb iGlidraadn.a, dai llloas-A erfieccoto”s c odnes ilad earpaldicaa ccoiómn od Áelr Reae aplr iDoerictraertioa
+d1e4 r3e2p/2ro0d08u,c cdieón 2, 9d ed ea laimgoesntota,c pióonr , edl eq udeis pseer seisótna byle cdeen cmonecdeidnatsra cpiaórna dlae plraost eecscpióenci edse dlae
+avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión).
+avifauna amenazada en la Comunidad Autónoma de Canarias (Orden de 15 de mayo de
+2015, de la Consejería de Educación, Universidades y Sostenibilidad, a los efectos de la
+TERCERA.- Modalidad de Evaluación de Impacto Ambiental aplicable al proyecto.
+aplicación del Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas
+para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas
+Dadas las características del proyecto pretendido hay que reseñar que al proyecto de referencia
+dlee aclotrar etesnposinódne) .una evaluación de impacto ambiental simplificada, en aplicación del artículo
+7.2.a) de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental al incluirse en su Anexo II,
+grupo 4 «Industria energética» y apartado b) «Construcción de líneas eléctricas (proyectos no
+incluTiedrocse erna .e-l Manoedxoa lIi)d caodn dune vEovltaaljeu aigcuióanl o d seu pImeripoar cat 1o5 A kmV,b qiueen ttaenl gaapnl iucnaab lloen agli tpudro syuepcetroio.r
+a 3 km, incluidas sus subestaciones asociadas, así como por debajo de los anteriores umbrales
+Dadas las características del proyecto pretendido hay que reseñar que al proyecto de3
+referencia le corresponde una evaluación de impacto ambiental simplificada, en aplicación
+del artículo 7.2.a) de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, al
+incluirse en su Anexo II, grupo 4 “Industria energética” y apartado b) “Construcción de
+líneas eléctricas (proyectos no incluidos en el Anexo I) con un voltaje igual o superior a
+15 kV, que tengan una longitud superior a 3 km, incluidas sus subestaciones asociadas,
+así como por debajo de los anteriores umbrales cuando cumplan los criterios generales 1
+o 2, o no incluyan las medidas preventivas establecidas en el Real Decreto 1432/2008, de
+En la dirección https://2se9de .gdoebie ranogdoecsantaoria,s .porog/sre dee/lv eqrifiucae_d osce?c oedisgot_anbdel=ecen medidas para la protección de la avifauna contra la
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento electrónico siguiente:
+0S9WBEUOGahjckozl1is4iTównRs yKf l6aD Ueil1ezcItwrZoocjución en líneas eléctricas de alta tensión, o discurran a menos de 200
+m de población o de 100 m de viviendas aisladas en alguna parte de su recorrido, salvo que
+discurran íntegramente en subterráneo por suelo urbanizado”.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33502 Viernes 28 de agosto de 2026
+Conforme a lo anterior, en la página 6 del documento ambiental, el promotor señala
+textualmente que “La nueva LSMT discurrirá a menos de 100 m de una vivienda aislada de
+la zona”.
+Cuarta.- Análisis de alternativas incluidas en el Documento Ambiental.
+El Documento Ambiental (en adelante, DA) recoge un análisis de alternativas, en que
+considera, a parte de la Alternativa 0 - no ejecución del proyecto-, otras dos alternativas
+más, que comprenden las mismas actuaciones en el CT C402546 y el mismo recorrido de
+la línea de media tensión (LMT), solo que en la Alternativa 1 la LMT discurriría soterrada,
+y en la Alternativa 2 la LMT se propone aérea.
+Una vez evaluadas y valoradas las tres alternativas, el DA selecciona la Alternativa 1
+entendiendo que es ambientalmente más viable que la Alternativa 2.
+Descarta la Alternativa 0 entendiendo que si no se lleva a cabo la instalación de la
+nueva LSMT existe un riesgo alto de falta de suministro o deficiencias en el mismo, así
+como que no se podría mejorar la capacidad de servicio. Y en cuanto a la Alternativa 2,
+en fase de explotación se prevén impactos más significativos por un mayor impacto sobre
+el paisaje debido a la presencia de apoyos; afectación hacia un espacio calificado como
+hábitat de interés comunitario; afectación sobre la vegetación por talas y podas para las
+calles de seguridad del tendido, y riesgo de colisión con los conductores para las aves de
+la zona.
+Por el contrario, la línea soterrada de la Alternativa 1 reduciría la alteración del suelo
+natural y de la vegetación al aprovechar una carretera y pista existentes, minimizando la
+afección a los hábitats naturales y la flora y la fauna local. El mayor impacto sobre el
+entorno tendría lugar durante la fase de ejecución dada la necesidad de apertura de zanjas
+con el consiguiente uso más prolongado de maquinaria, niveles de contaminación acústica
+más elevados, y mayor incremento de partículas en suspensión en el aire. No obstante,
+estos impactos serían temporales pudiendo el suelo de los viales ser restaurado tras las
+obras, así como la vegetación de borde de los mismos, si esta fuese afectada. Además, tal y
+como indica el Servicio técnico de Planificación Territorial del Cabildo Insular de Tenerife,
+la Alternativa 1 es la más coherente con el PIOT desde el punto de vista ambiental, por
+plantear el soterramiento de la línea eléctrica en todo su recorrido siguiendo el trazado de
+caminos y compartiendo canalizaciones existentes en el tramo que discurre por el interior
+del núcleo urbano de Los Abriguitos, hecho que no ocurre con la Alternativa 2, que plantea
+el tendido aéreo en toda su extensión.
+Quinta.- Resultado del trámite de consultas a la Administraciones Públicas y a las
+personas interesadas.
+A los efectos de lo previsto en el artículo 46 de la Ley 21/2013, los días 20 y 21 de mayo
+de 2025 se inició trámite de consultas a las siguientes Administraciones públicas afectadas
+y a las personas interesadas, concediendo un plazo de veinte (20) días conforme al apartado
+2 del mencionado artículo.
+En la tabla adjunta, se recogen los organismos y entidades consultadas:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+ocurre con la Alternativa 2, que plantea el tendido aéreo en toda su extensión.
+QUINTA.- Resultado del trámite de consultas a la Administraciones Públicas y a las
+personas interesadas.
+A los efectos de lo previsto en el artículo 46 de la Ley 21/2013, los días 20 y 21 de mayo de
+Bole2tí0n2 5O fisec iianli cdieó Ctráanmairteia sd en úcmon. s1u7lt3as a las siguientes3 A3d5m03inistraciones públicas afectadas y a Vlaise rnes 28 de agosto de 2026
+personas interesadas, concediendo un plazo de veinte (20) días conforme al apartado 2 del
+mencionado artículo.
+En la tabla adjunta, se recogen los organismos y entidades consultadas:
+ADMINISTRACIONES Y ENTIDADES Respuestas
+GOBIERNO DE CANARIAS.
+1. Consejería de Transición Ecológica y Energía
+-Viceconsejería de Transición Ecológica, Lucha contra el
+Cambio Climático y Energía
+Servicio de Cambio Climático e Información Ambiental -
+Dirección General de Calidad Ambiental -
+Servicio de Prevención y Control de la Contaminación -
+Servicio de Residuos
+Servicio de Contaminación de Aguas y Suelos -
+Dirección General del Medio Natural
+Servicio de Biodiversidad 17/12/2025
+Servicio de Planificación del Medio Natural
+Dirección General de Energía
+Servicio de Eficiencia Energética y Nuevas Energías
+Servicio de Transporte y Generación en Régimen Ordinario
+Servicios de desarrollo Energético
+Servicio de Instalaciones Energéticas
+2. Consejería de Política Territorial, Cohesión Territorial y Aguas
+-Viceconsejería de Planificación Territorial y Reto Demográfico
+Servicio Técnico de Estrategia e Información Territorial 08/07/2025
+Dirección General de Ordenación del Territorio y Cohesión Territo-
+rial
+Servicio Técnico de Planeamiento Territorial Occidental -
+Servicio Técnico de Planeamiento Urbanístico Occidental -
+Servicio Técnico de Ordenación del Suelo Rústico y
+-
+Espacios Naturales Protegidos
+-Viceconsejería de Emergencias y Aguas
+Dirección General de Aguas -
+Dirección General de Emergencias -
+3.Servicio Canario de la Salud 5
+Dirección General de Salud Pública 12/06/2025
+4. Consejería de Presidencia, Administraciones Públicas,
+Justicia y Seguridad
+Dirección General de Seguridad -
+5. Consejería de Obras Públicas, Vivienda y Movilidad
+-Viceconsejería de Infraestructuras
+6. Consejería de Economía, Industria, Comercio y Autónomos
+Dirección General de Comercio 12/06/2025
+Dirección General de Industria
+7. Consejería de Agricultura,Ganadería, Pesca y Soberanía
+En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
+puede ser comprobada la autenticAidlaidm dee esntat caorpiiaa, m ediante el número de
+documento electrónico siguiente:
+0S9WBEUOGahjkz14Tw R s DKfir6eDcUcii1óznI wGZeonjeral de Agricultura 30/06/2025
+8. Consejería de Universidades, Ciencia e Innovación y Cultura
+Dirección General de Cultura y Patrimonio Cultural
+CABILDO DE TENERIFE
+Informe institucional que recoge los siguientes Informes
+08/08/2025
+Sectoriales
+Servicio Técnico de Planificación Territorial 24/06/2025
+Servicio Técnico Administrativo de Patrimonio Histórico 11/07/2025
+Servicio Administrativo de Hacienda, Patrimonio y Arquitectura 19/06/2025
+Servicio Administrativo de Proyectos Estratégicos 19/06/2025
+Servicio Administrativo de Gestión del Medio Natural y Seguridad 03/07/2025
+Servicio Administrativo de Ganadería y Pesca 13/06/2025
+Servicio Técnico de Estructuras Agrarias 17/06/2025
+4. Consejo Insular de Aguas de Tenerife (CIATF) -
+AYUNTAMIENTO DE ARICO
+Ayuntamiento (y traslado a asociaciones de vecinos afectados, si las
+-
+hubiera)
+OTRAS ENTIDADES
+Red Eléctrica de España, S.A.U.(REE) 09/06/2025
+Telefónica de España, S.A.U. 10/06/2025
+Retevisión (Cellnex Telecom) -
+Sociedad Española de Ornitología (SEO BirdLife) -
+Federación Ben Magec-Ecologistas en Acción -
+Asociación Tinerfeña de Amigos de La Naturaleza -
+Grupo de Ornitología e Historia Natural de las Islas Canarias
+-
+(GOHNIC)
+A continuación se presenta el resume del contenido de los informes recibidos:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+6
+En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento electrónico siguiente:
+0S9WBEUOGahjkz14TwRsKf6DUi1zIwZoj
+
+Boletín Oficial de Canarias núm. 173 33504 Viernes 28 de agosto de 2026
+A continuación se presenta el resumen del contenido de los informes recibidos:
+5.º.1. Cabildo Insular de Tenerife:
+A) En relación con la adecuación al planeamiento insular.
+El Servicio Técnico de Planificación Territorial concluye en su informe que:
+“ 1. Consideraciones de carácter ambiental derivadas d las determinaciones del PIOT.
+La alternativa 1 -seleccionada y desarrollada en el documento ambiental- es la más
+coherente con el PIOT desde el punto de vista ambiental, por plantear el soterramiento
+de la línea eléctrica en todo su recorrido siguiendo el trazado de caminos y compartiendo
+canalizaciones existentes en el tramo que discurre por el interior del núcleo urbano de Los
+Abriguitos, hecho que no ocurre con la alternativa 2, que plantea el tendido aéreo en toda
+su extensión.
+2. En relación con la adecuación del proyecto al PIOT.
+Visto el proyecto de ejecución de la derivación de la LMT “Tajao” desde el apoyo
+A405668 hasta el centro de transformación C402546 “Los Abriguitos” SAT0001248150-
+SIB35023, que desarrolla la alternativa 1, no se aprecia incompatibilidad con las
+determinaciones del PIOT, sin perjuicio de las observaciones que puedan realizarse en el
+trámite correspondiente a la autorización del proyecto”.
+B) En relación con las competencias en patrimonio cultural, el Servicio de Patrimonio
+Histórico, en su informe inicial concluyó la necesidad de que el promotor realizase un
+análisis detallado de las posibles afecciones al patrimonio cultural a partir de una prospección
+arqueológica, efectuada por técnico cualificado y debidamente autorizado, de conformidad
+con la normativa vigente en materia de intervenciones arqueológicas al tiempo que indicó
+una serie de directrices para abordar dicho análisis.
+Posteriormente, tras analizar el estudio arqueológico detallado solicitado, este Servicio
+de Patrimonio Histórico emitió un segundo informe del que se extraen las siguientes
+conclusiones:
+- Informa favorablemente el estudio presentado.
+- Indica que el proyecto no afecta a ámbito declarado Bien de Interés Cultural ni
+con expediente incoado a efectos de su declaración ni aparece incluido en el entorno de
+protección de BIC alguno, ya declarado o en fase de tramitación.
+- Tampoco afecta a bienes incluidos en el Catálogo Insular de Bienes Patrimoniales
+Culturales ni en el Catálogo Municipal.
+E indica una serie de medidas de protección que se deberán adoptar en el momento de
+ejecución del proyecto.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33505 Viernes 28 de agosto de 2026
+C) En relación con las competencias en medio ambiente, el Servicio correspondiente emite
+las siguientes consideraciones:
+“(…).
+• En atención a la cartografía oficial de hábitats naturales de interés comunitario (HIC)
+del Gobierno de Canarias, el ámbito de actuación se corresponde en gran medida con una
+manifestación del HIC 5330 Matorrales termomediterráneos y pre-estépicos. Si bien en el
+Documento Ambiental se advierte de que en fase de ejecución se producirían “desbroces
+necesarios para poder llevar a cabo la apertura de las zanjas para las líneas soterradas”, de
+acuerdo a la alternativa seleccionada para el trazado de la línea eléctrica y su representación
+cartográfica en dicho documento, la línea se dispondrá a lo largo de viales existentes, por
+lo que no cabría esperar afecciones directas sobre la cubierta vegetal como consecuencia
+de la apertura de zanjas. En cuanto los posibles impactos sobre la vegetación derivados del
+desplazamiento de la maquinaria y localización de zonas de acopio de materiales y residuos,
+así como del propio parque de maquinaria, se seleccionarán ubicaciones desprovistas de
+vegetación. La Dirección de Obras extremará su atención respecto de estas medidas.
+• Para el ámbito de implantación de la línea eléctrica el Banco de Datos de Biodiversidad
+del Gobierno de Canarias señala la presencia de varias especies protegidas, entre ellas
+alcaraván común (Burhinus oedicnemus distinctus) y pimelia tinerfeña costera (Pimelia
+canariensis), esta última no identificada en el Documento Ambiental. Al respecto de estos
+recursos, las prospecciones previas al inicio de los trabajos deberán hacerse extensivas tanto
+a la especie Pimelia canariensis como a las aves, especialmente a las especies nidificantes
+en el suelo.
+• Respecto del coste de las medidas ambientales recogidas en el Documento Ambiental,
+advertir que no se hace mención a dicho coste en el mismo. En este sentido, y a fin de
+garantizar su implementación efectiva, se recomienda incorporar al presupuesto del
+proyecto las partidas definitivas del conjunto de medidas ambientales que finalmente se
+determinen tras la tramitación ambiental del mismo, incluido las medidas de vigilancia y
+seguimiento”.
+D) En relación con las competencias en agricultura y ganadería: las conclusiones son:
+Del informe emitido por el Servicio Técnico de Agricultura, Ganadería y Pesca se
+extrae lo siguiente: “Debido a la longitud del trazado propuesto parcialmente que discurre
+por una zona urbana y por caminos existente entre terrenos baldíos, indicar que, atendiendo
+a la información que obra en poder de este Servicio Técnico en relación a las posibles
+explotaciones ganaderas presentes en el ámbito objeto de actuación, se constata que a priori
+no se verá afectada ninguna explotación ganadera por la actuación propuesta. Por ello
+este Servicio Técnico de Ganadería y Pesca no observa ningún inconveniente respecto
+al Proyecto de Ejecución de Derivación de la LMT “Tajao” desde apoyo A405668 hasta
+Centro de Transformación C402546 “Los Abriguitos”, en el término municipal de Arico”.
+El Servicio Técnico de Estructuras Agrarias informa lo siguiente: “Analizada la
+información, se observa que se trata de una línea de media tensión que discurre subterránea
+por márgenes de carreteras. Dada su localización y características, la actuación no produce
+efectos directos significativos sobre el uso agrario, por lo que no caben apreciaciones de
+interés desde el punto de vista sectorial agrario”.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33506 Viernes 28 de agosto de 2026
+5.º.2. Servicio de Biodiversidad de la Dirección General del Medio Natural,
+considera que con la aplicación de las medidas preventivas y correctoras que explicita en su
+informe con el fin de evitar y/o reducir posibles efectos adversos sobre el hábitat de interés
+comunitario 5330 Matorrales termomediterráneos y preestépicos y las especies protegidas
+con distribución en el área, especialmente las referidas a Burhinus oedicnemus distinctus y
+Pimelia canariensis, el proyecto de derivación de la línea de media tensión “Tajao” desde
+el apoyo A405668 hasta el Centro de Transformación C402546 “Los Abriguitos” será
+compatible con la conservación de esos valores ambientales más relevantes presentes en
+la zona.
+5.º.3. Servicio de Residuos de esta Dirección General informa que dado que el
+proyecto sobre el que se le consulta no es una instalación de tratamiento de residuos, no
+se encuentra sujeto a ningún tipo de autorización por parte de ese Servicio. No obstante,
+indica la normativa sectorial que le es de aplicación al proyecto en tanto que la actividad
+produce residuos peligrosos y no peligrosos, en fase de construcción, y además, podría
+tener afección al suelo.
+5.º.4. Servicio de Estrategia e Información Territorial de la Consejería de Política
+Territorial, Cohesión Territorial y Aguas, informa en relación a la ordenación territorial y
+al planeamiento urbanístico vigente para la zona de actuación al tiempo que hace referencia
+a las zonas protegidas más próximas a la ubicación del proyecto: Espacios Naturales
+Protegidos, espacios Red Natura 2000, así como al Área prioritaria de reproducción, de
+alimentación, de dispersión y de concentración de las especies de la avifauna amenazada,
+más próximas a la ubicación del proyecto. Asimismo, indica los Hábitats de Interés
+Comunitario presentes en la zona, las Áreas Importantes para las Aves (IBAs), así como
+recoge el Mapa de especies protegidas en de la zona disponible en el Visor de Grafcan
+(IDECanarias).
+5.º.5. Servicio de Sanidad Ambiental de la Dirección General de Salud Pública,
+realiza en su informe una valoración de lo que entiende que son las principales exposiciones
+con potencial impacto en la salud y bienestar de las personas serían: (1) las emisiones
+a la atmósfera (gases y material particulado), (2) emisión de ruido y vibraciones, (3) la
+exposición a campos electromagnéticos, (4) desvíos provisionales (tráfico y accesos a
+bienes y servicio) y (5) percepción del riesgo en los residentes del entorno. Insta, además, al
+estricto cumplimiento de las medidas de protección propuestas por el promotor. Así como
+que se tengan en cuenta las observaciones y recomendaciones que se han expuesto en su
+informe en relación a la protección de la salud, el bienestar de las personas y la protección
+del medioambiente.
+5.º.6. Dirección General de Comercio y Consumo de la Consejería de Economía,
+Industria, Comercio y Autónomos, informa que no puede emitir consideraciones
+oportunas respecto al proyecto, al no haber sido aprobado hasta la fecha, el Plan Territorial
+Especial de Grandes Equipamientos Comerciales de la isla de Tenerife.
+5.º.7. Servicio de Planificación de Obras y Ordenación Rural de la Consejería
+de Agricultura, Ganadería, Pesca y Soberanía Alimentaria, indica que dado que
+parte la obra estaría distribuida dentro de los límites de la parcela con referencia catastral
+8440704CS5184S0001QK, en un suelo Urbano, de uso deportivo según el catastro, y la
+línea de evacuación subterránea (LSMT) también ocuparía parcialmente parcelas que están
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33507 Viernes 28 de agosto de 2026
+clasificadas como Suelo Rústico Residual, centrarán su análisis en las afecciones que esta
+LSMT provocaría en el entorno agrario de la zona. Concluyen que: “ Según el Mapa de
+Cultivos de Tenerife, la nueva Línea Subterránea de Media Tensión, está proyectado sobre
+un erial , ya que transcurre por bordes de caminos, por lo que no supone una pérdida de
+suelo productivo agrario”.
+En cuanto a la posible afección de redes de regadío de iniciativa pública, indican que la
+nueva Línea Subterránea de Media Tensión se encuentra a 5 km de redes o infraestructuras
+de riego públicas. Y si bien no se prevé afecciones a esta, recuerda reponer o reparar
+cualquier red de riego que pudiese verse afectada, ya sea pública o privada.
+Respecto a las explotaciones ganaderas inscritas en el REGAC, indica que la explotación
+ganadera más cercana a las obras se encuentra a unos 1,14 km de distancia.
+5.º.8. Telefónica de España, S.A.U., informa que “...Telefónica no tiene objeción
+alguna a la ejecución del proyecto referido siempre y cuando se cumpla la normativa
+vigente en relación con los paralelismos y cruzamientos con líneas de telecomunicación
+y en particular los Reglamentos Electrotécnicos de Alta y Baja Tensión. Asimismo, le
+recordamos que el cumplimiento de la normativa vigente tanto en fase de diseño como
+de ejecución es responsabilidad de la empresa que promueve los trabajos contenidos en el
+proyecto . Hemos de hacer constar que nos reservamos la actuación que proceda en caso de
+que se produjeran daños en nuestras instalaciones o perturbaciones en las comunicaciones
+electrónicas de esta Compañía como consecuencia de los trabajos llevados a cabo en el
+mencionado proyecto”. Indica, además, que la información sobre las infraestructuras
+existentes actuales, titularidad de esa Compañía, en el entorno del proyecto del asunto se
+encuentra accesible únicamente a través de las plataformas detalladas a continuación, no
+siendo facilitadas a través de otros medios:
+• Todo el territorio nacional, excepto Navarra y Cataluña -> Inkolan - https://www.
+inkolan.com/
+• Navarra -> PCCS Portal Coordinación de Canalizaciones Subterráneas - https://pccs.
+tracasa.es/
+• Cataluña -> eWise - https://www.ewise.es
+5.º.9. Red Eléctrica de España, indica que no presenta oposición al proyecto al no
+existir afecciones a instalaciones propiedad de esa empresa y aporta, además, un enlace
+a una plataforma a través de la que se puede consultar información actualizada sobre sus
+instalaciones.
+Sexto.- Criterios mencionados en el artículo 47.2 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, para determinar si un proyecto del Anexo II debe
+someterse a evaluación de impacto ambiental ordinaria.
+1. Características del proyecto.
+a) Dimensiones y el diseño del conjunto del proyecto.
+El proyecto consiste en la instalación de una nueva Línea Subterránea de Media
+Tensión (en adelante, LSMT), que conectará un Centro de Transformación que ya existe
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33508 Viernes 28 de agosto de 2026
+denominado (CT) C402546 “Los Abriguitos” con el apoyo, también existente, denominado
+A405668. Ambas infraestructuras pertenecen a la Línea Media Tensión “Tajao” de la
+Subestación “Arico_2”, ubicado a unos 600 m del núcleo urbano de Abades, donde se hará
+la conversión A/S MT.
+Esta nueva LSMT a ejecutar (de características RH5ZI 0,6/1kV3x1x150mm2 AI 12/20
+kV SECO) tendrá una longitud de 1.820 metros, discurrirá por caminos existentes, de
+manera que parte del tendido se aprovechará de la canalización existente (casi todo el
+tramo que discurre por la Avenida Ocira), mientras que otra parte se ejecutará mediante
+una nueva canalización.
+Para llevar a cabo esta actuación será necesario, además, reformar el mencionado CT
+C402546 “Los Abriguitos”. Este tiene la función de seccionar y maniobrar la Línea de
+Media Tensión y de suministrar potencia en baja tensión. Se encuentra localizado en la
+Avenida Ocira (en los bajos de la plazoleta) y actualmente está conectado en punta a la red
+de media tensión de 20 kV perteneciente a la línea “Tajao” de la Subestación “Arico_2”.
+El CT no modificará su ubicación, ni su ocupación superficial actual. Sí se llevará a cabo
+en su interior la modificación de la aparamenta actual de corte al aire, de manera que será
+sustituida por un conjunto compacto compuesto por dos celdas de línea y una celda de
+protección (2L+P) con aislamiento en SF6.
+En cuanto a la obra civil necesaria para instalar el mencionado proyecto, será necesario
+acometer los siguientes trabajos:
+• Limpieza de arquetas y canalizaciones existentes.
+• Realización de nuevas canalizaciones y arquetas.
+• Tendido de LSMT RH5ZI 0,6/1kV 3x(1x150) mm2 AI
+• Reforma del CT C402546 “Los Abriguitos”, consistente en cambio de aparamenta de
+corte al aire por conjunto compacto de celdas (2L+P) con aislamiento en SF6.
+La ocupación permanente de la infraestructura será de unos 617,5 m², coincidiendo
+estos con la superficie ocupada por la nueva LSMT. El CT no producirá ocupación de suelo
+distinta a la actual puesto que este se mantiene en su ubicación actual y sin necesidad de
+ampliar el local donde se encuentra.
+El plazo de ejecución de la obra se estima en 25 días.
+b) La acumulación con otros proyectos, existentes y/o aprobados.
+Actualmente no se conocen, en el ámbito cercano de desarrollo del proyecto, otros
+proyectos que estén en desarrollo o a punto de iniciarse. Sí existen en todo el ámbito de
+Abades, varias parcelas en desarrollo urbanístico, con construcción de viviendas y/o uso
+turístico, pero ninguna de ellas cercanas a las zonas de ejecución del proyecto. Por tanto,
+y dada la propia naturaleza del proyecto, no es previsible que la ejecución de este, cause
+impactos acumulativos ni sinérgicos negativos respecto al desarrollo urbanístico descrito.
+Además, el Servicio de Planificación de Obras y Ordenación Rural de la Consejería
+de Agricultura, Ganadería, Pesca y Alimentación del Gobierno de Canarias confirma que
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33509 Viernes 28 de agosto de 2026
+no se aprecian afecciones a explotaciones ganaderas cercanas y tampoco existen redes de
+regadío de iniciativa pública o infraestructuras de riego públicas en el entorno del proyecto
+que pudiesen verse afectadas.
+La empresa Red Eléctrica también confirma que el proyecto no producirá afecciones a
+instalaciones de su propiedad. Asimismo, la empresa Telefónica de España S.A.U. informa
+que no tiene objeción a la ejecución del proyecto siempre y cuando se cumpla la normativa
+vigente en relación con los paralelismos y cruzamientos con líneas de telecomunicación y
+en particular los Reglamentos Electrotécnicos de Alta y Baja Tensión.
+No obstante, si bien no se trata de proyectos, cabe señalar que en el ámbito de actuación
+se encuentran aprobados una serie de instrumentos de desarrollo, por si le fuesen de
+aplicación al proyecto de referencia (veáse apartado 6.2.a).
+c) La utilización de recursos naturales, en particular la tierra, el suelo, el agua y
+biodiversidad.
+- En cuanto a la utilización de recursos naturales (tierra, suelo y agua) cabe señalar
+que el proyecto se desarrollará en todo su recorrido por una vía rodada ya existente: un
+tramo de por vía urbana asfaltada y el resto del tramo por pista de tierra existente que da
+acceso, entre otras zonas, a los apoyos de la linea eléctrica aérea de media tensión existente
+denominada “Tajao”, tratándose, por tanto, de zonas ya intervenidas. Por la propia naturaleza
+del proyecto solo se produciría consumo de esos recurso naturales en fase de obras, y se
+limitará a los necesarios para la apertura de la zanja, canalizaciones eléctricas e instalación
+de la línea de media tensión, de manera que no se contempla la ocupación de suelo fuera
+del espacio ya transformado y tampoco se prevé un consumo significativo de agua, más allá
+del requerido para las labores puntuales de la obra (curado del hormigón o control de polvo,
+por ejemplo), utilizándose en cualquier caso volúmenes reducidos. De manera concreta,
+en relación a la posible afección a suelo productivo agrario, el mencionado Servicio de
+Planificación de Obras y Ordenación Rural, indica que el trazado de la LSMT, no producirá
+afección a ese tipo de suelo.
+Además, según los planos recogidos en el proyecto técnico, en casi la totalidad del tramo
+que discurre por vía asfaltada (Av. Ocira), se aprovechará una canalización ya existente por
+lo que la utilización de los recursos naturales citados es aún menor.
+Durante la fase de explotación, se producirá la ocupación permanente de suelo en las
+vías urbanas y pistas de tierra ya existentes. Esta ocupación supondría una superficie de un
+total de 617,5 m², coincidiendo estos con el área ocupada por la nueva LSMT.
+- En cuanto a la biodiversidad, atendiendo a lo recogido por los servicios con competencia
+en la materia (tanto del Gobierno de Canarias y como del Cabildo de Tenerife), cabe señalar
+lo siguiente:
+En lo que se refiere a la vegetación [según la cartografía actualizada derivada del Mapa
+de Vegetación de Canarias (GRAFCAN Ediciones)], en el ámbito de actuación del proyecto
+se distribuyen 2 tipos principales de vegetación:
+• Barrillar (Mesembryanthemum cristallini) combinado con ahulagar-saladar blanco
+(Launaeo arborescens-Schizogynetum sericeae), asociación vegetal se sustitución
+caraterizada por ser primocolonizadora de protosuelos o suelos removidos o alterados, por
+lo general bastante ruderalizados y en ocasiones enriquecidos en sales solubles.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33510 Viernes 28 de agosto de 2026
+• Tabaibal dulce tinerfeño (Ceropegio fuscae-Euphorbietum balsamiferae), asociación
+vegetal climácica endémica de la isla de Tenerife, y considerado como hábitat de interés
+comunitario 5330 Matorrales termomediterráneos y preestépicos, incluido en el Anexo I de
+la Directiva 92/43/CEE del Consejo de 21 de mayo de 1992.
+No obstante, dado que la LSMT discurre por caminos existentes, no se prevé una afección
+significativa sobre dicho hábitat de interés comunitario siempre y cuando se apliquen una
+serie de medidas preventivas adicionales.
+Con respecto a la flora, según los datos derivados del Banco de Datos de Biodiversidad
+de Canarias (con fecha 2.12.2025, nivel de precisión 1, sobre cuadrículas de 500x500 m
+coincidentes con el ámbito del proyecto) dentro de las parcelas de actuación se identifican
+10 especies, ninguna de ellas protegidas.
+Con respecto a la fauna, según los datos derivados del citado Banco de Datos, consultados
+en la misma fecha (nivel de precisión 1 para reptiles e invertebrados, y 1 y 2, para aves y
+mamíferos, sobre cuadrículas de 500x500 m coincidentes con el ámbito del proyecto), en
+el área ha sido citada la presencia de a menos 13 especies específicamente protegidas, 2 de
+ellas amenazadas: Pimelia canariensis (pimelia tinerfeña costera) y Burhinus oedicnemus
+distinctus (alcaraván).
+Además, cabe indicar que buena parte del trazado de la LSMT que discurre fuera del
+núcleo urbano de Abades se encuentra inmerso en el “Área prioritaria de reproducción, de
+alimentación, de dispersión, y de concentración de especies de avifauna amenazada en la
+Comunidad Autónoma de Canarias”1 T-21 Laderas de Granadilla-Arico, de manera que en
+ella se conoce la distribución de las siguientes especies de avifauna amenazada: Burhinus
+oedicnemus distinctus (alcaraván), Charandrius alexandrinus (chorlitejo patinegro), Corvux
+corax canariesis (cuervo canario) y Falco peregrinus pelegriniodes (halcón tagarote).
+Concretamente, el área donde se localiza el proyecto constituye un área de distribución
+de la pimelia y del alcaraván. El resto de las aves protegidas citadas en la zona de actuación
+presentan una amplia distribución por lo que no presentan problemas graves de conservación.
+d) La Generación de residuos.
+Durante la fase de obras se generarán residuos derivados del acondicionamiento del
+terreno, apertura de zanjas, cimentaciones, labores de canalización y montaje de la línea
+eléctrica así como la instalación de los sistemas del Centro de Transformación.
+El Proyecto Técnico incluye un anexo (Anexo 3) que recoge en formato tabla una
+relación detallada y una estimación de la cantidad de cada uno de esos potenciales residuos,
+codificados de acuerdo con lo señalado en la Orden MAM/304/2002, de 8 de febrero,
+por la que se publican las operaciones de valorización y eliminación de residuos y la lista
+europea de residuos, y a partir de la Decisión (2014/955/UE) de la Comisión de 3 de mayo
+de 2000 y la Decisión de la Comisión de 18 de diciembre de 2014 por la que se modifica la
+Decisión 2000/532/CE, sobre la lista de residuos, de conformidad con la Directiva 2008/98/CE del
+Parlamento Europeo y del Consejo. La estimación del volumen (m3) y peso (t) de cada
+residuo se ha realizado basándose en las mediciones del Proyecto y estudios y guías
+disponibles del IHOBE.
+1 Declarada mediante Orden de 15 de mayo de 2015 de la Consejería de Educación, Universidades y Sostenibilidad,
+a los efectos de aplicación del Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la
+protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33511 Viernes 28 de agosto de 2026
+El proyecto técnico recoge una valoración económica de los gastos derivados de la
+gestión de esos residuos. Asimismo, el documento ambiental recoge las correspondientes
+medidas preventivas y correctoras en relación a la gestión de los potenciales residuos
+identificados, tanto en fase de obras, de funcionamiento como en fase de desmantelamiento,
+y entre ellas la necesidad de disponer de un punto limpio para el almacenamiento y gestión
+de esos residuos. Sin embargo, esta zona no se refleja ni en el proyecto técnico ni en los
+planos facilitados.
+El Servicio de Residuos de este Centro Directivo, al ser consultado, incluyó en su
+informe una relación de la normativa sectorial que le es de aplicación al proyecto en tanto
+que la actividad produce residuos peligrosos y no peligrosos, tanto en fase de construcción
+como de funcionamiento. De manera concreta señala que el proyecto debe cumplir con lo
+establecido en el Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción
+y gestión de los residuos de construcción y demolición, y más específicamente con los
+artículos 4, 5 y 6 de dicha norma. Además, indica que dicho proyecto debe atender a
+las obligaciones señaladas en los artículo 4 y 5 de la Orden APM/1007/2017, de 10 de
+octubre, sobre normas generales de valorización de materiales naturales excavados para su
+utilización en operaciones de relleno y obras distintas a aquellas en las que se generaron.
+Asimismo, señala que al tratarse de un productor de residuos peligrosos y no
+peligrosos durante la fase de construcción, el promotor deberá presentar, en su momento, la
+correspondiente comunicación previa de la actividad de producción de ese tipo de residuos,
+atendiendo a lo establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+para una economía circular (LESCEC). Además recuerda que el promotor estará obligado a
+cumplir, durante el ejercicio de la actividad, con toda la normativa sectorial en materia de
+residuos, y pone énfasis en su deber de cumplir las obligaciones en cuanto a la gestión de
+sus residuos, su almacenamiento, mezcla, envasado y etiquetado de los mismos, atendiendo
+a la citada LESCEC, concretamente a sus artículos 20 y 21.
+El informe añade que considerando la posible afección del suelo, el promotor deberá
+determinar si la actividad se encuentra incluida en el Anexo I del Real Decreto 9/2005, de
+14 de enero, por el que se establece la relación de actividades potencialmente contaminantes
+del suelo y los criterios y estándares para la declaración de suelos y contaminados y, si
+fuese el caso, señala que el promotor estará obligado a remitir a esta Dirección General, un
+informe preliminar de situación para cada uno de los suelos en los que se desarrolla dicha
+actividad, con el alcance y contenido mínimo que se recoge en el Anexo II de citado Real
+Decreto, tal y como se indica en su artículo 3.
+e) La contaminación y otras perturbaciones.
+Las acciones que podrían provocar alteraciones en el medio en la fase de obras estarían
+relacionadas con las labores propias de cimentación, canalización de la LMT e instalación
+de las estructuras que conformarán el CT. Para llevar a cabo esas acciones se utilizaría
+maquinaria pesada para el movimiento de tierras, hormigonado, manipulación de metales,
+así como el uso de vehículos para el transporte de materiales y grúa, lo que generará
+emisiones de polvo, emisiones acústicas y riesgo de vertidos accidentales de aceites y/o
+combustibles.
+En cuanto a la emisión de gases y material particulado, la atmósfera podrá verse afectada
+en relación con la calidad del aire debido a la suspensión de partículas de polvo generadas
+durante la fase de obra, así como por la emisión de gases en esta misma etapa producida
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33512 Viernes 28 de agosto de 2026
+por el manejo de maquinaria pesada. Estas acciones a realizar es esta fase suponen una
+exposición temporal, y pueden ser mitigados o minimizados con las medidas propuestas
+por promotor. Cabe señalar que las viviendas y población que podría verse afectada están
+en los márgenes de la Avenida Ocira, y, según se desprende de los planos aportados en
+el proyecto técnico la mayor parte de la canalización para la instalación de la LSMT en
+esta vía ya existe y se aprovecharía un canal libre de la misma. Lo mismo ocurriría en
+relación a la emisión de ruido y vibraciones. Por tanto, no se prevé afección significativa a
+la población por la ejecución de las obras. No obstante, a través del Programa de Vigilancia
+Ambiental (PVA), el promotor ha de garantizar que se cumplen las medidas de mitigación y
+minimización propuesta, así como que se cumpla con los niveles de ruido establecidos por
+la Ley de ruidos 37/2003 y proponer las medidas correctoras necesarias, si fuese el caso.
+Además, deberán cumplirse las medidas de mitigación y minimización en todo el tramo
+de pista fuera ya de la zona urbana y mantenerse la vigilancia ambiental, puesto que es en
+este tramo donde sí se llevarán a cabo todas las acciones propias para la instalación de la
+LSMT y, por tanto, se podrían producir afecciones significativas por emisiones de gases,
+material particulado y ruidos si dichas medidas no se cumpliesen.
+En la fase de funcionamiento, el impacto potencial más relevante sería la emisión de
+campos electromagnéticos. En relación a esto, el Proyecto Técnico indica que en diseño
+de las instalaciones se adoptarán las medidas adecuadas para minimizar, en el exterior de
+las mismas, los campos electromagnéticos creados pro la circulación de corriente a 50Hz.
+Además, indica que la sustitución de las celdas que se llevará a cabo en el CT no supone
+un aumento en la potencia instalada en dicho Centro ni en la potencia transportadora por
+las líneas de media tensión, por lo que no se prevé un aumento de la incidencia de los
+campos electromagnéticos respecto a la situación actual. Sin embargo, no aporta análisis
+de campo electromagnético para verificar que no se están sobrepasando, ni se sobrepasarán,
+los límites máximos admisibles durante la fase operativa.
+Por ello, y con el fin de proporcionar un alto nivel de protección de la salud, y
+atendiendo a lo informado por la Dirección de Salud Pública, una vez instalado el proyecto,
+ha de realizarse una campaña indicativa de mediciones reales de niveles de exposición a
+los campos eléctricos y magnéticos en aquellas localizaciones en las que la linea eléctrica
+discurra cercana a núcleos de población así como en los alrededores del Centro de
+Transformación.
+Añadir que por la propia naturaleza del proyecto, en fase operativa del mismo, no se
+prevé que exista afección por emisiones de polvo, ruido y vibraciones.
+f) Los riesgos de accidentes graves y/o catástrofes relevantes para el proyecto en
+cuestión, incluidos los provocados por el cambio climático, de conformidad con los
+conocimientos científicos.
+El DA recoge un apartado de análisis de la vulnerabilidad del proyecto ante riesgo
+de accidentes. Para dicho análisis ha tendido en cuenta la clasificación de los riesgos
+en función del Plan de Emergencias de Protección Civil de esta Comunidad Autónoma
+(PLATECA), atendiendo a los conceptos de “vulnerabilidad del proyecto”, “accidente
+grave” y “catástrofe” definidos en la ya mencionada Ley 21/2013. Concluye que la tipología
+del proyecto, así como las características del medio en el que se localiza, hace que la
+vulnerabilidad del mismo ante un accidente grave o una catástrofe, sea baja.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33513 Viernes 28 de agosto de 2026
+definidos en la ya mencionada Ley 21/2013. Concluye que la tipología del proyecto, así como
+las caracgt)e Lríostsi craiess gdoesl mpaerda iloa esnal uedl qhuuem saen alo (cpaolriz eaj,e hmapcleo ,q dueeb ildao v au llnae croanbtilaidmaidn adceiól nm diseml aog aunat, e un
+acciddeenl taei rger oa vlea coo unntaam ciantaácsitórno feel,e scetrao mbaajgan. é tica).
+g) Los riLeosgs oims ppaacrtao sla q suael used phruomduacnean (spoobrr ee jaeqmupellolo, sd eelbeimdoe nat olas qcuoen tianmfluinyaecni óenn dlae ls aalguuda d, ed leal aire
+o la cpoonbtlaamcióinna ecnió ens teel eticptoro dmea pgrnoéyteicctao)s. se relacionan, fundamentalmente, con el nivel de ruido,
+las emisiones atmosféricas, la calidad del aire, los cortes de tráfico, en fase de obras, y la
+Los eimmpisaiócnto dse qlouse c asme pporso edlueccetrnom saogbnréet icaoqsu, eelnlo fsa seel edme feunntociso nqaumei einntfolu.yen en la salud de la
+población en este tipo de proyectos se relacionan, fundamentalmente, con el nivel de ruido, las
+emisioneEsn artemlaocsiófénr iac alas ,p olas icbaleli daafedc cdieóln a air lea, ploosb lcaocritóens d deel etnrátofircnoo, peonr flaasse e mdeis oiobnreass ,d ey plao levmo,i sión
+de lorsu icdaom yp voisb realceicotnroems daegrnivéatidcaoss d, ee nla fsa osber dase yfu pnocri olonsa cmaimenptoos. electromagnéticos, indicar que
+En reeslaec aiónná lias ilsa ypao essibtále r eacfoegcicdióon e na elal apnotebrliaocri óanp adrteald eon eto).rno por las emisiones de polvo, ruido y
+vibraciones derivadas de las obras y por los campos electromagnéticos, indicar que ese análisis
+ya está recogido en el anterior apartado e).
+Además, durante la fase de obras, se llevarán a cabo acciones que pueden ocasionar
+Además, durante la fase de obras, se llevarán a cabo acciones que pueden ocasionar
+alteraciones al tráfico y a los accesos a bienes y servicios, y por tanto, a la calidad de vida
+alteraciones al tráfico y a los accesos a bienes y servicios, y por tanto, a la calidad de vida de
+de los residentes. Entre los servicios que se podrían ver afectados, el de asistencia sanitaria
+los residentes. Entre los servicios que se podrían ver afectados, el de asistencia sanitaria
+urgente y no urgente debe estar garantizado, por los que han ponerse los medios necesarios
+urgente y no urgente debe estar garantizado, por los que han ponerse los medios necesarios
+que aseguren el desplazamiento de estos vehículos en los mismos tiempos y con la misma
+que aseguren el desplazamiento de estos vehículos en los mismos tiempos y con la misma
+calidcaadl iqduade aqunete asn dtees ladse olabsr aosb.r Caso. nC eoln o eblj eotibvjoe tdiveo m dien immiinzaimr iezsatra easfteac acfióecnc, ilóons, cloosrt ecso rdtees vdíae que
+hayav íqau qeu ea choamyae tqeure d aecboemráente rr eddeubceirrásne raeld uticeimrspe oa l tiinedmisppoe ninsdaibslpee,n isnafbolrem, ainnfdoorm caonnd os ucfoicni ente
+antelsaucfiiócine nate l oasn taelfaeccitóand oas l opso ra fleocst amdoissm poosr, lomsa mntiesnmieons,d om asnietemnpierend loa ssieemguprried alda sdeeglu trriádfaicdo de
+vehícduello tsr áyfi pcoe adteo nveesh ídcuurlaons tye plae aetjoenceusc idóunr adnet ela lsa oebjercausc, iaósní dceo mlaos eolb draesb, idasoí sceoñmaola eml iedenbtoid doe los
+desvíos provisionales.
+señalamiento de los desvíos provisionales.
+2. Ubica2c.i óUnb idcealc ipórno ydeecl tpor:o yecto:
+a) El uso aprobado y presente del suelo
+a) El uso aprobado y presente del suelo.
+- En relación al Plan Insular de Ordenación de Tenerife (PIOT):
+- En relación al Plan Insular de Ordenación de Tenerife (PIOT):
+Según se desprende del su plano de Distribución Básica de Usos, las parcelas se
+encuentran según las Áreas de Regulación Homogénea dentro de Protección Territorial y
+Según se desprende del su plano de Distribución Básica de Usos, las parcelas se
+Áreas Urbanas.
+encuentran según las Áreas de Regulación Homogénea dentro de Protección Territorial y
+17
+Áreas Urbanas.
+En el plano de Zonificación Ambiental, incluye la zona donde se encuentran las
+parcelas dentro de Zona Bb_Áreas de Protección Económica y Territorial (PIOT) y Zona
+C/D_Conforme artículo 8, D6/1997 de 21 de enero.
+Según lo informado por el Servicio Técnico de Planificación Territorial del Cabildo
+Insular de Tenerife, el proyecto no presenta incompatibilidad con las determinaciones
+del PIOT. Y en cuanto a las determinaciones de carácter ambiental, ese mismo Servicio
+En la dirección https://sede.gobiinerfnoodremcanaa,r iaqs.uoreg/ slead ea/vletreificran_adotci?vcoad iegol_engdei=da (Línea de Media Tensión soterrada) es la más coherente
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento electrónico siguientceo: n el PIOT.
+0S9WBEUOGahjkz14TwRsKf6DUi1zIwZoj
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33514 Viernes 28 de agosto de 2026
+- En relación al Planeamiento Urbanístico:
+De los datos obrantes en el Archivo de planeamiento de la Dirección General
+de Ordenación del Territorio y de la información gráfica integrada en el Sistema de
+Información Territorial de Canarias (SITCAN) a través del Visor de la Infraestructura de
+Datos Espaciales de Canarias (IDECanarias), el instrumento de ordenación vigente son
+las Normas Subsidiarias de Planeamiento del Municipio de Arico (acuerdo de aprobación
+definitiva de la Comisión de Urbanismo y Medio Ambiente de Canarias de 30 de octubre
+de 1997 (BOC 1997/155, de 1 de diciembre). Dichas Normas Subsidiarias establecen las
+siguientes clasificaciones de suelo:
+- Apoyo A405668: Suelo Rústico.
+- Centro de Transformación C402546 “Los Abriguitos”: Suelo Urbano.
+- La línea subterránea de media tensión (LSMT): Suelo Rústico, Urbanizable y Urbano.
+Las categorías y subcategorías de estos suelos serían:
+- Suelo Rústico: RE- Suelo Rústico Residual. Suelo Rústico Especial; ( )-Suelo Rústico
+Residual; PBp- Protección paisajística. Suelo Rústico de Protección del Paisaje.
+- Suelo Urbano: Suelo Urbano de Régimen Transitorio (SURT- PP Los Abriguitos)
+- Suelo Urbanizable: SAU RT-2 (PP Canteras del Sol)-Suelo Apto para Urbanizar de
+régimen transitorio; SAU R5 (sector 2-1)- Suelo Apto para Urbanizar Residencial.
+En el proyecto técnico presentado el promotor indica que: “Según el Plan General de
+Ordenación se clasifica el suelo como Suelo Rústico Residencial y como Suelo Rústico
+Residencial y como Suelo Apto para urbanizar de Régimen Transitorio”, sin que se realice
+un estudio pormenorizado en función del tipo de suelo donde se pretende realizar la
+actuación.
+Además, el Servicio de Estrategias e Información Territorial de la Dirección General de
+Ordenación del Territorio y Coherencia Territorial del Gobierno de Canarias, señala que en
+el ámbito de actuación se encuentran aprobados los siguientes instrumentos de desarrollo,
+entendiendo que le pudieran ser de aplicación al proyecto de referencia:
+- Plan Parcial Los Abriguitos, aprobado por la Comisión Provisional de Urbanismo
+según acuerdo del 28 de abril de 1983 (BOC 1983/32, de 23 de noviembre).
+- Plan Parcial Canteras del sol y Modificación Puntual del PP Los Abriguitos, aprobado
+definitivamente por la Comisión de Urbanismo y Medio Ambiente de Canarias según
+acuerdo del 16 de mayo de 1989 (BOC 1990/61, de 16 de mayo).
+- Plan Parcial Caleta María Luisa, aprobado definitivamente por la Comisión de
+Urbanismo y Medio Ambiente de Canarias según acuerdo del 30 de junio de 1999 (BOC
+1999/131, de 29 de septiembre).
+Cabe señalar que, hasta la fecha de emisión de este Informe de Impacto Ambiental, no
+se ha recibido en este Centro Directivo el Informe del Ayuntamiento de Arico solicitado en
+el trámite de consultas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33515 Viernes 28 de agosto de 2026
+b) La abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa
+de los recursos naturales de la zona y su subsuelo (incluidos el suelo, tierra, el agua y la
+biodiversidad.
+Tal y como ya se ha indicado en el desarrollo de este Informe de Impacto Ambiental,
+la instalación de la LSMT se ceñirá al ámbito de las vías existentes, así como los trabajos
+de reforma del CT se llevarán a cabo dentro de la infraestructura actual. El ámbito de
+desarrollo del proyecto presenta como valores ambientales más destacados la presencia
+de elementos del patrimonio cultural y dos especies de fauna recogidas en catálogos de
+protección. No obstante, según los informes recibidos tanto del Servicio Administrativo
+de Patrimonio Cultural del Cabildo Insular de Tenerife, como de la Dirección General del
+Medio Natural (denominada entonces Dirección General de Espacios Naturales Protegido
+y Biodiversidad), con las medidas mitigadoras y minimizadoras propuestas desde ambos
+organismos, y las propias incluidas en el DA, no se prevé efectos adversos negativos
+significativos respecto a esos valores ambientales citados.
+c) La capacidad de absorción del medio natural.
+Para el análisis de este epígrafe se ha de tener en cuenta lo indicado en el epígrafe
+anterior b), y además añadir que:
+- En relación a Áreas clasificadas o protegidas por la legislación del estado o de las
+Comunidades Autónomas; Lugares Red Natura 2000:
+El ámbito de estudio del proyecto de referencia no afecta ni se inserta en espacios
+protegidos europeos de la Red Natura 2000 -Zona Especial de Conservación (ZEC) y/o
+Zona de Especial Protección para las Aves (ZEPA)-, ni en espacios naturales protegidos de
+la Red Canaria, ni en Reservas de la Biosfera, ni en Geoparques.no suponiendo afección
+alguna a este tipo de espacios.
+Sin embargo, sí discurre en parte, dentro del Área 21 “Laderas de Granadilla-Arico”
+considerada como Área prioritaria de reproducción, de alimentación, de dispersión y de
+concentración de las especies de avifauna amenazada en la Comunidad Autónoma de
+Canarias (Orden de 15 de mayo de 2015, de la Consejería de Educación, Universidades y
+Sostenibilidad., a los efectos de la aplicación del Real Decreto 1432/2008, de 29 de agosto,
+por el que se establecen medidas para la protección de la avifauna contra la colisión y
+la electrocución en líneas eléctricas de alta tensión). Recordar que la LMT discurrirá en
+soterrado.
+Tal y como y se indicó en el anterior apartado 1. c) dedicado a la utilización de recursos
+naturales, una parte de la LSMT sí discurre por una zona de distribución del hábitat de
+interés comunitario 5330 Matorrales termomediterráneos y preestépicos [Tabaibal dulce
+tinerfeño (Ceropegio fuscae-Euphorbietum balsamiferae)], incluido en el Anexo I de la
+Directiva 92/43/CEE del Consejo de 21 de mayo de 1992. Pero dado que la LSMT discurre
+por caminos existentes, no se prevé una afección significativa sobre dicho hábitat de interés
+comunitario, siempre y cuando se apliquen las medidas preventivas establecidas en el
+apartado de medidas ambientales adicionales de este Informe de Impacto Ambiental.
+- En relación a áreas con potencial afección al Patrimonio Cultural: el promotor presenta un
+estudio patrimonial realizado por técnico cualificado y debidamente autorizado, utilizando
+como espacio estudiado el eje del viario en el que se ejecuta el proyecto, estableciendo un
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33516 Viernes 28 de agosto de 2026
+buffer de 50 m a ambos lados de la vía como zona de posible afección derivad de las obras.
+Se detectaron 9 bienes patrimoniales que responden a la siguiente tipología:
+• 4 dispersiones de materiales arqueológicos en superficie (fragmentos de obsidiana,
+restos cerámicos indígenas y malacofauna). Una de ellas presenta un cejo natural asociado.
+• Conjunto formado por un depósito de agua, una presa y material arqueológico
+aborigen en superficie.
+• Cejo u oquedad natural sin material arqueológico asociado, pero con posibilidad de
+poseer interés patrimonial atendiendo a su morfología y ubicación.
+• Gran depósito de agua,junto a canales y atarjeas.
+• Pesadora de aguas.
+• Trinchera.
+El estudio señala que ninguno de los bienes inventariados sufre afección directa, en
+tanto que se trata una canalización excavada en caja dentro del camino existente, sin
+que exista previsión de que las obras se extiendan más allá de este. No obstante, dicho
+estudio propone la adopción de medidas protectoras de carácter preventivo consistentes en:
+balizamiento de los bienes y control de los mismos a pie de obras.
+El Servicio Administrativo de Patrimonio Cultural del Cabildo Insular de Tenerife
+informa favorablemente el estudio realizado por el promotor, e indica que el proyecto no
+afecta a ámbito de declarado Bien de Interés Cultural ni con expediente incoado a efectos de
+su declaración ni aparece incluido en el entorno de protección de BIC alguno, ya declarado
+o en fase de tramitación. Tampoco afecta a bienes incluidos en el Catálogo Insular de
+Bienes Patrimoniales Culturales ni en el Catálogo Municipal. Además, establece una serie
+de medidas concretas indicando que han de llevarse a cabo de manera complementaria a
+las medidas de protección propuestas por el promotor. Estas se detallan en el apartado de
+medidas ambientales adicionales del presente Informe de Impacto Ambiental.
+Por todo lo indicado se entiende que el ámbito natural donde se desarrolla el proyecto
+tiene capacidad de acogida para el mismo sin que se produzcan afecciones significativas a
+los valores ambientales presentes en él.
+5.3. Características del potencial impacto: los potenciales efectos significativos de
+los proyectos en el medio ambiente, deben considerarse en relación con los criterios
+establecidos en los apartados 1 y 2, y teniendo presente el impacto del proyecto sobre los
+factores señalados en el artículo 45, apartado 1.e), teniendo en cuenta:
+a) La magnitud y el alcance espacial del impacto (por ejemplo, área geográfica y tamaño
+de la población que pueda verse afectada).
+Según las obras descritas, los potenciales impactos que se han identificado y evaluado
+se circunscriben al entorno cercano de instalación de la LSMT. Sobre todo a la pista de
+tierra que parte de la vía urbana del centro de Abades hasta el apoyo A405668, y en menor
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33517 Viernes 28 de agosto de 2026
+medida, a la Avenida Ocira y al Centro de Transformación C402546 “Los Abriguitos”. En
+estas últimas zonas las obras a acometer son de muy poca entidad puesto que la en la Av.
+de Ocira la canalización por la que discurriría la LSMT ya existe en casi todo el tramo de
+esta vía, y en el Centro de Transformación, no será necesario llevar a cabo obra civil sino
+sustituir elementos de la aparamenta actual.
+b) La naturaleza del impacto.
+Durante la fase de obra, los impactos se derivarían sobre todo de la realización de la
+obra civil, produciéndose emisiones de partículas a la atmósfera, alteraciones acústicas
+temporales y generación de residuos. No obstante, esos efectos adversos son de carácter
+puntual y temporal y el promotor ha adoptado las medidas preventivas y correctoras sobre
+los mismos.
+En fase de funcionamiento, el efecto adverso más significativo podría producirse por las
+emisiones de campos electromagnéticos derivadas del funcionamiento de la línea de media
+tensión y del CT, si bien el promotor indica que las canalizaciones están diseñadas para
+evitar que en el exterior se superen los límites establecidos por la normativa de aplicación.
+No obstante, atendiendo a las precauciones indicadas por la Dirección General de Salud
+Pública, se debe establecer la realización de mediciones periódicas y el seguimiento del
+cumplimiento de los niveles permitidos por la legislación vigente, y especialmente en
+relación con la zona de viviendas y las plazas donde se ubica el CT.
+c) El carácter transfronterizo del impacto. No es el caso.
+d) La intensidad y complejidad del impacto.
+La mayoría de los potenciales impactos identificados se producirían en fase de obras y
+tendrían naturaleza temporal y de escasa duración en tanto que el tiempo estimado de obras
+es de 25 días. No obstante, con las medidas mitigadoras y minimizadoras establecidas por
+el promotor y las derivadas de este procedimiento de evaluación de impacto ambiental
+simplificado, se entiende que esos potenciales impactos pasarían a tener nula o muy poca
+significancia ambiental.
+e) La probabilidad del impacto.
+El promotor indica que con las medidas mitigadoras contempladas, la probabilidad de
+que se produzcan los impactos descritos es baja. Así mismo, se han establecido una serie
+de medidas ambientales adicionales, fruto del procedimiento de evaluación de impacto
+ambiental llevado a cabo en este Centro Directivo, entendiendo que las mismas contribuyen
+a mantener baja la probabilidad de que se produzcan esos potenciales impactos ambientales
+identificados.
+f) El inicio previsto y duración, frecuencia y reversibilidad del impacto.
+El DA indica que la duración estimada de las obras serían 25 días, y durante ese tiempo
+es cuando se producirían la mayoría de los potenciales impactos identificados (asociados
+a la ejecución de la obra civil), si bien estos serían puntuales y de duración temporal, y
+además, por su propia naturaleza, reversibles todos de ellos. No obstante, en la fase de
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33518 Viernes 28 de agosto de 2026
+funcionamiento se ha identificado como posible impacto que podrían tener más relevancia,
+la emisión de campos electromagnéticos por el funcionamiento de LSMT y del CT. Este
+potencial impacto, si se produjese, tendrían un carácter constante durante el funcionamiento
+de Línea eléctrica y del CT. No obstante, si durante el seguimiento ambiental del proyecto
+de referencia, se detectase que se está produciendo el impactos mencionado y/u otros
+no previstos, tanto el promotor como la evaluación de impacto ambiental efectuada,
+contemplan medidas preventivas y correctoras para los mismos.
+g) La acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. Véase apartados 1.b) y e).
+h) La probabilidad de reducir el impacto de manera eficaz.
+Con el cumplimiento de las medidas mitigadoras y minimizadoras establecidas por el
+promotor y las medidas ambientales adicionales recogidas en el apartado de conclusiones
+de este Informe de Impacto Ambiental, fruto de la evaluación de impacto ambiental
+simplificada llevada a cabo en este Centro Directivo, se entiende que se minimizarían los
+posibles efectos negativos del proyecto sobre el medio ambiente.
+Ahora bien, para poder materializar dichas medidas es necesario que se revise
+el presupuesto del Proyecto en lo que al coste de las medidas ambientales se refiere, y
+del Programa de Vigilancia Ambiental, a fin de garantizar su implementación efectiva
+incorporando a dicho presupuesto las partidas definitivas del conjunto de medidas que
+finalmente se determinen tras la tramitación ambiental de este proyecto, incluido el
+resultado de la vigilancia y seguimiento ambiental.
+En conclusión y a la vista de las consideraciones técnicas precedentes, se considera
+que el proyecto denominado «Proyecto de ejecución de derivación de LMT “Tajao”
+desde el apoyo A405668 hasta el Centro de Transformación C402546 “Los Abriguitos
+SAT0001248150-SIB35023”», en el término municipal de Arico, isla de Tenerife, no tendrá
+efectos adversos significativos sobre el medio ambiente, siempre y cuando se cumplan los
+términos constructivos presentados, se realice un correcto y estricto cumplimiento de las
+medidas preventivas y correctoras incluidas en el Documento Ambiental (DA), se realice
+un seguimiento ambiental del proyecto que garantice el cumplimiento de estas medidas a
+través de la implantación del Programa de Vigilancia Ambiental propuesto y se incluyan y
+cumplan las medidas ambientales adicionales que se incluyen como anexo de la presente
+Resolución.
+FUNDAMENTOS JURÍDICOS
+I. El artículo 9.1 de la LEA, establece que “[…] los proyectos incluidos en el ámbito
+de aplicación de esta ley que puedan tener efectos significativos en el medio ambiente, en
+virtud, entre otras cosas, de su naturaleza, dimensiones o localización, deberán someterse
+a una evaluación ambiental antes de su autorización, o bien, si procede, en el caso de
+proyectos, antes de la presentación de una declaración responsable o de una comunicación
+previa a las que se refiere el artículo 69 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas”.
+En este sentido, señala el mismo precepto que “Carecerán de validez los actos de
+adopción, aprobación o autorización de los planes, programas y proyectos que, estando
+incluidos en el ámbito de aplicación de esta ley no se hayan sometido a evaluación
+ambiental, sin perjuicio de las sanciones que, en su caso, puedan corresponder”.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33519 Viernes 28 de agosto de 2026
+Al proyecto denominado «Proyecto de ejecución de derivación de LMT “Tajao”
+desde el apoyo A405668 hasta el Centro de Transformación C402546 “Los Abriguitos
+SAT0001248150-SIB35023”», localizado en el término municipal de Arico, isla de
+Tenerife, le es de aplicación el artículo 7.2.a) de la Ley 21/2013, por estar incluido en el
+Anexo II, Grupo 4. Industria energética, apartados b) Construcción de líneas eléctricas
+(proyectos no incluidos en el Anexo I) con un voltaje igual o superior a 15 kV, que tengan
+una longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo
+de los anteriores umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan las
+medidas preventivas establecidas en el Real Decreto 1432/2008, de 29 de agosto, por el que
+se establecen medidas para la protección de la avifauna contra la colisión y la electrocución
+en líneas eléctricas de alta tensión, o discurran a menos de 200 m de población o de 100
+m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente
+en subterráneo por suelo urbanizado; por lo que debe someterse a un procedimiento de
+evaluación de impacto ambiental simplificada, regulado en la sección 2.ª del Capítulo II de
+su Título II.
+En cuanto al procedimiento de evaluación de impacto ambiental en su modalidad
+simplificada, el apartado 2 del artículo 47 de la LEA establece lo siguiente:
+“2. El órgano ambiental, teniendo en cuenta la información facilitada por el promotor,
+el resultado de las consultas realizadas y, en su caso, los resultados de verificaciones
+preliminares o evaluaciones de los efectos medioambientales realizadas de acuerdo con
+otra legislación, resolverá mediante la emisión del informe de impacto ambiental, que
+podrá determinar de forma motivada de acuerdo con los criterios del Anexo III que:
+a) El proyecto debe someterse a una evaluación de impacto ambiental ordinaria porque
+podría tener efectos significativos sobre el medio ambiente. En este caso, el promotor
+elaborará el estudio de impacto ambiental conforme al artículo 35. Para ello, el promotor
+podrá solicitar al órgano ambiental el documento de alcance del estudio de impacto
+ambiental en los términos del artículo 34.
+b) El proyecto no tiene efectos adversos significativos sobre el medio ambiente, en
+los términos establecidos en el informe de impacto ambiental, que indicará al menos, las
+características del proyecto y las medidas previstas para prevenir lo que, de otro modo,
+podrían haber sido efectos adversos significativos para el medio ambiente.
+c) No es posible dictar una resolución fundada sobre los posibles efectos adversos
+del proyecto sobre el medio ambiente, al no disponer el órgano ambiental de elementos
+de juicio suficientes, procediéndose a la terminación del procedimiento con archivo de
+actuaciones”.
+En el presente supuesto y de acuerdo a las conclusiones del apartado de consideraciones
+técnicas, procede resolver que el proyecto no tiene efectos adversos significativos sobre el
+medio ambiente.
+Por su parte, en el apartado 3 de este artículo se recoge la obligación de publicación
+del informe de impacto ambiental en el diario oficial que corresponda, sin perjuicio de su
+publicación en la sede electrónica del órgano ambiental. Por tanto, procederá la publicación
+del presente informe de impacto ambiental en el Boletín Oficial de Canarias.
+En cuanto a su vigencia, el apartado 4 establece que “En el supuesto previsto en el
+apartado 2.b) el informe de impacto ambiental perderá su vigencia y cesará en la producción
+de los efectos que le son propios si, una vez publicado en el Boletín Oficial del Estado o
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33520 Viernes 28 de agosto de 2026
+diario oficial correspondiente, no se hubiera procedido a la autorización del proyecto en
+el plazo máximo de cuatro años desde su publicación, salvo que se acuerde la prórroga de
+la vigencia del informe de impacto ambiental en los términos previstos en los siguientes
+apartados”. En virtud de esta previsión y a la vista de la conclusión del apartado de
+Consideraciones Técnicas, procede establecer una vigencia de cuatro años a contar desde
+la fecha de su publicación. Transcurrido dicho plazo sin que el proyecto sea autorizado, el
+IIA cesará en sus efectos salvo que se acuerde la prórroga de su vigencia, conforme a las
+determinaciones de la Ley 21/2013.
+Finalmente y sobre su naturaleza jurídica, según el artículo 5.3.e) de la LEA, el informe
+de impacto ambiental es un “informe preceptivo y determinante del órgano ambiental con
+el que finaliza la evaluación de impacto ambiental simplificada”. Por tanto no procede en
+Derecho el recurso en vía administrativa, por ser acto de trámite, sin perjuicio de los que
+procedan en vía administrativa o judicial frente al acto, en su caso, de autorización del
+proyecto.
+II. En cuanto a la competencia, el apartado 4 de la disposición adicional primera de la
+Ley 4/2017, de 13 de julio, del Suelo y de los Espacios Naturales Protegidos de Canarias,
+en la redacción dada por el Decreto ley 3/2025, de 21 de abril, para la agilización de la
+tramitación de licencias urbanísticas y el impulso de la construcción de viviendas, establece
+lo siguiente:
+“A los efectos de la presente ley, el órgano ambiental será el que designe la Administración
+competente para autorizar o aprobar el proyecto, o en su caso para controlar la actividad
+de los proyectos sujetos a declaración responsable o comunicación previa, debiendo
+garantizarse la debida separación funcional y orgánica respecto del órgano sustantivo en
+los términos previstos en la legislación estatal básica.
+En el ámbito de la Administración autonómica, el órgano ambiental residirá en
+el Departamento con competencia en materia de medio ambiente y será la Dirección
+General de Transición Ecológica y Lucha Contra el Cambio Climático. No obstante, esta
+designación específica podrá ser objeto de modificación en el Reglamento Orgánico de
+dicho departamento [...].”
+Por tanto, al tratarse de un proyecto cuya autorización compete a un órgano de la
+Administración Autonómica, como es la Dirección General de Energía, el órgano ambiental
+resulta ser el citado centro directivo.
+Al respecto, debe tenerse en cuenta que esta referencia a la Dirección General de
+Transición Ecológica y Lucha contra el Cambio Climático debe entenderse hecha a la
+Dirección General de Calidad Ambiental, por influencia de la disposición final séptima
+del Decreto 1/2026, de 26 de marzo, por el que se aprueba el Reglamento Orgánico de
+la Consejería de Transición Ecológica y Energía y se crea y regula el Consejo para la
+transición energética de Canarias, la cual ha venido a modificar la denominación que
+estableció en su momento el artículo 9 del Decreto 123/2023, de 17 de julio, por el que se
+determina la estructura orgánica y las sedes de las Consejerías del Gobierno de Canarias.
+En relación con este cambio de denominación, con fecha 12 de mayo de 2026 se publica en
+el Boletín Oficial de Canarias n.º 90 el Decreto 84/2026, de 4 de mayo, de adaptación de
+denominaciones de determinadas Direcciones Generales y sus titulares.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33521 Viernes 28 de agosto de 2026
+Por su parte, el artículo 27 del Decreto 212/1991, de 11 de septiembre, de organización
+de los Departamentos de la Administración Autonómica de Canarias, se refiere en su
+apartado 1.a) a la función de los jefes de servicio de “instruir y formular la propuesta de
+resolución en aquellos procedimientos en que deban resolver los órganos departamentales
+a que estén adscritos”.
+Por tanto, debe estimarse que en el presente supuesto dicha actuación recae en el Jefe
+del Servicio de Impacto Ambiental, adscrito a esta Dirección General.
+En virtud de los antecedentes, consideraciones técnicas y fundamentos jurídicos
+precedentes, y teniendo en cuenta la propuesta del Jefe de Servicio de Impacto Ambiental
+de esta Dirección General,
+RESUELVO:
+Primero.- Formular el Informe de Impacto Ambiental del proyecto denominado
+«Proyecto de ejecución de derivación de LMT “Tajao” desde el apoyo A405668 hasta
+el Centro de Transformación C402546 “Los Abriguitos SAT0001248150-SIB35023”»
+promovido por Edistribución Redes Digitales S.L.U., en el término municipal de Arico,
+isla de Tenerife, determinando que dicho proyecto, a los solos efectos ambientales, no tiene
+efectos adversos significativos sobre el medio ambiente, siempre y cuando se cumplan
+los términos constructivos presentados, se realice un correcto y estricto cumplimiento de
+las medidas preventivas y correctoras incluidas en el Documento Ambiental del Proyecto,
+se realice un seguimiento ambiental del proyecto que garantice el cumplimiento de estas
+medidas a través de la implantación del Programa de Vigilancia Ambiental (PVA) propuesto
+en el DA y se incluyan y cumplan las medidas ambientales adicionales contenidas en el
+anexo.
+Segundo.- Establecer para el presente informe de impacto ambiental una vigencia de
+cuatro años, a contar desde la fecha de su publicación en el Boletín Oficial de Canarias.
+Tercero.- A través de la evaluación de impacto ambiental simplificada, se han analizado
+los efectos del proyecto sobre el medio ambiente y, en particular, sobre los siguientes
+factores: población, salud humana, flora y vegetación, fauna, biodiversidad, geodiversidad,
+tierra, suelo, subsuelo, aire, agua, clima, cambio climático, paisaje, bienes materiales,
+incluido el patrimonio cultural, y la interacción entre todos los factores mencionados. Por
+tanto, se considera que el informe de impacto ambiental por el que se finalice, en su caso,
+dicho procedimiento, no debería incorporar pronunciamiento alguno sobre cuestiones de
+índole urbanística y/o territorial, procedimientos judiciales en curso, ni sobre la titularidad
+de los terrenos afectados por el proyecto.
+Cuarto.- Notificar la presente Resolución a la entidad promotora Edistribución Redes
+Digitales S.L.U., a la Dirección General de Energía del Gobierno de Canarias, al Cabildo
+de Tenerife, al Ayuntamiento de Arico y a la Agencia Canaria de Protección del Medio
+Natural.
+Quinto.- Publicar la presente Resolución mediante anuncio en el Boletín Oficial de
+Canarias y en la sede electrónica de la Consejería de Transición Ecológica y Energía.
+Canarias, a 29 de mayo de 2026.- El Director General de Calidad Ambiental, Ángel
+Pablo Montañés Ríos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33522 Viernes 28 de agosto de 2026
+ANEXO
+MEDIDAS AMBIENTALES ADICIONALES
+Tras el análisis técnico realizado de la documentación recibida se considera necesario
+añadir al proyecto y al DA las siguientes prescripciones adicionales, que el promotor debe
+integrar, presupuestar y dar cumplimiento junto con el conjunto de las medidas preventivas
+y correctoras contempladas en el DA. Lo anterior, no le exime de la obligación de solicitar
+y obtener todas las autorizaciones ambientales y sectoriales que resulten legalmente
+exigibles, ni del cumplimiento de la legislación ambiental vigente.
+Será responsabilidad exclusiva del promotor la corrección de cualquier alteración o
+perjuicio ambiental causado por el desarrollo del proyecto. En caso de producirse cualquier
+incidencia ambiental, deberá actuar de forma inmediata, adoptando las medidas necesarias
+para restablecer el equilibrio del medio afectado y evitar mayores daños. Deberán tenerse
+en cuenta a este respecto las obligaciones para el operador contenidas en la Ley 26/2007,
+de 23 de octubre, de Responsabilidad Medioambiental.
+1. Protección del Patrimonio Cultural.
+A la vista de los bienes patrimoniales identificados en el DA, y con el objetivo de
+garantizar la efectividad de las medidas de protección propuestas, sería necesario adoptar
+las siguientes medidas concretas:
+a) Como medida mas importante, resultaría imprescindible la realización de una labor
+de seguimiento arqueológico por parte de un técnico especialista en Arqueología, debería
+supervisar y ejecutar la totalidad de las medidas adicionales que se proponen a continuación.
+b) Con carácter previo al inicio de las obras y durante la fase de comprobación de
+replanteo, se determinará el emplazamiento de las infraestructuras a instalar y su relación
+espacial concreta respecto a los bienes patrimoniales existentes.
+c) Con carácter previo al inicio de las obras se habría que proceder al balizamiento
+y vallado provisional de todos los bienes inventariados, bajo supervisión del técnico
+arqueólogo, con objeto de evitar que se produzcan daños casuales a los mismos derivados
+de las obras, movimientos de tierras, depósito de maquinaria o materiales, vertidos de
+escombros o similares.
+d) Se deberá efectuar un seguimiento arqueológico de todas las actuaciones del
+proyecto que impliquen movimientos de tierra, desmontes y, en general, cualquier
+transformación de la morfología del terreno, con objeto de prevenir el hallazgo casual
+de vestigios arqueológicos no advertidos en la prospección previa por localizarse en el
+subsuelo, así como para garantizar el cumplimiento estricto de las medidas protectoras y
+correctoras propuestas. La labor de control deberá extenderse a todas aquellas actuaciones
+complementarias, como apertura de pistas, movimientos de tierra, acopios, instalaciones
+provisionales, etc.
+d) Cualquier modificación del proyecto conllevaría la prospección del nuevo espacio
+afectado por parte de arqueólogo, que establecería las medidas protectoras/correctoras que
+estime oportunas y que deberían ser informadas al Servicio de Patrimonio Histórico del
+Cabildo Insular de Tenerife.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33523 Viernes 28 de agosto de 2026
+e) La aparición de vestigios de interés patrimonial implicaría la paralización inmediata
+de los trabajos y su comunicación al Servicio de Patrimonio Histórico del Cabildo Insular
+de Tenerife, con objeto de coordinar las medidas a adoptar al respecto.
+2. Protección de la Biodiversidad.
+A la vista de las especies de fauna amenazada y del hábitat de interés comunitario
+identificados en la zona de actuación del proyecto, y con el objetivo de garantizar la
+protección de dichos valores, sería necesario adoptar las siguientes medidas concretas:
+- De forma general:
+• Las zonas de ocupación temporal para campas de trabajo, acopio de material y
+residuos, parque de maquinaria, etc. no podrán incluir áreas naturales donde esté presente
+el hábitat de interés comunitario 5330 Matorrales termomediterráneos y preestépicos y
+el hábitat potencial de Pimelia canariensis, esto es todo el área natural que se extiende
+entre la salida del núcleo poblacional de Abades hasta el apoyo A405668. En este sentido
+deberá seleccionarse un lugar lo suficientemente “alterado” que garantice que se encuentra
+libre de la presencia de estos valores naturales. La selección del ámbito deberá contar
+con asesoramiento previo por parte de técnicos competentes (biólogo especialista con
+conocimiento en Pimelia canariensis y experiencia en trabajo de campo).
+• Se realizará un balizado provisional de protección durante las obras.
+• Restricción de circulación de personas y vehículos más allá de los sectores estrictamente
+necesarios dentro del ámbito de las obras.
+• Evitar vertidos y derrames que puedan contaminar suelos y aguas fuera del ámbito de
+trabajo.
+• Reducción de emisión de partículas.
+- Con respecto a la flora protegida y a la vegetación:
+• Se realizará un muestreo previo a las obras, por técnico competente, con el din de
+identificar la posible presencia de especies protegidas de flora, tanto las incluidas en los
+Anexos I y II de la Orden de 20 de febrero de 1991, sobre la protección de especies de la flora
+vascular silvestre de las Comunidad Autónoma de Canarias, como el Listado de Especies
+Silvestres en Régimen de Protección Especial y/o en el Catálogo Canario de Especies
+Protegidas. En su caso, los ejemplares a afectar, previa autorización de la administración
+pública correspondiente, serán trasladados a vivero provisional creado al efecto en las
+proximidades del ámbito para su posterior trasplante en las labores de restauración de las
+zonas afectadas.
+• Se recuperará la capa de suelo fértil que vaya a ser afectado por las excavaciones,
+retirándola como una capa de forma previa y acopiándola en montones de no más de 2
+m de altura, con el fin de aprovechar este recurso en las labores de restauración. Con ello
+se pretende, no solo mantener los componentes del suelo original y el banco de semillas
+y organismos del suelo que albergue, sino además evitar la necesidad de incorporar
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33524 Viernes 28 de agosto de 2026
+tierra externa con elementos procedentes de otros enclaves geográficos que albergarán
+propiedades físico-químicas y biológicas diferentes y semillas de especies que no forman
+parte de la composición florística del lugar, incluidas especies invasoras.
+• Las labores de restauración deberán realizarse en los meses que ofrezcan mayor
+garantía de prosperidad para los ejemplares trasplantados, siendo el periodo temporal
+idóneo para ello el coincidente con el de mayor rango de precipitaciones de año.
+• En caso de tener que utilizar ejemplares externos de flora en al restauración, estos
+deberán ser taxones autóctonos propios del lugar a revegetar, y proceder de fuentes ex situ
+autorizadas, su origen ser conocido, y preferentemente provenir de la población del taxón
+considerado más cercano, geográfica y ecológicamente, al lugar de la zona a revegetar,
+debiendo garantizarse de este modo la adecuada trazabilidad del material vegetal de origen.
+• Se evitará el uso de herbicidas en el control del crecimiento de la vegetación para
+evitar pérdida de la biodiversidad.
+• Se realizará un muestreo previo de especies exóticas invasoras que pudieran estar
+presentes en el entorno del proyecto, tanto las incluidas en el Catálogo Español de Especies
+Exóticas Invasoras como en el Listado de Especies Exóticas Invasoras Preocupantes para la
+Región Ultraperiférica de las Islas Canarias, las cuales, en su caso, deberán ser debidamente
+erradicadas.
+• Para ello, se recuerda que con respecto al rabogato deberán tenerse en cuenta la Orden
+de 13 de junio de 2014, por la que se aprueban las Directrices técnicas para el manejo,
+control y eliminación del rabogato (Cenchrus setaceus). Y para la erradicación y control
+de otras especies existen manuales incluidos en la Guía Divulgativa para el control y
+erradicación de la flora exótica invasora en Canarias, disponible en la web del Gobierno de
+Canarias, en el área de medioambiente, en el apartado de biodiversidad.
+• Asimismo, se tomarán medidas de prevención para la introducción de especies exóticas
+invasoras o con potencialidad invasor que pudieran verse favorecidos como consecuencia
+de la ejecución de las obras (movimientos de tierra).
+- Con respecto a la fauna:
+• Se realizará una introducción gradual de las actividades más intensas en las áreas
+a intervenir para permitir una redistribución espacial y temporal de las especies más
+significativas que pudieran verse afectadas por las actuaciones.
+• De cara a evitar cualquier afección a las aves, especialmente a Burhinus oedicnemus
+distinctus, los trabajos que conlleven el uso de maquinaria ruidosa y movimientos de
+tierras o el desbroce de la vegetación, deberán realizarse en fechas que no coincidan con la época
+de reproducción y nidificación, esto es, fuera del periodo que comprende los meses febrero-
+julio (ambos incluido).
+• Se deberán limitar las obras en horario nocturno.
+• Las zanjas permanecerán abiertas el menor tiempo posible, y deberán contener rampas
+con la misma tierra de excavación en los extremos de las mismas, con el fin de facilitar la
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33525 Viernes 28 de agosto de 2026
+salida de los animales que pudieran caer. Las zanjas deberán ser revisadas al inicio de cada
+jornada laboral.
+• Los extremos libres de las conducciones, mientras se mantengan abiertas, deberán
+cerrarse herméticamente al final de cada jornada de trabajo a fin de evitar que los animales
+puedan quedar atrapados en ellas.
+• Evitar el depósito o vertido de residuos que puedan suponer trampas para invertebrados
+y reptiles.
+• Con respecto a Pimelia canariensis, además deberán aplicarse las siguientes medidas
+específicas:
+- Evitar impactos en los terrenos adyacentes a la zona de trabajo: arrojar escombros y
+vertidos de basura, especialmente latas, botellas y recipientes similares, por constituir estas
+verdaderas trampas mortales para las pimelias.
+- Las tierras procedentes de la excavación de las zanjas serán almacenadas en el interior
+de la pista, nunca fuera de la misma.
+- En el tramo de la línea subterránea de media tensión que discurre desde la salida del
+núcleo urbano de Abades hasta el apoyo A405668, deberá instalarse una barrera perimetral
+de zanja paralela al recorrido de obra, a ambos lados de la pista, que impida la entrada
+de pimelias a la misma. Cuando la zanja discurra junto a una carretera asfaltada solo se
+instalará la barrera en el lado contrario a la misma.
+- La construcción de la barrera se realizará con tablones de madera de 25 cm de alto
+forrados de tela de PVC fijados al suelo con barras de hierro corrugado, lo que hace
+que quede estable y perfectamente asentada. La tela de PVC quedará vista al exterior e
+interior de la obra y deberá estar perfectamente grapada o adherida a la tabla, sobre todo
+los pliegues que se forman en sus extremos, ya que se ha comprobado que las pimelias
+se pueden colar por dentro de la misma quedando atrapadas. La base de la tabla deberá
+quedar enterrada al suelo unos 5-10 cm, lo que impedirá que las pimelias puedan pasar por
+debajo. Posteriormente, tanto en su parte interna como externa se sellará con tierra unos
+que impedirá que las pimelias puedan pasar por debajo. Posteriormente, tanto en su
+centímetros (figura 6B).
+parte interna como externa se sellará con tierra unos centímetros (figura 6B).
+◦ La barrera ha de ser una estructura continua. No podrán tener agujeros que
+permitan el paso de pimelias (> 5 mm), ni grietas o uniones de estructuras que
+facilite que los ejemplares trepen por ellas para rebasar la barrera.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+◦ La barrera se instalará lo más próxima posible a la pista de obra, sin que estorbe la
+correcta realización de las obras, con el fin de afectar lo menos posible el hábitat
+potencial en el que se encuentra la especie.
+◦ En el lado extremo de la barrera se deberá eliminar la vegetación más próxima, en
+una franja de un metro, para evitar que los ejemplares puedan utilizarla para trepar y
+acceder a la zona de obra.
+◦ En todo momento, la barrera tendrá 100 m de largo por delante y 100 m de largo por
+detrás del punto de avance de la obra, es decir, del lugar en el que se encuentren
+excavando la zanja e instalando las conducciones (figura 6A).
+◦ En el remate final de las barreras, en cada uno de sus extremos, se pondrá unos 5
+m de barrera formando un ángulo de 45 grados hacia el exterior de la obra (ángulo
+de salida). El comportamiento de las pimelias cuando llegan a un obstáculo como es
+la barrera, será seguirla, y una vez lleguen al extremo de la misma en el que se ha
+instalado el ángulo de salida, la tendencia de los ejemplares será normalmente
+continuar caminando siguiendo dicho ángulo e internarse en la zona libre de obras
+(figura 6A).
+◦ Por la noche y en los periodos de inactividad (fines de semana, festivos, etc.) la
+pista de obra deberá quedar cerrada en sus extremos con tramos de barreras
+portátiles al efecto, que impidan el paso de las pimelias al interior de la pista de
+obra, ya que estos escarabajos presentan mayor movilidad por la noche. Esto último
+31
+En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento electrónico siguiente:
+0S9WBEUOGahjkz14TwRsKf6DUi1zIwZoj
+
+Boletín Oficial de Canarias núm. 173 33526 Viernes 28 de agosto de 2026
+- La barrera ha de ser una estructura continua. No podrán tener agujeros que permitan el
+paso de pimelias (> 5 mm), ni grietas o uniones de estructuras que facilite que los ejemplares
+trepen por ellas para rebasar la barrera.
+- La barrera se instalará lo más próxima posible a la pista de obra, sin que estorbe la
+correcta realización de las obras, con el fin de afectar lo menos posible el hábitat potencial
+en el que se encuentra la especie.
+- En el lado extremo de la barrera se deberá eliminar la vegetación más próxima, en una
+franja de un metro, para evitar que los ejemplares puedan utilizarla para trepar y acceder a
+la zona de obra.
+- En todo momento, la barrera tendrá 100 m de largo por delante y 100 m de largo por
+detrás del punto de avance de la obra, es decir, del lugar en el que se encuentren excavando
+la zanja e instalando las conducciones (figura 6A).
+- En el remate final de las barreras, en cada uno de sus extremos, se pondrá unos 5 m
+de barrera formando un ángulo de 45 grados hacia el exterior de la obra (ángulo de salida).
+El comportamiento de las pimelias cuando llegan a un obstáculo como es la barrera, será
+seguirla, y una vez lleguen al extremo de la misma en el que se ha instalado el ángulo de
+salida, la tendencia de los ejemplares será normalmente continuar caminando siguiendo
+dicho ángulo e internarse en la zona libre de obras (figura 6A).
+- Por la noche y en los periodos de inactividad (fines de semana, festivos, etc.) la pista
+de obra deberá quedar cerrada en sus extremos con tramos de barreras portátiles al efecto,
+que impidan el paso de las pimelias al interior de la pista de obra, ya que estos escarabajos
+presentan mayor movilidad por la noche. Esto último no será de aplicación si la pista de
+obra discurre por una carretera o pista de tierra de tránsito público, en este caso, la barrera
+se llevará hasta el borde de la misma.
+- No se instalará barrera cuando el trazado de la obra discurra por el interior de cascos
+urbanos con carreteras y aceras, zonas ajardinadas con picón, o en trayectos que discurran
+por suelo ocupado por invernaderos.
+- La barrera deberá quedar perfectamente señalizada para que los operarios de la obra
+y viandantes la vean.
+- La barrera será revisada periódicamente para reparar cualquier desperfecto o abertura
+que se pudiera haber formado en ella (algo habitual sobre todo tras lluvias intensas) o
+comprobar acúmulo excesivo de arena en la barrera que facilite la entrada de pimelias a la
+zona de obra.
+- En la medida de lo posible, la pista de trabajo será objeto de restitución a medida
+que se avance en los tajos y se rellene la zanja. Así, una vez tapada la misma con tierra y
+restaurado el terreno, las piedras retiradas inicialmente se distribuirán en la pista de obra y
+la barrera se podrá quitar y utilizar en nuevos tramos.
+- Una vez finalizadas las obras, la barrera perimetral será retirada de manera manual y
+con cuidado, ya que podrían haber pimelias refugiadas en ellas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
+
+Boletín Oficial de Canarias núm. 173 33527 Viernes 28 de agosto de 2026
+3. Protección de la Salud Pública.
+Con el fin de proporcionar un alto nivel de protección de la salud, y atendiendo a lo
+informado por la Dirección de Salud Pública, una vez instalado el proyecto, ha de realizarse
+una campaña indicativa de mediciones reales de niveles de exposición a los campos
+eléctricos y magnéticos en aquellas localizaciones en las que la linea eléctrica discurra
+cercana a núcleos de población así como en los alrededores del Centro de Transformación
+C40254 “Los Abriguitos”. Estas mediciones han de llevarse a cabo por organismos de
+control habilitados o laboratorios acreditados en medidas de ese tipo, y deberán realizarse
+en condiciones de funcionamiento con carga, y referirse al caso más desfavorable, es
+decir los valores máximos previstos de corriente. Del resultado de estas mediciones, se
+tomarán nuevas medidas de mitigación y/o minimización, si fuese necesario. El informe
+correspondiente de dicho análisis ha de remitirse al órgano sustantivo y al órgano ambiental
+para sus pronunciamientos.
+Además, durante la fase de obras, se llevarán a cabo acciones que pueden ocasionar
+alteraciones al tráfico y a los accesos a bienes y servicios, y por tanto, a la calidad de vida
+de los residentes. Entre los servicios que se podrían ver afectados, el de asistencia sanitaria
+urgente y no urgente debe estar garantizado, por los que han ponerse los medios necesarios
+que aseguren el desplazamiento de estos vehículos en los mismos tiempos y con la misma
+calidad que antes de las obras. Con el objetivo de minimizar esta afección, los cortes de
+vía que haya que acometer deberán reducirse al tiempo indispensable, informando con
+suficiente antelación a los afectados por los mismos, manteniendo siempre la seguridad
+del tráfico de vehículos y peatones durante la ejecución de las obras, así como el debido
+señalamiento de los desvíos provisionales.
+4. Programa de Vigilancia Ambiental (PVA).
+Deberá incluir, además de las medidas preventivas y correctoras incluidas en el DA y de
+todas las medidas ambientales adicionales que se han indicado, las siguientes actuaciones:
+• Seguimiento de especies exóticas invasoras o con potencial invasor que pudieran
+verse favorecidas como consecuencia de la ejecución de las obras, y en su caso, proceder
+a su correcta eliminación.
+• Seguimiento de las restauraciones realizadas durante al menos 3 primeros años desde
+al plantación. En caso necesario se realizarán riegos al objeto de favorecer un más rápido
+crecimiento y reposición de marras.
+Por tanto, deberá elaborarse un texto refundido del PVA con todas las medidas a adoptar
+en fase de obra, en fase de funcionamiento y en fase de desmantelamiento, para comprobar
+que las medidas propuestas se llevan a efecto, su eficacia y posibles efectos no previstos,
+de manera que se pueda valorar la implementación de nuevas medidas preventivas o
+correctoras, o su modificación, si fuera necesario.
+5. Con el objetivo de garantizar que se puedan llevar a cabo todas las determinaciones de
+índole ambiental derivadas de las presentes medidas ambientales adicionales que precisen
+de gasto económico, deberá reflejarse dicho gasto en el presupuesto del proyecto.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-173-3093
