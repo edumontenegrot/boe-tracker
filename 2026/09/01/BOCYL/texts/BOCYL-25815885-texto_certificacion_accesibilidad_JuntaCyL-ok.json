@@ -1,0 +1,12 @@
+{
+  "act_id": "BOCYL-25815885-texto_certificacion_accesibilidad_JuntaCyL-ok",
+  "bulletin_id": "BOCYL",
+  "pub_date": "2026-09-01",
+  "title": "",
+  "section": "III",
+  "section_name": "D. OTRAS DISPOSICIONES",
+  "organism": "C. ANUNCIOS: C.2. Otros Anuncios Oficiales",
+  "pdf_url": "https://cdn1-www.bureauveritas.es/sites/g/files/zypfnx391/files/media/document/25815885-texto_certificacion_accesibilidad_JuntaCyL-ok.pdf",
+  "pages": 1,
+  "text": "DECLARACIÓN DE\nACCESIBILIDAD\nWCAG - WAI 2.1 Doble A (AA) WEB\nLa Junta de Castilla y León se ha comprometido a hacer accesibles sus sitios web de conformidad\ncon el Real Decreto 1112/2018, de 7 de septiembre, sobre accesibilidad de los sitios web y\naplicaciones para dispositivos móviles del sector público (en adelante, Real Decreto 1112/2018, de 7\nde septiembre).\nLa presente declaración de accesibilidad se aplica al sitio web del Boletín Oficial de Castilla y León\n(https://bocyl.jcyl.es).\nEn el muestreo realizado del sitio web del Boletín Oficial de Castilla y León, se evidencia que\ntiene un alto grado de cumplimiento con el nivel Doble A según las Pautas de Accesibilidad al\nContenido de la Web 2.1 de la Web Accessibility Initiative (WAI) del World Wide Web Consortium\nEste muestreo se ha realizado según se indica en el apartado 3.2 de la decisión ejecutiva (UE\n2018/1524 y con la norma UNE-EN 301549:2022.\nSituación de cumplimiento\nEste sitio web es parcialmente conforme con el Real Decreto 1112/2018, de 7 de septiembre, debido\na la falta de conformidad de los aspectos que se indican a continuación.\nContenido no accesible, sobre el que se trabaja para obtener la plena conformidad:\n• Contenido no textual\nImágenes que pueden requerir descripción larga.\nImágenes con atributo alt sospechoso (nombre del fichero, tamaño en kb, ...).\nImágenes sin atributo alt.\n• Información y relaciones\nOpciones de selección de los menús agrupadas.\nGeneración de contenido desde hojas de estilo.\nUtilización de etiquetas de presentación.\n• Páginas tituladas\nPágina con título descriptivo.\n• Encabezado y etiquetas\nContenido inadecuado de encabezados y etiquetas semánticas.\n• Enlaces\nEnlaces sin contenido.\nLa presente declaración fue preparada el 17 de septiembre de 2025.\nEl método empleado para preparar la declaración ha sido una evaluación llevada a cabo por\nla empresa Bureau Veritas Iberia, en abril de 2025.\nBureau Veritas Iberia S.L.\nC/ Valportillo Primera 22-24, 28108 Alcobendas - Madrid, España\n1/1"
+}

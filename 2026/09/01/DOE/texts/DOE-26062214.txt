@@ -1,0 +1,100 @@
+NÚMERO 169
+37964
+Martes 1 de septiembre de 2026
+RESOLUCIÓN de 24 de agosto de 2026, del Consejero, por la que se crea el
+sello electrónico denominado "Sello Electrónico de Industria, Energía y Minas
+JuntaEx". (2026062214)
+La Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (en adelante, LRJSP),
+prevé en su artículo 40 el uso de sellos electrónicos basados en certificados electrónicos que
+reúnan los requisitos exigidos por la legislación de firma electrónica, para la identificación y
+la autenticación del ejercicio de la competencia en la actuación administrativa automatizada.
+Así, la citada ley define en su artículo 41 la actuación administrativa automatizada como
+cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una
+Administración Pública en el marco de un procedimiento administrativo y en la que no haya
+intervenido de manera directa un empleado público y prevé, en su artículo 42, los sistemas
+de firma para dicha actuación administrativa automatizada, especificando que cada Adminis-
+tración Pública podrá determinar los supuestos de utilización de los siguientes sistemas de
+firma electrónica, bien sello electrónico de Administración Pública, órgano, organismo público
+o entidad de derecho público, basado en certificado electrónico reconocido o cualificado que
+reúna los requisitos exigidos por la legislación de firma electrónica, bien Código Seguro de Ve-
+rificación (CSV) vinculado a la Administración Pública, al órgano, organismo público o entidad
+de Derecho Público en los términos y condiciones que se establezcan.
+En el ámbito autonómico, el Decreto 225/2014, de régimen jurídico de administración elec-
+trónica de la Comunidad Autónoma de Extremadura permite, igualmente, ambos sistemas de
+firma para las actuaciones administrativas automatizadas y determina, en su artículo 40, que
+la creación de los sellos electrónicos se realizará por resolución del titular de la Consejería
+competente en materia de administración electrónica, que se publicará en la sede electrónica
+corporativa y en la que deberá constar el contenido que dicho precepto establece.
+El presente sello electrónico desplegaría sus efectos, por tanto, respecto de las actuaciones
+que el centro directivo competente de las mismas -en materia de industria, energía y minas-
+determine en la correspondiente resolución que relacione las actuaciones administrativas con
+el uso del mismo.
+Por su parte, el Decreto de la Presidenta 11/2026, de 29 de abril por el que se modifican la
+denominación, el número y las competencias de las Consejería que conforman la Administra-
+ción de la Comunidad Autónoma de Extremadura y se crean las Vicepresidencias y el Decreto
+18/2026, de 30 de abril, por el que se establece la estructura orgánica básica de la Adminis-
+tración de la Comunidad Autónoma de Extremadura, atribuye a la Consejería de Economía
+Empleo y Transformación Digital, las competencias en materia de política tecnológica de ca-
+rácter corporativo y administración electrónica.
+
+NÚMERO 169
+37965
+Martes 1 de septiembre de 2026
+De conformidad con lo anterior,
+RESUELVO:
+Primero. La creación del sello electrónico denominado “Sello Electrónico de Industria, Ener-
+gía y Minas JuntaEx”:
+a) La responsabilidad de su utilización corresponderá a la Dirección General de Industria,
+Energía y Minas de la Consejería de Industria, Energía, Ciencia y Territorio o de aquel
+órgano y departamento que en lo sucesivo asuma las citadas competencias de Indus-
+tria, Energía y Minas.
+b) Las características técnicas generales del sistema de firma y certificado aplicable serán
+las derivadas del Esquema Nacional de Interoperabilidad, aprobado por el Real Decreto
+4/2010, de 8 de enero, y de la Política de Firma Electrónica y Certificados de la Admi-
+nistración General del Estado y, más concretamente, las que constan en la Declaración
+de Prácticas del Correspondiente emisor del certificado como prestador cualificado de
+servicios electrónicos de confianza.
+c) La verificación del certificado podrá realizarse a través del servicio VALIDe de la plata-
+forma de validación de certificados de la Administración General del Estado, que esta-
+rá accesible desde la sede electrónica corporativa de la Junta de Extremadura y sede
+electrónica asociada. No obstante, se podrá acceder al citado servicio en la dirección
+electrónica https://valide.redsara.es/valide .
+Segundo. Este sello electrónico podrá utilizarse como sistema de firma para la realización de
+cuantas actuaciones administrativas automatizadas, entendidas estas como cualquier acto o
+actuación realizada íntegramente a través de medios electrónicos por la Administración de la
+Comunidad Autónoma de Extremadura, en la que no intervenga de forma directa un emplea-
+do público y que así se determinen por resolución del órgano directivo que tenga atribuida
+la competencia material sobre la actuación que se pretende automatizar, la cual deberá ser
+comunicada al centro directivo competente en materia de automatización de procesos y sim-
+plificación administrativa.
+A su vez, podrá utilizarse como sistema de identificación de las administraciones públicas, de
+conformidad con lo regulado en el artículo 40 de la Ley 40/2015, de 1 de octubre, de Régimen
+Jurídico del Sector Público, recogiendo, en caso de usarse como sello electrónico de órgano
+administrativo, la identidad de la persona titular del mismo.
+Tercero. Los órganos competentes de las actuaciones administrativas automatizadas indica-
+das en el apartado anterior deben determinarse en virtud del artículo 41.2 de la Ley 40/2015,
+de 1 de octubre, de Régimen Jurídico del Sector Público.
+
+NÚMERO 169
+37966
+Martes 1 de septiembre de 2026
+Así, para la definición de las especificaciones, programación y mantenimiento, el órgano com-
+petente es el centro directivo competente en materia de administración electrónica. Para la
+supervisión y control de calidad y, en su caso, auditoría del sistema de información y de su
+código fuente, el centro directivo competente en materia de privacidad y seguridad de la in-
+formación.
+En el ámbito material de las citadas actuaciones relacionadas para los centros directivos
+indicados, estos centros podrán apoyarse en las Unidades Administrativas dependientes o
+coordinadas por los mismos, siempre que exista segregación en las tareas asociadas a dichas
+unidades por cada uno de los centros directivos competentes.
+A efectos de impugnación de las actuaciones administrativas automatizadas referidas en la
+presente resolución, se entenderán dictadas por los órganos competentes para la resolución
+de los procedimientos en que se produzcan.
+Cuarto. La presente resolución se publicará en el Diario Oficial de Extremadura y producirá
+efectos desde el día de su publicación. Igualmente será objeto de publicación en la sede elec-
+trónica de la Junta de Extremadura.
+Mérida, 24 de agosto de 2026.
+El Consejero de Economía, Empleo y
+Transformación Digital,
+GUILLERMO SANTAMARÍA GALDÓN
+• • •
