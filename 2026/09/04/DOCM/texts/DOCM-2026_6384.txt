@@ -1,0 +1,40 @@
+AÑO XLV Núm. 170 4 de septiembre de 2026 31381
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Corrección de errores de la Resolución de 17/07/2026, de la Delegación Provincial de Desarrollo Sostenible
+de Toledo, por la que se formula la declaración de impacto ambiental del proyecto: Transformación a regadío
+de 44,18 ha de olivar (expediente S478-2025-TO-00072), situado en el término municipal de Malpica de Tajo
+(Toledo), cuyas promotoras son Mónica Angelina Arroba y Virginia Angelina Arroba. [2026/6384]
+Advertidos errores en la citada Resolución por la que se formula el informe de impacto ambiental, publicada en el
+Diario Oficial de Castilla-La Mancha de número 141, de 27 de julio de 2026, se procede a su rectificación en los
+siguientes términos:
+En la página 28175, en el apartado Primero: Descripción del proyecto, donde dice:
+“(…)
+Los aprovechamientos solicitados tienen las siguientes características:
+Ubicación Coordenadas
+Número Profundidad Potencia Caudal Máximo
+Sondeo
+Expediente Polígono Parcela X Y Aprox. Bomba instantáneo (l/s)
+Sondeo 1 C-0097/2025 12 305 362757 4414259 120 m 45 CV 17,12
+Sondeo 2 C-0096/2025 20 141 364349 4415506 120 m 30 CV 11,62
+Sondeo 3 C-0098/2025 12 290 364009 4412735 120 m 10 CV 3,85
+debe decir:
+Los aprovechamientos solicitados tienen las siguientes características:
+Número Ubicación Coordenadas Profundidad Potencia Caudal Máximo
+Sondeo
+Expediente Polígono Parcela X Y Aprox. Bomba instantáneo (l/s)
+Sondeo 1 C-0097/2025 12 305 362757 4414259 120 m 45 CV 17,12
+Sondeo 2 C-0096/2025 20 141 364774 4415275 120 m 30 CV 11,62
+Sondeo 3 C-0098/2025 12 290 364009 4412735 120 m 10 CV 3,85
+y en la página 28177, en el apartado 3.2 Ubicación del proyecto, donde dice:
+“(…)
+Las coordenadas de UTM (ETRS-89) de los aprovechamientos son:
+- Sondeo 1: X=362.757; Y=4.414.259
+- Sondeo 2: X=364.349; Y=4.415.506
+- Sondeo 3: X=364.009; Y=4.412.735
+Debe decir:
+“(…)
+Las coordenadas de UTM (ETRS-89) de los aprovechamientos son:
+- Sondeo 1: X=362.757; Y=4.414.259
+- Sondeo 2: X=364.774; Y=4.415.275
+- Sondeo 3: X=364.009; Y=4.412.735
