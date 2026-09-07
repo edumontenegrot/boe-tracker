@@ -1,0 +1,912 @@
+NÚMERO 173
+38629
+Lunes 7 de septiembre de 2026
+RESOLUCIÓN de 28 de agosto de 2026, de la Dirección General de Gestión
+Sostenible y Política Forestal, por la que se formula informe de impacto
+ambiental del proyecto de hibridación BESS "OPDE Brovales 3" de 16,8 MW
+e infraestructura subterránea de evacuación de 30 kV, cuya promotora es
+Planta Solar OPDE 46, SL, en el término municipal de Fuente de Cantos.
+Expte.: IA25/0837. (2026062241)
+La Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Ex-
+tremadura, en su artículo 73 prevé los proyectos que deben ser sometidos a evaluación am-
+biental simplificada por el órgano ambiental a los efectos de determinar que el proyecto no
+tiene efectos significativos sobre el medio ambiente, o bien, que es preciso su sometimiento
+al procedimiento de evaluación de impacto ambiental ordinaria, regulado en la subsección 1.ª
+de sección 2ª. del capítulo VII, del título I, de la ley, por tener efectos significativos sobre el
+medio ambiente.
+El proyecto BESS OPDE Brovales 3 de 16,8 MW e infraestructura subterránea de evacuación
+de 30 kV, en el término municipal de Fuente de Cantos, se encuentra encuadrado en el anexo
+V de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de
+Extremadura.
+La promotora del proyecto es Planta Solar OPDE 46, SL, con CIF B71366454 y domicilio en c/
+Cardenal Marcelo Spinola, 42. Torre Spinola, planta 5. 28016 Madrid (Madrid).
+Es órgano competente para la formulación del informe de impacto ambiental relativo al pro-
+yecto la Dirección General de Gestión Sostenible y Política Forestal de la Consejería de Indus-
+tria, Energía, Ciencia y Territorio, de conformidad con lo dispuesto en el artículo 7.1 del Decre-
+to 107/2026, de 26 de mayo, por el que se establece la estructura orgánica de la Consejería
+de Industria, Energía, Ciencia y Territorio.
+Actúa como órgano sustantivo la Dirección General de Industria, Energía y Minas de la Con-
+sejería de Industria, Energía, Ciencia y Territorio.
+Los principales elementos del análisis ambiental del proyecto son los siguientes:
+1. Objeto, descripción y localización del proyecto.
+El proyecto tiene por objeto hibridar una instalación solar fotovoltaica (OPDE Brovales 3),
+actualmente en explotación, mediante el acoplamiento de un sistema de almacenamiento
+energético basado en baterías denominado BESS “OPDE Brovales 3”. Se ubica en el polígo-
+no 14, parcela 1 del término municipal de Fuente de Cantos, con una ocupación de 1,19 ha.
+
+NÚMERO 173
+38630
+Lunes 7 de septiembre de 2026
+El proyecto de hibridación con baterías del tipo litio-ferrofosfato (LFP) tendrá una potencia
+instalada de almacenamiento de 16,8 MW de potencia instalada y línea subterránea de 30
+kV que evacuará la energía almacenada hasta la SE “Huerta Sevilla” 400/132/30 kV objeto
+de otro proyecto, con una longitud de 1.354,40 m.
+Proyecto de hibridación BESS OPDE Brovales 3. Fuente: documento ambiental
+Se dispondrá de un sistema de almacenamiento energético formado por 4 bloques de al-
+macenamiento PE FP4200K (4.200 kVA/kW), 16,8 MW a 40º C y 24 equipos de almacena-
+miento Solbank 3.0, 12 Solbank 3.0 por cada Twin Skid Compact (formado por 2 inversores
+PE FP4200K de 4.200 kVA/kW de potencia máxima de salida cada uno), resultando 120
+MWhdc (sistema de 6h) de energía total instalada en baterías. Se dispondrá de 1 centro de
+transformación, con un transformador de 630 kVA para alimentar los servicios auxiliares de
+la instalación. El centro de transformación (CT) compacto de maniobra quedará ubicado en
+una caseta de obra prefabricada de hormigón tipo PFU-4 donde se interconectará mediante
+una LSMT 30 kV hasta el centro de seccionamiento (CS). Dicho centro de seccionamiento
+será de tipo prefabricado PFU-5 o similar de superficie aislado.
+Los equipos de almacenamiento mediante el sistema de media tensión llegarán al centro
+de seccionamiento y desde éste hasta una celda que se encontrará en la sala de celdas de
+la subestación SE “Huerta Sevilla” 400/132/30 kV (no objeto de estudio).
+El acceso a la planta BESS se realizará desde el municipio de Fuente de Cantos, por la ca-
+rretera a Calera de León.
+
+NÚMERO 173
+38631
+Lunes 7 de septiembre de 2026
+Componentes de la instalación BESS OPDE Brovales 3. Fuente: documentación ambiental
+2. Tramitación y consultas.
+El órgano sustantivo presentó ante la entonces Dirección General de Sostenibilidad la so-
+licitud de evaluación de impacto ambiental simplificada junto al documento ambiental del
+proyecto para su sometimiento al procedimiento de evaluación de impacto ambiental.
+Dando cumplimiento a lo establecido en el artículo 75.1 de la Ley 16/2015, de 23 de abril,
+de protección ambiental de la Comunidad Autónoma de Extremadura, la Dirección General
+de Gestión Sostenible y Política Forestal ha realizado consultas a las Administraciones Pú-
+blicas afectadas y las personas interesadas que se relacionan en la tabla adjunta. Se han
+señalado con una X aquellas Administraciones Públicas y personas interesadas que han
+emitido respuesta.
+Relación de consultados Respuesta
+Servicio de Conservación de la Naturaleza y Áreas Protegidas X
+Dirección General de Urbanismo, Ordenación del Territorio y Agenda Urbana X
+Dirección General de Bibliotecas, Archivos y Patrimonio Cultural X
+Confederación Hidrográfica del Guadiana X
+Ayuntamiento de Fuente de Cantos X
+
+NÚMERO 173
+38632
+Lunes 7 de septiembre de 2026
+Relación de consultados Respuesta
+Dirección General de Gestión Forestal y Defensa contra los Incendios. Servicio de
+X
+Prevención y Extinción de Incendios Forestales
+Dirección General de Mundo Rural, Caza, Pesca y Tauromaquia. Servicio de Caza,
+X
+Pesca y Acuicultura
+Secretaría General de Interior, Emergencias y Protección Civil. Servicio de Protec-
+X
+ción Civil
+Dirección General de Salud Pública -
+Ecologistas en Acción -
+ADENEX -
+Sociedad Española de Ornitología (SEO BIRD/LIFE) -
+Fundación Naturaleza y Hombre -
+Ecologistas Extremadura -
+Greenpeace -
+AMUS -
+A continuación, se resume el contenido principal de los informes recibidos:
+— El Servicio de Urbanismo de la Dirección General de Urbanismo, Ordenación del Terri-
+torio y Agenda Urbana, emite informe con fecha 18 de marzo de 2026, emitiendo las
+siguientes consideraciones:
+1. En el término municipal de Fuente de Cantos se encuentra actualmente vigente las
+Normas Subsidiarias aprobadas definitivamente por Resolución del excelentísimo se-
+ñor Consejero de Obras Públicas, Urbanismo y Medio Ambiente, de fecha 3 de mayo
+de 1988 publicado en el BOP de Badajoz n.º 124, de 30 de mayo de 1988.
+2. En virtud de lo establecido en los artículos 143.3.a), 145.1 y 164 de la Ley 11/2018,
+de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extrema-
+dura, corresponde al municipio de Fuente de Cantos realizar el control de legalidad
+de las actuaciones, mediante el procedimiento administrativo de control previo o
+posterior que en su caso corresponda, comprobando su adecuación a las normas de
+planeamiento y al resto de legislación aplicable.
+
+NÚMERO 173
+38633
+Lunes 7 de septiembre de 2026
+3. Con la información facilitada ha sido posible comprobar que no consta expediente
+administrativo en tramitación destinado al otorgamiento de la calificación rústica,
+regulada en los artículos 69 y siguientes de la Ley 11/2018, de 21 de diciembre, de
+ordenación territorial y urbanística sostenible de Extremadura
+4. La materialización de edificaciones, construcciones e instalaciones destinadas a cual-
+quiera de los usos permitidos y/o autorizables recogidos en los apartados 4 y 5 del
+artículo 67 de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y ur-
+banística sostenible de Extremadura, que se pretendan realizar en el suelo rústico,
+requerirá de la oportuna calificación rústica mediante resolución expresa como requi-
+sito imprescindible previo a la licencia municipal.
+5. El procedimiento de calificación rústica para legitimar la actuación pretendida de-
+berá tramitarse conforme a lo dispuesto en el apartado 9 del artículo 69 de la Ley
+11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible de
+Extremadura.
+— El Ayuntamiento de Fuente de Cantos, emite informe con fecha 20 de marzo de 2026,
+en el que informa que, las instalaciones no incumplen determinaciones de las NNSS
+vigentes. Que desde este Servicio no se detectan, en el ámbito de sus competencias,
+alegaciones u observaciones que pudieran realizarse a la consulta sobre el proyecto
+apuntado.
+— El Servicio de Conservación de la Naturaleza y Áreas Protegidas de la entonces Dirección
+General de Sostenibilidad, emite informe con fecha 24 de marzo de 2026, indicando
+que, la actividad solicitada no se encuentra dentro de los límites de ningún espacio
+incluido en la Red de Áreas Protegidas de Extremadura (Red Natura 2000 y Espacio
+Natural Protegido). En la zona de actuación no hay presencia de hábitat natural de in-
+terés comunitario inventariado, ni de flora y fauna protegida. Únicamente se identifica
+la presencia de un nido de ratonero común a más de 500 metros de las instalaciones
+previstas. Informando favorablemente la actividad solicitada, ya que no es susceptible
+de afectar de forma apreciable a los lugares incluidos en la Red Natura 2000, siempre
+que se cumplan las condiciones siguientes:
+1. Si durante la realización de las actividades se detectara la presencia o molestias a
+alguna especie incluida en el Catálogo de Especies Amenazadas de Extremadura
+(Decreto 37/2001; DOE n.º 30, de 13 de marzo de 2001) que pudiera verse afectada
+por los mismos, se estará a lo dispuesto por los técnicos de la Dirección General de
+Sostenibilidad, previa comunicación de tal circunstancia.
+
+NÚMERO 173
+38634
+Lunes 7 de septiembre de 2026
+2. Se utilizarán, en su caso, los accesos existentes para la realización de los trabajos,
+minimizando la entrada de máquinas o vehículos de transporte de materiales en los
+lugares naturales y evitando establecer en ellos los parques de maquinaria o material
+de rechazo y acopios.
+3. Se realizarán los mínimos movimientos de tierra posibles en la nivelación del suelo.
+Previamente al comienzo de las obras, se retirará la tierra vegetal de las zonas a
+ocupar, para ser utilizadas de nuevo en la restauración y revegetación de las zonas
+afectadas, así como de las zonas ajardinadas.
+4. En relación a los cerramientos, resulta aplicable el Decreto 226/2013, de 3 de di-
+ciembre, por el que se regulan las condiciones para la instalación, modificación y re-
+posición de los cerramientos cinegéticos y no cinegéticos en la Comunidad Autónoma
+de Extremadura.
+5. Tras las obras, retirar los residuos no biodegradables generados, los cuales serán
+gestionados según las disposiciones establecidas en la Ley 7/2022, de 28 de abril,
+de residuos y suelos contaminados para una economía circular. Cuando estos supon-
+gan riesgos para la propagación de incendios, deberán ser eliminados en la misma
+campaña, no dejando combustible en la época de riesgos de incendios marcada en
+la orden anual del Plan INFOEX.
+6. En el caso de la batería de almacenamiento, se deberá mantener una franja perime-
+tral de 50 metros libre de pasto alrededor de la instalación, con el fin de minimizar
+el riesgo de incendios.
+— La entonces Dirección General de Bibliotecas, Archivos y Patrimonio Cultural emite in-
+forme con fecha 26 de marzo de 2026, en el que se indica que, recibido el informe ar-
+queológico 2025/1895G en el que se detallan los resultados de la prospección superficial
+terrestre para las obras de acceso y conexión de sistema de hibridación de almacena-
+miento de energía Brovales 3, se informa que:
+El resultado de la prospección ha sido negativo en cuanto a la presencia de elementos ar-
+queológicos constatables en superficie.
+Dada la amplia superficie abarcada por la zona de estudio, camino de acceso y línea de
+media tensión, con vistas a la protección del patrimonio arqueológico no detectado durante
+los trabajos previos y que pudiera verse afectado por el proceso de ejecución de las obras,
+se adoptarán por la empresa adjudicataria las siguientes medidas preventivas:
+A. Medidas preventivas con carácter general para el patrimonio arqueológico:
+
+NÚMERO 173
+38635
+Lunes 7 de septiembre de 2026
+A.1. Durante la fase de ejecución de las obras será obligatorio un control y seguimiento
+arqueológico por parte de técnicos cualificados de todos los movimientos de tierra en
+cotas bajo rasante natural en cada uno de los frentes de obra que conlleve la ejecución
+del proyecto de referencia. El control arqueológico será permanente y a pie de obra, y
+se hará extensivo a todas las obras de construcción, desbroces iniciales, instalaciones
+auxiliares, líneas eléctricas asociadas, destoconados, replantes, zonas de acopios, ca-
+minos de tránsito y todas aquellas otras actuaciones que derivadas de la obra generen
+los citados movimientos de tierra en cotas bajo rasante natural.
+A.2. Si como consecuencia de estos trabajos se confirmara la existencia de restos
+arqueológicos que pudieran verse afectados por las actuaciones derivadas del proyecto
+de referencia, se procederá a la paralización inmediata de las obras en la zona de
+afección, se balizará el área para preservarla de tránsitos, se realizará una primera
+aproximación cronocultural de los restos y se definirá la extensión máxima del yacimiento
+en superficie.
+Estos datos serán remitidos mediante informe técnico a la Dirección General de Patri-
+monio Cultural con copia, en su caso, al organismo que tuviera delegada esas com-
+petencias en función del ámbito de actuación de la actividad. Una vez recibido, se
+cursará visita de evaluación con carácter previo a la emisión de informe de necesidad
+de excavación completa de los hallazgos localizados conforme a los criterios técnicos y
+metodológicos establecidos en el siguiente apartado.
+Criterios técnicos y metodológicos.
+Las excavaciones arqueológicas que pudieran desarrollarse con motivo de hallazgos
+casuales se realizarán bajo los siguientes condicionantes técnicos y metodológicos:
+— La totalidad de la zona que contenga restos arqueológicos habrá de ser excava-
+da manualmente con metodología arqueológica al objeto de caracterizar el con-
+texto cultural de los hallazgos, recuperar las estructuras conservadas, conocer
+la funcionalidad de los distintos elementos y establecer tanto su marco cultural
+como cronológico. La excavación se realizará por técnico/s especializado, con
+experiencia en la documentación de restos de cronología y funcionalidad simila-
+res a los localizados y siguiendo la normativa en vigor. Se realizarán igualmente
+por técnicos especializados estudios complementarios de carácter antropológico
+(cuando se detecte la presencia de restos humanos), faunísticos (cuando se de-
+tecte la presencia de restos de fauna en el yacimiento), paleobotánicos (cuando
+se detecte la presencia de restos carpológicos y vegetales de interés) y en todo
+caso, al menos, tres dataciones AMS C14 de ciclo corto para establecer un marco
+cronológico ajustado de los hallazgos efectuados.
+
+NÚMERO 173
+38636
+Lunes 7 de septiembre de 2026
+— En el caso que se considere oportuno, dicha excavación no se limitará en exclu-
+siva a la zona de afección directa, sino que podrá extenderse hasta alcanzar la
+superficie necesaria para dar sentido a la definición contextual de los restos y a la
+evolución histórica del yacimiento.
+— Finalizada la intervención arqueológica, se realizará por la empresa adjudicataria
+la entrega del informe técnico exigido por la legislación vigente (artículo 9 del
+Decreto 93/1997 regulador de la actividad arqueológica en Extremadura), junto
+al compromiso de entrega en plazo de la Memoria Final de la intervención arqueo-
+lógica (artículo 10 del Decreto 93/97 Regulador de la Actividad Arqueológica en
+Extremadura) en formato publicable conforme a las normas de edición de la se-
+ries oficiales de la DGBAPC (Extremadura Arqueológica o Memorias de Arqueolo-
+gía en Extremadura). Evaluada la viabilidad de la documentación entregada y en
+función de las características de los restos documentados, la Dirección General de
+Bibliotecas, Archivos y Patrimonio Cultural o el organismo que tuviera delegada
+esas competencias en función del ámbito de actuación emitirá autorización para
+el levantamiento de las estructuras localizadas con carácter previo a la continua-
+ción de las actuaciones en este punto, previa solicitud por parte de la empresa
+ejecutora de las obras.
+B. Medidas compensatorias encaminadas hacia la difusión, divulgación y socialización del pa-
+trimonio cultural afectado.
+En virtud de asegurar la transferencia social del conocimiento desprendido tras la puesta
+en marcha del programa de medidas preventivas y correctoras establecidas en aras de
+mitigar cualquier impacto que el proyecto de referencia pudiese provocar sobre el patrimo-
+nio histórico y arqueológico, la promotora del proyecto deberá asumir el desarrollo de las
+siguientes acciones destinadas a dar cumplimiento a dicho fin:
+— Durante el transcurso de la intervención arqueológica, la promotora, en estricta coor-
+dinación con la dirección técnica a cargo de los trabajos arqueológicos, facilitará la
+realización de visitas guiadas a los yacimientos arqueológicos que se hubieran interve-
+nido con objeto de dar a conocer a todas aquellas personas interesadas, los hallazgos
+arqueológicos acontecidos durante el tiempo en el que se desarrolle la campaña de tra-
+bajos arqueológicos. La frecuencia y características de estas visitas guiadas, será objeto
+de consulta previa ante esta Dirección General por parte de la promotora y represen-
+tantes de la dirección arqueológica del proyecto. Estas visitas deberán efectuarse bajo
+las condiciones de seguridad más adecuadas tanto para el equipo de trabajo como para
+los visitantes y para su difusión podrán emplearse los canales y medios más adecuados
+para tal fin.
+
+NÚMERO 173
+38637
+Lunes 7 de septiembre de 2026
+— Tras la intervención arqueológica, y siempre que los resultados obtenidos en el marco de
+las intervenciones arqueológicas ejecutadas presenten la suficiente relevancia e interés
+de científico y/o social, éstos, deberán ser expuestos en una publicación científico-téc-
+nica enmarcada dentro de una de las líneas editoriales que esta Dirección General tiene
+habilitadas para la divulgación de los estudios arqueológicos en nuestra Región (Memo-
+rias de Arqueología Extremeña, Extremadura Arqueológica, Lecturas de Patrimonio Ar-
+queológico, etc.). El diseño, normas de publicación, así como el número de ejemplares
+a publicar, deberá ser previamente acordado con esta Dirección General.
+— En consonancia con la finalidad de difusión a que se refiere el artículo 1.1 de la Ley
+2/1999, de 29 de marzo, de Patrimonio Histórico y Cultural de Extremadura, tras la
+conclusión de las actividades arqueológicas, y teniendo en cuenta la cuestión relativa
+al interés de los resultados mencionado en el punto anterior, la entidad promotora del
+proyecto proveerá los contenidos y el montaje de una exposición temporal que muestre
+con carácter divulgativo los resultados e interpretación de los resultados obtenidos tras
+la ejecución del proyecto de intervención arqueológica. Esta exposición será planificada
+y presentada en los centros museísticos o espacios culturales que determine la Direc-
+ción General de Bibliotecas, Archivos y Patrimonio Cultural.
+El presente informe se emite al amparo de lo dispuesto en la Ley 16/2015, de 23 de
+abril, de protección ambiental de la Comunidad Autónoma de Extremadura y en virtud
+de lo establecido en la Ley 2/1999, de 29 de marzo, de Patrimonio Histórico y Cultural
+de Extremadura y su modificación parcial mediante la Ley 5/2022, de 25 de noviembre,
+y en el Decreto 93/1997, de 1 de julio, por el que se regula la actividad arqueológica
+en la Comunidad Autónoma de Extremadura, sin perjuicio del cumplimiento de aquellos
+otros requisitos legal o reglamentariamente establecidos.
+— El Servicio de Caza, Pesca y Acuicultura de la entonces Dirección General de Mundo Ru-
+ral, Caza, Pesca y Tauromaquia, emite informe con fecha 30 de marzo de 2026, donde
+informa que, el proyecto plantea ocupar terrenos localizados en la cuenca del río Bodión
+Chico, tributario del río Bodión que desemboca en el Ardila. Estos ríos se consideran
+“Ríos de Importancia” en el Plan de Recuperación del jarabugo. Asimismo, en el río Bo-
+dión existen tres lugares identificados como “Áreas críticas” en el citado plan, que se
+encuentran aguas abajo de la ubicación del proyecto.
+Ni el sistema BESS “OPDE Brovales 3” ni la línea de evacuación subterránea interaccio-
+nan con la red hidrográfica mencionada. Al ser los ríos ecosistemas lineales, cualquier
+efecto puntual se podría extender aguas abajo. El proyecto plantea movimientos de tie-
+rra correspondientes a explanaciones, construcción de viales, accesos a caminos, paso
+de maquinaria, etc. De todo ello se derivarán efectos erosivos que pueden afectar a los
+
+NÚMERO 173
+38638
+Lunes 7 de septiembre de 2026
+cauces antes citados, originando episodios de turbidez que afectarán a la fauna piscícola
+que albergan, entre la que se encuentra el jarabugo, especie piscícola catalogada en
+peligro de extinción.
+Para evitar los efectos negativos derivados de la erosión provocada por los movimientos
+de tierra, estos trabajos de movimientos de tierra deberán reducirse a lo mínimo im-
+prescindible en la fase de construcción del proyecto y realizarse preferentemente fuera
+de la época de lluvias. Para ello se pondrá especial atención a las “medidas sobre hidro-
+logía” desarrolladas en el apartado “Medidas preventivas o protectoras propuestas” en
+el Documento en cuestión:
+— Se usarán caminos y accesos ya existentes preferentemente. De no ser así, en el cruce
+de viales o accesos a las obras sobre cursos de agua, deberán adaptarse o construirse
+estructuras para el paso temporal de vehículos o maquinaria de tal forma que no afecten
+al paso de los peces y/o al tránsito de los acarreos fluviales, tales como marcos de hor-
+migón o tubos empotrados o semienterrados colocados 0,5 m bajo la rasante del lecho
+natural.
+— De haberse construido obras de paso provisionales, se restituirá al estado original des-
+pués del paso de maquinaria, durante la fase de explotación se usarán los caminos
+existentes.
+— En los puntos donde exista riesgo de afección al dominio público hidráulico, durante la
+ejecución de las obras, deberán instalarse las oportunas barreras de retención de sedi-
+mentos, instalación de biorrollos, zanjas de infiltración u otros dispositivos análogos con
+objeto de evitar arrastre de tierras.
+Se recuerda la obligatoriedad de mantenimiento y limpieza por sus titulares de los pasos
+de agua bajo las infraestructuras viarias cuyo trazado intersecta con un curso fluvial,
+llevando a cabo revisiones y limpiezas de posibles atascos y variaciones que pudieran
+interrumpir la franqueabilidad a peces.
+Para más información sobre directrices de obras en ríos, desde este Servicio competente
+en Pesca y Acuicultura se remite a la web: http://pescayrios.juntaextremadura.es en
+el apartado “Planificación y gestión”, dentro del apartado de “directrices para obras con
+afección a cursos de agua”.
+También incluye el informe un anexo normativo de aguas, pesca y ríos: Ley 11/2010,
+de 16 de noviembre, de Pesca y Acuicultura de Extremadura (artículos 25, 30, 33 y 52).
+Orden de 14 de diciembre de 2022 por la que se aprueba el Plan de Recuperación del
+Jarabugo (Anaecypris hispanica) en Extremadura. (C. Medidas de seguimiento e inves-
+tigación. Objetivo 7). Directiva Marco del Agua 2000/60/CE de 23 de octubre de 2000
+(artículo 1).
+
+NÚMERO 173
+38639
+Lunes 7 de septiembre de 2026
+— La Confederación Hidrográfica del Guadiana emite informe con fecha 31 de marzo de
+2026, sobre la afección al régimen y aprovechamiento de las aguas continentales o a
+los usos permitidos en terrenos de dominio público hidráulico (DPH), en sus zonas de
+servidumbre, policía y zonas inundables.
+Cauces, zona de servidumbre, zona de policía y zonas inundables:
+Si bien la planta BESS proyectada no ocuparía el DPH del Estado, definido en el artículo
+2 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el texto
+refundido de la Ley de Aguas (TRLA), constituido en este caso por el cauce de un arroyo
+tributario del arroyo Bodión Chico, se contempla su establecimiento, en parte, en zona
+de policía de dicho cauce.
+De acuerdo con los artículos 6 y 7 del Reglamento del DPH, aprobado por el Real Decre-
+to 849/1986, de 11 de abril, los terrenos (márgenes) que lindan con los cauces, están
+sujetos en toda su extensión longitudinal a:
+— Una zona de servidumbre de 5 metros de anchura para uso público, con los siguientes
+fines: protección del ecosistema fluvial y del DPH; paso público peatonal, vigilancia,
+conservación y salvamento; y varado y amarre de embarcaciones en caso de necesidad.
+— Una zona de policía de 100 metros de anchura medidos horizontalmente a partir del
+cauce (que incluye también la zona de servidumbre) en la que se condicionará el uso del
+suelo y las actividades que se desarrollen. Conforme al artículo 9.4 del Reglamento del
+DPH, la ejecución de cualquier obra o trabajo en la zona de policía, deberá contar con
+la correspondiente autorización administrativa previa o declaración responsable ante el
+organismo de cuenca, que se tramitará conforme al artículo 78 y siguientes del Regla-
+mento del DPH. Tanto la autorización como la declaración responsable, en función del
+caso, serán independientes de cualquier otra que haya de ser otorgada por los distintos
+órganos de las Administraciones Públicas.
+En zona de policía, conforme a lo dispuesto en el artículo 78 ter del Reglamento del DPH,
+para otras actividades y usos del suelo no incluidos en el artículo 78 bis que puedan
+alterar el relieve natural, para la reparación de edificaciones existentes con cambio de
+uso, o para realizar cualquier tipo de construcción, será necesario la obtención de una
+autorización previa del organismo de cuenca, la cual se tramitará según lo establecido
+en el artículo 78 ter 2.
+Consultados los datos obrantes en el organismo, consta que, con fecha 18/03/2026 la
+promotora solicitó autorización para la instalación de sistema de baterías en zona de
+policía de un arroyo tributario del arroyo Bodión Chico.
+
+NÚMERO 173
+38640
+Lunes 7 de septiembre de 2026
+En cualquier caso, se estará a lo dispuesto en la resolución de este procedimiento de
+autorización.
+Consumo de agua:
+A pesar de que la documentación aportada no lo indica expresamente, dada la natura-
+leza del proyecto, es de suponer que la actuación no requiere agua para su funciona-
+miento. No obstante, se recuerda que las captaciones directas de agua –tanto superfi-
+cial como subterránea– del DPH, son competencia de la Confederación Hidrográfica del
+Guadiana (CHGn). Cualquier uso privativo del agua en el ámbito competencial de esta
+Confederación Hidrográfica deberá estar amparado necesariamente por un derecho al
+uso de la misma.
+Vertidos al DPH:
+A pesar de que la documentación aportada no lo indica expresamente, dada la natu-
+raleza del proyecto, es de suponer que la actuación no generará aguas residuales que
+sean vertidas al DPH. No obstante, se recuerda que de acuerdo con el artículo 245.2 del
+Reglamento del DPH, queda prohibido con carácter general el vertido directo o indirecto
+de aguas y productos residuales susceptibles de contaminar las aguas continentales o
+cualquier otro elemento del DPH, salvo que se cuente con la previa autorización. Dicha
+autorización corresponde a la administración hidráulica competente, salvo en los casos
+de vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores
+gestionados por las administraciones autonómicas o locales o por entidades dependien-
+tes de las mismas, en los que la autorización corresponderá al órgano autonómico o
+local competente.
+— El Servicio de Prevención y Extinción de Incendios Forestales de la entonces Dirección
+General de Gestión Forestal y Defensa Contra los Incendios, emite informe con fecha 8
+de abril de 2026, el cual incluye la identificación de la normativa aplicable en materia de
+incendios forestales:
+— Ley 5/2004, de 24 de junio, de Prevención y Lucha contra los Incendios Forestales en
+Extremadura.
+— Decreto 260/2014, de 2 de diciembre, por el que se regula la Prevención de los Incen-
+dios Forestales en la Comunidad Autónoma de Extremadura.
+— Orden de 24 de octubre de 2016, Técnica del Plan de Prevención de Incendios Forestales
+en la Comunidad Autónoma de Extremadura (PREIFEX):
+Título II. Capítulo III. Memorias Técnicas de Prevención (completo).
+
+NÚMERO 173
+38641
+Lunes 7 de septiembre de 2026
+Título III. Procedimiento de aprobación de Instrumentos de Prevención (completo).
+— Orden de Época de Peligro vigente: Norma que declara una determinada Época de Peli-
+gro y regula desarrolla los siguientes instrumentos de prevención para dicha época:
+a) Regulación de usos y actividades.
+b) Medidas generales y medidas de autoprotección.
+El ámbito territorial del proyecto no está incluido en la base de datos geográfica del
+Registro de Áreas Incendiadas (RAI).
+Vista la documentación descriptora del proyecto y el marco normativo aplicable, resulta
+que la instalación resultante tendrá la consideración de lugar vulnerable de mayor enti-
+dad, a efectos de lo previsto en el artículo 24 del Decreto 260/2014, de 2 de diciembre,
+por lo que la persona titular de éste tendrá la obligación de contar con Memoria Técnica
+de Prevención (MTP). No obstante, la planta solar FV Brovales 3 cuenta con Memoria
+Técnica de Prevención (MTP) aprobada desde el 29/09/2025, con número de expediente
+MT05/0236/2025. Debido al proyecto de hibridación e infraestructura subterránea, se
+debe proceder a la revisión del documento, además al encontrarse dicho sistema fuera
+de la parcela de la planta solar, se deberá ejecutar un Sistema Lineal Preventivo de
+Defensa (SLPD) o cortafuego perimetral que rodee el sistema de almacenamiento ener-
+gético de baterías con una anchura total de 3 metros, y un Área Preventiva de Defensa
+(APD), control del combustible fino (pastizal), de 27 metros de anchura.
+Por otro lado, para la ejecución material de las obras propias del proyecto, deberá tener-
+se en cuenta la Regulación de Usos y Actividades aplicables a la Época de Peligro vigente
+en el momento de dicha ejecución.
+— El Servicio de Ordenación del Territorio, de la Dirección General de Urbanismo, Ordena-
+ción del Territorio y Agenda Urbana, emite informe con fecha 14 de abril de 2026, en el
+que se informa que, a efectos de ordenación del territorio de la Comunidad Autónoma
+de Extremadura, no se detecta afección sobre ningún Plan Territorial ni Proyecto de In-
+terés Regional con aprobación definitiva (Ley 15/2001, de 14 de diciembre, del Suelo y
+Ordenación Territorial de Extremadura, con modificaciones posteriores).
+Asimismo, no se detecta afección sobre ningún instrumento de ordenación territorial
+general (Plan Territorial), de ordenación territorial de desarrollo (Plan de Suelo Rústi-
+co, Plan Especial de Ordenación del Territorio) ni de intervención directa (Proyecto de
+Interés Regional) de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y
+urbanística sostenible de Extremadura, en vigor desde el 27 de junio de 2019.
+
+NÚMERO 173
+38642
+Lunes 7 de septiembre de 2026
+Si bien, actualmente se halla en redacción, por Resolución de 17 de junio de 2010, de
+la Secretaría General, por la que se dispone la publicación del Acuerdo del Consejo de
+Gobierno de la Junta de Extremadura para la formulación del Plan Territorial de Ten-
+tudía-Sierra Suroeste, el cual deberá adaptarse a las disposiciones de la Ley 11/2018,
+ámbito territorial en el que se incluye el término municipal de Fuente de Cantos, que
+establecerá una nueva regulación cuando se apruebe definitivamente.
+— El Servicio de Protección Civil de la entonces Secretaría General de Interior, Emergen-
+cias y Protección Civil, emite informe con fecha 13 de mayo de 2026, donde expone
+antecedentes, objeto del informe, normativa de aplicación e informe sobre la documen-
+tación de vulnerabilidad del proyecto. Concluyendo que, a la vista de la documentación
+facilitada, la misma se considera insuficiente puesto que el estudio relativo a la “Vul-
+nerabilidad del Proyecto” frente a los riesgos por accidentes graves y catástrofes no
+recoge todos los aspectos ni lo hace con la amplitud necesaria que permitan determinar
+los riesgos para informar según las materias propias de las competencias atribuidas a la
+Secretaría General de Interior, Emergencias y Protección Civil.
+3. Análisis de expediente.
+Una vez analizada la documentación que obra en el expediente, y considerando las respues-
+tas recibidas a las consultas practicadas, se realiza el siguiente análisis para determinar la
+necesidad de sometimiento del proyecto al procedimiento de evaluación de impacto am-
+biental ordinaria previsto en la subsección 1.ª de la sección 2.ª del capítulo VII, del título I,
+según los criterios del anexo X, de la Ley 16/2015, de 23 de abril de protección ambiental
+de la Comunidad Autónoma de Extremadura.
+3.1. Características del proyecto.
+El proyecto de hibridación de la instalación solar fotovoltaica OPDE Brovales 3, mediante
+sistema de almacenamiento energético de baterías LFP de 16,8 MW de potencia instala-
+da, y 120 MWhdc de energía total instalada en baterías y capacidad de almacenamiento
+de 6 horas. Compuesto por 4 bloques de almacenamiento de 4.200 kW cada uno. Con 24
+Solbank 3.0, 12 por cada Twin Skid Compact y centro de transformación de 630 kVA para
+servicios auxiliares. Así como, un centro de seccionamiento (CS). La infraestructura sub-
+terránea de evacuación de 30 kV discurrirá desde el CS hasta la Subestación SE “Huerta
+Sevilla” 400/132/30 kV, con una longitud de 1.354,40 m. El proyecto ocupará una super-
+ficie de 1,19 ha.
+3.2. Ubicación del proyecto.
+
+NÚMERO 173
+38643
+Lunes 7 de septiembre de 2026
+3.2.1. Descripción del lugar.
+La zona donde está previsto el desarrollo del proyecto no queda incluida en ningún
+espacio natural protegido, ni de la Red Natura 2000. La planta BESS no ocupa el DPH,
+pero si está en zona de policía de un arroyo tributario del arroyo Bodión Chico, por lo
+que se cumplirán todas las medidas indicadas en el informe emitido por la Confede-
+ración Hidrográfica del Guadiana, para que no exista afección a dicho cauce. La zona
+afectada se caracteriza por tierras arables, indicando el documento ambiental que son
+terrenos de cultivo con una actividad agrícola de secano basada en el cultivo de legu-
+minosas para aprovechamiento ganadero, también se indica que la línea de evacuación
+discurre por tierras arables, quedando en una parte de su recorrido próxima a una su-
+perficie de pasto arbolado, pero no afectando al mismo.
+En la zona de actuación no hay presencia de hábitats natural de interés comunitario
+inventariado, ni de flora y fauna protegida. Conforme al SIG de los censos del Servicio
+de Conservación de la Naturaleza y Áreas Protegidas, según se refleja en su informe, no
+se constata la presencia de territorios de reproducción de especies de fauna protegida
+incluidas en el Catálogo Regional de Especies Amenazadas de Extremadura (CREAEx).
+Únicamente se identifica la presencia de un nido de ratonero común a más de 500 me-
+tros de las instalaciones previstas.
+Según el informe de la entonces Dirección General de Bibliotecas, Archivos y Patrimo-
+nio Cultural, se realizó prospección superficial donde el resultado ha sido negativo en
+cuanto a la presencia de elementos arqueológicos constatables en superficie.
+3.2.2. Alternativas de ubicación.
+El documento ambiental plantea tres alternativas de ubicación para la instalación de la
+planta BESS en las siguientes localizaciones del término municipal de Fuente de Canto:
+polígono 14, parcela 1 (alternativa 1), polígono 13, parcela 116 (alternativa 2) y polí-
+gono 12, parcela 4 (alternativa 3), a parte de la alternativa cero. Así como, tres alter-
+nativas para la línea de evacuación en las siguientes localizaciones del polígono 14 del
+término municipal de Fuente de Cantos: parcelas 1, 10 y 11, de 1.354,4 m (alternativa
+A), parcelas 1, 9007, 20, 12, 22 y 11 de 1.561,4 m (alternativa B) y parcelas 1, 9007,
+20, 12, 22 y 11 de 1.371,0 m (alternativa C), a parte de la alternativa cero.
+Una vez realizada una comparación multicriterios teniendo en cuenta los valores am-
+bientales y los impactos que pudieran producir cada una de ellas, se toma como implan-
+tación seleccionada la denominada como alternativa 1 para la planta BESS y la alterna-
+tiva A para el trazado de la línea de evacuación, al considerar el documento ambiental
+que desde el punto de vista ambiental, técnico y económico son las alternativas más
+favorables.
+
+NÚMERO 173
+38644
+Lunes 7 de septiembre de 2026
+La alternativa 0 que consiste en la “no realización del proyecto” quedó descartada,
+puesto que, no se contribuiría al logro de los objetivos del Plan Nacional Integrado de
+Energía y Clima (PNIEC) 2021-2030. Así como, se descarta la alternativa 0 para la línea
+de evacuación, puesto que, esto supondría no poder llevar a cabo el proyecto de hibri-
+dación mediante almacenamiento energético basado en baterías.
+3.3. Características del potencial impacto.
+— Red Natura 2000 y Áreas Protegidas.
+El Servicio de Conservación de la Naturaleza y Áreas Protegidas indica que, la actividad
+solicitada no se encuentra dentro de los límites de ningún espacio incluido en la Red de
+Áreas Protegidas de Extremadura (Red Natura 2000 y Espacio Natural Protegido). Con-
+siderando que la actividad solicitada no es susceptible de afectar de forma apreciable a
+los lugares incluidos en la Red Natura 2000, siempre que se cumplan las medidas que
+se indican en su informe.
+— Sistema hidrológico y calidad de las aguas.
+La planta BESS proyectada se localiza en zona de policía de un arroyo tributario del arro-
+yo Bodión Chico, por lo que, la promotora deberá pedir la correspondiente autorización.
+La instalación no requiere consumos de agua, en caso contrario, las captaciones directas
+son competencia de la CHGn. En cuanto a las aguas residuales, es de suponer que en el
+proyecto no se generan, quedando prohibido el vertido directo o indirecto de las aguas
+y productos residuales, salvo que se cuente con la previa autorización de la CHGn.
+A pesar de ello, se adoptarán las medidas preventivas oportunas para asegurar una
+mínima afección, evitando perjudicar a la calidad de las aguas.
+— Suelo.
+Las acciones que pueden causar mayor impacto pertenecen a la fase de construcción,
+apertura y/o mejora de viales, movimiento de maquinaria, excavaciones y zanjas en el
+tendido de cables, nivelación para instalación de baterías, transformadores, centro de
+seccionamiento y otras edificaciones auxiliares.
+Respecto a la contaminación del suelo, no es previsible la generación de vertidos que
+puedan contaminar el suelo y los que puedan producirse durante la ejecución y desa-
+rrollo del proyecto, serán de escasa entidad y evitables y/o corregibles con la aplicación
+de las medidas preventivas y correctoras propuestas.
+
+NÚMERO 173
+38645
+Lunes 7 de septiembre de 2026
+La erosión del suelo ocupado por la planta BESS no será muy probable, ya que los pro-
+cesos erosivos suelen darse en zonas con mayores pendientes.
+— Fauna.
+De forma general, las acciones incluidas en la fase de construcción del proyecto, así
+como en el proceso de funcionamiento global de la planta, como son movimientos de
+tierras, desplazamiento de maquinaria, la presencia de personal o eliminación de la su-
+perficie vegetal, suponen un impacto de tipo negativo sobre la fauna.
+Según el informe emitido por el Servicio de Conservación de la Naturaleza y Áreas Pro-
+tegidas, en cuanto a los valores naturales, en la zona de actuación no hay presencia
+de fauna protegida. El proyecto no se localiza dentro de los límites de ninguna de las
+áreas de actuación definidas por los planes de recuperación de especies. En la zona de
+actuación, conforme al SIG de los censos del Servicio de Conservación, no se constatan
+la presencia de territorios de reproducción de especies de fauna protegida incluidas en
+el Catálogo Regional de Especies Amenazadas de Extremadura (CREAEx). Únicamente
+se identifica la presencia de un nido de ratonero común a más de 500 metros de las
+instalaciones previstas.
+Se adoptarán las medidas preventivas, correctoras y complementarias oportunas para
+asegurar una mínima afección, evitando perjudicar a la fauna.
+— Vegetación.
+Según el informe emitido por el Servicio de Conservación de la Naturaleza y Áreas Pro-
+tegidas, en la zona de actuación no hay presencia de hábitat natural de interés comuni-
+tario inventariado, ni de flora. El proyecto no se localiza dentro de los límites de ninguna
+de las áreas de actuación definidas por los planes de conservación de hábitats vigentes
+en Extremadura.
+La zona afectada se caracteriza por tierras arables, indicando el documento ambiental
+que son terrenos de cultivo con una actividad agrícola de secano basada en el cultivo
+de leguminosas para aprovechamiento ganadero, también se indica que la línea de eva-
+cuación discurre por tierras arables, quedando en una parte de su recorrido próxima a
+una superficie de pasto arbolado, pero no afectando al mismo.
+Se adoptarán las medidas preventivas, correctoras y complementarias oportunas para
+asegurar una mínima afección sobre la vegetación.
+
+NÚMERO 173
+38646
+Lunes 7 de septiembre de 2026
+— Paisaje.
+Una infraestructura de carácter artificial, en las que se incluye la planta BESS y la línea
+eléctrica, crea una intrusión puesto que son estructuras verticales que destacan inevi-
+tablemente en un paisaje.
+Según el documento ambiental, el paisaje en el que se ubica la actuación se clasificaría
+como un espacio seminatural, ya que se trata de un paisaje natural en el que la mano
+del hombre ha intervenido mediante la implantación de cultivos y la creación de infraes-
+tructuras como instalaciones agroganaderas, subestaciones eléctricas y líneas de con-
+ducción asociadas, caminos y pistas, grandes extensiones de monocultivo, residencias
+rurales, etc.
+Se adoptarán las medidas preventivas, correctoras y compensatorias oportunas para
+asegurar una mínima afección.
+— Calidad del aire, ruido y contaminación lumínica.
+Durante la fase de construcción del proyecto la calidad del aire se verá afectada por la
+emisión difusa de partículas de polvo y emisiones gaseosas a la atmósfera y se generará
+ruido, en todos los casos producidos por el funcionamiento de la maquinaria y movi-
+mientos de tierra. Las medidas preventivas y correctoras habituales para este tipo de
+obras disminuyen el impacto causado. En la fase de funcionamiento el impacto sobre la
+calidad del aire es mínimo, lo mismo que el ruido y la contaminación lumínica.
+— Patrimonio arqueológico y dominio público.
+Según la entonces Dirección General de Bibliotecas, Archivos y Patrimonio Cultural, en
+prospección realizada, el resultado fue negativo en cuanto a la presencia de elementos
+arqueológicos constatables en superficie. Aun así, dada la amplia superficie abarcada
+por la zona de estudio, camino de acceso y línea de media tensión, con vistas a la pro-
+tección del patrimonio arqueológico no detectado durante los trabajos previos y que
+pudiera verse afectado por el proceso de ejecución de las obras, se adoptarán por la
+empresa adjudicataria las medidas preventivas expuestas en su informe.
+No se prevé ninguna afección sobre monte de utilidad pública, ni vías pecuarias.
+— Consumo de recursos y cambio climático.
+El único recurso consumido es la ocupación del suelo en detrimento de la capacidad
+agrícola con las especies de fauna y flora asociadas.
+
+NÚMERO 173
+38647
+Lunes 7 de septiembre de 2026
+El proceso de hibridación de las instalaciones solares fotovoltaicas basado en almace-
+namiento energético en baterías (BESS) supone un importante desarrollo y mejora de
+prestaciones en la producción energética de origen fotovoltaico, la explotación de la
+energía solar para la producción de energía eléctrica supone un impacto positivo frente
+al cambio climático, ya que evita la emisión de gases de efecto invernadero, principal-
+mente el CO2 emitido como consecuencia de la quema de combustibles fósiles (carbón,
+petróleo gas) para producir energía.
+La descarbonización del sistema energético es fundamental para la neutralidad climáti-
+ca. Un abastecimiento más sostenible de energías renovables va a resultar fundamental
+para combatir el cambio climático y la pérdida de biodiversidad. Proyectos como esta
+hibridación de instalación solar fotovoltaica mediante baterías de almacenamiento que
+incrementa la eficiencia y maximiza el aprovechamiento del recurso natural, propor-
+cionan una cobertura del suelo respetuosa con la biodiversidad, así como la bioenergía
+sostenible.
+— Medio socioeconómico.
+Durante la fase de construcción se puede producir un aumento del tráfico, polvo, ruidos,
+pérdida de seguridad vial, problemas con el mantenimiento de las carreteras y caminos,
+etc. Se considera el impacto como compatible, siempre y cuando se lleven a cabo las
+medidas oportunas de señalización y control.
+El impacto para este medio es positivo por la generación de empleo y de la actividad
+económica.
+— Vulnerabilidad del proyecto.
+El documento ambiental incluye un apartado específico de análisis de vulnerabilidad del
+proyecto frente a riesgos de accidentes graves o catástrofes, el cual concluye que las
+potenciales amenazas detectadas de origen natural o antrópico, así como los riesgos
+propios o como consecuencia de la actividad desarrollada, presenta un índice de riesgo
+bajo. Así como, se aporta Análisis Cuantitativo del Riesgo (ACR) del proyecto de hibri-
+dación con baterías BESS OPDE Brovales 3, el cual ha sido subsanado, por indicación
+del informe del Servicio de Protección Civil, y el cual concluye que, dado los resultados
+obtenidos, el proyecto cumple con los requisitos exigidos en la legislación española y
+autonómica de Extremadura, los alcances de letalidad LD01% y efecto dominó no in-
+ciden sobre elementos vulnerables identificados alrededor del establecimiento. Que la
+construcción del OPDE Brovales III influye sobre el nivel de riesgo individual y sobre
+la vulnerabilidad hacia las personas en las parcelas colindantes, teniendo medidas de
+mitigación que son eficaces y conforme al reglamento existente.
+
+NÚMERO 173
+38648
+Lunes 7 de septiembre de 2026
+También la promotora presenta certificados del cumplimiento de:
+— Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica de
+Autoprotección de los centros, establecimientos y dependencias dedicados a activi-
+dades que puedan dar origen a situaciones de emergencia.
+— Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de
+control de los riesgos inherentes a los accidentes graves en los que intervengan
+sustancias peligrosas.
+— Real Decreto 1217/2024, de 3 de diciembre, por el que se aprueba el Reglamento
+sobre instalaciones nucleares y radiactivas, y otras actividades relacionadas con la
+exposición a las radiaciones ionizantes.
+— Sinergias.
+La promotora incluye un estudio de las sinergias en el que se analizan los efectos acu-
+mulativos y sinérgicos de la planta BESS OPDE Brovales 3 con instalaciones situadas en
+el entorno, que corresponden con las plantas BESS OPDE Brovales 1 y 2, las ISF OPDE
+Brovales 1, 2 y 3, Cabrovales 1, Emin y Centurión, así como sus infraestructuras eléc-
+tricas de evacuación y la subestación eléctrica Huerta-Sevilla.
+En conclusión, se trata de una actividad que no afecta negativamente a valores de flora,
+fauna y paisaje presentes en el entorno inmediato, ni en la superficie en la que se ubica el
+proyecto. No incide de forma negativa sobre el patrimonio arqueológico conocido, recursos
+naturales, hidrología superficial y subterránea. No son previsibles, por ello, efectos signi-
+ficativos sobre el medio ambiente en los términos establecidos en la presente resolución.
+4. Condiciones y medidas para prevenir y corregir los efectos adversos sobre el medioambiente.
+Se considera que la actividad no causará impactos ambientales críticos y los moderados
+o severos podrán recuperarse siempre que se cumplan las medidas establecidas en los
+informes emitidos por las administraciones públicas consultadas expuestas en el apartado
+2, las medidas concretadas en el documento ambiental y las medidas que se expresan a
+continuación. En los casos en que pudieran existir discrepancias entre unas y otras, preva-
+lecerán las contenidas en el presente informe.
+a. Medidas preventivas y correctoras de carácter general.
+— La promotora comunicará con al menos una semana de antelación el inicio de las obras
+a la Dirección General de Gestión Sostenible y Política Forestal.
+
+NÚMERO 173
+38649
+Lunes 7 de septiembre de 2026
+— Se informará a todo el personal implicado en la ejecución de este proyecto del contenido
+del presente informe de impacto ambiental, de manera que se ponga en su conocimien-
+to las medidas que deben adoptarse a la hora de realizar los trabajos. Asimismo, se dis-
+pondrá de una copia del presente informe en el lugar donde se desarrollen los trabajos.
+— Cualquier modificación del proyecto original deberá ser comunicada al órgano ambien-
+tal. Dichas modificaciones no podrán llevarse a cabo hasta que éste no se pronuncie
+sobre el carácter de la modificación, al objeto de determinar si procede o no someter
+nuevamente el proyecto al trámite ambiental oportuno.
+— No se realizará ningún tipo de obra auxiliar sin contar con su correspondiente informe,
+según la legislación vigente.
+— En el caso de la batería de almacenamiento, se deberá mantener una franja perimetral
+de 50 metros libre de pasto alrededor de la instalación, con el fin de minimizar el riesgo
+de incendios.
+— Si durante la realización de las actividades se detectara la presencia o molestias a algu-
+na especie incluida en el Catálogo de Especies Amenazadas de Extremadura (Decreto
+37/2001; DOE n.º 30, de 13 de marzo de 2001) que pudiera verse afectada por los
+mismos, se estará a lo dispuesto por los técnicos del Servicio de Conservación de la
+Naturaleza y Áreas Protegidas, previa comunicación de tal circunstancia.
+— En relación a los cerramientos, resulta aplicable el Decreto 226/2013, de 3 de diciembre,
+por el que se regulan las condiciones para la instalación, modificación y reposición de los
+cerramientos cinegéticos y no cinegéticos en la Comunidad Autónoma de Extremadura.
+— Los residuos producidos se gestionarán por gestor autorizado conforme a la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular. Deberán
+habilitarse las correspondientes áreas de almacenamiento de los residuos en función de
+su tipología, clasificación y compatibilidad.
+— Se cumplirá con la normativa de ruidos, el Decreto 19/1997, de 4 de febrero, de Regla-
+mentación de Ruidos y Vibraciones de Extremadura y Real Decreto 1367/2007, de 19
+de octubre, por el que se desarrolla la Ley 37/2003, de 17 de noviembre, del Ruido, en
+lo referente a zonificación acústica, objetivos de calidad y emisiones acústicas.
+— En aplicación del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban
+medidas de control de los riesgos inherentes a los accidentes graves en los que inter-
+vengan sustancias peligrosas, se solicitará a la Dirección General de Protección Civil y
+Respuesta a la Emergencia de la Junta de Extremadura su expresa conformidad o infor-
+me favorable.
+
+NÚMERO 173
+38650
+Lunes 7 de septiembre de 2026
+b. Medidas a considerar en la fase de construcción.
+— Se limitarán los trabajos en la planta de forma que se realicen preferentemente durante
+el horario diurno de forma que se eviten molestias y minimice la posible afección por
+ruidos.
+— El ruido producido por el funcionamiento de la maquinaria será minimizado con un
+mantenimiento regular de la misma, ya que así se eliminan los ruidos procedentes de
+elementos desajustados que trabajan con altos niveles de vibración.
+— Se mantendrá la maquinaria en correcta puesta a punto en cuanto a los procesos gene-
+radores de gases y humos.
+— Para el control de los derrames, todas las zonas destinadas al almacenamiento de resi-
+duos, deberán disponer de algún sistema de recogida o contención de fugas.
+— Se habilitará una zona impermeabilizada en el interior de los límites de las parcelas
+afectadas para el mantenimiento de vehículos. No se realizarán tareas de mantenimien-
+to de la maquinaria o los vehículos en áreas distintas a las destinadas para ello. Estas
+zonas se ubicarán fuera del dominio público hidráulico.
+— Todas las unidades trasformadoras deberán contar con un foso de recogida de aceite
+bajo los transformadores, dimensionado para albergar todo el aceite del transformador
+en caso de derrame del mismo y deberá estar impermeabilizado para evitar riesgos de
+filtración y contaminación de aguas superficiales y subterráneas.
+— Con objeto de preservar la adecuada gestión y seguimiento de los residuos retirados, la
+promotora tendrá a disposición los documentos que acrediten la correcta gestión de los
+mismos a los diferentes gestores autorizados.
+— Al finalizar las obras se pondrá especial atención en la retirada de cualquier material no
+biodegradable o contaminante que se produzca a la hora de realizar los trabajos (emba-
+lajes, plásticos, metales, etc.). Estos residuos deberán almacenarse de forma separada
+y gestionarse por gestor autorizado.
+— Los residuos de construcción y demolición (RCD) que se generen, se deberán separar
+adecuadamente y entregar a una planta de reciclaje autorizada para su tratamiento,
+cumpliendo en todo caso con lo establecido en el Real Decreto 105/2008, de 1 de fe-
+brero, por el que se regula la producción y gestión de los residuos de construcción y
+demolición, y en el Decreto 20/2011, de 25 de febrero, por el que se establece el ré-
+gimen jurídico de la producción, posesión y gestión de los residuos de construcción y
+demolición en la Comunidad Autónoma de Extremadura.
+
+NÚMERO 173
+38651
+Lunes 7 de septiembre de 2026
+— Para la apertura de caminos y zanjas, se aprovechará al máximo la red de caminos exis-
+tentes y se tratará de ajustar su acondicionamiento a la orografía y relieve del terreno
+para minimizar pendientes y taludes.
+— Los movimientos de tierras serán los imprescindibles para el acondicionamiento de los
+terrenos para la instalación de los diferentes elementos, evitando todo tipo de movi-
+mientos de tierras no contemplados en esta evaluación. Se evitará realizar estos tra-
+bajos en periodos de lluvias para evitar el arrastre de sedimentos por escorrentía. Si
+fuera necesario se realizarán aportes de tierra vegetal extra en las áreas con peligro de
+erosión.
+— Se deben restituir las áreas alteradas, especialmente en zanjas o si se generan taludes.
+Se gestionará adecuadamente la tierra vegetal para su uso posterior en las tareas de
+restauración de las superficies alteradas, que debe llevarse a cabo paralelamente duran-
+te la fase de construcción.
+c. Medidas preventivas y correctoras en la fase de explotación.
+— Se mantendrán en correcto estado de funcionamiento y operativas todas las instalacio-
+nes y dispositivos para cumplir las medidas correctoras incluidas en el presente informe.
+— Los residuos generados en el desarrollo de la actividad deberán ser gestionados confor-
+me a lo establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+para una economía circular.
+— Se cumplirá lo dispuesto en los términos recogidos en el Real Decreto 1066/2001, de 28
+de septiembre, por el que se aprueba el Reglamento que establece condiciones de pro-
+tección del dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y
+medidas de protección sanitaria frente a emisiones radioeléctricas.
+— En caso de instalaciones de alumbrado exterior les serán de aplicación las disposiciones
+relativas a contaminación lumínica, recogidas en el Real Decreto 1890/2008, de 14 de
+noviembre, por el que se aprueba el Reglamento de eficiencia energética en instala-
+ciones de alumbrado exterior y sus Instrucciones técnicas complementarias EA-01 a
+EA-07.
+d. Medidas para la restauración una vez finalizada la actividad.
+— En caso de finalización de la actividad se deberá dejar el terreno en su estado original,
+desmantelando y retirando todos los escombros y residuos por gestor autorizado. Se
+dejará el área de actuación en perfecto estado de limpieza, con el restablecimiento de la
+
+NÚMERO 173
+38652
+Lunes 7 de septiembre de 2026
+escorrentía original, intentando mantener la topografía original del terreno y procurando
+la restitución del terreno a su vocación previa al proyecto. Estas medidas se realizarán
+en un periodo inferior a 9 meses.
+— Se deberá presentar un plan de restauración un año antes de la finalización de la acti-
+vidad en el que se recoja las diferentes actuaciones que permitan dejar el terreno en
+su estado original, teniendo en cuenta la restauración paisajística y de los suelos, así
+como de la gestión de los residuos generados. Dicho plan deberá ser aprobado antes de
+su ejecución por el órgano ambiental que llevará a cabo las modificaciones que estime
+necesarias.
+5. Programa de vigilancia ambiental.
+— La promotora deberá disponer de un programa de vigilancia ambiental que deberá con-
+tener, al menos, un informe anual sobre el seguimiento de las medidas incluidas en el
+informe de impacto ambiental y en el documento ambiental aportado.
+— El programa de vigilancia ambiental, se remitirá anualmente a la Dirección General de
+Gestión Sostenible y Política Forestal para su supervisión. Este programa incluirá, entre
+otras actuaciones, la realización de visitas estratégicas y la elaboración y remisión, a
+esta Dirección General de Gestión Sostenible y Política Forestal de los correspondientes
+informes de seguimiento, que debe incluir al menos la siguiente información:
+• Estado de desarrollo de las obras con los correspondientes informes, tanto ordina-
+rios como extraordinarios o de incidencia. Los informes ordinarios deben incluir los
+informes iniciales, periódicos y final. Los informes extraordinarios se elaborarán para
+tratar cualquier incidencia con trascendencia ambiental que pudiera darse en la obra.
+• Datos de las visitas de inspección a las instalaciones (personal, inspector, fecha, inci-
+dencias...).
+• La verificación de la eficacia y correcto cumplimiento de las medidas que conforman
+el condicionado del presente informe.
+• Control de las entradas y salidas de los residuos de construcción y demolición.
+• Gestión de las distintas categorías de residuos tratados, así como los justificantes de
+entrega a Gestor Autorizado.
+• Cualquier otra incidencia que sea conveniente resaltar.
+
+NÚMERO 173
+38653
+Lunes 7 de septiembre de 2026
+• Además, se incluirá un anexo fotográfico (en color) de las obras. Dichas imágenes
+serán plasmadas sobre un mapa, con el fin de saber desde qué lugares han sido rea-
+lizadas.
+• En base al resultado de estos informes se podrán exigir medidas ambientales su-
+plementarias para corregir las posibles deficiencias detectadas y en caso necesario
+acometer la correcta integración ambiental de la obra.
+Teniendo en cuenta todo ello, así como la no afección del proyecto a espacios de la Red Na-
+tura 2000, esta Dirección General de Gestión Sostenible y Política Forestal, a propuesta del
+Servicio de Prevención, Calidad Ambiental y Cambio Climático, resuelve, de acuerdo con la
+evaluación de impacto ambiental simplificada practicada conforme a lo previsto en la subsec-
+ción 2.ª de la sección 2.ª del capítulo VII del título I, tras el análisis realizado con los criterios
+del anexo X de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad
+Autónoma de Extremadura, que no es previsible que el proyecto de hibridación BESS “OPDE
+Brovales 3” de 16,8 MW e infraestructura subterránea de evacuación de 30 kV, a ubicar en el
+polígono 14, parcela 1 del término municipal de Fuente de Cantos, vaya a producir impactos
+adversos significativos sobre el medio ambiente, por lo que no se considera necesario someter
+el proyecto al procedimiento de evaluación de impacto ambiental ordinaria.
+Este informe de impacto ambiental perderá su vigencia y cesará en la producción de los
+efectos que le son propios si, una vez publicado en el Diario Oficial de Extremadura, no se
+hubiera procedido a la autorización del proyecto en el plazo máximo de cuatro años desde su
+publicación.
+Su condicionado podrá ser objeto de revisión y actualización por parte del órgano ambiental
+cuando:
+— Se produzca la entrada en vigor de nueva normativa que incida sustancialmente en el
+cumplimiento de las condiciones fijadas en el mismo.
+— Cuando durante el seguimiento del cumplimiento del mismo se detecte que las medidas
+preventivas, correctoras o compensatorias son insuficientes, innecesarias o ineficaces.
+De conformidad con lo dispuesto en el artículo 76.5 de la Ley 16/2015, de 23 de abril, de
+protección ambiental de la Comunidad Autónoma de Extremadura, el informe de impacto am-
+biental no será objeto de recurso alguno, sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+El informe de impacto ambiental será objeto de publicación en el Diario Oficial de Extremadu-
+ra y en la página web http://extremambiente.gobex.es/.
+
+NÚMERO 173
+38654
+Lunes 7 de septiembre de 2026
+El presente informe de impacto ambiental se emite a los solos efectos ambientales y en virtud
+de la legislación específica vigente, sin perjuicio de aquellas otras autorizaciones sectoriales
+o licencias que sean necesarias para la ejecución del proyecto.
+Mérida, 28 de agosto de 2026.
+El Director General de Gestión
+Sostenible y Política Forestal,
+JUAN ELOY RODRÍGUEZ UCEDO
