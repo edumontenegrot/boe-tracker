@@ -1,0 +1,588 @@
+AÑO XLV Núm. 172 8 de septiembre de 2026 31586
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 31/08/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, por la que
+se formula el informe de impacto ambiental del proyecto: Unificar dos expedientes de riego y modificar
+el perímetro de riego para regar desde dos captaciones en el polígono 181 parcela 15, (expedientes CH
+Guadiana 8074/1988 y 5269/2011 TR, en modificación bajo referencia 4484/2019) (S478/2026/AB/00059),
+situado en el término municipal de Villarrobledo (Albacete). [2026/6422]
+La Ley 2/2020, de 7 de febrero de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, dentro del Grupo 1 “Agricultura,
+silvicultura, acuicultura y ganadería”, apartado c:“Proyectos de transformación a regadío o de avenamiento de
+terrenos cuando afecten a una superficie superior a 10 has.
+El promotor del proyecto es Jorge Zamora Armero y el órgano sustantivo es la Confederación Hidrográfica del
+Guadiana, teniendo el expediente de evaluación ambiental por esta Delegación Provincial el número S478/2026/
+AB/00059.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+1.- Antecedentes.
+Según el documento ambiental de fecha noviembre de 2025, el promotor es titular de dos aprovechamientos de aguas
+subterráneas: el primero, inscrito en el Registro de Aguas Sección C, con referencia P-8074/1988, con derechos
+de riego para 25,00 ha; y el segundo, inscrito en la Sección A, con referencia 5269/2011 TR, con derechos de riego
+para 10,00 y 5,50 ha. El promotor pretende modificar la localización de la superficie de riego del aprovechamiento
+P-8074/1988, clausurando la captación adscrita al mismo, y trasladar dichos derechos a la explotación agraria
+adscrita a la concesión de ref. 5269/2011 TR, que amplía su superficie de riego en 25,00 ha, incluyendo asimismo
+una nueva captación de apoyo en la parcela 29 del polígono 183 de Villarrobledo.
+En junio de 2019 se presentó ante la Confederación Hidrográfica del Guadiana la solicitud de concesión de aguas
+subterráneas con destino a riego en Villarrobledo (Albacete), ref. 4484/2019, para unificar y modificar los derechos
+de riego de los aprovechamientos P-8074/1988 y 5269/2011 TR. En septiembre de 2025 se comunicó al promotor la
+necesidad de evaluación de impacto ambiental para la ampliación del perímetro de riego.
+1.1.- Descripción.
+El proyecto consiste en unificar dos expedientes de riego y modificar el perímetro de riego para regar desde dos
+captaciones en el polígono 181, parcela 15, de Villarrobledo. Se establece un nuevo perímetro de riego de 44,1383
+ha, de las cuales 15,50 ha cuentan con derechos de riego reconocidos por la Confederación Hidrográfica del
+Guadiana y 28,6383 ha carecen de dichos derechos, por lo que requieren transformación en regadío.
+La superficie finalmente contemplada en esta iniciativa abarca un perímetro de riego de 44,1383 ha y un volumen
+de agua objeto del aprovechamiento de 68.000 m³, resultando la siguiente superficie con derecho a riego, destinada
+actualmente al cultivo de vid en espaldera y tierra de labor:
+- Viña: 31,4314 ha, ubicadas en las parcelas 15 (parte), 25, 26 y 27 del polígono 181 de Villarrobledo. Cuenta con
+15,50 ha de riego y 15,9314 ha sin derechos de riego reconocidos.
+- Labor: 12,7069 ha, ubicadas en la parcela 15 (parte) del polígono 181 y la parcela 29 del polígono 183, de
+Villarrobledo. Sin derechos de riego reconocidos.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31587
+La superficie a transformar se localiza en las siguientes parcelas:
+Provincia Municipio Polígono Parcela Superficie Catastral (ha) Superf. Riego (ha)
+Albacete Villarrobledo 181 15 (parte) 34,3380 22,9538
+Albacete Villarrobledo 109 19 5,8975 5,6845
+Superf. a transformar en regadío 28,64
+La transformación se llevará a cabo mediante riego fijo por goteo (ramales portagoteros) en 15,9314 ha de viñedo y
+riego estacional mediante cobertura móvil en 12,7069 ha de tierra de labor. Será necesario instalar 1.021 m de tuberías
+enterradas de PVC y 53.105 m de ramales portagoteros de PE. El volumen de agua objeto del aprovechamiento,
+según el documento de concesión de la CHG, es de 55.500 m³/año.
+1.1.1.- Sistema de riego en el aprovechamiento.
+En la parcela 15 del polígono 181 se empleará riego fijo por goteo para 15,9314 ha de viña y riego estacional
+mediante tuberías móviles de aspersión para 7,0224 ha de tierra de labor. En la parcela 29 del polígono 183 se
+empleará riego estacional mediante tuberías móviles de aspersión para 5,6845 ha de tierra de labor. Se emplearán
+las tuberías generales ya instaladas en la explotación, complementadas con las nuevas conducciones descritas.
+1.1.2.- Captaciones de agua.
+Existen 2 captaciones de agua en la explotación que se exponen a continuación:
+- Captación 1: existente, localizada en la parcela 15 del polígono 181 de Villarrobledo. Coordenadas (UTM ED-50
+Huso 30) X: 527.252,8, Y: 4.344.890, dotada de caudalímetro homologado.
+- Captación 2: nueva captación de apoyo, prevista en la misma parcela 15 del polígono 181. Coordenadas
+aproximadas X: 526.924, Y: 4.344.573, quedando su ejecución supeditada al otorgamiento de la concesión y, en
+todo caso, a la aprobación previa por parte de la Administración con competencias en minas, conforme se detalla en
+el apartado Segundo de la presente Resolución.
+La captación se sitúa sobre la masa de agua subterránea “Mancha Occidental II”, declarada en riesgo de no alcanzar
+el buen estado cuantitativo y químico. Existe una discrepancia entre el volumen y la superficie recogidos en el
+documento ambiental (68.000 m³/año para un perímetro de 44,1383 ha) y los que constan en tramitación en el
+expediente ante la Confederación Hidrográfica del Guadiana (55.500 m³/año, para un perímetro de riego solicitado
+de 40,50 ha), discrepancia que deberá quedar aclarada y acreditada por el promotor con carácter previo al inicio de
+las actuaciones.
+El cauce más próximo es el río Córcoles, situado a más de 100 metros (104-112 m) al oeste de la zona de actuación,
+por lo que no se prevé afección física a cauces del DPH del Estado ni a sus zonas de servidumbre o policía. La
+actuación no conlleva vertidos al DPH, salvo los correspondientes retornos de riego, que conforme al artículo 253
+ter del Reglamento del DPH no tienen la consideración de vertido de agua residual.
+1.1.3.- Embalses de regulación.
+En la finca no existe ningún embalse de regulación, ni tampoco está prevista la construcción de éste.
+1.1.4.- Energía a utilizar.
+Las bombas de las captaciones se accionarán mediante un grupo electrógeno. No está prevista ninguna infraestructura
+eléctrica adicional (líneas de media/alta tensión).
+1.1.5.- Necesidades hídricas.
+El volumen anual de agua a utilizar es el correspondiente al comunicado por la Confederación Hidrográfica del
+Guadiana en el proceso de modificación del expediente con 55.500 m³/año.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31588
+Los cultivos previstos serán los siguientes:
+Cultivo Superficie (ha) Consumo agua m³ / ha Volumen total m³ / año
+Viñedo en espaldera 31,4314 1.000 31.431
+Hortícolas/herbáceos (riego estacional) 12,7069 1.895 24.078
+Total 44,1383 55.500
+1.2.- Alternativas estudiadas.
+Se han presentado un abanico de alternativas las cuales se muestran a continuación:
+- Alternativa “0”: no actuación, manteniendo la situación actual.
+- Alternativa “1”: transformación en regadío de las 28,6383 ha mediante sistema de riego por cobertura total, con
+tuberías fijas enterradas y ramales portaaspersores enterrados.
+- Alternativa “2”: transformación en regadío de las 28,6383 ha mediante riego fijo por goteo en la superficie de viña
+y cobertura móvil en la tierra de labor.
+El promotor selecciona la Alternativa 2, por presentar menor impacto visual, menor inversión y mayor eficiencia de
+riego que la Alternativa 1, resultando más favorable que la Alternativa 0 en términos socioeconómicos al contribuir a
+paliar el problema de despoblación de la comarca.
+1.3.- Análisis de los impactos potenciales en el medio ambiente reflejados en el documento ambiental.
+El promotor refleja una serie de afecciones en el documento ambiental sobre:
+1.4.- Medidas preventivas, correctoras o compensatorias propuestas por el promotor para la adecuada protección
+del medio ambiente.
+El promotor refiere una serie de medidas comunes en la implantación del sistema de riego estudiado concretamente
+sobre:
+Afección a la población y a la salud humana
+Afección sobre la fauna, flora y biodiversidad
+Afección a Áreas Protegidas (Red Natura 2000)
+Afección a Hábitats y Elementos Geomorfológicos de Protección Especial
+Afección a Vías Pecuarias y Montes de Utilidad Pública
+Afección al medio ambiente atmosférico
+Afección a la hidrología e hidrogeología
+Afección a los factores climáticos y al cambio climático
+Afección al paisaje
+Afección a los bienes materiales, incluido el patrimonio cultural
+Afección al suelo
+Afección socioeconómica
+1.5.- Forma de realizar el seguimiento que garantice el cumplimiento de indicaciones y de las medidas protectoras
+y correctoras contenidas en el documento ambiental.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá asignar un responsable del mismo,
+notificando al órgano sustantivo, su nombramiento como encargado del control, inspección y cumplimiento de dicho
+Plan.
+Todas las actuaciones y/o mediciones que se realicen en aplicación del programa de seguimiento ambiental deberán
+tener constancia escrita en forma de actas o estadillos que permitan comprobar su correcta ejecución.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31589
+Se contempla:
+- Control sobre la obtención de la autorización de la Confederación Hidrográfica del Guadiana y cumplimiento de lo
+que se establezca.
+- Control de la correcta gestión de los residuos producidos y tramitación de documentación.
+- Control de daños erosivos producidos por escorrentía superficial.
+- Control de la correcta aplicación del plan de abonados y tratamientos fitosanitarios.
+- Control sobre la aplicación del programa de actuación en zonas vulnerables a la contaminación por nitratos.
+Segundo. Tramitación y consultas.
+El 14 de noviembre de 2025, se recibe en el Servicio de Calidad Ambiental de Albacete de la Delegación Provincial de
+la Consejería de Desarrollo Sostenible, por parte del promotor, la solicitud de inicio del procedimiento de Evaluación
+de Impacto Ambiental Simplificada del proyecto.
+El 16 de enero de 2026, el órgano ambiental notificó al promotor del proyecto que la documentación presentada
+junto con la solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo
+53.2 de la Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas
+interesadas, con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones
+consultadas han sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las
+consultas formuladas):
+Ayuntamiento de Villarrobledo
+Servicio de Medio Natural y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de Albacete (*)
+Servicio de Minas de la Delegación Provincial de la Consejería Desarrollo Sostenible en Albacete (*)
+Confederación Hidrográfica del Guadiana (*)
+Servicio de Desarrollo Rural de la Delegación Provincial de Agricultura, Ganadería y Desarrollo Rural
+Sección de Arqueología de la Delegación Provincial de Educación, Cultura y Deportes de Albacete (*)
+Sociedad Albacetense de Ornitología (*)
+Unidad de Coordinación Provincial de Agentes Medioambientales (*)
+Servicio de Carreteras de la Delegación Provincial de la Consejería de Fomento en Albacete (*)
+Las respuestas recibidas hasta la fecha son las siguientes:
+- Informe del Servicio de Medio Natural y Biodiversidad: constata que la zona de actuación se encuentra fuera
+de la Red Regional de Áreas Protegidas, sin afección a montes de utilidad pública ni vías pecuarias. Establece
+un condicionado general sobre fitosanitarios (RD 1311/2012), comunicación previa y jalonamiento con agentes
+medioambientales, protección de lindes y setos, y necesidad de autorización previa (art. 49 Ley 3/2008 de Montes)
+en caso de descuaje de cubiertas vegetales.
+- Resolución de la Viceconsejería de Cultura y Deportes (Exp. Cult. 26.0155): identifica que el proyecto se encuentra
+dentro del Ámbito de Prevención B.18 Castellanos, registrado en el Inventario de Patrimonio Cultural de Villarrobledo,
+por lo que, en aplicación del artículo 48 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La
+Mancha, exige la realización de un Estudio de Valoración Histórico-Cultural, conforme a los artículos 49 y 50 de dicha
+Ley, elaborado por profesional cualificado expresamente autorizado por la Viceconsejería de Cultura y Deportes.
+- Informe de la Confederación Hidrográfica del Guadiana, Comisaría de Aguas: constata que el cauce del río
+Córcoles discurre a más de 100 metros al oeste de la zona de actuación, sin afección física a cauces del DPH ni
+a sus zonas de servidumbre o policía; que la captación se sitúa dentro de la masa de agua subterránea “Mancha
+Occidental II”, declarada en riesgo de no alcanzar el buen estado cuantitativo y químico; que la concesión se
+encuentra en tramitación (expediente 4484/2019) por modificación de características de derechos preexistentes,
+para un perímetro de riego de 40,50 ha y un volumen en trámite de 55.500 m³/año, frente a las 44,1383 ha y 68.000
+m³/año recogidos en el documento ambiental; y que, según informe de la Oficina de Planificación Hidrológica de
+15/05/2025, la solicitud sería compatible con el Plan Hidrológico de la Demarcación y existirían recursos hídricos
+suficientes, condicionado en cualquier caso a lo que finalmente resuelva el expediente concesional.
+- Nota interior del Servicio de Minas: indica que la ejecución de sondeos requiere aprobación previa de la Administración
+con competencias en minas, conforme al capítulo VI del RD 863/1985 (RGNBSM), y que, consultado el fichero de
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31590
+solicitudes de alumbramientos de aguas subterráneas, no consta ninguna solicitud a nombre del promotor, debiendo
+tramitarse conforme al procedimiento establecido.
+- Ficha de campo de los Agentes Medioambientales: constata que el proyecto se encuentra en zona dedicada a
+cultivos leñosos de viña y cereal, con buenos accesos desde Villarrobledo. Advierte de la existencia de sinergia
+con otros proyectos de puesta en regadío de cultivos de secano en la zona, así como de la pérdida de hábitat para
+especies esteparias y fauna cinegética, recomendando el mantenimiento de lindes de cultivo de al menos 1 metro
+de anchura en, como mínimo, el 50% de los márgenes de la parcela, con especies arbustivas aromáticas autóctonas
+(tomillo, romero, lavanda, etc.).
+- Alegaciones presentadas por la Sociedad Albacetense de Ornitología (SAO): manifiestan la presencia en la zona
+de especies esteparias amenazadas (avutarda, alcaraván, ganga común, ganga ortega, cernícalo primilla, aguilucho
+cenizo, aguilucho pálido, sisón común, calandria, carraca europea, terrera común) y de rapaces, entre ellas el milano
+real, catalogado “en peligro de extinción” (RD 139/2011). Solicitan la incorporación de medidas compensatorias
+(formación de lindes/setos perimetrales con especies leñosas autóctonas de anchura mínima de 2 metros en una
+superficie equivalente al 40% de la superficie afectada, instalación de al menos 2 majanos para el mochuelo europeo,
+plan de cultivos ajustado a la Zona Vulnerable a la Contaminación por Nitratos, y mantenimiento de vegetación
+arvense entre líneas de cultivo fuera del periodo de nidificación (abril a agosto).
+Ninguno de los informes se opone al proyecto, informando sobre las condiciones que debe de cumplir según la
+normativa en vigor de su competencia.
+De acuerdo con el artículo 53.2 de la ley 2/2020 de Evaluación Ambiental y transcurrido el plazo sin haber recibido
+respuesta a las consultas realizadas de los organismos no señalados con (*), entendemos que se tienen elementos
+de juicio suficientes para resolver al tener este expediente los informes oportunos y a los que podemos considerar
+válidos.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Características del proyecto.
+Se trata de la unificación de dos expedientes de riego preexistentes (P-8074/1988 y 5269/2011 TR) y la transformación
+en regadío de 28,6383 ha (15,9314 ha de viñedo mediante riego fijo por goteo y 12,7069 ha de tierra de labor
+mediante riego estacional), estableciendo un nuevo perímetro de riego de 44,1383 ha, con captación existente y una
+nueva captación de apoyo (Captación 2) cuya ejecución no cuenta aún con la preceptiva aprobación del Servicio de
+Minas ni con concesión de aguas otorgada, encontrándose en tramitación el expediente concesional 4484/2019 ante
+la Confederación Hidrográfica del Guadiana sobre la masa de agua subterránea “Mancha Occidental II”, declarada
+en riesgo de no alcanzar el buen estado cuantitativo.
+Se constata una discrepancia entre las cifras de superficie y volumen recogidas en el documento ambiental (44,1383
+ha / 68.000 m³/año) y las que constan en tramitación en el expediente concesional (40,50 ha / 55.500 m³/año), que
+deberá quedar aclarada y acreditada documentalmente por el promotor, conforme al condicionado del apartado
+Cuarto.
+El impacto que producen este tipo de proyectos, una vez puestos en funcionamiento, se realiza directamente
+sobre la reserva de recursos hídricos del acuífero afectado por la detracción de caudales, desconociendo el efecto
+sinérgico y acumulativo que cada nuevo sondeo ejerce sobre el acuífero afectado, al no tener constancia fehaciente
+del número de sondeos de este tipo que se encuentran funcionando en la actualidad en este entorno. Cabe señalar,
+que la creciente escasez de agua provocada, entre otras razones, por el exceso en la extracción, la degradación
+de la calidad del agua y el cambio climático, hacen insoslayable la utilización de los recursos hídricos de manera
+eficiente y sostenible.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31591
+Se deberán disponer los mecanismos más adecuados para evitar que se produzcan derrames o fugas accidentales
+sobre el terreno de aceites hidráulicos o combustibles procedentes de la maquinaria empleada en el sondeo. En el
+caso de producirse, deberá retirarse de inmediato la capa de suelo contaminada, y depositarla en un contenedor
+específico y estanco para que sea recogido y retirado por un gestor autorizado. Tampoco deberán realizarse vertidos
+de materiales de obra, residuos sólidos urbanos, residuos no inertizados o de dudosa caracterización, o cualquier
+otro elemento en el entorno de actuación. Los residuos generados en la fase de ejecución se adecuarán a lo
+establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+3.2.- Ubicación del proyecto.
+El proyecto se ubica fuera de la Red Regional de Áreas Protegidas y no afecta a montes de utilidad pública ni a
+vías pecuarias. No obstante, la zona de actuación se encuentra dentro del ámbito de prevención B.18 Castellanos
+del inventario de patrimonio cultural de Villarrobledo, lo que exige, conforme al artículo 48 de la Ley 4/2013, la
+realización de un Estudio de Valoración Histórico-Cultural con carácter previo a la ejecución de las obras.
+El cauce más próximo, el río Córcoles, discurre a más de 100 metros de la zona de actuación, sin afección a sus
+zonas de servidumbre o policía. La captación se sitúa sobre la masa de agua subterránea “Mancha Occidental II”,
+declarada en riesgo, si bien la Confederación Hidrográfica del Guadiana ha informado, condicionado a la resolución
+del expediente de modificación de la concesión, que existirían recursos hídricos suficientes.
+El proyecto se ubica en zonas actualmente en cultivo de secano y de regadío. Las superficies disponibles para estas
+actividades agrícolas son muy amplias, y el cambio de cultivo a regadío no supondrá una detracción considerable
+que pueda afectar al medio natural, máxime cuando anualmente no se sobrepasará la cantidad de hectáreas en
+regadío que figuraban en las inscripciones de aguas privadas preexistentes.
+La captación de aguas subterráneas se encuentra dentro de la masa “Rus Valdelobos” declarada en riesgo de no
+alcanzar el buen estado cuantitativo y químico, informando la Confederación Hidrográfica del Guadiana que existen
+los recursos hídricos suficientes para el otorgamiento de la concesión solicitada.
+3.3.- Características del potencial impacto.
+El impacto provocado, sin considerar la utilización del recurso agua (aspecto que corresponde valorar y resolver a la
+Confederación Hidrográfica del Guadiana en el marco del expediente de modificación de la concesión 4484/2019),
+resultaría compatible o moderado siempre que se aporte el estudio de valoración Histórico-Cultural exigido por la
+Viceconsejería de Cultura y Deportes, se regularice la situación administrativa de la captación de apoyo ante el
+Servicio de Minas, y se apliquen de forma efectiva las medidas de protección reforzada de la avifauna esteparia y
+rapaz solicitadas por la Sociedad Albacetense de Ornitología. Del correcto cumplimiento de las subsanaciones y
+del condicionado establecido en la presente Resolución dependerá en gran medida la minimización de los efectos
+identificados.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1.- Subsanaciones previas al inicio de las actuaciones.
+Con carácter previo al inicio de las actuaciones, y como condición para la eficacia de la presente Resolución, el
+promotor deberá subsanar las siguientes deficiencias puestas de manifiesto en la fase de consultas:
+a) Patrimonio cultural: deberá aportarse el Estudio de Valoración Histórico-Cultural exigido por la Viceconsejería de
+Cultura y Deportes (Exp. Cult. 26.0155), conforme a los artículos 48, 49 y 50 de la Ley 4/2013, de 16 de mayo, de
+Patrimonio Cultural de Castilla-La Mancha, realizado por profesional cualificado expresamente autorizado por dicha
+Viceconsejería, junto con su valoración de viabilidad/compatibilidad y, en su caso, las medidas correctoras que se
+deriven del mismo.
+b) Disponibilidad hídrica: deberá aclararse y acreditarse documentalmente el volumen de agua y la superficie de
+riego definitivamente autorizados, dada la discrepancia entre el documento ambiental (44,1383 ha / 68.000 m³/
+año) y el expediente de modificación de la concesión 4484/2019 en trámite ante la Confederación Hidrográfica del
+Guadiana (40,50 ha / 55.500 m³/año), aportando la resolución de concesión una vez resuelta.
+c) Captación 2 (sondeo de apoyo): con carácter previo a su ejecución, deberá tramitarse y obtenerse la aprobación
+del correspondiente proyecto de alumbramiento de aguas subterráneas ante el Servicio de Minas de la Delegación
+Provincial de Desarrollo Sostenible de Albacete.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31592
+El promotor deberá presentar ante esta Delegación Provincial la documentación acreditativa del cumplimiento de las
+subsanaciones anteriores con carácter previo al inicio de las actuaciones, no siendo eficaz la presente Resolución
+hasta la verificación de dicho cumplimiento por el órgano ambiental.
+4.2.- Protección de la vegetación.
+No se realizarán nuevas aperturas de caminos, utilizándose siempre la traza ya existente para el acceso a la zona
+de trabajo.
+Cualquier actuación que implique descuaje de cubiertas vegetales de matorral o arbolado, requerirá autorización
+previa de la Delegación Provincial de Desarrollo Sostenible de Albacete, en aplicación del artículo 49.2 de la Ley
+3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha sin que deba entenderse
+dicha autorización como concedida por la emisión de esta Resolución. En su caso, los restos de los trabajos serán
+eliminados mediante trituración o quema controlada atendiendo a la normativa de incendios forestales.
+Se deberá comunicar el inicio de las obras con suficiente tiempo de antelación a los agentes medioambientales de
+la zona, los cuales se encargarán de la supervisión y el seguimiento ambiental de la actividad. Se atenderá en todo
+momento a sus sugerencias y recomendaciones.
+El acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas, utilizando siempre la traza
+ya existente. De forma previa al inicio de las obras, se deberá jalonar la zona estricta de actuaciones con el fin de
+minimizar la afección a la vegetación natural tanto debida a la propia actuación como al paso de la maquinaria.
+Se respetará la vegetación natural existente en el interior y en los bordes de las parcelas. Según el Artículo 49
+de la Ley 3/2008, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha, en caso de que se realicen
+operaciones de descuaje de cubiertas vegetales de matorral o arbolado, se deberá solicitar autorización previa a
+esta Delegación Provincial.
+La eliminación de los restos vegetales se realizará con la mayor brevedad posible para evitar la aparición de plagas
+forestales y reducir el riesgo de incendios forestales. Se cumplirá la normativa vigente en materia de prevención de
+incendios forestales.
+Se prohíbe la alteración significativa o destrucción de las lindes, setos, superficies ocupadas por vegetación natural,
+árboles, arbustos o bosquetes de especies forestales, y demás elementos estructurales o característicos del paisaje
+agrario.
+Los acopios de tierra procedente de la excavación de las zanjas para tuberías, y los materiales empleados, deben
+hacerse en zonas desprovistas de vegetación.
+4.3.- Protección de la fauna.
+El proyecto no afecta a espacios naturales protegidos ni a zonas sensibles de las contempladas en la Ley 9/1999,
+de 26 de mayo, de Conservación de la Naturaleza de Castilla- La Mancha, modificada por la Ley 8/2007, de 15 de
+marzo, por tanto, se encuentra fuera de la red regional de áreas protegidas de Castilla-La Mancha.
+No obstante, la zona de actuación constituye hábitat de reproducción y alimentación de especies esteparias
+amenazadas y de rapaces, entre ellas el milano real, catalogado “en peligro de extinción” conforme al Real Decreto
+139/2011, de 4 de febrero.
+De interferir con cualquier especie amenazada que no cuente con planes de recuperación, de conservación del
+hábitat o de manejo específicos, se estará al régimen general de protección del artículo 64 y a las prohibiciones del
+artículo 77 de la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza.
+Los trabajos que impliquen movimiento de tierras, desbroces, transporte de maquinaria pesada, etc. deberán
+realizarse fuera de la época reproductora de las especies presentes en el entorno. Concretamente, no se realizarán
+estos trabajos en el período comprendido entre los meses de marzo a agosto, ambos inclusive. Este período podrá
+ser modificado en función de las circunstancias reproductivas de las especies amenazadas en la época de ejecución.
+Si se detectase indicios de presencia de avifauna esteparia, se comunicará tal circunstancia al Servicio de Medio
+Natural y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de Albacete.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31593
+En la zona donde se ejecute la actuación, se respetará la vegetación arbórea que pudiera existir, salvo que sea
+imposible su conservación por motivos de la actuación debidamente justificados, en cuyo caso se deberá indicar en
+el proyecto los árboles afectados (especie, diámetro de tronco a 1 metro del suelo y estado fitosanitario) y el destino
+de los mismos.
+Las lindes y enclavados con vegetación forestal intercalados entre tierras de labor, incluidos pies y matacanes
+aislados, deberán respetarse para favorecer la biodiversidad, ya que benefician las poblaciones presas de rapaces
+amenazadas, proporcionan refugio y zonas de alimentación.
+Como indudablemente esta transformación a regadío supone una intensificación agraria con interferencia en el
+hábitat de las especies faunísticas que allí habitan, deberán conservarse o realizarse en su caso linderos de no
+menos de un metro de ancho alrededor y entre todas las parcelas y en su caso recintos que componen la explotación.
+En estos linderos, deberá dejarse crecer la vegetación natural, sin aplicación de herbicidas. Esta medida deberá ser
+comunicada por escrito al Servicio de Medio Natural y Biodiversidad para su comprobación en campo.
+De constatarse a raíz de la puesta en regadío de la parcela, afecciones negativas a recursos naturales protegidos,
+como, entre otros, cambios en la distribución de especies catalogadas, se podrán establecer las medidas oportunas
+para su conservación y la recuperación de las condiciones originales.
+Se sugiere que en la explotación de la finca se incluyan, en la medida de lo posible, las siguientes medidas para
+fomentar el hábitat favorable para las especies avifaunísticas:
+- Mantener y potenciar parches de vegetación natural no cultivada.
+- Reducir el uso de productos agroquímicos y en caso de usarlos, emplear los de menor toxicidad o persistencia.
+Regular las fechas de aplicación de los productos fitosanitarios.
+- Se colocarán al menos 2 majanos con piedras sacadas del terreno para favorecer al mochuelo europeo.
+- Se establecerá un plan de seguimiento sobre el aguilucho cenizo, si se advierte la nidificación de alguna pareja,
+deberá comunicarse esta circunstancia a los agentes medioambientales de la zona para su control.
+El promotor del proyecto deberá participar activamente en la ejecución de medidas establecidas por la administración
+para garantizar la conservación de especies esteparias protegidas y en particular de esteparias, lo cual debe constar
+como un compromiso del propietario.
+En lo no dispuesto en este condicionado se atenderá a las recomendaciones de los agentes medioambientales de
+la zona, quienes ejercerán la supervisión y el seguimiento ambiental de la actuación.
+4.4.- Protección de los sistemas hidrológico e hidrogeológico.
+Deberá estarse a lo dispuesto por la Confederación Hidrográfica del Guadiana en la resolución del expediente
+de concesión 4484/2019, no pudiendo el promotor extraer un volumen superior al que en definitiva se autorice,
+ni ampliar la superficie de riego más allá de la que finalmente se reconozca, correspondiendo a la Confederación
+Hidrográfica velar por el buen estado de la masa de agua subterránea “Mancha Occidental II”.
+La captación existente y la nueva captación de apoyo, en su caso, deberán contar con caudalímetro homologado,
+conforme a lo dispuesto en la Orden TED/1191/2024, de 24 de octubre, por la que se regulan los sistemas electrónicos
+de control de los volúmenes de agua utilizados por los aprovechamientos de agua, los retornos y los vertidos al DPH.
+El contador, el aforador y demás elementos complementarios se deberán colocar y mantener libres de obstáculos
+que puedan dificultar su observación, ubicándose en lugar de fácil acceso, a cubierto del exterior mediante un
+recinto, caseta o arqueta si ello fuera factible.
+La actuación no conlleva vertidos al DPH del Estado, salvo los correspondientes retornos de riego que, conforme al
+artículo 253 ter del Reglamento del DPH, no tendrán la consideración de vertido de agua residual, sin perjuicio de
+la aplicación del régimen sancionador del TRLA en caso de que la actividad agraria sea causante de contaminación
+en las aguas continentales.
+El proyecto se ubica dentro de la Zona Vulnerable a la Contaminación por Nitratos “Mancha Occidental” (Decreto
+80/2025, de 14 de octubre), por lo que deberá cumplirse el Programa de Actuación aplicable y el Código de Buenas
+Prácticas Agrarias de Castilla-La Mancha. Se llevará un cuaderno de campo actualizado de los fitosanitarios y
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31594
+abonos utilizados, aplicados por operador con carné de manipulador de productos fitosanitarios, gestionándose los
+residuos generados mediante el sistema Sigfito.
+Según lo dispuesto en la Orden TED/1191/2024 de 24 de octubre, por la que se regulan los sistemas electrónicos
+de control de volúmenes de agua utilizados por los aprovechamientos de agua, los retornos y los vertidos al DPH
+para el control del volumen derivado por las captaciones de agua del DPH, el titular del mismo queda obligado a
+instalar y mantener a su costa un dispositivo de medición de los volúmenes o caudales de agua captados realmente
+(contador o aforador). El contador, el aforador y los demás elementos complementarios para medida de caudales
+se deberán colocar y mantener libres de obstáculos que puedan dificultar su observación y estarán ubicados en un
+lugar de fácil acceso, a cubierto del exterior mediante un recinto, caseta o arqueta si ello fuera factible. Asimismo, las
+instalaciones se diseñarán de forma que el personal que realice la comprobación de las mediciones pueda efectuar
+sus trabajo desde el exterior de las mismas.
+Será objeto de regulación específica la protección de las aguas frente a la contaminación generada por la actividad
+agraria, sin perjuicio de aplicar el régimen sancionador del TRLA cuando dicha actividad sea causante de contaminación
+en las aguas continentales. El organismo de cuenca, podrá establecer, a la vista de la incidencia de los retornos
+de regadío en la consecución de los objetivos ambientales de las masas de agua, requisitos complementarios a
+los sistemas de control efectivo de los caudales de agua utilizados y retornados al DPH, que se integrarán, en su
+caso, en un plan de vigilancia específico para cada aprovechamiento. Dicho plan de vigilancia tendrá por objeto el
+control de los caudales de agua retornados y su calidad a partir de la realización de aforos directos o de la toma de
+muestras en las épocas que se considere representativas del aprovechamiento, todo ello certificado por una entidad
+colaboradora de la administración hidráulica. Los titulares del derecho al uso privativo del agua para riego deberán
+elaborar el plan cuando así lo prevea el organismo de cuenca, de acuerdo con las indicaciones concretas que éste
+les notifique, así como adoptar las medidas necesarias para su puesta en práctica, comunicando cualquier incidencia
+que pudiera suceder relacionada con el objeto de control. Asimismo, las autoridades agrarias de las comunidades
+autónomas podrán imponer requisitos de control en materia de enriquecimiento por nutrientes y plaguicidas de las
+aguas tras su aprovechamiento, que podrán incluirse en dicho plan.
+En la solicitud y documentación a presentar para la licencia urbanística, indicará la necesidad de realizar otras
+actuaciones vinculadas a la captación de aguas como puedan ser conducciones, líneas eléctricas, instalaciones
+fotovoltaicas, construcción o instalación de casetas, depósitos, vallados, balsas o embalses de riego, corta o tala de
+arbolado, etc, o si se van a utilizar instalaciones existentes, éstas deberán estar legalizadas respecto a la legislación
+sectorial que les afecte.
+En la apertura de zanjas se evitará en todo momento alcanzar el nivel freático.
+Se informa que el entorno de actuación se encuentra dentro de una zona declarada como vulnerable a la contaminación
+por nitratos de origen agrario, denominada “Mancha Occidental”, según consta en la Resolución de 10-02-2003, de
+la Consejería de Agricultura y Medio Ambiente, por la que se designan, en el ámbito de la Comunidad Autónoma de
+Castilla-La Mancha, determinadas áreas como zonas vulnerables a la contaminación de las aguas producida por
+nitratos procedentes de fuentes agrarias. Por tanto, deberá cumplirse lo establecido en el Programa de Actuación
+aplicable a las zonas vulnerables a la contaminación por nitratos aprobado por el Decreto 80/2025 de 14 de octubre
+por el que se aprueba el programa de actuación aplicable en las zonas vulnerables a la contaminación de las aguas
+por nitratos provenientes de fuentes agrarias en la comunidad autónoma de Castilla-La mancha y se establece el
+listado de medidas adicionales y acciones reforzadas.
+La puesta en regadío supone una intensificación de las prácticas agrarias, con el consiguiente aumento del uso
+de productos fitosanitarios y abonos, así como el cambio en la composición de la comunidad de plantas arvenses
+presentes e introducción de otras especies específicas. Si no se realiza un uso responsable y adecuado de estos
+productos, pueden provocar contaminación o eutrofización de las aguas subterráneas directamente o bien por
+contaminación difusa.
+En relación a la aplicación de fitosanitarios, se emplearán aquellos que por motivos de especificidad, tiempo de
+persistencia, etc., sean más recomendables. Asimismo, se adoptarán las medidas necesarias para que su aplicación
+no suponga un riesgo para la contaminación de aguas superficiales o subterráneas. Deberá llevarse un libro de
+registro de los productos utilizados en el que se indique la fecha, zona de aplicación, categoría de peligrosidad
+para las diferentes especies, nombre del producto comercial, materia activa y dosis empleada en cada aplicación.
+Igualmente, se realizarán revisiones periódicas de forma regular en los equipos de aplicación.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31595
+Es necesario adecuar las concesiones conforme a las necesidades hídricas reales de los cultivos, y en todo caso, se
+deben estudiar minuciosamente las condiciones particulares del aprovechamiento para valorar adecuadamente su
+compatibilidad con la preservación y mejora de los humedales manchegos, siempre teniendo en cuenta el principio
+de cautela, ante la duda razonable de que puedan causar de manera acumulativa todos los pozos en su conjunto,
+un efecto negativo de difícil corrección.
+4.5.- Generación de residuos.
+Todos los residuos generados durante las fases de construcción y funcionamiento de la actividad, bien sean residuos
+peligrosos o no, e independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022, de
+8 de abril, de residuos y suelos contaminados para una economía circular.
+Durante la fase de explotación, los residuos procedentes de tratamientos fitosanitarios deberán gestionarse a través
+de gestor autorizado en los términos que establece el Real Decreto 1055/2022, de 27 de diciembre, sobre Envases
+y residuos de envases.
+Tanto durante la fase de obras como durante la fase de funcionamiento, se deberá prestar especial atención a los
+vertidos líquidos procedentes de la maquinaria empleada, y, concretamente, a los aceites usados, que deberán ser
+almacenados en bidones, posteriormente recogidos y transportados para su posterior tratamiento, de acuerdo con
+la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, o en su
+defecto, el promotor se deberá inscribir en el Registro de Pequeños Productores de Residuos Peligrosos y presentar
+contrato con Gestor Autorizado. En caso de cualquier incidencia como derrame accidental de combustibles o
+lubricantes, se actuará de forma que se restaure el suelo afectado, extrayendo la parte de suelo contaminado que
+deberá ser recogido y transportado por gestor autorizado para su posterior tratamiento.
+4.6.- Protección del suelo.
+El artículo 165.2, del Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de
+Castilla -La Mancha, requerirán licencia urbanística los “actos de construcción, edificación y uso del suelo que
+afecten a elementos con protección cultural, a la seguridad y salud públicas, que requieran cualquier tipo de
+autorización ambiental o sean realizados por particulares en dominio público”. Igualmente, el artículo 165.1.p)
+indica que requerirán licencia urbanística “Las instalaciones que afecten al subsuelo”.
+En la apertura de zanjas para el tendido de tuberías, se producirá una afección al suelo. Con el fin de paliar esta
+afección, se realizará un acopio de los 30 primeros cm de suelo agrícola, que será almacenado en caballones de
+alturas inferiores a 1,2 m, para facilitar su aireación y evitar su compactación. Se evitará en todo momento alcanzar
+el nivel freático.
+En relación con los accesos, se priorizará la utilización de caminos existentes, evitándose la apertura de nuevos
+accesos directos a la carretera. En caso de resultar imprescindible la ejecución de un nuevo acceso, este se diseñará
+conforme a la normativa vigente en materia de carreteras, garantizando condiciones adecuadas de visibilidad,
+seguridad y drenaje, previa autorización del servicio de carreteras de la Consejería de Fomento. Asimismo, se
+adoptarán medidas de señalización específicas para advertir de la posible presencia de maquinaria agrícola en las
+incorporaciones a la vía.
+En materia de protección ambiental, se minimizará la eliminación de elementos naturales existentes en los márgenes
+de las parcelas, tales como linderos o ribazos, favoreciendo la conservación de hábitats para la fauna. Se adoptarán
+igualmente buenas prácticas agrarias en el uso de fertilizantes y productos fitosanitarios, estableciendo zonas de
+seguridad sin tratamiento en las proximidades de la carretera, con el fin de evitar la deriva de productos y posibles
+afecciones a la seguridad vial y al entorno.
+En caso de implantación de infraestructuras auxiliares, tales como casetas de bombeo o instalaciones fotovoltaicas,
+estas se ubicarán fuera de la zona de afección de la carretera, garantizando su adecuada integración paisajística y
+evitando cualquier posible interferencia con la circulación, incluyendo riesgos de deslumbramiento.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31596
+Finalmente, se velará por el cumplimiento de la normativa sectorial aplicable, solicitando las correspondientes
+autorizaciones administrativas para cualquier actuación que pudiera afectar al dominio público viario o a sus zonas
+de protección.
+4.7.- Protección contra el ruido.
+Los motores y bombas de extracción de agua se deberán dotar de sistemas que minimicen el ruido a niveles que no
+molesten a la fauna presente en la zona. Para ello se contará con la supervisión de los Agentes Medioambientales
+de la zona.
+4.8.- Patrimonio Histórico y Bienes de Dominio Público e Infraestructuras.
+Se deberá actuar conforme a lo previsto en el artículo 44.1 de la Ley 16/1985, de Patrimonio Histórico Español, y
+en los artículos 48, 49 y 50 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha. El inicio
+de las actuaciones queda condicionado a la elaboración del Estudio de Valoración Histórico-Cultural exigido por la
+Viceconsejería de Cultura y Deportes (Exp. Cult. 26.0155) y a la incorporación de las medidas correctoras que, en
+su caso, se deriven del mismo.
+4.9.- Plan de desmantelamiento.
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos de
+material, residuos o tierras sobrantes a vertederos adecuados a la naturaleza de cada residuo y se restaurarán los
+terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado de limpieza. El desmontaje
+y la restauración deberán realizarse en el plazo máximo de un año tras la finalización de la actividad y deberá
+ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible
+de Albacete (Órgano Ambiental y sustantivo) para dar por finalizado el expediente. Asimismo, en caso de que la
+actividad sea traspasada, también se deberá poner en conocimiento de este organismo.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones,
+o de las medidas correctoras y compensatorias establecidas en la presente resolución. Este informe incluirá un
+listado de comprobación de las medidas previstas en el programa de vigilancia. Cada informe deberá estar suscrito
+conjuntamente por el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán
+ante el órgano ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento
+efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31597
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+Verificación del cumplimiento del Estudio de Valoración Histórico-Cultural y de sus medidas correctoras, en su caso.
+Control del volumen de agua efectivamente utilizado frente al finalmente autorizado por la Confederación Hidrográfica
+del Guadiana en el expediente 4484/2019
+Verificación de la aprobación por el Servicio de Minas de la Delegación Provincial de la Consejería de Desarrollo
+Sostenible en Albacete del proyecto de alumbramiento de la captación nº 2, con carácter previo a su ejecución.
+Control del estado y buen funcionamiento de los equipos de riego.
+Control de la correcta aplicación del plan de abonados y tratamientos fitosanitarios.
+Control del libro registro de productos fitosanitarios utilizados.
+Control de la correcta gestión de todos los residuos generados por la actividad.
+Control de no afección al patrimonio arqueológico.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Delegación Provincial de
+Desarrollo Sostenible de Albacete:
+a) Antes del inicio de la eficacia de la presente Resolución (subsanaciones previas):
+- Estudio de Valoración Histórico-Cultural, informado favorablemente por la Viceconsejería de Cultura y Deportes.
+- Acreditación documental del volumen de agua y de la superficie de riego definitivamente autorizados por la
+Confederación Hidrográfica del Guadiana (resolución del expediente 4484/2019).
+b) Antes del inicio de la obra (una vez subsanado lo anterior):
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Autorización/licencia de obras emitida por el Ayuntamiento de Villarrobledo.
+- Delimitación sobre un plano catastral o SigPac de las parcelas donde se ubican los setos, lindes y majanos
+previstos.
+c) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cuatro primeros años de
+funcionamiento del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y
+vigilancia ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Albacete, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero y en el
+ejercicio de las atribuciones conferidas por la Resolución de 24 de mayo de 2024, de la Dirección General de Calidad
+Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las Delegaciones Provinciales
+de la Consejería de Desarrollo Sostenible y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha, resuelve que el proyecto , resuelve que el proyecto “Unificar dos expedientes de riego y
+modificar el perímetro de riego para regar desde dos captaciones en el polígono 181 parcela 15 de Villarrobledo
+(Albacete)” (S478/2026/AB/00059) cuyo promotor es Jorge Zamora Armero, no necesita someterse a una Evaluación
+de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que
+se cumplan las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se
+desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31598
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Albacete, 31 de agosto de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ
+
+AÑO XLV Núm. 172 8 de septiembre de 2026 31599
+Anexo: Cartografía de la actuación
+Perímetro de la actuación proyectada. Fuente: Elaboración propia
