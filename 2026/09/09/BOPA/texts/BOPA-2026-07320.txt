@@ -1,0 +1,199 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 174 de 9-ix-2026 1/4
+https://miprincipado.asturias.es/bopa
+02370-6202
+.dóC
+I. Principado de Asturias
+• Otras Disposiciones
+Consejería de medio rural y PolítiCa agraria
+Orden de 26 de agosto de 2026, de la Consejería de Medio rural y Política Agraria, por la que se crea el sello
+electrónico y se regulan las actuaciones administrativas automatizadas dentro del ámbito de competencias de la
+Consejería de Medio rural y Política Agraria.
+Preámbulo
+la implantación de medios electrónicos en los procedimientos administrativos supone la posibilidad de automatizar de
+diversas actuaciones administrativas que se realizan dentro del procedimiento administrativo y cuya cobertura legal se
+encuentra recogida en la ley 40/2015, de 1 de octubre, de régimen jurídico del sector Público (en adelante, lrjsP).
+de acuerdo con lo establecido en el artículo 41 de dicha ley, se entiende por actuación administrativa automatizada
+cualquier acto o actuación realizada íntegramente a través de medios electrónicos por una administración pública en el
+marco de un procedimiento administrativo y en la que no haya intervenido de forma directa un empleado público. según
+la disposición final decimocuarta de la LRJSP este precepto tiene carácter básico, pero ha de desarrollarse teniendo en
+cuenta las peculiaridades organizativas de la administración del Principado de asturias establecidas en la ley 2/1995, de
+13 de marzo, sobre régimen jurídico de la administración del Principado de asturias, a cuyo efecto se dicta la presente
+orden.
+Para la autenticación de las actuaciones administrativas automatizadas, el artículo 42 de la lrjsP establece la posibi-
+lidad de usar como sistema de firma electrónica el sello electrónico de Administración Pública, órgano, organismo público
+o entidad de derecho público, basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos
+por la legislación de firma electrónica. De igual forma, el artículo 19 del Real Decreto 203/2021, de 30 de marzo, por el
+que se aprueba el reglamento de actuación y funcionamiento del sector público por medios electrónicos, establece que
+las Administraciones Públicas podrán identificarse mediante el uso de un sello electrónico basado en un certificado elec-
+trónico cualificado que reúna los requisitos exigidos por la legislación de firma electrónica. Estos certificados electrónicos
+incluirán el número de identificación fiscal y la denominación correspondiente, así como, en su caso, la identidad de la
+persona titular en el caso de los sellos electrónicos de órganos administrativos.
+la relación de sellos electrónicos utilizados por cada administración Pública, incluyendo las características de los cer-
+tificados electrónicos y los prestadores que los expiden, debe hacerse pública y ser accesible por medios electrónicos,
+publicándose en la sede electrónica o sede asociada o en el portal de internet correspondiente. además, cada adminis-
+tración Pública adoptará las medidas adecuadas para facilitar la verificación de sus sellos electrónicos.
+Por otro lado, en caso de actuación administrativa automatizada deben establecerse previamente el órgano u órganos
+competentes para la definición de las especificaciones, programación, mantenimiento, supervisión y control de calidad,
+auditoría del sistema de información y de su código fuente, así como para la autorización del uso del sello, y también el
+órgano que debe ser considerado responsable a efectos de impugnación. todo ello es objeto de la presente orden para
+el ámbito de la Consejería de medio rural y Política agraria.
+A tal fin ha de tenerse en cuenta lo dispuesto en el artículo 6 quinquies de la Ley 2/1995, de 13 de marzo, sobre
+régimen jurídico de la administración del Principado de asturias, que regula la actuación administrativa automatizada en
+el ámbito autonómico y estipula que la determinación y el establecimiento de las actuaciones administrativas automati-
+zadas se efectuarán mediante resolución de la persona titular de la Consejería competente en el procedimiento de que
+se trate, resolución en la que deberá indicarse, además, el órgano responsable a efectos de impugnación. no obstante,
+y según el apartado 4 del artículo 21 de dicha Ley, recientemente modificado, “las disposiciones de carácter general que
+aprueben quienes sean titulares de las Consejerías revestirán la forma de orden”.
+el legislador ha indicado como principios generales de esta administración el de innovación y mejora continua, enten-
+dido como la adopción de medidas que permitan cumplir los objetivos de eficacia, eficiencia y agilidad administrativa, así
+como someter los procedimientos a controles de cara a proponer mejoras en la gestión; y el de automatización, entendi-
+do como preferencia de las actuaciones administrativas automatizadas en los actos o actuaciones que sean susceptibles
+de ser configurados como tales en el marco de un procedimiento administrativo.
+Por otra parte, la presente orden se ajusta a los principios de buena regulación recogidos en el artículo 129 de la ley
+39/2015, de 1 de octubre, del Procedimiento administrativo Común de las administraciones Públicas (en adelante, lPa-
+CaP). en concreto, responde a la necesidad de establecer actuaciones administrativas automatizadas dentro del ámbito
+de las competencias funcionales de la Consejería de medio rural y Política agraria, para lo que también es necesaria la
+creación de su correspondiente sello electrónico. además, contribuye a la satisfacción del principio de seguridad jurídica
+en el procedimiento administrativo, al definir con claridad tanto los términos en que se realizarán las actuaciones admi-
+nistrativas automatizadas en el ámbito competencial funcional de la Consejería como la creación y titularidad de su sello
+electrónico. Asimismo, respeta los principios de eficiencia, dado que contribuye a que la actuación administrativa pueda
+ser realizada íntegramente a través de medios electrónicos, y de eficacia, al ser el instrumento necesario y adecuado
+para el fin perseguido, no limitando derechos y deberes de los ciudadanos.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 174 de 9-ix-2026 2/4
+https://miprincipado.asturias.es/bopa
+02370-6202
+.dóC
+Por último, y de acuerdo con el principio de proporcionalidad, la iniciativa contiene la regulación imprescindible para
+atender la necesidad descrita, ejerciéndose de manera coherente con el resto del ordenamiento jurídico.
+teniendo en cuenta la naturaleza organizativa de la norma y su carácter estrictamente interno, al no afectar a los
+derechos ni intereses de los ciudadanos ni imponerles obligaciones ni existir terceros potenciales destinatarios, se ha
+dispuesto, en cumplimiento de lo establecido en el artículo 133.4 de la lPaCaP, que la tramitación de la presente dispo-
+sición prescinda de los trámites de consulta pública previa, audiencia e información pública.
+Por decreto 22/2023, de 31 de julio, del Presidente del Principado de asturias, de reestructuración de las Consejerías
+que integran la administración de la Comunidad autónoma, se regula la Consejería de medio rural y Política agraria,
+cuya estructura orgánica básica se establece por decreto 88/2023, de 18 de agosto.
+En virtud de todo lo expuesto, y de conformidad con lo establecido en los artículos 6 quinquies y
+21.4 de la ley 2/1995, de 13 de marzo, sobre régimen jurídico de la administración del Principado de asturias, por
+la presente,
+disPongo
+artículo 1.—Objeto y ámbito de aplicación.
+1. La presente Orden tiene por objeto la creación del sello electrónico de la Consejería de Medio Rural y Política
+agraria y la regulación de las actuaciones administrativas automatizadas a las que se aplicará.
+2. Lo dispuesto en esta Orden será de aplicación a la totalidad de los órganos que tramitan procedimientos y trá-
+mites electrónicos y cuya dependencia orgánica le corresponde a esta Consejería.
+artículo 2.—Creación del sello electrónico de la Consejería.
+Se crea el sello electrónico de la Consejería de Medio Rural y Política Agraria para la identificación y la autenticación
+del ejercicio de la competencia en las actuaciones administrativas automatizadas generadas en el ámbito funcional de
+la Consejería.
+artículo 3.—Titularidad del sello electrónico de la Consejería.
+la titularidad del sello electrónico de la Consejería de medio rural y Política agraria, así como la responsabilidad de
+su utilización, corresponderá a la persona titular de la Consejería. Las características generales del sistema de firma y
+certificado aplicable serán las que consten en la Política de Firma del Principado de Asturias.
+artículo 4.—Actuaciones administrativas a las que es aplicable el sello electrónico de la Consejería.
+el sello electrónico de la Consejería de medio rural y Política agraria podrá ser utilizado en las actuaciones adminis-
+trativas automatizadas siguientes:
+a) emisión de comunicaciones administrativas.
+b) Emisión de actos, resoluciones y notificaciones administrativas.
+c) generación de copias electrónicas de documentos en soporte papel.
+d) Generación de certificados de inscripciones y/o anotaciones registrales.
+e) Firma automatizada para integraciones informáticas.
+artículo 5.—emisión de comunicaciones administrativas de forma automatizada.
+1. Las comunicaciones administrativas que se produzcan en el seno de los procedimientos electrónicos de la Con-
+sejería podrán ser generadas de forma automática a partir de la firma electrónica del acto o documento que se
+comunica, incluyendo el apunte del registro electrónico de salida. Serán firmadas mediante el sello electrónico
+de la Consejería, haciendo constar en los datos de firma la identificación de la persona titular de la Consejería.
+2. Se comprobarán los datos del destinatario de la comunicación en las bases de datos propias, de modo que si
+concurren las condiciones establecidas se procederá a la emisión de las correspondientes comunicaciones de
+forma automatizada.
+artículo 6.—Emisión de actos, resoluciones y notificaciones administrativas de forma automatizada.
+1. Los actos, resoluciones y notificaciones que se produzcan en los procedimientos de la Consejería a través de sus
+sistemas de información podrán ser generados de forma automática incluyendo el apunte de registro electrónico
+de salida. Serán firmados mediante el sello electrónico de la Consejería haciendo constar en los datos de firma,
+cuando sea posible, la identificación de la persona titular del órgano central superior de la Consejería o, en su
+caso, del titular de la estructura administrativa responsable de la tramitación del procedimiento en que se hayan
+producido.
+2. Se comprobarán los datos para generar los actos y las notificaciones en las bases de datos propias, de modo
+que si concurren las condiciones establecidas se procederá a la emisión de los correspondientes documentos de
+forma automatizada.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 174 de 9-ix-2026 3/4
+https://miprincipado.asturias.es/bopa
+02370-6202
+.dóC
+artículo 7.—Generación de copias electrónicas de documentos en soporte papel.
+1 La generación de una copia electrónica a partir de un documento en soporte papel podrá realizarse de forma
+automatizada mediante el proceso de digitalización que se regula en el artículo 27.3 de la Ley 39/2015, de 1 de
+octubre, del Procedimiento administrativo Común de las administraciones Públicas.
+2. La copia electrónica de documentos digitalizados de forma automatizada obtiene una imagen codificada, fiel
+e íntegra del documento. El documento resultante se autenticará mediante la firma de sello electrónico de la
+Consejería.
+artículo 8.—Generación de certificados de inscripciones y/o anotaciones registrales.
+a solicitud de los interesados que formulen sus peticiones mediante los servicios electrónicos disponibles en la sede
+electrónica del Principado de Asturias, se podrán generar de forma automatizada certificados de inscripciones o anota-
+ciones registrales que serán firmados por el sello electrónico de la Consejería. Estos certificados serán el resultado del
+tratamiento y verificación de la información existente en las bases de datos de cada procedimiento registral de compe-
+tencia funcional de la Consejería.
+artículo 9.—Firma automatizada para integraciones informáticas.
+el sello electrónico de la Consejería de medio rural y Política agraria podrá ser utilizado en las actuaciones adminis-
+trativas automatizadas siguientes:
+a) La identificación y autenticación de la misma en las integraciones informáticas que se conecten con las infraes-
+tructuras y servicios comunes proporcionados por la administración general del estado, cuando éstas afecten a
+los sistemas de información que dan soporte a procesos propios del ámbito de competencias de la Consejería.
+b) La identificación y firma de la actuación administrativa automatizada de los procesos de gestión de las facturas
+electrónicas provenientes del Punto General de Entrada de Facturas Electrónicas de la Administración General
+del Estado regulado en la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del
+registro contable de facturas en el sector Público y que van dirigidas a la Consejería.
+artículo 10.—Órganos competentes en materia de actuaciones administrativas automatizadas.
+los órganos competentes en relación con las actuaciones administrativas automatizadas incluidas en el artículo 4
+serán los siguientes:
+a) Para definir las especificaciones, programación, mantenimiento, supervisión y control de calidad y, en su caso,
+auditoría del sistema de información y de su código fuente, la dirección general competente en materia de se-
+guridad y estrategia digital.
+b) Para autorizar el uso del sello electrónico, la persona titular de la Consejería, previa solicitud motivada del cen-
+tro directivo donde se incluirá, al menos, una memoria justificativa que exponga detalladamente los motivos
+que fundamentan la necesidad del uso del sello y un análisis pormenorizado de la actuación a la que se pretende
+aplicar.
+c) a efectos de impugnación de las actuaciones administrativas automatizadas, será responsable la persona titular
+de Consejería.
+artículo 11.—Comprobación de los documentos generados de forma automatizada.
+1. Todos los documentos que sean producto de las actuaciones administrativas automatizadas reguladas median-
+te la presente orden deberán poder comprobarse mediante el acceso a la sede electrónica del Principado de
+Asturias. Para ello, los documentos deberán incluir un Código Seguro de Verificación (CSV) generado de forma
+automática.
+2. El sistema de CSV deberá garantizar, en todo caso, el carácter único del código generado para cada documento,
+su vinculación con el documento generado y con el firmante.
+artículo 12.—Gestión técnica de los Códigos Seguros de Verificación (CSV).
+La gestión técnica de las infraestructuras y aplicaciones necesarias para la generación y verificación del CSV corres-
+ponderá a la dirección general competente en materia de seguridad y estrategia digital.
+artículo 13.—Plazo de disponibilidad de documentos generados mediante las actuaciones administrativas automatizadas.
+1. Los documentos electrónicos generados mediante actuación administrativa automatizada estarán disponibles a
+efectos de comprobación mediante CsV en tanto no se acuerde la destrucción de los documentos sobre los que
+se hayan emitido, con arreglo a la normativa que resulte de aplicación o por decisión judicial.
+2. Cuando se intente cotejar en la sede electrónica un documento que incluye un CSV que ya no está disponible
+por decisión judicial o por la aplicación de la normativa vigente, aparecerá un mensaje que informe de esta
+circunstancia.
+artículo 14.—Otras actuaciones administrativas automatizadas.
+Cuando se detecten otras actuaciones susceptibles de automatización mediante firma con el sello electrónico de la
+Consejería, el órgano competente podrá solicitar la incorporación del sello a esa actuación, que deberá ser previamente
+autorizada por la persona titular de la Consejería mediante la correspondiente orden de declaración de actuación admi-
+nistrativa automatizada.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 174 de 9-ix-2026 4/4
+https://miprincipado.asturias.es/bopa
+02370-6202
+.dóC
+disposición derogatoria única.—derogación normativa.
+Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo establecido en la presente orden, y
+en particular la resolución de 16 de marzo de 2022, de la Consejería de medio rural y Cohesión territorial, por la que se
+crea el sello electrónico y se regulan las actuaciones administrativas automatizadas dentro del ámbito de competencias
+de la Consejería de medio rural y Cohesión territorial.
+Disposición final única.—entrada en vigor.
+la presente orden producirá efectos a partir del día siguiente al de su publicación en el Boletín Oficial del Principado
+de Asturias.
+en oviedo, a 26 de agosto de 2026.—el Consejero de medio rural y política agraria, marcelino marcos líndez.—Cód.
+2026-07320.

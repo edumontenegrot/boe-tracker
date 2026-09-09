@@ -1,0 +1,182 @@
+CERTIFICADO DE CONFORMIDAD CON
+EL ESQUEMA NACIONAL DE SEGURIDAD
+Audertis Audit Services certifica que, de acuerdo con la declaración de aplicabilidad vigente, los sistemas
+de información reseñados, todos ellos de categoría MEDIA, y los servicios que se relacionan, de la
+organización pública
+AGENCIA DIGITAL DE ANDALUCÍA (ADA)
+con NIF: Q4100953A
+domiciliada en C/ Gonzalo Jiménez de Quesada, 2, 3ª
+0 Edificio Torre Sevilla, 41092, Sevilla
+7
+4
+5
+3
+6 7 han sido auditados y encontrados conforme a las exigencias del Real Decreto 311/2022, de 3 de mayo,
+8
+B
+:F
+- por el que se regula el Esquema Nacional de Seguridad, según se indica en el correspondiente Informe
+IN
+de Auditoría de fecha once de junio del 2026 para:
+D
+IR
+D
+A
+M
+– “Los sistemas de información gestionados por la Agencia Digital de Andalucía, que dan soporte a la Junta
+6
+4 de Andalucía en lo que se refiere a:
+0
+8
+2
+)9
+• Portal institucional de la Junta de Andalucía en Internet (PORTALJDA)
+2
+a • Punto de Acceso General Electrónico de la Administración de la Junta de Andalucía (PORTALJDA)
+tn
+a lP • Sede electrónica general de la Administración de la Junta de Andalucía (PORTALJDA)"
+,a
+p
+o
+ru
+E
+e
+rro
+T
+o ic DESGLOSE DEL CUMPLIMIENTO GLOBAL DE LA CATEGORÍA
+ifid
+CATEGORÍA C I T A D Total de Medidas
+E
+(
+,5 MEDIA
+9
+a PORTALJDA Bajo Medio Bajo Medio Medio 65
+n
+a
+lle
+ts
+a
+C
+a
+l
+e
+Número de certificado: CERT-ENS-26471-R
+d
+º Fecha de concesión: 20 de julio de 2026
+P
+2
+8 Fecha de expiración: 20 de julio de 2028
+8
+7
+8 Fecha inicial de certificación: 20 de julio de 2026
+3
+8
+1
+9
+.le
+-
+T
+s
+e
+.s
+itre
+d u Certificado expedido digitalmente
+a
+.w
+Dirección Técnica de AUDERTIS
+w
+w
+Emitido en Madrid, a 28 de julio de 2026
+La extensión “R” en el número del certificado indica la reemisión del certificado original, emitiendo un certificado individual para cada uno de los
+sistemas de información PORTALJDA y BOJA inicialmente representados.
+Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato.
+La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion
+
+CERTIFICADO DE CONFORMIDAD CON
+EL ESQUEMA NACIONAL DE SEGURIDAD
+Ubicaciones principales para el sistema de información:
+• Sede Central: Edificio: Torre Sevilla - C/ Gonzalo Jiménez de Quesada, 2, 3ª, 41002, Sevilla
+• Sede donde presta servicios algún personal desplazado de la Agencia Digital de Andalucía:
+o Edificio Torre Triana - C/ Juan Antonio de Vizarrón, s/n, 41092, Sevilla
+o Edificio CICA - Campus Universitario Reina Mercedes; C/ Tarfia, s/n, 41012, Sevilla
+• (#2) Centros asociados (NDA)
+0
+7
+4
+5
+3
+6
+7
+8
+B-
+:F
+IN
+D
+IR
+D
+A
+M
+6
+–
+4
+0
+8
+2
+)9
+2
+a
+tn
+a
+lP
+,a
+p
+o
+ru
+E
+e
+rro
+T
+o
+ic
+ifid
+E
+(
+,5
+9
+a
+n
+a
+lle
+ts
+a
+C
+a
+l
+e
+d
+º
+P
+2
+8
+8
+7
+8
+3
+8
+1
+9
+.le
+-
+T
+s
+e
+.s
+itre
+d
+u
+a
+.w
+w
+w
+Certificado emitido con firma digital de Fábrica Nacional de Moneda y Timbre, propiedad de AUDERTIS y sujeto a condiciones del contrato.
+La acreditación de la entidad y los certificados emitidos pueden verificarse en: https://ens.ccn.cni.es/es/certificacion
