@@ -1,0 +1,231 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122179
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+19194 Resolución de 2 de septiembre de 2026, de la Universidad de Castilla-La
+Mancha, por la que se publica la modificación del plan de estudios de
+Graduado o Graduada en Ingeniería Eléctrica.
+Habiéndose emitido, con fecha 23 de julio de 2026, resolución favorable del Consejo
+de Universidades referente a la solicitud de modificación del plan de estudios del Grado
+en Ingeniería Eléctrica por la Universidad de Castilla-La Mancha, título oficial establecido
+por Acuerdo del Consejo de Ministros en su reunión de 1 de octubre de 2010 (publicado
+en el BOE de 11 de noviembre de 2010, por Resolución de la Secretaría General de
+Universidades de 18 de octubre de 2010),
+Este Rectorado, de conformidad con lo dispuesto en el artículo 32.5 del Real
+Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las
+enseñanzas universitarias y del procedimiento de aseguramiento de su calidad, ha
+resuelto publicar la modificación del plan de estudios del Grado en Ingeniería Eléctrica.
+El plan de estudios quedará estructurado según consta en el anexo de esta
+resolución.
+Ciudad Real, 2 de septiembre de 2026.–El Rector, José Julián Garde López-Brea.
+ANEXO
+Plan de estudios del Grado en Ingeniería Eléctrica
+por la Universidad de Castilla-La Mancha
+Rama: Ingeniería y Arquitectura
+Campo de Estudio: Ingeniería industrial, ingeniería mecánica, ingeniería automática,
+ingeniería de la organización industrial e ingeniería de la navegación
+Centros de impartición:
+Escuela Técnica Superior de Ingeniería Industrial de Albacete.
+Escuela de Ingeniería Minera e Industrial de Almadén.
+Escuela Técnica Superior de Ingeniería Industrial de Ciudad Real.
+Escuela de Ingeniería Industrial y Aeroespacial de Toledo.
+Distribución general del plan de estudios
+Tipo de materia Créditos ECTS
+Formación Básica. 66
+Obligatoria. 126
+Optativa. 36
+Trabajo Fin de Grado. 12
+Créditos totales. 240
+49191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122180
+Campo de estudio de las asignaturas de formación básica
+Carác
+Materia Asignatura ECTS Campo de estudio
+ter
+Cálculo I. FB 6
+Cálculo II. FB 6
+Matemáticas. Álgebra. FB 6
+Ampliación de Matemáticas. FB 6
+Estadística. FB 6
+Ingeniería industrial, ingeniería mecánica, ingeniería automática,
+Expresión Gráfica. Expresión Gráfica. FB 6
+ingeniería de la organización industrial e ingeniería de la navegación.
+Empresa. Gestión Empresarial. FB 6
+Física I. FB 6
+Física.
+Física II. FB 6
+Química. Química. FB 6
+Informática. Informática. FB 6
+Estructura del plan de estudios por módulos, materias y asignaturas
+Módulo Materia Asignatura ECTS Carácter
+Cálculo I. 6 FB
+Álgebra. 6 FB
+Matemáticas. Cálculo II. 6 FB
+Estadística. 6 FB
+Ampliación de Matemáticas. 6 FB
+Módulo 1. Formación básica
+Física I. 6 FB
+(66 ECTS).
+Física.
+Física II. 6 FB
+Informática. Informática. 6 FB
+Química. Química. 6 FB
+Expresión Gráfica. Expresión Gráfica. 6 FB
+Empresa. Gestión Empresarial. 6 FB
+49191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122181
+Módulo Materia Asignatura ECTS Carácter
+Fundamentos de Termodinámica. Termodinámica Técnica y Transferencia de Calor. 6 OB
+Fundamentos de Mecánica de Fluidos. Mecánica de Fluidos. 6 OB
+Fundamentos de Ciencia de los Materiales. Ciencia de los Materiales. 6 OB
+Fundamentos de Tecnología Eléctrica. Tecnología Eléctrica. 6 OB
+Fundamentos de Tecnología Electrónica. Tecnología Electrónica. 6 OB
+Módulo 2. Formación común
+Fundamentos de Regulación Automática. Regulación Automática. 6 OB
+a la rama industrial (66 ECTS).
+Fundamentos de Máquinas y Mecanismos. Teoría de Máquinas y Mecanismos. 6 OB
+Fundamentos de Resistencia de Materiales. Resistencia de Materiales. 6 OB
+Fundamentos de Producción Industrial. Sistemas de Fabricación y Organización Industrial. 6 OB
+Fundamentos de Medio Ambiente. Tecnología del Medio Ambiente. 6 OB
+Ingeniería de Proyectos. Proyectos en la Ingeniería. 6 OB
+Teoría de Circuitos. 6 OB
+Máquinas Eléctricas y Análisis de Circuitos. Máquinas Eléctricas. 6 OB
+Control de Máquinas Eléctricas. 6 OB
+Instalaciones Eléctricas de Baja Tensión. 6 OB
+Transporte y Distribución. Instalaciones Eléctricas de Alta Tensión. 6 OB
+Módulo 3. Tecnología
+específica (60 ECTS).
+Líneas Eléctricas. 6 OB
+Electrónica de Potencia. Electrónica de Potencia. 6 OB
+Control Digital. Control Digital. 6 OB
+Generación de Energía Eléctrica. Centrales Eléctricas. 6 OB
+Energías Renovables. Energías Renovables. 6 OB
+Infraestructura Eléctrica de Baja y Alta Tensión. 6 OP
+Luminotecnia. 6 OP
+Mantenimiento Eléctrico. 6 OP
+Instalaciones e Infraestructuras Eléctricas.
+Construcción y Topografía. 6 OP
+Automatización de Instalaciones Eléctricas. 6 OP
+Sistemas de Medida SCADA y EMS en los
+6 OP
+Módulo 4.1 Formación Sistemas Eléctricos de Potencia.
+optativa. Albacete.
+Análisis y Operación de Sistemas Eléctricos. 6 OP
+Planificación y Explotación de Centrales de
+6 OP
+Energía Eléctrica.
+Energías Renovables y Centrales Eléctricas. Diseño de Centrales de Energía Eléctrica
+6 OP
+Basadas en Fuentes de Energía Renovable.
+Sistemas Térmicos en Energías Renovables. 6 OP
+Electrónica Industrial. 6 OP
+49191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122182
+Módulo Materia Asignatura ECTS Carácter
+Ampliación de Máquinas Eléctricas. 6 OP
+Sistemas Eléctricos de Potencia. 6 OP
+Software Matemático para Ingeniería Eléctrica. 6 OP
+Módulo 4.2 Formación
+Sistemas de Energía Eléctrica.
+optativa. Ciudad Real.
+Tecnología Energética. 6 OP
+Fiabilidad para Sistemas Eléctricos de Potencia. 6 OP
+Vehículos Eléctricos, Híbridos y Tracción Eléctrica. 6 OP
+Introducción a la Automatización Industrial. 6 OP
+Automatización e Instrumentación Eléctrica.
+Medidas Eléctricas. 6 OP
+Ingeniería de Control Moderna. 6 OP
+Control y Sistemas Eléctricos de Potencia.
+Sistemas Eléctricos de Potencia. 6 OP
+Gestión Ambiental. Gestión Ambiental. 6 OP
+Módulo 4.3 Formación
+Métodos Numéricos en Ingeniería. 6 OP
+optativa. Toledo.
+Sistemas de Energía Eólica. 6 OP
+Sistemas de Energía Solar. 6 OP
+Tecnologías Energéticas y Métodos de
+Cálculo.
+Tecnologías de Transformación de Energía. 6 OP
+Diseño y Cálculo de Instalaciones en Edificios. 6 OP
+Estadística Industrial. 6 OP
+Control de Calidad. 6 OP
+Ofimática Aplicada a la Ingeniería. 4,5 OP
+Control, Gestión y Tecnologías en Ingeniería.
+Gestión de Proyectos. 4,5 OP
+Obra Civil en la Ingeniería. 4,5 OP
+Luminotecnia. 6 OP
+Domótica. 6 OP
+Módulo 4.4 Formación
+optativa. Almadén.
+Instalaciones Generales. 6 OP
+Instrumentación Industrial y Medida. 6 OP
+Instalaciones Eléctricas.
+Sistemas de Comunicación en Edificios. 6 OP
+Mantenimiento de Instalaciones. 6 OP
+Inglés Técnico. 6 OP
+Sistemas Eléctricos de Potencia. 6 OP
+Electrónica Analógica. 6 OP
+Sistemas Electrónicos.
+Instrumentación Electrónica. 6 OP
+Electrónica Digital. Electrónica Digital I. 6 OP
+Módulo 4.5 Formación
+optativa. Electrónica industrial. Robótica Industrial. Robótica Industrial. 6 OP
+Informática Industrial. Informática Industrial. 6 OP
+Automatización Industrial. Automatización Industrial. 6 OP
+49191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122183
+Módulo Materia Asignatura ECTS Carácter
+Ingeniería Gráfica. Ingeniería Gráfica. 6 OP
+Ingeniería de Materiales. Ingeniería y Tecnología de Materiales. 6 OP
+Ingeniería Térmica. Ingeniería Térmica. 6 OP
+Módulo 4.6 Formación
+optativa. Mecánica. Diseño y Cálculo de Estructuras Metálicas y de
+6 OP
+Hormigón.
+Ingeniería de Estructuras.
+Teoría de Estructuras y Construcciones Industriales. 6 OP
+Tecnología de Fabricación. Tecnología de Fabricación. 6 OP
+Prácticas Académicas Externas. Prácticas Académicas Externas. 6 OP
+Optativa de Intercambio I. 6 OP
+Optativa de Intercambio II. 6 OP
+Módulo 4.7 Formación
+Optativa de Intercambio III. 6 OP
+optativa. Común.
+Asignaturas de Intercambio.
+Optativa de Intercambio IV. 6 OP
+Optativa de Intercambio V. 6 OP
+Optativa de Intercambio VI. 6 OP
+Módulo 5. Trabajo Fin de
+Trabajo Fin de Grado. Trabajo Fin de Grado. 12 TFG
+Grado (12 ECTS).
+FB = Formación Básica; OB = Obligatorio; OP = Optativo; TFG = Trabajo Fin de Grado.
+49191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

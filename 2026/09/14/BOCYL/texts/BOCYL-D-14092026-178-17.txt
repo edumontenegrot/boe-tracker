@@ -1,0 +1,1014 @@
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 125
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Burgos
+RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos,
+por la que se dicta el informe de impacto ambiental del proyecto de planta solar fotovoltaica
+hibridada «La Loma» y su infraestructura de evacuación, en el término municipal de
+Valle de Santibáñez (Burgos), promovido por «Estudios y Proyectos Pradamap, S.L.U.».
+Expte.: EIAS/2026/BU/006.
+El titular de la Delegación Territorial de la Junta de Castilla y León en Burgos, en
+relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental y en virtud de las atribuciones conferidas por el artículo 52.2
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano competente para dictar
+informe de impacto ambiental.
+La citada Ley de evaluación ambiental recoge en su anexo II los proyectos sometidos
+a evaluación de impacto ambiental simplificada. El presente proyecto está incluido en el
+Grupo 4, j) «Instalaciones para la producción de energía eléctrica a partir de la energía
+solar no incluidos en el anexo I, que ocupen una superficie superior a 5 ha, así como las
+que ocupen una superficie inferior a 5 ha y cumplan los criterios generales 1 o 2».
+También, el Texto refundido de la Ley de Prevención Ambiental de Castilla y León,
+aprobado por Decreto Legislativo 1/2015, de 12 de noviembre, incluye en el Anexo I b)
+«Plantas de captación de energía solar con potencia nominal igual o superior a 10 MW».
+Se hace constar que el proyecto está exceptuado del cumplimiento de lo establecido
+en el apartado 2 del artículo 13 del Decreto-Ley 4/2022, de 27 de octubre, de modificación
+del Decreto-Legislativo 1/2015, de 12 de noviembre, por el que se aprueba el texto
+refundido de la Ley de Prevención Ambiental de Castilla y León, del Decreto-Ley 2/2022,
+de 23 de junio, por el que se adoptan medidas urgentes para la agilización de la gestión
+de los fondos europeos y el impulso de la actividad económica y por el que se actualizan
+las retribuciones para 2022 en el ámbito del sector público de la Comunidad Autónoma de
+Castilla y León, debido a estar exceptuado según artículo 13.3. c) del citado decreto-ley.
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 126
+Considerando adecuadamente tramitado el expediente, vista la propuesta de
+resolución de la Comisión Territorial de Medio Ambiente y Urbanismo de Burgos celebrada
+el día 1 de septiembre de 2026, las observaciones y la documentación presentada,
+RESUELVO
+Dictar el informe de impacto ambiental del proyecto de planta solar fotovoltaica
+hibridada «La Loma» y su infraestructura de evacuación, en el término municipal de Valle
+de Santibáñez (Burgos), promovido por Estudios y Proyectos Pradamap, S.L.U., que
+figura como Anexo.
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental y en el artículo 59 del texto refundido de la Ley de
+Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este informe de impacto ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Burgos, 8 de septiembre de 2026.
+El Delegado Territorial,
+Fdo.: Roberto Saiz Alonso
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 127
+ANEXO
+INFORME DE IMPACTO AMBIENTAL DEL PROYECTO DE PLANTA SOLAR
+FOTOVOLTAICA HIBRIDADA «LA LOMA» Y SU INFRAESTRUCTURA DE EVACUACIÓN,
+EN EL TÉRMINO MUNICIPAL DE VALLE DE SANTIBÁÑEZ (BURGOS), PROMOVIDO
+POR ESTUDIOS Y PROYECTOS PRADAMAP, S.L.U. EXPTE.: EIAS/2026/BU/006.
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+El objeto del proyecto es la instalación de una planta solar fotovoltaica denominada
+«La Loma» de potencia nominal 13,685 MW, hibridada con un parque eólico en explotación
+de igual nombre de potencia nominal 28,6 MW, resultando una planta híbrida de
+42,285 MW, siendo la potencia máxima de conexión y evacuación a la red de 28,6 MW.
+La planta fotovoltaica se ubica en el término municipal de Valle de Santibáñez
+(Burgos), siendo la superficie total ocupada de 39,23 ha, configurándose en 5 recintos
+vallados, siendo la longitud total de los vallados de 5.797 m.
+La evacuación de la energía se hará mediante una red subterránea de media tensión
+de 30 kV y 785 m de longitud, hasta la subestación transformadora «La Loma» 30/132 kV
+existente y en funcionamiento, que será modificada con la instalación de nuevas celdas
+para poder recibir la energía producida.
+El acceso a la instalación se podrá realizar a través de los caminos rurales procedentes
+de la BU-V-6066. Dicha vía proviene de la BU-622 p.k. 17 y conecta el núcleo urbano de
+La Nuez de Abajo con Avellanosa del Páramo.
+Dentro del parque fotovoltaico, se realizarán viales internos de 4 m por el perímetro
+de las poligonales a ocupar por los módulos fotovoltaicos. Ninguno de ellos se hará por
+fuera del perímetro vallado.
+Se realizará un plan de restauración de todas las superficies ocupadas como
+consecuencia de las obras relativas a la instalación solar fotovoltaica. Se tendrá en cuenta
+la superficie no afectada por las instalaciones de la planta fotovoltaica que queda dentro
+del vallado perimetral, la superficie ocupada por los viales y accesos y por las zanjas de
+media tensión de la instalación solar fotovoltaica.
+1.1. DESCRIPCIÓN DEL PROYECTO Y EMPLAZAMIENTO.
+Estudios y Proyectos PRADAMAP,
+Expediente N.º EIAS/2026/BU/006 Promotor
+S.L.U.
+Denominación del centro Planta solar fotovoltaica «La Loma». FV687
+Domicilio social Calle Miguel Ángel, 11. 28010.–Madrid.
+Instalación y puesta en marcha de una planta de producción de Anexo Grupo
+energía eléctrica mediante tecnología solar fotovoltaica de 13,685
+Epígrafe
+MW de potencia instalada y su infraestructura de evacuación, en
+Descripción Ley
+el término municipal de Valle de Santibáñez (Burgos), para su II 4. j)
+21/2013
+hibridación con el parque eólico existente «La Loma» de 28,6 MW,
+resultando una planta híbrida eólica-fotovoltaica de 42,285 MW.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 128
+1.1. DESCRIPCIÓN DEL PROYECTO Y EMPLAZAMIENTO.
+INSTALACIÓN FOTOVOLTAICA
+Coordenadas X (ETRS 89, Coordenadas Y (ETRS 89,
+Recinto Superficie ocupada (ha)
+Huso 30) Huso 30)
+1 432.294 4.700.787 7,02
+2 431.508 4.700.827 8,97
+3 430.948 4.701.161 4,12
+4 430.616 4.701.169 8,31
+5 431.972 4.701.418 10,80
+Superficie total ocupada (ha) 39,23 Superficie módulos fotovoltaicos (ha) 7,24
+Infraestructura de
+Polígono Parcela Término municipal Referencia Catastral
+ocupación
+340 09369E50500340 Recinto 1 PSFV
+505
+332 09369E50500332 Recinto 2 PSFV
+363 09369J50600363
+Recinto 3 PSFV
+362 Valle de Santibáñez 09369E50600362
+506 365 09369J50600365
+Recinto 4 PSFV
+364 09369J50600364
+380 09369E50600380 Recinto 5 PSFV
+N.º de módulos fotovoltaicos Potencia pico Modelo módulo N.º de strings
+Módulos fotovoltaicos Risen RSM132-8-
+23.324 módulos bifaciales 685 Wp 833
+685BHDG
+Seguidores 833 seguidores a un eje.
+Inversores 7 inversores Power Electronics FS1955K de 1.955 kVA de potencia nominal a 40°C.
+Centro de
+4 centros de transformación.
+transformación
+LÍNEA SUBTERRÁNEA DE EVACUACIÓN
+El promotor proyecta una línea eléctrica soterrada en 30 kV para la evacuación de la energía generada de
+aproximadamente 785 m de longitud, que entroncará en la subestación transformadora «La Loma» 30/132 kV
+existente y en funcionamiento, la cual será readecuada para poder recibir la energía vertida.
+1.2. SITUACIÓN Y DISTANCIA A ELEMENTOS SENSIBLES.
+Coincidencia territorial o
+• Zumel: 803 m.
+Distancia a núcleos de distancia con Red Natura 2000,
+• La Nuez de Abajo: 867 m. No.
+población. o plan de conservación y/o
+• Avellanosa del Páramo: 1,89 km.
+recuperación de especies
+• ZEC (ES4120072)
+• Río Úrbel: 1,32 km. «Riberas del Río
+Distancia a otros elementos
+• Colada de la Nuez de Abajo a Arlanzón y afuentes»:
+(cauces, acequias, lagos, Distancia a espacios
+Huérmeces: 972 m. 1,33 km
+pozos, conducciones, red protegidos
+• Colindancia con la carretera • ZEC (ES4120093)
+autovías, ferrocarriles, etc.)
+BU-V-6066. «Humada-Peña Amaya»:
+11,74 km
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 129
+1.3. PRODUCCIÓN DE RESIDUOS.
+Gestión de residuos Gestor autorizado.
+No peligrosos: hormigón; madera; plástico; hierro y acero; tierras y piedras; residuos
+mezclados de construcción y demolición; absorbentes, materiales de filtración, trapos de
+Principales residuos limpieza y ropas protectoras; papel y cartón; mezclas de residuos municipales.
+producidos Peligrosos: tierras y piedras que contienen sustancias peligrosas; aceites minerales no
+clorados de motor, de transmisión mecánica y lubricantes; combustibles (incluido mezclas);
+envases que contienen restos de sustancias peligrosas o que están contaminadas por ellas.
+2. DOCUMENTO AMBIENTAL.
+El documento ambiental presentado describe el medio afectado, identifica los
+principales impactos sobre el mismo, estableciendo finalmente una serie de medidas
+correctoras y un programa de vigilancia ambiental, diferenciando las fases de construcción,
+funcionamiento y cese.
+Respecto a las alternativas, además de la alternativa 0 o de no ejecución del
+proyecto, se plantean cuatro opciones diferentes para el desarrollo del proyecto, en las
+que se tienen en cuenta tanto el área de implantación fotovoltaica como el trazado de la
+línea de evacuación eléctrica. Dichas alternativas son las siguientes:
+• Alternativa 1: contempla una instalación solar fotovoltaica de 13,685 MW,
+compuesta por un total de 28.530 módulos fotovoltaicos de tipo bifacial con
+potencia por módulo de 560 Wp. Esta alternativa ocupa una superficie total de
+vallado de aproximadamente 70,9 ha, dentro de un único recinto. La energía
+generada por la planta fotovoltaica pretende ser evacuada mediante una línea
+soterrada de longitud aproximada de 3.210 m. El proyecto se emplaza en los
+términos municipales de Pedrosa de Río Úrbel y Valle de Santibáñez (Burgos).
+• Alternativa 2: contempla una instalación solar fotovoltaica de 13,685 MW,
+compuesta por un total de 26.852 módulos fotovoltaicos de tipo bifacial con
+potencia por módulo de 595 Wp. La instalación ocupa una superficie total de
+vallado de aproximadamente 59,9 ha dentro de un único recinto. La energía
+generada por la planta fotovoltaica será evacuada mediante una línea aérea con
+longitud de 2.495 m. La totalidad del proyecto se emplaza en el término municipal
+de Valle de Santibáñez (Burgos).
+• Alternativa 3: contempla una instalación solar fotovoltaica de 13,685 MW,
+compuesta por un total de 23.324 módulos fotovoltaicos de tipo bifacial con
+potencia por módulo de 685 Wp. La instalación ocupa una superficie total de
+vallado de aproximadamente 39,23 ha, repartidos en 5 recintos. La energía
+generada por la planta fotovoltaica será evacuada mediante una línea soterrada
+con una longitud de 785 m. La totalidad del proyecto se emplaza en el término
+municipal de Valle de Santibáñez (Burgos).
+• Alternativa 4: contempla una instalación solar fotovoltaica de 13,685 MW,
+compuesta por un total de 25.360 módulos fotovoltaicos de tipo bifacial con
+potencia por módulo de 630 Wp. La superficie ocupada dentro del vallado
+perimetral es de aproximadamente 51,1 ha, en un único recinto. La energía
+generada será evacuada mediante una línea aérea con una longitud de 3.859 m.
+La totalidad del proyecto se emplaza en el término municipal de Valle de
+Santibáñez (Burgos).
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 130
+En base a criterios técnicos y ambientales, se ha seleccionado la «Alternativa 3», por
+presentar una menor ocupación del terreno para una misma potencia nominal generada,
+una reducción del riesgo de impactos por colisión y electrocución de avifauna con la
+línea de evacuación, un menor impacto visual y la no afección a cauces o zonas de
+escorrentía. También es la opción de menor longitud de la línea de evacuación soterrada.
+En el documento ambiental presentado se realiza un inventario ambiental en el que
+se describen los factores abióticos (geodiversidad, geomorfología y suelo, agua y aire),
+bióticos (flora y vegetación, fauna y espacios naturales protegidos y otras figuras de
+protección), socioeconómicos (población y salud humana, cambio climático y economía
+circular), del paisaje y del patrimonio cultural, que pueden verse afectados de manera
+significativa. Se analiza la afección a la Red Natura 2000, concluyendo que el espacio a
+ocupar por las instalaciones se encuentra fuera de las figuras de protección tanto de las
+vinculadas a la Red Natura 2000, como a la Red de Espacios Naturales Protegidos.
+Se realiza una identificación y valoración de impactos sobre el medio ambiente,
+derivada del estudio de las interacciones entre las acciones del proyecto y los factores
+ambientales. La mayor parte de los impactos negativos son valorados como compatibles
+o moderados, habiéndose identificado algunos de los impactos como severos, la mayoría
+de ellos generados durante la fase de construcción del proyecto, sobre la tierra-suelo, la
+vegetación y la fauna.
+Anexado al documento ambiental se incluye un estudio de sinergias, en el que se
+realiza una identificación de los factores sinérgicos, así como un análisis y valoración
+con respecto a otros proyectos de energías renovables (proyectos fotovoltaicos, parques
+eólicos, subestaciones y líneas eléctricas aéreas) presentes en una envolvente de 5
+km a la planta solar fotovoltaica «La Loma». Concluyéndose que, la implantación del
+proyecto posee una valoración de sinergias en su mayoría clasificadas como positivas,
+compatibles o sin sinergias, identificándose algunas de ellas como moderadas.
+Además del estudio de sinergias, también se incluyen como anexos los estudios
+de fauna 2020-2023, el estudio del paisaje, el estudio de la gestión de residuos y la
+documentación sobre patrimonio cultural, así como planimetría temática sobre el proyecto.
+Asimismo, una vez concluida la identificación y valoración de impacto, se detallan
+las actuaciones que se pretenden realizar para prevenir, reducir, eliminar o compensar
+los efectos ambientales negativos a ejecutar durante las diferentes fases del proyecto.
+Por último, se incluye un programa de vigilancia ambiental, cuya finalidad es la
+de supervisar las medidas ambientales previstas, así como detectar y corregir las
+desviaciones y deficiencias que se detecten, determinando la necesidad de suprimir,
+modificar o introducir nuevas medidas no previstas inicialmente si fuera necesario.
+3. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+3.1. INICIO DEL PROCEDIMIENTO.
+Con fecha 24 de febrero de 2026 tiene entrada en el Servicio Territorial de Medio
+Ambiente de Burgos, la solicitud de inicio del procedimiento de evaluación ambiental
+simplificada, junto con el documento ambiental relativo al proyecto de Planta solar
+fotovoltaica hibridada «La Loma» y su infraestructura de evacuación, en el término
+municipal de Valle de Santibáñez (Burgos), promovido por Estudios y Proyectos
+Pradamap, S.L.U., conforme al artículo 45 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 131
+3.2. CONSULTA A LAS ADMINISTRACIONES PÚBLICAS AFECTADAS Y
+PERSONAS INTERESADAS.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, se procedió por parte del Servicio Territorial de Medio Ambiente
+de Burgos a la apertura del trámite de consultas a las Administraciones públicas afectadas
+y a las personas interesadas, con fecha 2 de marzo de 2026.
+La relación de los organismos consultados, así como los informes recibidos de forma
+previa a la redacción del presente informe se refleja en la siguiente tabla:
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS CONTESTACIÓN
+Confederación Hidrográfica del Duero Sí
+Dirección General de Patrimonio Natural y Política Forestal SÍ
+Servicio Territorial de Cultura, Turismo y Deporte Sí
+Servicio Territorial de Movilidad y Transformación Digital (Urbanismo) Sí
+Servicio Territorial de Movilidad y Transformación Digital (Carreteras) Sí
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural Sí
+Sección de Protección Civil de la Delegación Territorial en Burgos Sí
+Diputación de Burgos No
+Ayuntamiento de Valle de Santibáñez No
+Ecologistas en Acción de Burgos No
+La Confederación Hidrográfica del Duero, con fecha 16 de junio de 2026, informa
+que ni el perímetro de la planta solar ni la línea subterránea de evacuación afectan a
+cauce público alguno ni a sus zonas de protección (servidumbre y policía).
+No obstante, se indican una serie de consideraciones que deberán ser tenidas en
+cuenta por el promotor en la ejecución del proyecto, relacionadas con afecciones al
+dominio público hidráulico, zona de policía de cauce público y servidumbres, a las aguas
+subterráneas, posibles captaciones de aguas superficiales y subterráneas, calidad de las
+aguas superficiales y subterráneas y vertidos, y compatibilidad con el plan hidrológico
+de cuenca.
+La Dirección General de Patrimonio Natural y Política Forestal emite informe de
+fecha 3 de agosto de 2026 haciendo constar la no coincidencia territorial ni de afecciones
+indirectas con:
+• Espacios naturales protegidos.
+• Planes de especies protegidas.
+• Zonas húmedas de interés especial.
+• Árboles notables.
+• Montes de utilidad pública.
+• Montes protectores.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 132
+• Zonas naturales de esparcimiento.
+• Vías pecuarias.
+• Otras figuras de protección: Reservas naturales fluviales / Reservas de la biosfera /
+Geoparques mundiales / Áreas Ramsar / Otras.
+• Propuestas de lugares geológicos o paleontológicos de interés especial.
+• Propuestas de microrreservas de flora.
+• Flora protegida.
+• Hábitats de interés comunitario fuera de ZEC.
+En consecuencia, se concluye que el presente proyecto, en la versión evaluada, no
+tendrá afecciones a dichas figuras de protección o valores naturales.
+Respecto a Red Natura 2000, Una vez analizadas y valoradas las actuaciones, se
+considera realizada la evaluación requerida por el artículo 2 del Decreto 6/2011, de 10
+de febrero, por el que se establece el procedimiento de evaluación de las repercusiones
+sobre la Red Natura 2000 de aquellos planes, programas o proyectos desarrollados
+en el ámbito territorial de la Comunidad de Castilla y León, concluyéndose que la
+planta solar fotovoltaica híbrida proyectada, ya sea individualmente o en combinación
+con otros proyectos, no causará perjuicio a la integridad de ningún espacio protegido
+Red Natura 2000.
+Estas conclusiones constituyen el informe de evaluación de las repercusiones sobre
+Red Natura 2000 (IRNA) tal y como se define en el artículo 5 del Decreto 6/2011, de 10
+de febrero.
+En cuanto a las afecciones a la fauna protegida, las actuaciones previstas no
+supondrán afecciones significativas a dichas especies siempre que se cumplan las
+medidas ambientales recogidas en el informe y respecto a la afección del paisaje a
+pesar de tener una indudable repercusión paisajística también entiende que las medidas
+referidas minorizan significativamente los impactos ambientales.
+El Servicio Territorial de Cultura, Turismo y Deporte de Burgos, con fecha 4 de marzo
+de 2026 informa que el proyecto deberá contener los resultados de una prospección
+arqueológica intensiva del área afectada en cumplimiento del artículo 62 de la Ley 7/2024,
+de Patrimonio Cultural de Castilla y León.
+Por otro lado, y en lo que concierne a los Bienes de Interés Cultural y los Elementos
+Inventariados, recuerda que a los efectos que previene el artículo 62.4 de la Ley 7/2024,
+de 20 de junio, de Patrimonio Cultural de Castilla y León, el promotor deberá remitir el
+proyecto a la administración competente para su estudio y autorización.
+El Servicio Territorial de Movilidad y Transformación Digital de Burgos, en su informe
+de fecha 5 de mayo de 2026 relativo a urbanismo señala que el término municipal de Valle
+de Santibáñez cuenta con Normas Urbanísticas Municipales aprobadas por acuerdo de la
+Comisión Territorial de Urbanismo de 18 de febrero de 2016. Así mismo, es de aplicación
+la Ley 5/1999, de 8 de abril, de Urbanismo de Castilla y León y el Decreto 22/2004, de 29
+de enero, por el que se aprueba el Reglamento de Urbanismo de Castilla y León, con sus
+modificaciones posteriores.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 133
+Las parcelas ocupadas por la planta fotovoltaica están clasificadas en las Normas
+Subsidiarias Municipales como Suelo Rústico Común.
+Concluye el informe indicando que el uso que se plantea es un uso sujeto a
+autorización en suelo rústico según el Reglamento de Urbanismo de Castilla y León,
+debiéndose seguir el procedimiento previsto en sus artículos 306 a 308 y el cumplimiento
+del régimen urbanístico vigente.
+No obstante, en el supuesto de que cuente con declaración de impacto ambiental
+favorable o con informe de impacto ambiental que determine que no tiene efectos adversos
+significativos sobre el medio ambiente, se considerará un uso permitido de conformidad
+con el artículo 25.1.a) de la Ley de Urbanismo de Castilla y León, modificada por la Ley
+4/2024, de 9 de mayo, de medidas tributarias, financieras y administrativas, en cuyo caso,
+no precisará autorización de uso excepcional en suelo rústico por la Comisión Territorial
+de Medio Ambiente y Urbanismo, sin perjuicio del resto de informes y/o autorizaciones
+previstas en la legislación sectorial.
+El Servicio Territorial de Movilidad y Transformación Digital de Burgos, en informe
+de fecha 4 de marzo de 2026 relativo a carretas, indica que el área de actuación no se
+encuentra en la zona de influencia de ninguna carretera de titularidad autonómica.
+El Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural de Burgos, remite
+informe de fecha 13 de marzo de 2026, indicando que el proyecto tiene coincidencia
+geográfica con la Zona de Concentración La Nuez de Abajo-Zumel que fue declarada de
+utilidad Pública mediante Acuerdo 7 de 15 de enero de 2009, publicado en BOCYL n.º
+013 de 21 de enero de 2009. Por ello, incluye una serie de condiciones con el objeto de
+preservar las actuaciones realizadas en la zona.
+La Sección de Protección Ciudadana de la Delegación de la Junta de Castilla y
+León en Burgos, indica en informe de fecha 16 de marzo de 2026 que, de acuerdo con
+el Plan de Protección Civil ante el Riesgo de Inundaciones en la Comunidad Autónoma
+de Castilla y León, la clasificación en función del riesgo potencial poblacional es «Bajo».
+En cuanto a los riesgos de incendios forestales, según el INFOCAL, el índice de
+riesgo local y el de peligrosidad están calificados ambos como «Bajo». No obstante, se
+deberán tener en cuenta las medidas preventivas establecidas en la siguiente normativa:
+– RD 893/2013, de 25 de noviembre, por el que se aprueba la Directriz básica
+de planificación de Protección Civil de emergencia por incendios forestales,
+atendiendo especialmente a lo establecido en el Anexo II.
+– RD 2267/2004, de 3 de diciembre, por el que se aprueba el Reglamento de
+Seguridad contra incendios en los establecimientos industriales, atendiendo
+especialmente a las instalaciones de protección contra incendios y al punto 10
+del Anexo II, riesgo de fuego forestal.
+Respecto al Plan Especial de Protección Civil ante emergencias por accidentes
+en el transporte de mercancías peligrosas, el riesgo por carretera y por ferrocarril es
+«No delimitado». Así mismo indica que no se encuentra afectado por la Zona de Alerta
+e Intervención de los establecimientos afectados por la Directiva SEVESO en Castilla
+y León.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 134
+Concluye el informe que ninguna de las actuaciones que se planifiquen, ni los
+diferentes usos que se asignen al suelo deben incrementar el riesgo hacia las personas,
+sus bienes y el medio ambiente. Si alguna de las actuaciones derivadas de la modificación/
+aprobación pudiera potencialmente aumentar el riesgo sobre las personas, sus bienes
+o el medio ambiente, deberá actualizarse el análisis de riesgos, indicando el grado de
+afección, así como las medidas necesarias para evitar incrementar dichos riesgos.
+4. ANÁLISIS DEL PROYECTO SEGÚN LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+El objeto del proyecto es la instalación de una planta solar fotovoltaica denominada
+«La Loma» de 13,685 MW de potencia nominal, hibridada con un parque eólico en
+explotación de igual nombre con una potencia nominal de 28,6 MW, resultando una planta
+híbrida de 42,285 MW de potencia instalada conjunta.
+La planta fotovoltaica ocupa una superficie de 39,23 ha, distando considerablemente
+del límite (100 ha) a partir del cual los proyectos deben someterse al procedimiento de
+evaluación de impacto ambiental ordinaria. Por ello se considera que el principal recurso
+natural afectado es el suelo, siendo parcelas de uso agrario.
+La evacuación de la energía eléctrica se realizará a través de línea subterránea de
+785 m de longitud.
+En el documento ambiental se incluye un estudio de sinergias en el que se realiza
+una identificación de los factores sinérgicos, así como un análisis y valoración con
+respecto a otros proyectos de energías renovables (proyectos fotovoltaicos, parques
+eólicos, subestaciones y líneas eléctricas aéreas) presentes en una envolvente de 5 km
+a la planta solar fotovoltaica «La Loma». En el estudio de sinergias se han identificado
+dos plantas solares fotovoltaicas, siete parques eólicos, ocho líneas eléctricas aéreas y
+cinco subestaciones eléctricas. Se concluye que la implantación del proyecto posee una
+valoración de sinergias en su mayoría clasificadas como positivas, compatibles o sin
+sinergias, identificándose algunas de ellas como moderadas.
+Sobre la generación de residuos, en la fase de construcción podrán producirse
+residuos de construcción, entre otros, que deberán ser gestionados y recogidos por
+gestores autorizados. En la fase de funcionamiento la actividad puede producir residuos
+derivados del mantenimiento de las infraestructuras, debiendo gestionarse de igual forma
+que los anteriores.
+4.2. UBICACIÓN DEL PROYECTO.
+El proyecto se ubica en las parcelas con referencias catastrales: 09369E50500340,
+09369E50500332, 09369J50600363, 09369E50600362, 09369J50600365,
+09369J50600364 y 09369E50600380, del término municipal de Valle de Santibáñez
+(Burgos).
+Dichas parcelas están clasificadas como Suelo Rústico Común.
+Los núcleos de población más cercanos son Zumel (803 m), La Nuez de Abajo
+(867 m) y Avellanosa del Páramo (1,89 km).
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 135
+Se constata que el proyecto no presenta coincidencia territorial con espacios
+protegidos Red Natura 2000 y que las actuaciones proyectadas, ya sea individualmente
+o en combinación con otros proyectos, no causarán perjuicio a la integridad de ningún
+espacio protegido Red Natura 2000; encontrándose el espacio protegido Red Natura
+2000 más cercano a 1,33 km, siendo la ZEC (ES4120072) «Riberas del Río Arlanzón
+y afluentes». El proyecto tampoco coincide territorialmente ni afecta indirectamente a
+espacios naturales protegidos, planes de especies protegidas, árboles notables, montes
+de utilidad pública, montes protectores, zonas naturales de esparcimiento, vías pecuarias,
+lugares de interés geológico u otras figuras de protección.
+Con relación al patrimonio cultural, se deberá realizar prospección arqueológica
+previa a la ejecución de las obras.
+Por todo lo expuesto, se concluye que el presente proyecto no tendrá afecciones
+a dichas figuras de protección o valores naturales, siempre y cuando se apliquen las
+condiciones incluidas en este informe de impacto ambiental.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+El principal impacto de las instalaciones de plantas solares fotovoltaicas deriva del
+radical cambio en el uso del suelo afectado, pasando habitualmente del sector primario
+al secundario, con pérdida de los valores ambientales relacionados, entre otros, con la
+vegetación, fauna y paisaje.
+Respecto a la fauna, la pérdida de hábitat puede generar un efecto negativo sobre
+las especies que hacen uso de este espacio como zona de campeo y/o alimentación. En
+este entorno podría verse afectadas especies como el milano real y el aguilucho cenizo.
+Respecto a la línea de evacuación, al presentarse de forma soterrada se considera que
+su impacto ambiental es mínimo.
+En cuanto al paisaje, la planta afecta directamente a la asociación paisajística Mesas
+y páramos, concretamente al paisaje Paramos Calcáreos Castellano-Leoneses cuya
+unidad paisajística es el Páramo del Norte de la ciudad de Burgos.
+La incidencia visual del proyecto sobre un total de 35 puntos analizados en un área
+de 10 km, es considerada baja. Así mismo, la capacidad de acogida de la zona afectada
+por el proyecto se considera moderada, considerándose la incidencia visual del proyecto
+como baja.
+Existe, acumulación con otros proyectos similares, considerándose que se producirá
+un efecto sinérgico y acumulativo significativo en el entorno. Destaca el efecto que su
+conjunto tendrá sobre el paisaje y sobre la avifauna en el entorno.
+No obstante, las exigencias relacionadas con el cumplimiento de los objetivos de
+reducción de los contaminantes atmosféricos procedentes de combustibles fósiles y la
+descarbonización del sistema energético justifican la necesidad de ejecutar este tipo de
+instalaciones, aunque supongan una importante transformación del medio.
+Además, la reversibilidad de este tipo de actuaciones es alta, permitiendo la
+restauración del medio una vez finalizada la vida útil de estas infraestructuras.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 136
+Por todo ello, se considera que el impacto ambiental global del proyecto es compatible,
+siempre y cuando se obtenga la autorización urbanística y se apliquen las medidas
+preventivas y correctoras incluidas en la documentación aportada, en el presente informe
+y demás legislación vigente que le sea de aplicación.
+5. INFORME DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del proyecto de Planta solar fotovoltaica
+hibridada «La Loma» y su infraestructura de evacuación, en el término municipal de Valle
+de Santibáñez (Burgos), promovido por Estudios y Proyectos Pradamap, S.L.U., en los
+términos establecidos en el presente informe de impacto ambiental, por los motivos que
+se justifican en el mismo y sin perjuicio del cumplimiento de otras normas vigentes de
+carácter ambiental o sectorial que sean de aplicación.
+5.1. Se deberán cumplir las medidas preventivas, protectoras y correctoras que se
+indican a continuación, además de las que se incluyen en el documento ambiental y en
+el proyecto presentado por el promotor, en lo que no contradigan al presente informe de
+impacto ambiental:
+I. FASE DE PROYECTO.
+a) Autorizaciones. Se deberán obtener todas las autorizaciones necesarias con el
+objeto de garantizar el cumplimiento de la normativa de aplicación. El presente
+informe no exime de cualquier autorización o concesión requisito de la legislación
+vigente.
+b) Actuaciones pre-operacionales. El trazado de la línea de evacuación subterránea
+deberá hacerse coincidir con la plataforma de los viales existentes del parque
+eólico «La Loma».
+En el proyecto de obra se deberá incorporar la utilización de áridos reciclados
+procedentes de plantas de tratamiento de residuos de construcción y demolición,
+en las unidades de obra donde sea técnicamente posible y ambientalmente
+adecuado, en sustitución de áridos naturales. Los porcentajes mínimos de
+utilización de estos materiales serán de un 10 % en peso de la cantidad total de
+áridos cuya utilización está prevista en la obra.
+Para prevenir, evitar o reducir la generación de emisiones en su conjunto, las
+nuevas instalaciones deberán diseñarse basándose en las mejores técnicas
+disponibles establecidas a través de las guías oficiales disponibles a nivel
+nacional o europeo.
+II. FASE DE CONSTRUCCIÓN.
+c) Replanteos, señalización y delimitación de las obras. Con el fin de garantizar que las
+zonas afectadas por la ejecución del proyecto sean las mínimas imprescindibles,
+se deberán replantear y señalizar, antes del comienzo de las obras, las áreas de
+trabajo y los lugares donde se ubicaran las instalaciones temporales de obra,
+evitando en todo momento sobrepasar los límites de ocupación autorizados,
+prestando especial atención a evitar daños en el resto de las infraestructuras y
+zonas sensibles.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 137
+d) Gestión de residuos. En la ejecución de las obras, se deberán separar los
+residuos de construcción y demolición generados según se establece en el
+artículo 30 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+para una economía circular, así como en la normativa que regula la producción
+y gestión de los residuos de construcción y demolición. El resto de los residuos
+que se originen, se gestionarán según su tipología y conforme a lo regulado en la
+mencionada ley.
+No podrán acopiarse aceites, grasas o residuos, ni efectuarse operaciones de
+mantenimiento, repuesto o sustitución en la maquinaria y vehículos dentro del
+área del proyecto, que se deberán llevar a cabo de forma y en sitio adecuado,
+evitándose en todo momento el vertido de sustancias que puedan contaminar el
+suelo, las aguas y los acuíferos de la zona.
+El promotor será el responsable de mantener limpias las obras y sus alrededores
+de materiales sobrantes y de la retirada de las instalaciones provisionales que no
+sean necesarias.
+e) Protección de los suelos. Las obras de construcción de las zanjas deberán quedar
+perfectamente delimitadas, evitando la afección fuera de estos límites.
+De manera general, la capa superior de suelo vegetal se deberá retirar y acopiar
+en montones de pequeña altura, con el objeto de mantener su estructura
+orgánica y humedad, para su posterior utilización en el tapado de la zanja y su
+revegetación.
+Dado que se trata de una actividad potencialmente contaminante del suelo,
+se deberá presentar un informe preliminar de situación del suelo en el que
+se desarrolla la actividad, de acuerdo con la normativa vigente en materia de
+actividades potencialmente contaminantes del suelo.
+Se realizará un seguimiento bianual de la efectividad de medidas de protección
+del suelo adoptadas para controlar la erosión laminar real al finalizar la fase
+de construcción, mediante testigos semienterrados, en todas las zonas de
+implantación de módulos fotovoltaicos con erosión potencial superior a 10 t/ha
+y año.
+f) Protección de las aguas. Con carácter general, no podrán interceptarse ni
+modificarse cauces públicos en cualquiera de sus dimensiones espaciales. Todas
+las actuaciones respetarán el dominio público hidráulico y las servidumbres
+legales y, en particular, la servidumbre de uso público y de policía, con las
+condiciones establecidas en la normativa de aguas.
+La ejecución de las obras no supondrá, en ningún caso, modificaciones
+topográficas del terreno que pudieran suponer una modificación de la delimitación
+de las cuencas vertientes de las microcuencas afectadas.
+El promotor del proyecto deberá llevar a cabo toda actuación relacionada con la
+ejecución de este evitando alterar la escorrentía natural de las aguas derivada
+de una modificación sustancial del relieve natural del terreno. En cualquier
+circunstancia, toda actuación que pueda hacer variar el curso natural de las aguas
+en perjuicio del interés público o de terceros y/o que provoque variación de la
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 138
+fuerza de las avenidas ocasionando daños a personas o cosas (daños derivados
+del proyecto), será responsabilidad única del promotor y deberá asumirla
+como tal.
+Durante los movimientos de tierras se instalarán dispositivos que eviten el arrastre
+de sólidos previos a la evacuación de las aguas de escorrentía superficial, así
+como otras posibles medidas para reducir al mínimo el riesgo de contaminación
+de las aguas superficiales, sus riberas y las poblaciones vivas que albergan.
+Se establecerán bandas de retención de sedimentos en las márgenes de los
+cauces públicos que sean susceptibles de recibir aportes sólidos durante las
+obras del proyecto para lo cual se solicitará la oportuna autorización al Organismo
+de cuenca.
+Se deberá respetar la correspondiente banda de protección de los cauces de
+los ríos y arroyos que pudieran resultar afectados por la planta solar fotovoltaica
+y sus infraestructuras de evacuación, así como por sus vías de acceso. En
+esta banda no se permitirán la instalación de ningún elemento constructivo, los
+movimientos de tierras, cimentaciones, apertura de zanjas o construcción de
+viales, la circulación masiva de vehículos y maquinaria pesada, etc.
+No se admitirán, en ningún caso, acciones que pongan en riesgo el buen estado de
+las Zonas protegidas por la Directiva Marco del Agua, en donde no se permitirán
+los movimientos de tierras, cimentaciones, apertura de zanjas y construcción de
+viales, la circulación masiva de vehículos y maquinaria pesada, etc.
+Se evitará establecer zonas de acopios de materiales potencialmente
+contaminantes, zonas de estacionamiento o mantenimiento de vehículos o
+maquinaria, en zonas de sustrato permeable sobre masas de agua subterránea,
+o en la proximidad de masas de agua superficial y su zona de policía. Asimismo,
+los transformadores contarán con una cubeta, bandeja o sistema de retención de
+aceites de volumen superior al total contenido en los transformadores para evitar
+vertidos al suelo y aguas.
+Los cruces con el dominio público hidráulico deberán garantizar el no deterioro
+de las masas de agua y la no afección a las zonas protegidas del vigente Plan
+Hidrológico. En su caso, los cruces subterráneos de cauces, considerados masas
+de agua superficial o que se encuentren en zonas protegidas, no se ejecutarán
+mediante el sistema de zanja abierta, debiendo utilizarse el método de hinca o
+perforación horizontal dirigida, o sustituirse por cruces aéreos cuando ello sea
+posible, respetando las bandas de protección y bajo los condicionantes de la
+autorización correspondiente por parte de la Comisaría de Aguas del Organismo
+de cuenca.
+Se diseñará una red de drenaje que derive todas las escorrentías producidas hacia
+sus cuencas de drenaje natural, con objeto de no modificar las características
+hidrológicas de los cauces afectados y sus aportaciones en régimen natural de
+las masas de agua afectadas y mantener las condiciones hidrológicas de sus
+arroyos tributarios.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 139
+Se realizará una valoración del estado de la masa de agua 30400112–Río
+Úrbel, mediante dos determinaciones analíticas a lo largo de la fase de
+construcción, una en el último tercio del plazo, y otra a los 6 meses posteriores
+a la finalización, determinaciones bianuales durante la fase de explotación y una
+final a los 6 meses posteriores al desmantelamiento, en las que se determinen
+los indicadores biológicos e indicadores físico-químicos que se utilizan para la
+evaluación del estado de las masas de agua. Podrá utilizarse como punto de
+muestreo un punto aguas debajo de la confluencia con el arroyo del Vallejo,
+con coordenadas aproximadas ETRS89 (Huso 30) X: 433.200 e Y: 4.697.867.
+Dada la estacionalidad de este curso de agua, las mediciones se realizarán entre
+los meses de diciembre y junio, poniéndose los resultados a disposición del
+Organismo de cuenca para su valoración.
+Se realizará un seguimiento de la escorrentía producida por la planta solar
+fotovoltaica en episodios de lluvia intensa (>50 mm/día), que podría evacuar
+hacia fincas y caminos circundantes. En el caso de que existan afecciones estas
+deberán ser comunicadas al Organismo de cuenca y al titular de la vía y se
+tomarán las oportunas medidas preventivas y correctoras.
+En el caso de accidentes no previstos razonablemente que puedan suponer
+un deterioro temporal de las masas de agua, el titular de la instalación deberá
+presentar la documentación a que se refiere el artículo 22 de la Normativa del
+Plan Hidrológico vigente.
+En caso de que fuera necesaria la captación de aguas superficiales y/o
+subterráneas, será preciso obtener, de forma previa, la correspondiente
+autorización o concesión por parte del Organismo de cuenca, según proceda,
+teniendo en cuenta la normativa en vigor.
+Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto, por escorrentía, erosión, infiltración
+u otros mecanismos, sobre las aguas superficiales y/o subterráneas. Se deberán
+tomar las medidas oportunas para asegurar que, en ningún caso, se produzcan
+vertidos de aceites, combustibles, lubricantes, u otras sustancias similares al
+terreno o a los cursos de agua. En el caso de que, finalmente, se produjera
+vertido sobre algún elemento del dominio público hidráulico (aguas superficiales
+o subterráneas), previamente se deberá disponer de la correspondiente
+autorización de vertido por parte del Organismo de cuenca.
+Para la elección de la ubicación de las instalaciones auxiliares se deberá evitar
+la ocupación del dominio público hidráulico y de la zona de servidumbre de los
+cauces. Se evitará también, en la medida de lo posible, la ocupación de la zona
+de policía de cauces públicos y de los terrenos situados sobre materiales de
+alta permeabilidad. Las zonas donde se ubiquen las instalaciones auxiliares
+y parques de maquinaria deberán ser impermeabilizadas para evitar la
+contaminación del suelo y de las aguas subterráneas. Las aguas procedentes de
+estas zonas deberán ser recogidas y gestionados adecuadamente para evitar la
+contaminación del dominio público hidráulico.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 140
+El proyecto deberá alinearse con los objetivos del Plan Hidrológico 2022-2027,
+evitando el deterioro del estado de todas las masas de agua y reduciendo o
+limitando la entrada de contaminantes en dichas aguas. Deberá acreditarse que
+la ejecución y posterior explotación del proyecto no supondrá un empeoramiento
+del estado global de estas masas de agua.
+No se realizará reparación de maquinaria fuera de zonas habilitadas para ese
+fin. En el caso de derrame accidental de combustibles, lubricantes o cualquier
+sustancia peligrosa fuera de las zonas habilitadas, se extraerá de manera
+inmediata la tierra de la zona afectada para su correcto almacenamiento y gestión
+a través de gestor autorizado.
+En relación a las aguas residuales generadas por la eventual instalación
+de aseos, duchas, casteas de obra, etc., se recomienda la disposición de un
+depósito estanco, sin salida exterior, que almacene las aguas residuales para,
+posteriormente, ser retiradas de forma periódica por gestor autorizado.
+Toda actuación no prevista en la documentación aportada que surja en el
+transcurso de las obras y/o durante la vida útil de las instalaciones, así como
+en la fase de desmantelamiento de estas, en su caso, y que pueda afectar al
+dominio público hidráulico será puesta en conocimiento de este Organismo de
+cuenca, a la mayor brevedad posible.
+g) Contaminación atmosférica. Con objeto de evitar la generación de polvo, durante
+la fase de construcción y montaje se efectuarán riegos periódicos en las pistas
+de acceso y en la zona de ejecución de las obras, con la frecuencia que las
+condiciones climatológicas y las circunstancias del trabajo aconsejen, además
+de cualquier otra medida adecuada a tal fin, con objeto de cumplir la normativa
+vigente de protección del medio ambiente atmosférico.
+Asimismo, todos los camiones de obra que transporten materiales pulverulentos,
+estériles o préstamos para obra, deberán llevar la caja cubierta, de tal manera
+que se evite, en la medida de lo posible, la emisión de partículas a la atmósfera.
+h) Contaminación acústica. Los trabajos de obra deberán ejecutarse siempre
+en horas en las que se asegure que los ruidos y vibraciones emitidos no
+supongan molestias para la fauna y la población residente en las proximidades.
+Se establecerá una limitación de los horarios de actividad, adaptado a franjas
+horarias de luz natural en periodo invernal y estival. En todo caso se atenderá a
+lo dispuesto en la normativa vigente en materia de ruido en Castilla y León.
+Se exigirá que toda la maquinaria de obra cuente con las fichas técnicas de
+potencia acústica y cumpla la normativa que regula las emisiones de maquinaria
+de uso al aire libre. Se limitará el número de máquinas ruidosas trabajando
+simultáneamente.
+i) Contaminación lumínica. Se evitarán los trabajos nocturnos durante la fase de
+construcción.
+j) Protección de infraestructuras y vías de acceso. Se respetarán las normas
+generales de obligado cumplimiento en zonas afectadas por la existencia de
+líneas de distribución eléctrica, así como en sus zonas de servidumbre. Se
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 141
+respetarán de igual forma las servidumbres de paso existentes en todos los
+caminos, las propiedades de terceros, infraestructuras existentes y el uso de
+estas (cierres, hitos y/o mojones, pasos de ganado, etc.) dejándolos en el estado
+que presentaban antes de las actuaciones.
+Deberá utilizarse como acceso a la planta la red de carreteras, pistas y caminos
+ya existente. También se definirán de forma precisa las zonas de tránsito por
+esta, tanto durante la construcción como posteriormente, durante las labores de
+mantenimiento de las instalaciones.
+El mantenimiento en perfecto estado de la infraestructura viaria de accesos
+correrá a cargo de la empresa promotora.
+k) Protección de los hábitats naturales y la vegetación. Se deberán respetar
+las superficies de monte, linderos con alineaciones de vegetación arbórea y
+arbustiva, así como arbolado disperso, tanto en las tierras de labor como junto
+al borde de la parcela. La instalación de la planta y sus infraestructuras, como la
+línea subterránea de evacuación, el vallado de los recintos, etc., no supondrán
+la eliminación de arbolado. Si fuese necesario la corta de algún pie, en el
+desarrollo del proyecto, deberá justificarse la ausencia de otras alternativas para
+su autorización que, en su caso, estará sujeta a lo recogido en la Ley 3/2009, de
+6 de abril, de Montes de Castilla y León, y contar con los permisos necesarios por
+parte del Servicio Territorial de Medio Ambiente de Burgos.
+Las zonas donde se lleven a cabo las labores auxiliares del proyecto, como
+parque de maquinaria y equipos auxiliares, acopio de materiales, etc., se situarán
+alejadas de cualquier zona ambientalmente sensible: terrenos de monte, hábitats
+de interés comunitario fuera de ZEC, etc. Se deberán delimitar los espacios
+estrictamente necesarios para dichos usos y respetar estos límites durante la
+fase de construcción.
+Se atenderá a todas las medidas preventivas y prohibiciones incluidas en la Orden
+anual de la Consejería de Medio Ambiente, Vivienda y Ordenación del Territorio,
+en la que se establecen las normas sobre el uso del fuego y se fijan medidas
+preventivas para la lucha contra los incendios forestales en la Comunidad de
+Castilla y León.
+l) Protección de la fauna. De forma previa al inicio de los trabajos, se realizarán
+recorridos sistemáticos por toda la zona de actuación que permitan detectar
+refugios de fauna, madrigueras, nidos o posaderos de avifauna, entre otros. En
+el caso de confirmarse la presencia de elementos propios de especies protegidas
+en estas zonas, se comunicarán los hallazgos al Servicio Territorial de Medio
+Ambiente de Burgos, que establecerá las medidas preventivas necesarias para
+garantizar la salvaguarda de la fauna, entre las que caben limitaciones temporales
+a la ejecución de los trabajos.
+Los vallados perimetrales de las instalaciones, excepto los de los centros de
+transformación, deberán ser permeables a la fauna, por lo que se empleará un
+vallado de tipo cinegético o ganadero, con luz de malla amplia, en la parte inferior
+más próxima al suelo sin zócalo ni sujeción inferior al terreno. Además, se deben
+ejecutar aberturas en la parte inferior del vallado, de dimensiones 30 x 30 cm
+y/o 45 x 30 cm, al menos cada 50 metros, con el fin de alcanzar la máxima
+permeabilidad posible para la fauna. La altura del cerramiento no será superior a
+2 m y carecerá de elementos punzantes o cortantes.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 142
+Se deberán conservar los majanos existentes ya que suponen zonas de refugio
+y de caza para la fauna.
+Los módulos fotovoltaicos deberán incluir un acabado con un tratamiento químico
+anti reflectante, que minimice o evite el reflejo de la luz, incluso en periodos
+nocturnos con luna llena, con el fin de evitar el efecto llamada sobre las aves.
+m) Protección del patrimonio histórico y arqueológico. El proyecto deberá contener
+los resultados de una prospección arqueológica intensiva en el área afectada.
+Si en el transcurso de la ejecución del proyecto apareciesen restos históricos,
+arqueológicos o paleontológicos, se paralizarán las obras en la zona afectada,
+procediendo el promotor a ponerlo en conocimiento de la Delegación Territorial
+de la Junta de Castilla y León en Burgos que dictará las normas de actuación que
+procedan. En cualquier caso, se atenderá a lo dispuesto en la Ley 7/2024, de 20
+de junio, de Patrimonio Cultural de Castilla y León y demás normativa aplicable,
+en lo que se refiere a eventuales hallazgos que pudieran producirse.
+n) Protección de la actividad agrícola. Se deberá garantizar la adecuación de la nueva
+infraestructura al entorno agropecuario existente, estudiando y considerándose
+las afecciones a la red de drenaje agrícola y a la red de infraestructura viaria,
+garantizando su continuidad y funcionalidad, así como la sección hidráulica para
+el caso de la red de drenaje.
+En las zonas que cuentan con infraestructuras de regadío, se deberá respetar
+los elementos que las componen, respetando las servidumbres correspondientes
+a las tuberías, no pudiendo realizar plantaciones de cultivos leñosos en los dos
+metros a cada lado del eje de la conducción. Además, sobre la red viaria existente,
+se respetarán los elementos de drenaje correspondientes, tales como marcos,
+caños y pasos salvacunetas, asegurando el uso y continuidad de estos.
+Los tramos de línea eléctrica que vayan subterráneos tendrán la suficiente
+profundidad y señalizaciones (bandas de protección) para que no se vean
+afectados por los aperos agrícolas.
+Los hitos y/o mojones existentes que delimitan fincas rústicas, que sean alterados
+como consecuencia de la realización de las obras, deberán ser reubicados en el
+lugar original, con la supervisión de los técnicos competentes.
+Los accesos a las fincas de labor que puedan verse afectados por la ejecución
+de las obras del proyecto se mantendrán en su estado original o, en su defecto,
+se realizarán otros de nueva ejecución de acuerdo con el propietario.
+o) Maquinaria. La maquinaria utilizada en las distintas fases del proyecto estará
+sometida a un correcto mantenimiento preventivo, conforme a las instrucciones del
+fabricante y normativa vigente, con el fin de minimizar la emisión de contaminantes,
+evitar la excesiva producción de ruidos y el vertido de contaminantes por roturas
+o averías.
+p) Integración ambiental, visual y paisajística. Desde un punto de vista paisajístico
+y como elemento para la conservación y fomento de la biodiversidad, se deberá
+realizar una plantación perimetral, que deberá ser objeto de reposiciones de
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 143
+marras y mantenimientos necesarios para mantener su funcionalidad a lo largo
+de toda la vida útil de la planta solar fotovoltaica, alrededor del vallado de la
+instalación. La plantación se realizará por la parte exterior del cerramiento.
+Se utilizarán sabina (Juniperus thurifera) y encina carrasca (Quercus liex subsp.
+ballota) como especies principales, a una densidad mínima de una planta cada
+dos metros de3 cerramiento. Podrá acompañarse de otras especies arbustivas
+y arbóreas que aporten alimento y refugio para la fauna y que puedan alcanzar
+la altura mínima del vallado, propias del entorno, tales como Prunus mahaleb y
+Crataegus monogyna.
+El promotor deberá retranquear el cerramiento con respecto a la linde de la
+parcela colindante, lo suficiente y conforme a las ordenanzas municipales, de
+manera que la plantación no ocasione perjuicio a las tierras colindantes.
+Así mismo, se destinarán una o varias áreas, dentro del recinto de la planta solar
+fotovoltaica para la instalación de zonas de refugio con la plantación de pequeños
+bosquetes de vegetación arbórea o arbustiva. Se considera suficiente un 1% de
+la superficie total ocupada por los módulos fotovoltaicos, ubicando estas zonas
+junto al cerramiento u otras zonas como puede ser aquellas utilizadas para los
+acopios durante la ejecución de la obra.
+Con objeto de minimizar el impacto visual, se reducirán al mínimo indispensable
+los movimientos de tierras. Los taludes, en caso de ser necesarios, serán
+minimizados con un adecuado perfilado, y recubiertos por una capa de tierra
+vegetal, previamente retirada del área que ocupa la superficie de la planta solar
+fotovoltaica.
+En aquellos caminos principales que por su uso previsto sí requieran de
+actuaciones de consolidación, estas se realizarán con zahorras de la misma
+tonalidad que el entorno.
+Los seguidores se instalarán mediante hincado en el terreno y únicamente se
+admitirá la cimentación como alternativa, previa justificación y solicitud de informe
+de afección. Los modelos de hincas ofrecerán una altura suficiente que permita
+un sustrato vegetal que propicie un nivel de biodiversidad aceptable para evitar
+islas inertes en la superficie de ocupación de la planta solar fotovoltaica. En todo
+caso está prohibido la eliminación del horizonte superficial del suelo, necesario
+para una correcta implantación de vegetación bajo los paneles.
+El promotor deberá mantener la plantación durante la vida útil de la planta
+solar fotovoltaica, realizando los cuidados y tratamientos silvícolas que sean
+necesarios, limitando su altura, así como su continuidad vertical y horizontal para
+garantizar la compatibilidad con los paneles solares y con el mantenimiento de
+la masa forestal de acuerdo con las medidas preventivas ante la propagación de
+incendios forestales.
+El material forestal de reproducción a emplear en la restauración vegetal (frutos,
+semillas, plantas y partes de plantas) habrá de cumplir lo establecido en el Decreto
+54/2007, de 24 de mayo, por el que se regula la comercialización de los materiales
+forestales de reproducción en la Comunidad de Castilla y León, y su procedencia
+estar conforme con el Catálogo de Material Forestal de Reproducción vigente
+que los delimita y determina. En ningún caso podrán utilizarse especies incluidas
+en el Catálogo Español de Especies Exóticas Invasoras.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 144
+q) Restauración final de las obras y de zonas alteradas. Al finalizar los trabajos
+de construcción, se realizará una limpieza de toda la zona de actuación y
+se restaurarán todas aquellas superficies que no sean ocupadas de forma
+permanente, mediante su preparación y acondicionamiento, realizándose, si
+fuera necesaria, la remodelación topográfica y el suavizado de todos los taludes.
+También se realizará una restauración de zonas con especies vegetales, según
+lo descrito en el apartado anterior. En caso de accidente, antes de la restauración
+final de los terrenos, deberá efectuarse la descontaminación del suelo.
+III. FASE DE FUNCIONAMIENTO.
+r) Gestión de residuos. Los residuos producidos durante el funcionamiento de la
+planta solar fotovoltaica serán gestionados a través de gestores autorizados
+en función de su calificación y atenderán a lo dispuesto en la normativa sobre
+residuos y suelos contaminados, así como en las demás normas de desarrollo.
+Si se generaran residuos peligrosos por el mantenimiento de las instalaciones o
+la maquinaria auxiliar, se dispondrá de un punto de almacenamiento adecuado
+para este tipo de residuos.
+s) Contaminación acústica. Durante el funcionamiento de la instalación se atenderá
+a lo dispuesto en la normativa vigente en materia de ruido en Castilla y León,
+cumpliéndose los niveles establecidos de transmisión de ruido.
+Los sistemas de alarma y vigilancia de la planta carecerán de sistema sónico de
+aviso al exterior y estarán conectados a una central de alarmas.
+t) Contaminación lumínica. Se evitará la iluminación nocturna de la planta
+fotovoltaica, con las únicas excepciones de sistemas requeridos por la normativa
+y de dispositivos de iluminación imprescindibles en las edificaciones auxiliares,
+o para hacer frente a situaciones de riesgo. En tal caso, se utilizarán luminarias
+que no emitan luz blanca rica en longitudes de onda corta (azules y ultravioleta),
+la iluminación se proyectará hacia el suelo por debajo del plano horizontal, y se
+limitará a lo estrictamente necesario.
+u) Protección del suelo. En la fase de explotación se establecerá y mantendrá,
+en toda la superficie vallada, excepto viales, drenajes y construcciones, una
+cobertura permanente herbácea o camefítica protectora del suelo.
+v) Mantenimiento de infraestructuras y equipos. La limpieza de los módulos
+fotovoltaicos se realizará únicamente con agua o por métodos mecánicos, y en
+ningún caso será realizada con productos químicos que puedan resultar nocivos
+para la flora o la fauna silvestre, o permanecer en la cadena trófica.
+En las labores de mantenimiento y control de la vegetación herbácea espontánea
+que pueda surgir dentro de la planta solar fotovoltaica (bajo los seguidores y en los
+pasillos de separación), no se emplearán métodos químicos como herbicidas, ni
+tampoco quemas, excepto en el caso de plaga declarada oficialmente, conforme
+a la Ley 43/2002, de 20 de noviembre, desanidad vegetal, en cuyo caso se
+habilitarán oficialmente los productos y métodos a emplear.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 145
+Se prohíbe la utilización de plaguicidas, insecticidas, rodenticidas y otros
+productos químicos que, por sus características provoquen perturbaciones en
+los sistemas vitales de la fauna silvestre que potencialmente utilice este entorno
+como zona de alimentación.
+El control mecánico de la vegetación se realizará evitando los periodos críticos
+de reproducción de la mayoría de las especies (de marzo a junio). Se buscará
+que el control de la vegetación natural en el interior se realice mediante fomento
+de la población de lagomorfos silvestres o por pastoreo con ganado ovino en
+régimen extensivo.
+w) Riesgos de accidentes graves o catástrofes. Ninguna de las actuaciones que se
+planifiquen, ni los diferentes usos que se asignen al suelo, deben incrementar el
+riesgo hacia las personas, sus bienes y el medio ambiente.
+IV. FASE DE CESE DE LA ACTIVIDAD.
+x) Cese de la actividad y desmantelamiento. Si por cualquier causa cesara la
+actividad, de forma temporal o definitiva, el promotor establecerá un plan de
+actuación que será presentado ante el Servicio Territorial de Medio Ambiente de
+Burgos, para su aprobación.
+En las fases de paralización de la operación de la planta, será responsabilidad
+del promotor el adecuada mantenimiento y conservación de las infraestructuras
+y equipos, así como su reparación, sustitución o desmantelamiento, en caso de
+que su deterioro ponga en peligro las condiciones mínimas de seguridad o exista
+riesgo de afección al medio.
+Al final de la vida útil de la planta, cuando el sistema de producción de energía
+deje de ser operativo o se paralice definitivamente su funcionamiento, deberá
+garantizarse el desmantelamiento de toda la instalación y edificaciones,
+retirarse todos los equipos, residuos y materiales sobrantes y procederse a la
+restauración e integración paisajística de toda el área afectada. Para garantizar
+el desmantelamiento total, se presentará un proyecto de desmantelamiento
+y restauración de la zona afectada una vez finalizada la vida útil de la planta,
+debiéndose incorporar un presupuesto valorado.
+Durante las labores de desmantelamiento, la gestión de los residuos de
+construcción y demolición generados debe realizarse conforme lo establecido
+tanto en la normativa de residuos y suelos contaminados como en la que regula
+la producción y gestión de residuos de construcción y demolición.
+5.2. Medidas compensatorias. Con anterioridad al inicio de los trabajos de
+construcción y puesta en funcionamiento del proyecto, el promotor elaborará un Programa
+de medidas compensatorias, en el que se incluirán un conjunto de medidas definidas
+en planes encaminados a la mejora del medio natural en sus diferentes aspectos, que
+deberá ser aprobado por la Dirección General de Patrimonio Natural y Política Forestal.
+En particular, dicho programa deberá contemplar una línea de actuaciones para la mejora
+de los hábitats de especies, compensación de superficies naturales ocupadas y afección
+al paisaje, entre otras.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 146
+5.3. Programa de Vigilancia Ambiental. Con antelación al inicio de la actividad, el
+promotor presentará ante el Servicio Territorial de Medio Ambiente de Burgos el programa
+de vigilancia ambiental contenido en el documento ambiental, que se complementará
+de forma que contemple las medidas protectoras incluidas en este informe de impacto
+ambiental y se facilite el seguimiento de las actuaciones proyectadas durante la fase de
+construcción, así como en las fases de funcionamiento y abandono de la instalación.
+Para ello, se deberán cumplir los contenidos y exigencias para el programa de vigilancia
+ambiental establecidos en la Instrucción 4/FYM/2020, de 15 de junio, de la Dirección
+General de Patrimonio Natural y Política Forestal, sobre los contenidos mínimos exigibles
+a los estudios de impacto ambiental de instalaciones de energía renovable para su
+compatibilidad con los hábitats naturales, la flora y la fauna.
+5.4. Informes periódicos. A partir del inicio de las actuaciones, el promotor presentará
+anualmente ante el órgano sustantivo un informe sobre el desarrollo del programa de
+vigilancia ambiental. Se recogerá el resultado de los controles, así como el grado de
+eficacia y cumplimiento de las medidas preventivas y correctoras establecidas en el
+documento ambiental y en este informe de impacto ambiental.
+5.5. Seguimiento y vigilancia. Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquél al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.6. Autorización del proyecto y publicidad: Conforme a lo establecido en el artículo
+48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano sustantivo
+deberá tener en cuenta en el procedimiento de autorización del proyecto, las conclusiones
+del presente informe de impacto ambiental, así como las condiciones ambientales
+establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de diez
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión y publicará en su sede electrónica la decisión sobre la
+autorización o denegación del proyecto y una referencia al boletín oficial donde se publicó
+el informe de impacto ambiental.
+5.7. Modificaciones. Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe, deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Burgos, que prestará su conformidad si procede, sin perjuicio de la tramitación de las
+licencias o permisos que, en su caso, correspondan. Se consideran exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+5.8. Vigencia del informe de impacto ambiental: Conforme a lo establecido en el
+artículo 47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este informe
+de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el Boletín Oficial de Castilla
+y León, no se hubiera procedido a la autorización del proyecto.
+CV: BOCYL-D-14092026-178-17
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 147
+5.9. Objeto de recurso: De conformidad a lo establecido en el artículo 47.5 de la
+Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el informe de impacto ambiental
+no será objeto de recurso alguno sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-14092026-178-17

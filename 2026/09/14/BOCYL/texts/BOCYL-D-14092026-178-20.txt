@@ -1,0 +1,636 @@
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 174
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Burgos
+RESOLUCIÓN de 8 de septiembre de 2026, de la Delegación Territorial de Burgos,
+por la que se dicta el informe de impacto ambiental del proyecto de central de producción
+de agua caliente para calefacción y sanitaria mediante energías renovables, en el término
+municipal de Burgos, promovido por «Eco Energías, S.L.». Expte.: EIAS/2026/BU/015.
+El titular de la Delegación Territorial de la Junta de Castilla y León en Burgos, en
+relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental y en virtud de las atribuciones conferidas por el artículo 52.2
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano competente para dictar
+informe de impacto ambiental.
+La citada Ley de evaluación ambiental recoge en su Anexo II los proyectos sometidos
+a evaluación de impacto ambiental simplificada. El presente proyecto está incluido en el
+Grupo 4, a) «Instalaciones industriales para la producción de electricidad, vapor y agua
+caliente (proyectos no incluidos en el anexo I».
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+Considerando adecuadamente tramitado el expediente, vista la propuesta de
+resolución de la Comisión Territorial de Medio Ambiente y Urbanismo de Burgos celebrada
+el día 1 de septiembre de 2026, las observaciones y la documentación presentada,
+RESUELVO
+Dictar el informe de impacto ambiental del proyecto de central de producción de
+agua caliente para calefacción y sanitaria mediante energías renovables, en el término
+municipal de Burgos, promovido por Eco Energías, S.L., que figura como Anexo.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 175
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental y en el artículo 59 del texto refundido de la Ley de
+Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este informe de impacto ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Burgos, 8 de septiembre de 2026.
+El Delegado Territorial,
+Fdo.: Roberto Saiz Alonso
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 176
+ANEXO
+INFORME DE IMPACTO AMBIENTAL DEL PROYECTO DE CENTRAL DE
+PRODUCCIÓN DE AGUA CALIENTE PARA CALEFACCIÓN Y SANITARIA MEDIANTE
+ENERGÍAS RENOVABLES, EN EL TÉRMINO MUNICIPAL DE BURGOS, PROMOVIDO
+POR ECO ENERGÍAS, S.L. EXPTE.: EIAS/2026/BU/015.
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+El objeto del proyecto es la instalación de un sistema centralizado para producción de
+agua caliente a partir de energías renovables, que será distribuida a través de una red de
+tuberías subterráneas destinada a prestar servicio de suministro térmico principalmente
+a edificios residenciales tanto públicos como privados, conocido como District Heating.
+Para ello se construirá una nave en el Polígono Industrial de Gamonal (Burgos),
+en la parcela con referencia catastral 6189006VM4869S0001DB, donde se dispondrá
+de dos calderas, una caldera de biomasa de potencia térmica 8 MW, con el apoyo de
+una caldera de gas natural de potencia térmica 5 MW, que funcionará como reserva
+del sistema de biomasa o bien puntualmente para demandas muy altas en las que los
+sistemas de funcionamiento regular no alcancen la potencia necesaria. La potencia
+térmica total instalada es de 13 MW.
+El combustible de la caldera principal será biomasa forestal astillada en origen.
+La parcela tiene una superficie total de 4.191 m2, siendo la superficie construida de
+2.351 m2.
+La energía en forma de agua caliente abastecerá a la red enterrada para proporcionar
+servicio de calefacción y producción de agua caliente sanitaria a los edificios que se
+conecten a la misma. No obstante, se hace constar que la red de distribución del agua
+caliente no forma parte del presente informe de impacto ambiental, al no requerir trámite
+de evaluación de impacto ambiental simplificada.
+Las instalaciones previstas son las siguientes:
+1. Sistema de producción de energía térmica a partir de biomasa de madera:
+– Almacenamiento y logística de biomasa.
+– Caldera de Biomasa de 8 MW de potencia térmica.
+– Sistemas de filtración y extracción de humos, compuesto por: multiciclón
+apagachispas (captación de residuos aeriformes derivados de la combustión),
+filtros de mangas para calderas, ventiladores (aspiradores de humos,
+Plenum de entrada y salida + Bypass, armario eléctrico de potencia y control
+(alimentación, regulación y control de las líneas de humos) y conductos (línea
+principal y recirculación de aspirador de humos).
+– Aire comprimido: destinado a los sistemas automáticos de limpieza de los
+tubos de humos de las calderas y de las mangas de los filtros de humos.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 177
+2. Sistema de producción de energía térmica a partir de gas natural.
+– Instalación receptora de gas con acometida a una presión máxima de operación
+inferior a 5 bar.
+– Caldera de gas natural pirotubular con una potencia térmica de 5 MW para la
+producción de agua caliente con temperaturas de impulsión admitidas hasta
+110ºC.
+– Chimeneas con conducto exterior autoportante y conducto interior aislado
+para la evacuación de humos.
+– Sistema de acumulación de agua caliente compuesto por un depósito de
+almacenamiento de 2.400 m3, que permita el almacenamiento de energía
+térmica durante los periodos de menor demanda de agua caliente (típicamente
+en horario nocturno), energía que se cederá a la red calor en los picos de
+arranque de la demanda desde los diferentes puntos de consumo.
+Todo ello irá acompañado de los correspondientes sistemas de bombeo (colector
+general primario, grupos motobomba del circuito primario, grupos motobomba del circuito
+secundario), sistema de expansión, instalaciones hidráulicas auxiliares, instalación
+eléctrica y otras instalaciones (fontanería, saneamiento, protección contra incendios,
+climatización y ventilación).
+El acceso a la parcela se hará a través de la red viaria propia del polígono industrial,
+disponiendo la misma de cerramiento perimetral.
+1.1. DESCRIPCIÓN DEL PROYECTO Y EMPLAZAMIENTO.
+BURGOS ECO ENERGÍAS,
+Expediente N.º EIAS/2026/BU/015 Promotor
+S.L.
+Denominación
+DISTRICT HEATING BURGOS
+del centro
+Dirección C/ La Lora, 7, 09007-Burgos.
+La actividad es la producción térmica centralizada mediante Anexo Grupo
+fuentes de energía renovables utilizando una caldera de biomasa Epígrafe Ley
+Descripción
+forestal de potencia de 8 MW, con el apoyo en momentos de 21/2013
+II 4. a)
+demanda punta de una caldera de gas con una potencia de 5 MW.
+El edificio que albergará la Central Térmica es de nueva construcción y se situará en una parcela
+Ubicación del Polígono Industrial Gamonal de la ciudad de Burgos con referencia catastral:
+6189006VM4869S0001DB.
+Sistema de producción con gas natural Caldera de Biomasa
+Potencia combustión: 5.000 kW Potencia combustión: 8.000 kW
+Almacenamiento y logística de biomasa/Almacenamiento energía térmica
+Se han previsto tres silos de almacenamiento de biomasa forestal de dimensiones 6 m x 18,45
+Mecánica del Silo m x 5,10 m para un volumen total útil de unos 1.200 m3 compuesto de suelo móvil para la
+extracción del biocombustible desde el depósito de almacenamiento y sistema top-loader.
+Sistema de recepción y transporte del combustible desde los silos de almacenamiento hasta
+Sistema de
+los dispositivos de repartición de biomasa a las calderas en paralelo (fase inicial del proyecto),
+transporte a calderas
+realizado por dos redler de transporte con doble cadena de tracción
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 178
+1.1. DESCRIPCIÓN DEL PROYECTO Y EMPLAZAMIENTO.
+Sistema de recepción y repartición del combustible desde el sistema de transporte hasta
+Sistema de recepción
+las tolvas y los dispositivos de dosificación previa de las calderas en paralelo, realizado por
+y repartición del
+redler de transporte con doble cadena de tracción capacitados a funcionamiento según las
+combustible
+indicaciones de los PLC de las calderas.
+Se plantea la instalación de un sistema de acumulación de agua caliente denominado T.E.S.
+Sistema de (Thermal Energy Storage), compuesta por un depósito de almacenamiento de 2.400 m3, que
+almacenamiento de permita el almacenamiento de energía térmica durante los periodos de menor demanda de
+energía térmica agua caliente (típicamente en horario nocturno), energía que se cederá a la red calor en los
+picos de arranque de la demanda desde los diferentes puntos de consumo
+1.2. SITUACIÓN Y DISTANCIA A ELEMENTOS SENSIBLES
+Coincidencia territorial o distancia
+Polígono Industrial
+Distancia a núcleo de con Red Natura 2000, o plan de
+Gamonal, sito en la ciudad No
+población y otros conservación y/o recuperación
+de Burgos
+de especies
+• Ferrocarril Bifurcación
+Distancia a otros elementos Rubena-Villafría: 75 m ZEC (ES4120072)
+(cauces, acequias, lagos, • Río Arlanzón: 1 km. Distancia a espacios protegidos «Riberas del
+pozos, conducciones, red • Carretera A-1: 1.431 m más próximos Río Arlanzón y
+autovías, ferrocarriles, etc.) • Río Vena: 1.518 m afluentes»: 1.850 m
+• Carretera A-1: 1.431 m
+1.3. CONSUMO DE RECURSOS.
+Agua: El agua que se calentará procederá de la acometida de la red de aguas de Burgos, la cual se descalcificará y
+funcionará en un circuito cerrado, siendo distribuida a través de la red de calor.
+Materias primas: Consumo de astillas o serrín, gas natural; y suelo por ocupación de la planta.
+1.4. GESTIÓN DE AGUAS RESIDUALES Y PLUVIALES
+• Dispondrá de red separativa de aguas sanitarias, de proceso y pluviales.
+• Se conectará con la red municipal de saneamiento
+• Antes de la unión de las redes de pluviales y fecales con las redes generales de saneamiento, se colocarán pozos
+de registro para toma de muestras y vigilancia ante posibles vertidos de la actividad industrial.
+1.5. EMISIONES A LA ATMÓSFERA
+Contaminantes
+CO , NO, CO, SO y partículas
+emitidos 2 x 2
+Clasificación (RD
+Denominación de foco Proceso asociado 100/2011 – RD
+Foco de emisión
+1042/2017)
+asociado a la planta
+de biomasa Caldera biomasa 8MW Calentar el agua 01 02 03 02 (B)
+Caldera gas natural 5 MW Calentar el agua 01 02 03 02 (B)
+Fuentes de
+Descarga de astilla en tolvas de los silos y sistema de extracción y almacenamiento de ceniza.
+emisiones difusas
+Sistemas de control para prevenir o reducir la
+Sistema de tres pases de humos reales (reducción NO).
+contaminación x
+Para las calderas de biomasa se instalará un sistema de
+filtración compuesto por apagachispas-filtro de
+Sistema para la reducción de partículas
+mangas-ventilador centrífugo-chimenea con sus conductos de
+unión entre los distintos elementos.
+Ley 5/2009, de 4 de junio, del Ruido de Castilla y
+La instalación está localizada en una zona tipo 4 área ruidosa.
+León
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 179
+1.6. PRODUCCIÓN DE RESIDUOS
+Gestión de residuos Gestor autorizado.
+No peligrosos: residuos de construcción y demolición, papel y cartón, mezclas de residuos
+Principales residuos municipales y cenizas de las calderas
+producidos Peligrosos: aceites hidráulicos y lubricantes de maquinaria, combustibles y productos
+químicos.
+2. DOCUMENTO AMBIENTAL.
+El documento ambiental presentado además de los apartados relativos al proyecto
+incluye la normativa ambiental de aplicación, descripción del emplazamiento y del medio
+afectado, análisis de alternativas técnica y ambientalmente viables, identificación de los
+principales impactos sobre el mismo, estableciendo finalmente una serie de medidas
+correctoras y un programa de vigilancia ambiental, diferenciando las fases de construcción,
+funcionamiento y cese.
+Respecto a las alternativas, además de la alternativa 0 o de no ejecución del
+proyecto, se plantean tres opciones diferentes para el desarrollo del proyecto, en las que
+se tienen en cuenta los criterios de oportunidad territorial, por la disponibilidad de suelo
+en un entorno antropizado. Dichas alternativas son las siguientes:
+• Alternativa 1: contempla la instalación de un sistema mediante caldera de biomasa,
+utilizando como combustibles astilla forestal, pellet u otros combustibles.
+• Alternativa 2: producción de energía térmica mediante calderas alimentadas
+por gas natural, que realizan la combustión del combustible en condiciones
+controladas para la generación de calor.
+• Alternativa 3: se basa en la generación de energía térmica a partir de biogás
+o biometano producido mediante procesos de digestión anaerobia de materia
+orgánica.
+En base a criterios técnicos y ambientales, se ha escogido como alternativa
+finalmente seleccionada a la «Alternativa 1», destacando que presenta un menor impacto
+en términos de cambio climático, elevado uso de recursos locales y alta alineación con
+los objetivos de descarbonización.
+En el apartado relativo a descripción del medio se incluye un inventario ambiental
+en el que se describen los factores abióticos (geología, geomorfología y suelo, agua y
+aire), bióticos (flora y vegetación, fauna y espacios naturales protegidos y otras figuras
+de protección), socioeconómicos, paisaje y del patrimonio cultural, que pueden verse
+afectados de manera significativa. Se analiza la afección a la Red Natura, concluyendo
+que el espacio a ocupar por las instalaciones se encuentra fuera de las figuras de
+protección tanto de las vinculadas a la Red Natura 2000, como a la Red de Espacios
+Naturales.
+Conocido el medio y las principales características del proyecto se realiza una
+identificación y valoración de impactos sobre el medio ambiente, derivada del estudio de
+las interacciones entre las acciones del proyecto y los factores ambientales. La mayor
+parte de los impactos negativos son valorados como compatibles.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 180
+Asimismo, una vez concluida la identificación y valoración de impactos, se
+detallan las actuaciones que se deben realizar para prevenir, controlar o atenuar los
+efectos ambientales negativos a ejecutar durante las diferentes fases del proyecto,
+recogiéndose en el documento ambiental una serie de medidas protectoras, correctoras
+y compensatorias.
+Por último, el documento ambiental incluye un programa de vigilancia ambiental con
+objeto de verificar el cumplimiento de las medidas preventivas y correctoras.
+3. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+3.1. INICIO DEL PROCEDIMIENTO.
+Con fecha 5 de junio de 2026 tiene entrada en el Servicio Territorial de Medio Ambiente
+de Burgos, la solicitud de inicio del procedimiento de evaluación ambiental simplificada,
+junto con el documento ambiental relativo al proyecto de Central de producción de
+agua caliente para calefacción y sanitaria mediante energías renovables, en el término
+municipal de Burgos, promovido por Eco Energías, S.L., conforme al artículo 45 de la
+Ley 21/2013, de 9 de diciembre, de evaluación ambiental.
+3.2. CONSULTA A LAS ADMINISTRACIONES PÚBLICAS AFECTADAS Y
+PERSONAS INTERESADAS.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, se procedió por parte del Servicio Territorial de Medio Ambiente
+de Burgos a la apertura del trámite de consultas a las Administraciones públicas afectadas
+y a las personas interesadas, con fecha 8 de junio de 2026.
+La relación de los organismos consultados, así como los informes recibidos de forma
+previa a la redacción del presente informe se refleja en la siguiente tabla:
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS CONTESTACIÓN
+Servicio Territorial de Cultura, Turismo y Deporte Sí
+Servicio Territorial de Movilidad y Transformación Digital (Urbanismo) No
+Servicio Territorial de Movilidad y Transformación Digital (Carreteras) Sí
+Servicio Territorial de Industria, Comercio y Economía No
+Servicio Territorial de Medio Ambiente (Área de Medio Natural) Sí
+Servicio Territorial de Medio Ambiente (Protección Ambiental) No
+Sección de Protección Civil de la Delegación Territorial en Burgos Sí
+Ayuntamiento de Burgos No
+Ecologistas en Acción de Burgos No
+El Servicio Territorial de Cultura, Turismo y Deporte de Burgos, con fecha 9 de junio de
+2026 informa que, dado que el proyecto se realiza en unas instalaciones ya construidas y
+en un espacio en el que no existen catalogados yacimientos arqueológicos, no se estima
+imprescindible establecer medidas correctoras desde el punto de vista arqueológico.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 181
+Por otro lado, y en lo que concierne a los Bienes de Interés Cultural y los Elementos
+Inventariados, recuerda que a los efectos que previene el artículo 62.4 de la Ley 7/2024,
+de 20 de junio, de Patrimonio Cultural de Castilla y León, el promotor deberá remitir el
+proyecto a la administración competente para su estudio y autorización.
+El Servicio Territorial de Movilidad y Transformación Digital de Burgos, en informe
+de fecha 9 de julio de 2026 relativo a carretas, indica que el área de actuación no se
+encuentra en el entorno de ninguna carretera de titularidad autonómica.
+El Servicio Territorial de Medio Ambiente de Burgos (Área de Medio Natural), emite
+informe de fecha 7 de julio de 2026 indicando que el proyecto se enmarcan en las políticas
+nacionales de mitigación del cambio climático, destacando su inclusión en iniciativas
+como los Proyectos Clima del Fondo de Carbono para una Economía Sostenible (FES-
+CO ), orientados a la reducción de emisiones de gases de efecto invernadero mediante
+la sustitución de sistemas térmicos convencionales por soluciones basadas en energías
+reno₂vables, como las redes de calor con biomasa.
+El ámbito del proyecto no presenta coincidencia territorial con ninguna de las
+siguientes figuras de protección ambiental:
+– Espacios Naturales Protegidos.
+– Red Natura 2000.
+– Ámbito de aplicación de planificación de especies.
+– Catálogo de Flora Protegida de Castilla y León o con Microreservas de Flora.
+– Especímenes vegetales de singular relevancia.
+– Montes de Utilidad Pública.
+– Vías pecuarias.
+Tras estudiar la ubicación de las actuaciones previstas, se comprueba que no existe
+coincidencia geográfica del proyecto con la Red Natura 2000, ni se prevé la existencia de
+afecciones indirectas ya sea individualmente o en combinación con otros, que pudieran
+causar perjuicio a la integridad de cualquier lugar incluido en aquella, siempre y cuando
+se cumplan las medidas de seguridad dirigidas a la preservación de la calidad de las
+aguas y atmosféricas, sin perjuicio de lo que estipulen otros organismos competentes en
+materia de seguridad.
+Estas conclusiones, junto con las condiciones establecidas a continuación constituyen
+el Informe de Evaluación de la Repercusiones sobre la Red Natura 2000 (IRNA) tal y
+como se define en el artículo 5 del Decreto 6/2011, de 10 de febrero.
+El resultado de la presente evaluación se entiende así mismo emitido a los efectos
+de lo dispuesto en el artículo 13 de dicho Decreto.
+La Sección de Protección Ciudadana de la Delegación de la Junta de Castilla y León
+en Burgos, indica en informe de fecha 8 de junio de 2026 que, de acuerdo con el Plan de
+Protección Civil ante el Riesgo de Inundaciones en la Comunidad Autónoma de Castilla y
+León, la clasificación en función del riesgo potencial poblacional es «Alto».
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 182
+En cuanto a los riesgos de incendios forestales, según el INFOCAL, el índice de riesgo
+local y el de peligrosidad están calificados como «Moderado» y «Bajo», respectivamente.
+No obstante, se deberán tener en cuenta las medidas preventivas establecidas en la
+siguiente normativa:
+– Resolución de 23 de abril de 2026, de la Subsecretaría, por la que se publica el
+Acuerdo del Consejo de ministros de 21 de abril de 2026, por el que se aprueba
+la Directriz Básica de Planificación de Protección Civil ante el riesgo de incendios
+forestales.
+– RD 164/2025, de 4 de marzo, por el que se aprueba el Reglamento de Seguridad
+contra incendios en los establecimientos industriales.
+Respecto al Plan Especial de Protección Civil ante emergencias por accidentes en
+el transporte de mercancías peligrosas, el riesgo por carretera y por ferrocarril es «Alto»
+en ambos casos. Así mismo indica que no se encuentra afectado por la Zona de Alerta
+e Intervención de los establecimientos afectados por la Directiva SEVESO en Castilla
+y León.
+Concluye el informe que ninguna de las actuaciones que se planifiquen, ni los
+diferentes usos que se asignen al suelo deben incrementar el riesgo hacia las personas,
+sus bienes y el medio ambiente. Si alguna de las actuaciones derivadas de la modificación/
+aprobación pudiera potencialmente aumentar el riesgo sobre las personas, sus bienes
+o el medio ambiente, deberá actualizarse el análisis de riesgos, indicando el grado de
+afección, así como las medidas necesarias para evitar incrementar dichos riesgos.
+4. ANÁLISIS DEL PROYECTO SEGÚN LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+El objeto del proyecto es la instalación de un sistema centralizado para producción de
+agua caliente a partir de energías renovables, que será distribuida a través de una red de
+tuberías subterráneas destinada a prestar servicio de suministro térmico principalmente
+a edificios residenciales tanto públicos como privados, conocida como District Heating.
+Dicha central constará de dos calderas, una caldera de biomasa forestal de potencia
+térmica 8 MW, con el apoyo de una caldera de gas natural de potencia térmica 5 MW, que
+funcionará como reserva del sistema.
+El combustible de la principal caldera será biomasa forestal astillada en origen,
+siendo la potencia térmica total instalada 13 MW.
+El principal recurso natural que se emplea es la citada biomasa para producir energía
+térmica. En cuanto a la utilización de otros recursos naturales, como el agua, al ser en
+circuito cerrado no se considera significativo debido a la propia naturaleza del proyecto.
+La planta contará con dos focos de emisión independientes correspondientes a la
+caldera de biomasa y a la caldera de gas natural y también se generarán emisiones
+difusas derivadas principalmente de la descarga de la astilla, el sistema de extracción y
+el almacenamiento de ceniza.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 183
+Durante las obras se generarán residuos no peligrosos y peligrosos, que se
+gestionarán conforme a la normativa de aplicación. El principal residuo generado en la
+fase de explotación serán las cenizas procedentes de la combustión de la biomasa y las
+partículas de los sistemas de depuración o filtros de las chimeneas, si bien todos ellos,
+se entregarán a gestor autorizado previo almacenamiento en condiciones adecuadas.
+4.2. UBICACIÓN DEL PROYECTO.
+El proyecto se ubica en la parcela con referencia catastral 6189006VM4869S0001DB,
+en el Polígono Industrial de Gamonal (Burgos).
+El suelo está clasificado como Suelo Urbanizable, con ordenanza industrial.
+La actividad se desarrolla en un ámbito en el que no existe coincidencia geográfica
+del proyecto con espacios naturales protegidos, Red Natura 200, ámbitos de aplicación de
+planificación de especies, Catálogo de Flora protegida de Castilla y León y Microreservas
+de Flora, Especímenes vegetales de singular relevancia, Montes de Utilidad Pública y
+Vías Pecuarias.
+Se considera que el emplazamiento carece de valores ambientales reseñables no
+apreciándose afección significativa sobre vegetación, fauna y/o paisaje.
+Con relación al patrimonio cultural, se trata de un espacio donde no se estima
+imprescindible el establecimiento de medidas correctoras desde el punto de vista
+arqueológico.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+Los principales impactos de la actividad están relacionados con las emisiones
+atmosféricas, el ruido y la correcta gestión de los residuos que se generan (cenizas de la
+caldera de biomasa y partículas de los filtros de depuración).
+Durante el funcionamiento de las instalaciones se producirán emisiones a la
+atmósfera, siendo los compuestos contaminantes: NOx, CO, SO2 y partículas. No
+obstante, dispondrá de sistemas de depuración, debiendo cumplir los dos focos de emisión
+existentes los valores límite de emisión establecidos en la legislación de aplicación.
+El funcionamiento de las instalaciones permitirá la reducción de emisiones de gases
+de efecto invernadero al tratarse de una fuente de energía alternativa renovable de
+origen biogénico, en consonancia con los objetivos de consecución de una economía
+climáticamente neutra en 2050, establecidos en el Pacto Verde Europeo.
+Respecto al posible impacto de efecto sinérgico con otros proyectos, en concreto
+con empresas e industrias sitas en dicho polígono, teniendo en cuenta los mecanismos
+de control y prevención a instalar en la planta, así como la potencia moderada de la
+instalación proyectada, su contribución adicional a las emisiones atmosféricas del entorno
+no supondrá un incremento significativo respecto a la situación actual.
+Por todo ello, se considera que el impacto ambiental global del proyecto es compatible,
+siempre y cuando se apliquen las medidas preventivas y correctoras incluidas en la
+documentación aportada, en el presente informe y demás legislación vigente que le sea
+de aplicación.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 184
+5. INFORME DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del proyecto de Central de producción de
+agua caliente para calefacción y sanitaria mediante energías renovables, en el término
+municipal de Burgos, promovido por Eco Energías, S.L., se determina que no tiene
+efectos significativos sobre el medio ambiente, en los términos establecidos en el presente
+informe de impacto ambiental, por los motivos que se justifican en el mismo y sin perjuicio
+del cumplimiento de otras normas vigentes de carácter ambiental o sectorial que sean
+de aplicación.
+5.1. Se deberán cumplir las medidas preventivas, protectoras y correctoras que se
+indican a continuación, además de las que se incluyen en el documento ambiental y en
+el proyecto presentado por el promotor, en lo que no contradigan al presente informe de
+impacto ambiental:
+I. FASE DE PROYECTO.
+a) Autorizaciones. Se deberán obtener todas las autorizaciones necesarias
+con el objeto de garantizar el cumplimiento de la normativa de aplicación. El
+presente informe no exime de cualquier autorización o concesión requisito de la
+legislación vigente.
+b) Actuaciones pre-operacionales. En el proyecto de obra se deberá incorporar la
+utilización de áridos reciclados procedentes de plantas de tratamiento de residuos
+de construcción y demolición, en las unidades de obra donde sea técnicamente
+posible y ambientalmente adecuado, en sustitución de áridos naturales. Los
+porcentajes mínimos de utilización de estos materiales serán de un 10 % en peso
+de la cantidad total de áridos cuya utilización está prevista en la obra.
+II. FASE DE CONSTRUCCIÓN.
+c) Replanteos, señalización y delimitación de las obras. Con el fin de garantizar que las
+zonas afectadas por la ejecución del proyecto sean las mínimas imprescindibles,
+se deberán replantear y señalizar, antes del comienzo de las obras, las áreas de
+trabajo y los lugares donde se ubicaran las instalaciones temporales de obra,
+evitando en todo momento sobrepasar los límites de ocupación autorizados,
+prestando especial atención a evitar daños en el resto de las infraestructuras y
+zonas sensibles.
+d) Gestión de residuos. En la ejecución de las obras, se deberán separar los
+residuos de construcción y demolición generados según se establece en el
+artículo 30 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+para una economía circular, así como en la normativa que regula la producción
+y gestión de los residuos de construcción y demolición. El resto de los residuos
+que se originen, se gestionarán según su tipología y conforme a lo regulado en la
+mencionada ley.
+No podrán acopiarse aceites, grasas o residuos, ni efectuarse operaciones de
+mantenimiento, repuesto o sustitución en la maquinaria y vehículos dentro del
+área del proyecto, que se deberán llevar a cabo de forma y en sitio adecuado,
+evitándose en todo momento el vertido de sustancias que puedan contaminar el
+suelo, las aguas y los acuíferos de la zona.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 185
+e) Protección de las aguas. Se evitará establecer zonas de acopios de materiales
+potencialmente contaminantes, zonas de estacionamiento o mantenimiento
+de vehículos o maquinaria, en zonas de sustrato permeable sobre masas de
+agua subterránea, o en la proximidad de masas de agua superficial y su zona
+de policía.
+Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto, por escorrentía, erosión, infiltración
+u otros mecanismos, sobre las aguas superficiales y/o subterráneas. Se deberán
+tomar las medidas oportunas para asegurar que, en ningún caso, se produzcan
+vertidos de aceites, combustibles, lubricantes, u otras sustancias similares al
+terreno o a los cursos de agua. En el caso de que, finalmente, se produjera
+vertido sobre algún elemento del dominio público hidráulico (aguas superficiales
+o subterráneas), previamente se deberá disponer de la correspondiente
+autorización de vertido por parte del Organismo de cuenca.
+En el caso de derrame accidental de combustibles, lubricantes o cualquier
+sustancia peligrosa fuera de las zonas habilitadas, se extraerá de manera
+inmediata la tierra de la zona afectada para su correcto almacenamiento y gestión
+a través de gestor autorizado.
+En relación a las aguas residuales generadas por la eventual instalación
+de aseos, duchas, casteas de obra, etc., se recomienda la disposición de un
+depósito estanco, sin salida exterior, que almacene las aguas residuales para,
+posteriormente, ser retiradas de forma periódica por gestor autorizado.
+f) Contaminación atmosférica. Con objeto de evitar la generación de polvo, durante
+la fase de construcción y montaje se efectuarán riegos periódicos en las pistas
+de acceso y en la zona de ejecución de las obras, con la frecuencia que las
+condiciones climatológicas y las circunstancias del trabajo aconsejen, además
+de cualquier otra medida adecuada a tal fin, con objeto de cumplir la normativa
+vigente de protección del medio ambiente atmosférico.
+Asimismo, todos los camiones de obra que transporten materiales pulverulentos,
+estériles o préstamos para obra, deberán llevar la caja cubierta, de tal manera
+que se evite, en la medida de lo posible, la emisión de partículas a la atmósfera.
+Con carácter general se aplicará lo establecido en la normativa sobre calidad del
+aire y protección de la atmósfera, así como cualquier prescripción que se incluya
+en la autorización ambiental.
+g) Contaminación acústica. Durante las obras no se sobrepasarán los niveles de
+ruido en el ambiente exterior determinados por la normativa de aplicación. En el
+caso que se superasen estos niveles se tomarán las medidas adecuadas como
+el aislamiento y el empleo de atenuadores de ruido.
+Todos los equipos responsables de la emisión de ruido contarán con su
+correspondiente plan de mantenimiento que deberá ser correctamente aplicado
+y estar convenientemente documentado en los registros asociados al sistema de
+gestión medioambiental.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 186
+h) Contaminación lumínica. La iluminación de las instalaciones deberá hacerse
+conforme a los establecido en la Ley 15/2010, de 10 de diciembre, de Prevención
+de la Contaminación Lumínica y del Fomento del Ahorro y Eficiencia Energéticos
+Derivados de Instalaciones de Iluminación de Castilla y León.
+i) Maquinaria. La maquinaria utilizada en las distintas fases del proyecto estará
+sometida a un correcto mantenimiento preventivo, conforme a las instrucciones del
+fabricante y normativa vigente, con el fin de minimizar la emisión de contaminantes,
+evitar la excesiva producción de ruidos y el vertido de contaminantes por roturas
+o averías.
+j) Integración ambiental, visual y paisajística. Al finalizar los trabajos de construcción
+se realizará una limpieza de toda la zona de actuación y se restaurarán los accesos
+y las zonas auxiliares, para conseguir una máxima integración paisajística.
+Los acabados exteriores de la instalación presentarán tonalidades cromáticas
+acordes con las características del entorno y conforme a lo previsto al efecto en
+la normativa urbanística aplicable.
+k) Restauración final de las obras y de zonas alteradas. Al finalizar los trabajos
+de construcción, se realizará una limpieza de toda la zona de actuación y
+se restaurarán todas aquellas superficies que no sean ocupadas de forma
+permanente, mediante su preparación y acondicionamiento, realizándose, si
+fuera necesaria, la remodelación topográfica y el suavizado de todos los taludes.
+l) Prevención de incendios forestales. La ejecución de las obras y trabajos
+contenidos en el proyecto, deberán cumplir las condiciones prescritas en la
+norma vigente por la que se fija la época de peligro alto de incendios forestales
+en la Comunidad de Castilla y León, se establecen las normas sobre el fuego y
+se fijan medidas preventivas para la lucha contra incendios forestales.
+m) Protección del patrimonio cultural y arqueológico. Si en el transcurso de la
+ejecución del proyecto apareciesen restos arqueológicos, se paralizarán las
+obras en la zona afectada, procediendo el promotor a ponerlo en conocimiento
+de la Delegación Territorial de la Junta de Castilla y León en Burgos, que dictará
+las normas de actuación que procedan en base a la normativa de aplicación.
+III. FASE DE FUNCIONAMIENTO.
+n) Gestión de residuos. Los residuos producidos durante el funcionamiento del
+proyecto serán gestionados a través de gestores autorizados en función de su
+calificación y atenderán a lo dispuesto en la normativa sobre residuos y suelos
+contaminados, así como en las demás normas de desarrollo.
+o) Contaminación acústica. Durante el funcionamiento de la instalación se atenderá
+a lo dispuesto en la normativa vigente en materia de ruido en Castilla y León,
+cumpliéndose los niveles establecidos de transmisión de ruido. En el caso que se
+superasen estos niveles se tomarán las medidas adecuadas como el aislamiento
+y el empleo de atenuadores de ruido.
+Todos los equipos responsables de la emisión de ruido contarán con su
+correspondiente plan de mantenimiento que deberá ser correctamente aplicado
+y estar convenientemente documentado en los registros asociados al sistema de
+gestión medioambiental.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 187
+p) Protección atmosférica. Como actividad potencialmente contaminadora de la
+atmósfera deberá entre otras:
+– Disponer de autorización para la construcción, montaje, explotación, traslado
+o modificacióproten sustancial, por ser instalación en las que se desarrollan
+alguna de las actividades incluidas en el catálogo recogido en el anexo IV de
+la Ley 34/2007, de 15 de noviembre (actividad 01 02 03 02 Grupo B).
+– Cumplir los valores límite de emisión tanto fijos como difusos establecidos en
+la correspondiente autorización.
+– Cumplir las disposiciones relativas al control y dispersión de las emisiones y
+realizar los controles externos reglamentarios a través de organismo de control
+acreditado (OCA) en la materia o autocontroles internos de las emisiones de
+las actividades, en la forma y periodicidad prevista en la autorización como
+actividad APCA de acuerdo a la normativa aplicable, así como, cumplir con
+las medidas contenidas en los planes y programas para la protección de la
+atmósfera.
+– Minimizar tanto las emisiones canalizadas como las difusas de contaminantes
+a la atmósfera aplicando, en la medida de lo posible, las tecnologías de
+tratamiento y depuración establecidas en los documentos europeos de
+referencia sobre mejores técnicas disponibles para cada tipo de actividad, y
+adoptar, en los casos de focos canalizados, los procedimientos de dispersión
+más adecuados que minimicen el impacto en la calidad del aire en su zona de
+influencia.
+q) Protección del suelo. Las instalaciones se mantendrán en buen estado de
+conservación, evitando o corrigiendo cualquier alteración que pudiera afectar a
+sus condiciones de seguridad, estanqueidad o capacidad de almacenamiento,
+minimizando el riesgo de contaminación.
+s) Plan de Vigilancia Ambiental. Se deberá realizar Plan de Vigilancia del
+cumplimiento de las medidas preventivas y correctoras previstas tanto en el
+documento ambiental como en el presente informe de impacto ambiental. Para el
+desarrollo del mismo se deberá realizar un seguimiento detallado que compruebe
+la ejecución de todas las medidas dirigidas a proteger el medio ambiente en el que
+se desarrolla la planta de tratamiento de residuos de construcción y demolición.
+5.2. Autorización del proyecto y publicidad: Conforme a lo establecido en el artículo
+48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano sustantivo
+deberá tener en cuenta en el procedimiento de autorización del proyecto, las conclusiones
+del presente informe de impacto ambiental, así como las condiciones ambientales
+establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de diez
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión y publicará en su sede electrónica la decisión sobre la
+autorización o denegación del proyecto y una referencia al boletín oficial donde se publicó
+el informe de impacto ambiental.
+CV: BOCYL-D-14092026-178-20
+
+Boletín Oficial de Castilla y León
+Núm. 178 Lunes, 14 de septiembre de 2026 Pág. 188
+5.3. Modificaciones. Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe, deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Burgos, que prestará su conformidad si procede, sin perjuicio de la tramitación de las
+licencias o permisos que, en su caso, correspondan. Se consideran exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+5.4. Seguimiento y vigilancia: Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquél al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.5. Vigencia del informe de impacto ambiental: Conforme a lo establecido en el
+artículo 47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este informe
+de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el Boletín Oficial de Castilla
+y León, no se hubiera procedido a la autorización del proyecto.
+5.6. Objeto de recurso: De conformidad a lo establecido en el artículo 47.5 de la
+Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el informe de impacto ambiental
+no será objeto de recurso alguno sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-14092026-178-20

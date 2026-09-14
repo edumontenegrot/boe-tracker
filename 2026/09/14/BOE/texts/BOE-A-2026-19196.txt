@@ -1,0 +1,213 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122188
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+19196 Resolución de 2 de septiembre de 2026, de la Universidad de Castilla-La
+Mancha, por la que se publica la modificación del plan de estudios de
+Graduado o Graduada en Ingeniería Mecánica.
+Habiéndose emitido, con fecha 23 de julio de 2026, resolución favorable del Consejo
+de Universidades referente a la solicitud de modificación del plan de estudios del Grado
+en Ingeniería Mecánica por la Universidad de Castilla-La Mancha, título oficial
+establecido por acuerdo de Consejo de Ministros en su reunión de 1 de octubre de 2010
+(publicado en el BOE de 11 de noviembre de 2010, por Resolución de la Secretaría
+General de Universidades de 18 de octubre de 2010).
+Este Rectorado, de conformidad con lo dispuesto en el artículo 32.5 del Real
+Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las
+enseñanzas universitarias y del procedimiento de aseguramiento de su calidad, ha
+resuelto publicar la modificación del plan de estudios del Grado en Ingeniería Mecánica.
+El plan de estudios quedará estructurado según consta en el anexo de esta
+resolución.
+Ciudad Real, 2 de septiembre de 2026.–El Rector, José Julián Garde López-Brea.
+ANEXO
+Plan de estudios del Grado en Ingeniería Mecánica por la Universidad de Castilla-
+La Mancha
+Rama: Ingeniería y Arquitectura
+Campo de Estudio: Ingeniería industrial, ingeniería mecánica, ingeniería automática,
+ingeniería de la organización industrial e ingeniería de la navegación
+Centros de impartición:
+Escuela Técnica Superior de Ingeniería Industrial de Albacete.
+Escuela de Ingeniería Minera e Industrial de Almadén.
+Escuela Técnica Superior de Ingeniería Industrial de Ciudad Real.
+Distribución general del plan de estudios
+Tipo de materia Créditos ECTS
+Formación Básica. 66
+Obligatoria. 126
+Optativa. 36
+Trabajo Fin de Grado. 12
+Créditos totales. 240 69191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122189
+Campo de estudio de las asignaturas de formación básica
+Materia Asignatura Carácter ECTS Campo de estudio
+Cálculo I. FB 6
+Cálculo II. FB 6
+Matemáticas. Álgebra. FB 6
+Ampliación de Matemáticas. FB 6
+Estadística. FB 6
+Ingeniería industrial, ingeniería mecánica, ingeniería automática,
+Expresión Gráfica. Expresión Gráfica. FB 6
+ingeniería de la organización industrial e ingeniería de la navegación.
+Empresa. Gestión Empresarial. FB 6
+Física I. FB 6
+Física.
+Física II. FB 6
+Química. Química. FB 6
+Informática. Informática. FB 6
+Estructura del plan de estudios por módulos, materias y asignaturas
+Módulo Materia Asignatura ECTS Carácter
+Cálculo I. 6 FB
+Álgebra. 6 FB
+Matemáticas. Cálculo II. 6 FB
+Estadística. 6 FB
+Ampliación de Matemáticas. 6 FB
+Módulo 1. Formación básica
+Física I. 6 FB
+(66 ECTS).
+Física.
+Física II. 6 FB
+Informática. Informática. 6 FB
+Química. Química. 6 FB
+Expresión Gráfica. Expresión Gráfica. 6 FB
+Empresa. Gestión Empresarial. 6 FB
+Fundamentos de Termodinámica. Termodinámica Técnica y Transferencia de Calor. 6 OB
+Fundamentos de Mecánica de Fluidos. Mecánica de Fluidos. 6 OB
+Fundamentos de Ciencia de los Materiales. Ciencia de los Materiales. 6 OB
+Fundamentos de Tecnología Eléctrica. Tecnología Eléctrica. 6 OB
+Fundamentos de Tecnología Electrónica. Tecnología Electrónica. 6 OB
+Módulo 2. Formación común
+Fundamentos de Regulación Automática. Regulación Automática. 6 OB
+a la rama industrial (66 ECTS).
+Fundamentos de Máquinas y Mecanismos. Teoría de Máquinas y Mecanismos. 6 OB
+Fundamentos de Resistencia de Materiales. Resistencia de Materiales. 6 OB
+Fundamentos de Producción Industrial. Sistemas de Fabricación y Organización Industrial. 6 OB
+Fundamentos de Medio Ambiente. Tecnología del Medio Ambiente. 6 OB
+Ingeniería de Proyectos. Proyectos en la Ingeniería. 6 OB
+69191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122190
+Módulo Materia Asignatura ECTS Carácter
+Ingeniería Gráfica. Ingeniería Gráfica. 6 OB
+Ampliación de Teoría de Máquinas y
+6 OB
+Mecanismos.
+Construcción de Máquinas.
+Diseño, Cálculo y Ensayo de Máquinas. 6 OB
+Ingeniería Térmica. Ingeniería Térmica. 6 OB
+Elasticidad y Resistencia de Materiales. Mecánica del Sólido Deformable. 6 OB
+Módulo 3. Tecnología
+específica (60 ECTS). Diseño y Cálculo de Estructuras Metálicas y de
+6 OB
+Hormigón.
+Ingeniería de Estructuras.
+Teoría de Estructuras y Construcciones
+6 OB
+Industriales.
+Ingeniería de Fluidos. Sistemas y Máquinas de Fluidos. 6 OB
+Ingeniería de Materiales. Ingeniería y Tecnología de Materiales. 6 OB
+Tecnología de Fabricación. Tecnología de Fabricación. 6 OB
+Complementos de Fabricación. 6 OP
+Materiales Metálicos en Ingeniería Mecánica. 6 OP
+Sistemas de Producción Industrial. Tecnología de Materiales Compuestos. 6 OP
+Técnicas de Diseño Asistido por Ordenador. 6 OP
+Metrología y Calidad en Fabricación. 6 OP
+Equipos Térmicos. 6 OP
+Sistemas Térmicos en Energías Renovables. 6 OP
+Módulo 4.1 Formación Tecnología del Hidrógeno y Pilas de
+Técnicas Energéticas. 6 OP
+optativa. Albacete. Combustible.
+Cálculo y Diseño de Instalaciones Mecánicas. 6 OP
+Sistemas Eléctricos en Energías Renovables. 6 OP
+Sistemas Neumáticos. 6 OP
+Sensores y Actuadores. 6 OP
+Mecatrónica. Instrumentación Virtual. 6 OP
+Mecánica de Robots y Manipuladores. 6 OP
+Programación de Robots Móviles. 6 OP
+Instalaciones Generales. 6 OP
+Instalaciones.
+Instalaciones Industriales. 4,5 OP
+Ingeniería de Uniones. 4,5 OP
+Obra Civil en Ingeniería. 4,5 OP
+Módulo 4.2 Formación
+Construcciones.
+optativa. Almadén. Gestión de Proyectos. 4,5 OP
+Complementos de estructuras metálicas y de
+6 OP
+hormigón.
+Metrología y Automatización de la Producción. Metrología y Automatización de la Producción. 6 OP
+Inglés Técnico. Inglés Técnico. 6 OP
+69191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 227 Lunes 14 de septiembre de 2026 Sec. III. Pág. 122191
+Módulo Materia Asignatura ECTS Carácter
+Tecnología de la Combustión. 6 OP
+Máquinas de Fluido y Combustión. Máquinas Térmicas. 6 OP
+Máquinas Hidráulicas. 6 OP
+Fabricación Asistida por Ordenador. Fabricación Asistida por Ordenador. 6 OP
+Energía Eólica e Hidráulica. 6 OP
+Energías Renovables y Nuclear.
+Energía Nuclear. 6 OP
+Complejos Industriales. Complejos Industriales. 6 OP
+Módulo 4.3 Formación
+optativa. Ciudad Real. Vibraciones Mecánicas. Vibraciones Mecánicas. 6 OP
+Cálculo de Estructuras por el Método de los Cálculo de Estructuras por el Método de los
+6 OP
+Elementos Finitos. Elementos Finitos.
+Ingeniería de Vehículos. Ingeniería de Vehículos. 6 OP
+Ingeniería Ambiental. 6 OP
+Tecnologías Energéticas y Medioambientales.
+Tecnologías de Generación y Gestión de la
+6 OP
+Energía.
+Selección de Materiales en la Industria. Selección de Materiales en la Industria. 6 OP
+Electrónica Analógica. 6 OP
+Sistemas Electrónicos.
+Instrumentación Electrónica. 6 OP
+Electrónica Digital y Microprocesadores. Electrónica Digital I. 6 OP
+Módulo 4.4 Formación
+optativa. Electrónica Industrial.
+Robótica Industrial. Robótica Industrial. 6 OP
+Informática Industrial. Informática Industrial. 6 OP
+Automatización Industrial. Automatización Industrial. 6 OP
+Electrónica de Potencia. Electrónica de Potencia. 6 OP
+Instalaciones Eléctricas de Baja Tensión. 6 OP
+Transporte y Distribución. Instalaciones Eléctricas de Alta Tensión. 6 OP
+Módulo 4.5 Formación
+optativa. Eléctrica.
+Líneas Eléctricas. 6 OP
+Generación de Energía Eléctrica. Centrales Eléctricas. 6 OP
+Energías Renovables. Energías Renovables. 6 OP
+Prácticas Académicas Externas. Prácticas Académicas Externas. 6 OP
+Optativa de Intercambio I. 6 OP
+Optativa de Intercambio II. 6 OP
+Módulo 4.6 Formación
+Optativa de Intercambio III. 6 OP
+optativa. Común.
+Asignaturas de Intercambio.
+Optativa de Intercambio IV. 6 OP
+Optativa de Intercambio V. 6 OP
+Optativa de Intercambio VI. 6 OP
+Módulo 5. Trabajo Fin de
+Trabajo Fin de Grado. Trabajo Fin de Grado. 12 TFG
+Grado (12 ECTS).
+FB = Formación Básica; OB = Obligatorio; OP = Optativo; TFG = Trabajo Fin de Grado.
+69191-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X
