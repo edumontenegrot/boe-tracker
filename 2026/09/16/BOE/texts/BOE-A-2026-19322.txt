@@ -1,0 +1,140 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 229 Miércoles 16 de septiembre de 2026 Sec. III. Pág. 122610
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+19322 Resolución de 1 de septiembre de 2026, de la Universidad Internacional de
+La Rioja, por la que se publica la modificación del plan de estudios de
+Graduado o Graduada en Ciencia de Datos.
+Una vez recibido informe favorable de la Agencia Nacional de Evaluación de la
+Calidad y Acreditación a la modificación del plan de estudios ya verificado, por no afectar
+ésta a la naturaleza ni a los objetivos del título inscrito en el Registro de Universidades,
+Centros y Títulos,
+Este Rectorado, de conformidad con lo dispuesto en el artículo 27 del Real
+Decreto 822/2021, de 28 de septiembre, ha resuelto publicar la modificación del plan de
+estudios conducente a la obtención del título de Graduado o Graduada en Ciencia de
+Datos por la Universidad Internacional de La Rioja.
+El plan de estudios a que se refiere la presente resolución quedará estructurado
+conforme figura en el anexo adjunto.
+Logroño, 1 de septiembre de 2026.–El Rector, José María Vázquez García-Peñuela.
+ANEXO
+Plan de estudios conducente al título de Graduado o Graduada en Ciencia
+de Datos por la Universidad Internacional de La Rioja
+1. Distribución del Plan de Estudios en Créditos ECTS, por tipo de materia
+Créditos
+Tipo de materia
+ECTS
+Formación básica. 60
+Obligatorias. 156
+Optativas. 12
+Trabajo Fin de Grado. 12
+Total. 240
+2. Créditos de formación básica. Distribución en materias
+Asignaturas básicas ECTS Curso Campo de estudio
+Álgebra y Matemática Discreta. 6 1.º Matemáticas y estadística.
+Estadística. 6 1.º Matemáticas y estadística.
+Cálculo y Métodos Numéricos. 6 1.º Ingeniería informática y de sistemas.
+Introducción a la Ciencia de Datos. 6 1.º Ingeniería informática y de sistemas.
+Fundamentos de Programación. 6 1.º Ingeniería informática y de sistemas.
+Modelos de Probabilidad. 6 1.º Matemáticas y estadística.
+Análisis Multivariante. 6 1.º Ingeniería informática y de sistemas.
+22391-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 229 Miércoles 16 de septiembre de 2026 Sec. III. Pág. 122611
+Asignaturas básicas ECTS Curso Campo de estudio
+Ciencias económicas, administración y dirección de empresas, márquetin,
+Fundamentos de la Empresa. 6 1.º
+comercio, contabilidad y turismo.
+Redes y Seguridad. 6 2.º Ingeniería informática y de sistemas.
+Ética y Protección de Datos. 6 2.º Ingeniería informática y de sistemas.
+3. Explicación general de la planificación del plan de estudios
+Créditos
+Materias Asignaturas Carácter
+ECTS
+Álgebra y Matemática Discreta. 6 B
+Estadística. 6 B
+Fundamentos Matemáticos de la Informática.
+Cálculo y Métodos Numéricos. 6 B
+(30 ECTS).
+Modelos de Probabilidad. 6 B
+Análisis Multivariante. 6 B
+Fundamentos de Programación. 6 B
+Programación Avanzada. 6 OB
+Informática.
+Redes y Seguridad. 6 B
+(30 ECTS).
+Infraestructura para el Procesamiento de Datos. 6 OB
+Inteligencia Artificial e Ingeniería del Conocimiento. 6 OB
+Introducción a la Ciencia de Datos. 6 B
+Estructuras de Datos. 6 OB
+Estructura de la Información.
+Bases de Datos. 6 OB
+(30 ECTS).
+Ética y Protección de Datos. 6 B
+Bases de Datos Avanzadas y Distribuidas. 6 OB
+Aprendizaje Estadístico. 6 OB
+Análisis Bayesiano de Datos. 6 OB
+Estadística de Análisis.
+(24 ECTS).
+Modelización Predictiva. 6 OB
+Sistemas Estocásticos. 6 OB
+Aprendizaje Automático I. 6 OB
+Aprendizaje Automático II. 6 OB
+Redes Neuronales. 6 OB
+Aprendizaje Automático y Optimización.
+(36 ECTS).
+Aprendizaje Profundo. 6 OB
+Optimización I. 6 OB
+Optimización II. 6 OB
+Señales y Sistemas. 6 OB
+Procesado y Análisis.
+(12 ECTS).
+Procesamiento del Lenguaje Natural. 6 OB
+22391-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 229 Miércoles 16 de septiembre de 2026 Sec. III. Pág. 122612
+Créditos
+Materias Asignaturas Carácter
+ECTS
+Tratamiento de Datos. 6 OB
+Visualización de Datos. 6 OB
+Tratamiento de Datos y Datos Masivos.
+Computación Masiva. 6 OB
+(30 ECTS).
+Minería de Datos Masivos. 6 OB
+Sistemas Distribuidos de Gran Escala. 6 OB
+Fundamentos de la Empresa. 6 B
+Gestión y Empresas.
+Gestión de Proyectos en Ciencia de Datos. 6 OB
+(18 ECTS).
+Comunicación y Liderazgo. 6 OB
+Derechos Humanos y Valores Democráticos.
+Derechos Humanos y Valores Democráticos. 6 OB
+(6 ECTS).
+Sistemas Operativos Avanzados. 6 OP
+Análisis de Imágenes y Vídeo. 6 OP
+Formación Complementaria.
+(24 ECTS).
+Análisis y Procesamiento de Audio y Voz. 6 OP
+Metodologías Ágiles de Desarrollo. 6 OP
+Prácticas Académicas Externas.
+Prácticas Académicas Externas. 6 OP
+(6 ECTS).
+Trabajo Fin de Grado.
+Trabajo Fin de Grado. 12 TFG
+(12 ECTS).
+22391-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

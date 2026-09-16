@@ -1,0 +1,250 @@
+AÑO XLV Núm. 178 16 de septiembre de 2026 32096
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 08/09/2026, de la Dirección General de Transición Energética, sobre autorización administrativa
+previa y autorización administrativa de construcción de la instalación solar fotovoltaica denominada FV
+Valdefuentes, infraestructuras auxiliares y de evacuación. (Referencia: 2703/01644). [2026/6561]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Toledo y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia: 2703/01644 (DP: Referencia: PE-726).
+- Peticionario: Boedo Solar, S.L. - B88225834.
+- Documentación Técnica: Se aporta:
+1. Proyecto de Instalación de Planta Solar Fotovoltaica “Valdefuentes” de 1000 kW Conectada a Red. Redactado por
+Ginés Martínez Pérez, Nº Colegiado: 1280 - Cogiti Albacete. Aportan declaración responsable de proyectista como
+técnico competente y cumplimiento de normativa vigente.
+2. Proyecto de Centro de Seccionamiento Independiente de Maniobra Exterior Telemando, Automatizado y
+Telegestionado alimentado a 20 kV para la conexión a Red de la PSFV “Valdefuentes”. Redactado por Ginés
+Martínez Pérez, Nº Colegiado: 1280 - Cogiti Albacete. Aportan declaración responsable de proyectista como técnico
+competente y cumplimiento de normativa vigente.
+3. Proyecto de Línea Mixta de Alta Tensión de 20 kV de Entrada/Salida con doble entronque Aéreosubterráneo para
+la conexión a la Red de la PSFV “Valdefuentes”. Redactado por Ginés Martínez Pérez, Nº Colegiado: 1280 - Cogiti
+Albacete. Aportan declaración responsable de proyectista como técnico competente y cumplimiento de normativa
+vigente.
+4. Anexo de Modificación PSFV “Valdefuentes”. Redactado por Ginés Martínez Pérez, Nº Colegiado: 1280 - Cogiti
+Albacete. Aportan declaración responsable de proyectista como técnico competente y cumplimiento de normativa
+vigente.
+- Características técnicas:
+Instalación solar fotovoltaica de 1.232,560 kWp (1.417,44 kWp), 1.000 kW de potencia en inversores, compuesta de:
+1.736 módulos fotovoltaicos de 710 Wp bifaciales cada uno instalados sobre estructura fija.
+4 inversores de 250 kW.
+1 CT 1000 kVA.
+LSAT 20 kV 192 m.
+Centro de seccionamiento.
+LSAT 20 kV (doble circuito tiene su origen en el nuevo apoyo a instalar Nº1, llegará hasta el CSI, y volverán al origen.
+Los dos tramos de línea discurren paralelos por la misma zanja de 22 m de largo y longitud total de conductor de
+2x36 m).
+- Emplazamiento:
+Planta Fotovoltaica: Polígono 4 Parcela 36 del término municipal de Talavera de la Reina (Toledo).
+Centro de Seccionamiento: Polígono 15 Parcela 12 del término municipal de Pepino (Toledo).
+- Acceso y conexión: Aportan permiso de acceso y conexión de i-DE redes eléctricas inteligentes, S.A.U. con fecha de
+emisión de los permisos 19/07/2023. Referencia: 9042409325 con una capacidad de acceso concedida de 1.000 kW.
+Con fecha 11/03/2025 el promotor aporta actualización del permiso de acceso y conexión por cambio de emplazamiento.
+- Finalidad: Producción de energía eléctrica renovable con vertido a la red de distribución.
+Antecedentes de hecho.
+Primero: Con fecha de 20/12/2023 Boedo Solar, S.L. presenta solicitud de autorización administrativa previa y
+autorización administrativa de construcción de las instalaciones de referencia.
+Segundo: Mediante Anuncio, de la Delegación Provincial de Desarrollo Sostenible de Toledo, se sometió a información
+pública la solicitud de Boedo Solar, S.L., para autorización administrativa previa de proyecto de instalación solar
+fotovoltaica denominada FV Valdefuentes e infraestructura de evacuación, situada en los términos municipales de
+Talavera de la Reina y Pepino. Referencia: PE-726, el anuncio se publicó en el Diario Oficial de Castilla-La Mancha
+Núm. 52 de fecha 13/03/2024.
+
+AÑO XLV Núm. 178 16 de septiembre de 2026 32097
+Durante el periodo de información pública no consta presentación de alegaciones.
+Tercero: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las siguientes
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas por el peticionario como bienes o servicios a su cargo afectadas por la instalación:
+- Ayto. de Pepino: Con fecha de puesta a disposición 27/02/2024, y fecha de lectura 27/02/2024, se envía separata
+al organismo afectado. Dentro del plazo establecido no emite informe, por lo que, de acuerdo a lo establecido en
+el Decreto 80/2007, se entiende la conformidad con la autorización y por aprobadas las especificaciones técnicas
+propuestas por el solicitante de la instalación en el proyecto de ejecución. Con fecha 28/5/2025, a requerimiento
+de i-DE, el promotor aporta proyecto. 4, en el incluye el centro de seccionamiento y la línea subterránea y aclara
+los accesos al centro de seccionamiento. Con fecha de puesta a disposición 10/06/2025, y misma fecha de
+lectura, se envía doc. 39 con plazo de 20 días. Dentro del plazo establecido no emite informe, por lo que, de
+acuerdo a lo establecido en el Decreto 80/2007, se entiende la conformidad con la autorización y por aprobadas las
+especificaciones técnicas propuestas por el solicitante de la instalación en el proyecto de ejecución
+- Ayto. Talavera de La Reina: Con fecha de puesta a disposición 27/02/2024, y fecha de lectura 29/2/2024, se envía
+separata al organismo afectado. Con fecha 8/5/2024, se recibe informe del Ayuntamiento en el que informa que
+no existe inconveniente a la conformidad del proyecto técnico presentado, estableciendo condiciones, indicando
+asimismo que será necesaria la presentación de un estudio sobre el valor e incidencia arqueológicas de las
+actuaciones propuestas a la administración competente. Con fecha de puesta a disposición 14/5/2024, y misma
+fecha de lectura, se remite el condicionado al interesado. Con fecha 27/5/2024 muestra conformidad al condicionado,
+aportando separata para Cultura.
+- Delegación Provincial de Educación, Cultura y Deportes: Con fecha de puesta a disposición 14/5/2024, y misma
+fecha de lectura, se requiere al interesado separata para el servicio de cultura, por afección según lo indicado por el
+Ayuntamiento de Talavera de la Reina. Con fecha 27/5/2024 aporta separata. Con fecha 7/6/2024 se remite separata.
+Con fecha 5/11/2024 tiene entrada Resolución Afección al Patrimonio Arqueológico. Proyecto de construcción de
+la planta fotovoltaica «Valdefuentes 1.000 kV», polígono 4, parcela 36, en el término municipal de Talavera de la
+Reina, provincia de Toledo. Con fecha de puesta a disposición 12/12/2024, y misma fecha de lectura, se remite al
+interesado para su conocimiento.
+- Ministerio Fomento (Demarcación Carreteras): Con fecha 19/02/2024 aporta separata. Con fecha de puesta
+a disposición 27/2/2024, y misma fecha de lectura, se envía separata al organismo afectado. Dentro del plazo
+establecido no emite informe, por lo que, de acuerdo a lo establecido en el Decreto 80/2007, se entiende la
+conformidad con la autorización y por aprobadas las especificaciones técnicas propuestas por el solicitante de la
+instalación en el proyecto de ejecución.
+- REE: Con fecha de puesta a disposición 25/1/2024, y misma fecha de lectura, se requiere separata al interesado.
+Con fecha 4/3/2024 aporta separata. Con fecha de puesta a disposición 7/3/2024, y fecha de lectura 13/3/2024, se
+envía separata al organismo afectado. Con fecha 5/4/2024 se recibe informe en el que se indica que no se presenta
+oposición al no existir afecciones a instalaciones de REE. Con fecha de puesta a disposición 10/4/2024, y fecha de
+lectura 15/04/2024, se envía al interesado para su conocimiento y efectos oportunos.
+- I-DE: Con fecha de puesta a disposición 25/1/2024, y misma fecha de lectura, se requiere separata al interesado.
+Con fecha 4/3/2024 aporta separata. Con fecha de puesta a disposición 7/3/2024, y fecha de lectura 8/3/2024, se
+envía separata al organismo afectado. Con fecha 25/3/2024 se recibe informe de IDE donde indica que: referente al
+proyecto denominado “Instalación de PSFV “Valdefuentes” de 1.000,00 kW” existe el expediente abierto 9042409325
+a nombre del titular del solicitante de la autorización administrativa previa donde se le han indicado las condiciones
+técnico - económicas a cumplir y no se ha dado aún conformidad al proyecto por nuestra parte. Con fecha de puesta
+a disposición 9/04/2024, y misma fecha de lectura, se envía informe al interesado. Con fecha 11/3/2025 el promotor
+aporta respuesta al informe de i-DE, en la que indica:
+“Que a día del presente escrito ya se han conseguido los permisos de acceso y conexión actualizados los cuales
+han sido aportados al expediente y la aprobación del proyecto de planta e instalaciones de enlace, quedando solo
+pendiente la aprobación del proyecto de las instalaciones a ceder, siendo la última aportación del mismo el día 6 de
+febrero con las últimas correcciones.”
+
+AÑO XLV Núm. 178 16 de septiembre de 2026 32098
+Con fecha de puesta a disposición 19/3/2025, fecha de lectura 24/3/2025, se remite respuesta del promotor a I-DE
+con plazo de 15 días. Dentro del plazo establecido no emite informe, por lo que, de acuerdo a lo establecido en
+el Decreto 80/2007, se entiende la conformidad con la autorización y por aprobadas las especificaciones técnicas
+propuestas por el solicitante de la instalación en el proyecto de ejecución. Con fecha 6/5/2025, después de emitido
+el informe para la Dirección General, i-DE emite informe en el que traslada la comunicación remitida por su parte
+al promotor en el que indica una serie de deficiencias que hay que subsanar. Con fecha de puesta a disposición
+13/5/2025, y misma fecha de lectura, se remite doc. 36 al promotor con plazo de 10 días. Con fecha 28/5/2025,
+a requerimiento de i-DE, el promotor aporta proyecto. 4, en el incluye el centro de seccionamiento y a la línea
+subterránea y aclara los accesos al centro de seccionamiento. Con fecha de puesta a disposición 10/6/2025, y fecha
+de lectura 12/06/2025, se remite doc. 39 a i-DE con plazo de 20 días. Con fecha 27/6/2025 i-DE presenta informe en
+el que manifiesta su conformidad estableciendo:
+“I-DE ha dado el visto bueno a toda la parte técnica del proyecto, sin embargo, para poder dar la conformidad al
+proyecto en sí mismo, nos faltaría recibir un documento firmado por un Organismo de Control Autorizado (OCA),
+que certifique que el proyecto cumple con la legislación vigente, así como con los requerimientos del MT 3.53.01.”
+Con fecha de puesta a disposición 03/07/2025, y misma fecha de lectura, se traslada doc. 42 al promotor con plazo
+de 10 días. Con fecha 18/5/2026 el promotor aporta informe de SGS. Con fecha de puesta a disposición 20/5/2026, y
+misma fecha de lectura, se remite informe a i-DE con plazo de 15 días. Dentro del plazo establecido no emite informe,
+por lo que, de acuerdo a lo establecido en el Decreto 80/2007, se entiende la conformidad con la autorización y por
+aprobadas las especificaciones técnicas propuestas por el solicitante de la instalación en el proyecto de ejecución.
+- Ventaja Solar 14, S.L. NIF: B01735455 afección a la línea de evacuación de la ISFV Talavera I. nº referencia:
+PE-690: Con fecha de puesta a disposición 22/07/2025, y misma fecha de lectura, se realiza consulta AAP+AAC.
+Con fecha 20/8/2025 se recibe oposición de Ventaja Solar 14, S.L. fundamentada en la prelación temporal en
+la tramitación de su instalación y a la imposibilidad técnica de modificarla. Con fecha de puesta a disposición
+09/09/2025, y misma fecha de lectura, se traslada al promotor con un plazo de 10 días. Con fecha 23/9/2025 el
+promotor justifica su oposición al informe de Ventaja Solar 14, S.L., indicando:
+- La improcedencia de consulta a Ventaja Solar 14 dentro del procedimiento del expediente PE-726 ya que durante
+el procedimiento de información pública no manifestó alegaciones.
+- La prelación temporal no otorga exclusividad sobre los terrenos.
+- No se ha acreditado la imposibilidad técnica de modificación del trazado de la línea.
+Con fecha de puesta a disposición 2/10/2025, y misma fecha de lectura, se traslada la documentación a Ventaja
+Solar 14, S.L. con plazo de 15 días. Con fecha 24/10/2025 Ventaja Solar 14, S.L. responde al informe del promotor,
+reiterando su oposición inicial incluyendo información adicional en cuanto a la imposibilidad de modificar el trazado
+de la línea. Con fecha de puesta a disposición 30/10/2025, y misma fecha de lectura, se remite al promotor
+otorgándole un plazo de 10 días. El promotor presenta, con fecha 12/11/2025, 2º informe de respuesta al informe
+emitido por Ventaja Solar 14 en el que reitera lo indicado en su primer informe añadiendo que no se ha acreditado la
+imposibilidad técnica de modificar la línea, a más y había habido un principio de acuerdo de modificación de ambas
+instalaciones. En particular se acordó:
+1. Ventaja Solar 14, S.L. se comprometió a aportar, a comienzos de la semana siguiente, una traza modificada de la
+línea de evacuación, ubicando el apoyo y accesos sobre la linde norte de la parcela.
+2. Boedo Solar, S.L. se comprometió a presentar un nuevo layout de la planta con las siguientes adaptaciones:
+- Eliminación de la barrera vegetal norte.
+- Aprovechamiento de la superficie con presencia de encinas, sujeto a conformidad del Servicio de Medio Natural.
+- Revisión de la distancia al camino público de Talavera (reducción de 15 metros a 10 si se considera admisible).
+- Sustitución de módulos por paneles de mayor eficiencia para reducir ocupación.
+3. Ambas partes acordaron que, una vez definidos el nuevo layout y la traza modificada de la línea, se realizaría un
+estudio de sombras para determinar las posibles pérdidas de producción de la planta Valdefuentes.
+Con fecha de puesta a disposición se traslada el anexo a Ventaja Solar con plazo de 20 días. Con fecha 25/03/2026
+Ventaja Solar manifiesta su oposición al anexo presentado por no reflejar el trazado autorizado de la línea. Con
+fecha de puesta a disposición 13/4/2026, y fecha de lectura 14/4/2026. se remite oposición al promotor con plazo
+
+AÑO XLV Núm. 178 16 de septiembre de 2026 32099
+de 10 días. Con fecha 20/4/2026 el promotor responde a oposición manifestando aclaraciones al anexo presentado.
+Con fecha de puesta a disposición 5/5/2026, y misma fecha de lectura, se remite respuesta a Ventaja Solar. Con
+fecha 25/5/2026 Ventaja Solar emite conformidad sujeta al cumplimiento reglamentario y a la firma de acuerdo de
+coordinación de obra. Con fecha de puesta a disposición 29/5/2026 se remite conformidad a Boedo.
+Cuarto: Respecto al cumplimiento de la normativa de evaluación de impacto ambiental: Aporta documento ambiental
+en el que se indica que “De acuerdo con la normativa vigente en la Comunidad de Castilla-La Mancha, la instalación
+solar fotovoltaica objeto de este expediente está exenta de Evaluación de Impacto Ambiental Ordinaria y de
+Evaluación de Impacto Ambiental Simplificada”. Con fecha 17/01/2024 se envía al servicio de medio ambiente para
+que indique si se debe someter a algún procedimiento de evaluación de impacto ambiental. Con fecha 11/3/2025
+el promotor aporta informe, de fecha 7/7/2024, del Servicio de Calidad Ambiental en el que concluye: Según la
+fecha del registro de entrada en el organismo competente, una vez estudiadas las características del proyecto la
+zona en la que se pretende ejecutar, se informa que dicha actuación, no se encuentra entre las recogidas en la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha ni en la Ley 21/2013, de 9 de diciembre, de
+Evaluación Ambiental (modificada por el R.D. 445/2023, de 13 de junio), por lo que el proyecto no deberá someterse
+al procedimiento de Evaluación de Impacto Ambiental.
+Quinto: La Delegación Provincial de Desarrollo Sostenible de Toledo cumplió con lo establecido en la resolución de
+3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as delegados/
+as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado, con fecha 16/06/2026, informe favorable
+para la autorización administrativa previa y autorización administrativa de construcción solicitada.
+Sexto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable a la autorización
+administrativa previa y de construcción solicitada.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y la autorización
+administrativa de construcción de las instalaciones y su tramitación se ha realizado según lo establecido en el
+Decreto 80/2007 y demás normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y la autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud Resuelve: Otorgar a Boedo Solar, S.L., la autorización administrativa previa y la autorización administrativa
+de construcción de las instalaciones eléctricas de referencia, de acuerdo a las características indicadas. La presente
+resolución se encuentra sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+
+AÑO XLV Núm. 178 16 de septiembre de 2026 32100
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Sexta: El titular debe, en su caso, comunicar al gestor de red la modificación de los datos que constan en los
+permisos de acceso y conexión obtenidos, en cumplimiento de lo dispuesto en la disposición adicional decimocuarta
+del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que en su punto
+4 establece que “En aquellos casos en los que las instalaciones con permisos de acceso y conexión solicitados
+y/o concedidos hayan sufrido modificaciones que impliquen que dichas instalaciones puedan ser consideradas las
+mismas de acuerdo con lo establecido en esta disposición, los titulares deberán actualizar la solicitud de los permisos
+de acceso y conexión, o en su caso, actualizar los permisos de acceso y conexión concedidos para adaptarlos a las
+características de la instalación modificada”, para que, en su caso, proceda a actualizar los permisos de acceso y
+conexión.
+Séptima: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 8 de septiembre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
