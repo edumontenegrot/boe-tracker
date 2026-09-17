@@ -1,0 +1,560 @@
+AÑO XLV Núm. 179 17 de septiembre de 2026 32148
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 08/09/2026, de la Dirección General de Calidad Ambiental, por la que se formula el informe de
+impacto ambiental del proyecto: Modificación de una planta de biogás con cogeneración, para obtención de
+biometano y fertilizantes. (Expediente S478/DG/2025/00042), situado en el término municipal de Consuegra
+(Toledo), cuya promotora es Zero Waste Bioenergy Castilla La Mancha, SLU. [2026/6590]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, concreta en su artículo 6.2 los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+El proyecto denominado “Modificación de una planta de biogás con cogeneración para obtención de biometano y
+fertilizantes” se encuentra contemplado en el anexo II de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental
+actualizada por el Real Decreto 445/2023, de 13 de junio, por el que se modifican los anexos I, II y III, concretamente,
+el grupo 9. Otros proyectos, b) Instalaciones de eliminación o valorización de residuos no incluidas en el anexo I,
+excepto eliminación o valorización de residuos propios no peligrosos en el lugar de producción.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental, de fecha de abril de 2026, el proyecto consiste en la ampliación y modificación de
+la instalación existente en Consuegra (Toledo) para la puesta en marcha de una planta de producción de biometano
+y biofertilizantes. Su actividad se centra en el tratamiento y valorización de 136.500 t/año de residuos orgánicos
+procedentes de explotaciones ganaderas (purín porcino, estiércol de vacuno y gallinaza), agrícolas (paja) e industrias
+agroalimentarias (sueros y vinazas) de la zona. Mediante un proceso integrado de digestión anaerobia y un nuevo
+sistema de compostaje para la fracción sólida del digestato, la planta transformará estos subproductos en biometano
+de alta pureza para su inyección en la red de gas natural y en compost y polvo seco, que se registrarán como
+fertilizantes UE o Nacional.
+El proyecto original consiste en una planta de producción de biogás con purines de porcino y otros cosustratos
+mediante digestión anaerobia en dos digestores biológicos para tratar un total de 100.000t/año. Cuenta con un
+sistema de cogeneración energética basado en dos moto-generadores con una potencia nominal de 15 MW, que
+consumen una mezcla de gas natural y el biogás producido internamente para generar energía eléctrica y térmica,
+aprovechando esta última en el propio proceso productivo. En la actualidad, se obtienen 7.000 t/año de fertilizante
+sólido orgánico-mineral, empleando para ello procesos de separación mecánica, acidificación, concentración por
+evaporación al vacío y secado térmico.
+Las nuevas instalaciones se localizan en el término municipal de Consuegra (Toledo), son colindantes a la existente.
+Concretamente en la parcela 11, 13, 14, 17, 26 y 27 del polígono 16 con una superficie aproximada de 12,15 ha. Las
+coordenadas UTM ETRS 89 huso 30 son: X: 450.361 e Y: 4.371.154.
+El acceso a la instalación se realiza desde la carretera TO-3059, tomando el desvío en el kilómetro 2,50 hacia el
+camino pavimentado de Los Yébenes.
+La capacidad de tratamiento ha aumentado de en 36.500t/año.
+Se prevé un aumento en el consumo eléctrico de aproximadamente 5.658.693 kWh/año y un aumento en las
+necesidades térmicas de 6.696.169 kWh/año. Para mejorar la eficiencia, el sistema recuperará calor del proceso
+de upgrading (1.112.882 kWh/año) y de la propia unidad de higienización (3.629.087 kWh/año) para cubrir parte de
+estas necesidades.
+Se generan un total 8.142.625 Nm3/año de biogás, 4.382.528 Nm3/año de biometano (45.756MWh/año), 15.452 t/
+año de compost para registrar como fertilizante UE o Nacional, 9.191 t/año de polvo para registrar como fertilizante
+UE o Nacional y se recuperan 99.097 t/año de agua para refrigerar los motores de cogeneración existentes.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32149
+Las principales instalaciones que integran el proyecto de modificación son las siguientes:
+Áreas de Recepción y Almacenamiento de Materias Primas:
+- Badén sanitario para desinfección de vehículos. Se utilizará la báscula existente.
+- Zona de acopio de paja: edificio techado de 720 m² con estructura metálica y cubierta de chapa para el
+almacenamiento de paja de cereal.
+- Trojes para sustratos sólidos: recintos impermeabilizados con muros de 1,5 m de altura destinados específicamente
+para el estiércol de vacuno y la gallinaza.
+- Depósito de vinazas: un nuevo tanque de hormigón armado enterrado con capacidad bruta de 191 m³.
+- Depósito de sueros lácteos: un depósito aéreo fabricado en PRFV con capacidad de 40 m³.
+Unidad de Pretratamiento:
+- Trituradores de paja: 3 unidades tipo molino de martillos para reducir el tamaño del material sólido.
+- Cargadores de sólidos: 3 equipos de 50 m³ cada uno, dotados de células de pesaje para la dosificación exacta al
+proceso.
+- Sistemas de extrusión (Bioextruders): 3 unidades destinadas a la desintegración hidrotérmica de sustratos sólidos
+(paja, gallinaza, estiércol) para aumentar el rendimiento de biogás.
+- Unidad de higienización Sandach: serie de tanques para el tratamiento obligatorio de residuos de categorías 2 y 3
+a 70ºC durante 60 minutos.
+Área de Digestión Anaerobia:
+- Digestores primarios: 3 nuevos tanques circulares de hormigón armado (28 m de diámetro y 10 m de altura) con
+capacidad neta de 5.542 m³ cada uno, con agitadores oblicuos y cúpulas de membrana para almacenamiento de
+biogás.
+Tratamiento de Biogás y Upgrading:
+- Pretratamiento del biogás: incluye un scrubber para eliminación de H2 S y filtros de carbón activo.
+- Unidad de upgrading: un contenedor insonorizado que alberga el sistema de membranas en tres etapas para
+purificar el biogás hasta biometano (≥ 97% pureza).
+- Módulo de inyección: equipos de filtrado, medición, control de calidad y odorización para la entrega del gas a la red.
+- Antorcha de seguridad: aunque la planta original tenía una, se instala una nueva antorcha de llama oculta con
+capacidad de 1.000 Nm³/h para casos de emergencia en el sistema de upgrading.
+Tratamiento de Digerido y Biofertilizantes:
+- Separador de tornillo: 2 nuevas unidades para la separación mecánica primaria del digerido.
+- Centrífuga adicional: se instala una centrífuga nueva idéntica a la existente para reforzar la capacidad de separación
+sólido-líquido.
+- Campa de compostaje: una superficie pavimentada de 12.728 m² con solera de hormigón y recogida de lixiviados,
+para la estabilización aerobia de la fracción sólida.
+- Zona de afino de compost: área destinada al tratamiento final y almacenamiento del compost terminado.
+Infraestructuras Auxiliares:
+- Red de drenaje separada para aguas pluviales limpias, de contacto y lixiviados: sistemas de drenaje y arquetas de
+almacenamiento de aguas de escorrentía de las nuevas zonas pavimentadas para aguas de contacto y lixiviados y
+recogida separada de pluviales limpias con balsa de 571 m3 útiles.
+- Cerramiento y pantalla vegetal: nuevo vallado perimetral en todo el recinto mediante malla metálica galvanizada
+de alambre de acero sobre postes galvanizados de 2 metros de altura, con acceso mediante puerta de entrada a las
+instalaciones para peatones y para vehículos.
+- Toda la instalación se instala sobre losa de hormigón de 25 cm. Los viales de acceso y circulación interior están
+diseñados como pavimento flexible compuesto por cada de zahorra artificial y mezcla bituminosa.
+El plano de distribución en planta general se incluye en el Anexo I de la presente resolución.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32150
+Segundo. Tramitación y consultas.
+El 20 de noviembre de 2024 se reciben en la Dirección General de Calidad Ambiental la solicitud de modificación
+no sustancial de una planta de biogás con cogeneración, para obtención de biometano y fertilizantes, así como
+proyecto básico y documento ambiental, dando cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero, de
+evaluación ambiental de Castilla-La Mancha.
+El 20 de noviembre de 2024, el promotor también presenta copia del resguardo de la tasa correspondiente según la
+Ley 9/2012, de 29 de noviembre, de tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias. Al
+expediente administrativo de evaluación ambiental se le asignó en número S478/2025/DG/00042.
+Una vez revisado el documento ambiental por esta Dirección General y mediante escritos de 16 de enero de 2025,
+19 de marzo de 2025, 26 de septiembre de 2025 y 16 de enero de 2026 se solicita al promotor que modifique y
+subsane el proyecto básico y el documento ambiental, remitiendo respuestas y versiones actualizadas con fecha 05
+de febrero, 30 de mayo, 8 de agosto y 2 de diciembre de 2025 y 9 de marzo y 18 de marzo de 2026.
+Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada Ley 2/2020, se formularon
+consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que
+informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los siguientes
+(se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+1. Agrupación Naturalista Esparvel.
+2. Asociación Ecología y Libertad (*).
+3. Asociación Nacional Micorriza.
+4. Asociación Naturalista Amigos del Guadyerbas.
+5. Asociación Ornitológica Ardeidas.
+6. Asociación para la Defensa de la Naturaleza WWF/Adena.
+7. Asociación Toledo Aire Limpio.
+8. Ayuntamiento de Consuegra (*).
+9. Ayuntamiento de Madridejos.
+10. Confederación Hidrográfica del Guadiana (*).
+11. Agencia del Agua de Castilla-La Mancha.
+12. Diputación de Toledo (*).
+13. Ecologistas en Acción Castilla-La Mancha.
+14. Fundación Global Nature.
+15. Ministerio para la Transición Ecológica y el Reto Demográfico. Dirección General de Política Energética y Minas.
+Secretaria General de Energía.
+16. Oficina Comarcal Agraria Madridejos (*).
+17. Consejería de Agricultura, Ganadería y Desarrollo Rural. Delegación de Toledo. Servicio Agricultura y Ganadería
+Toledo.
+18. Consejería de Desarrollo Sostenible. Dirección General de Transición Energética. Servicio de Instalaciones y
+Tecnologías Energéticas.
+19. Consejería de Educación, Cultura y Deportes. Viceconsejería de Cultura y Deportes. Servicio de Patrimonio y
+Arqueología (*).
+20. Consejería Desarrollo Sostenible Delegación Toledo. Servicio Medio Natural de Toledo.
+21. Consejería de Fomento, Dirección General de Carreteras. Servicio Planificación y Proyectos (*).
+22.Consejería de Hacienda, Administraciones Públicas y Transformación Digital. Delegación Provincial de Toledo.
+Servicio Protección Ciudadana Toledo.
+23. Consejería de Hacienda, Administraciones Públicas y Transformación Digital. Delegación Provincial de Toledo.
+Servicio Salud Publica Toledo.
+24. Consejería de Sanidad. Dirección General de Salud Pública. Servicio Sanidad Ambiental, Salud Laboral,
+Laboratorio Salud Publica (*).
+25. Consejería Desarrollo Sostenible Delegación Toledo. Servicio Técnico Gestión Agentes Medioambientales (*).
+26. Sociedad Española de Ornitología.
+Todos los informes y alegaciones recibidos pueden consultarse en la página de consulta de expedientes de
+Evaluación Ambiental, Nevia: https://nevia.castillalamancha.es, buscando en proyectos, por el número de expediente
+S478/2025/DG/00042.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32151
+En resumen, las consideraciones más relevantes y respuestas correspondientes son las siguientes:
+Asociación Ecología y Libertad: argumentan en primer lugar que la memoria ambiental es insuficiente en cuanto al
+medio hídrico, plantea diversas cuestiones sobre la campa de compostaje y cuestiona el estudio de alternativas y la
+idoneidad del procedimiento simplificado para este proyecto. Hay que comentar que se recibe informe favorable de la
+CH del Guadiana. Respecto al compostaje, hay que señalar que el material que se va a compostar está previamente
+digerido, lo que reduce su potencial odorífero. Además, la instalación cuenta con recogida de lixiviados de la campa
+de compostaje y se cumplirán las MTD sobre olores, incluyendo la obligación de presentar un Plan de Gestión de
+Olores y realizar mediciones de olores con la periodicidad que se establezca en la autorización. En cuanto a las
+alternativas, al tratarse de una modificación de una instalación ya existente, se justifica que las alternativas sean
+cercanas a la misma. Y finalmente, el proyecto, se encuentra clasificado en el Anexo II de la Ley 2/2020 de 7 de
+febrero, de Evaluación Ambiental de Castilla-La Mancha, en el Grupo 9 apartado d y f, que permiten la evaluación
+simplificada para instalaciones de valorización y compostaje de estas dimensiones.
+La Confederación Hidrográfica del Guadiana concluye que no hay afección física a cauces de Dominio Público
+Hidráulico (DPH) y establece directrices sobre el consumo, instando al titular a solicitar una modificación de su
+concesión de aguas para incluir las nuevas parcelas de actuación e insistiendo en que no podrá suponer un aumento
+del volumen total ya autorizado.
+La Diputación de Toledo, su Área de Cooperación e Infraestructuras, emite informe favorable condicionado a la
+presentación de un estudio de tráfico para ver la intensidad de hora punta de vehículos pesados para valorar la
+posibilidad de ejecutar cuñas reducidas de deceleración e incorporación directa en el acceso de la TO-3059 desde
+el camino de Madridejos a Los Yébenes. Sin embargo, esta solicitud se hace en base al cálculo de 20-25 veh. /h
+estimados para el transporte de 176.500t/año de residuos, cantidad que el titular ha informado a dicho organismo
+como errónea, al haberse tenido en cuenta 40.000t/año de digerido recirculado que no entra a la instalación, sino
+que sale de los digestores y vuelve a entrar al proceso. En todo caso, se estará a lo dispuesto a lo que finalmente
+establezca la Diputación de Toledo al respecto.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+El proyecto consiste en la ampliación de una planta tratamiento de purines con cogeneración existente para
+transformarla en una instalación destinada a la producción de biometano e inyección en red, así como a la obtención
+de diversos biofertilizantes.
+A continuación, se resumen los procesos, equipos y capacidades de la instalación proyectada:
+- Recepción y Almacenamiento de Materias Primas:
+La Instalación cuenta con badén de desinfección, arco de lavado y báscula de pesaje (existente). Gestionará un total
+de 136.500 t/año de sustratos (estiércol, gallinaza, purines, sueros y vinazas).
+Los purines se reciben en una balsa cerrada de 60 m³ con triturador y se almacenan en dos tanques de 600 m³ con
+agitación (infraestructuras ya existentes). Como almacenamiento nuevo se incluye el de los sustratos sólidos (el
+estiércol y la gallinaza) que se acopian en trojes impermeabilizados de 711 m³ y 177 m³ respectivamente y la paja
+de cereal, que se almacena en estructura cubierta de 720 m². En cuanto a los sustratos líquidos, (también nuevos)
+las vinazas se almacenan en un depósito enterrado de hormigón de 191 m³ (9 m de diámetro y 3 m de profundidad)
+y los sueros en un tanque de PRFV de 40 m³.
+- Línea de Pretratamiento:
+Se instalan tres molinos de martillos (45 kW) para triturar la paja a <10 cm, seguidos de tres bioextruders (110
+kW cada uno) para mejorar el rendimiento de biogás mediante desintegración hidrotermal. Se dispone de tres
+cargadores de sólidos de 50 m³ dotados de células de pesaje. Los residuos ganaderos (Cat. 2 y 3) pasan por una
+serie de tanques donde se calientan a 70ºC durante 60 minutos para su higienización obligatoria.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32152
+- Área de Digestión Anaerobia:
+El proceso se divide en dos etapas para asegurar un tiempo de retención superior a 45 días:
+Digestores Primarios (nuevos): 3 tanques de 5.542 m³ netos cada uno (28 m de diámetro y 10 m de altura),
+construidos en hormigón sulforresistente, con calefacción interna y 5 agitadores oblicuos por unidad. Digestores
+Secundarios (existentes): 2 tanques de 3.000 m³ cada uno que completan la degradación de la materia orgánica.
+Almacenamiento de gas: se realiza en las cúpulas de membrana de los digestores y en un gasómetro externo de
+200 m³.
+- Producción de Biometano (Upgrading):
+Pretratamiento: el biogás se enfría a 5ºC para eliminar humedad y se desulfura mediante dos filtros de carbón activo
+de 2.000 l. Unidad de Upgrading: se trata de un sistema de membranas de tres etapas con capacidad para tratar
+900 Nm³/h de biogás, purificando el metano hasta alcanzar una calidad apta para la red (≥ 97% CH₄). Finalmente,
+este metano se inyecta mediante un módulo de inyección insonorizado que incluye filtrado, medición, odorización y
+control de calidad antes de la entrega al gasoducto.
+- Tratamiento del Digerido y Biofertilizantes:
+Separación sólido-líquido: se realiza en dos separadores de tornillo y posteriormente en dos centrífugas (una nueva
+y una existente).
+Campa de compostaje (nueva): se trata de una superficie pavimentada de 12.728 m² para la estabilización aerobia
+de la fracción sólida de la primera separación. Incluye compostaje y afino con cribas.
+Línea de concentración y secado (existente): la fracción líquida se somete a acidificación, evaporación al vacío de
+dos efectos (capacidad de 8 t/h de agua) y secado térmico para obtener un fertilizante sólido tipo polvo seco.
+- Infraestructuras Auxiliares:
+Red de recogida de lixiviados y pluviales sucias en todas las soleras que derivan en arqueta y se recirculan a
+cabecera de proceso. Balsa de pluviales limpias de 571 m3. Depósito de agua potable de 5 m3. La energía se
+suministra a través de 2 moto generadores de cogeneración ya existentes (16.550 kWe) que suministran calor y
+electricidad a la planta. Instalación de una nueva antorcha de seguridad de 1.000 Nm³/h.
+Cabe destacar que el trazado de la red de enlace entre el gasoducto y el módulo de inyección se desarrollará
+íntegramente dentro de los límites de la planta. Tanto el sistema de inyección como los equipos asociados están
+ubicados en el interior de la parcela original, la cual ya ha fue objeto de un estudio de impacto ambiental.
+3.2. Ubicación del proyecto.
+El proyecto afecta a las parcelas 11, 13, 14, 17, 26 y 27 del polígono 16, paraje “Campo Cebollero” del municipio de
+Consuegra (Toledo). El centro de la actuación se localiza en las coordenadas UTM (ETRS89) X: 448.278,673 e Y:
+4.371.504,568, a una altitud de 706 metros sobre el nivel del mar.
+El suelo está catalogado como suelo rústico de reserva según las NNSS municipales. El uso actual es agrario con
+labores de secano, viña y almendros.
+Se encuentra a > 2.000m de suelo urbano-urbanizable de Consuegra. La Autovía de los viñedos CM-42 se encuentra
+a 1,65 km de la planta y la carretera TO-3059 Consuegra-Turleque a 1,15 km. El acceso principal se realiza desde
+esta última carretera, tomando el camino Los Yébenes durante 1,15 km.
+Las parcelas no se encuentran dentro de ningún Espacio Natural Protegido. La vía pecuaria más cercana es Senda
+Galiana y Cordel de las Cojas a 1,8 km, por lo que no hay afección directa.
+Respecto al DPH, la instalación se asienta sobre la Masa de Agua Subterránea “Consuegra-Villacañas” (código
+041.004). El Río Amarguillo se localiza a unos 2,8 km. El curso de agua intermitente Cañada Grande del Fraile
+atraviesa la parcela 13. Según el informe de la CH del Guadiana, no se prevé afección física alguna a cauces que
+constituyan el DPH del Estado, definido en el artículo 2 del Real Decreto Legislativo 1/2001, de 20 de julio, por el que
+se aprueba el Texto Refundido de la Ley de Aguas (TRLA), ni a las zonas de servidumbre y policía.
+3.3. Características del potencial impacto.
+Los potenciales impactos ambientales identificados (tales como emisiones acústicas, generación de polvo,
+generación de malos olores, emisiones a la atmósfera y perturbaciones a la fauna, etc.) se consideran de magnitud
+compatible o moderada, dado que la actuación se integra en un ámbito anexo a una actividad industrial preexistente.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32153
+Estas afecciones tendrán un carácter estrictamente temporal, cesando plenamente tras el cierre de la instalación,
+momento en el cual la situación será fácilmente reversible mediante la regeneración del suelo a su estado originario.
+La minimización de estos efectos queda garantizada por la aplicación rigurosa de las Mejores Técnicas Disponibles
+(MTD) y las medidas preventivas y correctoras integradas en el Programa de Vigilancia Ambiental.
+a) No se prevé afección al suelo y a las aguas siempre y cuando la instalación cumpla los condicionantes de
+hormigonado y diseño establecidos en el punto 4.1. de la presente Resolución.
+b) No se prevé afección a áreas protegidas ni a recursos naturales protegidos, siempre y cuando se apliquen
+correctamente las medidas propuestas.
+c) La actuación es compatible con la preservación de las vías pecuarias y montes de utilidad pública.
+d) La ubicación propuesta no se encuentra incluida dentro de las áreas protegidas previstas en la Ley 9/1999, de
+26de mayo, de Conservación de la Naturaleza, ni se prevé afección a las mismas.
+e) La distancia de más de 2.000 metros al núcleo urbano más cercano, hace que las molestias sobre la población
+no vayan a ser previsiblemente significativas.
+f) Se han propuesto medidas preventivas y correctoras sobre las diferentes emisiones canalizadas y difusas que se
+pueden generar en la actividad.
+g) La propia actividad a desarrollar se considera, desde un punto de vista global, beneficiosa en tanto que consiste
+en la valorización de residuos no peligrosos, donde se obtendrán productos que se certificarán como fertilizantes UE
+o Nacional y biometano para inyección a red y autoconsumo y con vertido cero.
+Por otro lado, el análisis de riesgos de accidentes graves o catástrofes del proyecto concluye que la instalación
+presenta una vulnerabilidad baja ante sucesos naturales y que los riesgos industriales están controlados mediante
+el cumplimiento de las Mejores Técnicas Disponibles (MTD) y un Plan de Gestión de Accidentes detallado.
+Por todo ello, dada la tipología de la actividad, el diseño en cuanto a su funcionamiento, la ubicación seleccionada y
+las medidas preventivas y correctoras aplicadas, se considera que el proyecto es compatible con la preservación de
+los factores ambientales, como son los recursos naturales, áreas protegidas, bienes de dominio público, población
+y salud humana, siempre que se realice según señala el Documento Ambiental y se incorpore los condicionantes
+marcados en la presente Resolución.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1. Protección del sistema hidrológico y del suelo.
+A pesar de que las actuaciones no se localizan en las cercanías de aguas superficiales, se indica que han de ser
+protegidas, en cualquier caso. Por lo tanto, se significa que en la puesta en práctica de las actuaciones contempladas
+en el proyecto deberán tenerse en cuenta las siguientes consideraciones:
+- Todas las superficies de trabajo, la campa de compostaje, silos y trojes, zonas de carga y descarga, entorno
+de digestores, etc. estarán hormigonadas y los viales de acceso y circulación interna se construirán con base de
+zahorra y mezcla bituminosa (asfalto).
+- Los digestores se construirán con hormigón armado y contarán con juntas de PVC en soleras y muros para
+garantizar la estanqueidad total. Además, se construirá un anillo de drenaje perimetral como medida de protección
+y contención de posibles escapes accidentales.
+- Las superficies contarán con una pendiente para favorecer la recogida de pluviales sucias y lixiviados en red de
+drenaje y arquetas de recogida que posteriormente se bombearán a línea de digestión para su tratamiento junto con
+los sustratos de entrada.
+- Las pluviales de cubierta se recogerán por red separada con destino en balsa de pluviales para su reutilización en
+riego de compostaje y las torres de refrigeración (para disipar el calor de los motores de cogeneración CHP).
+- La balsa contará con un sistema de detección de fugas consistente en tubería ranurada de drenaje de PVC situada
+bajo la permeabilización y envuelta en zanja de arena que conduce cualquier filtración a piezómetro de control. Se
+dispondrá a su vez de piezómetros suficientes en toda la instalación para control de aguas subterráneas, según las
+directrices que marque el estudio hidrológico.
+- Se prohíbe el mantenimiento en zonas no habilitadas. La maquinaria móvil se reparará en talleres externos, y la fija
+dispone de medios de retención de vertidos bajo techado.
+- Los almacenamientos de líquidos peligrosos (como ácidos para desulfuración o combustibles) dispondrán de
+cubetos de retención dimensionados para el volumen del depósito mayor o el 10% del total almacenado.
+- Queda prohibido con carácter general el vertido directo o indirecto de las aguas y productos residuales susceptibles
+de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que cuente
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32154
+con la preceptiva autorización del Organismo cuenca. Se recuerda que toda actuación que se realice en Dominio
+Público Hidráulico deberá contar de la preceptiva autorización por parte del Organismo cuenca.
+- Se deberá revisar y realizar el mantenimiento de las superficies hormigonadas sobre la que se dispondrá los
+residuos, así como de los sistemas de recogida de lixiviados, y se evitará en la medida de lo posible su acumulación,
+arrastre o dispersión fuera de las zonas habilitadas para ello, en cuyo caso, se solventará de forma inmediata.
+- Si se produjeran vertidos accidentales de aceite, lubricantes, etc., se procederá a su inertización.
+De acuerdo con el artículo 3 del Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de
+actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos
+contaminados, la recogida y tratamiento de otros residuos están incluidos como actividades contaminantes del suelo
+en el Anexo I, considerando la Orden PRA/1080/2017, de 2 de noviembre, por la que se modifica el Anexo.
+Por este motivo, el titular está obligado a remitir a la Dirección General de Calidad Ambiental, en un plazo no
+superior a dos años desde el inicio de la actividad, un informe preliminar de la situación para los suelos en los que se
+desarrolla dicha actividad, con el alcance y contenido mínimo que se recoge en el Anexo II del Real Decreto 9/2005.
+Para la realización de los controles de aguas subterráneas que se le impondrán en la autorización, la instalación
+deberá contar con una red de piezómetros cuyas localizaciones se analizarán en la tramitación de la modificación
+de la autorización ambiental integrada.
+4.2. Producción y gestión de residuos.
+El digerido obtenido en la digestión anaerobia se someten a una separación mecánica donde se extrae una fracción
+sólida que va a compostar y cuyo destino final será registrado como fertilizante UE o Nacional. La fracción líquida,
+por su parte, pasa por centrífuga que genera otra fracción sólida que se remite a secado térmico y se expide como
+polvo de purín. El resto de líquido se acidifica para fijar el nitrógeno amoniacal y se introduce en evaporadores al
+vacío de doble efecto, produciendo un líquido sobrante que va a las torres de refrigeración y un sólido que se lleva a
+secado térmico para obtención de polvo de purín. Este polvo se registrará como fertilizante UE o Nacional perdiendo
+la condición de residuo.
+La gestión y manejo de la totalidad de los residuos generados durante la fase de funcionamiento de esta actividad estarán
+sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+En todo caso, se deberá cumplir las prescripciones que vengan establecidas en la autorización de ambiental
+integrada cuya modificación ha solicitado el promotor antes la Dirección General de Calidad Ambiental.
+Este tipo de instalaciones está incluido en la categoría II de establecimiento Sandach (subproductos de origen
+animal no destinados al consumo humano), por lo que previamente al inicio de la actividad, el promotor deberá
+presentar solicitud de autorización y registro de establecimiento Sandach en la correspondiente Dirección General
+de la Consejería de Agricultura, Ganadería y Desarrollo Rural.
+En cuanto a los residuos de construcción y demolición generados, deberán seguirse las directrices del Real Decreto
+105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción y demolición.
+4.3. Protección a la atmósfera, calidad del aire y prevención del ruido.
+Para evitar la emisión de polvo y olores en las distintas fases del proceso y reducir el impacto acústico de la actividad,
+se deberán tener en cuenta las siguientes consideraciones:
+- Riegos y humectación: durante la obra, se realizarán riegos periódicos en superficies de trabajo, acopios y
+caminos, intensificándose en meses estivales. En explotación, se dispone de un sistema de humectación mediante
+nebulización en zonas de almacenamiento y procesos de manipulación abiertos para fijar los finos.
+- Los acopios de tierra se situarán en zonas de mínima dispersión eólica y se cubrirán aquellos materiales susceptibles
+de ser arrastrados por el viento.
+- Es obligatorio cubrir con mallas o lonas las cajas de los camiones que transporten materiales dispersables. Además,
+el acceso principal a la planta está asfaltado, lo que minimiza el levantamiento de polvo por el tránsito.
+- Se instalará una pantalla vegetal perimetral con especies autóctonas que actuará como barrera física para la
+retención de partículas, según las directrices establecidas en el apartado 4.3.
+- Se establece la limpieza frecuente de viales y la limitación de velocidad de vehículos a un máximo de 20 km/h
+dentro de las instalaciones. Se incluye un badén de desinfección para la limpieza de ruedas y bajos de los camiones
+antes de salir.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32155
+- Gestión de sustratos: se planificará la entrada de materia prima para que el tiempo de permanencia en los silos
+de recepción no supere los cuatro días, evitando procesos de descomposición orgánica. Los silos de sólidos se
+mantendrán cubiertos con lonas. Los residuos líquidos van
+- Estanqueidad del proceso: las operaciones de trasiego y los propios digestores son elementos herméticos. Los
+cargadores de sólidos están cerrados y la descarga de sustratos líquidos se realiza directamente por manguera a
+depósitos estancos.
+- Biofiltración: se dispone de un biofiltro (Foco 4) encargado de depurar el aire aspirado de la balsa de recepción, los
+tanques de almacenamiento y los gases purgados de las unidades de secado.
+- Tratamientos químicos: durante la evaporación y el secado se aplica un proceso de acidificación para fijar el
+nitrógeno amoniacal, anulando el riesgo de emisiones de amoníaco.
+- Unidad de Upgrading: utiliza filtros de carbón activo para eliminar el H2S (uno de los principales causantes de los
+olores y siloxanos del biogás antes de su emisión controlada como off-gas.
+- Equipos críticos como la unidad de upgrading y el compresor de aire se instalan en el interior de contenedores
+insonorizados que garantizan un nivel sonoro máximo de 85 dB(A) a 1 metro.
+La nueva actividad para desarrollar en la instalación (compostaje) está incluida en el ámbito de aplicación de la
+Ley 34/2007, de 15 de noviembre, de calidad de aire y protección de la atmósfera y del Real Decreto 10/2011, de
+28 de enero, por el que se actualiza el Catálogo de Actividades Potencialmente Contaminadoras de la Atmósfera
+(Capca) y se establecen las disposiciones básicas para su aplicación. Está catalogada en el grupo B, código 09 10
+05 01. Respecto a las obligaciones derivadas de esta clasificación, se estará a lo dispuesto en la modificación de la
+autorización ambiental integrada.
+En relación con la contaminación acústica, las medidas y comprobaciones sobre los niveles de ruido generados
+en las instalaciones, no deberán sobrepasar las condiciones que establece el Real Decreto 1367/2007, de 19 de
+octubre, por el que se desarrolla la Ley 37/2003, de 17 de noviembre, del Ruido, en lo referente a zonificación
+acústica, objetivos de calidad y emisiones acústicas o, en caso de existir, en la zonificación acústica prevista en el
+planeamiento municipal.
+Con carácter genérico, el promotor ha de adoptar las medidas y dispositivos en maquinaria y equipos utilizados en
+la actividad que disminuyan al máximo los niveles de ruido y emisiones generados por estos.
+En cualquier caso, la actividad deberá ajustarse a la regulación o normativa que a tal efecto establezca la normativa
+municipal en sus ordenanzas.
+4.4. Protección del medio natural y protección paisajística.
+Si bien el emplazamiento se ubica en un entorno con cierto uso antrópico, utilizando caminos existentes, junto a
+una instalación industrial, que permitirá compactar impactos, preservando áreas mejor conservadas, con objeto de
+minimizar las afecciones sobre el medio natural y garantizar la compatibilidad ambiental del proyecto, se adoptarán
+las medidas preventivas y correctoras siguientes:
+Protección de la Fauna y el Medio Natural: las medidas buscan minimizar las molestias por ruido, presencia humana
+y alteración física del hábitat:
+- Jalonamiento y control de movimientos: durante las obras, se delimitarán estrictamente las zonas de trabajo para
+evitar el tránsito de maquinaria fuera de las áreas necesarias, protegiendo así el entorno natural colindante.
+- Restricciones horarias y lumínicas: Las actividades de construcción y las operaciones más ruidosas (como el
+cargador de sólidos) se limitarán al periodo diurno para evitar perturbaciones nocturnas y contaminación lumínica
+sobre la fauna.
+- Control de ruido y velocidad: Se utilizará maquinaria que cumpla con la normativa de emisiones acústicas y se
+limitará la velocidad de los vehículos a un máximo de 20 km/h para reducir el ruido y el riesgo de atropellos.
+- Prevención de incendios: se prohíbe fumar o realizar fogatas en la zona de obra para evitar incendios accidentales
+que pudieran afectar al medio natural.
+Protección de la Vegetación y Flora: debido a que la vegetación natural es casi inexistente en las parcelas, las
+medidas se enfocan en la preservación de lo existente y la restauración:
+- Preservación de cultivos: Se intentará mantener al máximo los almendros de porte importante presentes en una de
+las parcelas para que actúen como pantalla natural.
+- Gestión del suelo vegetal: Durante la obra, el suelo vegetal retirado se almacenará adecuadamente para ser
+reutilizado posteriormente en el extendido sobre zonas verdes y áreas auxiliares.
+- Revegetación y restauración: Al finalizar las obras, se procederá a la descompactación del terreno y a la revegetación
+de las áreas afectadas para recuperar el soporte edáfico.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32156
+Protección e Integración del Paisaje: el objetivo es minimizar el impacto visual de los nuevos digestores y naves
+industriales:
+- Pantalla vegetal perimetral: es la medida de integración paisajística más relevante. Se instalará una pantalla en todo
+el perímetro, entre el cerramiento y la linde, que servirá además como corredor y refugio de fauna. Se emplearán
+especies autóctonas adaptadas como: Retama sphaerocarpa (Retama), Lavandula latifolia (Cantueso), Quercus
+coccifera (Coscoja) y Rosmarinus officinalis (Romero). Esta pantalla, además, estará en consonancia con la existente.
+El promotor realizará todas las labores necesarias para asegurar la viabilidad de las especies plantadas. Los cuidados
+posteriores a la plantación (reposición de marras, riegos, reposición de protectores/tutores, gradeos, binas, etc.) se
+mantendrán hasta que la pantalla vegetal pueda considerarse lograda y consolidada. En este sentido las marras
+detectadas se repondrán, con carácter general, al año siguiente de su constatación, admitiéndose un porcentaje
+de marras no superior al 10 % de la densidad inicial establecida, debiendo reponerse en cualquier momento la
+vegetación perdida cuando se supere dicho porcentaje, o siempre que, con independencia del porcentaje numérico
+alcanzado, no se consiga el efecto de apantallamiento pretendido con la vegetación superviviente.
+- Diseño de infraestructuras: se utilizarán colores en las estructuras y cubiertas que sean similares al entorno y se
+ha proyectado una altura reducida para las instalaciones para mitigar su presencia visual.
+- Acopios y taludes: los acopios de materiales se situarán en lugares de mínimo impacto visual y los taludes tendrán
+formas suaves y redondeadas para una transición natural hacia el terreno.
+El cumplimiento de estas medidas será supervisado a través de un Plan de Vigilancia Ambiental (PVA), que incluye:
+- Revisiones periódicas del estado de la pantalla vegetal mediante observación directa.
+- Seguimiento anual de la cubierta vegetal y observación de la fauna local para detectar alteraciones en su
+comportamiento.
+- Control cuatrienal de ruidos y mediciones de emisiones para asegurar que se mantienen dentro de los límites
+compatibles.
+4.5. Protección urbanística del suelo, de infraestructuras y del patrimonio.
+La actividad pretendida deberá ser compatible con los usos permitidos en la clase de suelo donde se quiere desarrollar la
+actividad, según las normas urbanísticas vigentes en el término municipal de Consuegra. A este respecto, el Ayuntamiento
+podrá incorporar los condicionantes que considere oportunos en el otorgamiento de la licencia de la actividad.
+El informe del Servicio de Cultura de la delegación Provincial de Educación, Cultura y Deportes en Toledo informa
+favorablemente sobre el proyecto. En caso de que aparecieran restos materiales con valor cultural durante su
+ejecución, se deberá actuar conforme lo previsto en el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio
+Cultural de Castilla-La Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería
+competente en materia de Patrimonio Cultural.
+Cualquier modificación del emplazamiento de las diversas infraestructuras del proyecto de obra civil autorizado en
+este momento deberá contar con el visado y la autorización del Servicio de Cultura de la Delegación Provincial de
+Toledo.
+4.6. Riesgo de accidentes y protección frente a incendios
+El promotor deberá dar cumplimiento a los preceptos contemplados tanto en la Norma Básica de Protección Civil
+(Real Decreto 407/1992, de 24 de abril), así como en el actual Plan Territorial de Emergencias de Castilla-La
+Mancha (Platecam), y revisado por Orden 126/2021 de 12 de agosto de 2021, de la Consejería de Hacienda y
+Administraciones Públicas, como Plan Director de Emergencias de la Comunidad, y en lo contenido en los Planes
+Territoriales, Especiales, Específicos y de Respuesta, aprobados como desarrollo del mismo.
+La norma básica de autoprotección (NBA), aprobada por Real Decreto 393/2007, del Ministerio de Interior, establece
+en su Anexo I las actividades (estableciendo umbrales mínimos) para las que se deberán presentar el correspondiente
+Plan de Autoprotección (PA), junto con el resto de los documentos necesarios, para el otorgamiento de la licencia,
+permiso o autorización necesaria para el comienzo de la actividad. En caso de ser necesario, el titular de la actividad
+deberá inscribir el citado documento en el Registro de Planes de Autoprotección de Castilla-La Mancha, regulado
+por Decreto 1/2018, de 9 de enero.
+El promotor deberá cumplir con lo que le sea de aplicación de la normativa de incendios forestales, como es la Orden
+91/2025, de 10 de junio, de la Consejería de Desarrollo Sostenible, por la que se aprueba el Plan de Prevención,
+Vigilancia y Extinción de Incendios Forestales de Castilla la Mancha.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32157
+Con relación a las obligaciones en materia de prevención de incendios forestales, derivados de la aplicación de la
+Ley 3/2008, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha, se estará a lo que al respecto señale
+el Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de Toledo, con competencias al
+respecto. En cualquier caso, se recuerda que, durante la época de peligro alto definida en la Orden de la Consejería
+de Medio Ambiente y Desarrollo Rural de 16 de mayo de 2006, por la que se regulan las campañas para la prevención
+de incendios forestales, deberá prescindirse de la utilización de maquinaria y equipos en los montes y en las áreas
+rurales situados en una franja de 400 m alrededor de aquellos. Si fuese necesario trabajar en esta época se deberá
+contar con la autorización pertinente.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o
+de las medidas correctoras y compensatorias establecidas. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia. Cada informe deberá estar suscritos conjuntamente por el promotor
+y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre
+el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control y revisión periódica del estado de la impermeabilización de soleras, balsa de lixiviados, arqueta de
+decantación y las canaletas perimetrales, que deberán contar con un plan de mantenimiento.
+- Control del estado de red de drenaje y pozos testigo / piezómetros.
+- Control de la correcta implantación del vallado perimetral y pantalla vegetal.
+- Control de los procesos que generan emisiones en focos canalizados y sistemas de depuración de emisiones.
+- Sistemas de almacenamiento y acondicionamiento de biogás.
+- Vigilancia en la construcción y explotación del proyecto, para verificar que se están cumpliendo el resto de las
+condiciones establecidas en el documento ambiental y en la presente Resolución.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Dirección General de Calidad
+Ambiental:
+a) Antes del inicio de las obras:
+- Notificación de la fecha prevista para el inicio de la obra con una antelación mínima de 10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32158
+- Tanto con carácter previo al inicio de los trabajos de plantación, como al finalizar los mismos, se contactará con los
+Agentes Medioambientales de la zona, para su supervisión.
+- Para justificar la propuesta de localización de los piezómetros que se deberán instalar, será necesario realizar un
+estudio hidrogeológico previo que permita identificar claramente la dirección y sentido del flujo de aguas subterráneas,
+además de un estudio histórico de la actividad industrial en el emplazamiento.
+b) Antes del inicio de la actividad:
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Obtención de la correspondiente autorización y registro como establecimiento Sandach
+- Obtención de la autorización ambiental integrada que incluya esta modificación en las instalaciones existentes.
+c) En el primer trimestre de cada año, desde el inicio de la actividad y durante los tres primeros años de funcionamiento
+del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia ambiental.
+d) Dentro de los dos primeros años desde el inicio de la actividad: Informe Preliminar de la Situación de Suelos de
+la instalación (IPSS).
+e) Finalizada la actividad y antes del inicio de la fase de desmantelamiento: se presentará el plan de cierre, clausura
+y desmantelamiento.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Dirección General de Calidad Ambiental, en virtud del Decreto
+17/2026, de 14 de abril, por el que se modifica el Decreto 112/2023, de 25 de julio, por el que se establece la estructura
+orgánica y las competencias de la Consejería de Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto “Modificación de una planta de biogás
+con cogeneración, para obtención de biometano y fertilizantes” (Expediente S478/2025/DG/00042) no necesita
+someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el
+medio ambiente, siempre que se cumplan las medidas ambientales y de seguimiento que propone el promotor y los
+requisitos ambientales que se desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Toledo, 8 de septiembre de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32159
+Anexo I: plano de la instalación
+
+AÑO XLV Núm. 179 17 de septiembre de 2026 32160

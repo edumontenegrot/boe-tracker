@@ -1,0 +1,146 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 230 Jueves 17 de septiembre de 2026 Sec. III. Pág. 123429
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+19410 Resolución de 1 de septiembre de 2026, de la Universidad Internacional de
+La Rioja, por la que se publica la modificación del plan de estudios de
+Graduado o Graduada en Diseño y Desarrollo de Videojuegos.
+Una vez recibido informe favorable de la Agencia Nacional de Evaluación de la
+Calidad y Acreditación a la modificación del plan de estudios ya verificado, por no afectar
+ésta a la naturaleza ni a los objetivos del título inscrito en el Registro de Universidades,
+Centros y Títulos,
+Este Rectorado, de conformidad con lo dispuesto en el artículo 27 del Real
+Decreto 822/2021, de 28 de septiembre, ha resuelto publicar la modificación del plan de
+estudios conducente a la obtención del título de Graduado o Graduada en Diseño y
+Desarrollo de Videojuegos por la Universidad Internacional de La Rioja.
+El plan de estudios a que se refiere la presente resolución quedará estructurado
+conforme figura en el anexo adjunto.
+Logroño, 1 de septiembre de 2026.–El Rector, José María Vázquez García-Peñuela.
+ANEXO
+Plan de estudios conducente al título de Graduado o Graduada en Diseño
+y Desarrollo de Videojuegos por la Universidad Internacional de La Rioja
+1. Distribución del Plan de Estudios en Créditos ECTS, por tipo de materia
+Tipo de materia Créditos
+Formación Básica. 60
+Obligatorias. 156
+Optativas. 12
+Trabajo Fin de Grado. 12
+Total. 240
+2. Créditos de Formación Básica. Distribución en materias
+Asignaturas básicas ECTS Curso Campo de estudio
+Álgebra y Matemática Discreta. 6 1.º Matemáticas y estadística.
+Cálculo y Métodos Numéricos. 6 1.º Matemáticas y estadística.
+Estadística. 6 2.º Matemáticas y estadística.
+Fundamentos Físicos de los Videojuegos. 6 2.º Ingeniería informática y de sistemas.
+Ciencias económicas, administración y dirección de empresas,
+Iniciativa Empresarial. 6 2.º
+márquetin, comercio, contabilidad y turismo.
+Tecnología Básica de Computadores. 6 1.º Ingeniería informática y de sistemas.
+Sistemas Operativos. 6 2.º Ingeniería informática y de sistemas.
+Fundamentos de Programación. 6 1.º Ingeniería informática y de sistemas.
+01491-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 230 Jueves 17 de septiembre de 2026 Sec. III. Pág. 123430
+Asignaturas básicas ECTS Curso Campo de estudio
+Industrias culturales: diseño, animación, cinematografía
+Introducción al Arte para Videojuegos. 6 1.º
+y producción audiovisual.
+Dibujo para Videojuegos. 6 2.º Ingeniería informática y de sistemas.
+3. Explicación general de la planificación del plan de estudios
+Créditos
+Módulo Materias Asignaturas Carácter
+ECTS
+Álgebra y Matemática Discreta. 6 B
+Matemáticas.
+Cálculo y Métodos Numéricos. 6 B
+(18 ECTS).
+Estadística. 6 B
+Física.
+Fundamentos Físicos de los Videojuegos. 6 B
+(6 ECTS).
+Iniciativa Empresarial. 6 B
+Empresa.
+Fundamentos. Dirección de Proyectos de Videojuegos. 6 OB
+(18 ECTS).
+(72 ECTS).
+Creación de Portafolio. 6 OB
+Tecnología Básica de Computadores. 6 B
+Sistemas Operativos. 6 B
+Informática General.
+Dispositivos de Juego. 6 OB
+(30 ECTS).
+Bases de Datos. 6 OB
+Ingeniería del Software. 6 OB
+Fundamentos de Programación. 6 B
+Programación General.
+Programación Orientada a Objetos. 6 OB
+(18 ECTS).
+Estructuras de Datos y Algoritmos. 6 OB
+Motores de Videojuegos I. 6 OB
+Motores de Videojuegos II. 6 OB
+Inteligencia Artificial para Videojuegos. 6 OB
+Programación.
+(72 ECTS).
+Juegos Multijugador. 6 OB
+Programación para
+Videojuegos. Realidad Virtual. 6 OB
+(54 ECTS).
+Juegos para la Web. 6 OB
+Proyecto Grupal I. 6 OB
+Proyecto Grupal II. 6 OB
+Proyecto Grupal III. 6 OB
+01491-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 230 Jueves 17 de septiembre de 2026 Sec. III. Pág. 123431
+Créditos
+Módulo Materias Asignaturas Carácter
+ECTS
+Introducción al Arte para Videojuegos. 6 B
+Dibujo para Videojuegos. 6 B
+Diseño Artístico.
+(24 ECTS).
+Diseño 2D. 6 OB
+Diseño 3D. 6 OB
+Introducción al Diseño de Videojuegos. 6 OB
+Diseño.
+Diseño de Videojuegos. 6 OB
+(66 ECTS).
+Sonido y Música para Videojuegos. 6 OB
+Diseño de Videojuegos.
+Cuestiones Ético - Legales de los Videojuegos. 6 OB
+(42 ECTS).
+Gamificación. 6 OB
+Narrativa del Videojuego. 6 OB
+Psicología del Jugador. 6 OB
+Análisis y Producción Musical para Medios Audiovisuales. 6 OP
+Sistemas Interactivos. 6 OP
+Optatividad.
+(24 ECTS).
+Imagen en Movimiento. 6 OP
+Optatividad.
+(30 ECTS). Realidad Aumentada. 6 OP
+Prácticas Académicas
+Externas. Prácticas Académicas Externas. 6 OP
+(6 ECTS).
+Trabajo Fin de Grado. Trabajo Fin de Grado.
+Trabajo Fin de Grado. 12 TFG
+(12 ECTS). (12 ECTS).
+Derechos Humanos Derechos Humanos
+y Valores Democráticos. y Valores Democráticos. Derechos Humanos y Valores Democráticos. 6 OB
+(6 ECTS). (6 ECTS).
+01491-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

@@ -1,0 +1,136 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 230 Jueves 17 de septiembre de 2026 Sec. III. Pág. 123438
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+19413 Resolución de 1 de septiembre de 2026, de la Universidad Internacional de
+La Rioja, por la que se publica la modificación del plan de estudios de
+Graduado o Graduada en Matemática Computacional.
+Una vez recibido informe favorable de la Agencia Nacional de Evaluación de la
+Calidad y Acreditación a la modificación del plan de estudios ya verificado, por no afectar
+ésta a la naturaleza ni a los objetivos del título inscrito en el Registro de Universidades,
+Centros y Títulos,
+Este Rectorado, de conformidad con lo dispuesto en el artículo 27 del Real
+Decreto 822/2021, de 28 de septiembre, ha resuelto publicar la modificación del plan de
+estudios conducente a la obtención del título de Graduado o Graduada en Matemática
+Computacional por la Universidad Internacional de La Rioja.
+El plan de estudios a que se refiere la presente resolución quedará estructurado
+conforme figura en el anexo adjunto.
+Logroño, 1 de septiembre de 2026.–El Rector, José María Vázquez García-Peñuela.
+ANEXO
+Plan de estudios conducente al título de Graduado o Graduada en Matemática
+Computacional por la Universidad Internacional de La Rioja
+1. Distribución del Plan de Estudios en Créditos ECTS, por Tipo de Materia
+Créditos
+Tipo de materia
+ECTS
+Formación Básica. 60
+Obligatorias. 156
+Optativas. 12
+Prácticas Externas. 0
+Trabajo Fin de Grado. 12
+Total. 240
+2. Créditos de Formación Básica. Distribución en materias
+Asignaturas básicas ECTS Curso Campo de estudio
+Cálculo I. 6 1 Matemáticas y estadística.
+Álgebra y Matemática Discreta. 6 1 Ingeniería Informática de Sistemas.
+Estadística. 6 1 Ingeniería Informática de Sistemas.
+Fundamentos de Programación. 6 1 Ingeniería Informática de Sistemas.
+Topología General. 6 1 Matemáticas y estadística.
+Álgebra Lineal y Multilineal. 6 1 Matemáticas y estadística.
+Ecuaciones Diferenciales. 6 2 Matemáticas y estadística.
+31491-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 230 Jueves 17 de septiembre de 2026 Sec. III. Pág. 123439
+Asignaturas básicas ECTS Curso Campo de estudio
+Cálculo II. 6 1 Matemáticas y estadística.
+Modelos de Probabilidad. 6 2 Ingeniería Informática de Sistemas.
+Bases de Datos. 6 1 Ingeniería Informática de Sistemas.
+3. Explicación general de la planificación del plan de estudios
+Créditos
+Materias Asignaturas Carácter
+ECTS
+Cálculo I. 6 B
+Cálculo II. 6 B
+Métodos Numéricos. 6 OB
+Cálculo.
+(36 ECTS).
+Ecuaciones Diferenciales. 6 B
+Cálculo en Varias Variables. 6 OB
+Análisis Numérico. 6 OB
+Álgebra y Matemática Discreta. 6 B
+Álgebra Lineal y Multilineal. 6 B
+Álgebra y Geometría.
+Teoría de Galois. 6 OB
+(30 ECTS).
+Estructuras Algebraicas. 6 OB
+Geometría Afín y Euclídea. 6 OB
+Estadística. 6 B
+Modelos de Probabilidad. 6 B
+Estadística.
+(24 ECTS).
+Estadística no Paramétrica. 6 OB
+Análisis Multivariante. 6 OB
+Topología General. 6 B
+Topología.
+(12 ECTS).
+Topología Algebraica. 6 OB
+Análisis Funcional. 6 OB
+Análisis.
+Teorías de la Medida. 6 OB
+(18 ECTS).
+Análisis Complejo. 6 OB
+Modelado Matemático. 6 OB
+Modelado, Simulación y Optimización.
+Simulación Numérica. 6 OB
+(18 ECTS).
+Optimización Numérica. 6 OB
+Fundamentos Físicos de la Computación. 6 OB
+Tecnología de Computadores. 6 OB
+Fundamentos de Programación. 6 B
+Fundamentos de Informática.
+(36 ECTS).
+Diseño Avanzado de Algoritmos. 6 OB
+Sistemas Operativos. 6 OB
+Lógica Computacional. 6 OB
+31491-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 230 Jueves 17 de septiembre de 2026 Sec. III. Pág. 123440
+Créditos
+Materias Asignaturas Carácter
+ECTS
+Programación Avanzada. 6 OB
+Redes de Ordenadores. 6 OB
+Bases de Datos. 6 B
+Fundamentos de Computación.
+(36 ECTS).
+Diseño de Bases de Datos. 6 OB
+Programación de Bases de Datos. 6 OB
+Ingeniería del Software. 6 OB
+Sistemas Dinámicos. 6 OP
+Series Temporales. 6 OP
+Optativas.
+(24 ECTS).
+Procesos Estocásticos. 6 OP
+Ecuaciones en Derivadas Parciales. 6 OP
+Trabajo Fin de Grado.
+Trabajo Fin de Grado. 12 TFG
+(12 ECTS).
+Derechos Humanos y Valores Democráticos.
+Derechos Humanos y Valores Democráticos. 6 OB
+(6 ECTS).
+31491-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X
