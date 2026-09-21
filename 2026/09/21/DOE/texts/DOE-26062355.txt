@@ -1,0 +1,310 @@
+NÚMERO 182
+40108
+Lunes 21 de septiembre de 2026
+RESOLUCIÓN de 9 de septiembre de 2026, de la Dirección General de
+Gestión Sostenible y Política Forestal, por la que se formula valoración
+ambiental sobre la modificación del proyecto de planta de producción de
+diamantes sintéticos, cuya promotora es Diamond Foundry Europe, SL.
+Expte.: IA26/0757. (2026062355)
+ANTECEDENTES DE HECHO
+Primero. El proyecto de planta de producción de diamantes sintéticos, cuya promotora es
+Diamond Foundry Europe, SL, cuenta con declaración de impacto ambiental emitida mediante
+Resolución de 24 de febrero de 2023, de la Dirección General de Sostenibilidad, por la que
+se formula declaración de impacto ambiental relativa al proyecto de planta de producción de
+diamantes sintéticos, en el término municipal de Trujillo (DOE n.º 42, de 2 de marzo de 2023).
+Segundo. El proyecto original consistía en la construcción y puesta en funcionamiento de una
+instalación destinada a la fabricación de diamantes sintéticos mediante el método de deposi-
+ción química de vapor.
+En cuanto a la línea de suministro consistía en una línea aéreo-soterrada de alta tensión (132
+kV), que irá desde la SET “Trujillo” hasta la SET “Fábrica Diamond” y tendrá 1 tramo soterrado
+y otro aéreo, sumando una longitud total de 6,921 km.
+Tercero. Con fecha 16 de octubre de 2023 se emite Resolución de la entonces Dirección
+General de Sostenibilidad sobre la modificación del proyecto de planta de producción de dia-
+mantes sintéticos, cuya promotora es Diamond Foundry Europe, SL. Esta modificación afecta
+únicamente a la línea eléctrica de suministro, no sufriendo la fábrica ningún tipo de variación.
+Cuarto. Con fecha 18 de julio de 2025 se emite Resolución de la entonces Dirección General
+de Sostenibilidad sobre la modificación del proyecto de Planta de producción de diamantes
+sintéticos, cuya promotora es Diamond Foundry Europe, SL. Esta modificación afecta a las
+edificaciones, maquinaria e instalaciones.
+Quinto. Con fecha 26 de mayo de 2026 tuvo entrada en el Registro Único de la Administra-
+ción de la Comunidad Autónoma de Extremadura, documento ambiental para la modificación
+del proyecto de planta de fabricación de diamantes y su línea de suministro en Trujillo presen-
+tado por la promotora, dándose así cumplimiento a lo dispuesto en el artículo 86.1 de la Ley
+16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Extremadu-
+ra, que establece que “Los promotores que pretendan introducir modificaciones de proyectos
+incluidos en el anexo IV, deberán presentar ante el órgano ambiental un documento ambiental
+con el contenido recogido en el artículo 74.1 de la presente ley”.
+
+NÚMERO 182
+40109
+Lunes 21 de septiembre de 2026
+La modificación propuesta se describe a continuación:
+1. Modificación en las edificaciones. Unificación de edificaciones de fases 2 y 3 del proyecto.
+Los edificios de producción 2 y 3 que albergan los equipos de producción de fases 2 y 3
+respectivamente, se unificarán en un solo edificio de tres plantas.
+El edificio resultante albergará los equipos de producción actualmente autorizados para los
+edificios 2 y 3, sin existir por tanto aumento en las líneas de producción.
+No existe aumento en cuanto al número de equipos de producción por lo que no hay incre-
+mento de productos terminados ni consumos de materias primas.
+A continuación se muestra una imagen comparativa entre la distribución de planta autori-
+zada y la distribución tras la modificación.
+A continuación, se muestra un cuadro de superficies ocupadas y construidas de las edi-
+ficaciones ya autorizadas y de las edificaciones planteadas en la modificación objeto de
+estudio:
+Planta Planta tras la Planta tras la
+Planta autorizada
+autorizada modificación modificación
+EDIFICIO SUPERFICIES OCUPADAS (m2) SUPERFICIES CONSTRUIDAS (m2)
+Edificio de producción 1 5.680,56 5.680,56 6.661,75 6.661,75
+
+NÚMERO 182
+40110
+Lunes 21 de septiembre de 2026
+Planta Planta tras la Planta tras la
+Planta autorizada
+autorizada modificación modificación
+EDIFICIO SUPERFICIES OCUPADAS (m2) SUPERFICIES CONSTRUIDAS (m2)
+Edificio de producción 2 5.611,96 6.607,62
+13.113,00 39.251,00
+Edificio de producción 3 4.956,13 5.951,79
+Edificios de control de la
+310,00 310,00 310,00 310,00
+subestación
+Edificio de incendios 70,00 70,00 70,00 70,00
+Edificio control de ac-
+31,00 31,00 31,00 31,00
+cesos
+Caseta bombeo agua
+35,00 35,00 35,00 35,00
+industrial
+Laboratorio 173,52 173,52 173,52 173,52
+Caseta cuadros-bombas
+70,00 70,00 70,00 70,00
+Chillers
+Cobertizos 57,95 57,95 57,95 57,95
+Marquesina aparca-
+620,00 620,00 310,00 310,00
+miento
+Edificio sala eléctrica - 795,00 - 1.590,00
+Marquesina bombas
+- 301,00 - 301,00
+Chillers fase 2
+TOTAL 17.616,12 21.257,03 20.278,63 48.861,22
+2. Modificación en las instalaciones.
+Se sustituirán las torres de refrigeración para las fases 2 y 3 por enfriadoras de agua (chi-
+llers) con la capacidad frigorífica total igual a la calculada para las torres de refrigeración.
+Tras la modificación, la distribución de equipos torres de refrigeración y chillers será la
+siguiente:
+Actual modificación Unidades
+Torres de refrigeración Edificio 1 27
+Torres de refrigeración Edificio 2 0
+
+NÚMERO 182
+40111
+Lunes 21 de septiembre de 2026
+Actual modificación Unidades
+TOTAL 27
+Actual modificación Unidades
+Chillers refrigeración Edificio 1 0
+Chillers refrigeración Edificio 2 18
+TOTAL 18
+Este es un cambio de tecnología pasando de un sistema de refrigeración por agua en abier-
+to, mediante evaporación (torres de refrigeración), a un sistema de refrigeración por agua
+cerrado (chillers). Esto supondrá una disminución en el consumo de agua de la fábrica y un
+aumento en el consumo eléctrico.
+A continuación se muestra tabla comparativa entre el consumo de agua de la planta auto-
+rizada y el consumo de agua de la planta tras la modificación propuesta:
+CONSUMO AGUA
+Consumo planta Consumo tras
+Fuente de suministro
+autorizada (m3/año) modificación (m3/año)
+Servicios sanitarios Red municipal 10.950,00 10.950,00
+Agua producción Red municipal 683.312,00 656.142,00
+Agua para limpieza Red municipal 20.000,00 20.000,00
+TOTAL 714.262,00 687.092,00
+En cuanto a la energía eléctrica consumida, la planta pasará de un consumo de 539.616.000
+kWh/año a 730.584.000 kWh/año.
+3. Modificación focos de emisión a la atmósfera.
+— Focos de emisión n.º 1: Se modifica la ubicación de los puntos asociados a los venteos
+de los generadores de hidrógeno debido a que ahora se alojarán todos en un solo edifi-
+cio, modificando la localización de dichos focos en planta. No se modifica su número.
+— Focos de emisión n.º 2: Se modifica la ubicación de los puntos asociados a los venteos
+de los reactores de plasma debido a que ahora se alojarán todos en un solo edificio,
+
+NÚMERO 182
+40112
+Lunes 21 de septiembre de 2026
+modificando la localización de dichos focos en planta. Se modifica el número de focos
+atendiendo a razones constructivas y de proceso, aumentando el número de focos, si
+bien no aumenta el número de equipos de producción.
+Si bien se aumenta el número de focos de emisión (n.º 2) no se produce variación en los
+equipos de producción de origen de las emisiones (reactores) y por tanto en los volúmenes
+de dichas emisiones.
+4. Modificación número y tipo de fuentes de emisión de ruidos.
+Se modifica el número de fuentes de emisión de ruidos y el tipo, modificaciones que ven-
+drán ocasionadas por la sustitución de los equipos de torres de refrigeración por chillers y
+la centralización de los equipos de climatización en un solo edificio.
+5. Modificación del vertido de aguas pluviales y de proceso.
+Se adaptará la red de saneamiento a la nueva situación con un solo edificio, y con la elimi-
+nación de las torres de refrigeración se reducen los caudales de vertido.
+Sexto. Con fecha 27 de julio de 2026, la Dirección General de Gestión Sostenible y Política
+Forestal inicia la fase de solicitud de informes a las Administraciones Públicas afectadas por
+razón de la materia en relación con los elementos esenciales que son objeto de la modifica-
+ción solicitada y tenidos en cuenta en la evaluación de impacto ambiental, por exigirlo así
+el artículo 86.2 de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad
+Autónoma de Extremadura.
+De acuerdo con ello, se han solicitado los siguientes informes a las Administraciones Públicas
+afectadas, que se relacionan en la tabla adjunta, señalando con una X aquellas que han emi-
+tido respuesta:
+Relación de organismos y Entidades Consultados Respuestas recibidas
+Servicio de Conservación de la Naturaleza y Áreas Protegidas. Dirección Ge-
+X
+neral de Caza, Pesca, Acuicultura, Tauromaquia y Medio Natural.
+Confederación Hidrográfica del Tajo
+Ayuntamiento de Trujillo
+Dirección General de Urbanismo, Ordenación del Territorio y Agenda Urbana X
+
+NÚMERO 182
+40113
+Lunes 21 de septiembre de 2026
+A continuación, se resume el contenido principal de los informes recibidos:
+1. Con fecha 30 de julio de 2026 el Servicio de Urbanismo de la Dirección General de Ur-
+banismo, Ordenación del Territorio y Agenda Urbana emite informe en el que se indica
+lo siguiente:
+— En el término municipal de Trujillo se encuentra actualmente vigentes las Normas
+Subsidiarias aprobadas definitivamente por Resolución de 30 de noviembre de 2000,
+de la Comisión de Urbanismo y Ordenación del Territorio de Extremadura, publicado
+en el DOE n.º 41, de 11 de abril de 2002.
+— En virtud de lo establecido en los artículos 143.3.a), 145.1 y 164 de la Ley 11/2018,
+de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadu-
+ra, corresponde al municipio de Trujillo realizar el control de legalidad de las actua-
+ciones, mediante el procedimiento administrativo de control previo o posterior que
+en su caso corresponda, comprobando su adecuación a las normas de planeamiento
+y al resto de legislación aplicable.
+— La actuación pretendida recogida en el proyecto, al ubicarse en suelo urbanizable, no
+requiere de la previa calificación rústica prevista en el artículo 69 de la Ley 11/2018,
+de 21 de diciembre, de ordenación territorial y urbanística sostenible de Extremadu-
+ra, sin que corresponda a esta Dirección General de Urbanismo, Ordenación del Terri-
+torio y Agenda Urbana resolver la petición emitiendo un informe o consulta sectorial
+al respecto.
+2. Con fecha 21 de agosto de 2026 se emite informe por parte del Servicio de Conservación
+de la Naturaleza y Áreas Protegidas de la Dirección General de Caza, Pesca, Acuicultura,
+Tauromaquia y Medio Natural en el que se informa lo siguiente:
+— La zona en la que se proyectan las modificaciones:
+• No se encuentra incluida dentro de las Áreas Protegidas de Extremadura (Red Na-
+tura 2000 y Red de Espacios Naturales Protegidos de Extremadura).
+• No se constata la presencia de hábitats de interés comunitario inventariados en la
+Directiva 92/43/CEE, ni de fauna y flora silvestre recogida en los anexos II y IV de
+dicha directiva.
+• No se constata la presencia de territorios de reproducción de especies incluidas
+en el Catálogo Regional de Especies Amenazadas de Extremadura (CREAEx), ni
+de la Directiva 2009/147/CE relativa a la conservación de las aves silvestres. Se
+mantienen las comunidades de fauna protegida, así como sus áreas de campeo y
+reproducción.
+
+NÚMERO 182
+40114
+Lunes 21 de septiembre de 2026
+— Se informa que desde la fecha de emisión de la “Resolución de 24 de febrero de
+2023, de la Dirección General de Sostenibilidad, por la que se formula declaración de
+impacto ambiental relativa al proyecto de planta de producción de diamantes sinté-
+ticos, en el término municipal de Trujillo (Cáceres), publicada en el DOE n.º 42, de 2
+de marzo de 2023 con Expte.: IA22/1266”, y la “Resolución de 18 de julio de 2025,
+de la Dirección General de Sostenibilidad, por la que se formula valoración ambiental
+sobre la modificación del proyecto de planta de producción de diamantes sintéticos,
+cuya promotora es Diamond Foundry Europe, SL, publicada en el DOE n.º 143 del 25
+de julio de 2025 con Expte.: IA25/0804”, hasta la fecha actual, no se han producido
+cambios sustanciales en los valores ambientales presentes en la zona en la que se
+propone la tercera modificación, que indiquen la necesidad de realizar un nuevo in-
+forme de afección a la Red Natura 2000 y sobre la Biodiversidad.
+— No obstante, si durante la realización de las obras se detectara la presencia de cual-
+quier especie incluida en el CREAEx que pudiera verse afectada por las mismas, se
+estará a lo dispuesto por los Agentes del Medio Natural y/o técnicos de la Dirección
+General de Caza, Pesca, Acuicultura, Tauromaquia y Medio Natural, previa comuni-
+cación de tal circunstancia.
+— En cualquier caso, se llevarán a cabo el resto de las medidas preventivas, correc-
+toras, complementarias y compensatorias recogidas en el informe de afección, n.º
+expediente CN22/7109.
+3. Con fecha 26 de agosto de 2026 se emite informe por parte del Servicio de Ordenación
+del Territorio de la Dirección General de Urbanismo, Ordenación del Territorio y Agenda
+Urbana en el que se informa que, una vez analizada la actuación objeto de consulta y
+la documentación obrante en el expediente, no se aprecia afección sobre ningún Plan
+Territorial vigente, ni sobre ningún Proyecto de Interés Regional vigente.
+Consta en el expediente de modificación no sustancial de la autorización ambiental integrada
+informe del Ayuntamiento de Trujillo, emitido con fecha 4 de agosto de 2026 en el que se in-
+forma que se considera que la modificación propuesta no tiene carácter sustancial y se ajusta
+a lo establecido en las Normas Subsidiarias de Planeamiento. Asimismo, se concluye que la
+modificación no afecta a los parámetros ambientales contemplados en la autorización vigente.
+Séptimo. Una vez analizada la documentación que obra en el expediente y considerando las
+respuestas recibidas a las consultas practicadas, se realiza el correspondiente análisis para
+determinar si la modificación del proyecto puede tener efectos adversos significativos sobre
+el medio ambiente de conformidad con lo dispuesto en el artículo 73.c) de la Ley 16/2015, de
+23 de abril, de protección ambiental de la Comunidad Autónoma de Extremadura.
+
+NÚMERO 182
+40115
+Lunes 21 de septiembre de 2026
+Del análisis realizado se desprende que no se prevé que de la modificación del proyecto pue-
+dan derivarse efectos adversos significativos sobre el medio ambiente ya que no supone un
+incremento significativo de emisiones a la atmósfera, de vertidos a cauces públicos, de gene-
+ración de residuos, de utilización de recursos naturales, afección a Espacios Protegidos Red
+Natura 2000 ni una afección significativa al patrimonio cultural.
+A los anteriores antecedentes de hecho, le son de aplicación los siguientes
+FUNDAMENTOS DE DERECHO
+Primero. Es órgano competente para el dictado de la resolución que ponga fin al procedi-
+miento la Dirección General de Gestión Sostenible y Política Forestal de la Consejería de In-
+dustria, Energía, Ciencia y Territorio, de conformidad con lo dispuesto en el artículo 3.28 de
+la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Extre-
+madura y en el artículo 7.1.c) del Decreto 107/2026, de 26 de mayo, por el que se establece
+la estructura orgánica de la Consejería de Industria, Energía, Ciencia y Territorio.
+Segundo. El artículo 86 de la Ley 16/2015, de 23 de abril, de protección ambiental de la
+Comunidad Autónoma de Extremadura, regula el procedimiento de modificación de proyectos
+sometidos a evaluación ambiental ordinaria, disponiendo que el órgano ambiental se pronun-
+ciará sobre el carácter de las modificaciones que pretendan introducir los promotores respecto
+a los proyectos incluidos en el anexo IV de la propia ley, debiendo solicitar a estos efectos
+informe a las Administraciones Públicas afectadas por razón de la materia en relación con los
+elementos esenciales que sean objeto de la modificación solicitada y tenidos en cuenta en la
+evaluación de impacto ambiental.
+En caso de que la modificación del proyecto pueda tener efectos adversos significativos sobre
+el medio ambiente se determinará la necesidad de someter o no el proyecto a evaluación de
+impacto ambiental ordinaria, o si se determinara que la modificación del proyecto no tuviera
+efectos adversos significativos sobre el medio ambiente, el órgano ambiental, en su caso,
+actualizará el condicionado de la declaración de impacto ambiental emitida en su día para el
+proyecto, incorporando las nuevas medidas correctoras, protectoras o compensatorias que se
+consideren procedente u oportunas.
+En su virtud, atendiendo a los antecedentes de hecho y de acuerdo con los fundamentos jurí-
+dicos expuestos, esta Dirección General de Gestión Sostenible y Política Forestal,
+RESUELVE:
+Primero. La no necesidad de someter a un nuevo procedimiento de evaluación de impacto
+ambiental la modificación del proyecto consistente en una planta de producción de diamantes
+
+NÚMERO 182
+40116
+Lunes 21 de septiembre de 2026
+sintéticos, ya que dicha modificación no va a producir efectos adversos significativos sobre el
+medio ambiente de acuerdo a los criterios establecidos en el artículo 73.c) de la Ley 16/2015,
+de 23 de abril, de protección ambiental de la Comunidad Autónoma de Extremadura.
+Segundo. Mantener el condicionado de la Resolución de 24 de febrero de 2023, de la Direc-
+ción General de Sostenibilidad, por la que se formula declaración de impacto ambiental rela-
+tiva al proyecto de planta de producción de diamantes sintéticos, en el término municipal de
+Trujillo, promovida por Diamond Foundry Europe, SL (DOE n.º 42, de 2 de marzo de 2023) y
+sus posteriores modificaciones, Resolución de 16 de octubre de 2023, de la Dirección General
+de Sostenibilidad, sobre la modificación del proyecto de planta de producción de diamantes
+sintéticos (DOE n.º 207, de 27 de octubre de 2023) y Resolución de 18 de julio de 2025 de
+la Dirección General de Sostenibilidad, por la que se formula valoración ambiental sobre la
+modificación del proyecto de Planta de producción de diamantes sintéticos (DOE n.º 143, de
+25 de julio de 2025).
+Esta resolución deberá publicarse en el Diario Oficial de Extremadura, de conformidad con lo
+dispuesto en el artículo 86.3 de la Ley 16/2015, de 23 de abril, de protección ambiental de la
+Comunidad Autónoma de Extremadura.
+La presente resolución no podrá ser objeto de recurso alguno, sin perjuicio de los que, en su
+caso, procedan en vía administrativa y judicial frente al acto, en su caso, de autorización del
+proyecto.
+La presente resolución se emite a los solos efectos ambientales y en virtud de la legislación
+específica vigente, sin perjuicio de aquellas otras autorizaciones sectoriales o licencias que
+sean legalmente exigibles para la ejecución del proyecto.
+Mérida, 9 de septiembre de 2026.
+El Director General de Gestión
+Sostenible y Política Forestal,
+JUAN ELOY RODRÍGUEZ UCEDO
+• • •

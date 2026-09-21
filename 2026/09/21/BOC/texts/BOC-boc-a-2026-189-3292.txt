@@ -1,0 +1,957 @@
+Boletín Oficial de Canarias núm. 189 34936 Lunes 21 de septiembre de 2026
+III. Otras Resoluciones
+Consejería de Transición Ecológica y Energía
+3292 Dirección General de Energía.- Resolución de 4 de septiembre de 2026, por la
+que se concede la autorización administrativa para el cierre y desmantelamiento
+de las instalaciones eléctricas denominadas “Línea a 66 kV Gran Tarajal-Matas
+Blancas”, “Línea a 66 kV Salinas-Gran Tarajal” y “Línea a 66 kV Salinas-Corralejo”.-
+Expte. AT24/021.
+ANTECEDENTES DE HECHO
+1.º) Solicitudes.
+Con fecha 1 de julio de 2016, la entidad Red Eléctrica de España, S.A.U. (en lo
+sucesivo Red Eléctrica) presentó ante la extinta Dirección General de Industria y Energía
+del Gobierno de Canarias la solicitud de autorización administrativa para el cierre de la
+línea a 66 kV Salinas-Corralejo acompañada del proyecto de “Desmantelamiento de la
+línea aérea de transporte de energía eléctrica a 66 kV simple circuito Salinas-Corralejo” con
+n.º de visado n.ºGC90530/00 y fecha 3 de junio de 2016, del Colegio Oficial de Ingenieros
+Industriales de Canarias Oriental, expediente AT10/181.
+En la misma fecha, Red Eléctrica presentó la solicitud de autorización administrativa
+para el cierre de la línea a 66 kV Salinas-Gran Tarajal acompañada del proyecto de
+“Desmantelamiento de la línea aérea de transporte de energía eléctrica a 66 kV simple
+circuito Salinas-Gran Tarajal” con n.º de visado n.º GC90531/00 y fecha 3 de junio de
+2016, del Colegio Oficial de Ingenieros Industriales de Canarias Oriental, expediente
+AT12/016.
+Asimismo, presentó la solicitud de autorización administrativa para el cierre de la línea
+a 66 kV Gran Tarajal-Matas Blancas acompañada del proyecto de “Desmantelamiento de
+la línea aérea de transporte de energía eléctrica a 66 kV simple circuito Gran Tarajal-Matas
+Blancas” con n.º de visado n.º GC90532/00 y fecha 3 de junio de 2016, del Colegio Oficial
+de Ingenieros Industriales de Canarias Oriental, expediente AT12/026.
+2.º) Antecedentes.
+Mediante Acuerdo de la Comisión del Territorio y Medio Ambiente de Canarias
+(COTMAC) de 2 de marzo de 2015, se procedió a aprobar la Declaración de Impacto
+Ambiental (DIA) del proyecto “Ejecución de la línea de transporte de energía eléctrica
+a 132 kV doble circuito Gran Tarajal-Matas Blancas”, “Nueva subestación de transporte
+de energía eléctrica 132 kV”, términos municipales Tuineje y Pájara (Expte. 2009/1742-
+CPIA), que en su apartado M) Condicionantes, punto 4, indicaba:
+“4. En el plazo máximo de 18 meses a contar desde la puesta en funcionamiento de
+la nueva línea a 132 kV deberá estar finalizado el desmantelamiento de la línea a 66 kV
+Gran Tarajal-Matas Blancas existente. A tal fin, antes de iniciar las obras de instalación de
+la nueva línea a 132 kV, se deberá presentar en la Viceconsejería de Medio Ambiente el
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34937 Lunes 21 de septiembre de 2026
+proyecto de desmantelamiento de la mencionada línea a 66 kV, con el objeto de recabar
+informe sobre su adecuación al documento “Estudio Ambiental de Desmantelamiento de la
+Línea Eléctrica a 66 kV Gran Tarajal-Matas Blancas”, el cual deberá incluir un programa
+de vigilancia ambiental integrado con el de la línea a 132 kV. En el desmantelamiento
+deberá tenerse en cuenta lo dispuesto en el Plan de Recuperación del Guirre (Neophron
+percnopterus), aprobado por el Decreto 183/2006”.
+De igual modo, la COTMAC aprobó el 22 de diciembre de 2014 la DIA del proyecto
+denominado “Línea aérea subterránea a 132 KV doble circuito entre la subestación Puerto
+del Rosario (Nueva Salinas) y la subestación La Oliva (Nueva Corralejo)”, promovido por
+Red Eléctrica, términos municipales de La Oliva y Puerto del Rosario (expte. 2011/1058),
+que entre sus condicionantes (apartado M, punto 8):
+“8. En el plazo máximo de 18 meses desde la puesta en funcionamiento de la nueva
+línea de 132 kV deberá estar ultimado el desmantelamiento de la actual línea eléctrica a
+66 kV que une la subestación de Las Salinas y la actual subestación de Corralejo. Para
+ello se tendrá en cuenta lo recogido por el “Estudio Ambiental de desmantelamiento de la
+Línea de 66 kV Salinas-Corralejo”, en el que se evalúa el impacto ambiental de los trabajos
+de desmantelamiento. Asimismo, la realización de las obras de todas las actuaciones del
+presente proyecto se hará de manera que el periodo de coexistencia de la nueva línea
+proyectada y la actual línea de 66 kV sea mínimo. Esto implica que a la finalización de
+los trabajos de instalación de la línea de 132 kV, las dos subestaciones y sus dos líneas
+subterráneas a 66 kV están ya en condiciones de operatividad”.
+Por último, la COTMAC aprobó el 30 de julio de 2013 la DIA del proyecto “Refuerzo
+del Eje de Transporte Eléctrico a 66 kV por cambio de tensión a 132 kV de la línea eléctrica
+AT12/016, entre Subestación de Gran Tarajal y Salinas” que también incluía una referencia
+al desmantelamiento de la línea de 66 kV (apartado M. Condicionantes):
+“8. Antes de la autorización definitiva de la puesta en marcha de la línea, se deberá
+presentar el proyecto de desmantelamiento del actual eje Subestación Salinas-Subestación
+Gran Tarajal de 66 kV que atraviesa la ZEPA Llanos y Cuchillos de Antigua, con el objeto
+de recabar informe sobre el particular, dado que el mismo pudiera estar afectado por la
+normativa en materia de impacto ambiental. Sin perjuicio de lo anterior, se considera
+oportuno que, previo al desmantelamiento de la actual línea de 66 kV, se realizará un estudio
+de aquellos tramos y apoyos que son utilizados por el Guirre (Neophron percnopterus),
+como dormideros. Los resultados de dicho estudio serán remitidos, junto con el proyecto de
+desmantelamiento, a la Viceconsejería de Medio Ambiente que emitirá informe sobre los
+apoyos que, en su caso, deben ser conservados y las medidas a adoptar”.
+3.º) Descripción del cierre, desmantelamiento y demolición proyectados.
+El desmontaje de los diferentes vanos se realizará en cuatro fases:
+• Montaje de protecciones mecánicas para cruzamientos.
+• Desmontaje del cable de tierra.
+• Desmontaje de las fases del simple circuito.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34938 Lunes 21 de septiembre de 2026
+• Desmontaje de apoyos, demolición de cimentaciones y reposición de pavimento
+urbano cuando sea necesario.
+Las líneas a 66 kV objeto de desmantelamiento están formadas por circuitos trifásicos,
+con las fases dispuestas al tresbolillo y dotadas de cable de tierra. Cada fase está formada
+por un conductor LARL-280 (HAWK) de 281,1 mm2 de sección y 21,8 mm de diámetro.
+El aislamiento de las fases de los apoyos de suspensión está constituido por cadenas
+simples con un bastón de goma de silicona. Las cadenas horizontales de amarre están
+formadas también por un bastón de goma de silicona.
+Las cimentaciones de los apoyos tipo arce, cóndor, drago y semi son independientes
+para cada pata del apoyo de hormigón en masa. Las cimentaciones de los apoyos tipo
+álamo, olmo, halcón y haya son monobloque de hormigón en masa.
+Línea Salinas-Corralejo:
+El desmantelamiento de la línea consiste en el desmontaje de 88 apoyos desde la
+subestación de Salinas, ubicada en el término municipal de Puerto del Rosario hasta la
+subestación de Corralejo, ubicada en el término municipal de La Oliva.
+La longitud total del tramo a desmantelar es de 22,88 kilómetros (Puerto del Rosario
+7,71 km y La Oliva 15,17 km).
+El cable de tierra convencional es del tipo AC-50 de 49,5 mm2 de sección y 9,00 mm
+de diámetro.
+Los apoyos entre el n.º 1 y n.º 81 de la línea a desmontar son para líneas de simple
+circuito a 66 kV, las fases se disponen al tresbolillo y el cable de tierra se sitúa centrado en
+el apoyo sobre la fase superior. La distancia vertical entre crucetas y la altura de la cúpula
+del cable de tierra varía en función del tipo de apoyo.
+Los apoyos entre el n.º 5B y 11B de la línea a desmontar son para líneas doble circuito a
+66 kV, las fases se disponen en doble bandera con una distancia vertical de 2,50 m. El cable
+de tierra se sitúa centrado en el apoyo sobre las fases superiores a una distancia de 3,70 m.
+La línea comparte estos apoyos con el circuito a 66 kV Salinas-Gran Tarajal, objeto de otro
+proyecto de desmantelamiento.
+Línea Salinas-Gran Tarajal:
+El desmantelamiento de la línea consiste en el desmontaje de 151 apoyos desde la
+subestación de Salinas, ubicada en el término municipal de Puerto del Rosario hasta la
+subestación de Gran Tarajal, ubicada en el término municipal de Tuineje.
+La longitud total del tramo a desmantelar es de 39,07 kilómetros (Puerto del Rosario
+13,69 km, Antigua 12,67 km y Tuineje 12,71 km).
+El cable de tierra convencional es del tipo AC-50 de 49,5 mm2 de sección y 9,00 mm
+de diámetro.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34939 Lunes 21 de septiembre de 2026
+Los apoyos entre el n.º 12 y n.º 151 de la línea a desmontar son para líneas de simple
+circuito a 66 kV, las fases se disponen al tresbolillo y el cable de tierra se sitúa centrado en
+el apoyo sobre la fase superior. La distancia vertical entre crucetas y la altura de la cúpula
+del cable de tierra varía en función del tipo de apoyo.
+Los apoyos entre el n.º 5B y 11B de la línea a desmontar son para líneas doble circuito a
+66 kV, las fases se disponen en doble bandera con una distancia vertical de 2,50 m. El cable
+de tierra se sitúa centrado en el apoyo sobre las fases superiores a una distancia de 3,70 m.
+La línea comparte estos apoyos con el circuito a 66 kV Salinas-Corralejo, objeto de otro
+proyecto de desmantelamiento.
+Línea Gran Tarajal-Matas Blancas:
+El desmantelamiento de la línea consiste en el desmontaje de 105 apoyos desde la
+subestación de Gran Tarajal, ubicada en el término municipal de Tuineje hasta la subestación
+de Matas Blancas, ubicada en el término municipal de Pájara.
+La longitud total del tramo a desmantelar es de 31,92 kilómetros (Tuineje 13,18 km y
+Pájara 18,74 km).
+El cable de tierra convencional es del tipo 7n8 AWG de 58,6 mm2 de sección y 9,78
+mm de diámetro.
+Los apoyos de la línea a desmontar son para líneas de simple circuito a 66 kV, las fases
+se disponen al tresbolillo y el cable de tierra se sitúa centrado en el apoyo sobre la fase
+superior. La distancia vertical entre crucetas y la altura de la cúpula del cable de tierra varía
+en función del tipo de apoyo.
+4.º) Informes solicitados y respuestas recibidas.
+Durante la tramitación del expediente, se ha solicitado informe a los siguientes
+organismos y entidades:
+4.1) Red Eléctrica de España, S.A.U.- Operador del Sistema: con fecha 21 de octubre
+de 2024 se recibe informe en el que se concluye lo siguiente:
+• La línea de 66 kV Salinas-Oliva, será preciso que se produzca, con carácter previo,
+la puesta en servicio de un circuito adicional de 66 kV entre las subestaciones Salinas y
+Puerto del Rosario.
+• La línea de 66 kV Salinas-Gran Tarajal, será preciso que se produzca, con carácter
+previo, la puesta en servicio de un circuito adicional de 66 kV entre las subestaciones
+Salinas y Puerto del Rosario, del doble circuito de 132 kV hasta la subestación de 132 kV
+Gran Tarajal y los dos transformadores 132/66 kV que conectan ambos niveles de tensión
+en la SE Gran Tarajal.
+• La línea de 66 kV Gran Tarajal-Matas Blancas, será preciso que se produzca, con
+carácter previo, la puesta en servicio del doble circuito de 132 kV desde Puerto del Rosario
+hasta la subestación de 132 kV Matas Blancas, del segundo transformador 132/66 kV que
+conecta ambos niveles de tensión en las subestaciones de Matas Blancas y, al menos, uno de
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34940 Lunes 21 de septiembre de 2026
+los transformadores 132/66 kV que conectan ambos niveles de tensión en las subestaciones
+de Gran Tarajal.
+4.2) Ayuntamiento de Antigua: se solicita emisión de informe en un plazo máximo de
+veinte días, mediante oficio de fecha 24 de septiembre de 2024, constando acuse de recibo
+de fecha 25 de septiembre de 2024, sin que se haya recibido respuesta.
+4.3) Ayuntamiento de La Oliva: se solicita emisión de informe en un plazo máximo de
+veinte días, mediante oficio de fecha 24 de septiembre de 2024, constando acuse de recibo
+del mismo día, sin que se haya recibido respuesta.
+4.4) Ayuntamiento de Pájara: con fecha 9 de enero de 2025 se recibe certificación
+del Decreto n.º 28/2025, de 3 de enero, en el que se informa favorablemente el proyecto
+de desmantelamiento, condicionado a que se cumplan las siguientes medidas técnicas y
+ambientales:
+Se deberán concretar en mayor medida las labores de desmontaje y una previsión
+específica de actuación en las zonas donde la línea actual sobrevuela o afecta a
+construcciones, especialmente en el núcleo urbano de Costa Calma, donde existen varias
+torres, incluso dentro de parcelas edificadas. Deberá de procurarse minimizar las molestias
+a los residentes, coordinando los trabajos de manera adecuada, en colaboración con la
+Policía Local, en caso de afectar al uso de espacios públicos.
+Debería contemplarse expresamente la renaturalización del entorno de los apoyos y
+los accesos a torretas que no sean utilizados como caminos públicos o privados, en suelo
+rústico, así como la reposición de asfaltado en la torre que ocupa espacio público de la calle
+Las Arenas.
+Se deberá proceder a la demolición y gestión de residuos de las cimentaciones de
+hormigón de los apoyos. Deberá cumplirse con la normativa de accesibilidad vigente,
+Ley 18/1995, de 6 de abril, de accesibilidad y supresión de barreras físicas, de la Comunidad
+Autónoma de Canarias, así como la Orden TMA/851/2021, de 23 de julio, por la que se
+desarrolla el documento técnico de condiciones básicas de accesibilidad y no discriminación
+para el acceso y la utilización de los espacios públicos urbanizados.
+Se estima que deberá concretarse la fecha y plazos en los que se procederá a la realización
+del desmantelamiento. Debería diferenciarse en fases, al menos a nivel de presupuesto, las
+obras que se ejecutan dentro de los distintos municipios afectados por el proyecto, para
+cuantificar la inversión en cada municipio y facilitar el cobro de tasas o impuestos, si fuese
+necesario.
+Como condicionante a la hora de la ejecución del proyecto, y como medidas de
+protección del medio ambiente, deberá observarse el cumplimiento de los condicionantes
+de la Declaración de Impacto Ambiental del proyecto de la línea de 132, realizando el
+seguimiento ambiental previsto, así como las siguientes cuestiones, que fueron indicadas
+en los informes técnicos municipales en el trámite de aprobación del proyecto:
+Las emisiones de polvo asociadas a las obras deberán ser eficazmente corregidas
+mediante el riego de las superficies expuestas en las excavaciones de zanjas. La utilización
+de agua se dosificará adecuadamente para adaptarse a las condiciones ambientales existentes
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34941 Lunes 21 de septiembre de 2026
+en cada momento, debiéndose intensificar la aplicación de riego en caso de condiciones
+adversas (por ejemplo, presencia de viento intenso, de calima, etc.), de modo que se evite
+la puesta de polvo en suspensión.
+Habrá que tenerse en cuenta el cumplimiento de la Ordenanza municipal reguladora
+para la protección del medio ambiente contra ruidos y vibraciones.
+Se tomarán las medidas necesarias para evitar que durante las obras se produzcan
+vertidos accidentales de aceites y/o gasoil (maquinaria de obras) que puedan contaminar
+las aguas superficiales, subterráneas y el sustrato natural.
+En caso de ocurrencia de vertido accidental se procederá, con carácter inmediato y por
+parte de gestor autorizado, a su retirada junto con el sustrato que haya quedado impregnado,
+y a su posterior traslado a vertedero autorizado. Se vigilará, previamente a la realización de
+las obras, que no se afecta a especies naturales protegidas, ni se ponen en peligro ejemplares
+de reptiles u otras especies existentes en la zona, procediendo en ese caso a su reubicación.
+En todo momento se evitará afectar al espacio exterior al estrictamente delimitado por las
+acciones proyectadas.
+Se velará especialmente de no invadir con acopios de tierras o materiales, y el tránsito
+de vehículos y maquinaria para la realización de las obras se realizará a través de las vías
+existentes, evitando el tráfico o la estancia sobre áreas externas a la superficie delimitada
+por el proyecto.
+Una vez finalizadas las obras, no deben quedar restos e indicios de las mismas,
+efectuándose la restauración de todos o aquellos sectores externos a la superficie que
+hubiesen quedado por accidentes afectados.
+Deberán obtenerse las autorizaciones sectoriales que correspondan, como la del Consejo
+Insular de Aguas, si se afecta a cauces de barranco, o de la administración competente en
+materia de carreteras, al afectar a carreteras de interés regional, así como cualquier otra que
+sea necesaria en aplicación de la legislación específica.
+Con fecha 24 de enero de 2025, Red Eléctrica presentó escrito con referencia
+DADI/TR/25-0041 en respuesta al informe municipal, en el que manifestó lo siguiente:
+1. Respecto a completar el proyecto mediante la concreción de las labores de
+desmontaje y previsión específica de actuación en las zonas donde la línea actual sobrevuela
+construcciones, en concreto, en el núcleo urbano de Costa Calma, procurando minimizar
+las molestias en colaboración con la Policía Local será elaborado por el contratista
+adjudicatario de los trabajos, que deberá dejarlo reflejado en el Plan/Procedimiento de
+Seguridad de PRER y será el responsable de la ejecución de los mismos.
+2. Respecto a contemplar expresamente la renaturalización del entorno de los apoyos
+y accesos a torretas que no sean utilizados como caminos públicos o privados, esto está
+contemplado en el “Estudio Ambiental del desmantelamiento de la línea a 66 kV Gran
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+obras que no se afecta a especies naturales protegidas, ni se ponen en peligro ejemplares de
+reptiles u otras especies existentes en la zona, procediendo en ese caso a su reubicación. En
+todo momento se evitará afectar al espacio exterior al estrictamente delimitado por las
+acciones proyectadas.
+Se velará especialmente de no invadir con acopios de tierras o materiales, y el tránsito de
+vehículos y maquinaria para la realización de las obras se realizará a través de las vías
+existentes, evitando el tráfico o la estancia sobre áreas externas a la superficie delimitada por
+el Proyecto.
+Una vez finalizadas las obras, no deben quedar restos e indicios de las mismas,
+efectuándose la restauración de todos o aquellos sectores externos a la superficie que
+hubiesen quedado por accidentes afectados.
+Deberán obtenerse las autorizaciones sectoriales que correspondan, como la del Consejo
+Insular de Aguas, si se afecta a cauces de barranco, o de la administración competente en
+materia de carreteras, al afectar a carreteras de interés regional, así como cualquier otra que
+sea necesaria en aplicación de la legislación específica.
+Con fecha 24 de enero de 2025, Red Eléctrica presentó escrito con referencia DADI/TR/25-
+0041 en respuesta al informe municipal, en el que manifestó lo siguiente:
+1. Respecto a completar el proyecto mediante la concreción de las labores de
+desmontaje y previsión específica de actuación en las zonas donde la línea actual
+sobrevuela construcciones, en concreto, en el núcleo urbano de Costa Calma,
+Boletín Ofici p a r l o d c e u C ra an n a d r o ia s m n i ú n m im . i 1 z 8 a 9 r las molestias e3n4 9c4o2laboración con la Policía LoLcaunl esse 2rá1 deel asbepotriaemdob re de 2026
+por el contratista adjudicatario de los trabajos, que deberá dejarlo reflejado en el
+Plan/Procedimiento de Seguridad de PRER y será el responsable de la ejecución de los
+mismos.
+Tarajal-Matas Blancas”, así como la reposición de asfaltado de la torre que ocupa el espacio
+2. Respecto a contemplar expresamente la renaturalización del entorno de los apoyos y
+públicoa dcec elas ocsa lale t oLrraest aAsr eqnuaes .no sean utilizados como caminos públicos o privados, esto está
+contemplado en el “Estudio Ambiental del desmantelamiento de la línea a 66 kV Gran
+3. RTeasrpaejaclt o– aM patraosc eBdlaenr caa sla”, daesmí coolimcioó nla y r egpeosstiicóinón d ed er eassifdaultoasd od ed ela l ac itmorerent aqcuieó no,c utopma ae l
+espacio público de la calle Las Arenas.
+razón de lo indicado.
+3. Respecto a proceder a la demolición y gestión de residuos de la cimentación, toma
+4. Rreaszpóenc dtoe alol pinrdesicuapduoe. sto desglosado por términos municipales se informa lo siguiente:
+4. Respecto al presupuesto desglosado por términos municipales se informa lo siguiente:
+Término Municipal Presupuesto Proyecto
+PÁJARA 362.770,31 €
+TUINEJE 537.602,01 €
+ANTIGUA 260.639,93 €
+PUERTO DEL ROSARIO 431.537,77 €
+LA OLIVA 339.905,98 €
+5. Respecto al apartado “g) Como condicionante a la hora de la ejecución del proyecto,
+y como medidas de protección del medio ambiente, deberá observarse el cumplimiento 6
+de los condicionantes de la Declaración de Impacto Ambiental del proyecto de la línea
+En la direcciódn hett p1s:/3/se2d,e .groebiaerlniozdeacannadrioas .oergl/s esdee/gveurifiicma_dioec?ncotdoig oa_nmde=biental previsto, así como las siguientes cuestiones,
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento elqecutróen icfou siegurieontne: indicadas en los informes técnicos municipales en el trámite de aprobación del
+0Gtyqg9MN6nt-EFMPfUfg8jQe4Jld2HjW
+proyecto: (…)”, de ruidos, polvo, residuos, a tener en cuenta durante las obras, se toma
+razón de lo informado, con el compromiso de cumplimiento de estas medidas por parte de
+Red Eléctrica.
+4.5) Ayuntamiento de Puerto del Rosario: se solicita emisión de informe en un plazo
+máximo de veinte días, mediante oficio de fecha 24 de septiembre de 2024, constando
+acuse de recibo del mismo día, sin que se haya recibido respuesta.
+4.6) Ayuntamiento de Tuineje: se solicita emisión de informe en un plazo máximo de
+veinte días, mediante oficio de fecha 24 de septiembre de 2024, constando acuse de recibo
+del mismo día, sin que se haya recibido respuesta.
+4.7) Cabildo Insular de Fuerteventura: con fecha 23 de octubre de 2024 se recibe
+informe de los siguientes servicios:
+- Servicio de Ordenación del Territorio: informan que las actuaciones a realizar que
+consisten en el desmantelamiento de la línea de transporte de energía de 66 kV simple
+circuito y los apoyos, en los tramos Salinas-Corralejo, Gran Tarajal-Matas Blancas y
+Salinas-Gran Tarajal, deberán cumplir con lo dispuesto en el artículo 97 del PIOF-PORN,
+así como cuidar la afección que con la maquinaria de desmontaje se pueda realizar en el
+territorio, tanto en los elementos esenciales para la agricultura tradicional (caños, trastones
+de las gavias y muros de piedra seca), como en el patrimonio cultural, en áreas de malpaís
+y en general en el medio natural y el paisaje.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34943 Lunes 21 de septiembre de 2026
+- Servicio de Patrimonio Cultural: solicitan que se les aporte las coordenadas kmz
+de las líneas a desmantelar y un estudio de impacto arqueológico para cada proyecto de
+desmantelamiento.
+Con fecha 11 de septiembre de 2025, el promotor remite los informes de prospecciones
+arqueológicas y con fecha 11 de agosto de 2025, las coordenadas kmz de las líneas a
+desmantelar.
+Con fecha 11 de agosto de 2025 informan que el desmantelamiento de la línea aérea
+de transporte de energía eléctrica a 66 kV entre las subestaciones de Corralejo y Matas
+Blancas es compatible con la protección de los elementos del patrimonio cultural de
+Fuerteventura, debiendo aplicarse obligatoriamente las medidas preventivas, generales y
+específicas señaladas en los documentos de Evaluación Patrimonial aportados; además,
+deberá estudiarse la posible afección de los bienes referidos en el punto séptimo de este
+informe, implementando medidas para su conservación, si fuera necesario. En cuanto a
+los Bienes de Interés Cultural afectados, se reitera lo indicado en el punto cuarto, será la
+Comisión de Patrimonio Cultural la que dictamine favorablemente o no las intervenciones
+planteadas en los mismos.
+- Servicio de Medio Ambiente: consideran que no se detallan aspectos importantes
+como resultan ser los accesos necesarios para llegar a los apoyos, diferenciando los accesos
+existentes de aquellos de nueva creación, que no se pormenorizan sus actuaciones y que
+no evalúan las repercusiones de sus actuaciones sobre los espacios protegidos de la Red
+Natura 2000 teniendo en cuenta los objetivos de conservación de cada lugar, que incluya
+los referidos impactos, así como las correspondientes medidas preventivas, correctoras.
+Con fecha 31 de octubre de 2024 y referencia DADI/TR/24-1258, el promotor presenta
+escrito respondiendo lo siguiente:
+- Que la parte ambiental de estos proyectos se entregó a la Administración en 2014
+como parte del proceso de evaluación de impacto ambiental de las líneas de 132 kV. Se
+adjunta copia del registro.
+- Que se va a realizar el estudio de impacto arqueológico solicitado. Para ello se ha
+contratado a la empresa Tibicena, S.L., quien deberá obtener previamente la autorización
+administrativa por parte de la Dirección General de Patrimonio Cultural del Gobierno
+de Canarias. Se trata de una prospección de 100 km de líneas, más los correspondientes
+accesos que ya ha sido solicitada y cuyo justificante se adjunta a la presente comunicación.
+Con fecha 11 de julio de 2025, el promotor presenta el informe de prospección
+arqueológica que es remitido al Cabildo Insular de Fuerteventura el 15 de julio de 2025, y
+con fecha 11 de agosto de 2025, las coordenadas kmz de las líneas a desmantelar.
+Con fecha 11 de agosto de 2025, el Cabildo informa que el desmantelamiento de la
+línea aérea de transporte de energía eléctrica a 66 kV entre las subestaciones de Corralejo
+y Matas Blancas es compatible con la protección de los elementos del patrimonio cultural
+de Fuerteventura, debiendo aplicarse obligatoriamente las medidas preventivas, generales
+y específicas señaladas en los documentos de Evaluación Patrimonial aportados; además,
+deberá estudiarse la posible afección de los bienes referidos en el punto séptimo de este
+informe, implementando medidas para su conservación, si fuera necesario. En cuanto a
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34944 Lunes 21 de septiembre de 2026
+los Bienes de Interés Cultural afectados, se reitera lo indicado en el punto cuarto, será la
+Comisión de Patrimonio Cultural la que dictamine favorablemente o no las intervenciones
+planteadas en los mismos.
+Con fecha 13 de agosto de 2025, el promotor responde lo siguiente:
+- Que, por medio del presente escrito, se toma razón de su informe favorable dado que
+el proyecto es compatible con la protección de los elementos del patrimonio cultural de
+Fuerteventura.
+- Que, igualmente, se confirma la aplicación, por parte de esta compañía, de las
+medidas preventivas, generales y específicas señaladas en los documentos de Evaluación
+Patrimonial aportados y se estudiará la posible afección de los bienes referidos en el punto
+séptimo de su informe, implementado medidas para su conservación, si fuera necesario. En
+cuanto a los Bienes de Interés Cultural afectados, se toma razón de que será la Comisión de
+Patrimonio Cultural la que dictamine favorablemente o no las intervenciones planteadas.
+- En base a lo anterior, se ruega a la Dirección General de Energía continúe los trámites
+en curso al objeto de obtener la resolución interesada.
+Con fecha 26 de septiembre de 2025 se notifica la Resolución 6856/2025, del Consejero
+del Área Insular de Cultura, Patrimonio Cultural e Innovación, en la que se resuelve:
+“Primero.- Autorizar el proyecto de desmantelamiento de la línea aérea de transporte
+66kv entre las subestaciones de Matas Blancas y la Subestación de Corralejo.
+Segundo.- La presente autorización queda condicionada a la implementación de las
+medidas preventivas generales y específicas siguientes: medidas preventivas de carácter
+general: las delimitaciones de bienes patrimoniales deben considerarse en cualquier
+modificación del proyecto para no alterar las valoraciones de impacto. Estas áreas no pueden
+ser invadidas por maquinaria pesada. Hay excepciones para delimitaciones que coinciden
+con infraestructuras evaluadas, donde se aplicarán medidas específicas para compatibilizar
+las obras con la protección del Patrimonio Histórico. La aparición de vestigios patrimoniales
+ocultos provocará la paralización inmediata de las obras y comunicarse al Servicio de
+Patrimonio Cultural del Cabildo de Fuerteventura.
+Todas las actuaciones de medidas preventivas específicas deben comunicarse
+previamente a dicha administración para que realice inspecciones. Los programas de
+vigilancia arqueológica y las acciones preventivas específicas deben documentarse en
+informes entregados a la administración para verificar el cumplimiento y la no afección
+al Patrimonio Histórico una vez finalizadas las obras. Medidas preventivas de carácter
+específico: balizamiento, con anterioridad a cualquier tipo de actuación en el entorno del
+bien patrimonial. Señalización, acompaña al balizado e informa de la existencia del bien,
+de los procedimientos a seguir en el entorno y las consecuencias de un incumplimiento de
+las determinaciones para su protección. Vigilancia en fase de obra, con el fin de prevenir
+afecciones y ante el surgimiento de elementos ocultos, se realizarán, como las anteriores, por
+personal especialista en Arqueología y Patrimonio Histórico. Adaptaciones en ingeniería
+de detalle y fase de obra son adaptaciones puntuales del proyecto en fase de obra, o con
+anterioridad para los elementos cuya distancia a trabajos de construcción sea mínima.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34945 Lunes 21 de septiembre de 2026
+Tercero.- La presente autorización se limita exclusivamente a las actuaciones que se
+desarrollen dentro de la delimitación de los Bienes de Interés Cultural afectados: Barranco
+de Tinojay, el Barranco del Cavadero y la Pared de Jandía”.
+Con fecha 21 de julio de 2026 se recibe informe del Servicio de Medio Ambiente en el
+que se indica que deberá acreditarse jurídicamente la no caducidad de las declaraciones de
+impacto ambiental y en caso de confirmación de caducidad someter a evaluación ambiental
+el proyecto en la categoría que corresponda.
+El promotor, con fecha 30 de julio de 2026 y referencia DADI/TR/26-0906, manifiesta
+lo siguiente:
+- Que Red Eléctrica ha cumplido con todos estos condicionantes y tiene en trámite
+administrativo las autorizaciones administrativas necesarias para poder llevar a cabo los
+citados desmantelamientos.
+- Que la construcción del eje de 132 kV era imprescindible para poder llevar a cabo las
+actuaciones de desmantelamiento del eje de 66 kV para poder cumplir con la garantía del
+suministro de energía a la isla de Fuerteventura que es la máxima y primordial obligación
+que tiene encomendada por ley esta compañía.
+- Que la finalización de las obras del eje de 132 kV se ha visto suspendida durante
+5 años como consecuencia del recurso contencioso-administrativo interpuesto por este
+Cabildo Insular de Fuerteventura.
+- Que, una vez resuelto ese procedimiento contencioso, Red Eléctrica ha podido poner
+en servicio todo el eje de 132 kV, como decimos, en cumplimiento de sus obligaciones
+legales.
+- Que se encuentran en trámite administrativo este proyecto y el resto de los tramos
+para obtener las resoluciones que permitan el desmantelamiento del eje de 66 kV.
+4.8) Dirección General del Medio Natural del Gobierno de Canarias: con fecha 7 de
+enero de 2025 se recibe informe con las siguientes conclusiones:
+“Primera.- No es previsible que el proyecto de desmantelamiento del conjunto del eje
+eléctrico de la línea de 66 kV Corralejo-Matas Blancas tenga un efecto negativo relevante
+sobre los espacios integrantes de la Red Natura 2000 designados en función de la Directiva
+79/409/CEE del Consejo, relativa a la Conservación de las Aves Silvestres (DOCE n.º 103,
+de 25.4.1979, derogada por la Directiva 2009/147/CE del Parlamento Europeo y del Consejo,
+de 30 de noviembre de 2010, o la Directiva 92/43/CEE del Consejo, de 21 de mayo de 1992,
+relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres (DO L
+n.º 206, de 22.7.1992), ni tampoco sobre los componentes de la biodiversidad descritos en
+los apartados 5 y 6 de este informe, siempre y cuando se cumplan las siguientes condiciones:
+• El proyecto de desmantelamiento se deberá ajustar a las actuaciones descritas en los
+correspondientes Estudios Ambientales del Desmantelamiento de los tramos de la Línea
+66 kV Salinas-Gran Tarajal, Gran Tarajal-Matas Blancas y Salinas-Corralejo.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34946 Lunes 21 de septiembre de 2026
+• Se deberán adoptar todas las medidas y actuaciones preventivas y correctoras previstas
+en los citados Estudios Ambientales, especialmente aquellas referidas a la apertura de
+viales, tránsito de la maquinaria y la ubicación de acopios.
+• Las obras de desmantelamiento se llevarán a cabo fuera de las épocas de cría de las
+especies de fauna protegidas, especialmente en aquellas zonas identificadas como zonas de
+interés faunístico, preferentemente entre los meses de julio y diciembre, ambos incluidos.
+• De igual modo, tal y como se recoge en los distintos documentos ambientales, previo
+a las labores de desmantelamiento se procederá a la realización de una prospección para
+la detección de nidos (especialmente de cuervos), debiendo solicitar la correspondiente
+autorización de acuerdo con lo dispuesto en el artículo 61 de la Ley 42/2007, de 13 de
+diciembre, del Patrimonio Natural y de la Biodiversidad. En todo caso, la retirada de los
+nidos se hará entre los meses de julio y diciembre, ambos incluidos, y en el caso de que al
+ir a retirarlos, alguno de los nidos se encontrara ocupado con pollos o adultos incubando,
+debe esperarse a que acaben su ciclo reproductivo.
+• Se deberán llevar a cabo todas las actuaciones y labores de restauración tras el
+desmantelamiento previstas en los estudios ambientales, así como las acciones de
+protección de la vegetación de especial interés, de control de la afección a la fauna y control
+de las labores de restauración tras el desmantelamiento, previstas en los correspondientes
+programas de Seguimiento Ambiental.
+Segunda.- Sin perjuicio de lo expuesto en el apartado anterior, y atendiendo el tiempo
+transcurrido desde la elaboración de los proyectos de desmantelamiento (abril de 2016)
+y los Estudios Ambientales que los acompañan (septiembre 2014), se entiende necesario
+que, con carácter general y previamente al inicio de las actuaciones para el desmonte de
+los apoyos y los conductores, se lleve a cabo una prospección del conjunto del ámbito
+afectado directamente por el proyecto para identificar la presencia de componentes de la
+biodiversidad no inventariados previamente, especialmente en lo que se refiere a especies
+protegidas de la flora y la fauna, y comunidades vegetales de interés.
+Tercera.- Respecto al mantenimiento de apoyos para su uso como dormideros por parte
+de los guirres y, en particular, al cumplimiento del Condicionante 8 de la DIA del proyecto
+“Refuerzo del Eje de Transporte Eléctrico a 66 kV por cambio de tensión a 132 kV de la
+línea eléctrica AT12/16, entre Subestación de Gran Tarajal y Salinas de 13 de julio de 2013,
+atendiendo a los datos de seguimiento de esta especie llevado a cabo por la Dirección
+General de Espacios Naturales y Biodiversidad, se propone el mantenimiento de los apoyos
+que se recogen en la tabla siguiente:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Segunda.- Sin perjuicio de lo expuesto en el apartado anterior, y atendiendo el tiempo
+transcurrido desde la elaboración de los proyectos de desmantelamiento (Abril de 2016) y los
+Estudios Ambientales que los acompañan (Septiembre 2014), se entiende necesario que, con
+carácter general y previamente al inicio de las actuaciones para el desmonte de los apoyos y
+los conductores, se lleve a cabo una prospección del conjunto del ámbito afectado
+directamente por el proyecto para identificar la presencia de componentes de la biodiversidad
+no inventariados previamente, especialmente en lo que se refiere a especies protegidas de la
+flora y la fauna, y comunidades vegetales de interés.
+Tercera.- Respecto al mantenimiento de apoyos para su uso como dormideros por parte de
+los guirres y en particular, al cumplimiento del Condicionante 8 de la DIA del Proyecto
+“Refuerzo del Eje de Transporte Eléctrico a 66 kV por cambio de tensión a 132 kV de la línea
+eléctrica AT12/16, entre Subestación de Gran Tarajal y Salinas de 13 de julio de 2013,
+Boletína Otefincdiaiel nded oC aana rloiass ndúamto. s18 d9e seguimiento 3d4e9 4e7sta especie llevado a caboL upnoers l2a1 dDei rseecpctiieómnb re de 2026
+General de Espacios Naturales y Biodiversidad, se propone el mantenimiento de los apoyos
+que se recogen en la Tabla siguiente:
+Tramo N.º Apoyos Apoyos UTM X UTM Y
+Gran Tarajal - Matas Blancas 1 66GTR-MTB-26 590262,74 3124645,46
+66LSL-GTR-44 604309,12 3150279,14
+66LSL-GTR-45 604135,89 3150103,73
+66LSL-GTR-61 600912,68 3146839,47
+66LSL-GTR-77 599278,8 3143499,56
+Salinas - Gran Tarajal 8
+66LSL-GTR-85 598849,59 3141433,68
+66LSL-GTR-87 598736,2 3140888,49
+66LSL-GTR-88 598680,56 3140621,42
+66LSL-GTR-95 598328,52 3138927,88
+66CRJ-LSL-22 610865,07 3159809,28
+66CRJ-LSL-47 612354,35 3167264,49
+Corralejo - Salinas 5 66CRJ-LSL-48 612400,39 3167496,56
+66CRJ-LSL-59 611810,34 3169986,34
+66CRJ-LSL-64 610909,2 3170851,76
+Cuarta.- En lo que respecta a las especies exóticas invasoras señaladas en el apartado
+Cuarta. En lo que respecta a las especies exóticas invasoras señaladas en el apartado 7 de
+7 de este informe, en las medidas de restauración se deberán implementar, en su caso,
+este informe, en las medidas de restauración se deberán implementar, en su caso, medidas
+medidas de control y eliminación a fin de evitar su dispersión”.
+de control y eliminación a fin de evitar su dispersión.
+CConon f efcehcaha 1 199 ddee ffeebbrreeroro ddee 22002255 ,e el l pprorommotootro rp rperseesnetnata u unn e essccrirtioto e enn eell qquuee ppoonnee ddee
+manifiesto las cuestiones jurídicas relativas a la posibilidad del mantenimiento de los apoyos:
+manifiesto las cuestiones jurídicas relativas a la posibilidad del mantenimiento de los
+apoay)os:El desmantelamiento de la instalación supone que decae la declaración, en concreto, de
+utilidad pública de la instalación en base a lo determinado en el artículo 155 del Real Decreto
+1a9)5 5E/l2 d00e0sm, adnet e1la mdeie ndtioc iedme blar ei,n sptaolra ceiló nq usuep osene rqeugeu ldanec alaes l aa dceticvlidaaradceisó nd, een t rcaonnscproerttoe,,
+de utilidad pública de la instalación en base a lo determinado en el artículo 155 del Real
+Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte,
+distribución, comercialización, suministro y procedimientos de autorización de instalaciones
+11
+de energía eléctrica, y, por tanto, será necesario que el Gobierno de Canarias disponga de
+los mutuos acuerdos de los particulares titulares de las fincas sobre las que están instalados
+En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
+puede ser comlporobsa daa plao auyteontsici dcado dne eestal cfiopnia, dmeed iarnetec eal nbúmaerro sdeu autorización, en su caso.
+documento electrónico siguiente:
+0Gtyqg9MN6nt-EFMPfUfg8jQe4Jld2HjW
+b) Será necesaria la firma de un convenio suscrito entre Red Eléctrica y el Gobierno
+de Canarias para la transferencia de la titularidad, responsabilidad y mantenimiento de los
+apoyos.
+c) Será necesaria la firma de un acta de transferencia, igualmente, desde el momento en
+que se haga efectivo el traspaso de las instalaciones.
+También presenta un análisis del informe técnico de la Dirección General de Espacios
+Naturales y Biodiversidad en el que concluye lo siguiente:
+• Se adoptarán todas las medidas y actuaciones preventivas y correctoras previstas en
+los Estudios Ambientales, especialmente aquellas referidas a la apertura de viales, tránsito
+de la maquinaria y la ubicación de acopios.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34948 Lunes 21 de septiembre de 2026
+• Las obras de desmantelamiento se llevarán a cabo fuera de las épocas de cría de las
+especies de fauna protegidas, especialmente en aquellas zonas identificadas como zonas de
+interés faunístico, preferentemente entre los meses de julio‐diciembre, ambos incluidos.
+• En relación con la identificación de las zonas de interés faunístico donde se propone
+que las obras de desmantelamiento se lleven a cabo fuera de las épocas de cría de las
+especies de fauna protegidas (entre los meses de julio‐diciembre, ambos incluidos), se
+han identificado y justificado tanto las zonas de interés faunístico como aquellas que no
+se consideran de interés, donde sí se podrían realizar las obras durante todo el año, por
+tratarse de zonas antropizadas, que no presentan relevancia o que no constituyen un hábitat
+potencial para dichas especies protegidas.
+• Se procederá a la realización de una prospección para la detección de nidos
+(especialmente de cuervos), debiendo solicitar la correspondiente autorización de acuerdo
+con lo dispuesto en el artículo 61 de la Ley 42/2007, de 13 de diciembre, del Patrimonio
+Natural y de la Biodiversidad. En todo caso, la retirada de los nidos se hará entre los meses
+de julio y diciembre, ambos incluidos, y en el caso de que al ir a retirarlos, alguno de los
+nidos se encontrara ocupado con pollos o adultos incubando, debe esperarse a que acaben
+su ciclo reproductivo.
+• Se comprometen a elaborar a prospección del conjunto del ámbito afectado
+directamente por el proyecto para identificar la presencia de componentes de la biodiversidad
+no inventariados previamente.
+• Se comprometen al mantenimiento de los apoyos seleccionados en el informe.
+• En lo que respecta a las especies exóticas invasoras señaladas en el apartado 7 del
+informe, en las medidas de restauración se implementarán, en su caso, medidas de control
+y eliminación a fin de evitar su dispersión.
+Con fecha 19 de junio de 2025 se recibe un informe de la Dirección General de Espacios
+Naturales y Biodiversidad en respuesta al promotor en el que se tienen las siguientes
+consideraciones:
+“1. De acuerdo con lo recogido en el Documento de análisis del Informe Técnico de la
+Dirección General de Espacios Naturales y Biodiversidad remitido por REE, dicha empresa
+se compromete al cumplimiento del conjunto de condicionantes referidos en el citado
+informe, concretando dos aspectos: por un lado, la identificación de las zonas de interés
+faunístico donde las obras de desmantelamiento se llevarán cabo fuera de las épocas de cría
+de las especies de fauna protegidas y, por otro, las condiciones para proceder a mantener
+apoyos para su uso como dormideros por parte de los guirres (Neophron percnopterus
+majorensis).
+2. En lo que respecta a la identificación de zonas de interés faunístico y la determinación
+de tramos para la realización de paradas biológicas o prospecciones por la presencia de
+especies protegidas indicar:
+• Los criterios utilizados para establecer los tramos del tendido de 66 kV a desmantelar,
+objeto de paradas biológicas o prospecciones previas se consideran adecuados, en particular,
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Con fecha 19 de junio de 2025, se recibe un informe de la Dirección General de Espacios
+Naturales y Biodiversidad en respuesta al promotor en el que se tienen las siguientes
+consideraciones:
+«1. De acuerdo con lo recogido en el Documento de análisis del Informe Técnico de la Dirección
+General de Espacios Naturales y Biodiversidad remitido por REE, dicha empresa se
+compromete al cumplimiento del conjunto de condicionantes referidos en el citado informe,
+concretando dos aspectos: por un lado la identificación de las zonas de interés faunístico donde
+las obras de desmantelamiento se llevarán cabo fuera de las épocas de cría de las especies de
+fauna protegidas y, por otro, las condiciones para proceder a mantener apoyos para su uso
+como dormideros por parte de los guirres (Neophron percnopterus majorensis)
+Boletín Oficial de Canarias núm. 189 34949 Lunes 21 de septiembre de 2026
+2. En lo que respecta a la identificación de zonas de interés faunístico y la determinación de
+tramos para la realización de paradas biológicas o prospecciones por la presencia de especies
+protegidas indicar:
+lo• sL oqsu ec rsitee rrioesfi eurteilinz aad oloss p taerrar ietosrtaiobsle dceer clorísa tdraem gousi rdreel (teNnedoidpoh rdoen 6p6e rkcVn oap dteesrumsa mntealjaorr,e onbsjiest)o
+yd ela ps aáraredaass cbrioítliócgaisc ays eos ptrraotsépgeicccaiso npeasr ap rleav ihaus bsaer ac o(nCshidleamrany daodteisc uuanddousl, aetna pfuaertrictauvlaern, tlousra qeu).e
+Nsoe orebfsietarennte a, sleo se ntetirerintodreio nse dcees carríiao daem gpuliiarrre e (lN peeorpiohdroon d pee lrac npoaprtaedrua se nm ealjo craesnos isd)e ly g luasir ráer edaes
+mcraírtizcoa sa ym eistatrda tdéeglic mase sp adrea jlual ihou, bya rean (Celh claamsoyd doeti sl au nhduublaartaa qfuueer taabveanrqtuurea ee)l. pNeor ioobdsot acnrtíeti,c soe
+entiende necesario ampliar el periodo de la parada en el caso del guirre de marzo a mitad del
+establecido en el avance del plan de recuperación (diciembre-junio).
+mes de julio, y en el caso de la hubara que abarque el periodo crítico establecido en el avance
+del plan de recuperación (diciembre-junio).
+• En el caso de la hubara, con posterioridad a la emisión del informe por parte de REE
+c•o En nl oesl cdaastoos d cee ldai dhousb aproar, ceostne pCoesntetrrioo rDidairde cat ilvao e, mseis ihóan pdreol cinefdoirdmoe a p loar apcatrutea ldizea RciEóEn cdoen l aloss
+ádreaatoss c críetdicidaoss y p eosrt reasttéeg Ciceanst reon D lair eiscltaiv od,e sFeu heart epvroecnetduirdao, aat elan daicetunadloiz aacl icóonm dper loams áetriedaos ecsríttaicdaos
+dye ecsotrnasteérgvicaacsió enn yla l ais ltae nddee Fnuciear terevgernetusirvaa, adtee nldai epnodbol aacli cóonm dper oemsteat iedsop eesctiaed aom deen caoznasdear veanc ilóan
+isyl ala. tDened eesntcai af orermgrae,s isvea ddeeb lean p ocbolnasciidóner daer leossta t reasmpeocsi es iagmueiennatzeasd qau een slea iisnlad.i cDaen eusbtaic faodrmosa ,e sne
+deben considerar los tramos siguientes que se indican ubicados en Áreas Críticas:
+Áreas Críticas:
+Línea Tramo Área crítica
+66CRJ-LSL-9 / 66CRJ-LSL-15
+66 kV Salinas - Corralejo AC-FV4 Las Llanadas
+66CRJ-LSL-28 / 66CRJ-LSL-38
+66LSL-GTR-64 / 66LSL-GTR- 92 AV-FV6 Llanos de Antigua
+66 kV Salinas - Gran Tarajal
+66LSL-GTR-108 / 66LSL-GTR- 127 AV-FV7 Llano Grande
+66 kV Gran Tarajal - Matas Blancas 66GTR-MTB-73 / 66GTR-MTB-77 AV-FV7 Jable de Jandía
+De igual modo, deberán ser objeto de prospección previa en el periodo indicado para la
+De igual modo, deberán ser objeto de prospección previa en el periodo indicado para la hubara,
+hubara, los tramos de la línea eléctrica de 66 kV que se localizan en las Áreas Estratégicas
+los tramos de la línea eléctrica de 66 kV que se localizan en las Áreas Estratégicas siguientes:
+siguientes:
+Línea Tramo Área crítica
+66CRJ-LSL-3 / 66CRJ-LSL-8 A AE-FV5 La Herradura – Valle de Jaifa –
+Llano Pelado
+66 kV Salinas - Corralejo 66CRJ-LSL-16 / 66CRJ-LSL-18
+66CRJ-LSL-34 / 66CRJ-LSL-35
+66CRJ-LSL-39 / 66CRJ-LSL-47
+AE-FV2 Huriamen – La Caldereta
+66CRJ-LSL-59 / 66CRJ-LSL-70
+13
+66LSL-GTR-19 / 66LSL-GTR-40 AE-FV5 La Herradura – Valle de Jaifa –
+66 kV Salinas - Gran Tarajal Llano Pelado
+En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
+puede ser comprobada la autenticidad de esta copia, mediante el núme6ro6 LdeSL-GTR-41 / 66LSL-GTR-51 AV-FV6 El Solador – La Montañeta
+documento electrónico siguiente:
+0Gtyqg9MN6nt-EFMPfUfg8jQe4Jld2HjW 66LSL-GTR-61 / 66LSL-GTR-63
+66 kV Gran Tarajal - Matas Blancas 66GTR-MTB-73 / 66GTR-MTB-77 AV-FV7 Jable de Jandía
+3. En el procedimiento de desmantelamiento de las líneas, se entiende prioritario
+3. En el procedimiento de desmantelamiento de las líneas, se entiende prioritaria abordar la
+raebtiorarddaa rd lea lroesti rcaodnad udcet olroess c poanrdau ecltimoriensa rp laorsa reielismgoinsa dr elo ms oriretaslgidoasd d peo mr coorltiaslióidna qdu peo ar fceoctlais idóen
+fqourme aa fpeacrttiac udlaer fao rlam hau pbaarrtai.c uDlaadra a l ala o pheurbaatirvaa. aDsaodcaia dlaa oap eesrtaat iavcac iaósno, csiea dean taie nedstea qaucec ipóune,d see
+lleenvtaiersned ea qcuaeb op uceodnes idlleervaanrdsoe úan cicaabmo ecnoten spidroesrpanecdcoio únneisc apmreevniatse ptarnotsop eecnc ilaosn eásr eparse vciraítsic taasn tyo
+eesntr alatés gáicreaass pcarríatic laas hyu ebsatrraa tséegñicaalasd paasr ae nla ehlu abpaarart asdeoña alandtearsio er.n Peal raap aerlt addeos maannteterilaomr. iPenatroa eyl
+rdeetisramdaan dteel aloms iaepnotoy oys ,r seít idraedbae rád ea tleonsd eaprsoey ao sl,a ss íp daerabdearsá baitoelnógdiecrasse par elvaiss tapsa reand aloss b tieorlróitogriicoass
+dper ecvríiast adse le gnu ilrores yte errni tloarsi oÁsr edaes cCríraít icdaesl dgeuliimrreita yd aesn p laarsa Álar ehausb aCrarí teinca esl dAevlaimncieta ddeals pplaanr ad ela
+rheucubpaerara ecnió enl i nAdvicaandcaes d eenl pell aanp adreta rdeoc uapneterraiocri.ó n indicadas en el apartado anterior.
+4. En lo que respecta al cumplimiento del condicionante relativo al mantenimiento de
+determinados apoyos para su uso como dormideros por parte de los guirres, se entiende
+necesario que se clarifique a la mayor brevedad posible la viabilidad jurídico-administrativa de
+esta actuación, y que pueden iniciarse las labores de desmantelamiento, en particular, la retirada
+de los conductores para eliminar los riesgos de mortalidad por colisión, sin esperar a la
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+determinación definitiva del protocolo para el cumplimiento del citado condicionante.»
+Con fecha 21 de julio de 2025 el promotor presenta escrito en el que toma razón de lo informado
+por la Dirección General de Espacios Naturales y Biodiversidad indicando que,respecto al
+procedimiento para la conservación de apoyos, hay que estar a lo preceptuado en el siguiente
+artículo del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de
+transporte, distribución, comercialización, suministro y procedimientos de autorización de
+instalaciones de energía eléctrica: Artículo 151. Adquisición por mutuo acuerdo con los
+propietarios de los terrenos donde se quieren conservar los apoyos y sobre los que decae la
+declaración, en concreto, de utilidad pública de la instalación desde el momento en que se
+obtenga la autorización de cierre de la instalación. “En cualquier momento, el solicitante de la
+declaración de utilidad pública podrá convenir libremente con los titulares de los necesarios
+bienes y derechos la adquisición por mutuo acuerdo de los mismos. Este acuerdo, en el
+momento de declararse la utilidad pública de la instalación, adquirirá la naturaleza y efectos
+previstos en el artículo 24 de la Ley de Expropiación Forzosa, causando, por tanto, la
+correspondiente conclusión del expediente expropiatorio. En estos supuestos, el beneficiario de
+la declaración de utilidad pública podrá, en su caso, solicitar de la autoridad competente la
+14
+En la dirección https://sede.gobiernodecanarias.org/sede/verifica_doc?codigo_nde=
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento electrónico siguiente:
+0Gtyqg9MN6nt-EFMPfUfg8jQe4Jld2HjW
+
+Boletín Oficial de Canarias núm. 189 34950 Lunes 21 de septiembre de 2026
+4. En lo que respecta al cumplimiento del condicionante relativo al mantenimiento de
+determinados apoyos para su uso como dormideros por parte de los guirres, se entiende
+necesario que se clarifique a la mayor brevedad posible la viabilidad jurídico-administrativa
+de esta actuación, y que pueden iniciarse las labores de desmantelamiento, en particular, la
+retirada de los conductores para eliminar los riesgos de mortalidad por colisión, sin esperar
+a la determinación definitiva del protocolo para el cumplimiento del citado condicionante”.
+Con fecha 21 de julio de 2025, el promotor presenta escrito en el que toma razón de lo
+informado por la Dirección General de Espacios Naturales y Biodiversidad indicando que,
+respecto al procedimiento para la conservación de apoyos, hay que estar a lo preceptuado en
+el siguiente artículo del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan
+las actividades de transporte, distribución, comercialización, suministro y procedimientos
+de autorización de instalaciones de energía eléctrica: artículo 151. Adquisición por mutuo
+acuerdo con los propietarios de los terrenos donde se quieren conservar los apoyos y sobre
+los que decae la declaración, en concreto, de utilidad pública de la instalación desde el
+momento en que se obtenga la autorización de cierre de la instalación. “En cualquier
+momento, el solicitante de la declaración de utilidad pública podrá convenir libremente
+con los titulares de los necesarios bienes y derechos la adquisición por mutuo acuerdo de
+los mismos. Este acuerdo, en el momento de declararse la utilidad pública de la instalación,
+adquirirá la naturaleza y efectos previstos en el artículo 24 de la Ley de Expropiación
+Forzosa, causando, por tanto, la correspondiente conclusión del expediente expropiatorio.
+En estos supuestos, el beneficiario de la declaración de utilidad pública podrá, en su
+caso, solicitar de la autoridad competente la aplicación del mecanismo establecido en el artículo
+59 del Reglamento de Expropiación Forzosa”.
+Tras la obtención, por parte del Gobierno de Canarias, de los mutuos acuerdos con
+los particulares para la disponibilidad de los terrenos afectados por los apoyos que se
+quieren conservar, se deberá firmar un convenio con Red Eléctrica en lo relativo a para la
+transferencia de su titularidad, mantenimiento y responsabilidad.
+Con fecha 8 de enero de 2026, desde la Dirección General de Energía se realiza
+una solicitud de informe actualizado sobre el estado de anidamiento de los Neophron
+percnopterus majorensis (guirre) en relación con el proyecto “Desmantelamiento de la
+Línea 66kV, entre las subestaciones de Matas Blancas y Corralejo”.
+Con fecha 17 de marzo de 2026 se recibió un informe del Servicio de Biodiversidad
+que concluye, atendiendo a los datos de seguimiento de la población de guirres de 2025
+obtenidos en el marco de la Orden n.º 200/2023, de 29 de diciembre de 2023, por la que la
+Consejería de Transición Ecológica y Energía encargó a Gestión y Planeamiento Territorial
+y Medio Ambiental (GESPLAN) el servicio denominado “Actuaciones de conservación
+de especies amenazadas de fauna del Archipiélago Canario. Minimización del impacto
+asociado al cambio climático, cofinanciado por el programa Canarias FEDER 2021-2027”,
+se actualiza la relación de apoyos de la línea de 66 kV a mantener como dormideros o zonas
+de agregación nocturna para los guirres de la manera siguiente:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+aplicación del mecanismo establecido en el artículo 59 del Reglamento de Expropiación
+Forzosa”
+Tras la obtención, por parte del Gobierno de Canarias, de los mutuos acuerdos con los
+particulares para la disponibilidad de los terrenos afectados por los apoyos que se quieren
+conservar, se deberá firmar un convenio con Red Eléctrica en lo relativo a para la transferencia
+de su titularidad, mantenimiento y responsabilidad.
+Con fecha 8 de enero de 2026 desde la Dirección General de Energía se realiza una Solicitud de
+informe actualizado sobre el estado de anidamiento de los Neophron percnopterus majorensis
+(guirre) en relación con el Proyecto “Desmantelamiento de la línea 66kV, entre las subestaciones
+de Matas Blancas y Corralejo”.
+Con fecha 17 de marzo de 2026, se recibió un informe del Servicio de Biodiversidad que
+concluye, atendiendo a los datos de seguimiento de la población de guirres de 2025 obtenidos
+en el marco de la Orden Nº 200/2023, de 29 de diciembre de 2023, por la que la Consejería de
+Transición Ecológica y Energía encargó a Gestión y Planeamiento Territorial y Medio Ambiental,
+(GESPLAN), el servicio denominado “Actuaciones de conservación de especies amenazadas de
+fauna del archipiélago Canario. Minimización del impacto asociado al cambio climático,
+Bolectíonf iOnfiacnicaila ddeo C panoarr ieals pnrúomg.r a18m9a Canarias FED3E4R95 12021-2027”, se actualiza la rLeulanceisó 2n1 ddee saeppotiyemosb re de 2026
+de la línea de 66 kV a mantener como dormideros o zonas de agregación nocturna para los
+guirres de la manera siguiente:
+Tramo N.º Apoyos Apoyos UTM X UTM Y
+66LSL-GTR-85 598849,59 3141433,68
+66LSL-GTR-87 598736,2 3140888,49
+Salinas - Gran Tarajal 4
+66LSL-GTR-88 598680,56 3140621,42
+66LSL-GTR-95 598328,52 3138927,88
+66CRJ-LSL-22 610865,07 3159809,28
+66CRJ-LSL-47 612354,35 3167264,49
+66CRJ-LSL-48 612400,39 3167496,56
+Corralejo - Salinas 5 66CRJ-LSL-59 611810,34 3169986,34
+66CRJ-LSL-64 610909,2 3170851,76
+4.9)4 .S9e) rvSiceriov idcieo Imdep aIcmtop aAcmtob iAenmtabli ednet alal Cdeo nlsae jCeroían sdeeje rTíraa ndseic iTórna nEscicoilóóng icEac oyl óEgniecrag íya:
+Ecnoenr gfeíac:h ac o6n d fee cnhovai e6m dbere ndoev 2ie0m25b rsee dreec 2ib0e2 i5n foserm ree cfaibveo rianbfloer am lea feajevcourcaibólne dae llao se jpercouyecciótons
+deen l oloss p tréormyeincotoss ye nco lnodsi ctiéornmesin ionsfo rym caodnadsi cpioorn leas Dinirfeocrcmióand aGse pneorra ll ad eD iErescpcaicóions G Neantuerraalle sd ey
+EBsipoadcivieorss iNdaadtu; rnaole ss iyn Baniotedsiv aedrsviedratidr,; qnuoe s pina raan teels traadmvoer tqiur eq udeis pcuarrrae e pl otrra lma oZ EqPuAe dLilsacnuorsr ey
+pCour clah ilZloEsP Ade L Alanntigous ay, Canutcehsi ldleos i ndieci Aarn ltaisg uoab,r aans tdees ddee sinmicainatre llaams ioebnrtoa,s edle p droeysmecaton tdeelabme iceonntota,r
+con informe favorable, o de no afección a la ZEPA, emitido por el Cabildo de Fuerteventura por
+el proyecto debe contar con informe favorable, o de no afección a la ZEPA, emitido por el
+ser el órgano gestor del espacio protegido.
+Cabildo de Fuerteventura por ser el órgano gestor del espacio protegido.
+FUNDAMENTOS JURÍDICOS
+I. El cierre y desmantelamiento de las instalaciones contempladas en el expediente
+de referencia requiere de autorización administrativa de acuerdo con lo establecido en el
+artículo 35.2 del Reglamento por el que se regulan los procedimientos administrativo1s5
+relativos a la ejecución y puesta en servicio de las instalaciones eléctricas en Canarias,
+En la dirección ahttppsr:/o/sebdae.gdoobie rpnooderc aenalr iDas.oergc/sreedet/ove r1ific4a_1do/c2?c0od0ig9o_,n ddee= 10 de noviembre, y en el resto de normativa vigente,
+puede ser comprobada la autenticidad de esta copia, mediante el número de
+documento elecetrónn icpo saigrutieincteu:lar la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 11/1997,
+0Gtyqg9MN6nt-EFMPfUfg8jQe4Jld2HjW
+de 2 de diciembre, de regulación del Sector Eléctrico Canario; la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas;
+el Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades del
+transporte, distribución, comercialización, suministro y procedimientos de autorización de
+instalaciones de energía eléctrica; el Real Decreto 223/2008, de 15 de febrero, por el que
+se aprueban el Reglamento sobre condiciones técnicas y garantías de seguridad en líneas
+eléctricas de alta tensión y sus instrucciones técnicas complementarias ITC-LAT 01 a 09,
+y el Real Decreto 337/2014, de 9 de mayo, por el que se aprueba el Reglamento sobre
+condiciones técnicas y garantías de seguridad en instalaciones eléctricas de alta tensión y
+sus instrucciones técnicas complementarias ITC-RAT 01 a 23.
+II. De conformidad con el artículo 38 del Reglamento por el que se regulan los
+procedimientos administrativos relativos a la ejecución y puesta en servicio de las
+instalaciones eléctricas en Canarias, aprobado por el Decreto 141/2009, de 10 noviembre,
+el cierre y desmantelamiento de instalaciones de transporte requiere de informe del
+Operador del Sistema sobre la repercusión del cierre de las instalaciones en la cobertura de
+la demanda de la zona afectada o del sistema insular correspondiente.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34952 Lunes 21 de septiembre de 2026
+III. Ley 21/2013, de 9 de diciembre, de evaluación ambiental, que establece el carácter
+vinculante de la Declaración de Impacto Ambiental (DIA) y la obligatoriedad de sus
+condicionantes.
+1. Definición y naturaleza jurídica de la DIA.
+El artículo 5: d) “Declaración de Impacto Ambiental”: informe preceptivo y determinante
+del órgano ambiental con el que finaliza la evaluación de impacto ambiental ordinaria, que
+evalúa la integración de los aspectos ambientales en el proyecto y determina las condiciones
+que deben establecerse para la adecuada protección del medio ambiente y de los recursos
+naturales durante la ejecución y la explotación y, en su caso, el cese, el desmantelamiento
+o demolición del proyecto.
+2. El carácter “preceptivo y determinante”.
+El artículo 41.
+“1. El órgano ambiental, una vez finalizado el análisis técnico del expediente de
+evaluación de impacto ambiental, formulará la declaración de impacto ambiental.
+2. La declaración de impacto ambiental tendrá la naturaleza de informe preceptivo
+y determinante, que concluirá sobre los efectos significativos del proyecto en el medio
+ambiente y, en su caso, establecerá las condiciones en las que puede desarrollarse para la
+adecuada protección de los factores enumerados en el artículo 35.1.c) durante la ejecución
+y la explotación y, en su caso, el cese, el desmantelamiento o demolición del proyecto, así
+como, en su caso, las medidas preventivas, correctoras y compensatorias”.
+3. La eficacia vinculante.
+La Exposición de Motivos señala: “El carácter determinante de los pronunciamientos
+ambientales se manifiesta en una doble vertiente, formal y material. [...] Desde el punto de
+vista material, esto es, en cuanto a la vinculación de su contenido para el órgano que resuelve,
+el carácter determinante de un informe supone, conforme a la reciente jurisprudencia,
+que el informe resulta necesario para que el órgano competente para resolver pueda
+formarse criterio sobre las cuestiones a las que el propio informe se refiere. Este carácter
+determinante se materializa en el mecanismo previsto en esta ley para la resolución de
+discrepancias, de manera que el órgano sustantivo está determinado por el condicionado
+de los pronunciamientos ambientales, pudiendo apartarse motivadamente solo en el ámbito
+de sus competencias y planteando la correspondiente discrepancia ante el Consejo de
+Ministros o el Consejo de Gobierno de la comunidad autónoma correspondiente…”.
+4. Obligación del órgano sustantivo.
+El artículo 42.1: “El órgano sustantivo deberá tener debidamente en cuenta, en el
+procedimiento de autorización del proyecto, que deberá resolverse en un plazo razonable
+la evaluación de impacto ambiental efectuada, incluidos los resultados de las consultas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34953 Lunes 21 de septiembre de 2026
+Por ello, el carácter vinculante de la DIA se traduce en que cualquier incumplimiento
+de sus condicionantes puede dar lugar a la suspensión, modificación o incluso revocación
+de la autorización del proyecto.
+IV. El desmantelamiento de las líneas de 66kV se realiza en cumplimiento de:
+1. Las siguientes Declaraciones de Impacto Ambiental (DIA):
+• Declaración de Impacto Ambiental del proyecto “Ejecución de la línea de transporte de
+energía eléctrica a 132 kV doble circuito Gran Tarajal-Matas Blancas”, “Nueva subestación
+de transporte de energía eléctrica 132 kV DE”, términos municipales de Tuineje y Pájara
+(expte. 2009/1742-CPIA), que en su apartado M) Condicionantes, punto 4.
+• Declaración de Impacto Ambiental del proyecto denominado “Línea aéreo
+subterránea a 132 kV doble circuito entre la subestación Puerto del Rosario (Nueva
+Salinas) y la subestación La Oliva (Nueva Corralejo)”, promovido por Red Eléctrica,
+términos municipales de La Oliva y Puerto del Rosario (expte. 2011/1058), que entre su
+condicionantes (apartado M, punto 8).
+• Declaración de Impacto Ambiental del proyecto “Refuerzo del Eje de Transporte
+Eléctrico a 66 kV por cambio de tensión a 132 kV de la línea eléctrica AT12/016, entre
+Subestación de Gran Tarajal y Salinas”, que también incluía una referencia al desmantelamiento
+de la línea de 66 kV (apartado M. Condicionantes).
+2. Los siguientes informes emitidos por el Servicio de Biodiversidad:
+• Informe de fecha 20 de diciembre de 2024, de la Dirección General de Espacios
+Naturales y Biodiversidad (DGENB), relativo al “Desmantelamiento de la línea de 66 kV
+entre las subestaciones de Matas Blancas y la subestación de Corralejo (expediente n.º
+AT24/021)”.
+• Segundo informe de la Dirección General de Espacios Naturales y Biodiversidad
+de 17 de junio de 2025, relativo al “Desmantelamiento de la línea de 66 kV entre las
+subestaciones de Matas Blancas y la subestación de Corralejo (expediente n.º AT24/021)”.
+• Informe actualizado, de fecha 17 de marzo 2026, emitido por la extinta Dirección
+General de Espacios Naturales y Biodiversidad (DGENB), actualmente Dirección
+General del Medio Natural, relativo al estado de anidamiento de Neophron percnopterus
+majorensis (guirre) en el marco del proyecto “Desmantelamiento de la Línea 66 kV entre
+las subestaciones de Matas Blancas-Corralejo”. Dicho informe actualiza la relación de
+apoyos de la Línea 66 kV que deberán mantenerse como dormideros o zonas de agregación
+nocturna para los guirres en los tramos Corralejo-Salinas, Salinas-Gran Tarajal.
+V. El Decreto 1/2026, de 26 de enero, por el que se aprueba el Reglamento Orgánico
+de la Consejería de Transición Ecológica y Energía y se crea y regula el Consejo para
+la transición energética de Canarias, establece que la Dirección General de Energía
+tiene atribuidas las competencias para la concesión de autorizaciones y la tramitación de
+comunicaciones previas y declaraciones responsables en materia energética, ejerciendo
+exclusivamente sobre las mismas las atribuciones sectoriales en materia de energía.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34954 Lunes 21 de septiembre de 2026
+PROPUESTA DE RESOLUCIÓN
+Primero.- Otorgar la autorización administrativa para el cierre y desmantelamiento de las
+líneas a 66 kV Salinas-Corralejo, Salinas-Gran Tarajal, Gran Tarajal-Matas Blancas, en los
+términos municipales de Antigua, La Oliva, Pájara, Puerto del Rosario y Tuineje,en la isla de
+Fuerteventura, expediente AT24/021, promovido por Red Eléctrica de España, S.A.U., según
+los proyectos “Desmantelamiento de la línea aérea de transporte de energía eléctrica a 66 kV
+simple circuito Salinas-Corralejo” con n.º de visado n.º GC90530/00, “Desmantelamiento de
+la línea aérea de transporte de energía eléctrica a 66 kV simple circuito Salinas-Gran Tarajal”
+con n.º de visado n.º GC90531/00 y “Desmantelamiento de la línea aérea de transporte de
+energía eléctrica a 66 kV simple circuito Gran Tarajal-Matas Blancas” con n.º de visado
+n.º GC90532/00, todos con fecha 3 de junio de 2016, del Colegio Oficial de Ingenieros
+Industriales de Canarias Oriental, de conformidad con lo establecido en el artículo 39 del
+Reglamento por el que se regulan los procedimientos administrativos relativos a la ejecución
+y puesta en servicio de las instalaciones eléctricas en Canarias, aprobado por el Decreto
+141/2009, de 10 de noviembre, y resto de normativa de aplicación.
+Segundo.- La ejecución del desmantelamiento y demolición se ajustará estrictamente a
+los proyectos identificados en la presente Resolución.
+Tercero.- Las obras se ejecutarán de conformidad con los condicionados técnicos
+emitidos por los organismos que se encuentren afectados.
+Cuarto.- Durante el desarrollo y ejecución de las obras de cierre, desmantelamiento,
+demolición y restauración, se deberá cumplir lo establecido en el Real Decreto 1627/1997,
+de 24 de octubre, por el que se establecen disposiciones mínimas de seguridad y salud en
+las obras de construcción.
+Quinto.- La autorización se otorga sin perjuicio de los derechos de terceros y no exime
+al titular de acreditar la disponibilidad de los terrenos y accesos necesarios ni de obtener
+los acuerdos, permisos y autorizaciones que resulten exigibles por otras Administraciones
+y Organismos Públicos.
+Sexto.- En materia de caducidad, se estará a lo dispuesto en el artículo 39 del
+Reglamento aprobado por el Decreto 141/2009, de 10 de noviembre, y en el artículo
+95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+Séptimo.- Previos los trámites legales oportunos, la Administración podrá declarar
+la nulidad de esta autorización si se comprobase la inexactitud de las declaraciones del
+peticionario que figuran en el expediente, conforme a lo dispuesto en el artículo 4.3 del
+Reglamento aprobado por el Decreto 141/2009, de 10 de noviembre, así como en el artículo
+69.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+Octavo.- El plazo máximo para comunicar el cierre y desmantelamiento de la instalación
+será de 18 meses, contados a partir de la notificación de la presente Resolución. Cualquier
+demora deberá ser justificada ante este centro directivo y autorizada expresamente por esta
+Dirección General.
+Noveno.- El mantenimiento de los apoyos identificados en el informe del Servicio de
+Biodiversidad de la Dirección General del Medio Natural, de fecha 17 de marzo de 2026,
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
+
+Boletín Oficial de Canarias núm. 189 34955 Lunes 21 de septiembre de 2026
+destinados a su utilización como dormideros o zonas de agregación nocturna de los guirres,
+quedará condicionado al cumplimiento de las siguientes actuaciones:
+1. El desmantelamiento de esos apoyos requerirá informe previo de esa misma dirección
+general.
+2. Se suscribirá un convenio entre Red Eléctrica y el Gobierno de Canarias para regular
+el mantenimiento de los apoyos.
+Décimo.- Se presentará semestralmente un informe a la Dirección General de Energía
+sobre el estado de los avances de los trabajos del desmantelamiento de las instalaciones, así
+como del cumplimiento de los requisitos establecidos por los distintos organismos.
+Undécimo.- Se retirarán y gestionarán los residuos que resulten del desmantelamiento
+y demolición, según el correspondiente estudio de gestión de residuos.- En Las Palmas de
+Gran Canaria.- La Jefa de Servicio de Transporte y Generación en Régimen Ordinario,
+Alejandra Rodríguez Alloza.
+Vistos los antecedentes mencionados y en virtud de las competencias que me han sido
+conferidas,
+RESUELVO:
+Primero.- Aceptar en todos sus términos la propuesta anterior.
+Segundo.- Notificar la presente Resolución al promotor, al Operador del Sistema, a la
+Dirección General de Calidad Ambiental y a la Dirección General del Medio Natural.
+Tercero.- Publicar esta Resolución en el Boletín Oficial de Canarias.
+Contra la presente Resolución, que no pone fin a la vía administrativa, se podrá
+interponer recurso de alzada ante la Ilma. Sra. Viceconsejera de Transición Ecológica,
+Lucha contra el Cambio Climático y Energía, en el plazo de un mes desde el día siguiente
+a la recepción de la notificación de la misma, conforme a lo establecido en el artículo 122
+de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, sin perjuicio de cualquier otro recurso que pudiera interponerse,
+y por parte de otras Administraciones Públicas podrá formularse requerimiento previo ante
+este mismo órgano en el plazo de dos meses conforme a lo establecido en el artículo 44 de
+la Ley 29/1998, de 13 de julio.
+Este recurso podrá presentarse en la sede electrónica del Gobierno de Canarias, a través
+del procedimiento n.º 7590 (https://sede.gobiernodecanarias.org/sede/tramites/7590).
+Las Palmas de Gran Canaria, a 4 de septiembre de 2026.- El Director General de
+Energía, Alberto Hernández Suárez.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-189-3292
