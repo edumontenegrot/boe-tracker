@@ -1,0 +1,584 @@
+Boletín Oficial de Canarias núm. 190 35038 Martes 22 de septiembre de 2026
+I. Disposiciones generales
+Consejería de Presidencia, Administraciones Públicas, Justicia y Seguridad
+3297 DECRETO 145/2026, de 15 de septiembre, por el que se regula la figura de la
+persona facilitadora para prestar apoyo a las personas con discapacidad y a las
+personas mayores, en las sedes judiciales y fiscales de la Comunidad Autónoma de
+Canarias.
+ÍNDICE
+Preámbulo.
+Capítulo I. Disposiciones Generales.
+Artículo 1.- Objeto.
+Artículo 2.- Ámbito de aplicación.
+Capítulo II. Requisitos y designación de la persona facilitadora.
+Artículo 3.- Persona facilitadora.
+Artículo 4.- Requisitos generales.
+Artículo 5.- Requisitos específicos en caso de menores.
+Artículo 6.- Solicitud y designación.
+Capítulo III. De las actuaciones de la persona facilitadora.
+Artículo 7.- Principios generales de la actuación.
+Artículo 8.- Actuaciones y funciones generales.
+Artículo 9.- Informes de adaptación y ajuste de actuaciones.
+Artículo 10.- Contraprestación por los servicios prestados.
+Artículo 11.- Abono de los servicios prestados.
+Capítulo IV. Registro administrativo canario de personal facilitador.
+Artículo 12.- Creación del Registro administrativo canario.
+Artículo 13.- Contenido de la solicitud.
+Artículo 14.- Procedimiento para la inscripción.
+Artículo 15.- De la organización del Registro.
+Capítulo V. Sistema de seguimiento y evaluación de calidad del servicio de facilitación.
+Artículo 16.- Sistema de seguimiento y evaluación de la calidad del servicio de facilitación.
+Disposición adicional primera.- Formación específica.
+Disposición adicional segunda.- Ejecución.
+Disposición adicional tercera.- Entidades colaboradoras de la Administración de
+Justicia en Canarias.
+Disposición transitoria.- Habilitación provisional.
+Disposición final primera.- Aplicación progresiva.
+Disposición final segunda.- Entrada en vigor.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35039 Martes 22 de septiembre de 2026
+PREÁMBULO
+I
+El acceso a la justicia en condiciones de igualdad es un derecho básico que debe
+garantizarse en una sociedad democrática, participativa e igualitaria.
+El artículo 24 de la Constitución Española establece como derecho fundamental de las
+personas la tutela judicial efectiva de los jueces y tribunales en el ejercicio de sus derechos
+e intereses legítimos, sin que, en ningún caso, pueda producirse indefensión.
+Para hacer efectivo este derecho, en coherencia con el mandato del artículo 9.2 de la
+Constitución, en el caso de las personas con discapacidad se precisa del auxilio de ciertos
+mecanismos que la Administración pública debe aportar a la ciudadanía.
+Se trata de proporcionar adaptaciones en todas las fases y en todas las actuaciones
+judiciales en las que resulte necesario. En concreto, se entenderán incluidos cuantos actos
+de comunicación sea preciso para la comprensión e interacción con el entorno, de la persona
+con discapacidad y de las personas mayores.
+La Convención Internacional sobre los Derechos de las Personas con Discapacidad,
+aprobada por la Asamblea General de las Naciones Unidas el 13 de diciembre de 2006,
+estableció en su artículo 13 que fueran los Estados quienes asegurasen que las personas
+con discapacidad tuvieran acceso a la justicia en igualdad de condiciones con las demás,
+mediante ajustes de procedimientos para facilitar el desempeño de las funciones efectivas
+de esas personas como participantes directos e indirectos, incluida la declaración como
+testigos, en todos los procedimientos judiciales, con inclusión de la etapa de investigación
+y otras etapas preliminares.
+La preocupación por asegurar el acceso a la justicia de las personas con discapacidad,
+en condiciones de igualdad y efectividad, se reconoce, igualmente, en la Agenda 2030
+para el Desarrollo Sostenible adoptada por la Asamblea General de las Naciones Unidas
+en septiembre de 2015, en concreto la meta 16.3 de los Objetivos de Desarrollo Sostenible
+establece la necesidad de “Promover el Estado de derecho en los planos nacional e
+internacional y garantizar la igualdad de acceso a la justicia para todos”.
+Para adecuar la Carta Magna a la Convención se modificó el artículo 49 de la
+Constitución Española, que se refiere ahora a las “personas con discapacidad”. Se adapta
+así a las concepciones actuales sobre la protección de las personas con discapacidad. Una
+protección que hoy ya, no pivota en torno a la concepción médico-rehabilitadora, sino en
+torno a los derechos y deberes de los que son titulares las personas con discapacidad, como
+ciudadanos y ciudadanas libres e iguales. De este modo, los objetivos que deben orientar
+la acción positiva de los poderes públicos incluyen la obligación de facilitarles una plena
+autonomía personal y su inclusión social. Las políticas públicas deben respetar siempre la
+libertad de elección y las preferencias de las personas con discapacidad.
+En nuestro ordenamiento jurídico, la adecuación de los derechos reconocidos a las
+personas con discapacidad por la precitada Convención se ha realizado por la Ley 8/2021,
+de 2 de junio, por la que se reforma la legislación civil y procesal para el apoyo a las
+personas con discapacidad en el ejercicio de su capacidad jurídica.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35040 Martes 22 de septiembre de 2026
+Entre las medidas que recoge la ley, se encuentra la introducción del artículo 7 bis de la
+Ley de Enjuiciamiento Civil (modificado por el Real Decreto ley 6/2023, de 19 de diciembre,
+por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación,
+Transformación y Resiliencia en materia de servicio público de justicia, función pública,
+régimen local y mecenazgo), que prevé que en todas las fases y actuaciones de los procesos
+en los que participen personas con discapacidad, incluidos los actos de comunicación, se
+realizarán -a petición de parte, del Ministerio Fiscal o de oficio por el juez- las adaptaciones y
+los ajustes que sean necesarios para garantizar su participación en condiciones de igualdad. A
+tal fin, se les facilitarán las asistencias o apoyos necesarios para que puedan hacerse entender,
+se permitirá la participación de un profesional experto que, a modo de facilitador, efectúe las
+tareas de adaptación y ajuste necesarias para que la persona con discapacidad pueda entender
+y ser entendida, y se reconoce el derecho a estar acompañado de una persona de su elección
+desde el primer contacto con las autoridades y funcionarios.
+Este mismo artículo incluye también a las personas mayores bajo el título “Ajustes
+para personas con discapacidad y personas mayores”, considerando personas mayores las
+personas con una edad de sesenta y cinco años o más.
+En el mismo sentido, aquella Ley añadió a la Ley 15/2015, de 2 de julio, de la
+Jurisdicción Voluntaria, esos expedientes voluntarios ante los órganos jurisdiccionales.
+En esta misma línea, la Ley Orgánica 5/2024, de 11 de noviembre, del Derecho de
+Defensa, establece en su artículo 4 que: “El derecho a recibir la asistencia jurídica eficaz…
+incluye también la procedencia de efectuar o solicitar las adaptaciones precisas para
+garantizar el derecho de accesibilidad cognitiva, de las personas con discapacidad intelectual
+y del desarrollo, al proceso legal en el que participen, requiriendo la utilización de los
+medios técnicos, humanos o profesionales para asegurar la efectividad de este derecho”.
+II
+Se trata de dar un nuevo servicio que dé respuesta a una mayor humanización de la justicia
+apostando por la accesibilidad del sistema judicial, avanzando en la eliminación de todo tipo
+de barreras, no solo físicas con la adecuación de los edificios judiciales, sino también de
+comprensión. En esta línea de actuaciones la Consejería de Presidencia, Administraciones
+Públicas, Justicia y Seguridad puso en marcha un proyecto piloto en el partido judicial de
+Arrecife que permite solicitar la traducción a lectura fácil de la documentación judicial que
+afecta a personas con problemas para entenderlo. En la idea de humanizar la justicia también
+se ha implantado un proyecto de acompañamiento de animales de compañía a las víctimas
+menores de edad que acuden la Sección de Instrucción del Tribunal de Instancia de Las Palmas
+de Gran Canaria especializada en materia de violencia contra la infancia y la adolescencia.
+III
+Establecida la regulación básica, la efectiva implantación de este servicio en los
+órganos judiciales y fiscales con sede en el archipiélago corresponde, en virtud del Estatuto
+de Autonomía, a la Comunidad Autónoma de Canarias.
+En efecto, la Comunidad Autónoma asumió competencias en materia de Justicia en
+virtud de los artículos 28 y 29 de la Ley Orgánica 10/1982, de 10 de agosto, del Estatuto
+de Autonomía de Canarias, hoy derogado. En el Estatuto vigente, las competencias
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35041 Martes 22 de septiembre de 2026
+autonómicas sobre la Administración de Justicia se encuentran en el Título IV “De la
+Administración de Justicia en Canarias”, en particular, las previsiones de los artículos 85 a
+88 de la Ley Orgánica 1/2018, de 5 de noviembre.
+Además, la Comunidad Autónoma de Canarias tiene competencia exclusiva en materia de
+regulación y la ordenación de los servicios sociales, las prestaciones técnicas y económicas
+con finalidad asistencial o complementaria, de acuerdo con lo que recoge el artículo 142
+del Estatuto de Autonomía. Por tanto, en la acción social pública. Así en el ejercicio de
+esta competencia ha sido aprobada la Ley 16/2019, de 2 de mayo, de Servicios Sociales de
+Canarias, entre cuyos objetivos de actuación del sistema público están tanto las personas
+mayores, como las personas con discapacidad.
+Pues bien, en ejercicio de estas competencias, este Decreto tiene por objeto regular los
+requisitos, los principios de actuación y la forma de designación de las personas expertas
+que a modo de facilitador desempeñen las tareas necesarias para facilitar el acceso de las
+personas con discapacidad, así como a las personas mayores, a las actuaciones judiciales
+y actuaciones del Ministerio Fiscal, de conformidad con lo establecido por la legislación
+estatal y la convención internacional sobre los derechos de las personas con discapacidad.
+De modo particular, este Decreto se alinea con las previsiones del Real Decreto
+193/2023, de 21 de marzo, por el que se regulan las condiciones básicas de accesibilidad
+y no discriminación de las personas con discapacidad, aplicables a la Administración de
+Justicia, cuyo artículo 27 prevé que se promueva la incorporación de la figura de la persona
+facilitadora para aquellas personas con discapacidad incursas en procedimientos judiciales,
+debiendo asegurarse que se realicen las adaptaciones y ajustes necesarios.
+De igual manera, se pretende garantizar el principio de igualdad de las personas
+destinatarias de este recurso en sus relaciones con la Administración de Justicia, dando
+cumplimiento a los mandatos normativos específicos y sectoriales establecidos en la Ley
+1/2010, de 26 de febrero, de Igualdad entre Mujeres y Hombres, y en la Ley 2/2021, de 7 de
+junio, de igualdad social y no discriminación por razón de identidad de género, expresión
+de género y características sexuales.
+IV
+El presente Decreto consta de dieciséis artículos, estructurados en cinco capítulos:
+Capítulo I que comprende el objeto y ámbito de aplicación de esta norma; el Capítulo II
+en el que se establecen los requisitos necesarios para que un profesional con la titulación
+adecuada pueda ser designado como persona facilitadora; el Capítulo III en el que se señalan
+los principios generales que debe respetar una persona experta designada como facilitadora
+en sus actuaciones; el Capítulo IV que prevé la creación del Registro administrativo canario
+en el que deben inscribirse las personas facilitadoras que presten servicios en las sedes
+judiciales de la Comunidad Autónoma de Canarias y, por último, el Capítulo V dedicado
+al sistema de seguimiento y evaluación de calidad del servicio de facilitación. El Decreto,
+además, incluye: tres disposiciones adicionales relativas a la concreción de la cualificación
+profesional específica exigida a dicho personal, así como el órgano competente para
+elaborar y dictar las instrucciones necesarias para llegar a cabo el presente Decreto y al
+régimen de colaboración con entidades colaboradoras; una disposición transitoria, donde
+se establece el uso de listas de profesionales provenientes de colegios profesionales y otras
+entidades, hasta que se ponga en marcha el Registro administrativo canario de personal
+facilitador; y dos disposiciones finales, relativas a la aplicación progresiva del Decreto y,
+por último, entrada en vigor.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35042 Martes 22 de septiembre de 2026
+V
+Este Decreto respeta los principios de buena regulación recogidos en el artículo 129 de
+la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas, así como en el artículo 66 de la Ley 4/2023, de 23 de marzo,
+de la Presidencia y del Gobierno de Canarias; da cumplimiento al principio de necesidad,
+ya que desde la entrada en vigor de la Ley 8/2021, de 2 de junio, por la que se reforma la
+legislación civil y procesal para el apoyo a las personas con discapacidad para el ejercicio
+de su capacidad jurídica, existe la necesidad de procurar los medios adecuados para que
+todas las personas con discapacidad accedan y participen de la justicia en condiciones
+de igualdad. Es coherente con el ordenamiento jurídico nacional e internacional. Es
+proporcional ya que contiene la regulación necesaria para asegurar la capacitación de las
+personas facilitadoras, así como la calidad de sus servicios y aporta una mayor seguridad
+jurídica tanto a las personas con discapacidad para el ejercicio de sus derechos ante la
+Administración de Justicia, como para las personas que están en condiciones de acreditar
+una especialización o que cuentan con la experiencia necesaria para desempeñar las
+funciones de persona facilitadora en la Administración de Justicia. La iniciativa normativa
+queda, además, justificada en la medida en que el Decreto se configura como el instrumento
+más idóneo para asegurar su efectiva consecución. Asimismo, se da cumplimiento al
+principio de eficiencia, toda vez que evita cargas administrativas innecesarias o accesorias
+a la ciudadanía y contribuye a la racionalización de la gestión de los recursos públicos.
+Apostando con ello por la humanización de la justicia, al convertirla en un servicio más
+eficaz, equitativo, humano y justo para las personas con discapacidad.
+En su virtud, visto el dictamen n.º 178/2026, de 14 de mayo, del Consejo Consultivo de
+Canarias, a propuesta de la Consejera de Presidencia, Administraciones Públicas, Justicia
+y Seguridad, de conformidad con el artículo 43.2.a) del Reglamento Orgánico de la Consejería
+de Presidencia, Justicia y Seguridad, aprobado por el Decreto 108/2024, de 31 de julio, y
+previa deliberación del Gobierno en su reunión celebrada el día 15 de septiembre de 2026,
+DISPONGO:
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1.- Objeto.
+Este Decreto tiene por objeto establecer los requisitos, principios de actuación,
+actuaciones a realizar y la forma de designación del personal experto que actúe como
+personal facilitador, para asistir a:
+a) Las personas con discapacidad.
+b) Las personas mayores con una edad de sesenta y cinco años o más que lo soliciten.
+c) Las personas mayores de ochenta años o más a las que pueda serles prestada dicha
+asistencia aunque no lo soliciten.
+En aquellos procesos y actuaciones judiciales o ante el Ministerio Fiscal en los que
+participen, siempre que estén incluidos dentro del ámbito de aplicación de esta norma,
+garantizándose así la igualdad de las personas destinatarias de este recurso en sus relaciones
+con la Administración de Justicia.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35043 Martes 22 de septiembre de 2026
+Artículo 2.- Ámbito de aplicación.
+1. Este Decreto se aplicará en todas las actuaciones judiciales que se desarrollen ante
+los órganos judiciales y fiscales en las que intervengan las personas con discapacidad, así
+como a personas mayores con una edad de sesenta y cinco años, en el ámbito territorial del
+Tribunal Superior de Justicia de Canarias.
+2. La cobertura del personal experto que actúe a modo de facilitador se extenderá a lo
+largo de todo el proceso judicial o ante la fiscalía.
+CAPÍTULO II
+REQUISITOS Y DESIGNACIÓN DE LA PERSONA FACILITADORA
+Artículo 3.- Persona facilitadora.
+1. Persona que trabaja, según sea necesario, con el personal de sistema de justicia y las
+personas destinatarias para asegurar una comunicación eficaz durante todas las fases de los
+procesos judiciales y fiscales. La persona facilitadora apoya a la persona con discapacidad
+y a la persona mayor destinataria para que comprenda y tome decisiones informadas,
+asegurándose de que todo el proceso se explique adecuadamente a través de un lenguaje
+comprensible y fácil, y de que se proporcionen los ajustes razonables de procedimiento, las
+adaptaciones y el apoyo adecuados.
+2. La persona facilitadora no habla en nombre de las personas destinatarias, ni
+del sistema de justicia, ni debe dirigir o influir en la toma de las decisiones o en los
+resultados. Sus funciones serán informar, diseñar y facilitar, tanto a los profesionales de
+la justicia implicados, como a las personas destinatarias, de aquellos ajustes y apoyos que
+considere necesarios para que dichas personas puedan acceder, participar y ejercitar de
+manera comprensible sus derechos, en condiciones de igualdad con las demás personas
+intervinientes.
+3. Quien actúe como persona facilitadora debe asegurar la participación eficaz de
+la persona destinataria, en todas las etapas de su intervención en el proceso judicial,
+independientemente de su papel dentro del mismo. Siempre que resulte posible, y salvo
+que la persona destinataria se oponga, se garantizará la continuidad del apoyo de la misma
+persona facilitadora a lo largo de todo el procedimiento.
+4. El resultado de la intervención de una persona facilitadora judicial perseguirá
+garantizar la participación efectiva y una comunicación eficaz durante los procedimientos
+legales que ayuden a entender y tomar decisiones informadas de la persona destinataria
+eliminando las barreras que impiden que ejerza su derecho a la tutela judicial efectiva en
+igualdad de oportunidades.
+Artículo 4.- Requisitos generales.
+1. Para poder ser designados como personas facilitadoras de las personas destinatarias,
+los profesionales deben reunir los siguientes requisitos:
+a) Estar en posesión de la titulación y/o graduación en derecho, educación social,
+logopedia, psicología, terapia ocupacional, trabajo social, pedagogía, psicopedagogía y
+criminología.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35044 Martes 22 de septiembre de 2026
+b) Contar con la cualificación profesional específica necesaria en discapacidad intelectual
+y psicología forense, ya que deben conocer las herramientas forenses y adaptarlas a las
+personas destinatarias, además de conocimientos de nociones jurídicas, ya que intervienen
+en el procedimiento y deben conocer su estructura y los momentos procesales en los que
+solicitar ajustes. Esta cualificación deberá obtenerse por alguna de las siguientes vías:
+i) Estar en posesión de alguna acreditación o de un certificado de haber cursado una
+formación específica en donde se acredite un mínimo de 200 horas específicas en atención
+a personas con discapacidad.
+ii) Estar en posesión de un título acreditativo de personal facilitador para apoyo a
+personas con discapacidad o personas mayores en procesos judiciales.
+iii) Acreditar una experiencia laboral mínima de un año en centros o entidades dedicadas a
+la prestación de servicios de atención a personas con discapacidad y las personas mayores.
+c) Estar inscritos en el Registro administrativo canario de personal facilitador. No será
+necesaria la inscripción respecto de aquellas personas que siendo empleadas públicas,
+cumplan los requisitos y tengan atribuidas funciones propias de las personas facilitadoras.
+Artículo 5.- Requisitos específicos en caso de menores.
+Cuando la persona con discapacidad sea menor de edad, la persona que actúe como su
+persona facilitadora debe reunir los requisitos señalados en el artículo anterior, además estar
+en posesión de cursos de formación específica en atención a la infancia y adolescencia con
+una duración mínima de 60 horas y carecer de antecedentes penales en el Registro Central
+de Delincuentes Sexuales y de Trata de Seres Humanos, aportando el correspondiente
+certificado de delitos de naturaleza sexual o bien permitiendo a la Administración pública
+a comprobar el contenido del registro.
+Artículo 6.- Solicitud y designación.
+1. Las personas destinatarias podrán estar acompañadas de una persona de su elección
+desde el primer contacto con las autoridades y funcionarios que presten servicios en los
+órganos judiciales y fiscales. Con carácter general, la solicitud de designación de una
+persona facilitadora será formulada por la persona destinataria, si bien esta podrá autorizar
+para la presentación de su petición a una persona de su confianza.
+2. Junto a la solicitud de la designación de la persona facilitadora, se acompañará la
+documentación acreditativa de la discapacidad, bien mediante certificado emitido por el
+organismo oficial competente, o en otro caso, mediante informe emitido por profesional
+cualificado. El Tribunal o el Ministerio Fiscal, dentro de su ámbito de actuación, podrán
+proceder a la designación cuando comprueben la necesidad de realizar las adaptaciones y
+ajustes por considerar que existe la discapacidad aunque no esté acreditada.
+3. El acuerdo para el nombramiento de la persona facilitadora se realizará, en todo caso,
+por el órgano judicial o, en su caso, fiscal. La lista del Registro administrativo canario de
+personal facilitador permitirá la toma en consideración de la preferencia o las preferencias
+que de manera expresa haya manifestado el solicitante, permitiendo que sea designado
+siempre que el propuesto cumpla las condiciones específicas, adecuadas a las circunstancias
+de la persona destinataria, que garanticen su participación en condiciones de igualdad en la
+actuación judicial correspondiente.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35045 Martes 22 de septiembre de 2026
+4. A falta de la anterior petición de las personas con discapacidad o de ochenta años o más,
+si de las circunstancias del caso se apreciara la necesidad de acudir a este nombramiento,
+el acuerdo de nombramiento se realizará de oficio por el órgano judicial, o, en su caso, a
+petición del Ministerio Fiscal o solicitud de cualquiera de las partes del proceso.
+CAPÍTULO III
+DE LAS ACTUACIONES DE LA PERSONA FACILITADORA
+Artículo 7.- Principios generales de actuación.
+En el desempeño de sus funciones y actuaciones, la persona facilitadora debe respetar
+los siguientes principios:
+a) Principio de necesidad y proporcionalidad: la actuación y las adaptaciones que
+proponga la persona facilitadora deben ser las precisas para atender las necesidades de la
+persona a la que atiende, y en todo caso aquellas que, de entre las posibles, resulten menos
+restrictivas de la autonomía personal.
+b) Principio de neutralidad e imparcialidad: la persona facilitadora debe ser imparcial,
+sin otro interés en el proceso que ofrecer cuantos apoyos sean necesarios para que la persona
+destinataria, pueda participar plenamente en el mismo conociendo la información esencial.
+c) Principio de asistencia personalizada: la elección del lenguaje y/o del canal de
+comunicación a utilizar entre la persona destinataria y las otras partes del proceso, debe
+adaptarse a las circunstancias de la misma, de manera tal que quede garantizado un
+entendimiento bidireccional (emisor-receptor) como lo requiere una comunicación eficaz,
+y se adaptará a las necesidades y al estilo comunicativo de cada persona.
+d) Principio de confidencialidad: la persona que ejerza como persona facilitadora debe
+respetar la confidencialidad de toda la información que conozca en relación con el proceso
+y la persona a la que presta su asistencia.
+e) Principio de eficiencia y eficacia procedimentales: la persona facilitadora propondrá
+aquellas medidas que, cumpliendo con la finalidad perseguida, sean las más adecuadas,
+atendiendo a términos de eficacia y eficiencia, para el normal desenvolvimiento de las
+actuaciones del proceso.
+f) Principio de imparcialidad, objetividad y profesionalidad: la persona facilitadora
+deberá abstenerse de actuar cuando, por las características de la persona que deba atender
+o de los asuntos en los que deba asistirla, su intervención pueda resultar inadecuada para
+que se cumpla la función de facilitación, respetando en todo caso la voluntad de aquella.
+g) Principio de igualdad: implica que la función de la persona facilitadora deberá
+estar centrada en que la persona destinataria pueda tener un trato y unas oportunidades
+equivalentes al resto de personas incursas en un proceso judicial o fiscal, a fin de evitar
+desigualdades y asegurar el pleno ejercicio de derechos en condiciones de igualdad real y
+efectiva.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35046 Martes 22 de septiembre de 2026
+Artículo 8.- Actuaciones y funciones generales.
+Las funciones que recaen bajo la responsabilidad del personal facilitador, una vez
+designado, pueden ser todas o algunas de las siguientes:
+a) Elaboración de un perfil individualizado de medidas de ajuste de procedimiento
+que precisa la persona interesada. Dicho perfil individualizado se plasmará en un informe
+escrito que se presentará a la autoridad judicial o al Ministerio Fiscal en el supuesto de
+artículo 6.4.
+b) Informar a los operadores jurídicos que van a relacionarse con la persona con
+discapacidad y la persona mayor sobre los apoyos y ajustes necesarios para adaptar las
+actuaciones a las concretas necesidades del interesado.
+c) Presentar un informe de adaptación y ajustes de actuaciones en los términos previstos
+en el artículo 9 del presente Decreto.
+d) Implementar las medidas contempladas en el perfil individualizado de apoyos y
+ajustes durante el desarrollo del proceso para garantizar la comprensión y la participación
+eficaz de la persona interesada. Estas medidas tendrán especialmente los siguientes aspectos
+del proceso:
+1) Colaborar en la obtención del testimonio.
+2) Acompañar a la persona destinataria en la realización de todo tipo de trámites y
+diligencias en relación con el proceso judicial.
+3) Realizar labores de preparación de las actuaciones para que la persona destinataria
+pueda afrontar el proceso judicial y para que los operadores jurídicos tengan en cuenta las
+necesidades de apoyo de estas personas.
+4) Proporcionar apoyo para garantizar que la persona destinataria comprende el
+contenido de las resoluciones judiciales.
+5) Garantizar que los profesionales expertos del ámbito de la validación de textos lleven
+a cabo la adaptación cognitiva de la documentación esencial relativa al procedimiento, y
+que sea acorde a las necesidades de la persona con discapacidad y la persona mayor.
+6) Informar tanto a la persona destinataria como, en su caso, a quien ejerza la patria
+potestad, tutela, curatela o guarda de hecho.
+7) Cualesquiera otras que por las circunstancias del caso considere necesarias el letrado
+de la Administración de Justicia.
+Artículo 9.- Informes de adaptación y ajuste de actuaciones.
+1. El informe de adaptación es aquel emitido por la persona facilitadora designada,
+conteniendo las adaptaciones y ajustes que sean necesarios para que la persona con
+discapacidad y la persona mayor tenga asegurada una comunicación eficaz del proceso
+judicial o de la actuación concreta, tome su decisión de manera informada, y se le asegure
+un lenguaje comprensible, que le proporcione los ajustes y apoyos adecuados.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35047 Martes 22 de septiembre de 2026
+2. Como mínimo los informes deberán contener la siguiente información:
+a) Objetivo del informe, a petición de quien se realiza la propuesta de adaptación, e
+identificación del procedimiento judicial.
+b) Relación de fuentes de información utilizadas (documentos, dictámenes de profesionales
+especializados y entrevistas).
+c) Cuando la persona tenga reconocida una discapacidad incluir el tipo de discapacidad
+y sus porcentajes.
+d) Metodología que se ha seguido para la realización del informe.
+e) Identificación de las necesidades específicas de apoyo y justificación de los ajustes
+y adaptaciones propuestos.
+f) Relación priorizada de los ajustes en función de las necesidades y preferencias de la
+persona con discapacidad y la persona mayor.
+g) Explicación del papel como persona facilitadora en la implementación de los ajustes
+o adaptaciones.
+3. En todo caso, los informes deberán incorporar la identificación de quien emita el
+informe, indicación de su titulación y/o profesión, así como de la formación especializada
+recibida, fecha y firma.
+Artículo 10.- Contraprestación por los servicios prestados.
+1. Las actuaciones de las personas profesionales facilitadoras establecidas serán
+remuneradas.
+2. Las contraprestaciones serán:
+a) Por el informe sobre adaptaciones y apoyos, 90 euros, IGIC incluido.
+Excepcionalmente y a petición razonada de la persona que actúe como facilitadora,
+cuando la elaboración de un informe conlleve una evaluación o el uso de una metodología
+de especial complejidad, podrán ser remunerados con 120 euros, IGIC incluido, previa
+autorización debidamente justificada por la Dirección General de Relaciones con la
+Administración de Justicia.
+b) Por acompañamiento que se realice con la persona destinataria a la sede judicial,
+a requerimiento del órgano judicial o fiscal que conozca del asunto, se abonará 50 euros,
+IGIC incluido.
+c) En el caso recogido en el artículo 15.3 que se contrate a un facilitador de otro partido
+judicial, por falta de profesionales en el mismo, se les abonará los gastos de traslado,
+manutención y pernocta, si fuera necesario desplazarse a otra isla.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35048 Martes 22 de septiembre de 2026
+3. No obstante, las actuaciones no serán remuneradas cuando se realicen por personal
+empleado público integrante de los equipos de personas facilitadoras y la persona con
+discapacidad y la persona mayor tenga la condición de víctima de conformidad con lo
+dispuesto en el artículo 2 de la Ley 4/2015, de 27 de abril, del Estatuto de la víctima del
+delito o normativa que la sustituya.
+Artículo 11.- Abono de los servicios prestados.
+Los servicios prestados por la persona facilitadora se abonarán, previa solicitud de la
+misma, de acuerdo con los procedimientos de gestión económico-presupuestaria vigentes
+en la Administración de la Comunidad Autónoma de Canarias.
+CAPÍTULO IV
+REGISTRO ADMINISTRATIVO CANARIO DE PERSONAL FACILITADOR
+Artículo 12.- Creación del Registro administrativo canario.
+1. Se crea el Registro administrativo canario de personal facilitador de la Comunidad
+Autónoma de Canarias, que estará adscrito a la Consejería que en cada momento tenga
+atribuidas las competencias en materia de justicia, correspondiendo su gestión a la Dirección
+General competente en materia de justicia.
+2. Para actuar como persona facilitadora, las personas profesionales que reúnan los
+requisitos que dispone el Capítulo II de este Decreto deben constar inscritos en este registro,
+del mismo modo que para percibir los importes en concepto de contraprestación por los
+servicios prestados.
+3. El procedimiento de alta, actualización de datos y baja en el mencionado Registro
+que, en todo caso, incluirá la inhabilitación para el cargo o renuncia se realizará conforme
+se protocolice su funcionamiento.
+Artículo 13.- Contenido de la solicitud.
+1. A los efectos de inscripción en el Registro administrativo canario de personal
+facilitador, las personas expertas interesadas presentarán una solicitud que se tramitará
+conforme el procedimiento que se establece en el artículo siguiente.
+2. La solicitud debe contener la información necesaria para que la administración pueda
+comprobar que se cumplen los requisitos exigidos en este Decreto, siendo obligatoria su
+presentación electrónica.
+Artículo 14.- Procedimiento para la inscripción.
+1. El procedimiento para la inscripción en el Registro se iniciará a instancia de la persona
+que quiera actuar como persona facilitadora, a través de la correspondiente solicitud, a
+la que se acompañará la documentación necesaria para acreditar la concurrencia de los
+requisitos exigidos por este Decreto.
+2. Instruido el expediente, el centro directivo competente en materia de justicia
+resolverá en el plazo de dos meses desde la fecha en que la solicitud de inscripción haya
+tenido entrada en su registro, procediéndose a la inscripción automática de la interesada, en
+el caso de que fuera estimada la solicitud.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35049 Martes 22 de septiembre de 2026
+Transcurrido el plazo máximo de dos meses sin que se haya dictado y notificado
+resolución expresa, se entenderá desestimada.
+3. Las personas inscritas como personas facilitadoras están obligadas a comunicar al
+Registro cualquier variación de los datos de inscripción inicial.
+4. La inscripción tendrá una vigencia de dos años, quedando prorrogada tácitamente
+por periodos anuales. En caso de solicitud de baja, la persona facilitadora estará obligada a
+concluir las actuaciones y/o informes que tenga pendientes antes de cursar su baja.
+Artículo 15.- De la organización del Registro.
+1. Las inscripciones del Registro administrativo canario de personal facilitador
+incluirán:
+a) Alta de la persona facilitadora indicando los datos precisos para su identificación y
+práctica de notificaciones.
+b) Título acreditativo de especialización que le permite ejercer la función de persona
+facilitadora en el proceso, así como de si dispone de especialización concreta en relación a
+las características de las posibles personas destinatarias.
+c) Datos del domicilio profesional, partido judicial y, en su caso, centro especializado
+en el que trabaja o colabora.
+d) Baja o suspensión.
+e) Las posibles sanciones impuestas a las personas facilitadoras en el ejercicio de sus
+funciones.
+2. Los asientos en el Registro se realizarán en soporte informático.
+Cada asiento de alta tendrá asignado un número diferente y correlativo, en el que
+constarán los datos establecidos en el presente Decreto, y se efectuará siguiendo el orden
+temporal de las resoluciones estimatorias de las solicitudes de inscripción.
+3. El Registro agrupará las inscripciones por partido judicial en el que la persona
+facilitadora tenga su domicilio, a efectos de permitir la consulta de las personas inscritas.
+También tendrá un registro insular. Cuando no existan personas facilitadoras inscritas en
+un determinado partido judicial, se podrán solicitar los servicios de facilitadores de otro
+partido judicial, corriendo los gastos de traslado del profesional a cargo de la administración
+competente cuando suponga el traslado a otra isla.
+4. El Registro dependerá del servicio de la Dirección General de Relaciones con la
+Administración de Justicia que tenga funciones en materia de mediación que realizará las
+anotaciones en el mismo, velará por su buen funcionamiento y facilitará el acceso al mismo
+de todas aquellas personas interesadas en acceder a los servicios que prestan las personas
+facilitadoras judiciales.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35050 Martes 22 de septiembre de 2026
+CAPÍTULO V
+SISTEMA DE SEGUIMIENTO Y EVALUACIÓN DE CALIDAD DEL SERVICIO DE
+FACILITACIÓN
+Artículo 16.- Sistema de seguimiento y evaluación de la calidad del servicio de
+facilitación.
+La Consejería que en cada momento tenga atribuidas las competencias en materia
+de justicia realizará las funciones de seguimiento y evaluación continua de la calidad del
+servicio de facilitación prestado, que tendrá por objeto:
+a) Verificar el cumplimiento de las funciones y obligaciones profesionales de la persona
+facilitadora.
+b) Garantizar que el servicio se ajusta a los principios de accesibilidad, imparcialidad,
+neutralidad y respeto a los derechos de las personas destinatarias.
+c) Detectar posibles deficiencias y proponer medidas de mejora.
+d) Asegurar la homogeneidad y calidad del servicio en todo el territorio de Canarias.
+Para el seguimiento y evaluación se utilizarán cuantos mecanismos se consideren
+necesarios.
+Disposición adicional primera.- Formación específica.
+1. La Consejería competente en materia de justicia impulsará los trabajos para concretar
+la cualificación profesional específica a que se refieren los artículos 4 y 5 del presente
+Decreto, identificando los contenidos y las competencias que deben adquirirse. A estos
+efectos, se recabará la colaboración de las universidades públicas canarias.
+2. Una vez establecida la formación específica a que se refiere el apartado anterior,
+su impartición podrá ser realizada por las universidades, los colegios profesionales
+correspondientes a las titulaciones habilitadas y por entidades representativas de los
+intereses de las personas con discapacidad.
+Disposición adicional segunda.- Ejecución.
+La Dirección General competente en materia de justicia elaborará los protocolos y
+dictará las instrucciones necesarias para llevar a cabo este Decreto. En el plazo de un año
+desarrollará la aplicación informática destinada al registro de personas facilitadoras.
+Disposición adicional tercera.- Entidades colaboradoras de la Administración de
+Justicia en Canarias.
+Adicionalmente, con la finalidad de garantizar los apoyos regulados en el presente
+Decreto, la Consejería competente en materia de justicia podrá establecer un régimen de
+colaboración con entidades del Tercer Sector en la Comunidad Autónoma de Canarias
+que dispongan de personal especializado formado en materia de facilitación. Dichas
+organizaciones asistirán y aportarán dicho conocimiento experto en los términos y
+condiciones que se establezcan en el instrumento de colaboración.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
+
+Boletín Oficial de Canarias núm. 190 35051 Martes 22 de septiembre de 2026
+Disposición transitoria.- Habilitación provisional.
+1. Con carácter transitorio y de manera excepcional, la Consejería competente en
+materia de justicia solicitará a los colegios profesionales y a las entidades que representan
+los intereses de las personas con discapacidad y las personas mayores la identificación
+y remisión de una lista de profesionales que cumplan los requisitos establecidos en este
+Decreto para su designación como persona facilitadora, en particular aquellos que cuenten
+con la experiencia laboral mínima a que se refiere el artículo 4 del presente Decreto.
+2. Las listas de profesionales a que se refiere el apartado anterior se podrá organizar con
+ámbito insular, otorgando preferencia a quienes integren la lista insular correspondiente
+frente a las personas facilitadoras de otros lugares, con el fin de asegurar la mayor
+proximidad y cercanía a las personas que los necesiten.
+3. Las listas a que se refieren los anteriores apartados serán operativos hasta que se ponga
+en marcha el Registro administrativo canario de personal facilitador a que se refiere este
+Decreto, permitiendo la formulación de solicitudes de inscripción. Las personas incluidas
+en esas listas serán inscritas de oficio, sin perjuicio de que se les comunique a los efectos
+de que, si lo consideran pertinente, puedan modificar sus datos o, en su caso, darse de baja.
+4. El personal del órgano judicial o fiscal correspondiente solicitará la designación de
+la persona facilitadora de la lista/registro correspondiente a la Consejería competente en
+materia de justicia.
+Disposición final primera.- Aplicación progresiva.
+La aplicación de las medidas establecidas por este Decreto se realizará de forma
+progresiva y gradual conforme al siguiente calendario:
+a) A partir de 2026 en asuntos de naturaleza penal.
+b) A partir de 2027 en los órganos judiciales de orden civil.
+c) A partir de 2028 en los restantes órganos judiciales.
+Disposición final segunda.- Entrada en vigor.
+El presente Decreto entrará en vigor a los veinte días de su publicación en el Boletín
+Oficial de Canarias sin perjuicio de lo establecido en la disposición final primera.
+Dado en Canarias, a 15 de septiembre de 2026.
+EL PRESIDENTE
+DEL GOBIERNO,
+Fernando Clavijo Batlle.
+LA CONSEJERA DE PRESIDENCIA,
+ADMINISTRACIONES PÚBLICAS,
+JUSTICIA Y SEGURIDAD,
+Nieves Lady Barreto Hernández.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-190-3297
