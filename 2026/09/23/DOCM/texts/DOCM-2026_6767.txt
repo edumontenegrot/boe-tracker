@@ -1,0 +1,430 @@
+AÑO XLV Núm. 183 23 de septiembre de 2026 32674
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 07/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula la declaración de impacto ambiental desfavorable del proyecto: Transformación a regadío para
+plantación de olivar, expediente S478/2025/TO/00056, situado en el término municipal de Calera y Chozas
+(Toledo). [2026/6767]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, define la declaración de impacto
+ambiental en su artículo 4, como el informe preceptivo y determinante del órgano ambiental con el que finaliza la
+evaluación de impacto ambiental ordinaria, que evalúa la integración de los aspectos ambientales en el proyecto y
+determina las condiciones que deben establecerse para la adecuada protección del medio ambiente y de los recursos
+naturales durante la ejecución y la explotación y, en su caso, el cese, el desmantelamiento o demolición del proyecto.
+La Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, constituye la normativa de desarrollo
+y de protección ambiental adicional, y determina los plazos de la tramitación, así como aquellos proyectos adicionales
+a los ya indicados por la Ley 21/2013 de 9 de diciembre, que se ven incluidos en el ámbito de aplicación de la
+legislación de evaluación ambiental estatal.
+Asimismo, en su artículo 8.1 se establece que los proyectos incluidos en su ámbito de aplicación deben someterse
+a una evaluación ambiental antes de su autorización por el órgano sustantivo, o bien, si procede, antes de la
+presentación de la correspondiente declaración responsable o comunicación previa. En particular, su artículo 6.1
+determina los proyectos que deben someterse a una evaluación de impacto ambiental ordinaria.
+El proyecto denominado “Transformación a regadío para plantación de olivar”, Exp. S478/2025/TO/00056, se encuadra
+en el Anexo I, Grupo 1b, Cuando se desarrollen en áreas protegidas tal y como se definen en la Ley 9/1999, de 26
+de mayo, de conservación de la naturaleza, así como en áreas protegidas por instrumentos internacionales, según
+la regulación de la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, las siguientes
+actuaciones: 2º Proyectos de transformación en regadío o de avenamiento de terrenos, cuando afecten a una
+superficie mayor de 10 ha (Ley 2/2020 de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha).
+El órgano ambiental es la Delegación Provincial de Desarrollo Sostenible de Toledo, conforme al Decreto 112/2023 de
+9 de julio, en el que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible,
+y la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en
+materia de evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible.
+1.- Promotor, órgano sustantivo y descripción del proyecto.
+El promotor del proyecto “Transformación a regadío para plantación de olivar” es Shari Ann Sabin. La finca donde
+se proyecta la plantación está localizada en 12 parcelas del polígono 505 del paraje “Las Atalayuelas” del Término
+Municipal de Calera y Chozas (Toledo), siendo la superficie total de 39,8236 ha.
+Polígono Parcela Superficie (ha) Superficie riego nuevo olivar (ha)
+505 60 10,9462 10,871382
+505 61 3,8758 1,706000
+505 52 4,5306 4,53047
+505 53 4,8891 4,879874
+505 54 4,8765 4,826206
+505 55 1,1317 1,1317
+505 56 1,0115 1,0115
+505 57 0,7712 0,7712
+505 58 1,5342 1,5342
+505 59 2,6558 2,6558
+505 10059 2,6183 2,6183
+505 20059 3,5578 3,286929
+Total 42,3987 39,823561
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32675
+Las coordenadas U.T.M. ETRS89 de las diferentes tomas son las siguientes:
+Toma Polígono Parcela Coordenadas U.T.M. Uso actual y previsto
+X: 329.928 Actual: abrevadero explotación bovina/equina y
+1 505 61
+Y: 4.422.324 riego por aspersión de forraje
+X: 329.944
+2 505 61 Futuro: uso actual + riego de olivar super-intensivo
+Y: 4.422.335
+Se pretende realizar una plantación de 39,8236 ha de olivar super-intensivo con un marco de plantación de 1,35 x 4 m.
+Las instalaciones necesarias para la plantación de olivar en regadío serán:
+- Tomas (sondeos) ya inscritos en el expediente SB -1263-2020 cuyo volumen total autorizado es de 6.706,50 m³/
+año destinado a ganado bovino/equino y riego de forraje para una superficie de 1,5 ha, con las tomas:
+· Toma 1 (sondeo): 400 mm de diámetro y 150 m de profundidad. Caudal solicitado previsto: 18 l/s
+· Toma 2 (sondeo): 400 mm de diámetro y 15 m de profundidad. Caudal solicitado previsto: 4,5 l/s
+- Bombas de impulsión: En cada toma se instalará una bomba eléctrica sumergible que impulsará el agua hasta la
+superficie con la potencia necesaria para la ejecución de los riegos. A la salida de cada toma se acoplará una tubería
+de PVC que distribuirá el agua a toda la superficie regable mediante una red de tuberías de polietileno hasta los
+porta-goteros. Se prevé una potencia de 52 CV para la toma 1 y 6 CV para la toma 2.
+- Instalación fotovoltaica: “En cuanto al suministro de energía eléctrica, en principio provendría de la instalación
+fotovoltaica prevista a instalar en la finca. Esta sería al menos 126 placas de 450 Wp (dimensiones 2,11 x 1,05 m),
+que supone una ocupación de unos 277 m² a ubicar en la parcela 61, que dispone de una superficie de 592 m².
+- Red de abastecimiento: Se encargará de canalizar el agua desde el sondeo hasta cada uno de los olivos. Para ello
+se contará con una tubería general de PVC, una tubería primaria de PE, una red de tuberías secundarias de PE y
+la red portagoteros.
+- Contador volumétrico: Se instalará un caudalímetro a la salida de cada sondeo dando cumplimiento a la Orden
+ARM/1312/2009, de 20 de mayo.
+El acceso a la finca se realiza desde el municipio de Calera y Chozas por la carretera CM-4130 y en el margen
+izquierdo de dicha vía se encuentra un camino (vía de servicio de la autovía A5) que lleva a la finca.
+Alternativas
+El estudio analiza distintas alternativas de cultivo y riego para una finca de 39,82 ha en Calera y Chozas, concluyendo
+que la opción más adecuada es la implantación de olivar super-intensivo en regadío mediante riego por goteo. No
+obstante, el servicio de Medio Natural de Toledo indica que la elección de alternativas no tiene en cuenta el impacto
+ambiental de cada una de ellas.
+Las alternativas planteadas en el documento ambiental son:
+Selección del cultivo
+Se opta por el olivo porque:
+• Es el cultivo predominante de la zona.
+• Está bien adaptado a las condiciones climáticas y edáficas locales.
+• Presenta una elevada rusticidad y resistencia a la sequía.
+• Tiene uno de los menores requerimientos hídricos entre los cultivos de regadío.
+Selección del sistema de riego
+Se valoran tres alternativas:
+• Riego por gravedad: menor coste de instalación, pero baja eficiencia, mayores pérdidas de agua y riesgo de
+erosión.
+• Riego por aspersión: mejora la eficiencia respecto al riego por gravedad, aunque sigue presentando pérdidas de
+agua.
+• Riego por goteo: máxima eficiencia hidráulica, menor consumo de agua y energía, mejor adaptación al olivar y
+posibilidad de automatización.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32676
+Por ello, se selecciona el riego por goteo como la opción ambiental y técnicamente más favorable.
+Alternativas de cultivo analizadas
+Alternativa 0: No actuación
+• Mantener los cultivos herbáceos de secano actuales.
+• Es la alternativa de menor impacto ambiental directo.
+• Sin embargo, presenta una baja rentabilidad económica y riesgo de abandono de la actividad agraria.
+Alternativa 1: Olivar tradicional de secano
+• Baja densidad de plantación (80-120 árboles/ha).
+• Producciones aproximadas de 5.000 kg/ha.
+• Menor rentabilidad y productividad.
+Alternativa 2: Olivar intensivo de regadío
+• Densidad intermedia (200-600 árboles/ha).
+• Producciones cercanas a 10.000 kg/ha.
+• Mayor rentabilidad que el cultivo tradicional, aunque inferior al superintensivo.
+Alternativa 3: Olivar superintensivo de regadío
+• Alta densidad (1.000-2.000 árboles/ha).
+• Producciones próximas a 13.000 kg/ha.
+• Entrada rápida en producción.
+• Recolección totalmente mecanizada.
+• Mayor rentabilidad económica y menor coste de recolección.
+Comparación ambiental y territorial
+Para obtener una misma producción (517.707 kg de aceituna):
+• El olivar superintensivo requiere 39,82 ha.
+• El olivar intensivo necesitaría 51,77 ha.
+• El olivar tradicional requeriría 103,54 ha.
+Por tanto, el sistema superintensivo permite alcanzar la misma producción ocupando menos superficie y con un uso
+más eficiente del agua.
+El estudio concluye que la Alternativa 3 (olivar superintensivo en regadío mediante riego por goteo) es la opción más
+favorable, al combinar:
+• Mayor eficiencia en el uso del agua.
+• Menor ocupación de suelo para una misma producción.
+• Mejor rentabilidad económica.
+• Menores costes de explotación y recolección.
+• Impactos ambientales considerados compatibles o moderados y controlables mediante las medidas propuestas.
+2.- Procedimiento realizado: información pública y consultas
+El 05/02/2025, tiene entrada en la Delegación Provincial de la Consejería de Desarrollo Sostenible de Toledo,
+documentación sobre el proyecto denominado “Transformación a regadío para plantación de olivar”, Exp. S478/2025/
+TO/00056, situado en el término municipal de Calera y Chozas (Toledo) y cuyo promotor es Shari Ann Sabin, siendo
+de aplicación la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y la Ley 21/2013, de 9
+de diciembre, de Evaluación Ambiental.
+El 28/11/2025 se envían consultas a las siguientes administraciones y personas interesadas (respuestas recibidas
+de los marcados con asterisco, *):
+Agencia del Agua de Castilla-La Mancha - Servicio Provincial de la Agencia del Agua en Toledo
+Agrupación Naturalista Esparvel
+Asociación Nacional Micorriza
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32677
+Asociación Naturalista Amigos del Guadyerbas
+Asociación Ornitológica Ardeidas
+Asociación para la Defensa de la Naturaleza WWF/Adena
+Asociación Toledo Aire Limpio
+Ayuntamiento de Calera y Chozas*
+Confederación Hidrográfica del Tajo *
+Delegación Provincial Agricultura, Ganadería y Desarrollo Rural Toledo - Servicio Desarrollo Rural y Políticas
+Ambientales Toledo *
+Delegación Provincial de Desarrollo Sostenible en Toledo - Servicio de Medio Natural de Toledo *
+Delegación Provincial de Desarrollo Sostenible en Toledo - Unidad de Coordinación Provincial de Agentes
+Medioambientales de Toledo *
+Delegación Provincial de Sanidad en Toledo - Servicio Salud Publica Toledo *
+Delegación Provincial de Toledo de la Consejería de Educación, Cultura y Deportes - Servicio Cultura Toledo*
+Demarcación de Carreteras del Estado en Castilla-La Mancha *
+Ecologistas en Acción Castilla-La Mancha
+Fundación Global Nature
+Infraestructuras del Agua de Castilla-La Mancha
+Sociedad Española de Ornitología (SEO Birdlife)
+Una vez realizadas las consultas, conforme al artículo 41 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha, y transcurrido el plazo sin haber recibido respuesta de los organismos no señalados con
+asterisco (“*”), este órgano ambiental cuenta con elementos de juicio suficientes para resolver, al tener este
+expediente los informes oportunos más relevantes, entre los que destacan:
+El 05/12/2025 se recibió contestación de la Delegación provincial de Educación, Cultura y Deportes de Toledo –
+Servicio de Cultura en el que esta delegación informa favorablemente el proyecto.
+El 09/12/2025 se firmó informe por los Agentes Medioambientales en el que, entre otros aspectos, se indica que el
+proyecto no está iniciado.
+El 12/12/2025 se recibió contestación del Servicio de Desarrollo Rural y Políticas Agroambientales de la Delegación
+Provincial de Toledo de la Consejería de Agricultura, Ganadería y Desarrollo Rural, en el que se comunica que el
+proyecto no interfiere en zonas regables de interés general.
+El 15/12/2025 se inicia el período de Información Pública del Estudio de Impacto Ambiental, mediante la publicación
+en el Diario Oficial de Castilla-La Mancha, con la Anuncio de 04/12/2025. No se reciben alegaciones al mismo.
+El 18/12/2025 se recibió contestación de la Demarcación de Carreteras del Estado en Castilla-La Mancha (Toledo).
+Posteriormente, se realiza un requerimiento de información complementaria ya que se comentan carencias
+existentes del EsIA y se solicita documentación complementaria para su informe sobre el proyecto de transformación
+a regadío. En concreto, se pidió aclarar el acceso a la finca desde el camino de servicio de la A-5, indicando si se
+utilizaría un acceso ya existente o si será necesario construir uno nuevo, aportando en este caso una descripción
+técnica y un plano del mismo. También justificar el tráfico previsto, especificando el tipo y número de vehículos
+que utilizarán dicho acceso (turismos, camiones, tractores, etc.), tanto durante la fase de obras como durante la
+explotación agrícola. También el promotor debía aportar un plano a escala suficiente donde se representen las zonas
+de protección de la carretera (dominio público, servidumbre, afección y limitación a la edificabilidad) y la ubicación
+de todas las actuaciones del proyecto respecto a ellas.
+El 02/02/2026 se recibió informe de la Confederación Hidrográfica del Tajo. El informe concluye que el proyecto
+de transformación a regadío es ambientalmente viable desde el punto de vista hidrológico. El aprovechamiento de
+aguas subterráneas solicitado, con un volumen máximo de 95.203 m³/año, se considera compatible con el Plan
+Hidrológico del Tajo, siempre que se cumplan las medidas de protección ambiental y control del uso del agua.
+El 05/02/2026 se recibió notificación de la Demarcación de Carreteras del Estado en Castilla-La Mancha indicando
+el archivo del proyecto en esa demarcación.
+El 16/02/2026 se recibió informe desfavorable del Servicio de Medio Natural de Toledo. Las afecciones producidas
+por el proyecto se indican en el Apartado 3 de esta resolución.
+Con fecha 11/03/2026 se notifica al promotor la publicación de los informes resultantes de las consultas en la
+aplicación Nevia, por si considera que debe presentar alegaciones a alguno de ellos antes de la resolución del
+procedimiento.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32678
+Con fecha 24/03/2026, el promotor presenta información adicional que consideramos alegaciones a una comunicación
+anterior de 16/02/2026 por parte del Servicio de Medio Natural de Toledo.
+El 13/04/2026 el Ayuntamiento de Calera y Chozas firma un informe de compatibilidad urbanística del proyecto en el
+que se informa favorablemente respecto de la concesión de la Licencia Urbanística solicitada.
+El 17/04/2026 el Servicio de Medio Natural de Toledo se reitera respecto al informe desfavorable emitido anteriormente.
+Los informes recibidos en el Órgano Ambiental, son analizados y las respuestas recibidas se han tenido en cuenta
+en el análisis ambiental del proyecto, incorporándose, en base a su relevancia, en esta declaración de impacto
+ambiental, bien en el apartado siguiente que analiza las principales afecciones, o en el apartado Cuarto de Conclusión.
+3.- Resumen del análisis técnico del expediente y fundamentos de inviabilidad.
+Conforme al artículo 45 de la Ley 2/2020, una vez examinado el estudio de impacto ambiental y considerando
+que se ha tenido en cuenta el resultado de las consultas y que la información pública se ha llevado conforme a la
+ley, procede realizar el análisis técnico del proyecto, evaluando los efectos ambientales previsibles, al objeto de
+determinar si procede la realización o no del proyecto, las condiciones en las que puede desarrollarse y las medidas
+adicionales, correctoras o compensatorias necesarias.
+3.1 Características y ubicación del proyecto
+El proyecto pretende llevar a cabo la transformación a regadío por goteo de 39,8236 ha para una plantación de olivar
+super-intensivo en 12 parcelas (52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 10059, y 20059) del polígono 505 del T.M. de
+Calera y Chozas (Toledo). Está dentro del paraje “Las Atalayuelas” del término municipal de Calera y Chozas.
+El marco de plantación es de 1,35 x 4 m. Se instalará un sistema de riego directo por bombeo solar, ubicando los
+paneles solares sobre la cubierta de la edificación existente en la parcela. Las dos tomas (sondeos) son existentes
+y se pretende mantener los usos actuales y ampliar para el riego de la plantación del olivar superintensivo.
+Según se informa el Ayuntamiento de Calera y Chozas, tras consultar las vigentes NN. SS. Municipales, la parcela
+objeto de este informe está clasificada como Suelo Rústico y tiene diversas calificaciones:
+- Como no urbanizable de especial protección natural – grado 3º (SRNUEP-NA-3º), la zona oeste de la parcela.
+- Como no urbanizable de especial protección ambiental – Vías Pecuarias (SRNUEP-AM-vp), el límite norte de la
+parcela, al estar afectada por la zona de protección de la cañada Real Leonesa.
+- Como suelo rústico de reserva (SRR), el resto de la parcela, según consta en el plano de Ordenación 14.1b de la
+Modificación Puntual vigente, aprobada definitivamente en mayo de 2.015.
+Para la superficie y parcelas del proyecto hay una inscripción de aguas con expediente “SB-1263/2020”, destinada
+a riego por aspersión de forraje y abrevadero de ganado bovino y equino.
+La Distancia a Suelo Urbano es de al menos 3 km de Gamonal, perteneciente al municipio de Talavera de la Reina
+(Toledo). En cuanto a núcleos de población relativamente importantes, las parcelas objeto de estudio del proyecto
+están a al menos unos 10 km del centro de Talavera de la Reina. El ámbito de estudio incluye el área regable, así
+como el entorno en el que los distintos posibles impactos pueden ser apreciados.
+Según el EsIA, la Distancia a infraestructuras desde el limite exterior de la finca de interés es la siguiente:
+Infraestructura Distancia o ubicación
+Autovía A5 y vía de servicio Limita por el norte con toda la finca
+Carretera CM-4130 728 m hacia el Este de la finca
+Carril de la Raya de Chozas Limita por el oeste con la finca
+Según informa el Ayuntamiento de Calera y Chozas, De acuerdo con los artículos III- 6.6.2.1. y III-6.6.6 de las
+NN.SS., en la zona calificada como SRNU especial protección natural grado 3º y Suelo rústico de reserva (SRR)
+la actividad que se pretende realizar es compatible con el Planeamiento Urbanístico Vigente, figurando en la ficha
+correspondiente a la zona, dentro del apartado a) y c) de los Actos de aprovechamiento permitidos.
+Las parcelas objeto de interés para la transformación a riego presentan actualmente el uso de tierras arables de
+secano y pastizal y no cuentan con un coeficiente de regadío. En concreto, según los datos aportados por Sigpac,
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32679
+las parcela 60 y 61 del polígono 505 del TM de Calera y Chozas tiene uso pastizal, al menos desde 2019, por lo que
+están afectadas por la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza de Castilla-La Mancha. Por
+tanto, estas parcelas no tienen un uso agrícola.
+La finca se encuentra en zonas de conservación de la biodiversidad de la Red Natura 2000, correspondientes a
+la ZEPA “Llanuras de Oropesa, Lagartera y Calera y Chozas-- ES030_ZEPAES0000168” y al LIC “Llanuras de
+Oropesa, Lagartera y Calera y Chozas- ES030_LICSES0000168”.
+Si bien el área propuesta para la plantación no se ubica sobre áreas críticas, sí se localiza a una distancia de 700
+m aprox. de las áreas críticas del águila imperial ibérica, buitre negro, cigüeña negra y águila perdicera. Además,
+dichas parcelas se ubican sobre zonas de importancia para águila imperial ibérica y buitre negro, especies incluidas
+en el catálogo de especies amenazadas del Castilla-La Mancha. También se encuentra sobre el IBA ‘’Llanos de
+Oropesa’’. Por otra parte, el servicio de Calidad Ambiental de Toledo observa que el proyecto se encuentra a unos
+18 km de zona de presencia estable y reproductora de lince ibérico.
+En el caso de la presencia de aves esteparias, si bien el documento ambiental aportado indica la no presencia de
+las mismas, el Servicio de Medio Natural tiene constancia de avistamientos de especies en el entorno (ver anexo),
+no siendo suficiente 3 visitas en el mismo mes para determinar la presencia o no de las mismas. El Servicio de
+Medio Natural de Toledo tiene constancia de la presencia en las parcelas contiguas a las parcelas de plantación,
+de especies protegidas, como la avutarda, el sisón, el aguilucho pálido y aguilucho cenizo y el cernícalo vulgar y
+cernícalo primilla, así como de la existencia de dos nidos de águila imperial ibérica a una distancia aproximada de
+5 y 3 kilómetros. La ubicación de los nidos, junto con la presencia de conejo en la zona de riego, como comenta
+el documento ambiental aportado por el promotor, hace probable que la zona se utilice como cazadero por dicha
+especie.
+El proyecto se encuentra contiguo a la parcela la vía pecuaria ‘Cañada Real de Extremadura’, según indican los
+Agentes medioambientales y el Servicio de Medio Natural de Toledo.
+En cuanto a Zonas protegidas, el proyecto está dentro del área de captación de la zona sensible “Embalse de
+Azután– ES030ZSENESCM495” y de la zona vulnerable “Madrid-Talavera-Tiétar- ES030_ZVULES42_5”.
+En cuanto a aguas superficiales, según la cartografía consultada del Geoportal: https://sig.mapama.gob.es/geoportal/,
+la zona de actuación se encuentra fuera de zona de policía de cauces. En relación a las aguas subterráneas, las
+actuaciones se asientan sobre la masa de agua subterránea “Talavera- ES030MSBT030.015”.
+El proyecto se encuentra atravesado en su interior por el Arroyo de Chiclana. Respecto a las aguas minerales/
+termales, tras revisar el catastro minero en julio de 2026, se observa que parte del proyecto se ubica en zona de
+aguas minerales/termales, concretamente en aguas minerales /termales “Aguas del Soto”.
+En su informe de consultas previas, el informe recibido a fecha 02/02/2026 desde la Confederación Hidrográfica del
+Tajo menciona los siguientes expedientes relacionados con el asunto de este informe:
+- SB-0672/2003: con fecha 29 de mayo de 2003 se resolvió la inscripción de un aprovechamiento de aguas
+subterráneas con destino a abrevadero, en la parcela 61 del polígono 5, TM Calera y Chozas (Toledo), a nombre de
+Shari Ann Sabin y Santiago Cortijo Pelayo.
+- SB-1263/2020: con fecha 15 de marzo de 2021 se resolvió la inscripción de un aprovechamiento de aguas
+subterráneas de dos captaciones con destino a riego por aspersión de forrajes y uso ganadero (abrevadero bovino
+y equino), en la parcela 61 del polígono 505, TM Calera y Chozas (Toledo), a nombre de Shari Ann Sabin y Santiago
+Cortijo Pelayo.
+- C-0034/2025: relativo a la solicitud de concesión de un aprovechamiento de aguas subterráneas a derivar mediante
+dos puntos de toma y/o captación (sondeo y pozo) con destino a riego por goteo de 39,8236 ha de olivar, riego
+por aspersión de 1,50 ha de forraje, usos ganaderos de 100 cabezas de ganado vacuno y usos ganaderos de 50
+cabezas de ganado equino, en las parcelas 60, 61, 52, 53, 54, 55, 56, 57, 58, 59, 10059 y 20059 del polígono 505
+del término municipal de Calera y Chozas (Toledo), a nombre de Shari Ann Sabin. Este expediente se encuentra en
+tramitación en la Confederación.
+3.2 Afección a la Red Natura 2000 y en Hábitats de Interés Comunitario (HIC) y fauna amenazada
+Según indica el informe del Servicio de Medio Natural, en relación al impacto del regadío, el sistema de plantación en
+super-intensivo resulta contraproducente con relación a la conservación del entorno. La mayor parte de las parcelas
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32680
+se encuentra en espacio Red Natura 2000, en concreto en la ZEC-ZEPA Llanuras de Oropesa, Lagartera y Calera y
+Chozas (ES0000168), siendo la zonificación C (zona de uso especial) y B (zona de uso compatible). Esta zona está
+estrechamente ligada a la importancia o protección de aves esteparias, las cuales aparecen en el entorno donde se
+pretende ubicar la plantación.
+El Servicio de Medio Natural también remarca que, haciendo alusión al plan de gestión del espacio Red Natura 2000
+(punto 9.13.1. del mismo, Proyectos de Hidráulica Agrícola y Transformación en Regadío), la actividad pretendida
+consiste en un cambio de cultivo de herbáceo a leñoso, además de un cambio de uso en la superficie de pastizal, lo
+cual requiere autorización previa por parte del Servicio de Medio Natural. Además, haciendo alusión al punto 9.13.2.
+de dicha normativa y con relación al aumento de superficie para leñosos, desde la fecha oficial de la ZEPA (febrero
+de 1998) ha habido un incremento de la superficie destinada a cultivos de leñosos.
+El agente medioambiental corrobora la afección al espacio protegido (todas las parcelas excepto la 60 y la 61 forman
+parte del LIC-ZEPA Llanuras de Oropesa, Lagartera y Calera y Chozas) y en cuanto a fauna amenazada afectará a
+todas las aves esteparias especialmente al sisón y a la avutarda. A nivel de paisaje, remarca el gran impacto visual
+del cultivo en espaldera, que modificaría de manera ostensible el paisaje de la zona.
+Por otro lado, el agente ubica en la zona abundantes lagunas temporales que forman parte de una red de humedales
+donde suele haber especies de flora sensible como la Marsilea strigosa protegida por la Directiva Hábitat 92/43/
+CEE anexos II, IV y V, incluida en el Catálogo Español de Especies Protegidas (CEEA), en el Catálogo Regional
+de Especies Amenazadas (CREA) y en la Lista Roja de Flora Vascular Española, y la Isoetes histrix incluida en el
+CEEA y en el CREA
+Respecto a la fauna existente en la zona, el estudio ambiental expone una lista de fauna potencial, y en cuanto a
+inventario en campo, realizan 3 visitas para concluir la ausencia de esteparias. Tanto el Servicio de Medio Natural
+como el de Calidad Ambiental consideran que el inventario faunístico es insuficiente al no incluir un inventario
+descriptivo y de seguimiento de avifauna propio y adecuado para un proyecto de evaluación ambiental ordinaria y
+no permitir un análisis de la posible afección que permita decir si las parcelas del proyecto son realmente adecuadas
+para la fauna o no.
+El marco previsto para la plantación en super-intensivo, es improbable que especies como las rapaces puedan utilizar
+la superficie afectada como cazadero, por lo que, el impacto no se podría considerar compatible como establece
+el estudio. Con relación a la pérdida de hábitat, en concreto para aves esteparias, el documento establece que la
+presencia humana y elementos antrópicos hace suponer que las especies seleccionarán otras áreas más alejadas.
+El promotor ha elaborado un plano a fin de excluir las áreas que se han considerado inadecuadas, resultado una
+zona teórica adecuada y concluyendo que no habrá afecciones directas ni indirectas para las aves esteparias. Esta
+zonificación teórica es insuficiente para determinar el impacto a la fauna.
+Por todo ello, con fecha de firma 16/02/2026, el informe del Servicio de Medio Natural considera desfavorable en
+base a los objetivos establecidos para la ZEPA ES0000168, siendo el prioritario el de mantener la estructura de
+hábitats esteparios, evitando las transformaciones del medio que introduzcan elementos verticales, fragmentación o
+pérdida de pastizales que sirvan como zonas de alimentación y reproducción de las aves esteparias, así como que
+la actividad pretendida supone la sustitución de un cultivo herbáceo y un pastizal permanente por una plantación de
+leñosos en super-intensivo de una superficie elevada. El impacto generado en el medio supone la pérdida de calidad
+de hábitats para las especies mencionadas, siendo estos esenciales para las mismas y no pudiendo garantizarse la
+ausencia de efectos adversos al espacio Red Natura 2000.
+Con fecha 24/03/2026 el promotor presenta alegaciones a los informes recibidos y a raíz del informe desfavorable
+del Servicio de Medio Natural. En las alegaciones el promotor argumenta que el terreno tiene una baja capacidad
+para albergar aves esteparias debido a su reducida superficie útil y a la fragmentación causada por infraestructuras y
+actividades existentes. El promotor considera que la falta de observaciones de aves esteparias durante los trabajos
+de campo se considera coherente con la escasa calidad del hábitat, aunque se ofrecen estudios adicionales si fueran
+necesarios. Aunque parte de la zona se encuentra en una ZEPA, se sostiene que la afección es no significativa
+por la limitada funcionalidad ecológica y el grado de alteración ya existente. Así, se pide reconsiderar el informe
+desfavorable al entender que no valora adecuadamente la realidad del hábitat y que los posibles impactos no están
+suficientemente justificados técnicamente.
+Posteriormente, el Servicio de Medio Natural contesta reiterándose en lo expuesto en el informe previamente
+emitido teniendo en cuenta las características del proyecto solicitado y los avistamientos de especies incluidas en
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32681
+el Catálogo Regional de Especies Amenazadas de Castilla-La Mancha. Concretamente se reafirma en el hábitat
+estepario de las parcelas objeto de estudio. La intensificación agrícola supondría efectos negativos por aumente
+de la verticalidad del paisaje, pérdida de hábitat funcional de alimentación y nidificación de aves esteparias,
+fragmentación y pérdida de conectividad, no siendo compatible con el plan de gestión del espacio protegido por
+pérdida de hábitat estepario y reducción de áreas de caza para rapaces, incluida la posible afección al águila
+imperial ibérica.
+Por último, las medidas correctoras establecidas por el promotor están seleccionadas únicamente por criterios
+agrícolas, no garantizan suficientemente la conservación de las especies presentes.
+Así, el Servicio de Medio Natural de Toledo concluye que la transformación de secano a regadío, así como la
+incorporación de olivar en régimen super-intensivo supone una pérdida de hábitat para las especies de las cuales se
+tiene constancia de su presencia. En este sentido, las características del proyecto presentado suponen un impacto
+negativo al entorno.
+3.3 Afección sobre el sistema hidro morfológico
+Según indica el Agente Medioambiental en su informe en las parcelas objeto de proyecto discurre el Arroyo de
+Chiclana, el cual puede verse afectado por la plantación. El aumento de captación de agua puede afectar el acuífero
+disminuyendo el nivel freático, siendo una zona de lagunas temporales de la red de humedales de CLM. El Servicio
+de Medio Natural hace alusión a posible contaminación difusa a causa de los productos químicos a emplear en la
+plantación.
+De manera adicional, en relación a las aguas minerales/termales, desde el Servicio de Calidad Ambiental de Toledo
+hemos observado que parte del proyecto se ubica en zona de aguas minerales/termales, concretamente en “Aguas
+del Soto“.
+Por parte de Confederación Hidrográfica del Tajo, se indica que al tratarse de una actividad que puede suponer la
+incorporación de fertilizantes nitrogenados a las masas de agua, se debe valorar la compatibilidad de la solicitud
+con relación al logro de los objetivos ambientales. Dado que el drenaje de la parcela se efectuaría hacia la masa de
+agua superficial “Embalse de Azután” afectada por la contaminación por nitratos de acuerdo con la Resolución de 9
+de mayo de 2022, de la Dirección General del Agua, se desprende que las medidas implantadas hasta la fecha no
+han sido suficientes para prevenir este tipo de contaminación.
+4.- Conclusión
+A tenor de todo lo expuesto y en aplicación del artículo 6 de la Directiva 92/43/CEE y en virtud de lo establecido
+para las Zonas Sensibles en el artículo 56 de la Ley 9/1999, de 26 de mayo de Conservación de la Naturaleza, se
+concluye que la actuación pretendida supondría un grave deterioro de los valores naturales del entorno, por lo que
+resulta incompatible con la conservación de los mismos. Por todo ello, esta Delegación Provincial de Desarrollo
+Sostenible de Toledo, considera que el proyecto “Transformación a regadío para plantación de olivar” (Exp.
+S478/2025/TO/00056) es ambientalmente no viable.
+En consecuencia, una vez finalizado el análisis técnico del expediente de evaluación de impacto ambiental,
+conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, de acuerdo con las
+competencias atribuidas por el Decreto 112/2023 de 25 de julio, en el que se establece la estructura orgánica
+y las competencias de la Consejería de Desarrollo Sostenible, y la Resolución de 24/05/2024, de la Dirección
+General de Calidad Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las
+Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, esta Delegación Provincial, teniendo en
+cuenta los recursos naturales presentes en su ámbito de actuación y su afección sobre la Red Natura 2000 con
+la categoría de Lugar de Importancia Comunitaria (LIC), reservada para lugares con relevantes hábitats naturales
+y especies amenazadas, y designada en aplicación de la Directiva 92/43/CEE, relativa a la conservación de los
+hábitats naturales y de la flora y fauna silvestres, concretamente se ubica en el LIC ZEC-ZEPA “Llanuras de
+Oropesa, Lagartera y Calera y Chozas” (ES0000168), determina, a los solos efectos ambientales, la inviabilidad
+del proyecto, al considerar que las actuaciones propuestas son incompatibles con la conservación de la ZEPA
+“Llanuras de Oropesa, Lagartera y Calera y Chozas”, por lo que se formula la presente declaración de impacto
+ambiental, desfavorable.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32682
+5.- Otras consideraciones
+a) Publicación
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible, tal y como establece el artículo 46.4 de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha.
+b) Recursos
+De acuerdo con el artículo 46.5 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+esta declaración de impacto ambiental no será objeto de recurso, salvo los que procedan en vía administrativa o
+judicial frente al acto por el que se autoriza el proyecto.
+c) Publicación de la denegación del proyecto
+Por último, y de conformidad con el artículo 42 de la Ley 21/2013, el órgano sustantivo, en el plazo de quince días
+desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La Mancha, un
+extracto del contenido de dicha decisión para su publicación.
+Asimismo, publicará en su sede electrónica la decisión sobre la autorización o denegación del proyecto y una
+referencia al Diario Oficial de Castilla-La Mancha en el que se ha publicado esta declaración de impacto ambiental.
+Se adjunta anexo cartográfico.
+Toledo, 7 de septiembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32683
+ANEXO CARTOGRÁFICO S478/2025/TO/00056
+Imagen nº 1. Ubicación de las parcelas del proyecto dentro de la zona ZEPA. Fuente: Servicio
+de Calidad Ambiental.
+Imagen nº 2. Avistamientos en el entorno del proyecto. Fuente: informe del servicio de Medio
+Natural de Toledo.

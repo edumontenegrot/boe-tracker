@@ -1,0 +1,665 @@
+AÑO XLV Núm. 183 23 de septiembre de 2026 32730
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 14/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Línea soterrada de media tensión 20 kV S/C desde
+ST Bargas para alimentar futuro PAU Palacio (S478/2026/TO/00175) en los términos municipales de Bargas
+y Toledo (Toledo), cuya promotora es Inmobiliara de Vistahermosa SA. [2026/6776]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+La actuación pretendida se encuadra en el Anexo II de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, concretamente, en el Grupo 4. Industria energética, Apartado b) Construcción de líneas para la
+transmisión de energía eléctrica (proyectos no incluidos en el anexo I) con un voltaje igual o superior a 15 kV, que
+tengan una longitud superior a 3 km, salvo que discurran íntegramente en subterráneo por suelo urbanizado, así
+como sus subestaciones asociadas.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+El proyecto tiene por objeto la implantación de una nueva Línea Subterránea de Media Tensión (LSMT) a 20 kV
+en simple circuito (S/C). La finalidad de esta infraestructura eléctrica es conectar la subestación de transformación
+existente S.T. Bargas n.º 3629 con un nuevo centro de transformación denominado C.T. “Singular”, con el fin de
+alimentar el futuro Programa de Actuación Urbanizadora (P.A.U.) Palacio, ubicado en el término municipal de Toledo.
+La titularidad final de la instalación, una vez sea integrada en la Red de Distribución, se cederá a la sociedad I-DE
+Redes Eléctricas Inteligentes, S.A.U.
+Se hace constar expresamente que el nuevo Centro de Transformación denominado C.T. “Singular” no forma
+parte del objeto de evaluación de la presente resolución. Dicha infraestructura se instalará nueva y será objeto
+de un proyecto urbanístico e industrial independiente y futuro asociado al desarrollo del P.A.U. Palacio. Por tanto,
+el presente expediente (S478/2026/TO/00175) ampara única y exclusivamente la obra civil y eléctrica de la línea
+subterránea de interconexión y sus cruzamientos autorizados.
+La infraestructura se define técnicamente en la documentación aportada mediante los siguientes parámetros:
+- Origen y final: La línea arranca en una celda de línea del edificio de control de la S.T. Bargas (coordenadas UTM
+ETRS89 Huso 30: X: 407.123, Y: 4.418.566) y finaliza en una celda del nuevo C.T. “Singular” (coordenadas UTM
+ETRS89 Huso 30: X: 410.511, Y: 4.414.790).
+- Trazado: Discurre en sentido norte-sur por caminos públicos, viales y zonas rústicas y urbanas de los términos
+municipales de Bargas (afectando a una longitud de canalización de 187 metros) y Toledo (con una longitud de
+canalización de 6.395 metros). El suelo afectado en zona no urbana está clasificado mayoritariamente como Suelo
+No Urbanizable Común en el planeamiento de Bargas, y como Suelo Rústico de Reserva en el de Toledo.
+- Longitudes de línea: La longitud total de la canalización subterránea es de 6.582 metros. Por su parte, la longitud
+total del cable conductor asciende a 6.612 metros (que incluye la canalización más 25 metros de entrada a la S.T.
+Bargas y 5 metros de entrada al C.T. “Singular”).
+- Conductores eléctricos: Se proyectan conductores unipolares de aluminio compacto de sección circular clase 2
+(UNE-EN 60228), con aislamiento de etileno propileno de alto módulo (HEPR) y cubierta exterior de poliolefina. El
+promotor divide los conductores en dos tipos según el tramo:
+Conductor tipo Al HEPRZ1 (AS) 12/20 kV 3 (1x240) mm²: Con cubierta no propagadora del incendio, a instalar en la
+salida de celdas y en un tramo inicial de 139 metros.
+Conductor tipo Al HEPRZ1 12/20 kV 3 (1x240) mm²: Con cubierta normal, para instalar en los restantes 6.473 metros
+de la línea.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32731
+La obra civil necesaria para la canalización se resume en las siguientes operaciones:
+- Canalización existente y de nueva apertura: Del total de la canalización subterránea (6.582 m), se contempla
+el aprovechamiento de 4.851 metros de canalización existente propiedad de i-DE, requiriendo la ejecución de
+únicamente 1.731 metros de nueva canalización entubada.
+- Excavación de zanjas y tubos: En los tramos nuevos, la línea se alojará en tubos de plástico de 160 mm de
+diámetro en el fondo de una zanja de sección rectangular. Se prevén canalizaciones de dos tubos (tipo C-2-160) o
+de cuatro tubos (tipo C-4-160) según los cruzamientos de calzadas o aceras. Las zanjas tendrán profundidades de
+enterramiento mínimas de 0,60 metros en condiciones ordinarias, y de 1,20 metros en zonas agrícolas o afectadas
+por servidumbres de vías pecuarias. En el cruce con terrenos pecuarios, el ancho de excavación de la zanja será
+de 160 cm.
+- Gestión de tierras y residuos: La tierra excavada se reutilizará para el rellenado de la zanja si sus características
+son aptas; en caso contrario, se retirará del lugar. El promotor estipula que los residuos del desmontaje (hormigón,
+arena) se trasladarán a un vertedero o escombrera de inertes, y el resto se entregará a un gestor autorizado.
+- Afección a la vegetación: De acuerdo con la memoria del proyecto, no se prevé la realización de talas ni podas de
+arbolado a lo largo del trazado.
+En su recorrido, la LSMT genera las siguientes afecciones en forma de cruzamientos y paralelismos:
+- Carreteras del Estado (Autovía TO-21): Paralelismo subterráneo por la margen derecha del p.k. 5+000 al p.k.
+5+750. El tramo del p.k. 5+000 al 5+600 discurre por canalización existente de I-DE, mientras que del p.k. 5+600 al
+5+750 se ejecutará una nueva canalización fuera del camino de servicio de la autovía.
+- Carreteras de la Junta de Comunidades (CM-40): El trazado plantea una afección en la margen derecha de
+esta carretera entre los pp.kk. 5+750 al 6+020. El promotor contempla realizar el cruzamiento de la calzada en
+el p.k. 6+020 aprovechando una canalización subterránea ya existente de i-DE (compuesta por 8 tubos de 160
+mm de diámetro y una longitud de 90 m), así como la apertura de una zanja paralela a la carretera en su zona de
+servidumbre. Asimismo, en la documentación gráfica se identifica la realización de otro cruzamiento subterráneo con
+la autovía y sus ramales en el p.k. 6+000.
+Dominio Público Hidráulico y zonas de policía: Se proyectan las siguientes actuaciones sobre cauces:
+Arroyo de Valdelobos: Cruzamiento subterráneo mediante zanja a cielo abierto, afectando temporalmente a una
+superficie de 6,25 m² de DPH.
+Arroyo Carrasco (o Zorreras): Cruzamiento subterráneo mediante el empleo de perforación horizontal dirigida (PHD),
+con fosos de entrada y salida de 2,00 x 2,00 metros, para salvar el encauzamiento de hormigón existente en dicho
+cauce. También se proyecta un paralelismo en su zona de policía.
+Arroyo de la Era: El promotor proyecta un cruzamiento subterráneo y un paralelismo longitudinal en su zona de policía.
+- Vías Pecuarias: Cruzamiento transversal y paralelismo longitudinal con la vía pecuaria “Cordel de Guadarrama”
+(tramo denominado “Colada del Fiscal”) en el término municipal de Toledo. El proyecto contempla una ocupación
+temporal de 380 metros de longitud y una superficie de 608 m², discurriendo de forma subterránea por debajo del
+trazado del carril bici y viales urbanos existentes en esa zona.
+En el análisis de alternativas del Documento Ambiental, el promotor plantea y justifica las siguientes opciones
+basándose en criterios de mínima afección ambiental:
+- Alternativa Cero: Es descartada por el promotor por cuanto impediría dotar de suministro eléctrico al futuro P.A.U.
+Palacio, argumentando que bloquearía el desarrollo urbanístico planeado para Toledo y anulando los impactos
+socioeconómicos positivos previstos (tales como la creación de empleo directo e indirecto y el fomento de la actividad
+económica local).
+- Alternativa Seleccionada (Trazado propuesto): Consiste en el trazado subterráneo de la línea a lo largo de 6.612
+metros. El promotor justifica técnicamente esta opción sobre cualquier otra debido a que aprovecha 4.851 metros de
+canalización existente propiedad de la distribuidora i-DE, limitando la apertura de zanja a únicamente 1.731 metros
+sobre caminos y viales públicos ya existentes.
+- Otras alternativas de trazado: No se detallan pasillos alternativos secundarios en la memoria. El promotor justifica
+esta exclusión argumentando que cualquier otro trazado obligaría a abrir una zanja nueva en la totalidad de sus 6,5
+kilómetros, lo que incrementaría sustancialmente la ocupación de suelo, la destrucción de vegetación, la generación
+de residuos de excavación y las emisiones acústicas y de polvo asociadas a la maquinaria de obra. Con base en
+sus criterios técnicos, el diseño adoptado busca que la actuación aproveche infraestructuras preexistentes para
+minimizar el consumo de recursos y la generación de residuos.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32732
+Segundo. Tramitación y consultas.
+El 24 de febrero de 2026, se recibe en el Servicio de Calidad Ambiental de Toledo, la solicitud de inicio del
+procedimiento de Evaluación de Impacto Ambiental Simplificada y el documento ambiental del proyecto, dando
+cumplimiento al artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, así
+como la copia del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de tasas y precios
+públicos de Castilla-La Mancha y otras medidas tributarias.
+Sobre la base de dicha documentación, el 5 marzo de 2026 y de acuerdo con el artículo 53 de la citada Ley 2/2020,
+se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el
+objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido
+los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+Dentro de la Delegación Provincial de Desarrollo Sostenible de Toledo:
+- Servicio de Medio Natural.
+- Servicio de Vías Pecuarias. *
+- Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo. DT. Toledo-La Sagra. *
+Otros organismos:
+- Consejería de Fomento de la Junta de Comunidades de Castilla-La Mancha. Dirección General de Carreteras.
+Servicio de Conservación y Explotación. *
+- Diputación Provincial de Toledo. Servicio de Infraestructura Viaria y Urbana. *
+- Consejería de Desarrollo Sostenible de Toledo. Dirección General de Calidad Ambiental. Servicio de Prevención e
+Impacto Ambiental.
+- Consejería de Agricultura, Ganadería y Desarrollo Rural de Toledo. Delegación Provincial. Servicio de Desarrollo
+Rural y Políticas Ambientales de Toledo. *
+- Ayuntamiento de Toledo. *
+- Ayuntamiento de Bargas. *
+- Consejería de Educación, Cultura y Deportes. Delegación Provincial de Toledo. Servicio de Cultura. *
+- Confederación Hidrográfica del Tajo.*
+- Ecologistas en Acción.
+- SEO-BirdLife.
+- WWF-España.
+- Acmaden-Ecologistas En Acción
+- Ardeidas.
+- Toledo Aire Limpio.
+- Agrupación Naturalista Esparvel de Toledo.
+Con fecha 9 de abril de 2026, de conformidad con la Ley 1/2024, de 15 de marzo, de Medidas Administrativas
+de Castilla-La Mancha, se notifica a los Ayuntamientos de Bargas y de Toledo sendas peticiones de informe
+específico sobre la afección socioeconómica del proyecto, efectos sinérgicos y afección a caminos vecinales u otras
+infraestructuras municipales de acuerdo. En respuesta a este requerimiento específico:
+- Con fecha 16 de abril de 2026, el Ayuntamiento de Bargas emite informe favorable condicionado certificando la
+compatibilidad de la línea con sus Normas Subsidiarias y avalando el interés general y los efectos socioeconómicos
+positivos de la instalación.
+- Con fecha 24 de abril de 2026, el Ayuntamiento de Toledo informa favorablemente señalando la alta conveniencia
+del proyecto para los intereses generales del municipio por la dotación eléctrica indispensable que aporta para
+consolidar y habilitar los nuevos desarrollos residenciales previstos en el P.A.U. Palacio
+Antes de pasar a analizar los informes sectoriales recibidos del período de consultas previas, se destaca como
+información de alto interés las siguientes autorizaciones previas integradas al expediente:
+- Delegación Provincial de Toledo de la Consejería de Fomento de la Junta de Comunidades de Castilla-La Mancha
+(Autovía CM-40 - Tramo pp.kk. 5+750 al 6+020): Consta en el expediente la Resolución de la Delegación Provincial
+de Toledo de la Consejería de Fomento de la Junta de Comunidades de Castilla-La Mancha, de fecha 27 de agosto
+de 2025 (TO-9344-25), por la que se autorizan actuaciones específicas en la carretera CM-40. Dicho resolución previa
+faculta única y exclusivamente al promotor para la realización de los trabajos de excavación de la zanja paralela en
+la margen derecha de la CM-40 (entre los pp.kk. 5+750 y 6+020) y para ejecutar el cruzamiento subterráneo de dicha
+autovía concretamente en el p.k. 6+020, aprovechando para ello una canalización subterránea preexistente de i-DE
+compuesta por 8 tubos de 160 mm de diámetro. Los condicionantes particulares y de restitución de las zonas de
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32733
+servidumbre impuestos en esta resolución de agosto de 2025 quedan integrados y bajo el amparo del presente Informe
+de Impacto Ambiental, advirtiendo de que cualquier actuación fuera de este tramo acotado requerirá un nuevo título.
+- Demarcación de Carreteras del Estado en Castilla-La Mancha de la Dirección General de Carreteras del Ministerio
+de Transportes y Movilidad Sostenible: Consta en la documentación del expediente que el promotor solicitó y obtuvo,
+con fecha 21 de octubre de 2025, la Resolución de Autorización de obras sectorial (TOL-AUT-25-180) para la
+ejecución del paralelismo subterráneo por el margen derecho de la Autovía TO-21 (pp.kk. 5+000 al 5+750).
+- Carretera Estatal TO-21 (pp.kk. 5+000 al 5+750): Consta en el expediente la resolución de la Demarcación de
+Carreteras del Estado de fecha 22 de octubre de 2025 por la que se autoriza el paralelismo y obra civil en el margen
+derecho quedan supeditados a la Autorización TOL-AUT-25-180, obligando al promotor a ejecutar las obras fuera
+del camino de servicio.
+Por otro lado, una vez analizados los informes sectoriales resultado de las consultas previas a los organismos
+consultados se constata que ninguno ha mostrado oposición a la ejecución del proyecto. No obstante, para facilitar
+el seguimiento del condicionado que se detalla en el Apartado Cuarto de esta resolución, se destacan a continuación
+aquellos informes que imponen obligaciones y medidas correctoras específicas al promotor:
+- Servicio de Medio Natural-Vías Pecuarias: Emite con fecha 30 de marzo de 2026 pliego de condiciones (VP/59/25)
+para la ocupación del “Cordel de Guadarrama” (Colada del Fiscal), condicionado a una serie de obligaciones.
+- Confederación Hidrográfica del Tajo (CHT): Emite informe sectorial con fecha 13 de abril de 2026. de manera
+condicionada de conformidad con las autorizaciones de obras previas concedidas en el expediente sectorial
+L-0276/2025. Manifiesta su conformidad técnica para la realización de los cruzamientos subterráneos proyectados
+bajo los cauces del Arroyo Valdelobos y el Arroyo Carrasco. No obstante, deniega de manera expresa cualquier tipo
+de actuación, ocupación o paralelismo en el cauce o en la zona de servidumbre del Arroyo de la Era, obligando al
+promotor a replantear el trazado en dicho tramo para dejar libre la zona de servidumbre de paso.
+- Dirección General de Carreteras de la Consejería de Fomento: Emite informe ambiental condicionado de fecha 18
+de junio de 2026 (TO-10305-23-SC) para el cruzamiento de la CM-40. Desde el punto de vista ambiental informa
+favorablemente al no preverse afecciones significativas. No obstante, para la ejecución de este nuevo cruzamiento
+proyectado bajo la CM-40 en el p.k. 6+000, el promotor deberá presentar de forma previa y obligatoria documentación
+técnica de detalle y obtener una nueva autorización de obras independiente ante este organismo sectorial.
+Finalmente, de conformidad con el artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, con fecha 10 de agosto de 2026 se procede a dar traslado de todos estos
+informes recibidos al promotor para su conocimiento y para la presentación de las alegaciones o aclaraciones que
+estimase oportunas. Transcurrido el plazo legalmente establecido sin haberse recibido alegaciones o manifestación
+alguna por su parte, se prosigue con la tramitación de las actuaciones.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+El promotor deberá adoptar las medidas que se indican a continuación, además de los condicionantes ambientales
+incluidos en el Documento Ambiental presentado, siempre que no se opongan a lo establecido en el presente
+Informe de Impacto Ambiental.
+Se informará a todo el personal implicado en la realización de las obras, del contenido del presente Informe de
+Impacto Ambiental, de manera que se ponga en su conocimiento las medidas que deben adoptarse a la hora de
+realizar los trabajos.
+3.1. Características del proyecto.
+Las características básicas del proyecto se han descrito en el apartado Primero del presente Informe. Básicamente
+consiste en las siguientes instalaciones:
+- Una Línea Subterránea de Media Tensión (LSMT) a 20 kV en simple circuito, para conectar la subestación existente
+S.T. Bargas con el nuevo C.T. “Singular” y dotar de suministro eléctrico al desarrollo residencial del futuro P.A.U.
+Palacio.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32734
+- Longitud total de canalización de 6.582 metros, optimizada al aprovechar 4.851 metros de infraestructura existente
+de i-DE y ejecutar únicamente 1.731 metros de nueva zanja.
+3.2. Ubicación del proyecto.
+El proyecto se ubica íntegramente entre los términos municipales de Bargas y Toledo discurriendo en su
+práctica totalidad por un entorno periurbano y rústico consolidado, caracterizado por la presencia de caminos
+agrícolas, parcelas de labor de secano y eriales, así como viales pavimentados y aceras correspondientes a las
+urbanizaciones “La Legua” y “Vistahermosa”. Aunque el área rústica circundante constituye una zona de campeo
+para diversas especies de rapaces protegidas, incluyendo el águila imperial ibérica (Aquila adalberti), la Unidad
+de Coordinación de Agentes Medioambientales descarta afecciones significativas sobre la avifauna catalogada
+debido a la naturaleza completamente soterrada de la instalación y al carácter temporal y localizado de las obras
+de excavación. En lo que respecta a la flora, la vegetación natural de la zona se encuentra muy alterada por el
+uso antrópico y el planeamiento urbano, no localizándose en el trazado de la línea ninguna comunidad vegetal de
+protección especial ni especies de flora amenazada, discurriendo la canalización por zonas ya desprovistas de
+cubierta vegetal natural o pavimentadas.
+En cuanto a los recursos naturales y la capacidad de carga del medio al proyecto:
+- Dominio público hidráulico y sus márgenes de protección: El informe de fecha 30 de septiembre de 2025 de la
+Confederación Hidrográfica del Tajo, indica que la actuación planteada se halla en las siguientes zonas protegidas,
+aguas superficiales y masas de aguas subterráneas:
+Zonas Protegidas (Plan Hidrológico de la Demarcación Hidrográfica del Tajo 2023-2027): La línea discurre sobre
+el área de captación de la zona sensible “Embalse de Castrejón – ES030ZSENESCM572” y dentro de la zona
+vulnerable a la contaminación por nitratos denominada “Madrid-Talavera-Tiétar – ES030_ZVULES42_5”.
+Aguas superficiales: El trazado de la línea genera cruzamientos con los arroyos Valdelobos, Carrasco (o arroyo
+Zorreras) y de la Era.
+Masas de Aguas Subterráneas: La línea eléctrica discurre sobre las masas de agua subterránea “Aluvial del Tajo:
+Toledo-Montearagón – ES030MSBT030.016” y “Talavera – ES030MSBT030.015”.
+- Montes de utilidad pública, vías pecuarias y dominio pecuario y forestal:
+Con respecto a estas figuras de protección el proyecto solo genera una afección de paralelismo longitudinal y
+cruzamiento transversal con la vía pecuaria “Cordel de Guadarrama” (dentro del tramo denominado “Colada del
+Fiscal”) en el término municipal de Toledo, con una ocupación temporal de 380 metros de longitud y 608 m² de
+superficie (entre las coordenadas aproximadas X: 410.396, Y: 4.414.843 en la entrada y X: 410.411, Y: 4.414.850
+en la salida).
+- Áreas protegidas previstas en la Ley 9/1999 de 26 de mayo, de Conservación de la Naturaleza: El proyecto no
+afecta directamente a Espacios Naturales Protegidos (ENP), Zonas Sensibles ni áreas de la Red Natura 2000.
+3.3. Características del potencial impacto.
+Es preciso destacar que el potencial impacto ambiental del proyecto se concentrará casi en su totalidad durante
+la fase de construcción (estimada en un plazo de ejecución de 2 meses), teniendo un carácter temporal, puntual
+y de baja intensidad. Una vez soterrada la línea e iniciada la fase de explotación, las afecciones físicas sobre el
+medio y el relieve desaparecen por completo, siendo un impacto fácilmente reversible. Al término de las obras de
+excavación, el promotor se compromete a la total restauración y reposición de los terrenos afectados, incluyendo
+viales pavimentados, aceras y caminos rústicos, restituyéndolos por completo a su estado original.
+Por otro lado, en el informe de la Unidad Agentes Medioambientales de Toledo de fecha 22 de marzo de 2026, se
+destaca la relevancia de la zona de estudio en la cuadrícula UTM 30TVK23 como área de campeo para diversas
+especies de rapaces protegidas, incluyendo el águila imperial ibérica (Aquila adalberti). No obstante, en este
+expediente la Unidad de Coordinación de Agentes Medioambientales descarta explícitamente la generación de
+problemas o molestias sobre la fauna silvestre, dado que la línea de media tensión discurrirá de forma completamente
+soterrada.
+En este mismo informe de los Agentes Medioambientales se evalúa también la afección a la vía pecuaria “Cordel
+de Guadarrama” (tramo “Colada del Fiscal”), ocupada de forma subterránea a lo largo de 380 m (608 m²; UTM X:
+410.396, Y: 4.414.843 a X: 410.411, Y: 4.414.850). Al ejecutarse bajo viales, aceras y carril bici ya urbanizados, la
+afección se considera menor y no exige desvíos de trazado.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32735
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor del proyecto en el documento
+ambiental, las cuales se consideran vinculantes con el contenido del presente Informe, y considerando las respuestas
+recibidas a las consultas realizadas, se formulan las siguientes medidas adicionales de protección, tratándose de
+condiciones que deberán incorporarse en la correspondiente autorización emitida por el órgano sustantivo.
+4.1. Protección de los recursos naturales de la zona.
+Teniendo en cuenta la naturaleza de la actuación (instalación completamente soterrada) y que el Servicio de Medio
+Natural descarta la existencia de afecciones relevantes sobre la flora, la fauna catalogada o los espacios protegidos
+de su competencia, no se establecen medidas correctoras especiales para estos factores en la zona de obras. La
+única afección física sobre los recursos del medio natural se limita a la ocupación del dominio público pecuario en la
+vía pecuaria “Cordel de Guadarrama” (tramo “Colada del Fiscal”) en el término municipal de Toledo.
+Por tanto, las únicas medidas impuestas en este apartado para la conservación del entorno natural y del dominio
+público pecuario son las establecidas en el Pliego de Condiciones de Vías Pecuarias (VP/59/25) aprobado por la
+Delegación Provincial de Toledo:
+- Zanja: Profundidad mínima de 1,20 m (medida desde la generatriz superior del tubo) y ancho de 90 a 160 cm,
+según las indicaciones sobre el terreno de los agentes medioambientales.
+- Aviso y replanteo: Notificación formal del inicio de obras a la Delegación Provincial con un mes de antelación para
+redactar el acta de replanteo conjunta con los agentes medioambientales.
+- Restitución y aval: Plazo máximo de 3 meses tras las obras para retirar residuos y restituir la vía pecuaria a su
+estado original. La inspección de campo final y el acta de conformidad permitirán la devolución del aval.
+4.2. Protección del sistema hidrológico e hidrogeológico.
+Con el fin de garantizar la integridad del Dominio Público Hidráulico (DPH), la zona de servidumbre y de policía
+de los cauces, así como la calidad de las masas de agua superficiales y subterráneas, se estará a lo dispuesto
+en la resolución de la Confederación Hidrográfica del Tajo de fecha 30 de septiembre de 2025 (L-0276/2025) y
+en su informe ambiental de fecha 13 de abril de 2026 (EIA-0127/2026), observando estrictamente las siguientes
+prescripciones técnicas:
+- Protección de aguas subterráneas: Dado que la instalación se asienta sobre la masa de agua subterránea “Aluvial
+del Tajo: Toledo-Montearagón” (Código ES030MSBT030.016) y “Talavera” (Código ES030MSBT030.015), se deberán
+extremar las medidas para evitar infiltraciones. En este sentido, el suelo de las zonas de almacenamiento y acopio
+temporal de materiales de obra, así como las áreas de almacenamiento temporal de residuos, deberá estar debidamente
+impermeabilizados para evitar cualquier riesgo de contaminación por lixiviación o filtración de vertidos accidentales.
+- Gestión de aceites en subestaciones y centros de transformación: Se recomienda la construcción de un foso
+de recogida de aceite bajo los transformadores que se ubiquen en las instalaciones de transformación asociadas
+(tales como el nuevo C.T. “Singular”). Dicho foso estará convenientemente impermeabilizado y dimensionado para
+albergar la capacidad total del aceite contenido en el transformador en caso de rotura o derrame accidental, evitando
+la contaminación del suelo y del subsuelo.
+- Gestión de residuos y actividades de riesgo: Se habilitará un “punto verde” en la instalación para la segregación y
+almacenamiento de residuos sólidos y líquidos antes de su entrega a un gestor autorizado. Las superficies destinadas
+a este fin serán totalmente impermeables. Asimismo, se prohíbe realizar cambios de aceite de la maquinaria a pie
+de obra; para las operaciones de mantenimiento que impliquen riesgo de vertido de fluidos de automoción, se
+establecerán áreas específicas convenientemente impermeabilizadas y delimitadas, disponiendo en todo momento
+de sacos de sepiolita o absorbente vegetal ignífugo para el control inmediato de cualquier derrame accidental.
+- Prevención de arrastres y vertidos: Para evitar el arrastre pluvial de los materiales removidos durante las
+excavaciones de las zanjas y el consiguiente aporte de sólidos y aumento de la turbidez en los arroyos de la zona,
+se colocarán barreras móviles de retención de sedimentos en los puntos críticos de escorrentía.
+Queda estrictamente prohibido el vertido directo o indirecto de aguas residuales, restos de hormigonado o productos
+de desecho al cauce público o al subsuelo.
+- Cruzamientos autorizados sobre el DPH: Las obras de cruzamiento subterráneo de la línea eléctrica de 20 kV se
+ejecutarán de acuerdo con el proyecto técnico y las siguientes condiciones particulares impuestas por el organismo
+de cuenca en su autorización de fecha 9 de octubre de 2025:
+• Arroyo de Valdelobos: Ejecución mediante zanja a cielo abierto con una ocupación temporal de 6,25 m² de DPH
+(UTM X: 408.299, Y: 4.417.494 a X: 408.319, Y: 4.417.482). Exige profundidad mínima de 1 m bajo el lecho, restitución
+del perfil original, estabilización de taludes y ubicación de arquetas fuera del DPH y de la servidumbre de 5 m.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32736
+• Arroyo Carrasco (o de las Zorreras): Ejecución obligatoria mediante Perforación Horizontal Dirigida (PHD) con una
+ocupación temporal de 10,5 m² de DPH (UTM X: 409.789, Y: 4.414.805 a X: 409.807, Y: 4.414.801). Requiere una
+profundidad de al menos 1,50 m bajo el encauzamiento de hormigón, fosos (2,00 x 2,00 m) fuera de la servidumbre
+de 5 m e hitos de señalización permanentes fuera del DPH.
+- Actuaciones expresamente denegadas:
+• Arroyo de la Era: Conforme a la denegación expresa dictada por la Confederación Hidrográfica del Tajo en esa
+resolución de fecha 9 de octubre de 2025, Se prohíbe cualquier paralelismo o cruzamiento que ocupe DPH o la zona
+de servidumbre de 5 m. El trazado debe discurrir íntegramente fuera de dicha franja demanial.
+4.3. Protección del suelo y gestión de residuos.
+En este proyecto, el impacto sobre la edafología y el relieve terrestre es de carácter temporal y muy localizado,
+limitándose estrictamente a la fase de construcción por la apertura de zanjas y movimientos de tierras asociados. Al
+tratarse de una canalización subterránea que discurre en su práctica totalidad bajo caminos públicos, viales y aceras
+pavimentadas, no se prevé una ocupación permanente ni alteración irreversible del suelo rústico.
+Para minimizar esta afección sobre el suelo y garantizar una correcta gestión de los materiales sobrantes, se
+observarán rigurosamente las siguientes prescripciones técnicas de obligado cumplimiento:
+- Gestión del horizonte edáfico y restauración de zanjas: En los tramos rústicos de nueva apertura, se realizará el
+despeje y desbroce selectivo de la vegetación herbácea y de la capa edáfica superficial. Esta tierra vegetal fértil se
+retirará y acopiará en zonas libres de compactación por maquinaria.
+Una vez finalizadas las obras de tendido, esta tierra se empleará de forma prioritaria en el extendido y relleno de las
+zanjas y taludes de cauces y caminos para facilitar la revegetación natural. Finalizado el relleno y la compactación
+mecánica de las zanjas, se procederá a la reposición de los firmes urbanos y pavimentos demolidos restituyendo los
+viales a su estado de pavimentación original.
+Se recuerda que, según los informes de Carreteras y de Vías pecuarias, la profundidad de enterramiento de la
+canalización, medida desde la generatriz superior del tubo portatubos a la superficie de la acera o terreno natural,
+será de al menos 0,60 metros en condiciones ordinarias, y aumentará de forma obligatoria hasta un mínimo de 1,20
+metros en zonas de cultivo, cruces de caminos rústicos o bajo el dominio público pecuario de la vía pecuaria “Cordel
+de Guadarrama”.
+En aquellas superficies agrícolas o de dominio público pecuario que sufran compactación por el paso de vehículos,
+se realizará un laboreo o escarificado superficial de 30-40 cm de profundidad para recuperar la estructura física del
+suelo y su capacidad de infiltración.
+- Gestión de residuos: Los residuos generados durante las obras deberán gestionarse conforme a lo dispuesto en
+la Ley 7/2022, de 8 de abril, de Residuos y suelos contaminados para una economía circular. Se procederá a su
+separación en origen y entrega a gestores autorizados, prohibiéndose expresamente el vertido en el terreno de
+restos de hormigón o el lavado de cubas fuera de las zonas estancas habilitadas. El promotor del proyecto, o en
+su caso el contratista de las obras, deberá estar inscrito en el Registro de Productores de Residuos de Castilla-La
+Mancha, y suscribir el correspondiente contrato con un gestor autorizado para su posterior gestión. Como medida
+correctora adicional, se realizarán batidas de limpieza de residuos en el área de influencia directa del proyecto.
+Igualmente deberá tener en cuenta, en caso necesario, Real Decreto 105/2008, de 1 de febrero, por el que se
+regula la producción y gestión de los residuos de construcción y demolición. Los residuos de aparatos eléctricos y
+electrónicos generados durante toda la vida útil de la actividad, se gestionarán conforme al Real Decreto 110/2015,
+de 20 de febrero, sobre residuos de aparatos eléctricos y electrónicos.
+- Prevención de vertidos accidentales: El mantenimiento de maquinaria se realizará en áreas impermeabilizadas.
+En caso de fugas accidentales de aceites o combustibles, se actuará de inmediato retirando el suelo afectado hasta
+una profundidad que asegure la ausencia de contaminantes, depositando dichas tierras en contenedores estancos
+para su gestión como residuo peligroso.
+4.4. Protección urbanística e infraestructuras.
+Atendiendo al planeamiento urbanístico vigente de los municipios afectados, las instalaciones de la línea subterránea
+de media tensión de 20 kV (con una longitud total de 6.582 m) se distribuyen territorialmente de la siguiente manera:
+- Término Municipal de Bargas (187 m): Discurre por terrenos clasificados como Suelo No Urbanizable Común
+(Suelo Rústico de Reserva según el TRLOTAU). Conforme al informe municipal de compatibilidad urbanística de
+fecha 16 de abril de 2026, el uso dotacional de red de distribución eléctrica está plenamente permitido según las
+Normas Subsidiarias de Bargas.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32737
+- Término Municipal de Toledo (6.395 m): El trazado de la línea eléctrica a su paso por el término municipal de Toledo
+discurre por suelo clasificado como Suelo Rústico de Reserva y zonas de suelo urbano. Conforme al informe del
+Área de Urbanismo del Ayuntamiento de Toledo de fecha 24 de abril de 2026, la instalación se considera compatible
+con el Plan General Municipal de Ordenación Urbana al no estar expresamente prohibida en dicha clase de suelo,
+constatándose además su conveniencia y necesidad de interés general para la dotación de suministro eléctrico al
+Programa de Actuación Urbanizadora del sector “PAU Palacio”.
+Además, se recuerda, que al ubicarse la actuación en suelo rústico, el promotor deberá dar estricto cumplimiento
+a las prescripciones de la Orden de 4/2020, de 8 de enero, de la Consejería de Fomento, por la que se aprueba la
+Instrucción Técnica de Planeamiento sobre requisitos sustantivos en suelo rústico, así como a las especificaciones
+del Decreto Legislativo 1/2023, de 28 de febrero (TRLOTAU), y a los condicionantes del Decreto 242/2004, de 27
+de julio (Reglamento de Suelo Rústico de Castilla-La Mancha), en lo referente a las instalaciones de distribución
+energética.
+En lo referente a Infraestructuras, el proyecto intercepta y afecta a los siguientes elementos de dominio público
+pecuario y de comunicación:
+- Vía Pecuaria “Cordel de Guadarrama” (tramo “Colada del Fiscal”): Esta vía pecuaria cuenta con una anchura legal
+de 37,61 metros. La línea subterránea produce una afección longitudinal y transversal de 380 metros de longitud
+y 608 m² de superficie de ocupación temporal. El promotor queda obligado al estricto cumplimiento del Pliego de
+Condiciones de Ocupación Temporal (VP/59/25) emitido por la Delegación Provincial de Desarrollo Sostenible de
+Toledo, según se detallada en apartado 4.1. de la presente resolución, debiendo reponer por completo los viales
+pavimentados y el suelo pecuario afectado en un plazo de tres meses.
+- Autovía Autonómica CM-40 (Ronda Suroeste de Toledo): Se diferencia entre el paralelismo autorizado por parte de
+la Dirección General de Carreteras de la Consejería de Fomento-Servicio de Carreteras provincial de 25 agosto de
+2025 entre los pp.kk. 5+750 al 6+020 (TO-9344-25), y el nuevo cruzamiento complejo del p.k. 6+000, advirtiendo que
+para este nuevo cruzamiento bajo la CM-40 en el p.k. 6+000, el promotor deberá presentar documentación técnica
+de detalle y obtener, de forma obligatoria y previa, una nueva autorización de obras independiente, tal y como se
+indica en el Apartado Sexto. Documentación Adicional, del presente informe.
+Se recuerda que cualquier modificación relacionada con la actuación siempre deberá ser comunicada al Servicio de
+Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de Toledo.
+4.5. Protección a la atmósfera, calidad del aire y prevención del ruido.
+La actividad no se encuentra en el catálogo de actividades potencialmente contaminadoras de la atmósfera,
+publicado en el Real Decreto 100/2011, de 28 de enero. No obstante, para garantizar la calidad del aire y minimizar
+la contaminación acústica, se observarán las siguientes medidas:
+- Calidad del Aire: A fin de minimizar la producción y dispersión de polvo y partículas, se cumplirá lo dispuesto en la
+Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera. Durante la fase de construcción,
+se prohibirá circular a una velocidad superior a 20 km/h en viales no asfaltados, se regarán periódicamente los
+caminos mediante camiones cisterna y los vehículos que transporten materiales pulverulentos deberán cubrir la
+carga con lonas.
+- Emisiones y Maquinaria: Toda la maquinaria y vehículos de obra deberán contar con las Inspecciones Técnicas de
+Vehículos (ITV) en vigor, con especial atención al control de emisiones de gases y ruidos. Se realizarán revisiones
+periódicas de escapes, rodamientos y engranajes, registrando dichas actuaciones en fichas de mantenimiento para
+minimizar vibraciones y ruidos innecesarios.
+- Prevención del Ruido: Los niveles de emisión sonora durante la fase de obras deberán cumplir estrictamente lo
+establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, sus reglamentos de desarrollo y las ordenanzas
+municipales de Bargas y Toledo. Se realizarán mediciones rutinarias para asegurar que no se superan los umbrales
+permitidos, aplicando medidas preventivas para minimizar el impacto acústico de la maquinaria. En general, se
+procederá a la revisión y control periódico de los escapes, rodamientos, engranajes y mecanismos en general de la
+maquinaria; todas las revisiones de ruido de la maquinaria se recogerán en fichas de mantenimiento y se aplicarán
+las medidas preventivas oportunas para minimizar el efecto de las proyecciones y de la onda aérea.
+La actividad también deberá ajustarse a la regulación que a tal efecto establezca la normativa municipal en sus
+ordenanzas.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32738
+4.6. Protección del paisaje.
+Dada la tipología del proyecto, consistente en una línea eléctrica de media tensión proyectada de forma subterránea
+en su totalidad, la actuación no generará impactos visuales permanentes significativos sobre la cuenca visual de
+la zona. El soterramiento del trazado bajo viales, aceras y caminos existentes constituye, por sí mismo, la principal
+medida de prevención ambiental adoptada para la preservación de los valores paisajísticos del entorno.
+No obstante, para garantizar la rápida recuperación visual de la zona tras la fase de obras, se imponen las siguientes
+condiciones:
+- Instalaciones provisionales: Las casetas y acopios temporales se situarán en zonas de baja visibilidad y con
+colores poco llamativos.
+- Restauración visual de la traza: Tras la finalización de las zanjas y de las perforaciones dirigidas (especialmente
+bajo la CM-40 y los cauces públicos), los terrenos afectados deberán ser inmediatamente nivelados y perfilados
+conforme a la topografía original de la zona. El material de relleno de las canalizaciones en ningún caso podrá
+sobresalir del terreno natural ni alterar el perfil de las cunetas o los taludes de los arroyos.
+- Limpieza y retirada de acopios: Al concluir los trabajos, el promotor vendrá obligado a retirar del área de influencia
+de la traza cualquier caseta provisional, acopio de materiales o maquinaria de obra. Queda expresamente prohibido
+el depósito definitivo o abandono de tierras sobrantes, escombros o inertes en las zonas de servidumbre de las
+carreteras, cauces o vías pecuarias afectadas, debiendo quedar el entorno visualmente limpio. Se realizarán
+limpiezas exhaustivas para retirar y restos menores (botellas, latas, colillas, etc.).
+4.7. Patrimonio cultural.
+De acuerdo con la Resolución de la Delegación Provincial de Educación, Cultura y Deportes de Toledo, de fecha
+5 de agosto de 2025 (252047), el proyecto ha sido considerado como autorizable desde el punto de vista de la
+protección del patrimonio histórico, arqueológico y paleontológico.
+Dado que la totalidad de la línea discurre de forma subterránea, principalmente aprovechando canalizaciones y
+viales existentes, la Delegación Provincial ha dado por finalizado el expediente preventivo al no constar afecciones
+previas directas. No obstante, para asegurar la protección del patrimonio cultural ante cualquier imprevisto durante
+el movimiento de tierras, el promotor queda obligado al estricto cumplimiento de las siguientes disposiciones:
+- Modificaciones del Trazado: De conformidad con los artículos 26 y 48 de la Ley 4/2013, de 16 de mayo, de
+Patrimonio Cultural de Castilla-La Mancha, cualquier variación o modificación posterior del emplazamiento de las
+zanjas, perforaciones dirigidas o de las infraestructuras autorizadas en este momento deberá contar preceptivamente
+con el visado y la autorización expresa previa de la Delegación Provincial de Educación, Cultura y Deportes de
+Toledo
+- Protocolo de Hallazgos Arqueológicos: En caso de aparición de restos arqueológicos y/o paleontológicos durante
+el transcurso de las obras se deberá actuar conforme a lo previsto en el artículo 52 de la Ley 4/2013 de 16 de mayo
+de Patrimonio Cultural de Castilla la Mancha, debiendo paralizar inmediatamente trabajos de excavación en la zona
+afectada y comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia de
+Patrimonio Cultural.
+4.8. Plan de restauración y desmantelamiento.
+Para garantizar la recuperación de la capacidad de uso del suelo y la integración definitiva de los terrenos afectados
+por la traza una vez finalizadas las distintas fases del proyecto, una vez finalizadas las distintas fases del proyecto,
+se establecen las siguientes prescripciones de obligado cumplimiento:
+Restauración tras la fase de construcción:
+- Informe de Cumplimiento: Una vez finalizadas las obras de soterramiento de la línea y de forma previa al inicio de
+la actividad de suministro (dentro del primer trimestre del año), el promotor elaborará un informe detallado sobre las
+acciones de restauración ejecutadas, que se integrará dentro del Programa de Vigilancia y Seguimiento Ambiental.
+- Alcance del informe: Este documento evaluará el grado de cumplimiento de las medidas y se centrará especialmente
+en:
+• La correcta gestión de las tierras (control de desbroces, volumen y estado de los acopios, y almacenamiento
+adecuado de la tierra vegetal).
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32739
+• La preparación del suelo, descompactación de las zonas afectadas por el paso de maquinaria y el éxito de la
+regeneración de la vegetación natural en los tramos de zanja a cielo abierto y fosas de hinca.
+• La ejecución efectiva de todas las Medidas Correctoras y Compensatorias establecidas en la presente resolución.
+• Uso de la tierra vegetal: Toda la capa de tierra fértil extraída y acopiada en cordones durante la fase de excavación
+se empleará prioritariamente para la cubrición, relleno y restauración de las zanjas y áreas degradadas por las obras
+de instalación del cableado.
+Desmantelamiento al finalizar la vida útil: Al cesar la actividad de transporte de energía de forma permanente, se
+procederá al desmantelamiento integral de las infraestructuras de la línea bajo los siguientes criterios:
+- Retirada de infraestructuras: Se retirarán todos los elementos conductores y cables de cobre o aluminio que formen
+parte de la línea subterránea. Los elementos de la línea deberán ser completamente eliminados y retirados del
+dominio público pecuario (cruce y paralelismo con el Cordel de Guadarrama) a expensas del titular de la ocupación,
+restituyendo dicho suelo a su estado original.
+- Gestión de residuos: Los trabajos de extracción de conductores y desmantelamiento de canalizaciones auxiliares
+que queden en desuso serán ejecutados a través de gestores autorizados atendiendo a la naturaleza de cada
+residuo. Se priorizará la valorización y reutilización de los componentes conductores de metal y plásticos de
+protección siempre que resulte técnicamente viable.
+- Residuos peligrosos: Se extremarán las precauciones de seguridad en la manipulación, recogida y transporte
+de cualquier residuo peligroso generado durante los trabajos de desmontaje de celdas o terminales de cableado,
+debiendo gestionarse con arreglo a la normativa vigente.
+Restauración final y restitución de terrenos:
+- Objetivo de restauración: Los terrenos rústicos afectados por la traza de la zanja (tanto en el término municipal
+de Bargas como en el de Toledo) se restaurarán y restituirán de forma íntegra a su estado genuino previo a la
+construcción, garantizando su plena devolución al uso agrícola y de pastizal original.
+- Topografía e Hidrología: Se garantizará que el perfil del terreno tras la retirada de conductores coincida con la
+topografía original de la zona, reestableciendo fielmente la escorrentía superficial de las aguas y dejando toda la
+zona de actuación en un perfecto estado de limpieza visual y ambiental.
+Presentación del Plan: El promotor vendrá obligado a presentar un Plan de Desmantelamiento y Restauración
+detallado del trazado subterráneo con una antelación mínima de tres meses al cese de la actividad de la línea.
+Validación técnica: Dicho plan requerirá la aprobación y el visto bueno expreso del Servicio de Calidad Ambiental
+de la Delegación Provincial de Desarrollo Sostenible de Toledo antes del inicio de cualquier trabajo de desmontaje.
+Garantía financiera: El plan deberá estar debidamente presupuestado para garantizar el compromiso del promotor
+tanto en las labores físicas de retirada del cableado como en la posterior gestión ambiental de los residuos generados
+durante el desmantelamiento.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De conformidad con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del presente condicionado ambiental, sin perjuicio
+de las competencias de comprobación e inspección que correspondan al órgano ambiental.
+El seguimiento y la vigilancia tendrán por objeto comprobar que la línea subterránea se ejecuta de acuerdo con las
+condiciones establecidas en la documentación aportada por el promotor y en esta resolución, completándose con
+las siguientes especificaciones sectoriales:
+Responsabilidad y Organización:
+- Técnico responsable del seguimiento ambiental en campo: El promotor designará formalmente a un técnico
+responsable del seguimiento ambiental en campo (interno o externo).
+- Modificaciones y Control: De las inspecciones de campo podrán derivarse modificaciones de las medidas previstas
+para mejorar los objetivos ambientales, las cuales requerirán de la autorización conjunta de los órganos sustantivo
+y ambiental.
+- Registro Documental: Todas las actuaciones de control, mediciones, reportajes fotográficos y planos que permitan
+verificar el cumplimiento de este condicionado deberán constar en actas y registros actualizados que estarán
+permanentemente en obra a disposición de la inspección de los Agentes Medioambientales.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32740
+A) Antes de las Obras:
+Replanteo y Jalonamiento: Se realizará el replanteo del trazado de la zanja de forma conjunta con los Agentes
+Medioambientales de la zona, procediendo al jalonamiento estricto de la banda de trabajo para evitar la afección de
+terrenos fuera de la zona autorizada.
+Notificaciones Sectoriales Obligatorias:
+- Vías Pecuarias: Se notificará a la Delegación Provincial de Desarrollo Sostenible en Toledo-Sección de Vías
+Pecuarias el inicio de los trabajos con una antelación mínima de un mes a fin de levantar el acta de ocupación
+temporal sobre el Cordel de Guadarrama.
+- Carreteras Estatales (TO-21): Se comunicará la fecha de inicio con diez días de antelación al Servicio de
+Conservación y Explotación de Carreteras de la Demarcación de Carreteras del Estado en Castilla-La Mancha.
+Autorizaciones Pendientes: El técnico responsable del seguimiento ambiental en campo designado por la promotora
+verificará de forma previa al inicio de cualquier obra civil en el p.k. 6+000 de la CM-40 que el promotor cuenta con la
+autorización de ejecución de obras independiente emitida por la Dirección General de Carreteras de la Consejería
+de Fomento, tras haber presentado el proyecto técnico complementario requerido.
+B) Durante la ejecución de las obras:
+- Control de caminos, vías pecuarias e infraestructuras: Se realizará un control riguroso de la no afección a los
+caminos públicos, vías pecuarias e infraestructuras existentes y afectadas por uso y obras de cruzamientos sin la
+correspondiente autorización, no debiéndose usar el hormigón en elemento natural.
+- Control del movimiento de tierras y excavaciones: Se supervisará que la excavación de las zanjas respete las
+profundidades mínimas impuestas por cada administración: 1,20 metros en el cruce del Cordel de Guadarrama, 1,00
+metro bajo el lecho natural de los arroyos Valdelobos y Carrasco.
+- Control de lodos bentoníticos y residuos: Se vigilará que las fosas de hinca para la perforación dirigida bajo la
+CM-40 y los arroyos estén impermeabilizadas para evitar filtraciones. Se constatará la correcta recogida de lodos
+bentoníticos y ripios para su entrega a un gestor de residuos autorizado, así como la separación en origen de los
+RCDs de asfalto y hormigón de las calles.
+- Control de no afección al Dominio Público: Se supervisará sobre el terreno que no se realice ningún tipo de
+obra, acopio ni paralelismo dentro de la zona de servidumbre del Arroyo de la Era, debiendo quedar dicho cauce
+completamente libre de afecciones conforme a lo dictado por la Confederación Hidrográfica del Tajo.
+C) Tras la finalización de las obras de instalación de la línea subterránea:
+- Restauración y Limpieza: Se comprobará que los terrenos afectados por las zanjas y las fosas de hinca queden
+perfectamente nivelados, perfilados y restituidos a la topografía original. Se verificará la descompactación del suelo
+y el extendido homogéneo de la tierra vegetal conservada. Asimismo, se certificará la retirada total de casetas
+provisionales, restos de obra y residuos, dejando el entorno visualmente limpio.
+- Informe Fin de Obra: El promotor presentará ante el órgano sustantivo y el ambiental, durante el primer trimestre del
+año inmediatamente posterior a la finalización de las obras, un informe único que compile las tareas de restauración
+ejecutadas, la gestión final de los residuos generados (RCDs) con sus correspondientes justificantes de entrega a
+gestor.
+D) A lo largo de toda la vida útil de la actuación a contar desde la entrada en funcionamiento del proyecto, se
+controlarán los siguientes aspectos:
+- Vigilancia de la traza y asentamientos: Durante el primer año de explotación de la línea, el promotor realizará
+inspecciones semestrales a lo largo de la traza para detectar posibles hundimientos del terreno de la zanja, procesos
+erosivos en los taludes de los arroyos cruzados o deficiencias en la revegetación natural, procediendo de inmediato
+a su corrección y nivelación.
+- Registro de Incidencias: Se mantendrá a disposición de los Agentes Medioambientales un registro simplificado con
+los resultados de las inspecciones visuales anuales y de cualquier labor de mantenimiento o reparación que requiera
+la apertura de suelo en la traza subterránea.
+Sexto. Documentación adicional.
+Con carácter previo a la ejecución del proyecto, el promotor deberá solicitar y obtener, además de la autorización
+sustantiva ante el Servicio de Industria y Energía de la Delegación Provincial de Desarrollo Sostenible de Toledo,
+cuantas autorizaciones, licencias y concesiones sean de aplicación a tenor de la legislación sectorial o específica
+vigente, en particular la licencia municipal de obras emitida por los ayuntamientos de Bargas y Toledo.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32741
+El promotor de este proyecto deberá presentar ante el órgano sustantivo y ambiental, preferentemente en formato
+digital, la siguiente documentación:
+A) Antes de la autorización administrativa de construcción del proyecto por parte del órgano sustantivo.
+- Medio Natural: Copia de la Autorización por parte del Servicio de Medio Natural - Sección de Conservación, de esta
+Delegación Provincial, si procede, por el descuaje de la vegetación de matorral y/o arbolado de la zona, de acuerdo
+a la Ley 3/2008, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha.
+- Vías Pecuarias: Copia de la resolución de autorización de ocupación temporal del dominio público pecuario para el
+cruzamiento y paralelismo con el Cordel de Guadarrama (Colada del Fiscal), tramitada ante la Delegación Provincial
+de Desarrollo Sostenible de Toledo bajo el expediente sectorial de referencia VP/59/25.
+- Carreteras Autonómicas (CM-40 - p.k. 6+000): Copia del proyecto técnico de detalle complementario debidamente
+presentado ante la Dirección General de Carreteras de la Consejería de Fomento. Este documento deberá incluir
+los planos de planta acotados, las coordenadas de las arquetas de los extremos fuera de la zona de servidumbre
+de la carretera y los perfiles de resguardo del cruzamiento subterráneo proyectado en el p.k. 6+000 de la CM-40.
+B) Antes del inicio de las obras.
+- Seguimiento Ambiental: Documento de designación formal por parte de la promotora del técnico responsable del
+seguimiento ambiental en campo, aportando su titulación profesional y datos de contacto para la coordinación de las
+inspecciones de obra con los Agentes Medioambientales.
+- Comunicación del inicio de los trabajos de la actuación con una antelación mínima de 10 días y Calendario de
+ejecución de dichas obras.
+- Carreteras Autonómicas (CM-40 - p.k. 6+000): Copia de la nueva autorización de ejecución de obras independiente
+específica para el cruzamiento del p.k. 6+000 de la CM-40, emitida por la Dirección General de Carreteras tras la
+obtención de la Autorización Administrativa de Construcción.
+- Planificación Hidrológica (Arroyo de la Era): Presentación del trazado de replanteo alternativo final que certifique
+la total no afección, acopio o paralelismo dentro de la zona de servidumbre de paso del Arroyo de la Era, de
+conformidad con la denegación expresa emitida por la Confederación Hidrográfica del Tajo en su resolución sectorial
+(L-0276/2025).
+- Patrimonio Cultural: Copia de la comunicación formal de inicio de obras remitida a la Delegación Provincial de
+Educación, Cultura y Deportes de Toledo, acreditando asimismo que las oficinas de obra disponen de una copia
+física de la Resolución autorizable de fecha 5 de agosto de 2025 (252047).
+- Residuos y Gestión Ambiental: Copia de la comunicación de inicio de actividad de producción de residuos (RCDs
+derivados de la excavación, pavimentos asfálticos y hormigones de calles) conforme a la Ley 7/2022, de 8 de abril,
+junto con copia de los contratos formalizados con los gestores autorizados para su correcta retirada y valorización.
+- Plan de Desmantelamiento de todas las instalaciones y Restauración del medio, presupuestado, con el compromiso
+expreso del promotor de su realización.
+C) En el primer trimestre del año posterior al inicio de la actividad (únicamente durante el primer año de explotación):
+- Informe de Seguimiento Ambiental (explotación): Presentación de un único informe técnico sobre los controles
+y actuaciones realizadas en aplicación del Plan de Seguimiento y Vigilancia Ambiental durante el primer año de
+funcionamiento de la línea, que certifique la estabilidad de la traza subterránea, la correcta nivelación de los terrenos
+sin hundimientos ni asentamientos de zanja, y el éxito de la restauración del suelo y de la vegetación natural en los
+puntos de cruzamiento de arroyos, vías pecuarias y carreteras.
+D) Tres meses antes del cese del proyecto o de la actividad.
+- Plan de Restauración integral: Plan de Restauración integral y desmantelamiento de los terrenos afectados (retirada
+del cableado subterráneo), debidamente presupuestado, que garantice la restitución del entorno a su estado original
+previo a la actuación.
+Por otro lado, se recuerda que cualquier modificación relacionada con el trazado o las características técnicas
+de la línea subterránea de media tensión siempre deberá ser comunicada al Servicio de Calidad Ambiental de la
+Delegación Provincial de Desarrollo Sostenible de Toledo.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 112/2023 de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32742
+materia de evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, y de
+conformidad con el artículo 54 a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+resuelve que el proyecto línea soterrada de media tensión 20 KV S/C desde S.T. Bargas para alimentar futuro
+P.A.U. Palacio (S478/2026/TO/00175) en los términos municipales de Bargas y Toledo (Toledo), cuyo promotor es
+Inmobiliara de Vistahermosa S.A., no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por
+estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales
+y de seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto
+.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Además, se incluye un anexo cartográfico con la situación del proyecto para su localización por parte del público y
+del personal responsable del seguimiento.
+Toledo, 14 de septiembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA

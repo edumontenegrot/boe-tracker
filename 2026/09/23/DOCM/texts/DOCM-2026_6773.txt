@@ -1,0 +1,270 @@
+AÑO XLV Núm. 183 23 de septiembre de 2026 32721
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 14/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental de sometimiento a evaluación de impacto ambiental ordinaria del
+proyecto denominado: Aerogenerador de 2,2 MW para autoconsumo industrial asociado al centro logístico
+MAD7 de Amazon (S478/TO/2025/00019), situado en el término municipal de Illescas (Toledo), cuya promotora
+es Amazon Spain Fulfillment, SLU. [2026/6773]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+La actuación pretendida, se encuadra en el Anexo II del Real Decreto 445/2023, de 13 de junio, por el que se
+modifican los anexos I, II y III de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, concretamente, en el
+Grupo 4. Industria energética, Apartado h) Instalaciones para la utilización de la fuerza del viento para la producción
+de energía (parques eólicos) no incluidos en el anexo I.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+El proyecto tiene por objeto la instalación de un aerogenerador para el suministro de energía eléctrica, en modalidad
+de autoconsumo industrial sin excedentes, al centro logístico MAD7 (Amazon), situadas en la parcela 9000 del
+polígono 19 dentro del Sector SUB SO 06 “Puerto Seco”) del término municipal de Illescas (Toledo). El emplazamiento
+se ha seleccionado para optimizar el recurso eólico moderado disponible y reducir la huella de carbono asociada a
+la distribución de paquetería.
+Las características técnicas definitivas de la instalación son las siguientes:
+- Aerogenerador: Un único equipo del fabricante Vestas, modelo V110 (o similar).
+- Potencia Nominal: 2,2 MW.
+- Dimensiones: Altura de buje de 75 metros y diámetro de rotor de 110 metros, lo que supone una altura máxima
+total (punta de pala) de 130 metros.
+- Infraestructura de Evacuación: Línea subterránea de media tensión a 15 kV con una longitud total de 338 metros,
+que conectará la máquina con el centro de transformación (CT) del centro logístico.
+- Sistema de Control: Equipo de inyección cero (modelo PPC MK5 o similar) que garantiza el cumplimiento del RD
+244/2019, impidiendo el vertido de energía a la red de distribución eléctrica.
+- Ubicación del aerogenerador: Coordenadas UTM (ETRS89 Huso 30N) X: 427.109 / Y: 4.440.326.
+La ejecución requiere de obra civil que incluye un vial de acceso de aproximadamente 914 metros, una plataforma de
+montaje para grúas y una cimentación mediante zapata circular de hormigón armado de unos 20 metros de diámetro.
+La obra civil se desglosa en cuatro ejes fundamentales:
+- Viales de acceso y modificaciones del entorno:
+El acceso al emplazamiento se inicia en la rotonda de la carretera N-401A (P.K. 37A+800). La longitud total del
+acceso es de 914 metros, con un ancho útil de rodadura de 5 metros. Debido a la falta de espacio para radios de
+giro cerrados, se ha diseñado una zona de maniobra donde los transportes especiales deberán circular marcha atrás
+para acceder a la plataforma.
+- Plataforma de montaje:
+Se habilitará una superficie libre de obstáculos a pie del aerogenerador para la descarga, acopio y montaje de los
+componentes. La plataforma incluye zonas específicas para la grúa principal, ensamblaje del buje y góndola, acopio
+de palas y tramos de torre, estacionamiento y área de contenedores de obra.
+- Cimentación del aerogenerador:
+La estructura de soporte consiste en una zapata circular de hormigón armado que quedará enterrada, sobresaliendo
+únicamente el pedestal de anclaje de la torre. El diseño definitivo contempla un diámetro de 20 metros y un canto
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32722
+(grosor) de 2,8 metros. En la zapata se dispondrá una jaula de pernos para la fijación de la torre, así como tubos
+corrugados para el cableado de media tensión, fibra óptica, red de tierras y sistemas de desagüe interno.
+- Zanjas e infraestructura de evacuación:
+Para conectar el aerogenerador con el centro de transformación MAD7, se ejecutará una infraestructura subterránea
+con una longitud de 338 metros, un ancho de 60 cm y una profundidad de entre 1,1 y 1,2 metros. Para evitar
+interferencias con la logística diaria de Amazon, el cruce de los viales de camiones del centro logístico se realizará
+mediante tecnología de perforación horizontal sin apertura de zanja.
+- Almacén de residuos:
+Para la fase de operación y mantenimiento, se habilitará el almacén de residuos existente dentro de las instalaciones
+del centro logístico MAD7. Este recinto estará preparado para la recolección de consumibles y contará con
+compartimentos específicos para separar aceites, grasas, disolventes y desechos ordinarios. En caso de que el
+espacio actual sea insuficiente o inapropiado para la nueva aportación de la instalación eólica, el promotor se
+compromete a habilitar un nuevo espacio destinado al depósito temporal de estos residuos. Durante la obra,
+se dispondrá de una zona acondicionada para contenedores de gestión de residuos inertes y peligrosos en las
+proximidades del aerogenerador.
+- Vallado perimetral y cerramientos:
+El proyecto requiere actuaciones sobre el cerramiento actual de la parcela de Amazon para permitir el acceso de
+transportes especiales. Concretamente, se procederá a la retirada de un tramo de entre 10,5 y 15 metros del muro
+de delimitación de hormigón, así como al desmontaje de la puerta metálica corredera y su estructura. Una vez
+finalizadas las tareas de transporte y montaje de todos los componentes, el promotor tiene la obligación de restituir
+el muro y todos los elementos del vallado a su estado original.
+En referencia a las alternativas estudiadas para la actuación, el promotor ha evaluado un total de cinco alternativas
+de ubicación:
+Alternativa Cero: Descartada por no cumplir con los objetivos de generación de energía limpia ni contribuir a la
+mitigación del cambio climático, privando además al municipio de los beneficios socioeconómicos derivados de la
+inversión.
+Alternativas M6-01 A M6-04: Estas opciones fueron desestimadas por diversos motivos técnicos y ambientales. Las
+ubicaciones M6-03 y M6-04 se sitúan fuera del polígono industrial, lo que incrementaría la afección a la avifauna y a
+humedales cercanos. Las demás alternativas se localizan en términos municipales distintos (Numancia de la Sagra)
+o a una distancia excesiva del punto de consumo, lo que restaría eficiencia técnica al suministro eléctrico del centro
+logístico.
+Alternativa Seleccionada (MAD7): Se ha elegido la Alternativa 5 (MAD7) por ser la más idónea desde el punto
+de vista técnico y ambiental. Se ubica íntegramente dentro de la parcela del centro logístico, lo que permite el
+autoconsumo directo, reduce la longitud de la línea de evacuación y optimiza el uso de un suelo ya industrializado
+y antropizado, minimizando la ocupación de nuevos terrenos naturales. Esta alternativa se incluye en la Zona de
+Importancia del Buitre negro, al igual que dentro de la Zona de Importancia del Águila imperial, pero el estudio de
+avifauna concluye que es la mejor opción porque estas especies fueron avistadas con mayor frecuencia en las
+zonas de las otras cuatro alternativas. Además, su ubicación en un entorno ya industrial y antropizado actúa como
+factor disuasorio para las aves en comparación con los campos de cultivo de las otras opciones.
+Segundo. Tramitación y consultas.
+El 12 de marzo de 2025, se recibe en el Servicio de Calidad Ambiental de Toledo, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada y el documento ambiental del proyecto, dando cumplimiento al
+artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, así como la copia
+del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de tasas y precios públicos de
+Castilla-La Mancha y otras medidas tributarias.
+Sobre la base de dicha documentación, el 25 abril de 2025 y de acuerdo con el artículo 53 de la citada Ley 2/2020, se
+formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto
+de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los
+siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas)
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32723
+Dentro de la Delegación Provincial de Desarrollo Sostenible de Toledo:
+- Servicio de Medio Natural. (*)
+- Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo. (*)
+Otros organismos:
+- Consejería de Desarrollo Sostenible de Toledo. Dirección General de Economía Circular. Servicio de Prevención
+e Impacto Ambiental.
+- Delegación Provincial de Agricultura, Ganadería y Desarrollo Rural de Toledo. Servicio de Desarrollo Rural y
+Políticas Ambientales de Toledo.
+- Ayuntamiento de Illescas (Toledo). (*)
+- Delegación Provincial de Educación, Cultura y Deportes de Toledo. Servicio de Cultura. (*)
+- Confederación Hidrográfica del Tajo. (*)
+- Diputación Provincial de Toledo. Servicio de Carreteras.
+- Consejería de Fomento. Delegación Provincial de Toledo. Servicio de Ejecución y Apoyo Urbanístico de Toledo.
+- Ecologistas en Acción.
+- SEO-BirdLife.
+- WWF-España.
+- Ardeidas.
+- Toledo Aire Limpio.
+- Agrupación Naturalista Esparvel de Toledo.
+Con fecha 6 de noviembre de 2025 se le notifica al promotor, la comunicación de informes recibidos durante la fase
+de consultas a todas las administraciones públicas afectadas y personas interesadas por si considera que debe
+introducir alegaciones a alguno de ellos, antes de la resolución del procedimiento, conforme al artículo 82 de la Ley
+39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas y el artículo 4.1.g) 2º de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+Con fecha 5 de enero de 2026 se notifica al Ayuntamiento de Illescas, petición de informe sobre el uso compatible
+con la calificación y clasificación del suelo, sobre la afección a caminos vecinales, otros viales u otras infraestructuras
+municipales, y sobre la afección socioeconómica del proyecto y sus efectos sinérgicos con otros proyectos, con
+indicación de otras actividades relevantes del municipio que pudieran verse afectadas, recibiéndose con fecha 21 de
+enero de 2026 contestación de dicho Ayuntamiento, en la que se indican una serie de importantes afecciones que
+son las que han determinado que el procedimiento de Evaluación de Impacto Ambiental a seguir debe ser Ordinario,
+tal y como justifica con más detalle en el siguiente apartado.
+Con fecha 27 de enero de 2026 se da traslado de dicho informe al promotor, el cual presenta sus respectivas
+alegaciones mediante registro de entrada en este Servicio de Calidad Ambiental de 27 de febrero de 2026, también
+detalladas en el mencionado apartado siguiente.
+Posteriormente, con fecha 24 de julio de 2026, el promotor presenta escrito de alegaciones al informe de Medio
+Natural, con una propuesta relativa a una de las medidas condicionales, que se detalla en el apartado siguiente.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, y demás informes, se realiza el siguiente análisis, según los criterios recogidos en el anexo
+III de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar los efectos
+significativos sobre el medio ambiente y, sobre la población y la salud humana en el marco de la Ley 21/2013, de
+9 de diciembre, de evaluación ambiental, la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental y la Ley 1/2024,
+de 15 de marzo, de Medidas Administrativas y de Creación de la Agencia de Transformación Digital de Castilla-La
+Mancha:
+3.1. Características del proyecto. (Deberá considerarse el tamaño, acumulación con otros proyectos, utilización de
+recursos naturales, generación de residuos, contaminación, riesgo de accidentes, etc.)
+Las características básicas del proyecto son las siguientes:
+- Aerogenerador de 2,2 MW de 130 metros de altura máxima total.
+- Línea subterránea de evacuación de 338 metros.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32724
+- Vial de acceso de aproximadamente 914 metros, una plataforma de montaje para grúas y una cimentación mediante
+zapata circular de hormigón armado de unos 20 metros de diámetro.
+- Utilización de recursos naturales y suelo: Ocupación de suelo industrial (zapata circular de hormigón y vial) y
+consumo de recursos para la fabricación y cimentación de la infraestructura.
+- Generación de residuos y contaminación: Residuos de construcción y demolición (RCD) en fase de obra y residuos
+peligrosos (aceites sintéticos, lubricantes y trapos contaminados) derivados del mantenimiento de la máquina.
+- Riesgo de accidentes o emergencias: Los riesgos inherentes a la instalación abarcan el fallo mecánico o rotura de
+palas, riesgo de incendio en la góndola y posible vertido accidental de aceites hidráulicos durante el mantenimiento.
+3.2. Ubicación del proyecto.
+(Deberá considerarse el uso existente del suelo, la abundancia de recursos naturales del área y la capacidad de
+carga del medio natural.)
+El proyecto se ubica íntegramente en el término municipal de Illescas (Toledo), en la parcela 9000 del polígono
+19, dentro del área de desarrollo industrial y logístico Sector SUB SO 06 “Puerto Seco” en un entorno de marcado
+carácter industrial y antropizado, condicionado por la actividad del centro logístico MAD7 y la proximidad a grandes
+ejes de comunicación,
+La ubicación es colindante con el futuro desarrollo del Puerto Seco de Illescas, clasificado urbanísticamente como
+“Sistema Local de Equipamiento Privado”, vinculado al “Sistema General de infraestructuras y servicios SG DEIS”
+según el Plan de Ordenación Municipal (POM) y diseñado como una infraestructura logística e industrial proyectada
+para el movimiento y gestión de mercancías recibidas de la terminal de ferrocarril, que prevé puentes grúa para
+contenedores en parcelas contiguas. Además, se encuentra próxima a infraestructuras de transporte críticas como
+la carretera N-401A (con acceso directo desde la rotonda del P.K. 37a+800) y la autovía A-42. En cuanto a las
+infraestructuras ferroviarias, el ámbito de estudio es atravesado por la línea Bifurcación Planetario-Valencia de
+Alcántara (Línea 500), mientras que el trazado proyectado para la línea de Alta Velocidad (AVE) Madrid-Extremadura
+discurre al sur de la autovía A-40.
+Todo ello rodeado por una matriz de terrenos agrícolas de secano típicos de las Campiñas de La Sagra. Esta área
+presenta una destacada relevancia biótica, localizándose el aerogenerador dentro de las zonas de importancia para
+el Águila Imperial Ibérica (en peligro de extinción) y el Buitre Negro (vulnerable). Asimismo, se constata la presencia
+en el entorno de especies esteparias protegidas, además de especies acuáticas atraídas por humedales y balsas
+próximas como la Charca de las Viguetas (aproximadamente a 2,6-2,8 km) de la IBA nº 393 “Torrejón de Velasco-
+Secanos de Valdemoro”.
+En cuanto a los recursos naturales y la capacidad de carga del medio al proyecto:
+- Dominio público hidráulico y sus márgenes de protección: El informe de fecha 3 de julio de 2025 de la Confederación
+Hidrográfica del Tajo, indica que la actuación planteada se halla en las siguientes zonas protegidas, aguas superficiales
+y masas de aguas subterráneas:
+Zonas Protegidas (Plan Hidrológico de la Demarcación Hidrográfica del Tajo 2023-2027): Las instalaciones se sitúan
+en el área de captación de la zona sensible “ES030ZSENESCM572–Embalse Castrejón”, en la zona vulnerable
+“ES030_ZVULES42_5 - Madrid-Talavera-Tiétar”.
+Aguas superficiales: la zona de actuación se encuentra fuera de la zona de policía de cauces de dominio público.
+No obstante, el organismo advierte que deben ser protegidas para evitar cualquier afección indirecta que pudiera
+impactar negativamente en el dominio público hidráulico.
+Masas de Aguas Subterráneas: El proyecto se asienta sobre la masa de agua subterránea “Talavera-
+ES030MSBT030.015”. El promotor deberá asegurar la estanqueidad de cualquier red de saneamiento para evitar
+infiltraciones y la contaminación del acuífero.
+- Áreas protegidas previstas en la Ley 9/1999 de 26 de mayo, de Conservación de la Naturaleza: El proyecto no
+afecta directamente a Espacios Naturales Protegidos (ENP), Zonas Sensibles ni áreas de la Red Natura 2000,
+situándose los más cercanos (LIC Yesares del valle del Tajo) a más de 11 km de distancia y a unos 2,8 km de la IBA
+nº 393 “Torrejón de Velasco-Secanos de Valdemoro”. Sin embargo, el Informe del Servicio de Medio Natural de fecha
+18 de diciembre de 2025 resalta que, si bien no hay afección espacial a estas figuras, el aerogenerador se localiza
+en zonas de importancia para el águila imperial ibérica (en peligro de extinción) y el buitre negro (vulnerable),
+además se constata la presencia en el entorno del proyecto de especies de avifauna esteparia, pequeñas-medianas
+rapaces y acuáticas (aguilucho cenizo, aguilucho pálido, aguilucho lagunero, sisón común y alcaraván común,
+cigüeña blanca, garza real, etc.).
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32725
+- Afección a la avifauna: La implantación del aerogenerador MAD7 conlleva un riesgo de mortalidad por colisión para
+aves y quirópteros con las palas en movimiento, además de generar un efecto barrera. En este sentido el Servicio
+de Medio Natural en su informe 17478 de fecha 18 de diciembre de 2025, considera técnicamente viable el proyecto
+y condicionado a una serie de medidas.
+- Afección urbanística, socioeconómica, infraestructural y prevención del ruido. Este apartado constituye un pilar
+fundamental para justificar el sometimiento del proyecto al procedimiento de Evaluación de Impacto Ambiental
+Ordinaria. El Ayuntamiento de Illescas, en su informe de fecha 21 de enero de 2026, dictamina la inviabilidad técnica
+y urbanística del emplazamiento MAD7 por los siguientes motivos:
+- Incumplimiento de la normativa de alturas: La infraestructura, con una altura total de 130 metros, triplica con creces
+los límites de 21 y 24 metros del Artículo 18 de las Normas Urbanísticas del Plan Parcial del Sector SUB SO 06.
+El consistorio señala que corresponde exclusivamente al Ayuntamiento estimar si existe justificación excepcional
+suficiente para sobrepasarlos.
+- Afección a zonas residenciales: La instalación se sitúa a menos de 400-500 metros de las viviendas de las calles
+Alhambra y Quero, lo que supondría un impacto acústico y visual severo.
+- Interferencia con infraestructuras estratégicas (Puerto Seco): Al ser colindante con el futuro Puerto Seco, el
+Ayuntamiento considera que la turbina ocuparía espacio aéreo de parcelas ajenas y condicionaría la operatividad de
+los puentes grúa de la terminal intermodal.
+Ante este pronunciamiento, el promotor alegó el 27 de febrero de 2026 los argumentos municipales:
+- Justificación de la altura: Sostiene que el límite de 24 metros es aplicable a edificios y no a instalaciones industriales,
+siendo los 130 metros indispensables para la viabilidad técnica del autoconsumo.
+- Precisión en las distancias y niveles de ruido: Acredita cartográficamente que la vivienda más próxima está a 558
+metros (superando el radio de 500 m). Asimismo, aporta estudio acústico demostrando que la inmisión nocturna
+sería inferior a 38 dB(A), cumpliendo el RD 1367/2007.
+- Compatibilidad técnica con el Puerto Seco: Afirmando que el vuelo de las palas se mantiene dentro de su parcela
+y que se ubica a 195 metros del límite (1,5 veces la altura total), cumpliendo los criterios de seguridad aplicados en
+el sector ferroviario.
+3.3. Características del potencial impacto. Deberá considerarse la extensión del impacto; su magnitud y complejidad;
+su probabilidad; y su duración, frecuencia y reversibilidad.
+Como se ha puesto de manifiesto, los impactos negativos asociados a este tipo de instalaciones inciden directamente
+sobre la fauna, el paisaje y la población local cercana debido a la visibilidad y al ruido generado.
+La magnitud de las discrepancias técnicas, acústicas y urbanísticas puestas de manifiesto por el Ayuntamiento de
+Illescas, unida a la potencial afección acumulativa y sinérgica con infraestructuras estratégicas colindantes (como
+el Puerto Seco de Illescas), impiden descartar la existencia de efectos significativos sobre el medio ambiente y la
+población en la actual fase simplificada.
+Por todo ello, y a pesar de que el proyecto pueda resultar técnicamente viable en materia de Medio Natural bajo
+condiciones específicas, se justifica la necesidad de someter el proyecto al procedimiento de Evaluación de Impacto
+Ambiental Ordinaria, a fin de evaluar de manera exhaustiva y con participación pública dichas afecciones.
+Cuarto. Necesidad de Sometimiento a Evaluación de Impacto Ambiental Ordinaria.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible de
+Toledo, en virtud del Decreto 112/2023 de 25 de julio, por el que se establece la estructura orgánica y las competencias
+de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la Resolución de
+24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en materia de
+evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, y conforme a la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto aerogenerador de
+2,2 MW para autoconsumo industrial asociado al centro logístico MAD7 de Amazon (S478/TO/2025/00019), situado
+en el término municipal de Illescas (Toledo), cuyo promotor es Amazon Spain Fulfillment, SLU., debe someterse
+a una Evaluación de Impacto Ambiental Ordinaria por presentar potenciales efectos significativos sobre el medio
+ambiente, la población y la ordenación del territorio, que no pueden ser descartados en la presente fase simplificada.
+La tramitación seguirá el procedimiento de Evaluación de Impacto Ambiental Ordinaria previsto en la Sección 1.ª
+del Capítulo II del Título II de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha. Esta
+resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la Consejería
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32726
+de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley 2/2020, de 7 de
+febrero, de Evaluación Ambiental de Castilla-La Mancha. De conformidad con el artículo 55.5 de la Ley 2/2020, el
+presente informe de impacto ambiental no será objeto de recurso alguno sin perjuicio de los que pudieran proceder
+en vía administrativa o judicial frente al acto futuro de autorización del proyecto, en su caso.
+Además, se incluye un anexo cartográfico con la situación del proyecto para su localización por parte del público y
+del personal responsable del seguimiento.
+Toledo, 14 de septiembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA

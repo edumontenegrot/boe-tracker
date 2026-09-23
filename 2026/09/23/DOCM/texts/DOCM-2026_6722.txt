@@ -1,0 +1,184 @@
+AÑO XLV Núm. 183 23 de septiembre de 2026 32607
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 15/09/2026, de la Dirección General de Transición Energética, sobre autorización administrativa
+previa y autorización administrativa de construcción de la instalación solar fotovoltaica denominada HFV
+Gascueña Este, infraestructuras auxiliares y de evacuación. (Referencia: 2703/01706). [2026/6722]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Cuenca y su informe, y el
+informe del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y
+autorización administrativa de construcción de la instalación solar fotovoltaica denominada “HFV Gascueña Este”,
+con las siguientes características:
+- Referencias: 2703/01706 - 2701/00717 (DP: 16270200897(FV)).
+- Peticionario: Champiñones Cumar, S.L. - NIF: B02156669.
+- Documentación técnica:
+Proyecto de ejecución denominado” Planta solar fotovoltaica de 3000 kW para hibridación del parque eólico
+Gascueña Este denominada HFV Gascueña Este”, cuyo autor es el ingeniero industrial Jorge Córdoba López,
+colegiado nº 114 del Colegio Oficial de Ingenieros Industriales de Albacete, con número de visado 29424 y fecha de
+visado 21/10/2024.
+Anexo 01 de modificación al proyecto Planta solar fotovoltaica de 3000 kW para hibridación del parque eólico
+Gascueña Este denominada HFV Gascueña Este, cuyo autor es el ingeniero industrial Jorge Córdoba López,
+colegiado nº 114 del Colegio Oficial de Ingenieros Industriales de Albacete, con número de visado 33225 y fecha de
+visado 11/12/2025.
+- Características técnicas: Planta solar fotovoltaica de 3,49272 MWp en módulos fotovoltaicos y 3 MW en inversores,
+1 estación de potencia con 2 inversores y 1 transformador, acometida subterránea de media tensión de 15 kV s/c, 1
+centro de protección, control y medida y modificación de la línea aéreo-subterránea existente de media tensión 15
+kV s/c. Las actuaciones a realizar serán las siguientes:
+Planta solar fotovoltaica ubicada en las parcelas 12 y 13 del polígono 511 del término municipal de Olmeda de la
+Cuesta (Cuenca). Formada por un total de 5.292 módulos fotovoltaicos monofaciales de la marca Canadian Solar,
+modelo HiKu7 Mono PERC CS7W-660MS o similar, con una potencia unitaria máxima de 660 Wp, instalados sobre
+estructuras fijas hincadas al terreno con ángulo de inclinación 35º, orientación Sur. La potencia total en módulos
+fotovoltaicos será de 3,49272 MWp.
+Estación de potencia, marca Ingeteam modelo Ingecon Sun 3600 FSK Serie B o similar: cuya finalidad es la conversión
+de CC a CA y elevación de 660V a 15 kV. Dispone de 2 inversores de 1.500 kW @30ºC de la marca Ingeteam,
+modelo Ingecon Sun 1715TL B660 o similar, de 1 transformador de 3.586 kVA @30ºC y 3 celdas de media tensión,
+de las cuales serán 1 de línea, 1 de protección del transformador con interruptor automático general motorizado
+y 1 de reserva. Además, de 1 transformador de SSAA de 50 kVA 660/400 V. La potencia total en inversores es
+de 3 MW, que corresponde con la potencia instalada. Se mantienen la capacidad de acceso de 3 MW y el punto
+de conexión en la línea ODC702, propiedad de UFD Distribución Electricidad, S.A. para la hibridación de esta
+instalación solar fotovoltaica con el PE Gascueña en funcionamiento. La potencia instalada total de la hibridación de
+ambas instalaciones, eólica y solar fotovoltaica, será de 6 MW.
+Acometida subterránea de media tensión de 15 kV s/c, de longitud total 109,76 m, que conecta la estación de
+potencia con el centro de protección, control y medida. Conductor Al RH5Z1 12/20 kV y sección 3x(1x240) mm2.
+Centro de protección, control y medida en edificio prefabricado de hormigón. Dispone de 8 celdas de media tensión,
+de las cuales serán 1 celda de línea, 1 celda de protección con fusibles de transformador de SSAA, 3 celda de
+protección general con interruptor automático (1 de ellas de reserva) y 3 celdas de medida (1 de ellas de reserva).
+Modificación de la línea aéreo-subterránea existente de media tensión de 15 kV s/c. Se añaden 2 tramos subterráneos
+de 114,27+129,49 m de entrada y salida al CPCM nuevo con conductor Al RH5Z1 12/20 kV y sección 3x(1x240)
+mm2. Quedando una línea de 3 tramos, un primer tramo de 458,74 m subterráneos, un segundo tramo de 1.490 m
+aéreos y un tercer tramo de 117 m subterráneos.
+Nota: La anterior descripción tiene carácter meramente indicativo. Para una descripción detallada de la misma se
+deberá acudir a la documentación técnica que se encuentra en el expediente.
+- Emplazamiento: Polígono 511, parcelas 12 y 13 del término municipal de Olmeda de la Cuesta (Cuenca).
+- Acceso y conexión: Se aporta actualización de los permisos de acceso y conexión con fecha de emisión 29/07/2024
+por parte de la empresa distribuidora UFD Distribución Electricidad, S.A.
+- Finalidad: Producción de energía eléctrica mediante generación solar fotovoltaica, hibridando con el parque eólico
+Gascueña Este, existente y en funcionamiento, y su posterior transformación y evacuación.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32608
+Antecedentes de hecho.
+Primero: Champiñones Cumar, S.L., solicitó con fecha 22/10/2024 autorización administrativa previa y autorización
+administrativa de construcción de las instalaciones de referencia.
+Champiñones Cumar, S.L., es titular del Parque Eólico “Gascueña Este”, de 3.000 kW de potencia instalada, existente
+y en funcionamiento, emplazado en el T.M. de Gascueña y Olmeda de la Cuesta (Cuenca). Referencia: 2701/00717.
+Con la solicitud de autorización administrativa de una planta solar fotovoltaica de 3.000 KWn, se promueve llevar a
+cabo la hibridación del citado parque eólico.
+Segundo: En relación con la normativa ambiental: Resolución de 09/03/2025, de la Delegación Provincial de
+Desarrollo Sostenible de Cuenca, por la que se formula el informe de impacto ambiental del proyecto: Planta solar
+fotovoltaica híbrida HFV Gascueña Este de 3 MW (expediente PRO-CU-24-1386), situado en el término municipal
+de Olmeda de la Cuesta (Cuenca), cuya promotora es Champiñones Cumar SL. [2025/2012], publicada en el DOCM
+nº 52 de 17 de marzo de 2025.
+Con fecha 22/01/2026 se realiza consulta al Servicio de Calidad Ambiental remitiendo anexo 01 de modificación al
+proyecto de ejecución relativa a la modificación del p.k. del acceso a las instalaciones desde la CM-310 debido a las
+objeciones indicadas en el informe del Servicio de Carreteras de la Delegación Provincial de la Consejería de Fomento
+en Cuenca en la tramitación del procedimiento de evaluación de impacto ambiental simplificada, cambiando el p.k.
+131+215 por el p.k. 130+600 de dicha carretera. Recibido informe de contestación (entrada y fecha de recepción
+06/02/2026) indicando, una vez consultado al Servicio de Medio Natural y Biodiversidad y con informe favorable de
+este, que la modificación presentada no supondría una afección ambiental que justificara un nuevo procedimiento
+de evaluación ambiental, sin perjuicio del cumplimiento de lo fijado en el informe de impacto ambiental. Este informe
+fue remitido al promotor (salida y fecha de lectura 09/02/2026) y a su representante autorizado (salida y fecha de
+lectura 12/03/2026) para su conocimiento y efectos oportunos.
+Tercero: Mediante Anuncio de 26/03/2026, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, se
+sometió a información pública la solicitud de autorización administrativa previa y autorización administrativa de
+construcción de la planta solar fotovoltaica híbrida HFV Gascueña Este. Referencia: 162702-00897. [2026/2418],
+publicado en el DOCM nº 64, de 7 de abril de 2026 y Certificado de publicación en el tablón de la Sede Electrónica
+de la JCCM. NO se han presentado alegaciones durante el período de información pública.
+Cuarto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Envío de separata de afección al Ayuntamiento de Gascueña (salida 01/04/2026 y fecha de confirmación 13/04/2026).
+No recibida contestación por parte de este Ayuntamiento una vez expirado el plazo establecido de 20 días.
+- Envío de separata de afección al Ayuntamiento de Olmeda de la Cuesta (salida 01/04/2026 y fecha de confirmación
+06/04/2026). No recibida contestación por parte de este Ayuntamiento una vez expirado el plazo establecido de 20 días.
+- Envío de separata de afección a la Confederación Hidrográfica del Tajo (salida y fecha de lectura 01/04/2026). No
+recibida contestación por parte de este organismo una vez expirado el plazo establecido de 20 días.
+- Envío de separata de afección al Servicio de Carreteras de la Delegación Provincial de Fomento en Cuenca (salida
+01/04/2026 y fecha de recepción 07/04/2026). Recibida contestación por parte de este Servicio (entrada y fecha de
+recepción 16/04/2026) indicando que la modificación del acceso cambiando el p.k. 131+215 por el p.k. 130+600
+desde la carretera CM-310 estará sujeta a autorización previa por la Administración titular de la carretera, a solicitud
+del interesado. Para ello el peticionario deberá realizar petición expresa y acompañarla de un Proyecto Constructivo,
+suscrito por técnico competente. Remisión de la respuesta al promotor (salida y fecha de lectura 17/04/2026) para
+que en el plazo de 10 días preste su conformidad o, en su caso, formule los reparos que estime procedentes. Recibida
+contestación del promotor (entrada 05/05/2026) indicando la conformidad al informe del Servicio de Carreteras y
+la necesidad de solicitar autorización ante la Administración titular de la carretera presentando la documentación
+técnica requerida. Remisión de ésta a dicho Servicio (salida y fecha de recepción 06/05/2026) para su conocimiento
+y efectos oportunos.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32609
+Quinto: La Delegación Provincial de Desarrollo Sostenible en Cuenca cumplió con lo establecido en la resolución de
+3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as delegados/
+as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado, con fecha 13/05/2026, informe favorable
+para la autorización administrativa previa y de construcción solicitadas.
+Sexto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción solicitadas.
+A estos antecedentes de hecho son aplicables los siguientes
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y la autorización
+administrativa de construcción de las instalaciones y su tramitación se ha realizado según lo establecido en el
+Decreto 80/2007 y demás normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y la autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud Resuelve: Otorgar a Champiñones Cumar, S.L., la autorización administrativa previa y la autorización
+administrativa de construcción de las instalaciones eléctricas de referencia, de acuerdo a las características
+indicadas. La presente resolución se encuentra sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+
+AÑO XLV Núm. 183 23 de septiembre de 2026 32610
+Sexta: Se debe cumplir lo establecido en la Resolución de 09/03/2025, de la Delegación Provincial de Desarrollo
+Sostenible de Cuenca, por la que se formula el informe de impacto ambiental del proyecto: Planta solar fotovoltaica
+híbrida HFV Gascueña Este de 3 MW (expediente PRO-CU-24-1386), situado en el término municipal de Olmeda de
+la Cuesta (Cuenca), así como el resto de informes emitidos por los servicios de Calidad Ambiental y a Medio Natural,
+en el marco de lo dispuesto en la normativa básica aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha y demás normativa autonómica de aplicación.
+Séptima: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 15 de septiembre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
