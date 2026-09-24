@@ -1,0 +1,707 @@
+AÑO XLV Núm. 184 24 de septiembre de 2026 32887
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 15/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, por la que se
+formula el informe de impacto ambiental del proyecto: Mejora de regadío y plantación de pistachos en
+el término municipal de Pozorrubielos de la Mancha (Cuenca), (expediente S478/2026/CU/00093) cuya
+promotora es Cultivos Agrícolas Sostenibles, SL. [2026/6803]
+La Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, en su artículo 7.2 concreta los proyectos que deben
+ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o
+no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental en Castilla-La Mancha, constituye la normativa
+de desarrollo y de protección ambiental adicional, y determina los plazos de tramitación, así como aquellos proyectos
+adicionales a los ya indicados por la Ley 21/2013 que se ven incluidos en el ámbito de aplicación de la legislación
+de evaluación ambiental.
+El proyecto denominado “Mejora de regadío y plantación de pistachos en el término municipal de Pozorrubielos de
+la Mancha (Cuenca)” y promovido por la mercantil Cultivos Agrícolas Sostenibles S.L., se encuentra encuadrado
+dentro del anexo II de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, conforme a la modificación
+efectuada por el Real Decreto 445/2023, dentro del Grupo 1. Agricultura, silvicultura, acuicultura y ganadería,
+Apartado c) Proyectos de transformación, ampliación o consolidación de regadíos de 10 o más hectáreas; así
+como los comprendidos entre 1 ha y 10 ha que cumplan alguno de los criterios generales, o que ocupen cauces
+o humedales permanentes o estacionales representados en el mapa Instituto Geográfico Nacional (IGN) a escala
+1:25.000, o se desarrollen en zonas con niveles de erosión hídrica >10 t/ha*año (Inventario Nacional de Erosión de
+Suelos, INES)”
+En conclusión, el proyecto se debe someter a un procedimiento de evaluación de impacto ambiental simplificado de
+acuerdo a lo establecido en la Ley 21/2013, que es de aplicación en todo el ámbito castellanomanchego junto a la
+Ley 2/2020.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+De acuerdo con la documentación ambiental aportada por el promotor, en particular con el Documento Ambiental
+(DA), de marzo de 2026, la actuación proyectada tiene por objeto la modernización y mejora de las infraestructuras
+de regadío existentes, vinculada a la implantación de una plantación de pistacho (Pistacia vera) en una superficie
+total de 97,50 ha. La actuación comprende, por tanto, tanto la transformación de la superficie agrícola mediante la
+implantación del cultivo de pistacho como la adecuación y mejora del sistema de captación, regulación, distribución
+y aplicación del agua de riego.
+1.1. Datos técnicos
+La actuación contempla la implantación de un cultivo de pistacho de la variedad Larnaka, con un marco de plantación
+de 6,0 × 5,0 metros, que supone una densidad aproximada de 333 plantas por hectárea. La superficie total objeto de
+actuación asciende a 97,5088 ha, distribuidas en tres sectores de riego: sector A, con 31,70 ha; sector B, con 32,91
+ha; y sector C, con 32,89 ha. Las líneas de riego se dispondrán paralelas a las líneas de plantación. Inicialmente,
+se prevé la instalación de una línea de riego por cada fila de árboles, quedando prevista la posibilidad de incorporar
+una segunda línea durante la fase de desarrollo definitivo de la plantación, en función de las necesidades hídricas
+del cultivo.
+El abastecimiento de agua procederá de aguas subterráneas, mediante el aprovechamiento existente situado
+en el polígono 8, parcela 81, del término municipal de Pozorrubielos de la Mancha. Dicho aprovechamiento se
+encuentra adscrito a la Unidad Hidrogeológica 08.29 – Mancha Oriental, correspondiente a la masa de agua
+subterránea 080.129 – Mancha Oriental. El volumen máximo anual autorizado es de 545.100 m³, con un caudal
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32888
+máximo instantáneo de 160 l/s, equivalente a 576 m³/h, y la concesión tiene un plazo de veinticinco años. El punto
+de captación se localiza en las coordenadas UTM ETRS89 huso 30 X = 581.218; Y = 4.365.223.
+La captación corresponde a un sondeo de 600 mm de diámetro y 230 m de profundidad, encontrándose el equipo
+de bombeo instalado a una profundidad aproximada de 140 m. La extracción del agua se realiza mediante una
+bomba sumergida, conectada a una columna de impulsión de acero. El grupo motobomba dispone de una potencia
+instalada de 450 CV y de variador de frecuencia, lo que permite adaptar el funcionamiento del equipo a las
+necesidades de los diferentes sectores de riego. El aprovechamiento dispone, asimismo, de contador volumétrico y
+de los correspondientes sistemas de control y medición.
+El agua extraída es impulsada hasta un embalse de regulación existente, ejecutado mediante movimiento de
+tierras e impermeabilizado mediante lámina de polietileno de baja densidad. El embalse presenta una superficie
+de base menor aproximada de 1.683 m², una base mayor de 5.671 m², una altura útil de 3,75 m y un volumen
+efectivo aproximado de 13.050 m³. El sistema permite, asimismo, en determinadas condiciones de funcionamiento,
+realizar el riego directo desde la captación hacia los sectores de riego, actuando el embalse como elemento de
+almacenamiento, seguridad y regulación hidráulica.
+El sistema de riego proyectado es de tipo localizado por goteo, mediante emisores autocompensantes de 2 l/h,
+separados 0,50 m, seleccionados para adaptarse a las condiciones de desnivel existentes en la finca. La red de
+distribución estará constituida por una conducción principal y una red secundaria de tuberías enterradas, de las que
+partirán los correspondientes laterales de riego. La instalación se encuentra dividida en tres sectores de riego, lo
+que permite el funcionamiento independiente de cada uno de ellos y evita que la totalidad de la superficie deba ser
+regada simultáneamente. Esta sectorización permite adaptar el funcionamiento de la instalación a las necesidades
+del cultivo y optimizar el uso del recurso hídrico.
+Asimismo, la instalación dispondrá de un sistema de automatización y control, mediante comunicación por radio y
+cable, así como de válvulas hidráulicas para la sectorización y sondas de humedad del suelo, destinadas a ajustar
+la programación del riego a las necesidades reales del cultivo y a las condiciones de humedad existentes. Para
+el dimensionamiento de la instalación se considera una dotación máxima de 13,333 m³/h por hectárea, lo que
+supone una demanda máxima instantánea del conjunto de la superficie del orden de 1.300 m³/h. En todo caso, el
+funcionamiento de la instalación deberá ajustarse a las condiciones establecidas en el titulo concesional, debiendo
+mantenerse la extracción dentro del caudal máximo autorizado por la concesión.
+1.2. Alternativas
+El promotor, en el Documento Ambiental aportado, plantea las siguientes alternativas:
+Alternativa 0: No actuación. Consiste en mantener la finca en su situación actual, sin ejecutar la plantación de
+pistacho ni las actuaciones previstas de modernización del regadío. Si bien evitaría la inversión y las afecciones
+derivadas de las obras, supondría un menor aprovechamiento productivo de la finca y no permitiría mejorar la
+eficiencia y el control del uso del agua.
+Alternativa 1. Plantación de pistacho en secano; Contempla la implantación del cultivo sin aportes de riego. Presenta
+como ventaja la reducción de las actuaciones e instalaciones necesarias, pero limita la producción y calidad del cultivo
+y no permite aprovechar las posibilidades de regulación, automatización y control que ofrece el riego tecnificado.
+Alternativa 2. Plantación de pistacho con riego por gravedad. Permite reducir los costes de inversión y mantenimiento
+y presenta menores necesidades energéticas. Sin embargo, presenta una menor eficiencia en la aplicación del
+agua, mayores pérdidas por infiltración y lixiviación, mayores necesidades de nivelación del terreno y dificultades
+para la automatización y el manejo de la explotación.
+Alternativa 3. Plantación de pistacho con riego localizado por goteo. Contempla la implantación del cultivo mediante
+un sistema de riego localizado que permite ajustar el aporte de agua a las necesidades del cultivo, mejorar el
+control del consumo y facilitar la automatización y la fertirrigación. Como principal inconveniente presenta una mayor
+inversión inicial y mayores necesidades de especialización técnica.
+De las alternativas analizadas, el promotor selecciona la Alternativa 3, consistente en la implantación de la plantación
+de pistacho mediante un sistema de riego localizado por goteo, al considerarla la opción más adecuada para las
+características de la explotación. La solución finalmente proyectada permite compatibilizar el aprovechamiento
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32889
+productivo de la finca con una utilización más eficiente y controlada del recurso hídrico, mediante la sectorización
+de la superficie de riego, la automatización de la instalación y la aplicación localizada del agua en función de las
+necesidades del cultivo.
+1.3. Análisis de riesgos
+Según la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, con objeto de garantizar
+un alto nivel de protección al medio ambiente, se deben tomar las medidas preventivas convenientes, respecto a
+determinados proyectos, que por su vulnerabilidad ante accidentes graves o catástrofes naturales (inundaciones,
+terremotos, subidas del nivel del mar etc.), puedan tener efectos adversos significativos para el medio ambiente.
+Se ha incluido en el DA (Documento Ambiental) un apartado específico (Capítulo V) de análisis de la vulnerabilidad
+del proyecto ante riesgos de accidentes graves o catástrofes, en el que se analizan tanto amenazas de origen
+natural o exógeno como aquellas asociadas al propio funcionamiento del proyecto.
+Entre los riesgos naturales analizados se encuentran las inundaciones, la subida del nivel del mar, los terremotos,
+los derrumbamientos o deslizamientos de tierra, los fenómenos meteorológicos adversos y los incendios forestales.
+El ámbito de actuación se encuentra fuera de las zonas inundables y de las Áreas con Riesgo Potencial Significativo
+de Inundación (Arpsi), considerándose el riesgo de inundación bajo. El riesgo de subida del nivel del mar no resulta
+aplicable por la localización del proyecto. Asimismo, el riesgo sísmico se considera reducido, al situarse el ámbito
+en una zona de baja peligrosidad, mientras que el riesgo de derrumbamientos o deslizamientos se considera bajo
+debido a la escasa pendiente del terreno. Respecto a los fenómenos meteorológicos adversos, el ámbito presenta
+valores de riesgo bajo-medio, y el municipio de Pozorrubielos de la Mancha no se encuentra incluido entre las zonas
+de alto riesgo de incendio forestal, por lo que el riesgo de incendios se considera bajo.
+En cuanto a las amenazas de origen antrópico y endógeno, se analizan los posibles daños por terceros, los vertidos
+accidentales de aceites e hidrocarburos, los incendios o explosiones, los accidentes con vehículos y la emisión o
+generación de residuos y sustancias potencialmente contaminantes. Estos riesgos se consideran de baja probabilidad
+y, en su caso, de limitada magnitud, previéndose medidas preventivas y correctoras, tales como el mantenimiento
+adecuado de la maquinaria, la disponibilidad de medios de extinción, el control de los residuos y la actuación frente
+a posibles vertidos accidentales.
+En consecuencia, el Documento Ambiental concluye que, atendiendo a la naturaleza del proyecto y a sus
+características y ubicación, la probabilidad de que se produzcan accidentes graves o catástrofes con consecuencias
+ambientales significativas es reducida, no identificándose situaciones de especial vulnerabilidad adicionales a los
+impactos ya considerados en el proyecto.
+Segundo. Tramitación y consultas.
+El 9 de marzo de 2026 se recibe en el Servicio de Calidad Ambiental de Cuenca la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada del proyecto, junto con el correspondiente Documento Ambiental,
+en cumplimiento al artículo 45 de la Ley 21/2013 de 9 de diciembre, de Evaluación Ambiental. Con la misma fecha
+se aporta el justificante de abono de la tasa correspondiente, de acuerdo con la Ley 9/2012, de 29 de noviembre, de
+tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias.
+Con fecha 31 de marzo de 2026, el órgano ambiental notifica al representante designado por el promotor para la
+realización de todos los trámites relacionados con la actuación prevista, que la documentación presentada resulta
+completa. A partir de dicha documentación, y conforme con el artículo 53 de la citada Ley 2/2020, se formulan
+consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que
+informen en el ámbito de sus competencias. Los organismos e instituciones consultadas han sido los siguientes (se
+señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+- Delegación Provincial de la Consejería de Desarrollo Sostenible de Cuenca - Servicio de Medio Natural y
+Biodiversidad (*)
+- Confederación Hidrográfica del Júcar (*)
+- Delegación Provincial de Cuenca de la Consejería de Educación, Cultura y Deportes – Sección de Arqueología (*)
+- Ayuntamiento de Pozorrubielos de la Mancha
+- Delegación Provincial de Desarrollo Sostenible de Cuenca – Unidad Coordinación Provincial Agentes
+Medioambientales de Cuenca.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32890
+- Dirección General de Calidad Ambiental – Servicio de Prevención e Impacto Ambiental.
+- Delegación Provincial de Agricultura, Agua y Desarrollo Rural de Cuenca – Servicio de Desarrollo Rural y Políticas
+Ambientales Cuenca (*)
+- Delegación Provincial de Sanidad de Cuenca – Servicio de Salud Pública (*)
+- Servicio Provincial Agencia del Agua de Castilla-La Mancha de Cuenca
+- Delegación Provincial de Desarrollo Sostenible – Servicio de Minas (*)
+- Delegación Provincial de Hacienda y Administraciones Públicas en Cuenca – Servicio de Protección Ciudadana
+- Asociación Agrupación Naturalista Esparvel de Cuenca.
+- Ecologistas en Acción – Cuenca.
+- Asociación para la defensa de la naturaleza WWF/Adena.
+- Sociedad Española de Ornitología (SEO Birdlife)
+- Asociación Nacional Micorriza
+- Fundación Global Nature
+- Asociación de Naturalistas Conquenses
+- Ecologistas en acción de la Manchuela
+- Asociación para el Desarrollo Integral de la Manchuela Alta
+- Asociación naturalista de Ayora y la Valle
+- Parque Nacional de las Tablas de Daimiel (*)
+De los informes recabados, cabe destacar el emitido por la Confederación Hidrográfica del Júcar, en cuyas
+conclusiones se pone de manifiesto que parte de la superficie objeto de transformación a riego por goteo se encuentra
+ubicada en la zona de policía de dos cauces innominados. En este sentido, el Organismo de cuenca señala que
+la zona de servidumbre de los cauces deberá mantenerse libre, no pudiendo ocuparse ni dicha zona ni el dominio
+público hidráulico, y que la ejecución de la plantación y, en su caso, de las infraestructuras de riego que afecten
+a la zona de policía o impliquen cruzamientos con los cauces, requerirá la preceptiva autorización o declaración
+responsable conforme a la normativa vigente en materia de aguas.
+Esta circunstancia fue puesta en conocimiento del promotor, quien, mediante escrito presentado durante la
+tramitación del expediente, comunicó que, con fecha 13 de agosto de 2026, había presentado ante la Confederación
+Hidrográfica del Júcar las correspondientes solicitudes de autorización para la plantación en la zona de policía de
+los dos cauces innominados. Asimismo, manifestó expresamente su renuncia a realizar la plantación de pistachos
+en las zonas de dominio público hidráulico y de servidumbre, que se mantendrán con el uso de regadío actualmente
+existente.
+También destacamos el informe emitido por el Servicio de Cultura de la Delegación Provincial de Educación, Cultura
+y Deportes de Cuenca, que informa el proyecto como autorizable con condiciones, al existir afección directa de las
+infraestructuras previstas sobre el ámbito de Prevención B.5-Camino de Santa Ana, incluido en el Inventario de
+Patrimonio Cultural de Castilla-La Mancha. En consecuencia, el informe establece que el promotor deberá presentar
+un Estudio de Afección al Patrimonio Cultural, incluyendo una prospección arqueológica previa de carácter intensivo,
+así como obtener la correspondiente autorización de los trabajos arqueológicos, quedando el proyecto condicionado
+a lo que determine el órgano competente en materia de Patrimonio Cultural.
+Del resto de informes recabados, no se resaltan cuestiones concretas, recogiéndose en los siguientes epígrafes las
+consideraciones establecidas por cada uno de los organismos que han emitido respuesta.
+Asimismo, con fecha 12 de agosto de 2026, se presentó solicitud de cambio de titularidad del expediente S478/2026/
+CU/00093, inicialmente promovido por Frías Mirasol, S.A., a favor de Cultivos Agrícolas Sostenibles, S.L., como
+consecuencia de la compraventa de la finca objeto del proyecto, junto con los derechos concesionales de riego
+asociados a la misma, formalizada mediante escritura pública de fecha 9 de julio de 2026. A dicha solicitud se
+acompañó copia de la escritura de compraventa, solicitándose la continuación de la tramitación del expediente a
+nombre del nuevo titular.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1ª del Capítulo II del Título II de dicha Ley.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32891
+3.1. Características del proyecto.
+El proyecto tiene por objeto la mejora y modernización del sistema de riego existente, así como la implantación de
+un cultivo de pistacho en régimen de regadío, mediante la transformación del actual sistema de riego por aspersión a
+un sistema de riego localizado por goteo. La superficie total objeto de actuación asciende a 97,5088 ha, distribuidas
+en distintas parcelas del término municipal de Pozorrubielos de la Mancha (Cuenca), manteniéndose el uso agrario
+de los terrenos.
+El agua destinada al riego procede de un aprovechamiento de aguas subterráneas amparado por la correspondiente
+concesión administrativa otorgada por la Confederación Hidrográfica del Júcar. Como consecuencia de la transmisión
+de la finca y de los derechos concesionales asociados a la misma, la titularidad de la concesión corresponde
+actualmente a Cultivos Agrícolas Sostenibles, S.L., que sucede a Frías Mirasol, S.A., en los derechos y obligaciones
+derivados de la misma.
+La concesión contempla una superficie concesional de 162,68 ha, un volumen máximo anual de 545.100 m³ y un
+caudal máximo instantáneo de 160 l/s. La captación se localiza en la parcela 81 del polígono 8 del término municipal
+de Pozorrubielos de la Mancha, correspondiendo a un sondeo de 230 m de profundidad y 600 mm de diámetro,
+equipado con un grupo motobomba de 450 CV.
+La finca dispone de las principales infraestructuras hidráulicas existentes asociadas al aprovechamiento, entre ellas
+el pozo de captación de aguas subterráneas, el equipo de bombeo y un embalse de regulación, impermeabilizado
+mediante lámina de polietileno de baja densidad, con un volumen efectivo aproximado de 13.050 m³. Estas
+infraestructuras permiten el almacenamiento y regulación del agua destinada al riego, pudiendo efectuarse, en
+determinadas condiciones de explotación, el suministro directo desde la captación hacia los sectores de riego.
+El sistema de riego proyectado será localizado por goteo, mediante emisores autocompensantes de 2 l/h, separados
+0,50 m. La red de distribución estará constituida por una conducción principal y conducciones secundarias
+enterradas, de las que partirán los laterales de riego dispuestos junto a las líneas de plantación. La conducción
+principal se proyecta mediante tubería de PVC de 315 mm de diámetro interior y presión nominal PN 6. Asimismo,
+el sistema dispondrá de elementos de control y automatización para el accionamiento de las válvulas de sector y la
+programación de los turnos de riego.
+A efectos de explotación, la superficie objeto de actuación se divide en tres sectores de riego, denominados A, B y
+C, con superficies aproximadas de 31,70 ha, 32,91 ha y 32,89 ha, respectivamente, alcanzando conjuntamente las
+97,50 ha del proyecto. Esta sectorización permite el funcionamiento independiente de las distintas zonas de riego,
+adaptando los caudales demandados a las características de la red y a las disponibilidades del aprovechamiento.
+La ejecución de las actuaciones comprende fundamentalmente la implantación de la red de riego localizado y la
+ejecución de las plantaciones, incluyendo la apertura de zanjas para las conducciones principales y secundarias,
+colocación de las tuberías, instalación de la valvulería y elementos de control y posterior relleno de las zanjas con
+el propio material procedente de la excavación. Las actuaciones se desarrollarán dentro del ámbito de la finca y
+vinculadas a las superficies destinadas al cultivo y a las infraestructuras hidráulicas existentes, sin contemplarse la
+ejecución de nuevas infraestructuras ajenas a la explotación agraria.
+3.2. Ubicación del proyecto.
+El proyecto se localiza en el término municipal de Pozorrubielos de la Mancha, provincia de Cuenca, en un entorno
+rural de carácter eminentemente agrario, con presencia de cultivos de regadío y secano, caminos rurales y
+explotaciones agrícolas colindantes.
+La actuación afecta a una superficie total de 97,5088 ha, destinada a la implantación de una plantación de pistachos
+y a la instalación de su correspondiente sistema de riego por goteo. Las superficies objeto de actuación se
+corresponden con los recintos de las parcelas catastrales 74 del polígono 6, 25 del polígono 7, 81 del polígono 8 y
+2, 23, 43 y 45 del polígono 9, quedando fuera del ámbito del proyecto aquellas superficies de la finca que no serán
+objeto de plantación o de modificación del sistema de riego.
+El proyecto se desarrolla sobre terrenos de uso agrario consolidado, por lo que la actuación no supone un cambio
+sustancial del uso del suelo ni una alteración significativa de la estructura territorial existente, limitándose a la
+transformación del sistema de riego y a la implantación del cultivo previsto.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32892
+El suministro de agua para el riego procede de un aprovechamiento de aguas subterráneas, cuyo punto de captación
+se localiza en la parcela 81 del polígono 8 del término municipal de Pozorrubielos de la Mancha, dentro de la propia
+finca objeto del proyecto. El sondeo se encuentra situado en las coordenadas ETRS89, huso 30: X = 581.218; Y =
+4.365.223.
+En relación con la red hidrográfica, en las proximidades de los terrenos objeto de actuación discurren dos cauces
+innominados, encontrándose parte de la superficie proyectada dentro de sus respectivas zonas de policía. Asimismo,
+la Confederación Hidrográfica del Júcar señala que, al no haberse estudiado dichos cauces para la elaboración del
+Sistema Nacional de Cartografía de Zonas Inundables, no se dispone actualmente de datos de inundabilidad sobre
+los terrenos afectados, circunstancia que no permite descartar la existencia de riesgo de inundabilidad.
+Según la documentación aportada, la superficie objeto del proyecto no se encuentra incluida en espacios
+pertenecientes a la Red Natura 2000.
+En cuanto a los núcleos de población próximos, el proyecto se sitúa aproximadamente a 1,5 km al noreste de
+Rubielos Bajos, 2 km al noroeste de El Picazo y 3 km al sureste de Casasimarro. El acceso a las parcelas se realiza
+a través de caminos rurales conectados con la carretera CM-3114, existiendo asimismo en el entorno diversos
+tendidos eléctricos.
+De acuerdo con el informe del Servicio de Medio Natural de Cuenca, recibido con fecha 16 de abril de 2026, el
+ámbito de actuación no se encuentra incluido en ningún Espacio Natural Protegido. Asimismo, el proyecto no se
+emplaza dentro de los límites de ningún Espacio Red Natura 2000, siendo el más cercano a aproximadamente 4,7
+km al norte, la ZEC ES4230006 Hoces de Alarcón, declarado por Decreto 26/2015, de 07/05/2015.
+Las parcelas se ubican en la cuenca vertiente del río Júcar, transcurriendo un cauce no permanente.
+La masa de agua subterránea corresponde a ES080MSBT080-200 Mancha Oriental, en estado cuantitativo malo
+(PHC 2022-2027).
+La ubicación del proyecto no se encuentra incluida en ninguna de las Zonas de Alto Riesgo (ZAR) por Incendio
+Forestal, establecidas en el Plan Especial de Emergencias por Incendios Forestales de Castilla-La Mancha (Orden
+187/2017, de 20 de octubre).
+3.3. Características del potencial impacto.
+Se produce impacto por detracción de aguas subterráneas, aspecto este cuyo efecto acumulativo sobre el sistema
+acuífero del que se extraerán, es controlado por la Confederación Hidrográfica, ajustándolo a las situaciones hídricas
+de cada momento.
+Entre las principales repercusiones del proyecto, destaca el mantenimiento de la extracción para riego, de una masa
+de agua subterránea, Mancha Oriental, en mal estado cuantitativo, además del cambio de uso agrícola, hacia un
+sistema de cultivo de menor cobertura vegetal y riesgo de erosión, además de cambio en hábitat faunístico, en cuanto
+a disponibilidad de refugio o alimentación en determinados momentos del ciclo fenológico que aporta los cultivos
+herbáceos. También supondrá un cambio de paisaje y generación de residuos durante la fase de desmantelamiento
+de sistema de riego actual e instalación del riego por goteo.
+Otros impactos de los regadíos, son las acometidas eléctricas aéreas a grupos de bombeo con el consiguiente
+riesgo de mortalidad de avifauna, que, en este caso, se ha minimizado con la corrección de apoyos. Igualmente, las
+balsas de riego, puede suponer riesgo de mortalidad de fauna por ahogamiento.
+Para la alternativa seleccionada no se prevén afecciones directas sobre espacios naturales protegidos ni sobre
+espacios integrados en la Red Natura 2000, al no encontrarse la actuación incluida dentro de los límites de ninguno
+de estos espacios. El espacio Red Natura 2000 más próximo corresponde a la ZEC ES4230006 Hoces de Alarcón,
+situada aproximadamente a 4,7 km al norte del proyecto y declarada mediante Decreto 26/2015, de 7 de mayo.
+Este espacio se encuentra, asimismo, incluido como Área Crítica del águila perdicera (Aquila fasciata), especie
+catalogada como «en peligro de extinción» en el Catálogo Regional de Especies Amenazadas de Castilla-La
+Mancha, de acuerdo con su Plan de Recuperación aprobado por Decreto 76/2016, de 13 de diciembre. No obstante,
+la actuación se localiza fuera de los límites de dicha área.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32893
+En cuanto a los elementos geomorfológicos de protección especial, en el entorno del proyecto existen pequeños
+lavajos, considerados humedales estacionales, que albergan comunidades vegetales anfibias incluidas entre
+los hábitats de protección especial conforme a la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza
+de Castilla-La Mancha, y el Decreto 199/2001, de 6 de noviembre. Asimismo, en el entorno existen Hábitats de
+Interés Comunitario (HIC) incluidos en el Anexo I de la Directiva 92/43/CEE, en concreto el HIC 9540, «Pinares
+mediterráneos de pinos mesogeanos endémicos», constituido por formaciones mixtas de pino carrasco, pino rodeno
+y pino piñonero.
+Es área de campeo y alimentación de avifauna protegida, y particularmente de rapaces rupícolas, forestales y
+de ambientes esteparios amenazadas, incluidas en diferentes categorías del Catálogo Regional de Especies
+Amenazadas de Castilla-La Mancha (CREA-CLM) y en el Anexo I de la Directiva 2009/147/CE. También pueden
+hacer uso del territorio, especies de fringílidos, especialmente el jilguero (Carduelis carduelis), pardillos (Linaria
+cannabina) y verderón común (Chloris chloris), cuculiformes como críalo europeo (Clamator glandarius), emberícidos
+como escribano triguero (Emberiza calandra) y aláudidos como alondra común (Alauda arvensis), terrera común
+(Calandrella brachydactyla), cojugada común (Galerida cristata) o cojugada montesina (Galerida theklae).
+En el ámbito del proyecto transcurre la vía pecuaria “Vereda de Santa Ana”, deslindada con una anchura legal de
+21 metros.
+No se ven afectados Montes de Utilidad Pública.
+En materia de Patrimonio Cultural, el informe emitido por el Servicio de Cultura de la Delegación Provincial de
+Educación, Cultura y Deportes de Cuenca determina que las infraestructuras previstas presentan afección directa
+sobre el ámbito de Prevención B.5-Camino de Santa Ana, documentado e incluido en el Inventario de Patrimonio
+Cultural de Castilla-La Mancha del término municipal de Pozorrubielos de la Mancha. No obstante, el proyecto se
+considera autorizable con condiciones, quedando su viabilidad y posterior autorización supeditadas a la realización
+de una prospección arqueológica previa de carácter intensivo, por arqueólogo expresamente autorizado, así como a
+la adopción de las medidas de control, corrección y conservación que, en su caso, determine el órgano competente
+en materia de Patrimonio Cultural.
+Será necesario adecuar las concesiones a las necesidades hídricas reales de los cultivos, a las disponibilidades
+hídricas que haya en cada momento, y conforme a los criterios medioambientales y de sostenibilidad para el
+mantenimiento y la mejora de los acuíferos, teniendo siempre en consideración el principio de cautela, ante la
+duda razonable de que pudieran causar, de manera acumulativa todas las extracciones en su conjunto, un efecto
+perjudicial en los ecosistemas de difícil corrección, sobre todo en la masa de aguas subterránea Mancha Oriental,
+en mal estado cuantitativo, debiéndose estar a lo establecido en la revisión del plan hidrológico en cuanto a las
+dotaciones de referencia para riego en la zona de la Mancha Oriental y la zona agraria en cuestión (0902804).
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor de este proyecto en el documento
+ambiental, las cuales se consideran vinculantes con el contenido de esta Resolución, se formulan las siguientes
+medidas adicionales de protección, tratándose de condiciones que deberán incorporarse en la correspondiente
+autorización de este proyecto. En los casos en que pudieran existir discrepancias entre unas y otras, prevalecerán
+las contenidas en el presente informe.
+4.1 Protección de recursos naturales.
+Según el Servicio de Medio Natural y Biodiversidad de Cuenca, con el fin de preservar los valores naturales con
+mayor grado de amenaza presentes en la zona de estudio, se han de tener en cuenta las siguientes consideraciones:
+- Priorizar en lo posible, instalación de sistemas de riego por goteo, con goteros subterráneos y/o no accesibles para
+la fauna, pudiéndose sustituir en terrenos pedregosos por la cubrición con material del terreno (piedras o tierra) de
+cada uno de los goteros.
+- El mantenimiento de franjas de vegetación natural entre calles de plantación, libre de pesticidas y herbicidas, que
+sirvan de refugio a avifauna, micromamíferos y entomofauna y minimizar riesgo de erosión y pérdida de suelo.
+- Creación de franja de protección a lo largo de cauces, sin labrar, libre de pesticidas y herbicidas para crecimiento
+de vegetación natural.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32894
+- Creación de pequeñas charcas como bebedero para fauna o reproducción de anfibios, en zonas poco transitadas
+y alejadas de caminos.
+- En el diseño de trazado de tuberías, se proyectarán dentro de las tierras de labor evitando afección a vegetación
+natural y ribazos.
+- Se desmantelarán las infraestructuras asociadas al sistema de riego con cobertura fija. Tras la fase de construcción
+se deberá dejar la zona libre de cualquier residuo producido en la obra.
+- La balsa de riego dispone de un vallado con hilo superior con elementos cortantes, por lo que, se tratará de eliminar
+dicho hilo, para ser más seguro para la fauna.
+- Para minimizar o evitar riesgo de ahogamiento de fauna en balsa de riego (por ejemplo, rapaces), se instalarán
+sistemas de escape como rampas de superficie rugosa o sistemas oscilantes anclados en la parte superior del talud
+(pantalanes, …) que permitan su salida con cualquier cota de lámina de agua.
+- En el ámbito del proyecto transcurre la vía pecuaria “Vereda de Santa Ana”, deslindada con una anchura legal de 21
+metros, debiéndose estar a lo dispuesto en la Ley 9/2003, de 20 de marzo, de Vías Pecuarias de Castilla-La Mancha
+y modificaciones posteriores, y respetar los límites de la misma, de cualquier acción del proyecto (infraestructura de
+riego, plantación y acciones agrícolas, incluido el labrado y laboreo, debiendo instaurarse la vegetación natural, libre
+de pesticidas y herbicidas).
+- En lo no dispuesto en este condicionado se atenderá a las recomendaciones de los Agentes Medioambientales de
+la zona, quienes ejercerán la supervisión y el seguimiento ambiental de la actuación
+Respecto de la primera de las consideraciones anteriores, relativa a priorizar en lo posible la instalación de sistemas
+de riego por goteo con goteros subterráneos y/o no accesibles para la fauna, el promotor presentó, con fecha 14
+de mayo de 2026, un escrito en el que expone la inviabilidad técnica de su aplicación en la finca, debido a las
+características de los suelos y a la presencia de abundante pedregosidad. A este respecto, se considera que dicha
+medida debe priorizarse en la medida de lo posible, tal y como señala el informe del Servicio de Medio Natural y
+Biodiversidad, sin que tenga carácter preceptivo, por lo que, atendiendo a la justificación técnica aportada por el
+promotor, no se establece como condición de obligado cumplimiento.
+Sin perjuicio de lo anteriormente indicado, de constatarse a raíz de la puesta en regadío de las parcelas afecciones
+negativas a recursos naturales protegidos (como entre otras, cambios en la distribución de especies catalogadas),
+este Servicio podrá establecer las medidas oportunas para su conservación y la recuperación de las condiciones
+originales.
+4.2. Protección del suelo y movimiento de tierras.
+Se tendrán en consideración todas las normas urbanísticas que, en su caso, sean de aplicación, en especial el Texto
+Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla-La Mancha, así como el
+Reglamento de Suelo Rústico.
+En caso de ser necesario un préstamo de áridos para la ejecución del proyecto, los materiales se obtendrán de
+canteras autorizadas. En cuanto a un posible sobrante de tierras, éste deberá reutilizarse como opción prioritaria
+dentro de la propia parcela y, sólo en último caso, entregar a gestor autorizado. No obstante, será necesario realizar
+comunicación ante el Servicio de Economía Circular y Agenda 2030 cuando en la construcción del proyecto sea
+necesario realizar operaciones de relleno de tierra o depósito de tierras sobrantes en parcelas distintas a las objeto
+de proyecto, se cumplirá lo establecido en la Orden APM/1007/2017, de 10 de octubre, sobre normas generales
+de valorización de materiales naturales excavados para su utilización en operaciones de relleno y obras distintas a
+aquellas en las que se generaron.
+Para evitar pérdida y erosión del suelo se plantean las siguientes medidas:
+- Mantener la cubierta vegetal, natural o de especies cultivadas, en las calles.
+- Aportar materia orgánica, por ejemplo, los restos de poda triturados, hojas, con el fin de mejorar la estructura y la
+capacidad de infiltración.
+- Dejar las hojas caídas bajo copa, salvo en casos de problemas fitosanitarios.
+- Dejar los restos vegetales y de poda triturados sobre la superficie del suelo, excepto si hay riesgos de enfermedades
+o plagas que aconsejen retirarlos.
+- Respetar la vegetación natural de lindes, setos, árboles aislados, bordes de montes, etc. y favorecer la vegetación
+natural de las riberas de arroyos, cursos de agua o zonas de desagüe, procurando que su desarrollo no sea excesivo
+para evitar los incendios en verano.
+- Evitar las labores frecuentes en los suelos con la finalidad de eliminar la hierba.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32895
+- Evitar a utilización de aperos (gradas de discos, vertedera) que destruyan la estructura del suelo y propicien la
+formación de suela de labor.
+4.3. Protección de los sistemas hidrológico e hidrogeológico.
+Cauces, zona de servidumbre, zona de policía y zonas inundables:
+La superficie objeto del proyecto ocupará la zona de policía de dos cauces innominados. A este respecto se informa
+lo siguiente:
+- Tal y como se establece en los artículos 2 y 6 del Texto Refundido de la Ley de Aguas, pertenecen al dominio
+público hidráulico los cauces de corrientes naturales, ya sean continuas o discontinuas. Estos cauces se encuentran
+protegidos por una faja lateral de 5 metros de anchura, que constituye la zona de servidumbre, y por una faja lateral
+de 100 metros de anchura, que conforma la zona de policía.
+- La mencionada zona de servidumbre se debe mantener expedita para uso público (artículo 7 del Reglamento del
+Dominio Público Hidráulico, Real Decreto 849/1986), quedando supeditada la ejecución de cualquier actividad de las
+comprendidas en el artículo 9.1 del Reglamento del Dominio Público Hidráulico (extracción de áridos, modificaciones
+sustanciales del relieve, construcciones definitivas o provisionales y, en definitiva, cualquier uso o actividad que
+suponga obstáculo para la corriente o que pueda ser causa de degradación o deterioro del Dominio Público
+Hidráulico) y que se pretenda realizar en zona de policía de cauce público, a la obtención de la previa autorización
+de este Organismo o declaración responsable, conforme a lo dispuesto en el artículo 9.4 del Reglamento de Dominio
+Público Hidráulico.
+Por tanto, se requerirá que previamente al inicio de la plantación pretendida en zona de policía y, en su caso, de las
+obras de instalación de la infraestructura de riego en zona de policía o cruzamientos con el cauce, el titular cuente
+con la preceptiva autorización de este Organismo conforme a la legislación vigente de aguas, teniendo en cuenta
+que no se podrá ocupar la zona de dominio público hidráulico del cauce, ni su zona de servidumbre (5 metros a cada
+lado del cauce).
+Saneamiento y depuración:
+Con respecto a las aguas residuales que se puedan generar, se recuerda que queda prohibido, con carácter general,
+el vertido directo o indirecto de aguas y de productos residuales susceptibles de contaminar las aguas continentales o
+cualquier otro elemento del dominio público hidráulico, salvo que se cuente con la previa autorización administrativa
+(artículo 100 del Texto Refundido de la Ley de Aguas). Dichas autorizaciones de vertido corresponderán a la
+Administración hidráulica competente, salvo en los casos de vertidos efectuados en cualquier punto de la red
+de alcantarillado o de colectores gestionados por las Administraciones autonómicas o locales o por entidades
+dependientes de las mismas, en los que la autorización corresponderá al órgano autonómico o local competente
+(Real Decreto Ley 4/2007 por el que se modifica el Texto Refundido de la Ley de Aguas).
+Aguas pluviales:
+En caso de pretender realizar vertido de aguas pluviales al dominio público hidráulico previamente se deberá contar
+con la autorización de este Organismo.
+Incidencia en el régimen de corrientes:
+No se dispone de datos de inundabilidad en los terrenos afectados por el proyecto dado que, a fecha del presente
+escrito, los cauces presentes no han sido estudiados para la elaboración del Sistema Nacional de Cartografía de
+Zonas Inundables, por lo que la ausencia de dichos datos no implica la ausencia de inundabilidad en los terrenos
+próximos a dichos cauces.
+Dado que se ocupará la zona de policía de cauces públicos, para obtener la autorización de obras de este Organismo
+para parte de la plantación pretendida, y, en su caso, para la instalación de la infraestructura de riego, se deberá
+justificar que las mismas no suponen incidencia en el régimen de corrientes a efectos de lo dispuesto en el artículo 9
+del Reglamento del Dominio Público Hidráulico (Real Decreto 849/1986), en el que se establece que en la zona de
+flujo preferente de los cauces no pueden autorizarse actividades vulnerables frente a las avenidas ni actividades que
+supongan una reducción significativa de la capacidad de desagüe de la citada zona de flujo preferente.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32896
+En todo caso, se informa que de acuerdo con lo dispuesto en el artículo 5.2 del Texto Refundido de la Ley de Aguas,
+las obras que se realicen en la zona de la actuación no podrán alterar el curso natural de las aguas en perjuicio
+del interés público ni de terceros y, además, deberá cumplirse lo dispuesto en el artículo 47 del Texto Refundido
+de la Ley de Aguas, según el cual los predios inferiores están sujetos a recibir las aguas que naturalmente y sin
+obra del hombre desciendan de los predios superiores, así como la tierra o piedra que arrastren en su curso; ni el
+dueño del predio inferior puede hacer obras que impidan esta servidumbre ni el del superior obras que la agraven,
+no pudiéndose, entre otros, modificar el drenaje natural ni la escorrentía de los terrenos. Igualmente, se deberán
+minimizar los riesgos de erosión y evitar cualquier variación en el régimen de corrientes aguas arriba y aguas abajo
+de la actuación.
+Disponibilidad de recursos hídricos:
+La Oficina de Planificación Hidrológica de este organismo de cuenca, con fecha 30/06/2026, informó lo siguiente:
+El agua necesaria para el riego de la superficie a transformar a riego por goteo procederá de la captación
+correspondiente al aprovechamiento de aguas subterráneas actualmente titularidad de Cultivos Agrícolas Sostenibles,
+S.L. En el Documento Ambiental se adjunta copia de la resolución de otorgamiento de la concesión correspondiente
+al aprovechamiento 2070/2005 (2005CP0072) – UGH RB0001, inicialmente otorgada a favor de Frías Mirasol, S.A.,
+con un volumen máximo anual de 545.100 m³ para el riego de una superficie de 162,68 hectáreas. La titularidad
+actual del aprovechamiento deriva de la transmisión de la finca y de los derechos concesionales de riego asociados
+a la misma, conforme a lo indicado en el apartado segundo, relativo a la Tramitación y Consultas.
+En la estimación de necesidades hídricas presentada en el Documento Ambiental se ha tenido en cuenta una
+dotación de 13,333 m³ /hora/ha considerado el sistema de riego por goteo.
+Consultada la documentación existente en este Organismo, se ha podido comprobar que el aprovechamiento de
+aguas subterráneas referenciado anteriormente se encuentra inscrito en la Sección A del Registro de Aguas, con un
+volumen máximo anual de 545.100 m³ para el riego de 162,68 hectáreas. Si bien dicho aprovechamiento figuraba
+anteriormente a nombre de Frías Mirasol, S.A., en la actualidad su titular es Cultivos Agrícolas Sostenibles, S.L.,
+como consecuencia de la transmisión de la finca y de los derechos concesionales de riego asociados a la misma,
+formalizada mediante escritura pública de compraventa de fecha 9 de julio de 2026, según se indica en el apartado
+segundo, relativo a la Tramitación y Consultas.
+La superficie objeto de transformación a riego por goteo se encuentra incluida en el total de la superficie regularizada
+en el aprovechamiento 2070/2005 (2005CP0072) – UGH RB0001:
+Dado que la superficie objeto del proyecto informado se encuentra regularizada en la concesión de referencia
+2070/2005 (2005CP0072) – UGH RB0001 y la transformación consiste en el cambio del sistema de riego en parte
+de dicha superficie regularizada, quedaría acreditada la existencia de derechos al uso del agua para atender las
+necesidades asociadas al proyecto, siempre que no se excedan los derechos otorgados.
+No obstante, la transformación del sistema de riego y la plantación de pistachos en la zona de policía de los cauces
+afectados supondrá una modificación de las características de la concesión otorgada, dado que se verá disminuida
+la superficie de riego, puesto que se deben dejar libres los cauces y su zona de servidumbre, lo cual requerirá la
+tramitación del correspondiente expediente de modificación de características conforme a lo dispuesto en el vigente
+Plan Hidrológico de la Demarcación Hidrográfica del Júcar, aprobado por Real Decreto 35/2023, de 24 de enero, el
+cual, en su artículo 45.3 y 45.4 establece lo siguiente:
+- Con carácter general, en los expedientes de modificación de características de una concesión o que implique la
+transformación de un título de derecho inscrito en la sección C del Registro de Aguas o anotado en el Catálogo
+de Aguas privadas en un título concesional, el volumen máximo anual a otorgar en concesión no podrá superar el
+uso real ni el volumen anual inscrito para dicho aprovechamiento. El uso real indicado anteriormente se limitará,
+asimismo, a las dotaciones de referencia establecidas en el presente Plan Hidrológico.
+- A efectos de lo dispuesto en esta normativa, se entiende como uso real el máximo consumo real anual que se haya
+producido durante el periodo de 5 años comprendido entre octubre de 2011 y septiembre de 2016, período ampliable
+a otros diez, anteriores a dicho período, si se justifica adecuadamente, sin que este volumen pueda resultar, en
+ningún caso, superior al volumen de derechos que autoriza el uso”.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32897
+4.4. Generación de residuos.
+Todos los residuos generados durante las fases de construcción y funcionamiento de la actividad, bien sean residuos
+peligrosos o no, e independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022, de
+8 de abril, de residuos y suelos contaminados para una economía circular.
+Durante la fase de explotación, los residuos procedentes de los tratamientos fitosanitarios deberán gestionarse
+en los términos que establece el Real Decreto 1055/2022, de 27 de diciembre, de envases y residuos de envases
+y cumplir lo referido en el Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de
+actuación para conseguir un uso sostenible de los productos fitosanitarios, en especial las referidas a la protección
+del medio acuático y el agua potable y la manipulación de los productos fitosanitarios y restos. En cualquier caso, se
+dispondrá de contenedores adecuados para el almacenamiento de los residuos generados, así como compromiso
+de contratación con una empresa especializada para su retirada.
+Tanto durante la fase de obras como durante la fase de funcionamiento, se deberá prestar especial atención a los
+vertidos líquidos procedentes de la maquinaria empleada, y, concretamente, a los aceites usados, que deberán ser
+almacenados en bidones, posteriormente recogidos y transportados para su posterior tratamiento, de acuerdo con el
+Real Decreto 679/2006, de 2 de junio, por el que ese regula la gestión de los aceites industriales usados, así como
+lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+Se estará a lo dispuesto en la Ley 43/2002, de 20 de noviembre, de Sanidad Vegetal, que recoge que se deben
+cumplir las disposiciones relativas a la eliminación de los envases vacíos de acuerdo con las condiciones establecidas
+y, en todo caso, con aquellas que figuren en sus etiquetas.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, o en su
+defecto, el promotor comunicará inicio de actividad para su inscripción en el Registro de Producción y Gestión de
+Residuos de Castilla-La Mancha (pudiéndose realizar a través de la Oficina Virtual de la Consejería de Desarrollo
+Sostenible) debiendo disponer de contrato con Gestor Autorizado. En caso de cualquier incidencia como derrame
+accidental de combustibles o lubricantes, se actuará de forma que se restaure el suelo afectado, extrayendo la parte
+de suelo contaminado que deberá ser recogido y transportado por gestor autorizado para su posterior tratamiento.
+4.5. Protección del paisaje.
+Los materiales a emplear en la construcción de las infraestructuras necesarias deberán presentar texturas, colores y
+diseños tradicionales de la zona, así como el uso de tonos miméticos, evitando el empleo de superficies reflectantes,
+con el fin de lograr una integración paisajística que atenúe su impacto visual. Se recomienda, igualmente, integrar
+paisajísticamente las infraestructuras necesarias para el bombeo e instalaciones auxiliares, mediante el completo
+acabado de sus caras vistas y el uso de materiales y tonos acordes con el entorno y acabados tradicionales (teja, etc.).
+4.6. Protección del Patrimonio y Bienes de Dominio Público.
+El Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Cuenca informa que las
+infraestructuras previstas presentan afección directa sobre el ámbito de Prevención B.5-Camino de Santa Ana,
+documentado e inventariado como elemento del Patrimonio Cultural de Castilla-La Mancha en el término municipal
+de Pozorrubielos de la Mancha.
+En consecuencia, con carácter previo a la ejecución del proyecto, deberá realizarse un Estudio de Afección al
+Patrimonio Cultural, que incluya una prospección arqueológica previa de carácter intensivo de las parcelas afectadas,
+realizada por un arqueólogo expresamente autorizado. Para ello, el promotor deberá presentar ante la Delegación
+Provincial de Educación, Cultura y Deportes o ante la Viceconsejería de Cultura y Deportes la correspondiente
+solicitud de autorización de trabajos arqueológicos y proyecto arqueológico de actuación, de conformidad con lo
+establecido en el artículo 49.3.b de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha.
+Las medidas de control, corrección y conservación que, en su caso, resulten necesarias serán determinadas y
+autorizadas expresamente por el órgano competente en materia de Patrimonio Cultural.
+Asimismo, si durante la ejecución del proyecto apareciesen restos arqueológicos o paleontológicos, deberá
+procederse a su comunicación inmediata a la Administración competente en materia de Patrimonio Cultural, de
+conformidad con la normativa vigente, adoptándose las medidas necesarias para garantizar su protección y control
+antes de continuar con las actuaciones que pudieran afectarlos.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32898
+En relación con los bienes de dominio público, en el ámbito del proyecto transcurre la vía pecuaria denominada
+“Vereda de Santa Ana”, con una anchura legal de 21 metros, por lo que deberán respetarse en todo momento sus
+características y régimen de protección, sin perjuicio de las autorizaciones que, en su caso, resulten necesarias para
+las actuaciones que puedan afectarla.
+Con respecto a las infraestructuras que pudieran resultar afectadas (caminos públicos, servidumbres, líneas
+eléctricas, etc.), se estará a lo que disponga su normativa sectorial en relación con los retranqueos mínimos,
+distancias de seguridad y autorizaciones pertinentes.
+No es previsible la afección a Montes de Utilidad Pública.
+4.7. Adecuación urbanística.
+De conformidad con el artículo 165.1 del Texto Refundido de la Ley de Ordenación del Territorio y la Actividad
+Urbanística, aprobado por Decreto Legislativo 1/2023, de 28 de febrero, están sujetos a la obtención de licencia
+urbanística, sin perjuicio de las demás autorizaciones que sean procedentes con arreglo a la legislación sectorial
+aplicable, los actos de construcción y edificación y de uso del suelo que en el mismo se detallan, en particular entre
+otros, obras de construcción, edificación e implantación de instalaciones de toda clase, movimientos de tierra o las
+instalaciones que afecten al subsuelo.
+4.8. Plan de Desmantelamiento y cese de la actividad.
+Una vez finalizada la actividad de forma permanente, se retirarán todas las instalaciones y se entregarán todos
+los restos de material, residuos o tierras sobrantes a gestores autorizados según la naturaleza de cada residuo,
+restaurando finalmente los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado
+de limpieza. El desmontaje y la restauración deberán realizarse en el plazo máximo de un año tras la finalización
+de la actividad y deberá ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de
+Desarrollo Sostenible de Cuenca (Órgano Ambiental) para dar por finalizado el expediente. Asimismo, en caso de
+que la actividad sea traspasada, también se deberá poner en conocimiento de este Servicio.
+4.9. Protección a la atmósfera, calidad del aire y prevención del ruido.
+A fin de cumplir con la normativa vigente respecto a los niveles de emisión de partículas a la atmósfera y con el fin
+de minimizar la producción y dispersión del polvo, se estará a lo dispuesto por la Ley 34/2007, de 15 de noviembre,
+de calidad del aire y protección de la atmósfera
+Durante la fase de construcción se realizarán riegos periódicos de la zona de obras, así como de los viales de
+acceso, de modo que se reduzca la cantidad de polvo emitido a la atmósfera.
+Con respecto al ruido, se tendrá en cuenta lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, sus
+Reglamentos de desarrollo (Real Decreto 1367/2007, de 19 de octubre y el Real Decreto 212/2002, de 22 de febrero)
+modificado por el Real Decreto 524/2006, de 28 de abril y lo que establezcan al respecto las correspondientes
+ordenanzas municipales.
+En general, se procederá a la revisión y control periódico de los silenciosos de los escapes, rodamientos, engranajes
+y mecanismos en general de la maquinaria; todas las revisiones de ruido de la maquinaria se recogerán en fichas
+de mantenimiento y se aplicarán las medidas preventivas oportunas para minimizar el efecto de las proyecciones y
+de la onda aérea.
+En el caso del uso de motor para la extracción de agua el mismo se deberá dotar de sistemas que minimicen el ruido
+a niveles que no molesten a la fauna presente en la zona, así como de elementos que eviten la contaminación del
+suelo por derrames accidentales de combustible y posibles pérdidas de aceite.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020 de 7 de febrero, de Evaluación de Ambiental de Castilla-La Mancha, el
+seguimiento y vigilancia del cumplimiento de las prescripciones contenidas en la presente resolución corresponden
+al órgano sustantivo, sin perjuicio de las informaciones que pueda recabar el órgano ambiental al respecto, así como
+efectuar las comprobaciones necesarias para verificar el cumplimiento del condicionado.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32899
+El promotor remitirá al órgano ambiental, en este caso, el Servicio de Calidad Ambiental de la Delegación Provincial
+de Desarrollo Sostenible de Cuenca, un informe de seguimiento sobre el cumplimiento de las condiciones y de las
+medidas preventivas, correctoras y compensatorias establecidas, que incluirá un listado de comprobación de las
+medidas contempladas en el Programa de Vigilancia Ambiental. El informe deberá estar suscrito conjuntamente por
+el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y será presentado ante el órgano
+ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento correspondiente.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control sobre la obtención de la autorización correspondientes de la Confederación Hidrográfica y cumplimiento
+de lo establecido en la misma.
+- Vigilancia en la construcción y funcionamiento de las instalaciones, para verificar que se están cumpliendo las
+condiciones establecidas en el documento ambiental y en el presente Informe.
+- Que no se produzcan afecciones negativas sobre la avifauna protegida y especies amenazadas presentes en el
+ámbito del proyecto, especialmente rapaces rupícolas, forestales y de ambientes esteparios, ni sobre los humedales
+estacionales y sus comunidades vegetales asociadas.
+- Control de la correcta gestión de los residuos producidos y tramitación de la documentación.
+- Control de los volúmenes de agua extraída, así como del estado de los equipos de riego en parcelas y elementos
+accesibles de las redes de riego.
+- Que se respeta el deslinde y la anchura legal de 21 metros de la vía pecuaria “Vereda de Santa Ana”, así como los
+límites de la misma frente a cualquier actuación derivada del proyecto, incluida la plantación, las infraestructuras de
+riego y las labores agrícolas.
+- Vigilancia y control de la emisión de gases, ruidos y partículas en suspensión, confirmando que se encuentren
+dentro de los límites establecidos por la legislación vigente.
+- Documentación necesaria que acredite el estado de la maquinaria, vehículos y personal trabajador
+- Que se aplican correctamente las medidas relativas al riesgo de contaminación por nitratos y al uso de fertilizantes
+y fitosanitarios, y que se mantiene actualizado el libro de registro de productos utilizados.
+- Control de los eco-regímenes de biodiversidad entre las calles del cultivo de pistachos.
+- Control de la franja de protección de al menos 5 m, establecida con respecto a los cauces próximos a la explotación.
+- Control de la aparición de restos arqueológicos durante las posibles obras.
+- Control de no afección a la zona de dominio público hidráulico y zona de servidumbre de los cursos de agua.
+- Control de que se procede a la adecuada restauración de la zona una vez finalizada la ejecución del proyecto.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Delegación Provincial de
+Desarrollo Sostenible de Cuenca:
+a) Antes del inicio de la actividad:
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32900
+- Resolución de la concesión emitida por la Confederación Hidrográfica, incluyendo el título otorgado por ésta para
+el aprovechamiento de las aguas subterráneas y el volumen final autorizado.
+b) En el primer trimestre del primer año inmediatamente posterior a la construcción de las instalaciones (y en años
+posteriores si el órgano ambiental lo considera necesario más adelante), informes sobre los controles y actuaciones
+en aplicación del plan de seguimiento y vigilancia ambiental. Además, en caso de constatarse afecciones negativas
+a recursos naturales protegidos, el Servicio Provincial de Cuenca de Medio Natural y Biodiversidad podrá establecer
+las medidas oportunas para su conservación y la recuperación de las condiciones originales.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Cuenca, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible (modificado por el Decreto 6/2024, de 20 de febrero), y en
+el ejercicio de las atribuciones conferidas por la Resolución de 27 de septiembre de 2023, de la Dirección de Calidad
+Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las Delegaciones Provinciales
+de la Consejería de Desarrollo Sostenible y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, resuelve que el proyecto: “Mejora de regadío y plantación de pistachos en el término municipal
+de Pozorrubielos de la Mancha (Cuenca)” (Exp. S478/2026/CU/000093), no necesita someterse a una Evaluación
+de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que
+se cumplan las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se
+desprenden del presente informe de impacto ambiental.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental, de
+forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la legislación.
+La Ley 2/2020, dispone en el artículo 4.3.e) que el informe de impacto ambiental tiene carácter preceptivo y
+determinante. El presente informe de impacto ambiental no exime de obtener los informes y autorizaciones
+pertinentes de otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+Esta Resolución se remitirá al promotor y se hará pública a través del Diario Oficial de Castilla-La Mancha y de la
+sede electrónica de la Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el
+artículo 54.3 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+El incumplimiento de lo establecido en esta resolución podrá ser causa de revocación de las autorizaciones tramitadas
+ante el sustantivo, sin perjuicio de la apertura de expedientes sancionadores y de la responsabilidad civil o penal
+que hubiere lugar, teniendo en cuenta que son infracciones graves el incumplimiento de las condiciones ambientales
+establecidas en el informe ambiental, e incluidas en la resolución que aprueba o autoriza finalmente el proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Cuenca, 15 de septiembre de 2026
+El Delegado Provincial
+JOSÉ IGNACIO BENITO CULEBRAS
+
+AÑO XLV Núm. 184 24 de septiembre de 2026 32901
+ANEXO 1
+Delimitación de la superficie afectada por el proyecto
