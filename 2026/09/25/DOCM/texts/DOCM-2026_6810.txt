@@ -1,0 +1,606 @@
+AÑO XLV Núm. 185 25 de septiembre de 2026 32960
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 16/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Ampliación de explotación ganadera de vacuno de
+cebo (expediente S478-TO-2025-00142), situado en el término municipal de Gálvez (Toledo). [2026/6810]
+La Ley 21/2013, de 9 de diciembre, de evaluación ambiental y sus modificaciones, en su artículo 7.2 concreta
+los proyectos que deben ser sometidos a evaluación de impacto ambiental simplificada por el órgano ambiental
+para determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de evaluación de impacto ambiental ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020 de 7 de febrero, de evaluación ambiental en Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de la tramitación, así como aquellos
+proyectos adicionales a los ya indicados por la Ley 21/2013 que se ven incluidos en el ámbito de aplicación de la
+legislación de evaluación ambiental.
+El proyecto se encuadra en la Ley 2/2020, concretamente en el Anexo II. Proyectos sometidos a la evaluación
+ambiental simplificada regulada en el título II, capítulo II, sección 2.ª; Grupo 1. Agricultura, silvicultura, acuicultura
+y ganadería, apartado g) Explotaciones ganaderas intensivas que cumplan alguna de las condiciones siguientes:
+3.º Que la actividad se encuentre a una distancia inferior a 2.000 metros de suelo urbano residencial, siempre que
+además se superen las 40 UGM.
+Primero. Promotor, órgano sustantivo y descripción del proyecto. Información aportada por el promotor.
+El promotor del proyecto es Alvaro Martín Muñoz, actuando como órgano sustantivo el Ayuntamiento Gálvez (Toledo).
+1.1.- Objeto y ubicación.
+Con este proyecto se pretende aumentar la capacidad de la explotación pasando de 255 a 450 cabezas de vacuno
+de cebo.
+La actuación proyectada se encuentra localizada en el polígono 11, parcela 59 del término municipal de Gálvez,
+localizándose en el paraje denominado “La Palita”. La parcela tiene una superficie de 16.812 m². Las coordenadas
+UTM del centroide de la parcela afectada, referido al sistema de referencia ETRS89 son: Huso 30; X=393.212,14.
+Y = 4.394.352,47.
+Las construcciones que hay en dicha parcela tienen una superficie total de 2.250 m².
+La parcela objeto de la transformación se sitúan a 2 km del suelo urbano más próximo, Gálvez (Toledo). La carretera
+más cercana a la parcela objeto de informe es la TO-3632, que une las localidades de Gálvez y Cuerva. El acceso
+más directo se realiza tomando entre el Km 1 y 2 de ésta el “Camino de Menasalbas”.
+1.2.- Construcciones y suministros.
+La Explotación objeto está compuesta por un conjunto de construcciones e instalaciones necesarias para llevar a
+cabo la actividad.
+La explotación tiene todas las construcciones necesarias para el alojamiento de los animales construidas, consistiendo
+en:
+- Dos naves de 15 m x 75 m que alberga a los animales.
+- Vado sanitario. De 5 m de longitud por 2 m de anchura y 20 cm de profundidad.
+- Un estercolero de 10 metros por 10 metros. Con una profundidad de un metro y un murete de medio pie que lo
+rodea construido con hormigón en masa HM-20 de 15 cm de espesor.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32961
+El suministro de agua se estima un consumo de 6.898,50 m³/año, con un valor medio de 42 litros/cabeza/día.
+No se requiere conexión eléctrica permanente; se utilizará un grupo electrógeno en caso necesario.
+1.3.- Proceso productivo.
+Los terneros tendrán un ciclo de cebo de entre 7 y 10 meses. Los machos pasarán de un peso inicial de 200 kg a
+unos 600 kg, mientras que las hembras irán de 180 kg hasta aproximadamente 450 kg. La distribución se realizará
+en corrales separados e independientes.
+La alimentación será ad libitum, a base de pienso en forma de harina compuesto por cereales, proteaginosas y
+correctores vitamínico-minerales, libre de harinas animales, complementado con paja de trigo o cebada también ad
+libitum. El manejo diario incluirá revisión de bebederos, comederos y disponibilidad de paja, esencial para la rumia.
+Se realizará una inspección visual diaria para detectar posibles problemas de salud. En invierno, si la cama está
+húmeda, se añadirá paja seca a razón de 4 kg por animal.
+Mensualmente se limpiarán los corrales, retirando el estiércol (mezcla de deyecciones y paja), seguido de una
+desinfección química con sosa al 8% mediante pulverización. Posteriormente se aplicará un vacío sanitario de un
+mes, aprovechando la acción del oxígeno y los rayos ultravioleta como desinfección biológica.
+1.4.- Producción y gestión de residuos.
+Si queremos obtener la cantidad anual de estiércol producida en la explotación y suponiendo que la capacidad
+instantánea de animales es de 450. Como se realizará al año más de un ciclo de cebo, se ha supuesto 1,2 ciclos al
+año, la cantidad total producida en dicha explotación sería de:
+Kg estiércol/año = 15,75 Kg estiércol /día x 270 días x 450 plazas x 1,2 ciclos/año = 2.296.350 Kg/año.
+Se ha supuesto 270 días de duración de ciclo de cebo, así como un mes de vacío; por ello resulta como número de
+ciclos de cebo por año 1,2.
+Después de esta operación, se procederá a la retirada de los mismos por una empresa especializada para tal labor.
+Gestión de residuos: Se entregarán a gestor autorizado.
+Gestión de cadáveres: Se gestionarán mediante recogida por organismos oficiales autorizados.
+1.5.- Análisis de alternativas:
+Alternativa 0.
+No se desarrollaría la ampliación del cebadero, con impactos ambientales nulos o positivos (no se generan emisiones,
+vertidos ni ocupación de suelo). Impactos socioeconómicos negativos, ya que se perdería la oportunidad de crear
+empleo y dinamizar la economía local.
+Alternativa 1. Ampliar la actividad en la parcela ya existente.
+La ubicación está condicionada por la infraestructura ya implantada. Se estudian el método de explotación, la
+tecnología empleada y la gestión de estiércol, manteniendo como sistema de explotación cebo intensivo, priorizando
+la eficiencia energética y la minimización de impactos ambientales y se opta por entregar el estiércol a gestor
+externo autorizado.
+Alternativa 2: Localización en otro emplazamiento.
+Esta alternativa plantea situar las instalaciones en otra finca similar. Generaría beneficios socioeconómicos
+comparables a la Alternativa 1, pero implicaría mayor impacto ambiental, al tener que construir de nuevo toda la
+superficie necesaria para las 450 plazas previstas.
+Además, requiere disponer de terrenos que cumplan distancias y condicionantes, y el promotor no posee otras
+parcelas adecuadas. La adquisición de nuevos terrenos sería una opción a largo plazo y de viabilidad incierta,
+teniendo ya una parcela apta y sin afecciones ambientales relevantes.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32962
+Segundo. Tramitación y consultas.
+El 3 de octubre de 2025 tiene entrada en la Delegación Provincial de la Consejería de Desarrollo Sostenible en
+Toledo, solicitud inicio de evaluación de impacto ambiental simplificada, junto con el documento ambiental y el
+justificante de pago de la tasa correspondiente conforme a la Ley 9/2012, de 29 de noviembre, de Tasas y Precios
+Públicos de Castilla-La Mancha y otras medidas tributarias.
+Al expediente administrativo se le asignó el número S478-TO-2025-00142.
+El 20 de enero de 2026, sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la Ley 2/2020, se
+formularon consultas previas a las administraciones afectadas, con el objeto de que informaran en el ámbito de sus
+competencias. Estos organismos e instituciones consultadas han sido las siguientes (se señalan con un asterisco
+aquellos que han emitido contestación a las consultas formuladas):
+- Delegación Provincial Consejería de Desarrollo Sostenible en Toledo. Servicio de Medio Natural.
+- Unidad Coordinadora Provincial de Agentes Medioambientales. Delegación Provincial de la Consejería de Desarrollo
+Sostenible de Toledo. Coordinador de la comarca de Gálvez (*)
+- Viceconsejería de Medio Ambiente, Servicio de Prevención e Impacto ambiental
+- Oficina Comarcal Agraria de Gálvez (*)
+- Ayuntamiento de Gálvez (*)
+- Delegación Provincial de Educación, Cultura y Deportes en Toledo. Servicio de Patrimonio Cultural (*)
+- Confederación Hidrográfica del Tajo (*)
+- Ecologistas en acción
+- Sociedad Española de Ornitología (SEO)
+- WWF España
+- Agrupación Naturalista Esparvel
+- Ardeidas
+- Aire limpio Toledo
+El 24 de julio de 2026 se notifica al promotor la apertura de un plazo de alegaciones a los informes recibidos, previo a
+la resolución del procedimiento. El promotor presentó alegaciones dentro del plazo establecido, las cuales han sido
+incorporadas al expediente y serán tenidas en cuenta en la redacción del informe de impacto ambiental.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Ubicación del proyecto.
+La actividad se desarrolla en el polígono 11, parcela 59, en el paraje denominado “La Palita”, del término municipal
+de Gálvez (Toledo). La altura sobre el nivel del mar se sitúa alrededor de los 700 metros aproximadamente. Las
+coordenadas UTM del centroide de la parcela afectada, referido al sistema de referencia ETRS89 son: Huso 30 X =
+393.212,14 m Y = 4.394.352,47 m.
+La explotación se encuentra a una distancia de 1.750 metros del núcleo urbano de Gálvez (según Visor SigPac), en
+su punto más próximo.
+La carretera más cercana es la TO-3632, que une las localidades de Gálvez y Cuerva. El acceso más directo se
+realiza tomando entre el Km 1 y 2 de ésta el “Camino de Menasalbas”.
+Según determina la Confederación Hidrográfica del Tajo, la actividad se desarrolla dentro la zona sensible
+de las áreas de captación “Embalse de Azután – ESCM495” y de la zona vulnerable “Madrid-Talavera-Tiétar -
+ZVULES42_5”, recogidas oficialmente en el PHT 2015-2021. En lo concerniente a cauces y a aguas subterráneas
+según la cartografía y la documentación presentada, la ampliación de la explotación ganadera se halla del cauce
+más cercano a una distancia de 500metros. En relación a las aguas subterráneas, la parcela no asienta sobre masas
+de agua subterráneas.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32963
+La parcela no se localiza en áreas protegidas.
+El área de actuación del proyecto no se ubica sobre espacios naturales protegidos o zonas sensibles, ni afecta a
+elementos geomorfológicos de protección especial recogidos en el Anejo 1 de la Ley 9/1999 de Conservación de la
+Naturaleza de Castilla-La Mancha.
+Se localiza en zona de importancia del águila imperial y buitre negro, por lo que deberá tener en cuenta el Decreto
+275/2003, de 09/09/2003, por el que se aprueban los planes de recuperación del águila imperial ibérica y el plan de
+conservación del buitre negro.
+3.2.- Características del proyecto.
+La explotación de vacuno objeto de esta ampliación cuenta con una Resolución de 24/10/2022, de la Delegación
+Provincial de Desarrollo Sostenible de Toledo, por la que se formula informe de impacto ambiental del proyecto:
+Ampliación de actividad de ganado bovino hasta 255 cabezas (expediente PRO-TO-22-3035), situado en el término
+municipal de Gálvez (Toledo).
+La explotación dispone de las instalaciones necesarias para el desarrollo de la actividad de cebo de terneros.
+Consultada la información disponible, se ha encontrado el siguiente expediente relacionado con el abastecimiento
+de las actuaciones informadas:
+- SB-0888/2018: con fecha 26 de marzo de 2026 se resolvió la inscripción de un aprovechamiento de aguas
+subterráneas con destino a uso ganadero (abrevadero bovino), en la parcela 59 del polígono 11, T.M. Gálvez (Toledo)
+a nombre de D. Manuel Martín Braojos.
+El valor medio de consumo de agua para explotaciones ganaderas de bovino de engorde para carne se estima
+aproximadamente en 42,0 litros/cabeza/día, lo que supondría al año unos 6.898,50 m³.
+El agua para el funcionamiento de la explotación va a proceder de un pozo situado en dicha parcela, legalizado para
+tal fin.
+Para el normal funcionamiento de la explotación no se precisará de electricidad. Cuando por alguna labor de
+mantenimiento sea necesaria se dispondrá de un grupo electrógeno.
+3.3.- Características del potencial impacto.
+Con fecha 16 de marzo de 2026, el Ayuntamiento de Gálvez informa que la ampliación de la explotación bovina
+presenta una afección socioeconómica compatible con la estructura productiva del municipio de Gálvez, contribuyendo
+al mantenimiento y fortalecimiento de la actividad ganadera local.
+Asimismo, no se prevén efectos sinérgicos negativos significativos derivados de la interacción con otras actividades
+o proyectos existentes en el entorno, ya que la actuación se integra de forma coherente en las dinámicas productivas
+y económicas propias del medio rural.
+En consecuencia, desde el punto de vista socioeconómico, la actuación proyectada se considera compatible con el
+modelo de desarrollo del municipio, favoreciendo la continuidad del sector agrario como actividad estratégica para
+el empleo, la economía local y la fijación de población en el medio rural.
+Considerando los criterios contenidos en los apartados 1 y 2 del Anexo III de la Ley 2/2020, se concluye que el
+potencial impacto será compatible con el medio. No se esperan efectos irreversibles, irrecuperables, severos o
+críticos. La extensión del impacto de la actividad será reducida, dado que se desarrollará dentro de las instalaciones
+ya existentes. No obstante, el incremento del número de animales puede generar afecciones significativas al suelo,
+al agua y a la atmósfera, derivadas de la mayor producción de deyecciones, emisiones de gases como amoníaco
+(NH3), metano (CH4) y óxidos de nitrógeno (NOₓ), así como del aumento de olores y ruidos asociados a la actividad
+ganadera. Además, se prevé un aumento significativo en el consumo de agua, lo que podría agravar la presión sobre
+los recursos hídricos locales en zonas ya masificadas o con limitaciones de disponibilidad.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32964
+El potencial impacto será temporal y recuperable, durará mientras se desarrolle la actividad ganadera y será
+fácilmente reversible a la situación previa, una vez que ésta finalice, puesto que la actividad se desarrolla dentro de
+las instalaciones ya existentes.
+La zona de actuación en la que se localiza la actividad no se encuentra catalogada como área de riesgo de
+accidentes graves ni de catástrofes naturales. Asimismo, el proyecto no incorpora actividades que puedan generar
+o incrementar la probabilidad de ocurrencia de accidentes graves o eventos catastróficos relevantes.
+Dado que la actuación consiste en la ampliación de una explotación ganadera de bovino de cebo, y atendiendo a las
+características técnicas de la propia actividad, se considera que no existen riesgos significativos que puedan afectar
+al entorno donde se implanta el proyecto.
+No obstante, y conforme a lo establecido en la normativa vigente, se procede a realizar la identificación, descripción,
+análisis y valoración de los efectos derivados de la vulnerabilidad del proyecto frente a riesgos de accidentes o
+catástrofes, así como del posible impacto que tales sucesos, en caso de producirse, pudieran generar sobre el
+medio ambiente. A continuación, se presenta el correspondiente análisis.
+Riesgos naturales:
+- Inundaciones: El riesgo debido a fenómenos de desbordamiento de cauces cercanos es despreciable debido al
+estiaje del cauce más próximo.
+- Riesgo sísmico: la zona objeto de estudio presenta riesgo sísmico bajo.
+- Riesgo geológico: No existe este tipo de riesgo. Hundimientos. Riesgo muy bajo.
+- Viento: No es una zona proclive a vientos huracanados. Pese a ello, en caso de producirse, las instalaciones se
+proyectarán con las suficientes garantías para que no se desprenda ningún elemento.
+Riesgos antrópicos:
+- Incendios forestales: La probabilidad de producción de incendios derivados de la actividad es prácticamente nula
+debido a las propias características de la explotación y de las construcciones.
+- Circulación y transporte: Transporte por carretera. riesgo bajo ya que la explotación está cercada perimetralmente,
+evitando el riesgo de fuga y de algún tipo de accidente en esta vía próxima.
+- Riesgo sobre el patrimonio cultural: No existe.
+- Vertidos: No se contempla el vertido de sustancias tóxicas al medio hidrológico ni edáfico debido a las características
+técnicas del proyecto en el que se impermeabilizará toda la superficie destinada a las actividades ganaderas.
+-Emisiones: no serán reseñables debido a la distancia al municipio, no lo serán ni en periodos desfavorables de
+sequía, ni en casos de mayor tránsito de vehículos.
+- Otros riesgos: Grandes concentraciones humanas, derivados de actividades deportivas y culturales y deportes
+aéreos de riesgo. No es el caso para ninguno de los tres.
+En consecuencia, una vez finalizado el análisis técnico del expediente de evaluación de impacto ambiental, conforme
+a la Ley 21/2013 de 9 de diciembre, de evaluación ambiental, y la Ley 2/2020 de 7 de febrero, de evaluación
+ambiental en Castilla-La Mancha, esta Delegación Provincial de Desarrollo Sostenible de Toledo, en virtud del
+Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería
+de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la Resolución de 27 de septiembre de
+2023, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en materia de evaluación
+ambiental en las delegaciones provinciales de la Consejería de Desarrollo Sostenible, esta Delegación Provincial
+en Toledo considera viable el proyecto desde el punto de vista ambiental, siempre que se realice conforme al
+documento de impacto ambiental presentado y a las prescripciones de esta resolución.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Además de las medidas preventivas y correctoras que con carácter general se señalan en el documento de impacto
+ambiental, se cumplirán las condiciones y medidas que se indican a continuación, debiendo entenderse que en aquellos
+casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en el presente informe.
+4.1.- Afección sobre áreas y recursos naturales protegidos, fauna y flora.
+La explotación se ubica en una zona principalmente agrícola y ganadera, donde no existen afecciones significativas
+a bienes y valores naturales.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32965
+El proyecto no incluye terrenos en Espacios Naturales Protegidos, espacios de Red Natura 2000 u otras Zonas
+Sensibles. El proyecto no afecta a montes de utilidad pública, ni a vías pecuarias.
+En cuanto al cerramiento perimetral deberá ser permeable a la fauna silvestre. La valla metálica de alambre a
+emplear contará con las siguientes características: La separación entre los hilos de alambre verticales no inferior
+a 30 cm, y entre hilos horizontales no inferior a 20 cm, sin anclaje al suelo. En caso de que existieran, deberá
+eliminar los elementos punzantes o alambres de espino. De esta forma, el vallado será permeable a la fauna
+silvestre. La instalación del cerramiento respetará los caminos de uso público y cualquier otra servidumbre existente,
+garantizando su transitabilidad conforme a la normativa específica aplicable y al Código Civil.
+En cuanto a la vegetación natural presente en las parcelas del proyecto, no podrá ser alterada por el establecimiento
+de las instalaciones. Solo en el caso de ser necesario su corta, se deberá realizar la reposición de los pies cortados
+en otra ubicación donde se asegure su supervivencia.
+4.2.- Bienestar animal.
+Las instalaciones de ganado vacuno deberán cumplir los requisitos establecidos en el Real Decreto 1053/2022,
+de 27 de diciembre, por el que se establecen normas básicas de ordenación de las granjas bovinas. Tal como
+establece dicho Real Decreto, la capacidad máxima de la explotación no superará los 850 UGM. Se deberá dar
+cumplimiento al artículo 6 en cuanto a condiciones higiénico-sanitarias y de bioseguridad de las explotaciones
+bovinas. Tal como indica el artículo 10.4.b, las explotaciones que entreguen estiércol a una instalación autorizada u
+operador autorizado, deberán acreditar su entrega mediante el correspondiente contrato y mediante el registro de
+entregas a la instalación y el archivo de los documentos comerciales de acuerdo a la normativa de subproductos
+animales no destinados al consumo humano o a la normativa de residuos.
+También es de aplicación a la explotación, el Real Decreto 1047/1994 relativo a normas mínimas de protección para
+los terneros.
+Además, deberá cumplir con lo especificado en el Real Decreto 348/2000, de 10 de marzo, de protección de los
+animales en las explotaciones ganaderas, la Ley 32/2007, de 7 de noviembre, de cuidado de los animales en su
+explotación, transporte, experimentación y sacrifico, y Ley 8/2003, de 24 de abril, de sanidad animal.
+Como explotación ganadera se ordenará por el Decreto 69/2018, de 2 de octubre por el que se establecen las
+normas para la ordenación y registro de explotaciones ganaderas y núcleos zoológicos en Castilla la Mancha.
+Además, tiene que contar con un Sistema Integral de Gestión de las Explotaciones Bovinas (SIGE), así como tomar
+medidas para la gestión y ahorro de agua y energía. El personal que trabaje en la explotación deberá de disponer
+de formación en bienestar animal.
+El informe emitido por la Unidad Técnica Ganadera de Gálvez con fecha 9 de febrero de 2026 es favorable en
+relación a la documentación presentada, indicando lo siguiente:
+- Que la explotación cuenta con las infraestructuras necesarias para el desarrollo de la actividad, incluyendo
+cerramiento perimetral, vado sanitario para la desinfección de vehículos, instalaciones de alojamiento adecuadamente
+ventiladas, y un estercolero impermeabilizado con capacidad suficiente para el almacenamiento temporal de los
+estiércoles generados.
+- Que la explotación dispone de un plan de manejo y sanitario adecuado, con supervisión veterinaria, incluyendo
+programas de vacunación, desparasitación, control de enfermedades, limpieza y desinfección periódica de las
+instalaciones, así como la gestión reglamentaria de los cadáveres de animales por los servicios autorizados.
+- Que se adoptan medidas preventivas para minimizar las emisiones de polvo, ruidos y olores, tales como la limitación
+del tránsito de vehículos, el mantenimiento adecuado de las instalaciones y equipos, la correcta ventilación de las
+naves y la distancia suficiente a núcleos de población, de modo que no se prevén molestias significativas a la
+población.
+4.3.- Gestión estiércol, residuos y subproductos animales.
+Los residuos generados, debidos a la actividad, independientemente de la clasificación de los mismos, estarán
+sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32966
+El promotor deberá inscribirse en el registro de producción y gestión de residuos de Castilla-La Mancha como
+productor y deberá mantener actualizado su archivo cronológico tal como establece la legislación vigente.
+Los residuos peligrosos generados en la instalación, se almacenarán en contenedores estancos debidamente
+etiquetados, hasta su recogida por un gestor autorizado y se dispondrán en un local ventilado y bien iluminado, tal y
+como se establece en la Orden 21/01/2003 de la Consejería de Agricultura y Medio Ambiente, por la que se regulan
+las normas técnicas específicas que deben cumplir los almacenes y las instalaciones de transferencia de residuos
+peligrosos.
+Los residuos extraídos de la fosa séptica deberán ser retirados y gestionados por un gestor autorizado, conforme a
+la normativa de aplicación.
+Asimismo, el titular de la explotación deberá cumplir las disposiciones contenidas en el Programa de actuación
+aplicable a las zonas vulnerables a la contaminación de las aguas por nitratos procedentes de fuentes agrarias en
+la comunidad autónoma de Castilla-La Mancha, aprobado mediante el Decreto 80/2025, de 14 de octubre, así como
+las medidas adicionales y acciones reforzadas que resulten de aplicación.
+En particular, las explotaciones ganaderas intensivas con una capacidad superior a 40 UGM deberán elaborar y
+mantener actualizado un Plan de Producción y Gestión de Estiércoles, conforme al contenido mínimo establecido en
+el Anejo IV, remitiéndolo al órgano competente cuando así proceda. Dicho plan podrá coincidir con el exigido por el
+Real Decreto 1053/2022, siempre que incorpore toda la información requerida por la normativa autonómica.
+Igualmente, las explotaciones deberán disponer de instalaciones de almacenamiento de estiércoles con capacidad
+suficiente para cubrir, al menos, un período de tres meses, correspondiente al plazo mínimo durante el cual no
+se permite su aplicación al suelo, cumpliendo además las condiciones técnicas establecidas en el Anejo VI. La
+capacidad de almacenamiento se determinará de acuerdo con los criterios recogidos en el Anejo IV.
+En caso de que los estiércoles sean entregados a entidades gestoras autorizadas, las instalaciones deberán contar
+con capacidad suficiente para almacenar la producción generada durante el período máximo previsto entre retiradas,
+incrementada en un 25 % de margen de seguridad, debiendo cumplir igualmente los requisitos técnicos establecidos
+en el Anejo VI.
+Con fecha 16 de marzo de 2026, se emite informe del Agente Medio Ambiental de la zona, en relación a la consulta
+solicitada, en el que se indica lo siguiente:
+- La explotación se encuentra en la zona vulnerable por nitratos agrarios: “Madrid-Talavera-Tiétar”.
+- La explotación carece de estercolero.
+- El vado sanitario se encuentra vacío.
+El proyecto contempla la existencia de un estercolero; sin embargo, según consta en el informe emitido por el Agente
+Medioambiental, la explotación carece de dicha infraestructura. Por este motivo, con fecha 24 de marzo de 2026 se
+efectuó un requerimiento al titular, concediéndole un plazo de tres meses para la ejecución de la citada construcción.
+Transcurrido dicho plazo, con fecha 24 de junio de 2026 se solicitó al Agente Medioambiental la realización de
+una visita de inspección a la explotación, con el fin de comprobar si la obra había sido ejecutada, con fecha 16 de
+julio de 2026, el agente medioambiental informa que ha sido construido un estercolero de 17x15x1 metros en las
+coordenadas UTM(ETRS89) 305; X:393213 Y:4394414, impermeabilizado con hormigón encofrado con fibra.
+En la eliminación de los cadáveres se deberá cumplir lo establecido en el Reglamento Nº 1069/2009 del Parlamento
+Europeo y del Consejo de 21 de octubre de 2009, por el que se establecen las normas sanitarias aplicables a los
+subproductos animales y los productos derivados no destinados al consumo humano y por el que se deroga el
+Reglamento Nº 1774/2002, y en el Real Decreto 1528/2012, de 8 de noviembre, por el que se establecen las normas
+aplicables a los subproductos animales y los productos derivados no destinados al consumo humano (Sandach),
+con el fin de prevenir y reducir al mínimo los riesgos para la salud pública y la salud animal que entrañan dichos
+productos. Para una correcta gestión de estos subproductos, deberán contratar el seguro adecuado para la retirada
+de los cadáveres.
+A pesar del volumen y peso los cadáveres se dispondrán en contenedores estancos bien dimensionados. La
+recogida de estos cadáveres debe ser lo más rápida posible (en menos de 24 horas). Mientras tanto, el cadáver
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32967
+se situará en una zona alejada del área de actividad ganadera, siempre que sea posible sobre una superficie
+pavimentada de fácil limpieza y con un desagüe para la evacuación de los líquidos generados en la limpieza. Esta
+zona no estará expuesta al sol ni a la lluvia y en ella no existirá actividad ganadera directa, de forma que los animales
+de la explotación no tendrán acceso a ella. La ubicación del contenedor estanco debe situarse a la salida de la
+explotación. Posteriormente a la salida del cadáver de la explotación, se procederá a una limpieza y desinfección
+del depósito estanco, la zona donde ha permanecido el cadáver y de todo el material que pudiera haber estado en
+contacto con el cadáver.
+4.4.- Protección del sistema hidrológico y suelo.
+El informe de la Confederación hidrográfica del Tajo de fecha 20 de febrero de 2026 indica que en lo referente a
+zonas protegidas recogidas oficialmente en el Plan hidrológico de la parte española de la Demarcación hidrográfica
+del Tajo 2023 – 2027 (en adelante PHT), la parcela en la que se localizan las actuaciones se encuentra dentro
+del área de captación de la zona sensible “Embalse de Azután – ES030ZSENESCM495” y en la zona vulnerable
+“Madrid-Talavera-Tiétar - ES030_ZVULES42_5”.
+Consultada la información disponible, se ha encontrado el siguiente expediente relacionado con el abastecimiento
+de las actuaciones informadas:
+- SB-0888/2018: con fecha 26 de marzo de 2026 se resolvió la inscripción de un aprovechamiento de aguas
+subterráneas con destino a uso ganadero (abrevadero bovino), en la parcela 59 del polígono 11, TM Gálvez (Toledo)
+a nombre de D. Manuel Martín Braojos.
+Desde la Confederación, se informa que, en el caso de que se pretenda modificar alguna de las características
+esenciales (artículo 144.2 del Reglamento del Dominio Público Hidráulico) de la concesión existente se deberá
+solicitar la Modificación de Características de acuerdo con el artículo 64 del Texto Refundido de la Ley de Aguas y
+artículo 143 y siguientes del Reglamento del Dominio Público Hidráulico.
+La Confederación Hidrográfica del Tajo considera vertido cualquier descarga, directa o indirecta, de aguas o
+sustancias residuales al dominio público hidráulico. Con carácter general, estos vertidos están prohibidos salvo que
+cuenten con la autorización previa correspondiente.
+Si se generan aguas residuales, por ejemplo, mediante una fosa séptica con sistema de depuración, y estas se
+evacúan al medio, se deberá:
+- Conectarlas a la red general de saneamiento siempre que sea técnicamente posible.
+- Si no es posible la conexión, unificar los flujos de aguas residuales en una única instalación de tratamiento y
+evacuarlos por un único punto de vertido.
+- Obtener la autorización de vertido de la Confederación Hidrográfica del Tajo, presentando la solicitud y documentación
+exigida por la normativa vigente.
+- En caso de disponer ya de una autorización, cualquier modificación del vertido deberá ajustarse a sus condiciones
+o tramitar la correspondiente revisión.
+Además, las redes de saneamiento deberán ser estancas para evitar filtraciones al subsuelo. Se recomienda que
+las redes de aguas residuales y pluviales sean separativas. Si se opta por una red unitaria, deberán incorporarse
+sistemas que eviten el arrastre de contaminantes durante episodios de lluvia, como tanques de tormentas o depósitos
+antidesbordamiento.
+Por último, se recomienda aplicar técnicas de drenaje sostenible y garantizar una adecuada gestión de las aguas
+pluviales para evitar la contaminación de las aguas superficiales y subterráneas y asegurar el cumplimiento de los
+objetivos ambientales y de calidad del agua.
+4.5.- Protección contra el ruido, olores y emisión de partículas a la atmósfera.
+Debido a la producción de gases de efecto invernadero, tanto por la fermentación entérica como por la gestión del
+estiércol, la actividad ganadera se encuentra incluida en el catálogo de actividades potencialmente contaminadoras
+de la atmósfera, aprobado por el Real Decreto 100/2011, de 28 de enero, por el que se actualiza el catálogo de
+actividades potencialmente contaminadoras de la atmósfera y se establecen las disposiciones básicas para su
+aplicación. Las explotaciones de ganado vacuno, con respecto a la fermentación entérica, las que tienen capacidad
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32968
+igual o superior a 60 cabezas e inferior a 600, se encuentran en el grupo C (código 10 04 02 02) y por gestión de
+estiércol, las explotaciones con capacidad igual o superior a 60 cabezas e inferior a 600, se encuentran en el grupo
+C (código 10 05 02 02), por lo que el promotor, en el caso de que no haya realizado la notificación prevista en el
+artículo 13.3 de la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, será necesario
+solicitarla. La notificación se tramitará ante la Dirección General de Economía circular.
+En cualquier caso, se realizan las siguientes recomendaciones:
+a) En relación a la generación de polvo:
+- Se evitará la acumulación de estiércol en el estercolero, principalmente en la época estival, si es inevitable, se
+cubrirá.
+- El patio de maniobras los viales interiores y el vial de acceso estarán acondicionados para el paso de vehículos
+pesados.
+- Cualquier operación de descarga se realizará a la mínima altura posible para disminuir la producción de material
+pulverulento.
+- Adoptar medidas que atenúen el polvo en la descarga de pienso sobre las tolvas.
+- Instalación de pantallas vegetales (setos, árboles) o muros físicos para reducir la velocidad del viento y la dispersión
+del polvo.
+- Aplicación de agua en caminos de tierra o zonas de tránsito para mantener la humedad y evitar que el polvo se
+levante.
+b) Para evitar las posibles molestias por olores:
+- Reducir el contenido de proteína bruta mediante una dieta equilibrada en nitrógeno, teniendo en cuenta las
+necesidades energéticas y los aminoácidos digestibles.
+- Alimentación multifase con una formulación del pienso adaptada a las necesidades específicas del periodo
+productivo. Esta medida también favorecerá la reducción de fósforo total excretado.
+- Uso de aditivos autorizados para piensos que reduzcan el nitrógeno total excretado.
+- Se deberá cubrir el depósito del almacenamiento de estiércol, con costra natural o paja y reducir al mínimo la
+agitación del mismo. Se evitará en todo caso, puntos de almacenamiento incontrolado.
+- La evacuación de estiércol se realizará con suficiente frecuencia y se evitarán en todo caso puntos de acumulación
+incontrolados de este y de cualquier otro residuo.
+- El transporte de estiércoles se realizará mediante un sistema de transporte suficientemente estanco e inodoro.
+- Se evitarán movimientos de estiércoles en días de viento intenso y en los que la dirección predominante del viento
+afecte a la población.
+c) Para evitar las posibles molestias por ruidos:
+- Se deberá cumplir lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, así como en los reglamentos
+de desarrollo y en las ordenanzas municipales.
+- Se planificarán las actividades discontinuas (reparto de pienso, extracción de estiércol y entradas y salidas de
+camiones), de modo que se realicen en horario diurno, reduciendo al mínimo imprescindible las tareas durante el
+fin de semana.
+- Los equipos a instalar serán de bajo nivel de ruido.
+- Los tractores estarán dotados de silenciadores homologados.
+- Se llevará a cabo un mantenimiento periódico y adecuado de la maquinaria y los motores, para evitar ruidos
+innecesarios.
+- El ruido producido por los motores propios de la explotación se atenuarán encerrándose en casetas o instalándose
+dentro de las naves en la medida de lo posible.
+4.6.- Protección del patrimonio cultural, pecuario y forestal.
+Sobre la posible afección a bienes patrimoniales o restos arqueológicos, el Servicio de Cultura de la Delegación
+Provincial de Toledo de la Consejería de Educación, Cultura y Deportes de Toledo, emite informe favorable el 10 de
+octubre de 2023, sin perjuicio de que, en el caso de que aparecieran restos materiales con valor cultural durante su
+ejecución, se deberá actuar conforme a lo previsto en el artículo 52 de la Ley 4/2013 de 16 de mayo de Patrimonio
+Cultural de Castilla-La Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería
+competente en materia de Patrimonio Cultural. Este órgano determinará el carácter de los hallazgos y resolverá
+expresamente las medidas de protección de los mismos.
+En caso de modificación o eliminación de la cubierta vegetal natural se deberá contar con la correspondiente
+autorización de esta Delegación Provincial de Desarrollo Sostenible, previa solicitud, en virtud de lo dispuesto en la
+Ley 9/2003, de 20 de marzo de Vías Pecuarias de Castilla-La Mancha y/o Ley 3/208, de 12 de junio, de Montes y
+gestión Forestal Sostenible de Castilla-La Mancha, según proceda.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32969
+No consta afección a vías pecuarias ni montes públicos.
+Con fecha 14 de julio de 2026, el Servicio de Medio Natural (Vías Pecuarias) informa que, de conformidad con el
+proyecto de clasificación citado y la documentación obrante en los archivos de dicho Servicio, las edificaciones
+proyectadas (naves) no afectarían a la vía pecuaria mencionada, al encontrarse situadas a más de 20 metros del
+límite de su anchura.
+Respecto al cerramiento perimetral, este deberá respetar los límites e integridad de la vía pecuaria, manteniendo
+una distancia suficiente que garantice la preservación del dominio público pecuario. En el caso que nos ocupa, dicha
+distancia deberá ser, como mínimo, de 10,45 metros respecto al eje del camino.
+4.7.- Protección del paisaje.
+La adecuación en relación a la armonización con el entorno deberá ajustarse a lo dispuesto en el artículo 16 del
+Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico. En concreto se destaca
+la obligación de que las construcciones deberán presentar todos los parámetros exteriores y cubiertas totalmente
+terminados, con empleo en ellos de las formas y los materiales que menor impacto produzcan, así como de los
+colores tradicionales en la zona o, en todo caso, los que favorezcan en mayor medida la integración en el entorno
+inmediato y en el paisaje.
+4.8.- Adecuación urbanística y protección de infraestructuras.
+Se deberá cumplir con las prescripciones de la Orden de 4/2020, de 8 de enero de la Consejería de Fomento, por
+la que se aprueba la instrucción técnica de planeamiento sobre determinados requisitos sustantivos que deberán
+cumplir las obras, construcciones e instalaciones sobre suelo rústico, así como las especificaciones que establece
+el Decreto Legislativo 1/2023, de 28 de febrero de 2023, por el que se aprueba el Texto Refundido de la Ley de
+Ordenación del Territorio y de la Actividad Urbanística.
+Dado que el objetivo de la regulación normativa en esta materia persigue la ordenación y protección del suelo
+rústico, el Ayuntamiento tiene la competencia de velar porque se respeten en dicho suelo los usos adscritos al sector
+primario y sus limitaciones y en todo caso se vigile e impidan las construcciones no permitidas en el mismo por el
+planeamiento municipal vigente, la Lotau y la normativa de desarrollo.
+Con fecha 14 de marzo de 2026 en el informe técnico municipal del Ayuntamiento de Gálvez informa que no existe
+inconveniente urbanístico para la ampliación del número de cabezas de ganado bovino dentro de este término
+municipal, siempre que dicha ampliación resulte compatible y sea autorizada conforme a la normativa y trámites
+ambientales vigentes aplicables a la actividad.
+4.9.- Cese de la actividad.
+Si cesara la actividad de este proyecto en el futuro, ya sea de forma temporal o permanente, el promotor deberá
+realizar la evacuación del estiércol existente en la explotación, así como cualquier otro residuo que pudiera quedar
+almacenado, por medio de los procedimientos que se han establecido con anterioridad.
+Si además lo que se realiza es un desmantelamiento de las instalaciones, se gestionaran todos los restos de
+material, residuos o tierras sobrantes, mediante gestor autorizado y separando previamente in situ cada residuo
+según su tipología, tal y como se establece en la Ley 7/2022, de 8 de abril. Se restaurarán los terrenos ocupados
+a su estado original, dejando el área de actuación en perfecto estado de limpieza. El desmontaje y la restauración
+deberán realizarse en el plazo técnicamente más breve posible y deberá ponerse en conocimiento de la Delegación
+Provincial de la Consejería de Desarrollo Sostenible de Toledo para dar por finalizado el expediente, debiendo,
+antes de empezar el desmantelamiento, entregar en esta Delegación Provincial el plan a seguir y el compromiso del
+promotor de su realización.
+4.10. Innovación tecnológica.
+Si durante el período de funcionamiento de la actividad tiene lugar la aparición en el mercado de mejores tecnologías,
+cuya introducción en la misma pueda suponer mejoras técnicas que incidan de manera positiva sobre el medio
+ambiente, el promotor deberá incorporarlas en la actividad, en cuyo caso esta Delegación Provincial de Desarrollo
+Sostenible podrá actuar de oficio.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32970
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+Para el cumplimiento de las condiciones, o de las medidas correctoras y compensatorias establecidas, el promotor
+deberá designar un responsable, y notificar su nombramiento tanto al órgano sustantivo como ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o de
+las medidas correctoras y compensatorias establecidas en este informe de impacto ambiental. Cada informe deberá
+estar suscritos conjuntamente por el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto,
+y se presentarán ante el órgano ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña
+de seguimiento efectuada. Este informe de seguimiento y el listado de comprobación se harán públicos en la sede
+electrónica del órgano sustantivo y del órgano ambiental.
+Todas las actuaciones y mediciones realizadas en cumplimiento de las condiciones, así como de las medidas
+correctoras y compensatorias establecidas, deberán quedar recogidas en un registro documental, con constancia
+escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos.
+Este registro deberá permitir comprobar la correcta ejecución y el cumplimiento de las condiciones establecidas, así
+como de la normativa vigente que resulte de aplicación.
+El registro deberá iniciarse desde el comienzo de los trabajos de construcción y permanecer disponible para los
+órganos competentes de inspección y vigilancia ambiental.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente resolución.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Control de la impermeabilización de las instalaciones y de la adecuada estanqueidad de los elementos constructivos,
+de forma que se evite cualquier tipo de afección hidrológica.
+- Control del número de animales autorizados en la explotación, que no deberá superar la cifra indicada en el
+documento ambiental presentado.
+- Control de los residuos peligrosos, no peligrosos y su correcta gestión y almacenaje según la normativa vigente.
+- Control de la documentación generada debida a la recogida y traslado de los residuos de la instalación.
+- Control de la correcta gestión de los cadáveres hasta su recogida por gestor autorizado.
+- Control y seguimiento del Plan de gestión de estiércoles.
+- Control de la correcta instalación y/o acondicionamiento del cerramiento, según las características de la malla
+indicadas en la presente Resolución.
+- Control respecto al acceso a la finca, que en ningún caso deberá atravesar dominio público hidráulico.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Control de la correcta ejecución de las medidas preventivas y correctoras contempladas en el documento ambiental
+presentado y en la presente Resolución.
+- Vigilancia de los trabajos cumpliendo las condiciones establecidas en el estudio de impacto ambiental y en la
+presente Declaración.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el Ayuntamiento de Gálvez en su
+condición de órgano sustantivo.
+Previo al inicio de la actividad.
+- Solicitud de actualización en el Registro de Explotaciones Ganaderas conforme a lo establecido en el Decreto
+69/2018 de 2 de octubre por el que se establecen las normas para la ordenación y registro de explotaciones
+ganaderas y núcleos zoológicos en Castilla-La Mancha.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32971
+- Solicitud de cambio de titular de la concesión de aprovechamiento de aguas de la confederación hidrográfica del
+Tajo, ajustado al número de animales de la explotación.
+- La explotación debe tener un espacio adecuado (fijo o temporal) para la observación y aislamiento de los animales
+que por razones sanitarias o de bienestar animal deban mantenerse apartados del resto.
+- La explotación deberá contar con un sistema de iluminación adecuado, fijo o móvil, con intensidad suficiente para
+permitir la inspección de los animales en cualquier momento.
+- Designación por parte del promotor de la persona responsable del cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Contrato con gestor autorizado para la retirada de los residuos peligrosos y del resto de residuos generados en la
+explotación.
+- Contrato con gestor autorizado para la retirada de Sandach.
+- Documentos acreditativos de la gestión de los estiércoles, residuos generados y aguas residuales.
+- Designación por parte del promotor de una entidad o profesional autorizado responsable del cumplimiento del plan
+de seguimiento y vigilancia ambiental del proyecto.
+- Notificación a la Dirección General de Calidad Ambiental para ejercer actividades potencialmente contaminadoras
+de la atmósfera.
+Además, el promotor queda obligado antes del inicio de las obras a comunicar al órgano sustantivo el comienzo, para
+que este lo ponga en conocimiento al órgano ambiental. Durante el periodo de explotación, la guardia y custodia de
+toda la documentación derivada de las actuaciones recogidas, que demuestren que se están llevando a cabo las
+medidas correctoras y preventivas previstas.
+El promotor deberá permitir el acceso a las obras, construcciones, instalaciones o lugares en los que se desarrollan
+las actividades del proyecto a los agentes y a sus autoridades competentes en las funciones de inspección y
+vigilancia, así como facilitar las labores de vigilancia e inspección, toma de muestras y poniendo a disposición la
+documentación e información que se requieran.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de Toledo de la Consejería de Desarrollo
+Sostenible, en virtud del Decreto 112/2023 de 9 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias
+en materia de evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible y
+conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto
+“Ampliación de explotación ganadera de vacuno de cebo” (Exp.S478-TO-2025-00142) no necesita someterse a una
+Evaluación de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente,
+siempre que se cumplan las medidas ambientales y de seguimiento que propone el promotor y los requisitos
+ambientales que se desprenden del presente informe de impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32972
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+con antelación suficiente, así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación.
+La presente resolución de Informe de Impacto Ambiental no exime de obtener los informes y autorizaciones
+pertinentes de otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+Se adjunta anexo cartográfico.
+Toledo, 16 de septiembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32973
+Anexo cartográfico
+Mapa nº 1: mapa ubicación.
+Mapa nº 2: ortofoto de la ubicación.
+
+AÑO XLV Núm. 185 25 de septiembre de 2026 32974
+Mapa n 3º: croquis ubicación infraestructuras en la zona de actuación.

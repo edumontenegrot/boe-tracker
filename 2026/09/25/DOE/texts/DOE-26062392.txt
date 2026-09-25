@@ -1,0 +1,134 @@
+NÚMERO 186
+40700
+Viernes 25 de septiembre de 2026
+UNIVERSIDAD DE EXTREMADURA
+RESOLUCIÓN de 15 de septiembre de 2026, del Rector, por la que se modifica
+el Plan de estudios del Máster Universitario en Ingeniería de Telecomunicación.
+(2026062392)
+Obtenido el informe favorable de la Agencia Nacional de Evaluación de la Calidad y Acredi-
+tación (ANECA), aceptando la modificación del Plan de estudios del Máster Universitario en
+Ingeniería de Telecomunicación, título oficial establecido por Acuerdo del Consejo de Ministros
+de 16 de diciembre de 2011 (publicado en el BOE de 7 de enero de 2012).
+Este Rectorado, de conformidad con lo dispuesto en el capítulo VII, sección 3.ª, del Real
+Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de las ense-
+ñanzas universitarias y del procedimiento de aseguramiento de su calidad, ha resuelto publi-
+car la modificación siguiente del plan de estudios conducente a la obtención del título oficial
+de Máster Universitario en Ingeniería de Telecomunicación, que quedará estructurado según
+consta en el anexo de esta resolución:
+— Modificación de la distribución de créditos ECTS y asignaturas del plan de estudios.
+Esta modificación del plan de estudios surtirá efectos a partir del curso académico 2026/2027.
+Badajoz, 15 de septiembre de 2026.
+El Rector,
+PEDRO M. FERNÁNDEZ SALGUERO
+
+NÚMERO 186
+40701
+Viernes 25 de septiembre de 2026
+ANEXO
+Universidad de Extremadura
+Plan de estudios conducente al título de Máster Universitario en Ingeniería de Telecomunicación
+(Rama Ingeniería y Arquitectura)
+5.1. Estructura de las enseñanzas.
+Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia.
+Tipo de materia Créditos
+Obligatorias 81
+Optativas 0
+Prácticas académicas externas 0
+Trabajo fin de máster 9
+TOTAL 90
+
+NÚMERO 186
+40702
+Viernes 25 de septiembre de 2026
+Tabla 2. Estructura modular del plan de estudios.
+Módulo Materia Asignatura ECTS Carácter
+Diseño de circuitos de alta frecuencia para
+4,5 Obligatorio
+comunicaciones y radar
+Tecnologías duales: radar y radionavegación 4,5 Obligatorio
+Radiopropagación y antenas 4,5 Obligatorio
+Sistemas Avanzados de
+Comunicaciones
+Procesado avanzado de señales para comu-
+(24) 3 Obligatorio
+nicaciones
+Comunicaciones vía satélite 4,5 Obligatorio
+Fundamentos y aplicaciones del aprendizaje
+3 Obligatorio
+estadístico
+Sistemas electrónicos avanzados 4,5 Obligatorio
+Sistemas Electrónicos
+Sistemas de instrumentación electrónica 4,5 Obligatorio
+(13,5)
+Tecnologías de Teleco-
+municación Diseño y fabricación de circuitos integrados 4,5 Obligatorio
+(66 ECTS)
+Seguridad en redes de comunicaciones 4,5 Obligatorio
+Diseño, Planificación y Redes de comunicaciones móviles 3 Obligatorio
+Gestión de Sistemas Tele-
+máticos Arquitecturas de red avanzadas 4,5 Obligatorio
+(16,5)
+Servicios telemáticos y comunicaciones
+4,5 Obligatorio
+multimedia
+Tecnologías y protocolos de red para IoT 3 Obligatorio
+Técnicas Avanzadas en
+Telecomunicación
+IA aplicada al análisis de tráfico en redes de
+(6) 3 Obligatorio
+comunicaciones
+Dispositivos de comunicaciones ópticas 3 Obligatorio
+Sistemas Avanzados de
+Comunicaciones Ópticas
+Diseño de sistemas de comunicaciones óp-
+(6) 3 Obligatorio
+ticas
+Aplicaciones de la Inge-
+niería de Telecomunica- Aplicaciones multidisciplinares de la inge-
+6 Obligatorio
+ción niería de telecomunicación
+Gestión Tecnológica de (6)
+Proyectos de Telecomu-
+nicación
+Planificación técnica y gestión de proyectos
+(15 ECTS) Gestión de Proyectos de 4,5 Obligatorio
+de telecomunicación
+Telecomunicación
+(9)
+Gestión e Innovación en Entornos TIC 4,5 Obligatorio
+Trabajo Fin de Máster Trabajo de Fin de Máster
+Trabajo Fin de Máster 9 TFM
+(9 ECTS) (9)
+
+NÚMERO 186
+40703
+Viernes 25 de septiembre de 2026
+Tabla 3. Secuenciación del Plan de Estudios1
+Curso 1º Curso 2º
+Procesado avanzado de señales para comunica-
+Radiopropagación y antenas
+ciones
+Comunicaciones vía satélite Seguridad en redes de comunicaciones
+Fundamentos y aplicaciones del aprendizaje esta-
+Tecnologías y protocolos de red para IoT
+dístico
+Semestre
+1º Sistemas electrónicos avanzados Dispositivos de comunicaciones ópticas
+Sistemas de instrumentación electrónica Diseño de sistemas de comunicaciones ópticas
+Planificación técnica y gestión de proyectos de
+Arquitecturas de red avanzadas
+telecomunicación
+Servicios telemáticos y comunicaciones multimedia Trabajo Fin de Máster
+Diseño de circuitos de alta frecuencia para comuni-
+caciones y radar
+Tecnologías duales: radar y radionavegación
+Diseño y fabricación de circuitos integrados
+Semestre
+Redes de comunicaciones móviles
+2º
+IA aplicada al análisis de tráfico en redes de comu-
+nicaciones
+Gestión e Innovación en Entornos TIC
+Aplicaciones multidisciplinares de la ingeniería
+1 Esta secuencia de asignaturas podrá ser objeto de modificación por acuerdo de Consejo de Gobierno de la Univer-
+sidad de Extremadura y evaluación favorable de la ANECA.
