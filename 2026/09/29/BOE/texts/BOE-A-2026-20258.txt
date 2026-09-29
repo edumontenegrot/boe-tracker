@@ -1,0 +1,118 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 240 Martes 29 de septiembre de 2026 Sec. III. Pág. 127735
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+20258 Resolución de 15 de septiembre de 2026, de la Universidad de Extremadura,
+por la que se publica la modificación del plan de estudios de Máster
+Universitario en Ingeniería Informática.
+Obtenido el informe favorable de la Agencia Nacional de Evaluación de la Calidad y
+Acreditación (ANECA), aceptando la modificación del plan de estudios del Máster
+Universitario en Ingeniería Informática, título oficial establecido por Acuerdo del Consejo
+de Ministros de 16 de diciembre de 2011 (publicado en el BOE de 7 de enero de 2012).
+Este Rectorado, de conformidad con lo dispuesto en el capítulo VII, sección 3.ª del
+Real Decreto 822/2021, de 28 de septiembre, por el que se establece la organización de
+las enseñanzas universitarias y del procedimiento de aseguramiento de su calidad, ha
+resuelto publicar la modificación siguiente del plan de estudios conducente a la obtención
+del título oficial de Máster Universitario en Ingeniería Informática, que quedará
+estructurado según consta en el anexo de esta resolución:
+– Modificación de la distribución de créditos ECTS y asignaturas del plan de estudios.
+Esta modificación del plan de estudios surtirá efectos a partir del curso
+académico 2026/2027.
+Badajoz, 15 de septiembre de 2026.–El Rector, Pedro María Fernández Salguero.
+ANEXO
+Universidad de Extremadura
+Plan de estudios conducente al título de Máster Universitario en Ingeniería Informática
+(Rama Ingeniería y Arquitectura)
+5.1 Estructura de las enseñanzas.
+Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia
+Tipo de materia Créditos
+Obligatorias. 57
+Optativas. 24
+Prácticas académicas externas. 0
+Trabajo fin de máster. 9
+Total. 90
+85202-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 240 Martes 29 de septiembre de 2026 Sec. III. Pág. 127736
+Tabla 2. Estructura modular del plan de estudios
+Módulo Materia Asignatura ECTS Carácter
+Análisis de requisitos y metodologías de desarrollo. 4,5 Obligatorio.
+Calidad de producto software. 3 Obligatorio.
+Ingeniería de Software Asistida por IA (AI4SE). 3 Obligatorio.
+Tecnologías Informáticas Tecnologías Informáticas
+Normativa, legislación y regulación informática. 3 Obligatorio.
+(24 ECTS). (24).
+Sistemas de información avanzados. 4,5 Obligatorio.
+Sistemas Ubicuos e Inteligencia Ambiental. 3 Obligatorio.
+Negocios y Emprendimiento en TIC. 3 Obligatorio.
+Planificación y gestión de proyectos. 4,5 Obligatorio.
+Dirección y Gestión Dirección y Gestión
+Gestión de Pliegos Técnicos. 3 Obligatorio.
+(12 ECTS). (12).
+Gestión e Innovación en Entornos TIC. 4,5 Obligatorio.
+Sistemas de recomendación y predicción. 3 Optativo.
+Visión Artificial. 3 Optativo.
+Inteligencia Computacional en Bioinformática. 3 Optativo.
+Representación de Conocimiento y Razonamiento. 3 Optativo.
+Inteligencia Artificial Inteligencia Artificial
+(24 ECTS). (24).
+Modelos Fundacionales y Procesamiento del Lenguaje Natural. 3 Optativo.
+Diseño y Construcción de Agentes Inteligentes con LLMs. 3 Optativo.
+IA aplicada al Análisis de tráfico en redes de comunicaciones. 3 Optativo.
+Aprendizaje automático y aprendizaje profundo. 3 Optativo.
+Arquitecturas de Red Avanzadas. 4,5 Obligatorio.
+Sistemas Distribuidos Sistemas Distribuidos
+y Cloud Computing y Cloud Computing Tecnologías y protocolos de red para IoT. 3 Obligatorio.
+(13,5 ECTS). (13,5).
+Seguridad en sistemas distribuidos y HPC. 6 Obligatorio.
+Computación de altas Computación de altas Computación Gráfica. 4,5 Obligatorio.
+prestaciones prestaciones
+(7,5 ECTS). (7,5). Computación Paralela. 3 Obligatorio.
+Prácticas Externas Prácticas Externas
+Prácticas Externas. 6 Optativo.
+(6 ECTS). (6).
+Trabajo Fin de Máster Trabajo Fin de Máster
+Trabajo Fin de Máster. 9 TFM.
+(9 ECTS). (9).
+85202-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 240 Martes 29 de septiembre de 2026 Sec. III. Pág. 127737
+Tabla 3. Secuenciación del plan de estudios(i)
+Curso 1.º Curso 2.º
+Normativa, legislación y regulación informática. Análisis de requisitos y metodologías de desarrollo.
+Aprendizaje automático y aprendizaje profundo. Gestión de Pliegos Técnicos.
+Diseño y Construcción de Agentes Inteligentes con LLMs. Sistemas de información avanzados.
+Sistemas de recomendación y predicción. Tecnologías y protocolos de red para IoT.
+Semestre 1.º Computación Paralela. Calidad de producto software.
+Computación Gráfica. Negocios y Emprendimiento en TIC.
+Sistemas Ubicuos e Inteligencia Ambiental. Prácticas Externas.
+Arquitecturas de Red Avanzadas.
+Trabajo Fin de Máster.
+Ingeniería de Software Asistida por IA (AI4SE).
+Representación de Conocimiento y Razonamiento.
+Inteligencia Computacional en Bioinformática.
+Visión Artificial.
+Modelos Fundacionales y Procesamiento del Lenguaje Natural.
+Semestre 2.º
+IA aplicada al Análisis de tráfico en redes de comunicaciones.
+Planificación y gestión de proyectos.
+Seguridad en sistemas distribuidos y HPC.
+Gestión e Innovación en Entornos TIC.
+(i) Esta secuencia de asignaturas podrá ser objeto de modificación por acuerdo de Consejo de Gobierno de la Universidad de Extremadura y evaluación
+favorable de la ANECA.
+85202-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X
