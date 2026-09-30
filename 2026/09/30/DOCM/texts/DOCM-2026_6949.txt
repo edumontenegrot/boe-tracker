@@ -1,0 +1,587 @@
+AÑO XLV Núm. 188 30 de septiembre de 2026 33338
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que
+se modifican las condiciones de la declaración de impacto ambiental del proyecto denominado: Planta
+solar fotovoltaica de Terrapower Generación de 44,16 MWp, cuya promotora es la mercantil Terrapower
+Generación Híbrida, SL, e infraestructura de evacuación compartida con las plantas Brazatortas-Rotonda
+1 y Brazatortas-Rotonda 2 (término municipal de Brazatortas, Ciudad Real), cuyas promotoras son las
+mercantiles Terrapower Generación Híbrida SL y Renovables Rotonda, SL, proyectos agrupados en el
+expediente PRO-CR-19-1331. [2026/6949]
+El proyecto denominado Planta solar fotovoltaica de Terrapower Generación de 44,16 MWp, cuyo promotor es
+la mercantil Terrapower Generación Híbrida, S.L, e infraestructura de evacuación compartida con las plantas
+Brazatortas-Rotonda 1 y Brazatortas-Rotonda 2 (término municipal de Brazatortas, Ciudad Real), cuyos promotores
+son las mercantiles Terrapower Generación Híbrida SL y Renovables Rotonda, SL, proyectos agrupados en el
+expediente PRO-CR-19-1331, obtuvo Declaración de Impacto Ambiental (DIA) favorable mediante la Resolución
+de 8/07/2022, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real (DOCM 138 de 20/07/22) y
+autorización administrativa previa, por parte de la Dirección General de Transición Energética, mediante Resolución
+de fecha 5/07/2023, publicada en el DOCM de 18/07/2023.
+En cumplimiento del apartado séptimo de la DIA del proyecto, el órgano sustantivo, con fecha 16 de febrero de
+2023, realiza una consulta a este Servicio Provincial de Calidad Ambiental, actuando como órgano ambiental, sobre
+la necesidad de sometimiento a un procedimiento de evaluación ambiental de una modificación intermedia del
+proyecto PSFV Terrapower Generación. En dicha modificación se incluye, entre otras cuestiones, una reducción
+de la potencia y de la superficie. Este Servicio informó favorablemente sobre la misma, considerándola como una
+modificación no sustancial del proyecto.
+Posteriormente, con fecha 13 de abril de 2026, se recibe del Servicio de Industria y Energía, la consulta sobre la
+necesidad de sometimiento a un procedimiento de evaluación ambiental de una nueva modificación del proyecto.
+Con fecha 22 de abril de 2026, este Servicio Provincial de Calidad Ambiental, decide resolver el carácter sustancial
+de esta modificación ya que el nuevo diseño planteado provoca que las medidas preventivas, correctoras o
+compensatorias expresadas en el Estudio de Impacto Ambiental evaluado y en la DIA del proyecto sean insuficientes
+para prevenir el impacto sobre el medioambiente del nuevo proyecto constructivo.
+Por ello y en virtud del artículo 49 de la Ley 2/2020, de 7 de febrero, se propone iniciar un procedimiento de
+modificación de las condiciones de la DIA de dicho proyecto, solicitando al Servicio de Industria y Energía de Ciudad
+Real, como órgano sustantivo, que recabe del promotor una memoria ambiental que recoja las modificaciones
+del proyecto y su justificación, con objeto de realizar la consulta a las Administraciones públicas afectadas y a las
+personas interesadas previamente consultadas en el procedimiento de evaluación ordinaria, tal y como se dispone
+en dicho artículo.
+Con fecha 8 de junio de 2026, se recibe del Servicio Provincial de Industria y Energía la documentación solicitada,
+iniciando el procedimiento de modificación de las condiciones de la DIA del proyecto: PSFV Terrapower Generación
+en el T.M. de Brazatortas (Ciudad Real), promovido por la mercantil Terrapower Generación Híbrida, S.L. De acuerdo
+con el artículo 49 de la Ley 2/2020, se notifica al promotor del proyecto la apertura de un periodo de consultas a las
+Administraciones Públicas afectadas y personas interesadas, para las que se pone a disposición la documentación
+de la modificación del proyecto. Estas dispusieron de un plazo de 30 días hábiles, desde la recepción de la solicitud,
+para remitir a este Servicio sus sugerencias en relación a la incidencia ambiental de la modificación del proyecto, otras
+posibles alternativas de actuación, actualizaciones normativas o cualquier indicación que considere beneficiosa para
+una mejor protección y defensa del medio ambiente, y que sirvan para determinar, por parte del órgano ambiental,
+la necesidad de plantear al promotor medidas adicionales que permitan evitar los impactos previsibles.
+Primero. Descripción del proyecto.
+Según la documentación presentada por el promotor, el nuevo proyecto constructivo de la planta, presenta una serie
+de modificaciones respecto al inicial que se resumen a continuación:
+A. Se reduce la superficie ocupada por los campos solares, debido a la reducción del pitch.
+La superficie incluida dentro de los cerramientos pasa de 55,99 ha a 53,60 ha y la longitud perimetral del vallado
+de 4.812 m del proyecto inicial (que ya sufrió una considerable reducción por la anterior modificación del proyecto
+informada favorablemente por este Servicio) pasa a 5.246 m.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33339
+Las parcelas finalmente incluidas, todas ellas pertenecientes al polígono 21 del catastro de rústica del término
+municipal de Brazatortas, son las de la modificación anterior a excepción de la parcela 208, lo que hace necesario
+crear un pasillo hasta la misma y vallar este enclavado lo que hace aumentar el perímetro de vallado.
+Se propone la colocación de postes en el vallado cada 5 metros en vez de cada 3 metros como recoge la DIA.
+B. Variaciones de los modelos y cantidades de los distintos elementos que componen la planta solar fotovoltaica.
+Los módulos fotovoltaicos a instalar siguen siendo bifaciales y pasan de 65.688 módulos (550 Wp) a 55.272 (650/655
+Wp). El número de seguidores se reduce de 774 a 616.
+El principal cambio se produce en los seguidores (trackers), que pasan de configuración de dos módulos en vertical
+2V (mayor altura) a una configuración de un módulo en vertical 1V (menor altura y mayor resistencia).
+Por otra parte, se reduce el número de estaciones de potencia que pasan de 9 (3.550 Kva) a 4 de 8.800 (3) y 4.400
+(1), aumentando el número de inversores centrales de 9 a 28 (repartidos en 4 CT).
+La potencia instalada se queda prácticamente igual, pasando de 36,13 MWp a 36,15 MWp.
+C. Cambios en el diseño de los campos solares.
+Debido a la modificación de los seguidores (de 2V a 1V) y, por tanto, la modificación de la anchura de los mismos (de
+4,788 a 2,384 m), se produce la necesidad de disminuir la distancia entre una fila de seguidores y otra para mantener
+la superficie de módulos de la planta (y por tanto poder mantener la potencia para la que fue diseñada y autorizada la
+PSFV). Esta disminución de la distancia entre seguidores necesariamente implica la reducción del pitch y por tanto
+del pasillo útil. Debido a esta modificación, el promotor opta por disminuir la distancia entre ejes de seguidores (pitch)
+de 11 m en el proyecto anterior a 5 m en el nuevo diseño, lo que determina que la distancia entre paneles contiguos
+de distinta línea se reduzca de 6,21 m. del proyecto anterior a 2,62 m. del diseño final.
+También varía la altura del eje de los seguidores, pasando de 2,54 metros en el proyecto anterior a 1,5 metros en
+el nuevo diseño.
+La superficie ocupada por los paneles fotovoltaicos pasa de 17,76 ha. a 14,93 ha.
+La superficie de viales internos se mantiene igual que el proyecto inicial.
+La línea de evacuación de alta tensión mantiene el mismo trazado proyectado anteriormente.
+Respecto a las líneas de media tensión interiores, se mantiene la tensión de 30 kV y se simplifica tan solo a 2
+circuitos principales (siguiendo el trazado de los caminos principales), reduciendo así el número de empalmes. Esta
+reducción de circuitos se asocia a la reducción del número de centros de transformación de 9 a 4.
+En la memoria ambiental presentada, se identifican las modificaciones, tanto positivas como negativas, de los
+impactos ambientales que se derivan de los cambios del proyecto recogidos anteriormente:
+Los factores impactados y las acciones impactantes siguen siendo las mismas que en el proyecto inicial puesto que
+la modificación ha afectado únicamente a las dimensiones, diseño y distribución de la PSFV y sus elementos.
+Puesto que los factores y acciones continúan siendo los mismos, y las dimensiones de la PSFV y de la obra en
+general no se han visto modificadas, el cómputo del impacto ambiental no se ve alterado.
+A continuación, se analizarán los dos factores que más afectados pueden verse tras las modificaciones anteriormente
+recogidas.
+1. Fauna.
+En la fase de construcción, el impacto ambiental no varía respecto al previsto con el anterior proyecto. En lo que
+respecta a la fase de funcionamiento, la modificación del proyecto puede afectar al impacto previsto sobre la fauna,
+concretamente en lo que respecta a la alteración del hábitat debido a la distribución de los módulos y seguidores.
+1.1. Pitch y espacio útil.
+Se ha reducido el pitch (actualmente 5,00 m) y por tanto también el pasillo útil (actualmente 2,62 m) de la PSFV.
+Cabe destacar que los valores de pasillo útil se refieren a la situación más desfavorable, situación horizontal de los
+paneles solares, que suele ser comprendida entre las 12:00 y las 14:00. Además, en época estival, esta franja horaria
+se corresponde con las horas de menor actividad en general por parte de la fauna debido a las altas temperaturas.
+Esto supone en general una reducción de la usabilidad y transitabilidad por parte de la fauna silvestre del entorno.
+No obstante, el impacto no aumenta significativamente respecto a la situación inicial para algunas especies:
+- Mamíferos: se encuentran ratones de campo, musarañas, conejos, zorros, todos ellos cuentan con reducido tamaño
+y habilidad suficiente para transitar y cazar entre las hincas.
+- Reptiles y anfibios: también de reducido tamaño, no se ven afectados por la reducción de pitch.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33340
+- Quirópteros: la Asociación Española para la Conservación y el Estudio de los Murciélagos (Secemu) ha estudiado
+como los murciélagos pueden confundir grandes extensiones continuas de módulos fotovoltaicos con masas de
+agua, debido a la planicie de la superficie, chocando con ellas al intentar beber. Por lo que esta nueva configuración
+puede ser beneficiosa para este grupo, ya que las filas de seguidores son más estrechas que en la disposición
+anterior, siendo menos similares a balsas de agua.
+- Aves: respecto a la afección a este grupo, podemos distinguir entre:
+Aves de pequeño y mediano tamaño: apenas se ven afectadas por la reducción de pitch y pasillo útil ya que sortean
+con facilidad los obstáculos, incluso ven su refugio aumentado. Es el caso de aves medianas como perdiz roja,
+gangas, sisones y otras pequeñas aves como paseriformes.
+Rapaces: este es el grupo de fauna que más puede verse afectado, si bien, analizando el comportamiento de las
+distintas rapaces del entorno se puede concluir lo siguiente:
+Cernícalo primilla y cernícalo vulgar: ambas son especies muy ágiles en vuelo y, a pesar de que su hábitat de
+campeo predilecto son los cultivos extensivos y zonas esteparias, se ha observado que frecuentan otros proyectos
+de plantas fotovoltaicas. En concreto, se han visto posados en los paneles y en las cámaras de vigilancia, por lo
+que suelen cazar a los micromamíferos e insectos que habitan entre la vegetación que crece en las plantas solares.
+Milano real y Milano negro: ambas son especies muy generalistas y no presentan requerimientos tróficos muy
+específicos. Además, están muy poco especializados en ningún método de caza en concreto, basándose su
+alimentación sobre todo en la carroña que producen los atropellos en las carreteras de pequeños animales. También
+aprovechan (principalmente en primavera) a los conejos con mixomatosis, y a volantones o ejemplares jóvenes de
+mamíferos y aves.
+Aguilucho lagunero: a pesar de ser una rapaz esteparia, se ha observado que los ejemplares de esta especie
+presentes en la zona campean sobre todo junto al cauce del río Ojailén, situado al Sur de la PSFV, o sobre los
+arroyos que encontramos en el entorno de la PSFV.
+Estas son rapaces de pequeño tamaño que se ha constatado que pueden cazar incluso entre viñedos, donde los
+obstáculos son más numerosos y donde la distancia entre calles suele ser de 1 a 3 metros (distancia inferior al
+pasillo útil proyectado finalmente).
+Por todo ello, es poco probable que los individuos de estas especies realicen picados o persecuciones de presas
+durante largos periodos de tiempo, por lo que no se prevé un aumento de colisiones debido a la reducción del pitch.
+Por tanto, en general la reducción del pitch y espacio útil puede ser perjudicial para las aves rapaces, si bien de las
+rapaces presentes en el entorno, debido a sus dimensiones y comportamientos, puede considerarse un impacto
+moderado.
+1.2. Vallado.
+Por otro lado, la instalación de pasos de fauna, supone un beneficio para la mesofauna del entorno, aumentando la
+permeabilidad del vallado perimetral.
+2. Residuos.
+Como se ha justificado, la nueva disposición de los seguidores aumenta la estabilidad de los mismos, reduciendo
+de manera significativa el colapso de estas estructuras en episodios de fuertes vientos. El colapso de los módulos
+usualmente hace que estos salgan “disparados” dañando no solo el string en el que se encuentran si no a menudo
+también los colindantes. Esto genera una cantidad ingente de residuos puesto que estos módulos quedan inutilizados.
+Por tanto, esta nueva disposición de seguidores en 2V disminuyen la cantidad anual de residuos generados en la
+PSFV.
+El promotor propone el aumento de aquellas medidas asociadas a los impactos cuya afección ha aumentado
+(especialmente la disminución de la transitabilidad de la fauna debido a la reducción del espacio útil).
+Segundo. Procedimiento realizado: consultas.
+Con fecha de 8 de junio de 2026, el Servicio de Industria y Energía de la Delegación Provincial de Desarrollo
+Sostenible de Ciudad Real (órgano sustantivo), remite al Servicio de Calidad Ambiental de la citada Delegación
+Provincial (órgano ambiental) la documentación solicitada al promotor para la modificación de la Declaración de
+Impacto Ambiental del proyecto Planta solar fotovoltaica Terrapower Generación de 44,16 MWp en el T.M. de
+Brazatortas (Ciudad Real), cuyo promotor es la mercantil Terrapower Generación Híbrida, S.L.
+Con fecha 11 de junio de 2026, en cumplimiento del artículo 49 de la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, este órgano ambiental inicia un periodo de consultas a las Administraciones
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33341
+Públicas afectadas y personas interesadas previamente consultadas dentro del procedimiento de evaluación de
+impacto ambiental del proyecto inicial.
+Transcurrido el plazo legalmente establecido de 30 días hábiles, el órgano ambiental considera que cuenta con
+elementos de juicio suficientes para resolver sobre la solicitud de modificación de la Declaración de Impacto
+Ambiental del proyecto. Dentro del procedimiento se formuló consulta a las siguientes administraciones y personas
+interesadas, recibiendo respuesta, quedando la misma disponible para su consulta en el expediente digital del
+proyecto en el servidor del órgano ambiental (https://nevia.castillalamancha.es/), de los órganos marcados con un
+asterisco:
+- (*) Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real.
+- Confederación Hidrográfica del Guadalquivir.
+- (*) Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Ciudad Real.
+- Ayuntamiento de Brazatortas.
+- Unidad de Coordinación de Agentes Medioambientales de la Delegación Provincial de Desarrollo Sostenible de
+Ciudad Real.
+- (*) Dirección General de Protección Ciudadana. Servicio de Protección Ciudadana.
+- Dirección General de Economía Circular. Servicio de Prevención e Impacto Ambiental.
+- Dirección General de Transición Energética de la Consejería de Desarrollo Sostenible.
+- UFD Distribución Electricidad S.A.
+- (*) Administrador de Infraestructuras Ferroviarias (ADIF).
+- Diputación Provincial de Ciudad Real.
+- Ecologistas en Acción de Ciudad Real.
+- WWF/Adena.
+- Sociedad Española de Ornitología (SEO Birdlife).
+- Ministerio de Transición Ecológica y Reto Demográfico.
+- Subdelegación del Gobierno en Ciudad Real.
+Los aspectos ambientales más significativos de los informes recibidos se resumen a continuación:
+El Servicio de Medio Natural de la Delegación Provincial de Ciudad Real, en su informe de fecha 23 de marzo de
+2026, considera que la modificación planteada conlleva una disminución de la permeabilidad interna para la fauna
+terrestre y propone una medida compensatoria de agroambientales del 300 % de la superficie englobada en el
+cerramiento definitivo, concretando el ámbito y el tipo de actuaciones a aplicar. Para el resto de medidas preventivas
+y compensatorias, se consideran suficientes las impuestas en la Declaración de Impacto Ambiental inicial.
+Tercero. - Resumen del análisis técnico de la modificación del proyecto.
+Conforme al artículo 49 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, una vez
+examinada la documentación remitida por el órgano sustantivo y los informes de las consultas realizadas recibidos en
+tiempo y forma; se procede realizar el análisis técnico de la modificación del proyecto PSF Terrapower Generación,
+evaluando los efectos ambientales previsibles para determinar las condiciones en las que puede desarrollarse y las
+medidas adicionales, correctoras y complementarias de carácter compensatorio; adicionales a las ya propuestas
+en la Declaración de Impacto Ambiental emitida. Estas medidas se detallan en el apartado cuarto de la presente
+resolución.
+Tras el análisis y valoración de la modificación del proyecto, de las nuevas medidas para paliar los posibles efectos
+ambientales sobrevenidos como con secuencia de la misma, propuestos por el promotor y en los informes recibidos;
+se considera que la nueva redistribución del proyecto supone un incremento en la inadecuación del hábitat para
+las especies de fauna amenazada para las que, durante el seguimiento, se ha constatado su presencia en la zona.
+La modificación del proyecto no supone una reducción reseñable de la potencia ni de la superficie y sólo hay un
+incremento en la longitud de vallados. La modificación de los seguidores de 2V a 1V, determina un menor pitch, lo
+que implica una merma en el pasillo útil entre alineaciones de paneles del 55,47 % (2,453 metros frente a los 4,422
+metros del proyecto autorizado). Todo ello provoca un incremento de la inadecuación del hábitat para las especies
+de fauna ligadas a hábitat estepario y, por tanto, un incremento de la afección del proyecto sobre los recursos
+naturales de la zona, que podría suponer una sustracción del hábitat, no contemplada en la evaluación de impacto
+ambiental previa.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33342
+En el documento presentado, el promotor propone aumentar las medidas para el fomento de fauna contempladas
+para la proyección inicial, lo que supondría un incremento en relación a la superficie afectada. Estas medidas no se
+consideran suficientes por la disminución de la adecuación del hábitat estepario que provoca el nuevo diseño en
+el interior del cerramiento. El Servicio de Medio Natural, competente para dar conformidad a las mismas, sugiere
+algunas medidas y condiciones a tener en cuenta, que se expondrán posteriormente y deberán ser recogidas en una
+memoria de actuación a valorar por dicho Servicio.
+En cuanto al riesgo de incendio, las medidas propuestas al efecto por el promotor están bien encaminadas. La
+creación y mantenimiento de una faja perimetral de protección en las zonas susceptibles de propagación de
+incendios hacia el exterior de las instalaciones resultan adecuadas con algunos matices que se detallan en el
+siguiente apartado de esta resolución.
+En cuanto al efecto barrera de las instalaciones, la presente modificación supone una mayor colmatación de los
+elementos de la instalación dentro del vallado, lo que podría aparejar un aumento del rechazo que provoca en la
+fauna, disminuyendo la conectividad en la zona.
+El impacto sobre el paisaje del entorno del nuevo proyecto no varía significativamente sobre el proyecto inicial. Aun
+así, la pantalla vegetal deberá cumplir con el objetivo de ocultación perseguido, por lo que deberá adaptarse al
+nuevo diseño de planta teniendo en cuenta las zonas más expuestas al observador. Para ello, el promotor deberá
+remitir una nueva memoria detallada (pantalla vegetal y teselas), con el diseño, ubicación, composición de especies,
+plan de trabajo y mantenimiento, y justificación de esta actuación para su valoración por esta Delegación.
+En lo que respecta a la posible vulnerabilidad del proyecto ante riesgos de accidente graves o catástrofes, en
+la DIA emitida no se había declarado ningún riesgo importante o muy grave que pudiera hacer incompatible la
+ejecución de este proyecto y el promotor no considera que varíe. No obstante, se considera necesario que el plan
+de autoprotección de la instalación valore las consideraciones del Servicio de Medio Natural respecto a las medidas
+para prevenir incendios forestales.
+Teniendo en cuenta los antecedentes expuestos, en el ejercicio de las atribuciones conferidas por la Resolución de
+24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en las delegaciones
+provinciales de la Consejería de Desarrollo Sostenible, y de conformidad con lo establecido en el artículo 49 de
+la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, esta Delegación Provincial de la
+Consejería de Desarrollo Sostenible de Ciudad Real, en uso de sus competencias, considera viable a los efectos
+ambientales la modificación del proyecto denominado “Planta solar fotovoltaica de Terrapower Generación de 44,16
+MWp, cuyo promotor es la mercantil Terrapower Generación Hibrida, S.L, e infraestructura de evacuación compartida
+con las plantas Brazatortas-Rotonda 1 y Brazatortas-Rotonda 2 (término municipal de Brazatortas, Ciudad Real),
+cuyos promotores son las mercantiles Terrapower Generación Híbrida SL y Renovables Rotonda, SL, proyectos
+agrupados en el expediente PRO-CR-19-1331, siempre y cuando se realice conforme a la Declaración de Impacto
+Ambiental emitida, así como a las prescripciones que figuran en la presente Resolución.
+Cuarto. - Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas establecidas en los informes emitidos por las administraciones públicas consultadas,
+las concretadas en el Estudio de Impacto Ambiental y en la Declaración de Impacto Ambiental del proyecto y las
+propuestas en la memoria ambiental de la modificación del proyecto, se cumplirán las condiciones adicionales que
+se expresan a continuación, significando que en los casos en que pudieran existir discrepancias entre unas y otras,
+prevalecerán las contenidas en la presente resolución.
+4.1.- Protección de áreas y recursos naturales protegidos, fauna y vegetación.
+Las nuevas características constructivas del proyecto suponen una pérdida del hábitat potencial de esteparias en una
+zona contrastada de campeo y alimentación de las mismas. El promotor del proyecto PSF Terrapower Generación
+deberá realizar actuaciones dirigidas a la conservación y fomento del hábitat estepario siguiendo para ello los criterios
+establecidos en el artículo 5 del Decreto 23/2024, de 21 de mayo, por el que se establecen las bases reguladoras para
+la concesión directa de subvenciones para la intervención 6712 pagos compensatorios por desventajas específicas
+resultantes de la aplicación de las Directivas Red Natura 2000 en el marco del Plan Estratégico de la Política
+Agrícola Común 2023-2027 para Castilla-La Mancha. La compensación económica acordada con el titular de los
+terrenos será incompatible con la de cualesquiera otras que, para la misma finalidad y objeto, pudieran establecer
+otras administraciones públicas u otros entes públicos o privados, nacionales o internacionales.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33343
+Estas actuaciones se realizarán en una superficie equivalente al 300 % de la superficie delimitada por el cerramiento
+definitivo de la planta. El Servicio de Medio Natural restringe la aplicación de esta medida a las zonas que delimita
+en el informe de la primera resolución de la DIA. Para que los objetivos de esta medida sean lo más efectivos
+posibles, las parcelas deben obligatoriamente cumplir una serie de características para poder ser seleccionadas:
+estar dedicadas a la agricultura de herbáceas en régimen de secano, no estar adscritas a ningún perímetro de riego
+autorizado o en trámite de autorización por parte del Organismo de cuenca y sin presencia de tendidos eléctricos
+aéreos, además se priorizará preferentemente la consecución de áreas continuas, alejadas de zonas fuertemente
+antropizadas. El seguimiento de la avifauna en esas parcelas se deberá incluir en el seguimiento general de fauna
+para comprobar la eficacia de la medida.
+Esta medida podrá realizarse tras la autorización administrativa y la construcción del proyecto, y deberá estar acordada
+antes de la puesta en marcha definitiva de la instalación. Con carácter previo se remitirá al órgano ambiental la propuesta
+de parcelas que cumplan con las condiciones anteriormente expuestas y los acuerdos con los agricultores para recabar
+el informe favorable del Servicio de Medio Natural. Si la propuesta cuenta con informe favorable, el órgano ambiental
+la trasladará al órgano sustantivo y al promotor, para su conocimiento y oportuna ejecución.
+Cualquier modificación de esta medida (superficies, beneficiarios, renovación o caducidad de acuerdos o convenios,
+etc.) deberá comunicarse al órgano ambiental para su validación e informe.
+Esta medida se llevará a cabo durante toda la vida útil de la instalación proyectada hasta su desmantelamiento
+definitivo, salvo que durante la fase de explotación los terrenos afectados por el proyecto sean seleccionados
+positivamente por especies de aves esteparias catalogadas “vulnerables” en el Catálogo Regional de Especies
+Amenazadas de Castilla-La Mancha, pudiendo entonces reconsiderarse la extensión de esta medida compensatoria.
+Esta circunstancia deberá ser solicitada por el promotor y justificarse mediante datos del seguimiento de avifauna
+que demuestren una tendencia favorable y estable de las poblaciones de especies objeto de la medida.
+Por otro lado, las medidas para el fomento de fauna propuestas por el promotor (las mismas que recoge la DIA)
+consisten en la instalación:
+- 2 cajas nido para cernícalo primilla.
+- 2 plataformas específicas para favorecer el asentamiento de la lechuza común (Tyto alba).
+- 15 majanos específicos para mochuelo con dos cajas nido.
+- 15 majanos específicos para el control biológico sobre roedores (reptiles y comadrejas).
+- 30 majanos para conejo.
+- 5 hoteles de insectos.
+Además, el promotor propone la instalación de:
+- 3 posaderos para rapaces a lo largo del corredor ecológico interior que atraviesa la planta de Este a Oeste.
+- 1 charca estacional para reptiles y anfibios de aproximadamente 50 cm de profundidad protegida con un cerramiento
+del ganado ovino. Se revegetará con especies de la familia de las juncáceas y se incluirá alguna agrupación de
+piedras a modo de majano. También se procurará ubicarla de manera que cuente con aporte de agua lo más
+naturalizado posible y se impermeabilizará mediante arcillas.
+Con respecto a las teselas con matorral se mantendrá la superficie proyectada de plantaciones a pesar de la
+reducción de la superficie de ocupación. Además, estas teselas con matorral se redistribuirán de manera que se cree
+un corredor ecológico interior que atraviesa la PSFV de Este a Oeste. Este corredor se encuentra libre de módulos
+fotovoltaicos y se articula a lo largo de uno de los caminos principales de la PSFV y une los dos enclavados (parcelas
+de cultivos herbáceos que no han podido ser arrendadas). Por tanto, la gran mayoría de plantaciones se realizarán
+a lo largo de este corredor, potenciando así el paso de la fauna a través de la PSFV.
+Cabe destacar que las teselas 6, 7 y 8 no forman una única tesela para poder respetar las líneas de baja tensión
+internas de la PSFV, sobre las que no es posible realizar plantaciones. Además, se ha replanteado una superficie en
+exceso a las 3 has exigidas para poder solucionar imprevistos que puedan surgir durante la ejecución. Previamente
+a la plantación de especies de matorral se realizará una siembra de herbáceas pratenses a lo largo de toda la
+superficie del corredor ecológico libre de módulos fotovoltaicos.
+El promotor propone una medida encaminada a la prevención de incendios:
+- Realización de un cortafuegos perimetral a lo largo de toda la PSFV, con una anchura promedio de 5 metros y
+se ejecutarán antes del 1 de junio mediante gradeos, manteniendo la superficie libre de vegetación herbácea seca
+hasta el 15 de octubre. La franja cortafuego se ubicará a partir del último líneo de la pantalla vegetal.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33344
+Estas medidas deberán estar en consonancia con lo establecido en el Plan de Autoprotección.
+En cuanto a la faja de protección alrededor de la planta, el mantenimiento mediante gradeo se deberá realizar fuera
+de la época reproductiva de las especies de aves presentes en la zona, considerando dicho periodo de exclusión al
+referido entre el 1 de marzo y el 30 de junio ambos inclusive. No obstante, cuando la acumulación de combustible
+vegetal genere un riesgo relevante de incendio, estas labores podrán adelantarse al mes de mayo, previa solicitud al
+Servicio de Medio Natural de la Delegación Provincial Desarrollo Sostenible de Ciudad Real. Dicha solicitud deberá
+ir acompañada de los resultados de las comprobaciones efectuadas en el marco del Plan de Seguimiento de Fauna,
+acreditando la ausencia de nidificación activa en el ámbito afectado por la actuación.
+Además, se aplicarán, tanto en fase de obras como de mantenimiento y explotación, las medidas encaminadas
+a la prevención de incendios forestales durante la época de peligro alto definida en la Orden de la Consejería de
+Medio Ambiente y Desarrollo Rural de 16 de mayo de 2006 por las que se regulan las campañas para prevención
+de incendios forestales y modificaciones posteriores, así como la Ley 3/2008, de 12 de junio, de Montes y Gestión
+Forestal Sostenible de Castilla–La Mancha, y todas las medidas de seguridad de la normativa que le sea de
+aplicación cualquier actuación. En época de peligro alto de incendios, la utilización de maquinaria y equipos, en
+monte y en las áreas rurales situadas en una franja de 400 metros alrededor de este, en cuyo funcionamiento se
+pueda generar deflagración, chispas o descargas eléctricas, así como la circulación con vehículos a motor por
+pistas forestales situadas fuera de la red de carreteras, requerirá autorización excepcional del Servicio de Incendios
+y Ayudas de la Delegación Provincial de Desarrollo Sostenible. Además, independientemente y sin perjuicio de lo
+indicado, la ejecución de las actuaciones estará también condicionada por el Índice de Propagación Potencial (IPP),
+especificando sus limitaciones en dicha autorización y según la Resolución oportuna, de la Viceconsejería de Medio
+Ambiente, por la que se establecieran limitaciones temporales para disminuir el riesgo de incendios en el medio
+natural, en base al Plan de prevención, vigilancia y extinción de incendios forestales de la campaña correspondiente
+al periodo.
+Para el resto de requisitos de las distintas medidas planteadas en este apartado (plazos, cuadro de mediciones,
+presupuesto, calendario, planos, excepciones y otros condicionados), esta Resolución se remite a la DIA emitida
+para el proyecto inicial.
+4.2.- Protección del sistema hidrológico.
+En cuanto a las condiciones y medidas relacionadas con la protección del sistema hidrológico, no varían
+significativamente con la modificación planteada, por lo que se tendrán en cuenta las de la autorización de 9 de
+octubre de 2021 de la Confederación Hidrográfica del Guadalquivir, que estará disponible en el expediente digital
+del proyecto en el servidor del órgano ambiental (https://nevia.castillalamancha.es/) junto con el resto de informes.
+4.3.- Gestión de residuos.
+Todos los residuos generados durante la fase de ejecución, funcionamiento y desmantelamiento del proyecto
+estarán sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía
+circular, en el Decreto 35/2024, de 2 de julio, por el que se aprueba el Plan de Prevención y Gestión de Residuos de
+Castilla-La Mancha 2030. También se atenderá a lo establecido en el Real Decreto 105/2008, de 1 de febrero, por
+el que se regula la producción y gestión de los residuos de construcción y demolición en relación a los residuos que
+se generen durante las obras de construcción de la PSF y las infraestructuras de evacuación asociadas. De acuerdo
+con el artículo 35 de la mencionada Ley, se deberá presentar una comunicación previa al inicio de las actividades de
+producción y gestión de residuos ante esta Consejería. Los trámites relacionados con la inscripción en el registro de
+producción y gestión de residuos de Castilla-La Mancha (altas, bajas o modificación), deberá realizarlos a través de
+la página web de la Oficina Virtual de la Viceconsejería de Medio Ambiente.
+Los transformadores ubicados en el campo solar, además de incorporar un sistema eficaz para la recogida de
+residuos en caso de derrame y disponer de elementos que faciliten la salida de fauna que eventualmente pudiera
+caer en su interior, se encuentran dentro del ámbito de aplicación del Real Decreto 9/2005, de 14 de enero, por el
+que se establece la relación de actividades potencialmente contaminadoras del suelo y los criterios y estándares
+para la declaración de suelos contaminados, estando los titulares de las actividades especificadas en su anexo I, y
+para el caso que nos ocupa con CNAE 2009 35.19: “Producción de energía eléctrica de otros tipos”, únicamente las
+instalaciones de conversión y transformación, obligados a remitir a la Dirección General de Economía Circular, en un
+plazo no superior a dos años desde la autorización administrativa del proyecto, el correspondiente informe preliminar
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33345
+de situación para cada uno de los suelos en los que se desarrolla dicha actividad, con el alcance y contenido mínimo
+que se recoge en el anexo II de dicha Ley.
+4.4.- Protección del suelo y la geomorfología.
+En cuanto a las condiciones y medidas relacionadas con la protección del suelo y la geomorfología, las afecciones
+que pudiera provocar el proyecto no varían significativamente con la modificación planteada, por lo que esta
+Resolución se remite a la DIA emitida para el proyecto inicial.
+4.5.- Protección del Patrimonio Cultural.
+Según el informe del Servicio de Cultura de la Consejería de Educación, Cultura y Deportes de Ciudad Real, los
+trabajos autorizados se realizarán bajo los condicionantes técnicos particulares y normativos generales reflejados
+en la resolución emitida el 8/04/2022. Posteriormente, con fecha 05/03/2026, el promotor solicita concesión de
+ampliación de plazo que se concede bajo las mismas condiciones que se fijaron en la autorización previa objeto de
+la prórroga.
+4.6.- Protección del dominio público viario y pecuario.
+En cuanto a las condiciones y medidas relacionadas con la protección del dominio público viario y pecuario, las
+afecciones que pudiera provocar el proyecto no varían significativamente con la modificación planteada, por lo que
+esta Resolución se remite a la DIA emitida para el proyecto inicial.
+4.7.- Protección del paisaje y planeamiento urbanístico.
+El impacto sobre el paisaje del entorno del nuevo proyecto no varía significativamente en relación con el proyecto
+inicial. Aun así, la pantalla vegetal deberá cumplir con el objetivo de ocultación perseguido, por lo que deberá
+adaptarse al nuevo diseño de planta teniendo en cuenta las zonas más expuestas al observador. Para ello, el promotor
+deberá remitir una nueva memoria detallada (pantalla vegetal y teselas), con el diseño, ubicación, composición de
+especies, plan de trabajo y mantenimiento, y justificación de esta actuación para su valoración por esta Delegación.
+Para esta actuación y el resto de medidas planteadas en este apartado, esta Resolución se remite a la DIA emitida
+para el proyecto inicial.
+4.8.- Protección de la atmósfera y calidad del aire.
+En cuanto a las condiciones y medidas relacionadas con la protección de la atmósfera y calidad del aire, las
+afecciones que pudiera provocar el proyecto no varían significativamente con la modificación planteada, por lo que
+esta Resolución se remite a la DIA emitida para el proyecto inicial.
+4.9.- Análisis de vulnerabilidad del proyecto ante accidentes graves o catástrofes.
+El promotor deberá elaborar un Plan de Autoprotección que incluya los aspectos sectoriales de la legislación de
+montes referente a incendios forestales y los genéricos de la normativa básica de Autoprotección, debiendo tener
+en cuenta todos los Planes Territoriales, Especiales, Específicos y de Respuesta, aprobados como desarrollo del
+Platecam, señalados en el informe del Servicio de Protección Ciudadana.
+El Plan de Autoprotección tendrá la estructura orientativa que establece el Real Decreto 393/2007, de 23 de
+marzo, por el que se aprueba la Norma Básica de Autoprotección de los centros, establecimientos y dependencias
+dedicadas a actividades que puedan dar origen a situaciones de emergencia (conducciones, carreteras, incendios,
+inundaciones, etc.), además de realizarse en concordancia y contemplar medidas de prevención pasivas y activas
+frente a incendios forestales procedentes del exterior, así como medidas para minimizar la posible generación de
+incendios hacia el exterior de la planta fotovoltaica, distinguiéndolas por fases y en concreto las medidas relativas al
+control de la vegetación en las zonas aledañas a posibles focos de ignición.
+El Plan de autoprotección deberá inscribirse en la Dirección general de Protección Ciudadana de acuerdo con la
+legislación sectorial y el informe del Servicio Provincial de Protección Ciudadana y deberá cumplir, en particular,
+lo referido en el artículo 4.2. del Real Decreto 393/2007, de 23 de marzo, por el que se aprueba la Norma Básica
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33346
+de Autoprotección: “El Plan de Autoprotección deberá acompañar a los restantes documentos necesarios para el
+otorgamiento de la licencia, permiso o autorización necesaria para el comienzo de la actividad.”
+4.10.- Conectividad ecológica del territorio y efectos sinérgicos.
+En relación con los corredores ecológicos del proyecto (de carácter local y de carácter comarcal), esta Resolución
+se remite a la DIA emitida para el proyecto inicial, teniendo en cuenta todos los cambios realizados en las sucesivas
+modificaciones.
+Así mismo, en relación con la infraestructura verde, esta Resolución se remite de nuevo a la DIA emitida para el
+proyecto inicial.
+4.11.- Restauración y cese de la actividad.
+Además de lo expresado en la DIA del proyecto inicial, el desmantelamiento deberá incluir la completa retirada del
+hormigón empleado, en su caso, en las zanjas para las canalizaciones, zapatas de los seguidores, bases de los
+inversores y demás cimentaciones no contempladas en el proyecto inicial.
+4.12. - Innovación tecnológica y cambio climático
+Además de lo ya expresado en la DIA del proyecto inicial, debido a la actualización normativa, se informa de
+la existencia del Real Decreto 214/2025, de 18 de marzo, por el que se crea el registro de huella de carbono,
+compensación y proyectos de absorción de dióxido de carbono y por el que se establece la obligación del cálculo
+de la huella de carbono y de la elaboración y publicación de planes de reducción de emisiones de gases de efecto
+invernadero para determinadas empresas y la administración. Asimismo, existe un programa de promoción para
+el desarrollo de una economía rural hipocarbónica, que forma parte de las medidas regionales establecidas en la
+Estrategia de Cambio Climático Horizontes 2020 y 2030.
+Quinto. - Programa de seguimiento y vigilancia ambiental.
+5.1.- Especificaciones generales para el Programa de Seguimiento y Vigilancia Ambiental (PSVA).
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental en Castilla-La Mancha, el
+seguimiento y vigilancia del cumplimiento de las prescripciones contenidas en la presente resolución corresponden
+al órgano sustantivo, sin perjuicio de la información que pueda recabar el órgano ambiental al respecto, así como
+efectuar las comprobaciones necesarias para verificar el cumplimiento del condicionado expresado.
+El promotor está obligado a permitir a los funcionarios que ostenten la condición de autoridad pública el acceso a las
+instalaciones y lugares vinculados a la ejecución del proyecto, así como prestarles la colaboración necesaria para
+su desarrollo, facilitando cuanta información y documentación les sea requerida a tal efecto. En particular, permitirá
+cuando se precise la medición o toma de muestras, y pondrá a su disposición la documentación e información que
+se requiera.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales adicionales
+que se deben adoptar durante el desarrollo de las obras de construcción y durante la explotación de la actividad.
+Para ello, el promotor del proyecto nombrará un responsable del PSVA.
+De las inspecciones llevadas a cabo por el órgano sustantivo o por el órgano ambiental podrán derivarse
+modificaciones de las actuaciones previstas en función de una mejor consecución de los objetivos de la presente
+resolución. Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+El seguimiento y la vigilancia ambiental tendrá por objeto comprobar que el proyecto se desarrolla cumpliendo las
+condiciones establecidas en el estudio de impacto ambiental presentado por el promotor y en la Declaración de
+Impacto Ambiental, las derivadas de las modificaciones del proyecto, de la memoria técnica ambiental presentada
+para la modificación de las condiciones de la DIA y de esta Resolución, incidiendo además en los siguientes aspectos:
+A) Durante la fase de ejecución de las obras de construcción del proyecto:
+- Control de los trámites seguidos por el promotor para la aplicación de las actuaciones dirigidas a la conservación
+y fomento del hábitat estepario en base a los criterios del artículo 5 del Decreto 23/2024, de 21 de mayo y los
+establecidos en el apartado 4.1 de la presente resolución.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33347
+- Control de las medidas complementarias y correctoras establecidas en la presente resolución (posaderos, cajas
+nido, majanos, hoteles de insectos, etc.).
+- Control de la correcta ejecución de los vallados asegurando la permeabilidad de los mismos.
+- Cualquier otra medida que viniera reflejada en esta Resolución o en las condiciones de la DIA del proyecto inicial.
+B) Durante la fase de funcionamiento del proyecto, al menos durante los cinco primeros años desde su inicio (este
+período podrá ampliarse si así fuera determinado por el órgano ambiental motivadamente):
+- Control del Plan de Seguimiento Específico de Fauna, previsto en el apartado 4.1 de la resolución del proyecto
+inicial, que deberá incluir la evolución de las poblaciones de aves esteparias en las parcelas autorizadas como
+compensatorias (trascurridos los cinco años se podrá determinar la necesidad de continuar con el seguimiento).
+C) Durante la fase de funcionamiento del proyecto, a lo largo de toda la vida útil hasta su desmantelamiento:
+- Control de la implementación de las medidas complementarias derivadas de la ocupación del territorio por el
+proyecto para la conservación y fomento del hábitat estepario en base a los criterios establecidos en el artículo 5 del
+Decreto 23/2024, de 21 de mayo, según el apartado 4.1 de la presente resolución.
+- Control de la eficacia de las medidas para el fomento de fauna en la zona de implantación, permeabilidad e
+inocuidad de los cerramientos y corredores ecológicos locales.
+- Control de las actuaciones encaminadas a conseguir los objetivos perseguidos en los planes de desarrollo de los
+corredores ecológicos comarcales e infraestructura verde.
+D) Durante el desmantelamiento del proyecto, tras la finalización de su vida útil o cese de la actividad:
+- Control de lo detallado en el apartado 4.11 de la DIA del proyecto y la presente Resolución.
+Desde el inicio de las obras de construcción del proyecto y durante toda su vida útil (salvo para los periodos de
+tiempo que expresamente sean inferiores), así como una vez finalizada la actividad y hasta la restauración completa
+de los terrenos afectados, se realizará un informe compendio de las visitas de control previstas en el Programa
+de Seguimiento y Vigilancia Ambiental del proyecto a lo largo del año natural correspondiente. Este informe anual
+deberá reflejar la correcta implantación de las medidas cautelares, preventivas, correctoras y complementarias
+previstas en el estudio de impacto ambiental, la DIA, la memoria técnica ambiental de la modificación presentada
+y en la presente resolución, así como la valoración de su eficacia durante dicho año, indicando la adecuación de
+tales medidas y la necesidad de modificar o implementar aquellas que se hayan considerado necesarias para
+mitigar los impactos detectados en su caso. En el informe compendio anual se incluirán los anexos cartográficos y
+fotográficos georreferenciados para constatar su contenido y facilitar su interpretación. Este informe deberá estar
+suscrito conjuntamente por el promotor y por el responsable del PSVA del proyecto, y se presentará anualmente ante
+el órgano ambiental antes del 1 de abril del año siguiente al de los trabajos de seguimiento y vigilancia efectuados. Si
+las circunstancias así lo aconsejan, el órgano ambiental podrá exigir al responsable del PSVA la emisión de informes
+de carácter extraordinario al informe compendio anual.
+Las fechas de inicio de las obras y de la puesta en marcha de la actividad se comunicarán al órgano ambiental por
+parte del responsable del PSVA con una antelación mínima de un mes.
+5.2.- Control externos de puntos críticos.
+Además de lo ya establecido en la Declaración de Impacto Ambiental del proyecto original, se deberá realizar además
+un control externo de los siguientes parámetros, para verificar el cumplimiento de las condiciones establecidas en
+la presente resolución:
+- Control de la implementación de las medidas complementarias derivadas de la ocupación del territorio por el
+proyecto para la conservación y fomento del hábitat estepario en base a los criterios establecidos en el artículo 5 del
+Decreto 23/2024, de 21 de mayo, según el apartado 4.1 de la presente resolución.
+- Control del seguimiento de las poblaciones de especies de aves esteparias en las parcelas autorizadas como
+compensatorias para la conservación y mejora del hábitat estepario.
+Las entidades responsables de la realización tanto del seguimiento ambiental, como del control externo de puntos
+críticos deberán cumplir con el procedimiento, los requisitos y las obligaciones previstos en el Titulo IV de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha. En particular, estas entidades han de estar
+convenientemente inscritas en el Registro General de Entidades Colaboradoras de Castilla-La Mancha, que gestiona
+la consejería competente en materia de administraciones públicas, y cumplir con el régimen de incompatibilidades
+descrito en el artículo 27 de la Ley 4/2025, de 11 de julio, de Simplificación, Agilización y Digitalización Administrativa
+de Castilla-La Mancha, según el cual, no podrán ser seleccionadas para realizar esta función aquellas entidades
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33348
+que hayan tenido relación jurídica, de cualquier tipo con las personas, entidades o empresas que sean parte del
+procedimiento administrativo en el que ejercen sus funciones de colaboración con la Administración regional, o
+con las autoridades o personal empleado público intervinientes en el mismo que pueda producir dependencia,
+subordinación o conflicto de intereses que, en cualquier forma, pueda afectar a su objetividad e independencia de
+criterio.
+Sexto. Documentación adicional.
+El promotor del proyecto deberá presentar, además de la documentación requerida en la Resolución de 08/07/2022
+de la Declaración de Impacto Ambiental del proyecto (DOCM 138 de 20/07/22), o la justificación de no necesidad,
+la siguiente documentación en soporte digital ante el órgano sustantivo, el cual remitirá una copia al órgano
+ambiental.
+A) Antes de la autorización administrativa del proyecto:
+- Adenda al Plan de Seguimiento y Vigilancia Ambiental (PSVA) acomodado a las prescripciones contenidas en la
+presente resolución, incluyendo el Plan de Seguimiento Específico de Fauna de las poblaciones de esteparias.
+B) Antes del inicio de las obras de construcción (una vez autorizado administrativamente el proyecto):
+- Acreditación del origen legal de los préstamos (arena de mina o de río lavado, o zahorras) empleados en
+las instalaciones, en la que se justifique su procedencia de canteras o zonas de extracción adecuadamente
+autorizadas.
+- Copia de la presentación de la Adenda al Plan de Autoprotección que incluya las modificaciones realizadas.
+- Adenda a la memoria técnica para el establecimiento de la pantalla vegetal que incluya las modificaciones realizadas
+en el nuevo proyecto.
+- Designación del responsable del cumplimiento del Plan de Seguimiento y Vigilancia Ambiental (PSVA), así como
+comunicación de la entidad encargada de realizar el control externo de puntos críticos establecido en el epígrafe 5.2
+de la presente resolución.
+C) Antes del inicio definitivo de la actividad (fase de explotación del proyecto):
+- Informe favorable del Servicio de Medio Natural de Ciudad Real sobre las parcelas complementarias derivadas de
+la ocupación del territorio por el proyecto y a la conservación y fomento del hábitat estepario, en base a los criterios
+establecidos en el artículo 5 del Decreto 23/2024, de 21 de mayo, previamente consensuadas con esta Delegación.
+- Acreditación de haber ejecutado las medidas tendentes al fomento y arraigo de las especies de fauna mencionadas
+el apartado 4.1 de esta resolución.
+- Listado con la totalidad de los residuos generados y producidos en la fase de construcción del proyecto, y estimación
+de los que se produzcan durante su explotación, desglosándolos según su código LER e indicando el volumen y el
+peso de las cantidades generadas anualmente para cada tipo de residuo. Este listado deberá incorporar tanto los
+residuos peligrosos como los inertes, incluidos los residuos de construcción y demolición generados, los residuos
+domésticos, etc. También se especificará, para cada tipo de residuo, la periodicidad con que este se produce durante
+la fase de funcionamiento del proyecto (en un año concreto, en varios años seguidos o alternos, etc.).
+D) Anualmente, desde el inicio de la actividad y a lo largo de toda la vida útil del proyecto:
+- Informes anuales sobre los controles y actuaciones en aplicación del Plan de Seguimiento y Vigilancia Ambiental y
+sobre el Control Externo de Puntos Críticos, adecuados a lo que determina la presente Resolución.
+E) Antes de dos años desde la autorización administrativa definitiva del proyecto.
+- Copia del Informe preliminar de situación para cada uno de los suelos en los que se desarrolla la actividad
+susceptible de causar contaminación en el suelo incluida en el anexo I del Real Decreto 9/2005, de 14 de enero, por
+el que se establece la relación de actividades potencialmente contaminantes del suelo y los criterios y estándares
+para la declaración de suelos contaminados, presentado ante la Dirección General de Economía Circular.
+F) Antes de los dos años desde el inicio de las obras de construcción del proyecto:
+- Acreditación de haber ejecutado la pantalla vegetal, las teselas internas de vegetación y corredores ecológicos
+locales, bajo los criterios establecidos en la presente resolución.
+G) Tres meses antes de la finalización de la vida útil del proyecto o del cese de la actividad:
+- Plan de restauración integral de los terrenos afectados, adecuado a lo que determina la DIA del proyecto inicial y
+la presente Resolución.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33349
+Séptimo. Otras consideraciones.
+a) Publicación.
+Esta Resolución se hará pública mediante el Diario Oficial de Castilla-La Mancha conforme establece el artículo 49.7
+de la Ley 2/2020 de 7 de febrero, de evaluación ambiental de Castilla-La Mancha, sin perjuicio de su publicación en
+la sede electrónica del órgano ambiental y del órgano sustantivo.
+b) Recursos.
+De conformidad con el artículo 54.5 de la Ley 2/2020, esta resolución que modifica la Declaración de Impacto
+Ambiental arriba mencionada, no será objeto de recurso alguno sin perjuicio de los que pudieran proceder en vía
+administrativa o judicial frente al acto futuro de autorización del proyecto, en su caso.
+c) Comunicación de inicio de la modificación.
+De conformidad con el artículo 49.8 de la Ley 2/2020, el promotor de cualquier proyecto o actividad sometido a
+evaluación de impacto ambiental deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución de la
+modificación de la condición establecida en relación con dicho proyecto o actividad.
+Ciudad Real, 22 de septiembre de 2026
+El Delegado Provincial
+P.S. (Decreto 6/2024, de 20 de febrero,
+por el que se modifica
+el Decreto 112/2023, de 25 de julio)
+El Secretario Provincial
+ÁNGEL LEAL EIZAGUIRRE
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33350

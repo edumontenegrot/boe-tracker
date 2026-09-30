@@ -1,0 +1,2744 @@
+AÑO XLV Núm. 188 30 de septiembre de 2026 33188
+I.- DISPOSICIONES GENERALES
+Consejería de Educación, Cultura y Deportes
+Decreto 52/2026, de 23 de septiembre, por el que se establece el currículo del ciclo formativo de grado
+superior correspondiente al título de Técnico/a Superior en Fabricación de Productos Farmacéuticos,
+Biotecnológicos y Afines y las ofertas de grados C, B y A en la comunidad autónoma de Castilla-La Mancha.
+[2026/6962]
+La Ley Orgánica 2/2006, de 3 de mayo, de Educación, establece en su artículo 6.1 que el currículo es el conjunto de
+objetivos, competencias, contenidos, métodos pedagógicos y criterios de evaluación de cada una de las enseñanzas
+reguladas en dicha ley. Asimismo, el articulo 6.3 dispone que corresponde al Gobierno, previa consulta a las
+comunidades autónomas, fijar los aspectos básicos del currículo que constituyen las enseñanzas mínimas, con el
+fin de garantizar una formación común y la validez de los títulos en todo el territorio; y en el artículo 6.5 atribuye a las
+administraciones educativas la competencia para desarrollar y establecer el currículo de las distintas enseñanzas,
+incorporando en todo caso dichos aspectos básicos.
+Por su parte, el artículo 39.2 de la citada Ley Orgánica señala que la formación profesional tiene por finalidad
+preparar al alumnado para el ejercicio de una actividad profesional, facilitar su adaptación a los cambios del entorno
+laboral a lo largo de su vida, contribuir a su desarrollo personal y al ejercicio de una ciudadanía democrática y
+pacífica, así como permitir su progresión en el sistema educativo dentro del marco del aprendizaje permanente.
+La Ley Orgánica 3/2022, de 31 de marzo, de ordenación e integración de la Formación Profesional, establece
+en su artículo 13 que el currículo de la formación profesional tendrá por objetivo facilitar el desarrollo formativo
+profesional de las personas, promoviendo su formación integral y contribuyendo al desarrollo de su personalidad
+en todas sus dimensiones. Asimismo, dispone que el contenido básico del currículo deberá mantenerse actualizado
+por el procedimiento que reglamentariamente se establezca, definirá las enseñanzas mínimas y tendrá por
+finalidad asegurar una formación común y garantizar la validez estatal de los títulos, certificados y acreditaciones
+correspondientes.
+De conformidad con el artículo 13.1 de la citada Ley Orgánica, el currículo incorporará contenidos culturales,
+científicos, tecnológicos y organizativos, así como aquellos vinculados a la digitalización, la defensa de la propiedad
+intelectual e industrial, la sostenibilidad, la innovación e investigación aplicada, el emprendimiento, la versatilidad
+tecnológica, las habilidades para la gestión de la carrera profesional, las relaciones laborales, la prevención de
+riesgos laborales y medioambientales, la responsabilidad profesional, las habilidades interpersonales, los valores
+cívicos, la participación ciudadana y la igualdad efectiva entre mujeres y hombres.
+Este decreto se alinea asimismo con los principios y objetivos de la Ley Orgánica 3/2007, de 22 de marzo, para
+la igualdad efectiva de mujeres y hombres, de la Ley 12/2010, de 18 de noviembre, de igualdad entre mujeres
+y hombres de Castilla-La Mancha, y de la Ley 4/2018, de 8 de octubre, para una sociedad libre de violencia de
+género en Castilla-La Mancha. En particular, la Ley Orgánica 3/2022, de 31 de marzo, contempla entre los principios
+del Sistema de Formación Profesional la eliminación de los estereotipos profesionales y de los sesgos de género
+en las opciones formativas y el fomento de la igualdad efectiva de oportunidades en el acceso, permanencia y
+desarrollo del proceso formativo, promoviendo la eliminación de la segregación formativa existente entre mujeres y
+hombres. Igualmente, las citadas normas establecen la integración transversal de la perspectiva de género en las
+políticas públicas, incluidas las educativas, con la finalidad de garantizar la igualdad de oportunidades y contribuir a
+la prevención y erradicación de la violencia de género.
+El Real Decreto 659/2023, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación
+Profesional, dispone en su artículo 8 que las administraciones competentes deberán actualizar sus respectivos
+currículos y comunicar a los centros del Sistema de Formación Profesional las modificaciones que se deriven de
+dichas actualizaciones. Asimismo, en su artículo 83 se atribuye al Ministerio de Educación y Formación Profesional
+la competencia para aprobar las propuestas de ciclos formativos, así como para establecer los aspectos básicos del
+currículo.
+El Real Decreto 500/2024, de 21 de mayo, por el que se modifican determinados reales decretos por los que se
+establecen títulos de Formación Profesional de grado superior y se fijan sus enseñanzas mínimas, establece los
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33189
+cambios de ordenación necesarios de los títulos de formación profesional de grado superior para permitir su oferta
+en el marco de la nueva estructura establecida en el Real Decreto 659/2023, de 18 de julio. Concretamente, en el
+Real Decreto 500/2024, de 21 de mayo, se procede a la actualización de la nómina de los módulos profesionales
+que forman parte del plan de estudios de cada ciclo formativo, se adapta el antiguo proyecto a la intermodularidad
+requerida, se adaptan los cuerpos del profesorado tras la publicación del Real Decreto 800/2022, de 4 de octubre,
+por el que se regula la integración del profesorado del cuerpo, a extinguir, de Profesores Técnicos de Formación
+Profesional en el Cuerpo de Profesores de Enseñanza Secundaria, se modifican diversos reales decretos relativos
+al profesorado de enseñanzas no universitarias, y se actualiza el contenido del artículo 6 de algunos reales decretos
+y por consiguiente se actualiza el anexo relativo a la correspondencia de los módulos profesionales con las unidades
+de competencia.
+Teniendo en cuenta lo dispuesto en el Real Decreto 832/2014, de 3 de octubre, por el que se establece el título de
+Técnico Superior en Fabricación de productos farmacéuticos, biotecnológicos y afines y se fijan sus enseñanzas
+mínimas y el Real Decreto 209/2025, de 18 de marzo, por el que se regulan aspectos específicos de los grados A,
+B y C de Formación Profesional para las familias profesionales Imagen Personal; Imagen y Sonido; Instalación y
+Mantenimiento; y Química, procede establecer el currículo del ciclo formativo de grado superior correspondiente al
+título de Técnico/a Superior en Fabricación de productos farmacéuticos, biotecnológicos y afines y las ofertas de
+grados C, B y A, en el ámbito territorial de esta Comunidad Autónoma, teniendo en cuenta los aspectos definidos en
+la normativa citada anteriormente.
+Las personas que obtienen este título ejercen su actividad en empresas farmacéuticas, biotecnológicas y afines,
+de carácter público o privado, donde desarrollarán su labor en las áreas de producción o acondicionamiento de
+medicamentos y productos sanitarios, cosméticos y determinados productos alimenticios, formas farmacéuticas y
+afines, tales como cosméticos, perfumes, productos dietéticos, de herboristería o alimentos especiales y de droguería.
+Así mismo pueden trabajar en la obtención de productos biotecnológicos, tanto en sectores que tengan como principal
+actividad la utilización de organismos vivos o sus componentes, como en aquellas otras que, aun no siendo su
+actividad principal, puedan innovar con técnicas de producción biotecnológicas sobre algunos productos y procesos.
+Según establece el artículo 37.1 del Estatuto de Autonomía de Castilla-La Mancha, corresponde a la Comunidad
+Autónoma de Castilla-La Mancha la competencia de desarrollo legislativo y ejecución de la enseñanza en toda
+su extensión, niveles y grados, modalidades y especialidades, de acuerdo con lo dispuesto en el artículo 27 de
+la Constitución y leyes orgánicas que conforme al artículo 81.1 de la misma lo desarrollen y sin perjuicio de las
+facultades que atribuye al Estado el número 30 del apartado 1 del artículo 149 y de la Alta Inspección para su
+cumplimiento y garantía.
+La Ley 7/2010, de 20 de julio, de Educación de Castilla-La Mancha, dispone en el artículo 70 que los currículos de
+los títulos de formación profesional se establecerán atendiendo a las necesidades del tejido productivo regional y la
+mejora de las posibilidades de empleo de la ciudadanía de Castilla-La Mancha.
+Asimismo, el fortalecimiento de las capacidades de la formación profesional constituye una de las líneas estratégicas
+del IV Plan de Formación Profesional de Castilla-La Mancha, que persigue optimizar los procesos de formación
+mediante la coordinación de los distintos agentes implicados, favoreciendo la generación de sinergias y la mejora
+de la empleabilidad, de la competitividad de los recursos humanos y de la adaptación del ecosistema formativo al
+entorno productivo.
+Este decreto se ajusta a los principios de buena regulación contenidos en el artículo 129 de la Ley 39/2015, de
+1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, de necesidad, eficacia,
+proporcionalidad, seguridad jurídica, transparencia y eficiencia. Cumple el principio de necesidad y eficacia en tanto
+que persigue el interés general al facilitar la adecuación de la oferta formativa a las demandas de los sectores
+productivos, ampliar la oferta de Formación Profesional, avanzar en la integración de la formación profesional en el
+conjunto del sistema educativo y formativo, adecuándolo a las peculiaridades de Castilla-La Mancha. Cumple con los
+principios de proporcionalidad, seguridad jurídica y eficiencia porque, no existiendo ninguna alternativa regulatoria
+menos restrictiva de derechos, resulta coherente con el ordenamiento jurídico y permite una gestión más eficiente de
+los recursos públicos. Del mismo modo, cumple con el principio de transparencia porque durante el procedimiento
+de elaboración de la norma se ha permitido la participación activa de las potenciales personas destinatarias a través
+de los órganos específicos de participación y consulta.
+El decreto se estructura en trece artículos relativos a los aspectos específicos que regulan el currículo correspondiente
+al título de Técnico o Técnica Superior en Fabricación de Productos Farmacéuticos, Biotecnológicos y Afines y las
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33190
+ofertas de grados C, B y A en Castilla-La Mancha, dos disposiciones adicionales, cuatro disposiciones finales y ocho
+anexos.
+Durante el procedimiento de elaboración de la norma se ha permitido la participación de las personas potencialmente
+destinatarias a través de los órganos específicos de participación y consulta, quedando justificados los objetivos que
+persigue la norma. A tal efecto, se ha consultado al Consejo de Diálogo Social y a la Mesa Sectorial de Educación, y
+han emitido dictamen el Consejo Escolar de Castilla-La Mancha y el Consejo de Formación Profesional de Castilla-
+La Mancha. Asimismo, se ha recabado el informe del Gabinete Jurídico de la Junta de Comunidades de Castilla-La
+Mancha.
+En su virtud, a propuesta del Consejero de Educación, Cultura y Deportes, oído el Consejo Consultivo y, previa
+deliberación del Consejo de Gobierno en su reunión de 23 de septiembre de 2026,
+Dispongo:
+Artículo 1. Objeto de la norma y ámbito de aplicación.
+El presente decreto tiene por objeto establecer el currículo del ciclo formativo de grado superior correspondiente
+al título de Técnico/a Superior en Fabricación de productos farmacéuticos, biotecnológicos y afines y las ofertas
+de grados C, B y A, en el ámbito territorial de la Comunidad Autónoma de Castilla-La Mancha, teniendo en cuenta
+sus características geográficas, socio-productivas, laborales y educativas, complementando lo dispuesto en el
+Real Decreto 832/2014, de 3 de octubre, por el que se establece el título de Técnico Superior en Fabricación de
+productos farmacéuticos, biotecnológicos y afines y se fijan sus enseñanzas mínimas y lo establecido en el Real
+Decreto 209/2025, de 18 de marzo, por el que se regulan aspectos específicos de los grados A, B y C de Formación
+Profesional para las familias profesionales Imagen Personal; Imagen y Sonido; Instalación y Mantenimiento; y
+Química.
+Artículo 2. Identificación del título.
+De acuerdo con lo establecido en el artículo 2 del Real Decreto 832/2014, de 3 de octubre, por el que se establece
+el título de Técnico Superior en Fabricación de productos farmacéuticos, biotecnológicos y afines y se fijan sus
+enseñanzas mínimas, este título queda identificado por los siguientes elementos:
+Denominación: Fabricación de Productos Farmacéuticos, Biotecnológicos y Afines.
+Nivel: Formación Profesional de Grado Superior.
+Duración: 2000 horas.
+Familia Profesional: Química.
+Referente en la Clasificación Internacional Normalizada de la Educación: P-5.5.4.
+Referencia del Marco Español de Cualificaciones para el aprendizaje permanente: 5A.
+Artículo 3. Titulación.
+De conformidad con lo establecido en el artículo 44.2 de la Ley Orgánica 2/2006, de 3 de mayo, de Educación,
+las alumnas y los alumnos que superen las enseñanzas correspondientes al ciclo formativo de grado superior
+de Fabricación de productos farmacéuticos, biotecnológicos y afines obtendrán el título en Técnico/a Superior en
+Fabricación de productos farmacéuticos, biotecnológicos y afines.
+Artículo 4. Otros referentes del título.
+En el Real Decreto 832/2014, de 3 de octubre, quedan definidos el perfil profesional, la competencia general,
+las competencias profesionales, personales y sociales, el entorno profesional, enseñanzas del ciclo formativo y
+parámetros básicos de contexto formativo, acceso y vinculación a otros estudios, convalidaciones y exenciones, y
+correspondencia de módulos profesionales con las unidades de competencia y accesibilidad. En el Real Decreto
+209/2025, de 18 de marzo, se establecen los grados C, B y A vinculados al título de Formación Profesional de Grado
+Superior de Técnico/a superior en Fabricación de productos farmacéuticos, biotecnológicos y afines.
+Artículo 5. Módulos profesionales y proyecto intermodular: duración y distribución horaria.
+1. Los módulos profesionales del primer y segundo curso del ciclo formativo de grado superior, así como la duración
+y distribución horaria semanal y por curso, son los establecidos en el anexo I A).
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33191
+2. El módulo Proyecto intermodular con código 1397, se desarrollará a lo largo de los dos cursos académicos de
+duración del ciclo formativo, debiéndose establecer en la programación didáctica los resultados de aprendizaje y
+criterios de evaluación que se trabajen en cada curso.
+3. Este ciclo formativo de grado superior tiene estructura modular y se organiza en los bloques previstos en el
+artículo 96.1 del Real Decreto 659/2023 de 18 de julio, por el que se desarrolla la ordenación del Sistema de
+Formación Profesional.
+4. El módulo profesional de carácter optativo se desarrollará en el segundo curso con una duración de 80 horas, o
+por dos módulos profesionales de 40 horas cada uno de ellos.
+Para la elección del módulo o módulos profesionales de carácter optativo se tendrán en cuenta las preferencias
+manifestadas por el alumnado de entre los módulos propuestos por el departamento de la familia profesional a la
+que pertenece el ciclo formativo. La elección debe ser aprobada por la dirección del centro, teniendo en cuenta los
+recursos disponibles en el mismo. En aquellos centros donde se oferten varios ciclos formativos de grado superior
+de la misma familia profesional, se podrán ofertar diferentes módulos optativos al alumnado matriculado en el ciclo
+para que puedan elegir uno de ellos, siempre que la impartición de los módulos profesionales optativos ofertados
+coincida en la misma franja horaria.
+5. Los módulos asociados a las habilidades y capacidades transversales y a la orientación laboral y el emprendimiento
+se desarrollarán preferentemente de forma completa en el centro educativo.
+Artículo 6. Formación en empresa u organismo equiparado.
+1. Este ciclo formativo incorpora un periodo de formación en empresa según se indica en el artículo 106 del Real
+Decreto 659/2023, de 18 de julio.
+Según lo establecido en el artículo 9 de esta última norma reglamentaria, la fase de formación en empresa u
+organismo equiparado, que carece de currículo propio y diferenciado, contribuye al desarrollo de parte de los
+resultados de aprendizaje contemplados en los módulos profesionales del correspondiente currículo, así como de
+las competencias previstas en la oferta formativa. Se desarrollará con carácter dual, en oferta de régimen general o
+bien en oferta de régimen intensivo.
+La formación en empresa u organismo equiparado tendrá consideración de formación curricular y en ningún caso se
+entenderá como prácticas. Los centros educativos contarán con flexibilidad organizativa para diseñar conjuntamente
+con las empresas la distribución de las actividades formativas entre ambos. Asimismo, determinarán el momento en el
+que debe realizarse la estancia de formación en empresa, la ampliación de la duración hasta los límites establecidos
+en la normativa vigente, la incorporación de complementos formativos si lo consideran oportuno, contando con las
+autorizaciones necesarias de la consejería con competencias en materia de educación.
+2. En régimen general, para la consecución de los resultados de aprendizaje de los diferentes módulos profesionales
+se destinarán entre de 500 y 580 horas de las totales del ciclo formativo, a la formación en la empresa u organismo
+equiparado.
+El periodo de formación en empresa u organismo equiparado en el primer curso de los ciclos formativos de grado
+superior tendrá una duración entre 70 y 120 horas, y en el segundo curso la duración será la que corresponda
+hasta completar las horas establecidas como duración total de este periodo de formación para todo el ciclo, según
+lo indicado en el párrafo anterior.
+3. En el caso excepcional de impartición del ciclo formativo en tres cursos, la distribución por curso de las horas de
+formación en empresa u organismo equiparado será propuesta por el departamento de la familia profesional del ciclo
+formativo, dependiendo de los resultados de aprendizaje a conseguir en cada uno de los tres cursos de duración
+del ciclo formativo.
+4. El alumnado que inicie su formación en empresa u organismo equiparado debe haber adquirido las competencias
+relativas a los riesgos específicos y las medidas de prevención de riesgos laborales en las actividades profesionales
+correspondientes al perfil profesional, según se requiera en la normativa vigente en materia de prevención de riesgos
+laborales.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33192
+Artículo 7. Oferta del ciclo formativo en tres cursos académicos.
+1. De forma excepcional, previa autorización de la consejería con competencias en materia de educación, se podrá
+ofertar el ciclo formativo distribuido en tres cursos académicos.
+2. La duración y distribución horaria semanal y por curso de los módulos profesionales del ciclo formativo para la
+oferta excepcional en tres cursos académicos son las establecidas en el anexo I B).
+Artículo 8. Flexibilización de la oferta.
+1. Los centros del Sistema de Formación Profesional desarrollarán el currículo establecido en este decreto adaptando
+su programación y metodologías a las características de las personas en formación, favoreciendo la elaboración
+de modelos abiertos de programación docente, con la implantación de metodologías activas basadas en proyectos
+y retos, próximas a la realidad productiva, y la utilización de recursos y materiales tecnológicos que garanticen
+la calidad y actualización de la formación, mejoren el aprendizaje y atiendan a las distintas necesidades de cada
+persona en formación.
+2. En el ejercicio de su autonomía, y previa autorización de la consejería con competencias en materia de educación,
+los centros del Sistema de Formación Profesional podrán disponer, dentro de los límites impuestos por los elementos
+del currículo, de autonomía para la adaptación organizativa de los programas de formación del ciclo de grado
+superior de Fabricación de productos farmacéuticos, biotecnológicos y afines a las características propias de cada
+centro y de las empresas u organismos equiparados correspondientes
+Artículo 9. Resultados de aprendizaje y criterios de evaluación.
+1. Los resultados de aprendizaje y criterios de evaluación de los módulos profesionales y del proyecto intermodular
+que forman parte del currículo del ciclo formativo son los establecidos en el anexo II.
+Los resultados de aprendizaje y criterios de evaluación de los módulos profesionales optativos son los establecidos en
+el catálogo de módulos optativos publicado y autorizado por la administración competente en materia de educación.
+2. Los contenidos básicos que figuran en el Anexo I del Real Decreto 832/2014 de 3 de octubre, correspondientes a
+los módulos profesionales y proyecto intermodular tendrán la consideración de carácter orientativo.
+Artículo 10. Profesorado.
+1. La docencia de los módulos profesionales que constituyen las enseñanzas de este ciclo formativo corresponde al
+profesorado de las especialidades establecidas en el anexo III del Real Decreto 832/2014, de 19 de noviembre en la
+redacción que le da el anexo LXI del Real Decreto 500/2024, de 21 de mayo, pertenecientes a los cuerpos indicados
+en dicho anexo, sin perjuicio de lo establecido en la disposición transitoria sexta del Real Decreto 276/2007, de 23
+de febrero, por el que se aprueba el Reglamento de ingreso, accesos y adquisición de nuevas especialidades en los
+cuerpos docentes a que se refiere la Ley Orgánica 2/2006, de 3 de mayo, de Educación.
+2. Las condiciones de acceso a los cuerpos a que se refiere el apartado anterior serán las recogidas en el Real
+Decreto 276/2007, de 23 de febrero.
+3. Para la impartición de módulos profesionales en centros de titularidad privada o de titularidad pública de otras
+administraciones distintas de las educativas, las titulaciones requeridas y los requisitos necesarios para el profesorado
+serán los mismos que los exigidos para el acceso a las especialidades de los cuerpos docentes a que se refiere el
+apartado anterior, según la atribución docente que se establece para cada módulo en el anexo III del Real Decreto
+832/2014, de 19 de noviembre en la redacción que le da el anexo LXI del Real Decreto 500/2024, de 21 de mayo.
+En todo caso, se exigirá que las enseñanzas conducentes a las titulaciones citadas engloben los resultados de
+aprendizaje de los módulos profesionales y, si dichos elementos citados no estuvieran incluidos, además de la
+titulación, deberá acreditarse, mediante certificación, una experiencia laboral de, al menos, tres años en el sector
+vinculado a la familia profesional, realizando actividades productivas en empresas relacionadas implícitamente con
+los resultados de aprendizaje.
+4. En caso de contar con otros perfiles colaboradores, estos deberán cumplir los requisitos indicados en el capítulo
+IV del título V del Real Decreto 659/2023, de 18 de julio.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33193
+5. La atribución docente de los módulos profesionales optativos queda establecida en el catálogo de módulos
+optativos publicado y autorizado por la consejería competente en materia de educación.
+Artículo 11. Capacitaciones.
+1. Con el fin de satisfacer el requisito formativo en materia de prevención de riesgos laborales exigida en el artículo
+158 b) del Real Decreto 659/2023 e iniciar la estancia en la empresa u organismo equiparado, será necesario que
+se haya superado la formación correspondiente y alcanzar las competencias necesarias para el desempeño de
+las funciones de nivel básico en Prevención de Riesgos Laborales, establecidas en el artículo 35 del Real Decreto
+39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, sin perjuicio de lo
+establecido en el artículo 153.2.d) del Real Decreto 659/2023, de 18 de julio.
+2. Para los grados C que figuran en el anexo IV, la formación establecida en el módulo profesional 1782. Prevención
+de riesgos laborales recogido en el anexo IV del Real Decreto 209/2025, de 18 de marzo, que debe incluir el
+contenido mínimo del programa de formación para el desempeño de las funciones de nivel básico prescrito en el
+anexo IV del Real Decreto 39/1997, de 17 de enero, capacita para llevar a cabo responsabilidades profesionales
+equivalentes a las que precisan las actividades de nivel básico en prevención de riesgos laborales establecidas en
+el artículo 35 del citado real decreto.
+3. Para el Grado D, la formación establecida en el módulo profesional 1709. Itinerario personal para la empleabilidad
+I, que incluye el contenido mínimo del programa de formación para el desempeño de las funciones del nivel básico
+del anexo IV del Reglamento de los Servicios de Prevención, aprobado por el Real Decreto 39/1997, de 17 de enero,
+capacita para llevar a cabo responsabilidades profesionales equivalentes a las que precisan las actividades de nivel
+básico en prevención de riesgos laborales establecidas en el artículo 35 del citado real decreto.
+4. Sin perjuicio de lo anterior, el resto de los módulos profesionales podrá contribuir a la capacitación prevista en el
+apartado 2, siempre y cuando se garantice que las horas se imparten con el contenido y la distribución establecida
+en el anexo IV del Real Decreto 39/1997, de 17 de enero.
+Artículo 12. Espacios y equipamientos.
+1. Los espacios y equipamientos mínimos necesarios para el desarrollo de las enseñanzas del ciclo formativo
+de grado superior correspondiente al título de Técnico/a Superior en Fabricación de productos farmacéuticos,
+biotecnológicos y afines son los establecidos en el anexo III.
+2. Las condiciones de los espacios y equipamientos son las establecidas en el artículo 11 del Real Decreto 832/2014,
+de 3 de octubre, que, en todo caso, deberán cumplir la normativa sobre igualdad de oportunidades, diseño para
+todos y accesibilidad universal, prevención de riesgos laborales y seguridad y salud en el puesto de trabajo.
+Artículo 13. Grados C, B y A vinculados al Título de formación profesional de grado superior de Técnico/a Superior
+en Fabricación de productos farmacéuticos, biotecnológicos y afines.
+1. El artículo 23 del Real Decreto 209/2025 de 18 de marzo, establece los certificados profesionales, que incluyen
+los certificados de competencia y acreditaciones parciales de competencia vinculados al Título de Formación
+Profesional de Grado Superior de Técnico Superior en Fabricación de productos farmacéuticos, biotecnológicos y
+afines, que son los siguientes:
+a) QUI_C_006_5B. Organización y control de la industria farmacéutica, biotecnológica y afines.
+b) QUI_C_007_5B. Acondicionamiento, calidad y seguridad en la industria farmacéutica, biotecnológica y afines
+2. Los anexos I, II y III del Real Decreto 209/2025, de 18 de marzo, establecen la oferta de los certificados profesionales,
+de certificados de competencia y de acreditaciones parciales de competencia correspondientes, respectivamente, a
+los grados C, B y A, cuya duración en Castilla-La Mancha será la establecida en los anexos IV, V y VI del presente
+decreto
+3. Los certificados profesionales tendrán carácter dual e incluirán un período de formación en empresa, con duración
+variable en función de su régimen, general o intensivo, en el que se desarrollará un conjunto actividades dirigidas
+a completar y reforzar los resultados de aprendizaje previstos en el currículo de acuerdo con lo dispuesto en los
+artículos 71 y 72 del Real Decreto 659/2023 de 18 de julio. Los requisitos para la realización del periodo de estancia
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33194
+en empresa u organismo equiparado serán los establecidos en el artículo 25 del Real Decreto 209/2025, de 19 de
+noviembre.
+4. Los requisitos del profesorado, personal formador y personal experto para impartir las ofertas de formación
+profesional de los grados C, B y A contenidas en este decreto, serán los recogidos en el artículo 24 del Real Decreto
+209/2025, de 19 de noviembre.
+5. Los espacios y equipamientos necesarios para impartir grados C, son los establecidos en el anexo I del Real
+Decreto 209/2025, de 19 de noviembre, para cada uno de los certificados profesionales. Los requisitos serán los
+indicados en los reales decretos de establecimiento de los títulos.
+6. Los espacios y equipamientos necesarios para impartir grados B y A, serán los necesarios para alcanzar los
+resultados de aprendizaje de cada oferta formativa sin que se requiera el cumplimiento de la totalidad de los
+requisitos previstos para los grados C o D.
+Disposición adicional primera. Autonomía pedagógica de los centros.
+Los centros autorizados para impartir el ciclo formativo de formación profesional de grado superior en Fabricación
+de productos farmacéuticos, biotecnológicos y afines y las ofertas de grados C, B y A, concretarán y desarrollarán
+las medidas organizativas y curriculares que resulten más adecuadas a las características de su alumnado y de
+su entorno productivo, de manera flexible y en uso de su autonomía pedagógica, en el marco legal del proyecto
+educativo, en los términos establecidos en el capítulo II del título V de la Ley Orgánica 2/2006 de 3 de mayo, y en el
+capítulo II del título III de la Ley 7/2010, de 20 de julio, de Educación de Castilla-La Mancha, e incluirán los elementos
+necesarios para garantizar que las personas que cursen el ciclo formativo indicado desarrollen las competencias
+incluidas en el currículo en “diseño para todos”.
+Disposición adicional segunda. Ciclos Bilingües.
+1. De acuerdo con lo establecido en el artículo 215 del Real Decreto 659/2023, de 18 de julio, un ciclo formativo
+tendrá carácter bilingüe, cuando el currículo se adapte a alguna de las siguientes opciones:
+a) Incluir un módulo profesional de idioma extranjero en segundo curso. La duración mínima del módulo será de 3
+horas semanales, impartiéndose fuera del horario lectivo ordinario. Además, se deberán impartir en idioma extranjero
+dos módulos profesionales no lingüísticos, con carácter preferente, uno en primer curso y otro en segundo curso.
+b) Elegir en la parte de optatividad del ciclo formativo un módulo profesional de idioma extranjero de 80 horas.
+Además, se deberán impartir en idioma extranjero dos módulos profesionales no lingüísticos, con carácter preferente,
+uno en primer curso y otro en segundo curso.
+c) Elegir en la parte de optatividad del ciclo formativo un módulo profesional de idioma extranjero de 40 horas. Este
+módulo se deberá complementar con otro módulo de idioma extranjero de 20 horas impartido fuera del horario
+lectivo ordinario. Además, se deberán impartir en idioma extranjero dos módulos profesionales no lingüísticos, con
+carácter preferente, uno en primer curso y otro en segundo curso.
+2. En el caso excepcional de ciclos impartidos en tres cursos se tendrá que cumplir lo establecido anteriormente en
+al menos dos cursos.
+3. El profesorado que imparta los módulos de idioma extranjero deberá cumplir con el requisito de especialidad con
+atribución docente en el módulo de inglés profesional o el módulo de segunda lengua extranjera. En cuanto a la
+competencia lingüística del profesorado que imparta los módulos profesionales no lingüísticos en lengua extranjera,
+deberá cumplir con lo establecido en la normativa que regule los proyectos bilingües y plurilingües en la Comunidad
+Autónoma de Castilla-La Mancha.
+Disposición final primera. Modificación de anexos del Decreto 80/2024, de 5 de noviembre, por el que se modifican
+determinados decretos que establecen los currículos de los ciclos formativos de grado superior correspondientes
+a los títulos de Técnico o Técnica Superior de Formación Profesional en la comunidad autónoma de Castilla-La
+Mancha.
+1. El anexo IA-2. 4º del Decreto 80/2024, de 5 de noviembre, queda modificado en los términos establecidos en el
+anexo VII del presente decreto.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33195
+2. El Anexo IIA-2. 4º del Decreto 80/2024, de 5 de noviembre, queda modificado en los términos establecidos en el
+anexo VIII del presente decreto.
+Disposición final segunda. Implantación del currículo.
+El currículo se implantará en todos los centros docentes de la Comunidad Autónoma de Castilla-La Mancha,
+autorizados para impartirlo, a partir del curso escolar 2026/27, y de acuerdo al siguiente calendario:
+1. En el curso 2026/2027, se implantará el currículo de los módulos profesionales del primer curso del ciclo formativo.
+2. En el curso 2027/2028, se implantará el currículo de los módulos profesionales del segundo curso del ciclo
+formativo.
+3. Para el caso excepcional de la oferta del ciclo formativo en tres cursos académicos, en el curso 2028/2029 se
+implantará el currículo de los módulos profesionales del tercer curso.
+Disposición final tercera. Desarrollo.
+Se autoriza a la persona titular de la consejería competente en materia educativa, para dictar las disposiciones que
+sean precisas para la aplicación de lo dispuesto en este decreto.
+Disposición final cuarta. Entrada en vigor.
+Este decreto entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Castilla-La Mancha.
+Dado en Toledo, el 23 de septiembre de 2026
+El Presidente
+EMILIANO GARCÍA-PAGE SÁNCHEZ
+El Consejero de Educación, Cultura y Deportes
+AMADOR PASTOR NOHEDA
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33196
+Anexo I A)
+Duración, distribución horaria semanal y por cursos de los módulos profesionales del ciclo
+formativo de grado superior de Técnico/a Superior en Fabricación de productos farmacéuticos,
+biotecnológicos y afines
+Distribución de horas
+Módulos Horas Horas
+Horas
+Semanales Semanales
+Totales
+1º Curso 2º Curso
+0191. Mantenimiento electromecánico en industrias
+74 3
+de proceso.
+1387. Organización y gestión de la fabricación de
+130 3
+productos farmacéuticos, biotecnológicos y afines.
+1388. Control de calidad de productos farmacéuticos,
+204 6
+biotecnológicos y afines.
+1389. Operaciones básicas en la industria
+204 6
+farmacéutica, biotecnológica y afines.
+1390. Principios de biotecnología. 138 4
+1391. Seguridad en la industria farmacéutica,
+73 2
+biotecnológica y afines.
+1392. Áreas y servicios auxiliares en la industria
+110 3
+farmacéutica, biotecnológica y afines.
+1393. Técnicas de producción biotecnológica. 200 5
+1394. Técnicas de producción farmacéutica y afines. 200 5
+1395. Regulación y control en la industria
+160 4
+farmacéutica, biotecnológica y afines.
+1396. Acondicionamiento y almacenamiento de
+82 2
+productos farmacéuticos, biotecnológicos y afines.
+0179. Inglés profesional (GS) 60 2
+1709. Itinerario personal para la empleabilidad I 80 3
+1710. Itinerario personal para la empleabilidad II 60 3
+1708. Sostenibilidad aplicada al sistema productivo 40 1
+1665. Digitalización aplicada a los sectores
+50 2
+productivos (GS)
+Módulo optativo 80 4
+1397. Proyecto intermodular de fabricación de
+55 1 1
+productos farmacéuticos, biotecnológicos y afines.
+Total 2000 30 30
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33197
+Anexo I B)
+Duración, distribución horaria semanal y por cursos de los módulos profesionales del ciclo
+formativo de grado superior de Técnico/a Superior en Fabricación de productos farmacéuticos,
+biotecnológicos y afines en tres cursos académicos
+Distribución de horas
+Horas Horas Horas
+Módulos Horas
+Semanales Semanales Semanales
+Totales
+1º Curso 2º Curso 3º Curso
+0191. Mantenimiento electromecánico en
+74 3
+industrias de proceso.
+1387. Organización y gestión de la
+fabricación de productos farmacéuticos, 130 3
+biotecnológicos y afines.
+1388. Control de calidad de productos
+204 7
+farmacéuticos, biotecnológicos y afines.
+1389. Operaciones básicas en la
+industria farmacéutica, biotecnológica y 204 6
+afines.
+1390. Principios de biotecnología. 138 4
+1391. Seguridad en la industria
+73 2
+farmacéutica, biotecnológica y afines.
+1392. Áreas y servicios auxiliares en la
+industria farmacéutica, biotecnológica y 110 3
+afines.
+1393. Técnicas de producción
+200 4
+biotecnológica.
+1394. Técnicas de producción
+200 4
+farmacéutica y afines.
+1395. Regulación y control en la industria
+160 4
+farmacéutica, biotecnológica y afines.
+1396. Acondicionamiento y
+almacenamiento de productos 82 3
+farmacéuticos, biotecnológicos y afines.
+0179. Inglés profesional (GS) 60 2
+1709. Itinerario personal para la
+80 3
+empleabilidad I
+1710. Itinerario personal para la
+60 3
+empleabilidad II
+1708. Sostenibilidad aplicada al sistema
+40 1
+productivo
+1665. Digitalización aplicada a los
+50 2
+sectores productivos (GS)
+Módulo optativo 80 3
+1397. Proyecto intermodular de
+fabricación de productos farmacéuticos, 55 1 1
+biotecnológicos y afines.
+Total 2000 20 21 17
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33198
+Anexo II
+Resultados de aprendizaje y criterios de evaluación
+Módulo Profesional: Mantenimiento electromecánico en industrias de proceso.
+Duración: 74 horas.
+Código: 0191.
+Resultados de aprendizaje y criterios de evaluación.
+1. Identifica los materiales que constituyen los equipos e instalaciones de la industria química
+relacionándolos con sus características y su utilización.
+Criterios de evaluación:
+a) Se han identificado los distintos tipos de materiales usados en las instalaciones y equipos de
+la industria química.
+b) Se ha determinado el uso de estos materiales en función de su uso y características y posibles
+alteraciones por corrosión, fatiga u otros.
+c) Se han analizado las propiedades físicas (resistencia, límite elástico, ductilidad, maleabilidad,
+maquinabilidad, entre otras) de los materiales.
+d) Se han identificado los problemas de conservación y mantenimiento de las instalaciones y de
+los elementos susceptibles de desgastes o daños.
+e) Se han descrito los tipos y mecanismos de corrosión que se produce en los equipos e
+instalaciones de la industria.
+f) Se han identificado los factores que influyen en la corrosión de los materiales.
+g) Se han establecido los mecanismos de prevención contra la corrosión.
+h) Se han descrito los principales mecanismos de degradación en materiales no metálicos.
+2. Analiza los elementos mecánicos de equipos, máquinas e instalaciones, reconociendo la
+función que realizan.
+Criterios de evaluación:
+a) Se han identificado los grupos mecánicos y electromecánicos de las máquinas.
+b) Se han analizado las técnicas de mecanizado más frecuentes.
+c) Se ha descrito la función que realizan los mecanismos que constituyen los grupos mecánicos
+de las máquinas.
+d) Se han clasificado los grupos mecánicos por la transformación que realizan los distintos
+mecanismos.
+e) Se han identificado las partes o puntos críticos de los elementos y piezas donde pueden
+aparecer desgastes.
+f) Se han descrito las técnicas de lubricación de los elementos mecánicos.
+g) Se ha analizado el plan de mantenimiento, las instrucciones de mantenimiento básico o primer
+nivel siguiendo la documentación técnica de las máquinas y elementos mecánicos
+h) Se han descrito las medidas de prevención y seguridad de las máquinas.
+3. Caracteriza instalaciones hidráulicas y neumáticas valorando su intervención en el proceso
+químico.
+Criterios de evaluación:
+a) Se han identificado la estructura y componentes que configuran las instalaciones hidráulicas
+y neumáticas.
+b) Se han analizado los planos y las especificaciones técnicas relativas a las instalaciones
+hidráulicas y neumáticas.
+c) Se han clasificado por su tipología y su función los distintos elementos que constituyen las
+instalaciones hidráulicas y neumáticas.
+d) Se ha explicado la secuencia de funcionamiento de los sistemas neumáticos e hidráulicos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33199
+e) Se han descrito las distintas áreas de aplicación de las instalaciones hidráulicas y neumáticas
+en los procesos industriales.
+f) Se ha analizado el plan de mantenimiento, las instrucciones de mantenimiento básico o primer
+nivel siguiendo la documentación técnica de las instalaciones hidráulicas y neumáticas.
+g) Se han descrito las medidas de prevención y seguridad de las máquinas.
+4. Identifica las máquinas eléctricas relacionándolas con su finalidad dentro del proceso.
+Criterios de evaluación:
+a) Se han definido los principios eléctricos y electromagnéticos.
+b) Se han analizado las instalaciones eléctricas aplicadas a los equipos e instalaciones de los
+procesos industriales.
+c) Se ha detallado el principio físico de los distintos tipos de dispositivos de seguridad de
+protección de líneas y receptores eléctricos.
+d) Se han identificado las máquinas eléctricas en función de su utilización en los equipos e
+instalaciones.
+e) Se han clasificado las máquinas eléctricas por su tipología y su función.
+f) Se ha definido el principio de funcionamiento y las características de los transformadores
+monofásicos y trifásicos.
+g) Se ha explicado el principio de funcionamiento y características de las máquinas eléctricas
+(generadores de CC, motores CC y CA y alternadores).
+h) Se ha identificado la tipología de las redes de distribución eléctrica de baja y alta tensión.
+i) Se ha definido la simbología eléctrica.
+j) Se ha analizado el plan de mantenimiento, las instrucciones de mantenimiento básico o primer
+nivel de las máquinas y dispositivos eléctricos, siguiendo su documentación técnica.
+k) Se han descrito las medidas de prevención y seguridad de las máquinas eléctricas.
+5. Caracteriza acciones de mantenimiento justificando su necesidad.
+Criterios de evaluación:
+a) Se ha establecido el plan de mantenimiento y de conservación de los equipos e instalaciones.
+b) Se ha analizado las condiciones del área de trabajo para la realización de los trabajos de
+mantenimiento, mediante los ensayos establecidos.
+c) Se han identificado los criterios establecidos para autorizar los permisos de los trabajos de
+mantenimiento.
+d) Se han descrito las operaciones de verificación de los trabajos de mantenimiento.
+e) Se ha descrito la correcta señalización de equipos e instalaciones, (aislamientos eléctricos,
+aislamiento físico, equipos de emergencias, medios de comunicación, entre otros) para la
+ejecución de los trabajos de mantenimiento.
+f) Se han descrito las señales de disfunción más frecuentes de los equipos e instalaciones.
+g) Se han determinado las operaciones de mantenimiento de primer nivel.
+h) Se han analizado las modificaciones derivadas del mantenimiento para la optimización del
+proceso.
+i) Se ha supervisado el correcto registro de los documentos relativos al mantenimiento y
+conservación de los equipos e instalaciones.
+Módulo Profesional: Organización y gestión de la fabricación de productos farmacéuticos,
+biotecnológicos y afines.
+Duración: 130 horas.
+Código: 1387
+Resultados de aprendizaje y criterios de evaluación
+1.Define la organización y áreas funcionales de una empresa farmacéutica o biotecnológica,
+reconociendo los mecanismos de relación internos y externos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33200
+Criterios de evaluación:
+a) Se han identificado los diferentes tipos de empresas del sector.
+b) Se han caracterizado las áreas funcionales de una industria farmacéutica o biotecnológica.
+c) Se han establecido los criterios para diseñar la organización de las empresas del sector.
+d) Se ha reconocido el personal adscrito a las distintas áreas y su función.
+e) Se ha elaborado un organigrama explicativo de las relaciones organizativas y funcionales
+internas de la empresa.
+f) Se ha elaborado un organigrama explicativo de las relaciones organizativas y funcionales
+externas de la empresa.
+g) Se ha descrito el flujo de información interna y externa relativa a la planificación, calidad y
+seguridad de los procesos.
+h) Se han explicado los mecanismos de relación entre los departamentos como parte
+imprescindible de la optimización de procesos, aumento de la calidad y mejora de la coordinación
+global del proceso.
+2.Caracteriza las normas de correcta fabricación y buenas prácticas de distribución,
+relacionándolas con la seguridad y trazabilidad del producto obtenido.
+Criterios de evaluación:
+a) Se ha reconocido la importancia de establecer normas y guías para la correcta fabricación y
+buenas prácticas de distribución, en el sector farmacéutico y biotecnológico.
+b) Se ha reconocido el objetivo y alcance de las normas de correcta fabricación (NCF) y la guía
+de fabricación como elemento fundamental de la documentación del lote.
+c) Se han identificado los principios de calidad establecidos por las NCF y las responsabilidades
+de producción y de la unidad de calidad.
+d) Se ha planificado la periodicidad de las auditorías internas y de las revisiones de calidad del
+producto.
+e) Se ha especificado la cualificación y la responsabilidad del personal.
+f) Se han evaluado las medidas para minimizar los riesgos de contaminación y contaminación
+cruzada.
+g) Se han definido las instalaciones, áreas y servicios auxiliares, así como su higiene y
+mantenimiento.
+h) Se han descrito los equipos de proceso y los procedimientos de mantenimiento, limpieza y
+calibración.
+i) Se ha comprobado la validación de los sistemas informáticos, los procedimientos de
+funcionamiento y mantenimiento, así como el sistema de copias de seguridad.
+j) Se ha descrito la recepción, cuarentena, toma de muestras, análisis y almacenamiento de
+materias primas, así como los controles de producción, en proceso y de laboratorio.
+k) Se ha descrito el envasado, etiquetado, almacenamiento y distribución del producto.
+l) Se ha regulado el rechazo, reutilización de materiales y la retirada del mercado.
+m) Se han definido la gestión de reclamaciones, las investigaciones asociadas y la retirada del
+mercado.
+3. Aplica la guía de fabricación de un proceso farmacéutico o biotecnológico, siguiendo las
+normas de correcta fabricación.
+Criterios de evaluación:
+a) Se han elaborado, revisado, aprobado y distribuido los documentos empleados en la
+fabricación de productos intermedios o principios activos.
+b) Se ha definido el control de emisión, revisión, sustitución y retirada de documentos.
+c) Se ha definido el período de conservación de los documentos.
+d) Se han hecho anotaciones, o correcciones en los registros, siguiendo los procedimientos.
+e) Se han archivado los registros siguiendo procedimientos.
+f) Se ha elaborado el método patrón para la elaboración de un intermedio o una sustancia activa.
+g) Se ha hecho el registro de producción de un lote.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33201
+h) Se ha cubierto un registro del laboratorio de control.
+i) Se ha comprobado si un lote cumple las especificaciones para ser liberado.
+j) Se han registrado las incidencias y desviaciones durante el proceso de fabricación.
+4. Organiza las actividades de un área de trabajo, analizando los requerimientos planteados y
+las posibilidades de mejora.
+Criterios de evaluación:
+a) Se han identificado, en la planificación, las prioridades de producción.
+b) Se han detectado los puntos del proceso donde se producen tiempos muertos y se han
+identificado los errores más frecuentes.
+c) Se han definido criterios de optimización de la productividad y seguridad.
+d) Se han determinado las actividades de recepción y referenciado de los materiales.
+e) Se ha fijado la secuencia de las operaciones en todos y cada uno de los componentes de los
+sistemas de fabricación.
+f) Se ha elaborado la información necesaria para la preparación del personal de producción.
+g) Se ha establecido el flujo de información entre el área de producción y los demás
+departamentos.
+h) Se ha valorado el aumento de la automatización del proceso.
+i) Se ha propuesto la implantación de innovaciones.
+5. Caracteriza la normativa sobre autorización, farmacovigilancia de medicamentos y obligación
+de confidencialidad de los procedimientos de una empresa, analizando sus fundamentos.
+Criterios de evaluación:
+a) Se ha descrito el procedimiento de autorización, registro y condiciones de dispensación de los
+medicamentos.
+b) Se ha descrito el procedimiento de autorización y registro de los laboratorios fabricantes de
+medicamentos y de las industrias de fabricación de principios activos farmacéuticos y afines.
+c) Se han analizado los protocolos para la realización de pruebas con medicamentos.
+d) Se han descrito los procedimientos de farmacovigilancia de medicamentos.
+e) Se han caracterizado las distintas formas de proteger la propiedad industrial.
+f) Se han descrito las ventajas e inconvenientes de cada tipo de protección de la propiedad
+industrial.
+g) Se ha caracterizado la información confidencial.
+h) Se ha descrito como proteger la información confidencial de una empresa.
+i) Se han descrito los límites de la obligación de confidencialidad y secreto.
+Módulo Profesional: Control de calidad de productos farmacéuticos, biotecnológicos y afines.
+Duración: 204 horas.
+Código: 1388.
+Resultados de aprendizaje y criterios de evaluación.
+1. Aplica sistemas de control de calidad en los procesos de fabricación y acondicionamiento de
+productos farmacéuticos, biotecnológicos y afines, garantizando su funcionamiento y
+trazabilidad.
+Criterios de evaluación:
+a) Se han identificado los factores de las instalaciones que se deben controlar, para garantizar
+la calidad de los productos.
+b) Se ha identificado la influencia de los parámetros de calidad en la obtención de productos
+finales.
+c) Se han interpretado las normas y protocolos de fabricación y análisis propios del sector de
+producción.
+d) Se han identificado los parámetros de control en el proceso de fabricación del producto.
+e) Se han identificado los equipos de medida, comprobando su calibración y mantenimiento.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33202
+f) Se han analizado los controles de las diferentes operaciones de acondicionado para asegurar
+el desarrollo del proceso.
+g) Se ha comprobado la trazabilidad del producto.
+h) Se han elaborado los informes técnicos de producción y control de proceso, incluyendo el
+tratamiento de datos.
+i) Se ha comprobado la aplicación de la normativa de prevención de riesgos y protección
+ambiental en el control del proceso.
+2. Interpreta planes de ensayos y análisis de procesos de fabricación de productos
+farmacéuticos, biotecnológicos y afines, relacionándolos con criterios de aseguramiento de la
+calidad.
+Criterios de evaluación:
+a) Se han identificado los sistemas de comprobación de la calidad de materias primas, productos
+intermedios y finales.
+b) Se han definido los métodos de determinación de los parámetros representativos de los
+productos y del proceso.
+c) Se han identificado las técnicas y equipos necesarios para la determinación de los parámetros
+de control de calidad.
+d) Se han identificado los puntos de toma de muestras para ensayos y análisis.
+e) Se ha elaborado un procedimiento normalizado de trabajo (PNT), que establece los criterios
+del plan de ensayos y análisis, en el proceso y en laboratorio.
+f) Se han determinado los ensayos y análisis en línea, y los que deben ser realizados en el
+laboratorio.
+g) Se ha relacionado el plan de análisis y sus resultados con los riesgos medioambientales.
+h) Se han elaborado documentos de registro de resultados.
+3. Toma muestras según el plan de muestreo, utilizando los procedimientos y recursos de cada
+etapa.
+Criterios de evaluación:
+a) Se ha definido el procedimiento normalizado de muestreo.
+b) Se han distinguido los métodos de muestreo, manual o automático de una sustancia en
+proceso o producto final.
+c) Se ha establecido la frecuencia y las condiciones que deben ser especificadas en un
+procedimiento de toma de muestras.
+d) Se han identificado los equipos e instrumental para la toma de muestras, según el estado y
+condiciones físicas de la materia.
+e) Se han establecido el número de muestras y el tamaño de las mismas para obtener una
+muestra representativa.
+f) Se ha efectuado la toma de muestras y su traslado, garantizando su representatividad,
+controlando las contaminaciones y alteraciones.
+g) Se han descrito los procedimientos de registro, etiquetado, transporte y almacenamiento,
+asegurando su trazabilidad.
+h) Se han aplicado técnicas de muestreo según normativa de prevención de riesgos y protección
+ambiental.
+4. Realiza ensayos físicos y fisicoquímicos para controlar la calidad de los productos, aplicando
+técnicas estandarizadas.
+Criterios de evaluación:
+a) Se han definido las propiedades físicas y fisicoquímicas más importantes, y sus unidades de
+medida.
+b) Se han identificado los principales parámetros físicos y fisicoquímicos que intervienen en el
+proceso de fabricación.
+c) Se ha manipulado correctamente el material en la realización de ensayos físicos con aparatos
+simples, respetando las medidas de seguridad.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33203
+d) Se han analizado las características organolépticas que deben ser consideradas en la
+verificación de materias primas y productos acabados, en función de su estado físico y forma de
+presentación.
+e) Se ha seleccionado el método de ensayo basándose en la precisión y exactitud de la medida.
+f) Se han realizado ensayos físicos y fisicoquímicos, utilizando procedimientos normalizados de
+ensayo.
+g) Se han realizado los ensayos, aplicando la normativa de prevención de riesgos y protección
+medioambiental.
+h) Se ha realizado un informe técnico interpretando los resultados.
+5. Realiza análisis químico cuantitativo para controlar la calidad de los productos en proceso,
+aplicando técnicas estandarizadas.
+Criterios de evaluación:
+a) Se han enunciado los fundamentos de las diferentes técnicas analíticas.
+b) Se ha preparado la muestra en función de la técnica analítica que se va a emplear.
+c) Se han identificado los principales parámetros químicos del proceso.
+d) Se han seleccionado las técnicas analíticas relacionándolas con el tipo de muestra y el rango
+de medida.
+e) Se han realizado análisis de muestras, aplicando técnicas analíticas gravimétricas y
+volumétricas.
+f) Se han efectuado análisis de muestras, aplicando técnicas instrumentales.
+g) Se han realizado los ensayos, aplicando la normativa de prevención de riesgos y protección
+medioambiental.
+h) Se ha realizado un informe técnico interpretando los resultados.
+6. Realiza ensayos microbiológicos o biotecnológicos para controlar la calidad de los productos,
+aplicando técnicas estandarizadas.
+Criterios de evaluación:
+a) Se han diferenciado las variables que hay que considerar en la toma de muestras de productos
+estériles y no estériles.
+b) Se han identificado los equipos empleados en la toma de muestras de productos estériles, así
+como los envases para su conservación.
+c) Se ha establecido el método de verificación de la eficacia de esterilización en función del
+procedimiento de esterilización, verificando sus puntos críticos.
+d) Se han definido los tipos de pruebas de seguridad y las clases de sustancias sobre las que se
+realizan ensayos de esterilidad.
+e) Se ha evaluado la eficacia de antioxidantes y antimicrobianos en los productos finales.
+f) Se ha valorado la influencia sobre la estabilidad del producto, de los agentes conservantes,
+antioxidantes y esterilizantes, así como de los envases en contacto con el mismo.
+g) Se han realizado análisis microbiológicos y ensayos biotecnológicos, según la normativa de
+prevención de riesgos y protección ambiental.
+h) Se ha elaborado un informe técnico interpretando los resultados.
+Módulo Profesional: Operaciones básicas en la industria farmacéutica, biotecnológica y afines.
+Duración: 204 horas.
+Código: 1389.
+Resultados de aprendizaje y criterios de evaluación.
+1. Caracteriza las operaciones difusionales y asegura el correcto funcionamiento de los equipos
+de preparación de materias primas y productos, relacionándolas con su función en el proceso
+productivo.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33204
+Criterios de evaluación:
+a) Se han clasificado las operaciones difusionales en la producción de materias primas y
+productos.
+b) Se han descrito los principales principios fisicoquímicos de las diferentes operaciones básicas.
+c) Se han seleccionado los equipos utilizados en las operaciones difusionales y se han descrito
+sus elementos constructivos.
+d) Se ha establecido la secuencia de puesta en marcha y parada de los equipos.
+e) Se ha verificado el correcto funcionamiento de los equipos, detectando las posibles
+desviaciones con respecto al programa de trabajo.
+f) Se ha comprobado el cumplimiento del plan de mantenimiento de los equipos.
+g) Se han asegurado la limpieza, la desinfección y el orden en el área de fabricación.
+h) Se han realizado los balances de materia y energía.
+2. Determina las operaciones de separación mecánica de preparación de materias primas y
+productos, relacionándolas con sus propiedades.
+Criterios de evaluación:
+a) Se han definido las técnicas de separación mecánica en la producción de materias primas y
+productos.
+b) Se han descrito los principios fisicoquímicos de las diferentes operaciones mecánicas.
+c) Se han definido los equipos e instalaciones, y sus elementos constituyentes, para las
+operaciones básicas mecánicas.
+d) Se ha establecido la secuencia de puesta en marcha y parada de los equipos.
+e) Se ha verificado el correcto funcionamiento de los equipos, detectando las posibles
+desviaciones con respecto al programa de trabajo.
+f) Se ha asegurado la limpieza, la desinfección y el orden en el área de fabricación.
+g) Se han preparado los equipos para las operaciones de mantenimiento.
+h) Se han realizado los balances de materia y energía.
+3. Determina operaciones de galénica de preparación de materias primas y productos,
+relacionándolas con su función en el proceso productivo.
+Criterios de evaluación:
+a) Se han clasificado las operaciones básicas en la producción de materias primas y productos.
+b) Se han descrito los principios fisicoquímicos de las diferentes operaciones básicas.
+c) Se han definido los diferentes parámetros que inciden en el proceso de fabricación.
+d) Se han caracterizado los sistemas dispersos.
+e) Se han definido los equipos e instalaciones y sus elementos constituyentes para las
+operaciones básicas y de galénica industrial.
+f) Se ha establecido la secuencia de puesta en marcha y parada de los equipos.
+g) Se ha verificado el correcto funcionamiento de los equipos.
+h) Se han asegurado la limpieza, la desinfección y el orden en el área de fabricación.
+i) Se han detectado las posibles desviaciones con respecto al programa de trabajo.
+j) Se han realizado los cálculos numéricos mediante los balances de materia y energía.
+4. Opera reactores, controlando las variables implicadas.
+Criterios de evaluación:
+a) Se han definido los principios de reacción química.
+b) Se han clasificado las reacciones químicas más comunes para los procesos de fabricación
+farmacéutica.
+c) Se ha establecido un balance de materia y de energía para calcular el rendimiento.
+d) Se han descrito los diferentes tipos de reactores y sus elementos constituyentes.
+e) Se han determinado las condiciones iniciales de reacción.
+f) Se ha seleccionado el catalizador en función de su influencia en el rendimiento de la reacción.
+g) Se ha determinado la vida útil del catalizador.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33205
+h) Se ha establecido la secuencia de puesta en marcha y parada de los equipos de reacción.
+i) Se ha verificado el correcto funcionamiento del reactor.
+j) Se han descrito las técnicas de recuperación/regeneración del catalizador.
+k) Se han asegurado la limpieza, la desinfección y el orden en el área de fabricación.
+l) Se han detectado las posibles desviaciones con respecto al programa de trabajo.
+5. Aplica las normas de prevención de riesgos laborales y de protección ambiental, identificando
+los riesgos asociados a los equipos.
+Criterios de evaluación:
+a) Se han identificado los riesgos y el nivel de peligrosidad que suponen los equipos de reacción
+y los equipos de separaciones básicas.
+b) Se han descrito las medidas de seguridad y de protección personal y colectiva que se deben
+adoptar en la ejecución de las operaciones.
+c) Se han identificado las causas más frecuentes de accidentes en la manipulación de los
+productos y equipos de trabajo empleados.
+d) Se ha valorado el orden y la limpieza de instalaciones y equipos como primer factor de
+prevención de riesgos.
+e) Se han clasificado los residuos generados para su retirada selectiva.
+f) Se ha cumplido la normativa de prevención de riesgos laborales y de protección ambiental en
+las operaciones realizadas.
+Módulo Profesional: Principios de biotecnología.
+Duración: 138 horas.
+Código: 1390.
+Resultados de aprendizaje y criterios de evaluación.
+1. Determina los organismos de interés biotecnológico, identificando sus propiedades y
+aplicaciones biotecnológicas.
+Criterios de evaluación:
+a) Se han reconocido las propiedades estructurales, bioquímicas y fisiológicas que caracterizan
+y distinguen a los microorganismos.
+b) Se han clasificado los principales microorganismos empleados en los procesos de producción
+biotecnológica.
+c) Se han reconocido las propiedades estructurales, bioquímicas y fisiológicas de las células
+vegetales y animales.
+d) Se han identificado las propiedades estructurales, bioquímicas y fisiológicas de los virus que
+infectan tanto a los microorganismos, como a los vegetales y los animales.
+e) Se han clasificado los principales virus empleados en los procesos de producción
+biotecnológica.
+f) Se han clasificado los vegetales y animales utilizados en los procesos de producción de
+productos biotecnológicos.
+g) Se han descrito los principales componentes y accesorios de los diferentes tipos de lupas y
+microscopios.
+h) Se han aplicado diferentes técnicas de observación con lupas y microscopios, para la
+identificación, clasificación y cuantificación de microorganismos.
+2. Aplica técnicas cromatográficas para identificar metabolitos celulares, describiendo sus
+características.
+Criterios de evaluación:
+a) Se ha reconocido la estructura y propiedades de los nucleótidos, aminoácidos, lípidos y
+azúcares.
+b) Se han identificado las aplicaciones biotecnológicas de nucleótidos, aminoácidos, lípidos y
+carbohidratos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33206
+c) Se han clasificado las vitaminas y las principales coenzimas que se producen en los seres
+vivos.
+d) Se han identificado los principales alcoholes, ácidos orgánicos y sustancias antioxidantes de
+origen biológico que poseen importancia biotecnológica.
+e) Se han clasificado los principales antibióticos sobre la base de su función y su origen
+microbiológico.
+f) Se han identificado los equipos, componentes y principales accesorios de los diferentes
+sistemas cromatográficos.
+g) Se ha seleccionado la técnica cromatográfica apropiada para separar e identificar un
+metabolito.
+h) Se han aplicado distintos tipos de cromatografías para la separación de diferentes metabolitos
+presentes en muestras biológicas estándar.
+3. Aplica técnicas de extracción y separación para identificar macromoléculas celulares,
+describiendo sus características.
+Criterios de evaluación:
+a) Se han clasificado las macromoléculas presentes en los organismos.
+b) Se ha definido la composición, las propiedades físico-químicas, y las funciones de los ácidos
+nucleicos.
+c) Se han identificado las aplicaciones biotecnológicas de los ácidos nucleicos.
+d) Se ha definido la composición, las propiedades fisicoquímicas, y las funciones de las proteínas.
+e) Se han descrito las aplicaciones biotecnológicas de las proteínas.
+f) Se ha definido la composición, las propiedades fisicoquímicas y las funciones de los
+polisacáridos.
+g) Se han enumerado las aplicaciones biotecnológicas de los polisacáridos.
+h) Se han clasificado las operaciones de extracción, purificación y cuantificación de
+macromoléculas.
+i) Se han aplicado operaciones de extracción, purificación y cuantificación de material genético,
+proteínas y polisacáridos.
+j) Se han identificado los equipos, componentes y accesorios, de los diferentes sistemas de
+electroforesis utilizados para separar e identificar macromoléculas.
+k) Se han aplicado distintos tipos de electroforesis para la separación de diferentes
+macromoléculas presentes en muestras biológicas estándar.
+4. Identifica los procesos metabólicos, relacionándolos con el desarrollo celular.
+Criterios de evaluación:
+a) Se ha caracterizado el metabolismo primario y el secundario.
+b) Se han reconocido los fundamentos de la regulación metabólica.
+c) Se han descrito las bases de los procesos de replicación, transcripción y traducción del ADN.
+d) Se ha definido el concepto de transporte y el papel de la membrana celular.
+e) Se han descrito los fundamentos del metabolismo energético.
+f) Se han identificado los procesos de biosíntesis y degradación de los principales metabolitos
+celulares (azúcares, aminoácidos, lípidos y nucleótidos).
+g) Se han clasificado los equipos y técnicas para realizar ensayos enzimáticos.
+h) Se han medido actividades enzimáticas claves en el metabolismo celular, utilizando distintas
+células.
+5. Aplica técnicas de modificación genética, identificando sus ventajas para la mejora de la
+producción.
+Criterios de evaluación:
+a) Se han clasificado las enzimas utilizadas para la manipulación in vitro del material genético.
+b) Se han utilizado diferentes enzimas para manipular el material genético.
+c) Se han descrito los conceptos de gen y de cromosoma en los organismos procariotas y
+eucariotas.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33207
+d) Se han descrito los procedimientos para la identificación de genes (hibridación, PCR y
+secuenciación).
+e) Se ha utilizado un PCR para la amplificación de un gen a partir de un ADN estándar.
+f) Se han descrito los métodos de transformación genética de los organismos procariotas y
+eucariotas.
+g) Se han transformado genéticamente distintas bacterias estándar mediante procedimientos
+naturales y artificiales.
+h) Se han reconocido los vectores utilizados para la clonación de genes y la creación de librerías
+genéticas.
+i) Se han preparado vectores de clonación a partir de bacterias.
+j) Se han identificado los sistemas de expresión de genes para su aplicación en procesos
+biotecnológicos.
+k) Se han analizado los niveles de producción de una bacteria transformada con un sistema de
+expresión de un gen testigo estándar.
+l) Se han reconocido los métodos de mutagénesis in vivo e in vitro y los sistemas de selección
+de los mutantes generados.
+m) Se han aplicado técnicas de mutagénesis sobre bacterias transformadas con sistemas de
+expresión basados en genes testigo estándar.
+n) Se han descrito los fundamentos básicos de la ingeniería de proteínas y metabólica.
+6. Aplica las técnicas básicas de la bioinformática, identificando sus aplicaciones en los procesos
+biotecnológicos.
+Criterios de evaluación:
+a) Se han identificado los programas informáticos necesarios para el procesamiento de la
+información de interés en biotecnología.
+b) Se han caracterizado los procedimientos de instalación de los programas informáticos de
+acuerdo con las guías correspondientes y con las instrucciones recibidas.
+c) Se han identificado las principales bases de datos de interés en biotecnología y las
+herramientas de navegación.
+d) Se han descrito las principales técnicas de bioinformática para el análisis genómico.
+e) Se han descrito las principales técnicas de bioinformática para el análisis proteómico.
+f) Se han reconocido los algoritmos y las estrategias básicas para realizar cálculos estadísticos
+sobre conjuntos de datos biológicos.
+g) Se han identificado los procedimientos para el almacenamiento de la información relevante en
+bases de datos, estableciendo copias de seguridad.
+Módulo Profesional: Seguridad en la industria farmacéutica, biotecnológica y afines.
+Duración: 73 horas.
+Código: 1391.
+Resultados de aprendizaje y criterios de evaluación.
+1. Caracteriza los tipos de riesgos, relacionándolos con el proceso productivo en las industrias
+farmacéutica, biotecnológica y afines.
+Criterios de evaluación:
+a) Se han identificado los contaminantes químicos según su naturaleza y composición.
+b) Se han valorado los riesgos de los productos químicos y los factores determinantes de su
+peligrosidad.
+c) Se han clasificado los contaminantes físicos derivados del microclima del lugar de trabajo.
+d) Se han descrito las posibles vías de entrada de los agentes biológicos.
+e) Se han clasificado los agentes biológicos según su naturaleza y grupos de riesgo, de acuerdo
+con la normativa.
+f) Se han definido los principales puntos que hay que vigilar en la puesta en marcha de los
+equipos, en los ensayos que hay que efectuar y en el proceso.
+g) Se han identificado los riesgos propios de los equipos y líneas que trabajan a presión o a
+vacío.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33208
+h) Se han descrito los principales riesgos asociados a las plantas de producción biotecnológica.
+i) Se han descrito los riesgos propios de los equipamientos, de las máquinas y de las
+instalaciones presentes en un laboratorio o en una planta de producción biotecnológica.
+j) Se han identificado las principales fuentes de radiaciones ionizantes y los efectos biológicos
+de las radiaciones.
+2. Caracteriza las instalaciones de seguridad, equipos y dispositivos de prevención de riesgos,
+interpretando la normativa de seguridad.
+Criterios de evaluación:
+a) Se han clasificado los distintos tipos de dispositivos de seguridad.
+b) Se han identificado las instalaciones de seguridad de una planta de procesos.
+c) Se han determinado los elementos de seguridad asociados a los riesgos de los equipos.
+d) Se han clasificado los equipos de protección individual según el tipo de riesgo.
+e) Se han identificado las principales señalizaciones de seguridad en las instalaciones,
+relacionándolas con el factor de riesgo.
+f) Se han identificado los pictogramas y frases de riesgo y prudencia.
+g) Se han interpretado fichas de seguridad en la manipulación de productos.
+h) Se han reconocido las instalaciones y medios de prevención de incendios.
+i) Se ha realizado el cálculo de la carga de fuego de las áreas de trabajo.
+j) Se han identificado los sistemas de protección radiológica.
+3. Aplica las medidas de seguridad, atendiendo a los procedimientos y métodos de trabajo.
+Criterios de evaluación:
+a) Se han aplicado las normas de seguridad en la manipulación de sustancias en las distintas
+operaciones.
+b) Se han utilizado fichas de seguridad en la manipulación de productos.
+c) Se han aplicado las normas de seguridad de las instalaciones con riesgo químico o biológico.
+d) Se han identificado las medidas de seguridad en la limpieza de máquinas y equipos.
+e) Se han aplicado las normas de seguridad en el mantenimiento de equipos e instalaciones.
+f) Se ha realizado un análisis de riesgos.
+g) Se han descrito los métodos de extinción para los distintos tipos de fuego.
+4. Aplica medidas de protección ambiental, relacionándolas con la normativa.
+Criterios de evaluación:
+a) Se han identificado las normas de protección ambiental.
+b) Se han descrito los puntos críticos de los equipos de producción o de depuración que puedan
+afectar al medio ambiente.
+c) Se han descrito los procesos susceptibles de producir contaminación, así como el tipo de
+contaminación que producen.
+d) Se han realizado medidas de contaminantes in situ en la planta.
+e) Se han determinado las condiciones del agua efluente.
+f) Se han determinado las condiciones de la calidad del aire.
+g) Se han gestionado los residuos.
+h) Se ha valorado la importancia de aplicar medidas de protección ambiental.
+i) Se ha descrito el programa de vigilancia de la contaminación atmosférica.
+5. Define actuaciones ante situaciones de emergencia en un proceso farmacéutico,
+biotecnológico y afín, relacionándolas con los requerimientos de seguridad.
+Criterios de evaluación:
+a) Se ha descrito la estructura de un plan de emergencia.
+b) Se ha realizado una evaluación del riesgo de una instalación de elaboración de productos
+farmacéuticos, biotecnológicos y afines.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33209
+c) Se han descrito las acciones frente a las posibles emergencias que se pueden dar.
+d) Se han definido las funciones de los miembros de los distintos equipos de emergencia.
+e) Se han descrito las instrucciones y consignas del plan de emergencia.
+f) Se han definido las condiciones de evacuación en caso de emergencia.
+g) Se ha descrito la actuación ante un incendio, explosión y otros.
+h) Se ha descrito la actuación ante un derrame o fuga de un producto peligroso.
+i) Se ha descrito la actuación ante un accidentado.
+Módulo Profesional: Áreas y servicios auxiliares en la industria farmacéutica, biotecnológica y
+afines.
+Duración: 110 horas.
+Código: 1392.
+Resultados de aprendizaje y criterios de evaluación.
+1.Caracteriza las áreas de una planta de producción de productos farmacéuticos, biotecnológicos
+y afines, relacionándolas con los requisitos de calidad, ambientales e higiénicos.
+Criterios de evaluación:
+a) Se han descrito las diferentes áreas que conforman la industria farmacéutica, biotecnológica
+y afines.
+b) Se han definido las exigencias técnicas y los factores ambientales que se deben aplicar en
+todas las áreas.
+c) Se ha relacionado la necesidad del mantenimiento de las condiciones higiénico sanitarias
+establecidas en las áreas de producción, con la calidad final del producto.
+d) Se han identificado los servicios auxiliares, relacionándolos con su funcionalidad en el proceso.
+e) Se han descrito los instrumentos, equipos, instalaciones auxiliares y sus elementos
+constituyentes.
+f) Se ha valorado la importancia de los equipos e instalaciones auxiliares en la fabricación de
+productos farmacéuticos, biotecnológicos y afines.
+g) Se ha identificado la simbología utilizada en los locales y los diagramas de los equipos e
+instalaciones.
+h) Se han identificado las medidas de prevención de riesgos y de protección ambiental.
+2. Opera con equipos e instalaciones de purificación de agua, relacionándolos con las
+necesidades del proceso.
+Criterios de evaluación:
+a) Se han definido las técnicas de obtención de agua con calidad farmacéutica, para su uso en
+la fabricación de productos farmacéuticos, productos estériles y afines.
+b) Se han determinado los posibles tratamientos del agua, relacionándolos con la calidad
+requerida.
+c) Se han caracterizado las impurezas presentes en el agua, relacionándolas con los procesos
+de purificación requeridos para su uso.
+d) Se han definido los diferentes equipos de tratamiento y purificación de aguas y sus elementos
+constituyentes en función de los requerimientos del proceso.
+e) Se han realizado las operaciones de puesta en marcha, seguimiento y parada de los equipos
+e instalaciones de tratamiento de agua.
+f) Se han realizado los trabajos de mantenimiento básico de los equipos e instalaciones
+auxiliares.
+g) Se han seguido las normas de orden, limpieza, prevención de riesgos y protección ambiental.
+3. Opera con instalaciones de suministro de aire y otros gases, cumpliendo la normativa vigente.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33210
+Criterios de evaluación:
+a) Se han definido las características necesarias de aire para la climatización de zonas y áreas,
+relacionándolas con las necesidades de fabricación de productos farmacéuticos, estériles y
+afines.
+b) Se han descrito las técnicas de limpieza del aire en las áreas de fabricación.
+c) Se ha descrito el tratamiento y el proceso para el acondicionamiento del aire, relacionándolo
+con la calidad requerida en el proceso.
+d) Se han identificado los gases más comunes requeridos en los procesos de fabricación de
+productos farmacéuticos y afines, relacionándolos con su funcionalidad.
+e) Se han determinado los parámetros que se deben controlar en el aire y otros gases para el
+proceso de producción.
+f) Se han definido los diferentes equipos de suministro de gases, y sus elementos constituyentes,
+en función de los requerimientos del proceso.
+g) Se han realizado las operaciones de puesta en marcha, seguimiento y parada de los equipos
+e instalaciones de suministro de gases.
+h) Se ha comprobado el cumplimiento del plan de mantenimiento de los equipos e instalaciones.
+i) Se han seguido las normas de orden, limpieza, prevención de riesgos y protección ambiental.
+4. Opera con equipos de presión y vacío, siguiendo los procedimientos normalizados de trabajo.
+Criterios de evaluación:
+a) Se ha identificado la normativa vigente en equipos de presión.
+b) Se han clasificado los equipos de presión.
+c) Se han determinado los parámetros que se han de controlar en las instalaciones de presión y
+vacío.
+d) Se han definido los diferentes equipos de presión y vacío y sus elementos constituyentes, en
+función de los requerimientos del proceso.
+e) Se han controlado las operaciones de puesta en marcha, seguimiento y parada de los equipos
+e instalaciones de vacío.
+f) Se ha comprobado que los equipos hayan pasado las inspecciones periódicas reglamentarias.
+g) Se ha comprobado el cumplimiento del plan de mantenimiento de los equipos e instalaciones.
+h) Se han seguido las normas de orden, limpieza, prevención de riesgos y protección ambiental.
+5. Maneja sistemas de producción de calor y frío, relacionando las condiciones ambientales con
+las requeridas para el desarrollo de los procesos.
+Criterios de evaluación:
+a) Se han identificado los equipos e instalaciones de producción de calor.
+b) Se han definido los equipos, instalaciones y los elementos constituyentes para la producción
+de calor.
+c) Se han identificado los equipos e instalaciones de producción de frío.
+d) Se han definido los equipos, instalaciones y los elementos constituyentes para la producción
+de frío.
+e) Se han realizado los cálculos numéricos de rendimiento energético.
+f) Se han determinado los parámetros que se han de controlar en las instalaciones de frío y calor.
+g) Se han realizado las operaciones de puesta en marcha, seguimiento y parada de los equipos
+e instalaciones.
+h) Se ha comprobado el cumplimiento del plan de mantenimiento de los equipos e instalaciones.
+i) Se han valorado las operaciones de optimización del rendimiento energético de los procesos,
+analizando los equipos y líneas de distribución de los sistemas de calefacción y refrigeración.
+j) Se han seguido las normas de orden, limpieza, prevención de riesgos y protección ambiental.
+6. Maneja equipos de transporte de materiales, analizando las características de la instalación
+en función de los productos transportados.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33211
+Criterios de evaluación:
+a) Se han definido las operaciones de transporte en función de la materia que se ha de
+transportar.
+b) Se han determinado las propiedades que caracterizan a los fluidos y a los sólidos.
+c) Se han identificado los equipos, instalaciones y sus elementos constituyentes en el transporte
+de sólidos y fluidos.
+d) Se han determinado los parámetros que se han de controlar en las instalaciones de transporte
+de materias.
+e) Se han minimizado los riesgos de contaminación cruzada.
+f) Se han realizado las operaciones de puesta en marcha, seguimiento y parada en los equipos
+e instalaciones.
+g) Se han supervisado los trabajos de mantenimiento básico de los equipos e instalaciones
+auxiliares de gases.
+h) Se han seguido las normas de orden, limpieza, prevención de riesgos y protección ambiental.
+7. Determina los procesos de sanitización, limpieza y desinfección en una planta de producción,
+relacionándolos con los requerimientos del proceso.
+Criterios de evaluación:
+a) Se han definido los conceptos de sanitización, limpieza y desinfección.
+b) Se han descrito las técnicas de sanitización, limpieza y desinfección de los locales, equipos e
+instalaciones auxiliares.
+c) Se han descrito los productos de limpieza, sanitizantes y desinfectantes utilizados en los
+diferentes procesos.
+d) Se han definido los niveles de desinfección y la capacidad de los desinfectantes.
+e) Se han establecido las etapas del programa de limpieza, sanitización y desinfección.
+f) Se han cumplimentado las actuaciones e incidencias en el soporte adecuado.
+g) Se ha definido la normativa de limpieza, sanitización y desinfección.
+Módulo Profesional: Técnicas de producción biotecnológica.
+Duración: 200 horas.
+Código: 1393.
+Resultados de aprendizaje y criterios de evaluación.
+1. Prepara las instalaciones y los equipos para procesos de producción biotecnológica,
+relacionándolos con su uso o aplicación.
+Criterios de evaluación:
+a) Se han reconocido las instalaciones de que consta una planta de producción biotecnológica.
+b) Se han identificado los equipamientos de uso más frecuente en una planta de producción
+biotecnológica.
+c) Se han identificado los protocolos de trabajo establecidos para el manejo de muestras
+biológicas.
+d) Se han identificado los principales materiales, materias primas y reactivos utilizados en una
+planta de producción biotecnológica.
+e) Se han identificado las barreras de contención de microorganismos para proteger al personal
+y evitar su difusión.
+f) Se han aplicado métodos físicos y químicos de desinfección y esterilización a las instalaciones
+y equipos.
+g) Se han aplicado los procedimientos de eliminación de los residuos biológicos.
+h) Se ha realizado el mantenimiento de equipos y materiales de la planta de producción
+biotecnológica.
+i) Se ha establecido un diagrama detallado del proceso.
+2. Aplica técnicas de cultivo de microorganismos para la producción, siguiendo los
+procedimientos normalizados.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33212
+Criterios de evaluación:
+a) Se han reconocido las instalaciones, equipamientos, materiales y operaciones básicas para el
+trabajo con los microorganismos.
+b) Se han reconocido los reactivos y se han preparado medios de cultivo para el aislamiento y
+cultivo de los microorganismos.
+c) Se han cultivado microorganismos en diferentes medios de cultivo para que sirvan como
+inóculos en los procesos de fermentación a escala industrial.
+d) Se han reconocido las principales técnicas de conservación de los microorganismos para su
+uso industrial.
+e) Se han conservado distintos microorganismos, utilizando los procedimientos más adecuados
+en función de sus características y comprobando posteriormente su viabilidad.
+f) Se han descrito las principales técnicas para la identificación y validación de los
+microorganismos que van a ser utilizados a escala industrial.
+g) Se han reconocido las técnicas microbiológicas específicas que han de utilizarse para trabajar
+a escala industrial con microorganismos manipulados genéticamente.
+3. Aplica técnicas de cultivo de células animales y vegetales para la producción, siguiendo
+procedimientos normalizados.
+Criterios de evaluación:
+a) Se han reconocido las instalaciones, equipamientos, materiales y operaciones básicas para el
+trabajo con células animales y vegetales.
+b) Se han reconocido los diferentes medios para el cultivo de células animales y vegetales.
+c) Se han descrito los diferentes tipos de cultivo en función del origen de las células utilizadas.
+d) Se han realizado cultivos de células, observando su tasa de crecimiento y sus posibilidades
+de escalado a nivel industrial.
+e) Se han reconocido las principales técnicas de conservación de las células animales y
+vegetales para su uso industrial.
+f) Se ha realizado la conservación de células, comprobando posteriormente su viabilidad.
+g) Se han descrito las técnicas para la caracterización de células animales y vegetales.
+h) Se han descrito las principales técnicas instrumentales para la visualización y cuantificación
+de las células animales y vegetales en los cultivos.
+i) Se han cuantificado las células de un cultivo.
+j) Se han reconocido las principales técnicas para el cultivo de células animales y vegetales que
+han sido manipuladas genéticamente.
+4. Caracteriza los biorreactores, relacionándolos con los procesos de producción biotecnológica.
+Criterios de evaluación:
+a) Se han reconocido los principios generales de las operaciones de producción biotecnológica
+con biorreactores.
+b) Se han identificado los componentes básicos, dispositivos auxiliares e instrumentos de medida
+y control de los biorreactores.
+c) Se han diferenciado los principales modelos y configuraciones de los biorreactores que se
+utilizan en los procesos de producción biotecnológica.
+d) Se han reconocido las operaciones básicas para la puesta en marcha de un biorreactor.
+e) Se han identificado las características de los distintos tipos de biorreactores desde la
+perspectiva del tamaño, control, rendimiento y economía del proceso.
+f) Se ha realizado un proceso de producción biotecnológica, utilizando un biorreactor.
+g) Se ha realizado el cálculo del rendimiento, balance de materiales y economía del proceso
+productivo a partir de los datos de sus operaciones.
+5. Caracteriza los procesos de biocatálisis, relacionándolos con la producción biotecnológica.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33213
+Criterios de evaluación:
+a) Se han reconocido los fundamentos de la enzimología, identificando los principales aspectos
+estructurales y funcionales de las enzimas.
+b) Se han reconocido los fundamentos de los procesos de biotransformación mediante catálisis
+enzimática o celular.
+c) Se han clasificado los tipos de enzimas, relacionándolos con sus usos industriales.
+d) Se han descrito los principios fundamentales de la cinética enzimática.
+e) Se han identificado las operaciones para la inmovilización de enzimas y células.
+f) Se han descrito los conceptos fundamentales de la ingeniería de medios de reacción.
+g) Se han descrito las principales técnicas para la mejora de los biotacalizadores, incluyendo las
+técnicas de ingeniería de proteínas.
+h) Se ha realizado un proceso de producción biotecnológica, utilizando un biocatalizador.
+i) Se ha realizado el cálculo del rendimiento, balance de materiales y economía del proceso
+productivo a partir de los datos de sus operaciones.
+6. Reconoce los procesos de producción biotecnológica, relacionándolos con los métodos de
+separación y purificación de los productos finales.
+Criterios de evaluación:
+a) Se han descrito los principios generales de las operaciones de procesado de productos
+biológicos.
+b) Se han descrito los procesos de producción de distintas moléculas de bajo peso molecular, de
+interés farmacéutico, mediante procesos fermentativos.
+c) Se han identificado los diferentes procesos de producción de proteínas recombinantes,
+clasificándolos en función de los distintos tipos de cultivos celulares utilizados.
+d) Se han identificado los procesos de producción de anticuerpos y vacunas mediante cultivos
+celulares.
+e) Se han descrito los procesos de producción de polisacáridos de interés industrial, utilizando
+cultivos de bacterias y hongos.
+f) Se han descrito los sistemas de producción de biomateriales por fermentación.
+g) Se han descrito los principales procesos industriales en los que se utilizan biocatalizadores.
+h) Se ha realizado el cálculo del rendimiento, balance de materiales y economía de las
+operaciones de procesado de los productos biotecnológicos.
+Módulo Profesional: Técnicas de producción farmacéutica y afines.
+Duración: 200 horas.
+Código: 1394.
+Resultados de aprendizaje y criterios de evaluación.
+1.Caracteriza los productos farmacéuticos y afines, relacionándolos con los criterios de
+clasificación y su aplicación.
+Criterios de evaluación:
+a) Se han definido la disposición externa que se da a las sustancias medicamentosas para
+facilitar su administración (en adelante formas farmacéuticas) tanto de los medicamentos como
+de los productos afines.
+b) Se han clasificado los productos farmacéuticos y afines de acuerdo con sus acciones
+farmacológicas y/o usos terapéuticos y su uso externo o interno.
+c) Se han descrito las distintas presentaciones de los medicamentos industriales, fórmulas
+magistrales y preparados oficinales.
+d) Se ha establecido la vía de administración de los productos farmacéuticos.
+e) Se han definido los productos utilizados en la fabricación farmacéutica.
+f) Se han definido las propiedades fisicoquímicas de un principio activo.
+g) Se han determinado los principales factores que afectan a la estabilidad de un medicamento.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33214
+2. Caracteriza los procedimientos y técnicas de producción de formas farmacéuticas sólidas,
+relacionándolas con las normas de correcta fabricación.
+Criterios de evaluación:
+a) Se han clasificado las diferentes formas sólidas.
+b) Se han definido los compuestos que constituyen una forma sólida.
+c) Se han determinado los parámetros que influyen en la formulación de un comprimido o forma
+sólida.
+d) Se han descrito las propiedades que caracterizan una forma sólida.
+e) Se han determinado las tecnologías de formulación de formas sólidas para la administración
+por distintas vías.
+f) Se han definido las diferentes operaciones para la elaboración de formas sólidas
+farmacéuticas.
+g) Se ha establecido el diagrama de flujo en la formulación de una forma sólida.
+h) Se han definido las plantas, salas y equipos para la formulación de formas sólidas.
+i) Se han aplicado las técnicas de producción en la elaboración de una forma sólida.
+3. Caracteriza los procedimientos y técnicas de producción de formas líquidas, semisólidas y
+otras, relacionándolas con las normas de correcta fabricación.
+Criterios de evaluación:
+a) Se han clasificado las diferentes formas líquidas, semisólidas y otras.
+b) Se han determinado los parámetros que influyen en la formulación de formas líquidas,
+semisólidas y otras.
+c) Se han descrito las propiedades que caracterizan una forma líquida, semisólida y otras.
+d) Se han determinado las tecnologías de formulación de formas líquidas, semisólidas y otras.
+e) Se han descrito los procesos para la elaboración de formas líquidas y semisólidas, siguiendo
+las normas de correcta fabricación.
+f) Se ha establecido el diagrama de flujo en la formulación de una forma líquida y de otras formas
+farmacéuticas.
+g) Se han definido los espacios y los equipos para la formulación de formas líquidas, semisólidas
+y otras.
+h) Se han establecido los protocolos de elaboración.
+i) Se ha elaborado una forma líquida y una semisólida.
+4. Determina las técnicas de producción para productos estériles, relacionándolas con las
+normas de correcta fabricación.
+Criterios de evaluación:
+a) Se han clasificado las técnicas de producción de productos estériles.
+b) Se han definido los métodos de esterilización de productos, envases y formas preparadas.
+c) Se han descrito las técnicas de control de la esterilidad.
+d) Se han definido los procedimientos normalizados de actuación en la fabricación de estériles.
+e) Se han definido las características de las salas y de los equipos para la formulación de
+productos estériles.
+f) Se ha determinado el método de trabajo en las instalaciones de fabricación de estériles.
+g) Se han descrito los diferentes procesos aplicados en la fabricación de formas estériles.
+5. Fabrica productos farmacéuticos y afines, controlando las variables implicadas.
+Criterios de evaluación:
+a) Se ha interpretado la información técnica del producto, identificando las calidades, formas y
+unidades que se deben obtener.
+b) Se han establecido los planes de producción, régimen, condiciones de los equipos y tiempos
+de fabricación.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33215
+c) Se han definido los recursos necesarios en la zona de fabricación para el desarrollo óptimo
+del proceso.
+d) Se ha verificado el correcto funcionamiento de los equipos e instalaciones.
+e) Se han asegurado la limpieza, la desinfección y el orden en el área de fabricación.
+f) Se ha organizado la puesta en marcha y parada de los equipos e instalaciones, siguiendo las
+normas de correcta fabricación.
+g) Se ha controlado el flujo de circulación de materiales, asegurado los parámetros de calidad.
+h) Se ha determinado la secuencia de trabajo y la prioridad de los trabajos de mantenimiento de
+los equipos e instalaciones.
+i) Se ha cumplimentado la guía de fabricación, garantizando la trazabilidad del proceso.
+j) Se ha actuado cumpliendo las normas de prevención de riesgos laborales y de salud ambiental.
+Módulo Profesional: Regulación y control en la industria farmacéutica, biotecnológica y afines.
+Duración: 160 horas.
+Código: 1395.
+Resultados de aprendizaje y criterios de evaluación.
+1. Define los parámetros de control del proceso, analizando los requerimientos del mismo.
+Criterios de evaluación:
+a) Se han identificado los parámetros de control del proceso de fabricación.
+b) Se han relacionado los parámetros de presión, temperatura, caudal y nivel con las leyes que
+los rigen.
+c) Se han identificado las unidades de medida de los parámetros de control.
+d) Se han realizado los cálculos necesarios para obtener los parámetros en las diferentes
+unidades de medida.
+e) Se han determinado las posibles relaciones existentes entre los diferentes parámetros
+utilizados en el control industrial.
+f) Se ha valorado la necesidad de realizar medidas de parámetros para garantizar la calidad del
+producto final, la prevención de riesgos y la protección ambiental.
+2. Maneja los instrumentos de medida, relacionándolos con los parámetros controlados.
+Criterios de evaluación:
+a) Se han determinado las características generales de los instrumentos de medida.
+b) Se han clasificado los instrumentos de medida en función del parámetro de control, del tipo de
+respuesta y su función en el proceso productivo.
+c) Se han identificado las señales normalizadas de control.
+d) Se han realizado montajes sencillos para medir variables de proceso.
+e) Se ha verificado el correcto funcionamiento de los medidores.
+f) Se han calibrado los instrumentos de medida con la frecuencia y el rango establecidos.
+g) Se han aplicado técnicas de registro de datos, relacionándolas con la trazabilidad del proceso
+de producción.
+h) Se ha justificado la necesidad de medir variables mediante analizadores en línea.
+i) Se han aplicado las normas de prevención de riesgos y protección ambiental.
+3. Aplica los sistemas de control básico, describiendo sus elementos y su importancia en el
+proceso industrial.
+Criterios de evaluación:
+a) Se han definido las características de un lazo de control.
+b) Se han clasificado los elementos que forman parte de un lazo de control.
+c) Se han descrito los diferentes tipos de control básico.
+d) Se ha definido la simbología gráfica utilizada en la instrumentación de control de procesos
+industriales.
+e) Se han descrito los elementos finales de control en función de sus características.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33216
+f) Se han determinado los puntos de consigna en función de las características del proceso.
+g) Se ha caracterizado la arquitectura general del sistema de control básico.
+h) Se han realizado lazos de control sencillos para controlar las variables del proceso.
+i) Se han descrito los esquemas de control básico asociados a diferentes procesos bio-
+farmaceúticos.
+j) Se ha justificado la importancia de los sistemas de control en el aseguramiento de la calidad,
+eficiencia energética, prevención de riesgos y protección ambiental.
+4. Caracteriza los sistemas de control avanzado, justificando su importancia en la optimización
+de los procesos.
+Criterios de evaluación:
+a) Se han descrito las limitaciones de los sistemas de control básico.
+b) Se han clasificado los diferentes tipos de control avanzado.
+c) Se han descrito las características de las salas de control.
+d) Se ha justificado la importancia del control avanzado como herramienta de optimización de
+procesos químicos.
+e) Se ha valorado la capacidad de los sistemas de control avanzado para adelantarse a las
+anomalías y proponer actuaciones que las minimicen.
+f) Se ha valorado la capacidad de los sistemas de control avanzado en la sostenibilidad de los
+procesos.
+g) Se han descrito los sistemas de control distribuido, relacionándolos con la organización de la
+producción.
+h) Se han descrito los esquemas de control avanzado asociados a diferentes procesos.
+5. Realiza programaciones básicas de controladores lógicos programables (PLC), simulando
+operaciones de producción.
+Criterios de evaluación:
+a) Se han descrito las características de una instalación electromecánica.
+b) Se ha descrito la estructura básica de un PLC.
+c) Se ha descrito la simbología básica asociada a los PLC.
+d) Se han definido los principios básicos de lógica.
+e) Se han definido los lenguajes de programación de los PLC.
+f) Se han simulado secuencias básicas de control industrial utilizando PLC.
+g) Se han definido las aplicaciones más significativas de los PLC en los procesos de fabricación.
+h) Se ha valorado la importancia de los PLC en los sistemas de seguridad.
+i) Se han aplicado las normas de prevención de riegos y protección ambiental.
+Módulo Profesional: Acondicionamiento y almacenamiento de productos farmacéuticos,
+biotecnológicos y afines.
+Duración: 82 horas.
+Código: 1396.
+Resultados de aprendizaje y criterios de evaluación.
+1. Define las operaciones de acondicionado, relacionándolas con el aseguramiento de la
+estabilidad, seguridad y eficacia del producto final.
+Criterios de evaluación:
+a) Se han determinado los tipos de acondicionado.
+b) Se ha identificado la normativa relativa al acondicionado de productos.
+c) Se ha valorado la importancia del acondicionado en el aumento de la seguridad de
+conservación del producto.
+d) Se han determinado las funciones del acondicionado.
+e) Se han determinado los riesgos de alteraciones mecánicas que pueden sufrir los productos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33217
+f) Se han determinado los riesgos de alteraciones ambientales y biológicas que pueden sufrir los
+productos.
+g) Se ha valorado la importancia de presentar la información relativa al producto.
+2. Caracteriza los principales tipos de envases, relacionándolos con las características de los
+productos.
+Criterios de evaluación:
+a) Se han descrito las características del acondicionamiento primario y secundario.
+b) Se ha comprobado que no hay interacción entre el material del envase primario y el producto.
+c) Se han descrito los diferentes tipos de cierres utilizados en el acondicionamiento primario.
+d) Se han clasificado los envases en función del tipo de cierre.
+e) Se han evaluado las principales características del sistema de cierre seleccionado.
+f) Se han descrito las características y la información que deben recoger los envases utilizados
+en el acondicionamiento primario y secundario.
+g) Se han descrito los símbolos y siglas.
+h) Se ha identificado la información que debe recoger el prospecto de los medicamentos.
+i) Se han descrito los sistemas de acondicionamiento especiales.
+3. Opera los equipos e instalaciones de dosificación y acondicionamiento primario y secundario
+de productos farmacéuticos y afines, asegurando el desarrollo óptimo de todo el proceso.
+Criterios de evaluación:
+a) Se han descrito los tipos de equipos e instalaciones utilizadas en las diferentes operaciones
+de dosificación.
+b) Se han descrito los tipos de equipos e instalaciones utilizadas en las diferentes operaciones
+de acondicionamiento.
+c) Se han explicado los procedimientos normalizados de trabajo de los diferentes equipos e
+instalaciones.
+d) Se ha interpretado la guía de acondicionamiento según el lote que se debe fabricar y la
+información del proceso.
+e) Se han descrito los sistemas de alimentación del material de acondicionamiento en la línea de
+envasado.
+f) Se han identificado los sistemas de impresión y codificación de productos.
+g) Se han efectuado las operaciones de limpieza y mantenimiento de los equipos con la
+frecuencia establecida para evitar contaminaciones cruzadas.
+h) Se ha realizado la puesta en marcha y parada de los equipos.
+i) Se ha verificado el correcto funcionamiento de los equipos, registrando las anomalías y
+desviaciones producidas.
+j) Se han seguido las normas de prevención de riesgos y de protección ambiental.
+4. Caracteriza las instalaciones de almacenamiento, interpretando la normativa establecida.
+Criterios de evaluación:
+a) Se han descrito las medidas de seguridad que debe reunir el almacén de acuerdo con la
+normativa.
+b) Se han identificado los diferentes modelos de organización de un almacén.
+c) Se han identificado los diferentes tipos de salas de almacenamiento.
+d) Se han descrito las características generales de un almacén de productos farmacéuticos y
+afines.
+e) Se han identificado las áreas en que se divide el almacén convencional de productos
+farmacéuticos y afines.
+f) Se han identificado las normas básicas que hay que aplicar en la organización del almacén de
+productos farmacéuticos y afines.
+g) Se han caracterizado los diferentes tipos de armarios.
+h) Se han identificado los elementos de seguridad básicos en un almacén.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33218
+5. Caracteriza las operaciones de recepción y expedición de productos y materiales,
+comprobando la documentación asociada.
+Criterios de evaluación:
+a) Se ha identificado la documentación que acompaña al producto.
+b) Se ha obtenido la ficha de seguridad de todos los productos que constituyen el lote que se ha
+de recepcionar o expedir.
+c) Se ha comprobado que el producto recepcionado corresponde con el solicitado.
+d) Se ha cumplimentado la documentación relacionada con la recepción y la expedición.
+e) Se han descrito los diferentes sistemas de retractilado, impresión y codificación.
+f) Se han descrito los sistemas de protección de los productos en función de sus características.
+g) Se han clasificado los productos por lotes para su posterior almacenamiento.
+h) Se han aplicado las normas de seguridad en las operaciones de recepción y expedición de
+productos farmacéuticos.
+6. Realiza el almacenamiento de productos, justificando su distribución y organización en función
+de sus características.
+Criterios de evaluación:
+a) Se han identificado los criterios que se deben aplicar en el almacenamiento de productos.
+b) Se han asegurado las condiciones de almacenamiento de los distintos lotes farmacéuticos y
+afines de acuerdo con las características del producto.
+c) Se han colocado los productos farmacéuticos en el lugar establecido.
+d) Se han seguido las condiciones de conservación del producto, de acuerdo con la información
+de la etiqueta.
+e) Se han detectado los productos caducados o que presenten alguna circunstancia para su
+retirada.
+f) Se ha realizado una gestión de stocks de los productos del almacén.
+g) Se han utilizado sistemas informáticos de control de almacén.
+h) Se han registrado las entradas y salidas de existencias, actualizando los archivos
+correspondientes.
+i) Se han aplicado las medidas de prevención y protección ambiental que se deben seguir durante
+el almacenamiento de productos farmacéuticos y afines.
+j) Se han identificado los criterios que se deben aplicar en la distribución de medicamentos y de
+principios activos.
+Módulo Profesional: Inglés profesional GS
+Duración: 60 horas.
+Código: 0179.
+Resultados de aprendizaje y criterios de evaluación:
+1. Comprende información, de índole profesional, académica y cotidiana, contenida en todo tipo
+de discursos orales, emitidos por cualquier medio de comunicación en lengua estándar,
+interpretando con precisión el contenido del mensaje.
+Criterios de evaluación:
+a) Se ha identificado la idea principal de mensajes en lengua estándar relacionados con la vida
+social, profesional o académica.
+b) Se ha reconocido la finalidad de mensajes directos o emitidos en cualquier soporte en lengua
+estándar.
+c) Se ha extraído información específica contenida en distintos discursos orales en lengua
+estándar, relacionada con la vida social, profesional o académica.
+d) Se ha identificado el punto de vista y la actitud del hablante.
+e) Se ha identificado el hilo argumental de mensajes orales y determinado los roles que aparecen
+en dichos mensajes.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33219
+f) Se han comprendido adecuadamente mensajes en lengua estándar en ambientes con
+contaminación acústica.
+g) Se han extraído las ideas principales de conferencias, charlas e informes, y otras formas de
+presentación académica y profesional, lingüísticamente complejas.
+h) Se ha tomado conciencia de la importancia de comprender globalmente un mensaje sin
+entender todos y cada uno de los elementos del mismo.
+2. Comprende mensajes escritos, de naturaleza profesional, académica y cotidiana, de relativa
+dificultad, analizando de forma comprensiva su contenido.
+Criterios de evaluación:
+a) Se ha identificado la idea principal de textos específicos de su ámbito social, profesional o
+académico.
+b) Se ha reconocido la finalidad de distintos textos escritos en cualquier soporte, en lengua
+estándar y relacionados con la actividad profesional.
+c) Se ha extraído información específica de textos, de diferente naturaleza, relativos a su
+profesión, y contenidos en distintos soportes.
+d) Se ha tomado conciencia de la importancia de comprender globalmente un texto sin entender
+todos y cada uno de los elementos del mismo.
+e) Se han leído y comprendido, de manera autónoma, textos relacionados con el sector con la
+velocidad y estilo de lectura propia del nivel competencial.
+f) Se ha interpretado la correspondencia relativa a su especialidad, captando fácilmente el
+significado esencial.
+g) Se han interpretado textos extensos, y de cierta complejidad, relacionados o no con su
+especialidad, pudiendo realizar varias lecturas del mismo.
+h) Se ha identificado con rapidez el contenido y la importancia de noticias, artículos e informes
+sobre una amplia serie de temas profesionales.
+i) Se han interpretado instrucciones, con distintos niveles de dificultad, y mensajes técnicos
+recibidos a través de soportes digitales.
+j) Se han traducido textos de cierta complejidad, utilizando material de apoyo en caso necesario.
+3. Produce mensajes orales claros y bien estructurados, analizando el contenido de la situación
+y adaptándose al registro lingüístico del interlocutor.
+Criterios de evaluación:
+a) Se han emitido mensajes generales propios de sector y de la vida cotidiana, utilizando nexos
+y estrategias de interacción.
+b) Se ha intercambiado con fluidez información específica y detallada utilizando estructuras de
+una complejidad acorde al nivel competencial.
+c) Se han seleccionado y aplicado los registros adecuados para la emisión del mensaje, así como
+protocolos y normas de relación social propios del país.
+d) Se han realizado presentaciones, bien estructuradas, sobre temas de su ámbito profesional,
+haciendo uso de los protocolos establecidos.
+e) Se ha utilizado correctamente la terminología de la profesión.
+f) Se ha descrito y secuenciado oralmente un proceso de trabajo de su competencia.
+g) Se ha solicitado la reformulación del discurso o parte del mismo cuando se ha considerado
+necesario.
+h) Se ha interaccionado espontáneamente, adoptando un nivel de formalidad adecuado a las
+circunstancias.
+i) Se ha expresado con fluidez, precisión y eficacia sobre una amplia serie de temas generales,
+académicos, profesionales o de ocio, marcando con claridad la relación entre las ideas.
+j) Se han expresado y defendido puntos de vista con claridad, proporcionando explicaciones y
+argumentos adecuados.
+k) Se ha respondido a preguntas relativas a su vida socio-profesional, incluidas las propias de
+una entrevista de trabajo.
+4. Redacta documentos e informes, propios del sector o de la vida académica y cotidiana,
+relacionando los recursos lingüísticos con el propósito de los mismos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33220
+Criterios de evaluación:
+a) Se han escrito textos claros y detallados sobre una variedad de temas relacionados con su
+profesión, sintetizando y evaluando información y argumentos procedentes de varias fuentes.
+b) Se ha cumplimentado documentación específica de su campo profesional, utilizando
+vocabulario específico y protocolos y normas de relación social propios del país.
+c) Se ha organizado la información con corrección, precisión, con cohesión y coherencia,
+solicitando y/o facilitando información de tipo general o detallada.
+d) Se han cumplimentado textos mediante apoyos visuales y claves lingüísticas.
+e) Se han elaborado informes, destacando los aspectos significativos y ofreciendo detalles
+relevantes que sirvan de apoyo.
+f) Se han escrito cartas, formales e informales, empleando las fórmulas de cortesía establecidas
+y el vocabulario específico para la elaboración de las mismas.
+g) Se han resumido diferentes tipos de documentos escritos, utilizando sus propios recursos
+lingüísticos.
+h) Se han utilizado las fórmulas de cortesía propias del documento que se va a elaborar.
+5. Aplica actitudes y comportamientos profesionales en situaciones de comunicación,
+describiendo las relaciones típicas características del país de la lengua extranjera.
+Criterios de evaluación:
+a) Se han definido los rasgos más significativos de las costumbres y usos de la comunidad donde
+se habla la lengua extranjera.
+b) Se han descrito los protocolos y normas de relación social propios del país.
+c) Se han identificado los valores y creencias propios de la comunidad donde se habla la lengua
+extranjera.
+d) Se ha identificado los aspectos socio-profesionales propios del sector, en cualquier tipo de
+texto.
+e) Se han aplicado los protocolos y normas de relación social propios del país de la lengua
+extranjera.
+f) Se han reconocido los marcadores lingüísticos de la procedencia regional.
+Módulo Profesional: Itinerario personal para la empleabilidad I.
+Duración: 80 horas.
+Código: 1709.
+Resultados de aprendizaje y criterios de evaluación:
+1. Distingue las características del sector productivo y define los puestos de trabajo
+relacionándolos con las competencias profesionales expresadas en el título.
+Criterios de evaluación:
+a) Se han analizado las principales oportunidades de empleo y de inserción laboral en el sector
+profesional, identificando las posibilidades de empleo y analizado sus requerimientos actuales
+para el perfil profesional.
+b) Se ha comparado los diferentes requerimientos exigidos por el mercado laboral con las
+exigencias para el trabajo en la función pública relacionados con el sector privado.
+c) Se ha reflexionado sobre las actitudes y aptitudes requeridas actualmente para la actividad
+profesional relacionadas con el título, así como las competencias personales y sociales más
+relevantes para el sector identificando nuestra zona de desarrollo próximo.
+2. Adquiere las competencias necesarias para el desempeño de las funciones de nivel básico en
+Prevención de Riesgos Laborales.
+Criterios de evaluación:
+a) Se ha valorado la importancia de la cultura preventiva en todos los ámbitos actividades de la
+empresa u organismo equiparado relacionado las condiciones laborales con la salud de la
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33221
+persona trabajadora identificando y clasificando los factores de riesgo en la actividad y los daños
+derivados de los mismos, especialmente las situaciones de riesgo más habituales en los entornos
+de trabajo del sector profesional relacionado con el título.
+b) Se han clasificado y descrito los tipos de daños profesionales, con especial referencia a
+accidentes de trabajo y enfermedades profesionales, relacionados con el perfil profesional del
+título.
+c) Se ha determinado la evaluación de riesgos en la empresa u organismo equiparado y definido
+las técnicas de prevención y de protección que deben aplicarse para evitar los daños en su origen
+y minimizar sus consecuencias.
+d) Se han analizado los protocolos de actuación en caso de emergencia.
+e) Se han determinado los principales derechos y deberes en materia de prevención de riesgos
+laborales.
+f) Se han clasificado las distintas formas de gestión de la prevención en la empresa u organismo
+equiparado, en función de los distintos criterios establecidos en la normativa sobre prevención
+de riesgos laborales y determinado las formas de representación de las personas trabajadoras
+en la empresa u organismo equiparado en materia de prevención de riesgos.
+g) Se ha valorado la importancia de la existencia de un plan preventivo en la empresa u
+organismo equiparado que incluya la secuenciación de actuaciones a realizar en caso de
+emergencia y reflexionado sobre el contenido del mismo.
+h) Se han determinado los requisitos y condiciones para la vigilancia de la salud de la persona
+trabajadora y su importancia como medida de prevención.
+i) Se han identificado las técnicas básicas de primeros auxilios que han de ser aplicadas en el
+lugar del accidente ante distintos tipos de daños y la composición y uso del botiquín.
+3. Analiza sus condiciones laborales como persona trabajadora por cuenta ajena identificándolas
+en los principales tipos de cambios y vicisitudes relevantes que se pueden presentar en la
+relación laboral en la normativa laboral y especialmente en el convenio colectivo del sector.
+Criterios de evaluación:
+a) Se han analizado los derechos y obligaciones derivados de la relación laboral, así como las
+condiciones de trabajo pactadas en un convenio colectivo aplicable al sector profesional
+relacionado con el título.
+b) Se han comparado las principales modalidades de contratación, localizando los diferentes
+modelos en las fuentes oficiales.
+c) Se han identificado las características definitorias de los nuevos entornos de organización del
+trabajo y los derechos que conlleva.
+d) Se han identificado los diferentes componentes del recibo de salario.
+e) Se han identificado los recursos laborales existentes ante las diferentes vicisitudes que se
+pueden dar en la relación laboral.
+f) Se ha valorado el papel de la Seguridad Social como pilar esencial para la mejora de la calidad
+de vida de los ciudadanos.
+g) Se han analizado las principales prestaciones derivadas de la suspensión y extinción de la
+relación laboral.
+4. Analiza y evalúa su potencial profesional y sus intereses para guiarse en el proceso de
+autoorientación y elabora una hoja de ruta para la inserción profesional en base al análisis de las
+competencias, intereses y destrezas personales.
+Criterios de evaluación:
+a) Se han evaluado los propios intereses, motivaciones, habilidades y destrezas en el marco de
+un proceso de autoconocimiento.
+b) Se han analizado las cualidades y competencias personales afines a la actividad profesional
+relacionada con el perfil del título.
+c) Se han determinado las competencias personales y sociales con valor para el empleo.
+d) Se han señalado las preferencias profesionales, intereses y metas en el marco de un proyecto
+profesional.
+e) Se ha valorado el concepto de autoestima en el proceso de búsqueda de empleo.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33222
+f) Se han identificado las fortalezas, debilidades, amenazas y oportunidades propias para la
+inserción profesional.
+g) Se han identificado expectativas de futuro para inserción profesional analizando
+competencias, intereses y destrezas personales.
+h) Se han valorado hitos importantes en la trayectoria vital con valor profesionalizador.
+i) Se han identificado los itinerarios formativos profesionales relacionados con el perfil
+profesional.
+j) Se han formulado objetivos profesionales y se ha determinado metas personales y
+profesionales para la mejora de la empleabilidad y las condiciones de inserción laboral.
+k) Se ha trazado un plan de acción para desarrollar las áreas de mejora y potenciar las fortalezas
+personales con valor para el empleo.
+5. Aplica las estrategias para el aprendizaje autónomo reconociendo su valor profesionalizador,
+diseñando y optimizando su propio entorno de aprendizaje haciendo uso de las tecnologías
+digitales como herramientas de aprendizaje autónomo, siendo coherente con su identidad digital
+y sus propios objetivos profesionales planteados en su plan de desarrollo individual.
+Criterios de evaluación:
+a) Se ha tomado conciencia de la responsabilidad individual en el desarrollo profesional
+valorando la actitud de aprendizaje permanente para el desarrollo de propias y nuevas
+competencias.
+b) Se ha identificado la empleabilidad como capacidad de adaptación al entorno laboral.
+c) Se han conocido y utilizado herramientas, fuentes de información, conexiones y actividades
+para la configuración de un entorno personal de aprendizaje para la empleabilidad.
+d) Se ha puesto en práctica la competencia digital para configurar un entorno personal de
+aprendizaje para la empleabilidad.
+e) Se ha analizado el concepto de identidad digital y su impacto en la empleabilidad.
+f) Se ha justificado el diseño de su entorno de aprendizaje basado en cómo este mejora la
+empleabilidad.
+g) Se ha elaborado su plan de desarrollo individual como herramienta para la mejora de la
+empleabilidad.
+h) Se han aplicado las herramientas de aprendizaje autónomo para su desarrollo personal y
+profesional.
+i) Se ha diseñado el entorno de aprendizaje que permite alcanzar el plan de desarrollo individual.
+Módulo Profesional: Itinerario personal para la empleabilidad II.
+Duración: 60 horas.
+Código: 1710.
+Resultados de aprendizaje y criterios de evaluación:
+1. Planifica y pone en marcha estrategias en los diferentes procesos selectivos de empleo que
+le permiten mejorar sus posibilidades de inserción laboral.
+Criterios de evaluación:
+a) Se han determinado las técnicas utilizadas actualmente en el sector para el proceso de
+selección de personal.
+b) Se han desarrollado estrategias para la búsqueda de empleo relacionadas con las técnicas
+actuales más utilizadas contextualizadas al sector.
+c) Se han valorado las actitudes y aptitudes que permiten superar procesos selectivos en el
+sector privado y en el sector público.
+d) Se ha construido una marca personal identificando las necesidades del mercado actual, sus
+habilidades, destrezas y su aporte de valor.
+2. Aplica estrategias relacionadas con las competencias personales, sociales y emocionales para
+el empleo en búsqueda de la mejora de su empleabilidad.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33223
+Criterios de evaluación:
+a) Se ha valorado la importancia de las competencias personales y sociales en la empleabilidad
+en el sector de referencia.
+b) Se ha participado activamente en el establecimiento de los objetivos del equipo y en la toma
+de decisiones del mismo y asumido la responsabilidad de las acciones y decisiones del grupo,
+participando activamente en el logro de unos objetivos compartidos cooperando con otras
+personas y compartiendo el liderazgo.
+c) Se han incorporado al propio proceso de aprendizaje las técnicas y recursos de presentación
+y comunicación, tanto orales como escritos, adecuados para una comunicación efectiva y
+afectiva siendo capaz de adaptarlos a cada situación y circunstancias, valorando las
+oportunidades y dificultades que ofrece cada una de ellas.
+d) Se han aplicado técnicas y estrategias para la gestión del tiempo disponible para alcanzar los
+objetivos tanto individuales como del equipo y programado las actividades necesarias.
+e) Se han aplicado estrategias para canalizar las emociones mostrando una actitud flexible en
+las relaciones con otras personas.
+f) Se han desarrollado estrategias para la programación de actividades atendiendo a criterios de
+organización eficiente y previendo las posibles dificultades.
+g) Se ha reaccionado de forma flexible y positiva ante conflictos y situaciones nuevas,
+aprovechando las oportunidades y gestionando las dificultades haciendo uso de estrategias
+relacionadas con la inteligencia emocional.
+3. Pone en práctica las habilidades emprendedoras necesarias para el desarrollo de procesos
+de innovación e investigación aplicadas que promuevan la modernización del sector productivo
+hacia un modelo sostenible.
+Criterios de evaluación:
+a) Se ha identificado el concepto de innovación y su relación con la construcción de una sociedad
+más sostenible que mejore en el bienestar de los individuos.
+b) Se han analizado las distintas metodologías para emprender y su importancia para favorecer
+la innovación y como fuente de creación de empleo y bienestar social.
+c) Se han aplicado las habilidades emprendedoras necesarias para promover el emprendimiento
+y el intraemprendimiento.
+d) Se ha puesto en práctica el trabajo colaborativo como requisito para el desarrollo de procesos
+de innovación.
+e) Se ha desarrollado la competencia digital necesaria para la mejora de los procesos de
+innovación e investigación aplicadas que promuevan la modernización del sector productivo.
+f) Se han incorporado los objetivos de las políticas e iniciativas relacionadas con la sostenibilidad
+y el medio ambiente a la estrategia empresarial enfocada al desarrollo de un modelo económico
+y social sostenible.
+4. Identifica, define y valida ideas de emprendimiento generadoras de nuevas oportunidades a
+partir de estrategias de análisis del entorno socio productivo utilizando metodologías ágiles para
+el emprendimiento.
+Criterios de evaluación:
+a) Se han identificado los problemas de las personas destinatarias potenciales del proyecto
+emprendedor como paso previo a la propuesta de soluciones que se conviertan en
+oportunidades.
+b) Se ha puesto en práctica el proceso creativo con el fin de conseguir una idea emprendedora
+que aporte valor económico, social y/o cultural.
+c) Se ha diseñado un modelo de negocio y/o gestión derivado de la idea emprendedora.
+d) Se han incorporado valores éticos y sociales a la idea emprendedora analizando modelos de
+balance social.
+e) Se ha analizado la contribución de la Economía Circular y la Economía del Bien Común al
+desarrollo de un modelo económico y social basado en la equidad, la justicia social y la
+sostenibilidad.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33224
+f) Se han analizado los principales componentes del entorno general y específico, y su impacto
+en la idea emprendedora.
+g) Se han realizado entrevistas de problema para validar el perfil y el problema de las personas
+destinatarias de la idea emprendedora.
+h) Se ha validado la solución mediante la creación de prototipos buscando el encaje problema-
+solución.
+i) Se ha experimentado con la puesta en práctica de estrategias de marketing para desarrollar
+destrezas en técnicas de comunicación y venta.
+5. Desarrolla un proyecto emprendedor de innovación social y/o tecnológica aplicada en
+colaboración con el entorno.
+Criterios de evaluación:
+a) Se han analizado los conceptos básicos del emprendimiento y la innovación social.
+b) Se ha reflexionado sobre la necesidad del liderazgo ético y sostenible en las organizaciones.
+c) Se ha reflexionado sobre la tecnología como base para el cambio del modelo productivo.
+d) Se han puesto en marcha las estrategias propias del pensamiento de diseño para detectar
+necesidades sociales y medioambientales.
+e) Se han analizado los elementos del diseño de modelos de negocio ecosociales y/o de base
+tecnológica.
+f) Se han alineado metas de desarrollo sostenible con el diseño de modelos de negocio
+ecosociales y/o de base tecnológica.
+g) Se han aplicado las estrategias necesarias para analizar la viabilidad del proyecto
+emprendedor.
+h) Se han investigado las opciones financieras socialmente responsables.
+i) Se han definido los agentes implicados en el proyecto, así como su participación en el mismo
+Módulo Profesional: Sostenibilidad aplicada al sistema productivo.
+Duración: 40 horas.
+Código: 1708.
+Resultados de aprendizaje y criterios de evaluación:
+1. Identifica los aspectos ambientales, sociales y de gobernanza (ASG) relativos a la
+sostenibilidad teniendo en cuenta el concepto de desarrollo sostenible y los marcos
+internacionales que contribuyen a su consecución.
+Criterios de evaluación:
+a) Se ha descrito el concepto de sostenibilidad, estableciendo los marcos internacionales
+asociados al desarrollo sostenible.
+b) Se han identificado los asuntos ambientales, sociales y de gobernanza que influyen en el
+desarrollo sostenible de las organizaciones empresariales.
+c) Se han relacionado los Objetivos de Desarrollo Sostenible (ODS) con su importancia para la
+consecución de la Agenda 2030.
+d) Se ha analizado la importancia de identificar los aspectos ASG más relevantes para los grupos
+de interés de las organizaciones relacionándolos con los riesgos y oportunidades que suponen
+para la propia organización.
+e) Se han identificado los principales estándares de métricas para la evaluación del desempeño
+en sostenibilidad y su papel en la rendición de cuentas que marca la legislación vigente y las
+futuras regulaciones en desarrollo.
+f) Se ha descrito la inversión socialmente responsable y el papel de los analistas, inversores,
+agencias e índices de sostenibilidad en el fomento de la sostenibilidad.
+2. Caracteriza los retos ambientales y sociales a los que se enfrenta la sociedad, describiendo
+los impactos sobre las personas y los sectores productivos y proponiendo acciones para
+minimizarlos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33225
+Criterios de evaluación:
+a) Se han identificado los principales retos ambientales y sociales.
+b) Se han relacionado los retos ambientales y sociales con el desarrollo de la actividad
+económica.
+c) Se ha analizado el efecto de los impactos ambientales y sociales sobre las personas y los
+sectores productivos.
+d) Se han identificado las medidas y acciones encaminadas a minimizar los impactos ambientales
+y sociales.
+e) Se ha analizado la importancia de establecer alianzas y trabajar de manera transversal y
+coordinada para abordar con éxito los retos ambientales y sociales.
+3. Establece la aplicación de criterios de sostenibilidad en el desempeño profesional y personal,
+identificando los elementos necesarios.
+Criterios de evaluación:
+a) Se han identificado los ODS más relevantes para la actividad profesional que realiza.
+b) Se han analizado los riesgos y oportunidades que representan los ODS.
+c) Se han identificado las acciones necesarias para atender algunos de los retos ambientales y
+sociales desde la actividad profesional y el entorno personal.
+4. Propón productos y servicios responsables teniendo en cuenta los principios de la economía
+circular.
+Criterios de evaluación:
+a) Se ha caracterizado el modelo de producción y consumo actual.
+b) Se han identificado los principios de la economía verde y circular.
+c) Se han contrastado los beneficios de la economía verde y circular frente al modelo clásico de
+producción.
+d) Se han aplicado principios de ecodiseño.
+e) Se ha analizado el ciclo de vida del producto.
+f) Se han identificado los procesos de producción y los criterios de sostenibilidad aplicados.
+5. Realiza actividades sostenibles minimizando el impacto de las mismas en el medio ambiente.
+Criterios de evaluación:
+a) Se ha caracterizado el modelo de producción y consumo actual.
+b) Se han identificado los principios de la economía verde y circular.
+c) Se han contrastado los beneficios de la economía verde y circular frente al modelo clásico de
+producción.
+d) Se ha evaluado el impacto de las actividades personales y profesionales.
+e) Se han aplicado principios de ecodiseño.
+f) Se han aplicado estrategias sostenibles.
+g) Se ha analizado el ciclo de vida del producto.
+h) Se han identificado los procesos de producción y los criterios de sostenibilidad aplicados.
+i) Se ha aplicado la normativa ambiental.
+6. Analiza un plan de sostenibilidad de una empresa del sector, identificando sus grupos de
+interés, los aspectos ASG materiales y justificando acciones para su gestión y medición.
+Criterios de evaluación:
+a) Se han identificado los principales grupos de interés de la empresa.
+b) Se han analizado los aspectos ASG materiales, las expectativas de los grupos de interés y la
+importancia de los aspectos ASG en relación con los objetivos empresariales.
+c) Se han definido acciones encaminadas a minimizar los impactos negativos y aprovechar las
+oportunidades que plantean los principales aspectos ASG identificados.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33226
+d) Se han determinado las métricas de evaluación del desempeño de la empresa de acuerdo con
+los estándares de sostenibilidad más ampliamente utilizados.
+e) Se ha elaborado un informe de sostenibilidad con el plan y los indicadores propuestos.
+Módulo Profesional: Digitalización aplicada a los sectores productivos.
+Duración: 50 horas.
+Código: 1665.
+Resultados de aprendizaje y criterios de evaluación:
+1. Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo en
+cuenta la actividad de la empresa e identificando entornos IT (Information Technology: tecnología
+de la información) y OT (Operation Technology: tecnología de operación) característicos.
+Criterios de evaluación:
+a) Se ha descrito en qué consiste el concepto de digitalización.
+b) Se ha relacionado la implantación de la tecnología digital con la organización de las empresas.
+c) Se han establecido las diferencias y similitudes entre los entornos IT y OT.
+d) Se han identificado los departamentos típicos de las empresas que pueden constituir entornos
+IT.
+e) Se han seleccionado las tecnologías típicas de la digitalización en planta y en negocio.
+f) Se ha analizado la importancia de la conexión entre entornos IT y OT.
+g) Se han analizado las ventajas de digitalizar una empresa industrial de extremo a extremo.
+2.Caracteriza las tecnologías habilitadoras digitales necesarias para la
+adecuación/transformación de las empresas a entornos digitales describiendo sus características
+y aplicaciones.
+Criterios de evaluación:
+a) Se han identificado las principales tecnologías habilitadoras digitales.
+b) Se han relacionado las THD con el desarrollo de productos y servicios.
+c) Se ha relacionado la importancia de las THD con la economía sostenible y eficiente.
+d) Se han identificado nuevos mercados generados por las THD.
+e) Se ha analizado la implicación de THD tanto en la parte de negocio como en la parte de planta.
+f) Se han identificado las mejoras producidas debido a la implantación de las tecnologías
+habilitadoras en relación con los entornos IT y OT.
+g) Se ha elaborado un informe que relacione, las tecnologías con sus características y áreas de
+aplicación.
+3. Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas
+digitales.
+Criterios de evaluación:
+a) Se han identificado los diferentes niveles de la cloud/nube.
+b) Se han identificado las principales funciones de la cloud/nube (procesamiento de datos,
+intercambio de información, ejecución de aplicaciones, entre otros).
+c) Se ha descrito el concepto de edge computing y su relación con la cloud/nube.
+d) Se han definido los conceptos de fog y mist y sus zonas de aplicación en el conjunto.
+e) Se han identificado las ventajas que proporciona la utilización de la cloud/nube en los sistemas
+conectados.
+4. Identifica aplicaciones de la IA (inteligencia artificial) en entornos del sector donde está
+enmarcado el título describiendo las mejoras implícitas en su implementación.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33227
+Criterios de evaluación:
+a) Se ha identificado la importancia de la IA en la automatización de procesos y su optimización.
+b) Se ha relacionado la IA con la recogida masiva de datos (Big Data) y su tratamiento (análisis)
+con la rentabilidad de las empresas.
+c) Se ha valorado la importancia presente y futura de la IA.
+d) Se han identificado los sectores con implantación más relevante de IA.
+e) Se han identificado los lenguajes de programación en IA.
+f) Se ha descrito como influye la IA en el sector del título.
+5. Evalúa la importancia de los datos, así como su protección en una economía digital
+globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema,
+como globales.
+Criterios de evaluación:
+a) Se ha establecido la diferencia entre dato e información.
+b) Se ha descrito el ciclo de vida del dato.
+c) Se ha identificado la relación entre Big Data, análisis de datos, machine/ deep learning e
+inteligencia artificial.
+d) Se han descrito las características que definen Big Data.
+e) Se han descrito las etapas típicas de la ciencia de datos y su relación en el proceso.
+f) Se han descrito los procedimientos de almacenaje de datos en la cloud/nube.
+g) Se ha descrito la importancia del cloud computing.
+h) Se han identificado los principales objetivos de la ciencia de datos en las diferentes empresas.
+i) Se ha valorado la importancia de la seguridad y su regulación en relación con los datos.
+6. Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con
+el título, teniendo en cuenta los cambios que se deben producir en función de los objetivos de la
+empresa.
+Criterios de evaluación:
+a) Se han identificado los objetivos estratégicos de la empresa.
+b) Se han identificado y alineado las áreas de producción/negocio y de comunicaciones.
+c) Se han identificado las áreas susceptibles de ser digitalizadas.
+d) Se ha analizado el encaje de AD (áreas digitalizadas) entre sí y con las que no lo están.
+e) Se han tenido en cuenta las necesidades presentes y futuras de la empresa.
+f) Se han relacionado cada una de las áreas con la implantación de las tecnologías.
+g) Se han analizado las posibles brechas de seguridad en cada una de las áreas.
+h) Se ha definido el tratamiento de los datos y su análisis.
+i) Se ha tenido en cuenta la integración entre datos, aplicaciones, plataformas que los soportan,
+entre otros.
+j) Se han documentado los cambios realizados en función de la estrategia.
+k) Se han tenido en cuenta la idoneidad de los recursos humanos
+Módulo Profesional: Proyecto intermodular de fabricación de productos farmacéuticos,
+biotecnológicos y afines
+Duración: 55 horas.
+Código: 1397.
+Resultados de aprendizaje y criterios de evaluación:
+1. Identifica necesidades del sector productivo, relacionándolas con proyectos tipo que las
+puedan satisfacer.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33228
+Criterios de evaluación:
+a) Se han clasificado las empresas del sector por sus características organizativas y el tipo de
+producto o servicio que ofrecen.
+b) Se han caracterizado las empresas tipo indicando la estructura organizativa y las funciones
+de cada departamento.
+c) Se han identificado las necesidades más demandadas a las empresas.
+d) Se han valorado las oportunidades de negocio previsibles en el sector.
+e) Se ha identificado el tipo de proyecto requerido para dar respuesta a las demandas previstas.
+f) Se han determinado las características específicas requeridas al proyecto.
+g) Se han determinado las obligaciones fiscales, laborales y de prevención de riesgos y sus
+condiciones de aplicación.
+h) Se han identificado posibles ayudas o subvenciones para la incorporación de nuevas
+tecnologías de producción o de servicio que se proponen.
+i) Se ha elaborado el guion de trabajo que se va a seguir para la elaboración del proyecto.
+2. Diseña proyectos relacionados con las competencias expresadas en el título, incluyendo y
+desarrollando las fases que lo componen.
+Criterios de evaluación:
+a) Se ha recopilado información relativa a los aspectos que van a ser tratados en el proyecto.
+b) Se ha realizado el estudio de viabilidad técnica del mismo.
+c) Se han identificado las fases o partes que componen el proyecto y su contenido.
+d) Se han establecido los objetivos que se pretenden conseguir, identificando su alcance.
+e) Se han previsto los recursos materiales y personales necesarios para realizarlo.
+f) Se ha realizado el presupuesto económico correspondiente.
+g) Se han identificado las necesidades de financiación para la puesta en marcha del mismo.
+h) Se ha definido y elaborado la documentación necesaria para su diseño.
+i) Se han identificado los aspectos que se deben controlar para garantizar la calidad del proyecto.
+3. Planifica la ejecución del proyecto, determinando el plan de intervención y la documentación
+asociada.
+Criterios de evaluación:
+a) Se han secuenciado las actividades ordenándolas en función de las necesidades de
+implementación.
+b) Se han determinado los recursos y la logística necesaria para cada actividad.
+c) Se han identificado las necesidades de permisos y autorizaciones para llevar a cabo las
+actividades.
+d) Se han determinado los procedimientos de actuación o ejecución de las actividades.
+e) Se han identificado los riesgos inherentes a la ejecución, definiendo el plan de prevención de
+riesgos y los medios y equipos necesarios.
+f) Se han planificado la asignación de recursos materiales y humanos y los tiempos de ejecución.
+g) Se ha hecho la valoración económica que da respuesta a las condiciones de la
+implementación.
+h) Se ha definido y elaborado la documentación necesaria para la ejecución.
+4. Define los procedimientos para el seguimiento y control en la ejecución del proyecto,
+justificando la selección de variables e instrumentos empleados.
+Criterios de evaluación:
+a) Se ha definido el procedimiento de evaluación de las actividades o intervenciones.
+b) Se han definido los indicadores de calidad para realizar la evaluación.
+c) Se ha definido el procedimiento para la evaluación de las incidencias que puedan presentarse
+durante la realización de las actividades, su posible solución y registro.
+d) Se ha definido el procedimiento para gestionar los posibles cambios en los recursos y en las
+actividades, incluyendo el sistema de registro de los mismos.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33229
+e) Se ha definido y elaborado la documentación necesaria para la evaluación de las actividades
+y del proyecto.
+f) Se ha establecido el procedimiento para la participación de los usuarios o clientes en la
+evaluación y se han elaborado los documentos específicos.
+g) Se ha establecido un sistema para garantizar el cumplimiento del pliego de condiciones del
+proyecto, cuando este existe.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33230
+Anexo III
+Espacios y equipamientos mínimos
+Espacios
+Superficie en m2.
+Espacio formativo
+30 alumnos/as 20 alumnos/as
+Aula polivalente. 60 40
+Laboratorio de análisis químico y fisicoquímico. 120 90
+Laboratorio de microbiología y biotecnología 120 90
+Laboratorio de química industrial 180 120
+Equipamientos mínimos
+Espacio formativo Equipamientos mínimos
+Ordenadores instalados en red, sistema de proyección e internet.
+Aula polivalente. Medios audiovisuales.
+Programas informáticos de aplicación.
+Agitador magnético calefactor.
+Analizador de humedad.
+Armario de seguridad para reactivos.
+Balanza analítica.
+Balanza granatario.
+Baño termostático.
+Bomba de vacío.
+Centrífuga.
+Columna desmineralizadora.
+Compresor.
+Conductímetro.
+Destilador.
+Equipo de determinación de puntos de ebullición.
+Equipo de electroforesis.
+Equipo de tamizado.
+Equipo para determinación del punto de fusión.
+Laboratorio de Espectrofotocolorímetro.
+análisis químico y Espectrofotómetro infrarrojo.
+f isicoquímico. Espectrofotómetro ultravioleta visible.
+Estufa de desecación.
+Evaporador rotativo.
+Horno.
+Instrumentos portátiles de medida de condiciones ambientales.
+Juego densímetros.
+Máquina de fabricación de hielo.
+Material general de laboratorio.
+Molino de bolas.
+Equipos y útiles de toma de muestras.
+Oxímetro portátil.
+pHmetro de campo.
+Polarímetro.
+Polímetro.
+Potenciómetro.
+Refractómetro Abbe.
+Termostato de inmersión.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33231
+Espacio formativo Equipamientos mínimos
+Turbidímetro portátil.
+Viscosímetros
+Agentes, equipos e instrumentos de limpieza y desinfección
+homologados.
+Agitador magnético calefactor.
+Agitadores orbitales con regulación de velocidad y temperatura.
+Analizador de imágenes.
+Aplicaciones informáticas específicas.
+Autoclave de 75 L.
+Balanza electrónica de precisión 0,01 g.
+Balanzas.
+Baño de ultrasonido.
+Baños calefactores de microtubos y microplacas.
+Bomba de vacío.
+Campana de flujo laminar.
+Campana para PCR.
+Centrífuga de 20 000 a 40 000 rpm.
+Congelador a -40 °C.
+Equipamiento de microscopía biológica binocular.
+Equipamiento de protección UV y accesorios.
+Equipo contador colonias.
+Equipo de cultivo de células.
+Equipo de electroforesis.
+Equipo de extracción.
+Equipo de HPLC.
+Equipo de inmunodetección.
+Laboratorio de Equipos de ensayos de biotoxicidad.
+microbiología y Equipos y aparatos dedicados a micro-manipulación de células
+biotecnología. animales, vegetales y de microorganismos.
+Equipos para transformación genética y selección microbiana de células
+animales y vegetales.
+Espectrofotómetro UV con cubetas.
+Estufa de secado.
+Estufas de cultivo.
+Estufas de esterilización.
+Frigorífico con congelador -20 °C.
+Homogeneizador.
+Jarras de anaerobios.
+Lámpara de rayos UV.
+Lupas binoculares.
+Material básico de biotecnología.
+Material general de microbiología.
+Microcentrífuga con regulación de temperatura.
+Microscopios biológicos binoculares.
+Pipetas automáticas de volúmenes variables y seriadas.
+Placas calefactoras.
+Rampas de filtración al vacío.
+Reactor de laboratorio de 20 L equipado.
+Secador de geles.
+Termociclador con rampa de temperatura (PCR).
+Termostatos de inmersión.
+Transiluminador de 312nm, con analizador de imágenes,
+videoimpresora y monitor.
+Vórtex.
+Analizadores automáticos; analizadores en línea.
+Laboratorio de
+Armario de seguridad para reactivos.
+q uímica industrial
+Balanza analítica.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33232
+Espacio formativo Equipamientos mínimos
+Balanza granatario electrónica.
+Elementos de regulación. Lazos de control con sensor, actuadores,
+transmisores y controladores. Panel de control con dispositivos de
+control lógico programable.
+Elementos finales de control.
+Entrenador de planta: simulador de un proceso químico/bioquímico
+industrial real.
+Equipo de evaluación aerodinámica.
+Equipo de permeabilidad.
+Equipo de regulación y control de procesos (pH, caudal, temperatura,
+presión, nivel).
+Equipo de tamizado.
+Equipos de disgregación de formas farmacéuticas.
+Equipos de disolución.
+Equipos de dureza.
+Equipos de friabilidad.
+Línea auxiliar de una planta farmacéutica: sistemas de presión, vacío,
+calefacción, vapor de agua, gases inertes, climatización del aire,
+esterilización del aire y tratamiento de agua.
+Equipos para la elaboración de formas farmacéuticas.
+Líneas de acondicionamiento.
+Material general esmerilado para montajes.
+Reactor químico / bioquímico equipado.
+Redes neuronales y sistemas de expertos.
+Sistemas de alarma, vigilancia y comunicación.
+Sistemas de control digital. Módulos de control, de cálculo o registro y
+monitores de visualización.
+Sistemas de control local.
+Sistemas de registro, manuales o informatizados.
+Útiles, herramientas y productos de mantenimiento.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33233
+Anexo IV
+Oferta de Grado C: certificados profesionales
+CERTIFICADO PROFESIONAL: QUI_C_006_5B. Organización y control de la industria
+farmacéutica, biotecnológica y afines.
+Código Módulo profesional Duración
+1387 Organización y gestión de la fabricación de productos farmacéuticos,
+130
+biotecnológicos y afines.
+1389 Operaciones básicas en la industria farmacéutica, biotecnológica y
+204
+afines.
+1393 Técnicas de producción biotecnológica. 200
+1394 Técnicas de producción farmacéutica y afines. 200
+1395 Regulación y control en la industria farmacéutica, biotecnológica y
+160
+afines.
+0191 Mantenimiento electromecánico en industrias de proceso. 74
+1782 Prevención de riesgos laborales. 50
+Total horas 1018 horas
+CERTIFICADO PROFESIONAL: QUI_C_007_5B. Acondicionamiento, calidad y seguridad en la
+industria farmacéutica, biotecnológica y afines.
+Código Módulo profesional Duración
+1387 Organización y gestión de la fabricación de productos farmacéuticos,
+130
+biotecnológicos y afines.
+1388 Control de calidad de productos farmacéuticos, biotecnológicos y
+204
+afines.
+1390 Principios de Biotecnología. 138
+1391 Seguridad en la industria farmacéutica, biotecnológica y afines. 73
+1392 Áreas y servicios auxiliares en la industria farmacéutica, biotecnológica
+110
+y afines.
+1396 Acondicionamiento y almacenamiento de productos farmacéuticos,
+82
+biotecnológicos y afines.
+1782 Prevención de riesgos laborales. 50
+Total horas 787 horas
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33234
+Anexo V
+Oferta de Grado B: certificados de competencia
+CERTIFICADOS DE COMPETENCIA incluidos en el Certificado profesional de Organización y
+control de la industria farmacéutica, biotecnológica y afines.
+Formación a cursar Certificado de competencia Duración
+1387. Organización y gestión de la QUI_B_1387. Organización y gestión de la
+fabricación de productos farmacéuticos, fabricación de productos farmacéuticos, 130
+biotecnológicos y afines. biotecnológicos y afines.
+1389. Operaciones básicas en la industria QUI_B_1389. Operaciones básicas en la
+farmacéutica, biotecnológica y afines. industria farmacéutica, biotecnológica y 204
+afines.
+1393. Técnicas de producción QUI_B_1393. Técnicas de producción
+200
+biotecnológica. biotecnológica.
+1394. Técnicas de producción QUI_B_1394. Técnicas de producción
+200
+farmacéutica y afines. farmacéutica y afines.
+1395. Regulación y control en la industria QUI_B_1395. Regulación y control en la
+farmacéutica, biotecnológica y afines. industria farmacéutica, biotecnológica y 160
+afines.
+0191. Mantenimiento electromecánico en QUI_B_0191. Mantenimiento
+74
+industrias de proceso. electromecánico en industrias de proceso.
+Total horas 968
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33235
+CERTIFICADOS DE COMPETENCIA incluidos en el Certificado profesional de Acondicionamiento,
+calidad y seguridad en la industria farmacéutica, biotecnológica y afines.
+Formación a cursar Certificado de competencia Duración
+1387. Organización y gestión de la QUI_B_1387. Organización y gestión de la
+fabricación de productos farmacéuticos, fabricación de productos farmacéuticos, 130
+biotecnológicos y afines. biotecnológicos y afines.
+1388. Control de calidad de productos QUI_B_1388. Control de calidad de
+farmacéuticos, biotecnológicos y afines. productos farmacéuticos, biotecnológicos y 204
+afines.
+1390. Principios de Biotecnología. QUI_B_1390. Principios de Biotecnología. 138
+1391. Seguridad en la industria QUI_B_1391. Seguridad en la industria
+73
+farmacéutica, biotecnológica y afines. farmacéutica, biotecnológica y afines.
+1392. Áreas y servicios auxiliares en la QUI_B_1392. Áreas y servicios auxiliares en
+industria farmacéutica, biotecnológica y la industria farmacéutica, biotecnológica y 110
+afines. afines.
+1396. Acondicionamiento y QUI_B_1396. Acondicionamiento y
+almacenamiento de productos almacenamiento de productos 82
+farmacéuticos, biotecnológicos y afines. farmacéuticos, biotecnológicos y afines.
+Total horas 737
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33236
+Anexo VI
+Oferta de Grado A: acreditaciones parciales de competencia
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1387. Organización y gestión de la fabricación de productos farmacéuticos, biotecnológicos y
+afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+RA1. Define la organización y áreas funcionales
+QUI_A_1387_01. Organización y áreas
+de una empresa farmacéutica o biotecnológica,
+funcionales de una empresa 30
+reconociendo los mecanismos de relación
+farmacéutica, biotecnológica.
+internos y externos.
+QUI_A_1387_02. Normas de correcta RA2. Caracteriza las normas de correcta
+fabricación y buenas prácticas de fabricación y buenas prácticas de distribución,
+30
+distribución de medicamentos y de relacionándolas con la seguridad y trazabilidad
+principios activos. del producto obtenido.
+QUI_A_1387_03. Guía de fabricación en RA3. Aplica la guía de fabricación de un proceso
+un proceso farmacéutico o farmacéutico o biotecnológico, siguiendo las 30
+biotecnológico. normas de correcta fabricación.
+RA4. Organiza las actividades de un área de
+QUI_A_1387_04. Organización de las
+trabajo, analizando los requerimientos 30
+actividades de un área de trabajo.
+planteados y las posibilidades de mejora.
+RA5. Caracteriza la normativa sobre
+QUI_A_1387_05. Normativa sobre autorización, farmacovigilancia de
+autorización, farmacovigilancia de medicamentos y obligación de confidencialidad 10
+medicamentos y confidencialidad. de los procedimientos de una empresa,
+analizando sus fundamentos.
+Total horas 130
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33237
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1389. Operaciones básicas en la industria farmacéutica, biotecnológica y afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+RA1. Caracteriza las operaciones difusionales y
+asegura el correcto funcionamiento de los
+QUI_A_1389_01. Caracterización de
+equipos de preparación de materias primas y 40
+operaciones de separación por difusión.
+productos, relacionándolas con su función en el
+proceso productivo.
+RA2. Determina las operaciones de separación
+QUI_A_1389_02. Caracterización de mecánica de preparación de materias primas y
+40
+operaciones de separación mecánica. productos, relacionándolas con sus
+propiedades.
+RA3. Determina operaciones de galénica de
+QUI_A_1389_03. Determinación de las preparación de materias primas y productos,
+40
+operaciones de galénica. relacionándolas con su función en el proceso
+productivo.
+RA4. Opera reactores, controlando las variables
+QUI_A_1389_04. Operaciones con
+implicadas. 55
+reactores
+RA5. Aplica las normas de prevención de
+QUI_A_1389_05. Prevención de riesgos
+riesgos laborales y de protección ambiental,
+laborales y protección ambiental en la
+identificando los riesgos asociados a los 29
+industria farmacéutica, biotecnológica y
+equipos.
+afines.
+Total horas 204
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33238
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1393. Técnicas de producción biotecnológica.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_1393_01. Preparación de RA1. Prepara las instalaciones y los equipos
+instalaciones y equipos en procesos de para procesos de producción biotecnológica, 25
+producción biotecnológica relacionándolos con su uso o aplicación.
+RA2. Aplica técnicas de cultivo de
+QUI_A_1393_02. Aplicación de técnicas
+microorganismos para la producción, siguiendo 30
+de cultivo para la producción.
+los procedimientos normalizados.
+QUI_A_1393_03. Aplicación de técnicas RA3. Aplica técnicas de cultivo de células
+de cultivo de células animales y animales y vegetales para la producción, 40
+vegetales para la producción. siguiendo procedimientos normalizados.
+RA4. Caracteriza los biorreactores,
+QUI_A_1393_04. Caracterización de
+relacionándolos con los procesos de 35
+biorreactores.
+producción biotecnológica.
+RA5. Caracteriza los procesos de biocatálisis,
+QUI_A_1393_05. Procesos de
+relacionándolos con la producción 35
+biocatálisis.
+biotecnológica.
+RA6. Reconoce los procesos de producción
+QUI_A_1393_06. Procesos de biotecnológica, relacionándolos con los
+35
+producción biotecnológica. métodos de separación y purificación de los
+productos finales.
+Total horas 200
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33239
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1394. Técnicas de producción farmacéutica y afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+RA1. Caracteriza los productos farmacéuticos y
+QUI_A_1394_01. Caracterización de afines, relacionándolos con los criterios de 36
+productos farmacéuticos y afines. clasificación y su aplicación.
+RA2. Caracteriza los procedimientos y técnicas
+QUI_A_1394_02. Caracterización de los
+de producción de formas farmacéuticas sólidas,
+procedimientos y técnicas de producción 36
+relacionándolas con las normas de correcta
+de formas farmacéuticas sólidas.
+fabricación.
+QUI_A_1394_03. Caracterización de los RA3. Caracteriza los procedimientos y técnicas
+procedimientos y técnicas de producción de producción de formas líquidas, semisólidas y
+36
+de formas farmacéuticas líquidas, otras, relacionándolas con las normas de
+semisólidas y otras. correcta fabricación.
+QUI_A_1394_04. Determinación de RA4. Determina las técnicas de producción para
+técnicas de producción para productos productos estériles, relacionándolas con las 50
+estériles. normas de correcta fabricación.
+QUI_A_1394_05. Fabricación de RA5. Fabrica productos farmacéuticos y afines,
+42
+productos farmacéuticos y afines. controlando las variables implicadas.
+Total horas 200
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33240
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1395. Regulación y control en la industria farmacéutica, biotecnológica y afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+RA1. Define los parámetros de control del
+QUI_A_1395_01. Parámetros de control
+proceso, analizando los requerimientos del 25
+de proceso.
+mismo.
+RA2. Maneja los instrumentos de medida,
+QUI_A_1395_02. Manejo de instrumentos
+relacionándolos con los parámetros 25
+de medida en un sistema de control.
+controlados.
+RA3. Aplica los sistemas de control básico,
+QUI_A_1395_03. Sistemas de control
+describiendo sus elementos y su importancia en 35
+básico.
+el proceso industrial.
+RA4. Caracteriza los sistemas de control
+QUI_A_1395_04. Sistemas de control
+avanzado, justificando su importancia en la 35
+avanzado.
+optimización de los procesos.
+QUI_A_1395_05. Programaciones RA5. Realiza programaciones básicas de
+básicas de controladores lógicos controladores lógicos programables (PLC), 40
+programables (PLC). simulando operaciones de producción.
+Total horas 160
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33241
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_0191. Mantenimiento electromecánico en industrias de proceso.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_0191_01. Identificación de RA1. Identifica los materiales que constituyen
+materiales constituyentes de equipos e los equipos e instalaciones de la industria de
+10
+instalaciones de la industria de proceso. proceso, relacionándolos con sus
+características y su utilización.
+QUI_A_0191_02. Caracterización de RA2. Analiza los elementos mecánicos de
+elementos mecánicos de equipos, equipos, máquinas e instalaciones, 16
+máquinas e instalaciones. reconociendo la función que realizan.
+QUI_A_0191_03. Caracterización de RA3. Caracteriza instalaciones hidráulicas y
+instalaciones hidráulicas y neumáticas. neumáticas, valorando su intervención en los 18
+procesos industriales.
+QUI_A_0191_04. Caracterización de RA4. Identifica las máquinas eléctricas
+máquinas eléctricas. relacionándolas con su finalidad dentro del 20
+proceso.
+QUI_A_0191_05. Caracterización de las RA5. Caracteriza acciones de mantenimiento
+acciones de mantenimiento en la industria justificando su necesidad. 10
+de proceso.
+Total horas 74
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33242
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1388. Control de calidad de productos farmacéuticos, biotecnológicos y afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_1388_01. Control de calidad en RA1. Aplica sistemas de control de calidad en
+fabricación y acondicionamiento de los procesos de fabricación y
+productos farmacéuticos, biotecnológicos acondicionamiento de productos farmacéuticos, 25
+y afines. biotecnológicos y afines, garantizando su
+funcionamiento y trazabilidad.
+QUI_A_1388_02. Planes de ensayos y RA2. Interpreta planes de ensayos y análisis de
+análisis de procesos de fabricación de procesos de fabricación de productos
+productos farmacéuticos, biotecnológicos farmacéuticos, biotecnológicos y afines, 25
+y afines. relacionándolos con criterios de aseguramiento
+de la calidad.
+QUI_A_1388_03. Planes de muestreo y RA3. Toma muestras según el plan de
+toma de muestra. muestreo, utilizando los procedimientos y 25
+recursos de cada etapa.
+QUI_A_1388_04. Ensayos físicos y RA4. Realiza ensayos físicos y fisicoquímicos
+fisicoquímicos para el control de calidad para controlar la calidad de los productos, 39
+de los productos. aplicando técnicas estandarizadas.
+QUI_A_1388_05. Análisis químico RA5. Realiza análisis químico cuantitativo para
+cuantitativo para el control de calidad de controlar la calidad de los productos en proceso, 50
+los productos. aplicando técnicas estandarizadas.
+QUI_A_1388_06. Ensayos RA6. Realiza ensayos microbiológicos o
+microbiológicos y/o biotecnológicos para biotecnológicos para controlar la calidad de los 40
+el control de calidad de los productos. productos, aplicando técnicas estandarizadas.
+Total horas 204
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33243
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1390. Principios de Biotecnología.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_1390_01. Organismos de interés RA1. Determina los organismos de interés
+biotecnológico. biotecnológico, identificando sus propiedades y 22
+aplicaciones biotecnológicas.
+QUI_A_1390_02. Técnicas RA2. Aplica técnicas cromatográficas para
+cromatográficas en identificación de identificar metabolitos celulares, describiendo 22
+metabolitos celulares. sus características.
+QUI_A_1390_03. Técnicas de extracción RA3. Aplica técnicas de extracción y separación
+y separación para la identificación de para identificar macromoléculas celulares, 30
+macromoléculas celulares. describiendo sus características.
+QUI_A_1390_04. Identificación de RA4. Identifica los procesos metabólicos,
+20
+procesos metabólicos. relacionándolos con el desarrollo celular.
+QUI_A_1390_05. Técnicas de RA5. Aplica técnicas de modificación genética,
+modificación genética. identificando sus ventajas para la mejora de la 24
+producción.
+QUI_A_1390_06. Técnicas básicas de RA6. Aplica las técnicas básicas de la
+bioinformática. bioinformática, identificando sus aplicaciones 20
+en los procesos biotecnológicos.
+Total horas 138
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33244
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1391. Seguridad en la industria farmacéutica, biotecnológica y afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_1391_01. Riesgos en las RA1. Caracteriza los tipos de riesgos,
+industrias farmacéutica, biotecnológica y relacionándolos con el proceso productivo en
+10
+afines. las industrias farmacéutica, biotecnológica y
+afines.
+QUI_A_1391_02. Instalaciones de RA2. Caracteriza las instalaciones de
+seguridad, equipos y dispositivos de seguridad, equipos y dispositivos de prevención
+16
+prevención de riesgos. de riesgos, interpretando la normativa de
+seguridad.
+QUI_A_1391_03. Seguridad en las RA3. Aplica las medidas de seguridad,
+industrias farmacéutica, biotecnológica y atendiendo a los procedimientos y métodos de 16
+afines. trabajo.
+QUI_A_1391_04. Protección ambiental RA4. Aplica medidas de protección ambiental,
+en las industrias farmacéutica, relacionándolas con la normativa. 21
+biotecnológica y afines.
+QUI_A_1391_05. Situaciones de RA5. Define actuaciones ante situaciones de
+emergencia en un proceso farmacéutico, emergencia en un proceso farmacéutico,
+10
+biotecnológico y afín. biotecnológico y afín, relacionándolas con los
+requerimientos de seguridad.
+Total horas 73
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33245
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1392. Áreas y servicios auxiliares en la industria farmacéutica, biotecnológica y afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_1392_01. Áreas de una planta RA1. Caracteriza las áreas de una planta de
+de producción de productos producción de productos farmacéuticos,
+farmacéuticos, biotecnológicos y afines. biotecnológicos y afines, relacionándolas con 12
+los requisitos de calidad, ambientales e
+higiénicos.
+QUI_A_1392_02. Operaciones con RA2. Opera con equipos e instalaciones de
+equipos e instalaciones de purificación purificación de agua, relacionándolos con las 18
+de agua. necesidades del proceso.
+QUI_A_1392_03. Operaciones con RA3. Opera con instalaciones de suministro
+instalaciones de suministro de aire y de aire y otros gases, cumpliendo la 12
+otros gases. normativa vigente.
+QUI_A_1392_04. Operaciones con RA4. Opera con equipos de presión y vacío,
+equipos de presión y vacío. siguiendo los procedimientos normalizados 18
+de trabajo.
+QUI_A_1392_05. Manejo de sistemas RA5. Maneja sistemas de producción de calor
+de producción de calor y frio. y frío, relacionando las condiciones
+18
+ambientales con las requeridas para el
+desarrollo de los procesos.
+QUI_A_1392_06. Manejo de equipos de RA6. Maneja equipos de transporte de
+transporte de materiales. materiales, analizando las características de
+22
+la instalación en función de los productos
+transportados.
+QUI_A_1392_07. Procesos de RA7. Determina los procesos de sanitización,
+sanitización, limpieza y desinfección en limpieza y desinfección en una planta de
+10
+una planta de producción. producción, relacionándolos con los
+requerimientos del proceso.
+Total horas 110
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33246
+ACREDITACIONES PARCIALES DE COMPETENCIA que figuran en el Certificado de competencia
+QUI_B_1396. Acondicionamiento y almacenamiento de productos farmacéuticos, biotecnológicos y
+afines.
+Código y denominación de la
+Formación a cursar Duración
+acreditación parcial de competencia
+QUI_A_1396_01. Operaciones de RA1. Define las operaciones de acondicionado,
+acondicionado. relacionándolas con el aseguramiento de la
+12
+estabilidad, seguridad y eficacia del producto
+final.
+QUI_A_1396_02. Caracterización de los RA2. Caracteriza los principales tipos de
+principales tipos de envases. envases, relacionándolos con las 12
+características de los productos.
+QUI_A_1396_03. Equipos e instalaciones RA3. Opera los equipos e instalaciones de
+de dosificación y acondicionamiento. dosificación y acondicionamiento primario y
+secundario de productos farmacéuticos y 12
+afines, asegurando el desarrollo óptimo de todo
+el proceso.
+QUI_A_1396_04. Instalaciones de RA4. Caracteriza las instalaciones de
+mantenimiento. almacenamiento, interpretando la normativa 17
+establecida.
+QUI_A_1396_05. Operaciones de RA5. Caracteriza las operaciones de recepción
+recepción y expedición. y expedición de productos y materiales, 17
+comprobando la documentación asociada.
+QUI_A_1396_06. Operaciones de RA6. Realiza el almacenamiento de productos,
+almacenamiento. justificando su distribución y organización en 12
+función de sus características.
+Total horas 82
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33247
+Anexo VII
+El anexo IA-2. 4º Duración, distribución horaria semanal y por cursos de los módulos
+profesionales del ciclo formativo de Técnico Superior Química Industrial queda modificado por:
+“Duración, distribución horaria semanal y por cursos de los módulos profesionales del ciclo
+formativo de Técnico/a Superior en Química Industrial”.
+Distribución de horas
+Módulos Horas Horas
+Horas
+Semanales Semanales
+Totales
+1º Curso 2º Curso
+0185. Organización y gestión en industrias químicas 129 3
+0186. Transporte de sólidos y fluidos 147 4
+0187. Generación y recuperación de energía 247 6
+0188. Operaciones básicas en la industria química 232 7
+0189. Reactores químicos 175 5
+0190. Regulación y control de proceso químico 247 6
+0191. Mantenimiento electromecánico en industrias de
+74 3
+proceso
+0192. Formulación y preparación de mezclas 95 3
+0193. Acondicionado y almacenamiento de productos
+148 4
+químicos
+0194. Prevención de riesgos en industrias químicas 81 2
+0179. Inglés profesional para ciclos formativos de
+60 2
+Grado Superior
+1665. Digitalización aplicada al sector productivo (GS) 50 2
+1708. Sostenibilidad aplicada al sistema productivo. 40 1
+1709. Itinerario personal para la empleabilidad I 80 3
+1710. Itinerario personal para la empleabilidad II 60 3
+Optatividad 80 4
+0195. Proyecto intermodular de industrias de proceso
+55 1 1
+químico
+Total 2000 30 30
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33248
+Anexo VIII
+El Anexo IIA-2. 4º Duración, distribución horaria semanal y por cursos de los módulos
+profesionales del ciclo formativo de Técnico Superior en Química Industrial en tres cursos
+académicos queda modificado por:
+“Duración, distribución horaria semanal y por cursos de los módulos profesionales del ciclo
+formativo de Técnico/a Superior en Química Industrial en tres cursos académicos
+Distribución de horas
+Horas Horas Horas
+Módulos Horas
+Semanales Semanales Semanales
+Totales
+1º Curso 2º Curso 3º Curso
+0185. Organización y gestión en
+129 3
+industrias químicas
+0186. Transporte de sólidos y fluidos 147 4
+0187. Generación y recuperación de
+247 6
+energía
+0188. Operaciones básicas en la
+232 7
+industria química
+0189. Reactores químicos 175 6
+0190. Regulación y control de proceso
+247 5
+químico
+0191. Mantenimiento electromecánico en
+74 2
+industrias de proceso
+0192. Formulación y preparación de
+95 3
+mezclas
+0193. Acondicionado y almacenamiento
+148 3
+de productos químicos
+0194. Prevención de riesgos en
+81 2
+industrias químicas
+0179. Inglés profesional para ciclos
+60 2
+formativos de Grado Superior
+1665. Digitalización aplicada al sector
+50 2
+productivo (GS)
+1708. Sostenibilidad aplicada al sistema
+40 1
+productivo.
+1709. Itinerario personal para la
+80 3
+empleabilidad I
+1710. Itinerario personal para la
+60 3
+empleabilidad II
+Optatividad 80 3
+0195. Proyecto intermodular de
+55 1 1
+industrias de proceso químico
+Total 2000 21 20 16

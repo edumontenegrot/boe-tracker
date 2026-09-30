@@ -1,0 +1,792 @@
+AÑO XLV Núm. 188 30 de septiembre de 2026 33351
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/09/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, por la que
+se formula el informe de impacto ambiental del proyecto: Permiso de investigación minera número 12.985
+para recursos de la sección C) denominado Nonus (términos municipales de Puebla de Don Rodrigo y
+Saceruela, Ciudad Real), expediente S478-2025-CR-0100, cuya promotora es la mercantil Pochico Resources
+SL. [2026/6950]
+El artículo 6.2 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, establece los
+proyectos que deben ser sometidos a una evaluación de impacto ambiental simplificada por el órgano ambiental
+para determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos a una evaluación de impacto ambiental ordinaria. Esta decisión debe ser motivada y
+pública, y se tiene que ajustar a los criterios establecidos en el Anexo III de dicha Ley.
+En concreto, el proyecto denominado “Permiso de investigación minera número 12.985 para recursos de la Sección
+C) denominado Nonus (TTMM de Puebla de Don Rodrigo y Saceruela, Ciudad Real)”, expediente S478-2025-
+CR-0100, promovido por la mercantil Pochico Resurces SL, se encuentra contemplada en el Anexo II de la Ley
+2/2020, dentro del Grupo 3 (Perforaciones, dragados y otras instalaciones mineras e industriales), apartado e) El
+otorgamiento de permisos de investigación, autorizaciones y cualquier tipo de concesión minera, incluyendo sus
+prórrogas (proyectos no incluidos en el anexo I).
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental presentado por el promotor el 18 de octubre de 2025, el Permiso de Investigación
+(PI) “Nonus” con número de registro minero 12.985 tiene por objeto investigar recursos minerales de la Sección
+C de la Ley 22/1973, de 21 de julio, de Minas, con especial atención a la ilmenita, rutilo, circón, fosfatos, hafnio y
+mineralizaciones de titanio y circonio. El proyecto se concibe como una actuación de carácter exploratorio destinada
+a determinar la existencia, distribución, entidad y posible interés económico de las mineralizaciones presentes, así
+como valorar la viabilidad de los trabajos posteriores.
+El ámbito de aplicación se localiza mayoritariamente en el término municipal de Puebla de Don Rodrigo y parte de
+Saceruela, ambos en la provincia de Ciudad Real. El PI comprende un conjunto de 182 cuadrículas mineras que
+ocupan una superficie aproximada de 5.460 ha distribuidas en una zona de elevado interés geológico. Todos los
+núcleos de población del entorno se ubican fuera del perímetro delimitado, encontrándose Puebla de Don Rodrigo
+anexo a su margen noroeste, Arroba de los Montes a 6,3 km al norte, Saceruela a más de 10 km al sur y Luciana a
+16,8 km al este.
+Las coordenadas de los 40 vértices que definen el límite del PI “Nonus” (referidas al Huso 30 en el sistema geodésico
+ETRS89) son las siguientes
+Vértice X Y Vértice X Y
+P 1 360.214,40 4.329.734,39 P 21 370.180,40 4.322.162,60
+P 2 361.655,57 4.329.708,87 P 22 371.142,07 4.322.146,80
+P 3 361.644,71 4.329.092,30 P 23 371.091,62 4.319.064,03
+P 4 363.566,41 4.329.058,69 P 24 369.648,55 4.319.087,78
+P 5 363.555,70 4.328.442,12 P 25 369.658,75 4.319.704,33
+P 6 364.997,09 4.328.417,22 P 26 367.253,81 4.319.744,49
+P 7 364.986,49 4.327.800,65 P 27 367.264,20 4.320.361,04
+P 8 365.466,99 4.327.792,41 P 28 366.302,30 4.320.377,31
+P 9 365.456,43 4.327.175,85 P 29 366.323,23 4.321.610,43
+P 10 364.495,36 4.327.192,36 P 30 363.918,85 4.321.651,62
+P 11 364.463,47 4.325.342,68 P 31 363.940,17 4.322.884,74
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33352
+P 12 366.866,72 4.325.301,62 P 32 363.459,37 4.322.893,06
+P 13 366.856,28 4.324.685,06 P 33 363.470,07 4.323.509,62
+P 14 368.298,34 4.324.660,78 P 34 361.547,01 4.323.543,23
+P 15 368.288,02 4.324.044,22 P 35 361.557,86 4.324.159,79
+P 16 369.249,47 4.324.028,18 P 36 359.154,21 4.324.202,46
+P 17 369.239,22 4.323.411,63 P 37 359.198,38 4.326.668,72
+P 18 369.719,98 4.323.403,65 P 38 360.640,12 4.326.643,03
+P 19 369.709,77 4.322.787,10 P 39 360.672,92 4.328.492,72
+P 20 370.190,57 4.322.779,15 P 40 360.192,45 4.328.501,26
+En el Anexo cartográfico de la presente resolución se refleja el ámbito del PI “Nonus” con la numeración de las
+cuadrículas mineras que lo integran.
+El acceso al área del permiso se realiza a través de la red principal, carretera N-430, en el tramo que une las
+localidades de Puebla de Don Rodrigo y Luciana, y la red de caminos existentes.
+El programa de investigación se estructurará de forma progresiva, iniciándose con una fase de recopilación de la
+información geológica, minera, tectónica, hidrogeológica, sísmica, mineralógica y petrográfica disponible. Dicha
+recopilación se fundamentará principalmente en los datos del Instituto Geológico y Minero de España (IGME), bases
+bibliográficas académicas, portales geoespaciales de la Administración Pública, así como planos de labores de
+antiguas explotaciones. La información se digitalizará e integrará posteriormente en sistemas georreferenciados.
+A continuación, se prevé un reconocimiento de campo con objeto de elaborar una cartografía geológico– minera
+con detalle estructural y labores mineras en superficie, de forma que se puedan establecer los afloramientos y la
+extensión de las formaciones mineralizadas con el mayor grado de detalle y fiabilidad. Se contempla la toma de datos
+topográficos y recogida de muestras para su análisis petrográfico, mineralógico y geoquímico. Las cantidades en cada
+punto de muestreo georreferenciado serán de un máximo de 2 kg y serán posteriormente trituradas en laboratorio.
+Como complemento a los estudios geológicos directos, el programa contempla la realización de campañas de
+geofísica de superficie para reconocer la estructura del subsuelo en zonas con potentes recubrimientos o como
+complemento en el reconocimiento de afloramientos. Estás técnicas no invasivas consisten el uso de instrumentación
+especializada (radiométrica, magnética, electromagnética, gravimétrica y/o geotérmica, según el recurso objetivo) a
+bordo de una aeronave (típicamente helicóptero o vehículo aéreo no tripulado). Entre estas técnicas se contempla
+el uso de Sondeos Electromagnéticos en el Dominio del Tiempo (SEDT) y de Gravimetría, que permitirá evaluar
+propiedades físicas clave como la resistividad o conductividad eléctrica del subsuelo, así como detectar anomalías
+gravimétricas derivadas de las diferencias de densidad entre los materiales, permitiendo seleccionar con mayor
+precisión las zonas con mayor potencial minero para la ejecución de trabajos de investigación más avanzados.
+La fase de investigación más intensa consistirá en la ejecución de sondeos con recuperación de testigo para obtener
+información detallada de las estructuras mineralizadas. Los testigos recuperados serán descritos, fotografiados
+y analizados en laboratorios especializados, generando una base de datos detallada sobre la composición y
+distribución de las mineralizaciones presentes.
+El proyecto contempla la ejecución de dos campañas de investigación con un total de 8 sondeos que se ejecutarán
+en las áreas de mayor interés geológico, según la interpretación de los afloramientos, registros bibliográficos previos
+y resultados de la tomografía eléctrica. De forma preliminar, se han determinado unas ubicaciones mediante análisis
+fotogeológico, seleccionadas bajo criterios de accesibilidad y mínima afección medioambiental. Las coordenadas de
+dichos sondeos (referidas al Huso 30 en el sistema geodésico ETRS89), se detallan a continuación:
+ID X Y ID X Y
+S-01 362.163 4.327.632 S-05 363.815 4.327.874
+S-02 363.067 4.325.442 S-06 362.025 4.326.298
+S-03 368.056 4.322.721 S-07 367.207 4.323.064
+S-04 370.392 4.321.139 S-08 367.842 4.321.993
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33353
+La perforación se ejecutará mediante el método de rotación con recuperación de testigo continuo con el sistema
+wire-line desde la superficie, estimándose una profundidad de entre 100 y 140 metros por sondeo. El diámetro
+nominal de perforación será HQ (96 mm), contemplándose la utilización de diámetros mayores PQ (122,6 mm) en
+los primeros metros para garantizar la estabilidad del terreno mediante su entubación, así como la reducción del
+diámetro a NQ (75,7 mm) en caso de que condicionantes técnicos o circunstancias adversas durante la perforación
+lo requieran. Durante la perforación se empleará agua con aditivos biodegradables y no tóxicos como fluido de
+circulación, destinado a refrigeración y evacuación de detritos. El consumo de agua estimado por sondeo es de
+entorno a los 100 o 200 m3, en función de su profundidad.
+El emplazamiento de la perforadora y sus elementos auxiliares ocupará una superficie de unos 200m², restituyéndose
+el terreno a su estado original tras la finalización de los sondeos. Con objeto de minimizar la afección temporal, las
+plataformas se ubicarán preferentemente en zonas improductivas de origen antrópico, áreas agrícolas antropizadas
+o pastizales. Asimismo, se seleccionarán emplazamientos que optimicen los accesos, priorizando siempre el uso de
+la red de caminos ya existente.
+Se podría plantear entubar con tubería de PVC ranurada algún sondeo para posteriores controles hidrogeológicos.
+En estos casos el emboquille quedará protegido con una pequeña arqueta metálica y cierre de seguridad, que
+permita la conservación del sondeo y la introducción de instrumentación (piezómetros, toma de muestras de agua,
+etc.). Los sondeos que no se entuben serán cementados y quedarán tapados tras los trabajos de restauración.
+El documento ambiental contempla, de forma excepcional y en función del progreso de la investigación, la apertura
+de calicatas en zonas con mineralización aflorante o subsuperficial. Éstas se realizan mediante retroexcavadora
+siguiendo la dirección de un determinado perfil de muestreo, alcanzando como profundidad máxima aquella que
+permita el brazo del equipo o hasta alcanzar el sustrato inalterado. En excavaciones superiores a 1,2–1,5 metros de
+profundidad, se procederá al taluzado o ensanche de las paredes para prevenir riesgos de colapso.
+Dado que la localización exacta de las calicatas no queda definida en la documentación presentada, su eventual
+ejecución quedará supeditada a que el promotor detalle su ubicación exacta y características técnicas dentro del
+correspondiente Plan de Labores Anual, el cual deberá obtener la conformidad previa y expresa del órgano ambiental
+antes del inicio de los trabajos.
+Tanto los testigos obtenidos en los sondeos, como las muestras de roca de reconocimientos sobre el terreno y
+posibles calicatas serán descritos, fotografiados y analizados en laboratorios especializados, generando una base
+de datos detallada sobre la composición y distribución de las mineralizaciones presentes.
+La información obtenida durante las distintas fases de trabajo será digitalizada e integrada en modelos geológicos
+tridimensionales elaborados mediante software especializado, el cual servirá para determinar si existen condiciones
+que justifiquen futuras fases de investigación o, en su caso, el planteamiento de un eventual proyecto minero
+sometido a los procedimientos ambientales y administrativos correspondientes.
+Concluidos los trabajos, se procederá a la restauración del entorno. Los efluentes generados, fundamentalmente
+lodos de perforación se depositarán en vertederos de inertes. Una vez finalizados los trabajos, estos residuos
+serán retirados y gestionados por gestores autorizados. No se contemplan vertidos a cauces públicos. Limpiado el
+emplazamiento, por medios mecánicos se hará una restauración morfológica del terreno para devolverlo a su estado
+original. Asimismo, previo a la preparación del emplazamiento, se valorará la necesidad de realizar alguna labor de
+repoblación en el caso de tener que afectar a terrenos que así lo requirieran.
+Las labores asociadas al PI tendrán una duración de tres años, siendo el plazo de vigencia que establece la
+legislación en materia de Minas para los permisos de investigación. Los trabajos de campo para la elaboración del
+mapa geológico-minero, se ha programado en el primer año de vigencia del permiso de investigación, mientras que
+la campaña de sondeos con recuperación de testigo se ha previsto durante el segundo y el tercer año. El documento
+ambiental señala que el número y localización de los sondeos es aproximado, puesto que su concreción en el
+proyecto de investigación, así como la necesidad de realización de calicatas dependerá de los resultados en fases
+previas.
+Los trabajos planteados no precisarán instalaciones fijas, casetas temporales de obra ni se requerirán suministros
+energéticos específicos, limitándose las necesidades exteriores al combustible de la maquinaria de perforación y de
+los vehículos de apoyo.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33354
+En el documento ambiental se plantean y analizan diversas alternativas relativas a la ejecución o no del proyecto, así
+como a los métodos exploración minera, aplicando para ello criterios técnicos, ambientales y sociales. La alternativa
+cero o de no actuación la descarta el promotor al impedir conocer la existencia real y potencial de explotación de un
+recurso minero estratégico de interés principal en la Unión Europea. La alternativa 1, es la alternativa seleccionada
+y corresponde a la opción descrita en los apartados anteriores. En cuanto a las metodologías de exploración, se han
+contrastado las técnicas geofísicas no invasivas frente a la ejecución de sondeos mecánicos con recuperación de
+testigo, determinándose la idoneidad de un enfoque combinado.
+Asimismo, el documento ambiental identifica y valora los posibles impactos ambientales derivados de las distintas
+actuaciones, proponiendo un conjunto de medidas preventivas y correctoras para su minimización, las cuales se
+consideran adecuadas y que resultan de obligado cumplimiento en el marco de la presente resolución. La efectividad
+de tales medidas será objeto de comprobación mediante la aplicación del Programa de Seguimiento y Vigilancia
+Ambiental (PVA), cuyas directrices se recogen, igualmente, en la documentación examinada.
+Segundo. Tramitación y consultas
+El 17 octubre de 2025 se recibe en el Servicio de Calidad Ambiental de la Delegación Provincial de la Consejería de
+Desarrollo Sostenible en Ciudad Real, la solicitud de inicio del procedimiento de Evaluación de Impacto Ambiental
+Simplificada del proyecto y el documento ambiental, dando cumplimiento al artículo 52 de la Ley 2/2020, de 7
+de febrero, de Evaluación Ambiental de Castilla-La Mancha. También se presentó copia del resguardo de la tasa
+correspondiente según la Ley 9/2012, de 29 de noviembre, de tasas y precios públicos de Castilla-La Mancha y otras
+medidas tributarias, y copia del Plan de restauración.
+El 03 de diciembre de 2025 el órgano ambiental notificó al promotor del proyecto que la documentación presentada
+junto con la solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53
+de la citada Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas
+interesadas, con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones
+consultadas han sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las
+consultas formuladas):
+1.- Ayuntamiento de Saceruela (*)
+2.- Ayuntamiento de Puebla de Don Rodrigo
+3.- Confederación Hidrográfica del Guadiana- Ciudad Real (*)
+4.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real-Servicio de Medio Natural (*)
+4.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real-Servicio de Incendios Forestales y Ayudas (*)
+5.- Delegación Provincial de Desarrollo Sostenible de Ciudad Real- Unidad Coordinación Provincial Agentes
+Medioambientales (*)
+6.- Delegación Provincial de Educación, Cultura y Deportes de Ciudad Real- Servicio de Cultura (*)
+7.- Ministerio de Transportes y Movilidad Sostenible-Unidad de Carreteras del Estado en Ciudad Real (*)
+8.- Dirección General de Carreteras- Servicio de Conservación y Explotación
+9.- Ecologistas en Acción de Ciudad Real.
+10.-Sociedad Española de Ornitología
+11.- Sociedad de Historia Natural de Ciudad Real.
+Para conocimiento completo y cumplimiento cuando proceda, los informes recibidos se publican en la sede electrónica
+de la Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia).
+Transcurrido el plazo sin haber recibido otras respuestas a las consultas, aparte de las ya indicadas, este órgano
+ambiental entiende que se tienen elementos de juicio suficientes para resolver. Las sugerencias y los aspectos más
+importantes que figuran en todos los informes recibidos en el órgano ambiental se incluyen en el apartado Cuarto
+de la presente Resolución.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33355
+3.1. Características del proyecto.
+Las características del proyecto se han reseñado en el apartado Primero de la presente Resolución. Se trata de la
+ejecución de actuaciones exploratorias en un Permiso de Investigación Nº 12.985 denominado “Nonus”, sobre 182
+Cuadrículas Mineras, con una superficie total de 5.460 hectáreas, para valorar la viabilidad de una futura explotación
+de los minerales de la Sección C: ilmenita, rutilo, circón, fosfatos, hafnio y mineralizaciones del titanio y circonio y
+mineralizaciones asociadas.
+3.2. Ubicación del proyecto.
+El área de actuación del PI “Nonus” se localiza al oeste de la provincia de Ciudad Real, afectando principalmente al
+término municipal de Puebla de Don Rodrigo y, una pequeña extensión al de Saceruela, en la provincia de Ciudad
+Real. La superficie total abarca 182 Cuadrículas Mineras, equivalentes a unas 5.460 hectáreas y se ubica en las
+hojas 757 y 758 del Mapa Topográfica Nacional a escala 1:50.000 denominada Puebla de Don Rodrigo y Las Casas
+del Río.
+El núcleo de población más cercano es el de Puebla de Don Rodrigo, muy próxima al límite noroeste del permiso,
+mientras que Saceruela queda a más de 10 km en dirección sur. El acceso a la zona de estudio puede realizarse
+desde la N-430, a través de la red de caminos existentes, o bien, a través de los campos de labor existentes, por lo
+que no se ejecutará acondicionamiento de accesos.
+Consultada la información del Catastro Minero de Castilla-La Mancha, se identifican varios permisos de investigación
+en el entorno inmediato y en colindancia con el proyecto. Destacan por su proximidad los PI “Río Frío” (nº 12.964),
+y “El Potro” (n.º 2.974), así como, otras solicitudes promovidas a Omnis Minería, S.L (perteneciente al mismo grupo
+empresarial que Pochico Resources, S.L.), denominados “Sextus” (n.º 12.970), “Septimus” (n.º 12.971) y “Octavus”
+(n.º 12.972). Por lo tanto, el PI “Nonus” está estrechamente vinculado con estos proyectos por lo que se considera
+necesario valorar adecuadamente los efectos sinérgicos y acumulativos derivados de la coincidencia espacial y
+temporal de distintas actuaciones.
+Según el informe de 3 de febrero de 2026 del Servicio de Medio Natural y Biodiversidad, el ámbito del PI “Nonus”
+se localiza en un territorio característico de los ecosistemas mediterráneos del suroeste de la provincia de Ciudad
+Real, con presencia de formaciones forestales y agroforestales, cursos fluviales y áreas abiertas, que constituyen
+hábitats potenciales para diversas especies de fauna catalogadas, especialmente avifauna de gran interés para la
+conservación.
+Desde un punto de vista de la conservación, el perímetro del permiso no se encuentran dentro los límites de ningún
+espacio natural protegido. No obstante, dicha superficie interfiere con el ámbito geográfico de un espacio de la Red
+Natura 2000, concretamente la ZEC-ZEPA “Ríos de la cuenca media del Guadiana y laderas vertientes” ES4220003.
+Esta superficie es parcialmente coincidente con áreas críticas para la supervivencia del Águila Perdicera (Aquila
+fasciata) y Cigüeña negra (Ciconia nigra) y Lince Ibérico (Lynx pardinus), según consta en los planes de recuperación
+aprobados para estas especies mediante Decreto 76/2016, Decreto 275/2003 y Decreto 276/2003, respectivamente.
+Además de zona de importancia para dichas especies y de otras como como águila imperial ibérica (Aquila adalberti),
+buitre negro (Aegypius monachus) y águila real (Aquila chrysaetos), todas ellas incluidas en distintas categorías de
+protección del Catálogo Regional de Especies Amenazadas de Castilla-La Mancha (Decreto 33/1998, de 05/05/1998)
+y altamente sensibles a las molestias derivadas de la presencia humana, el tránsito de maquinaria y las alteraciones
+del hábitat, también destacar la existencia de nidos de águila imperial, buitre negro, cigüeña negra, águila perdicera,
+buitre leonado, alimoche y águila real, tanto en la superficie del proyecto como en sus proximidades, estando la
+mayor parte de estas especies recogidas en el Anexo I de la Directiva 2009/147/CE, del Parlamento Europeo y del
+Consejo, relativa a la conservación de las aves silvestres.
+Otro aspecto que poner de manifiesto el interés ornitológico en este entorno es que la parte sur del PI forma parte
+del Área Importante para las Aves (IBA) Nº 192 denominada “Sierra de los Canalizos (Saceruela)”. En definitiva, la
+presencia de estas especies de avifauna amenazada podría suponer un factor muy limitante de cara al desarrollo de
+futuras explotaciones mineras derivadas del permiso de investigación en esta zona.
+Se ha constatado la existencia en la zona de diversos elementos geomorfológicos de especial protección, como
+vienen definidos en el art. 91, Anejo 1 D) de la Ley 9/1999, de Conservación de la Naturaleza, entre ellos “Lagunas
+y zonas endorreicas” y “Pedrizas en relieve”.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33356
+Como hábitats declarados de protección especial (HPE) aparecen los correspondientes a “hábitats naturales y
+escasos” del tipo “Comunidades rupícolas no nitrofilas”, “Vegetación flotante de nenúfares”; “Fresnedas olmedas”;
+“Tarayales y Galerías fluviales”y “turberas ácidas o básicas”. Asimismo, se incluyen “hábitats seminaturales de
+interés especial” tipo “Dehesas”.
+En relación a los Hábitats de Interés Comunitario (HIC) definidos en la Directiva 92/43/CEE del Consejo, de 21 de
+mayo de 1992, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres, se identifica el
+hábitat prioritario denominado “Estanques temporales mediterráneos” (3170). Además en el PI aparecen “Ríos de
+pisos de planicie a montano con vegetación de Ranunculion fluitantis y de Callitricho-Batrachion” (3260), “Dehesas
+perennifolias de Quercus spp” (6310), “Prados con molinias sobre sustratos calcáreos, turbosos o arcillo-limónicos
+(Molinion caeruleae)” (6410), “Prados húmedos mediterráneos de hierbas altas del Molinion-Holoschoenion” (6420),
+“Pendientes rocosas silíceas con vegetación casmofítica” (8220), “Robledales ibéricos de Quercus faginea y Quercus
+canariensis” (9240), “Alcornocales de Quercus suber” (9330), “Bosques de Quercus ilex y Quercus rotundifolia”
+(9340), “Bosques galería de Salix alba y Populus alba” (92A0) y “Galerías y matorrales ribereños termomediterráneos
+(Nerio-Tamaricetea y Securinegion tinctoriae)” (92D0). La existencia de los hábitats naturales protegidos reseñados
+supone una circunstancia limitante para la ejecución de labores como los sondeos, que estarían prohibidos en estas
+zonas.
+Consta también la existencia del Lugar de Interés Geológico (LIG) denominado “Meandros y estrecho de Las Hoces
+del Guadiana en Puebla de Don Rodrigo”, con el código CI223, cuyo ámbito incide sobre la mitad suroriental del área
+de estudio. La administración y gestión de este LIG corresponde al Instituto Geológico y Minero de España (IGME)
+y su afección deberá ser tenida en cuenta en la correspondiente evaluación de impacto ambiental ordinaria en caso
+de que se solicitase una futura concesión derivada de explotación del permiso de investigación minera.
+La mayoría de las cuadrículas mineras adscritas al PI se localizan en diferentes elementos del Inventario del
+Patrimonio Cultural de Castilla-La Mancha. En concreto, se constata solape espacial con el ámbito de Protección
+Arqueológica “Sierra de Peribáñez” (código 13068A1), así como con los ámbitos de Prevención Arqueológica
+denominados “Finca de Santa María” (13068B1), “Finca del Arenal” (13068B2), “Arenales del Chorro-Vega del Trillo”
+(13068B6), “La Higueruela” (13068B7) y “La Vega” (13068B9). De conformidad con el artículo 27 de la Ley 4/2013,
+de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha, cualquier intervención proyectada sobre un inmueble
+catalogado requiere la autorización previa de la Consejería competente.
+El proyecto se encuentra dentro de la Cuenca del Río Guadiana. Por el interior del perímetro discurren, entre otros,
+los cauces río Guadiana, Arroyo del Chorrito, Arroyo de las Canalejas, Arroyo de la Muilla, garganta de Gavilanes,
+garganta de Huerta Vieja y garganta de las Parras, que constituyen el Dominio Público Hidráulico del Estado,
+definido en el artículo 2 del Texto Refundido de la Ley de Aguas (Real Decreto Legislativo 1/2001, de 20 de julio).
+Los terrenos delimitados por las cuadrículas del PI se encuentran atravesados por dos vías pecuarias clasificadas
+en el Proyecto de Clasificación de las vías pecuarias del término municipal de Puebla de Don Rodrigo, aprobado por
+Orden Ministerial de 28 de febrero de 1967 (BOE nº 62 de 14 de marzo de 1967): La “Vereda de Fontanarejo”, con
+una anchura legal de 20,89 metros y el “Cordel de Navalrincón”, con una anchura legal de 37,61 metros.
+De la misma forma, en la parte sureste del permiso se ubica el Monte de Utilidad Públic, numero 14 de los del
+Catálogo en la provincia de Ciudad Real, denominado “Castilnegro”, en el término municipal de Puebla de Don
+Rodrigo, propiedad del Ayuntamiento de dicho municipio.
+La totalidad del PI se encuentra incluida en Zona de Alto Riesgo de Incendios Forestales (ZAR) “Montes Oeste de
+Ciudad Real”.
+3.3. Características del potencial impacto.
+Las principales actuaciones contempladas en el proyecto de investigación que pueden producir impactos ambientales
+negativos son los sondeos mecánicos profundos con recuperación de testigo y, eventualmente, las calicatas, puesto
+que entrañan una afección directa al terreno. La ejecución de estas labores supone una acción puntual de escasa
+extensión, con una duración efímera, siendo reversibles y recuperables a corto plazo siempre y cuando se adopten
+las medidas preventivas, cautelares y correctoras (restauración de los terrenos afectados) más adecuadas, así
+como las condiciones que figuran en la presente resolución. Asimismo, dada la existencia de otros proyectos y
+derechos mineros en el entorno, la planificación de los trabajos deberá tener en cuenta la posible superposición de
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33357
+impactos, evitando la concentración de actuaciones en el tiempo y el espacio que pudiera dar lugar a afecciones
+significativas sobre el medio natural.
+En base a lo expuesto, no se prevé que las labores asociadas al PI “Nonus” acarreen impactos ambientales negativos
+significativos, siempre que no afecten a los recursos y valores naturales protegidos existentes en el entorno de
+actuación.
+Se advierte que el hecho de que el permiso de investigación objeto de informe de impacto ambiental resulte viable a
+los efectos ambientales, no presupone ni garantiza que la futura concesión derivada de explotación sea compatible
+a estos efectos, aspecto que deberá concretarse en el correspondiente procedimiento de evaluación de impacto
+ambiental del proyecto o proyectos de explotación minera que pretendan desarrollarse en este entorno.
+Cuarto. Medidas preventivas y correctoras para la integración ambiental del proyecto
+Las medidas para la adecuada protección del medio ambiente indicadas por el promotor en el documento ambiental
+se deberán cumplir en cada fase del proyecto complementadas con las que se expresan a continuación, teniendo
+en cuenta que en los casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en
+la presente Resolución. Estas condiciones deberán tenerse debidamente en cuenta por el órgano sustantivo en el
+procedimiento de autorización del proyecto, de conformidad con el artículo 56.1 de la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha.
+4.1. Protección de la Red de Áreas Protegidas
+El entorno ocupado por el PI “Nonus” no afecta a espacios naturales protegidos. Sin embargo, gran parte de la
+misma interfiere con el ámbito geográfico de la ZEC/ZEPA ES4220003 denominada “Ríos de la cuenca media del
+Guadiana y laderas vertientes” siendo un lugar integrante de la Red Ecológica Europea Natura 2000 en Castilla-
+La Mancha, y por lo tanto una zona sensible a los efectos de la Ley 9/1999, de 26 de mayo, de Conservación de
+la Naturaleza de Castilla-La Mancha, integrado en la Red de Áreas Protegidas de esta Comunidad Autónoma.
+Según el Plan de Gestión aprobado para este lugar Natura 2000 en la Orden de 27/12/2016, de la Consejería de
+Agricultura, Medio Ambiente y Desarrollo Rural, el permiso de investigación afecta tanto a la zona de conservación
+y uso tradicional (Zona A), la zona de uso compatible (Zona B) y, en menor medida, a zona de uso especial (Zona
+C); en este particular, si las actuaciones contempladas en el permiso de investigación llegaran a modificar o alterar
+negativa y significativamente los hábitats y las poblaciones de especies protegidas por las Directivas Comunitarias
+y por la legislación autonómica, se considerarían actuaciones no compatibles y por lo tanto prohibidas con carácter
+general en todo el territorio de la ZEC/ZEPA.
+La cuadriculas del permiso de investigación también interfieren con otras zonas sensibles, como las áreas críticas
+para la supervivencia del Águila perdicera, Cigüeña negra y Lince ibérico según se refleja en los respectivos planes
+de recuperación aprobados para estas especies declaradas en peligro de extinción en Castilla-La Mancha, sirviendo
+las mismas limitaciones que en el caso de la ZEC/ZEPA. En concreto, el análisis cartográfico determina que los
+sondeos S-07 y S-08 se ubican a 150 m de la ZEC-ZEPA ES4220003 y de las áreas críticas de la cigüeña negra y el
+águila perdicera, requiriendo medidas preventivas de control del ruido y cronogramas de avifauna, como se detalla
+en el epígrafe siguiente.
+Una medida preventiva que se considera adecuada, es que el promotor no ha previsto realizar las campañas de
+sondeos mecánicos dentro de las citadas zonas sensibles, teniendo en cuenta que estos sondeos son las únicas
+actuaciones que potencialmente podrían producir impactos negativos significativos en las zonas afectadas.
+4.2. Protección de la flora y fauna silvestres.
+El documento ambiental contempla que los trabajos de investigación se realizan preferentemente en zonas agrícolas
+o improductivas, o en bordes de las parcelas o caminos, para minimizar la afección a vegetación. Una vez terminadas
+las labores de perforación, se acometerán las acciones de revegetación que sean necesarias dentro de las labores
+de restauración.
+Asimismo, se procurará que no se realicen labores simultáneas en diferentes zonas alejadas dentro del permiso,
+procurando que las actuaciones sean lo más compactas posibles en cuanto ocupación, evitando así posibles
+molestias sobre el área de caza y campeo utilizado por las especies de avifauna amenazada.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33358
+El Servicio de Medio Natural de Ciudad Real ha informado favorablemente con condicionantes el desarrollo del PI
+“Nonus”, el cual queda supeditado al cumplimiento riguroso de las prescripciones señaladas en su informe de 3 de
+febrero de 2026. Entre ellas, destaca la obligación de establecer una parada fenológica estricta durante el periodo
+de nidificación y reproducción para evitar afecciones sobre la avifauna amenazada (buitre negro, águila perdicera y
+águila imperial ibérica). En consecuencia, queda prohibida cualquier actividad técnica o logística en época sensible
+de estas especies:
+- Del 1 de enero al 31 de julio (ambos inclusive): para los sondeos S-01, S-02, S-05 y S-06.
+- Del 1 de enero al 31 de agosto (ambos inclusive): para los sondeos S-03, S-04, S-07 y S-08.
+El promotor deberá adaptar el cronograma de ejecución e integrarlo expresamente en los correspondientes Planes
+de Labores Anuales a presentar ante la Autoridad Minera, garantizando el respeto a la fenología de las especies
+indicadas.
+Con carácter previo al inicio de las labores asociadas al permiso de investigación, si el mismo es autorizado por
+el órgano sustantivo, se deberá balizar la zona estricta de las diferentes actuaciones previstas para minimizar la
+afección a la vegetación natural existente en el entorno, incluyendo los pasillos de trabajo de la maquinaria hacia
+estas zonas, siendo preferible ejecutar los sondeos mecánicos en terrenos agrícolas o en terrenos desprovistos de
+vegetación natural leñosa. Asimismo, se recomienda reducir la superficie de ocupación de cada sondeo a 100 m².
+Con objeto de preservar la vegetación natural y los hábitats presentes en el ámbito del proyecto, se deberán evitar,
+en la medida de lo posible, las actuaciones que impliquen eliminación de cubierta vegetal o alteración significativa
+del suelo en zonas de alto valor ambiental. Cualquier afección inevitable sobre vegetación natural o hábitats de
+protección especial deberá ser objeto de una valoración ambiental y autorización del organismo competente previa,
+adoptándose las medidas necesarias para minimizar el impacto y garantizar la correcta restauración de las zonas
+afectadas una vez finalizados los trabajos de investigación.
+Las operaciones que impliquen afección a la vegetación natural requieren autorización previa del Servicio de Medio
+Natural de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real, según determina el artículo 49 de la
+Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha. La presente resolución
+y su publicación en el DOCM no exime al promotor para solicitar y obtener la referida autorización. Si se pretenden
+eliminar los restos vegetales procedentes del desbroce, esta operación se efectuará a la mayor brevedad posible y
+exclusivamente con medios mecánicos (en ningún caso mediante el empleo del fuego) para evitar la aparición de
+plagas y enfermedades forestales, y para reducir el riesgo de incendios forestales.
+Como medida preventiva adicional, durante la ejecución de los sondeos mecánicos deberá respetarse una distancia
+mínima de 4 m a los ejemplares arbóreos que radiquen en las zonas de actuación, distancia que se medirá desde
+el borde exterior de la proyección de sus copas, para evitar afecciones negativas a los sistemas radicales de tales
+ejemplares. En esta restricción se excluyen los árboles propios de los cultivos agrícolas (olivos, almendros, etc.), salvo
+que los olivos tengan unos valores singulares (edades, porte, dimensiones, etc.) merecedores de salvaguardarlos.
+Para evitar la apertura de nuevos accesos a las zonas de trabajo se deberán aprovechar, en la mejor medida
+posible, los caminos y sendas existentes en el entorno. En su caso, los terrenos afectados por la apertura de nuevos
+accesos deberán restaurarse convenientemente y restituirse a las condiciones que presentaban genuinamente.
+Las zonas de acopio de materiales y demás instalaciones auxiliares se localizarán en lugares desprovistos de
+vegetación natural y fuera del dominio público hidráulico y viario, procurando que ocupen la menor superficie posible.
+Todas las zonas con presencia de vegetación natural (no protegida) que, en su caso, resulten afectadas por las
+labores del proyecto de investigación serán convenientemente restauradas en los términos que se indican en el
+documento ambiental presentado por el promotor. Las plantas que, en su caso, se utilicen para la revegetación de
+los terrenos afectados procederán de vivero o establecimiento de producción de planta forestal autorizado en la
+Comunidad Autónoma de Castilla-La Mancha, y tendrán una edad máxima de dos savias.
+El promotor del proyecto deberá comunicar al coordinador comarcal de los agentes medioambientales, con una
+antelación mínima de 10 días, la fecha de inicio y la localización de las diversas labores previstas durante el desarrollo
+del permiso de investigación, por si fuera necesario el jalonamiento del terreno para evitar afecciones a la vegetación
+natural de interés, o para evitar afecciones negativas significativas a las especies de fauna amenazada que pudieran
+estar presentes en las zonas de actuación.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33359
+Finalmente, cualquier modificación en el número, localización o características de los sondeos proyectados, así como
+la eventual ejecución de calicatas, deberá especificarse detalladamente en los correspondientes Planes Anuales de
+Labores que el promotor ha de presentar ante la Autoridad Minera. Dichas actuaciones quedarán supeditadas a la
+obtención de la conformidad expresa del Órgano Ambiental, previo informe del Servicio de Medio Natural de Ciudad
+Real.
+4.3. Protección frente a incendios forestales
+Según el informe del Servicio de Incendios Forestales y Ayudas, de 22 de junio de 2026, el PI “Nonus” se ubica
+en la Zona de Alto Riesgo de Incendios Forestales (ZAR) “Montes Oeste de Ciudad Real”. Los factores de riesgo
+identificados derivan principalmente del uso de maquinaria, del tránsito de vehículos, de la ejecución de sondeos y
+del manejo eventual de combustibles y lubricantes en el medio natural.
+En base a ello, el promotor deberá cumplir en todo momento lo establecido en la Ley 3/2008, de 12 de junio, de Montes
+y Gestión Forestal Sostenible y en el resto de la normativa de incendios forestales. En particular, durante la época de
+peligro (1 de junio a 30 de septiembre), se prohíbe la utilización de maquinaria y equipos en cuyo funcionamiento se
+genere deflagración, chispas o descargas eléctricas en los montes y en las áreas rurales situadas en una franja de
+400 m alrededor de aquéllos, salvo autorización expresa de la Delegación Provincial de la Consejería de Desarrollo
+Sostenible.
+Durante la ejecución de las actuaciones se aplicarán las medidas encaminadas a la prevención de incendios forestales
+durante la época de peligro alto definida en la Orden 76/2026, de 26 de mayo, de la Consejería de Desarrollo
+Sostenible, por la que se regulan medidas preventivas, usos del fuego y actividades con riesgo de incendio forestal
+en el medio natural, terrenos forestales y su zona de influencia en Castilla-La Mancha, así como en la Ley 3/2008,
+de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha, y todas las medidas de seguridad
+de la normativa que le sea de aplicación cualquier actuación.
+La utilización de maquinaria y equipos en monte (definido según artículo 3 de la Ley 3/2008, de 12 de junio, de
+Montes y Gestión Forestal Sostenible de Castilla-La Mancha) y en las áreas rurales situadas en una franja de 400
+metros alrededor de este, en cuyo funcionamiento se pueda generar deflagración, chispas o descargas eléctricas,
+así como la circulación con vehículos a motor por pistas forestales situadas fuera de la red de carreteras, requerirá
+autorización excepcional del Servicio de Incendios Forestales y Ayudas de la Delegación Provincial de Desarrollo
+Sostenible de Ciudad Real (https://www.jccm.es/tramites/1007597).
+Además, independientemente y sin perjuicio de lo indicado anteriormente en este apartado, la ejecución de las
+actuaciones estará también condicionada por el Índice de Propagación Potencial (IPP), especificando sus limitaciones
+en dicha autorización y a la Resolución de 06/07/2026, de la Viceconsejería de Medio Ambiente, por la que se aprueba
+el Plan de prevención, vigilancia y extinción de incendios forestales de Castilla-La Mancha para 2026, o norma que
+la sustituya, quedan establecidas prohibiciones y limitaciones que serán de aplicación de manera automática, y de
+forma temporal, en tanto el valor de dicho IPP de la comunidad autónoma de autónoma de Castilla-La Mancha sea
+muy alto o extremo. Este valor será el publicado en la siguiente dirección URL: https://infocam.castillalamancha.es/
+indice-de-propagacion-potencial
+Los restos procedentes de las cortas y desbroces de vegetación deberán ser retirados del monte, en el menor
+tiempo posible, no debiendo quedar ningún residuo en el comienzo de la época del peligro alto. Para la eliminación
+mediante quema deberá obtenerse autorización previa en la Delegación Provincial de Desarrollo Sostenible de
+Ciudad Real, quedando este sistema prohibido en época de riesgo alto.
+4.4. Geomorfología y Lugares de interés geológico (LIG)
+En el interior del PI “Nonus” podrían existir algunas pedrizas y/o crestones cuarcíticos relevantes, así como terrazas
+y cluses fluviales, todos ellos considerados como elementos geomorfológicos de protección especial por la Ley
+9/1999, de 26 de mayo, de Conservación de la Naturaleza.
+Según el artículo 94 de la Ley 9/1999, se prohíbe destruir o realizar acciones que supongan una alteración negativa
+de los elementos geomorfológicos de protección especial, salvo autorización de la Consejería de Desarrollo
+Sostenible, que podrá otorgarse en atención a unos intereses públicos de superior orden, siempre que no exista
+otra alternativa viable. Debido a esta circunstancia, las labores asociadas al permiso de investigación que impliquen
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33360
+remoción del terreno (calicatas y sondeos mecánicos) deberán excluirse del entorno ocupado por estos elementos
+geomorfológicos, en el caso de constatar su relevancia en este contexto.
+Los sondeos S-03, S-04, S-07 y S-08 afectan al Lugar de Interés Geológico (LIG) denominado “Meandros y
+estrecho de Las Hoces del Guadiana en Puebla de Don Rodrigo”, con el código CI223. En calidad de figuras
+legales responsables de la conservación del patrimonio geológico, previo a cualquier actuación, se deberá recabar
+el informe del Instituto Geológico y Minero de España (IGME), y/o del Miteco, con el fin de incorporar las posibles
+restricciones, así como las condiciones técnicas de estos sondeos propuestos en el LIG.
+4.5. Protección del sistema hidrológico e hidrogeológico.
+Por el interior del perímetro del PI discurren, entre otros, los cauces río Guadiana, Arroyo del Chorrito, Arroyo de las
+Canalejas, Arroyo de la Muilla, garganta de Gavilanes, garganta de Huerta Vieja y garganta de las Parras. Según
+el Informe de Confederación Hidrográfica del Guadiana, de fecha 3 de diciembre de 2026, los sondeos previstos
+están fuera de los márgenes de protección del Dominio Público Hidráulico (DPH) y zona de policía. En todo caso, se
+recuerda que cualquier actuación que se realice en el DPH y en sus márgenes de protección (zona de servidumbre
+y zona de policía) requiere autorización administrativa previa del Organismo de cuenca, que se realizará siguiendo
+el procedimiento normal regulado en el Reglamento del DPH, aprobado por el Real Decreto 849/1986, de 11 de abril,
+con las salvedades y precisiones que en aquel se indican.
+Según la documentación aportada, las labores para la ejecución de los sondeos con recuperación de testigo se
+realizarán en vía húmeda y precisarán un consumo de agua de entorno a los 100 o 200 m3/sondeo en función de la
+longitud del sondeo. En este caso, se recuerda que el promotor deberá justificar fehacientemente la procedencia y el
+origen legal del agua empleada, así como la que pueda utilizarse como medida preventiva para evitar las emisiones
+de polvo a la atmósfera durante la perforación de los sondeos. Bajo estas circunstancias, se aclara que cualquier
+uso privativo del agua en el ámbito competencial de esta la Confederación Hidrográfica del Guadiana deberá estar
+amparado necesariamente por un derecho al uso de la misma.
+Por otro lado, el proyecto no contempla la generación de vertidos de aguas residuales al DPH. No obstante, para
+garantizar la compatibilidad de las actuaciones previstas con la protección del DPH, así como con los objetivos de
+calidad ambiental y conservación del medio hídrico, no se añadirá a las aguas de perforación ninguna tipología
+de productos que puedan ser contaminantes del suelo o de algún elemento que pueda entrar en contacto con las
+masas de agua subterránea y derive en posibles focos de contaminación de estas, incluyendo la correcta gestión
+de los lodos de perforación. Las fichas técnicas de los aditivos de perforación se adjuntarán en los planes anuales
+de labores.
+4.6. Protección de infraestructuras y dominio público.
+El acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas, utilizando siempre la traza ya
+existente. Se respetará las zonas y caminos de uso público y otras servidumbres que existan, que serán transitables
+de acuerdo con sus normas específicas y el Código Civil.
+Según el informe del Servicio de Medio Natural y Biodiversidad, de 3 de febrero de 2025, la zona del PI “Nonus”
+afecta al monte de Utilidad Pública Nº 14 del CUP de Ciudad Real denominado “Castilnegro”, perteneciente al
+Ayuntamiento de Puebla de Don Rodrigo. Teniendo en cuenta que el promotor no pretende realizar sondeos dentro
+de MUP, en principio no existirá afección al dominio público forestal. En caso contrario, si se pretendieran ejecutar
+sondeos u otras labores asociadas al permiso de investigación que impliquen un uso consuntivo significativo en el
+interior del monte de Utilidad Pública, el promotor deberá contar con la autorización previa de la entidad titular del
+monte así como con la autorización de ocupación temporal emitida por el órgano forestal de la Comunidad Autónoma,
+la cual deberá solicitarla ante el Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de
+Ciudad Real. En el trámite de otorgamiento, en su caso, de la citada autorización de ocupación temporal en el monte
+público el órgano forestal deberá tener en cuenta la compatibilidad de las actuaciones con los fines que motivaron
+la declaración de Utilidad Pública de este monte.
+Asimismo, el ámbito del permiso de investigación está atravesado por las vías pecuarias “Vereda de Fontanarejo”
+y “Cordel de Navalrincón”, clasificadas con anchura legal de 20,89 metros y 37,61 metros, respectivamente, según
+el Proyecto de Clasificación de las vías pecuarias del término municipal de puebla de Don Rodrigo, aprobado por
+Orden Ministerial de 28 de febrero de 1967 (BOE nº 62 de 14 de marzo de 1967). Si bien, la ubicación concreta de los
+sondeos no afecta al trazado de dichas vías pecuarias, el sondeo S-01, se encuentra próximo a ésta. En cualquier
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33361
+caso, se respetará el trazado de las vías pecuarias afectadas y las actividades deberán cumplir lo establecido en la
+Ley 9/2003, de 20 de marzo, de Vías Pecuarias de Castilla-La Mancha.
+Por otro lado, el Servicio de Carreteras en su informe de 19 de diciembre de 2025 indica que el ámbito del PI “Nonus”
+afecta a la carretera nacional N-430 y la carretera autonómica CM-430, siendo el sondeo S02 el más cercano a la
+N-430. Si se pretenden realizar sondeos mecánicos dentro de las zonas de protección que al respecto establece la
+legislación específica que regula dichas infraestructuras, el promotor deberá solicitar las preceptivas autorizaciones
+previas ante los Órganos competentes y atenerse al condicionado que, en su caso, figure en tales autorizaciones.
+En ambas carreteras, la zona de protección está formada por una franja de 50 metros a ambos lados a contar desde
+la arista exterior de la explanación de la vía, de conformidad con la Ley 37/2015, de 29 de septiembre, de carreteras.
+Respecto a la posible afección a los caminos de uso público, el promotor deberá solicitar autorización ante el
+Ayuntamiento de Puebla de Don Rodrigo, debiendo respetar en cualquier caso la integridad física y la transitabilidad
+de estos caminos para su uso por terceras personas en condiciones de seguridad. Si se produjeran afecciones
+o alteraciones negativas a los caminos públicos como consecuencia del tránsito de la maquinaria y vehículos
+asociados a las labores del permiso de investigación, el promotor queda obligado a reparar tales caminos y dejarlos
+en las mismas condiciones que su estado genuino.
+4.7. Protección de bienes materiales, incluido el patrimonio cultural
+Según el informe emitido por el Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de
+Ciudad Real, el PI “Nonus” se localiza en un área de alta susceptibilidad de afección al Patrimonio Histórico, por lo
+que podrían resultar afectados elementos patrimoniales inventariados en la Carta Arqueológica del municipio.
+Por lo tanto, en aplicación del art. 48 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha,
+se debe efectuar un Estudio de Valoración Histórico-Cultural realizado de acuerdo a los arts. 49 y 50 de la citada ley,
+para poder identificar, describir y valorar los efectos de dicho proyecto sobre el patrimonio histórico, evaluando su
+correspondiente viabilidad/compatibilidad y medidas correctoras.
+En cumplimiento de dicha obligación legal, el promotor presentó el 11 de agosto de 2025 la solicitud de autorización
+y el correspondiente Proyecto de Intervención Arqueológica —redactado por personal técnico cualificado—, siendo
+este autorizado y condicionado por la Viceconsejería de Cultura y Deportes mediante Resolución (expte. 25.2125R).
+Por lo tanto, una vez que el permiso de investigación sea otorgado por la autoridad minera, el promotor deberá
+solicitar las preceptivas autorizaciones ante el Servicio de Cultura de Ciudad Real, y en su caso cumplir los términos
+establecidos en la Resolución de autorización correspondiente, sin perjuicio del deber de actuar, en el caso de que
+aparecieran restos arqueológicos, conforme a lo previsto en el artículo 44.1 de la Ley 16/1985, de 25 de junio, del
+Patrimonio Histórico Español, y el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La
+Mancha, para garantizar su control arqueológico antes de continuar con la ejecución del proyecto.
+4.8. Protección del suelo y Generación de residuos.
+La gestión de los residuos resultantes de las labores de prospección y exploración asociadas al permiso de
+investigación que impliquen la extracción de material se realizará conforme al Real Decreto 975/2009, de 12 de
+junio, sobre gestión de los residuos de industrias extractivas y de protección y rehabilitación del espacio afectado
+por actividades mineras, modificado por el Real Decreto 777/2012, de 4 de mayo.
+Todos los residuos generados durante el desarrollo de las labores de investigación estarán sujetos a lo dispuesto en
+la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular y en el Decreto 35/2024,
+de 2 de julio, por el que se aprueba el Plan Integrado de Gestión de Residuos de Castilla-La Mancha 2030. Tras la
+finalización de las campañas de investigación y de la restauración de los terrenos afectados por la perforación de los
+sondeos, la zona de actuación debe quedar libre de residuos.
+Los residuos deben ser caracterizados y separados para determinar su naturaleza y destino, y almacenarlos sin
+que se produzcan riesgos para la salud humana y el medio ambiente, garantizando la fluidez en su salida en
+cumplimiento del artículo 7 de la referida Ley 7/2022.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado. En caso de
+cualquier incidencia, como derrame accidental de combustibles o lubricantes, se actuará de forma que se restaure
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33362
+el suelo afectado, extrayendo la parte de suelo contaminado, que deberá ser recogido y transportado por gestor
+autorizado para su posterior tratamiento
+Dada esta circunstancia el promotor, o en su caso el contratista de los trabajos de investigación, deberá estar inscrito
+en el Registro de Productores de Residuos de Castilla-La Mancha y suscribir el correspondiente contrato con un
+gestor autorizado. Estas premisas también son de aplicación para los trapos, prendas y papeles impregnados con
+estas sustancias contaminantes. Para prevenir la generación de fugas fortuitas en cantidades significativas, deberá
+revisarse toda la maquinaria que intervenga en las labores de investigación, en especial las máquinas perforadoras
+encargadas de los sondeos mecánicos.
+Durante la ejecución de las campañas de sondeos mecánicos, si estos se realizaran en vía húmeda, únicamente
+podrán añadirse aditivos naturales al agua empleada. Queda estrictamente prohibida la adición de productos
+susceptibles de contaminar el suelo o los acuíferos subterráneos. Asimismo, para garantizar la correcta gestión
+de los lodos de perforación, las balsas o cubetas empleadas permanecerán impermeabilizadas mediante una
+lámina plástica de alta resistencia y, tras la finalización de los trabajos, sus residuos serán retirados y gestionados
+correctamente.
+De acuerdo con el artículo 35 de la Ley 7/2022, el promotor deberá presentar una comunicación previa al inicio de
+las actividades de producción y gestión de residuos ante la Dirección General de Economía Circular y Agenda 2030.
+Los trámites relacionados con la inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha
+(altas, bajas o modificación), deberá realizarlos a través de la página Web de la Consejería de Desarrollo Sostenible,
+en el enlace https://www.jccm.es/tramites/1002628.
+En general, todas las obras, construcciones e instalaciones que se realicen y todos los usos que se desarrollen en
+suelo clasificado como rústico deberán cumplir estrictamente la legislación sectorial que en cada caso los regule,
+y ceñirse al Decreto Legislativo 1/2023, de 28 de febrero, por el que se aprueba el Texto Refundido de la Ley de
+Ordenación del Territorio y de la Actividad Urbanística, al Decreto 242/2004, de 27 de julio, por el que se aprueba
+el Reglamento del Suelo Rústico, modificado por el Decreto 177/2010, de 1 de julio, y al planeamiento territorial
+y urbanístico municipal. Deberán tenerse en cuenta los requisitos exigidos por la Orden 4/2020, de 8 de enero,
+de la Consejería de Fomento, por la que se aprueba la Instrucción Técnica de planeamiento sobre determinados
+requisitos sustantivos que deberán cumplir las obras, construcciones e instalaciones en suelo rústico.
+Se respetarán las barreras de piedra que pudieran existir en las lindes como medida de conservación de suelos
+agrícolas, de forma que estas seguirán cumpliendo la función de retención de suelos frente a escorrentía superficial.
+4.9. Protección de la atmósfera, calidad del aire y prevención del ruido.
+La ejecución de los sondeos mecánicos podría acarrear la emisión de material particulado a la atmósfera,
+fundamentalmente durante la perforación del terreno y el tránsito de la maquinaria y otros vehículos asociados sobre
+caminos y viales de firme natural o no pavimentados, con la consiguiente suspensión de polvo en la atmósfera. Por
+lo tanto, durante la ejecución de estas labores se adoptarán todas las medidas necesarias para evitar la emisión de
+polvo.
+La maquinaria de perforación, si el método no es en vía húmeda, deberá disponer de captadores de polvo y
+silenciadores, y no trabajar en días ventosos. Con estas premisas, se evita que se produzcan episodios de
+contaminación a la atmósfera durante la ejecución de las campañas de sondeos. Si las labores de exploración se
+realizan en periodos secos o de aridez prolongada, las emisiones de polvo podrían resultar significativas, por lo
+que para minimizarlas en la mejor medida posible las superficies afectadas por estas labores (pasillos de trabajo
+de la maquinaria, etc.) deberán humedecerse periódicamente regándolas desde una cuba acoplada a un tractor,
+camión cisterna o cualquier dispositivo que cumpla eficazmente con esta misión. Los fangos procedentes de la
+perforación de los sondeos deberán captarse de las respectivas balsas de decantación y reutilizarse para el relleno
+de los agujeros creados, restituyendo todo el terreno afectado por el sondeo a su estado genuino, que incluye la
+integración de las balsas de decantación.
+Los vehículos y la maquinaria asociados a la ejecución de las labores del proyecto deberán circular a una velocidad
+inferior a 20 km/h cuando transiten por caminos o pistas de firme natural, así como pasar las inspecciones técnicas
+pertinentes, en especial las revisiones referentes a las emisiones de gases.
+En cuanto a la prevención del ruido, se adoptarán las medidas y dispositivos en maquinaria y equipos asociados
+a la actividad para disminuir al máximo el nivel de ruido generado. Se procederá a la revisión y control periódico
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33363
+de los silenciadores de los escapes, rodamientos, engranajes y mecanismos de la maquinaria conforme determina
+el Real Decreto 212/2002, de 22 de febrero, por el que se regulan las emisiones sonoras en el entorno debidas a
+determinadas máquinas de uso al aire libre, modificado por el Real Decreto 524/2006, de 28 de abril. El promotor
+también será responsable del cumplimiento de la Ley 37/2003, de 17 de noviembre, del Ruido, y sus reglamentos
+de desarrollo, así como lo que puedan establecer al efecto las ordenanzas municipales de Puebla de Don Rodrigo.
+La ejecución de los trabajos no podrá realizarse en horario nocturno.
+Se considera que el riesgo de accidentes que puedan comprometer el medio ambiente, teniendo en cuenta las
+sustancias y tecnologías empleadas, es mínimo o muy reducido siempre y cuando se adopten las prescripciones
+establecidas en la presente resolución.
+4.10. Plan de restauración.
+La restauración de las zonas afectadas por las diversas labores exploratorias deberá estar en consonancia con
+el Plan de Restauración presentado por el promotor ante la autoridad minera, de acuerdo con el Real Decreto
+975/2009, de 12 de junio, sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación
+del espacio afectado por actividades mineras. En su caso, el Plan de Restauración deberá incorporar todos los
+aspectos reseñados en la presente resolución relativos a la correcta ejecución y restauración ambiental del proyecto,
+si los mismos no estuvieran contemplados.
+Una vez finalizados los trabajos de exploración e investigación, todas las zonas afectadas deberán quedar libres
+de materiales, residuos, etc. y restituir el terreno a su estado original. La restauración de los terrenos afectados
+se realizará con carácter inmediato tras la finalización de las labores asociadas al permiso de investigación, en
+particular los sondeos mecánicos.
+En las revegetaciones de los terrenos forestales que, en su caso, puedan resultar afectados, deberán seleccionarse
+especies autóctonas características de la serie de vegetación climatófila presente en el entorno de actuación, dando
+primacía en la composición de la plantación a las especies arbóreas, arbustivas y subarbustivas, cumpliendo con
+todo lo especificado al respecto en el apartado 4.2 de la presente resolución (origen de la planta, etc.).
+Previamente a su autorización, la autoridad minera (órgano sustantivo) deberá poner en conocimiento del órgano
+ambiental los planes anuales de labores del permiso de investigación presentados por el promotor. Entre otros
+aspectos normativos y formales, en los planes anuales de labores se deberá constatar fehacientemente las fechas
+de ejecución de las diferentes labores realizadas y/o previstas, así como la localización exacta de los sondeos
+mecánicos en el terreno. También se especificarán los trabajos de restauración completados durante el periodo
+correspondiente al plan de labores presentado con la finalidad de valorarlos oportunamente, y las incidencias
+ambientales que, en su caso, hayan surgido durante la ejecución de todas las labores.
+En lo no dispuesto en este condicionado, se atenderá a las recomendaciones de los agentes medioambientales de
+la zona, quienes podrán ejercer la supervisión ambiental de la actuación.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+el seguimiento para el cumplimiento de las prescripciones contenidas en el presente informe de impacto ambiental
+corresponden al órgano sustantivo (Servicio de Minas de la Delegación Provincial de Desarrollo Sostenible de
+Ciudad Real), sin perjuicio de la información que pueda recabar el órgano ambiental al respecto, y efectuar las
+comprobaciones necesarias para verificar el cumplimiento del condicionado expresado.
+Desde el inicio de la actividad y durante toda la vida útil del proyecto, incluida la restauración de los terrenos
+afectados por los sondeos mecánicos, se realizará un informe compendio de las visitas de control previstas en el
+Plan de Seguimiento y Vigilancia Ambiental (PSVA) del proyecto a lo largo del año natural correspondiente.
+Este informe anual deberá reflejar la correcta implantación de las medidas cautelares, preventivas y correctoras
+previstas en el documento ambiental y en la presente resolución, así como la valoración de su eficacia durante
+dicho año, indicando la adecuación de tales medidas y la necesidad de modificar y/o implementar aquellas que se
+hayan considerado necesarias para mitigar los impactos detectados, en su caso. En el informe compendio anual
+se incluirán anexos cartográficos y fotográficos para facilitar su interpretación (fotografías georreferenciadas y con
+marca de agua que evidencien la localización y características de las actuaciones), reflejando especialmente la
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33364
+ejecución de los sondeos mecánicos y la restauración del terreno tras dichas labores. El informe anual deberá
+incorporar un anejo que incluya todos los informes internos generados en las sucesivas visitas a lo largo del año
+correspondiente. Este informe deberá estar suscrito conjuntamente por el promotor y por el responsable del PSVA
+del proyecto designado por el promotor, y se presentará anualmente ante el órgano sustantivo (Servicio de Minas)
+y el órgano ambiental (Servicio de Calidad Ambiental) antes del 1 de abril del año siguiente al de la campaña
+de seguimiento y vigilancia efectuada. Si las circunstancias así lo aconsejan, el órgano ambiental podrá exigir al
+responsable del PSVA la emisión de informes de carácter extraordinario al informe compendio anual. La entidad
+responsable del PSVA deberá cumplir con el procedimiento, requisitos y obligaciones previstos en el Titulo IV de la
+Ley 4/2025, de 11 de julio, de Simplificación, Agilización y Digitalización Administrativa.
+El órgano ambiental podrá recabar información y realizar los cotejos que considere necesarios y oportunos para
+verificar el cumplimiento del condicionado del presente informe de impacto ambiental. De las inspecciones llevadas
+a cabo, si se comprueba que surgen efectos perjudiciales para el medioambiente no previstos en el documento
+ambiental presentado por el promotor o en la presente resolución, podrán derivarse modificaciones de las actuaciones
+previstas con el fin de lograr la consecución de los objetivos establecidos en este informe de impacto ambiental.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes extremos:
+- Control de la ejecución de los trabajos de investigación y restauración conforme a las prescripciones que figuran en
+la presente Resolución, en los informes emitidos por los organismos consultados, así como las que se proponen en
+el documento ambiental presentado por el promotor mientras no se opongan o contradigan a las primeras.
+- Control de que los trabajos se realizan en las áreas autorizadas.
+- Control de la gestión de los materiales, residuos y lodos de perforación que pudieran generar episodios de
+contaminación al suelo, subsuelo, aguas subterráneas y aguas superficiales.
+- Control de lo establecido en el apartado 4.2. Protección a la flora y fauna de la presente Resolución, especialmente
+en lo relativo a la parada fenológica de los trabajos durante el período de nidificación y reproducción de especies
+protegidas.
+- Control de la no afección al nivel freático.
+- Control del cumplimiento de las condiciones que figuren en la autorización emitida por la Delegación Provincial de
+Educación, Cultura y Deportes de Ciudad Real para los trabajos de prospección arqueológica previos, así como el
+control de la aparición de restos arqueológicos durante la ejecución de las labores de exploración.
+- Control e inspección del estado de conservación del firme y estructura de los caminos y carreteras afectados por
+el tráfico de los vehículos y maquinaria asociados al proyecto de investigación.
+Sexto. Documentación adicional.
+El promotor del Permiso de Investigación número 12.985 “Nonus” deberá presentar la siguiente documentación, en
+formato digital, ante el órgano sustantivo, el cual remitirá una copia al órgano ambiental:
+a) Antes de la autorización sustantiva del proyecto:
+(*) Plan de Restauración de las zonas afectadas por las labores asociadas al permiso de investigación acomodado
+a las prescripciones establecidas en la presente resolución, y conforme al Real Decreto 975/2009, de 12 de junio,
+sobre gestión de los residuos de las industrias extractivas y de protección y rehabilitación del espacio afectado por
+actividades mineras. El Plan de Restauración deberá ser informado favorablemente por el órgano ambiental antes
+de su autorización por el órgano sustantivo.
+b) Antes del inicio de la actividad, una vez que el permiso de investigación haya sido otorgado por el órgano sustantivo:
+(*) Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y bajo los
+requisitos y obligaciones previstos en el Titulo IV de la Ley 4/2025, de 11 de julio, de Simplificación, Agilización y
+Digitalización Administrativa.
+(*) Comunicación a los agentes medioambientales de la comarca de la fecha prevista para el inicio de la actividad
+de cada sondeo con una antelación mínima de 10 días. La ejecución del proyecto se realizará bajo la supervisión
+y el seguimiento ambiental de los Agentes Medioambientales de la zona, debiendo atenderse a las indicaciones y
+sugerencias que estos establezcan.
+(*) Planes anuales de labores presentados por el promotor ante la autoridad minera para su informe por el órgano
+ambiental. Entre otros aspectos formales, en los planes anuales de labores deberán consignarse la localización
+exacta de los sondeos mecánicos o calicatas previstos para cada fase y un cronograma de ejecución de las labores
+(considerando las paradas fenológicas de las especies protegidas que se establece en el apartado 4.2. Protección
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33365
+a la flora y fauna de la presente Resolución). El órgano sustantivo no podrá autorizar dichos planes sin el informe
+favorable previo del órgano ambiental.
+- Autorizaciones que correspondan de los Ayuntamientos afectados por la ejecución del proyecto.
+- Autorización de ocupación temporal de terrenos en el monte de Utilidad Pública Nº 14 del CUP de Ciudad Real
+denominado “Castilnegro”, en su caso.
+- Autorización excepcional del Servicio provincial de Incendios Forestales y Ayudas para trabajar en época de riego
+alto y extremo de incendios forestales, en su caso.
+- Copia de la autorización emitida por la Confederación Hidrográfica del Guadalquivir para la ejecución de los
+sondeos mecánicos en la zona de policía de los cauces afectados, en el caso de que tales sondeos afecten a estas
+márgenes de protección.
+- Copia de la documentación que acredite fehacientemente la procedencia y el origen legal del agua utilizada, en su
+caso, en las diferentes labores asociadas al proyecto de investigación.
+- Autorizaciones que correspondan de la Dirección General de Carreteras- Demarcación de Carreteras del Estado
+en Castilla-La Mancha.
+- Si como consecuencia de la ejecución de los trabajos o por necesidades no previstas en el proyecto, se estima
+necesario el acceso a través de carreteras competencia de la Consejería de Fomento, o bien, desarrollar obras
+dentro de sus zonas de protección, deberá solicitarse y obtenerse la previa autorización conforme Decreto 1/2015,
+de 22 de enero.
+c) Iniciada la actividad:
+- (**) Antes del 1 de abril de cada año, desde el inicio de la actividad y durante toda la vigencia del permiso de
+investigación: Informes anuales sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia
+ambiental según las condiciones que figuran en la presente Resolución. Se indicará, entre otras, número de calicatas
+y sondeos finalmente realizados, profundidades y coordenadas UTM (ETRS89) de cada uno de ellos. Se incluirán
+las diversas autorizaciones y otros requisitos administrativos adicionales que, en su caso, sean necesarios solicitar
+para llevar a cabo su ejecución (incluidas las fichas técnicas de los aditivos o lodos de perforación).
+- (**) Con carácter inmediato, cualquier incidencia ocurrida durante la ejecución de las labores y que pueda tener
+repercusión sobre los valores ambientales, fauna y flora amenazada, y recursos naturales presentes en el ámbito
+del proyecto, así como circunstancias que supusiesen riesgos para especies incluidas en el Catálogo Regional de
+Especies Amenazadas.
+d) Una vez finalizado el proyecto y las tareas de restauración correspondientes:
+(*) Memoria descriptiva de la restauración ejecutada, especificando la localización exacta, las fechas de los trabajos
+ejecutados y el resultado de los mismos, así como las posibles incidencias ambientales que hayan podido tener
+lugar durante la realización de tales trabajos.
+El órgano sustantivo remitirá una copia de la documentación marcada con (*) al órgano ambiental (Servicio de
+Calidad Ambiental de Ciudad Real). El promotor presentará la documentación indicada con (**) ante el órgano
+sustantivo y ante el órgano ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Ciudad Real, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero, y el
+Decreto 17/2026, de 14 de abril, en el ejercicio de las atribuciones conferidas por la Resolución de 24/05/2024, de la
+Dirección General de Calidad Ambiental, por la que se delegan competencias en las delegaciones provinciales de la
+Consejería de Desarrollo Sostenible, y conforme al artículo 54.2.b de la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, resuelve que el proyecto denominado “Permiso de investigación minera número
+12.985 para recursos de la Sección C) denominado Nonus (TT.MM. de Puebla de Don Rodrigo y Saceruela, Ciudad
+Real)”, incoado en el expediente S478-2025-CR-0100, promovido por la mercantil Pochico Resurces S.L., no necesita
+someterse a una evaluación de impacto ambiental ordinaria al estimar que no tiene efectos significativos en el medio
+ambiente, siempre que se cumplan las condiciones expresadas en el presente informe de impacto ambiental.
+Se advierte que el hecho de que el permiso de investigación minera número 12.985 “Nonus” haya resultado viable
+a los efectos ambientales, no presupone que su futuro pase a concesión derivada de explotación sea compatible
+a estos efectos, aspecto que deberá determinarse en el correspondiente procedimiento de evaluación de impacto
+ambiental del proyecto de explotación que, en su caso, su promotor solicite ante la autoridad minera.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33366
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible tal y como establece el artículo 54.3 de la Ley 2/2020, de 7 de febrero, de
+Evaluación Ambiental de Castilla-La Mancha.
+El presente informe de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar la prórroga de la vigencia del informe de impacto ambiental antes de que transcurra
+el plazo de la misma, la cual se podrá conceder, en su caso, por dos años adicionales contados a partir de la
+finalización del plazo inicial de vigencia, para lo cual se estará a lo dispuesto en el artículo 55 de la Ley 2/2020. En el
+caso de producirse la caducidad, el promotor deberá iniciar nuevamente el procedimiento de evaluación de impacto
+ambiental simplificada del proyecto.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno, sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días hábiles
+desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La Mancha
+un extracto con el contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica la
+decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha en
+el que se ha publicado el presente informe de impacto ambiental.
+Se adjunta anexo cartográfico con el ámbito del PI “Nonus” y la enumeración de las cuadrículas mineras.
+Ciudad Real, 22 de septiembre de 2026
+El Delegado Provincial
+P.S. (Decreto 6/2024, de 20 de febrero)
+por el que se modifica
+el Decreto 112/2023, de 25 de julio)
+El Secretario Provincial
+ÁNGEL LEAL EIZAGUIRRE
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33367
+ANEXO CARTOGRÁFICO
+Ámbito del Permiso de Investigación CRC 12.985 denominado “Nonus”

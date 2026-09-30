@@ -1,0 +1,166 @@
+AÑO XLV Núm. 188 30 de septiembre de 2026 33321
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 18/09/2026, de la Dirección General de Transición Energética, sobre modificación de la
+instalación solar fotovoltaica denominada BESS Tarancón para hibridación de la instalación solar fotovoltaica
+Tarancón. (Referencia: 2713/00002). [2026/6920]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Cuenca y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la modificación de la instalación de almacenamiento
+denominada “Bess Tarancón”, con las siguientes características:
+- Referencia: 2713/00002-M1 - 2703/01370 (DP:162706-00012 - 162702-00826(FV)).
+- Peticionario: Generadora Eléctrica IX, S.L. – NIF: B56105299.
+- Documentación técnica: Anexo modificatorio al Proyecto de ejecución denominado Bess ”Tarancón”, cuyo autor es
+el ingeniero técnico industrial Javier Tielas Sánchez, colegiado nº 4770 del Colegio Oficial de Peritos e Ingenieros
+Técnicos Industriales de Málaga y declaración responsable del técnico competente proyectista ambos con fecha de
+firma digital 26/08/2026.
+- Características después de la modificación: Instalación híbrida de almacenamiento de energía en baterías de 5,040
+MW de potencia instalada, 2 baterías con 12 inversores cada una, 1 estación de potencia con 1 transformador,
+acometida subterránea interior MT de 20 kV s/c y modificación del centro de transformación y del centro de
+seccionamiento y medida existentes de la planta solar fotovoltaica “Tarancón”, para terminar evacuando en la
+STR Tarancón 20 kV, propiedad de i-DE Redes Eléctricas Inteligentes, S.A.U. Las actuaciones a realizar serán las
+siguientes:
+1. Instalación de almacenamiento de energía en baterías ubicada en las parcelas 332 y 336 del polígono 501 del
+término municipal de Tarancón (Cuenca), formada por 2 contenedores o baterías electroquímicas LFP (cátodo de
+fosfato de hierro-litio) de la marca Sungrow, modelo ST5015UX o similar, con una capacidad nominal unitaria de
+5.015 kWh y 2 horas de autonomía, con 12 inversores cada una de la marca Sungrow, modelo SC210HX o similar,
+en total 24 inversores todos ellos con una potencia unitaria en CA de 210 kW @45ºC. La potencia total en inversores
+será de 5,040 MW que corresponde a la potencia instalada. La potencia instalada del conjunto de la hibridación será
+de 9,84 MW.
+2. Según los últimos permisos actualizados de acceso y conexión de fecha 30 de julio de 2026 por parte de la empresa
+distribuidora i-DE Redes Eléctricas Inteligentes, S.A.U., el sistema de almacenamiento en baterías se prepara sin
+capacidad de carga desde la red (capacidad concedida en régimen de demanda: 0 kW), de forma que la carga del
+almacenamiento se realizará únicamente a partir de la generación interna de la planta solar fotovoltaica existente
+y en funcionamiento. Estos permisos también indican que no se concede para el sistema de almacenamiento en
+baterías capacidad de vertido adicional en el punto de conexión a la ya concedida para la planta solar fotovoltaica,
+es decir, que la capacidad de vertido total para el conjunto de la hibridación en el punto de conexión es de 4,25 MW.
+3. Estación de potencia, marca Sungrow, modelo MVS5140-LS o similar: cuya finalidad es la elevación de 690V a
+20 kV. Dispone de 1 transformador de 5.140 kVA @40 C y 3 celdas modulares de MT libres de SF6: 1 de línea, 1 de
+protección del transformador con interruptor automático y 1 de reserva. Además, de 1 transformador de SSAA de
+120 kVA 690/400 V.
+4. Acometida subterránea de MT de 20 kV s/c, de longitud total aproximada 25 m, que conecta la estación de
+potencia con el centro de seccionamiento y medida existente. Conductor Al HEPRZ1 12/20 kV y sección 3x(1x240)
+mm².
+5. Modificación de centro de seccionamiento y medida (CSM) de la planta solar fotovoltaica existente. Se realizará
+una reconfiguración funcional de las posiciones existentes y una ampliación mediante la incorporación de 3 nuevas
+celdas de MT. La celda de línea existente asociada a la entrada de la planta solar fotovoltaica, se reasignará a
+la entrada de la instalación de almacenamiento en baterías. Las 3 nuevas celdas de MT serán 1 de protección
+automática para la planta solar fotovoltaica, 1 de protección automática para el almacenamiento en baterías y 1 de
+medida asociada al almacenamiento en baterías. En total el CSM dispondrá de 8 celdas modulares de MT de corte y
+aislamiento en SF6: 2 de línea, 1 de protección con ruptofusible de SSAA, 3 de protección con interruptor automático
+y 2 de medida (1 de ellas asociada al conjunto total de la hibridación).
+6. Modificación del centro de transformación (CT) de la planta solar fotovoltaica existente. Se incorpora 1 nueva celda
+de medida de MT asociada a la planta solar fotovoltaica. En total el CT dispondrá de 1 transformador de 5.000 kVA
+20/0,8 kV, 3 celdas modulares de MT de corte y aislamiento en SF6: 1 de línea, 1 de protección del transformador
+con interruptor automático y 1 de medida, así como 1 transformador de SSAA de 25 kVA 800/400V.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33322
+- Situación: Polígono 501, parcelas 332 y 336 del término municipal de Tarancón (Cuenca).
+- Evacuación: Actualización de los permisos de acceso y conexión de fecha 30/07/2026 por parte de la empresa
+distribuidora i-DE Redes Eléctricas Inteligentes, S.A.U. para la nueva potencia instalada en Bess.
+- Finalidad: Hibridación, entre un sistema de almacenamiento de energía en baterías electroquímicas LFP (cátodo
+de fosfato de hierro-litio) y la planta solar fotovoltaica “Tarancón” existente y en funcionamiento, consiguiendo el
+aprovechamiento completo de la energía renovable generada.
+Antecedentes de hecho.
+Primero: Mediante resolución de 28/05/2026 de la Dirección General de Transición Energética se otorgó a Generadora
+Eléctrica IX, S.L. autorización administrativa previa y de construcción de las instalaciones de referencia. Dicha
+resolución se publicó en el DOCM Núm. 106 de 08/06/2026.
+Segundo: El 26/08/2026 Generadora Eléctrica IX, S.L., solicitó autorización administrativa previa y de construcción
+de la modificación del proyecto, con las características indicadas.
+Tercero: Respecto al cumplimiento de la normativa de evaluación de impacto ambiental: la instalación dispone de
+contestación inicial del Servicio de Calidad Ambiental de Cuenca de fecha de firma digital 05/03/2026 por el que
+queda exenta del trámite de evaluación de impacto ambiental simplificada al encontrarse ubicada en el interior del
+recinto vallado de la planta solar fotovoltaica existente con la que hibrida, y que ya fue evaluada según Resolución
+de 15/01/2022, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, por la que se formula el informe de
+impacto ambiental (expediente PRO-CU-21-1153).
+Cuarto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, no se considera necesario consultar a las Administraciones
+públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general que fueron
+identificadas con bienes o servicios a su cargo afectadas por la instalación, puesto que no hay nuevas afecciones
+ni variación de las existentes.
+Quinto: La Delegación Provincial de Desarrollo de Sostenible de Cuenca cumplió con lo establecido en la resolución
+de 3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as
+delegados/as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 31/08/2026 informe
+favorable a las solicitudes realizadas.
+Sexto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable a las solicitudes realizadas.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007, de 19/6/2007, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica
+a tramitar por la Junta de Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y demás
+normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe alguna que impida otorgar la autorización administrativa previa y autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33323
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud Resuelve: Otorgar a Generadora Eléctrica IX, S.L., la autorización administrativa previa y de construcción
+de la modificación de las instalaciones eléctricas de referencia, con las características anteriormente indicadas,
+sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se cumplirá lo establecido en la Resolución de 15/01/2022, de la Delegación Provincial de Desarrollo
+Sostenible de Cuenca, por la que se formula el informe de impacto ambiental del proyecto “PSF Tarancón”, así como
+lo establecido en los informes emitidos por el órgano ambiental, en el marco de lo dispuesto en la normativa básica
+aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y demás normativa
+autonómica de aplicación.
+Sexta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Séptima: El titular debe, en su caso, comunicar al gestor de red la modificación de los datos que constan en los
+permisos de acceso y conexión obtenidos, en cumplimiento de lo dispuesto en la disposición adicional decimocuarta
+del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que en su punto
+4 establece que “En aquellos casos en los que las instalaciones con permisos de acceso y conexión solicitados
+y/o concedidos hayan sufrido modificaciones que impliquen que dichas instalaciones puedan ser consideradas
+las mismas de acuerdo con lo establecido en esta disposición, los titulares deberán actualizar la solicitud de los
+permisos de acceso y conexión, o en su caso, actualizar los permisos de acceso y conexión concedidos para
+adaptarlos a las características de la instalación modificada”, para que, en su caso proceda a actualizar los permisos
+de acceso y conexión.
+Octava: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+
+AÑO XLV Núm. 188 30 de septiembre de 2026 33324
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 18 de septiembre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
