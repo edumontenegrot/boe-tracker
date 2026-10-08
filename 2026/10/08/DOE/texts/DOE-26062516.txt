@@ -1,0 +1,748 @@
+NÚMERO 195
+42267
+Jueves 8 de octubre de 2026
+III OTRAS RESOLUCIONES
+VICEPRESIDENCIA Y CONSEJERÍA DE PRESIDENCIA, COORDINACIÓN DE
+LA ACCIÓN DE GOBIERNO, INTERIOR Y EMERGENCIAS
+RESOLUCIÓN de 1 de octubre de 2026, de la Secretaría General, por la
+que se da publicidad al Convenio entre el Servicio Extremeño de Salud y
+Sandoz Farmacéutica, SA, para el Área de Salud de Cáceres. RCN202600273.
+(2026062516)
+Habiéndose firmado el día 29 de septiembre de 2026, el Convenio entre el Servicio Extremeño
+de Salud y Sandoz Farmacéutica, SA, para el Área de Salud de Cáceres. RCN202600273, de
+conformidad con lo previsto en el artículo 19 del Decreto 154/2025, de 18 de noviembre, por
+el que se regula la actividad convencional y el Registro General de Convenios de la Adminis-
+tración de la Comunidad Autónoma de Extremadura,
+RESUELVO:
+La publicación en el Diario Oficial de Extremadura del Convenio que figura como anexo de la
+presente resolución.
+Mérida, 1 de octubre de 2026.
+El Secretario General,
+DAVID GONZÁLEZ GIL
+
+NÚMERO 195
+42268
+Jueves 8 de octubre de 2026
+CONVENIO ENTRE EL SERVICIO EXTREMEÑO DE SALUD Y SANDOZ FARMACÉUTICA, SA,
+PARA EL ÁREA DE SALUD DE CÁCERES.
+29 de septiembre de 2026.
+De una parte, Dña. Encarnación Solís Pérez, en nombre y representación del Servicio Extre-
+meño de Salud, en calidad de Directora Gerente de dicho Organismo, cargo para el que fue
+nombrado por Decreto 61/2026, de 5 de mayo (DOE n.º 85, de 6 de mayo de 2026), ac-
+tuando en el ejercicio de la competencia atribuida en el artículo 4.d) del Anexo I del Decreto
+221/2008, de 24 de octubre, por el que se aprueban los Estatutos del Organismo Autónomo
+Servicio Extremeño de Salud, modificado por el Decreto 109/2026, de 26 de mayo, por el que
+se establece la estructura orgánica de la Consejería de Salud y Atención a la Dependencia y
+se modifican el Decreto 221/2008, de 24 de octubre, por el que se aprueban los Estatutos del
+Organismo Autónomo Servicio Extremeño de Salud y el Decreto 222/2008, de 24 de octubre,
+por el que se aprueban los Estatutos del Servicio Extremeño de Promoción de la Autonomía y
+Atención a la Dependencia.
+Y de la otra parte, la sociedad Sandoz Farmacéutica, SA (en adelante, denominada “SAN-
+DOZ”), provista de NIF n.º A08233801, con domicilio social en el Centro Empresarial Parque
+Norte, Edificio Roble c/ Serrano Galvache 56, CP 28033, Madrid, representada en este acto
+por D. Rafael Martínez Cabeza de Vaca y D. Jesús Vidart Anchia, ambos en su calidad de apo-
+derados de la compañía cargo para el que fueron nombrados por el notario Gerardo Conesa
+Martinez y Juan Manuel Perllo Font respectivamente.
+A los efectos del presente documento, SES y SANDOZ, podrán ser designadas conjuntamente
+como “Entidades” o individualmente mediante su propia denominación.
+EXPONEN
+I. El SES es un organismo autónomo de carácter administrativo, creado por la Ley 10/2001,
+de 28 de junio, de Salud de Extremadura, adscrito a la Consejería competente en materia
+de sanidad de la Administración de la Comunidad Autónoma de Extremadura, dotado de
+personalidad jurídica propia y plena capacidad de obrar para el cumplimiento de sus fines,
+así como de tesorería propia y facultades de gestión del patrimonio afecto.
+II. El SES está asimismo interesado en mejorar la seguridad del paciente, la eficiencia clí-
+nica y la calidad asistencial e integrar la medicina personalizada en la práctica diaria del
+farmacéutico hospitalario por ello quiere colaborar con SANDOZ en el uso, seguimiento y
+evaluación de la HERRAMIENTA.
+III. SANDOZ, es una compañía farmacéutica dedicada a la investigación, desarrollo, fabrica-
+ción y distribución de productos biofarmacéuticos en diversas áreas terapéuticas, está
+
+NÚMERO 195
+42269
+Jueves 8 de octubre de 2026
+interesada en fomentar la innovación tecnológica y el uso de herramientas tecnológicas
+de valor añadido que contribuyan a la mejora del sistema público de salud y a la eficien-
+cia económica para proporcionar un beneficio directo a los pacientes y que ayuden a la
+sostenibilidad del sistema, y a generar una mayor eficiencia en el uso de los recursos
+disponibles garantizando una mejor atención al paciente.
+IV. SANDOZ dentro de sus propuestas de valor, y que van orientadas a mejorar el Sistema de
+Salud, aboga por aportar soluciones de diversa índole que a medio y a largo plazo con-
+tribuyan a una mejor atención al paciente a través de proyectos que ayuden al sistema
+sanitario a identificar áreas para optimizar sus recursos y crear eficiencias en la gestión.
+Dentro de esta propuesta de valor, que abarca diferentes aspectos, SANDOZ está intere-
+sado en ofrecer al Hospital licencias del software MwPharm++® de la empresa Mediware
+SA (en adelante la “HERRAMIENTA”), con el objetivo de mejorar la atención del paciente,
+ya que esta Herramienta permite una monitorización terapéutica individualizada, basada
+en modelos farmacocinéticos y farmacodinámicos adaptados a datos reales, facilitando el
+ajuste de dosis personalizado, la optimización de tratamientos y una mayor eficiencia en la
+toma de decisiones clínicas por parte de los profesionales sanitarios.
+V. Que, atendiendo a los referidos intereses comunes y considerándolos mutuamente benefi-
+ciosos para sus objetivos, las Entidades desean suscribir el presente Convenio (el “Conve-
+nio”) que se regirá por las siguientes,
+CLÁUSULAS
+1. Objeto y ámbito de aplicación del Convenio.
+El presente Convenio tiene como objeto regular la colaboración entre el SES y SANDOZ
+para la implementación conjunta de la Herramienta en el Área de salud de Cáceres, con el
+fin de mejorar la atención al paciente.
+Para la consecución de dicho fin se desarrollará un modelo de trabajo conjunto (en adelan-
+te, “el Proyecto”), que permita acceder a la Herramienta a los profesionales del servicio de
+farmacia hospitalaria, así como obtener datos sobre su correcto funcionamiento gracias a
+la experiencia de los mismos en su uso. Dicha Herramienta permite optimizar la dosifica-
+ción individualizada de determinados tratamientos mediante modelos farmacocinéticos y
+farmacodinámicos validados, así como la simulación de regímenes de dosificación adapta-
+dos a las características fisiológicas de cada paciente, lo que permite un ajuste terapéutico
+más preciso y eficaz.
+Se adjunta como Anexo I la definición más detallada del Proyecto.
+
+NÚMERO 195
+42270
+Jueves 8 de octubre de 2026
+El Proyecto no implica trasladar a los profesionales sanitarios participantes en el mismo
+ninguna información u obsequios de naturaleza promocional relacionados con los pro-
+ductos comercializados por SANDOZ. El Proyecto tampoco implica la obtención de datos
+personales de pacientes ni del personal del SES (salvo los estrictamente necesario para
+la consecución del Proyecto) ni datos comerciales de otros laboratorios farmacéuticos. En
+cualquier caso, si accidentalmente así fuera, SANDOZ no tendrá acceso a dichos datos en
+ningún caso.
+Las Entidades declaran que el presente Convenio, no busca ni promueve incentivar la re-
+comendación, prescripción, compra, suministro, venta o administración de medicamentos
+de SANDOZ.
+2. Obligaciones de las Entidades.
+(i) Por parte del SES, a través de la Gerencia del Área de Salud de Cáceres:
+— Asignar la dedicación y los recursos suficientes para la ejecución del Convenio.
+— Proporcionar a SANDOZ los resultados y la información sobre el uso de la Herra-
+mienta. Esta información consistirá en dos encuestas de satisfacción por parte de los
+usuarios de la Herramienta:
+a. La encuesta, adjunta en el Anexo II, deberá realizarse y ser facilitada a SANDOZ
+a los seis (6) meses de la implementación de la HERRAMIENTA.
+b. La encuesta, adjunta en el Anexo III, tendrá que ser facilitada a SANDOZ a los
+doce (12) meses de la implementación de la HERRAMIENTA, es decir, cuando fi-
+naliza el Proyecto.
+— Facilitar el acceso y el uso a la Herramienta de los profesionales sanitarios asignados,
+capacitados y cualificados para la correcta ejecución del Convenio;
+— Vigilar y favorecer la coordinación entre los profesionales sanitarios y el cumplimien-
+to de las medidas de monitorización del convenio.
+— Cumplir la normativa aplicable en materia de protección de datos personales, en re-
+lación con los datos personales que son incorporados en la Herramienta. Asimismo,
+no introducir en la Herramienta datos que no cuenten con las garantías adecuadas
+de licitud, pertinencia y minimización;
+— Utilizar la Herramienta exclusivamente en el marco del Convenio (durante la duración
+del mismo – un (1) año). Cualquier uso de la Herramienta para motivos ajenos al
+
+NÚMERO 195
+42271
+Jueves 8 de octubre de 2026
+queda expresamente prohibido, si no se obtiene el consentimiento expreso y escrito
+de SANDOZ previamente.
+El SES se compromete a mantener indemne a SANDOZ frente a reclamaciones derivadas
+exclusivamente de la actividad asistencial o cualquier actuación o incumplimiento cuya
+responsabilidad sea imputable al SES en relación con el uso de la Herramienta.
+(ii) Por parte de SANDOZ:
+— Ofrecer la licencia de la Herramienta a la Gerencia del Área de Salud de Cáceres para
+la consecución del Proyecto;
+— Liderar la Comisión Mixta de Seguimiento para asegurar la monitorización del Con-
+venio, recogiendo las encuestas descritas en los anexos.
+— Liderar la obtención de los KPIs para medir el éxito de esta colaboración.
+Por su parte, SANDOZ deberá contar con un seguro de responsabilidad civil al objeto de
+cubrir los daños a terceros que pudiera derivarse de la cualquier incumplimiento o respon-
+sabilidad imputable a SANDOZ o a sus relaciones con cualquiera de las Entidades.
+3. Comisión Mixta de Seguimiento.
+Se creará una Comisión Mixta de Seguimiento con, al menos, un miembro por parte de
+SANDOZ, que será la Project Manager siendo la responsable del seguimiento activo del
+Proyecto dentro de Sandoz, y un miembro por parte del hospital del SES en el que se
+implante la HERRAMIENTA, que serán los profesionales que utilicen la herramienta y que
+proporcionan feedback, a través de las encuestas establecidas, incluyendo el seguimiento
+a los 6 meses y la encuesta final de satisfacción. Estos se reunirán periódicamente para:
+i. Resolver las dudas que puedan plantearse en la interpretación y ejecución del Convenio;
+ii. Velar por el cumplimiento de los términos del Convenio;
+iii. Coordinar las tareas y recursos aplicados;
+iv. Evaluar los resultados y las encuestas anexadas; y
+v. Cualesquiera otras que convengan al buen fin del Proyecto.
+Al finalizar dichas reuniones, SANDOZ enviará a las Entidades las minutas de lo debatido
+y los acuerdos alcanzados si los hubiera, para tener trazabilidad de los avances en la co-
+laboración.
+
+NÚMERO 195
+42272
+Jueves 8 de octubre de 2026
+El desarrollo y ejecución del Proyecto puede implicar la interacción de Sandoz con varios
+profesionales sanitarios a través de la Comisión Mixta. Esta interacción tiene como único
+objeto el favorecer un intercambio bidireccional de información relacionada con la imple-
+mentación y resultados del Proyecto.
+4. Aportación y gestión económica del convenio.
+SANDOZ aportará todos los gastos asociados a la adquisición de la licencia de uso de la
+Herramienta para su alta en los Hospitales seleccionado por el SES.
+A modo aclaratorio, queda patente que SANDOZ cumple con las pautas de los códigos y
+normativa aplicable al sector y no realizará aportación económica alguna al SES ni a los
+profesionales sanitarios que colaboren en el Proyecto.
+5. Duración, efectos, y renuncia del Convenio.
+El presente Convenio tendrá la duración de un año y surtirá efectos desde el día de su im-
+plementación en el área de salud de Cáceres.
+Antes de la finalización de su vigencia, el convenio podrá ser prorrogado de forma expresa,
+por acuerdo unánime de las partes firmantes, por un período máximo adicional de cuatro
+años, mediante la correspondiente adenda, de conformidad con lo dispuesto en la normati-
+va reguladora del régimen jurídico del sector público y el Decreto 154/2025, de 18 de no-
+viembre, por el que se regula la actividad convencional y el Registro General de Convenios
+de la Administración de la Comunidad Autónoma de Extremadura.
+En caso de resolución anticipada y con objeto de finalizar las actuaciones en curso y demás
+efectos derivados de la resolución del Convenio, se estará a lo establecido en el artículo 52
+de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Cualquiera de las Entidades podrá renunciar al presente Convenio comunicándolo a la otra
+Entidad por escrito con UN (1) mes de antelación a la terminación deseada del mismo o,
+en su caso, a la de las correspondientes prórrogas. En cualquier caso, las Entidades se
+comprometen a dar un adecuado cumplimiento a las actividades en curso en el momento
+de la renuncia.
+6. Datos de carácter personal y Transparencia.
+Las Partes reconocen que, como parte del desarrollo del objeto el presente Convenio, pue-
+den producirse determinados flujos de datos; en este sentido las Partes se comprometen
+al cumplimiento de sus obligaciones en relación con la protección de datos (tal y como se
+define en el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de
+
+NÚMERO 195
+42273
+Jueves 8 de octubre de 2026
+abril de 2016, relativo a la protección de las personas físicas en lo que respecta al trata-
+miento de datos personales y a la libre circulación de estos datos y por el que se deroga la
+Directiva 95/46/CE) bajo las leyes aplicables en relación a la protección de datos, en espe-
+cial, la Ley Orgánica 3/2018, de Protección de Datos y Garantías de Derechos Digitales, y
+a las obligaciones de confidencialidad.
+Los datos personales incluidos en este Convenio y aquellos otros intercambiados entre
+las Partes para posibilitar la ejecución del mismo, serán tratados por la otra Parte con la
+finalidad de permitir el desarrollo, cumplimiento y control de la relación de prestación de
+Servicios concertada, siendo la base del tratamiento el cumplimiento de la relación con-
+tractual, conservándose los datos durante todo el tiempo en que esta subsista y aún des-
+pués, hasta que prescriban las eventuales responsabilidades derivadas de ella. Las Partes
+se comprometen a trasladar a los titulares de los datos facilitados esta información, así
+como a indicarles que podrán dirigirse por escrito a los respectivos domicilios señalados en
+el encabezamiento del presente Convenio para ejercitar sus derechos de acceso, rectifica-
+ción, oposición, limitación, portabilidad y cancelación.
+Cuando, como parte del desarrollo del objeto del presente Convenio o en el contexto del
+mismo, sea necesaria la comunicación de datos, ambas partes ejercerán como Responsa-
+bles del Tratamiento. Para ello cada Parte, previo a la comunicación de los datos a la otra
+Parte deberá recabar previamente el consentimiento de los interesados de acuerdo con los
+términos recogidos en el RGPD, así como cumplir con el deber de información previa a cada
+interesado según se establece en el artículo 13 del RGPD. Quien actúe en calidad de cesio-
+nario cumplirá con las obligaciones de información recogidas en el artículo 14 del RGPD.
+Ambas Partes se comprometen a usar los datos que reciban de la otra Parte sólo para las
+finalidades descritas en este Convenio, quedando expresamente prohibido que su usen con
+finalidades distintas.
+El SES, como Responsable del Tratamiento de los datos que se tratarán dentro del software
+MwPharm++®, firmará, en cumplimiento del artículo 29 RGPD, el preceptivo encargo de
+tratamiento con la empresa Mediware, SA. La firma de este encargo de tratamiento será
+una condición necesaria para la ejecución y desarrollo de este Convenio.
+7. Confidencialidad.
+Las Partes reconocen que durante la vigencia de este Convenio tendrán acceso a informa-
+ción relativa al propio Convenio, así como acuerdos, preacuerdos, documentación, correos
+electrónicos y cualquier otro tipo de información intercambiada entre las Partes, que será
+considerada como confidencial y tratada con la máxima cautela y secreto para garantizar
+
+NÚMERO 195
+42274
+Jueves 8 de octubre de 2026
+el buen fin del Convenio. Las Partes se comprometen a mantener estricta confidencialidad
+sobre la información de este tipo, no pudiendo reproducirla, utilizarla, venderla, licenciarla,
+exponerla, publicarla o revelarla de cualquier forma a cualesquiera otras personas, sin au-
+torización expresa de la contraparte. Por tanto, las Partes se obligan a no revelar ninguna
+información confidencial ni podrán utilizar dicha información para ningún otro objeto que
+no sea el convenido durante la vigencia del presente Convenio o después de su finalización.
+No quedan comprendidas dentro de la obligación de confidencialidad aquí prevista la infor-
+mación que, por motivos de transparencia, deba ser pública; la información que sea públi-
+ca sin culpa previamente; y que sea requerida por una autoridad judicial o administrativa
+competente.
+8. Modificación y extinción del Convenio.
+Cualquier modificación de los términos del convenio requerirá acuerdo unánime de ambas
+partes y deberá realizarse por escrito mediante la suscripción de una adenda.
+La extinción se producirá por el cumplimiento de las actuaciones que constituyen su objeto
+o por incurrir en alguna de las causas de resolución.
+Cualquiera de las Partes podrá resolver el presente Convenio de inmediato notificándolo por
+escrito si cualquiera de las otras Partes:
+(i) Incumple gravemente lo dispuesto en el Convenio, y el incumplimiento no puede repa-
+rarse; o
+(ii) Incumple lo dispuesto en el Convenio y el incumplimiento no ha sido reparado en el
+plazo de 14 días transcurridos desde la recepción de una notificación por escrito al res-
+pecto.
+(iii) Las Partes podrán terminar el Convenio en cualquier momento con un preaviso por
+escrito de un (1) mes a las Partes.
+En caso de incumplimiento del Convenio por una de las Entidades, cualquiera de las Enti-
+dades afectadas podrá dirigirse contra la parte incumplidora.
+A la expiración o terminación del Convenio por cualquier motivo: (i) las Partes deberán
+cumplir con cualesquiera obligaciones establecidas en el presente Convenio que a la fecha
+de dicha expiración o terminación estén pendientes de ejecución; y (ii) el SES cesará en el
+uso de la Herramienta al amparo del presente Convenio.
+
+NÚMERO 195
+42275
+Jueves 8 de octubre de 2026
+9. Publicaciones.
+Cuando SANDOZ desee utilizar los resultados parciales o finales del objeto del presente
+Convenio, en parte o en su totalidad, para su publicación como artículo, conferencia, etc.,
+deberá informar fehacientemente a la otra Parte, la cual tendrá siempre, con anterioridad
+a su divulgación o publicación, el derecho de revisar los documentos, datos o resultados,
+al objeto de examinar y controlar la exactitud de la información y el cumplimiento de la
+obligación de confidencialidad.
+10. Cláusula de buena fe.
+Cada una de las Entidades confirma su completo compromiso e interés en cooperar con la
+otra parte y de acuerdo con los términos de este Convenio. Las Entidades actuarán en todo
+momento de buena fe de una forma conjunta y continuada durante el periodo de duración
+de este Convenio para lograr los fines expresamente recogidos en el presente documento.
+11. Generalidades.
+Las Entidades garantizan que no existe ningún conflicto de intereses que pueda impedirle
+desarrollar las actividades proyectadas de conformidad con el presente Convenio y sus
+anexos, incluidos sin limitación los conflictos de intereses con su empleador, con adminis-
+traciones públicas, con el servicio nacional de salud, con otros contratos o convenios o con
+la normativa aplicable.
+12. Régimen jurídico.
+El presente convenio tiene carácter administrativo y se suscribe al amparo de los artículos
+47 a 53 de la Ley 40/2015 , de 1 de octubre, de Régimen Jurídico del Sector Público, ade-
+más del Decreto 154/2025, de 18 de noviembre, por el que se regula la actividad conven-
+cional y el Registro General de Convenios de la Administración de la Comunidad Autónoma
+de Extremadura y la legislación sanitaria que le sea de aplicación, quedando excluido de la
+aplicación de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, por la que
+se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del
+Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014, conforme a lo establecido
+en el artículo 6 de dicha norma, siéndole de aplicación en defecto de normas específicas,
+los principios del citado texto legal, para resolver las dudas o lagunas que pudieran pro-
+ducirse.
+Este Convenio no genera relación contractual, laboral, estatutaria ni funcionarial alguna
+entre las partes firmantes.
+
+NÚMERO 195
+42276
+Jueves 8 de octubre de 2026
+13. Controversias.
+Las cuestiones litigiosas que pudieran suscitarse sobre la interpretación y aplicación del
+presente Convenio se resolverán en primer término por las partes de común acuerdo en el
+seno de la comisión de seguimiento contemplada en la cláusula tercera de este Convenio.
+En defecto de acuerdo entre las partes, las controversias serán sometidas a la jurisdicción
+contencioso-administrativa de conformidad con la Ley 29/1988, de 13 de julio, Reguladora
+de la Jurisdicción Contencioso-Administrativa, ante los juzgados y tribunales competen-
+tes con sede en Extremadura. Las Entidades se someten expresamente a la legislación
+española.
+Y, en prueba de conformidad con el íntegro contenido del presente Convenio y sus Anexos,
+las Entidades aceptan mediante la firma electrónica que ha sido enviado a la dirección de co-
+rreo electrónico de la que es titular cada uno de los representantes legales de las entidades
+firmantes a un solo efecto, conservando una copia electrónica del mismo.
+Sandoz Farmacéutica, SA, Servicio Extremeño de
+Salud Dirección Gerencia,
+D. RAFAEL MARTÍNEZ CABEZA DE VACA
+DOÑA ENCARNACIÓN SOLÍS PÉREZ
+D. JESÚS VIDART ANCHIA
+
+NÚMERO 195
+42277
+Jueves 8 de octubre de 2026
+ANEXO I
+Descripción del Proyecto
+— La herramienta MwPharm++ es una solución de software clínico desarrollada por la empre-
+sa Mediware, SA, basada en principios de farmacocinética y farmacodinamia poblacional.
+Permite a los profesionales sanitarios calcular regímenes de dosificación individualizados,
+tanto a priori como a posteriori, ajustados a las características fisiológicas del paciente y
+a las propiedades del fármaco. La herramienta incorpora un sistema avanzado de mode-
+lización compartimental, integrando funcionalidades que permiten simular y optimizar el
+tratamiento farmacológico de forma precisa, eficiente y segura.
+— MwPharm++ incluye una plataforma de acceso para los profesionales de farmacia hospita-
+laria, desde la cual pueden introducir parámetros clínicos de los pacientes, simular diferen-
+tes escenarios de dosificación y realizar un seguimiento terapéutico basado en evidencias.
+Este enfoque permite tomar decisiones clínicas más informadas, con el objetivo de mejorar
+los resultados en salud, minimizar riesgos asociados a la infra o sobredosificación, y opti-
+mizar el uso de medicamentos en pacientes con necesidades terapéuticas complejas.
+— Que SANDOZ, en línea con sus propuestas de valor orientadas a la mejora el Sistema de
+Salud, aboga por aportar soluciones de diversa índole que a medio y a largo plazo contribu-
+yan a una mejor atención al paciente a través de proyectos que ayuden al sistema sanitario
+a identificar áreas para optimizar sus recursos y crear eficiencias en la gestión.
+Dentro de esta propuesta de valor, que abarca diferentes aspectos, el presente proyecto tiene
+un enfoque investigador, ya que su implantación permitirá recoger datos de uso y percepción
+por parte de los profesionales de la farmacia hospitalaria, que serán evaluados mediante en-
+cuestas estructuradas y anónimas enviadas por SANDOZ a los hospitales seleccionados por
+el SES a mitad y final del periodo de colaboración. Esta recogida de información tiene como
+finalidad valorar la eficacia, aplicabilidad y valor añadido de la herramienta MwPharm++ fren-
+te a otras soluciones tecnológicas de naturaleza similar utilizada en el entorno hospitalario, y
+orientar futuras decisiones estratégicas de apoyo a la innovación por parte de SANDOZ.
+Todo ello contribuye a la sostenibilidad del sistema y a la atención al paciente, ya que esta
+herramienta permite optimizar los recursos, personalizar los tratamientos farmacológicos,
+reducir la variabilidad clínica, mejorar la seguridad terapéutica y mejorar la eficiencia de los
+recursos del sistema. Asimismo, el uso racional de los medicamentos que permite la Herra-
+mienta, se alinea con los principios de sostenibilidad del sistema sanitario, al fomentar una
+gestión más eficaz de los recursos disponibles.
+
+NÚMERO 195
+42278
+Jueves 8 de octubre de 2026
+ANEXO II
+Modelo “Encuesta de seguimiento del uso e implementación del software MwPharm++ en el
+Hospital XXX – 6 meses”
+Estimados señores:
+Mediante la presente carta, les enviamos la encuesta que debe ser cumplimentada y enviada
+a SANDOZ tras los primeros 6 meses de la implantación del proyecto de MwPharm++ en el
+Hospital XXX:
+Expectativas de los HCPs y confianza:
+1. ¿Cómo valorarías la facilidad de uso de MwPharm++ en tu práctica diaria?
+a. Muy fácil de usar.
+b. Bastante fácil.
+c. Algo complejo.
+d. Muy difícil de usar.
+2. ¿Qué impacto crees que tiene MwPharm++ en la optimización de los tratamientos para
+los pacientes?
+a. Muy positivo, ha mejorado significativamente.
+b. Moderadamente positivo, con mejoras parciales.
+c. No ha cambiado mucho.
+d. Negativo, ha dificultado el manejo.
+3. ¿En qué medida ha mejorado el manejo de los biosimilares gracias a MwPharm++?
+a. Mucha, ha facilitado su integración.
+b. Bastante, aunque aún hay margen de mejora.
+c. Poco, el impacto ha sido limitado.
+d. Nada, no ha supuesto un cambio.
+
+NÚMERO 195
+42279
+Jueves 8 de octubre de 2026
+4. ¿El uso de MwPharm++ ha impulsado oportunidades de innovación en farmacocinética?
+a. Sí, ha abierto muchas posibilidades.
+b. Algo, pero aún hay barreras.
+c. Poco, no ha cambiado la práctica actual.
+d. Nada, no ha aportado innovación.
+5. ¿Ha aumentado la frecuencia de realización de estudios farmacocinéticos en tu centro
+desde la implementación de MwPharm++?
+a. Sí, se realizan con más frecuencia que antes.
+b. Igual que antes.
+c. Menos frecuentemente.
+d. No se han realizado estudios de farmacocinética.
+6. ¿Qué grado de integración tiene MwPharm++ con los distintos servicios hospitalarios
+(clínicos, farmacia, farmacología)?
+a. Totalmente integrado.
+b. Parcialmente integrado.
+c. Integración mínima.
+d. No integrado.
+Entorno competitivo:
+7. ¿Cómo compararías la utilización de MwPharm++ con otras herramientas similares?
+a. Mejor en todos los aspectos.
+b. Similar, pero con ventajas significativas.
+c. Similar, pero con algunas desventajas.
+d. Peor que otras herramientas.
+
+NÚMERO 195
+42280
+Jueves 8 de octubre de 2026
+8. ¿Qué factor consideras más importante al elegir una herramienta de farmacocinética?
+a. Facilidad de uso.
+b. Precisión en los cálculos.
+c. Coste del software.
+d. Integración con otros sistemas.
+9. En cuanto a MwPharm++, ¿qué factor consideras que presenta una ventaja técnica sig-
+nificativa y destacable en comparación con otras herramientas?
+a. Facilidad de uso.
+b. Precisión en los cálculos.
+c. Coste del software.
+d. Integración con otros sistemas.
+10. ¿Qué porcentaje de los estudios realizados en tu centro involucran biosimilares desde
+la adopción de MwPharm++?
+a. Más del 75%.
+b. Entre 50% y 75%.
+c. Entre 25% y 50%.
+d. Menos del 25%.
+Usabilidad.
+11. ¿Cuánto tiempo te tomó familiarizarte con MwPharm++?
+a. Menos de una semana.
+b. Entre una y tres semanas.
+c. Más de un mes.
+d. Aún tengo dificultades.
+
+NÚMERO 195
+42281
+Jueves 8 de octubre de 2026
+12. ¿Cómo calificarías la facilidad de navegación y diseño de MwPharm++?
+a. Muy intuitivo.
+b. Bastante claro.
+c. Algo confuso.
+d. Muy complicado.
+13. ¿Con qué frecuencia experimentas incidencias técnicas al usar MwPharm++?
+a. Nunca o casi nunca.
+b. Ocasionalmente.
+c. Frecuentemente.
+d. Siempre.
+Manejo del paciente.
+14. ¿Cómo ha cambiado la persistencia del tratamiento tras la implementación de
+MwPharm++?
+a. Ha mejorado significativamente.
+b. Ha mejorado moderadamente.
+c. Se ha mantenido igual.
+d. Ha empeorado.
+15. ¿Has notado diferencias en los ajustes terapéuticos antes y después del uso de
+MwPharm++?
+a. Sí, los ajustes son más precisos y efectivos.
+b. Hay mejoras, pero no siempre.
+c. No ha cambiado mucho.
+d. No ha mejorado la precisión.
+
+NÚMERO 195
+42282
+Jueves 8 de octubre de 2026
+16. ¿Qué opinión tienen los pacientes sobre la mejora en su tratamiento gracias a
+MwPharm++?
+a. Han notado una gran mejora.
+b. Han notado una mejora leve.
+c. No han notado cambios.
+d. Perciben un empeoramiento.
+Precisión.
+17. ¿Cómo comparas la precisión (en cuanto a la estimación del rango terapéutico) de
+MwPharm++ con estándares previos?
+a. Más preciso.
+b. Igual de preciso.
+c. Menos preciso.
+d. No tengo datos suficientes para evaluar.
+18. ¿Con qué frecuencia las recomendaciones clínicas de MwPharm++ son acertadas
+(acierto en el rango terapéutico del paciente)?
+a. Casi siempre.
+b. La mayoría de las veces.
+c. A veces.
+d. Rara vez.
+19. ¿Cómo calificarías la variabilidad del modelo al compararlo con los datos reales?
+a. Muy baja: el modelo es altamente consistente con los datos reales.
+b. Moderada: el modelo presenta algunas variaciones, pero generalmente se ajusta
+bien.
+c. Alta: se observan discrepancias notables entre el modelo y los datos reales.
+d. Inaceptable: el modelo muestra una variabilidad excesiva en comparación con los
+datos reales.
+
+NÚMERO 195
+42283
+Jueves 8 de octubre de 2026
+Calidad del modelo.
+20. ¿Cómo calificarías la fiabilidad del modelo de MwPharm++?
+Escala 1-5 (de menos a más fiable)
+Almacenamiento y escalabilidad.
+21. ¿Cómo evaluarías las métricas de rendimiento y los costes asociados al escalado de la
+plataforma?
+a. Excelente rendimiento con costes muy optimizados.
+b. Buen rendimiento, aunque los costes podrían reducirse.
+c. Rendimiento aceptable, pero con costes algo elevados.
+d. Rendimiento deficiente y altos costes.
+22. ¿Cómo describirías la claridad y utilidad de las métricas de almacenamiento de datos
+por cuenta/mes?
+a. Muy claras y de gran utilidad para la gestión.
+b. Adecuadas, aunque con margen para mejorar su interpretación.
+c. Poco claras, dificultando el seguimiento.
+d. Inexistentes o ineficaces para controlar el almacenamiento.
+Feedback y UX.
+23. ¿Cómo describirías la interfaz de MwPharm++?
+a. Muy intuitiva y fácil de usar.
+b. Bastante clara, con margen de mejora.
+c. Algo confusa.
+d. Muy difícil de manejar.
+24. ¿Las mejoras implementadas han resulto tus necesidades?
+a. Sí, completamente.
+
+NÚMERO 195
+42284
+Jueves 8 de octubre de 2026
+b. Parcialmente.
+c. Muy poco.
+d. No han resuelto los problemas.
+Al enviar la encuesta a SANDOZ, usted acepta que SANDOZ trate sus datos personales, los
+cuales serán conservados por el periodo legal que sea necesario. Le informamos que sus
+datos podrán ser cedidos por obligación legal, así como tratados internacionalmente; y que
+determinadas empresas prestadoras de servicios, bajo su condición de encargados de trata-
+miento, podrán tener acceso a sus datos personales, siempre bajo la tutela y supervisión de
+SANDOZ. Puede ejercer sus derechos de protección de datos, enviando un email al siguiente
+sandoz_global.dpo@sandoz.com. Para más información, por favor consulte nuestra sección
+de Política de Privacidad del siguiente enlace:
+https://www.sandozfarma.es/aviso-de-privacidad-para-business-partners/
+
+NÚMERO 195
+42285
+Jueves 8 de octubre de 2026
+ANEXO III
+Modelo “Encuesta de seguimiento del uso e implementación del software MwPharm++ en el
+Hospital XXX – 12 meses”
+Expectativas de los HCPs y confianza:
+1. ¿Cómo valorarías la facilidad de uso de MwPharm++ en tu práctica diaria?
+e. Muy fácil de usar.
+f. Bastante fácil.
+g. Algo complejo.
+h. Muy difícil de usar.
+2. ¿Qué impacto crees que tiene MwPharm++ en la optimización de los tratamientos para
+los pacientes?
+a. Muy positivo, ha mejorado significativamente.
+b. Moderadamente positivo, con mejoras parciales.
+c. No ha cambiado mucho.
+d. Negativo, ha dificultado el manejo.
+3. ¿En qué medida ha mejorado el manejo de los biosimilares gracias a MwPharm++?
+a. Mucha, ha facilitado su integración.
+b. Bastante, aunque aún hay margen de mejora.
+c. Poco, el impacto ha sido limitado.
+d. Nada, no ha supuesto un cambio.
+4. ¿El uso de MwPharm++ ha impulsado oportunidades de innovación en farmacocinética?
+a. Sí, ha abierto muchas posibilidades.
+b. Algo, pero aún hay barreras.
+c. Poco, no ha cambiado la práctica actual.
+
+NÚMERO 195
+42286
+Jueves 8 de octubre de 2026
+d. Nada, no ha aportado innovación.
+5. ¿Ha aumentado la frecuencia de realización de estudios farmacocinéticos en tu centro
+desde la implementación de MwPharm++?
+a. Sí, se realizan con más frecuencia que antes.
+b. Igual que antes.
+c. Menos frecuentemente.
+d. No se han realizado estudios de farmacocinética.
+6. ¿Qué grado de integración tiene MwPharm++ con los distintos servicios hospitalarios
+(clínicos, farmacia, farmacología)?
+a. Totalmente integrado.
+b. Parcialmente integrado.
+c. Integración mínima.
+d. No integrado.
+Entorno competitivo:
+7. ¿Cómo compararías la utilización de MwPharm++ con otras herramientas similares?
+a. Mejor en todos los aspectos.
+b. Similar, pero con ventajas significativas.
+c. Similar, pero con algunas desventajas.
+d. Peor que otras herramientas.
+8. ¿Qué factor consideras más importante al elegir una herramienta de farmacocinética?
+a. Facilidad de uso.
+b. Precisión en los cálculos.
+c. Coste del software.
+d. Integración con otros sistemas.
+
+NÚMERO 195
+42287
+Jueves 8 de octubre de 2026
+9. En cuanto a MwPharm++, ¿qué factor consideras que presenta una ventaja técnica sig-
+nificativa y destacable en comparación con otras herramientas?
+a. Facilidad de uso.
+b. Precisión en los cálculos.
+c. Coste del software.
+d. Integración con otros sistemas.
+Sobre el producto.
+10. ¿Recomendarías MwPharm++ a otros colegas?
+NPS: 0-10
+11. ¿Estaría dispuesto a pagar por MwPharm++ si no fuera gratuito?
+a. Sí, sin dudarlo.
+b. Dependería del precio.
+c. Solo si mejoraran algunas funcionalidades.
+d. No pagaría por ello.
+12. ¿Qué porcentaje de los estudios realizados en tu centro involucran biosimilares desde
+la adopción de MwPharm++?
+a. Más del 75%.
+b. Entre 50% y 75%.
+c. Entre 25% y 50%.
+d. Menos del 25%.
+Usabilidad.
+13. ¿Cuánto tiempo te tomó familiarizarte con MwPharm++?
+a. Menos de una semana.
+b. Entre una y tres semanas.
+
+NÚMERO 195
+42288
+Jueves 8 de octubre de 2026
+c. Más de un mes.
+d. Aún tengo dificultades.
+14. ¿Cómo calificarías la facilidad de navegación y diseño de MwPharm++?
+a. Muy intuitivo.
+b. Bastante claro.
+c. Algo confuso.
+d. Muy complicado.
+15. ¿Con qué frecuencia experimentas incidencias técnicas al usar MwPharm++?
+a. Nunca o casi nunca.
+b. Ocasionalmente.
+c. Frecuentemente.
+d. Siempre.
+16. ¿Cuánto tiempo tarda el soporte técnico en responder a consultas o problemas?
+a. Menos de 24 horas.
+b. Entre 24 y 72 horas.
+c. Más de 72 horas.
+d. No he recibido respuesta.
+Manejo del paciente.
+17. ¿Cómo ha cambiado la persistencia del tratamiento tras la implementación de
+MwPharm++?
+a. Ha mejorado significativamente.
+b. Ha mejorado moderadamente.
+c. Se ha mantenido igual.
+
+NÚMERO 195
+42289
+Jueves 8 de octubre de 2026
+d. Ha empeorado.
+18. ¿Has notado diferencias en los ajustes terapéuticos antes y después del uso de
+MwPharm++?
+a. Sí, los ajustes son más precisos y efectivos.
+b. Hay mejoras, pero no siempre.
+c. No ha cambiado mucho.
+d. No ha mejorado la precisión.
+19. ¿Qué opinión tienen los pacientes sobre la mejora en su tratamiento gracias a
+MwPharm++?
+a. Han notado una gran mejora.
+b. Han notado una mejora leve.
+c. No han notado cambios.
+d. Perciben un empeoramiento.
+Precisión.
+20. ¿Cómo comparas la precisión (en cuanto a la estimación del rango terapéutico) de
+MwPharm++ con estándares previos?
+a. Más preciso.
+b. Igual de preciso.
+c. Menos preciso.
+d. No tengo datos suficientes para evaluar.
+21. ¿Con qué frecuencia las recomendaciones clínicas de MwPharm++ son acertadas
+(acierto en el rango terapéutico del paciente)?
+a. Casi siempre.
+b. La mayoría de las veces.
+
+NÚMERO 195
+42290
+Jueves 8 de octubre de 2026
+c. A veces.
+d. Rara vez.
+22. ¿Cómo calificarías la variabilidad del modelo al compararlo con los datos reales?
+a. Muy baja: el modelo es altamente consistente con los datos reales.
+b. Moderada: el modelo presenta algunas variaciones, pero generalmente se ajusta
+bien.
+c. Alta: se observan discrepancias notables entre el modelo y los datos reales.
+d. Inaceptable: el modelo muestra una variabilidad excesiva en comparación con los
+datos reales.
+Crecimiento y adopción.
+23. ¿Cómo ha influido el uso de MwPharm++ en la adopción de biosimilares en tu centro?
+a. Ha aumentado considerablemente.
+b. Ha aumentado moderadamente.
+c. No ha cambiado.
+d. Ha disminuido.
+Calidad del modelo.
+24. ¿Cómo calificarías la fiabilidad del modelo de MwPharm++?
+Escala 1-5 (de menos a más fiable).
+Almacenamiento y escalabilidad.
+25. ¿Cómo evaluarías las métricas de rendimiento y los costes asociados al escalado de la
+plataforma?
+a. Excelente rendimiento con costes muy optimizados.
+b. Buen rendimiento, aunque los costes podrían reducirse.
+c. Rendimiento aceptable, pero con costes algo elevados.
+
+NÚMERO 195
+42291
+Jueves 8 de octubre de 2026
+d. Rendimiento deficiente y altos costes.
+26. ¿Cómo describirías la claridad y utilidad de las métricas de almacenamiento de datos
+por cuenta/mes?
+a. Muy claras y de gran utilidad para la gestión.
+b. Adecuadas, aunque con margen para mejorar su interpretación.
+c. Poco claras, dificultando el seguimiento.
+d. Inexistentes o ineficaces para controlar el almacenamiento.
+Feedback y UX.
+27. ¿Cómo describirías la interfaz de MwPharm++?
+a. Muy intuitiva y fácil de usar.
+b. Bastante clara, con margen de mejora.
+c. Algo confusa.
+d. Muy difícil de manejar.
+28. ¿Las mejoras implementadas han resulto tus necesidades?
+a. Sí, completamente.
+b. Parcialmente.
+c. Muy poco.
+d. No han resuelto los problemas.
+Al enviar la encuesta a SANDOZ, usted acepta que SANDOZ trate sus datos personales, los
+cuales serán conservados por el periodo legal que sea necesario. Le informamos que sus
+datos podrán ser cedidos por obligación legal, así como tratados internacionalmente; y que
+determinadas empresas prestadoras de servicios, bajo su condición de encargados de trata-
+miento, podrán tener acceso a sus datos personales, siempre bajo la tutela y supervisión de
+SANDOZ. Puede ejercer sus derechos de protección de datos, enviando un email al siguiente
+sandoz_global.dpo@sandoz.com. Para más información, por favor consulte nuestra sección
+de Política de Privacidad del siguiente enlace:
+https://www.sandozfarma.es/aviso-de-privacidad-para-business-partners/

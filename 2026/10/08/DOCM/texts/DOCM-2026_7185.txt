@@ -1,0 +1,162 @@
+AÑO XLV Núm. 194 8 de octubre de 2026 34951
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 30/09/2026, de la Dirección General de Transición Energética, sobre autorización administrativa
+previa y de construcción de las instalaciones contenidas en el proyecto denominado: Subestación Añover
+de Tajo ampliación de potencia 132/45/15 kV, 60 MVA, en Añover de Tajo (Toledo), solicitado por UFD
+Distribución Electricidad, SA. Referencia: 2401/00085. [2026/7185]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible de Toledo y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia: 2401/00085_A1 (DP: E45241101362 CXII)
+- Peticionario: UFD Distribución Electricidad, S.A., con N.I.F.: A-63222533.
+- Documentación técnica: Proyecto técnico administrativo “Subestación Añover de Tajo ampliación de potencia 132/45
+kV, 60 MVA”, firmado por Dª. Maria Isabel López Ferrer y visado por el Colegio Oficial de Ingenieros Industriales
+de Madrid Nº visado 202504427 y fecha 12/11/2025. Además, se aporta declaración responsable acreditando el
+cumplimiento de la normativa de aplicación y de técnico competente.
+- Características principales de las instalaciones: La Subestación Añover de Tajo objeto de este proyecto técnico
+administrativo cuenta con:
+Un parque de 132 kV en intemperie con aparamenta convencional en configuración doble barra, compuesto por:
+Cuatro posiciones de línea (POS. 101 Aranjuez I, POS. 102 Villasequila, POS. 105 C.T. Aceca y POS. 106 C.H.
+Castrejon).
+Dos posiciones de primario de transformador (POS. 103 Reserva Trafo y POS. 104 Trafo T-II 132/45 kV de 60 MVA).
+Transformadores de tensión de barras (Medida).
+Una posición de banco de condensadores (POS. 108 Condensadores).
+Una posición de acoplamiento de barras (POS. 107).
+Un parque de 45 kV en intemperie con aparamenta convencional en configuración doble barra, compuesto por:
+Siete posiciones de línea (POS. 504 Cemex España Castrillejos, POS. 505 Pantoja 1, POS.507 Renfe La Mesa y
+Villasequilla, POS. 508 Renfe Infantas, POS 510 Aranjuez I, POS. 513. Pantoja 2).
+Dos posiciones de primario de transformador (POS. 514 Trafo T-III 45/15 kV de 15 MVA y POS. 515 Transformador
+T-IV 45/15 kV de 15 MVA).
+Dos posiciones de secundario de transformador (POS. 509 Reserva Trafo y POS. 511 Trafo T-II).
+Una posición de acoplamiento de barras (POS. 516).
+Una posición de hacia banco de condensadores (POS. 503 Condensadores).
+Transformadores de tensión de barras (POS. Medida).
+Un parque de 15 kV realizado con tecnología GIS (Gas Insulated Switchgear), esto es, constituido por celdas
+blindadas de interior con aislamiento integral en gas, en configuración doble barra, montadas en edificio compuesto
+por:
+Nueve posiciones de línea (POS. 707 Pantoja I, POS. 709 Barciles, POS. 711 Infantas, POS. 713 Gene3ral PRIM,
+POS. 704 Pantoja, POS. 706 Seseña, POS. 708 Ceramica, POS. 710 Hidrotajo y POS.714 Rusticas).
+Dos posiciones de secundario de transformador 45/15 kV de 15 MVA (POS. 703 Trafo T-IV y POS. 716 Trafo T-III).
+Dos posiciones de medida de tensión de barras (POS. 700 Medida 7BA1 y POS. 790 Medida 7BA2).
+Dos posiciones de servicios auxiliares (POS. 701 T-II/SS.AA y POS. 702 TI/ SS.AA.).
+Una posición de acoplamiento longitudinal (POS. Acoplamiento Longitudinal).
+Una posición de acoplamiento transversal (POS. 715 Acoplamiento Transversal)
+La subestación dispone asimismo de cuatro transformadores trifásicos de potencia con las siguientes características:
+Trafo T-II: Transformador trifásico de relación de transformación 132/45/15 kV y potencia aparente 60 MVA, montado
+en intemperie.
+Trafo T-III: Transformador trifásico de relación de transformación 45/15 kV y potencia aparente 15 MVA, montado en
+intemperie.
+Trafo T-IV: Transformador trifásico de tipo seco, montado en el interior de un recinto cerrado de relación de
+transformación 45/15 kV y potencia aparente 15 MVA.
+Dentro del edificio principal de la subestación están instalados todos los sistemas de telecontrol, de comunicaciones,
+las baterías de 125 Vcc y de 48 Vcc y el cuadro de servicios auxiliares de corriente alterna y de corriente continua.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34952
+Los servicios auxiliares incluyen dos transformadores 15/0,42 kV de 250 kVA, incorporado en el edificio.
+Los equipos de protecciones, control y medida de las posiciones de 132 kV y 45 kV se encuentran alojados en
+armarios dentro de un edificio independiente ubicado en las proximidades de ambos parques.
+Los equipos de protecciones y medida de las posiciones de 15 kV se encuentran alojados en compartimentos
+incorporados a las propias celdas en la sala de 15 kV del edificio principal.
+Los trabajos a realizar consisten en la ampliación de potencia mediante un nuevo transformador de potencia 132/45
+kV, 60 MVA (T-I), incluyendo:
+Obra civil necesaria para la construcción de la nueva bancada y muro cortafuegos prefabricado del equipo a instalar.
+Montaje de estructuras metálicas y tendido de cable aislado para la conexión de los neutros a tierra.
+Conexiones a las posiciones de reserva 103 y 509.
+- Ubicación: Las actuaciones se realizan dentro del perímetro de la Subestación en la parcela con referencia catastral
+DS0000100000000001JQ del término municipal de Añover de Tajo (Toledo).
+- Presupuesto: 1.365.174 €
+- Finalidad: Garantizar las condiciones de seguridad del suministro en la zona de influencia de la Subestación de
+Añover de Tajo.
+Antecedentes de hecho.
+Primero: Con fecha de 21/01/2026, tienen entrada solicitudes por parte de UFD Distribución Electricidad, S.A. de
+autorización administrativa previa y autorización administrativa de construcción de las actuaciones objeto de la
+presente resolución.
+Segundo: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas por el peticionario como bienes o servicios a su cargo afectadas por la instalación. Las
+entidades consultadas, fueron las siguientes (contestan los marcados con *):
+1. Ayuntamiento de Añover de Tajo.
+En relación a la consulta realizada indicar que pasado el plazo establecido no se ha recibido respuesta, por tanto,
+se entiende conformidad a la autorización de la instalación.
+Tercero: La Delegación Provincial de Desarrollo Sostenible de Toledo cumplió con lo establecido en la resolución
+de 03/09/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as
+delegados/as provinciales y elaboró con fecha 25/08/2026 informe favorable para la autorización administrativa
+previa y autorización administrativa de construcción de las instalaciones de referencia.
+Cuarto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción de las instalaciones de referencia.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y de construcción de este tipo de instalaciones según lo establecido en el Decreto 112/2023, de 25 de julio,
+por el que se establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007, de 19/06/2007, por el que se regulan los procedimientos de autorización de instalaciones de energía
+eléctrica a tramitar por la Junta de Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y
+demás normativa de aplicación.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34953
+En relación con el contenido del expediente indicar:
+A. Respecto al trámite ambiental.
+Las actuaciones proyectadas no se encuentran incluidas en los anexos de la legislación ambiental ni, de acuerdo
+al contenido del expediente, suponen ninguna ampliación o agravamiento de los efectos ambientales negativos
+derivados de la ejecución de los proyectos incluidos en el expediente ya evaluado. Además, la instalación no se
+ubica en áreas protegidas o en zonas de Hábitats-Geomorfología.
+B. Respecto a los anexos al proyecto presentados y que no se han sometido a información pública.
+No es necesario someterlos al trámite de información pública de acuerdo a lo contemplado en el artículo 13.3 del
+Decreto 34/2017, por el que se modifica el Decreto 80/2007, de 19 de junio, por el que se regulan los procedimientos
+de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de Castilla-La Mancha
+y su régimen de revisión e inspección.
+C. Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar el reconocimiento de utilidad pública solicitado.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020, de 29 de diciembre, de acceso y
+conexión a las redes de transporte y distribución de energía eléctrica; el Decreto 80/2007; la Ley 39/2015, de 1 de
+octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación concordante
+de aplicación.
+En su virtud Resuelve:
+Otorgar a UFD Distribución Electricidad, S.A. la autorización administrativa previa y de construcción de las instalaciones
+eléctricas de referencia, con las características anteriormente indicadas, sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se concede un plazo de dos años, para la ejecución del proyecto a partir de la fecha de la presente resolución.
+Dicho plazo podrá ser ampliado previa solicitud motivada del titular.
+Sexta: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34954
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos recurrentes (o sus representantes) tenga
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es , código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 30 de septiembre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ

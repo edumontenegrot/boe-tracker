@@ -1,0 +1,495 @@
+AÑO XLV Núm. 194 8 de octubre de 2026 34965
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 01/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, por la que se
+formula el informe de impacto ambiental del proyecto: Transformación de secano a regadío de 17,36 ha en
+polígono 3 parcelas 313, 402, 408 y 418 expediente CHJ (2018CP0256)-UGH AA0027 (S478/2026/AB/00084),
+situado en el término municipal de Alborea (Albacete). [2026/7196]
+La Ley 2/2020, de 7 de febrero de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 2/2020, dentro del Grupo 1 “Agricultura,
+silvicultura, acuicultura y ganadería”, apartado c:“Proyectos de transformación a regadío o de avenamiento de
+terrenos cuando afecten a una superficie superior a 10 has.
+El promotor del proyecto es Jesús Carrión Íñiguez y el órgano sustantivo es la Confederación Hidrográfica del
+Júcar, tramitándose la concesión de aguas subterráneas bajo referencia 5077/2018 (2018CP0256), UGH AA0027,
+teniendo el expediente de evaluación ambiental en esta delegación provincial el número S478/2026/AB/00084.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+1.- Antecedentes.
+Según el documento ambiental, se encuentra en trámite de regularización el aprovechamiento conforme a las
+condiciones de regularización de transformación en regadío de 17,03 has en la finca “El Conjuro” del t.m. de Alborea,
+por la Confederación Hidrográfica del Júcar para este tipo de expedientes (ref. 5077/2018 – 2018CP0256, UGH
+AA0027).
+1.1.- Descripción.
+El objeto del proyecto es una nueva transformación de secano a regadío y la ejecución de una toma de aguas
+subterráneas en el paraje “Conjuro”, en las parcelas 313, 402, 408 y 418 del polígono 3 del término municipal de
+Alborea (Albacete). Coordenadas del centro geográfico del aprovechamiento: X = 639.737, Y = 4.351.282, Z = 727
+msnm. El suelo tiene clasificación rústica de uso agrícola, situándose las parcelas a 2,5 km del núcleo urbano de
+Alborea y a 700 m de la carretera N-322 (Alborea-Villatoya), con acceso por el Camino de la Cruz del Conjuro.
+Según el documento ambiental, la superficie total en trámite de regularización y pendiente de instalar riego por goteo
+es de 17,36 ha, se localiza en los siguientes recintos:
+Provincia Municipio Polígono Parcela Recinto Superficie Riego (ha)
+Albacete Alborea 3 313 1 1,54
+Albacete Alborea 3 313 3 1,36
+Albacete Alborea 3 313 6 0,07
+Albacete Alborea 3 313 29 0,25
+Albacete Alborea 3 313 30 12,28
+Albacete Alborea 3 313 33 0,21
+Albacete Alborea 3 402 2 0,68
+Albacete Alborea 3 408 1 0,50
+Albacete Alborea 3 418 2 0,47
+Superficie a transformar en regadío 17,36
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34966
+1.1.1.-Sistema de riego en el aprovechamiento.
+El sistema de riego será por goteo, con laterales cada 6 m en las líneas de plantación de olivo y cada 3 m en el caso
+de la vid, empleando goteros de 4 l/h de caudal (1-2 kg/cm²). La superficie total a instalar con este sistema es de
+17,36 ha.
+1.1.2.- Captaciones de agua.
+Existe 1 captación de agua en la explotación que se describe a continuación:
+Cota Prof Diám Caudal Potencia Prof.
+Captación Nº Toma UTM X UTM Y
+(m) (m) (mm) (l/s) (kw) Bomba (m)
+2016IP0420 1 639.810 4.351.271 727 156 200 5 11 150
+La superficie afectada durante la construcción será un círculo de 0,25 m de diámetro; no serán necesarias actuaciones
+de desbroce al tratarse de terreno de labor; el sistema de perforación será vertical mediante rotopercusión; la
+entubación se realizará con tubería de PVC de 0,2 m de diámetro y 8 mm de espesor; el tiempo de construcción del
+pozo será de aproximadamente 1 día, y el equipamiento con la bomba de extracción sumergida se realizará con grúa
+en unas 2 horas adicionales. Las operaciones de mantenimiento de la maquinaria, tanto en fase de construcción
+como de explotación, se realizarán fuera de la zona del sondeo.
+1.1.3.- Embalses de regulación.
+En la finca no existe ningún embalse de regulación, ni tampoco está prevista la construcción de éste.
+1.1.4.- Energía a utilizar.
+La extracción del agua se realizará mediante un equipo de bombeo situado en el pozo (electrobomba sumergida de
+11 kW), accionado mediante corriente eléctrica procedente de una instalación fotovoltaica de 30 kW instalada en el
+mismo lugar, sin que esté prevista infraestructura eléctrica adicional.
+1.1.5.- Necesidades hídricas.
+El volumen anual de agua a utilizar es de 26.045 m³, comunicado por la Confederación Hidrográfica del Júcar en
+el proceso de regularización (17,36 ha de cultivos leñosos — olivo y viña—, con un consumo de referencia de
+1.500 m³/ha). El origen del recurso es la masa de agua subterránea 080.135 – Hoces del Cabriel, en el ámbito de
+la Confederación Hidrográfica del Júcar, gestionándose el aprovechamiento conforme a las normas de explotación
+anuales de la Junta Central de Regantes de La Mancha Oriental (JCRMO), a la que pertenece. El período de uso
+del pozo se concentra principalmente entre junio y septiembre.
+1.2.- Alternativas estudiadas.
+Sistema de riego: el documento ambiental analiza tres alternativas - riego por inundación o a manta (mayor riesgo
+de percolación y contaminación de la Unidad Hidrogeológica 08-29 Mancha Oriental, mayor necesidad de mano de
+obra), riego por aspersión (mejor eficiencia que el anterior, pero requiere movimientos de tierra y puede incrementar
+el riesgo fitosanitario) y riego por goteo (máxima eficiencia en la dosificación de agua y fertilizantes, mínimos
+movimientos de tierra, menor necesidad de mano de obra). El promotor selecciona el riego por goteo por ser la
+alternativa más adecuada ambiental y agronómicamente para los cultivos leñosos previstos.
+Ejecución de la captación: se analiza la alternativa “0” de no actuación, que se descarta por hacer inviable la explotación
+agrícola (merma de producción, daño a la plantación y pérdida en años secos). No se identifican alternativas al
+origen del recurso (agua subterránea). En cuanto a la ubicación del sondeo, se justifica su emplazamiento en la
+parcela 313 del polígono 3 por tratarse de terreno propio, situación céntrica respecto al área de cultivo (ahorro de
+infraestructuras y energía), ubicación en terreno de labor (sin afección a vegetación natural), proximidad a un camino
+existente y adecuación geológica para el caudal requerido. En cuanto al diseño y técnica constructiva, se opta por
+un diámetro de 200 mm (mínimo funcional, frente a diámetros mayores de mayor coste e impacto), revestimiento
+de PVC (frente al acero inoxidable, descartado por coste) y perforación por rotopercusión, por su menor duración e
+impacto frente a la percusión.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34967
+1.3.- Análisis de los impactos potenciales en el medio ambiente reflejados en el documento ambiental.
+El documento ambiental concluye que, al tratarse de terrenos ya puestos en cultivo, no existe afección a vegetación
+natural ni al patrimonio arqueológico (sin indicios de yacimientos), siendo los impactos sobre el paisaje, el suelo, el
+aire y el ruido mínimos o insignificantes, tanto en la fase de instalación del riego como en la ejecución del sondeo.
+Respecto al agua, se indica que la nueva captación no supondrá un incremento del volumen ya asignado, por lo que
+no se prevén afecciones adicionales a las ya existentes en el acuífero.
+En cuanto a la fauna, el documento ambiental señala que en el ámbito de estudio predomina una fauna de tipo
+mediterráneo y cinegético (perdiz roja, conejo, liebre, codorniz, tórtola, paloma torcaz, jabalí, córvidos, arrendajo,
+erizo, comadreja, zorro, sapo común, gorrión y estornino), afirmando expresamente no haberse detectado la
+presencia de especies protegidas. Esta conclusión se apoya en una consulta al Sistema de Información de Espacios
+Sensibles de Castilla-La Mancha (INESint) de fecha 20 de octubre de 2022, incorporada como Anexo 1 al documento
+ambiental, cuyo resultado para las coordenadas del proyecto es negativo tanto para “Área Crítica Águila Perdicera”
+como para “Zona de Dispersión Águila Perdicera”, así como para el resto de especies y espacios consultados (águila
+imperial, buitre negro, cigüeña negra, lince, ZEPA, LIC, montes y vías pecuarias).
+1.4.- Medidas preventivas, correctoras o compensatorias propuestas por el promotor para la adecuada protección
+del medio ambiente.
+Para la transformación en regadío, el promotor propone: realizar las obras preferentemente en los meses invernales,
+fuera de la época de reproducción y nidificación, con prohibición de acceso a nidos durante la cría; evitar labores
+de arado en época de cría; fomentar métodos de control de plagas respetuosos con el medio; limitar el tráfico de
+maquinaria a 20 km/h; no afectar a vegetación natural ni a las lindes existentes, realizando los acopios de materiales
+en zonas desprovistas de vegetación; no ejecutar tendido eléctrico adicional; paralizar de inmediato los trabajos y
+comunicar a la Dirección General de Patrimonio en caso de hallazgo arqueológico durante los movimientos de tierra;
+emplear productos fitosanitarios y fertilizantes de degradación rápida, conforme al programa de actuación en zonas
+vulnerables a la contaminación y al Código de Buenas Prácticas Agrarias de Castilla-La Mancha; y gestionar los
+residuos generados conforme a su naturaleza a través de gestores autorizados.
+Para la ejecución de la captación, propone realizar el sondeo evitando la época de reproducción de la fauna; circular
+únicamente por caminos existentes; realizar el mantenimiento de la maquinaria fuera de la zona de actuación; y dotar
+a las instalaciones de sistemas de prevención y extinción de incendios como medida frente a accidentes graves.
+1.5.- Forma de realizar el seguimiento que garantice el cumplimiento de indicaciones y de las medidas protectoras
+y correctoras contenidas en el documento ambiental.
+El documento ambiental establece un Plan de Vigilancia Ambiental cuyo responsable será notificado por el promotor
+a la Confederación Hidrográfica del Júcar (órgano sustantivo), contemplando: un plan de seguimiento de buenas
+prácticas agronómicas a través del Servicio de Asesoramiento de Riegos del Instituto Técnico Agronómico Provincial
+(ITAP); el seguimiento de los niveles piezométricos y de la calidad del agua del acuífero; un plan de seguimiento de
+la avifauna, con estudio de densidad de poblaciones y posible censo de aves muertas; y el control del estado de los
+equipos de riego.
+Segundo. Tramitación y consultas.
+El 16 de marzo de 2026, se recibe en el Servicio de calidad ambiental de Albacete de la Delegación Provincial de la
+Consejería de Desarrollo Sostenible, por parte del promotor, la solicitud de inicio del procedimiento de Evaluación
+de Impacto Ambiental Simplificada del proyecto.
+El 9 de abril de 2026 desde el Servicio de calidad ambiental de Albacete de la Delegación Provincial de la Consejería
+de Desarrollo Sostenible, se le envió un requerimiento al promotor para que presentase la tasa asociada al
+procedimiento de evaluación ambiental simplificada, presentando el promotor con fecha 12 de mayo de 2026 el
+justificante de pago de dicha tasa.
+El 19 de mayo de 2026, el órgano ambiental notificó al promotor del proyecto que la documentación presentada junto
+con la solicitud de inicio era completa. Sobre la base de dicha documentación, y de acuerdo con el artículo 53.2 de la
+Ley 2/2020, se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas,
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34968
+con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han
+sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+Ayuntamiento de Alborea
+Servicio de Medio Natural y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de Albacete (*)
+Confederación Hidrográfica del Júcar
+Agencia del Agua de Castilla-La Mancha
+Sección de Arqueología de la Delegación Provincial de Educación, Cultura y Deportes de Albacete (*)
+Sociedad Albacetense de Ornitología
+Unidad de Coordinación Provincial de Agentes Medioambientales (*)
+Las respuestas recibidas hasta la fecha son las siguientes:
+- Ficha de campo de los Agentes Medioambientales: constata que parte de las parcelas ya cuentan con instalación
+de riego por goteo; que el recinto 6 de la parcela 313, polígono 3, no existe según Sigpac; y que en las coordenadas
+del sondeo proyectado ya existe un pozo construido y en funcionamiento. Las parcelas se encuentran puestas en
+cultivo, sin vegetación natural relevante salvo linderos y vegetación arvense, existiendo en el entorno pequeños
+bosquetes de pinar colindantes con vivienda e instalaciones agrícolas. No se localizaron afecciones reseñables a
+la fauna durante la visita, detectándose especies comunes (oropéndola europea, verderón común, paloma torcaz,
+codorniz común, cernícalo vulgar y curruca mirlona occidental).
+- Informe del Servicio de Medio Natural y Biodiversidad de la Delegación Provincial de Desarrollo Sostenible de
+Albacete: constata que el proyecto se encuentra fuera de la Red Regional de Áreas Protegidas de Castilla-La
+Mancha, si bien la zona constituye área de reproducción del águila perdicera. Recuerda la necesidad de cumplir
+el Real Decreto 1311/2012 en materia de uso sostenible de productos fitosanitarios, y establece un condicionado
+general referido a: obtención previa de los permisos de la Confederación Hidrográfica del Júcar; comunicación previa
+y jalonamiento de la zona de trabajo en coordinación con los agentes medioambientales, con posible limitación
+temporal de los trabajos para evitar molestias a la reproducción o nidificación de avifauna protegida; inclusión de
+la zona en el ámbito de la Zona Vulnerable a la Contaminación por Nitratos; prohibición de alterar linderos, setos
+y vegetación natural; necesidad de autorización previa (art. 49 Ley 3/2008, de Montes) en caso de descuaje de
+cubiertas vegetales; y utilización exclusiva de accesos ya existentes.
+- Resolución de la Viceconsejería de Cultura y Deportes: Autoriza el proyecto, sin perjuicio de que, en caso de
+aparecer restos durante la ejecución de las obras, se actúe conforme al artículo 44.1 de la Ley 16/1985, de Patrimonio
+Histórico Español, y al artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha,
+debiendo garantizarse el control arqueológico con carácter previo a continuar la ejecución del proyecto en caso de
+hallazgo.
+Ninguno de los informes se opone al proyecto, informando sobre las condiciones que debe de cumplir según la
+normativa en vigor de su competencia.
+De acuerdo con el artículo 53.2 de la ley 2/2020 de Evaluación Ambiental y transcurrido el plazo sin haber recibido
+respuesta a las consultas realizadas de los organismos no señalados con (*), entendemos que se tienen elementos
+de juicio suficientes para resolver al tener este expediente los informes oportunos y a los que podemos considerar
+válidos.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Características del proyecto.
+Se trata de una transformación de secano a regadío de 17,36 ha (olivo y viña) mediante riego localizado por goteo,
+junto con la ejecución de un sondeo de 156 m de profundidad, lo que determina la sujeción del proyecto a evaluación
+de impacto ambiental simplificada por doble vía (Anexo II, Grupo 1.c y Grupo 3.a, de la Ley 2/2020). La captación se
+encuentra en proceso de regularización ante la Confederación Hidrográfica del Júcar (ref. 5077/2018 – 2018CP0256).
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34969
+Se constatan varias deficiencias e incertidumbres que deberán ser subsanadas o aclaradas por el promotor con
+carácter previo al inicio de las actuaciones, y que condicionan de forma sustancial la valoración del proyecto: la
+inexistencia en Sigpac del recinto 6 de la parcela 313; la discrepancia de superficie del recinto 3 de la parcela 313
+(1,36 ha en el documento ambiental frente a 1,60 ha medidos en campo).
+Se deberán disponer los mecanismos más adecuados para evitar que se produzcan derrames o fugas accidentales
+sobre el terreno de aceites hidráulicos o combustibles procedentes de la maquinaria empleada en el sondeo. En el
+caso de producirse, deberá retirarse de inmediato la capa de suelo contaminada, y depositarla en un contenedor
+específico y estanco para que sea recogido y retirado por un gestor autorizado. Tampoco deberán realizarse vertidos
+de materiales de obra, residuos sólidos urbanos, residuos no inertizados o de dudosa caracterización, o cualquier
+otro elemento en el entorno de actuación. Los residuos generados en la fase de ejecución se adecuarán a lo
+establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+3.2.- Ubicación del proyecto.
+El proyecto se ubica fuera de la Red Regional de Áreas Protegidas de Castilla-La Mancha y no afecta, según la
+información disponible, a montes de utilidad pública ni a vías pecuarias, extremo que coincide con lo indicado tanto
+en el documento ambiental como en el informe del Servicio de Medio Natural y Biodiversidad.
+No obstante, existe una discrepancia relevante en cuanto a la avifauna protegida, la consulta INES de 2022 aportada
+por el promotor descarta la presencia de área crítica o de dispersión del águila perdicera, mientras que el informe
+del Servicio de Medio Natural y Biodiversidad identifica la zona como área de reproducción de dicha especie,
+catalogada “en peligro de extinción” a nivel regional (Decreto 33/1998) y “vulnerable” a nivel estatal (RD 139/2011),
+y sujeta al Plan de Recuperación del Decreto 76/2016. A los efectos del presente análisis se otorga prevalencia al
+informe oficial más reciente.
+La zona se encuentra igualmente comprendida dentro de la Zona Vulnerable a la Contaminación por Nitratos,
+circunstancia que deberá tenerse en cuenta en el diseño del plan de abonado y en la gestión de los residuos
+generados, debiendo actualizarse la normativa citada en el documento ambiental (que se remite a la Orden de 2011)
+por la actualmente vigente (Decreto 80/2025, de 14 de octubre).
+3.3.- Características del potencial impacto.
+El impacto derivado de la transformación a regadío propiamente dicha, tal y como se describe en el documento
+ambiental (sin afección a vegetación natural, patrimonio arqueológico, ni incremento del volumen de agua
+asignado), resultaría en principio compatible o moderado. Sin embargo, la valoración global del expediente queda
+condicionada por tres circunstancias que deben resolverse con carácter previo: la aclaración de la situación real
+de la captación, dado que aparenta estar ya ejecutada y en funcionamiento pese a describirse como pendiente; la
+confirmación actualizada por parte del Servicio de Medio Natural y Biodiversidad del alcance de la afección sobre
+el hábitat de reproducción del águila perdicera, y de las medidas de protección reforzada que, en su caso, resulten
+necesarias; y la corrección de las discrepancias de superficie constatadas en campo. Del correcto cumplimiento
+de las subsanaciones y del condicionado establecido en la presente Resolución dependerá la minimización de los
+efectos identificados.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1.- Subsanaciones previas al inicio de las actuaciones.
+Con carácter previo al inicio de las actuaciones, y como condición para la eficacia de la presente Resolución, el
+promotor deberá subsanar las siguientes deficiencias puestas de manifiesto en la fase de consultas:
+a) Superficie del proyecto: deberá corregirse la descripción y superficie del proyecto excluyendo el recinto 6 de
+la parcela 313, polígono 3 (0,07 ha), al no existir dicho recinto según el visor Sigpac, y aclarar la discrepancia de
+superficie del recinto 3 de la misma parcela (1,36 ha según documento ambiental frente a 1,60 ha medidos en
+campo).
+b) Situación real de la captación: deberá aclararse y acreditarse ante esta Delegación Provincial y ante la
+Confederación Hidrográfica del Júcar la fecha real de ejecución del pozo constatado en funcionamiento en las
+coordenadas del sondeo proyectado.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34970
+El promotor deberá presentar ante esta Delegación Provincial la documentación acreditativa del cumplimiento de las
+subsanaciones anteriores con carácter previo al inicio de las actuaciones, no siendo eficaz la presente Resolución
+hasta la verificación de dicho cumplimiento por el órgano ambiental.
+4.2.- Protección de la vegetación.
+No se realizarán nuevas aperturas de caminos, utilizándose siempre la traza ya existente para el acceso a la zona
+de trabajo.
+Cualquier actuación que implique descuaje de cubiertas vegetales de matorral o arbolado, requerirá autorización
+previa de la Delegación Provincial de Desarrollo sostenible de Albacete, en aplicación del artículo 49.2 de la Ley
+3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha sin que deba entenderse
+dicha autorización como concedida por la emisión de esta Resolución. En su caso, los restos de los trabajos serán
+eliminados mediante trituración o quema controlada atendiendo a la normativa de incendios forestales.
+Se deberá comunicar el inicio de las obras con suficiente tiempo de antelación a los agentes medioambientales de
+la zona, los cuales se encargarán de la supervisión y el seguimiento ambiental de la actividad. Se atenderá en todo
+momento a sus sugerencias y recomendaciones.
+El acceso a la zona de trabajo se realizará sin apertura de nuevos caminos o sendas, utilizando siempre la traza
+ya existente. De forma previa al inicio de las obras, se deberá jalonar la zona estricta de actuaciones con el fin de
+minimizar la afección a la vegetación natural tanto debida a la propia actuación como al paso de la maquinaria.
+Se respetará la vegetación natural existente en el interior y en los bordes de las parcelas. Según el Artículo 49
+de la Ley 3/2008, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha, en caso de que se realicen
+operaciones de descuaje de cubiertas vegetales de matorral o arbolado, se deberá solicitar autorización previa a
+esta Delegación Provincial.
+La eliminación de los restos vegetales se realizará con la mayor brevedad posible para evitar la aparición de plagas
+forestales y reducir el riesgo de incendios forestales. Se cumplirá la normativa vigente en materia de prevención de
+incendios forestales.
+Se prohíbe la alteración significativa o destrucción de las lindes, setos, superficies ocupadas por vegetación natural,
+árboles, arbustos o bosquetes de especies forestales, y demás elementos estructurales o característicos del paisaje
+agrario.
+Los acopios de tierra procedente de la excavación de las zanjas para tuberías, y los materiales empleados, deben
+hacerse en zonas desprovistas de vegetación.
+4.3.- Protección de la fauna.
+El proyecto se ubica fuera de la Red Regional de Áreas Protegidas de Castilla-La Mancha, si bien la zona de actuación
+ha sido identificada por el Servicio de Medio Natural y Biodiversidad como área de reproducción del águila perdicera
+(Aquila fasciata), especie catalogada “en peligro de extinción” en el Catálogo Regional de Especies Amenazadas
+de Castilla-La Mancha (Decreto 33/1998) y “vulnerable” en el Catálogo Español de Especies Amenazadas (RD
+139/2011), sujeta al Plan de Recuperación aprobado por el Decreto 76/2016, de 13 de diciembre.
+Los trabajos que impliquen movimiento de tierras, ejecución de zanjas, desbroces o tránsito de maquinaria pesada
+deberán realizarse fuera de la época reproductora de la especie. A estos efectos, y sin perjuicio de la precisión que
+resulte de la confirmación solicitada al Servicio de Medio Natural y Biodiversidad conforme al apartado 4.1.c), no se
+ejecutarán estos trabajos entre los meses de febrero y julio, ambos inclusive.
+Se acoge favorablemente la previsión del promotor de limitar el tráfico de maquinaria a 20 km/h y de evitar labores
+de arado en época de cría, medidas que deberán mantenerse. Si durante los trabajos se detectasen indicios
+de presencia o nidificación de águila perdicera u otras especies amenazadas, se comunicará de inmediato tal
+circunstancia al Servicio de Medio Natural y Biodiversidad y a los agentes medioambientales de la zona, pudiendo
+estos establecer medidas adicionales o una paralización cautelar de los trabajos.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34971
+En la zona donde se ejecute la actuación, se respetará la vegetación arbórea que pudiera existir, salvo que sea
+imposible su conservación por motivos de la actuación debidamente justificados, en cuyo caso se deberá indicar en
+el proyecto los árboles afectados (especie, diámetro de tronco a 1 metro del suelo y estado fitosanitario) y el destino
+de los mismos.
+Las lindes y enclavados con vegetación forestal intercalados entre tierras de labor, incluidos pies y matacanes
+aislados, deberán respetarse para favorecer la biodiversidad, ya que benefician las poblaciones presa de rapaces
+amenazadas, proporcionan refugio y zonas de alimentación.
+Como indudablemente esta transformación a regadío supone una intensificación agraria con interferencia en el
+hábitat de las especies faunísticas que allí habitan, deberán conservarse o realizarse en su caso linderos de no
+menos de un metro de ancho alrededor y entre todas las parcelas y en su caso recintos que componen la explotación.
+En estos linderos, deberá dejarse crecer la vegetación natural, sin aplicación de herbicidas.
+De constatarse a raíz de la puesta en regadío de la parcela, afecciones negativas a recursos naturales protegidos,
+como, entre otros, cambios en la distribución de especies catalogadas, se podrán establecer las medidas oportunas
+para su conservación y la recuperación de las condiciones originales.
+En lo no dispuesto en este condicionado se atenderá a las recomendaciones de los agentes medioambientales de
+la zona, quienes ejercerán la supervisión y el seguimiento ambiental de la actuación.
+4.4.- Protección de los sistemas hidrológico e hidrogeológico.
+Deberá estarse a lo dispuesto por la Confederación Hidrográfica del Júcar en la resolución del expediente de
+regularización de la captación (ref. 5077/2018 – 2018CP0256), no pudiendo el promotor extraer un volumen superior
+al que en definitiva se autorice (26.045 m³/año, salvo modificación), ni ampliar la superficie de riego más allá de la
+que finalmente se reconozca. Deberán cumplirse igualmente las normas de explotación anuales que establezca la
+Junta Central de Regantes de La Mancha Oriental.
+Previamente a la realización de los trabajos, se deberá contar con los permisos correspondientes de la Confederación
+Hidrográfica del Júcar, incluyendo la aclaración de la situación de la captación existente, conforme al apartado 4.1.b).
+La zona está comprendida dentro de la Zona Vulnerable a la Contaminación por Nitratos, por lo que deberá cumplirse
+el Programa de Actuación aplicable, aprobado por el Decreto 80/2025, de 14 de octubre, y el Código de Buenas
+Prácticas Agrarias de Castilla-La Mancha, llevándose un cuaderno de campo actualizado de los fitosanitarios y
+abonos utilizados, en línea con lo ya propuesto por el promotor de emplear productos de degradación rápida y baja
+persistencia.
+Se recuerda que un posible foco de afecciones al ecosistema es el de los productos fitosanitarios, siendo necesario
+el cumplimiento del Real Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación
+para conseguir un uso sostenible de los productos fitosanitarios.
+En la apertura de zanjas se evitará en todo momento alcanzar el nivel freático.
+La puesta en regadío supone una intensificación de las prácticas agrarias, con el consiguiente aumento del uso
+de productos fitosanitarios y abonos, así como el cambio en la composición de la comunidad de plantas arvenses
+presentes e introducción de otras especies específicas. Si no se realiza un uso responsable y adecuado de estos
+productos, pueden provocar contaminación o eutrofización de las aguas subterráneas directamente o bien por
+contaminación difusa.
+En relación a la aplicación de fitosanitarios, se emplearán aquellos que, por motivos de especificidad, tiempo de
+persistencia, etc., sean más recomendables. Asimismo, se adoptarán las medidas necesarias para que su aplicación
+no suponga un riesgo para la contaminación de aguas superficiales o subterráneas. Deberá llevarse un libro de
+registro de los productos utilizados en el que se indique la fecha, zona de aplicación, categoría de peligrosidad
+para las diferentes especies, nombre del producto comercial, materia activa y dosis empleada en cada aplicación.
+Igualmente, se realizarán revisiones periódicas de forma regular en los equipos de aplicación.
+Es necesario adecuar las concesiones conforme a las necesidades hídricas reales de los cultivos, y en todo caso, se
+deben estudiar minuciosamente las condiciones particulares del aprovechamiento para valorar adecuadamente su
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34972
+compatibilidad con la preservación y mejora de los humedales manchegos, siempre teniendo en cuenta el principio
+de cautela, ante la duda razonable de que puedan causar de manera acumulativa todos los pozos en su conjunto,
+un efecto negativo de difícil corrección.
+4.5.- Generación de residuos.
+Todos los residuos generados durante las fases de construcción y funcionamiento de la actividad, bien sean residuos
+peligrosos o no, e independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022, de
+8 de abril, de residuos y suelos contaminados para una economía circular.
+Durante la fase de explotación, los residuos procedentes de tratamientos fitosanitarios deberán gestionarse a través
+de gestor autorizado en los términos que establece el Real Decreto 1055/2022, de 27 de diciembre, sobre Envases
+y residuos de envases.
+Tanto durante la fase de obras como durante la fase de funcionamiento, se deberá prestar especial atención a los
+vertidos líquidos procedentes de la maquinaria empleada, y, concretamente, a los aceites usados, que deberán ser
+almacenados en bidones, posteriormente recogidos y transportados para su posterior tratamiento, de acuerdo con
+la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, o en su
+defecto, el promotor se deberá inscribir en el Registro de Pequeños Productores de Residuos Peligrosos y presentar
+contrato con Gestor Autorizado. En caso de cualquier incidencia como derrame accidental de combustibles o
+lubricantes, se actuará de forma que se restaure el suelo afectado, extrayendo la parte de suelo contaminado que
+deberá ser recogido y transportado por gestor autorizado para su posterior tratamiento.
+4.6.- Protección del suelo.
+El artículo 165.2, del Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de
+Castilla-La Mancha, requerirán licencia urbanística los “actos de construcción, edificación y uso del suelo que
+afecten a elementos con protección cultural, a la seguridad y salud públicas, que requieran cualquier tipo de
+autorización ambiental o sean realizados por particulares en dominio público”. Igualmente, el artículo 165.1.p)
+indica que requerirán licencia urbanística “Las instalaciones que afecten al subsuelo”.
+En la apertura de zanjas para el tendido de tuberías, se producirá una afección al suelo. Con el fin de paliar esta
+afección, se realizará un acopio de los 30 primeros cm de suelo agrícola, que será almacenado en caballones de
+alturas inferiores a 1,2 m, para facilitar su aireación y evitar su compactación. Se evitará en todo momento alcanzar
+el nivel freático.
+En relación con los accesos, se priorizará la utilización de caminos existentes, evitándose la apertura de nuevos
+accesos directos a la carretera. En caso de resultar imprescindible la ejecución de un nuevo acceso, este se diseñará
+conforme a la normativa vigente en materia de carreteras, garantizando condiciones adecuadas de visibilidad,
+seguridad y drenaje, previa autorización del servicio de carreteras de la Consejería de Fomento. Asimismo, se
+adoptarán medidas de señalización específicas para advertir de la posible presencia de maquinaria agrícola en las
+incorporaciones a la vía.
+En materia de protección ambiental, se minimizará la eliminación de elementos naturales existentes en los márgenes
+de las parcelas, tales como linderos o ribazos, favoreciendo la conservación de hábitats para la fauna. Se adoptarán
+igualmente buenas prácticas agrarias en el uso de fertilizantes y productos fitosanitarios, estableciendo zonas de
+seguridad sin tratamiento en las proximidades de la carretera, con el fin de evitar la deriva de productos y posibles
+afecciones a la seguridad vial y al entorno.
+En caso de implantación de infraestructuras auxiliares, tales como casetas de bombeo o instalaciones fotovoltaicas,
+estas se ubicarán fuera de la zona de afección de la carretera, garantizando su adecuada integración paisajística y
+evitando cualquier posible interferencia con la circulación, incluyendo riesgos de deslumbramiento.
+Finalmente, se velará por el cumplimiento de la normativa sectorial aplicable, solicitando las correspondientes
+autorizaciones administrativas para cualquier actuación que pudiera afectar al dominio público viario o a sus zonas
+de protección.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34973
+4.7.- Protección contra el ruido.
+Los motores y bombas de extracción de agua se deberán dotar de sistemas que minimicen el ruido a niveles que no
+molesten a la fauna presente en la zona. Para ello se contará con la supervisión de los Agentes Medioambientales
+de la zona.
+4.8.- Patrimonio Histórico y Bienes de Dominio Público e Infraestructuras.
+Se deberá actuar conforme a lo previsto en el artículo 44.1 de la Ley 16/1985, de Patrimonio Histórico Español, y
+en el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha. En caso de que
+aparecieran restos durante la ejecución de las obras, se paralizarán de inmediato los trabajos y se comunicará a la
+Administración competente en materia de Patrimonio Cultural, debiendo garantizarse su control arqueológico con
+carácter previo a continuar con la ejecución del proyecto, tal y como establece la Resolución de la Viceconsejería de
+Cultura y Deportes (Exp. Cultura 26.1534 R) y ya contemplaba el propio documento ambiental del promotor.
+4.9.- Plan de desmantelamiento.
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos de
+material o residuos a vertederos adecuados a la naturaleza de cada residuo, y se restaurarán los terrenos ocupados
+a su estado original, poniéndose en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de
+Desarrollo Sostenible de Albacete para dar por finalizado el expediente.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones,
+o de las medidas correctoras y compensatorias establecidas en la presente resolución. Este informe incluirá un
+listado de comprobación de las medidas previstas en el programa de vigilancia. Cada informe deberá estar suscrito
+conjuntamente por el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán
+ante el órgano ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento
+efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes puntos:
+- Verificación de la corrección de la superficie del proyecto conforme a Sigpac y de la aclaración de la discrepancia
+del recinto 3 de la parcela 313.
+- Verificación de la situación administrativa de la captación existente y de su regularización ante la Confederación
+Hidrográfica del Júcar.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34974
+- Control de ausencia de afección a la reproducción del águila perdicera, conforme a la confirmación que en su
+caso emita el Servicio de Medio Natural y Biodiversidad, incluyendo el cumplimiento de la limitación temporal de los
+trabajos.
+- Control de no afección al patrimonio arqueológico.
+- Control de la correcta aplicación del plan de abonados y tratamientos fitosanitarios, y del cuaderno de campo.
+- Control de la correcta gestión de los residuos generados por la actividad.
+- Seguimiento de niveles piezométricos y calidad del agua del acuífero, y censo de avifauna, conforme a lo propuesto
+por el promotor.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Delegación Provincial de
+Desarrollo Sostenible de Albacete:
+a) Antes del inicio de la eficacia de la presente Resolución (subsanaciones previas):
+- Documentación acreditativa de la corrección de la superficie del proyecto y de la aclaración de las discrepancias
+de los recintos 3 y 6 de la parcela 313.
+- Documentación acreditativa de la situación real de la captación existente en el emplazamiento del sondeo
+proyectado, y del estado del expediente de regularización ante la Confederación Hidrográfica del Júcar.
+b) Antes del inicio de la obra (una vez subsanado lo anterior):
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+c) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cuatro primeros años de
+funcionamiento del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y
+vigilancia ambiental.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Albacete, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero y en
+el ejercicio de las atribuciones conferidas por la Resolución de 24 de mayo de 2024, de la Dirección General de
+Calidad Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las Delegaciones
+Provinciales de la Consejería de Desarrollo Sostenible y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, resuelve que el proyecto , resuelve que el proyecto “Transformación de secano
+a regadío de 17,36 has en polígono 3 parcelas 313, 402, 408 y 418 de Alborea Expte. CHJ (2018CP0256)-UGH
+AA0027” (S478/2026/AB/00084) cuyo promotor es Jesús Carrión Iñiguez, no necesita someterse a una Evaluación
+de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que
+se cumplan las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se
+desprenden del presente informe de impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34975
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Albacete, 1 de octubre de 2026
+La Delegada Provincial
+P. S. (Decreto 112/2023, de la Consejería
+de Desarrollo Sostenible, art. 15.g)
+El Secretario Provincial
+FRANCISCO JOSÉ FUENTES MORENO
+
+AÑO XLV Núm. 194 8 de octubre de 2026 34976
+Cartografía de la actuación
+Perímetro de la actuación proyectada. Fuente: Elaboración propia
