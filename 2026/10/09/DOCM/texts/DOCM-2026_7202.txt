@@ -1,0 +1,169 @@
+AÑO XLV Núm. 195 9 de octubre de 2026 36335
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 01/10/2026, de la Dirección General de Transición Energética, de autorización administrativa
+previa y autorización administrativa de construcción, de la instalación de almacenamiento Haza de las Tobas
+Bess, para hibridación de la instalación solar fotovoltaica Haza de las Tobas. (Referencia: 2713/00008).
+[2026/7202]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Toledo, y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia: 2713/00008 - 2703/01134 (DP:PE-585-CII).
+- Peticionario: Energía Helios, S.L. – NIF: B98918055.
+- Documentación técnica: Reformado del proyecto técnico administrativo para hibridación de planta solar fotovoltaica
+existente con la nueva planta de almacenamiento “Haza de las Tobas Bess” de 10,08 Mw de potencia instalada y
+40,12 Mwh, e infraestructuras de evacuación asociadas en el t.m. de Madridejos (Toledo), cuyo autor es Juan José
+García Pajuelo, con la titulación de Ingeniero Técnico Industrial y con número de colegiado Nº 2117, del Colegio
+Oficial de Peritos e Ingenieros Técnicos Industriales de Badajoz. Aporta declaración responsable en modelo oficial
+y de cumplimiento de normativa.
+- Características técnicas: Hibridación de la instalación de producción de energía eléctrica mediante tecnología solar
+fotovoltaica denominada “Haza de las Tobas” de 9.450 kW de potencia instalada mediante módulo de almacenamiento
+de energía “Haza de las Tobas Bess” con una potencia instalada de 10,08 MW y 40,012 MWh de capacidad de
+almacenamiento en 4 horas, y sus infraestructuras de evacuación, para una potencia concedida de 9 MW.
+Características principales de las instalaciones:
+Ocho (8) contenedores de baterías modelo Power Titan 2.0 ST5015UX – 4H de Sungrow, con 5.015 kWh de
+almacenamiento cada una. Cada uno de los contenedores dispone de 6 inversores de 210 kW de potencia unitaria.
+(1.260 kW de potencia total).
+Dos (2) Power Station o Centro de Transformación modelo MVS5140-LS de 0,69/30 kV de 5.140 kVA y transformador
+de 120 kVA para servicios auxiliares.
+Red interior a 30 kV: Se realizarán líneas subterráneas de 30 kV, configuradas con conductor AL RHZ1-OL 18/30
+kV, para conectar los Centros de Transformación entre sí, y para conectar el último Centro de Transformación con el
+Centro de Seccionamiento. La longitud total aproximada de la red será de 72,5 m.
+Centro de seccionamiento. Para la hibridación de la Planta Solar Fotovoltaica “Haza de las Tobas”, se conectarán en
+el centro de seccionamiento existente las líneas procedentes tanto de la Planta Solar Fotovoltaica ISF “Haza de las
+Tobas” como de las dos Power Station o Centros de Transformación de la planta de almacenamiento “Haza de las
+Tobas Bess”; para dicha conexión se incorporarán las correspondientes celdas de línea y de medida. Además, se
+incorporará tanto el relé de potencia inversa (función 32) como el sistema de control coordinado.
+Otras infraestructuras de evacuación: Actualmente la Planta Solar Fotovoltaica ISF “Haza de las Tobas” conecta en al
+Centro de Seccionamiento existente en la planta, y evacúa la energía generada a través de una línea de evacuación
+aérea de 30 kV, compartida con otras instalaciones generadoras, la cual parte de dicho Centro de Seccionamiento y
+termina en la subestación elevadora “Madridejos Solar 30/132 kV”. Desde la subestación “Madridejos Solar 30/132
+kV”, existe una línea de evacuación subterránea en 132 Kv, compartida con otras instalaciones generadoras, hasta
+la subestación propiedad de la distribuidora UFD Distribución Electricidad (Grupo Naturgy), denominada “Madridejos
+132 kV”.
+Nota: Las anteriores descripciones tienen carácter meramente indicativo. Para una descripción detallada de la
+misma se deberá acudir a la documentación técnica que se encuentra en el expediente.
+- Situación: La planta de almacenamiento “Haza de las Tobas Bess” de 10,08 MW se situará dentro del recinto solar
+de la FV Haza de las Tobas a hibridar, que se encuentra ubicada en el Término Municipal de Madridejos (Toledo). En
+el polígono 10, parcela 82 del término municipal de Madridejos (Toledo).
+- Evacuación: Actualización por parte de UFD Distribución de Electricidad, S.A., de los permisos de acceso y
+conexión, para la hibridación de FV Haza de las Tobas, de fecha 03/03/2026.
+- Finalidad: Hibridación, entre un sistema de almacenamiento de energía en baterías electroquímicas y la planta
+solar fotovoltaica “Haza de las Tobas” existente y en funcionamiento.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36336
+Y en base a los siguientes:
+Antecedentes de hecho.
+Primero: Con fecha 21/07/2025 Energía Helios, S.L.U. presenta solicitud de autorización administrativa previa y
+autorización administrativa de construcción del proyecto de hibridación con un sistema de almacenamiento mediante
+baterías de la planta solar fotovoltaica “ Haza de las Tobas”.
+Segundo: La instalación solar fotovoltaica “Haza de las Tobas”, con 9 MW instalados y 9 MW de capacidad de
+acceso, cuenta con autorización de explotación mediante resolución de 04/02/2025.
+Tercero: Mediante anuncio de 30/04/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, se somete
+a información pública la solicitud para autorización administrativa previa de proyecto de hibridación instalación
+solar fotovoltaica denominada Haza de las Tobas, mediante módulo de almacenamiento denominado: Haza de las
+Tobas Bess situada en el término municipal de Madridejos. Referencia: PE-585-CII. Dicho anuncio se publicó en el
+D.O.C.M. núm. 112 de 16/06/2026 y en el tablón electrónico de la Junta de Comunidades de Castilla-La Mancha.
+Durante el trámite de información pública no consta la presentación de alegaciones.
+Cuarto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Ayuntamiento de Madridejos. Con fecha de puesta a disposición 27/04/2026, y misma fecha de lectura, se realiza
+petición de conformidad y condicionado otorgando un plazo de 20 días para su emisión. No consta la emisión de
+informe en el plazo establecido, por lo que se entiende la conformidad con la autorización solicitada.
+- Confederación Hidrográfica del Guadiana. Con fecha de puesta a disposición 27/04/2026 se realiza petición de
+conformidad y condicionado otorgando un plazo de 20 días para su emisión. Con fecha 9/7/2026 la Confederación
+emite informe en el que manifiesta que el proyecto no afectaría a aspectos que sean competencia de ese organismo
+de cuenca. Con fecha de puesta a disposición 13/7/2026, y misma fecha de lectura, se traslada informe al promotor
+para su conocimiento y para que surta los efectos oportunos.
+- DP Cultura y Deportes. Patrimonio. Con fecha de puesta a disposición 27/04/2026 se realiza petición de conformidad
+y condicionado otorgando un plazo de 20 días para su emisión. Con fecha 29/04/2026 el Servicio de Cultura de la
+Delegación Provincial de Educación, Cultura y Deportes en Toledo emite informe con condiciones. Con fecha de
+puesta a disposición 6/5/2026, y fecha de lectura 7/5/2026, se traslada al interesado con plazo de 10 días. No consta
+respuesta en el plazo establecido, por lo que se entiende su conformidad.
+Quinto: Se realiza consulta al Servicio de Calidad Ambiental, con fecha 16/10/2025 se remite documento ambiental
+común relativo a la hibridación mediante almacenamiento de las instalaciones solares fotovoltaicas denominadas
+Entrecaminos (PE-584) y Haza de las Tobas (PE-585) ejecutadas y evaluadas ambientalmente de forma conjunta con
+el expediente PRO-TO-19-2508 para que, de acuerdo con lo establecido el art. 6.2.c de la Ley 2/2020, determine si
+las modificaciones planteadas requieren someterse a un procedimiento reglado de evaluación de impacto ambiental.
+Con fecha 18/11/2025 el Servicio de Calidad Ambiental emite informe en el que indica que el proyecto no supone una
+modificación sustancial del proyecto original y por tanto, no resulta necesario el inicio de un nuevo procedimiento de
+evaluación de impacto ambiental.
+Con fecha de puesta a disposición 26/11/2025, y misma fecha de lectura, se remite doc. 5 al promotor para su
+conocimiento y para que surta los efectos oportunos.
+Sexto: La Delegación Provincial de Desarrollo Sostenible en Toledo cumplió con lo establecido en la resolución de
+3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as delegados/
+as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 16/07/2026 informe favorable,
+para la autorización administrativa previa y de construcción solicitadas.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36337
+Séptimo: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción solicitadas.
+En relación con los anteriores antecedentes de hecho resultan de aplicación los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la emisión de la presente
+resolución según lo establecido en el Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica
+y las competencias de la Consejería de Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007 y demás normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y la autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud,
+Resuelve: Otorgar a Energía Helios, S.L.U. la autorización administrativa previa y la autorización administrativa de
+construcción de las instalaciones eléctricas de referencia, de acuerdo a las características indicadas. La presente
+resolución se encuentra sujeta a las siguientes condiciones:
+Primera: La autorización otorgada se entiende sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Esta autorización producirá los efectos previstos en la normativa procedimental de aplicación a este tipo de
+instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante, del
+resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se cumplirá lo establecido en la resolución de 11/11/2020 de la Delegación Provincial de Desarrollo Sostenible
+de Toledo, por la que se formula la declaración de impacto ambiental del proyecto. “FV Haza de las Tobas”.
+Sexta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36338
+Séptima: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 1 de octubre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ

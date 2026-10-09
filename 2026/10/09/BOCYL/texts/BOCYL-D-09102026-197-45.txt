@@ -1,0 +1,119 @@
+Boletín Oficial de Castilla y León
+Núm. 197 Viernes, 9 de octubre de 2026 Pág. 257
+I. COMUNIDAD DE CASTILLA Y LEÓN
+E. ANUNCIOS
+E.2. Otros Anuncios Oficiales
+CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA
+Servicio Territorial de Industria, Comercio y Economía de Valladolid
+ANUNCIO del Servicio Territorial de Industria, Comercio y Economía de Valladolid,
+por el que se somete a información pública la solicitud de autorización administrativa
+previa y autorización administrativa de construcción de una instalación de distribución
+eléctrica, en el término municipal de Simancas (Valladolid). Expte.: AT-51809 ATCT-2983.
+Vista la solicitud de fecha 07/08/2026 de i-DE Redes Eléctricas Inteligentes S.A.U.
+(en adelante I-De) con N.I.F. A95075578 y domicilio a efectos de notificaciones en
+C/ Vázquez de Menchaca n.º 19–Polígono de Argales (Valladolid),
+A los efectos previstos en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico y
+en el Decreto 46/2022, de 24 de noviembre, por el que se regulan los procedimientos de
+autorizaciones administrativas de instalaciones eléctricas en Castilla y León, se somete a
+información pública, al no presentar los informes favorables de todas las Administraciones y
+empresas de servicios de interés general afectadas (Ayuntamiento de Simancas, Servicio
+Territorial de Medio Ambiente de Valladolid de la Junta de Castilla y León y Telefónica de
+España), la solicitud de autorización administrativa previa y autorización administrativa de
+construcción del proyecto denominado: «Soterramiento del tramo de línea aérea a 13,2
+kV "San Miguel del Pino" (L4729-07) entre los apoyos 262 y 269, y sustitución del CT "Elev
+Aguas Panorama" (120338309), en la urbanización Panorama (T.M. Simancas)» firmado
+por el Ingeniero Marcos A. Menchén Soto, con visado VD2601475 a fecha 23/06/2026 en
+el Colegio Oficial de Ingenieros Técnicos Industriales de León.
+Las características principales se señalan a continuación.
+Expediente: AT-51809 ATCT-2983.
+Peticionario: i-DE Redes Eléctricas Inteligentes, S.A.U.
+Objeto: El objeto del presente proyecto es el de definir los aspectos técnicos y las
+afecciones para el soterramiento del tramo de Línea Aérea a 13,2 kV «San Miguel del
+Pino» (L4729-07) comprendido entre los apoyos 262 y 269, que discurre por el interior
+de la Urbanización Panorama y su entorno. El soterramiento implica actuaciones en el
+Centro de Transformación «Molino Panorama» (120338310), al ser necesario instalar
+un conjunto de celdas telemandadas no extensible CNE-2L1P-F-SF6-24-TELE, y la
+sustitución del CT intemperie «Elev Aguas Panorama» (120338309); ambos alimentados
+desde apoyos instalados en el tramo a soterrar.
+CV: BOCYL-D-09102026-197-45
+
+Boletín Oficial de Castilla y León
+Núm. 197 Viernes, 9 de octubre de 2026 Pág. 258
+Características:
+LÍNEA ELÉCTRICA A 13,2 KV «SAN MIGUEL DEL PINO» (L4729-07)
+LÍNEA AÉREA A 13,2 KV: VANO ENTRE LOS APOYOS N.º261-N.º1262
+Categoría de la Línea: 3ª Categoría. / Tensión Nominal: 13,2 kV / Tensión máxima de
+servicio: 24 KV. Nuevo apoyo de celosía metálica (C2000/12E), denominado apoyo n.º
+1262, desde el que parte el tramo de Línea que alimentará en subterráneo al CT «Molino
+Panorama» (120338310).
+• Origen: Apoyo 261 existente. Final: Apoyo 1262 a instalar (C2000/12E)
+• Cable: L 40 (existente a retensar)
+• Longitud: 104 m
+El apoyo n.º1262 se adecuará al RD 1432/2008
+LÍNEA SUBTERRÁNEA A 13,2 KV:
+Tramo 1. Entre apoyo 1262 y CT «Molino Panorama» (120338310).
+Categoría de la Línea: A / Tensión Nominal: 13,2 kV / Tensión máxima de servicio:
+24 kV Corriente alterna trifásica / Frecuencia: 50 Hz. Origen: Apoyo 1262 a instalar
+(C2000/12E). Final: Celda del Línea asignada en el CT «Molino Panorama» (120338310).
+Longitud: 661 metros (de los cuales 10 m discurren verticales por el apoyo, 646 m lo
+hacen Canalizados y 5 m lo hace por el interior del CT). Cable: HEPRZ1 12/20 kV 3x240
+mm2 Al + H16 (a instalar)
+Tramo 2. Entre CT «Molino Panorama» (120338310) Y NUEVO CT. Categoría de
+la Línea: A / Tensión Nominal: 13,2 kV / Tensión máxima de servicio: 24 kV Corriente
+alterna trifásica / Frecuencia: 50 Hz. Origen: Celda del Línea asignada en el CT «Molino
+Panorama» (120338310). Final: Celda del Línea asignada en el nuevo CT. Longitud: 303
+metros (de los cuales 295 m discurren canalizados y 8 m discurren por el interior de los
+Centros de Transformación). Cable: HEPRZ1 12/20 kV 3x240 mm2 Al + H16 (a instalar)
+NUEVO CENTRO DE TRANSFORMACIÓN EN SUSTITUCIÓN DEL CT «ELEV
+AGUAS PANORAMA» (120338309)
+Tipo: Centro de Transformación Compacto en edificio prefabricado de superficie
+con maniobra exterior. Envolvente: Envolvente prefabricada será del tipo EPSC TL.
+Celdas: CNE-2L1P-F-SF6-24-TELE. Interconexión MT: HEPRZ1 12/20 kV 3(1x50)
+mm2 Al. Transformador: 250 kVA, 20-13,2 kV /B2A (a conectar a 13,2 kV). Interconex.
+Trafo-Cuadro BT: XZ1 (S) 0,6/1 kV 3(3x240) + 2x240 mm2 Al. Cuadro BT: Un cuadro de
+cinco salidas tipo CBTC-EAS-ST-SL-1000. Automatización: Si. Telegestión: Sistemas de
+Telegestión y Telemedida a instalar
+RED DE BAJA TENSIÓN DEL NUEVO CENTRO DE TRANSFORMACIÓN
+2 Líneas BT que partirán en subterráneo, con cable aislado 0,6/1 kV, tipo XZ1 (S) de
+3(1x240) + 1x150 mm2 Al, por las canalizaciones proyectadas:
+CV: BOCYL-D-09102026-197-45
+
+Boletín Oficial de Castilla y León
+Núm. 197 Viernes, 9 de octubre de 2026 Pág. 259
+Línea 1 BT: Origen: Cuadro BT del nuevo Centro de Transformación proyectado.
+Final: Arqueta a instalar en las inmediaciones del CT. Longitud: 17 metros (3 m discurren
+por el interior del CT y el resto canalizados). Cable: XZ1 (S) de 3(1x240) + 1x150 mm2
+Al, a instalar
+Línea 2 BT: Origen: Cuadro BT del nuevo Centro de Transformación proyectado.
+Final: Arqueta a instalar en las inmediaciones del CT. Longitud: 17 metros (3 m discurren
+por el interior del CT y el resto canalizados). Cable: XZ1 (S) de 3(1x240) + 1x150 mm2
+Al, a instalar
+DESMONTAJES:
+Línea aérea a 13,2 kV «San Miguel del Pino» (L4729-07): 7 apoyos de hormigón
+vibrado armado, con sus respectivas crucetas y aislamiento (apoyos 262, 263, 265, 266,
+268, 269 y 275). 2 apoyos de celosía metálica, con sus respectivas crucetas y aislamiento
+(apoyos 264 y 267) 638 m de cable L 40.
+Centro de transformación «Elev Aguas Panorama» (120338309): 1 transformador
+100 kVA 13,2/B2A del fabricante INCOESA (con número de serie 80574).
+Red BT del CT «Elev Aguas Panorama» (120338309): L1: 15 m de Línea con cable
+RV 3x95/50 mm2 Al. L2: 15 m de Línea con cable RV 3x95/50 mm2 Al.
+Ubicación de la instalación: Urbanización Panorama y su entorno (término municipal
+de Simancas).
+Presupuesto: doscientos ochenta y dos mil trescientos seis euros con cincuenta y
+tres céntimos (282.306,53 €).
+Lo que se hace público a los efectos del artículo 9 del Decreto 46/2022, de 24 de
+noviembre, para que cualquier persona pueda examinar el proyecto, en la página web de
+la Junta de Castilla y León, sección correspondiente a Energía y Minería, con dirección
+electrónica:
+https://energia.jcyl.es/web/es/informacion-publica-energia-minas/energia-valladolid.html
+y formular las alegaciones que considere oportunas ante el Servicio Territorial de
+Industria, Comercio y Economía de Valladolid, en la Plaza del Milenio, n.º 1 – 6ª planta,
+en días hábiles de lunes a viernes, en horario de 9 a 14 horas, en el plazo de veinte días,
+contados a partir de la publicación de este anuncio.
+Valladolid, 18 de septiembre de 2026.
+El Jefe del Servicio Territorial,
+(P.A. Res. 08/06/2026)
+La Secretaria Técnica,
+Fdo.: Isabel del Blanco Álvarez
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-09102026-197-45

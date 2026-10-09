@@ -1,0 +1,279 @@
+AÑO XLV Núm. 195 9 de octubre de 2026 36329
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 30/09/2026, de la Dirección General de Calidad Ambiental, por la que se formula el informe
+de impacto ambiental, de sometimiento a evaluación de impacto ambiental ordinaria del proyecto: Planta de
+producción de harinas para galleta, (expediente S478/2026/DG/00175), situado en el término municipal de
+Cobeja (Toledo), cuya promotora es Promic, SAU. [2026/7215]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, en su artículo 6.2 concreta los
+proyectos que deben ser sometidos a evaluación de impacto ambiental simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de evaluación de impacto ambiental ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, el proyecto “Planta de producción de harinas para galleta” (expediente S478/2026/DG/00175), situado
+en el término municipal de Cobeja (Toledo), cuyo promotor es Promic, S.A.U., se encuentra incluido en el anexo II de
+la Ley 2/2020, concretamente en el grupo 2 (industrias de productos alimenticios), epígrafe a, correspondiente a las
+instalaciones industriales para la transformación de productos vegetales, cumpliéndose la circunstancia de situarse
+a menos de 2.000 metros de zona residencial.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental, del 13 de marzo de 2026, la actividad pretendida por el promotor Promic, S.A.U.,
+consiste en la adecuación y puesta en marcha de una planta para la producción de harinas destinadas a la
+alimentación animal en suelo urbano industrial, en las parcelas 187, 190, 191, 192, 195 y 196 del polígono 1, en el
+término municipal de Cobeja (Toledo).
+La actuación tiene como finalidad la gestión y valorización de subproductos de la industria alimentaria mediante
+su recepción, desenvasado, secado térmico, molienda, cribado y formulación, obteniendo como producto final una
+harina de galleta seca y homogénea, empleada como ingrediente de alta calidad en piensos compuestos para
+animales de granja.
+La planta está diseñada para alcanzar una capacidad de producción de 11,38 toneladas por hora de producto
+acabado, alcanzando una capacidad máxima diaria de producción de 273,12 toneladas, y 60.086,4 toneladas
+máximas anuales (en los 220 días de trabajo por año que se contemplan en el documento, a un régimen de
+funcionamiento teórico máximo).
+La instalación se diseña aprovechando al máximo la edificación industrial preexistente, correspondiente a la fábrica
+de material cerámico titularidad de Hermanos Díaz Redondo, S.A., que fue objeto de la autorización ambiental
+integrada emitida mediante la Resolución del 12 de mayo de 2006 de la Dirección General de Evaluación Ambiental,
+publicada el 31 de mayo de 2006 en el Diario Oficial de Castilla-La Mancha número 112. Esta industria no presenta
+actividad actualmente.
+La planta se organiza en varias áreas funcionales y naves diferenciadas:
+- Nave 1 (recepción y pretratamiento): Destinada a la recepción de materias primas alimentarias (en formato
+paletizado o a granel) y a las operaciones mecánicas de apertura de envases, desenvasado, separación inicial de
+impropios y zona exterior de transferencia de residuos de embalaje.
+- Nave 2 (secado, molienda y formulación): Área principal de proceso equipada con dos secadores rotativos
+alimentados por quemadores de gas natural, líneas de trituración y cribado, homogeneizadores para mezcla con
+harinas vegetales y un conjunto exterior de silos de almacenamiento para cereales y aditivos.
+- Nave 3 (anexo técnico de aguas y líquidos): Espacio técnico adosado que alberga la planta depuradora de aguas
+de limpieza y la estación de bombeo de alimentos líquidos hacia los secaderos.
+- Nave 4 (zona de reserva / almacén): Espacio de reserva para posibles ampliaciones futuras, destinado al
+almacenamiento puntual de cereal en grano ensacado.
+- Nave 5 (zona técnica y de control): Edificación distribuida en dos plantas que contiene la sala de control general del
+proceso, laboratorio de calidad, salas de cuadros eléctricos y almacén de mantenimiento.
+- Control de acceso y báscula (nave 6 / exteriores): Caseta prefabricada ubicada a la entrada de la parcela, equipada
+con báscula de pesaje, sistema de toma de muestras para control de calidad y oficina de recepción para conductores.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36330
+El proceso productivo se desarrolla en cuatro fases sucesivas:
+- Fase A. Control de recepción y pretratamiento: Control de acceso de vehículos, pesaje en báscula, inspección
+documental y de calidad, descarga en boxes de espera y proceso mecánico de desenvasado y separación del
+alimento respecto al embalaje.
+- Fase B. Secado térmico: Tratamiento del material desembalado en secadores rotativos mediante la aplicación de
+gases calientes derivados de la combustión de gas natural para reducir el contenido de humedad.
+- Fase C. Molienda y cribado: Triturado y tamizado mecánico en distintas secuencias para eliminar impropios y
+reducir la fracción seca hasta obtener la granulometría deseada.
+- Fase D. Formulación, almacenamiento y expedición: Mezcla de la harina de galleta con harinas vegetales y fibras
+desde silos exteriores, acopio en pisos móviles cerrados y carga a granel en camiones sobre báscula.
+La instalación contempla los siguientes focos canalizados de emisión:
+- Foco 1 (descarga de cereal en piquera): Foco asociado a las operaciones de carga de silos. Tiene un funcionamiento
+intermitente (estimado en menos de 3.500 horas/año) y cuenta con un filtro de mangas para la captación y retención
+de partículas de polvo.
+- Focos 2 y 3, agrupados en un único conducto de escape (secadores de producto húmedo): Corresponden a los
+dos secadores rotativos del producto alimentario. Utilizan quemadores de gas natural y disponen de ciclones de
+decantación de polvo para depurar las emisiones antes de su salida a la atmósfera.
+El consumo total de agua potable de la planta se estima en 1.100 m³/año. La generación de aguas residuales se
+limita a las aguas residuales sanitarias de las propias instalaciones y a las aguas de limpieza procedentes del lavado
+de equipos e instalaciones.
+Segundo. Tramitación y consultas.
+El 24 de julio de 2026, el Ayuntamiento de Cobeja remite a la Delegación Provincial de Desarrollo Sostenible de
+Toledo la siguiente documentación sobre el proyecto denominado “Planta de producción de harinas para galleta”
+(expediente S478/2026/DG/00175), situado en el término municipal de Cobeja (Toledo), cuyo promotor es Promic,
+S.A.U., siendo de aplicación la Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha:
+- Solicitud de evaluación de impacto ambiental junto con el resguardo de abono de la tasa.
+- Documento ambiental del 13 de marzo de 2026.
+- Proyecto de planta de producción de harinas para galleta en el término municipal de Cobeja (Toledo) para
+autorización de emisión de gases de efecto invernadero. Documento del 13 de marzo de 2026.
+- Informe de caracterización del subsuelo en una antigua fábrica de ladrillos en Cobeja, Toledo. Documento de 11
+de julio de 2025.
+- Estudio acústico preoperacional para planta de tratamiento ambiental de subproductos ubicada en Cobeja, Toledo.
+Documento del 5 de marzo de 2026.
+- Estudio de dispersión de contaminantes emitidos por la nueva planta de tratamiento ambiental de subproductos de
+Cobeja (Toledo) mediante la aplicación del programa de modelación Aermod. Documento del 10 de marzo de 2026.
+- Certificado de compatibilidad urbanística emitido por el Ayuntamiento de Cobeja el 27 de agosto de 2025.
+Según establece el artículo 53.1 de la Ley 2/2020, el 29 y 31 de julio de 2026 se solicitan informes a las Administraciones
+Públicas afectadas y a las personas interesadas que figuran en el listado siguiente, tal y como se definen en dicha
+ley. Se destacan en el listado las entidades que han emitido contestación:
+Fecha Fecha
+Nº Entidad consultada
+petición recepción
+1 Acmaden -Ecologistas en Acción 29/07/2026 28/08/2026
+Agencia del Agua de Castilla-La Mancha - Servicio Provincial de la Agencia
+2 31/07/2026 03/09/2026
+del Agua en Toledo
+3 Agrupación Naturalista Esparvel 29/07/2026 28/08/2026
+4 Arba Toledo (Asociación por la recuperación del bosque autóctono) 29/07/2026
+5 Asociación Nacional Micorriza 29/07/2026
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36331
+6 Asociación Ecologista la Avutarda Dientes de Sable 29/07/2026
+7 Asociación Naturalista Amigos del Guadyerbas 29/07/2026
+8 Asociación Ornitológica Ardeidas 29/07/2026
+9 Asociación para la Defensa de la Naturaleza WWF/Adena 29/07/2026
+10 Asociación Toledo Aire Limpio 29/07/2026
+11 Ayuntamiento de Cobeja 29/07/2026
+12 Confederación Hidrográfica del Tajo 29/07/2026 150/9/2026
+Delegación Provincial Agricultura, Ganadería y Desarrollo Rural Toledo -
+13 31/07/2026 01/09/2026
+Oficina Comarcal Agraria de Toledo
+Delegación Provincial Agricultura, Ganadería y Desarrollo Rural Toledo -
+14 31/07/2026
+Servicio Agricultura y Ganadería Toledo
+Delegación Provincial Consejería Hacienda, Administraciones Públicas y
+15 31/07/2026
+Transformación Digital Toledo - Servicio Protección Ciudadana Toledo
+Delegación Provincial de Desarrollo Sostenible en Toledo - Servicio de
+16 31/07/2026
+Industria y Energía de Toledo
+Delegación Provincial de Desarrollo Sostenible en Toledo - Servicio de Medio
+17 31/07/2026
+Natural de Toledo
+Delegación Provincial de Desarrollo Sostenible en Toledo - Servicio Minas
+18 31/07/2026
+Toledo
+Delegación Provincial de Desarrollo Sostenible en Toledo - Unidad de
+19 31/07/2026
+Coordinación Provincial de Agentes Medioambientales de Toledo
+20 Delegación Provincial de Sanidad en Toledo - Servicio Salud Publica Toledo 31/07/2026
+Delegación Provincial de Toledo de la Consejería de Educación, Cultura y
+21 31/07/2026
+Deportes - Servicio Cultura Toledo
+Delegación Provincial de Toledo de la Consejería de Fomento - Servicio
+22 31/07/2026
+Carreteras Toledo
+Delegación Provincial de Toledo de la Consejería de Fomento - Servicio
+23 31/07/2026
+Planeamiento Toledo
+24 Dirección General de Economía Circular y Agenda 2030 - Servicio Residuos 31/07/2026
+25 Fundación Global Nature 29/07/2026
+26 Hermanos Diaz Redondo Sa 29/07/2026
+27 Infraestructuras del Agua de Castilla-La Mancha 29/07/2026
+28 Salvemos los Campos 29/07/2026
+29 Sociedad Española de Ornitología 29/07/2026
+Asimismo, esta Dirección General de Calidad Ambiental emite el 10 de septiembre de 2026 Resolución por la que se
+acuerda la avocación de competencias para la evaluación de impacto ambiental del proyecto, de conformidad con lo
+dispuesto en el artículo 10 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Todos los informes y alegaciones recibidos, la citada avocación de competencias y la documentación elaborada y
+presentada por el promotor, se encuentran disponibles en la página www.castillalamancha.es, dentro del tema “medio
+ambiente”, en el siguiente enlace de la aplicación Nevia, buscando por el expediente de “proyectos” S478/2026/
+DG/00175: https://neva.jccm.es/nevia.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de evaluación ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una evaluación de impacto ambiental
+ordinaria, según lo previsto en la sección 1ª del capítulo II del título II de dicha Ley.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36332
+3.1. Características del proyecto.
+La documentación especifica que la planta está diseñada para alcanzar una capacidad de producción de 11,38
+toneladas por hora de producto acabado, alcanzando una capacidad máxima diaria de producción de 273,12
+toneladas, y 60.086,4 toneladas máximas anuales. Utiliza materia prima de origen vegetal, no animal.
+Esta capacidad máxima diaria de producción no supera el umbral de 300 toneladas que se establece para exigir
+autorización ambiental integrada a las industrias de tratamiento y transformación de materia prima vegetal en el
+epígrafe 9.1.b.ii del anexo I de la Ley de prevención y control integrados de la contaminación, cuyo texto refundido
+se aprueba mediante el Real Decreto Legislativo 1/2016 de 16 de diciembre. En consecuencia, no se trata de una
+industria sometida a este régimen de autorización y control.
+No obstante, la actuación sí queda sujeta al régimen de autorización administrativa en cuanto a su contaminación
+atmosférica, como fabricación de piensos o harinas de origen vegetal, por incluirse en el epígrafe 04060508 del
+catálogo de actividades potencialmente contaminadoras de la atmósfera, detallado en el anexo IV de la Ley 34/2007
+de 15 de noviembre, de calidad del aire y protección de la atmósfera.
+Por otro lado, su consumo de agua y la generación de aguas residuales son reducidos, estimándose sus necesidades
+de abastecimiento en 1.100 m³/año.
+En las alegaciones de las asociaciones Agrupación Naturalista Esparvel y Acmaden Ecologistas en Acción Toledo
+se cuestiona que las dimensiones del proyecto sean realmente las descritas en la documentación, estando prevista
+una industria superior en capacidad de producción a la comunicada por el promotor.
+Sobre esta preocupación, esta Dirección General de Calidad Ambiental debe destacar que el proyecto objeto de
+evaluación es el que se muestra en la documentación que conforma el expediente, con una capacidad máxima
+diaria de producción de 273,12 toneladas. Como toda actuación industrial, es posible que en el futuro se planteen
+desarrollos adicionales al ahora analizado. Sin embargo, estos potenciales crecimientos no se encuentran proyectados
+actualmente, no se incluyen en esta evaluación de impacto ambiental, ni su eventual evaluación ambiental futura
+resultaría condicionada de forma positiva por la implantación del proyecto en sus dimensiones ahora descritas.
+En definitiva, sobre las dimensiones del proyecto, la industria que se somete a valoración sobre sus impactos
+ambientales es la que presenta una capacidad técnica máxima de 273,12 toneladas, junto con las infraestructuras e
+instalaciones auxiliares precisas para facilitar su funcionamiento, en las características señaladas en la documentación
+incorporada al expediente.
+Toda la actuación se proyecta en el interior de las naves, sin que se produzca la manipulación de materiales en el
+exterior. Así, desde la recepción de materiales de entrada (materia prima alimentaria embalada), cuya descarga se
+produce en el interior de la nave 1, hasta la salida de la mezcla lista para ser expedida a granel, las acciones del
+proceso discurren dentro de las edificaciones, minimizándose de esta manera la contaminación difusa por partículas,
+y la generación de ruido hacia el exterior.
+En cuanto a la generación de malos olores, el documento ambiental no prevé que la actividad genere problemas
+de malos olores, principalmente porque la materia prima consiste principalmente en subproductos de la industria
+alimentaria, como galletas o cereales, que se someten a un proceso de desembalado y secado térmico inmediato en
+hornos rotativos para reducir su nivel de humedad, obteniendo un producto seco, homogéneo y estable que no entra
+en descomposición. Además de la manipulación íntegra en el interior de las naves, se contempla mantener un control
+estricto en la gestión de residuos para evitar la acumulación de restos orgánicos o de embalaje, realizar limpiezas
+periódicas de los contenedores y retiradas regulares del material de rechazo mediante gestores autorizados.
+En cuanto a la generación de contaminación por focos canalizados, el foco 1 está asociado a las operaciones de
+carga de silos y tiene un funcionamiento intermitente estimado en menos de 3.500 horas/año, disponiendo de un
+filtro de mangas para la captación y retención de partículas de polvo.
+Por otro lado, la chimenea que agrupa los focos 2 y 3 funciona a partir de los gases procedentes de la combustión
+del gas natural, tras su intercambio de calor para el secado del material, y dispone de ciclones de decantación de
+polvo para depurar las emisiones antes de su salida a la atmósfera.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36333
+Hay una característica relevante del proyecto: la reutilización de una instalación industrial, la fábrica de material
+cerámico. De esta manera, se logra un triple objetivo: recuperar un espacio sin actividad, evitando su deterioro y
+previniendo efectos ambientales desfavorables, como los derivados de los elementos constructivos de amianto que
+pudiera presentar; reducir la necesidad de materiales y energía asociados a la construcción de nuevas edificaciones,
+por el aprovechamiento de las edificaciones preexistentes; y evitar la alteración de áreas naturales, al situarse en
+un ámbito ya alterado.
+En cuanto a los riesgos de accidentes graves o catástrofes, el documento ambiental contempla cuatro factores
+principales: inundaciones, terremotos, incendios forestales y la emisión de contaminantes o residuos peligrosos,
+siendo este último el que recibe la consideración de moderado, mientras que los demás son calificados de tolerables.
+En relación con este análisis, la Agrupación Naturalista Esparvel manifiesta en sus alegaciones que el análisis
+debe incorporar el riesgo de incendio industrial y sus eventuales afecciones ambientales, considerando que no está
+suficientemente destacado. No obstante, el anexo II del documento ambiental contiene las medidas de prevención,
+protección y seguridad contra incendios diseñadas para la instalación, calificando dicho riesgo como medio, y
+detallando el cumplimiento de la normativa en este ámbito.
+Por último, en las alegaciones emitidas desde las asociaciones Agrupación Naturalista Esparvel y Acmaden
+Ecologistas en Acción Toledo se destaca de forma repetida el riesgo que supone la nueva planta para la salud
+humana la proximidad al colegio, a viviendas y a la piscina municipal.
+3.2. Ubicación del proyecto.
+Como se ha indicado, el proyecto se emplaza sobre una fábrica de material cerámico existente que actualmente no
+se encuentra en uso, reutilizando y adaptando sus edificaciones.
+El suelo sobre el que se ubica el inmueble está clasificado como suelo urbano y situado en la zonificación urbanística
+industrial, de acuerdo con el certificado de compatibilidad urbanística emitido el 27 de agosto de 2025 por el
+Ayuntamiento de Cobeja.
+Dada su efectiva naturaleza industrial, en el ámbito del proyecto no se detecta la presenta de fauna ni de flora
+relevante, configurando un medio alterado con solera pavimentada en su totalidad.
+En su entorno inmediato, la planta queda rodeada por área industrial o área afectada por la actividad extractiva
+precedente, conformada por taludes sin restaurar y la inundación de la plaza de la cantera, según la estación y la
+pluviometría del año.
+La sensibilidad medioambiental de las áreas afectadas por el proyecto viene marcada por la proximidad al núcleo
+urbano de Cobeja, situándose los límites del recinto de la nueva planta a menos de 200 metros de las viviendas más
+próximas, y quedando comprendido todo el casco urbano dentro del radio de un kilómetro desde los límites de las
+instalaciones.
+3.3. Características del potencial impacto.
+De acuerdo con las características del proyecto y a la sensibilidad ambiental del entorno descritas en los apartados
+anteriores, se puede concluir que los impactos del proyecto sobre la flora, la fauna, la biodiversidad, el suelo, el
+agua, el clima, el cambio climático, el paisaje, y los bienes materiales, incluido el patrimonio cultural, no resultan
+significativos.
+Sin embargo, la proximidad del proyecto al núcleo urbano de Cobeja hace necesario efectuar un análisis más
+detallado de los eventuales impactos de la nueva planta sobre la calidad del aire, en lo que se refiere a la generación
+de contaminantes, de olores y de ruido por las instalaciones y el tráfico de vehículos pesados derivado de su
+actividad, y su repercusión sobre la población y la salud humana.
+Asimismo, en las alegaciones efectuadas por las asociaciones Agrupación Naturalista Esparvel y Acmaden
+Ecologistas en Acción Toledo, se pone de manifiesto una situación de partida de la calidad del aire de Cobeja
+desfavorable, por lo que la acumulación del eventual impacto de la nueva planta con la contaminación generada por
+la actividad industrial existente en el entorno también debe ser objeto de estudio para evaluar el impacto ambiental
+de la actividad.
+
+AÑO XLV Núm. 195 9 de octubre de 2026 36334
+Por todo ello, y de acuerdo con la información obrante en el expediente, se considera que el proyecto debe someterse
+al procedimiento de evaluación de impacto ambiental ordinario, al objeto de valorar adecuadamente las afecciones
+previsibles y definir, en su caso, las medidas preventivas, correctoras y compensatorias necesarias.
+Cuarto. Necesidad de sometimiento a evaluación de impacto ambiental ordinaria.
+Como consecuencia del análisis realizado, esta Dirección General de Calidad Ambiental, en virtud del Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha,
+resuelve que el proyecto “Planta de producción de harinas para galleta” (expediente S478/2026/DG/00175), situado
+en el término municipal de Cobeja (Toledo), cuyo promotor es Promic, SAU., debe someterse a una evaluación de
+impacto ambiental ordinaria por tener efectos significativos en el medio ambiente.
+La tramitación seguirá el procedimiento de evaluación de impacto ambiental ordinaria previsto en la sección 1.ª del
+capítulo II del título II de la Ley 2/2020 de 7 de febrero, de evaluación ambiental de Castilla-La Mancha.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la Sede Electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de evaluación ambiental de Castilla-La Mancha.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Toledo, 30 de septiembre de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO

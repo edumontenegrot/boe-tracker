@@ -1,0 +1,117 @@
+Boletín Oficial de Castilla y León
+Núm. 197 Viernes, 9 de octubre de 2026 Pág. 240
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+UNIVERSIDAD DE SALAMANCA
+RESOLUCIÓN de 6 de octubre de 2026, del Rectorado de la Universidad de
+Salamanca, por la que se publica el Plan de Estudios de Graduado o Graduada en
+Estadística por la Universidad de Salamanca.
+De conformidad con lo dispuesto en el artículo 27 del Real Decreto 822/2021, de 28
+de septiembre, por el que se establece la organización de las enseñanzas universitarias
+y del procedimiento de aseguramiento de su calidad y una vez obtenida la verificación del
+plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia
+para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter
+oficial del título mediante Acuerdo del Consejo de Ministros de 15 de septiembre de
+2026, publicado en el BOE de 22 de septiembre de 2026 por Resolución de la Secretaría
+General de Universidades de 16 de septiembre de 2026,
+Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención
+del título de Graduado o Graduada en Estadística.
+Salamanca, 6 de octubre de 2026.
+El Rector,
+Fdo.: Juan Manuel Corchado Rodríguez
+CV: BOCYL-D-09102026-197-37
+
+Boletín Oficial de Castilla y León
+Núm. 197 Viernes, 9 de octubre de 2026 Pág. 241
+PLAN DE ESTUDIOS DE GRADUADO/A EN ESTADÍSTICA
+Campo de estudio: Matemáticas y Estadística
+Código Titulación: 1500715
+Tipo de Materia ECTS
+Formación Básica (FB) 60
+Obligatorias (OB) 108
+Optativas (OP) 66
+Prácticas Externas 0
+Trabajo Fin de Grado (TFG) 6
+Créditos Totales 240
+Créditos
+Materia Asignatura Tipo Organización
+ECTS
+Estadística Descriptiva FB 6 Semestral
+FUNDAMENTOS Estadística Matemática OB 6 Semestral
+DE ESTADÍSTICA Demografía OB 6 Semestral
+Estadística No Paramétrica OB 6 Semestral
+Introducción a la Probabilidad FB 6 Semestral
+Cálculo de Probabilidades FB 6 Semestral
+PROBABILIDAD Distribuciones Multidimensionales OB 6 Semestral
+Teoría de la Probabilidad OP 6 Semestral
+Procesos Estocásticos en Tiempo Discreto OP 3 Semestral
+Explotación Estadística de Almacenes de Datos OB 6 Semestral
+Control Estadístico de la Calidad OB 6 Semestral
+Análisis de Series Temporales OB 6 Semestral
+ESTADÍSTICA Estadística Bayesiana OB 6 Semestral
+AVANZADA Técnicas Estadísticas en aprendizaje automático OB 6 Semestral
+Análisis de Datos composicionales OP 3 Semestral
+Computación Evolutiva y Aprendizaje Profundo OP 6 Semestral
+Visualización de datos OP 3 Semestral
+Investigación Operativa I FB 6 Semestral
+INVESTIGACIÓN
+Investigación Operativa II OB 6 Semestral
+OPERATIVA
+Investigación Operativa III OB 6 Semestral
+Análisis Multivariante I OB 6 Semestral
+MODELOS Modelos Lineales OB 6 Semestral
+LINEALES
+Análisis Multivariante II OB 6 Semestral
+Y ANÁLISIS
+MULTIVARIANTE Diseño de Experimentos OB 6 Semestral
+Diseño Óptimo de Experimentos OP 6 Semestral
+CV: BOCYL-D-09102026-197-37
+
+Boletín Oficial de Castilla y León
+Núm. 197 Viernes, 9 de octubre de 2026 Pág. 242
+Créditos
+Materia Asignatura Tipo Organización
+ECTS
+Técnicas de Recogida de Datos FB 6 Semestral
+Muestreo Estadístico OB 6 Semestral
+MUESTREO Y
+Tratamiento Estadístico de Encuestas OB 6 Semestral
+ENCUESTAS
+Métodos de Remuestreo OP 6 Semestral
+Métodos de Muestreo Estadístico Avanzado OP 6 Semestral
+Métodos Estadísticos en Psicometría OP 6 Semestral
+ESTADÍSTICA
+Técnicas Cualitativas de Análisis de Datos OP 6 Semestral
+APLICADA A
+Estadística Médica OP 6 Semestral
+BIOCIENCIAS
+Técnicas Estadísticas en Bioinformática OP 6 Semestral
+Álgebra Lineal FB 6 Semestral
+Análisis Matemático I FB 6 Semestral
+Análisis Matemático II FB 6 Semestral
+Métodos Numéricos OB 6 Semestral
+MATEMÁTICAS
+Matemática Discreta y Optimización OP 6 Semestral
+Técnicas Analíticas y Numéricas Aplicadas a la Modelización OP 6 Semestral
+Técnicas Matemáticas en Aprendizaje Profundo OP 3 Semestral
+Análisis de Redes Complejas OP 6 Semestral
+Informática I FB 6 Semestral
+Informática II FB 6 Semestral
+INFORMÁTICA Ampliación de Informática OP 6 Semestral
+Diseño de Bases de Datos (GII) OP 6 Semestral
+Desarrollo de Sistemas Informáticos (GM) OP 6 Semestral
+Investigación Comercial Aplicada OP 6 Semestral
+DERECHO Y Métodos Estadísticos en Econometría OP 6 Semestral
+EMPRESA Organización y Gestión de Empresas OP 3 Semestral
+Régimen Jurídico del Tratamiento de Datos OP 3 Semestral
+PRÁCTICAS EN
+Prácticas en Empresa OP 12 Semestral
+EMPRESA
+TRABAJO DE FIN
+Trabajo fin de grado TFG 6 Semestral
+DE GRADO
+• Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir modificaciones, siempre que
+lo autorice el Vicerrectorado con competencias en ordenación académica y con anterioridad al inicio del
+curso académico.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-09102026-197-37
