@@ -1,0 +1,336 @@
+00644300
+BBOOJJAA Boletín Oficial de la Junta de Andalucía
+Número 198 - Martes, 13 de octubre de 2026
+página 13370/1
+1. Disposiciones generales
+CONSEJERÍA DE INTELIGENCIA ARTIFICIAL, DESARROLLO DIGITAL
+Y ADMINISTRACIÓN PÚBLICA
+Acuerdo de 7 de octubre de 2026, del Consejo de Gobierno, por el que se aprueba
+la formulación de la II Estrategia Andaluza de Ciberseguridad 2027-2030.
+La transformación digital de la sociedad, de la economía y de los servicios públicos
+constituye uno de los principales vectores de desarrollo de Andalucía. La creciente
+digitalización de los servicios públicos, de la actividad económica y de las relaciones de
+la ciudadanía ha ampliado las oportunidades para mejorar la competitividad, la eficiencia
+administrativa, la innovación y la cohesión territorial, al tiempo que ha incrementado de
+forma sustancial la dependencia de las redes, los sistemas de información, los datos
+y los servicios digitales, aumentando la exposición a ciberamenazas cada vez más
+sofisticadas, persistentes y transversales.
+En este contexto, resulta imprescindible garantizar un entorno digital seguro y
+resiliente que proteja los servicios públicos, los activos digitales y la información, y
+refuerce la confianza de la ciudadanía, las empresas y las administraciones públicas en
+el uso de las tecnologías digitales. La ciberseguridad adquiere así un carácter transversal
+que alcanza a la Administración de la Junta de Andalucía y al conjunto del sector público
+andaluz, así como a la ciudadanía, las empresas, los operadores de servicios esenciales,
+los sectores estratégicos y el ecosistema de innovación, y requiere una actuación
+coordinada y sostenida en el tiempo, basada en la cooperación institucional, la gestión del
+riesgo, el fortalecimiento de la resiliencia operativa, la capacitación y la concienciación.
+En Andalucía, el Consejo de Gobierno aprobó mediante Acuerdo de 18 de octubre
+de 2022, la Estrategia Andaluza de Ciberseguridad 2022-2025, prorrogándose su
+vigencia durante 2026 por Acuerdo del Consejo de Gobierno de 30 de diciembre de 2025.
+Este instrumento ha articulado las políticas autonómicas en torno al fortalecimiento de
+la gobernanza, la prevención, detección y respuesta ante incidentes, la cooperación, la
+protección del tejido empresarial, el desarrollo de la industria especializada, el talento y la
+cultura de ciberseguridad.
+La ejecución de la Estrategia Andaluza de Ciberseguridad 2022-2025 ha permitido
+consolidar un modelo de ciberseguridad en la Junta de Andalucía y desarrollar
+capacidades institucionales y operativas que constituyen la base del nuevo ciclo de
+planificación estratégica. Entre sus principales resultados destacan el fortalecimiento
+de la gobernanza de la ciberseguridad, con la creación y consolidación del Centro de
+Ciberseguridad de Andalucía (CIAN), cuyo despliegue y desarrollo de infraestructura,
+servicios y capacidades ha estado respaldado por una inversión de 74 millones de
+euros; el robustecimiento del Centro de Operaciones de Seguridad (SOC) de la Junta de
+Andalucía y el refuerzo de las capacidades de prevención, detección y respuesta frente
+a ciberincidentes; el impulso de un ecosistema empresarial especializado y de iniciativas
+para el desarrollo y atracción de talento; la promoción de la cultura de ciberseguridad
+mediante actuaciones de formación y concienciación dirigidas a la ciudadanía y a las
+empresas; y la dinamización de la cooperación con administraciones públicas, entidades
+privadas y otros agentes del ecosistema de ciberseguridad.
+Estos avances se han traducido en logros que evidencian el impacto de la Estrategia.
+En materia de gobernanza y cumplimiento, Andalucía se ha consolidado como una de
+las comunidades autónomas de referencia en el cumplimiento del Esquema Nacional
+de Seguridad (ENS), alcanzando 109 sistemas de información certificados. En el
+ámbito operativo, durante 2025 el SOC gestionó 13.539 incidentes de ciberseguridad,
+amplió la prestación de servicios a 138 entidades del sector público andaluz y extendió
+la protección mediante soluciones de detección y respuesta en los dispositivos finales
+(EDR) a aproximadamente 145.700 equipos corporativos.
+Depósito Legal: SE-410/1979. ISSN: 2253-802X https://www.juntadeandalucia.es/eboja
+
+00644300
+BBOOJJAA Boletín Oficial de la Junta de Andalucía
+Número 198 - Martes, 13 de octubre de 2026
+página 13370/2
+La Estrategia ha contribuido igualmente a fortalecer el ecosistema andaluz de
+ciberseguridad mediante el impulso de la cooperación institucional, la innovación y la
+especialización tecnológica. En este ámbito destacan la creación e impulso del Clúster de
+Ciberseguridad de Andalucía, que reúne a más de 60 entidades del sector, la participación
+de Andalucía en iniciativas nacionales como el Foro Nacional de Ciberseguridad y el
+desarrollo de actuaciones en el marco del programa Redes Territoriales de Especialización
+Tecnológica (RETECH), en colaboración con el Instituto Nacional de Ciberseguridad de
+España (INCIBE), orientadas a impulsar la industria andaluza de la ciberseguridad y la
+securización de proyectos de inteligencia artificial (IA) e internet de las cosas (IoT), entre
+las que destaca un laboratorio especializado en productos y servicios aplicados a la salud
+y las ciudades inteligentes, respaldado por una inversión cercana a 2,2 millones de euros.
+En materia de talento y cultura de ciberseguridad, la Estrategia ha impulsado un
+modelo estable de formación y concienciación dirigido al personal empleado público, a
+la ciudadanía y al tejido empresarial. Durante 2025 se desarrollaron 44 actividades de
+formación y jornadas especializadas, se elaboraron 38 materiales de sensibilización y
+participaron más de 6.800 personas en actuaciones de capacitación y concienciación.
+Estas actuaciones se complementaron con la colaboración con el Instituto Andaluz de
+Administración Pública para el desarrollo de programas formativos especializados. Estas
+actividades se han incrementado en gran medida en el transcurso de 2026, solos los datos
+del primer semestre arrojan una producción de 156 materiales y acciones formativas con
+una participación de más de 7.350 personas.
+Asimismo, el Congreso de Ciberseguridad de Andalucía ha consolidado una
+trayectoria de crecimiento sostenido entre 2022 y 2026, reforzando su papel como
+principal encuentro del ecosistema andaluz de ciberseguridad. En cinco ediciones ha
+pasado de cerca de 1.600 asistentes presenciales en 2022 a más de 2.700 en 2026,
+superando además los 3.700 participantes entre formato presencial y streaming.
+Paralelamente, ha mantenido una elevada capacidad de atracción del sector, con 30
+empresas patrocinadoras en 2022 y en torno a 35 patrocinadores en las ediciones
+posteriores, junto con una programación estable que en el 2026, entre charlas, mesas de
+debate y talleres presenciales, superaron las 50 sesiones especializadas a cargo de 75
+ponentes. A ello se suma la participación en eventos como Digital Enterprise Show (DES)
+y Talent Land España, que han contribuido a reforzar su proyección en los ámbitos de la
+ciberseguridad y la transformación digital.
+Al mismo tiempo, durante los últimos años se ha producido una transformación
+sustancial del entorno de riesgo, caracterizada por una mayor dependencia de
+los servicios digitales, un incremento de la superficie de exposición, una creciente
+interdependencia tecnológica y una evolución acelerada de las capacidades empleadas
+por los actores maliciosos. La amenaza evoluciona a un ritmo superior al de la capacidad
+de respuesta de las organizaciones.
+La IA, la automatización de los ataques, la creciente inestabilidad geopolítica,
+la dependencia de proveedores tecnológicos y la interconexión de las cadenas de
+suministro están incrementando la sofisticación, la frecuencia y el impacto potencial de
+las ciberamenazas sobre las administraciones públicas y los servicios esenciales. En
+este contexto, el Global Cybersecurity Outlook 2026 del Foro Económico Mundial señala
+que el 94% de los líderes considera que la IA será el principal factor de transformación de
+la ciberseguridad durante el 2027 y advierte de una brecha creciente de ciberresiliencia
+en el sector público, donde el 23% de las organizaciones considera insuficientes sus
+capacidades de ciberresiliencia, más del doble que en el sector privado (11%). En la
+Unión Europea, el ENISA Threat Landscape 2025 sitúa a la Administración pública como
+el sector más afectado por los incidentes analizados, concentrando el 38,2% del total.
+Este cambio de escenario tiene ya un reflejo directo en España, donde la
+ciberdelincuencia ha alcanzado una dimensión estructural y creciente. Durante 2025
+se registraron 488.426 ciberdelitos, un 5,1% más que el año anterior, hasta representar
+Depósito Legal: SE-410/1979. ISSN: 2253-802X https://www.juntadeandalucia.es/eboja
+
+00644300
+BBOOJJAA Boletín Oficial de la Junta de Andalucía
+Número 198 - Martes, 13 de octubre de 2026
+página 13370/3
+el 19,8% del total de la criminalidad registrada. La Fiscalía General del Estado registró
+durante 2025 un total de 34.350 procedimientos judiciales y diligencias de investigación
+vinculados a la ciberdelincuencia, lo que supone un incremento del 24,69% respecto
+al año anterior. Paralelamente, el Instituto Nacional de Ciberseguridad (INCIBE)
+gestionó 122.223 incidentes de ciberseguridad e identificó 237.028 sistemas vulnerables.
+Estos datos evidencian que la exposición al riesgo digital ha dejado de constituir un
+fenómeno excepcional para convertirse en un desafío permanente que afecta a las
+administraciones públicas, las empresas y la ciudadanía. En lo que respecta a Andalucía,
+en el primer semestre de 2026, el SOC ha gestionado 9.286 ciberataques, lo que
+supone 1.550 incidentes mensuales y más de 50 ciberataques diarios. Respecto al mismo
+periodo de 2025, el número de ciberincidentes se ha incrementado un 34%.
+La acelerada evolución tecnológica está transformando el panorama de
+ciberamenazas y aumentando la complejidad de los riesgos a los que se enfrentan las
+organizaciones. En particular, la utilización ofensiva de la IA está permitiendo incrementar
+la escala, velocidad y sofisticación de los ataques, facilitando la automatización de
+técnicas de fraude, ingeniería social y explotación de vulnerabilidades. Organismos como
+la Agencia de la Unión Europea para la Ciberseguridad (ENISA) y el Centro Criptológico
+Nacional (CCN) alertan ya de la incorporación efectiva de estas capacidades en
+campañas reales de ciberataque, lo que refuerza la necesidad de anticipar estos riesgos
+y adaptar las capacidades de protección, respuesta y resiliencia del sector público a un
+entorno tecnológico en constante transformación.
+Otro de los avances tecnológicos que incorpora un nuevo vector de riesgo es la
+computación cuántica. Algoritmos criptográficos considerados hoy inexpugnables
+podrían quedar obsoletos, permitiendo descifrar información confidencial, falsificar
+identidades digitales y comprometer la confianza en sistemas críticos, administraciones
+públicas y servicios esenciales. Certificados digitales, firmas electrónicas y mecanismos
+de autenticación que actualmente garantizan la seguridad de las transacciones y las
+comunicaciones podrían dejar de ser fiables, exponiendo información estratégica, datos
+personales y secretos corporativos. Algunas estimaciones apuntan a que procesos
+criptográficos que requerirían miles de años de cálculo para ser comprometidos mediante
+superordenadores clásicos podrían ser resueltos en cuestión de horas o días por un
+ordenador cuántico lo suficientemente avanzado, transformando radicalmente los
+fundamentos de seguridad sobre los que se sustentan las comunicaciones, la identidad
+digital y los servicios esenciales.
+A los riesgos derivados de la evolución tecnológica se suma un entorno regulatorio
+cada vez más exigente en materia de ciberseguridad y resiliencia. La entrada en vigor
+de nuevas disposiciones europeas y nacionales, entre las que destaca la Directiva
+(UE) 2022/2555 del Parlamento Europeo y del Consejo, de 14 de diciembre de 2022,
+relativa a las medidas destinadas a garantizar un elevado nivel común de ciberseguridad
+en toda la Unión, por la que se modifican el Reglamento (UE) núm. 910/2014 y la Directiva
+(UE) 2018/1972 y por la que se deroga la Directiva (UE) 2016/1148 (Directiva SRI 2), amplía
+significativamente las exigencias en ámbitos como la gobernanza, la gestión de riesgos,
+la supervisión, la notificación de incidentes y la responsabilidad de las organizaciones.
+Paralelamente, el Esquema Nacional de Seguridad (ENS) continúa consolidándose
+como el marco de referencia para la protección de los sistemas de información del sector
+público. Este contexto convierte el cumplimiento normativo en un elemento estratégico,
+obligando a las administraciones públicas a reforzar de forma continua sus capacidades
+de seguridad y resiliencia para responder a un marco regulatorio cada vez más amplio y
+exigente, garantizando tanto la protección de los servicios públicos como el cumplimiento
+de las obligaciones regulatorias presentes y futuras que sean de aplicación.
+En diciembre de 2024 la Agencia de la Unión Europea para la Ciberseguridad publicó
+el primer Informe sobre el Estado de la Ciberseguridad en la Unión Europea. El informe
+ofrece una visión general basada en evidencias de la situación de la madurez en materia
+Depósito Legal: SE-410/1979. ISSN: 2253-802X https://www.juntadeandalucia.es/eboja
+
+00644300
+BBOOJJAA Boletín Oficial de la Junta de Andalucía
+Número 198 - Martes, 13 de octubre de 2026
+página 13370/4
+de ciberseguridad en la Unión Europea, así como una evaluación de sus capacidades
+de ciberseguridad. El informe también incluye recomendaciones para abordar las
+deficiencias detectadas y aumentar el nivel de ciberseguridad en la Unión Europea.
+El nivel de amenaza a la ciberseguridad en la Unión Europea se evaluó como
+sustancial. Es decir, es probable que las entidades sean objetivo directo de los agentes
+de las amenazas o estén expuestas a brechas a través de vulnerabilidades recién
+descubiertas, lo que hace posible que puedan ocurrir perturbaciones graves en entidades
+críticas e importantes o en las instituciones de la Unión Europea.
+El informe identifica cuatro áreas prioritarias: implementación de políticas, gestión
+de cibercrisis, cadena de suministro y habilidades. Una de las recomendaciones más
+importantes del informe consiste en promover un enfoque unificado, armonizando los
+esfuerzos, para lograr un alto nivel común de concienciación sobre la ciberseguridad
+entre los profesionales y los ciudadanos.
+De otro lado, el reciente Informe ENISA NIS360 (mayo de 2026), de la Agencia de la
+Unión Europea para la Ciberseguridad, supone una mirada exhaustiva y transversal a la
+madurez y criticidad de la ciberseguridad. Es muy significativo que las Administraciones
+Públicas se encuentran entre los sectores dentro de la zona de riesgo y que es el
+tercero de menor madurez entre los 22 analizados. El informe apuesta por el refuerzo de
+capacidades y la concienciación y formación del personal empleado público, y enfatiza
+la importancia de compartir información y de la colaboración. Asimismo, identifica una
+serie de factores que condicionarán la evolución de la ciberseguridad sectorial, siendo
+el más relevante la inteligencia artificial. Según el informe, las ventajas de la IA se están
+materializando con mayor rapidez para los atacantes que para los defensores. Las
+organizaciones tendrán que detectar y responder en plazos más cortos, incluso ante
+varias campañas simultáneas.
+Ante este escenario, invertir en ciberseguridad es una decisión de responsabilidad
+pública y continuidad institucional. Se deben reforzar las capacidades de prevención,
+detección y respuesta, proteger el dato a lo largo de todo su ciclo de vida, trasladar
+las exigencias de seguridad a la cadena de suministro, formar al personal, y probar
+los planes de recuperación de forma periódica. Si la Administración no se anticipa, un
+incidente de ciberseguridad puede convertirse en una crisis de servicio público. El coste
+de anticipación y preparación ante posibles ciberataques será siempre menor que el de
+recuperar sistemas, servicios y una confianza ciudadana perdida.
+Por todo ello, una vez próxima la finalización del actual marco estratégico vigente,
+se hace necesaria la formulación de una nueva Estrategia Andaluza de Ciberseguridad
+para el horizonte 2027-2030, que permita dar continuidad al modelo desarrollado durante
+el ciclo anterior, reforzar la madurez de las capacidades de ciberseguridad de la Junta
+de Andalucía y responder a los nuevos retos tecnológicos, normativos y operativos que
+plantea el actual contexto de transformación digital y uso de la inteligencia artificial.
+El artículo 15.1 del Decreto del Presidente 9/2026, de 9 de julio, por el que se crean
+las Vicepresidencias y se reestructuran las Consejerías que conforman la Administración
+de la Junta de Andalucía, le atribuye a la Consejería de Inteligencia Artificial, Desarrollo
+Digital y Administración Pública, entre otras competencias, la gestión de políticas y
+estrategias autonómicas de IA, tecnologías de la información, telecomunicaciones,
+interoperabilidad, ciberseguridad, desarrollo tecnológico y estrategia, economía y
+emprendimiento digital. Así mismo, el artículo 15.2 del mencionado decreto adscribe la
+Agencia Digital de Andalucía a dicha Consejería.
+Conforme a lo dispuesto en los artículos 6.3.ñ) y 6.3.o) de los Estatutos de la
+Agencia Digital de Andalucía, aprobados mediante el Decreto 128/2021, de 30 de marzo,
+corresponde a la Agencia el desarrollo y ejecución de las políticas de seguridad de
+los sistemas de información y telecomunicaciones de la Administración de la Junta de
+Andalucía y de su sector público instrumental, así como la gestión de las capacidades
+corporativas de prevención, detección y respuesta frente a incidentes y amenazas de
+Depósito Legal: SE-410/1979. ISSN: 2253-802X https://www.juntadeandalucia.es/eboja
+
+00644300
+BBOOJJAA Boletín Oficial de la Junta de Andalucía
+Número 198 - Martes, 13 de octubre de 2026
+página 13370/5
+ciberseguridad y el impulso de la confianza y la seguridad digital. En atención a estas
+competencias, la formulación de la Estrategia será coordinada y elaborada por la
+Consejería de Inteligencia Artificial, Desarrollo Digital y Administración Pública, a través
+de la Agencia Digital de Andalucía.
+En su virtud, de conformidad con lo establecido en el artículo 27.12 de la Ley 6/2006,
+de 24 de octubre, del Gobierno de la Comunidad Autónoma de Andalucía, a propuesta
+de la persona titular de la Consejería de Inteligencia Artificial, Desarrollo Digital y
+Administración Pública, y previa deliberación del Consejo de Gobierno, en su reunión del
+día 7 de octubre de 2026, se adopta el siguiente
+A C U E R D O
+Primero. Formulación de la II Estrategia Andaluza de Ciberseguridad 2027-2030.
+Se aprueba la formulación de la II Estrategia Andaluza de Ciberseguridad 2027-2030
+(en adelante, la Estrategia), cuya elaboración y aprobación se realizará conforme a las
+determinaciones establecidas en el presente acuerdo.
+Segundo. Fines.
+La Estrategia se configura como el instrumento general de planificación de las políticas
+de ciberseguridad de la Junta de Andalucía para el periodo 2027-2030, respondiendo a
+los nuevos requerimientos y retos identificados para este nuevo periodo.
+Los fines que orientarán su formulación son los siguientes:
+1. Reforzar las capacidades de prevención, detección y respuesta a incidentes de
+ciberseguridad en la Junta de Andalucía, impulsando servicios avanzados de protección
+y resiliencia digital.
+2. Promover la alineación de las políticas y actuaciones de ciberseguridad de la Junta
+de Andalucía con los marcos normativos, regulatorios y de gobernanza aplicables en los
+ámbitos europeo y nacional.
+3. Cooperar y colaborar con las entidades del sector público andaluz, las
+administraciones locales y las Universidades, así como con otros actores, con el fin de
+fortalecer su seguridad y resiliencia, especialmente en los servicios críticos y esenciales
+frente a las amenazas emergentes.
+4. Favorecer la mejora del nivel de ciberseguridad del tejido empresarial andaluz
+facilitando el cumplimiento de sus obligaciones en materia de seguridad, con especial
+atención a las pequeñas y medianas empresas.
+5. Fortalecer el ecosistema andaluz de ciberseguridad, promoviendo la innovación, la
+transferencia tecnológica, la competitividad y la proyección de la industria especializada.
+6. Analizar el impacto y afrontar el reto de las tecnologías emergentes, como la IA y la
+computación cuántica, consolidando su adopción segura y el desarrollo de capacidades
+que permitan afrontar los riesgos y oportunidades asociados a ellas.
+7. Fomentar una cultura de ciberseguridad en Andalucía basada en la confianza
+digital impulsando el talento especializado, la capacitación del personal empleado público
+y del tejido empresarial, y la concienciación de la ciudadanía.
+Tercero. Contenido de la II Estrategia Andaluza de Ciberseguridad 2027-2030.
+La Estrategia incluirá, al menos, los siguientes contenidos:
+1. Un análisis del contexto y de la evolución de la ciberseguridad en Andalucía.
+2. Un diagnóstico de la situación de partida, desde una perspectiva interna y externa,
+que incorpore la evaluación del grado de ejecución y de los resultados de la Estrategia
+Andaluza de Ciberseguridad 2022-2025, prorrogada durante 2026, y permita realizar un
+análisis de debilidades, amenazas, fortalezas y oportunidades (DAFO).
+Depósito Legal: SE-410/1979. ISSN: 2253-802X https://www.juntadeandalucia.es/eboja
+
+00644300
+BBOOJJAA Boletín Oficial de la Junta de Andalucía
+Número 198 - Martes, 13 de octubre de 2026
+página 13370/6
+3. La definición de los objetivos estratégicos que deberán alcanzarse durante el
+periodo de vigencia de la Estrategia.
+4. La definición de las líneas de trabajo y de las actuaciones que deberán acometerse
+para alcanzar los objetivos establecidos.
+5. La definición del modelo de gobernanza de la Estrategia.
+6. El establecimiento de un sistema de seguimiento y evaluación de la Estrategia.
+7. La estimación de la dotación presupuestaria prevista para su ejecución, sin perjuicio
+de su concreción en los correspondientes instrumentos presupuestarios.
+Cuarto. Proceso de elaboración y aprobación.
+La Consejería de Inteligencia Artificial, Desarrollo Digital y Administración Pública, a
+través de la Agencia Digital de Andalucía, será la responsable de coordinar e impulsar la
+elaboración de la Estrategia. El proceso de elaboración será el siguiente:
+1. La Agencia Digital de Andalucía elaborará un borrador de la Estrategia. Para ello
+contará con la participación de aquellas Consejerías y entidades con competencias en el
+ámbito de la confianza y seguridad digital, el gobierno abierto, las empresas, la salud, el
+empleo y la educación, sin perjuicio de que, durante la elaboración de la Estrategia, se
+incorporen otras Consejerías y entidades si fuese necesario. Así mismo, la Agencia Digital
+de Andalucía podrá ser asesorada por personas expertas y referentes en esta materia.
+2. El borrador de la Estrategia será sometido al trámite de información pública por
+un plazo de veinte días hábiles, mediante anuncio en el Boletín Oficial de la Junta de
+Andalucía, de conformidad con lo previsto en los artículos 30.2 y 83 de la Ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+Públicas. Asimismo, se anunciará en el apartado correspondiente de la sección de
+transparencia del Portal de la Junta de Andalucía, de acuerdo con lo establecido en el
+artículo 13.1.e) de la Ley 1/2014, de 24 de junio, de Transparencia Pública de Andalucía.
+3. Asimismo, se recabarán los informes preceptivos exigidos por la normativa general
+de aplicación.
+4. Una vez examinadas las aportaciones recibidas y recabados los informes preceptivos,
+la Agencia Digital de Andalucía propondrá a la persona titular de la Consejería de
+Inteligencia Artificial, Desarrollo Digital y Administración Pública el texto de la Estrategia,
+que se elevará al Consejo de Gobierno para su aprobación definitiva.
+Quinto. Desarrollo y ejecución.
+Se faculta a la persona titular de la Consejería de Inteligencia Artificial, Desarrollo
+Digital y Administración Pública para adoptar los actos necesarios para el desarrollo y
+ejecución de este acuerdo.
+Sexto. Eficacia.
+El presente acuerdo surtirá efectos el día siguiente al de su publicación en el Boletín
+Oficial de la Junta de Andalucía.
+Sevilla, 7 de octubre de 2026
+JUAN MANUEL MORENO BONILLA
+Presidente de la Junta de Andalucía
+JOSÉ ANTONIO NIETO BALLESTEROS
+Consejero de Inteligencia Artificial, Desarrollo Digital
+y Administración Pública
+Depósito Legal: SE-410/1979. ISSN: 2253-802X https://www.juntadeandalucia.es/eboja
