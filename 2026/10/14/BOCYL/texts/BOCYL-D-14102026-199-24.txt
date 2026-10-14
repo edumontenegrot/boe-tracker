@@ -1,0 +1,73 @@
+Boletín Oficial de Castilla y León
+Núm. 199 Miércoles, 14 de octubre de 2026 Pág. 134
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+UNIVERSIDAD DE SALAMANCA
+RESOLUCIÓN de 7 de octubre de 2026, del Rectorado de la Universidad de
+Salamanca, por la que se publica el Plan de Estudios de Máster Universitario en
+Ciencia de Datos e Inteligencia Artificial Aplicadas a la Ingeniería por la Universidad
+de Salamanca.
+De conformidad con lo dispuesto en el artículo 27 del Real Decreto 822/2021, de 28
+de septiembre, por el que se establece la organización de las enseñanzas universitarias
+y del procedimiento de aseguramiento de su calidad y una vez obtenida la verificación del
+plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia
+para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter oficial
+del título mediante Acuerdo del Consejo de Ministros de 15 de septiembre de 2026,
+publicado en el B.O.E. de 22 de septiembre de 2026 por Resolución de la Secretaría
+General de Universidades de 16 de septiembre de 2026,
+Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención
+del título de Máster Universitario en Ciencia de Datos e Inteligencia Artificial Aplicadas a
+la Ingeniería.
+Salamanca, 7 de octubre de 2026.
+El Rector,
+Fdo.: Juan Manuel Corchado Rodríguez
+CV: BOCYL-D-14102026-199-24
+
+Boletín Oficial de Castilla y León
+Núm. 199 Miércoles, 14 de octubre de 2026 Pág. 135
+PLAN DE ESTUDIOS DE MÁSTER UNIVERSITARIO EN CIENCIA DE DATOS
+E INTELIGENCIA ARTIFICIAL APLICADAS A LA INGENIERÍA
+Campo de estudio: Ingeniería informática y de sistemas
+Código Titulación: 3501094
+Tipo de Materia ECTS
+Obligatorias (Ob) 36
+Optativas (Op) 12
+Trabajo Fin de Máster (TFM) 12
+Créditos Totales 60
+MATERIA TIPO ASIGNATURAS ECTS ORGANIZACIÓN
+Fundamentos en Ciencia de Datos e Inteligencia
+Artificial: Preprocesamiento y Análisis Exploratorio de 6 Semestral
+Ciencia de Datos e IA Ob
+Datos (EDA)
+IA Generativa aplicada a la Ingeniería 4,5 Semestral
+Fundamentos de probabilidad y estadística, y Series
+4,5 Semestral
+Análisis de Datos Ob Temporales
+Lenguajes de Programación para el Análisis de Datos 4,5 Semestral
+Simulación de Procesos
+Ob Simulación de Procesos y Modelos Digitales 4,5 Semestral
+y Modelos Digitales
+Técnicas de IA Machine Learning aplicado a la Ingeniería 6 Semestral
+Ob
+Aplicadas a la Ingeniería Deep Learning aplicado a la Ingeniería 6 Semestral
+Análisis Predictivo en Sistemas Mecánicos 3 Semestral
+Gestión de Infraestructuras mediante IA 3 Semestral
+IA para la Trazabilidad y Calidad Alimentaria 3 Semestral
+Minería de Datos para Gestión de Proyectos Civiles 3 Semestral
+Visión computacional para la inspección, evaluación
+3 Semestral
+y documentación en estructuras
+Optativas Op
+Análisis basado en IA del Comportamiento de los
+3 Semestral
+Materiales
+Procesamiento Inteligente de Imágenes Satelitales 3 Semestral
+Optimización Energética Asistida por IA 3 Semestral
+IA y Análisis para el Reto Demográfico 3 Semestral
+Prácticas Externas 6 Semestral
+Trabajo Fin de Máster TFM Trabajo fin de máster 12 Semestral
+Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir modificaciones, siempre que lo
+autorice el vicerrectorado con competencias en ordenación académica y con anterioridad al inicio del curso
+académico.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-14102026-199-24
