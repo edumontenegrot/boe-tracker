@@ -1,0 +1,119 @@
+Boletín Oficial de Castilla y León
+Núm. 200 Jueves, 15 de octubre de 2026 Pág. 147
+I. COMUNIDAD DE CASTILLA Y LEÓN
+E. ANUNCIOS
+E.2. Otros Anuncios Oficiales
+CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA
+Servicio Territorial de Industria, Comercio y Economía de Burgos
+INFORMACIÓN pública relativa a la solicitud de modificación de autorización
+administrativa previa y de autorización administrativa de construcción de la instalación
+de hibridación «Abrazadilla» e instalaciones eléctricas asociadas, en los términos
+municipales Los Ausines, Revilla del Campo, Ibeas de Juarros y Carcedo de Burgos
+(Burgos), promovida por «Enerfin Renovables, S.L.U.». Expte.: PH/BU/001/2023.
+Vista la Orden MAV/154/2024, de 27 de febrero, por la que se formula el informe
+de determinación de afección ambiental del proyecto «Hibridación Abrazadilla» y sus
+infraestructuras de evacuación, en los términos municipales de Los Ausines, Revilla
+del Campo, Ibeas de Juarros y Carcedo de Burgos (Burgos), promovido por «Enerfin
+Renovables, S.L.U.» y publicada en el Boletín Oficial de Castilla y León número 46 y
+fecha de publicación 5 de marzo de 2024.
+Vista la Resolución de 13 de noviembre de 2025 del Servicio Territorial de Industria,
+Comercio y Economía de Burgos por la que se otorga la Autorización Administrativa
+Previa, Autorización Administrativa de Construcción y Declaración de Utilidad Pública,
+en concreto, de la instalación de hibridación «Abrazadilla» e instalaciones eléctricas
+asociadas, en los términos municipales de los Ausines, Revilla del Campo, Ibeas de
+Juarros y Carcedo de Burgos en la provincia de Burgos.
+Vista la solicitud de modificación no sustancial, de fecha 2 de febrero de 2026, relativa
+a las dimensiones de los aerogeneradores, modificaciones que se encuentran incluidas
+en las características principales de la presente información pública.
+Vista la solicitud de fecha 5 de agosto de 2026, en la que la empresa solicita
+modificación de la autorización administrativa previa y de la autorización administrativa
+de construcción de la instalación de hibridación «Abrazadilla» y sus infraestructuras de
+evacuación asociadas por las siguientes modificaciones:
+• Actualización del vial de acceso.
+• Desistimiento de la planta solar fotovoltaica de 16,5 MW de potencia instalada.
+• Solicitud de instalación de un módulo de almacenamiento energético de 19,36 MW.
+CV: BOCYL-D-15102026-200-32
+
+Boletín Oficial de Castilla y León
+Núm. 200 Jueves, 15 de octubre de 2026 Pág. 148
+A los efectos previstos en la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico,
+Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de
+transporte, distribución, comercialización, suministro y procedimientos de autorización de
+instalaciones de energía eléctrica; Decreto 46/2022, de 24 de noviembre, por la que se
+regulan los procedimientos de autorizaciones administrativas de instalaciones eléctricas
+en Castilla y León, se somete a información pública la solicitud siguiente:
+Peticionario: Enerfin Renovables, S.L.U.
+Objeto: Modificación de la Autorización Administrativa Previa y de Autorización
+Administrativa de construcción la instalación eléctrica «Abrazadilla».
+Características principales:
+Instalación de hibridación.
+Compuesta por producción eléctrica de origen eólico y un módulo de almacenamiento,
+con una potencia de acceso y conexión total de 19,36 MW, pudiéndose limitar la potencia
+total instalada de la misma para ajustarse al margen de la capacidad disponible otorgada
+en el citado permiso.
+Parque Eólico: modificación del trazado del vial de acceso.
+– 3 aerogeneradores modelo VTG 175-7.2 o similar de 175 metros de diámetro
+de rotor y 119 metros de altura de buje. Potencia unitaria del aerogenerador:
+7,2 MW. Potencia total a instalar: 21,6 MW. Centro de transformación: 0,72/30
+kV. (instalación no afectada por la presente modificación. Las características
+indicadas incorporan la modificación no sustancial previa).
+– subterránea de 30 kV de recogida de la energía generada por los aerogeneradores
+con llegada en un circuito al centro de seccionamiento «Abrazadilla» 30 kV.
+(instalación no afectada por esta modificación).
+Instalación de almacenamiento de 19,4 MW de potencia y 40,12 MWh de capacidad
+de almacenamiento, localizada en el término municipal de Los Ausines. La presente
+instalación de almacenamiento se incorpora en sustitución de la planta solar fotovoltaica
+inicialmente autorizada.
+Formada por:
+– 8 unidades de almacenamiento de energía de 5,016 kWh con tecnología LFP
+(litio-ferrofosfato), refrigeración líquida y tiempo de descarga de dos horas de
+duración.
+– 4 centros de transformación. Cada centro de transformación tendrá una potencia
+de 5.200 kVA y ventilación natural, estando alimentado por dos unidades de
+almacenamiento.
+– 8 inversores, dos por cada centro de transformación. Cada inversor dispone de
+una potencia nominal de 2.425 kW a 40ºC. Potencia total instalada 19,4 MW.
+CV: BOCYL-D-15102026-200-32
+
+Boletín Oficial de Castilla y León
+Núm. 200 Jueves, 15 de octubre de 2026 Pág. 149
+– La energía será evacuada a través de una red subterránea hasta un centro
+de seccionamiento (CS) BESS 30Kv, ubicado en el recinto del sistema de
+almacenamiento.
+– Desde el CS BESS, la energía se transportará mediante una red subterránea de
+30 kV hasta el Centro de Seccionamiento Abrazadilla, donde se integrará con la
+energía procedente del parque eólico para su evacuación conjunta a través de
+las infraestructuras comunes del proyecto.
+Centro de Seccionamiento Abrazadilla (instalación no afectada por esta modificación).
+– Centro de seccionamiento «Abrazadilla» 30 kV, situado en el término municipal
+de Los Ausines, con sistema de media tensión de 30kV tipo interior (3 celdas de
+protección de línea, 2 de entrada y 1 de salida, 1 celda para el transformador de
+servicios auxiliares y 2 celdas de medida), sistemas de control y comunicaciones,
+sistemas de baja tensión, protección contra incendios, elementos de protección
+y seguridad, y transformador de servicios auxiliares.
+Línea de evacuación: instalación no afectada por esta modificación.
+– Línea eléctrica subterránea de 30 kV de 7.835 m de longitud de conductor y
+7,575 km de longitud de zanja, que discurre por los términos municipales de Los
+Ausines, Ibeas de Juarros y Carcedo de Burgos, desde Centro de seccionamiento
+«Abrazadilla» 30 kV, hasta conectar con la ampliación de la Subestación
+«Carcedo» 220/30 kV, propiedad de EDP Renovables España, S.L.U. que va
+a permitir la evacuación conjunta de la planta de hibridación «Abrazadilla» y
+del parque eólico «Terrae». La tramitación de la citada ampliación es objeto del
+proyecto del parque eólico «Terrae» expediente: PE/BU/002/2019.
+Se somete a información pública la solicitud de modificación sustancial de las
+autorizaciones administrativa previa y de construcción del proyecto, junto con la
+documentación técnica presentada.
+Presupuesto total: 23.276.688,08 €
+Lo que se hace público para que quienes se consideren afectados puedan formular
+las alegaciones que estimen oportunas en el plazo de diez días hábiles, contados a partir
+del siguiente a la publicación de este anuncio en el Boletín oficial de Castilla y León.
+En los términos del artículo 83.2 de la Ley 39/2015, de 1 de octubre del Procedimiento
+Administrativo Común de las Administraciones Públicas, esta documentación, se
+encuentra publicada en el Portal de Energía y Minería de Castilla y León (www.energia.
+jcyl.es) y en las dependencias del Servicio Territorial de Industria, Comercio y Economía
+de la Junta de Castilla y León en Burgos, sito en la Plaza de Bilbao, n.º 3.
+Burgos, 8 de octubre de 2026.
+La Jefa del Servicio,
+Fdo.: María Dolores Velasco Lajo
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-15102026-200-32
