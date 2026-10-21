@@ -1,0 +1,913 @@
+NÚMERO 203
+43896
+Miércoles 21 de octubre de 2026
+RESOLUCIÓN de 5 de octubre de 2026, de la Dirección General de Gestión
+Sostenible y Política Forestal, por la que se formula informe de impacto
+ambiental del proyecto de "Cambio de máquina del CTIA "Sauceda" n.º
+140301910, y paso de B1 a B2 de la tensión de suministro del mismo",
+a realizar en el término municipal de Torrejoncillo, en la provincia de
+Cáceres, cuya promotora es i-DE Redes Eléctricas Inteligentes, SAU. Expte.:
+IA25/0729. (2026062603)
+La Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Autónoma de Ex-
+tremadura, en su artículo 73 prevé los proyectos que deben ser sometidos a evaluación am-
+biental simplificada por el órgano ambiental a los efectos de determinar que el proyecto no
+tiene efectos significativos sobre el medio ambiente, o bien, que es preciso su sometimiento
+al procedimiento de evaluación de impacto ambiental ordinaria, regulado en la subsección 1.ª
+de la sección 2.ª del capítulo VII, del título I, de la ley, por tener efectos significativos sobre
+el medio ambiente.
+El proyecto de “Cambio de máquina del CTIA “Sauceda” n.º 140301910, y paso de B1 a B2 de
+la tensión de suministro del mismo”, a realizar en el término municipal de Torrejoncillo, en la
+provincia de Cáceres, se encuentra comprendido en el anexo V de la Ley 16/2015, de 23 de
+abril, de protección ambiental de la Comunidad Autónoma de Extremadura.
+La promotora del proyecto es i-DE Redes Eléctricas Inteligentes, SAU, con CIF A95075578 y
+con domicilio social en c/ Periodista Sánchez Asensio, n.º 1, 10002, Cáceres.
+Es órgano competente para la formulación del informe de impacto ambiental relativo al pro-
+yecto la Dirección General de Gestión Sostenible y Política Forestal, de la Consejería de In-
+dustria, Energía, Ciencia y Territorio, de conformidad con lo dispuesto en el artículo 7.1.c)
+del Decreto 107/2026, de 26 de mayo, por el que se establece la estructura orgánica de la
+Consejería de Industria, Energía, Ciencia y Territorio.
+Los principales elementos del análisis ambiental del proyecto son los siguientes:
+Primero. Objeto, descripción y localización del proyecto.
+Se pretende llevar a cabo la sustitución de la máquina del CT de Intemperie sobre apoyo
+“Sauceda”, para adaptarlo a la normativa vigente, por tratarse de un transformador con aisla-
+miento de Piraleno y potencia 25 kVA, por otro de 100 kVA y aislamiento de aceite, mejorando
+con ello el suministro eléctrico de los usuarios de la zona.
+Las actuaciones proyectadas se ubican en varias parcelas del polígono 6 del término municipal
+de Torrejoncillo, en la provincia de Cáceres.
+
+NÚMERO 203
+43897
+Miércoles 21 de octubre de 2026
+Segundo. Tramitación y consultas.
+Tal y como establece el artículo 75 de la Ley 16/2015, de 23 de abril, de protección ambiental
+de la Comunidad Autónoma de Extremadura, se ha consultado a las siguientes Administracio-
+nes públicas afectadas y personas interesadas. Se han señalado con una “X” aquellas que han
+emitido informe en respuesta a dichas consultas.
+Administraciones públicas y personas interesadas consultadas Respuestas recibidas
+Servicio de Conservación de la Naturaleza y Áreas Protegidas. X
+Servicio de Ordenación del Territorio. X
+Servicio de Arqueología y Proyectos Estratégicos. X
+Servicio de Regadíos. X
+Confederación Hidrográfica del Tajo. X
+Ayuntamiento de Torrejoncillo. -
+Coordinación de Agentes del Medio Natural. UTV1. -
+Ecologistas en Acción de Extremadura. -
+ADENEX. -
+SEO Bird-life. -
+Fundación Naturaleza y Hombre. -
+Ecologistas Extremadura. -
+Greenpeace. -
+Amus. -
+El resultado de las contestaciones recibidas de las distintas Administraciones públicas afecta-
+das y personas interesadas se resume a continuación:
+
+NÚMERO 203
+43898
+Miércoles 21 de octubre de 2026
+— Con fecha de 15 de julio de 2025, el Servicio de Ordenación del Territorio emite informe
+en el que indica que, a efectos de ordenación del territorio de la Comunidad Autónoma
+de Extremadura, no se detecta afección sobre ningún Plan Territorial ni Proyecto de In-
+terés Regional con aprobación definitiva (Ley 15/2001, de 14 de diciembre, del Suelo y
+Ordenación del Territorio de Extremadura, con modificaciones posteriores). Asimismo,
+no se detecta afección sobre ningún instrumento de ordenación territorial general (Plan
+Territorial), de ordenación territorial de desarrollo (Plan de Suelo Rústico, Plan Especial
+de Ordenación del Territorio) ni de intervención directa (Proyecto de Interés Regional)
+de la Ley 11/2018, de 21 de diciembre, de ordenación territorial y urbanística sostenible
+de Extremadura, en vigor desde el 27 de junio de 2019.
+Informan que actualmente se halla en redacción el Plan Territorial de Rivera de Fres-
+nedosa-Valle del Alagón, por Resolución de 26 de marzo de 2024, del Consejero, por la
+que se acuerda la redacción del Plan Territorial de Rivera de Fresnedosa-Valle del Ala-
+gón, en cuyo ámbito territorial se incluye el término municipal de Torrejoncillo (Cáceres)
+y que establecerá una nueva regulación cuando se apruebe definitivamente.
+— Con fecha de 17 de julio de 2025, el Servicio de Arqueología y Proyectos Estratégicos
+emite informe en el que indica que analizada el área de afección del proyecto, se com-
+prueba que no presenta incidencias sobre el patrimonio arqueológico conocido. No obs-
+tante, a algo más de 250 metros se localiza el siguiente yacimiento:
+• Fuente Salada (YAC1952).
+Teniendo en cuenta lo anterior y como medida preventiva de cara a la protección del
+patrimonio arqueológico no detectado, se deberá adoptar la siguiente medida correc-
+tora, contemplada en el artículo 54 de la Ley 2/1999, de 29 de marzo, de Patrimonio
+Histórico y Cultural de Extremadura:
+– Si durante la ejecución de las obras, se hallasen restos u objetos con valor arqueo-
+lógico, el promotor y/o la dirección facultativa de la misma paralizarán inmedia-
+tamente los trabajos, tomarán las medidas adecuadas para la protección de los
+restos y comunicarán su descubrimiento en el plazo de cuarenta y ocho horas a la
+Consejería de Cultura, Turismo y Deportes.
+— Con fecha de 24 de septiembre de 2025, el Servicio de Conservación de la Naturaleza y
+Áreas Protegidas emite informe en el que indica que el proyecto se localiza fuera de la
+Red Natura 2000 y de otras Áreas Protegidas, aunque a una distancia de 80-100 metros
+se localiza la Zona de Protección Especial para las Aves (ZEPA) “Ríos Alagón y Jerte”
+(ES4320071).
+
+NÚMERO 203
+43899
+Miércoles 21 de octubre de 2026
+Este Servicio informa favorablemente la actividad solicitada, ya que no es susceptible de
+afectar de forma apreciable a los lugares incluidos en la Red Natura 2000, ni se prevén
+afecciones significativas sobre especies o hábitats protegidos, siempre que se cumplan
+las medidas establecidas en su informe, las cuales serán incluidas en el condicionado
+del presente informe de impacto ambiental.
+— Con fecha de 4 de octubre de 2025, la Confederación Hidrográfica del Tajo emite infor-
+me en el que indica que en lo referente a zonas protegidas recogidas oficialmente en el
+PHT 2023-2027, el ámbito de actuación se encuentra en zonas de conservación de la
+biodiversidad de la Red Natura 2000, correspondientes al LIC “ES030_LICSES4320071
+- Ríos Alagón y Jerte”. Además, se halla en el área de captación de la zona sensible
+“ES030ZSENESCM552 - Embalse de Alcántara II”.
+En cuanto a aguas superficiales, la zona de actuación se halla en la zona de policía del
+río Alagón.
+En el informe se hacen una serie de indicaciones en el ámbito de las competencias de
+esta Confederación, que serán incluidas en el condicionado del presente informe de im-
+pacto ambiental.
+— Con fecha de 20 de julio de 2026, el Servicio de Regadíos emite informe en el que indica
+que se considera el trazado propuesto en el proyecto como compatible o complementa-
+rio con el regadío, ya que tal y como describe el artículo 3.1.j) del Decreto 141/2021, de
+21 de diciembre, por el que se regulan los usos y actividades compatibles y complemen-
+tarios con el regadío en zonas regables de Extremadura declaradas de interés general
+de la Comunidad Autónoma de Extremadura, de la Nación o Singulares, aun siendo
+un uso o actividad no relacionada directamente con la actividad agraria de regadío, la
+superficie construida de cada apoyo de la línea eléctrica, no supone una ocupación per-
+manente del suelo superior a 5000 m2 dentro de cada parcela, quedando la superficie
+de la parcela dedicada al uso de regadío igual o superior a la establecida como unidad
+mínima de cultivo vigente en la Comunidad Autónoma de Extremadura. Teniendo en
+cuenta lo expuesto, este Servicio emite informe favorable condicionado al cumplimiento
+de las siguientes medidas:
+• Respetar las infraestructuras de la zona regable, manteniendo unas distancias entre
+las nuevas instalaciones y aquellas que permitan las operaciones de reparación o
+mantenimiento necesarias para ambas con medios mecánicos habituales. Al menos
+serán las siguientes:
+– Para las acequias que no tengan caminos, la servidumbre de paso será de 3 m de
+anchura a cada lado de los bordes de la sección tipo.
+
+NÚMERO 203
+43900
+Miércoles 21 de octubre de 2026
+– Si disponen de camino, la servidumbre fijada en el lado opuesto a éste tendrá la
+misma anchura de 3 m.
+– En los desagües, la servidumbre de paso y vertido de los productos de limpia será
+de 4 m a cada lado de la arista superior.
+• Construir las líneas eléctricas o telefónicas aéreas, si las hubiera, de manera que se
+puedan seguir realizando las tareas agrícolas con maquinarias de hasta 5 m de altura
+sin que suponga riesgo de colisión.
+• Construir las canalizaciones enterradas, si las hubiera, con un trazado y a una profun-
+didad que no se interfieran las labores propias de las explotaciones.
+• Evitar que los nuevos elementos construidos puedan provocar la contaminación de las
+aguas de riego o la de los cauces que puedan atravesar la zona.
+• Los nuevos elementos no podrán suponer ninguna dificultad para el acceso de perso-
+nas o vehículos a las parcelas.
+Tercero. Análisis del expediente.
+Una vez analizada la documentación que obra en el expediente, y considerando las respues-
+tas recibidas a las consultas practicadas, se realiza el siguiente análisis para determinar la
+necesidad de sometimiento del proyecto al procedimiento de evaluación de impacto ambiental
+ordinaria previsto en la subsección 1.ª de la sección 2.ª del capítulo VII, del título I, según
+los criterios del anexo X, de la Ley 16/2015, de 23 de abril, de protección ambiental de la
+Comunidad Autónoma de Extremadura.
+3.1. Características del proyecto.
+El proyecto a ejecutar comprende las siguientes actuaciones:
+— Cambio de transformador en CTIA “Sauceda”.
+— Adecuación del apoyo existente n.º 2088 a la avifauna.
+— Desmontaje del transformador existente.
+— Refuerzo y adecuación de la LABT existente CTIA “Sauceda”.
+El cambio de transformador se va a llevar a cabo en el CTIA “Sauceda” n.º 140301910,
+el cual se alimenta desde la LAMT 4853-L04 “A. Arriba (MI)” de la STR “Coria 1”, con
+una tensión de servicio de 13,2 kV. El nuevo transformador a instalar, de 100 KVA de
+
+NÚMERO 203
+43901
+Miércoles 21 de octubre de 2026
+potencia, se ubicará sobre el apoyo existente N.º 2088, en el que se encuentra el actual
+transformador a sustituir. En este apoyo se instalarán cadenas de amarre con aisladores
+de composite de bastón largo, que cumplen con la distancia exigida en el anexo del Real
+Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protección
+de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión, y se
+forrarán con elementos aislantes los elementos en tensión.
+En cuanto al refuerzo y adecuación de la LABT existente del CTIA “Sauceda”, se procederá
+al desvío de uno de los tramos existentes que discurre por medio de una parcela privada,
+pasando la nueva línea a discurrir por nuevos apoyos de hormigón ubicados junto al cami-
+no existente. La nueva línea discurrirá desde el nuevo apoyo A1 a instalar hasta el nuevo
+apoyo A13 a instalar. Será necesario, además, proyectar dos nuevas acometidas desde los
+nuevos apoyos a instalar A7 y A10, con la finalidad de mantener los suministros existentes.
+La longitud total de la línea y las acometidas será de 659 metros.
+Se adecuarán, asimismo, varios tramos de la línea aérea de BT existente del CTIA “Sauce-
+da”, sustituyendo el conductor desnudo actual por conductor aislado.
+3.2. Ubicación del proyecto.
+Las actuaciones proyectadas se ubican en las parcelas 21, 20, 19, 15 y 27, del polígono 6,
+del término municipal de Torrejoncillo, en la provincia de Cáceres.
+3.3. Análisis de alternativas.
+En el análisis de alternativas del trazado se han estudiado dos alternativas, aparte de la
+alternativa cero o de no actuación:
+— Alternativa 0: La alternativa cero considerada es la no realización del proyecto.
+Ahora bien, esta actuación se conforma como parte del plan estratégico de la com-
+pañía para mejorar la red de distribución eléctrica, cumpliendo el compromiso de
+garantizar el derecho de los consumidores al suministro de energía eléctrica y la
+adecuación de éste a sus necesidades en términos de seguridad, calidad y eficiencia,
+según marca la ley (Decreto-ley 1/2018, de 20 de noviembre, por el que se modifica
+la Ley 2/2002, de 25 de abril, de protección de la calidad del suministro eléctrico en
+Extremadura). Por tanto, esta opción ha sido descartada.
+— Alternativa 1: esta alternativa contempla el desmontaje del centro de transformación
+actual y la instalación de un nuevo CT del mismo tipo (CT sobre apoyo), en la misma
+ubicación. La actuación incluirá la sustitución de los elementos obsoletos, incorpo-
+rando un transformador de nueva generación con mejores prestaciones en términos
+de eficiencia energética, seguridad y fiabilidad operativa.
+
+NÚMERO 203
+43902
+Miércoles 21 de octubre de 2026
+Se llevará a cabo el desvío de la LABT y se proyectarán dos nuevas acometidas, en
+una longitud total de 659 metros.
+— Alternativa 2: esta alternativa plantea el desmantelamiento del CT actual y la ins-
+talación de un nuevo centro de transformación compacto tipo envolvente a nivel de
+suelo, ubicado en las proximidades del apoyo actual. Esta solución implica la reali-
+zación de obra civil para la cimentación, preparación del terreno, y conexión a la red
+existente de media y baja tensión.
+En cuanto a la LABT, el trazado es común al de la alternativa 1, con la diferencia de que
+sería necesario la instalación de un pequeño tramo de línea subterránea de media tensión,
+de 10 metros de longitud, para realizar el entronque aéreo-subterráneo de la red de media
+tensión con el nuevo CTIA.
+Tras el análisis comparativo de las alternativas planteadas se selecciona la alternativa 1,
+debido a que se considera como la más viable desde el punto de vista técnico y medioam-
+biental, por los siguientes motivos:
+• La sustitución del centro de transformación sobre apoyo permite mantener la ubica-
+ción actual, simplificando las conexiones a la red existente y asegurando la continui-
+dad del servicio eléctrico durante el proceso de renovación.
+• Esta alternativa evita la necesidad de ocupación adicional de terreno, reduciendo el
+impacto sobre el medio físico y evitando alteraciones en el entorno.
+• Al no requerir obras civiles complejas ni movimientos significativos de tierra, la eje-
+cución del proyecto conlleva menores emisiones y generación de residuos.
+3.4. Características del potencial impacto.
+— Red Natura 2000 y Áreas Protegidas.
+El proyecto se localiza fuera de la Red Natura 2000 y de otras Áreas Protegidas, aunque
+a una distancia de 80-100 metros se localiza la Zona de Protección Especial para las
+Aves (ZEPA) “Ríos Alagón y Jerte” (ES4320071).
+El informe del Servicio de Conservación de la Naturaleza y Áreas Protegidas indica que la
+actividad solicitada no es susceptible de afectar de forma apreciable a los lugares de la
+Red Natura 2000, ni se prevén afecciones significativas sobre especies o hábitats prote-
+gidos, siempre que se cumplan las medidas preventivas, correctoras y complementarias
+indicadas en su informe, que se integrarán en el condicionado del presente informe de
+impacto ambiental.
+
+NÚMERO 203
+43903
+Miércoles 21 de octubre de 2026
+— Sistema hidrológico y calidad de las aguas.
+El proyecto se encuadra en la Cuenca Hidrográfica del Tajo, siendo el río Alagón el prin-
+cipal curso de agua existente, situado al norte de la zona de actuación. Al este de la
+misma se localiza el arroyo Encín, uno de los principales afluentes del río Alagón, que
+discurre de sur a norte del término municipal de Torrejoncillo, atravesando las áreas del
+regadío.
+Según lo indicado por la Confederación Hidrográfica del Tajo en su informe, la zona de
+actuación se halla en la zona de policía del río Alagón.
+Respecto a las aguas subterráneas, el proyecto se asienta en la masa de agua subterrá-
+nea “Galisteo”.
+Desde el punto de vista hidrogeológico, el área presenta acuíferos de baja capacidad
+debido a la escasa porosidad de las rocas metamórficas. Sin embargo, existen pequeños
+manantiales asociados a fracturas, que son aprovechados para el abastecimiento local
+de agua. En general, los recursos hídricos subterráneos son limitados y dependen de la
+pluviometría anual.
+Durante la fase de construcción, la presencia de maquinaria en las proximidades de
+cauces podrá afectar a la calidad de las aguas, tanto superficiales como subterráneas,
+ya que se pueden producir contaminaciones provenientes de derrames accidentales de
+combustibles, aceites, etc.
+Por otro lado, los mismos movimientos de tierra debidos a las excavaciones podrían
+producir un incremento de la turbidez de las aguas, al aportar partículas en suspensión
+a la cuenca de aporte.
+En cuanto a la fase de funcionamiento, el principal efecto provocado tanto en las aguas
+superficiales como en las subterráneas podría ser el causado por los mismos términos
+del primer párrafo, pero por la presencia de vehículos en lugar de maquinaria.
+No se proyecta la apertura de ningún nuevo camino sobre cauce público, con lo que no
+será necesario disponer de ninguna obra de drenaje transversal.
+Realizando un adecuado manejo de la maquinaria y de los productos que de ella se
+derivan (aceite, combustible, etc.) es de prever que no exista peligro para la calidad de
+las aguas. No obstante, se tendrán en cuenta las medidas establecidas por la Confede-
+ración Hidrográfica del Tajo, en su informe.
+
+NÚMERO 203
+43904
+Miércoles 21 de octubre de 2026
+— Geología, geomorfología y suelos.
+Geológicamente el término municipal se encuadra dentro del Macizo Hespérico, y más
+exactamente en la parte meridional de la Unidad Geológica Centroibérica.
+Desde el punto de vista estratigráfico, se distinguen sedimentos precámbricos, per-
+tenecientes al Complejo Esquisto Grauváquico, sedimentos paleozoicos, que abarcan
+términos desde el Ordovícico Inferior al Silúrico, depósitos terciarios y sedimentos cua-
+ternarios, principalmente terrazas.
+Geomorfológicamente, Torrejoncillo se caracteriza por un relieve suavemente alomado,
+típico de las penillanuras extremeñas.
+En lo que respecta a la edafología, en la zona donde se ubica el proyecto aparecen suelos
+clasificados como fluvisoles, según la FAO. Son suelos formados a partir de sedimentos
+modernos de origen fluvial.
+La geología y la geomorfología se podrán ver afectadas durante la ejecución del mo-
+vimiento de tierras que se realizará para el vaciado y apertura de los cimientos de los
+apoyos a instalar.
+Respecto al suelo, la ocupación de éste constituye el principal impacto que se deriva
+tanto de la fase de obras como de la fase de explotación.
+Otros impactos derivan de la destrucción directa del perfil del suelo y de la alteración
+de sus características como consecuencia del movimiento de tierras y la compactación
+del suelo por el tránsito de la maquinaria. No se consideran importantes los procesos de
+erosión edáfica al no realizarse las actuaciones en zonas de ladera de fuerte pendiente
+que genere un aumento significativo de escorrentía superficial por desbroce.
+También existe la posibilidad de contaminación del suelo por vertidos accidentales de la
+maquinaria, lo que podría originar una cierta alteración de las propiedades edáficas.
+Otra posible alteración de las características edáficas se producirá sobre las superficies
+ocupadas temporalmente por depósitos de materiales y acopios. En estas superficies se
+producirá una compactación del suelo y la alteración de su estructura.
+En la fase de funcionamiento, dada la escasa magnitud del área afectada por la pérdida
+de suelo útil para actividades agrarias, el efecto sobre los suelos se considera no signi-
+ficativo.
+
+NÚMERO 203
+43905
+Miércoles 21 de octubre de 2026
+Para minimizar el impacto a los suelos, se limitarán las zonas de acopio de materiales
+a zonas cercanas a los apoyos, que se encuentren más degradadas. El transporte de
+materiales y la circulación de maquinaria deberán realizarse sobre las pistas y cami-
+nos destinados a tal fin para evitar toda serie de afecciones como la compactación del
+sustrato en otras zonas, y la adecuación de caminos de acceso se realizará sin ejecutar
+grandes movimientos de tierra.
+— Fauna.
+Según el informe emitido por el Servicio de Conservación de la Naturaleza y Áreas Pro-
+tegidas, los valores naturales reconocidos en la Ley 42/2007, de 13 de diciembre, del
+Patrimonio Natural y de la Biodiversidad son:
+Taxones amenazados incluidos en el Catálogo Regional de Especies Amenazadas de
+Extremadura (Decreto 37/2001, modificado por el Decreto 78/2018), según los censos
+oficiales del Servicio de Conservación de la Naturaleza y Áreas Protegidas en el área de
+afección, considerada como tal, 3 km entorno al trazado de la línea:
+• Avifauna asociada a láminas de agua:
+– Cigüeña negra (Ciconia nigra), especie catalogada como “En Peligro de Extinción”.
+• Avifauna rupícola:
+– Alimoche (Neophron percnopterus), especie catalogada como “Vulnerable”.
+Durante la fase de construcción, los impactos generados en la fauna pueden ser la al-
+teración de sus hábitats por la ocupación de la superficie destinada a la construcción de
+las infraestructuras proyectadas; las molestias generadas por la actividad de la maqui-
+naria (ruidos, polvo, gases) y un eventual incremento en la frecuentación de la zona.
+En fase de funcionamiento, al proceder a adecuar el apoyo en el que irá instalado el
+transformador a las prescripciones establecidas en el Real Decreto 1432/2008, de 29
+de agosto, por el que se establecen medidas para la protección de la avifauna contra la
+colisión y la electrocución en líneas eléctricas de alta tensión, se disminuye la afección
+a la avifauna.
+— Vegetación.
+La formación vegetal dominante en el término municipal son las dehesas de Quercus
+ilex. En las riberas del río Alagón se puede encontrar vegetación de ribera formada por
+especies diversas como los alisos, sauces, fresnos o chopos. En los arroyos más próxi-
+
+NÚMERO 203
+43906
+Miércoles 21 de octubre de 2026
+mos a las zonas de regadío, como es el caso del arroyo Encín, como vegetación de ribera
+se encuentran fundamentalmente sauces, junto con otra vegetación acuática asociada
+como carrizos, juncos, etc.
+Según el informe emitido por el Servicio de Conservación de la Naturaleza y Áreas Prote-
+gidas, en la zona donde se ubica el proyecto no se encuentra ningún Hábitat de Interés
+Comunitario.
+La totalidad de las parcelas afectadas corresponden a zonas de regadío pertenecientes
+a la Comunidad de regantes de la margen izquierda del río Alagón, donde la vegetación
+presente está vinculada a explotaciones agrícolas de carácter productivo. No se produ-
+cirá, por lo tanto, afección a la vegetación.
+— Paisaje.
+En la zona del proyecto se distinguen los dominios de paisaje “Cuencas sedimentarias y
+vegas” y “Llanos y penillanuras”.
+El dominio de paisaje “Cuencas sedimentarias y vegas” tiene asociado el tipo de paisaje
+“Vegas de la cuenca del Tajo (terrazas y llanuras aluviales)” y la unidad de paisaje “Fosa
+y vegas del Alagón”.
+El dominio de paisaje “Llanos y penillanuras” tiene asociado el tipo de paisaje “Penilla-
+nura extremeña (esquistos) y la unidad de paisaje “Penillanura adehesada al sur de las
+vegas del Árrago y el Alagón”.
+El tipo de paisaje “Vegas de la cuenca del Tajo (terrazas y llanuras aluviales)” se trata de
+tierras bajas y fértiles que ocupan los fondos de valle y terrazas, dedicadas en su mayor
+parte a regadíos. Asociados a los regadíos, destacan las infraestructuras características
+como son los canales y acequias construidas para el riego o las casetas de aperos.
+El tipo de paisaje “Penillanura Extremeña (Esquistos)” se percibe como una extensa
+planicie ondulada, de usos mayoritariamente agropecuarios, con características propias
+derivadas de la litología sobre la que se desarrolla. Los suelos son de naturaleza más ar-
+cillosa, están más evolucionados y las lajas de pizarra afloran en la superficie formando
+crestas con singulares formas conocidas geomorfológicamente como dientes de perro o
+rocas penitentes.
+En fase de construcción, se generará un impacto por la intrusión visual generada debido
+a la presencia de maquinaria y personal de obra y a las propias actuaciones de la obra.
+Este impacto es temporal y limitado a la duración de esta fase.
+
+NÚMERO 203
+43907
+Miércoles 21 de octubre de 2026
+En la fase de explotación, se generará un impacto sobre la calidad visual por la intro-
+ducción de nuevos elementos en el paisaje. La presencia en el entorno de otras líneas
+eléctricas existentes minimizará la intrusión visual provocada por la nueva línea eléctri-
+ca a instalar.
+— Calidad del aire.
+Durante la fase de ejecución de las obras, se producirá una pérdida de la calidad del aire
+como consecuencia del aumento de los niveles de partículas en suspensión (polvo y ga-
+ses) y emisión de partículas y contaminantes de combustión, sobre todo debido al uso
+de la maquinaria, excavación, transporte, carga y descarga de materiales y movimien-
+tos de tierra. Se trata de un impacto temporal que desaparecerá una vez finalizadas las
+obras, por lo que se considera compatible.
+En fase de explotación se pueden esperar emisiones a la atmósfera de los vehículos que
+hayan de acceder a la instalación a realizar las labores de inspección y mantenimiento
+de la línea. Esta incidencia será mucho menor que la producida en la fase de obra.
+Para minimizar los impactos a la atmósfera en fase de construcción se establecerán
+medidas preventivas relacionadas con buenas prácticas de obra como el mantenimiento
+adecuado de la maquinaria o el cumplimiento de las inspecciones técnicas de vehículos.
+— Patrimonio arqueológico y bienes de dominio público.
+Según lo indicado en el informe del Servicio de Arqueología y Proyectos Estratégicos, a
+algo más de 250 metros de la zona donde se ubica el proyecto se localiza el siguiente
+yacimiento:
+• Fuente Salada (YAC1952).
+Durante la fase de construcción, las distintas actuaciones de la obra, en particular los
+movimientos de tierra pueden provocar la pérdida de restos arqueológicos presentes
+en las inmediaciones. Por otra parte, determinadas actuaciones, como el tránsito de
+maquinaria, realizadas en superficies con presencia de restos arqueológicos, pueden
+provocar un deterioro de éstos.
+De cara a evitar la afección del patrimonio arqueológico no detectado existente en la
+zona de actuación, se cumplirán las medidas establecidas por el Servicio de Arqueo-
+logía y Proyectos Estratégicos en su informe.
+Respecto a la afección a los bienes de dominio público, el trazado no afecta ni a mon-
+tes de utilidad pública, ni a vías pecuarias.
+
+NÚMERO 203
+43908
+Miércoles 21 de octubre de 2026
+En relación con las infraestructuras, la nueva línea a ejecutar discurre en todo su
+trayecto adyacente al Camino de la Zahurdera.
+— Población y salud humana.
+Respecto a la población y salud humana se evalúan aquellos elementos que pueden
+generar impactos sobre los mismos, como el ruido o los campos electromagnéticos.
+En cuanto a la contaminación acústica, durante la realización de las obras se producirán
+incrementos significativos de los niveles sonoros de carácter puntual, como consecuen-
+cia de la utilización de maquinaria pesada para el movimiento de tierras, la carga y des-
+carga de materiales, así como por el tránsito de vehículos. Para minimizar este impacto,
+la maquinaria utilizada cumplirá con la normativa correspondiente en esta materia y los
+trabajos se realizarán únicamente en periodo diurno.
+En fase de funcionamiento, los niveles de ruido generados se atribuyen al efecto corona.
+Se trata de un sonido de pequeña intensidad, que solamente se escucha en la proximi-
+dad más inmediata de las líneas de muy alta tensión y no se percibe a pocas decenas de
+metros. Este ruido aumenta ligeramente en situaciones de elevada humedad ambiental.
+Con buen tiempo, a 25 metros de distancia de una línea de 400 kV, los valores de ruido
+son de unos 30 dBA, similares a los de las zonas residenciales.
+En lo que respecta a los campos electromagnéticos, según la Recomendación del Conse-
+jo, de 12 de julio de 1999, relativa a la exposición del público en general a campos elec-
+tromagnéticos (1999/519/CE), se establecen los siguientes niveles de referencia para el
+campo electromagnético de 50 Hz (frecuencia de funcionamiento del sistema eléctrico):
+5 kV/m para el campo eléctrico y 100 µT (microteslas) para el campo magnético.
+Las diversas mediciones realizadas en distintos tipos de líneas de transporte eléctrico
+proporcionan valores máximos – medidos a 1 m sobre el suelo en el punto más cercano
+de los conductores al terreno – que oscilan entre 3-5 kV/m para el campo eléctrico y
+1-15 μT para el campo magnético en las líneas a 400 kV.
+Teniendo en cuenta que la línea eléctrica proyectada es de baja tensión y que, como se
+ha podido comprobar, incluso las líneas de 400 kV de tensión cumplen con los valores
+permitidos de ruido y campos electromagnéticos, se puede concluir que la ejecución del
+proyecto no va a conllevar riesgos para la salud de las personas.
+— Vulnerabilidad del proyecto ante el riesgo de accidentes graves o catástrofes relevantes.
+
+NÚMERO 203
+43909
+Miércoles 21 de octubre de 2026
+1. En relación con la vulnerabilidad del proyecto frente a las catástrofes, el promotor
+presenta un estudio de vulnerabilidad del proyecto en el que identifican los siguientes
+riesgos potenciales inherentes a la zona de influencia del proyecto y la probabilidad
+de concurrencia:
+• Riesgo sísmico.
+Según el Mapa de Peligrosidad Sísmica de España para un período de retorno de
+475 años, definido en la Norma de Construcción Sismorresistente, la totalidad de
+la zona de estudio se enmarca en la franja que corresponde a una aceleración bá-
+sica ab <0,04 g, que implicaría que es una zona de baja peligrosidad sísmica (<
+0,8 m/s2).
+Por otro lado, el grado de intensidad según el Mapa de Peligrosidad Sísmica de
+España para un período de retorno de 500 años es menor a VI. Según el Plan Es-
+pecial de Protección Civil ante el Riesgo Sísmico de Extremadura (PLASISMEX) hay
+que tener en cuenta que en el estudio de vulnerabilidad de las redes eléctricas las
+escalas clásicas como la MSK solamente establecen daños a partir de intensidad
+de grado VIII, los cuales serían leves. Los daños importantes y graves no se pro-
+ducen hasta los grados IX y X.
+Según el Mapa de Sismicidad en la Península Ibérica y Zonas Próximas no existen
+registros de terremotos en la zona de estudio, por lo que la probabilidad de ocu-
+rrencia de un sismo es baja. Teniendo en cuenta además que el grado de intensi-
+dad es menor a VI, y por lo tanto la severidad del posible daño causado sería leve,
+se considera que el riesgo sísmico es bajo.
+• Riesgos geológicos-geotécnicos (movimientos de ladera, hundimientos y subsiden-
+cias; expansividad de arcillas).
+Según el Mapa de Peligrosidad por Movimientos de Ladera de la Comunidad Autó-
+noma de Extremadura (SITEX), la zona de estudio se encuentra en una zona con
+peligrosidad muy baja en cuanto a posibilidad de movimientos naturales. Asimis-
+mo, el proyecto tampoco se ve afectado por taludes de origen antrópico (infraes-
+tructuras) que puedan dar origen a una instabilidad del terreno y pueda suponer
+un riesgo sobre la estabilidad de los elementos de la línea.
+En lo que respecta al riesgo de expansividad de arcillas, según el Mapa Previsor de
+Riesgos por Expansividad de Arcillas en España, el presente proyecto se encuentra
+en una zona sin peligro de expansividad de arcillas.
+
+NÚMERO 203
+43910
+Miércoles 21 de octubre de 2026
+Por todo lo anterior la probabilidad de que se materialice cualquier fenómeno
+geológico-geotécnico en la zona de influencia del proyecto es baja.
+• Riesgos meteorológicos.
+Se analizan conjuntamente todas las variables meteorológicas en la zona de ubica-
+ción del proyecto teniendo que existe una probabilidad baja de que se produzcan
+fenómenos meteorológicos adversos en forma de viento, nieve, heladas y tormen-
+tas en el ámbito del proyecto, según los datos disponibles manejados en la zona
+de estudio.
+El cálculo y dimensionamiento de la línea se ha realizado atendiendo al Real Decre-
+to 842/2002, de 2 de agosto, por el que se aprueba el Reglamento electrotécnico
+para baja tensión, respecto a las hipótesis meteorológicas indicadas para la zona
+en la que se emplazan las actuaciones. Por ello, se considera el riesgo meteoroló-
+gico como bajo.
+• Riesgo por inundaciones y avenidas.
+Según el Sistema Nacional de Cartografía de Zonas Inundables (SNCZI), muy
+próximo a la zona donde se ubica el proyecto se encuentra el tramo ARPSI ES030-
+29-08, asociado al cauce del río Alagón.
+La cartografía de zonas inundables para los periodos de retorno de 10, 100 y 500
+años del tramo ARPSI indicado anteriormente muestra que la zona donde se ubica
+el proyecto se ve afectada por dichas zonas inundables. Según los mapas de peli-
+grosidad, la profundidad estimada del agua (calado) que alcanzaría la inundación
+en esos escenarios sería la siguiente:
+– T10: 0,497 metros.
+– T100: 1,126 metros.
+– T500: 1,621 metros.
+La parte de la instalación en contacto con la superficie del terreno lo conforman los
+apoyos de la línea, cuya altura es de entre 9 y 11 metros. La altura de los conduc-
+tores al suelo es superior a 5 metros en todos los vanos de la línea, estando, por
+lo tanto, por encima de los calados alcanzados por las aguas en los 3 períodos de
+retorno.
+
+NÚMERO 203
+43911
+Miércoles 21 de octubre de 2026
+• Riesgo de incendios forestales.
+La zona donde se sitúa el proyecto está muy próxima a Zona de Riesgo Medio de
+incendios, que son aquellos terrenos con consideración de monte no incluidos en
+Zonas de Alto Riesgo.
+Por otro lado, a partir de los datos recabados del MITECO, se tiene que en el pe-
+ríodo comprendido entre 2006-2015 se han producido 6 incendios y 6 conatos de
+incendio, con una superficie total incendiada de 51 ha, de las que 12 ha son de
+superficie arbolada y 39 ha de superficie no arbolada.
+Analizando los datos anteriores, se tiene que la probabilidad de que ocurra un
+incendio en el ámbito de estudio es baja. La severidad del daño causado en el
+entorno del proyecto, en caso de la ocurrencia de un incendio forestal, teniendo
+en cuenta que la vegetación de la zona de ubicación del mismo está compuesta
+de forma predominante por formaciones de regadíos y pastos, se considera baja.
+Con estos parámetros la categoría del riesgo por incendio forestal en cuanto a
+catástrofe es bajo.
+Como medidas de prevención ante el riesgo de incendios se cumplirá con el Plan
+de Prevención de Incendios Forestales de la Comunidad Autónoma de Extrema-
+dura de acuerdo con el Decreto 260/2014, de 2 de diciembre (DOE n.º 236, de 9
+de diciembre de 2014), donde se establecen y definen las medidas generales para
+la prevención de los incendios forestales, a la hora de establecer los períodos de
+mayor riesgo en el ámbito de la obra.
+• Riesgo nuclear.
+La central nuclear más cercana al trazado propuesto es la de Almaraz, en el muni-
+cipio de Almaraz, Cáceres; a una distancia muy alejada al punto más cercano del
+trazado.
+No se considera el riesgo nuclear, al estar todo el trazado fuera del ámbito de las
+zonas de planificación (IA, r = 3 km; IB, r = 5 km; IC, r = 10 km; y II, r = 30
+km); del Plan de Emergencia Nuclear de dicha central nuclear, con lo que no existe
+vulnerabilidad sobre la integridad de la línea eléctrica, en caso de producirse algún
+fallo o accidente.
+2. En relación con la vulnerabilidad del proyecto frente a riesgos de accidentes graves,
+se tiene en cuenta que:
+
+NÚMERO 203
+43912
+Miércoles 21 de octubre de 2026
+C onsiderando que ni las instalaciones proyectadas ni las actividades que se van
+a llevar a cabo para la construcción de las mismas contienen sustancias clasifica-
+das como peligrosas en las cantidades expresadas en el anexo I del Real Decreto
+840/2015, de 21 de septiembre, por el que se aprueban medidas de control de
+los riesgos inherentes a los accidentes graves en los que intervengan sustancias
+peligrosas; ni tampoco sustancias radioactivas según lo dispuesto en el Real De-
+creto 1836/1999, de 3 de diciembre, por el que se aprueba el Reglamento sobre
+instalaciones nucleares y radiactivas; presentando el promotor un certificado de no
+aplicación de estos reales decretos; se identifican los accidentes graves que pueden
+ocurrir, tanto en fase de construcción, como consecuencia de aquellos elementos de
+la obra que pueden generar, por fallos, errores u omisiones, daños sobre el medio
+ambiente, como pueden ser derrames o fugas de sustancias peligrosas, incendios y
+explosiones; como en fase de explotación, donde se puede producir riesgo de incen-
+dios forestales.
+D espués de analizar la probabilidad de ocurrencia y la severidad de estos posibles
+accidentes, se considera que la instalación analizada no es vulnerable frente a éstos
+ni en fase de obra ni en fase de explotación, siendo asumibles las consecuencias del
+riesgo en caso de ocurrencia de alguno de los eventos analizados.
+En conclusión, se trata de una actividad que no tiene efectos adversos significativos sobre el
+medio ambiente, siempre que se apliquen las medidas recogidas en el apartado Cuarto. “Con-
+diciones y medidas para prevenir, corregir y compensar los efectos sobre el medioambiente”.
+Igualmente, el proyecto no tiene afección sobre espacios de la Red Natura 2000. Por ello, del
+análisis técnico se concluye que no es preciso someter el proyecto a evaluación de impacto
+ambiental ordinaria.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos sobre
+el medioambiente.
+4.1. Medidas preventivas y correctoras de carácter general.
+— Se informará a todo el personal implicado en la ejecución de este proyecto del contenido
+del presente informe de impacto ambiental, de manera que se ponga en su conocimien-
+to las medidas que deben adoptarse a la hora de realizar los trabajos. Asimismo, se dis-
+pondrá de una copia del presente informe en el lugar donde se desarrollen los trabajos.
+— Cualquier modificación del proyecto original deberá ser comunicada al órgano ambien-
+tal. Dichas modificaciones no podrán llevarse a cabo hasta que éste no se pronuncie
+sobre el carácter de la modificación, al objeto de determinar si procede o no someter
+nuevamente el proyecto al trámite ambiental oportuno.
+
+NÚMERO 203
+43913
+Miércoles 21 de octubre de 2026
+— No se realizará ningún tipo de obra auxiliar sin contar con su correspondiente informe o
+autorización ambiental, según la legislación vigente.
+— Deberá tenerse en cuenta la normativa en materia de incendios forestales en la Comu-
+nidad Autónoma de Extremadura (Ley 5/2004, de 24 de junio, de Prevención y Lucha
+contra los Incendios Forestales en Extremadura; Decreto 260/2014, de 2 de diciembre,
+por el que se regula la Prevención de los incendios forestales en la Comunidad Autóno-
+ma de Extremadura y modificaciones posteriores).
+— Para la ubicación del parque temporal de maquinaria u otras ocupaciones temporales
+durante la obra, se evitará generar explanaciones fuera de la traza y se respetarán las
+zonas adyacentes bien conservadas, sin afectar a los Hábitats de Interés Comunitario
+presentes, seleccionando preferentemente áreas degradadas. Tras su uso, deberán ser
+descompactadas y limpiadas de cualquier tipo de residuo, es decir, restauradas. En el
+proceso de elección de ubicación de estas áreas se consultará con los Agentes del Medio
+Natural, con la finalidad de establecer su idoneidad desde un punto de vista medioam-
+biental.
+4.2. Medidas preventivas y correctoras en la fase de construcción.
+a) Protección del sistema hidrológico y calidad de las aguas.
+Dominio Público Hidráulico:
+— Toda actuación que se realice en Dominio Público Hidráulico deberá contar con la
+preceptiva autorización por parte del Organismo de Cuenca.
+— En ningún caso se autorizarán dentro del Dominio Público Hidráulico la construcción,
+montaje o ubicación de instalaciones destinadas a albergar personas, aunque sea
+con carácter provisional o temporal.
+Zona de Servidumbre y Zona de Policía:
+— Toda actuación que se realice en Zona de Policía (banda de 100 metros colindante
+con terrenos de Dominio Público Hidráulico) deberá contar con la preceptiva autori-
+zación por parte del Organismo de Cuenca.
+— La Zona de Servidumbre (banda de 5 metros colindante con terrenos de Dominio
+Público Hidráulico) deberá ser respetada.
+
+NÚMERO 203
+43914
+Miércoles 21 de octubre de 2026
+Saneamientos y vertidos:
+— Queda prohibido con carácter general el vertido directo o indirecto de aguas y pro-
+ductos residuales susceptibles de contaminar las aguas continentales o cualquier
+otro elemento del dominio público hidráulico, salvo que se cuente con la previa au-
+torización. Dicha autorización corresponde a la Confederación Hidrográfica del Tajo,
+salvo en los casos de vertidos efectuados en cualquier punto de la red de alcantari-
+llado o de colectores gestionados por las Administraciones autonómicas o locales o
+por entidades dependientes de las mismas, en los que la autorización corresponderá
+al órgano autonómico o local competente.
+Otras cuestiones:
+— Si se prevén actuaciones relacionadas con la vegetación en Dominio Público Hidráu-
+lico, o su Zona de Policía, se indica que deberá disponer de autorización por parte de
+esta Confederación Hidrográfica del Tajo. Además, se realizan las siguientes indica-
+ciones:
+• Si se prevén desbroces se indica que se utilizarán medios manuales. En el caso
+de que excepcionalmente se utilicen medios mecánicos para realizar alguna de
+las labores, estas no deberán afectar al dominio público hidráulico ni a su confor-
+mación, ni provocar alteraciones en el sistema fluvial. Si estos medios mecánicos
+incluyeran el uso de maquinaria pesada, se evitará su acceso al dominio público
+hidráulico, debiendo realizar las actuaciones desde sus márgenes, extremando
+los cuidados para que no se produzcan erosiones o alteraciones en el terreno que
+conforma las riberas.
+• No se eliminará toda la vegetación del dominio público hidráulico, debiendo ceñir-
+se la actuación a la retirada selectiva de plantas herbáceas o arbustivas anuales
+que puedan impedir el acceso al dominio público hidráulico o la realización de las
+obras/actuaciones.
+• Para la eliminación o control de la vegetación no está permitido el uso de her-
+bicidas o cualquier otro tipo de sustancias químicas. Tampoco se permite la in-
+corporación al dominio público hidráulico de materiales, estructuras y sustancias
+distintos a los existentes.
+• No se podrán llevar a cabo, en ningún caso, obras de movimientos de tierras que
+alteren la sección del dominio público hidráulico o su configuración, como serían
+la retirada de sedimentos o su distribución dentro del propio dominio público
+hidráulico.
+
+NÚMERO 203
+43915
+Miércoles 21 de octubre de 2026
+• En este sentido, deberá mantenerse intacta la morfología del dominio público
+hidráulico, y no provocar cambios en su lecho o en los taludes de sus riberas, no
+contemplándose por lo tanto ni la apertura de caja ni el perfilado de taludes.
+• Una vez finalizadas las actuaciones se deberá dejar el dominio público hidráulico
+en condiciones normales de desagüe. En este sentido, la zona deberá quedar
+limpia de cualquier producto sobrante de las mismas y los restos vegetales re-
+sultantes del desarrollo de los trabajos no se abandonarán en el dominio público
+hidráulico o en la zona de policía, debiendo retirarse para su adecuada gestión.
+— Al respecto del movimiento de tierras y el drenaje, hay que tener en cuenta que un
+posible impacto sobre la hidrología puede proceder de la remoción de los materia-
+les durante las fases de construcción y su posterior arrastre pluvial, provocando un
+incremento del aporte de sólidos a los cauces, por lo que se deben tomar medidas
+necesarias para evitarlo, por ejemplo, colocando barreras móviles para impedir dicho
+arrastre.
+— En cuanto a las zonas susceptibles de producir impactos, se destaca la zona de de-
+pósito y acopio de materiales. En consecuencia, se indica que el suelo de la zona de
+almacenamiento se recomienda que esté impermeabilizado para evitar riesgos de
+infiltración y contaminación de aguas superficiales y subterráneas, asegurando que
+se eviten pérdidas por desbordamiento.
+— Se recomienda la construcción de un foso de recogida de aceite bajo los transforma-
+dores ubicados en las subestaciones transformadoras. Dicho foso estará dimensio-
+nado para albergar todo el aceite del transformador en caso de derrame del mismo,
+y deberá estar impermeabilizado para evitar riesgos de filtración y contaminación de
+aguas superficiales y subterráneas.
+— En relación a los residuos, se indica que es necesario llevar a cabo una gestión
+adecuada de los mismos, tanto sólidos como líquidos. Para ello, se puede habilitar un
+“punto verde” en la instalación, en el que recoger los residuos antes de su recogida por
+parte de un gestor autorizado. Las superficies sobre las que se dispongan los residuos
+serán totalmente impermeables para evitar afección a las aguas subterráneas.
+— Al respecto de los posibles residuos líquidos peligrosos que se generen con motivo de
+la actuación, se adoptarán las medidas adecuadas para evitar la contaminación del
+agua, estableciendo áreas específicas acondicionadas, delimitadas e impermeables
+para las actividades que puedan causar más riesgo.
+
+NÚMERO 203
+43916
+Miércoles 21 de octubre de 2026
+b) Protección del suelo y la geomorfología.
+— No se realizarán movimientos de tierras no contemplados en la presente evaluación. No
+se retirará tierra vegetal ni se harán decapados, nivelaciones ni compactaciones fuera
+de las zonas que vayan a ser ocupadas realmente por las instalaciones.
+— Con el fin de minimizar la ocupación del suelo y la afección a la vegetación se procederá
+a la señalización y balizado de los terrenos afectados por las obras antes del inicio de
+éstas. Las áreas situadas fuera de las zonas delimitadas como zona de afección se con-
+siderarán zonas restringidas al paso y movimiento de la maquinaria.
+— Se utilizarán, siempre que sea posible, los caminos y accesos que existen en la actuali-
+dad, evitando la apertura de otros nuevos. Si esto no fuera posible, los movimientos de
+tierra y la anchura de las trazas deben ser las mínimas necesarias, puntuales y justifi-
+cadas, afectando lo imprescindible a la vegetación natural.
+— En las zonas en las que sea necesario el movimiento de tierras, se retirará previamente
+el substrato edáfico (tierra vegetal) para su posterior utilización en tareas de restau-
+ración y revegetación de áreas alteradas, por lo que deberán mantenerse sus cualida-
+des mineralógicas y texturales esenciales, evitando su compactación. La retirada de la
+tierra vegetal será progresiva de forma que se evite su erosión y se realizará fuera de
+los períodos de lluvias. El almacenaje de las capas fértiles se realizará en cordones con
+una altura inferior a 1,5-2,5 m, en zonas donde no exista compactación por el paso de
+maquinaria.
+— El tránsito de vehículos y maquinaria estará restringido a las zonas de ocupación pre-
+vistas. La maquinaria no circulará fuera de los caminos, salvo cuando la actuación lo
+precise, y nunca con el terreno con exceso de humedad.
+— Una vez finalizados los trabajos de instalación de la nueva línea eléctrica, se procederá
+a la restauración de las zonas de actuación, lo que implicará la descompactación de los
+suelos afectados, el extendido de la tierra vegetal acopiada y la limpieza general de las
+áreas afectadas. La restauración de la cobertura edáfica se realizará tan pronto como
+sea posible para cada superficie y de manera progresiva, con el objeto de poderla inte-
+grar paisajísticamente.
+c) Protección de la fauna y la vegetación.
+— Si durante la realización de las diferentes actuaciones se detectara la presencia de al-
+guna especie incluida en el Catálogo Regional de Especies Amenazadas de Extremadura
+(Decreto 37/2001, de 6 de marzo, por el que se regula el Catálogo Regional de Especies
+
+NÚMERO 203
+43917
+Miércoles 21 de octubre de 2026
+Amenazadas de Extremadura) y/o del Catálogo Español de Especies Amenazadas (Real
+Decreto 139/2011, de 4 de febrero, para el desarrollo del Listado de Especies Silvestres
+en Régimen de Protección Especial y del Catálogo Español de Especies Amenazadas),
+que pudiera verse afectada por las mismas, se estará a lo dispuesto por los Agentes del
+Medio Natural y/o el personal técnico de la Dirección General con competencias en Con-
+servación de la Naturaleza y Áreas Protegidas, previa comunicación de tal circunstancia.
+— Se deberá prestar atención a no ocasionar molestias a la fauna presente en la zona,
+teniendo especial cuidado en el caso de especies catalogadas y durante las épocas de
+reproducción y cría de la avifauna, respetando siempre las distancias de seguridad per-
+tinentes y cualquier indicación que realice la Coordinación de los agentes de la Unidad
+Territorial de Vigilancia de la Zona. No se molestará a la fauna con ruidos excesivos.
+— En cuanto al establecimiento de medidas para evitar la afección a la avifauna se
+deberán implementar las siguientes medidas técnicas en el apoyo donde se instalará el
+transformador:
+• La cadena de aislamiento será de 1 metro y se aislará 1 metro de conductor adicio-
+nalmente, en las 3 fases.
+• No se podrán instalar alargaderas, ni cadenas de amarre que permitan la posada.
+Tampoco podrán instalarse aisladores tipo bastón sin elementos antiposada.
+• La ubicación de todo equipo de maniobra y/o protección, tales como fusibles, seccio-
+nadores y autoválvulas (o pararrayos), deberá ser tal que, sus bornes o conectores,
+que puedan estar en tensión, queden por debajo de las crucetas o semicrucetas prin-
+cipales. Esta medida se cumplirá igualmente para cualquier elemento en tensión.
+• Se aislarán, en todas las fases, mediante fundas que impidan el contacto directo de
+las aves con las partes en tensión, los puentes y conexiones con cable desnudo entre
+elementos en tensión:
+– Las conexiones desde las grapas de las cadenas de aisladores a seccionadores o
+fusibles y a las autoválvulas.
+– Las conexiones a los bornes.
+– Los puentes entre las grapas de amarre y entre éstas y otras grapas de amarre en
+crucetas en derivación.
+• Se colocarán piezas preformadas de material aislante en los bornes de los secciona-
+dores, los fusibles, las autoválvulas y las botellas terminales.
+
+NÚMERO 203
+43918
+Miércoles 21 de octubre de 2026
+– En el caso que fuera necesario instalar elementos antiposada o antinidificación en
+las crucetas de los apoyos, éstos serán de tipo tejadillo.
+d) Protección del paisaje.
+— Se dejará la zona de actuación perfectamente acondicionada una vez acabada la
+instalación.
+e) Protección de la calidad atmosférica (calidad del aire, ruido y contaminación lumínica).
+— Se minimizará la generación de polvo mediante el empleo de lonas recubridoras en el
+transporte, la limitación de velocidad de los vehículos y el control de las operaciones de
+carga, descarga y transporte de material para minimizar la dispersión de partículas de
+polvo por el entorno.
+— Se controlará la emisión de gases contaminantes de los vehículos y maquinaria, así
+como la generación de ruidos, con su continua puesta a punto.
+f) Gestión de residuos.
+— Los residuos producidos se gestionarán por gestor autorizado conforme a la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular. Deberán
+habilitarse las correspondientes áreas de almacenamiento de los residuos en función de
+su tipología, clasificación y compatibilidad.
+— Los residuos de construcción y demolición (RCD) que se generen tanto en la fase de
+construcción como de desmantelamiento de las instalaciones, se deberán separar ade-
+cuadamente y entregar a una planta de reciclaje autorizada para su tratamiento, cum-
+pliendo en todo caso con lo establecido en el Real Decreto 105/2008, de 1 de febrero,
+por el que se regula la producción y gestión de los residuos de construcción y demoli-
+ción, y en el Decreto 20/2011, de 25 de febrero, por el que se establece el régimen ju-
+rídico de la producción, posesión y gestión de los residuos de construcción y demolición
+en la Comunidad Autónoma de Extremadura.
+— Se deberán realizar todas las operaciones de mantenimiento de la maquinaria en insta-
+laciones adecuadas para ello, evitando los posibles vertidos accidentales al medio.
+— Los aceites usados y residuos peligrosos que pueda generar la maquinaria de la obra,
+se recogerán y almacenarán en recipientes adecuados para su evacuación y tratamiento
+por gestor autorizado.
+
+NÚMERO 203
+43919
+Miércoles 21 de octubre de 2026
+g) Protección del patrimonio cultural.
+— Cualquier descubrimiento o incidencia que se produzca como consecuencia del cum-
+plimiento de las medidas establecidas por el Servicio de Arqueología y Proyectos Es-
+tratégicos y que puedan conllevar una modificación del proyecto original, deberá ser
+comunicada al órgano ambiental.
+4.3. Medidas preventivas y correctoras en la fase de explotación.
+— Se mantendrán en correcto estado de funcionamiento y operativas todas las instala-
+ciones y dispositivos para cumplir las medidas preventivas y correctoras incluidas en el
+presente informe de impacto ambiental.
+— Se cumplirá lo dispuesto en los términos recogidos en el Real Decreto 1066/2001, de 28
+de septiembre, por el que se aprueba el Reglamento que establece condiciones de pro-
+tección del dominio público radioeléctrico, restricciones a las emisiones radio-eléctricas
+y medidas de protección sanitaria frente a emisiones radioeléctricas.
+— Para las labores de mantenimiento de la instalación, se deberá tener en cuenta que, a
+priori, en la época de reproducción quedan prohibidos los trabajos de mantenimiento
+de las partes de los tendidos eléctricos que soporten nidos o que en sus proximidades
+nidifiquen aves incluidas en el Listado de Especies Silvestres en Régimen de Protección
+Especial, de acuerdo con la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y
+de la Biodiversidad.
+4.4. Medidas para la restauración una vez finalizada la actividad.
+En caso de finalización de la actividad, se deberá dejar el terreno en su estado original,
+desmantelando y retirando todos los escombros y residuos por gestor autorizado. Se ela-
+borará un plan que contemple tanto la restauración de los terrenos afectados como la
+vegetación que se haya podido dañar. Se dejará el área de actuación en perfecto estado
+de limpieza, siendo retirados los residuos cumpliendo la Ley 7/2022, de 8 de abril, de
+residuos y suelos contaminados para una economía circular, con el restablecimiento de la
+escorrentía original, intentando mantener la topografía original del terreno y procurando
+la restitución del terreno a su vocación previa al proyecto. Estas medidas se realizarán en
+un periodo inferior a 9 meses a partir del fin de la actividad.
+Se deberá presentar un plan de restauración un año antes de la finalización de la actividad
+en el que se recojan las diferentes actuaciones que permitan dejar el terreno en su estado
+original, teniendo en cuenta la restauración paisajística y de los suelos, así como de la
+gestión de los residuos generados. Dicho plan deberá ser aprobado antes de su ejecución,
+por el órgano ambiental, que llevará a cabo las modificaciones que estime necesarias.
+
+NÚMERO 203
+43920
+Miércoles 21 de octubre de 2026
+4.5. Programa de vigilancia y seguimiento ambiental.
+— El Programa de vigilancia ambiental, a realizar por el promotor, establecerá un sistema
+que garantice el cumplimiento de las indicaciones y de las medidas previstas para pre-
+venir, corregir y, en su caso, compensar, contenidas en el documento ambiental y en el
+informe de impacto ambiental, tanto en la fase de ejecución como en la de explotación.
+— La vigilancia deberá incidir especialmente en la detección de posibles accidentes de avi-
+fauna y en el estado de los materiales aislantes.
+— Siempre que se detecte cualquier afección al medio no prevista, de carácter negativo, y
+que precise una actuación para ser evitada o corregida, se emitirá un informe especial
+con carácter urgente aportando toda la información necesaria para actuar en conse-
+cuencia.
+— En base a la vigilancia ambiental practicada, se podrán exigir medidas correctoras su-
+plementarias para corregir las posibles deficiencias detectadas, así como otros aspectos
+relacionados con el seguimiento ambiental no recogidos inicialmente.
+Teniendo en cuenta todo ello, así como la no afección del proyecto a espacios de la Red Na-
+tura 2000, esta Dirección General de Gestión Sostenible y Política Forestal, a propuesta del
+Servicio de Prevención, Calidad Ambiental y Cambio Climático, resuelve, de acuerdo con la
+evaluación de impacto ambiental simplificada practicada conforme a lo previsto en la subsec-
+ción 2.ª de la sección 2.ª del capítulo VII del título I, tras el análisis realizado con los criterios
+del anexo X de la Ley 16/2015, de 23 de abril, de protección ambiental de la Comunidad Au-
+tónoma de Extremadura, que no es previsible que el proyecto “Cambio de máquina del CTIA
+“Sauceda” n.º 140301910, y paso de B1 a B2 de la tensión de suministro del mismo”, a reali-
+zar en el término municipal de Torrejoncillo, en la provincia de Cáceres, cuyo promotor es i-DE
+Redes Eléctricas Inteligentes, SAU, vaya a producir impactos adversos significativos sobre el
+medio ambiente, por lo que no se considera necesario someter el proyecto al procedimiento
+de evaluación de impacto ambiental ordinaria.
+El informe de impacto ambiental perderá su vigencia y cesará en la producción de los efectos
+que le son propios si, una vez publicado en el Diario Oficial de Extremadura, no se hubiera
+procedido a la autorización del proyecto en el plazo máximo de cuatro años desde su publi-
+cación.
+Su condicionado podrá ser objeto de revisión y actualización por parte del órgano ambiental
+cuando:
+
+NÚMERO 203
+43921
+Miércoles 21 de octubre de 2026
+— Se produzca la entrada en vigor de nueva normativa que incida sustancialmente en el
+cumplimiento de las condiciones fijadas en el mismo.
+— Durante el seguimiento del cumplimiento de este, se detecte que las medidas preventi-
+vas, correctoras o compensatorias son insuficientes, innecesarias o ineficaces.
+De conformidad con lo dispuesto en el artículo 76.6 de la Ley 16/2015, de 23 de abril, de
+protección ambiental de la Comunidad Autónoma de Extremadura, el informe de impacto am-
+biental no será objeto de recurso alguno, sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+El informe de impacto ambiental será objeto de publicación en el Diario Oficial de Extremadu-
+ra y en la página web http://extremambiente.gobex.es/.
+El presente informe de impacto ambiental se emite a los solos efectos ambientales y en virtud
+de la legislación específica vigente, sin perjuicio de aquellas otras autorizaciones sectoriales o
+licencias que sean necesarias para la ejecución del proyecto.
+Mérida, 5 de octubre de 2026.
+El Director General de Gestión
+Sostenible y Política Forestal,
+JUAN ELOY RODRÍGUEZ UCEDO

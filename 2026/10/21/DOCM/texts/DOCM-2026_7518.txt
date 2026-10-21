@@ -1,0 +1,892 @@
+AÑO XLV Núm. 202 21 de octubre de 2026 37309
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 02/10/2026, de la Dirección General de Calidad Ambiental, por la que se modifica la
+autorización ambiental integrada para la industria de transformación de subproductos de origen animal
+titularidad de Grainto, SL, ubicada en Portillo de Toledo (Toledo), como consecuencia de dos modificaciones
+no sustanciales en la instalación y se emite su texto refundido (expediente AAI-TO-042). [2026/7518]
+Antecedentes de hecho
+NIMA 4520759108
+Grainto, S.L., sociedad con CIF B45263621, es titular de la planta de transformación de subproductos de origen
+animal ubicada en Ctra. Santa Cruz, Km 3. C.P. 45512, de Portillo de Toledo (Toledo), cuyas coordenadas UTM
+(Datum ETRS89 del huso 30) son X= 394476, Y= 4438768; parcela 49 del polígono 4.
+La actividad realizada en dichas instalaciones está incluida en el ámbito de aplicación del Real Decreto Legislativo
+1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de prevención y control integrados
+de la contaminación. En concreto, se encuentra dentro del epígrafe 9.2 de su anexo I, relativo a las instalaciones
+para la eliminación o el aprovechamiento de carcasas o desechos de animales con una capacidad de tratamiento
+superior a 10 toneladas diarias.
+Mediante Resolución de 4 de julio de 2008 de la entonces Dirección General de Evaluación Ambiental, se otorgó
+autorización ambiental integrada para la planta de transformación de subproductos de origen animal propiedad
+de Grainto, S.L., ubicada en el término municipal de Portillo de Toledo (Toledo), publicada en el Diario Oficial de
+Castilla-La Mancha número 148 del 17 de julio de 2008. Previamente se había emitido la Resolución de 30 de abril
+de 2008 de la Dirección General de Evaluación Ambiental, fijando las condiciones a imponer en la autorización
+ambiental integrada.
+El día 27 de noviembre de 2025, con número de registro 4828123, tiene entrada ante esta Dirección General de
+Calidad Ambiental, la documentación para la modificación no sustancial de la autorización ambiental integrada por:
+a) La modificación de varios focos:
+- Cambio de calderas de 153 kW en los Focos 1 y 2 (se modifican los VLE).
+- Desmantelamiento de la planta de cogeneración.
+b) La incorporación de una nueva tolva de recepción de crudos de 80 m³.
+c) Asimismo, en la presente Resolución se contempla la corrección de la periodicidad asociada a los focos de
+emisión atmosférica 1,2, 3 y 5.
+d) Se modifica los valores límite de emisión al SO2, siempre que se utilice como combustible el gas natural.
+El día 8 de mayo de 2026, con número de registro 1760223, tiene entrada ante esta Dirección General de Calidad
+Ambiental, la documentación para la modificación no sustancial de la autorización ambiental integrada por:
+- Revisión de los focos de emisión (periodicidad y VLE), así como una revisión técnica del Foco 8 - Oxidador Térmico
+Regenerativo (RTO): cambio del % de O2 de referencia.
+- Otras modificaciones asociadas al proceso que consisten en la sustitución del digestor y la instalación de un nuevo
+depósito de agua de calderas.
+Fundamentos de derecho
+Vistos:
+- La documentación presentada por el titular del expediente.
+- El Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de
+prevención y control integrados de la contaminación
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37310
+- El Real Decreto 815/2013, de 18 de octubre, por el que se aprueba el Reglamento de emisiones industriales y de
+desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación.
+- Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería
+de Desarrollo Sostenible.
+- El histórico existente relativo al control y seguimiento de la Autorización Ambiental Integrada.
+- Resolución de 12 de abril de 2012 de la Dirección General de Calidad e Impacto Ambiental por la que se considera no
+sustancial, a efectos de la previsto en la Ley de Prevención y Control Integrado de la Contaminación, la modificación
+prevista por la empresa.
+- Resolución de 9 de diciembre de 2013 de la Dirección General de Calidad e Impacto Ambiental, que actualiza la
+autorización ambiental integrada para su adecuación a la Directiva 2010/75/CE, del Parlamento Europeo y del Consejo,
+de 24 de noviembre, sobre las emisiones industriales (publicada en el DOCM. número 9 del 15 de enero de 2014).
+- Resolución de 27 de octubre de 2020, de la Dirección General de Economía Circular, por la que se modifica la
+autorización ambiental integrada para una planta de transformación de subproductos de origen animal propiedad de
+la empresa Grainto, S.L., ubicada en Portillo de Toledo (Toledo), publicada en el DOCM. número 234 el día 19 de
+noviembre de 2020.
+- Resolución de 07/03/2025, de la Dirección General de Calidad Ambiental, por la que se modifica la autorización
+ambiental integrada para la industria de transformación de subproductos de origen animal titularidad de Grainto, SL,
+ubicada en Portillo de Toledo (Toledo), como consecuencia de una modificación no sustancial en la instalación y se
+emite su texto refundido (expediente AAI-TO-042).
+Considerando que:
+Primero.- Las referidas modificaciones no suponen incrementos significativos en las emisiones a la atmósfera,
+los vertidos a cauces públicos, la generación de residuos ni la utilización de recursos naturales por parte de las
+instalaciones, así como tampoco implican afecciones sobre áreas protegidas, el patrimonio cultural ni alteran de
+forma significativa el paisaje, de acuerdo con la información suministrada por el promotor sobre la actuación y las
+características de la ubicación.
+Segundo.- De acuerdo con la documentación remitida por el interesado y el artículo 14 del Reglamento de emisiones
+industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación,
+aprobado por el Real Decreto 815/2013, de 18 de octubre, estas modificaciones no representan una mayor incidencia
+sobre la seguridad, la salud de las personas ni el medio ambiente, así como tampoco concurren los siguientes criterios:
+- No se produce ningún incremento de capacidad de la actividad.
+- No se produce ningún incremento superior al 50 % de las cantidades autorizadas en el consumo de agua, materias
+primas o energía.
+- No se produce ningún incremento superior al 25 % de la emisión másica de cualquiera de los contaminantes
+atmosféricos que figuran en la autorización ambiental integrada o del total de las emisiones atmosféricas producidas
+en cada uno de los focos emisores, así como la introducción de nuevos contaminantes en cantidades significativas.
+- No se producen vertidos al dominio público hidráulico.
+- No se produce ningún incremento de más del 25 % del total de residuos peligrosos generados calculados sobre la
+cantidad máxima de producción de residuos peligrosos autorizada.
+- No se produce ningún incremento de más del 50 % del total de residuos no peligrosos generados calculados sobre
+la cantidad máxima de producción de residuos no peligrosos autorizada.
+De acuerdo con el Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias
+de la Consejería de Desarrollo Sostenible, esta Dirección General de Calidad Ambiental
+Resuelve:
+Primero.- Considerar que las modificaciones que se aceptan no implican efectos adversos significativos sobre el
+medio ambiente, de acuerdo con los criterios del artículo 6.2.c de la Ley 2/2020, de 7 de febrero, de evaluación
+ambiental de Castilla-La Mancha, por lo que no es necesario realizar la evaluación de su impacto ambiental.
+Segundo.- Confirmar el carácter no sustancial de las referidas modificaciones que se aceptan, de acuerdo con
+lo previsto en el artículo 10 del texto refundido de la Ley de prevención y control integrados de la contaminación,
+aprobado por el Real Decreto Legislativo 1/2016, de 16 de diciembre, y en el artículo 14 del Reglamento de emisiones
+industriales y de desarrollo de la Ley 16/2002, de 1 de julio, de prevención y control integrados de la contaminación,
+aprobado mediante el Real Decreto 815/2013, de 18 de octubre.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37311
+Tercero.- Modificar la autorización ambiental integrada de la industria de transformación de subproductos de origen
+animal titularidad de Grainto, S.L., ubicada en Portillo de Toledo (Toledo), como consecuencia de las modificaciones no
+sustanciales comunicadas, incorporando los condicionantes que deben regir para su implantación y funcionamiento.
+Cuarto.- Emitir una nueva autorización ambiental integrada de la industria de transformación de subproductos
+de origen animal titularidad de Grainto, S.L., ubicada en Portillo de Toledo (Toledo) como consecuencia de las
+modificaciones no sustanciales de la instalación, incorporando los condicionantes que deben regir para su
+implantación y funcionamiento, y que se adjunta como anexo a esta Resolución.
+Quinto.- La autorización ambiental integrada se otorga bajo las condiciones establecidas en el anexo, de obligado
+cumplimiento de acuerdo con el artículo 5 de la citada Ley de prevención y control integrados de la contaminación,
+sin perjuicio de que las referencias a normativa derogada se deban entender referidas a la normativa actualmente
+en vigor.
+Sexto.- La presente autorización ambiental integrada se otorga sin perjuicio del resto de autorizaciones y licencias
+que le resulten exigibles a la actividad.
+Contra la presente resolución, que no pone fin a la vía administrativa, puede interponerse recurso de alzada ante
+la persona titular de la Consejería de Desarrollo Sostenible, en el plazo de un mes desde el día siguiente al de
+su notificación, según lo establecido en el artículo 122 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, sin perjuicio de interponer cualquier otro que se considere
+procedente.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, la interposición de cualquier recurso
+administrativo puede realizarse a través de medios electrónicos. Para ello debe dirigirse a la página de la Sede
+Electrónica de la Junta de Comunidades de Castilla-La Mancha (www.jccm.es) y en el buscador de trámites indicar
+“recurso de alzada”, o bien seguir el correspondiente enlace directo: https://www.jccm.es/tramites/1003700.
+De acuerdo con dicha Ley, existen casos en los que la utilización de estos medios electrónicos es obligatoria, como
+las personas jurídicas, las entidades sin personalidad y las personas físicas que representen a las anteriores.
+Toledo, 2 de octubre de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37312
+Anexo
+Autorización ambiental integrada para la industria de transformación de subproductos de origen animal en Portillo de
+Toledo (Toledo), cuyo titular es Grainto,S.L.
+Expediente AAI-TO-042
+NIMA 4520759108
+1. Condiciones resolutorias.
+1.1. Condiciones de diseño básicas.
+A la entrada en vigor de los nuevos requisitos de explotación de la presente autorización, la empresa deberá dar
+cumplimiento a ciertos condicionados de diseño y documentales. Deberá notificarse al organismo competente la
+realización de las actuaciones previas señaladas en función de lo establecido particularmente en cada apartado.
+1.2. Condiciones de documentación.
+Residuos peligrosos y no peligrosos.
+Se cumplirá lo establecido en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminando para una economía
+circular, y normativa de desarrollo vigente, que vayan aprobándose en lo sucesivo.
+Seguro de responsabilidad medioambiental.
+La actividad está incluida en el nivel de prioridad 3 de la Orden ARM/1783/2011, de 22 de junio, por la que se
+establece el orden de prioridad y el calendario para la aprobación de las órdenes ministeriales a partir de la cuales
+será exigible la constitución de la garantía financiera obligatoria, previstas en la disposición final cuarta de la Ley
+26/2007, de 23 de octubre, de responsabilidad medioambiental. En particular se encuentra recogida en la categoría
+9.2 de su anexo I, relativo a las instalaciones para la eliminación o el aprovechamiento de carcasas o desechos de
+animales con una capacidad de tratamiento superior a 10 toneladas diarias.
+De acuerdo con lo establecido en la Orden TEC/1023/2019, de 10 de octubre, por la que se establece la fecha a
+partir de la cual será exigible la constitución de la garantía financiera obligatoria para las actividades del anexo III
+de la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental, clasificadas como nivel de prioridad 3,
+mediante Orden ARM/1783/2011, de 22 de junio, deberá disponerse de análisis de riesgos y garantía financiera de
+acuerdo con lo establecido en dicha Ley 26/2007 y el Real Decreto 2090/2008, en el plazo de dos años a contar
+desde el 16 de octubre de 2019.
+De acuerdo con lo establecido en la Ley 26/2007 de 23 de octubre, de Responsabilidad Medioambiental, quedará
+exenta de la obligación de constituir garantía financiera en caso de acreditar mediante la presentación de certificados
+expedidos por organismos independientes, que está adherida con carácter permanente y continuado, bien al sistema
+comunitario de gestión y auditoría medioambientales (EMAS), bien al sistema de gestión medioambiental UNE-EN-
+IASO 14001, siempre que la cuantía de la garantía financiera estimada a partir del análisis de riesgos sea inferior a
+la cantidad prevista en la Ley 26/2007 para acogerse a la citada exención.
+En consecuencia, en fecha, 18 de mayo de 2021, Grainto, S.L. presenta anexo IV establecimiento de una garantía
+financiera de 300.000,00€, que cubre los daños primarios estimados.
+Como consecuencia de las nuevas modificaciones que ahora se proponen, Grainto, S.L. deberá realizar un nuevo
+análisis de riesgos medio ambientales para valorar un posible incremento la cuantía de la garantía financiera, la
+cual deberá actualizarse anualmente en el porcentaje de variación que experimente el índice general de precios
+oficialmente publicado por el Instituto Nacional de Estadística.
+2. Condiciones de diseño.
+Esta autorización se concede para las instalaciones proyectadas, consistentes en la actividad de fabricación de
+harinas cárnicas y grasas a partir de subproductos de industrias cárnicas de categoría 3. De esta categoría, recogida
+en el artículo 10 del Reglamento 1069/2009, se excluyen subproductos de naturaleza líquida (sangre o leche) al no
+estar la instalación preparada para la recepción de dichos subproductos.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37313
+Los principales equipos e instalaciones involucrados en el proceso son los siguientes:
+- Báscula de camiones de 16 m x 3,3 m con capacidad de peso de 44 toneladas.
+- Dos fosos de recepción de producto crudo.
+- Tornillos sin fin para transporte de producto crudo a molinos.
+- Dos molinos trituradores de 30 mm 6 ton/h Haarslev.
+- Equipos de trasiego de residuo troceado a tolvas de almacenamiento.
+-Tolva de residuo triturado de acero inoxidable de capacidad 100 toneladas.
+- Tolva de residuo triturado de acero inoxidable de capacidad de 3 toneladas para alimentación a los digestores.
+- Digestor continuo marca Haarslev 1.200 US (4.200 Kg/h de capacidad de generación vahos) equipado con ciclón
+separación de partículas sólidas de los vahos.
+- Digestor continuo marca Haarslev 1.800 US (6.250 Kg/h de capacidad de generación vahos) equipado con ciclón
+separación de partículas sólidas de los vahos.
+- Digestor continuo modelo CC1800US Haarslev sin reductor.
+- Dos centrífugas decanters y bombas de trasiego.
+- Tres prensas (dos unidades de 4.500 kg/h) y bombas de trasiego.
+- Molino de martillos con tolva, tamiz y sinfines.
+- Elevador de cangilones de harinas cárnicas.
+- Dos silos para almacenamiento de harinas cárnicas.
+- Tres depósitos de acero inoxidable de 3 x 80 m³ para almacenamiento de grasas producidas para un máximo de
+72 horas.
+- Una planta satélite de GNL (gas natural licuado) con su depósito de almacenamiento criogénico de 120 m³ dotado
+de intercambiadores de calor de regasificación.
+- 2 Calderas de regasificación de GNL.(Ferroli Pegasus de 153 kW, modelo Prextherm RSW152N)
+- Estación de regulación y medida del gas natural a los distintos consumidores de gas natural.
+- Instalación receptora de gas natural con sus tuberías, válvulas y accesorios para la distribución del gas natural con
+las rampas de regulación de gas para cada consumidor de fábrica.
+- Una caldera pirotubular de vapor.
+- Una caldera pirotubular de doble cuerpo de vapor.
+- Un oxidador regenerativo, para eliminación de contaminantes de vahos de digestores de 1100 KW. (No sistemático)
+- Oxidador regenerativo (TRO-32) de 780 kW de potencia.
+- Un scrubber de lavado húmedo de aire viciado del interior de la nave de proceso para eliminación de contaminantes
+y olores con capacidad para 20.000 m³/h.
+- Tolva de recepción de crudos de 80 m³.
+- Sistema de tratamiento de agua de fábrica mediante flotación por aire disuelto DAF para separar las grasas y
+clarificar el efluente de fábrica con capacidad para 25 m³/día.
+- Planta de generación eléctrica mediante paneles solares fotovoltaicos de 300 kW nominales para autoconsumo de
+la fábrica.
+- Depósito de agua de alimentación para las calderas de vapor que tendrá carácter auxiliar.
+Los principales consumos de recursos para estas instalaciones serán:
+- Subproductos animales de categoría 3.
+- Energía eléctrica procedente de la red general y suministrada a través de dos centros de transformación de
+potencia 2 x 630 kVA.
+- Gas natural para el funcionamiento de las calderas de vapor, oxidador regenerativo.
+- Agua procedente de un sondeo situado en la parcela 49 del polígono 4 de Portillo de Toledo que dispone de
+concesión para uso industrial y para uso de riego de viñedos otorgada por la Confederación Hidrográfica del Tajo.
+Los productos obtenidos son los siguientes:
+- Grasa para consumo animal: 12.334.800 kg anuales (año 2019).
+- Harina para consumo animal: 9.162.400 kg anuales (año 2019).
+3. Condiciones de funcionamiento.
+3.1. Resumen del proceso.
+La instalación recibe subproductos cárnicos procedentes de mataderos y salas de despiece los cuales son
+transformados en la instalación a fin de valorizarlos generando grasas y harinas cárnicas las cuales tienen un valor
+económico como productos de alimentación animal.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37314
+Las materias primas procederán de distintos orígenes, pero siempre pertenecerán a la categoría 3 del Reglamento
+1069/2009.
+El sistema de producción combina el tratamiento por lotes y de modo continuo.
+Los procesos implicados en la fabricación son los siguientes:
+- Recepción y admisión.
+-Troceado y triturado
+-Tamizado y filtrado
+- Prensado.
+- Molino de harina
+- Refinado de grasas
+- Almacenamiento de grasas
+- Almacenamiento de harinas
+1. Recepción y admisión: La materia prima entra en camiones que pasan por un vado sanitario. La materia prima
+descargada en las tolvas pasa a través de tornillos sinfín a los equipos de troceado y triturado. A continuación, pasa
+al tanque de regulación que almacena la suficiente materia prima pretratada para alimentar al digestor.
+2. Pretratamiento (troceado y triturado): Se parte de material procedente de especies distintas de animales y de
+distinto tamaño para poder facilitar el tratamiento se trituran los restos cárnicos hasta que adquieran un tamaño
+máximo que se pueda tratar en los digestores Una vez triturada, la materia prima preparada para entrar en el
+proceso de producción se envía a una tolva de almacenamiento.
+3. Tratamiento: La materia prima troceada y triturada pasa al digestor, donde se calienta por acción de vapor
+saturado en circuito cerrado, a una temperatura interna superior a 100 ˚C durante un periodo mínimo de 16 minutos,
+a una temperatura interna superior a 110 ˚ durante un periodo mínimo de 13 minutos y a una temperatura interna
+superior a 130 ˚C durante un periodo mínimo de 3 minutos. Se dividirán los elementos constitutivos del residuo
+cárnico en tres productos: agua, chicharro y grasa. Los vahos del proceso térmico se envían al equipo Oxidor TRO
+(termodestructor regenerativo por oxidación) donde se trata el vaho mediante oxidación a 850º C durante al menos
+un tiempo de 2 segundos, para purificar los vapores de cocción del digestor, eliminando los COV´s (compuestos
+orgánicos volátiles) del proceso para disponer de unos efluentes gaseosos sin olores y contenido bajo permisible de
+contaminantes atmosféricos (HCl, HF, COV, SO2, NOx, CO). Tras el vaciado del digestor se produce una separación
+de la fase sólida (chicharro) y líquida (grasa). La grasa es enviada a las centrifugas y posteriormente a los tanques
+de almacenamiento. El chicharro es enviado a la zona de prensado.
+4. Separación: Los elementos producidos con valor nutritivo se someten a los siguientes procesos antes del
+almacenamiento: Grasas: las grasas salen del digestor mezcladas con los otros dos elementos, al tratase de una
+sustancia inmiscible se separa por filtración y posteriormente se centrifuga a fin de refinar la misma. Chicharro:
+se separará por filtración; posteriormente se someterá a prensado para que libere los líquidos retenidos (agua y
+grasa) y se producen sólidos que son enviados a la tolva para su paso final por el molino donde se tritura y tamiza
+almacenándose como harina en un silo de almacenamiento, del que se descargará a camiones para su distribución
+a los puntos de consumo de dicha harina. Los líquidos procedentes del chicharro son igualmente enviados a las
+centrifugas y posteriormente a los tanques de almacenamiento.
+5. Almacenamiento: En el caso de las grasas se realiza en depósitos inoxidables mientras que la harina resultante
+del chicharro se almacenará en un silo.
+3.2. Procesos de limpieza periódica de las instalaciones y los equipos.
+Se respetarán los requisitos de higiene estipulados en el Reglamento 1069/2009 del Parlamento Europeo y del
+Consejo de 21 de octubre de 2009 por el que se establecen las normas sanitarias aplicables a los subproductos
+animales no destinados al consumo humano.
+- Los vehículos que entran en la instalación serán desinfectados tras la descarga, las aguas de lavado se conducirán
+a unos canales cubiertos con rejilla, los cuales conducen al depósito de almacenamiento de líquidos.
+- Los subproductos animales y transformados se recogen y trasportan en vehículos y contenedores preparados para
+tal fin.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37315
+- Los vehículos y contenedores reutilizables, así como todos los elementos reutilizables del equipo o de los
+instrumentos que entren en contacto con subproductos animales o productos animales transformados, deberán
+mantenerse limpios, desinfectados y secos tras su utilización.
+- El establecimiento deberá contar con lo necesario para la limpieza y desinfección de contenedores y vehículos in
+situ para evitar riesgos de contaminación.
+- La planta contará con un badén de desinfección adecuado, para lavar y desinfectar los vehículos que entran y
+salen de la planta.
+- Las operaciones de limpieza del oxidador regenerativo se realizarán con 50% del caudal nominal de aire y otro
+tanto de aire fresco, elevando la temperatura de los paneles de malla cerámica por encima de 400 ºC hasta una
+temperatura máxima de 500 ºC durante el tiempo suficiente para que los condensados que se han depositado en la
+cerámica se quemen o se volatilicen de nuevo.
+Se procederá a la limpieza general de las instalaciones con la periodicidad necesaria.
+- Los residuos sólidos asimilables a urbanos serán almacenados en contenedores estándar y papeleras.
+- Se minimizará el consumo de productos que generen vertidos de residuos peligrosos.
+Se atenderá a lo dispuesto en el punto 3.4 de esta Resolución.
+3.3. Consumo de agua y energía.
+El titular de la instalación usará tecnología destinada al ahorro de agua y energía eléctrica.
+Las actuaciones respecto al ahorro de energía serán las siguientes:
+- Se instalarán sistemas de iluminación de bajo consumo.
+- Planificación de actividades para el aprovechamiento de la luz diurna.
+- Instalación de temporizadores.
+- Incorporación progresiva de fuentes de suministro eléctrico renovables (paneles solares fotovoltaicos) y térmicos
+de alta eficiencia (producción de agua y aire caliente).
+- Las actuaciones respecto al ahorro de agua serán las siguientes:
+- El consumo de agua se controlará a través de un contador general en la captación del sondeo y otro contador
+instalado en la línea de agua de riego de las viñas que rodean la fábrica. Se dispondrán de válvulas de corte y control
+necesarias para el correcto funcionamiento de los dos servicios.
+- Mantenimiento adecuado de las instalaciones.
+- Funcionamiento del sistema de recuperación de condensados SARC.
+- Se registrará el consumo de agua y se contrastará con el histórico de datos.
+3.4. Normativa sectorial.
+Se atenderá a lo dispuesto la normativa que se enumera a continuación o aquella que le sustituya:
+- Reglamento (CE) 1069/2009 del Parlamento europeo y del Consejo de 21 de octubre de 2009 por el que se
+establecen las normas sanitarias aplicables a los subproductos animales no destinados al consumo humano.
+- Real Decreto 476/2014 de 13 de junio, por el que se regula el Registro Nacional de movimientos de subproductos
+animales y los productos derivados no destinados a consumo humano.
+- Reglamento de la UE 142/2011, de la Comisión de 25 de febrero de 2011, por el que se establecen las disposiciones
+de aplicación del Reglamento (CE) 1069/2009 y la Directiva 97/78/CE del Consejo en cuanto a determinadas
+muestras y unidades exentas de los controles veterinarios en la frontera en virtud de la misma.
+- Real Decreto 1528/2012, de 8 de noviembre, por el que se establecen las normas aplicables a los subproductos
+animales y los productos derivados no destinados al consumo humano.
+- Reglamento (CE) 852/2004 por el que se establecen las normas de higiene relativas a los productos alimenticios.
+- Real Decreto (CE) 853/2004, por el que se establecen normas específicas de higiene de los alimentos de origen
+animal.
+- Real Decreto 1801/2003, sobre seguridad general de los productos.
+- Real Decreto 140/2003, por el que se establecen los criterios sanitarios de la calidad del agua de consumo humano.
+- Reglamento (CE) número 999/2001 del Parlamento Europeo y del Consejo, de 22 de mayo de 2001, por el
+que se establecen disposiciones para la prevención, el control y la erradicación de determinadas encefalopatías
+espongiformes transmisibles.
+- Decreto 52/2002, de entidades formadoras de manipuladores de alimentos.
+- Real Decreto 202/2000, por el que se establecen las normas relativas a los manipuladores de alimentos.
+- Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de
+prevención y control integrados de la contaminación.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37316
+- Real Decreto 815/2013 por el que se aprueba el reglamento de emisiones industriales.
+- Directiva 2010/75/UE, de 24 de noviembre, sobre las emisiones industriales (prevención y control integrados de la
+contaminación).
+De manera concreta se cumplirá con lo establecido a continuación.
+Condiciones de temperatura y presión durante la transformación del subproducto:
+- Se dispondrá de un equipo de medición para controlar la evolución de la temperatura a lo largo del tiempo en los
+puntos críticos, mediante instrumentos que registren de forma continua los resultados de esas mediciones y un
+sistema de seguridad para evitar un calentamiento insuficiente.
+- Tras el triturado de los subproductos animales, se aplica el método térmico para esterilización y deshidratación
+para lo cual se deberá calentar a temperatura interna superior a 100 ºC durante un periodo mínimo de 16 minutos,
+a una temperatura interna superior a 110 ºC durante un periodo mínimo de 13 minutos y a una temperatura interna
+superior a 130 ºC durante un periodo mínimo de 3 minutos.
+- La transformación puede llevarse a cabo mediante un sistema de presión continua o discontinua.
+Respecto a la limpieza de las instalaciones y vehículos:
+- Se contará con un sector limpio y otro sucio, convenientemente separados. El sector sucio contará con un lugar
+cubierto para recibir los subproductos y estará construido de manera que sea fácil de limpiar y desinfectar.
+- Los suelos estarán construidos de forma que faciliten la evacuación de los líquidos. Dispondrá de servicios,
+vestuarios y lavabos adecuados para el personal.
+- El material a transformar será de categoría 3, excluyéndose subproductos de naturaleza líquida y los derivados del
+pescado, al no contar las instalaciones con infraestructura para el almacenamiento y tratamiento de ese tipo de productos.
+- Los subproductos animales y los productos transformados deberán recogerse y transportarse en envases nuevos
+sellados o contenedores herméticos.
+- Los vehículos, contenedores y elementos reutilizables deberán limpiarse y desinfectarse después de cada
+utilización, mantenerse en estado de limpieza y limpiarse y secarse antes de usar.
+- Los contenedores reutilizables deberán dedicarse al transporte de un solo producto siempre que sea necesario
+para evitar la contaminación de un producto por otro.
+Respecto a la conservación de los subproductos:
+- El transporte de subproductos deberá efectuarse a una temperatura adecuada al objeto de evitar riesgos para la
+salud animal o para la salud pública.
+- El material sin transformar que se destine a la elaboración de piensos o alimentos para animales domésticos
+deberá transportarse refrigerado o congelado excepto en el caso de que se transforme dentro de las 24 horas
+siguientes a su salida.
+- Los vehículos destinados al transporte refrigerado deberán estar diseñados de tal manera que pueda mantenerse
+la temperatura requerida durante toda la duración del transporte.
+3.5. Contaminación atmosférica.
+3.5.1 Focos 1 y 2. Calderas de regasificación del gas natural
+Se dispone de dos calderas iguales asociadas a la regasificación del gas natural, de las siguientes características:
+a) Potencia calorífica sobre PCS: 186,5 kW.
+b) Potencia térmica útil: 153 kW.
+c) Combustible: gas natural
+d) Chimenea salida de gases:
+- Altura total desde el suelo: 3.79 m
+- Diámetro interno: 10 cm
+Valores límite de emisión de contaminantes atmosféricos a cumplir:
+Contaminantes Límite (*)
+CO 625 mg/Nm³
+NOx 615 mg/Nm³
+(*) Los límites de emisión de contaminantes a la atmósfera se entienden a un porcentaje de oxígeno referencia de
+3%, en condiciones normales y gas seco.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37317
+3.5.2 Focos 3: Caldera de vapor principal (Foco 4: Motor de combustión interna de la planta de cogeneración
+desmantelado)
+Se cuenta con una caldera mixta de recuperación de tipo pirotubular para el aprovechamiento de los gases de
+escape del motor para la generación de vapor de agua, con las siguientes características:
+- Potencia térmica: 4480 kW + 475 kW (6700 kg/h vapor cuerpo quemador + 640 kg/h vapor cuerpo recuperación
+gases de motor.
+- Potencia del quemador: 581-5814 kW.
+- Combustible: gas natural cuerpo quemador y gas de escape de motor de combustión interna(baja).
+Los gases son evacuados por dos chimeneas de las siguientes características:
+a) Chimenea salida gases motor:
+- Altura total desde el suelo: 10.47 m
+- Diámetro interno: 50 cm
+b) Chimenea salida quemador:
+- Altura total desde el suelo: 10.70 m
+- Diámetro interno: 70 cm
+Valores límite de emisión de contaminantes atmosféricos a cumplir:
+Límite
+Contaminantes
+Quemador (*) Gases motor (**)
+CO 100 mg/Nm³ 650 mg/Nm³
+NOx 200 mg/Nm³ 500 mg/Nm³
+(*)Los límites de emisión de contaminantes a la atmósfera se entienden a un porcentaje de oxígeno referencia de
+3 %, en condiciones normales y gas seco.
+(**)Los límites de emisión de contaminantes a la atmósfera se entienden a un porcentaje de oxígeno referencia de
+5 %, en condiciones normales y gas seco.
+3.5.3 Foco 5. Caldera de vapor (reserva)
+- Potencia térmica: 6700 kW (10000 kg/h vapor).
+- Potencia del quemador: 1395 – 8140 kW.
+- Combustible: gas natural.
+Dispondrá de una chimenea para la toma de muestras de las siguientes características:
+- Altura: 10 m
+- Diámetro interior: 70 cm
+Valores límite de emisión de contaminantes atmosféricos a cumplir.
+Contaminantes Límite (*)
+CO 100 mg/Nm³
+NOx 200 mg/Nm³
+(*) Los límites de emisión de contaminantes a la atmósfera se entienden a un porcentaje de oxígeno referencia de
+3 %, en condiciones normales y gas seco.
+3.5.4 Foco 6 (oxidador termodestructor TRO) y Foco 7 (equipo de lavado húmedo de aire viciado del interior de la
+nave de proceso)
+Estos equipos tienen un funcionamiento no sistemático y ocasional, encontrándose destinados a actuaciones
+puntuales, de apoyo o de emergencia.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37318
+El Foco 6 es un oxidador termodestructor regenerativo por oxidación (TRO) de marca: Haarslev, modelo: TRO20S
+con quemador Eclipse TJ/500 y una potencia térmica de 1.00 kW.
+El Foco 7 consiste en un equipo de tratamiento del aire de las naves de proceso para eliminar olores y compuestos
+orgánicos volátiles, mediante vía húmeda en dos fases, con capacidad para 20.000 m³/h que consta de venturí, ciclón
+para una primera eliminación de partículas, scrubber para lavado de gases mediante aspersión a contracorriente
+con solución de sosa y lejía.
+Para eliminación de olores y contaminantes procedentes del aire de la nave de proceso se dispone un equipo de
+lavado químico de dos etapas de las siguientes características:
+- Capacidad de tratamiento de aire contaminado: 20.000 m³/h.
+- Equipos: venturí, ciclón, bomba de 40 m³/h y 7,5 kW de potencia, ventilador de 30 kW de potencia, scrubber de
+1600 mm de diámetro y 5,515 metros de altura, depósito y bomba dosificadora de reactivo NaOH de 120 W, depósito
+y bomba dosificadora de reactivo NaClO de 120 W.
+Dispondrá de una chimenea para la toma de muestras de las siguientes características:
+- Altura chimenea: 15 m.
+- Diámetro: 70 cm.
+Los valores límite de emisión de contaminantes en los gases de escape de este foco serán los siguientes:
+Contaminantes Límite (*)
+CO 100 mg/Nm³
+NOx 200 mg/Nm³
+SO2 50 mg/Nm³
+COT 10 mg/Nm³
+HCl 10 mg/Nm³
+HF 10 mg/Nm³
+Para la realización de las mediciones deben mantenerse las siguientes condiciones:
+- Temperatura mínima de los gases de combustión 850 ºC.
+- Tiempo de residencia mínimo 2 segundos
+- Carga máxima.
+La frecuencia mínima de monitorización de las emisiones a la atmósfera una vez al año.
+3.5.5 Foco 8. Oxidador regenerativo (RTO-32)
+La instalación genera vapores de evacuación los cuales tienen aproximadamente 90 % de vapor de agua, 10 % de
+vapores incondensables de proceso y elementos volátiles orgánicos y trazas.
+Los gases se evacuan mediante una tubería al oxidador regenerativo.
+Los objetivos del sistema oxidador son la eliminación de los vapores incondensables y de las aguas generadas en
+el baldeo de las tolvas y otros elementos de la planta, mediante incineración.
+Las características técnicas del equipo son las siguientes:
+- Quemador: Eclipse RJ/500.
+- Potencia instalada: 780 kW.
+- Caudal aire de proceso: 10.000 m³/h./ 41ºC
+- Vahos de proceso: 14000 kg/h./100ºC
+- Temperatura de oxidación: 850-950 ºC.
+- Temperatura máxima: 950 ºC
+- Combustible: gas natural.
+- Máxima potencia del quemador: 780kW.
+- Rendimiento térmico: 94%.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37319
+Dispondrá de una chimenea para la toma de muestras de las siguientes características:
+- Altura chimenea: 12 m.
+- Diámetro: 1 m.
+La chimenea contará con acondicionamiento para la toma de muestras de acuerdo a lo establecido en la Orden
+de 18-10-1976 sobre la prevención y corrección de la contaminación industrial de la atmósfera y normativa de
+desarrollo vigente, que vayan aprobándose en lo sucesivo.
+El equipo se integrará en el sistema de control de la planta empleando una aplicación que funciona en continuo,
+controlando la temperatura, la situación de las válvulas, ventilador de tiro inducido de vahos y el mantenimiento de
+las condiciones estipuladas del equipo de oxidación.
+Los valores límite de emisión de contaminantes en los gases de escape de este foco serán los siguientes:
+Contaminantes Límite (*)
+CO 30 mg/Nm³
+NOx 200 mg/Nm³
+SO2 100 mg/Nm³
+COT 10 mg/Nm³
+HCl 10 mg/Nm³
+HF 10 mg/Nm³
+(*) Valores límite referidos oxígeno real medido.
+En caso de necesidad por rotura o avería, se mantendrá el oxidador regenerativo TRO (antiguo) como equipo no
+sistemático, para casos de emergencias de avería en el oxidador titular. Las características técnicas del equipo son
+las siguientes:
+- Quemador: Eclipse RJ/500.
+- Potencia instalada: 1100 kW.
+- Aire de proceso: 10.000 kg/h.
+- Vahos de proceso: 6000 kg/h.
+- Temperatura de oxidación: 850-950 ºC.
+- Temperatura máxima: 950 ºC
+- Combustible: gas natural.
+- Consumo de combustible: 25,6 Nm³/h.
+- Máxima potencia del quemador: 1100 kW.
+- Rendimiento térmico: 95%.
+Partículas sólidas.
+El patio de maniobras, los viales interiores y el vial de acceso estarán acondicionados para el paso de vehículos
+pesados y se mantendrán en perfecto estado.
+Ciclones del proceso de trituración:
+Existen ciclones dispuestos a la salida de los digestores que recogerán los sólidos que pudieran arrastrar los vahos.
+La función de estos ciclones es la decantación de los sólidos arrastrados por los vahos de los digestores. Dichos
+sólidos se reincorporan al proceso.
+Prevención de olores.
+Se implantarán las siguientes medidas correctoras y/o preventivas encaminadas a asegurar su adecuada gestión en
+la prevención de generación de olores:
+- Se observará todo lo referido sobre limpieza y desinfección de las instalaciones, del punto 3.2 de la presente
+Resolución.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37320
+- El oxidor se mantendrá en todo momento, en perfectas condiciones de mantenimiento. En caso de no poder contar
+con el mismo por fallos o avería, se evitará poner en marcha etapas del proceso que conlleven la producción de
+vahos e incondensables.
+- Se planearán los itinerarios de transporte de las materias primas y productos de forma que se evite el paso por
+núcleos urbanos o zonas sensibles (uso recreativo, espacios protegidos, etc.)
+- Se evitarán puntos de acumulación de basuras incontrolados fuera de las instalaciones.
+Focos Potencia térmica Mediciones
+Foco número 1. Caldera de producción
+de agua caliente para regasificación del 153 kW Cada 5 años
+GNL
+Foco número 2. Caldera de producción
+de agua caliente para regasificación del 153 kW Cada 5 años
+GNL
+Foco número 3. Caldera de vapor 4.480 kW + 475 kW (6.700 kg/h cuerpo quemador + 640
+Cada 2 años
+principal kg/h vapor cuerpo recuperación gases de motor)
+Potencia térmica: 6.700 kW (10.000 kg/h vapor).
+Foco número 5. Caldera de vapor de
+Quemador RAY BGE 700 Modulante. Potencia 1.395- Cada 2 años
+reserva
+8.140 kW
+Foco número 6. Oxidador: termodestructor No Procede
+1.100 kW (no sistemático)
+regenerativo por oxidación (TRO) (*). De reserva
+Foco número 7. Equipo scrubber de
+lavado húmedo de aire viciado del interior Capacidad: 20.000 m³/h No Procede
+de la nave de proceso para eliminación (no sistemático) (*). De reserva
+de contaminantes COT y olores
+780kW. Eliminación de los COV´s en vapores
+Foco número 8. Oxidador regenerativo
+incondensables y de las aguas generadas en el baldeo Anual
+RTO-32
+de las tolvas y otros elementos de la planta
+(*) No será necesario la realización de mediciones en focos de emisiones no sistemáticos, siempre que la duración
+global de las emisiones sea superior al 5 por 100 del tiempo de funcionamiento de la planta. En caso de Superarse,
+se deberán realizar mediciones y los focos serán sistemáticos.
+Se realizarán mediciones reglamentarias de emisión de gases de combustión cada cinco años en las calderas
+de regasificación (Focos 1 y 2) y cada dos años en el foco de la caldera de recuperación (Foco 3) y en la caldera
+de vapor (Foco 5). En el oxidador se llevarán a cabo mediciones reglamentarias anualmente y autocontroles con
+periodicidad anual de los siguientes contaminantes a la atmósfera: gases de combustión, COT, HF y HCl.
+Para aquellos focos en los que no se supere el 5% de operación anual, es decir que los procesos de los que proceden
+se utilicen esporádicamente, se podrá solicitar de manera justificada, la exención en las mediciones reglamentarias.
+Las mediciones se realizarán siguiendo los criterios establecidos en las correspondientes instrucciones técnicas
+contenidas en la Orden de 30-04-2002, de la Consejería de Agricultura y Medio Ambiente, por la que se regulan
+el trámite de notificación y determinados aspectos de la actuación de los organismos de control autorizados en el
+ámbito de calidad ambiental, área de atmósfera.
+3.6. Control y evaluación de la contaminación acústica.
+Se establecen los siguientes niveles de ruido medidos en los límites de la parcela.
+Día: 70 L
+Keq
+Tarde: 70 L
+keq
+Noche: 60 L
+keq
+L : índice de ruido corregido del periodo temporal indicado. Índice de ruido asociado a la molestia, o a los efectos
+keq
+nocivos o por la presencia en el ruido de componentes tonales emergentes, componentes de baja frecuencia y ruido
+de carácter impulsivo durante el tiempo indicado.
+Los períodos de tiempo día, tarde y noche son lo que se establecen en el Real Decreto 1513/2005 y el Real Decreto
+1371/2007.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37321
+Los métodos de medida utilizados deben cumplir los principios aplicables a las mediciones para evaluar niveles de
+ruido en determinados períodos temporales de referencia expuestos en las normas ISO 1996-1e ISO 1996-2.
+Cada vez que sea requerido por la administración o se instalen nuevos equipos generadores de ruido en la fábrica (tres
+años) se realizará un estudio de impacto acústico de la actividad, tanto en periodo diurno como nocturno, en aquellos
+puntos del exterior de las instalaciones que se consideren representativos, de forma que se asegure el cumplimiento
+de la normativa en materia de contaminación acústica, contados a partir de la publicación de la presente resolución.
+Se implantarán las siguientes medidas correctoras para evitar superar los límites impuestos por la presente
+autorización:
+- Planificación de las actividades discontinuas (entradas y salidas de camiones, tareas de mantenimiento, etc.)
+se realizarán en horario diurno, principalmente por la mañana y se reducirán al mínimo imprescindible las tareas
+durante el fin de semana.
+- Instalación de elementos atenuadores de ruido en diversos equipos: silenciadores, encapsulamiento y aislamientos
+acústicos en los recintos de los motores.
+En cualquier caso, en materia de emisión sonora, se dará cumplimiento a lo que establezca el Ayuntamiento de
+Portillo de Toledo, como órgano competente en este ámbito.
+3.7. Efluentes líquidos.
+Aguas sanitarias.
+Las aguas sanitarias se canalizarán a una fosa séptica estanca desde donde serán retiradas, con la periodicidad
+necesaria, por un gestor de residuos autorizado.
+Aguas de limpieza y purga de calderas.
+Los efluentes de limpieza generadas por el baldeo de contenedores de vehículos, tolvas y otros elementos de la
+planta, así como las purgas de calderas, se recogerán en la red de evacuación de la planta que serán canalizadas
+a la fosa séptica previo tratamiento separador de la grasa.
+Posteriormente son enviadas a los digestores para su evaporación y los vahos pasarán al oxidador térmico para
+eliminar contaminantes atmosféricos. También podrán ser recogidas por un gestor autorizado, junto con el resto de
+los efluentes.
+3.8. Prescripciones para la protección de suelos y aguas subterráneas.
+La actividad desarrollada es susceptible de generar un impacto en el suelo y las aguas subterráneas de la zona
+debido, principalmente, al almacenamiento, transporte y manipulación de subproductos animales.
+Deberá garantizarse el hormigonado o asfaltado de todas aquellas zonas susceptibles de quedar afectadas por
+vertidos en actividades de mantenimiento, almacenamiento, limpieza y desinfección de instalaciones.
+La actividad deberá disponer de los medios necesarios para que se proceda a la realización de las siguientes
+acciones encaminadas a la prevención de la contaminación de suelos y aguas subterráneas:
+- Se prohibirá la realización de actividades de mantenimiento o limpieza de equipos en aquellas zonas que, por no
+encontrarse habilitadas para ello, puedan provocar contaminación de aguas pluviales o de suelo sin protección.
+- Se dispondrá de los medios técnicos y materiales necesarios que aseguren una rápida intervención sobre cualquier
+vertido accidental, actuando sobre el foco de vertido, así como sobre su propagación y posterior recogida y gestión.
+- Se realizará una revisión periódica de las instalaciones con el fin de observar posibles fugas, nombrando un
+responsable del seguimiento de las revisiones.
+Lo aquí dispuesto se establece sin perjuicio de los requisitos que, para los ámbitos regulados, se establezcan en las
+instrucciones técnicas aplicables sobre almacenamiento de productos químicos, así como en la Orden de 21-01-03
+de la Consejería de Agricultura y Medio Ambiente, por la que se regulan las normas técnicas que deben cumplir los
+almacenes y las instalaciones de transferencia de residuos peligrosos, así como lo establecido en la normativa de
+desarrollo vigente, que vaya aprobándose en lo sucesivo.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37322
+3.9. Residuos.
+Gestión de subproductos animales no destinados a consumo humano (Sandach).
+En la instalación se reciben subproductos cárnicos procedentes de mataderos y salas de despiece los cuales son
+transformados en la instalación a fin de valorizarlos generando grasas y harinas cárnicas, se trata de subproductos
+animales no destinados al consumo humano (Sandach), correspondientes a las categoría 3, de acuerdo con la
+clasificación establecida por el Reglamento (CE) número 1069/2009 del Parlamento Europeo y del Consejo de
+21 de octubre de 2009 por el que se establecen las normas sanitarias aplicables a los subproductos animales y
+los productos derivados no destinados al consumo humano y por el que se deroga el Reglamento (CE) número
+1774/2002 (Reglamento sobre subproductos animales).
+Se llevará a cabo un procedimiento de manipulación, almacenamiento, aprovechamiento o en su caso, eliminación, y
+registro determinado para este tipo de subproductos, siempre cumpliendo con lo establecido en dichos Reglamentos.
+El tratamiento de los subproductos de origen animal se realizará mediante el método térmico de transformación
+indicado en el Reglamento (CE) número 1069/2009, produciéndose la esterilización y deshidratación mediante
+digestión (cocción) del material en digestores en las condiciones indicadas en el punto 3.1.
+Producción y gestión de residuos no peligrosos.
+La única operación de gestión de residuos no peligrosos que podría llevarse a cabo en la planta es la de valorización
+agrícola de los lodos procedentes de la depuración de las aguas residuales, según establece el capítulo IX del anexo
+II del Reglamento CE 1774/2002. En la documentación aportada no se establece tal procedimiento, en cambio se
+propone la cesión de los efluentes líquidos (en caso de generarse y almacenarse) a gestor externo autorizado para
+su depuración en filtro verde. En este último caso tendría que solicitarse la autorización de vertido correspondiente
+ante la Confederación Hidrográfica del Tajo.
+Las cantidades estimadas de residuos a producir son las siguientes:
+Efluentes líquidos pretratados: aproximadamente 5000 m³/ año
+Residuos asimilables a urbanos: papel, cartón y plásticos, aproximadamente 200 Tn/año.
+Orgánicos compostables: no especificada
+Harinas desechadas: no especificada
+Los residuos potencialmente valorizables, reutilizables o reciclables, deberán ser destinados a este fin, para ello el
+titular deberá entregar estos residuos a gestores autorizados cuando en el centro no se les pueda dar el destino más
+acorde con la protección ambiental.
+Al tratarse de una zona declarada vulnerable a la contaminación por nitratos de origen agrario, si se opta por la gestión
+de los lodos procedentes de la depuración de los efluentes por la propia planta, se deberá remitir a la Dirección
+General competente un Plan de gestión de residuos empleado como fertilizante; con periodicidad anual para la ficha
+de fertilización y quinquenal, como mínimo, para el Plan. Además de este documento sería necesaria la remisión
+de un informe agronómico que justifique analíticamente las propiedades beneficiosas como fertilizante y que no
+superan las cantidades de metales pesados, nutrientes y otros contaminantes que pudieran afectar negativamente
+a la calidad de los suelos y de las aguas.
+Producción de residuos peligrosos.
+Los residuos que se producen se detallan a continuación:
+Descripción del residuo Código LER
+Aceites minerales no clorados de motor, de transmisión mecánica y lubricantes 13 02 05*
+Filtros de aceite 16 01 07*
+Absorbentes, materiales de filtración, trapos de limpieza y ropa protectoras contaminados por
+15 02 02*
+sustancias peligrosas
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37323
+Envases de papel y cartón 15 01 01
+Envases de plástico 15 01 02
+Residuos orgánicos inadecuados para el consumo o la elaboración 02 02 03
+Durante el desarrollo de su actividad deberán respetar las siguientes condiciones:
+a) Dentro de la explotación no se realizarán operaciones de mantenimiento de vehículos que conlleven la generación
+de residuos peligrosos.
+b) Los residuos peligrosos se envasarán y etiquetarán con estricta sujeción a lo establecido en el artículo 21 de
+la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados, así como a lo dispuesto en el Reglamento (UE)
+número 1357/2014 de la Comisión de 18 de diciembre de 2014 por el que se sustituye el anexo III de la Directiva
+2008/98/CE del Parlamento Europeo y del Consejo, sobre los residuos.
+c) Cualquier incidencia que se produzca durante su generación, almacenamiento o gestión: desaparición, pérdida o
+escape de residuos peligrosos, deberá ponerse en conocimiento de la Dirección General competente.
+d) Se dispondrá de un almacén para residuos peligrosos de acuerdo con lo establecido en la Orden de 21-01-2003
+de la Consejería de Agricultura y Medio Ambiente, por la que se regulan las normas técnicas que deben cumplir los
+almacenes y las instalaciones de transferencia de residuos peligrosos.
+e) Los residuos peligrosos no quedarán almacenados por un tiempo superior a los seis meses. En caso contrario
+deberán solicitar, a la Dirección General competente, una prórroga del almacenamiento que, en total, no superará
+un año.
+f) No se hará entrega de ninguna de las categorías de residuos especificadas a un gestor o recogedor-transportista
+no autorizado por la Comunidad Autónoma. De igual manera, la entrega no se podrá realizar sin estar en posesión
+del documento de aceptación del gestor destinatario.
+g) Deberá registrar y conservar en archivo los documentos de aceptación y los documentos de control y seguimiento
+o justificantes de entrega durante un período no inferior a cinco años, de acuerdo a lo establecido en el artículo 16 del
+Real Decreto 833/1998, con el contenido que determina el artículo 17 del Real Decreto 833/1998 y la modificación
+introducida por el artículo único del Real Decreto 952/97:
+- Cantidad de los residuos generados.
+- Naturaleza e identificación.
+- Operaciones y tratamientos realizados y fechas de los mismos.
+- Fechas de generación y cesión.
+- Frecuencias de recogida y medio de transporte.
+h) Respetará el resto de obligaciones previstas en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados
+para una economía circular.
+3.10. Funcionamiento en condiciones transitorias.
+- Se establecerán los procedimientos y medios técnicos necesarios que permitan una actuación eficaz en caso de
+vertidos accidentales, incluyendo aquellos aspectos para el control del vertido y la corrección del foco, prevención de
+la transferencia de contaminación a otros medios y medidas posteriores de descontaminación e información. En este
+punto se tendrá especial cuidado en identificar aquellos focos potenciales de vertido que pudieran afectar a aguas
+pluviales o suelos sin protección.
+- Las actuaciones para la gestión y transporte interno de residuos estarán a cargo de personal debidamente entrenado
+y autorizado para ello, que dispondrá de los medios técnicos suficientes para garantizar la correcta actuación en
+caso de una eventualidad.
+- Deberá disponerse de un stock suficiente de medios materiales para la lucha contra la contaminación.
+- Se establecerá un protocolo para el mantenimiento preventivo de todos los sistemas de depuración, corrección y
+prevención de emisiones, vertidos y derrames, asegurando la máxima reducción en la generación de situaciones
+ocasionadas por un mal funcionamiento de estos medios.
+- Durante las paradas del centro productivo para la realización de trabajos de mantenimiento y limpieza, deberán
+contemplarse los principios establecidos en el punto asegurándose, en todo momento que se cumplen las
+prescripciones sobre control y seguimiento de vertidos de las instalaciones.
+En cualquier caso, el titular de la instalación guardará registro de aquellas anomalías detectadas o producidas en el
+funcionamiento normal descrito de las instalaciones, presentando un análisis detallado de las mismas en el informe
+anual.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37324
+3.11. Plan de mantenimiento general.
+Además de las medidas de mantenimiento indicadas en el proyecto básico de la instalación, se tendrán en cuenta,
+muy especialmente, los siguientes puntos:
+- Las incidencias serán registradas en el ordenador que controla el proceso de la instalación.
+- Detección y reparación de fugas de agua.
+- Para controlar el proceso en el digestor se contará con un ordenador en la sala de control que mide temperatura
+en su interior, mediante sonda instalada en diversos puntos del propio digestor.
+- Se vigilarán e implantarán las medidas correctoras adecuadas para prevenir riesgos sanitarios.
+- El consumo de agua se registrará a diario. Además, existirán registros mensuales para el consumo de agua,
+energía eléctrica, gas natural, etc.
+- La elección de los aparatos y motores instalados en la explotación se harán teniendo en cuenta el menor nivel de
+ruido de los mismos.
+- La estructura, el cerramiento y las cubiertas y estructuras de soporte de las instalaciones serán revisados con
+periodicidad.
+- Se realizará una limpieza en los puntos que hayan sufrido derrames o fugas tanto de fluidos de proceso como
+aquellos propios de las instalaciones (vapor, agua, etc.)
+- Se realizará inspección visual de los equipos, aislamientos y regulación de las instalaciones.
+- Periódicamente se comprobará el estado de la regulación, el buen funcionamiento de las sondas de temperatura y
+de los equipos de generación (cargas de gas, presiones de agua, etc.)
+3.12. Situaciones de emergencia.
+- Ante las situaciones en las que no se puedan cumplir las condiciones de tratamiento en los digestores o aquellas
+en las que las líneas de trasvase estuvieran rotas o con los elementos de impulsión fuera de servicio, se produciría
+una parada inmediata de la instalación para proceder a su reparación.
+- En caso de demora en la puesta en marcha, se procederá a remitir las materias primas recibidas o pendientes de
+recibir a otras empresas de gestión de los residuos.
+- Se disponen de planes de actuación en emergencia para las distintas situaciones de emergencia que pudieran
+tener en la planta.
+- Se realizarán simulacros y acciones formativas para comprobar que los planes de emergencia se pueden llevar a
+la práctica y son entendidos por el personal, y que los medios de emergencia de los que dispone la empresa serían
+suficientes en cada caso.
+3.13. Otros condicionantes relevantes.
+Dentro de la utilización de sistemas de seguridad contra incendios y detección de fugas para reducir el riesgo de
+incendios dentro de las instalaciones, no se podrán utilizar sistemas de extinción que contengan sustancias incluidas
+dentro del Reglamento (CE) 2037/2000 del Parlamento Europeo y del Consejo, de 29 de junio de 2000, sobre las
+sustancias que agotan la capa de ozono.
+Durante los tres primeros meses de cada año, la empresa elaborará un informe anual que recogerá un estudio
+completo de la evaluación de sus aspectos ambientales durante el ejercicio anual anterior, para ser remitido a la
+Dirección General de Evaluación Ambiental.
+Dicho informe desarrollará, como mínimo, los siguientes contenidos:
+- Descripción de los parámetros generales de funcionamiento y producción del centro productivo: consumo de
+recursos naturales y combustibles, producción anual, principales operaciones de mantenimiento de procesos
+realizadas, descripción de incidencias y modos de funcionamiento transitorio del proceso, etc.
+- Resumen de los resultados obtenidos en los controles de las emisiones a la atmósfera.
+- Estudio de volúmenes de residuos generados, ratios de producción alcanzados, incidencias presentadas en la
+gestión interna y medidas correctoras adoptadas.
+- Evaluación del cumplimiento de los requisitos ambientales establecidos en la presente autorización y medidas
+correctoras adoptadas.
+La actividad está inscrita en el registro E-PRTR Castilla-La Mancha con el número EPER-TO-239, por lo que
+está obligado a comunicar a la Dirección General competente sus emisiones contaminantes en el periodo que se
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37325
+establezca el año posterior al de los datos a notificar, en aplicación del Real Decreto 508/2007, de 20 de abril, por
+el que se regula el suministro de información sobre emisiones E-PRTR. El informe anual quedará incluido en dicha
+notificación de datos.
+El tratamiento y gestión de los residuos irá encaminado a la recuperación de componentes útiles mediante
+recuperación o regeneración. En aquellos casos en los que, de forma puntual, o por condicionantes propios del
+residuo, el mismo no pudiese destinarse a la recuperación o reciclaje, se optará por el tratamiento físico químico, el
+aprovechamiento energético y, en último lugar, la deposición en vertedero controlado. En cualquiera de estos últimos
+casos la empresa deberá comunicar y justificar la solución adoptada.
+El centro productivo deberá atender a los siguientes condicionantes de funcionamiento que permitan la reducción de
+sus impactos ambientales en aquellos modos de funcionamiento considerados anómalos:
+- Se establecerán los procedimientos y medios técnicos necesarios que permitan una actuación eficaz en caso de
+vertidos accidentales, incluyendo aquellos aspectos para el control vertidos y la corrección del foco, prevención de
+la transferencia de contaminación a otros medios y medidas posteriores de descontaminación e información. En este
+punto se tendrá especial cuidado en identificar aquellos focos potenciales de vertido que pudieran afectar a aguas
+pluviales o suelos sin protección.
+- Deberá disponerse de sistemas automáticos para el seguimiento y control del proceso en aquellos parámetros
+a supervisar en los funcionamientos anómalos, así como en los arranques y paradas de procesos: dosificación
+de combustibles, temperaturas, presiones, densidades de carga, etcétera, guardando registro de las anomalías
+detectadas y de las acciones llevadas a cabo.
+- Las actuaciones para la gestión y transporte interno de residuos estarán a cargo de personal debidamente entrenado
+y autorizado para ello, que dispondrá de los medios técnicos suficientes para garantizar la correcta actuación en
+caso de una eventualidad.
+- Deberá disponerse de un stock suficiente de medios materiales para la lucha contra la contaminación incluyendo el
+material necesario para el cambio de filtros y mantenimiento de los sistemas de depuración, corrección y retención
+de derrames, medios de protección, etc.
+- Se establecerá un protocolo para el mantenimiento preventivo de todos los sistemas de depuración, corrección y
+prevención de emisiones, vertidos y derrames, asegurando la máxima reducción en la generación de situaciones
+ocasionadas por un mal funcionamiento de estos medios.
+- Durante las paradas del centro productivo para la realización de trabajos de mantenimiento y limpieza, deberán
+contemplarse medidas correctoras asegurándose, en todo momento que se cumplen las prescripciones sobre
+control y seguimiento de vertidos de las instalaciones.
+Los productores y gestores de residuos utilizaran el programa informático de intercambio de datos ambientales
+(INDA), para darse de alta como productores de residuos, así como para incluir o eliminar los códigos LER.
+De igual forma, se utilizará la plataforma INDA para consultar el registro de las emisiones, indicado en el artículo
+8 del Real Decreto 100/2011, de 28 de enero, por el que se actualiza el catálogo de actividades potencialmente
+contaminadoras de la atmósfera.
+Podrá acceder a la aplicación telemática INDA a través del siguiente enlace:
+http://agricultura.jccm.es/comunes
+Previamente deberá solicitar usuario y contraseña a través del servicio “contactar” de la oficina virtual de la Dirección
+General de Calidad Ambiental, en el siguiente vínculo (apartado “calidad ambiental”):
+https://agricultura.jccm.es/ova
+4. Condiciones de cierre, clausura y desmantelamiento.
+Cese temporal de la actividad.
+El titular de la autorización ambiental integrada deberá presentar una comunicación previa al cese temporal de la
+actividad ante esta Dirección General. En caso de tener varias actividades autorizadas indicará en cuál de ellas se
+produce aquel.
+La duración del cese temporal de la actividad no podrá superar los dos años desde su comunicación.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37326
+Durante el periodo en que una instalación se encuentra en cese temporal de su actividad o actividades, el titular:
+a) Deberá cumplir con las condiciones establecidas en la presente autorización ambiental integrada que le sean
+aplicables.
+b) Podrá reanudar la actividad de acuerdo con las condiciones de la autorización, previa presentación de una
+comunicación a esta Dirección General.
+c) Podrá realizar el cambio de titularidad de la instalación o actividad previa comunicación a esta Dirección General;
+el nuevo titular continuará en las mismas condiciones de la autorización ambiental integrada en vigor, de manera que
+no será considerada como nueva instalación.
+Condiciones de cierre, clausura y desmantelamiento.
+En el caso de decidirse el definitivo cese de la actividad de la instalación, deberá presentarse, con carácter previo
+al inicio de la fase de desmantelamiento, un plan de cierre, clausura y desmantelamiento. Dicho plan deberá ser
+aprobado por esta Dirección General como paso previo al inicio de dicha fase sobre las instalaciones.
+5. Consideraciones finales.
+El cumplimiento de las condiciones dispuestas en la presente autorización constituye requisito ineludible para la
+instalación.
+Serán consideradas causas de caducidad de la presente autorización, las siguientes:
+- La extinción de la personalidad jurídica de la empresa.
+- La declaración de quiebra de la empresa cuando la misma determine su disolución expresa como consecuencia de
+la resolución judicial que la declare.
+Modificación de oficio:
+Podrán modificarse, las condiciones de la autorización en los siguientes casos:
+- El traslado de la actividad de ubicación o la modificación sustancial de la misma, en cuyo caso, deberá comunicarse
+a la Dirección General de Evaluación Ambiental, indicando razonadamente, en atención a los criterios señalados en el
+artículo 10.2 de la Ley 16/2002, si se considera que se trata de una modificación sustancial o no, acompañándose de
+los documentos justificativos oportunos, siendo de aplicación lo señalado en los artículos 10.4 y 10.5 de la citada Ley.
+- La aparición de mejores tecnologías disponibles en el mercado que permitan la introducción de nuevos condicionantes
+o valores límite, en cuyo caso la Dirección General de Evaluación Ambiental actuará de oficio para la modificación
+de los condicionantes de la autorización.
+- El incumplimiento de los términos expresados en esta autorización tanto en los límites de inmisión como en las
+declaraciones periódicas y obligaciones de notificación a las diferentes administraciones públicas.
+- El surgimiento de nuevas regulaciones y normas ambientales que impliquen la adopción de valores límite o
+condicionantes más restrictivos que los inicialmente impuestos.
+A instancia de la Dirección General competente en los supuestos contemplados por el artículo 25 de la Ley 16/2002, el
+titular presentará toda la información, referida en su artículo 12 que sea necesaria para la revisión de las condiciones
+de la autorización.
+En su caso, se incluirán los resultados del control de las emisiones y otros datos que permitan una comparación del
+funcionamiento de la instalación con las mejores técnicas disponibles descritas en las conclusiones relativas a las
+MTD aplicables y con los niveles de emisión asociados a ellas.
+Al revisar las condiciones de la autorización, el órgano competente utilizará cualquier información obtenida a partir
+de los controles o inspecciones.
+En un plazo de cuatro años a partir de la publicación de las conclusiones relativas a las MTD en cuanto a la principal
+actividad de una instalación, se realizará revisión de autorización ambiental integrada y se garantizará que:
+a) Se hayan revisado y, si fuera necesario, adaptado todas las condiciones de la autorización de la instalación
+b) La instalación cumple las condiciones de la autorización.
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37327
+Serán también motivos de modificación de oficio, de acuerdo con el citado artículo 25:
+a) La contaminación producida por la instalación haga conveniente la revisión de los valores límite de emisión
+impuestos o la adopción de otros nuevos.
+b) Resulte posible reducir significativamente las emisiones sin imponer costes excesivos a consecuencia de
+importantes cambios en las mejores técnicas disponibles.
+c) La seguridad de funcionamiento del proceso o actividad haga necesario emplear otras técnicas.
+d) Exista un requerimiento del organismo de cuenca.
+e) Ante un cambio de normativa.
+El incumplimiento de las condiciones dispuestas en la presente autorización puede conllevar la apertura del
+correspondiente expediente sancionador y la imposición de alguna de las sanciones establecidas en el artículo
+32 del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de
+prevención y control integrados de la contaminación: multa correspondiente; clausura definitiva, total o parcial de
+las instalaciones; inhabilitación para el ejercicio de la actividad; revocación de la autorización o suspensión de la
+actividad, etcétera.
+Igualmente, el artículo 35 del Real Decreto Legislativo 1/2016, habilita a la Administración para adoptar medidas
+provisionales al acordar el inicio del expediente sancionador, o incluso antes de iniciarlo en los términos previstos
+por su normativa reguladora.
+Esta autorización ambiental integrada está actualizada de acuerdo a los requerimientos de la Directiva 2010/75/CE,
+del Parlamento Europeo y del Consejo, de 24 de noviembre, sobre las emisiones industriales.
+La presente autorización se otorga sin perjuicio del resto de autorizaciones y licencias que le resulten exigibles.

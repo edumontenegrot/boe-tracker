@@ -1,0 +1,244 @@
+AÑO XLV Núm. 202 21 de octubre de 2026 37335
+III.- OTRAS DISPOSICIONES Y ACTOS
+Universidad de Castilla-La Mancha
+Resolución de 02/09/2026, de la Universidad de Castilla-La Mancha, por la que se publica la modificación del
+Plan de Estudios del Grado en Ingeniería Eléctrica. [2026/7539]
+Habiéndose emitido, con fecha 23 de julio de 2026, resolución favorable del Consejo de Universidades referente a
+la solicitud de modificación del plan de estudios del Grado en Ingeniería Eléctrica por la Universidad de Castilla-La
+Mancha, título oficial establecido por acuerdo de Consejo de Ministros en su reunión de 1 de octubre de 2010
+(publicado en el BOE de 11 de noviembre de 2010, por Resolución de la Secretaría General de Universidades de
+18 de octubre de 2010).
+Este Rectorado, de conformidad con lo dispuesto en el artículo 32.5 del Real Decreto 822/2021, de 28 de septiembre,
+por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de
+su calidad, ha resuelto publicar la modificación del plan de estudios del Grado en Ingeniería Eléctrica.
+El plan de estudios quedará estructurado según consta en el anexo de esta resolución.
+Ciudad Real, 2 de septiembre de 2026
+El Rector
+JOSÉ JULIÁN GARDE LÓPEZ-BREA
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37336
+Anexo
+Plan de estudios del Grado en Ingeniería Eléctrica por la Universidad de Castilla-La Mancha
+Rama: Ingeniería y Arquitectura
+Campo de Estudio: Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización
+industrial e ingeniería de la navegación
+Centros de impartición:
+Escuela Técnica Superior de Ingeniería Industrial de Albacete
+Escuela de Ingeniería Minera e Industrial de Almadén
+Escuela Técnica Superior de Ingeniería Industrial de Ciudad Real
+Escuela de Ingeniería Industrial y Aeroespacial de Toledo
+Distribución general del plan de estudios:
+Tipo de materia Créditos ECTS
+Formación Básica 66
+Obligatoria 126
+Optativa 36
+Trabajo Fin de Grado 12
+Créditos totales 240 ECTS
+Campo de estudio de las asignaturas de formación básica
+Materia Asignatura Carácter ECTS Campo de estudio
+Cálculo I FB 6
+Cálculo II FB 6
+Álgebra FB 6
+Matemáticas
+Ampliación de
+FB 6
+Matemáticas
+Ingeniería industrial, ingeniería mecánica,
+Estadística FB 6
+ingeniería automática, ingeniería de la
+Expresión Gráfica Expresión Gráfica FB 6 organización industrial e ingeniería de la
+navegación
+Empresa Gestión Empresarial FB 6
+Física I FB 6
+Física
+Física II FB 6
+Química Química FB 6
+Informática Informática FB 6
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37337
+Módulo Materia Asignatura ECTS Carácter
+Cálculo I 6 FB
+Álgebra 6 FB
+Matemáticas Cálculo II 6 FB
+Estadística 6 FB
+Módulo 1 Ampliación de Matemáticas 6 FB
+Formación
+Física I 6 FB
+Básica Física
+(66 ECTS) Física II 6 FB
+Informática Informática 6 FB
+Química Química 6 FB
+Expresión Gráfica Expresión Gráfica 6 FB
+Empresa Gestión Empresarial 6 FB
+Termodinámica Técnica y
+Fundamentos de Termodinámica 6 OB
+Transferencia de Calor
+Fundamentos de Mecánica de
+Mecánica de Fluidos 6 OB
+Fluidos
+Fundamentos de Ciencia de los
+Ciencia de los Materiales 6 OB
+Materiales
+Fundamentos de Tecnología
+Tecnología Eléctrica 6 OB
+Eléctrica
+Módulo 2 Fundamentos de Tecnología
+Tecnología Electrónica 6 OB
+formación Electrónica
+común a la
+Fundamentos de Regulación
+rama industrial Regulación Automática 6 OB
+Automática
+(66 ECTS)
+Fundamentos de Máquinas y
+Teoría de Máquinas y Mecanismos 6 OB
+Mecanismos
+Fundamentos de Resistencia de
+Resistencia de Materiales 6 OB
+Materiales
+Fundamentos de Producción Sistemas de Fabricación y
+6 OB
+Industrial Organización Industrial
+Fundamentos de Medio Ambiente Tecnología del Medio Ambiente 6 OB
+Ingeniería de Proyectos Proyectos en la Ingeniería 6 OB
+Teoría de Circuitos 6 OB
+Máquinas Eléctricas y Análisis de
+Máquinas Eléctricas 6 OB
+Circuitos
+Control de Máquinas Eléctricas 6 OB
+Instalaciones Eléctricas de Baja
+6 OB
+Tensión
+Transporte y Distribución
+Instalaciones Eléctricas de Alta Tensión 6 OB
+Módulo 3 Líneas Eléctricas 6 OB
+tecnología
+Electrónica de Potencia Electrónica de Potencia 6 OB
+específica
+Control Digital Control Digital 6 OB
+(60 ECTS)
+Generación de Energía Eléctrica Centrales Eléctricas 6 OB
+Energías Renovables Energías Renovables 6 OB
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37338
+Módulo Materia Asignatura ECTS Carácter
+Infraestructura Eléctrica de Baja y Alta
+6 OP
+Tensión
+Luminotecnia 6 OP
+Mantenimiento Eléctrico 6 OP
+Instalaciones e Infraestructuras
+Construcción y Topografía 6 OP
+Eléctricas
+Automatización de Instalaciones
+6 OP
+Eléctricas
+Sistemas de Medida SCADA y EMS en
+Módulo 4.1 6 OP
+los Sistemas Eléctricos de Potencia
+formación
+optativa Análisis y Operación de Sistemas
+6 OP
+Albacete Eléctricos
+Planificación y Explotación de
+6 OP
+Centrales de Energía Eléctrica
+Energías Renovables y Centrales Diseño de Centrales de Energía
+Eléctricas Eléctrica Basadas en Fuentes de 6 OP
+Energía Renovable
+Sistemas Térmicos en Energías
+6 OP
+Renovables
+Electrónica Industrial 6 OP
+Ampliación de Máquinas Eléctricas 6 OP
+Sistemas Eléctricos de Potencia 6 OP
+Software Matemático para Ingeniería
+Módulo 4.2 6 OP
+Eléctrica
+formación
+Sistemas de Energía Eléctrica Tecnología Energética 6 OP
+optativa
+Ciudad Real Fiabilidad para Sistemas Eléctricos de
+6 OP
+Potencia
+Vehículos Eléctricos, Híbridos y
+6 OP
+Tracción Eléctrica
+Introducción a la Automatización
+Automatización e Instrumentación 6 OP
+Industrial
+Eléctrica
+Medidas Eléctricas 6 OP
+Control y Sistemas Eléctricos de Ingeniería de Control Moderna 6 OP
+Potencia Sistemas Eléctricos de Potencia 6 OP
+Gestión Ambiental Gestión Ambiental 6 OP
+Módulo 4.3
+formación Métodos Numéricos en Ingeniería 6 OP
+optativa
+Sistemas de Energía Eólica 6 OP
+Toledo
+Sistemas de Energía Solar 6 OP
+Tecnologías Energéticas y Tecnologías de Transformación de
+6 OP
+Métodos de Cálculo Energía
+Diseño y Cálculo de Instalaciones en
+6 OP
+Edificios
+Estadística Industrial 6 OP
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37339
+Módulo Materia Asignatura ECTS Carácter
+Control de Calidad 6 OP
+Ofimática Aplicada a la Ingeniería 4,5 OP
+Control, Gestión y Tecnologías en
+Gestión de Proyectos 4,5 OP
+Ingeniería
+Obra Civil en la Ingeniería 4,5 OP
+Módulo 4.4 Luminotecnia 6 OP
+formación
+Domótica 6 OP
+optativa
+Instalaciones Generales 6 OP
+Almadén
+Instrumentación Industrial y Medida 6 OP
+Instalaciones Eléctricas
+Sistemas de Comunicación en Edificios 6 OP
+Mantenimiento de Instalaciones 6 OP
+Inglés Técnico 6 OP
+Sistemas Eléctricos de Potencia 6 OP
+Electrónica Analógica 6 OP
+Sistemas Electrónicos
+Módulo 4.5 Instrumentación Electrónica 6 OP
+formación
+Electrónica Digital Electrónica Digital I 6 OP
+optativa
+Robótica Industrial Robótica Industrial 6 OP
+electrónica
+industrial Informática Industrial Informática Industrial 6 OP
+Automatización Industrial Automatización Industrial 6 OP
+Ingeniería Gráfica Ingeniería Gráfica 6 OP
+Ingeniería de Materiales Ingeniería y Tecnología de Materiales 6 OP
+Módulo 4.6 Ingeniería Térmica Ingeniería Térmica 6 OP
+formación Diseño y Cálculo de Estructuras
+6 OP
+optativa Metálicas y de Hormigón
+mecánica Ingeniería de Estructuras
+Teoría de Estructuras y Construcciones
+6 OP
+Industriales
+Tecnología de Fabricación Tecnología de Fabricación 6 OP
+Prácticas Académicas Externas Prácticas Académicas Externas 6 OP
+Optativa de Intercambio I 6 OP
+Módulo 4.7 Optativa de Intercambio II 6 OP
+formación
+Optativa de Intercambio III 6 OP
+optativa Asignaturas de Intercambio
+común Optativa de Intercambio IV 6 OP
+Optativa de Intercambio V 6 OP
+Optativa de Intercambio VI 6 OP
+Módulo 5
+trabajo fin de
+Trabajo Fin de Grado Trabajo Fin de Grado 12 TFG
+grado
+(12 ECTS)
+FB = Formación Básica; OB = Obligatorio; OP = Optativo; TFG = Trabajo Fin de Grado.

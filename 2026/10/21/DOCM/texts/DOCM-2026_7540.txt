@@ -1,0 +1,230 @@
+AÑO XLV Núm. 202 21 de octubre de 2026 37340
+III.- OTRAS DISPOSICIONES Y ACTOS
+Universidad de Castilla-La Mancha
+Resolución de 02/09/2026, de la Universidad de Castilla-La Mancha, por la que se publica la modificación del
+Plan de Estudios del Grado en Ingeniería Electrónica Industrial y Automática. [2026/7540]
+Habiéndose emitido, con fecha 23 de julio de 2026, resolución favorable del Consejo de Universidades referente a
+la solicitud de modificación del plan de estudios del Grado en Ingeniería Electrónica Industrial y Automática por la
+Universidad de Castilla-La Mancha, título oficial establecido por acuerdo de Consejo de Ministros en su reunión de 1
+de octubre de 2010 (publicado en el BOE de 11 de noviembre de 2010, por Resolución de la Secretaría General de
+Universidades de 18 de octubre de 2010).
+Este Rectorado, de conformidad con lo dispuesto en el artículo 32.5 del Real Decreto 822/2021, de 28 de septiembre,
+por el que se establece la organización de las enseñanzas universitarias y del procedimiento de aseguramiento de
+su calidad, ha resuelto publicar la modificación del plan de estudios del Grado en Ingeniería Electrónica Industrial y
+Automática.
+El plan de estudios quedará estructurado según consta en el anexo de esta resolución.
+Ciudad Real, 2 de septiembre de 2026
+El Rector
+JOSÉ JULIÁN GARDE LÓPEZ-BREA
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37341
+Anexo
+Plan de estudios del Grado en Ingeniería Electrónica Industrial y Automática
+por la Universidad de Castilla-La Mancha
+Rama: Ingeniería y Arquitectura
+Campo de Estudio: Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización
+industrial e ingeniería de la navegación
+Centros de impartición:
+Escuela Técnica Superior de Ingeniería Industrial de Albacete
+Escuela Técnica Superior de Ingeniería Industrial de Ciudad Real
+Escuela de Ingeniería Industrial y Aeroespacial de Toledo
+Distribución general del plan de estudios:
+Tipo de materia Créditos ECTS
+Formación Básica 66
+Obligatoria 126
+Optativa 36
+Trabajo Fin de Grado 12
+Créditos totales 240 ECTS
+Campo de estudio de las asignaturas de formación básica
+Materia Asignatura Carácter ECTS Campo de estudio
+Cálculo I FB 6
+Cálculo II FB 6
+Álgebra FB 6
+Matemáticas
+Ampliación de
+FB 6
+Matemáticas
+Ingeniería industrial, ingeniería mecánica,
+Estadística FB 6
+ingeniería automática, ingeniería de la
+Expresión Gráfica Expresión Gráfica FB 6 organización industrial e ingeniería de la
+navegación
+Empresa Gestión Empresarial FB 6
+Física I FB 6
+Física
+Física II FB 6
+Química Química FB 6
+Informática Informática FB 6
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37342
+Módulo Materia Asignatura ECTS Carácter
+Cálculo I 6 FB
+Álgebra 6 FB
+Matemáticas Cálculo II 6 FB
+Estadística 6 FB
+Ampliación de Matemáticas 6 FB
+Módulo 1 formación
+básica Física I 6 FB
+Física
+(66 ECTS)
+Física II 6 FB
+Informática Informática 6 FB
+Química Química 6 FB
+Expresión Gráfica Expresión Gráfica 6 FB
+Empresa Gestión Empresarial 6 FB
+Termodinámica Técnica y
+Fundamentos de Termodinámica 6 OB
+Transferencia de Calor
+Fundamentos de Mecánica de
+Mecánica de Fluidos 6 OB
+Fluidos
+Fundamentos de Ciencia de los
+Ciencia de los Materiales 6 OB
+Materiales
+Fundamentos de Tecnología
+Tecnología Eléctrica 6 OB
+Eléctrica
+Fundamentos de Tecnología
+Tecnología Electrónica 6 OB
+Módulo 2 formación Electrónica
+común a la rama
+Fundamentos de Regulación
+industrial Regulación Automática 6 OB
+Automática
+(66 ECTS)
+Fundamentos de Máquinas y
+Teoría de Máquinas y Mecanismos 6 OB
+Mecanismos
+Fundamentos de Resistencia
+Resistencia de Materiales 6 OB
+de Materiales
+Fundamentos de Producción Sistemas de Fabricación y
+6 OB
+Industrial Organización Industrial
+Fundamentos de Medio
+Tecnología del Medio Ambiente 6 OB
+Ambiente
+Ingeniería de Proyectos Proyectos en la Ingeniería 6 OB
+Análisis de Redes Análisis de Redes 6 OB
+Electrónica Analógica 6 OB
+Sistemas Electrónicos Electrónica de Potencia 6 OB
+Instrumentación Electrónica 6 OB
+Módulo 3 tecnología
+Electrónica Digital y Electrónica Digital I 6 OB
+específica
+Microprocesadores Electrónica Digital II 6 OB
+(60 ECTS)
+Control Digital Control Digital 6 OB
+Robótica Industrial Robótica Industrial 6 OB
+Informática Industrial Informática Industrial 6 OB
+Automatización Industrial Automatización Industrial 6 OB
+Procesado Digital de Señales Procesado Digital de Señales 6 OP
+Módulo 4.1
+Comunicaciones Industriales Comunicaciones Industriales 6 OP
+formación optativa
+Albacete Diseño de Sistemas Electrónicos Diseño de Sistemas Electrónicos
+6 OP
+Avanzados Avanzados
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37343
+Módulo Materia Asignatura ECTS Carácter
+Sistemas Empotrados Sistemas Empotrados 6 OP
+Técnicas de Simulación Técnicas de Simulación
+6 OP
+Avanzadas Avanzadas
+Sistemas Neumáticos Sistemas Neumáticos 6 OP
+Sensores y Actuadores Sensores y Actuadores 6 OP
+Instrumentación Virtual Instrumentación Virtual 6 OP
+Módulo 4.1
+Mecánica de Robots y Mecánica de Robots y
+formación optativa 6 OP
+Manipuladores Manipuladores
+Albacete
+Programación de Robots
+Programación de Robots Móviles 6 OP
+Móviles
+Máquinas Eléctricas Máquinas Eléctricas 6 OP
+Control Electrónico de Motores Control Electrónico de Motores 6 OP
+Electrónica Industrial Electrónica Industrial 6 OP
+Instalaciones Industriales Instalaciones Industriales 6 OP
+Procesado de Señal Procesado de Señal 6 OP
+Robots y Sistemas Inteligentes Robots y Sistemas Inteligentes 6 OP
+Producción Integrada por Producción Integrada por
+6 OP
+Computador Computador
+Visión e Inteligencia Artificial Visión e Inteligencia Artificial 6 OP
+Desarrollo de Aplicaciones
+Módulo 4.2 Desarrollo de Aplicaciones
+Visuales para Ingeniería 6 OP
+formación optativa Visuales para Ingeniería Industrial
+Industrial
+Ciudad Real
+Instrumentación Avanzada Instrumentación Avanzada 6 OP
+Sistemas Optoelectrónicos Sistemas Optoelectrónicos 6 OP
+Materiales y Dispositivos Materiales y Dispositivos
+6 OP
+Electrónicos Electrónicos
+Sistemas Fotovoltaicos Sistemas Fotovoltaicos 6 OP
+Ingeniería Biomédica Aplicada Ingeniería Biomédica Aplicada 6 OP
+Automatización Industrial II Automatización Industrial II 6 OP
+Estadística Industrial Estadística Industrial 6 OP
+Ingeniería de Control Moderna Ingeniería de Control Moderna 6 OP
+Métodos Numéricos en
+Métodos Numéricos en Ingeniería 6 OP
+Ingeniería
+Módulo 4.3
+Aplicaciones Aeroespaciales de Aplicaciones Aeroespaciales de la
+formación optativa 6 OP
+la Electrónica Electrónica
+Toledo
+Fundamentos y Aplicaciones de Fundamentos y Aplicaciones de
+6 OP
+las Máquinas Eléctricas las Máquinas Eléctricas
+Modelado y Simulación de Modelado y Simulación de
+6 OP
+Sistemas Electrónicos Sistemas Electrónicos
+Visión Artificial Visión Artificial 6 OP
+Control de Máquinas Eléctricas Control de Máquinas Eléctricas 6 OP
+Instalaciones Eléctricas de Baja
+6 OP
+Tensión
+Módulo 4.4
+formación optativa Instalaciones Eléctricas de Alta
+Transporte y Distribución 6 OP
+eléctrica Tensión
+Líneas Eléctricas 6 OP
+Centrales Eléctricas 6 OP
+
+AÑO XLV Núm. 202 21 de octubre de 2026 37344
+Módulo Materia Asignatura ECTS Carácter
+Módulo 4.4
+formación optativa Energías Renovables Energías Renovables 6 OP
+eléctrica
+Ingeniería Gráfica Ingeniería Gráfica 6 OP
+Ingeniería y Tecnología de
+Ingeniería de Materiales 6 OP
+Materiales
+Ingeniería Térmica Ingeniería Térmica 6 OP
+Módulo 4.5
+Teoría de Estructuras y
+formación optativa 6 OP
+Construcciones Industriales
+mecánica Ingeniería de Estructuras
+Diseño y Cálculo de Estructuras
+6 OP
+Metálicas y de Hormigón
+Tecnología de Fabricación Tecnología de Fabricación 6 OP
+Prácticas Académicas Externas Prácticas Académicas Externas 6 OP
+Optativa de Intercambio I 6 OP
+Optativa de Intercambio II 6 OP
+Módulo 4.6
+formación optativa Optativa de Intercambio III 6 OP
+Asignaturas de Intercambio
+común
+Optativa de Intercambio IV 6 OP
+Optativa de Intercambio V 6 OP
+Optativa de Intercambio VI 6 OP
+Módulo 5 trabajo fin
+de grado Trabajo Fin de Grado Trabajo Fin de Grado 12 TFG
+(12 ECTS)
+FB = Formación Básica; OB = Obligatorio; OP = Optativo; TFG = Trabajo Fin de Grado.
