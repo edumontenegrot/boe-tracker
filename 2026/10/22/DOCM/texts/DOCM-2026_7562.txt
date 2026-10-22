@@ -1,0 +1,671 @@
+AÑO XLV Núm. 203 22 de octubre de 2026 37431
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 09/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Albacete, por la que se
+formula el informe de impacto ambiental del proyecto: Línea aérea de media tensión del apoyo número 1998
+al apoyo número 2079, de la línea 01 Ayna STR Hijar 5088 expediente industria: 02211003608_2 (expediente
+S478/2026/AB/00093), situado en el término municipal de Ayna (Albacete), cuya promotora es I-DE Redes
+Eléctricas Inteligentes SAU. [2026/7562]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el Anexo III de dicha Ley.
+El proyecto “LAMT del AP. nº 1998 al AP. nº 2079, de la L/01 Ayna STR Hijar 5088 en Ayna exp. Ind.: 02211003608_2”
+(exp. S478/2026/AB/00093), situado en el término municipal de Ayna (Albacete), cuyo promotor es I-DE Redes
+Eléctricas Inteligentes S.A.U., se encuentra encuadrado en el anexo II Grupo 4, Industria energética, apartado b)
+Construcción de líneas eléctricas (proyectos no incluidos en el anexo I) con un voltaje igual o superior a 15 kV, que
+tengan una longitud superior a 3 km, incluidas sus subestaciones asociadas, así como por debajo de los anteriores
+umbrales cuando cumplan los criterios generales 1 o 2, o no incluyan las medidas preventivas establecidas en el
+Real Decreto 1432/2008, de 29 de agosto, por el que se establecen medidas para la protección de la avifauna contra
+la colisión y la electrocución en líneas eléctricas de alta tensión, o discurran a menos de 200 m de población o de
+100 m de viviendas aisladas en alguna parte de su recorrido, salvo que discurran íntegramente en subterráneo por
+suelo urbanizado de la Ley 21/2013 modificados en sus anexos por el Real Decreto 445/2023, de 13 de junio.
+Según la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha en su artículo 6.2, apartado
+b: Los proyectos no incluidos ni en el anexo I ni el anexo II que requieran una evaluación por afectar sobre
+áreas protegidas en los términos previstos en la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la
+Biodiversidad, y en la Ley 9/1999, de 26 de mayo, de conservación de la naturaleza.
+En concreto, la actuación se encuentra contemplada en el anexo II, dentro del Grupo 10. Otros proyectos, apartado c):
+Cualquier proyecto que sin estar incluido en los anexos I ni II, pueda afectar de forma apreciable a áreas protegidas
+de acuerdo con el artículo 6.2.b.
+Primero. - Promotor, órgano sustantivo y descripción del proyecto.
+El promotor del proyecto “Línea aérea de media tensión del AP. nº 1998 al AP. nº 2079, de la L/01 Ayna STR Hijar
+5088 en Ayna exp. Ind.: 02211003608_2” (exp. S478/2026/AB/00093), situado en el término municipal de Ayna
+(Albacete), es I-DE Redes Eléctricas Inteligentes S.A.U. Actúa como órgano sustantivo el Servicio de Industria de la
+Delegación de Desarrollo Sostenible de Albacete.
+Según el documento ambiental, de fecha noviembre de 2021, el proyecto consiste en construir una línea aérea de
+media tensión 20 kV simple circuito entre los apoyos nº 1998 y el nº 2079, de la L/01 Ayna de la STR Hijar, en el
+término municipal de Ayna. Con esta nueva línea se mejorará la seguridad en la utilización, así como la calidad y
+garantía de energía eléctrica en la zona.
+La línea comenzará en el apoyo existente nº 1988 de la L/01 Ayna T-55 de la STR CH Hijar 5088 y terminará en el
+apoyo nº 2079 de la L/01 Ayna T-57 de la STR CH Hijar, se instalarán cuatro nuevos apoyos, todos del tipo celosías,
+el conductor de la nueva línea será del tipo 100-AL1/17-ST1A, y tendrá una longitud de 814 metros. La línea
+discurrirá por el término municipal de Ayna.
+La línea aérea de media tensión proyectada será de conductor aluminio acero 100-AL1/17-ST1A simple circuito,
+discurrirá por los parajes “El Gargantón” y “El Cantero” y más concretamente por los polígonos 44 y 46 del término
+municipal de Ayna (Albacete).
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37432
+La longitud total de la línea será de aproximadamente 814 metros, y discurrirán en su totalidad por el término
+municipal de Ayna.
+- Polígono 44, Parcela 137
+- Polígono 46, Parcela 52
+Las Coordenadas UTM (ETRS-89) de los apoyos son las siguientes
+Apoyo X Y Tipo de Apoyo
+1998 580.714 4.268.220 12 C 1000
+1 580.677 4.268.191 14 C 4500
+2 580.484 4.268.149 14 C 4500
+3 580.419 4.268.030 20 C 4500 + Ext. 1,80 m
+4 580.206 4.267.641 20 C 4500 + Ext. 1,80 m
+2079 580.186 4.267.620 Pórtico
+Con el trazado propuesto se afecta a los siguientes organismos y bienes privados:
+- Ayuntamiento de Ayna.
+- Consejería de Fomento de la JCCM
+- Ministerio para la transición ecológica (Confederación Hidrográfica del Júcar)
+- Telefónica España
+1.1.- Alternativas.
+De las tres alternativas propuestas, se ha elegido la alternativa “1” por las razones que a continuación se describen:
+En cuanto a la posibilidad de realizar la línea proyectada en subterráneo (alternativa “2”), decir que ello supondría
+una afección medioambiental considerable, al tener que realizar zanjas de grandes longitudes, más maquinaria,
+vehículos y personal en la fase de construcción, y funcionamiento, con las consecuencias negativas para la flora,
+fauna, suelo, etc. que ello conllevaría. También, destacar que las líneas subterráneas tienen más dificultades
+técnicas, mayor tiempo de ejecución y coste, y las reparaciones y mantenimiento son más laboriosas e implican un
+movimiento de tierras que las líneas aéreas no necesitan.
+Por todo lo anteriormente explicado, no se ha desarrollado la posibilidad de realizar la línea eléctrica de alta tensión
+en subterráneo.
+Por tanto, consideramos que la alternativa “1”, es la más idónea, por conjugar en su traza, la menor afección posible
+al entorno.
+1.2.- Análisis de Riesgos.
+La vulnerabilidad de las instalaciones ante accidentes graves o catástrofes presenta riesgos bajos en la línea
+proyectada salvo para incendios, figurando las instalaciones eléctricas aéreas como posible foco de los mismos,
+para lo cual se toman medidas para su minimización, las cuales quedan establecidas por la legislación vigente
+en cuanto a la creación y mantenimiento de la calle de seguridad de la línea eléctrica, así como la revisión de las
+instalaciones a lo largo de su vida útil.
+Segundo. - Procedimiento realizado: tramitación y consultas.
+El 20 de mayo de 2026 se recibe en la Delegación Provincial de Desarrollo Sostenible de Albacete documentación
+procedente del Servicio de Industria y Energía de la Delegación de Desarrollo Sostenible de Albacete, en la que se
+presenta Solicitud de inicio del procedimiento de Evaluación Ambiental Simplificada, justificante del pago de la tasa
+correspondiente al procedimiento, y el Documento Ambiental sobre el proyecto de “Línea aérea de media tensión del
+AP. Nº 1998 al AP. nº 2079, de la L/01 Ayna STR Hijar 5088 en Ayna exp. Ind.: 02211003608_2” (exp. S478/2026/
+AB/00093), situado en el término municipal de Ayna (Albacete), dando cumplimiento al artículo 52 de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37433
+Sobre la base de la documentación presentada, y de acuerdo con el artículo 53 de la citada Ley 2/2020, se formularon
+consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que
+informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los siguientes
+(se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+- Ayuntamiento de Ayna.
+- Ecologistas en Acción Albacete.
+- Asociación para la defensa de la Naturaleza WWF/Adena España.
+- Confederación Hidrográfica del Segura.
+- Sociedad Albacetense de Ornitología.
+- Delegación Provincial de Desarrollo Sostenible de Albacete. Unidad de Coordinación Provincial de Agentes
+Medioambientales de Albacete. (*)
+- Delegación Provincial de Fomento de Albacete. Servicio de Carreteras.(*)
+- Delegación Provincial de Educación, Cultura y Deportes de Albacete. Servicio de Cultura.
+- Delegación Provincial de Desarrollo Sostenible de Albacete. Servicio de Medio Natural y Biodiversidad. (*)
+- Dirección General de Calidad Ambiental. Servicio de Prevención e Impacto Ambiental.
+- Delegación Provincial Consejería Hacienda, Administraciones Públicas y Transformación Digital Albacete. Servicio
+de Protección Ciudadana. (*)
+Tercero. - Análisis técnico del expediente según los criterios del Anexo III de la Ley 2/2020 de Evaluación Ambiental
+de Castilla-La Mancha.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Características del proyecto.
+Las características del proyecto se han descrito en el apartado Primero del presente informe.
+La construcción de esta nueva línea eléctrica ha sido diseñada por el trazado proyectado en base a los elementos
+geográficos del entorno, dado que existen grandes desniveles para poder instalarla por otro sitio, y poder cerrar el
+circuito como está previsto.
+Con el citado proyecto se mejora y asegura el suministro eléctrico de la zona, ya que las líneas actuales tienen
+secciones de conductor limitadas y longitudes de vanos muy grandes los cuales son origen de averías y dificultan
+el mantenimiento.
+Por parte del promotor, se tiene la intención de desarrollar una serie de proyectos en la zona que permitirán alejar
+las líneas aéreas del casco urbano de Ayna, disminuyendo riegos de proximidad con edificaciones.
+Este proyecto es el primero de otros que se están diseñando para completar la infraestructura eléctrica de Ayna,
+por lo que se solicita que se considere compatible con el Plan de Gestión, dado que el fin de dicha instalación es
+garantizar el suministro eléctrico a Ayna y sus pedanías.
+Presenta una longitud de 814 metros y muy próxima a la menor distancia entre los dos puntos que unen la línea
+eléctrica, causando un mínimo impacto medioambiental, en cuanto a afección de suelos, fauna, tiempo de duración
+de la obra, etc.
+No se prevé la contaminación de las aguas dada la naturaleza de las obras de instalación de la línea y de su entorno.
+La línea aérea objeto del presente proyecto discurre casi en su totalidad por zonas de monte con matorral y arbolado.
+3.2.- Ubicación del proyecto.
+El trazado por donde discurre la línea aérea está clasificado como suelo rústico no urbanizable de especial protección.
+La LAMT transcurre por la parcela 137 del polígono 44 y en la parcela 52 del polígono 46 del término municipal de
+Ayna.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37434
+Según el informe del Servicio de Medio Natural y Biodiversidad de Albacete de fecha 22 de junio de 2026, la zona de
+actuación se encuentra dentro de la Red de Áreas Protegidas de CLM y afecta a la Red Natura 2000, concretamente
+en la Zona de Especial Conservación y Zona de Especial Protección de las Aves ES4210008/ES0000388 ZEC/ZEPA
+“Sierras de Alcaraz y de Segura y Cañones del Segura y del Mundo”. Además, la zona es coincidente con el Área
+Crítica para la conservación del águila-azor perdicera, especie catalogada En Peligro de Extinción en el CREA de
+Castilla-La Mancha. Es zona de reproducción del águila real, águila perdicera y halcón peregrino, y zona de campeo
+del águila imperial ibérica. Existe posible existencia de hábitats botánicos protegidos.
+Existen Elementos geomorfológicos como hoces y tobas. Se encuentra dentro del MUP nº 87, “Pinar” propiedad del
+ayuntamiento de Ayna.
+Según el Plan de Gestión de las ZEC/ZEPA “Sierras de Alcaraz y de Segura y Cañones del Segura y del Mundo”,
+aprobada por la Orden 32/2017, de la Consejería de Agricultura, Medio Ambiente y Desarrollo Rural, la actuación se
+encuentra en zona de uso compatible.
+Según este Plan de gestión, se consideran actividades no compatibles las siguientes:
+La construcción de nuevas instalaciones o actividades industriales e infraestructuras de comunicación, transporte
+o energía, a excepción de las que cuenten con resolución de autorización en vigor y las líneas aéreas eléctricas de
+abastecimiento a núcleos urbanos dentro del espacio.
+La actuación se encuentra dentro del MUP nº 87, propiedad del ayuntamiento de Ayna por lo que previamente a
+cualquier actuación debería recabarse la correspondiente autorización de ocupación a la Delegación Provincial de
+Desarrollo Sostenible según lo establecido por la legislación vigente en materia de montes.
+En el informe del Servicio de Medio Natural y Biodiversidad, con fecha 22 de junio de 2026, se indica que “no se
+encuentra acreditada la necesidad de la LE propuesta para el abastecimiento de la población y de acuerdo a los
+recursos naturales afectados, la actuación se considera no compatible de acuerdo a la legislación medioambiental
+y previéndose una afección innecesaria a los valores naturales de la zona protegida.”
+El promotor con fecha 19 de julio de 2026, presenta un escrito de justificación de la actuación, en el que se indica
+que se ha solicitado el reconocimiento de la Utilidad Pública de dicha instalación, y además explica la necesidad del
+proyecto:
+“La línea eléctrica ha sido diseñada por el trazado proyectado en base a los elementos geográficos del entorno,
+dado que existen grandes desniveles para poder instalarla por otro sitio, y poder cerrar el circuito como está previsto.
+Con el citado proyecto se mejora y asegura el suministro eléctrico de la zona, ya que las líneas actuales tienen
+secciones de conductor limitadas y longitudes de vanos muy grandes los cuales son origen de averías y dificultan
+el mantenimiento.
+Por parte de I-DE Redes Eléctricas Inteligentes, S.A.U., se tiene la intención de desarrollar una serie de proyectos
+en la zona que permitirán alejar las líneas aéreas del casco urbano de Ayna, disminuyendo riesgos de proximidad
+con edificaciones.
+Este proyecto es el primero de otros que se están diseñando para completar la infraestructura eléctrica de Ayna,
+por lo que se solicita que se considere compatible con el Plan de Gestión, dado que el fin de dicha instalación es
+garantizar el suministro eléctrico a Ayna y sus pedanías”.
+En la visita de campo realizada por los Agentes Medioambientales de la zona en fecha 13 de junio de 2026, se indica
+que es zona de nidificación del Halcón peregrino, por lo que los trabajos a realizar, se realizarán en épocas teniendo
+en cuenta la época de celo y cría de la especie en cuestión.
+El proyecto recoge que los trabajos se realizan dentro del área crítica del águila perdicera, por lo que recomendarían
+la realización de los trabajos para el otoño.
+3.3.- Características del potencial impacto.
+Tras el procedimiento de consultas, y con respecto a las alternativas, se recibe un informe con fecha 24/08/2026 del
+Servicio de Medio Natural, en el que se indica que. “Este Servicio informa que las alternativas deben ser razonables,
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37435
+técnica y ambientalmente viables. En el documento ambiental presentado por el promotor no se estudia ningún
+trazado para la alternativa de la línea proyectada en subterráneo. Entre los dos puntos que se desea conectar
+existen infraestructuras artificiales que los unen, tales como carreteras o caminos, debiendo estudiarse la posibilidad
+de soterrar esta línea de forma paralela a su trazado, acumulando impactos, con el objeto de lograr la viabilidad
+ambiental del proyecto, sin necesidad de plantear el tendido en aéreo”.
+Por su parte el promotor, presenta una justificación: las líneas eléctricas que llevan instaladas allí más de cuarenta
+años, que necesitan una renovación, y que se quiere modificar la estructura de la red por el crecimiento de la población,
+y la modernización y soterramiento de las mismas. Se ha estudiado todo el entorno, y es difícil trazar líneas eléctricas
+en la zona por la disposición del terreno, grandes pendientes, y terrenos inestables en algunos sitios.
+En la documentación aportada, se explicaba las reformas a llevar a cabo en la población de Ayna para mejorar su
+calidad de suministro, siendo paso previo la línea eléctrica que nos ocupa, para acometer las siguientes:
+- Construir un nuevo Centro de Trasformación en la zona de la báscula, eliminado el existente de obra civil.
+- Instalar otro Centro de Transformación en la zona de la plaza Mayor que sustituya al existente dentro de unos
+huertos inaccesibles.
+- Interconexionar ambos centros de trasformación con líneas subterráneas por la calle Mayor.
+- Desmontaje de líneas aéreas que se quedan cerca de las construcciones existentes.
+Una vez analizadas las alternativas propuestas en la documentación, y vistos los informes emitidos al respecto, se
+considera ambientalmente más viable la seleccionada en el documento ambiental, correspondiente a la alternativa
+1.
+Supondrá menor afección al medio ambiente por impacto de maquinaria, tanto por duración como por incidencia de
+la obra, ya que el trazado discurre próximo a caminos existentes, minimizando la creación de nuevos caminos de
+acceso ni servidumbre de paso en gran parte del trazado.
+Las principales repercusiones del proyecto son la afección al suelo y vegetación por el tránsito de maquinaria y
+acopios de materiales en la instalación de los apoyos y en la construcción de la calle de seguridad. Por otra parte, el
+trazado de la línea nueva va a suponer un nuevo riesgo para las aves, sobre todo de colisión, y también se genera
+un nuevo impacto visual, así como posible afección a vegetación leñosa por las operaciones de desbroce en la
+localización de algunos apoyos.
+Durante el periodo de ejecución de las obras, pueden ocasionarse molestias como consecuencia del ruido, la
+emisión de gases de combustión y de polvo por el tránsito de maquinaria, así como generación de excedentes de
+tierras. Además, se producirá la ocupación temporal del terreno durante el montaje de los apoyos (incluyendo sus
+cimentaciones) y el tendido de los elementos conductores.
+Asimismo, podría producirse una contaminación del suelo por fugas o derrames fortuitos de aceites hidráulicos o
+combustibles procedentes de la maquinaria y herramientas auxiliares durante esta fase. El paso de la maquinaria
+por el terreno supondrá una compactación del suelo, siendo un efecto recuperable a corto plazo mediante un alzado
+de fondo con tractor agrícola. Los efectos descritos desaparecerán tras la finalización de las obras de instalación de
+la línea eléctrica.
+Los principales impactos que se producirán durante la fase de funcionamiento de esta línea eléctrica aérea serán
+sobre el paisaje, que tendrá un efecto permanente y el riesgo de colisión y electrocución de determinadas especies
+de avifauna, de carácter potencial. El riesgo de electrocución puede minimizarse con un adecuado diseño de los
+apoyos de la línea eléctrica, mientras que el de colisión, se puede minimizar mediante la colocación de elementos
+salvapájaros en los elementos conductores del tendido eléctrico.
+La ocupación física del terreno será mínima en comparación con la que se produce durante la fase de construcción,
+limitándose a la suma de las superficies de las cimentaciones de todos los apoyos que conformen esta línea eléctrica.
+Se considera que el impacto global de proyecto será de signo negativo, aunque de tipo compatible, donde los
+efectos adversos se pueden minimizar adoptando las medidas preventivas y correctoras más adecuadas al efecto,
+tal y como se contempla en el apartado Cuarto del presente Informe.
+Se producirá un impacto de reducidas dimensiones en un período de tiempo corto durante la fase de obras.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37436
+Teniendo en cuenta la extensión del impacto; su magnitud y complejidad; su probabilidad; y su duración, frecuencia
+y reversibilidad, no se considera necesario someter el presente proyecto a la evaluación de impacto ambiental
+ordinaria.
+Cuarto. - Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor del proyecto en el documento
+ambiental presentado, las cuales se consideran vinculantes con el contenido del presente Informe, y considerando
+las respuestas recibidas a las consultas realizadas, se formulan las siguientes medidas adicionales de protección,
+tratándose de condiciones que deberán incorporarse en la correspondiente autorización emitida por el órgano
+sustantivo.
+4.1.- Protección de áreas y recursos naturales protegidos, fauna y vegetación.
+Se deberán cumplir estrictamente todas las medidas preventivas, correctoras y compensatorias recogidas en el
+documento ambiental, en orden a minimizar las afecciones de la nueva línea sobre la avifauna y la flora.
+En lo que respecta a la protección de la vegetación, según recuerda el informe del Servicio de Medio Natural y
+Biodiversidad, en caso de ser necesario el descuaje de matorral o arbolado, o apertura de caminos de acceso sobre
+terrenos ocupados por vegetación natural, se deberá solicitar autorización a la Delegación Provincial de Desarrollo
+Sostenible de Albacete, por aplicación del artículo 49 de la ley 3/2008, de Montes y Gestión Forestal Sostenible
+de Castilla-La Mancha y deberá ser supervisada por los Agentes Medioambientales de la comarca, sin que deba
+entenderse dicha autorización como concedida por la publicación de la presente resolución. Dicha autorización
+establecerá, en su caso, el condicionado aplicable para minimizar el impacto ambiental derivado.
+Durante la fase de instalación de la línea eléctrica, y para evitar incendios forestales, se deberá tener dispuesto un
+Plan de Prevención que incluya medidas que reduzcan su riesgo de inicio y medidas que permitan su pronta extinción
+por parte del personal en caso de producirse, tales como normas de prevención para los trabajadores, protocolos de
+actuación en caso de incendio, etc. Deberán controlarse las emisiones difusas de partículas de pequeño alcance y
+magnitud, en operaciones de corte de perfiles y cables o en soldaduras.
+Se deberá intentar ubicar los apoyos en las proximidades de caminos ya existentes, sobre áreas de menor valor
+ecológico, respetando en todo caso las normativas vigentes en las materias de dominio público hidráulico y bienes
+de dominio público.
+Durante las tareas de replanteo de las obras, se delimitará (mediante balizamiento) toda zona susceptible de
+afección, así como formaciones o elementos vegetales a proteger fuera del área de actuación directa. Se tratará de
+ocupar la menor superficie posible evitando la invasión de zonas aledañas a las áreas de actuación directa.
+En caso de producirse descuajes o daños sobre el ramaje de la vegetación a preservar, deberá realizarse la poda
+correcta de las ramas dañadas y aplicar después pastas cicatrizantes en caso de ser de consideración, evitando así
+la entrada de elementos patógenos y humedad.
+En su caso, la apertura de la calle de seguridad solamente afectará a la vegetación que intercepte el arco de
+seguridad que desde los conductores establece el reglamento electrotécnico vigente, quedando únicamente
+permitido para cualquier especie autóctona la poda de las partes aéreas de las ramas que queden dentro de dicha
+zona de seguridad, debiendo mantenerse tal condición durante el mantenimiento. Para pináceas y salicáceas, en
+su caso, se permitirá el apeo de pies cuando su altura intercepte dicho arco de seguridad e, igualmente, de forma
+excepcional, el apeo de pies que no lo intercepten en caso de que supongan un riesgo inminente y claro para la
+línea.
+Las instalaciones deben de utilizar una tipología de tendidos que contenga como mínimo las soluciones y
+prescripciones técnicas que se prevén en el Real Decreto 1432/2008, de 29 de agosto, por el que se establecen
+medidas para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta tensión
+(B.O.E. de 13/09/2008) así como las medidas adicionales de protección previstas en el Decreto 5/1999 de Protección
+de Avifauna en Castilla-La Mancha.
+En caso de discrepancia entre ambos Decretos debe tomarse el criterio más restrictivo en cuanto a exigencia y
+eficacia de protección y para con la mejora de la prevención del riesgo de electrocución.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37437
+En el supuesto de que sobre un mismo poste se acumulen válvulas u otros elementos y CT deberán, en lo posible,
+situarse en el lado contrario de otro semitravesaño inferior adicional para evitar acortar otras distancias de seguridad.
+En el supuesto de que sobre un mismo poste existan travesaños inferiores que crucen de los que partan derivaciones,
+el aislamiento deberá alargarse tanto como sea necesario para cumplir con todas las distancias referidas.
+Los salvapájaros o señalizadores visuales se han de colocar en los cables de tierra. Si estos últimos no existieran,
+en las líneas en las que únicamente exista un conductor por fase, se colocarán directamente sobre aquellos
+conductores que su diámetro sea inferior a 20 mm. Los salvapájaros o señalizadores serán de materiales opacos
+y estarán dispuestos cada 10 metros (si el cable de tierra es único) o alternadamente, cada 20 metros (si son dos
+cables de tierra paralelos o, en su caso, en los conductores). La señalización en conductores se realizará de modo
+que generen un efecto visual equivalente a una señal cada 10 metros, para lo cual se dispondrán de forma alterna
+en cada conductor y con una distancia máxima de 20 metros entre señales contiguas en un mismo conductor.
+En aquellos tramos más peligrosos debido a la presencia de niebla o por visibilidad limitada, se podrá reducir las
+anteriores distancias.
+Asimismo, se recuerda que, si se apreciara una incidencia de mortalidad de aves por electrocución o colisión en el
+trazado de la línea, esta Delegación Provincial podrá exigir la corrección y modificación del proyecto conforme al
+artículo 5 del Decreto 5/1999, o bien la aplicación de las medidas adicionales de acuerdo con el artículo 69 de la Ley
+9/1999, de 26 de mayo, de Conservación de la Naturaleza entre las que podrían incluirse: aislamiento, balizamiento
+y señalización adicional, colocación de crucetas antinido, etc…
+En lo que respecta a la protección de la fauna, según manifiesta también el informe del Servicio de Medio Natural y
+Biodiversidad, para reducir las molestias durante los periodos reproductivos de las especies se podrá consensuar
+un calendario de obra, si así fuese necesario y a criterio del órgano ambiental. Se realizará un seguimiento
+preoperacional sobre los taxones de interés.
+También señala este informe que deberá presentarse anualmente ante el órgano ambiental el Plan de Seguimiento
+y Vigilancia Ambiental para la Avifauna, para su conocimiento y visto bueno.
+Las labores de instalación de la nueva línea eléctrica se realizarán bajo la obligatoria supervisión de los Agentes
+Medioambientales de la zona, los cuales, tendrán capacidad para puntualizar la ejecución de las labores.
+Tras la ejecución de las obras, el promotor deberá aportar en la Delegación Provincial de Desarrollo Sostenible de
+Albacete, un certificado de fin de obra de la empresa instaladora, que justifique el cumplimiento de las prescripciones
+técnicas contempladas en los citados decretos de protección de la avifauna, así como de haber adoptado las mejores
+tecnologías disponibles.
+Con el fin de determinar el posible impacto de la infraestructura sobre la avifauna, el promotor deberá realizar un
+seguimiento ambiental de colisiones y electrocuciones con una duración mínima de tres años, prorrogable en función
+de los resultados y de los que podrían derivarse actuaciones sobre la línea eléctrica en función de los resultados que
+se obtuviesen. La metodología deberá realizarse según lo establecido para este tipo de proyectos por el Servicio de
+Medio Natural y Biodiversidad de esta Delegación.
+Las medidas preventivas impuestas, junto a las recogidas en el Documento Ambiental, reducen en buena parte los
+riesgos asociados al proyecto, no obstante, se producirá una afección a la calidad del medio. Por ello se llevará
+a cabo un programa de medidas correctoras con cargo al promotor, orientadas a la mejora de las condiciones
+ambientales de la zona.
+En este sentido, se deberán corregir 4 apoyos eléctricos adaptándolos a las condiciones de la reglamentación de
+protección de la avifauna preferiblemente por la zona de actuación. Esta medida correctora deberá ser realizada de
+manera simultánea a la ejecución de la nueva Línea Eléctrica y deberá ser comunicado al órgano ambiental con la
+suficiente antelación para su visto bueno.
+4.2.- Protección del sistema hidrológico.
+En el ámbito de la actuación se ha identificado el siguiente cauce de Dominio Público Hidráulico (DPH), de acuerdo
+a su definición dada en el Real Decreto Legislativo 1/2001, de 20 de julio, por el que se aprueba el Texto Refundido
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37438
+de la Ley de Aguas (TRLA) y en el Real Decreto 849/1986, de 11 de abril, por el que se aprueba el Reglamento del
+Dominio Público Hidráulico (RDPH):
+Arroyo de la Cañada de Haches, pudiendo tomar como referencia del cruzamiento entre la línea existente y el
+denominado apoyo nº 1 el punto aproximado de coordenadas geográficas en sistema de referencia ETRS 89 UTM
+N X: 580.607, Y: 4.268.220. Así mismo, el denominado apoyo nº4 se encuentra en zona de policía del Río Mundo.
+Tal y como se establece en los artículos 2 y 6 del Texto Refundido de la Ley de Aguas, pertenecen al dominio
+público hidráulico los cauces de corrientes naturales, ya sean continuas o discontinuas. Estos cauces se encuentran
+protegidos por una faja lateral de 5 metros de anchura, que constituye la zona de servidumbre, y por una faja lateral
+de 100 metros de anchura, que conforma la zona de policía.
+La mencionada zona de servidumbre se debe mantener expedita para uso público (artículo 7 del Reglamento del
+Dominio Público Hidráulico, Real Decreto 849/1986), quedando supeditada la ejecución de cualquier actividad de las
+comprendidas en el artículo 9 del Reglamento del Dominio Público Hidráulico (extracción de áridos, modificaciones
+sustanciales del relieve, construcciones definitivas o provisionales y, en definitiva, cualquier uso o actividad que
+suponga obstáculo para la corriente o que pueda ser causa de degradación o deterioro del Dominio Público
+Hidráulico) y que se pretenda realizar en zona de policía de cauce público, a la obtención de la previa autorización
+de este Organismo, conforme a lo dispuesto en dicho artículo.
+La solicitud de la autorización de cruces aéreo o subterráneo en zona de DPH se ha de realizar según modelo
+disponible través del enlace existente en su página web, en el cual se indica la documentación necesaria a aportar,
+así como los condicionantes específicos a cumplir.
+La documentación solicitada deberá de presentarse en el correspondiente expediente de autorización.
+Fuera de la zona de policía corresponde a las Administraciones competentes en materia de ordenación del territorio
+y urbanismo valorar las condiciones de inundabilidad existente, el establecimiento de las limitaciones y condiciones
+a los usos y actividades previstas, las posibles afecciones a terceros, así como la idoneidad de las medidas
+correctoras que se puedan adoptar para eliminar o minimizar el riesgo de inundación. A los efectos anteriores, las
+Administraciones competentes tendrán en cuenta las limitaciones de uso que se establecen en el TRLA, el RDPH,
+así como la normativa adicional emitida por las Comunidades Autónomas.
+Se presentan a continuación una serie de medidas con objeto de minimizar el impacto ambiental sobre el DPH y el
+régimen de corrientes:
+- Se valorará la posibilidad de considerar bandas de protección en las márgenes de los cauces públicos existentes,
+si es el caso, como de salvaguarda de las escorrentías.
+- Se deberá de tener en cuenta la posible afección a la hidrología natural de la zona y a los procesos de escorrentía
+superficial a consecuencia de modificaciones de la geomorfología del terreno previstos en el proyecto.
+- Se considerarán medidas a aplicar para respectar el drenaje natural de la zona, de tal forma que una ver ejecutado
+el proyecto se favorezca un régimen de escorrentía similar al régimen de escorrentía existente previo a la ejecución
+del proyecto.
+- Se identificará, si es el caso, la generación de nuevas zonas críticas a consecuencia de la actuación propuestas,
+aportándose plano comparativo de pendientes y zonas de evacuación de escorrentía respecto a la situación actual.
+- En caso de que se prevean movimientos de tierra significativos deberá de valorarse su posible afección a los
+cauces y escorrentía, debiendo de minimizarse su efecto ajustando la actuación de la mayor forma posible a la
+orografía natural del terreno.
+- Se debe de valorar la posible incidencia que tendría la actuación sobre el régimen de recarga de los acuíferos
+subterráneos y sobre la disponibilidad de recursos de los mismos como consecuencia de la modificación del terreno
+natural.
+En caso de preverse la realización de algún vertido, directa o indirectamente al DPH, en cualquiera de las fases de
+la actuación, se deberá recabar previamente la oportuna autorización de vertido, tal y como se indica en el artículo
+100 del TRLA y 245 y siguientes del RDPH. En tal caso, deberá de justificarse la suficiencia e idoneidad de los
+tratamientos e instalaciones previstos para el tratamiento y evacuación de las aguas residuales generadas.
+Un posible impacto sobre la hidrología puede proceder de la remoción de los materiales durante las fases de
+construcción y su posterior arrastre pluvial, provocando un incremento del aporte de sólidos a los cauces, por lo que
+se deben tomar medidas necesarias para evitarlo.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37439
+Se prestará especial cuidado a los vertidos líquidos procedentes de las labores de mantenimiento de la maquinaria
+empleada, y concretamente a los aceites usados, que deberán ser almacenados en bidones estancos para su
+posterior tratamiento por gestor autorizado (como se recoge en el Real Decreto 679/2006, de 2 de junio, por el
+que se regula la gestión de los aceites industriales usados). Dichas operaciones deberán efectuarse en un lugar
+controlado y estable.
+Todos los depósitos de combustibles y de sustancias susceptibles de contaminar el medio hídrico, serán estancos y
+estarán debidamente sellados para evitar su infiltración en el terreno y la contaminación de las aguas subterráneas.
+Se recuerda que, con carácter general, queda prohibido, el vertido directo o indirecto de aguas y de productos
+residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio público
+hidráulico, salvo que se cuente con la previa autorización administrativa.
+En cualquier caso, los apoyos de la línea eléctrica y las instalaciones auxiliares (zonas de acopio, instalaciones
+provisionales, caminos, centros de transformación, etc.) que resulten necesarias deberán situarse fuera del DPH y
+de la zona de servidumbre de uso público que existe en ambas márgenes de los cauces. Los caminos de acceso
+para la instalación de los postes se harán por los caminos ya existentes.
+Respecto a la localización de acopios, no se permitirá ubicarlos en zonas que puedan ser de recarga de acuíferos,
+o bien, que por infiltración pudieran originar contaminación mediante turbidez, o en zonas que puedan suponer
+alteración de la red de drenaje.
+4.3.- Gestión de residuos.
+Todos los residuos generados durante las fases de construcción y funcionamiento de la actividad, bien sean residuos
+peligrosos o no, e independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados, y el Plan de Prevención y Gestión de Residuos de Castilla-La
+Mancha 2023 – 2030. El promotor deberá presentar comunicación de inicio de actividades que conllevan producción
+de residuos.
+Si durante la ejecución de la actuación, se generan residuos de construcción y demolición, estarán sujetos a las
+especificaciones establecidas en el Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y
+gestión de los residuos de construcción y demolición.
+Los residuos de construcción y demolición generados durante el proceso de construcción de las instalaciones se
+gestionarán conforme al Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los
+residuos de construcción y demolición, por lo tanto, serán entregados a gestor autorizado o a recogedor-transportista
+de residuos no peligrosos autorizado.
+Los residuos sólidos generados durante la fase de construcción serán depositados en vertedero controlado, a
+excepción de la tierra vegetal. Se desautoriza cualquier vertido de residuos peligrosos, como aceites, hidrocarburos,
+pinturas, debiendo, en todo caso, depositarse temporalmente de forma conveniente y controlada, para su posterior
+retirada por gestor autorizado.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, y en su
+caso, el promotor deberá presentar comunicación de inicio de actividades que conllevan producción de residuos.
+Los trámites relacionados con la inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha
+(altas, bajas o modificación), deberá realizarlos a través de la página web de la Oficina Virtual de la Viceconsejería
+de Medio Ambiente.
+Una vez finalizada la actuación, la zona quedará libre de todo tipo de materiales, escombros, residuos, etc, que
+deberán ser retirados de la misma, incluidos los preexistentes. Se desmantelarán y restaurarán todas aquellas
+superficies no necesarias en la fase de funcionamiento, tales como acopios, plataformas, instalaciones auxiliares o
+viales temporales, mediante descompactado-labrado según curvas de nivel y extendido de la tierra vegetal sobrante
+de otras labores.
+Respecto a las labores de desmantelamiento de parte de la línea existente a reformar, se retirarán todos los residuos
+generados, restos de apoyos, conductores, aisladores, etc., así como proceder a la demolición de las zapatas de los
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37440
+apoyos inutilizados y proceder a la restauración de las zonas ocupadas por la línea a desmantelar, eliminando todo
+resto de los mismos y procediendo a su correcta gestión.
+Se recuerda que una vez concluida la vida útil de la línea se deberá proceder al desmantelamiento de todos sus
+elementos, siendo transportados los residuos a centros autorizados para su almacenamiento o tratamiento.
+Como medida correctora complementaria se estima necesaria la realización de batidas de limpieza de residuos
+en el área de influencia directa de la línea eléctrica (Hasta 50 metros de ella). Dichas batidas estarán destinadas a
+la retirada de residuos voluminosos procedentes de las obras, pequeños residuos procedentes de la afluencia de
+trabajadores, tales como botellas, botes, colillas, etc.
+4.4. - Protección del paisaje, suelo.
+El artículo 165.2, del Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla-
+La Mancha, requerirán licencia urbanística los “actos de construcción, edificación y uso del suelo que afecten a
+elementos con protección cultural, a la seguridad y salud públicas, que requieran cualquier tipo de autorización
+ambiental o sean realizados por particulares en dominio público”. Igualmente, el artículo 165.1.p) indica que
+requerirán licencia urbanística “Las instalaciones que afecten al subsuelo”.
+Para la protección del paisaje, los apoyos se colocarán, siempre que sea posible, en las zonas orográficas más
+bajas, lo más llanas posible, evitando las zonas de mayor pendiente, las de afloramientos rocosos o vegetación
+autóctona y la localización de los mismos en los puntos culminantes de las laderas, de modo que la afección
+paisajística de la línea sea mínima. Asimismo, se localizarán próximos a los caminos, de modo que la ocupación del
+suelo inalterado sea menor.
+Se desmantelarán y restaurarán todas aquellas superficies no necesarias para la fase de funcionamiento, tales
+como acopios, vertederos, instalaciones auxiliares o viales temporales, mediante descompactado y extendido de la
+tierra vegetal sobrante de otras labores, junto con la restauración vegetal con la misma estructura y composición de
+la vegetación previa, incluyendo las labores de mantenimiento que sean necesarias (reposición de marras, riegos,
+etc.) hasta que se certifique su implantación.
+El acceso a la línea para su mantenimiento se hará a través de los caminos existentes, evitando fenómenos de erosión
+derivados de la circulación de vehículos y maquinaria fuera de pista. Se llevarán a cabo labores de restitución en los
+posibles lugares donde se produzca compactación, que serán previstas en el Plan de Restauración que se diseñe.
+4.5.- Protección del patrimonio cultural y bienes de dominio público.
+La Viceconsejería de Cultura y Deportes informa que el trazado de la línea eléctrica proyectada atraviesa el Ámbito
+de Protección Arqueológica A.4. Cerro de la Cantera, registrado en el Inventario de Patrimonio Cultural del municipio
+de Ayna (Albacete), por tanto, algunos elementos patrimoniales inventariados pueden resultar afectados por las
+instalaciones previstas.
+En consecuencia, en aplicación del Art. 48 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La
+Mancha, se debe efectuar un Estudio de Valoración Histórico-Cultural realizado de acuerdo a los Art. 49 y 50 de la
+citada ley, para poder identificar, describir y valorar los efectos de dicho proyecto de obra civil sobre el Patrimonio
+Histórico, evaluando su correspondiente viabilidad/compatibilidad y medidas correctoras.
+Posteriormente la Viceconsejería de Cultura y Deportes informó que visto el informe de prospección arqueológica
+elaborado por el promotor, en relación con el proyecto de referencia, visto el informe emitido por el Servicio de
+Cultura de la Delegación Provincial de Educación, Cultura y Deportes en Albacete, respecto del mismo y vistas
+las normas de aplicación, en particular el artículo 48 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de
+Castilla-La Mancha, resuelve informar favorablemente el referido proyecto, y ello, sin perjuicio de que, en el caso
+de que aparecieran restos durante la ejecución del mismo, se deberá actuar conforme a lo previsto en el artículo
+52 de la Ley 4/2013, de 16 de mayo de Patrimonio Cultural de Castilla-La Mancha (deber de comunicación a la
+Administración competente en materia de Patrimonio Cultural) y, así, antes de continuar con la ejecución de dicho
+proyecto, deberá garantizarse su control arqueológico.
+Cualquier modificación del proyecto de obra civil autorizado en este momento deberá contar con el visado y la
+autorización de la Viceconsejería de Cultura y Deportes.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37441
+Deberán respetarse las zonas de dominio público pecuario, viario o hidráulico existentes, de acuerdo con su
+legislación sectorial. En general, todas las obras, construcciones e instalaciones que se realicen y todos los usos
+que se desarrollen en suelo clasificado como rústico deberán cumplir estrictamente la legislación sectorial que en
+cada caso los regule (Carreteras, Medio Ambiente, Patrimonio, Confederación Hidrográfica, Minas, etc.), y ceñirse
+al Decreto Legislativo 1/2010, de 18 de mayo, por el que se aprueba el Texto Refundido de la Ley de Ordenación
+del Territorio y de la Actividad Urbanística, al Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento
+del Suelo Rústico, y al planeamiento territorial y urbanístico. Deberán tenerse en cuenta los requisitos exigidos
+por la Orden de 31-03-2003, de la Consejería de Obras Públicas, por la que se aprueba la Instrucción Técnica
+de Planeamiento sobre determinados requisitos sustantivos que deberán cumplir las Obras, Construcciones e
+Instalaciones en Suelo Rústico.
+El Servicio de Carreteras de la Delegación Provincial de la Consejería de Fomento de Albacete informa que en
+aplicación de la Ley 9/1.990 de 28 de diciembre de Carreteras y Caminos de la Junta de Comunidades de Castilla-
+La Mancha y el Decreto 1/2015 de 22 de enero por el que se aprueba el Reglamento de la misma, se establece el
+siguiente condicionado, que deberán cumplir las obras solicitadas:
+1°.-Los apoyos se situarán a la mayor de las siguientes distancias, medidas desde la arista exterior de la calzada:
+a) Línea de Edificación, equivalente 18,00m.
+b) Vez y media de la altura del poste.
+2°.-La altura de los cables sobre la calzada no será inferior a 7,00 m.
+Con independencia de lo anterior, la entidad ejecutora de las obras, deberá solicitar en la Consejería de Fomento el
+correspondiente permiso.
+Se respetarán todos los caminos de uso público y servidumbres que existan, que serán transitables de acuerdo con
+sus normas específicas y el Código Civil y mantendrán las distancias establecidas en las ordenanzas municipales
+de caminos del Ayuntamiento de Albacete.
+Durante la fase de construcción del proyecto deberá garantizarse la seguridad y el tránsito de terceras personas que
+utilicen y circulen por los caminos rurales afectados por las obras. Estos caminos, en su caso, deberán repararse y
+restituirse a su estado original al término de las obras.
+Con respecto al resto de infraestructuras que pudieran ser afectadas, se estará a lo que disponga su normativa
+sectorial según su naturaleza, en relación con los retranqueos mínimos, distancias de seguridad y gálibos, y
+autorizaciones pertinentes.
+La alternativa seleccionada no afecta a ninguna vía pecuaria.
+Existe cruzamiento con Montes de Utilidad Pública, en concreto con el MUP nº 87 Pinar, propiedad del ayuntamiento
+de Ayna, la longitud de la línea que trascurre por esta zona es de aproximadamente 814 metros. A la ocupación
+solicitada le son de aplicación los preceptos contenidos en los art. 168 y posteriores del Decreto 485/1962, de 22 de
+febrero, por el que se aprueba el Reglamento de Montes y en el art. 8 de la Ley 3/2008, de 12 de junio, de Montes
+y Gestión Forestal Sostenible de Castilla-La Mancha. Por lo tanto, deberá solicitar la ocupación temporal de montes
+demaniales.
+4.6.- Riesgo de accidentes.
+Durante el desarrollo de la actividad deben observarse las disposiciones de la Ley 31/1995 de prevención de riesgos
+laborales.
+El proyecto contará con un Plan de prevención y extinción de incendios a aplicar durante la fase de obras y
+funcionamiento. Se establecerán a su vez las siguientes medidas preventivas de acuerdo con lo establecido en la
+legislación vigente en Castilla-La Mancha en materia de incendios forestales:
+- Durante la época de peligro alto definida en la Orden de la Consejería de Medio Ambiente y Desarrollo Rural de 16
+de mayo de 2006, por la que se regulan las campañas de prevención de incendios forestales, deberá prescindirse de
+la utilización de maquinaria y equipos en los montes y en las franjas de 400 metros alrededor de aquéllos. Si fuera
+necesario trabajar en esta época se deberá contar con la autorización pertinente.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37442
+- Los restos procedentes de cortas y desbroces de vegetación deberán ser retirados del monte en el menor tiempo
+posible, no debiendo quedar ningún residuo en el comienzo de la época de peligro alto.
+- En lo referente a la manipulación de herramientas con potencial riesgo de provocar un incendio forestal, así
+como el tratamiento de los restos de vegetación generados, se tendrá en cuenta las consideraciones normativas
+sectoriales de incendios forestales.
+En el trazado de la línea eléctrica se deberá tener en cuenta el máximo alejamiento a los núcleos de población
+y a las edificaciones aisladas para cumplir los límites de exposición a las emisiones radioeléctricas establecidas
+en el “Real Decreto 1066/2001, de 28 de septiembre, por el que se aprueba el Reglamento para la protección del
+dominio público radioeléctrico, restricciones a las emisiones radioeléctricas y medidas de protección sanitaria frente
+a emisiones radioeléctricas”.
+Según el informe del Servicio de Protección Ciudadana se concluye que el riesgo más relevante es el de incendio forestal
+(apertura de calles y zapatas, soldaduras, desbroce mecánico, etc.); y en menor medida, el riesgo de inundación (relieve
+montañoso con vaguadas). En cualquier caso, ante cualquier otra posible emergencia, las diferentes Administraciones
+(municipal, regional y estatal) activarían los correspondientes planes de emergencia sectoriales.
+En cualquier caso, ante cualquier otra posible emergencia, las diferentes Administraciones (municipal, regional y
+estatal) activarían los correspondientes planes de emergencia sectoriales.
+4.7.- Plan de desmantelamiento.
+Una vez finalizada la actividad de forma permanente, se desmantelarán las instalaciones, se retirarán todos los
+restos de material y residuos de la forma adecuada y a través del gestor autorizado según la naturaleza de cada
+residuo y se restaurarán los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado
+de limpieza. El desmontaje y la restauración deberán realizarse en el plazo máximo de un año tras la finalización de
+la actividad y deberá ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de la
+Consejería de Desarrollo Sostenible (Órgano Ambiental) para dar por finalizado el expediente. Asimismo, en caso de
+que la actividad sea traspasada, también se deberá poner en conocimiento de este organismo.
+Quinto.- Programa de vigilancia ambiental.
+Especificaciones generales para el programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental, sin perjuicio
+de las informaciones que pueda recabar el órgano ambiental al respecto, así como efectuar las comprobaciones
+necesarias para verificar el cumplimiento del condicionado.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas de vigilancia ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o
+de las medidas correctoras y compensatorias establecidas, a la finalización de los trabajos. Este informe incluirá
+un listado de comprobación de las medidas previstas en el programa de vigilancia. Cada informe deberá estar
+suscritos conjuntamente por la promotora y el responsable del seguimiento y vigilancia ambiental del proyecto, y se
+presentarán ante el órgano ambiental entre el 1 de enero y el 31 de marzo del año siguiente al de la campaña de
+seguimiento efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesaria para verificar
+el cumplimiento del condicionado del presente informe ambiental. De las inspecciones llevadas a cabo, podrán
+derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de la
+presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como ambiental.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37443
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+De las inspecciones llevadas a cabo por el Órgano Sustantivo o por el Órgano Ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos del presente
+Informe. Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+Con objeto de facilitar las labores de seguimiento y vigilancia, existirá, a pie de obra, una copia del presente Informe,
+estando la misma a disposición del Órgano Sustantivo y Ambiental.
+Además de esto, y durante la fase de explotación se presentarán Informes de seguimiento y vigilancia anuales, que
+deberán incidir en los siguientes puntos:
+- Control de la aparición de restos arqueológicos durante las obras.
+- Control de todas las condiciones establecidas para la protección de la fauna silvestre en el presente informe de
+impacto ambiental, en particular de las medidas de protección de la avifauna contra la colisión y electrocución que
+promulga la legislación vigente en esta materia, además de la instalación adecuada de salvapájaros.
+- Control de no afección a la vegetación natural o, en su caso, de que dispone de la correspondiente autorización.
+- Control de la correcta gestión de los residuos y tramitación de la documentación necesaria.
+- Control de no afección a la zona de dominio público hidráulico y zona de servidumbre de los cursos de agua.
+- Control de que se procede a la adecuada restauración de la zona una vez finalizada la construcción de la línea.
+- Vigilancia en la construcción y explotación de la línea, para verificar que se están cumpliendo las condiciones
+establecidas en el documento y en el presente Informe.
+- Control de la no afección a los hábitats protegidos.
+- Control de no afección a infraestructuras.
+- Control del desmantelamiento de la línea a sustituir y su correcta gestión de los distintos residuos.
+- Control del uso adecuado de la zona de servidumbre.
+Durante las labores de mantenimiento de la línea eléctrica, deberán observarse las mismas premisas establecidas
+para la ejecución de las obras de instalación de esta infraestructura.
+Del examen de la documentación recibida y de las inspecciones llevadas a cabo por la Consejería de Desarrollo
+Sostenible, podrán derivarse modificaciones de las actuaciones previstas, en función de una mejor consecución de
+los objetivos de esta Resolución.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo y el órgano
+ambiental (Servicio de Medio Ambiente de la Delegación Provincial de Desarrollo Sostenible de Albacete):
+a) Antes de la autorización del proyecto:
+- Copia de la Autorización por parte del Servicio de Medio Natural y Biodiversidad de esta Delegación Provincial, en
+caso de posible afección a vegetación de matorral y/o arbolado de la zona, de acuerdo a la Ley 3/2008, de Montes
+y Gestión Forestal Sostenible de Castilla-La Mancha.
+- Copia de la Autorización de ocupación temporal de montes demaniales.
+- Copia de la Autorización de la Viceconsejería de Cultura.
+- Copia de la Autorización de la Confederación Hidrográfica del Segura.
+b) Antes del inicio de las obras:
+- Jalonamiento de la zona de ocupación y supervisión del mismo.
+- Inscripción de la empresa encargada del mantenimiento de la línea en el Registro de Pequeños Productores de
+Residuos Peligrosos.
+- Designación por parte del promotor de un responsable para el cumplimiento del Plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Calendario de obras (vía e-mail a eambiental-ab@jccm.es, vía correo ordinario o directamente en sus dependencias)
+con visto bueno del Servicio de Medio Ambiente.
+
+AÑO XLV Núm. 203 22 de octubre de 2026 37444
+- Comunicación de la fecha de comienzo de las obras con una antelación mínima de 10 días en la dirección
+eambiental-ab@jccm.es o en las dependencias del Servicio de Medio Ambiente, así como al Agente Medioambiental
+de la zona.
+- Plan de prevención y extinción de incendios forestales.
+- Informe sobre las medidas correctoras a realizar y su presupuesto.
+c) En el primer trimestre de cada año, desde el inicio de la actividad y durante los tres primeros años de funcionamiento:
+- Informes sobre los controles y actuaciones en aplicación del Plan de seguimiento y vigilancia ambiental.
+Séptimo. Otras consideraciones.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Albacete, en virtud del Decreto 112/2023 , de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, modificado por el Decreto 6/2024, de 20 de febrero, y en
+el ejercicio de las atribuciones conferidas por la Resolución de 24 de mayo de 2024, de la Dirección General de
+Calidad Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las delegaciones
+provinciales de la Consejería de Desarrollo Sostenible y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación
+Ambiental de Castilla-La Mancha, resuelve que el proyecto “Línea aérea de media tensión del AP. nº 1998 al AP. nº
+2079, de la L/01 Ayna STR Hijar 5088 en Ayna exp. Ind.: 02211003608_2” (exp. S478/2026/AB/00093), situado en
+el término municipal de Ayna (Albacete), cuyo promotor es I-DE Redes Eléctricas Inteligentes S.A.U., no necesita
+someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el
+medio ambiente, siempre que se cumplan las medidas ambientales y de seguimiento que propone el promotor y los
+requisitos ambientales que se desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción del efecto que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Albacete, 9 de octubre de 2026
+La Delegada Provincial
+MARÍA LLANOS VALERO HERNÁNDEZ

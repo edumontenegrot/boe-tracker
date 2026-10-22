@@ -1,0 +1,166 @@
+Boletín Oficial de Castilla y León
+Núm. 205 Jueves, 22 de octubre de 2026 Pág. 132
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+UNIVERSIDAD DE SALAMANCA
+RESOLUCIÓN de 19 de octubre de 2026, del Rectorado de la Universidad de
+Salamanca, por la que se publica el Plan de Estudios de Graduado o Graduada en
+Ingeniería Mecánica por la Universidad de Salamanca.
+De conformidad con lo dispuesto en el artículo 27 del Real Decreto 822/2021, de 28
+de septiembre, por el que se establece la organización de las enseñanzas universitarias
+y del procedimiento de aseguramiento de su calidad y una vez obtenida la verificación del
+plan de estudios por el Consejo de Universidades, previo informe positivo de la Agencia
+para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter oficial
+del título mediante Acuerdo del Consejo de Ministros de 15 de septiembre de 2026,
+publicado en el B.O.E. de 22 de septiembre de 2026 por Resolución de la Secretaría
+General de Universidades de 16 de septiembre de 2026,
+Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención
+del título de Graduado o Graduada en Ingeniería Mecánica.
+Salamanca, 19 de octubre de 2026.
+El Rector,
+Fdo.: Juan Manuel Corchado Rodríguez
+CV: BOCYL-D-22102026-205-27
+
+Boletín Oficial de Castilla y León
+Núm. 205 Jueves, 22 de octubre de 2026 Pág. 133
+PLAN DE ESTUDIOS DE GRADUADO/A EN INGENIERÍA MECÁNICA
+Ámbito de conocimiento: Ingeniería industrial, ingeniería mecánica,
+ingeniería automática, ingeniería de la organización industrial e ingeniería de la navegación
+Código Titulación: 1500736
+Tipo de Materia ECTS
+Formación Básica (FB) 60
+Obligatorias (OB) 150
+Optativas (OP) 18
+Prácticas Externas 0
+Trabajo Fin de Grado (TFG) 12
+Créditos Totales 240
+Créditos
+Materia Asignatura Tipo Organización
+ECTS
+Matemáticas I FB 6 Semestral
+Matemáticas II FB 6 Semestral
+Matemáticas
+Matemáticas III FB 6 Semestral
+Matemáticas IV FB 6 Semestral
+Física I FB 6 Semestral
+Física
+Física II FB 6 Semestral
+Química FB 6 Semestral
+Química
+Tecnología del Medio Ambiente OB 6 Semestral
+Teoría de Circuitos OB 6 Semestral
+Fundamentos de Electrónica OB 6 Semestral
+Máquinas Eléctricas OB 6 Semestral
+Instalaciones Eléctricas de Media y Baja
+Tecnología OP 6 Semestral
+Tensión (ETSIIB)
+Eléctrica y
+Instalaciones Eléctricas Industriales y en
+Electrónica OP 6 Semestral
+la Edificación (ETSIIB
+Diseño y cálculo de instalaciones en baja y
+OP 3 Semestral
+alta tensión (EPSZ)
+Electrónica de los sistemas mecánicos
+OP 3 Semestral
+(EPSZ)
+Informática FB 6 Semestral
+Sistemas
+Fundamentos de Automática OB 6 Semestral
+de Control e
+Automatización Industrial (EPSZ) OP 6 Semestral
+Informática
+Programación (EPSZ) OP 3 Semestral
+Mecánica de Sólidos Rígidos OB 3 Semestral
+Mecánica de
+Elasticidad y Resistencia de Materiales I OB 6 Semestral
+sólidos
+Elasticidad y Resistencia de Materiales II OB 6 Semestral
+CV: BOCYL-D-22102026-205-27
+
+Boletín Oficial de Castilla y León
+Núm. 205 Jueves, 22 de octubre de 2026 Pág. 134
+Créditos
+Materia Asignatura Tipo Organización
+ECTS
+Tecnología de Ciencia de Materiales OB 6 Semestral
+Materiales Ingeniería de Materiales OB 6 Semestral
+Termodinámica OB 6 Semestral
+Ingeniería Máquinas Térmica OB 6 Semestral
+Térmica Energías alternativas (EPSZ) OP 3 Semestral
+Climatización (EPSZ) OP 3 Semestral
+Mecánica de Mecánica de Fluidos OB 6 Semestral
+Fluidos Sistemas y Máquinas Fluidomecánicos OB 6 Semestral
+Teoría de Mecanismos OB 6 Semestral
+Diseño y cálculo de Máquinas OB 6 Semestral
+Ampliación de Cálculo de Máquinas OB 6 Semestral
+Mecánica de Robots (ETSIIB) OP 6 Semestral
+Ingeniería
+Métodos de Cálculo en Ingeniería Mecánica
+Mecánica OP 3 Semestral
+(ETSIIB)
+Vibraciones Mecánicas (ETSIIB) OP 3 Semestral
+Mecánica de Robots (EPSZ) OP 3 Semestral
+Ingeniería del automóvil (EPSZ) OP 3 Semestral
+Diseño y Cálculo de Estructuras OB 6 Semestral
+Instalaciones industriales OB 3 Semestral
+Estructuras Metálicas y de Hormigón OB 6 Semestral
+Oficina Técnica OB 6 Semestral
+Estructuras y
+Construcciones industriales OB 6 Semestral
+Construcción
+Elementos de Unión (ETSIIB) OP 6 Semestral
+Cálculo computacional de estructuras
+OP 3 Semestral
+(EPSZ)
+Técnicas de digitalización avanzada en la
+OP 3 Semestral
+industria (EPSZ)
+Expresión gráfica FB 6 Semestral
+Expresión gráfica CAD 2D OB 3 Semestral
+en la ingeniería Ingeniería gráfica OB 6 Semestral
+CAD Mecánico (EPSZ) OP 3 Semestral
+CV: BOCYL-D-22102026-205-27
+
+Boletín Oficial de Castilla y León
+Núm. 205 Jueves, 22 de octubre de 2026 Pág. 135
+Créditos
+Materia Asignatura Tipo Organización
+ECTS
+Tecnología de Producción y Fabricación OB 6 Semestral
+Seguridad Laboral e Industrial OB 3 Semestral
+Ingeniería de los Procesos de Fabricación OB 6 Semestral
+Prototipado rápido e Impresión (ETSIIB) OP 6 Semestral
+Ingeniería de Transporte (ETSIIB) OP 3 Semestral
+Fabricación
+Control numérico (EPSZ) OP 6 Semestral
+Ingeniería de mantenimiento (EPSZ) OP 3 Semestral
+Metrología avanzada (EPSZ) OP 3 Semestral
+Gestión integrada de la calidad,
+OP 3 Semestral
+medioambiente y riesgos laborales (EPSZ)
+Administración de Empresas y
+FB 6 Semestral
+Organización Industrial
+Empresa
+Emprendimiento (ETSIIB) OP 6 Semestral
+Creación de empresas (EPSZ) OP 3 Semestral
+Inglés Inglés técnico (EPSZ) OP 3 Semestral
+Prácticas en
+Práctica de Empresa OP 6 Semestral
+empresa
+Trabajo fin de
+Trabajo fin de grado TFG 6 Semestral
+grado
+La propuesta de Plan de Estudios que se presenta se imparte en dos centros: en la
+Escuela Técnica Superior de Ingeniería Industrial de Béjar, y en la Escuela Politécnica
+Superior de Zamora, ambos pertenecientes a la Universidad de Salamanca.
+ETSIIB asignaturas optativas ofertadas en la Escuela Técnica Superior de
+Industrial Industrial de Béjar.
+EPSZ asignaturas optativas ofertadas en la Escuela Politécnica Superior de
+Zamora.
+• Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir
+modificaciones, siempre que lo autorice el vicerrectorado con competencias en ordenación
+académica y con anterioridad al inicio del curso académico.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-22102026-205-27
