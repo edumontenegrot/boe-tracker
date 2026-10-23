@@ -1,0 +1,87 @@
+AÑO XLV Núm. 204 23 de octubre de 2026 37549
+V.- ANUNCIOS
+OTROS ANUNCOS OFICIALES
+Consejería de Desarrollo Sostenible
+Anuncio de 06/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, sobre información
+pública de la solicitud de autorización administrativa previa y autorización administrativa de construcción
+de la instalación de almacenamiento de energía en baterías BESS FV3 Belinchón I, de 10 MW de potencia
+instalada y sus infraestructuras de evacuación, para su hibridación con la planta solar fotovoltaica FV3
+Belinchón I. Referencia: 162706 00022. [2026/7283]
+A los efectos previstos en la Ley 24/2013 del Sector Eléctrico, de 26 de diciembre, así como del Decreto 80/2007, de
+19 de junio, modificado por Decreto 34/2017, de 2 de mayo, por los que se regulan los procedimientos de autorización
+de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de Castilla-La Mancha y su régimen
+de revisión e inspección, el Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de
+transporte, distribución, comercialización, suministro y procedimientos de autorización de instalaciones de energía
+eléctrica, se somete a información pública el proyecto de ejecución de la instalación de almacenamiento de energía
+en baterías “BESS FV3 Belinchón I” de 10 MW de potencia instalada y sus infraestructuras de evacuación, a efectos
+de su autorización administrativa previa y autorización administrativa de construcción. Esta instalación hibrida con
+la planta solar fotovoltaica “FV3 Belinchón I” de 23,94 MW de potencia instalada, existente y en funcionamiento
+(expte. 162702-00735), del mismo titular, y se conectará en 30 kV a través de una línea subterránea a la subestación
+eléctrica transformadora (SET) Belinchón I 66/30 kV existente y también del mismo titular. Las infraestructuras de
+evacuación desde la SET Belinchón I 66/30 kV existente hasta la ST Huelves, propiedad de i-DE Redes Eléctricas
+Inteligentes, S.A.U., son las ya existentes para la planta solar fotovoltaica “FV3 Belinchón I”.
+Referencia: 162706-00022.
+Titular: Planta FV103, S.L.
+Domicilio social: Calle Princesa, 2, 4ª planta, 28008 Madrid.
+Situación: Término municipal de Belinchón (Cuenca).
+Características principales: Instalación de almacenamiento de energía en baterías de 10 MW de potencia instalada,
+12 contenedores de baterías con 64 inversores en total, 3 estaciones de potencia con 1 transformador cada una,
+centro de transformación servicios auxiliares (SSAA) con 1 transformador, línea subterránea de evacuación MT 30
+kV s/c hasta la SET Belinchón I 66/30 kV existente, y del mismo titular, para terminar evacuando en la ST Huelves,
+propiedad de i-DE Redes Eléctricas Inteligentes, S.A.U. Las actuaciones a realizar serán las siguientes:
+1.- Instalación de almacenamiento de energía en baterías ubicada en la parcela 22 del polígono 501 del término
+municipal de Belinchón (Cuenca). Formada por 12 contenedores de baterías electroquímicas LFP (Litio-Ferrofosfato)
+de la marca Sungrow, modelo PowerTitan 2.0 ST5015UX-4H o similar, con una capacidad unitaria para 5.015 kWh, q
+disponen de un total de 64 PCS o convertidores, de la marca Sungrow, de los cuales 18 serán del modelo SC210HX
+o similar, con una potencia unitaria de 231 kVA @30ºC y 46 serán del modelo SC125HX o similar, con una potencia
+nominal unitaria de 127 kVA. La potencia nominal total en inversores será de 10 MW que corresponde a la potencia
+instalada. Este sistema de almacenamiento se prepara sin capacidad de carga desde la red, de forma que la carga
+de las baterías se realizará únicamente a partir de la generación interna.
+2.- Números de expediente 162402-06703 a 162402-06705. 3 estaciones de potencia, marca Sungrow, modelo
+MVS5140-LS o similar, cuya finalidad es la elevación de 690V a 30 kV. Cada una dispone de 1 transformador
+de 5.140 kVA @40ºC y 3 celdas modulares de MT de 30 kV, de las cuales serán 2 de línea y 1 de protección del
+transformador con interruptor automático.
+La capacidad de acceso de 19,995 MW y el punto de conexión en la ST Huelves, propiedad de i-DE Redes Eléctricas
+Inteligentes, S.A.U. se mantienen para la hibridación de esta instalación de almacenamiento en baterías con la
+planta solar fotovoltaica “FV3 Belinchón I” existente y en funcionamiento. La potencia instalada del conjunto de la
+hibridación será de 33,94 MW.
+Cada módulo de la hibridación contará con su propio PPC (Power Plant Controller) y éstos, a su vez, estarán
+comunicados y coordinados con el PPC maestro, el cual controlará las diferentes tecnologías evitando que, en
+ningún caso, se supere la capacidad de acceso de la hibridación.
+
+AÑO XLV Núm. 204 23 de octubre de 2026 37550
+3.- Número de expediente: 162402-06707. Centro de transformación de SSAA, cuya finalidad es la elevación de 400V
+a 30 kV. Dispone de 1 transformador de 750 kVA instalado sobre una cimentación propia y separada físicamente de
+las estaciones de potencia y de los contenedores de baterías.
+4.- Número de expediente: 162102-02241. Línea subterránea de evacuación MT 30 kV s/c, de longitud total aprox.
+144,38 m, formada por 3 tramos de 18,20m, 18,20m y 107,98m, que conecta las estaciones de potencia entre sí y
+con la SET Belinchón I 66/30 kV. Conductor Al RHZ1-OL 18/30 kV y sección 3x(1x630) mm². Esta línea comparte
+zanja con la línea subterránea de SSAA.
+5.- Número de expediente: 162102-02245. Línea subterránea de SSAA MT 30 kV s/c, de longitud total aprox.
+159,23m, que conecta la SET Belinchón I 66/30 kV con el CT SSAA. Conductor Al RHZ1-OL 18/30 kV y sección
+3x(1x630) mm². Esta línea comparte zanja con la línea subterránea de evacuación.
+6.- Número de expediente: 162401-00090. Modificación de la SET Belinchón I 66/30 kV existente y del mismo
+titular. En el sistema de celdas de 30 kV, se incorpora 1 celda de línea para evacuación de las BESS y se modifica
+la celda existente de SSAA a la que se conectará un circuito adicional para alimentar los SSAA de las BESS. En
+total se dispondrá de 5 celdas modulares de MT 30 kV, de las cuales serán 4 de línea (2 de entrada de la PSFV, 1
+de entrada de las BESS y 1 de entrada CT SSAA) y 1 de protección del transformador. Para la medida de la planta
+fotovoltaica se instalará un toroidal en barras y para la medida del sistema de almacenamiento se instalarán los
+correspondientes transformadores de intensidad en la celda de acometida del cuadro de este sistema. La medida
+totalizadora se realizará a partir de los transformadores de tensión e intensidad en 66 kV ubicados en esta SET
+mediante la instalación de un transformador.
+7.- Obra civil: Preparación del terreno, zanjas para la instalación del cableado, cimentaciones de las estaciones de
+potencia y de los contenedores de baterías, zanjas para líneas de media tensión, etc.
+Presupuesto de ejecución material: 2.020.633,21 €
+Finalidad: Hibridación, entre un sistema de almacenamiento de energía en baterías electroquímicas LFP (litio-
+ferrofosfato) y la planta solar fotovoltaica “FV3 Belinchón I” existente y en funcionamiento, consiguiendo el
+aprovechamiento completo de la energía renovable generada.
+Lo que se hace público para que pueda ser examinado el expediente en el Servicio de Industria y Energía de la
+Delegación en Cuenca de la Consejería de Desarrollo Sostenible, situado en Parque de San Julián, nº 13, solicitando
+cita previa en el teléfono 969179743 y formularse las alegaciones que se estimen oportunas en el plazo de veinte
+días, contados a partir del siguiente al de la publicación de este anuncio.
+El proyecto de ejecución puede ser consultado de igual forma en el tablón de la Sede electrónica de la Junta de
+Comunidades de Castilla-La Mancha, a través del siguiente enlace:
+https://www.jccm.es/servicios/tablon-de-anuncios.
+Cuenca, 6 de octubre de 2026
+El Delegado Provincial
+JOSÉ IGNACIO BENITO CULEBRAS

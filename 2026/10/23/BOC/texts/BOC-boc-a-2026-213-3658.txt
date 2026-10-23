@@ -1,0 +1,349 @@
+Boletín Oficial de Canarias núm. 213 38233 Viernes 23 de octubre de 2026
+III. Otras Resoluciones
+Consejería de Hacienda y Relaciones con la Unión Europea
+3658 Instituto Canario de Estadística.- Resolución de 13 de octubre de 2026, del Director,
+por la que se establecen instrucciones técnicas para la recogida interoperable
+de datos sobre actividades de hospedaje con el fin de atender necesidades de
+información estadística del Plan Estadístico de Canarias 2026-2030.
+ANTECEDENTES DE HECHO
+Primero.- El Plan Estadístico de Canarias 2026-2030, aprobado mediante Decreto
+87/2026, de 18 de mayo, identifica en su Anexo III las siguientes necesidades de información
+estadística relacionadas con el turismo:
+- NEC199A. Oferta turística.
+Descripción: conocer los productos y servicios ofertados en actividades características
+del turismo. Esbozar los perfiles de las empresas y establecimientos ofertantes, y contar
+con indicadores de rentabilidad, sostenibilidad, gobernanza, digitalización, innovación,
+renovación y accesibilidad. Disponer de información específica sobre las viviendas
+vacacionales registradas y acerca de su propiedad y explotación, entre otros indicadores.
+- NEC201A. Perfil del turista y excursionista.
+Descripción: disponer de información exhaustiva sobre las características
+sociodemográficas y socioeconómicas de la población turística y excursionista por islas,
+municipios y microdestinos turísticos, incluyendo los perfiles de los cruceristas y de los
+alojados en viviendas vacacionales.
+- NEC202A. Gasto, hábitos y satisfacción turística.
+Descripción: conocer el gasto y el itinerario de llegada y de movilidad interior de la
+población turística, con especial atención a sus opiniones sobre transporte, alojamiento,
+restauración y otras experiencias durante el viaje y estancia en el archipiélago.
+- NEC023A. Sostenibilidad del turismo.
+Descripción: estimar la sostenibilidad económica, ambiental, social y cultural del
+turismo en Canarias. Contar con información estadística sobre su consumo de agua, consumo
+de energía (renovable o no), eficiencia energética, gestión de los residuos, emisiones de
+gases de efecto invernadero, balance de carbono e incidencia sobre la biodiversidad y los
+ecosistemas, entre otros indicadores de impacto ambiental. Disponer de información sobre
+la residencialización en suelo turístico, la disponibilidad de alojamiento residencial y las
+condiciones de vida en las proximidades, así como acerca de la turistificación de las zonas
+residenciales.
+Estas necesidades de información se atienden a través de las siguientes estadísticas de
+interés para Canarias recogidas en el Anexo V del citado Plan:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38234 Viernes 23 de octubre de 2026
+- ST0079A. Estadísticas sobre turistas, consumo y gasto turístico.
+Fines: obtener información estadística sobre turistas, consumo y gasto turístico.
+Necesidades de información que aborda: NEC201A y NEC202A.
+- ST0080A. Estadísticas sobre hostelería y oferta turística.
+Fines: obtener información estadística sobre hostelería y oferta turística.
+Necesidades de información que aborda: NEC199A.
+- ST0081A. Estadísticas sobre sostenibilidad del turismo.
+Fines: obtener información estadística sobre la sostenibilidad del turismo.
+Necesidades de información que aborda: NEC023A.
+Segundo.- Mediante Orden de la Consejería de Hacienda y Relaciones con la Unión
+Europea, de fecha 23 de diciembre de 2025, se prorroga y actualiza el Programa Estadístico
+anual 2025, durante el año 2026. En este Programa se recoge la siguiente operación
+estadística:
+- C00065A. Encuesta de Alojamiento Turístico.
+Objetivo: el objetivo de la encuesta es ofrecer indicadores mensuales de capacidad,
+ocupación, rentabilidad, precios, ingresos y empleo de los establecimientos que prestan
+servicio de alojamiento (código 55 de la CNAE 2009) en Canarias. Además tiene como
+objetivo obtener datos periódicos de consumo de energía y agua, así como de la generación
+de residuos sólidos y de aguas residuales. A su vez, anualmente pretende ofrecer información
+de las características de las infraestructuras, equipamientos y servicios de los alojamientos.
+Tercero.- La Encuesta de Alojamiento Turístico se basa en la cumplimentación
+periódica de cuestionarios por parte de los establecimientos alojativos. Ello supone para
+estas unidades informantes una carga de respuesta recurrente, de frecuencia mensual,
+que se suma a otras obligaciones de comunicación de información a las administraciones
+públicas y que incide directamente en las tasas de respuesta, en la calidad de los datos y en
+la oportunidad de los resultados.
+Una parte sustancial de la información requerida por la encuesta ya se encuentra
+registrada en los sistemas de gestión de los propios establecimientos, que registran y
+comunican por medios electrónicos y en un formato normalizado los datos relativos a las
+personas viajeras y a sus estancias. La transmisión automatizada de la información desde
+dichos sistemas, a través de un servicio de interoperabilidad propio del Instituto Canario
+de Estadística, permite sustituir progresivamente la cumplimentación manual de cuestionarios
+por un intercambio electrónico entre sistemas. Con ello se reduce la carga de respuesta y los
+costes de cumplimiento de las unidades informantes, se eliminan errores de transcripción y
+se acortan los plazos de disponibilidad de los datos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38235 Viernes 23 de octubre de 2026
+Este enfoque responde a los objetivos del propio Sistema Estadístico de Canarias. La
+Estrategia de datos del Anexo I del Plan Estadístico de Canarias 2026-2030 establece, en
+su línea 2.5 (Dato único), que los datos se produzcan una sola vez y se reutilicen de forma
+eficiente y no redundante, y en su línea 2.6 (Estadísticas multifuentes), el uso prioritario de
+datos administrativos y nuevas fuentes con el propósito de reducir la carga de las unidades
+informantes. A su vez, el Decreto 89/2023, de 25 de mayo, recoge entre los principios
+del régimen de gobierno de datos la carga no excesiva para las unidades informantes, la
+rentabilidad y el intercambio de datos seguro e interoperable, y prevé que la Infraestructura
+de Datos y Metadatos Estadísticos de Canarias priorice el acceso a datos públicos o privados
+mediante servicios interoperables para asegurar la reducción de la carga de respuesta.
+Estos objetivos son igualmente coherentes con el principio de carga no excesiva para los
+encuestados del Código de Buenas Prácticas de las Estadísticas Europeas.
+Como precedente en esta misma línea, mediante la Resolución de 16 de octubre de
+2007, de la Directora del Instituto Canario de Estadística, por la que se anuncia la estructura
+de fichero XML para el envío de los cuestionarios mensuales de la Encuesta de Alojamiento
+Turístico en Establecimientos Hoteleros y en Establecimientos Extrahoteleros (BOC n.º 220,
+de 2.11.2007), se publicó una estructura de fichero XML común, acordada con el Instituto
+Nacional de Estadística y con los institutos de estadística de las restantes comunidades
+autónomas. Esta estructura permite a los establecimientos generar el cuestionario mensual
+de la encuesta desde sus propios sistemas de gestión y cargarlo en una aplicación web
+del Instituto Canario de Estadística. Esta vía, que continúa en uso, opera con información
+agregada mensual y requiere la carga manual del fichero. Asimismo, la disposición final
+primera de la citada Resolución fijó para la estructura publicada una validez de diez años
+desde su entrada en vigor, el 1 de mayo de 2008.
+Cuarto.- Es necesario establecer determinadas condiciones técnicas para la citada
+operación estadística, que articulen la recogida de datos a través de servicios interoperables,
+ya que las mismas no se determinan en el Programa Estadístico Anual.
+FUNDAMENTOS DE DERECHO
+Primero.- El artículo 122 del Estatuto de Autonomía de Canarias atribuye a la
+Comunidad Autónoma de Canarias la competencia exclusiva sobre estadística para sus
+propios fines y la planificación estadística. En su ejercicio, el artículo 26 de la Ley 1/1991,
+de 28 de enero, de Estadística de la Comunidad Autónoma de Canarias, configura el Plan
+Estadístico de Canarias como el instrumento de ordenación y planificación de la actividad
+estadística pública de la comunidad autónoma.
+El Decreto 87/2026, de 18 de mayo, por el que se aprueba el Plan Estadístico de Canarias
+2026-2030, identifica en su artículo 4 y Anexo III las necesidades de información estadística
+de Canarias, y en su artículo 6 y Anexo V las estadísticas de interés de la comunidad autónoma,
+incluyendo para cada una de ellas las necesidades de información que aborda, el enunciado
+de sus fines y la descripción general de su contenido. Entre ellas figuran las estadísticas de
+interés ST0079A, ST0080A y ST0081A, relacionadas en el antecedente de hecho primero,
+que dan respuesta a las necesidades NEC199A, NEC201A, NEC202A y NEC023A.
+Conforme al artículo 7.4 del citado Decreto, las estadísticas de interés se desarrollan
+a través de los programas estadísticos anuales mediante operaciones estadísticas, estudios
+estadísticos y proyectos de estadística experimental. El artículo 7.6 dispone que cada
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38236 Viernes 23 de octubre de 2026
+operación estadística incluirá, entre otros apartados, las estadísticas de interés que desarrolla,
+los organismos facultados para reclamar la información cuando esta sea obligatoria y los
+sujetos obligados a suministrarla, así como los plazos y formas de esta obligación.
+La Orden de la Consejería de Hacienda y Relaciones con la Unión Europea, de 23 de
+diciembre de 2025, por la que se prorroga y actualiza el Programa Estadístico Anual 2025,
+durante el año 2026, vigente de acuerdo con la disposición transitoria única del Decreto
+87/2026, de 18 de mayo, incluye la operación estadística C00065A Encuesta de Alojamiento
+Turístico, sin determinar el procedimiento, los plazos, ni la forma de recogida de los datos.
+Procede, por tanto, concretar dichos extremos técnicos a fin de que la operación atienda las
+necesidades de información y desarrolle las estadísticas de interés antes señaladas.
+Esta concreción debe realizarse con arreglo a las directrices de eficacia del artículo 9
+del Decreto 87/2026, de 18 de mayo, que prioriza las fuentes de datos de titularidad pública
+y dispone que las necesidades de las personas usuarias no supondrán, en ningún caso, una
+carga excesiva para las unidades informantes, así como a los principios rectores del artículo
+4 del Decreto 89/2023, de 25 de mayo, de régimen de gobierno y análisis de datos del
+Sistema Estadístico de Canarias, en particular los de carga no excesiva para las unidades
+informantes (apartado 17), rentabilidad (apartado 19) e intercambio de datos seguro e
+interoperable (apartado 20). Asimismo, el artículo 21.1 del citado Decreto 89/2023, de 25
+de mayo, exige que los datos se elaboren una sola vez y se faciliten para su reutilización
+a través de la Infraestructura de Datos y Metadatos Estadísticos de Canarias, y su artículo
+20.3, en la redacción dada por la disposición final primera del Decreto 87/2026, de 18 de
+mayo, establece lo siguiente:
+“3. La Infraestructura de Datos y Metadatos Estadísticos priorizará el acceso a datos
+públicos o privados para fines estadísticos a través de servicios interoperables con el fin
+de asegurar la reducción de carga de respuesta de las unidades informantes y mejorar la
+puntualidad u oportunidad de las estadísticas públicas”.
+Segundo.- El artículo 12 del Decreto 89/2023, de 25 de mayo, de régimen de gobierno
+y análisis de datos del Sistema Estadístico de Canarias, estructura los instrumentos
+de planificación, gobierno y gestión de datos con fines estadísticos en cuatro niveles
+relacionados jerárquicamente. El primer nivel lo integran el propio Decreto 89/2023, de 25
+de mayo, y el Decreto del Plan Estadístico de Canarias; el segundo, las Órdenes por las que
+se aprueban los Programas Estadísticos Anuales; el tercero, los protocolos de federación y
+las políticas de activos de datos, y el cuarto, conforme a su letra d), las instrucciones técnicas
+y órdenes de servicio aprobadas por la Dirección del Instituto Canario de Estadística, que
+deben dictarse a partir de las directrices marcadas por el régimen de gobierno de datos y
+sus políticas asociadas.
+Por su parte, el artículo 16.2 del mismo Decreto establece lo siguiente:
+“2. La Dirección del Instituto Canario de Estadística dictará, mediante Resolución,
+instrucciones técnicas para el Sistema Estadístico de Canarias, así como para las unidades
+proveedoras de datos para fines estadísticos o el análisis masivo de datos. Cuando se estime
+conveniente por razón de las unidades proveedoras o de los efectos que puedan producirse,
+estas instrucciones se publicarán en el Boletín Oficial de Canarias, sin perjuicio de su
+difusión de acuerdo con la normativa de transparencia, acceso a la información pública y
+buen gobierno”.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38237 Viernes 23 de octubre de 2026
+La presente Resolución tiene la naturaleza de instrucción técnica dirigida a las unidades
+proveedoras de datos de la operación estadística C00065A Encuesta de Alojamiento
+Turístico. Su objeto se limita a concretar la forma, plazos y las condiciones técnicas de
+suministro de la información, en los términos en que la obligación de suministro resulta
+de la Ley 1/1991, de 28 de enero, y del Programa Estadístico Anual vigente, conforme a
+lo previsto en el artículo 7.6 del Decreto 87/2026, de 18 de mayo. Se dicta, asimismo, en
+coherencia con los principios rectores del artículo 4 del Decreto 89/2023, de 25 de mayo,
+citados en el fundamento anterior.
+Tercero.- La competencia para la aprobación de la presente instrucción técnica
+corresponde a la persona titular de la Dirección del Instituto Canario de Estadística, a quien
+el artículo 7.3.a) del Decreto 89/2023, de 25 de mayo, atribuye la aprobación de las políticas
+de datos y de las instrucciones técnicas asociadas, y el artículo 13.3.i) del Reglamento
+de organización y funcionamiento del Instituto Canario de Estadística, aprobado por
+Decreto 11/2017, de 16 de enero, en la redacción dada por la disposición final primera del
+Decreto 89/2023, de 25 de mayo, el desarrollo del nivel gerencial del régimen de gobierno
+de datos para fines estadísticos mediante la aprobación y supervisión de las políticas de
+datos e instrucciones técnicas asociadas.
+Por todo lo expuesto,
+RESUELVO:
+Primero.- Aprobar la instrucción técnica que figura como anexo, correspondiente
+al procedimiento, forma y plazo de recogida interoperable de datos sobre actividades de
+hospedaje de la operación estadística C00065A Encuesta de Alojamiento Turístico.
+Segundo.- Mantener en vigor la Resolución de 16 de octubre de 2007, de la Directora
+del Instituto Canario de Estadística, por la que se anuncia estructura de fichero XML
+para el envío de los cuestionarios mensuales de la Encuesta de Alojamiento Turístico
+en Establecimientos Hoteleros y en Establecimientos Extrahoteleros (BOC n.º 220, de
+2.11.2007), en los términos y con el alcance establecidos en el apartado quinto del anexo.
+Tercero.- Publicar en el Boletín Oficial de Canarias y en la web del Instituto Canario
+de Estadística.
+Las Palmas de Gran Canaria, a 13 de octubre de 2026.- El Director, Sergio Fernando
+Alonso Rodríguez.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38238 Viernes 23 de octubre de 2026
+ANEXO
+INSTRUCCIÓN TÉCNICA PARA LA RECOGIDA INTEROPERABLE DE DATOS
+SOBRE ACTIVIDADES DE HOSPEDAJE PARA LA “ENCUESTA DE ALOJAMIENTO
+TURÍSTICO”.
+Primero.- Ámbito de aplicación y sujetos obligados.
+Esta Resolución concreta el procedimiento, plazo y la forma del suministro
+interoperable de datos de actividades de hospedaje de la operación estadística denominada
+Encuesta de Alojamiento Turístico.
+Quedan sujetas a esta instrucción técnica todas las personas físicas o jurídicas
+que determine el Programa Estadístico Anual de la operación estadística, en cuanto
+unidades informantes de la operación estadística aquí regulada, con independencia de las
+obligaciones que, en su caso, les correspondan frente al Ministerio del Interior en virtud
+del Real Decreto 933/2021, de 26 de octubre, por el que se establecen las obligaciones
+de registro documental e información de las personas físicas o jurídicas que ejercen
+actividades de hospedaje y alquiler de vehículos a motor.
+Segundo.- Vigencia.
+La eficacia de la obligación de suministro frente a las unidades informantes queda
+condicionada a la inclusión de la Encuesta de Alojamiento Turístico en los Programas
+Estadísticos Anuales.
+Tercero.- Canal técnico de suministro.
+El suministro de datos se realizará mediante un servicio de interoperabilidad, basado
+en una interfaz de programación de aplicaciones (API, del inglés Application Programming
+Interface), de titularidad y gestión exclusiva del ISTAC, integrado en eDatos, con cifrado
+en tránsito y en reposo y registro de accesos y trazabilidad conforme al Esquema Nacional
+de Seguridad.
+Cuarto.- Características técnicas del suministro.
+Las características técnicas del suministro de información, a través del servicio de
+interoperabilidad previsto en el apartado anterior, se ajustarán, en lo que resulte compatible
+con la finalidad estadística, a las del sistema de registro documental y comunicación
+establecido en el Real Decreto 933/2021, de 26 de octubre, con el fin de que las unidades
+informantes puedan reutilizar los registros informáticos y los desarrollos técnicos ya
+implantados en sus sistemas de gestión. En particular:
+1. Origen de los datos. La información se obtendrá del registro informático que las
+unidades informantes deben llevar conforme al artículo 5 del Real Decreto 933/2021, de
+26 de octubre, sin que sea necesaria la cumplimentación manual de cuestionarios para las
+variables que en él se contienen.
+2. Momento de la comunicación. La comunicación se realizará de manera inmediata
+y, en todo caso, en un plazo no superior a 24 horas, respectivamente, a partir de los siguientes
+momentos:
+a) Al realizar la reserva o la formalización del contrato o, en su caso, su anulación.
+b) Al inicio de los servicios contratados.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38239 Viernes 23 de octubre de 2026
+Adicionalmente, se comunicará en el mismo plazo la finalización efectiva de la estancia,
+cuando la fecha u hora de salida difieran de las inicialmente comunicadas.
+3. Procedimiento telemático. La comunicación se realizará exclusivamente por
+procedimientos telemáticos, mediante intercambio electrónico entre los sistemas de gestión
+de las unidades informantes y el servicio de interoperabilidad del Instituto Canario de
+Estadística. El formato de los mensajes, las codificaciones y el esquema de autenticación
+reproducirán, en lo posible, los del sistema de comunicación del Real Decreto 933/2021,
+de 26 de octubre. El servicio es propio del Instituto Canario de Estadística y no mantiene
+conexión, reenvío ni intermediación alguna con el sistema de comunicación del Ministerio
+del Interior.
+4. Especificación técnica. La especificación técnica del servicio de interoperabilidad,
+la definición de las variables y las tablas de codificación, en particular las del lugar de
+residencia y del tipo de establecimiento, se publicarán en la sede web del Instituto Canario
+de Estadística y en el banco de activos semánticos de la Infraestructura de Datos y Metadatos
+Estadísticos de Canarias (eDatos),
+5. Validación y constancia de recepción. El servicio interoperable validará el formato y
+el contenido de cada comunicación. Las comunicaciones que no superen las validaciones
+no se considerarán recibidas. Para las comunicaciones validadas, el servicio emitirá una
+constancia de recepción. El Instituto Canario de Estadística podrá dirigirse a las unidades
+informantes para resolver las inconsistencias que detecte.
+6. Periodo de pruebas. El Instituto Canario de Estadística habilitará un entorno de
+pruebas, al menos un mes antes del inicio de la obligación de suministro por esta vía.
+7. Otras variables. Las variables de la Encuesta de Alojamiento Turístico que no
+forman parte del registro previsto en el Real Decreto 933/2021, de 26 de octubre, tales
+como precios, ingresos, empleo, consumos de energía y agua, generación de residuos y
+características de las infraestructuras, equipamientos y servicios, seguirán suministrándose
+por el procedimiento que el Instituto Canario de Estadística tiene establecido para dicha
+operación.
+8. Independencia de obligaciones. El suministro previsto en esta Resolución no
+exime, sustituye ni modifica las obligaciones de registro y comunicación de las unidades
+informantes frente a las autoridades competentes derivadas del Real Decreto 933/2021, de
+26 de octubre.
+Quinto.- Coexistencia con el envío de los cuestionarios mensuales y mejora de su
+comunicación mediante servicios interoperables.
+1. Mantenimiento en vigor. Se mantiene en vigor la Resolución de 16 de octubre de
+2007, de la Directora del Instituto Canario de Estadística, por la que se anuncia estructura
+de fichero XML para el envío de los cuestionarios mensuales de la Encuesta de Alojamiento
+Turístico en Establecimientos Hoteleros y en Establecimientos Extrahoteleros (BOC n.º
+220, de 2.11.2007). La estructura de fichero XML establecida en su Anexo I conservará
+su validez, no obstante el plazo previsto en su disposición final primera, hasta que la
+información que contiene pueda suministrarse a través del servicio de interoperabilidad
+regulado en esta instrucción técnica.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38240 Viernes 23 de octubre de 2026
+2. Comunicación mediante servicios interoperables. Conforme a lo previsto en
+el apartado cuarto de la Resolución de 16 de octubre de 2007, que habilita al Instituto
+Canario de Estadística para poner a disposición de las unidades informantes nuevas
+formas de remisión del fichero XML manteniendo su estructura, el Instituto habilitará,
+como alternativa a la carga a través de la aplicación web, un servicio de interoperabilidad
+integrado en eDatos que permita el envío automatizado del fichero desde los sistemas de
+gestión de los establecimientos. Este servicio aplicará las mismas validaciones y emitirá
+la misma constancia de recepción que la aplicación web, y estará sujeto a las medidas de
+seguridad previstas en el mismo.
+3. Actualización de las codificaciones. Las tablas de codificación del lugar de
+residencia y de los tipos y categorías de establecimiento, recogidas en los Anexos IV y
+V de la Resolución de 16 de octubre de 2007, se mantendrán actualizadas conforme a las
+nomenclaturas y a la normativa turística vigentes, y se publicarán en el banco de activos
+semánticos de eDatos, sin alterar la estructura del fichero XML.
+Sexto.- Modelo de tratamiento: microdatos vinculables mediante tercero de
+confianza.
+Conforme al modelo de Sistema de Datos Integrados (iDatos) y a la figura del integrador
+de confianza entre pares del anexo terminológico del Decreto 89/2023, de 25 de mayo, el
+suministro de datos se realiza a nivel de microdato individualizado, con el fin de permitir su
+vinculación con otras fuentes estadísticas, conforme a los artículos 63.3 y 64.2 del Decreto
+89/2023, de 25 de mayo:
+1. El ISTAC actúa como integrador de confianza respecto de los datos recibidos.
+2. La recepción y vinculación de microdatos identificados se realiza exclusivamente
+en el entorno de tratamiento seguro del ISTAC, con acceso restringido al personal sujeto a
+secreto estadístico.
+3. Completada la vinculación, los identificadores directos se sustituyen por un
+identificador estadístico interno seudonimizado; ninguna fase posterior de explotación,
+análisis o difusión emplea datos identificativos en claro.
+4. La tabla de correspondencia identificador-persona se custodia de forma separada,
+cifrada y con acceso restringido.
+5. Los identificadores directos se conservan solo el tiempo estrictamente necesario
+para completar la vinculación, tras lo cual se procede a su seudonimización irreversible o
+eliminación.
+Séptimo.- Protección de datos y evaluación de impacto.
+El tratamiento se ampara en el artículo 6.1.e) del Reglamento (UE) 2016/679 del
+Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de
+las personas físicas en lo que respecta al tratamiento de datos personales y a la libre
+circulación de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento
+General de Protección de Datos), en relación con su artículo 89, y el artículo 25 de la Ley
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
+
+Boletín Oficial de Canarias núm. 213 38241 Viernes 23 de octubre de 2026
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los
+derechos digitales. Dado que se opera sobre microdatos identificados durante la fase de
+vinculación, la aprobación definitiva de esta Resolución requiere la realización previa de
+una evaluación de impacto relativa a la protección de datos (artículo 35 del Reglamento
+General de Protección de Datos), que valore específicamente los riesgos de reidentificación
+y la idoneidad de las medidas de seudonimización y separación de claves.
+Octavo.- Secreto estadístico.
+Los datos quedan sometidos al deber de confidencialidad y secreto estadístico del
+artículo 18 y siguientes de la Ley 1/1991, de 28 de enero, de Estadística de la Comunidad
+Autónoma de Canarias, y a las garantías de los artículos 63 y 64 del Decreto 89/2023, de 25
+de mayo, de régimen de gobierno y análisis de datos del Sistema Estadístico de Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-213-3658
