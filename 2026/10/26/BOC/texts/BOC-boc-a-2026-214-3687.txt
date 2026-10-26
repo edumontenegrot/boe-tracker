@@ -1,0 +1,989 @@
+Boletín Oficial de Canarias núm. 214 38637 Lunes 26 de octubre de 2026
+III. Otras Resoluciones
+Consejería de Transición Ecológica y Energía
+3687 Dirección General de Energía.- Resolución de 28 de septiembre de 2026, por la
+que se concede la autorización administrativa de las instalaciones eléctricas de
+generación denominadas “Planta de Generación de Emergencia de 14,8 MW-Planta
+Tigaiga”, en el término municipal de Los Realejos, Tenerife.- Expte. n.º GE25/017.
+ANTECEDENTES DE HECHO
+1.º) Solicitud.
+Con fecha 5 de diciembre de 2024, la entidad DISA Generación, S.L.U. presenta
+ante la Dirección General de Energía del Gobierno de Canarias solicitud de autorización
+administrativa y declaración, en concreto, de utilidad pública para la ejecución del proyecto
+denominado “Planta de Generación de Emergencia de 14,8 MW-Planta Tigaiga”, en el
+término municipal de Los Realejos, isla de Tenerife, asignándole el número de expediente
+GE25/017.
+Durante la tramitación del expediente, y como consecuencia de los requerimientos
+e indicaciones formulados por las administraciones implicadas, el promotor modificó la
+ubicación inicialmente prevista para la planta, procediendo a actualizar la documentación
+técnica y ambiental correspondiente.
+Con fecha 31 de enero de 2026, DISA Generación, S.L.U. presentó la actualización
+del proyecto y solicitó la continuación de la tramitación de la autorización administrativa,
+declaración, en concreto, de utilidad pública y modificación de la declaración de interés
+general.
+La documentación aportada al expediente correspondiente al nuevo emplazamiento
+comprende el proyecto denominado “Planta de Generación de Emergencia de 14,8 MW-
+Planta Tigaiga (Los Realejos)”, revisión de enero de 2026; la “Adenda Modificación LSAT
+Planta de Generación con Grupos de Emergencia 14,8 MW-Planta Tigaiga”, revisión de
+marzo de 2026, que modifica el trazado de la línea de evacuación previsto en el proyecto;
+y el Documento Ambiental del proyecto “Planta de Generación con Grupos de Emergencia
+14,8 MW-Planta Tigaiga”, de marzo de 2026.
+2.º) Antecedentes.
+En los últimos informes de cobertura de los sistemas eléctricos de Canarias, el
+Operador del Sistema ha puesto de manifiesto la necesidad de la puesta en servicio urgente
+de generación adicional gestionable, con carácter de emergencia, en los sistemas eléctricos
+de Gran Canaria, Tenerife y Lanzarote-Fuerteventura.
+Con fecha 2 de octubre de 2023, el Consejo de Gobierno aprobó la declaración de
+emergencia energética en la Comunidad Autónoma de Canarias con el fin de comprometer
+todas las políticas y medidas que sean necesarias tendentes a resolver la actual situación de
+vulnerabilidad que presenta la generación eléctrica en Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38638 Lunes 26 de octubre de 2026
+Entre los acuerdos de la citada declaración de emergencia, destacaba la adopción de las
+medidas temporales necesarias para garantizar el suministro eléctrico en el corto plazo, ante
+la situación de riesgo cierto de cobertura puesta de manifiesto por el Operador del Sistema.
+La Consejería de Transición Ecológica y Energía, a la vista del riesgo de cobertura de la
+demanda en el corto plazo y según lo acordado en la declaración de emergencia energética
+de la Comunidad Autónoma de Canarias, realizó una invitación a las entidades interesadas
+a presentar propuestas para la instalación de potencia de generación adicional con el fin de
+cubrir las necesidades de emergencia en los sistemas eléctricos de Canarias. El plazo de la
+citada invitación finalizó el 26 de octubre de 2023.
+Las entidades que presentaron propuestas aportaron el estudio de los costes de cada una de
+las mismas con el fin de que el Ministerio para la Transición Ecológica y el Reto Demográfico
+pudiera determinar el régimen retributivo aplicable a las mismas. Una vez analizadas todas las
+propuestas presentadas, el 22 de marzo de 2024 se envió por parte de esta Dirección General
+un escrito al Ministerio, solicitando el reconocimiento de las repercusiones económicas para
+la adopción de medidas para la garantía del suministro, con carácter previo a su adopción,
+de las propuestas económicas presentadas con el fin de proseguir con el procedimiento para
+cubrir la potencia necesaria e instalarla en el menor tiempo posible.
+Con fecha 8 de mayo de 2024, el Ministerio para la Transición Ecológica y el Reto
+Demográfico dictó la Orden TED/433/2024, por la que se acuerda el reconocimiento de las
+repercusiones económicas derivadas de la adopción de medidas temporales y extraordinarias
+para garantizar la seguridad del suministro en las islas de Gran Canaria, Tenerife y Fuerteventura.
+Posteriormente, mediante la Orden TED/909/2025, de 7 de agosto, se acordó un nuevo
+reconocimiento de dichas repercusiones económicas y se revocó la Orden TED/433/2024,
+estableciéndose expresamente que los proyectos que hubieran iniciado su tramitación y
+ejecución al amparo de la orden revocada se entenderían integrados en el nuevo reconocimiento.
+La citada Orden establece que el reconocimiento de las repercusiones económicas se
+mantendrá durante un periodo de tres años desde el día siguiente al de su publicación
+en el Boletín Oficial del Estado, pudiendo prorrogarse en la medida en que las medidas
+extraordinarias resulten necesarias en función de la información remitida por el Operador
+del Sistema y de la implantación efectiva de nueva generación o renovación de la existente.
+3.º) Descripción de las instalaciones proyectadas.
+El objeto del proyecto consiste en la instalación de una planta de generación eléctrica
+de emergencia de 14,8 MW, constituida por ocho (8) grupos motogeneradores, instalados
+en módulos contenerizados, equipados con motores de ciclo Otto de gas, modelo MWM
+TCG3020 V20 Z o similar, y alternadores Marelli MJH 630 LA4 o similar, de 1.880 kWe
+de potencia, a 11 kV y 50 Hz, así como los correspondientes sistemas de refrigeración,
+lubricación, ventilación, arranque, control y demás equipos auxiliares.
+La instalación dispondrá de un sistema de almacenamiento y suministro de propano,
+constituido principalmente por dos depósitos horizontales de 200 m³ de capacidad cada uno,
+ubicados en una zona segregada y perimetrada de la parcela, con una superficie aproximada
+de 605 m². El sistema se completa con bomba de trasiego, sistema de vaporización, módulo
+de calefacción, vaso de expansión, unidad de acondicionamiento del gas y grupos de
+regulación para el suministro del combustible a los motogeneradores.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38639 Lunes 26 de octubre de 2026
+El abastecimiento de propano a dichos depósitos se realizará mediante cisternas, para
+lo que se proyecta un cargadero específico dotado de un puesto de descarga y de dos brazos
+articulados, uno para la fase líquida y otro para la fase gaseosa.
+Asimismo, la planta contará con un edificio auxiliar-eléctrico, de 205,16 m² de
+superficie y una planta, destinado, entre otros usos, a sala de control, sala de celdas, sala de
+transformador, sala de baja tensión y sala de control y comunicaciones.
+La instalación se completa con los correspondientes servicios auxiliares, instalaciones
+de protección contra incendios, sistema de control, CCTV, megafonía, iluminación exterior,
+sistema de protección contra descargas atmosféricas, red de tierras y redes de saneamiento,
+pluviales y drenajes.
+Para la evacuación de la energía eléctrica generada se proyecta la subestación elevadora
+“SET Los Realejos 20/11 kV”, constituida por un transformador de potencia de 20/16 MVA
+(ONAN/ONAF), con relación de transformación 20/11 kV, así como la línea e instalaciones
+de enlace a 20 kV entre dicha subestación y la Subestación Los Realejos 20 kV de
+EDistribución.
+Las instalaciones se emplazan en el polígono 10, parcelas 49 y 138, La Torre/La
+Gañanía, término municipal de Los Realejos, isla de Tenerife, con referencias catastrales
+38031A010000490000AQ y 38031A010001380000AW, respectivamente.
+La conexión con la Subestación Los Realejos se realizará a 20 kV, mediante una terna de
+cable RHZ1-OL(S) 12/20 kV, de sección 1×630 mm² + H16 Cu, dispuesta en canalización
+subterránea mediante tres tubos de 160 mm de diámetro.
+4.º) Información pública.
+Mediante anuncio de la Dirección General de Energía de fecha 26 de abril de 2026,
+publicado en el Boletín Oficial de Canarias n.º 89, de 11 de mayo de 2026, así como en
+la sede electrónica de la Consejería de Transición Ecológica y Energía del Gobierno de
+Canarias, se sometió a información pública, durante el plazo de 30 días contados a partir
+del siguiente al de su publicación, el expediente relativo a la autorización administrativa
+del expediente de referencia, con el fin de que cualquier persona física o jurídica pudiera
+consultarlo, resumiéndose a continuación las alegaciones recibidas:
+4.1. Cristian García López, Anselmo García Pérez y Antonio Gabriel Cassany Pérez: se
+reciben escritos de alegaciones de Cristian García López, el 15 de mayo de 2026; Anselmo
+García Pérez, el 19 de mayo de 2026, y Antonio Gabriel Cassany Pérez, el 22 de mayo de
+2026.
+El contenido sustancialmente coincidente de las alegaciones se resume en los siguientes
+puntos:
+- Incumplimiento de la normativa urbanística y de distancias mínimas respecto a
+viviendas.
+- Agravio comparativo con otros precedentes parlamentarios sobre ubicación de plantas
+similares.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38640 Lunes 26 de octubre de 2026
+- Falta de estudios adecuados sobre impacto ambiental, ruido y calidad del aire.
+- Incoherencia con los objetivos de transición energética y uso de tecnologías fósiles.
+- Riesgo ambiental y exigencia de garantías financieras para cubrir posibles daños.
+Con fecha 2 de junio de 2026, el promotor responde a las alegaciones formuladas,
+indicando que la instalación atiende a la situación de emergencia energética y que tiene
+carácter temporal y de respaldo, entrando en funcionamiento únicamente cuando resulte
+necesario para garantizar la seguridad y continuidad del suministro eléctrico.
+En relación con la ubicación y las posibles afecciones sobre la población, señala que el
+proyecto se ajusta a la normativa aplicable y que las cuestiones relativas a emisiones, ruido,
+seguridad y salud han sido analizadas en la documentación técnica y ambiental presentada,
+correspondiendo al órgano ambiental emitir el pronunciamiento pertinente y establecer, en
+su caso, las medidas adicionales necesarias.
+4.2. María del Pilar Marrero Pérez, Ángel Jesús Armas Izquierdo, María Luisa
+Hernández Pérez, Álvaro Jesús García Domínguez, María Montserrat Luis Álvarez, María
+Auxiliadora Domínguez Rodríguez, Agustín Real Díaz, Carmen Eulalia Marrero Pérez y
+Domingo Hernández Expósito: se reciben escritos de alegaciones de María del Pilar Marrero
+Pérez, el 3 de junio de 2026; Ángel Jesús Armas Izquierdo, el 8 de junio de 2026; María
+Luisa Hernández Pérez, el 8 de junio de 2026; Álvaro Jesús García Domínguez, el 9 de
+junio de 2026; María Montserrat Luis Álvarez, el 10 de junio de 2026; María Auxiliadora
+Domínguez Rodríguez, el 9 de junio de 2026; Agustín Real Díaz, el 10 de junio de 2026,
+Carmen Eulalia Marrero Pérez, el 11 de junio de 2026; y Domingo Hernández Expósito, el
+11 de junio de 2026.
+El contenido sustancialmente coincidente de las alegaciones se resume en los siguientes
+puntos:
+- Incumplimiento de la normativa urbanística y de distancias mínimas respecto a
+viviendas.
+- Agravio comparativo con otros precedentes parlamentarios sobre ubicación de plantas
+similares.
+- Falta de estudios adecuados sobre impacto ambiental, ruido y calidad del aire.
+- Incoherencia con los objetivos de transición energética y uso de tecnologías fósiles.
+- Riesgo ambiental y exigencia de garantías financieras para cubrir posibles daños.
+Con fecha 24 de junio de 2026, el promotor responde a este grupo de alegaciones,
+indicando que la instalación atiende a la situación de emergencia energética y que tiene
+carácter temporal y de respaldo, entrando en funcionamiento únicamente cuando resulte
+necesario para garantizar la seguridad y continuidad del suministro eléctrico.
+En relación con la ubicación y las posibles afecciones sobre la población, señala que el
+proyecto se ajusta a la normativa aplicable y que las cuestiones relativas a emisiones, ruido,
+seguridad y salud han sido analizadas en la documentación técnica y ambiental presentada,
+correspondiendo al órgano ambiental emitir el pronunciamiento pertinente y establecer, en
+su caso, las medidas adicionales necesarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38641 Lunes 26 de octubre de 2026
+4.3. Asociación Ecologista Turcón y Federación Ben Magec-Ecologistas en Acción: se
+reciben escritos de alegaciones de la Asociación Cultural Ecologista Turcón, el 9 de junio
+de 2026 y de la Federación Ben Magec-Ecologistas en Acción, el 11 de junio de 2026.
+El contenido sustancialmente coincidente de las alegaciones se resume en los siguientes
+puntos:
+- Cuestionamiento de la necesidad y justificación de una instalación de generación
+basada en combustibles fósiles.
+- Consideración del proyecto contraria a los objetivos de descarbonización y transición
+energética.
+- Necesidad de priorizar alternativas basadas en energías renovables, almacenamiento
+y otras soluciones de gestión del sistema eléctrico.
+- Posibles afecciones derivadas de emisiones atmosféricas, ruido y funcionamiento de
+la instalación.
+- Cuestionamiento de la ubicación y de las afecciones sobre la población y el territorio.
+- Necesidad de una adecuada evaluación ambiental y consideración de alternativas.
+Con fecha 26 de junio de 2026, el promotor responde a las alegaciones anteriores,
+señalando que la operatividad de la instalación está vinculada a la situación de emergencia
+energética declarada en las islas y que se concibe exclusivamente como infraestructura de
+respaldo para preservar la seguridad y continuidad del suministro. Reconoce la necesidad de
+avanzar hacia un modelo energético basado en fuentes más limpias y reducir la dependencia
+de los combustibles fósiles, pero considera que la transición no puede abordarse de forma
+inmediata y que las energías renovables y el almacenamiento no permiten, en la situación
+actual, responder por sí solos a las situaciones de emergencia que justifican la actuación.
+Respecto a la ubicación, manifiesta que el proyecto se ajusta a la normativa aplicable
+y a las exigencias de seguridad industrial. En cuanto a las afecciones ambientales, indica
+que se ha analizado el emplazamiento y sus potenciales impactos y que se ha presentado
+el correspondiente Documento Ambiental ante la Dirección General de Calidad Ambiental
+para su evaluación.
+4.4. Eladio Jesús Hernández González: con fecha 22 de junio de 2026 se recibe escrito
+con las siguientes alegaciones:
+- Se traslada la planta a nuevas parcelas, pero el suelo sigue sin plan parcial y se
+considera rústico, por lo que no permite instalaciones permanentes.
+- El Ayuntamiento mantiene su rechazo unánime a la planta y a otras similares en el
+municipio.
+- Se considera injusto que dos de las ocho plantas previstas para Tenerife estén en Los
+Realejos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38642 Lunes 26 de octubre de 2026
+- Se exige una evaluación ambiental específica para la nueva ubicación y la línea de
+alta tensión.
+- Se pide justificar por qué se elige una planta de propano fósil y no una alternativa
+renovable.
+- Se solicita denegar la autorización si no se cumplen los requisitos urbanísticos,
+ambientales y de seguridad.
+Con fecha 30 de junio de 2026, el promotor responde a las alegaciones señalando que
+la localización seleccionada responde al criterio de mínima afección posible y a diversos
+criterios técnicos, entre ellos la proximidad a las infraestructuras eléctricas, la accesibilidad
+y las condiciones de seguridad. Añade que, a su juicio, ni el planeamiento municipal ni el
+insular establecen una prohibición para su implantación.
+En materia ambiental, indica que se ha realizado un análisis del emplazamiento y de
+sus posibles impactos, y que se ha presentado el correspondiente Documento Ambiental
+ante la Dirección General de Calidad Ambiental. Asimismo, afirma que la documentación
+técnica y ambiental incluye las medidas necesarias para la integración de la instalación en
+el entorno.
+Finalmente, justifica la planta por la necesidad de disponer, a corto plazo, de soluciones
+que refuercen la garantía y estabilidad del suministro eléctrico, destacando su carácter
+temporal y su funcionamiento exclusivamente en situaciones de emergencia.
+4.5. Carmen María Florentín Romero: con fecha 1 de julio de 2026 se recibe escrito
+de alegaciones relativo al proyecto, con n.º de registro de entrada 1421414, presentado
+fuera del plazo de información pública. Con fecha 3 de julio de 2026, la Dirección General
+de Energía comunica a Carmen María Florentín Romero que sus alegaciones han sido
+presentadas fuera del plazo establecido.
+4.6. Asociación Plataforma Noeléctrica-Propano en La Cruz Santa: con fecha 23 de
+septiembre de 2026 se recibe, fuera del plazo de información pública, escrito presentado
+por Carmen Luisa González Rodríguez, en representación de la Asociación Plataforma
+Noeléctrica-Propano en La Cruz Santa, con n.º de registro de entrada 1957282/2026, en
+relación con el proyecto objeto del expediente.
+5.º) Informes solicitados y respuestas recibidas.
+Durante la tramitación del expediente, se ha solicitado la emisión de informe a las
+siguientes Administraciones, Organismos y empresas:
+5.1. Ayuntamiento de Los Realejos: con fecha 21 de mayo de 2026 se recibe
+certificación del acuerdo adoptado por el Consejo Rector de la Gerencia Municipal de
+Urbanismo, en sesión celebrada el 19 de mayo de 2026, por el que se presta conformidad
+al informe del arquitecto municipal relativo al proyecto de la Planta de Generación con
+Grupos de Emergencia de 14,8 MW-Planta Tigaiga, expediente GE25/017.
+El informe municipal considera viable la actuación atendiendo a su carácter provisional
+y a la normativa urbanística aplicable, si bien formula condicionantes principalmente sobre
+la ejecución de la línea subterránea de evacuación, debiendo:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38643 Lunes 26 de octubre de 2026
+• Ejecutarse procurando la mínima afección posible sobre el viario y los espacios
+públicos.
+• Priorizarse, cuando resulte posible, el trazado fuera de la calzada.
+• Garantizarse la correcta reposición de pavimentos, servicios e infraestructuras que
+pudieran verse afectados.
+• Someter la ejecución de la canalización a las autorizaciones municipales que procedan
+y al cumplimiento de las determinaciones técnicas y urbanísticas aplicables.
+Con fecha 2 de junio de 2026, el promotor responde al informe manifestando su
+conformidad con el pronunciamiento favorable emitido por el Ayuntamiento de Los
+Realejos. En relación con los condicionantes señalados, indica que la canalización de la
+línea de evacuación se ejecutará procurando causar la mínima afección posible, priorizando
+su ejecución fuera de la calzada, y garantizando la adecuada reposición de los elementos,
+servicios e infraestructuras que pudieran resultar afectados.
+Asimismo, manifiesta que los aspectos señalados en el informe municipal serán tenidos
+en consideración en las fases posteriores de la tramitación, así como durante la construcción
+y operación de la planta, todo ello de conformidad con la normativa aplicable y con los
+condicionantes técnicos y administrativos que resulten exigibles.
+5.2. Cabildo Insular de Tenerife: con fecha 7 de agosto de 2026 se recibe Acuerdo
+del Consejo de Gobierno Insular, adoptado en sesión celebrada el 5 de agosto de 2026,
+acompañado de los informes emitidos por los Servicios de Planificación y Gestión
+Territorial, Proyectos Estratégicos y Carreteras y Movilidad.
+De dichos informes se concluye:
+• Planeamiento insular: tanto la planta como la línea de evacuación se localizan en
+Zona C/D del PIOT, sin apreciarse incompatibilidad con sus disposiciones territoriales ni
+sectoriales.
+• Proyectos Estratégicos: se considera que la actuación contribuye a la implantación y
+mejora de las infraestructuras energéticas básicas de Tenerife y a garantizar el suministro
+eléctrico, por lo que se informa favorablemente su implantación.
+• Carreteras: aunque la parcela se encuentra próxima a la carretera insular TF-324,
+la actuación proyectada no invade sus zonas de protección ni plantea nuevos accesos o
+afecciones directas al dominio público viario. No obstante, cualquier modificación posterior
+que pudiera afectar a la carretera, sus zonas de protección, accesos, drenaje o elementos
+funcionales deberá someterse a nueva consulta y, en su caso, obtener la correspondiente
+autorización insular.
+• La línea de evacuación: se proyecta enterrada y canalizada, discurriendo parte de su
+trazado por la parcela sin urbanizar donde se ubica la planta y el resto por viario asfaltado.
+El informe señala que el suelo afectado se encuentra antropizado y degradado y que la
+ejecución de la zanja para la canalización carecería de efectos significativos, sin apreciarse
+incompatibilidad con las disposiciones sectoriales del PIOT.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38644 Lunes 26 de octubre de 2026
+Con fecha 18 de agosto de 2026, el promotor presenta respuesta al informe del
+Cabildo Insular de Tenerife, manifestando su conformidad con el sentido favorable de los
+informes emitidos por los distintos servicios sectoriales. Señala que el proyecto no presenta
+incompatibilidades con las disposiciones territoriales ni sectoriales del PIOT, no genera
+afecciones relevantes sobre las infraestructuras viarias insulares y contribuye al desarrollo
+de infraestructuras energéticas estratégicas para la isla.
+Asimismo, destaca el carácter estratégico de la actuación para garantizar la seguridad
+y estabilidad del suministro eléctrico y considera que el emplazamiento seleccionado,
+situado en un ámbito industrial previamente transformado y próximo a las infraestructuras
+de evacuación eléctrica, permite reducir la ocupación de nuevos suelos y minimizar las
+afecciones territoriales y ambientales.
+Finalmente, manifiesta que los aspectos señalados en los informes serán tenidos en
+consideración, de conformidad con la normativa aplicable y con los condicionantes técnicos
+y administrativos que resulten exigibles en las autorizaciones del proyecto.
+5.3. Dirección General de Infraestructura Viaria del Gobierno de Canarias: con fecha
+23 de junio de 2026 se recibe informe técnico, emitido el 17 de junio de 2026, relativo al
+nuevo emplazamiento del proyecto.
+El informe señala que, respecto de las carreteras de interés regional:
+• No se aprecia una afección directa significativa derivada del emplazamiento
+proyectado.
+• Deberán evitarse o minimizarse las afecciones sobre las carreteras de interés regional
+durante la ejecución de las obras.
+• En caso de resultar necesario realizar un uso especial de dichas carreteras, deberá
+obtenerse previamente la correspondiente autorización del Cabildo Insular de Tenerife.
+• Dichos usos especiales deberán programarse, en la medida de lo posible, en momentos
+de mínima afección al tráfico.
+Con fecha 7 de julio de 2026, el promotor responde al informe manifestando su
+conformidad con el pronunciamiento favorable emitido por la Dirección General de
+Infraestructura Viaria.
+En relación con las posibles afecciones sobre las carreteras clasificadas como de interés
+regional, señala que se evitarán dichas afecciones y que, cuando ello no resulte posible, las
+actuaciones se ejecutarán adoptando las medidas necesarias para minimizar al máximo su
+incidencia sobre estas infraestructuras.
+Asimismo, manifiesta que, en caso de resultar necesario realizar un uso especial de las
+carreteras, solicitará previamente las autorizaciones correspondientes ante la Administración
+competente.
+Finalmente, indica que los aspectos señalados en el informe serán tenidos en
+consideración durante las fases de construcción y operación de la planta, de conformidad
+con la normativa aplicable y con los condicionantes técnicos y administrativos exigibles.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38645 Lunes 26 de octubre de 2026
+5.4. EDistribución Redes Digitales, S.L.: con fecha 29 de mayo de 2026 se recibe
+informe de fecha 28 de mayo de 2026 en el que se formulan los siguientes condicionados
+técnicos:
+• Deberá aportarse el punto de conexión en vigor.
+• Al no coincidir la nueva ubicación de la instalación con la comunicada durante la
+tramitación de la propuesta previa de acceso y conexión, deberá solicitarse la actualización
+de los permisos de acceso y conexión.
+• El cambio de ubicación deberá cumplir lo establecido en la disposición adicional
+decimocuarta y en el Anexo II del Real Decreto 1955/2000, pudiendo producirse, en caso
+contrario, la revocación de dichos permisos.
+• El punto de medida deberá permitir un acceso fácil, libre y permanente desde la vía
+pública.
+• Deberá aportarse el cálculo de pérdidas correspondiente a la energía exportada e
+importada cuando el punto de medida no coincida con el punto frontera.
+• Deberá coordinarse con EDistribución la llegada de la línea de media tensión hasta
+la Subestación Los Realejos, dejando longitud suficiente para el tendido y confección de
+terminales y evitando empalmes.
+• El tendido y conexión del cable en el interior de la subestación deberá ser ejecutado
+por EDistribución como gestor de la red.
+• Deberá verificarse la compatibilidad de la sección del conductor prevista con las
+especificaciones particulares de la distribuidora y con la capacidad de la celda de conexión.
+Con fecha 1 de julio de 2026, DISA Generación, S.L.U. presenta respuesta al informe
+de EDistribución, manifestando, en síntesis, que:
+• El permiso de acceso y conexión ya había sido incorporado al expediente el 19 de
+enero de 2026, con n.º de registro de entrada 99761/2026.
+• Reconoce que la ubicación del proyecto ha sido modificada, si bien señala que la
+nueva implantación se mantiene dentro del mismo polígono industrial y término municipal
+y que la línea de evacuación se ha adaptado manteniendo las mismas características y
+condiciones a su entrada en la subestación. En consecuencia, considera que el cambio de
+ubicación no altera las condiciones iniciales ni la afección contemplada por EDistribución.
+• Respecto del punto de medida y de la conexión de la instalación con la red de
+distribución, manifiesta que se actuará conforme a la normativa vigente y que mantiene una
+interlocución continua con el departamento de subestaciones de EDistribución para abordar
+los aspectos técnicos asociados a la conexión, indicando que dicha entidad es conocedora
+del estado del proyecto.
+• En relación con el cálculo de pérdidas en red, indica que se regularizará mediante la
+suscripción del correspondiente contrato técnico de acceso a la red, cuya formalización,
+según manifiesta el promotor, se producirá una vez obtenida la autorización administrativa,
+al tratarse de un requisito establecido por EDistribución. Añade que, si EDistribución
+modificara dicho criterio y permitiera formalizarlo antes de finalizar la tramitación de la
+instalación, procedería en consecuencia.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38646 Lunes 26 de octubre de 2026
+Posteriormente, con fecha 22 de septiembre de 2026, DISA Generación, S.L.U. presenta
+escrito ampliando su respuesta al informe de EDistribución, con n.º de registro de entrada
+1948446/2026, en el que manifiesta haber solicitado la actualización del permiso de acceso
+y conexión a la nueva ubicación de la instalación, encontrándose a la espera de su emisión.
+Asimismo, reitera que las condiciones relativas al punto de medida y entrada a la
+subestación se ajustarán a la normativa vigente y a las especificaciones técnicas de
+EDistribución, manteniendo la coordinación con su departamento de subestaciones. En
+relación con las pérdidas en la red, aporta el correspondiente informe justificativo y señala
+que su análisis quedará recogido en el contrato técnico de acceso a la red.
+Finalmente, concreta las características de la nueva línea de media tensión, indicando
+que la conexión con la subestación de Los Realejos se realizará a 20 kV, mediante una
+terna de cable RHZ1-OL(S) 12/20 kV, de sección 1x630/16 mm² Cu, bajo canalización
+subterránea de tres tubos de 160 mm, y que su ejecución se ajustará a la normativa vigente,
+a las especificaciones técnicas de EDistribución y a las indicaciones derivadas de la
+coordinación con dicha entidad.
+5.5. Red Eléctrica de España: con fecha 27 de mayo de 2026, y n.º de registro de
+entrada 1147086/2026, se recibe informe de Red Eléctrica de España en el que se comunica
+que no presenta oposición a la ubicación de la Planta Tigaiga, al no existir afecciones a
+instalaciones de su titularidad.
+No obstante, respecto de la línea soterrada de evacuación, establece los siguientes
+condicionantes:
+• Deberá tenerse en cuenta la posible afección a la línea subterránea de 66 kV D/C
+Cuesta de la Villa-Los Realejos/Icod de los Vinos-Los Realejos.
+• La localización exacta de dicha línea deberá efectuarse mediante catas, bajo vigilancia
+de técnicos de Red Eléctrica.
+• Las aperturas en sus proximidades deberán ejecutarse mediante catas manuales, sin
+utilización de maquinaria pesada.
+• No podrán efectuarse acopios de materiales sobre la traza de la línea.
+• Deberán respetarse las distancias reglamentarias en cruzamientos, proximidades y
+paralelismos conforme a la ITC-LAT 06.
+• Al afectar el trazado a terrenos titularidad de Red Eléctrica, deberá contactarse con
+su Departamento de Gestión de Patrimonio Inmobiliario para formalizar, si procede, el
+acuerdo que legitime la ocupación de los terrenos.
+Con fecha 12 de junio de 2026, el promotor responde al informe de Red Eléctrica de
+España, manifestando su conformidad con el pronunciamiento favorable respecto de la
+ubicación de la planta.
+En relación con la línea soterrada de evacuación y los condicionantes formulados por
+Red Eléctrica, señala que ya se ha puesto en contacto con el Departamento de Gestión de
+Patrimonio Inmobiliario, siguiendo las indicaciones contenidas en el informe, a efectos de
+abordar la afección derivada del trazado sobre terrenos de titularidad de dicha entidad.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38647 Lunes 26 de octubre de 2026
+5.6. Telefónica de España S.A.: con fecha 29 de abril de 2026 se recibe escrito en
+el que se informa que el proyecto puede afectar a líneas telefónicas de su titularidad en
+diversos puntos.
+Telefónica manifiesta que no tiene objeción a la ejecución del proyecto, siempre que se
+cumplan los siguientes condicionantes:
+• Respeto de la normativa vigente relativa a paralelismos y cruzamientos con líneas de
+telecomunicación.
+• Cumplimiento de los Reglamentos Electrotécnicos de Alta y Baja Tensión.
+• Adopción durante las fases de diseño y ejecución de las medidas necesarias para
+evitar daños a las instalaciones de telecomunicaciones.
+• Responsabilidad del promotor respecto del cumplimiento de la normativa y de las
+posibles afecciones derivadas de las obras.
+• Telefónica se reserva las actuaciones que procedan en caso de daños en sus instalaciones
+o perturbaciones en las comunicaciones electrónicas.
+Con fecha 8 de mayo de 2026, se da traslado del citado informe a DISA Generación,
+S.L.U., conforme a lo dispuesto en el artículo 9.2 del Decreto 141/2009, de 10 de noviembre,
+concediéndole un plazo de diez días para prestar su conformidad o formular los reparos que
+estimase procedentes, mediante oficio con n.º de Registro General de salida 379729/2026.
+Consta acceso al contenido de la notificación por el promotor el mismo 8 de mayo de 2026,
+sin que conste en el expediente respuesta al citado informe.
+6.º) Declaración de Interés General.
+Con fecha 19 de diciembre de 2024, DISA Generación, S.L.U. presenta ante esta Dirección
+General de Energía una solicitud motivada para la obtención de la Declaración de Interés
+General de las instalaciones proyectadas, en el marco del proyecto “Planta de Generación
+de Emergencia de 14,8 MW-Planta Tigaiga”, expediente GE25/017, en Los Realejos,
+Tenerife.
+Mediante la Orden n.º 136/2025, de 23 de abril, la Consejería de Transición Ecológica
+y Energía declara el interés general del proyecto.
+Posteriormente, apreciada la permanencia de las razones de excepcional interés
+existentes para la ejecución de las instalaciones, la Consejería de Transición Ecológica y
+Energía emite con fecha 17 de agosto de 2026 la Orden n.º 295/2026, por la que se modifica
+la Orden n.º 136/2025, de 23 de abril, incorporando la nueva ubicación de la planta y de
+su línea de evacuación, de conformidad con el artículo 6 bis de la Ley 11/1997, de 2 de
+diciembre, de regulación del Sector Eléctrico Canario.
+7.º) Consultas al Ayuntamiento y Cabildo afectados de conformidad con el artículo
+6 bis de la Ley 11/1997, de 2 de diciembre, de regulación del Sector Eléctrico Canario.
+La Orden n.º 295/2026, de 17 de agosto, por la que se modifica la Orden n.º 136/2025,
+de 23 de abril, de Declaración de Interés General de las instalaciones proyectadas, es
+trasladada al Cabildo Insular de Tenerife y al Ayuntamiento de Los Realejos, concediéndoles
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38648 Lunes 26 de octubre de 2026
+un plazo de un mes, de conformidad con el artículo 6 bis de la Ley 11/1997, de 2 de
+diciembre, de regulación del Sector Eléctrico Canario, a los efectos de que informen sobre
+la conformidad o disconformidad del proyecto con el planeamiento territorial o urbanístico
+en vigor, haciéndoles saber que, transcurrido dicho plazo se entenderá evacuado el trámite
+y se continuará el procedimiento. Las consultas efectuadas y los antecedentes obrantes en
+el expediente son los siguientes:
+7.1. Ayuntamiento de Los Realejos: se solicita emisión de informe en un plazo máximo
+de un mes mediante oficio de fecha 25 de agosto de 2026, con n.º de Registro General de
+salida 710153/2026, constando acuse de recibo del mismo día.
+Sin que conste la emisión de un informe específico en respuesta a dicha consulta,
+consta previamente en el expediente, con ocasión de la tramitación de la autorización
+administrativa del proyecto, informe municipal recibido el 21 de mayo de 2026, con n.º
+de registro de entrada 1070334/2026, al que el Consejo Rector de la Gerencia Municipal
+de Urbanismo prestó conformidad, en el que se analiza el nuevo emplazamiento y se
+establecen determinados condicionantes, principalmente relativos a la ejecución de la línea
+subterránea de evacuación.
+7.2. Cabildo Insular de Tenerife: se solicita emisión de informe en un plazo máximo
+de un mes mediante oficio de fecha 25 de agosto de 2026, con n.º de Registro General de
+salida 710156/2026, constando acuse de recibo del mismo día.
+Sin que conste la emisión de un informe específico en respuesta a dicha consulta, consta
+previamente en el expediente, con ocasión de la tramitación de la autorización administrativa
+del proyecto, el Acuerdo del Consejo de Gobierno Insular adoptado en sesión de 5 de agosto
+de 2026, recibido en esta Dirección General de Energía el 7 de agosto de 2026, con n.º de
+registro de entrada 1687036/2026, acompañado de los informes sectoriales recabados por
+el Cabildo Insular de Tenerife. Entre ellos, el Servicio Técnico de Planificación y Gestión
+Territorial analiza el proyecto desde la perspectiva del planeamiento insular, concluyendo
+que tanto la planta como la línea de evacuación se localizan en Zona C/D del PIOT, sin
+apreciarse incompatibilidad con sus disposiciones territoriales y sectoriales.
+8.º) Informe de impacto ambiental.
+De acuerdo con lo establecido en el artículo 7.2.a) de la Ley 21/2013, de evaluación
+ambiental, las actuaciones del proyecto encajan en el Anexo II, grupo 4 “Industria
+energética” y epígrafes a) “Instalaciones industriales para la producción de electricidad,
+vapor y agua caliente (proyectos no incluidos en el Anexo I)” y m) “Almacenamiento sobre
+el terreno para uso industrial de combustibles fósiles no incluidos en el Anexo I”, por lo que
+le corresponde una evaluación de impacto ambiental simplificada.
+Mediante Resolución n.º 639/2026, de 31 de agosto de 2026, de la Dirección General
+de Calidad Ambiental, se ha formulado el informe de impacto ambiental del proyecto
+“Planta de Generación con Grupos de Emergencia 14,8 MW-Planta Tigaiga”, promovido
+por DISA Generación, S.L.U., en el término municipal de Los Realejos, isla de Tenerife
+(Expte. PLATEA 39/2026-0515085654).
+En el anexo del informe de impacto ambiental se establecen las siguientes prescripciones
+ambientales adicionales al proyecto de referencia:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38649 Lunes 26 de octubre de 2026
+Tras el análisis técnico realizado de la documentación recibida se considera necesario
+añadir al proyecto y al Documento Ambiental las siguientes prescripciones adicionales, que
+el promotor debe integrar, presupuestar y dar cumplimiento junto con el conjunto de las
+medidas preventivas y correctoras contempladas en el Documento Ambiental. Así como,
+las consideraciones emitidas en los informes recibidos durante el trámite de consultas a
+las Administraciones públicas afectadas y personas interesadas, siempre que no resulten
+contrarias a las prescripciones adicionales. Lo anterior no le exime de la obligación de
+solicitar y obtener todas las autorizaciones ambientales y sectoriales que resulten legalmente
+exigibles, ni del cumplimiento de la legislación ambiental vigente.
+Será responsabilidad exclusiva del promotor la corrección de cualquier alteración o
+perjuicio ambiental causado por el desarrollo del proyecto. En caso de producirse cualquier
+incidencia ambiental, deberá actuar de forma inmediata, adoptando las medidas necesarias
+para restablecer el equilibrio del medio afectado y evitar mayores daños. Deberán tenerse
+en cuenta a este respecto las obligaciones para el operador contenidas en la Ley 26/2007,
+de 23 de octubre, de Responsabilidad Medioambiental.
+1. Con la finalidad de evitar la generación de impactos innecesarios derivados de la
+producción de campos magnéticos en el entorno de las instalaciones de alta tensión, así
+como los originados de la sinergia y acumulación de la instalación eléctrica objeto de
+estudio con los producidos en la existente Planta de Generación de Emergencia de Los
+Realejos de 14,68 MW, el promotor debe realizar un estudio específico de medición de
+campos magnéticos en la fase inicial de funcionamiento del proyecto con la finalidad de
+determinar la exposición a radiaciones no ionizantes y evaluar los riesgos asociados.
+El estudio debe considerar la acumulación con otras instalaciones eléctricas del entorno,
+estimando el efecto de los campos magnéticos generados sobre la salud de los usuarios y
+trabajadores de las propias empresas y de las parcelas contiguas.
+Además de los resultados obtenidos, el estudio específico debe detallar la metodología
+empleada en las mediciones y, si fuera necesario, adoptar las correspondientes medidas
+correctoras dirigidas a la reducción de las potenciales afecciones negativas y el seguimiento
+de estas medidas que debe incorporarse en el Plan de vigilancia ambiental.
+2. En relación con el ruido y las vibraciones y siguiendo las apreciaciones aportadas
+por la Dirección General de Salud Pública, previo al inicio de las obras, debe realizarse un
+estudio de impacto acústico del proyecto para sus distintas fases e implementarlo con todos
+los focos emisores.
+En este sentido, dicho estudio debe proponer distintos escenarios y/o casuísticas, por
+ejemplo: en fase de obras, el funcionamiento conjunto de 2 máquinas, de 4 máquinas,
+etcétera y, en fase de funcionamiento del proyecto, analizar la emisión acústica de la
+planta de generación con los 8 grupos electrógenos en funcionamiento en situación de
+emergencia, considerando el ruido ambiental de base, estimando a su vez el impacto
+sinérgico y acumulativo para este parámetro ambiental.
+Por otro lado, también resulta necesario determinar los valores de inmisión por
+ruidos en fase de obras y de funcionamiento para los escenarios expuestos, respecto a las
+principales entidades de población, tomando como valores límite de inmisión de ruido los
+referenciados en la normativa específica de aplicación para esta materia.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38650 Lunes 26 de octubre de 2026
+Si del resultado del anterior se detecta el incumplimiento de los valores límite de
+inmisión, deben adoptarse medidas específicas que permitan alcanzar valores permitidos.
+Así como, asegurar la existencia de canales de comunicación accesibles y bien definidos
+con los residentes del área.
+3. Con anterioridad al inicio de las obras de ejecución, el titular del proyecto debe predecir
+y valorar los efectos de un accidente en la planta de emergencia sobre las instalaciones
+industriales cercanas, así como qué efectos podría tener sobre la planta generadora un
+accidente en las instalaciones próximas, tomando en consideración el efecto dominó o escalar
+de un accidente en el contexto territorial de implantación de la planta de emergencia.
+Conocer lo anterior conduce al titular del proyecto a adoptar medidas protectoras de
+seguridad adicionales necesarias para el reforzamiento de sus sistemas de protección que,
+además, deben ponerse en conocimiento de las instalaciones del entorno, en especial las
+relativas a riesgo de nivel superior. En aras de la adopción de las debidas cautelas, deben
+preverse medidas para la detección, confinamiento y control de incidentes asociados al
+almacenamiento y manejo de propano y al funcionamiento de los grupos de motores térmicos,
+así como tener en consideración las condiciones de accesibilidad para los servicios de
+emergencia, los tiempos de respuesta y la disponibilidad de recursos hídricos. La valoración
+resultante debe obtener el informe favorable de la Dirección General de Emergencias.
+Asimismo, en ese mismo marco temporal, debe elaborarse por personal técnico
+acreditado por el Gobierno de Canarias el correspondiente Plan de Autoprotección que,
+una vez haya sido supervisado administrativamente según lo previsto en el Reglamento
+de Autoprotección exigible a determinadas actividades, centros o establecimientos que
+puedan dar origen a situaciones de emergencia en la Comunidad Autónoma de Canarias
+(aprobado mediante Decreto 67/2015, de 30 de abril -BOC n.º 98, de 25.5.2015-), debe
+quedar inscrito en el Registro de Planes de Autoprotección de Canarias. La actividad
+también está sujeta a las determinaciones del Real Decreto 840/2015, de 21 de septiembre,
+por el que se aprueban medidas de control de los riesgos inherentes a los accidentes graves
+en los que intervengan sustancias peligrosas, por lo que en virtud de su artículo 10 debe
+elaborar un informe de seguridad.
+4. Dado que se desconoce la operatividad anual (horas/año) de funcionamiento de
+la planta de generación, a lo que se añade la proximidad de núcleos residenciales y de
+otras actividades e instalaciones en funcionamiento (de carácter industrial, comercial,
+almacenaje, etcétera) e incluso la probable simultaneidad funcional y temporal con la planta
+de emergencia Los Realejos situada a 200 m, además de la incorporación de los sistemas
+de reducción catalítica selectiva se deben adoptar otras medidas preventivas, correctoras
+o compensatorias que prevean, reduzcan e incluso eliminen los impactos acumulativos
+derivados de las emisiones de NOx a la atmósfera, en el contexto del cumplimiento de
+la normativa sectorial de aplicación. En este sentido, la valoración resultante del análisis
+anterior debe ser objeto de conocimiento de la Dirección General de Salud Pública, para,
+en su caso, emisión de informe técnico.
+5. Todas las determinaciones de índole ambiental contenidas en las propias
+determinaciones del Documento Ambiental del proyecto, así como aquellas derivadas de
+las presentes prescripciones ambientales incluyendo el Programa de Vigilancia Ambiental,
+que precisen del correspondiente gasto económico, tendrán fiel reflejo en un capítulo
+específico. Esta determinación se hará extensible, asimismo, a todas aquellas eventuales
+modificaciones que pudiera sufrir dicho proyecto.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38651 Lunes 26 de octubre de 2026
+6. Se debe plantar árboles de hoja perenne que ofrezcan densidad y altura, para crear
+una barrera vegetal o pantalla protectora en el perímetro de la planta. Algunas opciones
+son el ciprés, la arizónica, el laurel, el ligustro o la photinia. Las barreras vegetales ofrecen
+múltiples beneficios, incluyendo la reducción del ruido y la contaminación del aire, la
+protección del suelo contra la erosión, y el control de plagas y enfermedades. Además,
+contribuyen al paisaje y al confort térmico, y ayudan a mitigar el cambio climático al
+capturar dióxido de carbono.
+7. A la vista de la presencia de especies de la avifauna, en su mayoría especies asociadas
+al recurso de la balsa de agua cercana al ámbito de actuación, previo al inicio de la fase de
+obras y por parte de técnico especializado, deben realizarse prospecciones ornitológicas en
+el contexto de la parcela y su periferia para que, si fuera necesario, adaptar el cronograma
+de actuaciones y acciones del proyecto, a las etapas de reproducción y nidificación de las
+especies de avifauna presentes.
+8. Al objeto de mitigar las emisiones acústicas, atmosféricas, el impacto visual, los
+riesgos sobre la población circundante (incendio y explosión), se considera necesario que
+el promotor estudie la viabilidad de las siguientes acciones, para poder garantizar la calidad
+de vida de las personas, y la no afección al medioambiente en los términos establecidos en
+el presente informe de impacto ambiental y en concreto:
+• Adaptación y mejora de las viviendas del entorno circundante, en aras disminuir la
+afección acústica de la planta de generación.
+• Rediseñar la ubicación exacta de los componentes de la planta en la parcela, en aras
+de aumentar la distancia a las viviendas próximas al ámbito de actuación.
+FUNDAMENTOS JURÍDICOS
+I. La ejecución de las instalaciones contempladas en el expediente de referencia requiere
+de autorización administrativa de acuerdo con lo establecido en el artículo 6 del Reglamento
+por el que se regulan los procedimientos administrativos relativos a la ejecución y puesta
+en servicio de las instalaciones eléctricas en Canarias, aprobado por el Decreto 141/2009,
+de 10 de noviembre, y en el resto de normativa vigente, en particular la Ley 24/2013, de
+26 de diciembre, del Sector Eléctrico; la Ley 11/1997, de 2 de diciembre, de regulación
+del Sector Eléctrico Canario; la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas; el Real Decreto 1955/2000, de 1 de
+diciembre, por el que se regulan las actividades del transporte, distribución, comercialización,
+suministro y procedimientos de autorización de instalaciones de energía eléctrica; el Real
+Decreto 223/2008, de 15 de febrero, por el que se aprueban el Reglamento sobre condiciones
+técnicas y garantías de seguridad en líneas eléctricas de alta tensión y sus instrucciones
+técnicas complementarias ITC-LAT 01 a 09, y el Real Decreto 337/2014, de 9 de mayo,
+por el que se aprueban el Reglamento sobre condiciones técnicas y garantías de seguridad
+en instalaciones eléctricas de alta tensión y sus Instrucciones Técnicas Complementarias
+ITC-RAT 01 a 23.
+II. En relación con la garantía del suministro de energía, la normativa vigente vela por
+que todos los ciudadanos tengan acceso a dicho suministro en condiciones satisfactorias,
+garantizando que tal servicio cuente con los parámetros de calidad necesarios para que el
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38652 Lunes 26 de octubre de 2026
+usuario final pueda utilizar la energía en las condiciones adecuadas a sus necesidades o las
+de sus instalaciones, contribuyendo las instalaciones proyectadas a la consecución de tal
+objetivo por su contribución a la cobertura de la demanda.
+III. El Real Decreto 738/2015, de 31 de julio, por el que se regula la actividad de
+producción de energía eléctrica y el procedimiento de despacho en los sistemas eléctricos
+de los territorios no peninsulares, establece en su artículo 59 que, en los casos en que el
+operador de sistema ponga de manifiesto riesgos de cobertura de la demanda en el corto
+plazo, la comunidad o ciudad autónoma afectada deberá, en virtud de lo establecido en
+el artículo 7.5 de la Ley 24/2013, de 26 de diciembre, solicitar al Ministerio competente
+el reconocimiento de las repercusiones económicas para la adopción de medidas para la
+garantía del suministro, con carácter previo a su adopción.
+Asimismo, por orden del actual Ministerio para la Transición Ecológica y el Reto
+Demográfico, se reconocerá, en su caso, las repercusiones económicas que pudieran
+derivarse de la adopción de estas medidas extraordinarias para garantizar la seguridad de
+suministro para una potencia determinada, según las características técnicas y económicas
+aprobadas y por un periodo de tiempo determinado.
+IV. Con fecha 7 de agosto de 2025, el Ministerio para la Transición Ecológica y el
+Reto Demográfico dictó la Orden TED/909/2025, por la que se acuerda el reconocimiento
+de las repercusiones económicas derivadas de la adopción de medidas temporales y
+extraordinarias para garantizar la seguridad del suministro de energía eléctrica en las islas
+de Gran Canaria, Tenerife y Fuerteventura.
+V. De conformidad con el artículo 3 de la Ley 24/2013, de 26 de diciembre, del Sector
+Eléctrico, es competencia de la Administración General del Estado determinar, en el ámbito
+de su competencia, las medidas necesarias para garantizar el suministro de energía eléctrica.
+VI. Las instalaciones no serán inscritas en el registro administrativo de instalaciones
+de producción, no se incluirán para calcular la cobertura de la demanda y solo serán
+despachadas en aquellos momentos en que exista riesgo cierto para la seguridad del
+suministro, por lo que no requerirán las resoluciones de reconocimiento de datos técnicos
+o económicos reguladas en los artículos 11 y 12 del Real Decreto 738/2015, de 31 de julio.
+VII. Analizadas las alegaciones presentadas durante el trámite de información
+pública, las contestaciones formuladas por la entidad promotora y los informes emitidos
+por las Administraciones, organismos y entidades consultadas durante la tramitación del
+expediente, esta Dirección General considera que las cuestiones planteadas han sido objeto
+de valoración suficiente en el procedimiento, en los términos que se exponen a continuación:
+1. Sobre la compatibilidad urbanística y territorial de la actuación y la ubicación de la
+instalación.
+Las alegaciones cuestionan la compatibilidad urbanística del emplazamiento de la
+planta, señalando, entre otros extremos, que las parcelas se encuentran incluidas en el
+sector SUSNO IND-01 y que, mientras no se apruebe el correspondiente instrumento de
+desarrollo, mantienen la consideración de suelo rústico. Asimismo, se invoca la oposición
+manifestada por el Ayuntamiento de Los Realejos a la implantación de la instalación.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38653 Lunes 26 de octubre de 2026
+A este respecto, debe tenerse en cuenta que el proyecto fue declarado de interés general
+mediante Orden n.º 136/2025, de 23 de abril, posteriormente modificada por la Orden
+n.º 295/2026, de 17 de agosto, con objeto de incorporar la nueva ubicación de la planta y de
+su línea de evacuación, de conformidad con el procedimiento previsto en el artículo 6 bis
+de la Ley 11/1997, de 2 de diciembre, de regulación del Sector Eléctrico Canario.
+Asimismo, consta en el expediente informe técnico del Ayuntamiento de Los Realejos
+relativo al nuevo emplazamiento, al que el Consejo Rector de la Gerencia Municipal de
+Urbanismo prestó conformidad, en el que se considera viable la actuación atendiendo a
+su carácter provisional, sin perjuicio del cumplimiento de los condicionantes establecidos,
+principalmente en relación con la ejecución de la línea subterránea de evacuación.
+Por tanto, la circunstancia de que las parcelas se encuentren incluidas en el sector
+SUSNO IND-01 y carezcan actualmente del correspondiente instrumento de desarrollo no
+determina, por sí sola, la incompatibilidad urbanística de la actuación, habida cuenta de su
+carácter provisional y de lo informado por el Ayuntamiento de Los Realejos, sin perjuicio
+de los efectos derivados de la declaración de interés general y del régimen excepcional
+previsto en el artículo 6 bis de la Ley 11/1997.
+2. Sobre la proximidad a viviendas, el ruido, las emisiones atmosféricas y las afecciones
+a la población.
+Las cuestiones planteadas respecto de la proximidad de la instalación a viviendas, las
+emisiones atmosféricas, el ruido y las posibles afecciones sobre la salud y calidad de vida
+de la población han sido específicamente consideradas durante la evaluación ambiental del
+proyecto.
+La instalación ha sido sometida al procedimiento de evaluación de impacto ambiental
+simplificada previsto en la Ley 21/2013, de 9 de diciembre, de evaluación ambiental,
+habiéndose formulado mediante Resolución n.º 639/2026, de 31 de agosto, de la Dirección
+General de Calidad Ambiental, el correspondiente informe de impacto ambiental.
+Dicho informe incorpora prescripciones específicas dirigidas, entre otras cuestiones, a
+valorar los efectos acumulativos y sinérgicos con otras instalaciones próximas, realizar un
+estudio específico de campos magnéticos, elaborar antes del inicio de las obras un estudio
+de impacto acústico que contemple las diferentes fases y escenarios de funcionamiento,
+determinar los valores de inmisión acústica sobre los principales núcleos de población
+y establecer las medidas correctoras necesarias en caso de superación de los límites
+legalmente establecidos. Estas prescripciones forman parte de las condiciones que debe
+cumplir el proyecto.
+Por tanto, las cuestiones ambientales planteadas en las alegaciones no han sido omitidas,
+sino que han sido consideradas por el órgano ambiental competente y se han traducido en
+medidas preventivas, correctoras y de seguimiento de obligado cumplimiento.
+3. Sobre los riesgos derivados del almacenamiento y utilización de propano y la
+seguridad de la instalación.
+Las alegaciones relativas al riesgo de incendio, explosión, transporte y almacenamiento
+de propano y posibles efectos sobre las instalaciones y población próximas han sido
+igualmente consideradas en la evaluación ambiental.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38654 Lunes 26 de octubre de 2026
+El informe de impacto ambiental exige, con anterioridad al inicio de las obras, la
+valoración de los efectos que pudiera producir un accidente de la planta sobre las instalaciones
+industriales próximas y, recíprocamente, los efectos sobre la planta de un accidente producido
+en dichas instalaciones, considerando expresamente el posible efecto dominó.
+Asimismo, exige la adopción de las medidas adicionales de seguridad que resulten
+necesarias, la consideración de las condiciones de accesibilidad de los servicios de
+emergencia, tiempos de respuesta y disponibilidad de recursos hídricos, debiendo dicha
+valoración obtener informe favorable de la Dirección General de Emergencias. También
+exige la elaboración y tramitación del correspondiente Plan de Autoprotección y el
+cumplimiento de las obligaciones que resulten exigibles conforme al Real Decreto 840/2015,
+de 21 de septiembre.
+En consecuencia, las cuestiones relativas a seguridad industrial y emergencias no
+quedan diferidas a una valoración genérica, sino sometidas a las condiciones específicas
+establecidas por los órganos competentes.
+4. Sobre la necesidad de la instalación y la utilización de combustibles fósiles frente a
+alternativas renovables o de almacenamiento.
+Diversas alegaciones cuestionan la necesidad de instalar nueva generación mediante
+grupos alimentados con combustible gaseoso y consideran que deberían priorizarse alternativas
+basadas en energías renovables, almacenamiento u otras tecnologías compatibles con los
+objetivos de descarbonización. En particular, Ben Magec-Ecologistas en Acción y Turcón
+solicitan una justificación técnica de la necesidad de la instalación y la evaluación de
+alternativas no fósiles.
+La instalación objeto del expediente no responde a una planificación de generación
+ordinaria de carácter permanente, sino a las medidas temporales y extraordinarias adoptadas
+para garantizar la seguridad del suministro eléctrico ante los riesgos de cobertura puestos
+de manifiesto por el Operador del Sistema.
+La necesidad de disponer de generación adicional gestionable tiene su origen en
+los informes de cobertura de los sistemas eléctricos de Canarias y en la declaración de
+emergencia energética acordada por el Gobierno de Canarias el 2 de octubre de 2023.
+Asimismo, mediante la Orden TED/909/2025, de 7 de agosto, el Ministerio para la
+Transición Ecológica y el Reto Demográfico reconoció las repercusiones económicas
+derivadas de la adopción de medidas temporales y extraordinarias destinadas a garantizar
+la seguridad del suministro en las islas de Gran Canaria, Tenerife y Fuerteventura.
+Asimismo, el informe del Operador del Sistema establece que, dado el carácter de
+emergencia de esta generación y su utilización limitada a situaciones en las que exista
+riesgo cierto para la seguridad del suministro, las instalaciones deben ser capaces de
+acoplar en tiempos inferiores a 20 minutos y tener un tamaño no superior a 30 MW. A fin
+de disponer de estas características, el citado informe determina que la generación debe
+corresponderse con generadores de tipo A, según la clasificación establecida en el artículo
+2 del Real Decreto 738/2015, de 31 de julio.
+En consecuencia, la finalidad de la instalación no es sustituir el desarrollo de generación
+renovable o de sistemas de almacenamiento, sino disponer temporalmente de potencia
+gestionable susceptible de ser utilizada exclusivamente cuando exista riesgo cierto para la
+seguridad del suministro.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38655 Lunes 26 de octubre de 2026
+5. Sobre el carácter temporal de la instalación.
+También se cuestiona que el carácter temporal de la instalación se encuentre
+suficientemente garantizado. En particular, se solicita que la autorización determine un
+plazo concreto y prevea su posterior desmantelamiento, evitando que una instalación
+inicialmente concebida como solución de emergencia adquiera carácter permanente.
+Sobre esta cuestión, la Orden TED/909/2025 contempla estas medidas con carácter
+temporal, durante un periodo de tres años, sin perjuicio de las prórrogas que puedan resultar
+necesarias en función de las necesidades de garantía del suministro.
+En coherencia con ello, la presente Resolución establece expresamente que las
+instalaciones de generación de emergencia estarán en funcionamiento por un plazo máximo
+de tres años, siendo posible su prórroga únicamente en la medida en que el mantenimiento
+de las medidas extraordinarias resulte necesario para garantizar el suministro eléctrico.
+Asimismo, las instalaciones únicamente podrán ser despachadas cuando exista riesgo
+cierto para la seguridad del suministro.
+Por tanto, la autorización no configura la instalación como una nueva instalación
+ordinaria y permanente de producción, sino como una medida extraordinaria vinculada a
+una concreta necesidad de garantía del suministro.
+6. Sobre la evaluación ambiental y el análisis de alternativas.
+Respecto de las alegaciones que sostienen que el proyecto carece de la evaluación
+ambiental legalmente exigible, consta que el proyecto correspondiente al nuevo
+emplazamiento objeto de esta autorización ha sido sometido a evaluación de impacto
+ambiental simplificada conforme a los artículos 7 y siguientes de la Ley 21/2013, de 9 de
+diciembre.
+El procedimiento ha concluido con la Resolución n.º 639/2026, de 31 de agosto, de la
+Dirección General de Calidad Ambiental, que formula el informe de impacto ambiental
+e incorpora prescripciones adicionales que el promotor deberá integrar, presupuestar
+y cumplir junto con las medidas preventivas y correctoras contenidas en el documento
+ambiental.
+Por tanto, las cuestiones relativas a emisiones atmosféricas, ruido, efectos acumulativos,
+riesgos sobre la población, avifauna, integración paisajística y demás aspectos ambientales
+quedan sometidas a las determinaciones del órgano ambiental competente.
+7. Sobre los posibles daños ambientales y la exigencia de garantías.
+Respecto de las alegaciones relativas a la responsabilidad por posibles daños ambientales
+y a la constitución de garantías, el informe de impacto ambiental establece expresamente
+que será responsabilidad del promotor la corrección de cualquier alteración o perjuicio
+ambiental ocasionado por el desarrollo del proyecto, con remisión a las obligaciones
+previstas en la Ley 26/2007, de 23 de octubre, de Responsabilidad Medioambiental.
+Asimismo, la presente autorización establece que, previamente al comienzo de las
+obras, el promotor deberá constituir las garantías que resulten exigibles conforme a la
+legislación vigente para cubrir los daños que la ejecución del proyecto pudiera ocasionar
+a terceros.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38656 Lunes 26 de octubre de 2026
+8. Sobre el precedente de otras instalaciones y la concentración de instalaciones de
+emergencia en Los Realejos.
+Las alegaciones cuestionan la idoneidad del emplazamiento de la instalación por su
+proximidad a viviendas y otras actividades, así como por las posibles afecciones derivadas
+de su funcionamiento. Asimismo, se considera injustificada la concentración en el municipio
+de Los Realejos de dos de las instalaciones de generación de emergencia previstas para
+la isla de Tenerife y se invocan, a efectos comparativos, otros precedentes relativos a la
+implantación de instalaciones similares.
+A este respecto, debe señalarse, en primer lugar, que el emplazamiento objeto de la
+presente autorización no coincide con el inicialmente previsto. Durante la tramitación del
+expediente se formularon alegaciones y pronunciamientos respecto de la ubicación inicial,
+entre ellos los relativos a su proximidad a viviendas, planteándose por el Ayuntamiento de
+Los Realejos la reubicación de la instalación dentro del polígono de La Gañanía. Como
+consecuencia de ello, el promotor estudió una ubicación alternativa y, con fecha 31 de enero
+de 2026, presentó la actualización del proyecto correspondiente al nuevo emplazamiento.
+Por otra parte, la ubicación de una instalación de generación eléctrica no puede
+determinarse exclusivamente atendiendo a su distribución territorial entre municipios,
+dado que la posibilidad efectiva de conectar y evacuar la energía generada se encuentra
+condicionada por la configuración y el estado de las redes eléctricas existentes, la
+disponibilidad de puntos de conexión y la existencia de capacidad de acceso para la inyección
+de la energía en la red. En consecuencia, no cualquier emplazamiento resulta técnicamente
+apto para la conexión de una instalación de generación de la potencia proyectada.
+En el presente caso, la evacuación de la energía se proyecta mediante conexión a la
+Subestación Los Realejos, encontrándose las condiciones concretas de acceso y conexión
+sometidas a la normativa sectorial y a las determinaciones del gestor de la red de distribución.
+Asimismo, las posibles afecciones del nuevo emplazamiento sobre las viviendas y la
+población han sido consideradas en la evaluación ambiental del proyecto. El informe de
+impacto ambiental incorpora prescripciones específicas en materia de ruido, emisiones
+atmosféricas, efectos acumulativos, riesgos y seguridad, llegando a exigir que se estudie
+la viabilidad de rediseñar la disposición de los componentes dentro de la parcela para
+aumentar la distancia respecto de las viviendas próximas.
+En consecuencia, la mera existencia de otras instalaciones de generación de emergencia
+en el municipio o la comparación con proyectos planteados en otros emplazamientos no
+determina por sí sola la improcedencia de la autorización, debiendo valorarse cada proyecto
+atendiendo a sus circunstancias concretas, entre ellas la viabilidad de su conexión y
+evacuación, las características del emplazamiento, el resultado de la evaluación ambiental
+y el cumplimiento de las condiciones técnicas, ambientales y sectoriales que resulten
+exigibles.
+9. Conclusión sobre las alegaciones.
+En consecuencia, examinadas conjuntamente las alegaciones formuladas, las
+contestaciones aportadas por el promotor, el informe de impacto ambiental y los informes
+sectoriales emitidos durante la tramitación, no se aprecia que las cuestiones alegadas
+determinen la imposibilidad de otorgar la autorización administrativa solicitada, sin
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38657 Lunes 26 de octubre de 2026
+perjuicio del obligado cumplimiento de las prescripciones ambientales, técnicas, de
+seguridad y sectoriales incorporadas al expediente y de las condiciones establecidas en la
+presente Resolución.
+VIII. La ejecución de las instalaciones proyectadas requiere de evaluación de impacto
+ambiental simplificada por encontrarse incluido el proyecto en el Anexo II, grupo 4 “Industria
+energética” y epígrafe a) “Instalaciones industriales para la producción de electricidad,
+vapor y agua caliente (proyectos no incluidos en el Anexo I)” y m) “Almacenamiento sobre
+el terreno para uso industrial de combustibles fósiles no incluidos en el Anexo I”, de la Ley
+21/2013, de 9 de diciembre, de evaluación ambiental.
+IX. La Orden n.º 295/2026, de 17 de agosto, del Consejero de Transición Ecológica y
+Energía, por la que se modifica la Orden n.º 136/2025, de 23 de abril, declara de interés
+general las obras necesarias para la ejecución de las instalaciones eléctricas de alta tensión
+del proyecto, incorporando la nueva ubicación de la planta y de su línea de evacuación.
+Constando en el expediente informes favorables del Cabildo Insular de Tenerife y del
+Ayuntamiento de Los Realejos respecto del nuevo emplazamiento del proyecto y habiendo
+transcurrido el plazo legalmente conferido sin que se hayan emitido nuevos informes
+específicos en respuesta a las consultas efectuadas tras la modificación de la declaración de
+interés general, concurre el supuesto previsto en los apartados 4 y 7 del artículo 6 bis de la
+Ley 11/1997.
+En consecuencia, la autorización territorial especial se entiende otorgada y queda
+subsumida en la presente autorización sustantiva. Esta autorización legitima por sí misma la
+ejecución de los actos de construcción, edificación y uso del suelo incluidos en el proyecto,
+sin necesidad de ningún otro instrumento de planificación territorial o urbanística y sin
+sujeción a licencia urbanística ni a cualquier otro acto de control preventivo municipal o
+insular, todo ello en los términos del artículo 6 bis de la Ley 11/1997.
+X. El Decreto 1/2026, de 26 de enero, por el que se aprueba el Reglamento Orgánico
+de la Consejería de Transición Ecológica y Energía y se crea y regula el Consejo para
+la transición energética de Canarias, establece que la Dirección General de Energía
+tiene atribuidas las competencias para la concesión de autorizaciones y la tramitación de
+comunicaciones previas y declaraciones responsables en materia energética, ejerciendo
+exclusivamente sobre las mismas las atribuciones sectoriales en materia de energía.
+PROPUESTA DE RESOLUCIÓN
+Primero.- Otorgar la autorización administrativa de las instalaciones contempladas
+en el proyecto denominado “Planta de Generación con Grupos de Emergencia 14,8 MW-
+Planta Tigaiga”, revisión de enero de 2026, y en la “Adenda Modificación LSAT Planta
+de Generación con Grupos de Emergencia 14,8 MW-Planta Tigaiga”, revisión de marzo
+de 2026, en el término municipal de Los Realejos, isla de Tenerife, con n.º de expediente
+GE25/017, de conformidad con lo establecido en el artículo 11 del Reglamento por el que
+se regulan los procedimientos administrativos relativos a la ejecución y puesta en servicio
+de las instalaciones eléctricas en Canarias, aprobado por el Decreto 141/2009, de 10 de
+noviembre, y resto de normativa de aplicación.
+Segundo.- El plazo máximo para presentar la solicitud de puesta en servicio de las
+instalaciones será de 6 meses, contados a partir de la notificación de la presente Resolución.
+Dicha solicitud se ajustará a los términos previstos en el artículo 14 del Reglamento
+aprobado por el Decreto 141/2009, de 10 de noviembre.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38658 Lunes 26 de octubre de 2026
+Tercero.- La ejecución de las instalaciones se ajustará estrictamente al proyecto y adenda
+identificados en la presente Resolución, debiendo ajustarse a lo establecido en el Reglamento
+aprobado por el Decreto 141/2009, de 10 de noviembre. Cualquier modificación sustancial
+de las características de la instalación autorizada exigirá nueva resolución de autorización
+administrativa, de acuerdo con lo establecido en el artículo 45.5 de dicho Reglamento.
+Cuarto.- Las obras se ejecutarán de conformidad con los condicionados emitidos por
+los organismos afectados.
+Con carácter previo a la puesta en servicio de la instalación, deberá acreditarse ante
+esta Dirección General la vigencia y, en su caso, actualización de los permisos de acceso y
+conexión correspondientes al emplazamiento autorizado, así como el cumplimiento de las
+condiciones técnicas establecidas por el gestor de la red para la conexión de la instalación.
+Quinto.- La instalación deberá ser ejecutada por instalador o empresa instaladora en
+alta tensión.
+Sexto.- Durante el desarrollo y ejecución de las instalaciones, se deberá cumplir lo
+establecido en el Real Decreto 1627/1997, de 24 de octubre, por el que se establecen
+disposiciones mínimas de seguridad y salud en las obras de construcción.
+Séptimo.- Esta autorización se concede con los efectos previstos en el artículo 6 bis de
+la Ley 11/1997, de 2 de diciembre, de regulación del Sector Eléctrico Canario, y sin perjuicio
+de la obtención de cualquier otra autorización o intervención exigible por la legislación
+vigente cuyo otorgamiento competa a otras administraciones y organismos públicos.
+Octavo.- Previo al comienzo de las obras de ejecución de las instalaciones proyectadas,
+el promotor constituirá las garantías necesarias, de acuerdo con la legislación vigente,
+asegurando las coberturas por daños que la ejecución del proyecto pudiera causar a terceros.
+Noveno.- Previos los trámites legales oportunos, la Administración podrá declarar
+la nulidad de esta autorización si se comprobase la inexactitud de las declaraciones del
+solicitante que figuran en el expediente, conforme a lo dispuesto en el artículo 4.3 del
+Reglamento aprobado por el Decreto 141/2009, de 10 de noviembre, así como en el artículo
+69.4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+Décimo.- En materia de caducidad, se estará a lo dispuesto en el artículo 11 del
+Reglamento aprobado por el Decreto 141/2009, de 10 de noviembre, y en el artículo
+95 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las
+Administraciones Públicas.
+Undécimo.- Estarán en funcionamiento las instalaciones de generación de emergencia
+por un plazo máximo de tres años, siendo posible la prórroga, en la medida en que el
+mantenimiento de las medidas extraordinarias resulte necesario para garantizar el suministro
+eléctrico.
+Duodécimo.- Las instalaciones solo serán despachadas en aquellos momentos en que
+exista riesgo cierto para la seguridad del suministro.- En Santa Cruz de Tenerife.- La Jefa de
+Servicio de Transporte y Generación en Régimen Ordinario, Alejandra Rodríguez Alloza.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
+
+Boletín Oficial de Canarias núm. 214 38659 Lunes 26 de octubre de 2026
+Vistos los antecedentes mencionados y en virtud de las competencias que me han sido
+conferidas,
+RESUELVO:
+Primero.- Aceptar en todos sus términos la propuesta anterior.
+Segundo.- Notificar la presente Resolución al promotor, a los organismos que informaron
+o debieron informar en el procedimiento y a los interesados cuyos derechos e intereses resulten
+afectados por la misma.
+Tercero.- Publicar la presente Resolución en el Boletín Oficial de Canarias.
+Contra la presente Resolución, que no pone fin a la vía administrativa, se podrá interponer
+recurso de alzada ante la Ilma. Sra. Viceconsejera de Transición Ecológica, Lucha contra el
+Cambio Climático y Energía, en el plazo de un mes desde el día siguiente a la recepción de la
+notificación de la misma, conforme a lo establecido en el artículo 122 de la Ley 39/2015, de
+1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas,
+sin perjuicio de cualquier otro recurso que pudiera interponerse.
+Este recurso podrá presentarse en la sede electrónica del Gobierno de Canarias, a través
+del procedimiento número 7590 (https://sede.gobiernodecanarias.org/sede/tramites/7590).
+Santa Cruz de Tenerife, a 28 de septiembre de 2026.- El Director General de Energía,
+Alberto Hernández Suárez.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-214-3687
