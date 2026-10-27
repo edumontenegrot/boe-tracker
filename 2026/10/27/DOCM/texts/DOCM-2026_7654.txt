@@ -1,0 +1,938 @@
+AÑO XLV Núm. 206 27 de octubre de 2026 37710
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 15/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, por la que se
+formula el informe de impacto ambiental del proyecto: Planta solar fotovoltaica híbrida HFV Cerro Sídrico
+de 1,5 MW y sus infraestructuras de evacuación (expediente S478/2025/CU/00016), situado en el término
+municipal de Iniesta (Cuenca), cuya promotora es Champiñones Cumar SL. [2026/7654]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, concreta en su artículo 6.2 los
+proyectos que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para
+determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+El proyecto “162702-00896 Planta solar fotovoltaica híbrida HFV Cerro Sidrico de 1,5 MW y sus infraestructuras
+de evacuación”, que contemplaría la ocupación de unas 2,81 hectáreas (superficie vallada) no se encuadraría, a
+priori, en los supuestos sometidos a procedimiento de evaluación ambiental, de acuerdo con la Ley 2/2020, que
+indica que se incluyen en el Anexo 2 (evaluación ambiental simplificada), dentro del grupo 4 “Industria energética”,
+apartado h “Instalaciones para la producción de energía eléctrica a partir de la energía solar no incluidas en el
+Anexo 1 ni instaladas sobre cubiertas o tejados de edificios, y que ocupen una superficie mayor de 10 hectáreas”.
+Por lo que respecta a la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, la modificación de la Ley efectuada
+por el Real Decreto 445/2023, de 13 de junio, por el que se modifican los anexos I, II y III de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental indica que se incluyen los proyectos del grupo 4 “Industria energética”, apartado
+j “Instalaciones para la producción de energía eléctrica a partir de la energía solar no incluidas en el anexo I, ni
+instaladas sobre cubiertas o tejados de edificios, así como, las que ocupen una superficie inferior a 5 ha salvo que
+cumplan los criterios 1 o 2”. En este caso, tras consulta con el Servicio de Medio Natural y Biodiversidad, que indicó
+que la instalación implicaría la detracción del hábitat de campeo y alimentación del águila imperial, especie incluida
+en el Catálogo Regional de Especies Protegidas de Castilla-La Mancha (CREA-CLM) y en el Listado de Especies en
+Régimen de Protección Especial (Lespre), se cumple unos de los criterios indicados.
+En resumen, el proyecto se debe someter a un procedimiento de evaluación de impacto ambiental simplificado con
+respecto a la Ley 21/2013, que es de aplicación en todo el ámbito castellanomanchego junto a la Ley 2/2020.
+Primero. Promotor, órgano sustantivo y descripción del proyecto realizada por el promotor.
+El promotor del proyecto “162702-00896 Planta solar fotovoltaica híbrida HFV Cerro Sidrico de 1,5 MW y sus
+infraestructuras de evacuación” es Champiñones Cumar S.L. Actúa como órgano sustantivo el Servicio de Industria
+y Energía de la Delegación Provincial de la Consejería de Desarrollo Sostenible en Cuenca.
+El objeto del proyecto sería la instalación de la HFV Cerro Sidrico, de 1,5 MW, así como todas las infraestructuras
+necesarias para conducir la energía generada hasta el punto de evacuación existente que es utilizada por el Parque
+Eólico Cerro Sidrico con el que se hibridará (CS Cerro Sidrico). El parque eólico existente se compone de un
+único aerogenerador de 1,5 MW y se encuentra en explotación, contando con resolución de Informe de Impacto
+Ambiental de 1/05/2018, de la Delegación Provincial de Agricultura, Medio Ambiente y Desarrollo Rural (expediente
+PRO-CU-18_0752). Las parcelas afectadas por la PSF (área comprendida dentro del vallado) son la 363 y 368 del
+polígono 21 del término municipal de Iniesta (Cuenca). En el anexo 1 se muestra un croquis aproximado de la HFV
+Cerro Sidrico junto con el parque eólico con el que se hibrida y la línea de evacuación proyectada.
+1.1. Contexto energético del proyecto.
+Actualmente, los proyectos de energías renovables adquieren unas dimensiones considerables y, además, suelen
+concentrarse en determinadas zonas del territorio que resultan propicias por, fundamentalmente, contar con una ST
+de evacuación cercana. Es primordial, por tanto, que la administración valore este tipo de instalaciones de manera
+conjunta de forma preventiva -independientemente de que se tramiten en proyectos separados y a pesar de que el
+planteamiento de ciertas infraestructuras pueda ser provisional- con objeto de garantizar así una evaluación objetiva
+de la capacidad de acogida del territorio (poniendo énfasis, principalmente, en las sinergias que pudieran derivarse
+de las diferentes actuaciones).
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37711
+En el caso que nos ocupa, la evacuación no se produce a una subestación, sino que, dada la reducida potencia de
+las instalaciones eólicas y fotovoltaicas que se hibridarán, se produce desde un centro de seccionamiento a la LAT
+San Ildefonso/Ledaña, propiedad de i-DE Redes Inteligentes S.A.U.
+1.2. Descripción de las principales instalaciones propuestas y de su evacuación.
+La PSF propuesta convertiría la energía de la radiación solar en energía eléctrica a través de una serie de módulos
+solares fotovoltaicos instalados en el sistema de estructura fotovoltaica. Esta energía eléctrica, producida en
+corriente continua, se transformaría en corriente alterna con unas características determinadas que harían posible
+su inyección a la red de transporte y la distribución pública por medio de inversores de conexión a red. Para el
+acondicionamiento de la tensión se utilizarían transformadores encargados de elevar la tensión de la corriente
+producida desde baja tensión a media tensión para su distribución a la red eléctrica.
+El campo generador estará constituido por 2.660 módulos del modelo HIKu7 Mono PERC CS7N-660MS de silicio
+monocristalino, de 660 Wp, agrupados en distintas unidades en serie montadas sobre estructuras metálicas con
+seguimiento en un eje horizontal hincados sobre el terreno. En cualquier caso, esta configuración podrá variar en
+función de la oferta tecnológica de paneles disponible en el mercado, siendo siempre de características similares.
+Se instalará un nuevo centro de protección control y medida (CPCM) colindante a otro CPCM existente, al que se
+conectará el circuito de media tensión existente del parque eólico y el circuito de media tensión de la planta solar. La
+instalación híbrida dispone de un sistema de control coordinado que impide que la potencia activa que ésta pueda
+inyectar a la red supere la capacidad de acceso concedida. Se proyecta una línea soterrada de interconexión entre
+los dos CPCM, que según cartografía aportada tendrá una longitud de 29 metros. Desde el CPCM existente, la
+evacuación hasta la LAT San Ildefonso/Ledaña es compartida y ya existente.
+1.3. Obra civil asociada al proyecto.
+En cuanto a la obra civil necesaria, ésta comprendería los siguientes trabajos:
+- Movimiento de tierras: se estima que serán mínimos, ya que las estructuras se hincarán directamente al suelo y la
+mayor parte de la superficie no se han encontrado pendientes superiores al 5% que precisen de nivelaciones de terreno.
+- Sistemas de drenaje para la evacuación de aguas de lluvia.
+- Zanjas para instalación de cableado.
+- Plataformas y cimentaciones para los centros de transformación y CPCM.
+- Vallado y pantalla vegetal: el vallado perimetral tendrá una longitud total de 1259 metros lineales en dos cerramientos,
+el primero de 754 metros y el segundo de 505 metros. En el documento ambiental se indica que el vallado será
+de tipo cinegético, si bien se indica que serán permeables para la fauna de menor tamaño y que se dispondrá una
+pantalla vegetal en todo el perímetro con 5 metros de anchura.
+Por último, habría que contemplar también las instalaciones de tipo provisional, necesarias para poder llevar a cabo -en
+las debidas condiciones de seguridad y salud-, los trabajos para la construcción de la PSF y que, una vez que hayan
+sido realizados, serán retiradas en un período de tiempo generalmente corto.
+1.4. Estudio de sinergias.
+Dado el contexto energético expuesto en el punto 1.1, así como la concurrencia de la PSF con otras plantas de
+energía renovable en funcionamiento, así como líneas eléctricas cercanas, el promotor incluyó en el documento
+ambiental un análisis de los efectos sinérgicos del proyecto que no se considera significativa sobre el entorno y se
+minimizaría por la compactación del proyecto y su evacuación con el parque eólico existente.
+Dentro de los principales factores ambientales que requieren un análisis pormenorizado debido a la afección negativa
+que pueden sufrir por las sinergias, se encuentran la flora y la fauna (por la ocupación de terreno) y el paisaje (debido a
+la concentración de proyectos en una misma localización). Los impactos positivos se traducirían en un mayor desarrollo
+económico -tanto durante la fase de construcción como de funcionamiento- y, sobre todo, a nivel medioambiental al
+fomentar una transición energética que fomenta el ahorro de CO2 y la lucha contra el cambio climático.
+1.5. Estudio de alternativas.
+Tal y como se describe en el artículo 45 de la Ley 21/2013, el promotor debe elaborar un documento ambiental
+que ha de contener entre sus contenidos, “una exposición de las principales alternativas estudiadas, incluida la
+alternativa cero, y una justificación de las principales razones de solución adoptada, teniendo en cuenta los efectos
+ambientales”.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37712
+1.5.1. Alternativas propuestas por el promotor.
+Alternativa cero: supondría la no realización del proyecto y conllevaría, según el promotor, una incidencia ambiental
+negativa al proliferar nuevas instalaciones basadas en los combustibles fósiles, lo que significaría un retroceso en
+la lucha contra el cambio climático. Se descarta, por tanto, porque supondría impactos negativos mucho mayores
+frente a la alternativa de ejecución del proyecto.
+Alternativas de emplazamiento: se procedió a seleccionar un emplazamiento en base a una evaluación multicriterio,
+incluyendo también los movimientos de tierra previstos y la minimización de los procesos erosivos.
+Alternativa 1: la PSF se implantaría en el término de Iniesta (Cuenca) dentro del polígono catastral 21 de dicho
+municipio. La zona se proyecta en campo de cultivo de cereal y leñosos, sin afección directa a recursos protegidos
+y sin visibilidad directa desde núcleos de población.
+Alternativa 2: la PSF se implantaría en el término de Iniesta (Cuenca) dentro del polígono catastral 38 de dicho
+municipio. La zona se proyecta en campo de cultivo de leñosos, sin afección directa a recursos protegidos y con
+mayor impacto visual estimado por la dispersión de las infraestructuras. Se incrementaría también la longitud de la
+línea de evacuación.
+Alternativa 3: la PSF se implantaría en el término de Iniesta (Cuenca) dentro de los polígonos catastrales 11 y 38 de
+dicho municipio. La zona se proyecta en campo de cultivo leñoso y dentro de la zona de transición de la Reserva de
+la Biosfera Valle del Cabriel. Se prevé también mayor impacto visual estimado que en el caso de la alternativa 1 por
+la dispersión de las infraestructuras. La línea de evacuación también tendría mayor longitud.
+1.5.2. Alternativas seleccionadas por el promotor.
+De entre las alternativas de ubicación estudiadas, el promotor escoge la alternativa 1 como opción más viable al
+ser la que menor impactos negativos genera según los criterios analizados, ya que su ubicación cercana al parque
+eólico existente minimiza la afección de la línea de evacuación y compacta el proyecto, minimizándose también el
+resto de afecciones a valores naturales del entorno.
+1.6. Evaluación de las repercusiones en Red Natura 2000.
+La Ley 21/2013 cita que se deberá incluir un apartado específico para la evaluación de las repercusiones del
+proyecto sobre espacios Red Natura 2000 cuando el proyecto pueda afectar directa o indirectamente a alguno de
+los espacios declarados.
+El promotor considera que el proyecto no afectará de modo directo a ningún espacio declarado, siendo el más
+cercano la Zona de Especial Conservación (en adelante, ZEC) y Zona de Especial Protección para las Aves (en
+adelante, ZEPA) ES4230012 Hoces del Cabriel, Guadazaón y Ojos de Moya, a más de 12 kilómetros al este de la
+alternativa seleccionada. Dada la ubicación y magnitud del proyecto, no se considera afecciones negativas al citado
+espacio ni la necesidad de realizar un estudio específico para ello. El Servicio de Medio Natural y Biodiversidad
+tampoco observa afecciones negativas al espacio en su informe.
+1.7. Análisis de Riesgos.
+Según la Ley 21/2013, con objeto de garantizar un alto nivel de protección al medio ambiente, se deben tomar las
+medidas preventivas convenientes, respecto a determinados proyectos, que por su vulnerabilidad ante accidentes
+graves o catástrofes naturales (inundaciones, terremotos, subidas del nivel del mar etc.), puedan tener efectos
+adversos significativos para el medio ambiente.
+Se ha incluido un apartado específico (Apartado 7 del documento ambiental) que incluye la identificación, descripción,
+análisis y si procede, cuantificación, de los efectos esperados sobre los factores que determina la Ley derivados
+de la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se
+produzcan dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio
+ambiente, en caso de ocurrencia de los mismos. Según el análisis realizado por el promotor, se puede concluir
+que los terrenos destinados a la implantación de las PSF presentan un índice de riesgo mínimo con respecto a
+los factores de riesgo analizados en este documento, incluyéndose en el apartado algunas medidas de protección
+sencillas para su prevención.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37713
+Segundo. Procedimiento realizado.
+2.1. Información pública y consultas.
+El 24 de febrero de 2025, se presenta ante el órgano ambiental, por parte del órgano sustantivo, la solicitud de
+inicio del procedimiento de Evaluación de Impacto Ambiental simplificado del proyecto “162702-00896 Planta solar
+fotovoltaica híbrida HFV Cerro Sidrico de 1,5 MW y sus infraestructuras de evacuación”, junto con el resguardo de
+la tasa requerida por la Ley 9/2012, de 29 de noviembre, de tasas y precios públicos de Castilla-La Mancha y otras
+medidas tributarias, así como el documento ambiental correspondiente.
+Analizada la documentación por parte del órgano ambiental, se requirió la aportación de información complementaria
+para completar el documento ambiental presentado, relacionada con la aportación de un presupuesto detallado para
+las medidas compensatorias y el programa de vigilancia ambiental, así como aportar las pautas para la ejecución
+del plan de restauración e integración paisajística del proyecto. El promotor incorporó una adenda al documento
+ambiental a fecha 16 de mayo de 2025, considerando el órgano ambiental que la documentación estaba completa.
+Sobre la base de dicha documentación, y de acuerdo con el artículo 46 de la citada Ley 21/2013, el día 28 de mayo
+de 2025 se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con
+el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han
+sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+- Delegación Provincial de Desarrollo Sostenible de Cuenca - Servicio de Medio Natural y Biodiversidad (*)
+- Confederación Hidrográfica del Júcar (*)
+- Delegación Provincial de Educación, Cultura y Deportes de Cuenca - Sección de Arqueología (*)
+- Ayuntamiento de Iniesta
+- Delegación provincial de Desarrollo Sostenible de Cuenca - Unidad de Coordinación Provincial de Agentes
+Medioambientales
+- Consejería de Desarrollo Sostenible - Servicio de Prevención e Impacto Ambiental
+- Delegación Provincial de Fomento de Cuenca - Servicio de Carreteras (*)
+- Diputación Provincial de Cuenca (*)
+- Delegación Provincial de Hacienda y Administraciones Publicas en Cuenca - Servicio de Protección Ciudadana
+- Delegación Provincia de Fomento de Cuenca - Servicio de Urbanismo (*)
+- Delegación Provincial de Desarrollo Sostenible de Cuenca - Servicio de Minas (*)
+- Delegación Provincial de Sanidad de Cuenca - Servicio de Salud Pública (*)
+- WWF/Adena - España (Madrid)
+- Ecologistas en Acción de la Manchuela Cuenca y Albacete
+- Sociedad Española de Ornitología (SEO Birdlife)
+- Agrupación naturalista Esparvel de Cuenca
+- Secemu
+- Fundación 2001 – Global Nature
+- Asociación Nacional Micorriza
+- Asociación de Naturalistas Conquenses
+- Asociación para el Desarrollo Integral de la Manchuela Alta
+2.2. Valoración de los informes recibidos y las respuestas del promotor.
+Los aspectos más significativos de los informes recibidos (tanto durante la información pública como en trámites
+posteriores) así como las consideraciones remitidas por el promotor a lo largo de la tramitación, se exponen acto
+seguido.
+- Afección a carreteras: el Servicio de Carreteras de la Delegación de Fomento en Cuenca indicó inicialmente que
+debía incluirse un estudio de afección hidrológica a la carretera CM-3137, así como adaptarse el acceso desde dicha
+carretera a la instalación proyectada. El promotor realizó los estudios requeridos, informando favorablemente este
+Servicio a fecha 06/10/2026.
+- Afección a vías pecuarias: el informe del Servicio de Medio Natural y Biodiversidad de la Delegación de Desarrollo
+Sostenible en Cuenca indicó que debía aportarse documentación para valorar si existía afección a la vía pecuaria
+Vereda de Vadocañas. El promotor aportó cartografía detallada, considerando el Servicio que se respetaban las
+distancias con respecto a la vía pecuaria en informe de 18/03/2026.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37714
+- Afección por detracción de hábitat de campeo y alimentación de águila imperial: el citado Servicio de Medio Natural
+y Biodiversidad indico también que se producen afecciones a las poblaciones circundantes de esta especie junto al
+riesgo de mortalidad de avifauna por el funcionamiento del aerogenerador hibridado, por lo que estima necesario
+la instalación de un dispositivo de detección, disuasión y parada en el aerogenerador en funcionamiento, así como
+del establecimiento de una medida compensatoria de mejora de hábitat para el águila imperial (corrección de dos
+apoyos peligrosos o medidas de gestión y mejora de hábitat de recurso trófico en superficie similar a la de ocupación
+de la PSF).
+- Plan de seguimiento específico de fauna (PSEF): el Servicio de Medio Natural y Biodiversidad indica también
+la necesidad de implementar dentro del PVSA el citado PSEF para acometer desde la fase de construcción y a
+acometer durante la vida útil del proyecto, cuyas características se detallan en el apartado 5.2. de la presente
+Resolución.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 21/2013,
+de 9 de diciembre, de evaluación ambiental, para determinar si el proyecto tiene efectos significativos sobre el medio
+ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental Ordinaria, según lo previsto en la
+Sección 2ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+El promotor promueve la construcción de un PSF en hibridación con un parque eólico existente que ocuparía 2,81
+hectáreas y evacuaría la energía generada a la LAT San Ildefonso/Ledaña, utilizando para ello un nuevo CPCM y un
+tramo de línea soterrada de nueva construcción para conexión con CPCM existente.
+3.2. Ubicación del proyecto.
+La superficie vallada final de la PSF sería de 2,81 hectáreas, localizándose dicha instalación en las parcelas
+catastrales 363 y 368 del polígono 21 del término municipal de Iniesta.
+El acceso general a la planta solar fotovoltaica se realizaría a partir de la carretera CM-3137 (P.K. 0+505), desde el
+cual se tomaría un camino público existente (vereda de Vadocañas) durante unos 800 metros hasta las puertas de
+acceso de los dos vallados, que se sitúan colindantes.
+Se trata de una zona que se corresponde principalmente con zonas agrícolas de cultivo leñoso (vid y almendro), con
+linderos y ribazos de vegetación natural. Existen también varias plantas solares en las inmediaciones, junto a otras
+proyectadas.
+3.3. Características del potencial impacto.
+Fundamentalmente, los impactos negativos de este tipo de proyectos inciden mayoritariamente sobre la fauna, la
+vegetación y el paisaje. Con respecto a la fauna, porque provocan la reducción del hábitat para rapaces y aves
+esteparias, así como posible destrucción de madrigueras, ocupación de hábitat y efecto barrera para los mamíferos
+terrestres. Otras posibles afecciones serían las molestias a la fauna en fase de construcción y el riesgo de colisión
+de la avifauna con el vallado perimetral. Las afecciones a la vegetación se minimizan por la ubicación en zonas de
+labor y respetando los pies de arbolado disperso. El paisaje, inevitablemente, resulta sustancialmente alterado, si
+bien la cuenca visual es reducida en este caso por la orografía del terreno.
+A nivel medioambiental, el incremento del uso de las energías renovables supone un pilar fundamental en la
+estrategia de lucha contra la contaminación y el cambio climático. Entre éstas, la solar fotovoltaica se ha perfilado
+como una energía capaz de proporcionar una alta eficiencia si los recursos ambientales son favorables. Dilucidar
+si la capacidad de acogida de la zona elegida para una instalación de este tipo es adecuada o no, será el aspecto
+clave que determine la viabilidad o no del presente proyecto.
+Dado que las ventajas ambientales que ofrecen las energías renovables constituyen una respuesta eficaz para
+atajar la crisis climática y ambiental actual, que la alternativa elegida ocupa relativamente poca superficie para
+un proyecto de este tipo, que se localiza cerca del punto de evacuación y utiliza infraestructuras de evacuación
+existentes, que resulta factible a tenor de los informes recibidos atenuar los impactos sobre la fauna, la vegetación
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37715
+y el paisaje con el desarrollo de medidas preventivas y correctoras (vallado permeable, el respeto de los pies
+arbolados...), que se incluyen medidas compensatorias que contrarrestarían los impactos residuales, así como el
+hecho de que no existen alegaciones que pudieran condicionar la viabilidad del proyecto, se estima que la capacidad
+de acogida del territorio resulta apta para la actividad propuesta siempre que el promotor adopte las medidas fijadas
+en el documento ambiental y en el presente Informe, así como aquellas recogidas en posteriores documentos que
+se realicen durante la vida útil de la PSF y su desmantelamiento.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas que con carácter general se señalan en el Documento Ambiental, se cumplirán las
+condiciones que se expresan a continuación, significando que en los casos en que pudieran existir discrepancias
+entre unas y otras, prevalecerán las contenidas en la presente Resolución.
+4.1. Protección de áreas y recursos naturales.
+4.1.1. Análisis de ubicación.
+A tenor del informe del Servicio de Medio Natural y Biodiversidad, no existe afección directa a ningún espacio natural
+protegido, ni a Red Natura 2000, ni a zonas sensibles, elementos geomorfológicos de protección especial, hábitats
+de protección especial o hábitats de interés comunitario.
+El emplazamiento y su entorno constituye zona de campeo, alimentación y reproducción de avifauna protegida,
+incluida en el CREA-CLM, destacando las especies de grandes rapaces planeadoras. Concretamente, la instalación
+solar proyectada se localiza dentro del buffer de 5 km en torno a varias nidificaciones conocidas de la especie águila
+imperial ibérica (Aquila adalberti), catalogada en peligro de extinción en el CREA-CLM, muy ligadas a la presencia
+de poblaciones de especies presa, como conejo de monte (Oryctolagus cuniculus).
+Citar también el milano real (Milvus milvus), en la categoría de en peligro de extinción en el Catálogos Español
+de Especies Amenazadas (CEEA), especie no nidificante pero sí invernante habitual, ampliamente representada
+en el ámbito de estudio, en consonancia con el actual crecimiento de las poblaciones invernantes de La Mancha
+y Manchuela conquense. También es área de campeo y alimentación de otras rapaces forestales como busardo
+ratonero (Buteo buteo), en la categoría de interés especial en el CREA-CLM.
+Por otro lado, cabe señalar la presencia de aves pequeñas y medianas, fundamentalmente del orden paseriformes,
+asociadas a los diferentes hábitats identificados en la zona de estudio, destacando en las superficies y terrenos
+de cultivo agrícola del entorno, las poblaciones de aláudidos como cojugada común (Galerida cristata), calandria
+(Melanocorypha calandra) y alondra común (Alauda arvensis), todas en la categoría de interés especial.
+En la localidad de Iniesta, se encuentra registrada una antigua colonia de cernícalo primilla (Falco naumanni),
+revistiendo importancia por el carácter finícola en su distribución provincial.
+4.1.2. Afecciones a la fauna y medidas correctoras.
+La implantación solar tendrá como principal afección la detracción de hábitat para el águila imperial. A partir de
+los datos de radio-seguimiento de ejemplares de esta especie en Castilla-La Mancha se conoce que el 95% de
+los contactos se encuentran, por término medio, en una distancia al nido de hasta 5.000 metros, de manera que
+podemos considerar que el área de campeo de una pareja de águila imperial sería aproximadamente de entre 1.400
+y 5.500 hectáreas en función de la calidad del territorio, considerando principalmente factores como la disponibilidad
+de presas, la fisionomía del territorio y el efecto de la territorialidad por la presencia de otras parejas próximas, la
+presencia de hábitat no apto para la especie, entre otros.
+De acuerdo a directrices de la Dirección General de Medio Natural y Biodiversidad de la Consejería de Desarrollo
+Sostenible para la elaboración de informes sobre PSF en áreas de presencia estable, áreas críticas y zonas de
+dispersión de águila imperial ibérica, se establece en el buffer de 5 kilómetros en torno al nido, unos umbrales límite
+que no deben ser sobrepasados de ocupación solar, siempre y cuando se asegure la no alteración de la calidad
+del hábitat o se produzca un daño significativo en el mismo. En el buffer de los 5 kilómetros, existen instalaciones
+solares que junto a la de proyecto sumarían cerca de 30 hectáreas, a parte de los parques eólicos de Iniesta, de dos
+aerogeneradores y el aerogenerador del parque eólico del PE Cerro Sidrico.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37716
+La instalación de una planta solar puede conllevar la destrucción del hábitat de alimentación en la zona ocupada
+por los paneles, incluyendo las calles entre los mismos, lo que trae consigo la necesidad de garantizar un hábitat de
+calidad equivalente al menos similar al alterado en el radio del área de campeo de los individuos afectados, lo cual
+se puede alcanzar a través de medidas de restauración y mejora del conjunto del hábitat. Por otra parte, también
+hay que considerar las instalaciones solares suponen un cambio de uso del suelo, que podría beneficiar al conejo de
+monte (Oryctolagus cuniculus), al proporcionarle refugio y alimento, pudiendo derivar en una atracción de rapaces
+del entorno hacia la planta solar, aumentando el riesgo de mortalidad, si se emplazan próximas a las infraestructuras
+de un parque eólico, como es el caso.
+La instalación solar se ha proyectado en un área con cierto uso antrópico por la proximidad con el núcleo de
+la población de Iniesta, no superándose umbrales establecidos ni previéndose una detracción de hábitat que
+pueda comprometer la permanencia del territorio de nidificación y cría de águila imperial, aunque podría derivarse
+condicionantes adicionales a los que a continuación se exponen, si del seguimiento puede evidenciarse riesgo de
+supervivencia de la especie en cuestión en la zona, y que fuera imputable al desarrollo solar. Expuesto lo anterior,
+y de acuerdo al artículo 63 de la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza, por el que se
+establece el principio general de protección de las especies de flora y fauna que viven en estado silvestre, que
+indica se adoptarán las medidas necesarias para garantizar su conservación y protección, priorizando las medidas
+de conservación de las especies en sus hábitats naturales, se incluirán una serie de medidas para protección que
+se mencionan a continuación.
+Con el fin de evitar o reducir el riesgo de colisión y mortalidad en aerogeneradores se dispondrá de la instalación
+de un dispositivo de detección, disuasión y parada, en el aerogenerador del parque eólico de Cerro Sidrico con
+el que se hibrida la instalación, debiendo estar operativo antes de la autorización de puesta en funcionamiento
+de la PSF. Los sistemas de detección, disuasión y parada, que se instalen se irán adaptando a las nuevas y
+mejoras tecnológicas disponibles, de forma que se mejore la efectividad para prevenir impactos por colisión, como
+pueden ser “dispositivos de visión artificial estereoscópica”, capaces de detectar y posicionar tridimensionalmente
+y en tiempo real a los ejemplares que se aproximan al parque eólico, registrando o previendo su trayectoria, y
+en caso de riesgo desencadenando acciones de disuasión y paradas efectivas. Las características técnicas de
+estos sistemas (tiempo efectivo de parada desde confirmación del riesgo, tipología de aves detectadas, fiabilidad
+respecto a falsos positivos, grabación de video, etc.…), requerirán visto bueno del Servicio Provincial de Medio
+Natural y Biodiversidad.
+Según el artículo 34 del Decreto 242/2004, de 27 de febrero de 2004, por el que se aprueba el Reglamento de
+Suelo Rústico, los vallados y cerramientos de fincas y parcelas se deberán realizar de manera que no supongan un
+riesgo para la conservación y circulación de la fauna silvestre de la zona ni degraden el paisaje. Por ello, el vallado
+perimetral de las instalaciones, excepto los centros de transformación, deberán ser permeables para la fauna. El
+vallado tendrá las siguientes características:
+- La malla a colocar será de tipo ganadera, debiendo presentar las siguientes medidas: 180/20/30 centímetros
+(alturas / separación entre hilos horizontales / separación entre hilos verticales). La altura máxima será de 2 metros
+contando con los 20 centímetros de hueco inferior.
+- No tendrá ni anclaje al suelo ni cable tensor inferior. Se colocará elevada, dejando los 20 cm inferiores libres con
+el fin de garantizar la permeabilidad a la fauna de pequeño y mediano tamaño.
+- De forma alternativa se podrá utilizar otro diseño de malla ganadera similar, siempre y cuando se respete la altura
+del hueco inferior de colocación.
+- No podrá contar con voladizos o con visera superior, y carecerá de elementos cortantes o punzantes, dispositivos
+o trampas que permitan la entrada de fauna silvestre e impidan o dificulten su salida. No se permite en ningún caso
+tener incorporados dispositivos para conectar corriente eléctrica.
+- Se tendrá en cuenta el diseño de ocupación del parque solar para reducir la longitud del perímetro para la superficie
+necesaria a ocupar.
+- Se señalizará el vallado con elementos de alta visibilidad para evitar la colisión de las aves.
+Además, previo a las obras y en época fenológica adecuada, se realizará un muestreo de campo exhaustivo en la
+zona de actuación y su área de influencia (1 kilómetro), así como en las masas forestales circundantes o de ribera,
+por técnico especialista, con el fin de descartar la posible presencia de nidos, lugares de cría y otros elementos del
+medio que puedan servir de refugio a la fauna. Los resultados se presentarán ante el órgano ambiental, para su
+revisión y establecer las medidas preventivas necesarias adicionales en caso de presencia de nidos o ejemplares
+de especies protegidas.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37717
+En el caso de que durante la ejecución del proyecto se detectasen circunstancias que supusiesen riesgos para las
+especies incluidas en el CREA-CLM, desde la Delegación de Desarrollo Sostenible se podrán tomar medidas que
+se estimen oportunas para minimizar dichos riesgos, que, entre otras, podrá ser una preceptiva parada biológica en
+trabajos y zonas de construcción de mayor impacto.
+Se dispondrá las medidas necesarias para llevar a cabo control de la vegetación natural entre paneles para
+reducir la adecuación de hábitat y la disponibilidad de alimento para lagomorfos. Se restringe la utilización de
+herbicidas, plaguicidas, insecticidas, rodenticidas y otros productos químicos que por sus características provoquen
+perturbaciones en los sistemas vitales de la fauna silvestre que potencialmente utilice este entorno como zona de
+alimentación, en particular la avifauna insectívora y granívora, los pequeños roedores o las especies que precisen
+el consumo de insectos en determinadas etapas de su vida (periodo de cría de pollo en las aves, etapas iniciales
+del crecimiento, etc.).
+En cuanto a la iluminación, se contemplará la reducción del número de luminarias al mínimo imprescindible, el uso
+de sistemas de iluminación de más alta eficiencia, la regulación del encendido y la intensidad a la demanda real,
+evitando la proyección de la luz directa hacia el cielo, o proyecciones que supongan reflejos, así como empleando
+lámparas que minimicen la atracción de lepidópteros.
+Igualmente, se ha de evitar y respetar en la configuración del proyecto los elementos del paisaje como enclaves
+de roca, terrazas de retención, pequeñas construcciones tales como muretes de piedra seca, u otros elementos de
+arquitectura tradicional que puedan servir de cobijo para la flora y la fauna silvestre.
+4.1.3. Afecciones a la vegetación natural y medidas correctoras.
+Se respetará las lindes arboladas y arbustivas existentes.
+El control de vegetación bajo seguidores, se realizará con métodos mecánicos, no estando permitido el uso de
+herbicidas. Se puede admitir empleo de ganado ovino extensivo local, con posibilidad de pastoreo rotacional,
+debiendo presentarse plan de pastoreo, con indicación de carga ganadera correctamente calculada y justificada,
+calendario y cartografía, para su aprobación.
+Se deberá atender a las medidas de prevención de incendios a las masas forestales circundantes que se establecen
+en el punto 4.7. de la presente Resolución.
+4.1.4. Medidas compensatorias.
+El promotor del proyecto incluye en el documento ambiental unas medidas compensatorias para mitigar el impacto
+sobre la fauna consistentes en el establecimiento de un hotel de insectos y de un refugio de reptiles. En la adenda
+al documento ambiental se establece una partida presupuestaria para la ejecución de ambas medidas.
+Por otro lado, por la mencionada detracción del hábitat de campeo y alimentación de águila imperial (Aquila adalberti)
+y el riesgo residual de colisión, se han de adoptar medidas de compensación, encaminadas a la mejora de calidad
+de recurso trófico o de corrección de impactos. El promotor deberá optar por la ejecución, en un importe equivalente,
+de una de las dos medidas siguientes:
+1) Corrección de dos apoyos peligrosos conforme al Real Decreto 1432/2008, de 29 de agosto, por el que se
+establecen medidas para la protección de la avifauna contra la colisión y la electrocución en líneas eléctricas de alta
+tensión, bajo propuesta de localización del Servicio Provincial de Medio Natural y Biodiversidad.
+2) Gestión y mejora de hábitat recurso trófico para grandes rapaces, en una superficie similar a la de ocupación de
+planta solar, durante los cinco primeros años de explotación, en hábitat favorable, con medidas como:
+- Acuerdos con agricultores para mejorar la cuantía y distribución temporal de la oferta del alimento
+- Rotación de cultivos. Cultivo en rotación al menos a dos hojas, de año y vez, con un año cada dos de barbecho
+blanco o semillado con leguminosas grano, que no podrá enterrarse en verde, y será objeto preferiblemente de no
+recolección.
+- Sobresiembra; incremento del 25% de semilla en siembras. Las dosis mínimas de siembra para trigo y cebada
+serán de 200 kg/ha.
+- Utilizar semillas que no contengan productos químicos.
+- Manejo adecuado de barbechos; no realizar ningún tipo de laboreo, ni usar herbicida. Si no existe alternativa y en
+caso de necesidad y puntualmente, se podrá autorizar laboreo hasta el 15 de marzo.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37718
+- Retraso de labores. No realización de labores agrícolas del 1 de abril al 30 de junio. Las labores afectadas son
+retraso de la recolección, retraso en el empacado y recogida de pajas hasta el 15 de agosto/31 agosto, salvo
+empacado cuando se realice simultáneamente a la cosecha. El alzado de rastrojera, a partir del 15 de octubre, y
+no efectuar labores en las parcelas que permanezcan hasta alzado para su cultivo. A partir del 1 de septiembre, se
+permite el labrado superficial ligero sin volteo.
+- Mantenimiento de linderos y zonas de vegetación natural, preferentemente leñosa entre cultivos y preservar una
+franja de seguridad suficientemente amplia a ambos lados de las lindes o zonas de refugio y cría de caza de la
+aplicación de biocidas. Anchura de 5 metros, en un porcentaje al menos del 5% por parcela.
+- Intercalar con la creación de caballones de separación de cultivos (Beetle Banks): caballones de tamaño
+relativamente grandes que se construyan con vertederas o gradas presadas acumulando montones de tierra, y a
+veces piedras en los bordes de cultivos. Mantener sin labrar.
+Corresponde al promotor la ejecución de una de estas medidas, junto a las ya propuestas en el documento ambiental,
+que deberán concretarse en cuanto a ubicación y detalle de ejecución en un documento específico que cuente con
+visto bueno de esta Delegación Provincial. En el caso de la medida de corrección de apoyos, deberá estar ejecutada
+antes del inicio de la puesta en servicio de la planta, enviándose memoria de ejecución de las mismas al órgano
+sustantivo y ambiental una vez finalizadas.
+En el caso de la segunda medida de gestión de tierras agrícolas, deberá iniciarse en el año agrícola inmediatamente
+siguiente a la fecha de inicio de obras, presentando igualmente la documentación relativa a la propuesta de ejecución
+y los contratos con los agricultores de modo previo para visto bueno de esta Delegación Provincial.
+Previo a la ejecución de las medidas compensatorias, se deberá disponer de los permisos y autorizaciones
+administrativas que apliquen conforme a la legislación sectorial.
+En relación al conjunto de las medidas compensatorias que finalmente se ejecuten, se deberá tener en consideración
+que si la ejecución de alguna de ellas resultara inviable por motivos sobrevenidos de índole legal o técnica, ésta
+se reemplazará por otra de naturaleza equivalente en cuanto a la inversión económica prevista y el fin pretendido
+inicialmente -esto es, que se compense lo más exactamente posible el impacto residual generado-. Para tal fin, el
+órgano ambiental podrá recabar los informes necesarios que considere oportunos a aquellas administraciones que
+ostenten la competencia sobre los recursos afectados por el proyecto.
+4.2. Protección del suelo y la geomorfología.
+El documento ambiental y su adenda posterior indican que no se prevén movimientos significativos de tierras
+que modifiquen la configuración del terreno en la alternativa seleccionada, ni tampoco una afección hidráulica del
+proyecto debido a su localización. No existen muchas zonas con pendientes superiores al 5% en la zona vallada, de
+modo que los efectos erosivos serán reducidos.
+Para prevenir la erosión, se adoptarán medidas relacionadas con el diseño de una adecuada red de drenaje y la
+revegetación de áreas de actuación, que contribuirán a prevenir el riesgo de erosión por escorrentía. En cualquier
+caso, no se realizarán movimientos de tierra que produzcan alteraciones topográficas significativas y se favorecerá
+la colonización de la vegetación herbácea bajo la superficie de los módulos, la cual deberá ser sometida a un control
+de altura para compatibilizar su presencia con el funcionamiento correcto y seguro de la instalación.
+En caso de detectarse zonas con problemas de erosión o de drenaje, deberán adoptarse las medidas adecuadas
+para su corrección, evitando en todo momento afecciones en parcelas colindantes por el cambio en la red de drenaje
+actual o en la intensidad de las escorrentías.
+Se hará uso de los caminos existentes, evitándose abrir nuevos en la medida de los posible, procediéndose a su
+mejora y mantenimiento. En cualquier caso, se garantizará la libre circulación por los mismos.
+En la fase de construcción, se cumplirá con el siguiente condicionado:
+- Durante el replanteo de las diferentes instalaciones, así como para la localización de depósitos para las tierras y
+lugares de acopio, deberá jalonarse el ámbito mínimo imprescindible para la circulación de la maquinaria pesada,
+evitando de esta forma ocupar más terreno del necesario (a tal efecto será necesaria la presencia de los Agentes
+Medioambientales).
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37719
+- Se minimizarán los cambios en la topografía de los terrenos, los movimientos de tierras, la compactación y la
+erosión del suelo.
+- Se evitará que las zanjas alcancen el nivel freático.
+- Se realizarán labores para la adecuada retirada, acopio, mantenimiento y reposición de la tierra vegetal. El
+almacenaje de las capas fértiles se realizará en cordones con una altura inferior a 1,5 metros situándose en zonas
+donde no exista compactación por el paso de maquinaria y evitando así la pérdida de suelo por falta de oxígeno en
+el mismo.
+- Se recuerda al promotor que dentro de la propia obra de construcción el relleno de zonas o huecos con el fin de
+compensar volúmenes, no requiere autorización. No obstante, será necesario realizar una comunicación ante el
+Servicio provincial de Economía Circular y Agenda 2030 cuando en la construcción del proyecto sea necesario
+realizar operaciones de relleno de tierra o depósito de tierras sobrantes en parcelas distintas a las del proyecto,
+de acuerdo a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular y con lo
+establecido en la Orden APM/1007/2017, de 10 de octubre, sobre normas generales de valorización de materiales
+naturales excavados para su utilización en operaciones de relleno y obras distintas a aquellas en las que se
+generaron, siempre que sustituyan otros materiales que no sean residuos para obras de construcción y operaciones
+de relleno, según el artículo 2.4. de dicha Orden.
+- En el caso de que se produzcan escapes o fugas accidentales de hidrocarburos y aceites de la maquinaria
+sobre el terreno, se actuará de inmediato para evitar su infiltración en el suelo, retirando estos residuos junto a las
+tierras afectadas hasta una profundidad y extensión que asegure la ausencia de estos compuestos. Estas tierras
+contaminadas deberán depositarse en contenedores habilitados en el tajo al efecto, y entregarlos a un gestor
+autorizado de residuos peligrosos. Para prevenir la generación de fugas fortuitas en cantidades elevadas, deberá
+revisarse toda la maquinaria que intervenga en las obras de construcción del proyecto, con especial atención a
+perforadoras hidráulicas encargadas de practicar el hincado de los soportes de los seguidores fotovoltaicos. Esta
+forma de actuar se tendrá en cuenta en el caso de derrames accidentales durante la fase de explotación.
+- Las zonas auxiliares usadas durante las obras se recuperarán lo antes posible, mediante la adecuada
+descompactación del terreno y la correspondiente revegetación del mismo. La plantación y protección de los taludes
+de desmontes y terraplenes, generados por la apertura de viales o por acondicionamiento de tramos, se realizará lo
+más rápidamente posible. En este sentido, se realizará la comprobación de dichas actuaciones mediante el primer
+informe del PVSA en donde se recogerá la evaluación de las Medidas de Restauración previstas.
+- El abastecimiento de materiales, en caso de ser necesario, se realizará a partir de canteras y zonas de préstamo
+provistas de la correspondiente autorización administrativa.
+- Quedará prohibida la deposición en el terreno de restos del lavado de hormigón, mediante la apertura de hoyos de
+sobrantes de cementos. Se deberán utilizar, por tanto, cubetas para su posterior traslado a plantas de tratamiento.
+4.3. Protección de los sistemas hidrológico e hidrogeológico.
+La Confederación Hidrográfica del Júcar indica que no existen cauces a una distancia inferior a 100 metros a los
+terrenos afectados por el proyecto. Por otro lado, deben tenerse en cuenta las siguientes consideraciones:
+- En relación a las aguas residuales que se pudieran generar se recuerda que queda prohibido, con carácter general,
+el vertido directo o indirecto de aguas y de productos residuales susceptibles de contaminar las aguas continentales
+o cualquier otro elemento del dominio público hidráulico (DPH), salvo que se cuente con la previa autorización
+administrativa (artículo 100 del Texto Refundido de la Ley de Aguas, TRLA). Dichas autorizaciones de vertido
+corresponderán a la Administración hidráulica competente, salvo en los casos de vertidos efectuados en cualquier
+punto de la red de alcantarillado o de colectores gestionados por las Administraciones autonómicas o locales o
+por entidades dependientes de las mismas, en los que la autorización corresponderá al órgano autonómico o local
+competente (Real Decreto Ley 4/2007 por el que se modifica el TRLA).
+- En caso de pretender realizar vertido de aguas pluviales al DPH, previamente se deberá contar con la autorización
+del organismo de cuenca.
+- De acuerdo con lo dispuesto en el artículo 5.2 del TRLA, las obras que se realicen en la zona de la actuación
+no podrán alterar el curso natural de las aguas en perjuicio del interés público ni de terceros y, además, deberá
+cumplirse lo dispuesto en el artículo 47 del TRLA, según el cual los predios inferiores están sujetos a recibir las
+aguas que naturalmente y sin obra del hombre desciendan de los predios superiores, así como la tierra o piedra
+que arrastren en su curso; ni el dueño del predio inferior puede hacer obras que impidan esta servidumbre ni el
+del superior obras que la agraven, no pudiéndose, entre otros, modificar el drenaje natural ni la escorrentía de los
+terrenos. Igualmente, se deberán minimizar los riesgos de erosión y evitar cualquier variación en el régimen de
+corrientes aguas arriba y aguas abajo de la actuación. Dada la orografía del terreno en el que se localizará la PSF,
+dicha zona puede constituir una zona de paso del agua por la que pueden circular escorrentías superficiales tras
+episodios de intensa precipitación, por lo que el presente informe queda condicionado al cumplimiento del artículo
+47 del TRLA.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37720
+- En la documentación aportada no se especifica si en las instalaciones proyectadas se realizará consumo de agua. En
+caso de que fuera necesario el empleo de agua, se informa que su origen deberá estar amparado, necesariamente,
+por un derecho al uso del agua, ya que, en caso contrario, se produciría una infracción administrativa con el
+consiguiente inicio de actuaciones sancionadoras conforme a la legislación vigente.
+4.4. Afección al paisaje y medidas correctoras.
+El promotor realiza un análisis de cuencas visuales y fragilidad visual del paisaje en el documento ambiental y lo
+extiende también a todas las alternativas evaluadas. El valor de fragilidad visual se considera bajo, mientras que la
+calidad del paisaje teniendo en cuenta los atributos físicos y estéticos del entorno se obtiene un valor denominado
+degradado.
+Para atenuar el impacto paisajístico y evitar la colisión de aves con el vallado perimetral, el promotor propuso
+el establecimiento de una pantalla vegetal perimetral. No obstante, el Servicio de Medio Natural y Biodiversidad
+establece en su informe que, visto el emplazamiento del proyecto, próximo a territorios de nidificación y cría de
+águila imperial, y evitar propiciar hábitat favorable y refugio a poblaciones de lagomorfos, deberá prescindirse de la
+ejecución de la misma. Por tanto, sólo se determina establecer elementos de alta visibilidad en el vallado para evitar
+la colisión de la avifauna.
+Se ha de evitar y respetar en la configuración del proyecto los elementos del paisaje como enclaves de roca, terrazas
+de retención, pequeñas construcciones tales como muretes de piedra seca, u otros elementos de arquitectura
+tradicional que puedan servir de cobijo para la flora y la fauna silvestre.
+Se recomienda que las construcciones asociadas, se proyecten de manera armonizada en el entorno inmediato,
+utilizando las características propias de la arquitectura y los acabados tradicionales de la zona. Asimismo, la zahorra
+utilizada en la construcción de viales y plataformas no presentará diferencias apreciables de cromatismo con los
+caminos existentes.
+4.5. Prevención de la contaminación atmosférica, ruidos, emisiones y vibraciones.
+En cuanto al riesgo de contaminación, a priori no es significativo puesto que el proyecto no está incluido en el Anejo
+1 del Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el Texto Refundido de la Ley de
+Prevención y Control Integrados de la Contaminación, de modo que no se requiere autorización ambiental integrada.
+El proyecto no está incluido en el Catálogo de Actividades potencialmente contaminadoras de la Atmósfera del Real
+Decreto 100/2011, de 28 de enero, por el que se actualiza el Catálogo de Actividades potencialmente contaminadoras
+de la Atmósfera y se establecen las disposiciones básicas para su aplicación.
+No obstante, durante la fase de construcción se tomarán medidas para evitar la contaminación difusa, sobre todo
+por la producción de polvo. Para ello, se prohibirá circular a más de 20 km/h, los camiones cargados con material
+pulverulento se cubrirán y se realizarán riegos de caminos con camiones cisterna.
+La maquinaria y los vehículos deberán haber pasado las correspondientes inspecciones técnicas, en especial las
+revisiones referentes a las emisiones de gases.
+Con respecto al ruido, se tendrá en cuenta lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, sus
+Reglamentos de desarrollo (Real Decreto 1367/2007, de 19 de octubre y el Real Decreto 212/2002, de 22 de
+febrero) y lo que establezcan al respecto las correspondientes ordenanzas municipales. En general, se procederá a
+la revisión y control periódico de los silenciosos de los escapes, rodamientos, engranajes y mecanismos en general
+de la maquinaria; todas las revisiones de ruido de la maquinaria se recogerán en fichas de mantenimiento y se
+aplicarán las medidas preventivas oportunas para minimizar el efecto de las proyecciones y de la onda aérea.
+Para evitar la contaminación lumínica, deberá cumplirse lo establecido en el Real Decreto 1890/2008, de 14 de
+noviembre, por el que se aprueba el Reglamento de Eficiencia Energética en instalaciones de alumbrado exterior
+y sus instrucciones técnicas complementarias. Se adoptarán las medidas apropiadas para evitar la contaminación
+luminosa (ajustarse al nivel de iluminación requerido, limitar la superficie iluminada a la necesaria, descartar
+alumbrados indirectos, emplear fuentes eficientes energéticamente, emplear luminarias con reducido flujo emitido al
+hemisferio superior y elevado rendimiento, empleo de proyectores asimétricos, etc.). La actividad deberá ajustarse
+a la regulación que a tal efecto establezca la normativa municipal en sus ordenanzas.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37721
+4.6. Gestión de residuos.
+Todos los residuos generados durante la fase de ejecución, funcionamiento y desmantelamiento del proyecto, estarán
+sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular,
+en el Real Decreto 105/2008, de 1 de febrero, por el que se regula la Producción y Gestión de los Residuos de
+Construcción y Demolición y en el Real Decreto 110/2015, de 20 de febrero, sobre Residuos de Aparatos Eléctricos
+y Electrónicos.
+La entrega de cualquiera de las categorías de residuos especificadas se hará a gestor autorizado. Para ello se
+deberá disponer de un contrato de tratamiento antes de su retirada, y deberá cumplirse con lo establecido en el Real
+Decreto 553/2020, de 2 de junio, por el que se regula el traslado de residuos en el interior del Estado.
+Tal y como cita el Real Decreto 9/2005, de 14 de enero, por el que se establece la relación de actividades
+potencialmente contaminantes del suelo y los criterios y estándares para la declaración de suelos contaminados, el
+transporte y la distribución de energía eléctrica -concretamente las subestaciones eléctricas y los transformadores
+de potencia o reactancias-, están incluidas en el Anexo 1 “Actividades potencialmente contaminantes del suelo”,
+por lo que el promotor estará obligado a remitir al órgano competente de la comunidad autónoma correspondiente
+(Dirección General de Economía Circular de la Consejería de Desarrollo Sostenible), en un plazo no superior a
+dos años, un informe preliminar de situación para cada uno de los suelos en los que se desarrolla dicha actividad,
+con el alcance y contenido mínimo que se recoge en el anexo II del citado Real Decreto. El seguimiento de dicha
+tramitación se incluirá dentro del PVSA.
+En relación a la gestión, reparación, mantenimiento y en su caso la retirada por sustitución o desmantelamiento
+definitivo de las placas solares fotovoltaicas, deberá cumplirse lo establecido en el Real Decreto 110/2015, de 20 de
+febrero, sobre Residuos de Aparatos Eléctricos y Electrónicos, así como la posible catalogación de estos residuos
+como peligrosos, ateniéndose en este caso a lo dispuesto en la legislación vigente.
+En cuanto a las aguas residuales provenientes de la instalación de cocinas o comedores eventuales, así como de
+los aseos para el personal de obra durante la fase de construcción, deberán recogerse en depósitos estancos y ser
+recogidas por gestor autorizado en este tipo de residuo, estableciéndose los correspondientes contratos.
+Tras las obras, la zona debe quedar libre de residuos. En general, los residuos serán caracterizados y separados
+con objeto de determinar su naturaleza y destino, almacenados sin originar un riesgo para la salud humana y el
+medio ambiente, y cumpliendo los tiempos máximos de almacenamiento establecidos en la Ley 7/2022, de 8 de
+abril, de residuos y suelos contaminados para una economía circular.
+Por su complejo tratamiento, especialmente se incidirá en la gestión de residuos peligrosos, debiendo el promotor
+inscribirse en el registro de productor y tener contratos con gestores externos autorizados. Los trámites relacionados
+con la inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha (altas, bajas o modificación),
+deberán realizarse a través de la sede electrónica de la página web del Gobierno Regional de Castilla-La Mancha:
+https://www.jccm.es/sede/tramite/E66
+Para el almacenamiento de los residuos peligrosos producidos, éstos deberán depositarse en un punto habilitado
+al efecto, cumpliendo los condicionantes de la Orden de 21-01-2003, de la Consejería de Agricultura y Medio
+Ambiente, por la que se regulan las normas técnicas específicas que deben cumplir los almacenes e instalaciones
+de transferencia de residuos peligrosos.
+Cualquier incidencia que se produzca durante la generación, almacenamiento o gestión de residuos peligrosos
+(desaparición, pérdida o escape), deberá ponerse en conocimiento del órgano ambiental.
+4.7. Riesgo de accidentes.
+Según el análisis realizado por el promotor, se concluía que los terrenos destinados a la implantación de las PSF
+presentaban una vulnerabilidad baja con respecto a conjunto de factores de riesgo analizados, estimándose
+improbable que se pudieran producir accidentes o catástrofes graves que puedan generar daños a las personas o
+al medio ambiente.
+En la ejecución de las obras, se tendrá en cuenta las medidas encaminadas a la prevención de incendios forestales
+durante la época de peligro alto definida en la Orden de la Consejería de Medio Ambiente y Desarrollo Rural de 16
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37722
+de mayo de 2006 por las que se regulan las campañas para prevención de incendios forestales y modificaciones
+posteriores, entre otras, la Orden 198/2022, de 14 de octubre, de la Consejería de Desarrollo Sostenible y la
+Resolución de 3 de Junio de 2024, de la Viceconsejería de Medio Ambiente, por la que se establecen limitaciones
+temporales para disminuir el riesgo de incendios en el medio natural y la Ley 3/2008 de Montes y Gestión Forestal
+Sostenible de Castilla-La Mancha.
+El promotor debe contar con un plan de autoprotección frente a incendios, no estando en este caso en zona de monte
+o en su colindancia, por lo que se considera que está incluido en el ámbito contemplado en el artículo 58 de la Ley
+3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha. El plan de autoprotección
+deberá ser inscrito en el Registro de Planes de Autoprotección de Castilla-La Mancha de la Consejería de Hacienda,
+Administraciones Públicas y Transformación Digital antes del inicio de la actividad.
+4.8. Innovación tecnológica y cambio climático.
+Se utilizarán las mejores técnicas disponibles, conforme a la Directiva 2010/75/UE y su transposición mediante
+el Real Decreto Legislativo 1/2016, de 16 de diciembre, por el que se aprueba el texto refundido de la Ley de
+prevención y control integrados de la contaminación, y su desarrollo por el Real Decreto 815/2013, de 18 de octubre,
+y el Real Decreto 773/2017, de 28 de julio.
+Asimismo, se propone la aplicación de Sistemas de Gestión y Auditoría Medioambiental (EMAS) conforme al
+Reglamento (CE) nº 1221/2009 del Parlamento Europeo y del Consejo, relativo a la participación voluntaria de
+organizaciones en un sistema comunitario de gestión y auditorías medioambientales.
+Existirá el compromiso de permitir el uso compartido de infraestructuras de evacuación por parques de tecnología
+similar, cuando la cercanía y tecnología así lo aconsejen.
+Resultaría interesante, en aras de minimizar el impacto local y favorecer de desarrollo socioeconómico de las zonas
+rurales donde se asientan estas instalaciones, mantener las recomendaciones establecidas por la Unión Española
+Fotovoltaica en el del fomento de una I+D con impacto ambiental positivo.
+Se fomentará la eficiencia energética de las edificaciones, ya que así se reducen las emisiones de CO2 a la atmósfera
+y por tanto los efectos adversos del cambio climático. A nivel regional la Ley 1/2007, de 15 de febrero, de Fomento
+de las Energías Renovables e Incentivación del Ahorro y Eficiencia Energética en Castilla-La Mancha, establece
+como objetivo el potenciar el uso racional de los recursos energéticos de carácter renovable en Castilla-La Mancha,
+fomentar la utilización racional de la energía en cualquiera de sus formas y promover el ahorro y la eficiencia
+energética.
+Se informa de la existencia del Real Decreto 214/2025, de 18 de marzo, por el que se crea el registro de huella de
+carbono, compensación y proyectos de absorción de dióxido de carbono y por el que se establece la obligación
+del cálculo de la huella de carbono y de la elaboración y publicación de planes de reducción de emisiones de
+gases de efecto invernadero, de la Ley 7/2021, de 20 de mayo, de cambio climático y transición energética y del
+Plan Nacional de Adaptación al Cambio Climático 2021-2030, instrumento de planificación básico para promover la
+acción coordinada y coherente frente a los efectos del cambio climático en España.
+4.9. Protección del patrimonio y el dominio público.
+La Delegación Provincial de Educación, Cultura y Deportes de Cuenca informa favorablemente a la actuación
+indicando que, no obstante, en el caso de que aparecieran restos arqueológicos/paleontológicos durante la
+ejecución del proyecto, se deberá actuar conforme a lo previsto en el artículo 44.1 de la Ley 16/1985 de Patrimonio
+Histórico Español y 52.4 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha (deber
+de comunicación a la Administración competente en materia de Patrimonio Cultural) para antes de continuar con
+la ejecución de dicho proyecto, garantizar su control arqueológico. Cualquier modificación y/o ampliación del
+emplazamiento de las diversas infraestructuras del proyecto de obra civil informado en este momento deberá contar
+con el visado y la autorización de la citada Delegación Provincial
+No existe afección directa a montes de utilidad pública.
+En caso de las vías pecuarias, el acceso a la instalación discurre por la vereda de Vadocañas con una anchura legal
+de 16,80 metros de acuerdo a clasificación del término municipal de Iniesta, aprobada por Orden de 30 de mayo
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37723
+de 1959. Por tanto, se estará a lo dispuesto en los artículos 30.1 y 31 de la Ley 9/2003, de 20 de marzo, de Vías
+Pecuarias de Castilla-La Mancha y modificaciones posteriores, que indica que el tránsito del ganado por las vías
+pecuarias tiene carácter prioritario sobre cualquier otro, siendo libre y gratuito en cualquier circunstancia, debiendo
+quedar garantizada no sólo su continuidad sino también su seguridad. Se solicitará previa autorización, la circulación
+de la maquinaria necesaria para mantenimiento y obras, con las limitaciones y condiciones que se establezcan para
+hacerlo compatible con el uso común, no pudiendo superar la velocidad de estos vehículos los 40 kilómetros por
+hora. Tras aportar adenda al proyecto de ejecución, se comprueba que la traza de la línea soterrada proyectada al
+nuevo CPCM y el resto de instalaciones de la planta respeta las distancias con respecto a la zona de protección de
+la vía pecuaria.
+Por otra parte, previo a la fase de construcción, deberá realizarse el replanteo con levantamiento topográfico de
+detalle, materializando físicamente los límites de la vía pecuaria y franja de protección y de vallado, mediante
+piquetas, bajo supervisión de agentes medioambientales, y realizarse la construcción de todas las acciones del
+proyecto respetando los límites definidos. Asimismo, se presentará en formato digital, el detalle del levantamiento
+topográfico con planos acotados y georreferenciados del límite de la vía pecuaria y de las infraestructuras del
+proyecto colindantes.
+El Servicio de Carreteras de la Consejería de Fomento informa de la posible afección de las carreteras CM-311 y
+CM-3137 por el acceso al proyecto y el incremento en el tránsito de vehículos. El acceso se prevé en el p.k. 0-505
+de la CM-3137, debiendo ser acondicionado adecuadamente, por lo que se presentará un documento técnico donde
+se describa y justifique la solución a adoptar, incluyendo la intensidad horaria y tipología de los vehículos a utilizar,
+un estudio de visibilidades, un estudio de la tipología de acceso a establecer, presupuesto y cartografía asociada.
+Este acondicionamiento debe ser autorizado por el organismo competente antes del inicio de las obras.
+El Servicio de Carreteras solicitó también la realización de un estudio de deslumbramientos sobre las carreteras
+mencionadas, así como documentación técnica para analizar la afección hidrológica producida por la PSF sobre la
+carretera CM-3137. Los estudios fueron aportados por el promotor a 20/03/2026, contando con el informe favorable
+de este Servicio a 06/10/2026.
+La Diputación de Cuenca informe de la posible afección a la carretera CUV-8211, debiéndose obtener autorización
+de este organismo en caso de afección a sus terrenos, circulación con vehículos de más de 20 toneladas de peso,
+conducciones o cruces de líneas eléctricas u otras posibles afecciones a la carretera.
+En cuanto a los caminos, zonas de policía, cauces, vías férreas, o cualquier otro bien de dominio público que pudiera
+verse afectado, se deberá solicitar y obtener el correspondiente permiso emitido por el órgano competente. Una
+vez finalizada la actividad deberán quedar aquellos bienes afectados (fundamentalmente caminos) al menos en el
+mismo estado de conservación que presentaban con anterioridad.
+4.10. Adecuación urbanística.
+El Servicio de Urbanismo de la Consejería de Fomento informa que al municipio de Iniesta le es de aplicación una
+revisión de las Normas Subsidiarias A, aprobada por la Comisión Provincial de Urbanismo a 6 de marzo de 1995.
+Todas las obras, construcciones e instalaciones que se realicen y todos los usos que se desarrollen en suelo clasificado
+como rústico deberán cumplir las condiciones, requisitos y limitaciones establecidas por el “Decreto Legislativo 1/2023,
+de 28 de febrero, por el que se aprueba el texto refundido de la Ley de Ordenación del Territorio y de la Actividad
+Urbanística ” y por el “Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento del Suelo Rústico”, así
+como sus posteriores modificaciones, y la Orden 4/2020, de 8 de enero, de la Consejería de Fomento, por la que se
+aprueba la Instrucción Técnica de Planeamiento sobre determinados requisitos sustantivos que deberán cumplir las
+obras, construcciones e instalaciones en suelo rústico y/o el planeamiento territorial y urbanístico.
+Deberán tenerse en cuenta los requisitos exigidos por la Orden 4/2020, de 8 de enero, de la Consejería de Fomento,
+por la que se aprueba la instrucción técnica de planeamiento sobre determinados requisitos sustantivos que deberán
+cumplir las obras, construcciones e instalaciones en suelo rústico.
+Se recuerda al promotor que será necesario obtener la Calificación Urbanística previa a la licencia municipal de
+la construcción de las instalaciones previstas en el proyecto, de acuerdo con lo estipulado en los artículos 37 y
+42 del Reglamento de Suelo Rústico, aprobado por el Decreto 242/2004. A tal fin, se solicitarán los documentos
+acreditativos pertinentes previamente al desarrollo de la actividad.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37724
+4.11. Medidas de restauración.
+La adenda al documento ambiental contiene, en su apartado 3, los criterios de elaboración del plan de restauración
+en las que, básicamente, se fijan directrices para la restauración de los terrenos afectados tras las obras y en fase
+de desmantelamiento, así como un plan de integración y naturalización ambiental de las instalaciones. Como se
+ha comentado anteriormente, no es preciso la ejecución de la pantalla vegetal prevista en el plan, por lo que se
+prescindirá de la misma.
+Las medidas generales deberán concretarse en un plan de restauración e integración paisajística que deberá
+presentarse antes del inicio de las obras, incluyendo al menos los siguientes aspectos: caracterización y cuantificación
+de las superficies a restaurar y descripción de las acciones a realizar para la protección del suelo y la hidrología.
+Una vez finalizadas las obras, antes del inicio de la actividad y dentro del primer informe del PVSA, el promotor deberá
+elaborar un informe acerca del grado de cumplimiento de las medidas de restauración propuestas, en aspectos tales
+como la gestión de las tierras (desbroces, acopios y almacenamiento de la tierra vegetal, preparación de suelo), la
+prevención de efectos erosivos y la regeneración de la vegetación en la planta fotovoltaica.
+4.12. Plan de desmantelamiento y cese de la actividad.
+Una vez finalizada la actividad de forma permanente, la totalidad de las instalaciones y elementos asociados al proyecto
+deberán desmantelarse y retirarse de la zona por gestores autorizados en función de la naturaleza de los residuos
+generados, procurando en la medida de lo posible la reutilización de dichos elementos. El desmantelamiento incluirá
+la retirada de todos los restos de material, residuos o tierras sobrantes, incluidos los cerramientos perimetrales, el
+cableado subterráneo y la cimentación de los centros de transformación de los campos solares.
+Se extremarán las precauciones en el caso de los residuos peligrosos (aceites, placas fotovoltaicas si no se pueden
+reutilizar en otras ubicaciones, etc.).
+Los terrenos afectados por el proyecto se restaurarán y restituirán a su estado genuino (el que presentaba antes de
+la construcción del proyecto), procurando mantener la topografía original del terreno y dejando el área de actuación
+en perfecto estado de limpieza, con el restablecimiento de la escorrentía original. A tal efecto, el promotor del
+proyecto presentará un Plan de Restauración con una antelación mínima de tres meses al cese de la actividad. Este
+Plan deberá contar con el visto bueno de la Delegación Provincial de Desarrollo Sostenible de Cuenca.
+La finalización de las tareas de desmantelamiento y restauración deberá ponerse en conocimiento de la Delegación
+Provincial de Desarrollo Sostenible o del órgano administrativo que en su momento ostente estas competencias,
+para dar por finalizado el expediente.
+Quinto. Programa de Vigilancia y Seguimiento Ambiental (PVSA).
+5.1. Especificaciones generales.
+De acuerdo con el artículo 52 de la Ley 21/2013, el seguimiento y vigilancia del cumplimiento de las prescripciones
+contenidas en la presente resolución corresponden al órgano sustantivo, sin perjuicio de las informaciones que
+pueda recabar el órgano ambiental al respecto, así como efectuar las comprobaciones necesarias para verificar el
+cumplimiento del condicionado.
+Tal como se indica en la modificación de la Ley 2/2020 por la Ley 4/2025, de 11 de julio, de simplificación, agilización
+y digitalización administrativa, así como por la Ley 5/2026, de 16 de julio, de modificación de la Ley 2/2020, las
+Entidades colaboradoras con la Administración en materia de evaluación ambiental (ecaea) debidamente autorizadas
+podrán realizar y presentar, en nombre del promotor y ante el órgano sustantivo, el informe de seguimiento del
+cumplimiento de las condiciones impuestas en las declaraciones de impacto ambiental e informes de impacto
+ambiental establecido en el artículo 64.2 de la Ley 2/2020. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia. Cada informe deberá estar suscritos conjuntamente por el promotor
+y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentarán ante el órgano ambiental entre
+el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El PVSA, será el documento rector que englobe todas aquellas actuaciones encaminadas a evaluar el cumplimiento
+de las prescripciones contenidas en la presente resolución así como en el Documento Ambiental, y en el que se
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37725
+englobarán tanto el Plan de Seguimiento Específico de Fauna (en adelante, PSEF) como la evaluación de las
+medidas compensatorias y las medidas de restauración, además de los informes de situación en virtud del Real
+Decreto 9/2005.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se
+deben adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo nombrar el promotor
+a una persona encargada del PVSA (responsable medioambiental) para todas aquellas cuestiones relativas a la
+implementación de lo descrito tanto en el documento ambiental como en la presente Resolución, así como en la
+documentación posterior que pudiera derivarse de las diferentes actuaciones.
+De las inspecciones llevadas a cabo por el órgano Sustantivo o por el órgano Ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos de esta
+Resolución. Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+El seguimiento y la vigilancia incidirán especialmente en los siguientes aspectos (se enumeran aquellos puntos
+que requieren atención especial o han de ser añadidos al seguimiento y vigilancia propuestos en el Documento
+Ambiental):
+a) Durante la fase de ejecución de las obras de construcción del proyecto:
+- Realización del replanteo de las obras y los corredores con los Agentes Medioambientales, así como el jalonamiento
+del ámbito mínimo imprescindible para la circulación de la maquinaria pesada, evitando de esta forma ocupar más
+terreno del necesario. Se incluirá también un balizamiento para señalar y evitar la afección a los pies arbolados
+presentes y a zonas con vegetación natural localizadas en el ámbito de actuación o su entorno cercano, así como
+para protección de la vía pecuaria.
+- Control de que se adoptan medidas preventivas y correctoras para mantener los caminos en buen estado.
+- Comprobación de que se han adoptado medidas para garantizar un tráfico ordenado para garantizar la seguridad
+de los vecinos de la zona.
+- Control de que el vallado se ha ejecutado según lo propuesto en la presente Resolución.
+- Control de la implantación de las medidas preventivas, de protección y correctoras previstas para garantizar la
+menor afección a la fauna.
+- Control de la correcta ejecución de las medidas compensatorias propuestas.
+- Control sobre los movimientos de tierras realizados, posibles aportes o vertidos. Medidas para evitar fenómenos
+erosivos y de pérdida de suelo, así como de adecuada canalización de las escorrentías.
+- Control de las medidas preventivas encaminadas a la minimización de polvo y otros contaminantes a la atmósfera.
+- Control de la correcta gestión de todos los residuos generados durante la construcción del proyecto, con especial
+atención a los residuos peligrosos y a los contratos suscritos con los gestores de residuos.
+- Control del desempeño correcto de la intervención arqueológica.
+b) Durante la fase de funcionamiento del proyecto:
+- Control de la eficacia de las medidas preventivas, de protección y correctoras propuestas por el promotor en el
+Documento Ambiental.
+- En caso de control vegetación con uso de ganado ovino, descripción carga ganadera, fechas y localización.
+- Comprobación de que la aplicación del PVSA y el PSEF es correcta.
+- La no utilización de herbicidas, plaguicidas, insecticidas, rodenticidas y otros productos químicos.
+- Control de la correcta gestión de los residuos generados durante la fase de explotación del proyecto, con especial
+atención a los residuos peligrosos, y a la validez de los contratos suscritos con los diferentes gestores de residuos.
+c) Durante el desmantelamiento del proyecto, tras la finalización de su vida útil o cese de la actividad: control de los
+extremos previstos en el apartado 4.12 de la presente resolución.
+5.2. Plan de Seguimiento Específico de Fauna (PSEF).
+Se considera necesaria la implantación de un PSEF desde la fase de construcción y que se extenderá durante la
+vida útil de la explotación. El desarrollo del mismo debe estar en manos de una empresa totalmente independiente
+de la responsable del proyecto. En el PSEF deberán constar, al menos, los siguientes puntos:
+- Previo a las obras y en época fenológica adecuada, se realizará un muestreo de campo exhaustivo en la zona
+de actuación y su área de influencia (1 kilómetro), así como en las masas forestales circundantes o de ribera, por
+técnico especialista, con el fin de descartar la posible presencia de nidos, lugares de cría y otros elementos del
+medio que puedan servir de refugio a la fauna).
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37726
+- Censo y seguimiento de avifauna (buffer de 5 kilómetros desde el emplazamiento) durante el primer año de
+explotación, pudiendo prorrogarse el mismo en base a resultados.
+- Seguimiento poblaciones presa (lagomorfos y perdiz, buffer 2 kilómetros) en la implantación solar, durante la vida
+útil del proyecto.
+- Seguimiento de mortalidad de fauna a lo largo de los vallados perimetrales y en el interior del recinto de la planta
+solar, mediante transectos para la búsqueda de cadáveres en interior, que pueden venir apoyados por el empleo de
+otros métodos específicos (como perros entrenados para su detección) comprobando si hay presencia de individuos
+muertos o atrapados, que deberá ser subsanado de forma inmediata. Los accesos, arquetas o carreteras se revisarán
+para detectar puntos negros por atropello y caída y la estación de media tensión por posibles electrocuciones. La
+periodicidad del seguimiento será al menos quincenal, cubriendo la longitud de los vallados e interior de instalaciones
+solares, durante los tres primeros años y en base a resultados, se revisará frecuencia.
+- Seguimiento y análisis de funcionamiento de dispositivo de detección, aviso y parada (número y relación de
+detecciones / paradas mensual, colisiones, etc… pudiendo llegar a requerirse análisis visionado vídeos grabación),
+durante la vida útil del proyecto.
+También ha de contemplarse el seguimiento de la utilización de la superficie de las instalaciones solares por parte
+de la fauna, aprovechando la búsqueda de cadáveres, realizando también una búsqueda de rastros de fauna y
+avistamientos. Debe recogerse en un apartado específico en el plan de vigilancia.
+Antes del inicio de las obras, se presentará al órgano sustantivo con copia al órgano ambiental el PSEF detallado
+con estas indicaciones, con información digital de transectos, puntos de observación, etc. Se incluirá el seguimiento
+durante la fase de obras y durante la fase de explotación, así como los resultados de la prospección de fauna previa
+a las obras.
+Durante la fase de explotación, se presentarán informes anuales del PVSA y del PSEF que incluyan los resultados
+de seguimiento de la fauna y la mortalidad, así como del mantenimiento y eficacia de medidas compensatorias,
+también en soporte digital.
+La cartografía de metodologías y resultados de censos se presentarán en formato digital (tabla Excel, archivo
+shapefile o similar).
+Se recuerda que, en base a este seguimiento, podrán aplicarse medidas adicionales y/o complementarias de
+protección de la fauna de acuerdo con el artículo 69 de la Ley 9/1999 de Conservación de la Naturaleza, entre las
+que podrán incluirse: estudios más exhaustivos, limitaciones temporales en fase de construcción de la instalación,
+etc.
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar ante el órgano sustantivo y ambiental, en formato digital, la siguiente
+documentación:
+a) Antes del inicio de las obras (una vez autorizado el proyecto):
+- Designación por parte del promotor del responsable medioambiental para el cumplimiento del PVSA, el cual deberá
+avisar al órgano ambiental y sustantivo de la fecha de inicio de las obras con una antelación mínima de 10 días.
+- Dado que en ocasiones la tecnología planteada durante el documento ambiental evoluciona hasta el momento
+definitivo de la construcción de las instalaciones (cambio del modelo de placas solares, reajuste de la disposición de
+los módulos dentro de las mismas parcelas...), el promotor deberá hacer partícipe tanto al órgano sustantivo como
+ambiental de cualquier modificación de lo previsto en el EsIA -previamente a su materialización- para que se evalúe
+si se trata de una modificación sustancial o no, así como proporcionar (en su caso) la cartografía de detalle definitiva.
+- Resolución favorable del Delegación Provincial de Educación, Cultura y Deportes conforme a lo indicado en el
+apartado 4.9. de la presente Resolución.
+- Autorización de la Delegación Provincial de Fomento en relación al acceso al proyecto desde la carretera CM-3137.
+- Acta o informe de replanteo de las obras y los corredores con los Agentes Medioambientales de la zona, así como
+del jalonamiento del ámbito mínimo imprescindible para la circulación de la maquinaria pesada, evitando de esta
+forma ocupar más terreno del necesario. El replanteo de las obras incluirá en campo también la superficie ocupada
+por el vallado y la protección de la vía pecuaria Vereda de Vadocañas.
+- Documento de ejecución del muestreo de campo exhaustivo previo en la zona de actuación y su área de influencia,
+así como en las masas forestales circundantes o de ribera, con el fin de detectar posible presencia de aves nidificando
+en la zona y en sus inmediaciones y establecer las medidas preventivas necesarias.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37727
+- Documento de definición y concreción de las medidas compensatorias (ubicación de las medidas con cartografía
+de detalle), así como aquellos acuerdos y trámites necesarios para su puesta en funcionamiento en caso necesario.
+- Inscripción del Plan de autoprotección frente a incendios en el Registro regional.
+- Documento de detalle del PSEF y documento de detalle de ejecución del Plan de Restauración e integración
+paisajística.
+- Autorizaciones pertinentes de la Confederación Hidrográfica del Júcar, en caso de ser necesarias.
+- Licencias municipales que procedan (llevan implícita la calificación urbanística).
+- Copia de la comunicación de inicio de actividades que conllevan producción de residuos, según la Ley 7/2022, de
+8 de abril, de residuos y suelos contaminados para una economía circular, así como de los contratos establecidos
+con los diferentes gestores autorizados para la retirada de los residuos generados y almacenados en la explotación,
+con especial atención a los diferentes tipos de residuos peligrosos.
+b) Antes del inicio de la actividad (una vez finalizadas las obras):
+- La fecha de inicio de la puesta en marcha de la actividad se comunicará por parte del responsable del PVSA con
+una antelación mínima de 10 días.
+- Informe de vigilancia y seguimiento ambiental a la finalización de las obras, que describa las actuaciones realizadas
+y el estado de la zona tras las obras, en el que se deberá incluir, el detalle del estado de implantación de las medidas
+compensatorias (mediante memoria descriptiva y anejo fotográfico), un informe acerca del estado de los caminos y/o
+carreteras afectadas durante las obras, una evaluación de las Medidas de Restauración acometidas y los informes
+de situación en virtud del Real Decreto 9/2005.
+c) Anualmente, desde el inicio de la actividad y durante toda la vida útil de la instalación:
+- Informes del PVSA y del PSEF, en el primer trimestre del año siguiente.
+d) Trascurridos tres meses tras la finalización de la vida útil del proyecto o del cese de la actividad: plan de restauración
+integral de los terrenos afectados.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Cuenca, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible (modificado por el Decreto 6/2024, de 20 de febrero), y
+en el ejercicio de las atribuciones conferidas por la Resolución de 24 de mayo de 2024, de la Dirección General
+de Calidad Ambiental, por la que se delegan competencias en las delegaciones provinciales de la Consejería de
+Desarrollo Sostenible, conforme a la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, resuelve que el
+proyecto “Planta Solar Fotovoltaica Híbrida HFV Cerro Sidrico de 1,5 MW y sus infraestructuras de evacuación”
+(Exp. S478/2025/CU/00016 no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse
+que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales y de
+seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+La Ley 21/2013, dispone en el artículo 5.3.e) que el informe de impacto ambiental tiene carácter preceptivo y
+determinante.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como se contempla en el artículo 47.3 de la
+Ley 21/2013.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 47.4 de la Ley 21/2013.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 47 de la Ley 21/2013. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 47.5 de la Ley 21/2013, el presente informe de impacto ambiental no será objeto
+de recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37728
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Octavo. Otras consideraciones.
+- El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+- Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano
+ambiental, de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo
+establezca la legislación.
+- La presente declaración de impacto ambiental no exime de obtener los informes y autorizaciones pertinentes de
+otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+- Durante el desarrollo de la actividad deberán observarse las disposiciones de la Ley 31/1995, de Prevención de
+Riesgos Laborales.
+Cuenca, 15 de octubre de 2026
+El Delegado Provincial
+JOSÉ IGNACIO BENITO CULEBRAS
+
+AÑO XLV Núm. 206 27 de octubre de 2026 37729
+Anexo I: Croquis de la “PSF HFV Cerro Sidrico” y el aerogenerador hibridado con la planta en el
+término municipal de Iniesta (Cuenca)
