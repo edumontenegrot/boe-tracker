@@ -1,0 +1,401 @@
+NÚMERO 208
+44823
+Miércoles 28 de octubre de 2026
+RESOLUCIÓN de 19 de octubre de 2026, del Rector, por la que se publica el
+Plan de estudios de Graduado o Graduada en Ingeniería de Tecnologías de
+Telecomunicación. (2026062671)
+Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe
+favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA), así como
+la autorización de la Comunidad Autónoma de Extremadura, y establecido el carácter oficial
+del título por Acuerdo de Consejo de Ministros de 15 de septiembre de 2026 (publicado en el
+BOE de 22 de septiembre de 2026).
+Este Rectorado, de conformidad con lo dispuesto por el artículo 8.3 de la Ley Orgánica 2/2023,
+de 22 de marzo, del Sistema Universitario, así como por el artículo 27.4 del Real Decreto
+822/2021, de 28 de septiembre, por el que se establece la organización de las enseñanzas
+universitarias y del procedimiento de aseguramiento de su calidad, ha resuelto publicar el
+plan de estudios conducente a la obtención del título oficial de Graduado o Graduada en In-
+geniería de Tecnologías de Telecomunicación, que quedará estructurado según consta en el
+anexo de esta resolución.
+Badajoz, 19 de octubre de 2026
+El Rector,
+PEDRO M. FERNÁNDEZ SALGUERO
+
+NÚMERO 208
+44824
+Miércoles 28 de octubre de 2026
+ANEXO
+Universidad de Extremadura
+Plan de estudios conducente al título de Graduado o Graduada en Ingeniería
+de Tecnologías de Telecomunicación
+(Rama Ingeniería y Arquitectura)
+5.1. Estructura de las enseñanzas.
+Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia.
+Tipo de materia Créditos
+Formación básica 72
+Obligatorias 66
+Optativas 90
+Prácticas académicas externas 0
+Trabajo Fin de Grado 12
+TOTAL 240
+Tabla 2.1. Estructura modular del plan de estudios.
+Módulo Materia Asignatura ECTS Carácter
+Cálculo 6 Básica
+Álgebra Lineal 6 Básica
+Matemáticas
+Ampliación de Cálculo 6 Básica
+(30)
+Estadística 6 Básica
+Matemáticas Avanzadas 6 Básica
+Análisis de Circuitos 6 Básica
+Formación Básica
+Física y Tecnología
+Física 6 Básica
+Electrónica
+(72 ECTS)
+Fundamentos de Electrónica 6 Básica
+(24)
+Señales y Sistemas 6 Básica
+Informática Programación 6 Básica
+(12) Introducción a los Computadores 6 Básica
+Economía y Empresa
+Economía y Empresa 6 Básica
+(6)
+
+NÚMERO 208
+44825
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+Física Aplicada a las Campos electromagnéticos 6 Obligatorio
+Telecomunicaciones
+Física II 6 Obligatorio
+(12)
+Teoría de la Comunicación 6 Obligatorio
+Fundamentos de Redes y Comu-
+6 Obligatorio
+Comunicaciones nicaciones
+(24) Redes, Sistemas y Servicios de
+6 Obligatorio
+Telecomunicación
+Común a la Rama de Medios de Transmisión 6 Obligatorio
+Telecomunicaciones
+Electrónica Electrónica Analógica 6 Obligatorio
+(66 ECTS)
+(12) Electrónica Digital 6 Obligatorio
+Sistemas Digitales
+Sistemas Digitales Avanzados 6 Obligatorio
+(6)
+Proyectos
+Proyectos de Telecomunicación y
+6 Obligatorio
+normativa
+(6)
+Informática II
+Programación de Sistemas Avan-
+6 Obligatorio
+zados
+(6)
+Electrónica II
+Común a Sonido e Electrónica de Potencia 6 Optativo
+Imagen y Sistemas de (6)
+Telecomunicación
+Matemáticas II
+Matemáticas aplicadas a la Inge-
+(12 ECTS) 6 Optativo
+niería de Telecomunicación
+(6)
+Tratamiento Digital de Imágenes 6 Optativo
+Procesado de Señales
+Audio Digital 6 Optativo
+Audiovisuales
+Procesado Discreto de Señales 6 Optativo
+(24)
+Síntesis de Redes 6 Optativo
+Equipos y Sistemas
+Sonido e Imagen
+de Sonido e Imagen
+Equipos de Audio y Vídeo 6 Optativo
+(48 ECTS)
+(6)
+Fundamentos de Ingeniería
+6 Optativo
+Acústica
+Ingeniería Acústica
+Aislamiento y Acondicionamiento
+6 Optativo
+(18) Acústico
+Ruido y Vibraciones 6 Optativo
+
+NÚMERO 208
+44826
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+Tecnologías de Comu- Tecnología de Alta Frecuencia 6 Optativo
+nicaciones
+Circuitos y Subsistemas de Co-
+6 Optativo
+(12) municaciones
+Comunicaciones Ópticas 6 Optativo
+Sistemas de Telecomu- Sistemas de Comuni- Comunicaciones Móviles 6 Optativo
+nicación caciones
+Sistemas de Radiocomunicación 6 Optativo
+(48 ECTS) (24)
+Sistemas de Comunicaciones
+6 Optativo
+Guiadas
+Complementos de Sensores 6 Optativo
+Comunicaciones
+Estudios y Certificaciones Ra-
+6 Optativo
+(12) dioeléctricas
+Sistemas Operativos
+Sistemas Operativos 6 Optativo
+(6)
+Encaminamiento y Conmutación 6 Optativo
+Comunicaciones II
+Sistemas de Transmisión Multi-
+6 Optativo
+media
+(18)
+Interconexión de sistemas 6 Optativo
+Telemática
+Servicios de Comunicación
+6 Optativo
+(60 ECTS) Avanzada
+Redes y Servicios 6 Optativo
+Ingeniería Telemática
+Redes de Computadoras 6 Optativo
+(36)
+Fundamentos de Ciberseguridad 6 Optativo
+Aplicaciones Telemáticas 6 Optativo
+Redes Móviles 6 Optativo
+
+NÚMERO 208
+44827
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+Complementos de
+procesado de señales
+Procesado Digital de Señales 6 Optativo
+(6)
+English for Profes-
+sional and Academic
+English for Professional and Aca-
+Communication 6 Optativo
+demic Communication
+(6)
+Planificación y diseño de redes
+Redes Avanzadas 6 Optativo
+WLAN
+(12)
+Gestión Avanzada de Redes 6 Optativo
+Administración y Seguridad de
+6 Optativo
+Sistemas
+Formación Optativa
+Fundamentos de Inteligencia
+(72 ECTS) 6 Optativo
+Artificial
+Tecnologías Informá-
+ticas
+Computación Móvil 6 Optativo
+(36)
+Tecnologías Web 6 Optativo
+Ciencia de datos 6 Optativo
+Ingeniería del Software 6 Optativo
+Electrónica de Comu-
+nicaciones
+Electrónica de Comunicaciones 6 Optativo
+(6)
+Prácticas Externas
+Prácticas en Empresa 6 Optativo
+(6)
+Proyecto Fin de Grado Trabajo Fin de Grado
+Trabajo Fin de Grado 12 TFG
+(12 ECTS) (12)
+
+NÚMERO 208
+44828
+Miércoles 28 de octubre de 2026
+Tabla 2.2. Itinerarios optativos de mención.
+Mención Asignaturas
+Electrónica de Potencia
+Matemáticas aplicadas a la Ingeniería de Teleco-
+municación
+Síntesis de Redes
+Procesado Discreto de Señales
+Sonido e Imagen
+Ruido y Vibraciones
+(60 ECTS)
+Audio Digital
+Centro: Escuela Politécnica
+Tratamiento Digital de Imágenes
+Aislamiento y Acondicionamiento Acústico
+Fundamentos de Ingeniería Acústica
+Equipos de Audio y Vídeo
+Electrónica de Potencia
+Matemáticas aplicadas a la Ingeniería de Teleco-
+municación
+Sistemas de Comunicaciones Guiadas
+Sensores
+Sistemas de Telecomunicación
+Estudios y Certificaciones Radioeléctricas
+(60 ECTS)
+Tecnología de Alta Frecuencia
+Centro: Escuela Politécnica
+Circuitos y Subsistemas de comunicaciones
+Comunicaciones Ópticas
+Comunicaciones Móviles
+Sistemas de Radiocomunicación
+
+NÚMERO 208
+44829
+Miércoles 28 de octubre de 2026
+Mención Asignaturas
+Sistemas Operativos
+Encaminamiento y Conmutación
+Sistemas de Transmisión Multimedia
+Interconexión de sistemas
+Telemática
+Servicios de Comunicación Avanzada
+(60 ECTS)
+Redes y Servicios
+Centro: Centro Universitario de Mérida
+Redes de Computadoras
+Fundamentos de Ciberseguridad
+Aplicaciones Telemáticas
+Redes Móviles
+Tabla 3.1. Secuenciación del plan de estudios (mención Sonido e Imagen)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Proyectos de Tele-
+Matemáticas Avan- Sistemas Digitales
+Álgebra Lineal comunicación y nor-
+zadas Avanzados
+mativa
+Campos electromag- Programación de Sis-
+Cálculo Audio Digital
+néticos temas Avanzados
+Aislamiento y Acon-
+Semestre
+Programación Estadística Síntesis de Redes dicionamiento Acús-
+1º
+tico
+Fundamentos de
+Física Electrónica Analógica Optativa I
+Ingeniería Acústica
+Fundamentos de
+Electrónica de Po-
+Redes y Comunica- Señales y Sistemas Optativa II
+tencia
+ciones
+
+NÚMERO 208
+44830
+Miércoles 28 de octubre de 2026
+Curso 1º Curso 2º Curso 3º Curso 4º
+Introducción a los Matemática Aplicada
+Física II Optativa III
+Computadores a la Ingeniería
+Teoría de la Comuni- Equipos de audio y
+Economía y Empresa Optativa IV
+cación vídeo
+Ampliación de Cál- Tratamiento Digital
+Semestre Electrónica Digital Optativa V
+culo de Imágenes
+2º
+Redes, Sistemas y
+Fundamentos de
+Servicios de Teleco- Ruido y Vibraciones
+Electrónica
+municación Trabajo Fin de Gra-
+do
+Medios de Transmi- Procesado Discreto
+Análisis de Circuitos
+sión de Señales
+Tabla 3.2. Secuenciación del plan de estudios (mención Sistemas de Telecomunicación)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Proyectos de Tele-
+Matemáticas Avan- Sistemas Digitales
+Álgebra Lineal comunicación y nor-
+zadas Avanzados
+mativa
+Campos electromag- Programación de Sis- Comunicaciones
+Cálculo
+néticos temas Avanzados móviles
+Estudios y Certifi-
+Semestre Tecnología de alta
+Programación Estadística caciones Radioeléc-
+1º frecuencia
+tricas
+Sistemas de Comuni-
+Física Electrónica Analógica Optativa I
+caciones Guiadas
+Fundamentos de
+Electrónica de Po-
+Redes y Comunica- Señales y Sistemas Optativa II
+tencia
+ciones
+Introducción a los Matemática Aplicada
+Física II Optativa III
+Computadores a la Ingeniería
+Teoría de la Comuni- Sistemas de Radio-
+Economía y Empresa Optativa IV
+cación comunicación
+Circuitos y Subsis-
+Ampliación de Cál-
+Semestre Electrónica Digital temas de comunica- Optativa V
+culo
+2º ciones
+Redes, Sistemas y
+Fundamentos de Comunicaciones óp-
+Servicios de Teleco-
+Electrónica ticas
+municación
+Trabajo Fin de Grado
+Medios de Transmi-
+Análisis de Circuitos Sensores
+sión
+
+NÚMERO 208
+44831
+Miércoles 28 de octubre de 2026
+Tabla 3.3. Secuenciación del plan de estudios (mención Telemática)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Proyectos de Tele-
+Matemáticas Avan- Sistemas Digitales
+Álgebra Lineal comunicación y nor-
+zadas Avanzados
+mativa
+Campos electromag- Programación de Sis- Servicios de Comu-
+Cálculo
+néticos temas Avanzados nicación Avanzada
+Semestre
+Aplicaciones Tele-
+1º Programación Estadística Sistemas Operativos
+máticas
+Física Electrónica Analógica Redes y Servicios Optativa I
+Fundamentos de
+Interconexión de
+Redes y Comunica- Señales y Sistemas Optativa II
+Sistemas
+ciones
+Introducción a los Encaminamiento y
+Física II Optativa III
+Computadores Conmutación
+Teoría de la Comuni- Redes de Computa-
+Economía y Empresa Optativa IV
+cación dores
+Ampliación de Cál- Fundamentos de
+Semestre Electrónica Digital Optativa V
+culo Ciberseguridad
+2º
+Redes, Sistemas y
+Fundamentos de
+Servicios de Teleco- Redes Móviles
+Electrónica
+municación Trabajo Fin de Gra-
+do
+Medios de Transmi- Sistemas de Trans-
+Análisis de Circuitos
+sión misión Multimedia
+i Esta secuencia de asignaturas podrá ser objeto de modificación por acuerdo de Consejo de Gobierno de la Universi-
+dad de Extremadura y evaluación favorable de la ANECA.

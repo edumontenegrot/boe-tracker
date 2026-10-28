@@ -1,0 +1,611 @@
+NÚMERO 208
+44810
+Miércoles 28 de octubre de 2026
+RESOLUCIÓN de 19 de octubre de 2026, del Rector, por la que se publica
+el Plan de estudios de Graduado o Graduada en Ingeniería Informática.
+(2026062670)
+Obtenida la verificación del plan de estudios por el Consejo de Universidades, previo informe
+favorable de la Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA), así como
+la autorización de la Comunidad Autónoma de Extremadura, y establecido el carácter oficial
+del título por Acuerdo de Consejo de Ministros de 15 de septiembre de 2026 (publicado en el
+BOE de 22 de septiembre de 2026).
+Este Rectorado, de conformidad con lo dispuesto por el artículo 8.3 de la Ley Orgánica 2/2023,
+de 22 de marzo, del Sistema Universitario, así como por el artículo 27.4 del Real Decreto
+822/2021, de 28 de septiembre, por el que se establece la organización de las enseñanzas
+universitarias y del procedimiento de aseguramiento de su calidad, ha resuelto publicar el
+plan de estudios conducente a la obtención del título oficial de Graduado o Graduada en In-
+geniería Informática, que quedará estructurado según consta en el anexo de esta resolución.
+Badajoz, 19 de octubre de 2026.
+El Rector,
+PEDRO M. FERNÁNDEZ SALGUERO
+
+NÚMERO 208
+44811
+Miércoles 28 de octubre de 2026
+ANEXO
+Universidad de Extremadura
+Plan de estudios conducente al título de Graduado o Graduada en Ingeniería Informática
+(Rama Ingeniería y Arquitectura)
+5.1. Estructura de las enseñanzas.
+Tabla 1. Distribución del plan de estudios en ECTS por tipo de materia.
+Tipo de materia Créditos
+Formación básica 66
+Obligatorias 84
+Optativas 78
+Prácticas académicas externas 0
+Trabajo Fin de Grado 12
+TOTAL 240
+Tabla 2.1. Estructura modular del plan de estudios.
+Módulo Materia Asignatura ECTS Carácter
+Cálculo 6 Básica
+Matemáticas Estadística 6 Básica
+(24) Álgebra Lineal 6 Básica
+Matemática Discreta 6 Básica
+Física Fundamentos de Electrónica 6 Básica
+Formación Básica (12) Física 6 Básica
+(66 ECTS) Introducción a los Computadores 6 Básica
+Informática Programación 6 Básica
+(24) Programación II 6 Básica
+Tecnologías de Computadores 6 Básica
+Empresa
+Economía y Empresa 6 Básica
+(6)
+
+NÚMERO 208
+44812
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+Desarrollo de Programas 6 Obligatorio
+Análisis y Diseño de Algoritmos 6 Obligatorio
+Programación e Inte-
+ligencia Artificial
+Programación Concurrente y Distri-
+6 Obligatorio
+buida
+(24)
+Fundamentos de Inteligencia Arti-
+6 Obligatorio
+ficial
+Ingeniería del Software 6 Obligatorio
+Ingeniería del Soft-
+ware y Bases de Bases de Datos 6 Obligatorio
+Datos
+Interacción Persona Ordenador 6 Obligatorio
+(24)
+Común a la Rama Ampliación de Bases de Datos 6 Obligatorio
+de Informática
+Ingeniería de Compu- Administración y Organización de
+6 Obligatorio
+(84 ECTS) tadores Computadores
+(12) Estructura de Computadores 6 Obligatorio
+Sistemas Operativos
+Sistemas Operativos 6 Obligatorio
+(6)
+Fundamentos de Redes y Comuni-
+Redes 6 Obligatorio
+caciones
+(12)
+Programación de Redes y Protocolos 6 Obligatorio
+Auditoría y Legisla-
+ción de las TIC
+Ética y Normativa Informática 6 Obligatorio
+(6)
+Gestión de Proyectos TIC 6 Optativo
+Gestión de Proyectos Metodología y Desarrollo de Aplica-
+6 Optativo
+y Sistemas de Infor- ciones para Internet
+mación
+Tecnologías de la
+Información Tecnologías Web 6 Optativo
+(24)
+(48 ECTS)
+Adquisición y Computación del Big
+6 Optativo
+Data
+Seguridad y Redes Fundamentos de Ciberseguridad 6 Optativo
+(12) Redes de Ordenadores 6 Optativo
+
+NÚMERO 208
+44813
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+Tecnologías Informá-
+ticas Administración y Seguridad de Sis-
+6 Optativo
+temas
+(6)
+Gestión de las Orga-
+nizaciones
+Gestión de las Organizaciones 6 Optativo
+(6)
+Tecnologías de las Seguridad en Redes 6 Optativo
+Comunicaciones
+Criptografía aplicada a ciberseguri-
+6 Optativo
+(12) dad
+Amenazas y vulnerabilidades en
+6 Optativo
+sistemas
+Detección y protec-
+Análisis y gestión de riesgos y cibe-
+Ciberseguridad ción frente a cibera- 6 Optativo
+rincidentes
+taques
+(48 ECTS)
+Hacking ético 6 Optativo
+(24)
+Informática forense y análisis de
+6 Optativo
+sistemas
+Tecnologías Informá- Desarrollo seguro 6 Optativo
+ticas
+Protección y privacidad de datos 6 Optativo
+(12)
+Arquitectura y Diseño de Software
+6 Optativo
+Ingeniería del Soft- para Entornos Empresariales
+ware Avanzada
+Ingeniería de Requisitos 6 Optativo
+(18)
+Gestión de Proyectos Software 6 Optativo
+Tecnologías de Aplicaciones Web 6 Optativo
+Ingeniería del Soft-
+Desarrollo de Siste-
+ware
+mas Empresariales Desarrollo de Sistemas Móviles y
+6 Optativo
+Distribuidos
+(48 ECTS)
+(18)
+Ingeniería de Servicios Software 6 Optativo
+Teoría de Lenguajes y Métodos For-
+Calidad y Formaliza- 6 Optativo
+males
+ción del Software
+Mantenimiento, Calidad y Pruebas
+(12) 6 Optativo
+Software
+
+NÚMERO 208
+44814
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+Arquitectura de Computadores 6 Optativo
+Arquitecturas Parale-
+las y Distribuidas
+Arquitecturas Especializadas 6 Optativo
+(18)
+Computación Distribuida 6 Optativo
+Administración, vir- Administración y Virtualización de
+6 Optativo
+tualización y seguri- Sistemas
+Ingeniería de Com- dad de sistemas
+putadores
+Seguridad en Sistemas y Biometría 6 Optativo
+(12)
+(48 ECTS)
+Sistemas Empotrados Diseño de Procesadores 6 Optativo
+(12) Sistemas en Tiempo Real 6 Optativo
+Redes de Ordena-
+dores
+Administración y Gestión de Redes 6 Optativo
+(6)
+Sistemas Autónomos y Entornos
+6 Optativo
+Inteligentes
+Sistemas Inteligentes
+Procesamiento del Lenguaje Natural
+6 Optativo
+e Inteligencia Generativa
+(18)
+Robótica y Percepción Computacio-
+6 Optativo
+nal
+Normativa y Ética en IA y en el tra-
+6 Optativo
+tamiento de datos
+Análisis de Datos 6 Optativo
+Ingeniería de Datos
+Análisis, procesamiento y evaluación
+6 Optativo
+de datos
+(30)
+Inteligencia Arti-
+Gestión de grandes volúmenes de
+6 Optativo
+ficial y Ciencia de datos
+Datos
+Visualización de la información 6 Optativo
+(84 ECTS)
+Infraestructuras
+Infraestructuras para la IA 6 Optativo
+(6)
+Representación del conocimiento y
+6 Optativo
+razonamiento
+Conocimiento Aprendizaje automático 6 Optativo
+(24) Modelos predictivos y aprendizaje
+6 Optativo
+automático
+Minería de datos 6 Optativo
+Proyecto integrado
+Proyecto integrado 6 Optativo
+(6)
+
+NÚMERO 208
+44815
+Miércoles 28 de octubre de 2026
+Módulo Materia Asignatura ECTS Carácter
+English for Profes-
+sional and Academic
+English for Professional and Acade-
+Communication 6 Optativo
+mic Communication
+(6)
+Formación Optativa
+no mención
+Seguridad Avanzada
+Hacking Ético 6 Optativo
+(18 ECTS)
+(6)
+Prácticas Externas
+Práctica en Empresa 6 Optativo
+(6)
+Proyecto Fin de Trabajo de Fin de
+Grado Grado
+Trabajo Fin de Grado 12 TFG
+(12 ECTS) (12)
+Tabla 2.2. Itinerarios optativos de mención.
+Mención Asignaturas
+Arquitectura y Diseño de Software para Entornos
+Empresariales
+Ingeniería de Requisitos
+Ingeniería del Software Gestión de Proyectos Software
+Tecnologías de Aplicaciones Web
+(48 ECTS)
+Desarrollo de Sistemas Móviles y Distribuidos
+Centro: Escuela Politécnica
+Ingeniería de Servicios Software
+Teoría de Lenguajes y Métodos Formales
+Mantenimiento, Calidad y Pruebas software
+Arquitectura de Computadores
+Arquitecturas Especializadas
+Computación Distribuida
+Ingeniería de Computadores
+Administración y Virtualización de Sistemas
+(48 ECTS)
+Seguridad en Sistemas y Biometría
+Centro: Escuela Politécnica
+Diseño de Procesadores
+Sistemas en Tiempo Real
+Administración y gestión de redes
+
+NÚMERO 208
+44816
+Miércoles 28 de octubre de 2026
+Mención Asignaturas
+Gestión de Proyectos TIC
+Metodología y Desarrollo de Aplicaciones para In-
+ternet
+Tecnologías Web
+Tecnologías de la Información
+Adquisición y Computación del Big Data
+(48 ECTS)
+Fundamentos de Ciberseguridad
+Centro: Centro Universitario de Mérida
+Redes de Ordenadores
+Administración y Seguridad de Sistemas
+Gestión de las Organizaciones
+Criptografía aplicada a ciberseguridad
+Seguridad en Redes
+Amenazas y vulnerabilidades en sistemas
+Ciberseguridad
+Análisis y gestión de riesgos y ciberincidentes
+(48 ECTS)
+Hacking ético
+Centro: Escuela Politécnica
+Informática forense y análisis de sistemas
+Desarrollo seguro
+Protección y privacidad de datos
+Sistemas Autónomos y Entornos Inteligentes
+Modelos predictivos y aprendizaje automático
+Procesamiento del lenguaje natural e inteligencia
+generativa
+Inteligencia Artificial
+Robótica y percepción computacional
+(48 ECTS)
+Normativa y ética en IA y en el tratamiento de da-
+Centro: Centro Universitario de Mérida tos
+Análisis de datos
+Infraestructuras para la IA
+Representación del conocimiento y razonamiento
+
+NÚMERO 208
+44817
+Miércoles 28 de octubre de 2026
+Mención Asignaturas
+Gestión de grandes volúmenes de datos
+Análisis, procesamiento y evaluación de datos
+Normativa y ética en IA y en el tratamiento de da-
+tos
+Ciencia de Datos
+Visualización de la información
+(48 ECTS)
+Minería de datos
+Centro: Escuela Politécnica
+Aprendizaje automático
+Representación del conocimiento y razonamiento
+Proyecto integrado
+Tabla 3.1. Secuenciación del plan de estudios (mención Ingeniería del Software)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Fundamentos de Redes Interacción Persona Ingeniería de Servicios
+Álgebra Lineal
+y Comunicaciones Ordenador Software
+Desarrollo de Progra- Programación Concu- Mantenimiento, Calidad
+Cálculo
+mas rrente y Distribuida y Pruebas Software
+Economía y Empresa
+Ampliación de Bases de Gestión de Proyectos
+Semestre 1º Programación (Cáceres) / Estadística
+Datos Software
+(Mérida)
+Administración y Organi-
+Física Sistemas Operativos Optativa
+zación de Computadores
+Tecnología de Compu- Fundamentos de Inteli-
+Bases de Datos Optativa
+tadores gencia Artificial
+Introducción a los Com- Estructura de Compu- Teoría de Lenguajes y
+Ingeniería de Requisitos
+putadores tadores Métodos Formales
+Estadística (Cáceres) Arquitectura y Diseño
+Análisis y Diseño de Desarrollo de Sistemas
+/ Economía y Empresa de Software para En-
+Algoritmos Móviles y Distribuidos
+(Mérida) tornos Empresariales
+Semestre 2º Ética y Normativa In- Tecnologías de Aplica-
+Programación II Optativa
+formática ciones Web
+Fundamentos de Elec-
+Ingeniería del Software Optativa
+trónica
+Trabajo Fin de Grado
+Programación de Redes
+Matemática Discreta Optativa
+y Protocolos
+
+NÚMERO 208
+44818
+Miércoles 28 de octubre de 2026
+Tabla 3.2. Secuenciación del plan de estudios (mención Ingeniería de Computadores)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Fundamentos de
+Interacción Persona Arquitecturas Espe-
+Álgebra Lineal Redes y Comunica-
+Ordenador cializadas
+ciones
+Desarrollo de Pro- Programación Concu- Administración y
+Cálculo
+gramas rrente y Distribuida Gestión de Redes
+Economía y Empresa
+Semestre Ampliación de Bases Sistemas en Tiempo
+Programación (Cáceres) / Estadísti-
+1º de Datos Real
+ca (Mérida)
+Administración y
+Física Organización de Sistemas Operativos Optativa
+Computadores
+Tecnología de Com- Fundamentos de In-
+Bases de Datos Optativa
+putadores teligencia Artificial
+Introducción a los Estructura de Com- Arquitectura de Computación Distri-
+Computadores putadores Computadores buida
+Estadística (Cáceres) Administración y
+Análisis y Diseño de Seguridad en Siste-
+/ Economía y Empre- Virtualización de
+Algoritmos mas y Biometría
+sa (Mérida) Sistemas
+Semestre
+Ética y Normativa Diseño de Procesa-
+2º Programación II Optativa
+Informática dores
+Fundamentos de Ingeniería del Soft-
+Optativa
+Electrónica ware
+Trabajo Fin de Grado
+Programación de
+Matemática Discreta Optativa
+Redes y Protocolos
+
+NÚMERO 208
+44819
+Miércoles 28 de octubre de 2026
+Tabla 3.3. Secuenciación del plan de estudios (mención Tecnologías de la Información)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Fundamentos de
+Interacción Persona Redes de Ordena-
+Álgebra Lineal Redes y Comunica-
+Ordenador dores
+ciones
+Desarrollo de Pro- Programación Concu- Gestión de Proyectos
+Cálculo
+gramas rrente y Distribuida TIC
+Economía y Empresa
+Semestre Ampliación de Bases Administración y Se-
+Programación (Cáceres) / Estadísti-
+1º de Datos guridad de Sistemas
+ca (Mérida)
+Administración y
+Física Organización de Sistemas Operativos Optativa
+Computadores
+Tecnología de Com- Fundamentos de In-
+Bases de Datos Optativa
+putadores teligencia Artificial
+Metodología y Desa-
+Introducción a los Estructura de Com- Fundamentos de
+rrollo de Aplicaciones
+Computadores putadores Ciberseguridad
+para Internet
+Estadística (Cáceres) Adquisición y Com-
+Análisis y Diseño de Gestión de las Orga-
+/ Economía y Empre- putación del Big
+Algoritmos nizaciones
+sa (Mérida) Data
+Semestre
+2º Ética y Normativa
+Programación II Tecnologías Web Optativa
+Informática
+Fundamentos de Ingeniería del Soft-
+Optativa
+Electrónica ware
+Trabajo Fin de Grado
+Programación de
+Matemática Discreta Optativa
+Redes y Protocolos
+
+NÚMERO 208
+44820
+Miércoles 28 de octubre de 2026
+Tabla 3.4 Secuenciación del plan de estudios (mención Ciberseguridad)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Fundamentos de Análisis y Gestión
+Interacción Persona
+Álgebra Lineal Redes y Comunica- de Riesgos y Cibe-
+Ordenador
+ciones rincidentes
+Desarrollo de Pro- Programación Concu- Protección y Privaci-
+Cálculo
+gramas rrente y Distribuida dad de Datos
+Economía y Empresa
+Semestre Ampliación de Bases
+Programación (Cáceres) / Estadísti- Hacking Ético
+1º de Datos
+ca (Mérida)
+Administración y
+Física Organización de Sistemas Operativos Optativa
+Computadores
+Tecnología de Com- Fundamentos de In-
+Bases de Datos Optativa
+putadores teligencia Artificial
+Amenazas y Vulne-
+Introducción a los Estructura de Com- Criptografía aplicada
+rabilidades en Sis-
+Computadores putadores a Ciberseguridad
+temas
+Estadística (Cáceres) Informática Forense
+Análisis y Diseño de
+/ Economía y Empre- Seguridad en Redes y Análisis de Siste-
+Algoritmos
+sa (Mérida) mas
+Semestre
+2º Ética y Normativa
+Programación II Desarrollo seguro Optativa
+Informática
+Fundamentos de Ingeniería del Soft-
+Optativa
+Electrónica ware
+Trabajo Fin de Gra-
+do
+Programación de
+Matemática Discreta Optativa
+Redes y Protocolos
+
+NÚMERO 208
+44821
+Miércoles 28 de octubre de 2026
+Tabla 3.5 Secuenciación del plan de estudios (mención Inteligencia Artificial)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Fundamentos de
+Interacción Persona
+Álgebra Lineal Redes y Comunica- Análisis de Datos
+Ordenador
+ciones
+Modelos Predictivos
+Desarrollo de Pro- Programación Concu-
+Cálculo y Aprendizaje Auto-
+gramas rrente y Distribuida
+mático
+Semestre Economía y Empresa Sistemas Autóno-
+Ampliación de Bases
+1º Programación (Cáceres) / Estadísti- mos y Entornos In-
+de Datos
+ca (Mérida) teligentes
+Administración y
+Física Organización de Sistemas Operativos Optativa
+Computadores
+Tecnología de Com- Fundamentos de In-
+Bases de Datos Optativa
+putadores teligencia Artificial
+Introducción a los Estructura de Com- Infraestructuras para Robótica y Percep-
+Computadores putadores la IA ción Computacional
+Procesamiento del
+Estadística (Cáceres) Normativa y Ética en
+Análisis y Diseño de Lenguaje Natural e
+/ Economía y Empre- IA y en el tratamien-
+Algoritmos Inteligencia Gene-
+sa (Mérida) to de datos
+rativa
+Semestre
+Representación del
+2º Ética y Normativa
+Programación II conocimiento y razo- Optativa
+Informática
+namiento
+Fundamentos de Ingeniería del Soft-
+Optativa
+Electrónica ware
+Trabajo Fin de Grado
+Programación de
+Matemática Discreta Optativa
+Redes y Protocolos
+
+NÚMERO 208
+44822
+Miércoles 28 de octubre de 2026
+Tabla 3.6 Secuenciación del plan de estudios (mención Ciencia de Datos)i
+Curso 1º Curso 2º Curso 3º Curso 4º
+Fundamentos de
+Interacción Persona Gestión de grandes
+Álgebra Lineal Redes y Comunica-
+Ordenador volúmenes de datos
+ciones
+Desarrollo de Pro- Programación Concu-
+Cálculo Minería de Datos
+gramas rrente y Distribuida
+Economía y Empresa
+Semestre Ampliación de Bases Aprendizaje Auto-
+Programación (Cáceres) / Estadísti-
+1º de Datos mático
+ca (Mérida)
+Administración y
+Física Organización de Sistemas Operativos Optativa
+Computadores
+Tecnología de Com- Fundamentos de In-
+Bases de Datos Optativa
+putadores teligencia Artificial
+Análisis, procesa-
+Introducción a los Estructura de Com- Visualización de la
+miento y evaluación
+Computadores putadores información
+de datos
+Estadística (Cáceres) Normativa y Ética en
+Análisis y Diseño de
+/ Economía y Empre- IA y en el tratamien- Proyecto integrado
+Algoritmos
+sa (Mérida) to de datos
+Semestre
+Representación del
+2º Ética y Normativa
+Programación II conocimiento y razo- Optativa
+Informática
+namiento
+Fundamentos de Ingeniería del Soft-
+Optativa
+Electrónica ware
+Trabajo Fin de Gra-
+do
+Programación de
+Matemática Discreta Optativa
+Redes y Protocolos
+i Esta secuencia de asignaturas podrá ser objeto de modificación por acuerdo de Consejo de Gobierno de la Univer-
+sidad de Extremadura y evaluación favorable de la ANECA.

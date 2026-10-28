@@ -1,0 +1,189 @@
+AÑO XLV Núm. 207 28 de octubre de 2026 37916
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 18/10/2026, de la Dirección General de Transición Energética, sobre modificación de
+la instalación solar fotovoltaica denominada HFV Iniesta, infraestructuras auxiliares y de evacuación.
+(Referencia: 2703/01582). [2026/7703]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible de Cuenca y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación solar fotovoltaica denominada “HFV Iniesta”, con las siguientes
+características:
+- Referencia objeto de la presente resolución: 2703/01582-M1 – 2701/00682 (DP: 16270200840 (FV) – 16270100036
+(EOL)).
+- Peticionario: Fuentes Eólicas Dos, S.L.U. - N.I.F. B02486199.
+- Documentación Técnica:
+Anexo de modificación al proyecto denominado Proyecto modificado 01 de Planta solar fotovoltaica “HFV Iniesta” de
+5.000 kW en el término municipal de Iniesta (Cuenca), cuyo autor es el ingeniero industrial Jorge Córdoba López,
+colegiado nº 114 del Colegio Oficial de Ingenieros Industriales de Albacete, con número de visado 13326 y fecha de
+visado 25/05/2026.
+Anexo 01 al anexo de modificación anterior para aclaración de la potencia instalada según RD 997/2025, de 5
+de noviembre, por el que se aprueban medidas urgentes para el refuerzo del sistema eléctrico, cuyo autor es
+el ingeniero industrial Jorge Córdoba López, colegiado nº 114 del Colegio Oficial de Ingenieros Industriales de
+Albacete, con número de visado 15826 y fecha de visado 23/06/2026.
+- Características principales después de las modificaciones: Planta solar fotovoltaica de 5,761224 MWp en módulos
+fotovoltaicos y 5 MW en inversores, 1 estación de potencia con 4 inversores y 1 transformador, 1 línea subterránea
+de media tensión de 20 Kv s/c, 1 centro de protección, control y medida, acometida subterránea de media tensión
+20 kV s/c que conecta el CPCM anterior con el CPCM existente del PE Iniesta y línea de evacuación subterránea
+existente de MT de 20 kV s/c del PE Iniesta hasta el punto de conexión en la ST Iniesta, propiedad de i-DE Redes
+Eléctricas Inteligentes, S.A.U. Las actuaciones a realizar serán las siguientes:
+Planta solar fotovoltaica ubicada en el polígono 20, parcelas 155, 156 y 162 del término municipal de Iniesta (Cuenca).
+Superficie total delimitada por vallado de FV: 6,8654 ha. con una longitud de vallado de 1.070 m. Formada por 7.056
+módulos fotovoltaicos bifaciales de la marca Canadian Solar modelo CS7N- 710TB-AG o similar, con una potencia
+unitaria máxima de 710 Wp, instalados sobre estructuras fijas con orientación sur inclinadas 30º. La potencia total
+en módulos fotovoltaicos será de 5,761224 MWp.
+Estación de potencia: cuya finalidad es la conversión de CC a CA y elevación de 660V a 20 kV. Dispone de 4
+inversores de 1.250 kW de la marca Ingeteam, modelo Ingecon SUN 1715TL B660 o similar, 1 transformador de
+6.870 kVA y 3 celdas de MT, 2 de ellas de línea (1 de reserva) y 1 de protección del transformador. Además, de 1
+transformador de SSAA de 30 kVA 660/400 V. La potencia total en inversores es de 5.000 kW, que corresponde
+con la potencia instalada. La capacidad de acceso de 5 MW y el punto de conexión en barras T2 de la SET Iniesta
+se mantienen en la actualización de los permisos de acceso y conexión concedidos por i-DE Redes Eléctricas
+Inteligentes, S.A.U. para la hibridación de estas instalaciones.
+Línea subterránea de media tensión de 20 kV s/c, de longitud total 1.315 m, que conecta la estación de potencia con
+el CPCM nuevo. Conductor Al RH5Z1 12/20 kV y sección 3x(1x240) mm2.
+Centro de protección, control y medida en edificio prefabricado de hormigón (CPCM nuevo). Dispone de 7 celdas de
+MT, de las cuales 1 de línea, 3 de protección con interruptor automático (1 de ellas de reserva) y 3 de línea y medida
+(1 de ellas de reserva).
+Modificación de línea subterránea de media tensión de 20 kV s/c, de longitud total 902,5 m, formada por 2 tramos de
+834 m y 68,5 m, que conecta los centros de transformación existentes de los aerogeneradores 1 y 2 del PE Iniesta
+y éstos con el CPCM nuevo. Conductor Al RH5Z1 12/20 kV y sección 3x(1x240) mm2.
+Acometida subterránea de media tensión de 20 kV s/c, de longitud total 86,5 m, que conecta el CPCM nuevo con el
+CPCM existente. Conductor Al RH5Z1 12/20 kV y sección 3x(1x240) mm2.
+La línea de evacuación desde el CPCM existente hasta el punto de conexión en la ST Iniesta, propiedad de i-DE
+Redes Eléctricas Inteligentes, S.A.U., es la ya existente para el PE Iniesta y no se modifica.
+- Emplazamiento: Planta solar fotovoltaica ubicada en el polígono 20, parcelas 155, 156 y 162 del término municipal
+de Iniesta (Cuenca).
+
+AÑO XLV Núm. 207 28 de octubre de 2026 37917
+- Acceso y conexión: Dispone de comunicación de I-DE Redes Eléctricas Inteligentes, S.A.U. de 28/10/2022,
+referencia: EXP-28-9041611210, y asunto: “Confirmación de la actualización de permisos de acceso y conexión”, en
+donde se recoge la hibridación del proyecto de referencia, con el parque eólico ya en funcionamiento, y manteniéndose
+la potencia de acceso de 5.000 kW.
+- Finalidad: Producción de energía eléctrica mediante generación solar fotovoltaica, hibridando
+con parque eólico existente y su posterior transformación y evacuación.
+Antecedentes de hecho.
+Primero: Con fecha 23/10/2024, mediante resolución de la Dirección General de Transición Energética, se otorgó a
+Fuentes Eólicas Dos, S.L.U., la autorización administrativa previa y autorización administrativa de construcción de la
+instalación solar fotovoltaica denominada “HFV Iniesta”, infraestructuras auxiliares y de evacuación, de referencia.
+(Ref: 2703/01582), publicada en el DOCM núm. 218 de fecha de 11/11/2024.
+Segundo: Con fecha 26/05/2026 Fuentes Eólicas Dos, S.L.U., solicitó autorización administrativa previa y de
+construcción de la modificación del proyecto, con las características indicadas.
+Fuentes Eólicas Dos, S.L.U., es titular del parque eólico “Iniesta” de 5 MW de potencia instalada, emplazado en el
+T.M de Iniesta, y con resolución de autorización de explotación de 27/03/2020, (referencias: DGTE: 2701/00682 y
+DP: 16270100036).
+Con la solicitud de autorización administrativa sobre la modificación de la instalación solar fotovoltaica de 5.000
+kWn, se promueve llevar a cabo la hibridación del citado parque eólico.
+Tercero: En relación con la normativa ambiental del proyecto indicado: Dispone de informe de 09/07/2026 (Exp:
+SLEE/2023/CU/00452;AGG/VRA), del Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo
+Sostenible de Cuenca, en el que se concluye, una vez consultado por su parte al Servicio de Medio Natural y
+Biodiversidad de Cuenca, que las modificaciones presentadas no suponen una afección ambiental que justifiquen
+un procedimiento de evaluación ambiental, debiéndose atender a lo informado previamente por ambos servicios en
+la ejecución del proyecto. Remisión de la respuesta al promotor (salida 17/07/2026 y fecha de lectura 22/07/2026)
+para su conocimiento y efectos oportunos.
+Cuarto: Mediante Anuncio de 07/08/2026, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, se
+sometió a información pública la solicitud de modificación de la autorización administrativa previa y autorización
+administrativa de construcción de la planta solar fotovoltaica HFV Iniesta que hibrida con el parque eólico Iniesta,
+existente y en funcionamiento (expediente 162701-00036). Referencia: 162702-00840. [2026/6008].
+Dicho anuncio ha sido publicado en los siguientes medios:
+- Diario Oficial de Castilla la Mancha núm. 153 de fecha 12/08/2026.
+- Tablón de Anuncios Electrónico de la Junta de Comunidades de Castilla-La Mancha.
+Dentro del plazo de información pública no se presentan alegaciones.
+Quinto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Envío de separata de afección al Ayuntamiento de Iniesta (salida y fecha de confirmación 12/08/2026). Recibida
+contestación por parte de este Ayuntamiento (entrada 19/08/2026) pero no a la última separata enviada, que
+recoge las modificaciones referenciadas en este informe y que han sido objeto de la última información pública,
+sino a una separata con otras modificaciones enviada anteriormente. Por este motivo se le vuelve a enviar la
+separata (salida 21/08/2026 y fecha de confirmación 22/08/2026), dándole de nuevo un plazo de 20 días para que
+preste su conformidad u oposición a las modificaciones presentadas. Recibido informe técnico de contestación del
+Ayuntamiento de Iniesta (entrada 18/09/2026) indicando que el proyecto deberá someterse al trámite de Calificación
+
+AÑO XLV Núm. 207 28 de octubre de 2026 37918
+Urbanística. Remisión al promotor (salida y fecha de lectura 24/09/2026). Recibida conformidad del promotor al
+informe enviado (entrada 25/09/2026) y su disposición a cumplir con lo establecido en el mismo.
+Sexto: La Delegación Provincial de Desarrollo Sostenible en Cuenca cumplió con lo establecido en la resolución de
+3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as delegados/
+as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 29/09/2026 informe favorable
+para la autorización administrativa previa y de construcción solicitadas.
+Séptimo: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción solicitadas.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007, de 19/6/2007, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica
+a tramitar por la Junta de Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y demás
+normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe alguna que impida otorgar la autorización administrativa previa y autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; el Real Decreto-ley 23/2020; la Ley 24/2013; la Ley 2/2020; el Decreto 80/2007; la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás
+legislación concordante de aplicación.
+En su virtud Resuelve: Otorgar a Fuentes Eólicas Dos, S.L.U. la autorización administrativa previa y de construcción
+de las instalaciones eléctricas de referencia, con las características anteriormente indicadas, sujeta a las siguientes
+condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+
+AÑO XLV Núm. 207 28 de octubre de 2026 37919
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Sexta: Se debe cumplir lo establecido en el informe del órgano ambiental, en el marco de lo dispuesto en la normativa
+básica aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y demás
+normativa autonómica de aplicación.
+Séptima: El titular deberá, en su caso, comunicar al gestor de red la modificación de los datos que constan en los
+permisos de acceso y conexión obtenidos, en cumplimiento de lo dispuesto en la disposición adicional decimocuarta
+del Real Decreto 1955/2000, de 1 de diciembre, por el que se regulan las actividades de transporte, distribución,
+comercialización, suministro y procedimientos de autorización de instalaciones de energía eléctrica, que en su punto
+4 establece que “En aquellos casos en los que las instalaciones con permisos de acceso y conexión solicitados
+y/o concedidos hayan sufrido modificaciones que impliquen que dichas instalaciones puedan ser consideradas las
+mismas de acuerdo con lo establecido en esta disposición, los titulares deberán actualizar la solicitud de los permisos
+de acceso y conexión, o en su caso, actualizar los permisos de acceso y conexión concedidos para adaptarlos a las
+características de la instalación modificada”, para que, en su caso, proceda a actualizar los permisos de acceso y
+conexión.
+Octava: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 18 de octubre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
