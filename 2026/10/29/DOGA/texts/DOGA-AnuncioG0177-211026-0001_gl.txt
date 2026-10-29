@@ -1,0 +1,121 @@
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54213
+III. OUTRAS DISPOSICIÓNS
+AXENCIA PARA A MODERNIZACIÓN TECNOLÓXICA DE GALICIA
+RESOLUCIÓN do 15 de outubro de 2026, conxunta da Secretaría Xeral Técnica
+da Consellería de Educación, Ciencia, Universidades e Formación Profesional,
+da Dirección Xeral de Centros e Recursos Humanos e da Axencia para a
+Modernización Tecnolóxica de Galicia, pola que se inicia a prestación do servizo
+de interoperabilidade de consulta das validacións de coñecemento de lingua
+galega (Celga) por equivalencia coa materia de galego cursada no ensino
+regrado.
+Segundo o artigo 6 do Estatuto da Axencia para a Modernización Tecnolóxica de Galicia,
+aprobado polo Decreto 252/2011, do 15 de decembro, polo que se crea a Axencia para a
+Modernización Tecnolóxica de Galicia e se aproban os seus estatutos, esta ten entre as
+súas competencias a dirección e xestión de todas as actuacións da Xunta de Galicia en
+materia de tecnoloxías da información e, en concreto, o impulso, xestión e coordinación da
+Administración electrónica, como elemento indispensable para a modernización da Admi-
+nistración pública.
+Por parte da Consellería de Educación, Ciencia, Universidades e Formación Profesio-
+nal, o Decreto 138/2024, do 20 de maio, polo que se establece a estrutura orgánica da
+Consellería de Educación, Ciencia, Universidades e Formación Profesional, recolle que
+a devandita consellería é o departamento da Xunta de Galicia ao que lle corresponden
+as competencias e funcións en materia de planificación, regulación e administración do
+ensino regrado en toda a súa extensión, niveis, graos, modalidades e especialidades. Así
+mesmo, correspóndelle á Dirección Xeral de Centros e Recursos Humanos o exercicio
+das competencias relativas á xestión e ao rexistro dos títulos e expedientes académicos
+de nivel non universitario en cuxo ámbito se atopa a información necesaria para acreditar
+as validacións de coñecemento da lingua galega por equivalencia coa materia de galego
+cursada no ensino regrado.
+A cooperación entre administracións públicas é esencial para garantir o dereito que ten
+a cidadanía de relacionarse con elas por medios electrónicos e non achegar documentos
+que teñan no seu poder. Neste sentido, a Xunta de Galicia conta coa plataforma de inter-
+mediación PasaXe!, que permite establecer as relacións necesarias dentro da propia Admi-
+nistración autonómica galega e con outras administracións para o intercambio de datos e
+documentos e que se realiza nunhas condicións que garanten a seguridade da información
+e a protección dos datos persoais que se transmiten, proporcionando medidas para a au-
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6bo9xn6lvnm3-0lik-4mwq-8kcp-1lfeeqe1
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54214
+tenticidade, confidencialidade, integridade, dispoñibilidade e rastrexabilidade axeitadas á
+súa natureza.
+A Axencia para a Modernización Tecnolóxica de Galicia (Amtega), como entidade do
+sector público con competencia en desenvolvemento dixital, e segundo o previsto no arti-
+go 78.1 da Lei 4/2019, do 17 de xullo, de administración dixital de Galicia, funciona como
+nodo de interoperabilidade mediante a plataforma de intermediación PasaXe! Pola súa
+vez, o artigo 79.3 desta lei sinala a calquera órgano das entidades usuarias de PasaXe!
+como habilitadas para identificar novos servizos de interoperabilidade.
+Pola súa parte, o Esquema nacional de interoperabilidade, regulado polo Real decre-
+to 4/2010, do 8 de xaneiro, determina o conxunto de criterios e recomendacións en materia
+de seguridade, conservación e normalización que deberán ser tidos en conta polas admi-
+nistracións públicas para a toma de decisións tecnolóxicas que garantan a interoperabilida-
+de entre estas e coa cidadanía.
+Por todo o exposto,
+RESOLVEMOS:
+Primeiro. Iniciar a prestación do servizo de interoperabilidade que permite consultar as
+validacións das competencias en lingua galega que se corresponden con estudos de edu-
+cación xeral básica (EXB), educación primaria, educación secundaria obrigatoria (ESO),
+programas de cualificación profesional inicial (PCPI), programas de diversificación curricu-
+lar, educación secundaria para persoas adultas, bacharelato e formación profesional (FP)
+a través da plataforma de intemediación pasaXe!, como plataforma tecnolóxica de inter-
+cambio de datos entre os órganos e entidades da Administración xeral e do sector público
+autonómico de Galicia e con outras administracións públicas.
+O servizo que se habilita permitirá coñecer as validacións de coñecemento de lingua
+galega (Celga) por equivalencia coa materia de galego cursada no ensino regrado.
+Segundo. A Secretaría Xeral Técnica da Consellería de Educación, Ciencia, Univer-
+sidades e Formación Profesional e Amtega asumen os roles e as responsabilidades de
+cedente e emisor, respectivamente, de conformidade coas previsións sobre axentes nos
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6bo9xn6lvnm3-0lik-4mwq-8kcp-1lfeeqe1
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54215
+intercambios de datos da Norma técnica de interoperabilidade de protocolos de intermedia-
+ción de datos, aprobada a través da Resolución do 28 de xuño de 2012, da Secretaría de
+Estado de Administracións Públicas.
+Terceiro. Respecto ao tratamento de datos persoais que puidese levar a cabo en vir-
+tude da prestación de servizos obxecto desta resolución, Amtega terá a consideración de
+encargada do tratamento. En todo caso, empregaranse unicamente os datos necesarios
+para executar as prestacións derivadas desta resolución, os cales se tratarán de forma
+automática e sen intervención humana sempre que sexa posible.
+As partes comprométense a cumprir e a facer cumprir as obrigas de segredo profesional
+e de confidencialidade, así como as medidas de seguridade establecidas na lexislación
+aplicable en materia de protección de datos de carácter persoal.
+Cuarto. Amtega incorporará o servizo obxecto desta resolución no Catálogo de servi-
+zos de interoperabilidade da Administración xeral e do sector público autonómico, onde se
+incluirá a información prevista no artigo 8 do Real decreto 4/2010, do 8 de xaneiro, polo
+que se regula o Esquema nacional de interoperabilidade no ámbito da Administración elec-
+trónica.
+Quinto. A consulta do servizo poderá realizarse por calquera Administración pública,
+sempre que esta sexa necesaria para a tramitación dun procedemento da súa competencia
+e o organismo conte co consentimento das persoas interesadas, nos termos establecidos
+pola normativa básica de protección de datos de carácter persoal ou por unha norma con
+rango de lei que así o determine, salvo que existan restricións conforme á normativa de
+aplicación aos datos e documentos solicitados.
+Sétimo. A Dirección Xeral de Centros e Recursos Humanos encargarase da revi-
+sión das solicitudes de acceso que realicen os cesionarios que desexen usar o servizo
+interoperable e da súa aprobación ou denegación segundo a xustificación da pertinen-
+cia do devandito uso.
+Oitavo. As discrepancias que poidan xurdir na execución desta resolución resolveran-
+se nos termos previstos no artigo 18 da Lei 14/2013, do 26 de decembro, de racionaliza-
+ción do sector público autonómico, e no artigo 13 da Lei 16/2010, do 17 de decembro, de
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6bo9xn6lvnm3-0lik-4mwq-8kcp-1lfeeqe1
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54216
+organización e funcionamento da Administración xeral e do sector público autonómico de
+Galicia, para os conflitos de atribucións.
+Noveno. A presente resolución producirá efectos desde o día da súa sinatura.
+Santiago de Compostela, 15 de outubro de 2026
+Manuel Vila López Jesús Manuel Álvarez Bértolo
+Secretario xeral técnico da Consellería Director xeral de Centros e Recursos
+de Educación, Ciencia, Universidades e Humanos
+Formación Profesional
+Damián Rey Rodríguez
+Director da Axencia para a Modernización
+Tecnolóxica de Galicia
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+6bo9xn6lvnm3-0lik-4mwq-8kcp-1lfeeqe1
+:GOD-EVC

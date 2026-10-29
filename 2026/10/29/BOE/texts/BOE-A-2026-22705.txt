@@ -1,0 +1,151 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 269 Jueves 29 de octubre de 2026 Sec. III. Pág. 145173
+III. OTRAS DISPOSICIONES
+UNIVERSIDADES
+22705 Resolución de 19 de octubre de 2026, de la Universidad de Salamanca, por
+la que se publica el plan de estudios de Máster Universitario Erasmus
+Mundus en Aceleradores y Láseres a Gran Escala (Lascala)/Erasmus
+Mundus Master in Large Scale Accelerators and Lasers.
+De conformidad con lo dispuesto en el artículo 27 del Real Decreto 822/2021, de 28
+de septiembre, por el que se establece la organización de las enseñanzas universitarias
+y del procedimiento de aseguramiento de su calidad y una vez obtenida la verificación
+del plan de estudios por el Consejo de Universidades, previo informe positivo de la
+Agencia para la Calidad del Sistema Universitario de Castilla y León, y acordado el
+carácter oficial del título mediante Acuerdo del Consejo de Ministros de 15 de septiembre
+de 2026, publicado en el BOE de 22 de septiembre de 2026 por Resolución de la
+Secretaría General de Universidades de 16 de septiembre de 2026,
+Este Rectorado ha resuelto publicar el plan de estudios conducente a la obtención
+del título de Máster Universitario en Erasmus Mundus en Aceleradores y Láseres a Gran
+Escala (Lascala)/Erasmus Mundus Master in Large Scale Accelerators and Lasers
+(Lascala).
+Salamanca, 19 de octubre de 2026.–El Rector, Juan Manuel Corchado Rodríguez.
+PLAN DE ESTUDIOS DE MÁSTER UNIVERSITARIO ERASMUS MUNDUS EN
+ACELERADORES Y LÁSERES A GRAN ESCALA (LASCALA)/ERASMUS MUNDUS
+MASTER IN LARGE SCALE ACCELERATORS AND LASERS
+Campo de estudio: Física y Astronomía
+Código titulación: 3501315
+Tipo de materia ECTS
+Obligatorias (Ob). 54
+Optativas (Op). 36
+Prácticas Externas. 0
+Trabajo Fin de Máster (TFM). 30
+Créditos totales. 120
+Se debe elegir uno de los tres itinerarios a través de las asignaturas optativas que se
+ofertan:
+– Itinerario 1: Láseres y metrología óptica.
+– Itinerario 2: Aceleradores.
+– Itinerario 3: Detectores de ondas gravitacionales.
+50722-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 269 Jueves 29 de octubre de 2026 Sec. III. Pág. 145174
+Materia Tipo Asignaturas ECTS Organización
+Ob Mathematics and statistical methods (Paris-Saclay). 3 Semestral.
+Ob Quantum Solid State Physics (Paris-Saclay). 6 Semestral.
+Ob Atoms, molecules, optics (Paris-Saclay). 3 Semestral.
+Ob Nuclei (Paris-Saclay). 3 Semestral.
+Asignaturas básicas. Ob Quantum Solid State and Semiconductor Physics (Salamanca). 6 Semestral.
+Ob Molecules, Atoms, Nuclei, and Particles (Salamanca). 4 Semestral.
+Ob Optics & Lasers I (Salamanca). 3 Semestral.
+Op Nuclear physics (Sapienza Roma). 6 Semestral.
+Op Advanced Machine Learning for Physics (Sapienza Roma). 6 Semestral.
+Op/Ob Itin.1 Lasers (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.1 Plasmas (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.1 Optics & Lasers II (Salamanca). 3 Semestral.
+Op/Ob Itin.1 Laser plasma interaction (Salamanca). 3 Semestral.
+Ob Itin.1 Optoelectronics and optical communications (Lund). 7,5 Semestral.
+Ob Itin.1 Advanced Optics and lasers (Lund). 7,5 Semestral.
+Op Light matter interaction (Lund). 7,5 Semestral.
+Op Biophotonic (Lund). 7,5 Semestral.
+Láseres y Fotónica / Grandes instalaciones
+láseres. Op Modern X-ray physics, diffraction and imaging (Lund). 7,5 Semestral.
+Op Optics (Sapienza Roma). 6 Semestral.
+Op Laser fundamentals (Sapienza Roma). 6 Semestral.
+Op/Ob Itin.1 Introduction to intense laser sources (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.1 Advanced femto and attosecond metrology (Paris-Saclay). 3 Semestral.
+Femto laser plasma interaction, compact acceleration (Paris-
+Op/Ob Itin.1 3 Semestral.
+Saclay).
+Op/Ob Itin.1 Optical radiation sources (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.1 Laser plasma interaction (Paris-Saclay). 3 Semestral.
+50722-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 269 Jueves 29 de octubre de 2026 Sec. III. Pág. 145175
+Materia Tipo Asignaturas ECTS Organización
+Op/Ob Itin.2 Plasmas (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.2 Particles (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.2 Electrodynamics (Salamanca). 3 Semestral.
+Op/Ob Itin.2 Laser-Plasma interaction (Salamanca). 3 Semestral.
+Op Electro dynamics (Lund). 7,5 Semestral.
+Op Accelerators and free electron (Lund). 7,5 Semestral.
+Op Detectors and Accelerators in Particle Physics (Sapienza Roma). 6 Semestral.
+Op Methods in experimental particle physics (Sapienza Roma). 6 Semestral.
+Aceleradores.
+Op Plasma Physics and Nuclear Fusion (Sapienza Roma). 6 Semestral.
+Op/Ob Itin.2 Particles physics (Sapienza Roma). 6 Semestral.
+Accelerator Physics and relativistic electrodynamics (Sapienza
+Op/Ob Itin.2 6 Semestral.
+Roma).
+Op/Ob Itin.2 Introduction to accelerators (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.2 Advanced accelerators (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.2 Detectors (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.2 Optical radiation sources (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.2 Laser plasma interaction (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.3 Lasers (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.3 Optics & Lasers II (Salamanca). 3 Semestral.
+Op/Ob Itin.3 Introduction to gravitational waves (Sapienza Roma). 3 Semestral.
+Op/Ob Itin.3 Experimental Gravitation (Sapienza Roma). 6 Semestral.
+Gravitational Waves, Compact Stars and Black Holes (Sapienza
+Op/Ob Itin.3 6 Semestral.
+Detectores experimentales de ondas Roma).
+gravitacionales.
+Op/Ob Itin.3 Elements of General Relativity and Cosmology (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.3 Advanced femto and attosecond metrology (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.3 Quantum optics for GW detection (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.3 Optical radiation sources (Paris-Saclay). 3 Semestral.
+Op/Ob Itin.3 Advanced gravitational wave data análisis (Paris-Saclay). 3 Semestral.
+European History of Science and communication of research
+Ob 3 Semestral.
+results (Paris-Saclay).
+Computational Methods in Physics and Optics & Transfer and
+Ob 5 Semestral.
+Communication of Research Results (Salamanca).
+Ob Transverse high technologies (Paris-Saclay). 3 Semestral.
+Transversales.
+Ob Manipulations on large scale facilities (Paris-Saclay). 4 Semestral.
+Ob Advanced numerical methods (Paris-Saclay). 3 Semestral.
+Ob Management of large-scale facilities (Paris-Saclay). 2 Semestral.
+Techniques of Oversight in Scientific Project Administration (Paris-
+Ob 3 Semestral.
+Saclay).
+50722-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 269 Jueves 29 de octubre de 2026 Sec. III. Pág. 145176
+Materia Tipo Asignaturas ECTS Organización
+Ob Laboratory (Paris-Saclay). 6 Semestral.
+Laboratorios. Ob Laboratory (Salamanca). 6 Semestral.
+Ob Physics Laboratory II (Sapienza Roma). 9 Semestral.
+Trabajo Fin de Máster. TFM Trabajo fin de máster. 30 Semestral.
+Las asignaturas optativas podrán, por circunstancias excepcionales, sufrir
+modificaciones, siempre que lo autorice el vicerrectorado con competencias en
+ordenación académica y con anterioridad al inicio del curso académico.
+50722-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

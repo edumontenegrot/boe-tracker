@@ -1,0 +1,354 @@
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54232
+III. OUTRAS DISPOSICIÓNS
+ESCOLA GALEGA DE ADMINISTRACIÓN PÚBLICA
+RESOLUCIÓN do 22 de outubro de 2026 pola que se convoca o Curso superior de
+implantación da ciberseguridade nas administracións públicas: ciberseguridade
+nos tempos da intelixencia artificial e a nube.
+Aprobado polo Consello Reitor o programa de actividades formativas da Escola Galega de
+Administración Pública (EGAP) para o ano 2026, de conformidade co artigo 6.2 da Lei 4/1987,
+do 27 de maio, de creación da Escola Galega de Administración Pública, modificada pola
+Lei 10/1989, do 10 de xullo, e de acordo co convenio de colaboración entre a Escola Galega
+de Administración Pública (en diante, EGAP) e a Axencia para a Modernización Tecnolóxica
+de Galicia (Amtega), para a convocatoria e o desenvolvemento de actividades de formación
+en materia de administración electrónica e de seguridade e protección de datos no ano 2026,
+RESOLVO:
+Convocar o Curso superior de implantación da ciberseguridade nas administracións pú-
+blicas: ciberseguridade nos tempos da intelixencia artificial e a nube, que deberá desenvol-
+verse consonte as seguintes bases:
+Primeira. Obxectivos
+O Curso superior de implantación da ciberseguridade nas administracións públicas:
+ciberseguridade nos tempos da intelixencia artificial e a nube impártese cos seguintes
+obxectivos:
+• Concienciar o alumnado na relevancia e importancia da ciberseguridade desde unha
+perspectiva normativa, técnica e práctica, reforzando os seus coñecementos para afrontar
+a xestión da ciberseguridade nas AA.PP.
+• Dotar o alumnado de coñecementos sobre as últimas tendencias de ciberseguridade,
+en particular no ámbito da ciberseguridade da nube, da ciberseguridade e a intelixencia
+artificial, da ameaza cuántica e da ciberseguridade industrial, entre outros.
+• Reforzar os coñecementos sobre o Esquema Nacional de Seguridade (ENS) e das
+súas auditorías de cumprimento.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54233
+Segunda. Contidos
+• Os contidos do curso están especificados no anexo I desta resolución. Poden desta-
+carse como principais os seguintes:
+• Ciberseguridade nas AA.PP.: riscos na cadea de subministración, auditorías ENS, xes-
+tión de incidentes de ciberseguridade, ciberintelixencia e fontes abertas.
+• Ciberseguridade IA: conceptos básicos, novas ameazas, utilización da IA para o ata-
+que e a defensa, desenvolvemento seguro utilizando IA, normativa relacionada.
+• Ciberseguridade na nube: conceptos básicos, configuración segura de infraestrutura e
+servizos na nube, ferramentas e servizos de ciberseguridade na nube, normativa relacio-
+nada.
+• Ameaza cuántica.
+• Ciberseguridade industrial.
+Terceira. Número de prazas
+Setenta (70).
+Cuarta. Persoas destinatarias
+O curso está dirixido ao persoal empregado público con perfís TIC (pertencente a esca-
+las de sistemas e tecnoloxías da información ou que realice funcións TIC) en situación de
+activo ou asimilada, da Administración autonómica e entidades públicas instrumentais e da
+Administración institucional, que se encadren nalgunha das seguintes categorías:
+• Grupo A (subgrupos A1 e A2) do persoal funcionario.
+• Grupos I e II do persoal laboral.
+No caso de non cubrir a totalidade das prazas convocadas, ás vacantes que resulten
+poderá acceder o persoal empregado público das ditas categorías, en situación de servizo
+activo ou asimilada, da Administración local, das universidades do Sistema universitario de
+Galicia e da Administración de xustiza.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54234
+No caso de non cubrir a totalidade das prazas convocadas nos ámbitos e categorías an-
+teriores, ás vacantes que resulten poderá acceder o persoal empregado público, en situa-
+ción de servizo activo ou asimilada, do subgrupo C1 do persoal funcionario ou grupo III do
+persoal laboral que realice funcións TIC, mantendo os mesmos criterios de preferencia en
+canto aos ámbitos (primeiro Administración autonómica e entidades públicas instrumentais
+e da Administración institucional e logo o resto).
+O persoal empregado público da Administración local e das universidades do Sistema
+universitario de Galicia deberá achegar documentación acreditativa unha vez formalizada
+a súa inscrición e antes de que finalice o prazo de matrícula, tal como se indica na base
+sexta, punto 6, desta resolución.
+Recoméndase que o alumnado participante conte con coñecementos previos sobre a
+materia para poder aproveitar mellor o curso.
+Quinta. Desenvolvemento
+1. Duración: 111 horas lectivas, distribuídas da seguinte forma:
+• 6 horas presenciais, que se desenvolverán nas sesións inaugural e final do curso.
+• 39 horas de telepresenza.
+• 65 horas de teleformación.
+• 1 hora de exame final en liña.
+2. Modalidade e datas: o curso desenvolverase desde o 9 de novembro de 2026 ata o
+21 de decembro de 2026.
+A modalidade de impartición do curso será mixta, con sesións presenciais, de telepre-
+senza e de teleformación.
+A xornada inaugural será presencial, na EGAP, o luns 9 de novembro, en horario de tarde.
+As clases de telepresenza desenvolveranse dous ou tres días cada semana, a través da
+aula virtual da EGAP ((https://egap.xunta.gal/aulavirtual/). Datas previstas para as sesións
+de telepresenza: 11, 16, 18, 23, 25, 26 e 30 de novembro; 1, 2, 9, 10, 14 e 15 de decembro
+de 2026. Horario: de tarde, das 16.00 ás 19.00 horas.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54235
+O exame final será en liña, tamén a través da aula virtual da EGAP, o luns 21 de decem-
+bro de 2026, ás 16.30 horas.
+3. Lugar de desenvolvemento e acceso ás sesións:
+a) Clases presenciais:
+– A sesión inaugural desenvolverase o día 9 de novembro de 2026, das 16.30 ás
+19.30 horas, na Escola Galega de Administración Pública (EGAP), rúa Madrid, 2-4, Santia-
+go de Compostela.
+– A sesión final do curso será o día 16 de decembro de 2026, das 9.30 ás 12.30 horas,
+na sede dos laboratorios de ciberseguridade da Xunta de Galicia situados na Cidade da
+Cultura de Santiago de Compostela.
+b) O acceso ás sesións de telepresenza realizarase a través da aula virtual da EGAP
+(https://egap.xunta.gal/aulavirtual/).
+O funcionamento básico da plataforma de telepresenza require que cada alumno/a dis-
+poña dos seguintes compoñentes:
+• Ordenador de sobremesa, portátil ou smartphone.
+• Conexión estable a internet.
+• Navegador web Google Chrome ou Mozilla Firefox nas últimas versións.
+• Altofalantes (se o monitor ou equipo non dispón deles).
+Para o uso da ferramenta de telepresenza o alumnado contará cun manual de telepre-
+senza na propia aula virtual do curso e tamén dispoñible na web da EGAP (https://egap.
+xunta.gal/Documentos/recursos/[1742372613]Manual_TELEPRESENZA_v25_gl.pdf) o
+que se indica como acceder á plataforma de telepresenza e se describen os compoñentes
+que o equipamento necesita para un funcionamento básico da plataforma.
+c) O acceso á teleformación realizarase igualmente a través da aula virtual do curso, da
+aula virtual da EGAP, aínda que o alumnado será redirixido á plataforma de teleformación
+do Centro Criptolóxico Nacional (CCN), desde a que visualizarán os contidos.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54236
+Sexta. Inscrición
+1. As solicitudes de participación nesta actividade formativa só poderán realizarse me-
+diante o formulario de matrícula telemática dispoñible no enderezo <https://egap.xunta.gal/
+matricula>. As solicitudes entenderanse presentadas unha vez que se complete correcta-
+mente o proceso de matriculación.
+2. Antes de formalizar a súa inscrición nesta actividade, todas as persoas deben introdu-
+cir ou actualizar os datos da súa área de matrícula, de acordo coas persoas destinatarias
+e criterios de selección establecidos nas bases cuarta e oitava, respectivamente, desta
+convocatoria.
+3. As persoas que oculten ou falseen datos esenciais para a selección serán automati-
+camente excluídas da actividade solicitada e pasarán ao final das listaxes de todas as acti-
+vidades formativas que soliciten e cuxo prazo de matrícula comece dentro do ano seguinte
+contado desde que se detecte o feito.
+4. As persoas interesadas deberán seleccionar primeiro a área na que está integrada
+esta actividade (Administración electrónica, protección de datos e calidade administrativa)
+e, despois, seleccionar en «nome do curso»: Curso superior de implantación da cibersegu-
+ridade nas administracións públicas.
+5. O prazo para a inscrición permanecerá aberto desde as 9.00 horas do primeiro día
+hábil seguinte á publicación desta resolución no Diario Oficial de Galicia ata as 23.59 horas
+do día 3 de novembro de 2026.
+6. Antes de que finalice o prazo de inscrición o persoal empregado público da Adminis-
+tración local e das universidades do Sistema universitario de Galicia deberán achegar ao
+correo electrónico novas.egap@xunta.gal a documentación acreditativa do grupo e ca-
+tegoría indicados na base cuarta: cabeceira de nómina, toma de posesión ou certificado
+asinado por quen corresponda; de non entenderse implícitas ao posto, deberá acreditarse
+tamén na devandita documentación, o desenvolvemento das funcións TIC indicadas na
+base cuarta. Serán excluídas as solicitudes das persoas solicitantes da citadas administra-
+cións que non achegasen en prazo a documentación requirida.
+Poderá obterse calquera outra información a través do correo electrónico novas.
+egap@xunta.gal ou, desde as 9.00 horas ata as 14.00 horas, nos teléfonos 981 54 62 39
+e 981 54 62 41.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54237
+Sétima. Protección de datos persoais e comprobación de datos
+1. Os datos persoais proporcionados polas persoas interesadas para a xestión das
+solicitudes de participación na acción formativa convocada a través desta resolución, así
+como aqueloutros que se recollan ou elaboren con motivo do desenvolvemento desta,
+serán tratados pola EGAP na súa condición de responsable do tratamento, coa finalidade
+de levar a cabo a selección do alumnado, a impartición da formación e a xestión xeral
+desta.
+A lexitimación para o tratamento dos datos é o cumprimento dunha misión realizada en inte-
+rese público conforme o disposto no artigo 6.1. e) do Regulamento xeral de protección de datos
+(RXPD), con base no disposto na Lei 4/1987, do 27 de maio, de creación da Escola Galega de
+Administración Pública e fundamentada nun interese público esencial (artigo 9.2.g) do RXPD).
+Os datos identificativos das persoas seleccionadas para participar na acción formativa mencio-
+nada anteriormente serán publicados conforme o detallado na base novena desta resolución.
+Así mesmo, os datos do alumnado relativos á súa participación nesta acción formativa poderán
+ser comunicados aos órganos da Administración xeral e do sector público autonómico de Ga-
+licia cando sexa estritamente necesario para o exercicio das súas competencias, así como ao
+Centro Criptolóxico Nacional, o indispensable para levar a cabo a teleformación na plataforma
+desa entidade.
+As sesións do curso impartidas na modalidade de telepresenza serán gravadas coa
+finalidade de ofrecer ao alumnado a posibilidade do seu visionado posterior como material
+de estudo, así como para a resolución de posibles reclamacións. En todo caso, o alum-
+nado, se o xulga oportuno, poderá desactivar a súa cámara e/ou micrófono e participar a
+través do chat de acordo coas indicacións do persoal docente. Estas gravacións conserva-
+ranse ao dispor do alumnado e profesorado durante o tempo que dure a acción formativa
+ou, de ser o caso, ata que finalice a avaliación do alumnado. A retransmisión das sesións
+formativas e a gravación destas poderá ser accesible unicamente para o profesorado e
+alumnado a que van dirixidas e ao persoal da EGAP autorizado.
+Prohíbese expresamente a descarga, a difusión, a distribución ou a divulgación das
+gravacións e, particularmente, a súa compartición en redes sociais xa que estes usos
+poden conculcar o dereito á protección de datos, o dereito á propia imaxe e os dereitos
+de propiedade intelectual e poderían xerar responsabilidade disciplinaria, administra-
+tiva ou civil. As gravacións non poderán ser usadas para outros fins fóra do ámbito
+docente.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54238
+As persoas interesadas poderán solicitar ante a persoa responsable do tratamento o
+acceso, rectificación, limitación e supresión dos seus datos, así como opoñerse ao seu tra-
+tamento por motivos relacionados coa súa situación particular, a través da sede electrónica
+da Xunta de Galicia ou nos lugares e rexistros establecidos na normativa reguladora do
+procedemento administrativo común segundo se recolle en https://www.xunta.gal/exerci-
+cio-de-dereitos?langId=gl_ES. Contacto delegado/a de protección de datos e información
+adicional en https://www.xunta.gal/informacion-xeral-proteccion-datos?langId=gl_ES
+2. Conforme o disposto no artigo 28.2 da Lei 39/2015, do 1 de outubro, do procedemento
+administrativo común das administracións públicas, para a tramitación do procedemento de
+selección consultaranse automaticamente os datos das persoas solicitantes desta acción
+formativa, necesarios para realizar o proceso de selección, salvo que a persoa interesada se
+opuxese a iso.
+3. No caso de que as persoas interesadas se opoñan a esta consulta, deberán indicalo
+expresamente, incluír os motivos de oposición relacionados coa súa situación particular e
+enviar, ademais, os documentos a cuxa consulta se opoñen, que indiquen a súa situación
+administrativa, tipo de persoal e antigüidade na Administración a través do seguinte ende-
+rezo electrónico: novas.egap@xunta.gal
+4. Excepcionalmente, no caso de que algunha circunstancia imposibilite a obtención dos
+citados datos, poderase solicitar ás persoas interesadas a presentación dos documentos
+correspondentes.
+Oitava. Criterios de admisión e selección
+A admisión levarase a cabo de acordo cos criterios indicados na base cuarta desta
+convocatoria respecto das persoas destinatarias da actividade. A orde de selección virá
+determinada pola preferencia de colectivos destinatarios e, dentro de cada colectivo, pola
+data e a hora de inscrición.
+Novena. Publicación das listaxes de persoas seleccionadas, en reserva e excluídas
+A EGAP publicará no enderezo web https://egap.xunta.gal as listaxes das persoas se-
+leccionadas, en reserva, no caso de que o número de solicitudes sexa superior ao número
+de prazas e, de ser o caso, as persoas excluídas, de acordo co disposto no artigo 45.1.b)
+da Lei 39/2015, do 1 de outubro, do procedemento administrativo común das administra-
+cións públicas (BOE núm. 236, do 2 de outubro).
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54239
+Décima. Cambios ou substitucións na selección. Renuncia. Asistencia. Seguimento
+1. En ningún caso serán admitidos cambios ou substitucións entre as persoas seleccio-
+nadas.
+2. Renuncia:
+a) As persoas seleccionadas poderán renunciar á actividade formativa. A renuncia debe
+ser comunicada á EGAP o máis axiña posible e, en todo caso e como máximo, o día 6
+de novembro de 2026, ata as 11.00 horas, por correo electrónico dirixido a novas.egap@
+xunta.gal, sen prexuízo do disposto no artigo 16.4 da Lei 39/2015, do 1 de outubro, do
+procedemento administrativo común das administracións públicas (BOE núm. 236, do 2 de
+outubro). Na páxina web da Escola estará dispoñible un modelo de renuncia.
+b) As persoas que incumpran o prazo previsto pasarán ao final das listaxes de espera de
+todas as actividades formativas que soliciten e cuxo prazo de matrícula comece dentro do
+ano seguinte, contado a partir do día da finalización desta actividade, agás que a renuncia
+teña algunha das seguintes causas:
+– Por causa de forza maior suficientemente acreditada.
+– Por necesidades do servizo debidamente motivadas por parte das persoas responsa-
+bles dos centros directivos.
+– Por razóns de conciliación familiar.
+– Por outras causas xustificadas documentalmente.
+3. Asistencia, seguimento, puntualidade.
+a) É obrigatoria a asistencia ás sesións presenciais e o seguimento das sesións telepre-
+senciais desta actividade formativa con puntualidade.
+b) Durante a actividade formativa realizaranse controis de asistencia, seguimento e pun-
+tualidade.
+c) As faltas de asistencia nas actividades presenciais e de seguimento nas telepresen-
+ciais:
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54240
+c.1. Non poden superar en ningún caso o 10 % das horas lectivas presenciais e telepre-
+senciais. En todo caso, todas as faltas de asistencia e seguimento deberán xustificarse do-
+cumentalmente ante as persoas responsables da actividade formativa nun prazo máximo
+de 10 días, contados a partir do día da finalización da sesión a que se faltase. As persoas
+que incumpran o especificado anteriormente perderán o dereito a realizar a proba final de
+avaliación e á obtención do certificado na actividade formativa.
+c.2. Aquelas persoas cuxas faltas de asistencia e seguimento superen o 50 % das horas
+lectivas pasarán ao final das listaxes de agarda de todas as actividades formativas que
+soliciten e cuxo prazo de matrícula comece dentro do ano seguinte, contado a partir do día
+da finalización desta actividade.
+4. Actividades de teleformación:
+As persoas que non completen o 50 % das actividades e tarefas de teleformación pro-
+postas pola titoría perderán o dereito á realizar a proba final de avaliación e pasarán ao
+final das listaxes de agarda de todas as actividades formativas que soliciten e cuxo prazo
+de matrícula comece dentro do ano seguinte contado a partir do día da finalización desta
+actividade.
+Undécima. Certificado oficial
+Para superar esta actividade é necesario cumprir na súa totalidade unha serie de requi-
+sitos:
+– Ter completada a asistencia e o seguimento mínimo requirido nas sesións presenciais
+e telepresenciais.
+– Ter feitas e superadas nos prazos estipulados todas as actividades e tarefas propostas
+pola titoría na modalidade de teleformación para ter dereito a facer a proba final de avalia-
+ción en liña.
+– Superar a proba final de avaliación.
+Ao final desta actividade, o titor responsable do curso emitirá un informe coa listaxe do
+alumnado apto desta actividade. A todas as persoas que teñan superado o curso emitirá-
+selles un certificado electrónico de aproveitamento, descargable desde a área de matrícula
+(https://egap.xunta.gal/matricula). Este documento estará asinado electronicamente pola
+EGAP e incluirá, de forma expresa, o contido, a carga lectiva, as modalidades de imparti-
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54241
+ción, as datas, forma e lugar de desenvolvemento do curso, así como un código de verifi-
+cación electrónica (CVE) para contrastar a súa autenticidade.
+Duodécima. Facultades da EGAP e da Amtega
+1. A EGAP e a Amtega reservan para si a facultade de interpretar e de resolver as inci-
+dencias que poidan xurdir no desenvolvemento deste curso, así como a facultade de can-
+celalo se o escaso número de solicitudes non xustifica a súa realización; nese caso, empre-
+garanse os medios de notificación ás persoas interesadas previstos na normativa vixente.
+2. A EGAP e a Amtega garantirán na acción derivada desta convocatoria a promoción
+da igualdade real e efectiva entre mulleres e homes, a eliminación de calquera tipo de dis-
+criminación e o fomento dos dereitos de conciliación.
+Santiago de Compostela, 22 de outubro de 2026
+Sonia Rodríguez-Campos González
+Directora da Escola Galega de Administración Pública
+ANEXO I
+Contidos do curso
+Sesión presencial:
+• Inauguración do curso.
+• Ciberseguridade nas administracións públicas.
+• Clase maxistral.
+• Explicación operativa do curso.
+Teleformación:
+• Riscos na cadea de subministración.
+• Auditoría do ENS.
+• Xestión de incidentes de seguridade.
+• Ciberintelixencia e fontes abertas.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54242
+Módulo de telepresenza:
+• Conceptos básicos sobre intelixencia artificial. Introdución á IA desde a perspectiva da
+ciberseguridade.
+• Ameazas contra sistemas da IA e como protexelos. IA como ciberameaza. Ciberse-
+guridade baseada en IA. CCN: Guía de boas prácticas fronte ao modelo de IA ofensiva
+(CCN-CERTBP/36).
+• Desenvolvemento seguro de aplicacións utilizando IA.
+• Introdución xeral á nube.
+• Introdución á ciberseguridade na nube: arquitecturas cloud seguras, protección de
+datos e cumprimento, operación y resposta en cloud.
+• Configuración segura da infraestrutura e servizos na nube.
+• Configuración segura da infraestrutura e servizos na nube.
+• Ferramentas e servizos de ciberseguridade na nube.
+• Normativa relacionada coa IA, nube, cuántica.
+• Ciberseguridade industrial (OT e IIOT).
+• Informe CCN-TEC 009/ BP37 Recomendacións para unha transición PQC segura.
+• Laboratorio de ciberseguridade en produtos con elementos dixitais da Xunta de Galicia.
+• Laboratorio de ciberseguridade industrial da Xunta de Galicia.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+00q15hkmei72-9x13-1i9a-2sdy-5i0dgkry
+:GOD-EVC

@@ -1,0 +1,78 @@
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54271
+III. OUTRAS DISPOSICIÓNS
+UNIVERSIDADE DE VIGO
+RESOLUCIÓN do 16 de outubro de 2026 pola que se publica o plan de estudos
+do máster universitario en Vehículos Autónomos.
+Obtida a verificación do plan de estudos polo Consello de Universidades, logo de infor-
+me favorable da Axencia para a Calidade do Sistema Universitario de Galicia, así como a
+autorización da Comunidade Autónoma de Galicia, e establecido o carácter oficial do título
+por acordo do Consello de Ministros do 15 de setembro de 2026 (publicado no Boletín
+Oficial del Estado do 22 de setembro de 2026 pola Resolución da Secretaría Xeral de Uni-
+versidades do 16 de setembro).
+Este reitorado, de conformidade co disposto no artigo 8.3 da Lei orgánica 2/2023, do
+sistema universitario, resolve publicar o plan de estudos conducente á obtención do título
+oficial de máster universitario en Vehículos Autónomos pola Universidade da Coruña, a
+Universidade de Santiago de Compostela e a Universidade de Vigo.
+Vigo, 16 de outubro de 2026
+María Carmen García Mateo
+Reitora da Universidade de Vigo
+ANEXO
+Máster universitario en Vehículos Autónomos
+Código RUCT: 3501186.
+Rama de coñecemento: Enxeñaría e Arquitectura.
+Universidades participantes: Universidade da Coruña, Universidade de Santiago de Com-
+postela e Universidade de Vigo.
+Cadro 1. Distribución de créditos ECTS segundo o tipo de materia.
+Tipo de materia Créditos ECTS
+Obrigatorias 45
+Optativas 27
+Prácticas externas 6
+Traballo fin de máster 12
+Créditos totais 90
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+9shuvpvryea0-2djs-0ayv-6skk-5mgj43mf
+:GOD-EVC
+
+DOG Núm. 207 Xoves, 29 de outubro de 2026 Páx. 54272
+Cadro 2. Contido do plan de estudos.
+Materia ECTS Carácter Módulos
+Arquitecturas de Control de Vehículos Autónomos 6 OB
+Visión Artificial e a súa Aplicación a Vehículos
+6 OB
+Autónomos
+Percepción e Fusión Sensorial 6 OB
+Comunicacións 6 OB
+Obrigatorio
+Sistemas Embebidos 6 OB
+Mapeado e Localización 6 OB
+Planificación, Navegación e Control 6 OB
+Emprendemento e Innovación 3 OB
+Enxeñaría de Vehículos Terrestres 6 OP
+Robótica Móbil 6 OP
+I Materias optativas
+Modelado e Simulación de Vehículos Terrestres 6 OP especialidade vehículos
+terrestres
+Control de Vehículos Terrestres 6 OP
+Regulamentación e Homologación 3 OP
+Dinámica de Voo 6 OP
+Robótica Aérea 6 OP
+II Materias optativas
+Sistemas de Observación 6 OP especialidade vehículos
+aéreos
+Guiado, Navegación e Control 6 OP
+Operacións e Lexislación 3 OP
+Enxeñaría de Vehículos Mariños 6 OP
+Modelaxe e Simulación de Vehículos Mariños 6 OP
+III Materias optativas
+Sensorización e Comunicación Submarina 6 OP especialidade vehículos
+mariños
+Control de Vehículos Mariños 6 OP
+Estratexias para Operacións Mariñas 3 OP
+Prácticas externas 6 PE Prácticas externas
+Traballo fin de máster 12 TFM Traballo fin de máster
+Para a obtención do título de máster universitario en Vehículos Autónomos pola Univer-
+sidade da Coruña, a Universidade de Santiago de Compostela e a Universidade de Vigo, o
+alumnado deberá superar os 90 créditos ECTS dos que consta o máster.
+ISSN1130-9229 Depósito legal C.494-1998 https://www.xunta.gal/diario-oficial-galicia
+9shuvpvryea0-2djs-0ayv-6skk-5mgj43mf
+:GOD-EVC

@@ -1,0 +1,684 @@
+AÑO XLV Núm. 208 29 de octubre de 2026 38120
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto denominado: Línea subterránea de media tensión
+y centro de transformación en caseta prefabricada (S478/2025/TO/00117) en el término municipal de Otero
+(Toledo), cuya promotora es Juan Jiménez García, SAU (Jisap). [2026/7748]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+La actuación pretendida se encuadra en el Anexo II de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, concretamente, en el Grupo 4. Industria energética, Apartado b) Construcción de líneas para la
+transmisión de energía eléctrica (proyectos no incluidos en el anexo I) con un voltaje igual o superior a 15 kV, que
+tengan una longitud superior a 3 km, salvo que discurran íntegramente en subterráneo por suelo urbanizado, así
+como sus subestaciones asociadas.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+El proyecto tiene por objeto la implantación de una nueva Línea Subterránea de Media Tensión (LSMT) a 20 kV
+en simple circuito (S/C) y un Centro de Transformación en caseta prefabricada. La finalidad de esta infraestructura
+eléctrica es dotar de suministro eléctrico a las instalaciones agropecuarias (futuro núcleo porcino aún sin definir) del
+promotor ubicadas en la parcela 10037 del Polígono 3 del término municipal de Otero (Toledo). La titularidad de la
+instalación corresponde a la sociedad Juan Jiménez García, S.A.U. (Jisap).
+La infraestructura se define técnicamente en la documentación aportada mediante los siguientes parámetros:
+- Punto de entronque / Origen: Conexión a la línea aérea de media tensión de 20 kV existente de Iberdrola Distribución
+en la Urbanización Villarroeles (próximo al CT Villarroeles 2, Coordenadas X: 371092, Y: 4431274), mediante la
+instalación de un nuevo apoyo con paso aéreo-subterráneo equipado con seccionadores, autoválvulas de protección
+contra sobretensiones y elementos de protección avifaunística.
+- Final: Instalación de un CT prefabricado de hormigón armado equipado con un transformador de potencia nominal
+de 50 kVA, con foso de recogida de aceite y celdas con reserva para posible ampliación futura, ubicado en el
+Polígono 3, Parcela 10037 del término municipal de Otero (Toledo).
+- Longitudes de línea: La longitud total de la canalización subterránea es de 6.100 metros.
+La obra civil y actuaciones accesorias necesarias se resume en las siguientes operaciones:
+- Excavación de zanjas y canalizaciones: Apertura de zanja a lo largo de los 6.100 metros del trazado con una
+anchura media de 0,60 m y una profundidad de 1,10 m, lo que supone un volumen total de excavación de 2.438
+m³. Las tierras extraídas se reutilizarán en el relleno y apisonado de la zanja (alcanzando una densidad del 95%
+del Proctor Normal), estimándose un volumen sobrante de 1.464 m³ que será transportado a vertedero o gestor
+autorizado.
+- Ejecución del paso aéreo-subterráneo y apoyo de entronque: Instalación de un nuevo apoyo metálico de celosía para
+la transición aéreo-subterránea en el punto de inicio de la línea, equipado con armantes, herrajes, seccionadores,
+autoválvulas, elementos de protección contra la electrocución de avifauna y red equipotencial de puesta a tierra.
+- Construcción del foso y cimentación del CT: Excavación de foso de dimensiones 6,88 x 3,18 m para el alojamiento
+del edificio prefabricado de hormigón compacto (PFU.5/20), sobre cama de arena nivelada y ejecución de las
+correspondientes redes de tierra interior y exterior (anillo difusor con picas).
+- Afección a la vegetación: De acuerdo con la documentación ambiental aportada, no se prevé la realización de talas
+ni desbroces de arbolado al discurrir el trazado en su totalidad por la caja de caminos públicos existentes.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38121
+En su recorrido, la LSMT discurre íntegramente por caminos públicos del término municipal de Otero y genera las
+siguientes afecciones en forma de cruzamientos y paralelismos:
+- Dominio Público Hidráulico y zonas de policía: Cruzamiento subterráneo del Arroyo Marigarcía (en el entorno
+de la Urbanización Villarroeles) y cruzamiento subterráneo del Arroyo Alanchete, ejecutados mediante perforación
+horizontal dirigida / protección de lechos para evitar afecciones sobre los cauces.
+- Infraestructuras Eléctricas: Cruzamiento subterráneo bajo la línea aérea de alta tensión a 400 kV de Red Eléctrica de
+España (REE), manteniendo una distancia de separación superior a 20 metros con respecto al apoyo más próximo.
+- Vías y caminos públicos: Trazado soterrado a lo largo de caminos públicos de titularidad municipal en el término
+de Otero (Toledo).
+En el análisis de alternativas del Documento Ambiental, el promotor plantea y justifica las siguientes opciones
+basándose en criterios de mínima afección ambiental:
+- Alternativa Cero: Es descartada por el promotor por cuanto impediría dotar del suministro eléctrico necesario para
+el desarrollo futuro de las instalaciones agropecuarias proyectadas (núcleo porcino en la parcela 10037 del Polígono
+3 de Otero), limitando la capacidad de desarrollo socioeconómico, la inversión y la generación de dinamismo
+económico en el ámbito rural.
+- Alternativa Seleccionada (Trazado propuesto con perforación horizontal dirigida en puntos sensibles): Consiste en
+el trazado subterráneo de 6.100 metros a lo largo de caminos públicos del término municipal de Otero, incorporando
+la ejecución mediante la técnica de perforación horizontal dirigida en los cruzamientos sobre el Arroyo Marigarcía y
+el Arroyo Alanchete, así como en el paso bajo la línea aérea de alta tensión a 400 kV de REE. El promotor justifica
+técnicamente esta opción por cuanto supone el equilibrio óptimo entre viabilidad técnica, eficiencia económica y
+protección ambiental, al aprovechar viales públicos sin requerir expropiaciones privadas y evitar la apertura de
+zanjas a cielo abierto en los cauces fluviales y zonas de mayor sensibilidad ambiental.
+- Otras alternativas de trazado: Se evaluaron la Alternativa 1 (trazado soterrado mediante zanja convencional a
+cielo abierto en la totalidad del recorrido) y la Alternativa 2 (variante de trazado rodeando los cauces fluviales por
+caminos alternativos para evitar los cruces). La Alternativa 1 fue descartada por su mayor impacto potencial sobre
+los lechos y la vegetación de ribera en los cruzamientos fluviales, mientras que la Alternativa 2 se descartó debido a
+que implicaba un incremento sustancial en la longitud total de la línea, mayor coste económico, superior ocupación
+de terreno y mayor complejidad técnica por zonas de mayor pendiente.
+Segundo. Tramitación y consultas.
+El 29 de enero de 2026, se recibe en el Servicio de Calidad Ambiental de Toledo, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada y el documento ambiental del proyecto, dando cumplimiento al
+artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, así como la copia
+del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de tasas y precios públicos de
+Castilla-La Mancha y otras medidas tributarias.
+Sobre la base de dicha documentación, el 3 junio de 2026 y de acuerdo con el artículo 53 de la citada Ley 2/2020, se
+formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto
+de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los
+siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+Dentro de la Delegación Provincial de Desarrollo Sostenible de Toledo:
+- Servicio de Medio Natural.
+- Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo. DT. Torrijos.
+Otros organismos:
+- Consejería de Desarrollo Sostenible de Toledo. Dirección General de Calidad Ambiental. Servicio de Prevención e
+Impacto Ambiental.
+- Consejería de Agricultura, Ganadería y Desarrollo Rural de Toledo. Delegación Provincial. Servicio de Desarrollo
+Rural y Políticas Ambientales de Toledo.
+- Ayuntamiento de Otero.
+- Consejería de Educación, Cultura y Deportes. Delegación Provincial de Toledo. Servicio de Cultura.
+- Confederación Hidrográfica del Tajo.
+- REE.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38122
+- Ecologistas en Acción.
+- SEO-BirdLife.
+- WWF-España.
+- Acmaden-Ecologistas En Acción
+- Ardeidas.
+- Toledo Aire Limpio.
+- Agrupación Naturalista Esparvel de Toledo.
+Con fecha 31 de julio de 2026, de conformidad con la Ley 1/2024, de 15 de marzo, de Medidas Administrativas
+de Castilla-La Mancha, se notificó requerimiento específico al Ayuntamiento de Otero para la emisión de informe
+sobre compatibilidad urbanística, afección socioeconómica y efectos sinérgicos. Transcurrido el plazo legalmente
+establecido sin haberse recibido alegaciones o manifestación alguna por su parte, se prosigue con la tramitación de
+las actuaciones.
+De conformidad con el artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, con fecha 31 de julio de 2026 se procede a dar traslado de todos estos informes
+recibidos al promotor para su conocimiento y para la presentación de las alegaciones o aclaraciones que estimase
+oportunas. Transcurrido el plazo legalmente establecido sin haberse recibido alegaciones o manifestación alguna
+por su parte, se prosigue con la tramitación de las actuaciones.
+Por otro lado, una vez analizados los informes sectoriales resultado de las consultas previas a los organismos
+consultados se constata que ninguno ha mostrado oposición a la ejecución del proyecto. No obstante, para facilitar
+el seguimiento del condicionado que se detalla en el Apartado Cuarto de esta resolución, se destacan a continuación
+aquellos informes que imponen obligaciones y medidas correctoras específicas al promotor:
+- Delegación Provincial de Educación, Cultura y Deportes de Toledo (Servicio de Cultura): Emite Resolución de
+autorización con fecha de 10 de junio de 2026 (Ref. 261375), condicionada a la realización de un control y supervisión
+arqueológica directa sobre todos los movimientos de terrenos en el tramo de la línea eléctrica que atraviesa el
+ámbito de Protección Arqueológica A.2 Alanchete.
+- Servicio de Medio Natural de Toledo: Emite informe favorable con fecha de 22 de julio de 2026 (Ref. 18731 SMN/
+VS/JPC) en el que se indica que el trazado subterráneo no genera afección significativa sobre espacios protegidos,
+hábitats catalogados ni vías pecuarias, imponiendo como prescripción específica que, en caso de requerirse cualquier
+actuación sobre vegetación natural (corta, desbroce, etc.) en el cruce de la línea con los cauces, se deberá obtener
+autorización previa expresa de dicho Servicio.
+- Confederación Hidrográfica del Tajo: Emite informe sectorial con fecha de 11 de septiembre de 2026 (Ref. EIA-
+0308/2026), señalando las prescripciones técnicas de protección del Dominio Público Hidráulico (DPH) y zonas de
+policía de los cauces atravesados (Arroyo Marigarcía y Arroyo Alanchete), supeditando cualquier actuación u obra
+en dichas zonas a la obtención de la correspondiente autorización previa por parte del organismo de cuenca.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+El promotor deberá adoptar las medidas que se indican a continuación, además de los condicionantes ambientales
+incluidos en el Documento Ambiental presentado, siempre que no se opongan a lo establecido en el presente
+Informe de Impacto Ambiental.
+Se informará a todo el personal implicado en la realización de las obras, del contenido del presente Informe de
+Impacto Ambiental, de manera que se ponga en su conocimiento las medidas que deben adoptarse a la hora de
+realizar los trabajos.
+3.1. Características del proyecto.
+Las características básicas del proyecto se han descrito en el apartado Primero del presente Informe. Básicamente
+consiste en las siguientes instalaciones:
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38123
+- Instalación y trazado: Línea subterránea a 20 kV en simple circuito con una longitud de canalización de 6.100
+metros (conductor HEPRZ1 3x150 mm² entubado) y un Centro de Transformación prefabricado de 50 kVA con una
+ocupación en superficie de unos 14,5 m².
+- Movimiento de tierras: Excavación de 2.438 m³ de tierras a lo largo de zanjas bajo caminos públicos, reutilizándose
+in situ parte del material excavado y requiriendo el retiro a gestor de un volumen sobrante de 1.464 m³.
+- Punto de entronque y apoyo de transición: Conexión a la línea aérea de media tensión a 20 kV existente de Iberdrola
+Distribución en la Urbanización Villarroeles (coordenadas X: 371092, Y: 4431274, junto al CT Villarroeles 2, CÓD.
+432911303). Se instala un nuevo apoyo metálico de celosía para la transición aéreo-subterránea (previo al apoyo
+existente n.º 1905), equipado con seccionador de maniobra, autoválvulas de protección contra sobretensiones,
+puentes de enlace y salvapájaros/elementos de protección de la avifauna contra la electrocución y colisión.
+- Generación de residuos: Estimación de 1.710 kg de residuos no peligrosos de construcción y demolición (RCDs) a
+entregar a gestor autorizado. No se prevé la generación de residuos peligrosos.
+- Acumulación con otros proyectos y uso de recursos: No se aprecian efectos de acumulación o sinergias negativas
+con otros proyectos del entorno al discurrir la línea íntegramente de forma subterránea por viales existentes. El uso
+de recursos naturales (suelo, agua para riego preventivo y materiales) es temporal y limitado a la fase de ejecución.
+3.2. Ubicación del proyecto.
+El proyecto se ubica íntegramente en el término municipal de Otero (Toledo), discurriendo principalmente por la caja
+de caminos públicos agrícolas de titularidad municipal y parcelas rústicas de cultivo de secano pertenecientes a la
+unidad paisajística “Llanos y campañas de Torrijos” (asociación Llanos interiores, tipo de paisaje Llanos de la meseta
+meridional y sus bordes).
+En cuanto a los recursos naturales y la capacidad de carga del medio al proyecto:
+- Dominio público hidráulico y sus márgenes de protección: El informe de la Confederación Hidrográfica del Tajo, de
+fecha de 11 de septiembre de 2026 (Ref. EIA-0308/2026), indica que la actuación planteada en el término municipal
+de Otero se halla en las siguientes zonas protegidas, aguas superficiales y masas de aguas subterráneas:
+Zonas Protegidas (Plan Hidrológico de la Demarcación Hidrográfica del Tajo 2023-2027): La línea discurre sobre
+el área de captación de la zona sensible “Embalse de Cazalegas – ES030ZSENESCM573”, dentro de la zona
+vulnerable a la contaminación por nitratos denominada “Madrid-Talavera-Tiétar – ES030_ZVULES42_5” y sobre
+las zonas de abastecimiento identificadas con los códigos ES030ZCCM0000004430, ES030ZCCM0000004431,
+ES030ZCCM0000004428, ES030ZCCM0000004429 y ES030ZCCM0000004432.
+Aguas superficiales: El trazado de la línea intercepta y discurre próximo a los cauces de dominio público del Arroyo
+Marigarcía (en el entorno de la Urbanización Villarroeles) y del Arroyo Alanchete (así como a regueros secundarios
+estacionales de la cuenca). Respecto al Arroyo Marigarcía, identificado en el Sistema Nacional de Cartografía de
+Zonas Inundables (SNCZI) con el estudio específico ES030_DPH_X-05-53, el proyecto afecta a su Dominio Público
+Hidráulico, a su Zona de Flujo Preferente (ES030_ZFP_X-05-53) y a sus zonas inundables para periodos de retorno
+de 10, 50, 100 y 500 años, no habiéndose identificado ningún Área de Riesgo Potencial Significativo de Inundación
+(Arpsi) en el ámbito de las obras.
+Masas de Aguas Subterráneas: La línea eléctrica discurre sobre la masa de agua subterránea “Talavera -
+ES030MSBT030.015” (unidad hidrogeológica 3.5 Madrid-Talavera).
+- Montes de utilidad pública, vías pecuarias y dominio pecuario y forestal: Según el informe del Servicio de Medio
+Natural de Toledo de fecha de 22 de julio de 2026 (Ref. 18731 SMN/VS/JPC) y la documentación del expediente,
+el proyecto no afecta a Montes de Utilidad Pública (MUP) (encontrándose el MUP más próximo a unos 18 km de
+distancia). Con respecto a las Vías Pecuarias, el informe confirma que la actuación discurre por la caja de viales
+públicos de titularidad municipal y no genera afección ni ocupación sobre la red de vías pecuarias del término
+municipal de Otero.
+- Áreas protegidas previstas en la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza: El proyecto no afecta
+directamente a Espacios Naturales Protegidos (ENP), Zonas Sensibles ni a espacios de la Red Natura 2000 (ZEPA
+o ZEC/LIC). El trazado se localiza fuera de cualquier figura de protección ambiental oficial y no afecta a Hábitats
+ni Elementos Geomorfológicos de Protección Especial. Al tratarse de una canalización subterránea ejecutada a lo
+largo de caminos existentes, el Servicio de Medio Natural descarta la existencia de afecciones significativas sobre
+la flora, la fauna catalogada o los recursos naturales protegidos.
+3.3. Características del potencial impacto.
+Es preciso destacar que el potencial impacto ambiental del proyecto se concentrará casi en su totalidad durante
+la fase de construcción (estimada en un plazo de ejecución reducido), teniendo un carácter temporal, puntual y de
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38124
+baja intensidad, asociado a la apertura de la zanja a lo largo de los 6.100 metros de caminos públicos, pequeñas
+emisiones de polvo y ruido por la maquinaria, y perturbaciones locales de suelo y drenaje en los cruzamientos
+de cauces. Una vez soterrada la línea e iniciada la fase de explotación, las afecciones físicas sobre el medio y el
+relieve desaparecen por completo, siendo un impacto fácilmente reversible. Al término de las obras de excavación,
+el promotor se compromete a la total restauración y reposición de los terrenos y viales rústicos afectados, restituya
+e integre el trazado por completo a su estado original.
+Al tratarse de una canalización subterránea en su práctica totalidad, se descarta el riesgo de colisión o electrocución
+de avifauna durante la fase de explotación, constituyendo una medida preventiva eficaz. Asimismo, en el punto de
+entronque con paso aéreo-subterráneo se han previsto dispositivos de protección específicos contra la electrocución
+de aves.
+Asimismo, se destaca el informe de campo de la Unidad de Agentes Medioambientales de la Demarcación de
+Torrijos de fecha 14 de octubre de 2026 (Agente nº 10389) en el que se analiza el trazado de la línea subterránea
+en el término municipal de Otero, constatándose que las obras se encuentran sin iniciar. El informe descarta la
+concurrencia de impactos significativos sobre la flora catalogada o la fauna amenazada del entorno, al discurrir la
+línea de forma íntegramente subterránea y apoyarse sobre plataformas viales ya existentes y transformadas.
+En este informe de los Agentes Medioambientales se describe un tramo inicial asfaltado en la urbanización Los
+Villarroeles y un tramo rústico por caminos municipales de 3-4 metros sin cunetas, condicionando su compatibilidad
+a no interrumpir el tránsito agrícola y a restituir adecuadamente el firme. Asimismo, constata el cruce de dos cauces
+con un desnivel de 3-4 metros respecto al camino: el arroyo Marigarcía (con caudal continuo procedente de la
+EDAR de Santa Olalla) y el arroyo de Alanchete (estacional), señalando que la línea abastecerá a una posible futura
+explotación de porcino reproductor.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor del proyecto en el documento
+ambiental, las cuales se consideran vinculantes con el contenido del presente Informe, y considerando las respuestas
+recibidas a las consultas realizadas, se formulan las siguientes medidas adicionales de protección, tratándose de
+condiciones que deberán incorporarse en la correspondiente autorización emitida por el órgano sustantivo.
+4.1. Protección de los recursos naturales de la zona.
+Teniendo en cuenta la naturaleza de la actuación (instalación completamente soterrada) y que el Servicio de Medio
+Natural descarta la existencia de afecciones relevantes sobre la flora, la fauna catalogada, las vías pecuarias o los
+espacios protegidos de su competencia —siempre que la canalización discurra por la caja de viales existentes sin
+alterar los cauces del Arroyo Marigarcía y del Arroyo Alanchete—, no se establecen medidas correctoras especiales
+para estos factores en la traza subterránea.
+Por tanto, las medidas impuestas en este apartado para la conservación del entorno natural son:
+- Protección de la vegetación en cruzamiento de cauces: De ser necesaria cualquier actuación que afecte a la
+vegetación natural (corta, desbroce, etc.), en particular en los puntos de cruzamiento de la línea con el Arroyo
+Marigarcía y el Arroyo Alanchete, el promotor deberá obtener la autorización previa y expresa del Servicio de Medio
+Natural de Toledo.
+- Zanja y profundidad: La profundidad de enterramiento de la canalización, medida desde la generatriz superior del
+tubo portatubos a la superficie del terreno, será de al menos 1,20 metros en zonas de cultivo y en los cruces de
+caminos rústicos públicos.
+- Protección de avifauna en el apoyo de entronque: El nuevo apoyo metálico a intercalar en la línea aérea preexistente
+para la transición aéreo-subterránea dispondrá de aislamientos de seguridad, autoválvulas y elementos de protección
+/ disipadores de posado contra la electrocución y colisión de avifauna, de conformidad con el Real Decreto 263/2008,
+de 22 de febrero, y el Decreto 5/2010, de 2 de febrero, de Castilla-La Mancha.
+4.2. Protección del sistema hidrológico e hidrogeológico.
+Con el fin de garantizar la integridad del Dominio Público Hidráulico (DPH), las zonas de servidumbre y de policía
+del Arroyo Marigarcía y del Arroyo Alanchete (así como del resto de cauces y regueros de la cuenca), y la calidad de
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38125
+las masas de agua superficiales y subterráneas, se estará a lo dispuesto por la Confederación Hidrográfica del Tajo
+observando estrictamente las siguientes prescripciones técnicas:
+- Autorización preceptiva: Toda actuación que se realice en el Dominio Público Hidráulico (DPH) o en su Zona de
+Policía (banda de 100 metros colindante con el DPH) requerirá contar con la preceptiva autorización previa por parte
+de la Confederación Hidrográfica del Tajo.
+- Márgenes de protección: Se deberá respetar estrictamente la Zona de Servidumbre de 5 metros colindante con
+el DPH (art. 6 del TRLA y art. 7 del RDPH), manteniéndola libre de acopios, obras o instalaciones, y atender a las
+prescripciones legales para actuaciones en la Zona de Policía de 100 metros (art. 9.4 del RDPH).
+- Protección de aguas subterráneas y zonas protegidas: La canalización subterránea asienta sobre la masa de agua
+subterránea “Talavera – ES030MSBT030.015”, así como en la zona vulnerable a la contaminación por nitratos “Madrid-
+Talavera-Tiétar – ES030_ZVULES42_5” y en el área de captación de la zona sensible “ES030ZSENESCM573 –
+Embalse de Cazalegas”. En este sentido, el suelo de las zonas de almacenamiento y acopio temporal de materiales
+de obra, así como las áreas de almacenamiento temporal de residuos, deberá estar debidamente impermeabilizado
+para evitar cualquier riesgo de contaminación por lixiviación o filtración de vertidos accidentales.
+- Tratamiento de la vegetación: Los desbroces en DPH y su zona de policía se realizarán únicamente con medios
+manuales y selectivos desde las márgenes, sin entrada de maquinaria pesada ni alteración de la conformación del
+cauce, quedando expresamente prohibido el uso de herbicidas o sustancias químicas.
+- Gestión de aceites en el Centro de Transformación: El transformador de 50 kVA instalado en el CT prefabricado
+dispondrá de foso / bandeja de recogida de aceite impermeable, dimensionado para albergar la capacidad total
+del líquido dieléctrico en caso de rotura o fuga accidental, evitando la contaminación del suelo, subsuelo y aguas
+subterráneas (utilizando preferentemente éster biodegradable).
+- Gestión de residuos y actividades de riesgo: Se habilitará una zona acondicionada e impermeable para la
+segregación y almacenamiento temporal de residuos antes de su entrega a un gestor autorizado. Queda
+expresamente prohibido realizar cambios de aceite o mantenimiento pesado de la maquinaria a pie de obra; para
+las operaciones de mantenimiento que impliquen riesgo de vertido de fluidos, se establecerán áreas específicas
+debidamente delimitadas e impermeabilizadas, disponiendo en todo momento de materiales absorbentes (sepiolita
+o similar) para la recogida inmediata de cualquier derrame accidental.
+- Prevención de arrastres y vertidos: Para evitar el arrastre pluvial de los materiales removidos durante las
+excavaciones de las zanjas y el consiguiente aporte de sólidos y aumento de la turbidez en los arroyos de la zona,
+se colocarán barreras móviles de retención de sedimentos en los puntos críticos de escorrentía.
+- Prohibición de vertidos no autorizados: Queda estrictamente prohibido el vertido directo o indirecto de aguas
+residuales, restos de hormigonado o productos de desecho al cauce público o al subsuelo.
+- Cruzamientos autorizados sobre el DPH:
+- Cauces afectados y zonificación: Cruzamientos subterráneos del Arroyo Marigarcía y del Arroyo Alanchete.
+Respecto al Arroyo Marigarcía, identificado en el SNCZI con el estudio específico ES030_DPH_X-05-53 (Dominio
+Público Hidráulico) y ES030_ZFP_X-05-53 (Zona de Flujo Preferente), así como con estudios de zonas inundables
+para retornos de 10, 50, 100 y 500 años, las obras de cruzamiento se ejecutarán mediante la técnica de perforación
+horizontal dirigida (PHD), garantizando que los fosos de hinca se ubiquen fuera de la zona de servidumbre de 5
+metros y manteniendo la morfología y capacidad de desagüe de los cauces.
+- Restitución del lecho: Finalizada la instalación entubada, la sección transversal de los cauces atravesados (Arroyo
+Marigarcía y Arroyo Alanchete) se restituirá por completo a su perfil y morfología originales, dejándolos limpios y en
+condiciones normales de desagüe.
+4.3. Protección del suelo y gestión de residuos.
+En este proyecto, el impacto sobre la edafología y el relieve terrestre es de carácter temporal y muy localizado,
+limitándose estrictamente a la fase de construcción por la apertura de zanjas (volumen total de excavación de 2.438
+m³ a lo largo de 6.100 metros). Al tratarse de una canalización subterránea que discurre por la caja de caminos
+públicos agrícolas de titularidad municipal en el término municipal de Otero, no se prevé una ocupación permanente
+del suelo rústico.
+Para minimizar esta afección sobre el suelo y garantizar una correcta gestión de los materiales sobrantes, se
+observarán rigurosamente las siguientes prescripciones técnicas de obligado cumplimiento:
+- Gestión del horizonte edáfico y restauración de zanjas: La tierra vegetal extraída en los tramos rústicos y caminos
+no pavimentados se retirará y acopiará en cordones independientes para emplearse prioritariamente en el relleno
+final y restauración de la traza. Finalizado el relleno y la compactación mecánica de las zanjas (reutilizando in situ
+parte de los materiales excavados y gestionando el volumen sobrante estimado de 1.464 m³ conforme a la normativa
+vigente), se procederá a la restitución del firme de los caminos rústicos afectados dejándolos en su estado original.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38126
+- Descompactación: En las superficies agrícolas o terrenos colindantes que sufran compactación por el paso de
+vehículos o maquinaria de obra, se realizará un laboreo o escarificado superficial de 30-40 cm de profundidad.
+- Gestión de residuos: Los residuos generados durante las obras deberán gestionarse conforme a lo dispuesto en
+la Ley 7/2022, de 8 de abril, de Residuos y suelos contaminados para una economía circular. Se procederá a su
+separación en origen y entrega a gestores autorizados, prohibiéndose expresamente el vertido en el terreno de
+restos de hormigón o el lavado de cubas fuera de las zonas estancas habilitadas. El promotor del proyecto, o en
+su caso el contratista de las obras, deberá estar inscrito en el Registro de Productores de Residuos de Castilla-La
+Mancha, y suscribir el correspondiente contrato con un gestor autorizado para su posterior gestión. Como medida
+correctora adicional, se realizarán batidas de limpieza de residuos en el área de influencia directa del proyecto.
+Igualmente deberá tener en cuenta, en caso necesario, el Real Decreto 105/2008, de 1 de febrero, por el que se
+regula la producción y gestión de los residuos de construcción y demolición. Los residuos de aparatos eléctricos y
+electrónicos generados durante toda la vida útil de la actividad se gestionarán conforme al Real Decreto 110/2015,
+de 20 de febrero, sobre residuos de aparatos eléctricos y electrónicos.
+- Prevención de vertidos accidentales: El mantenimiento de maquinaria se realizará en áreas impermeabilizadas.
+En caso de fugas accidentales de aceites o combustibles, se actuará de inmediato retirando el suelo afectado hasta
+una profundidad que asegure la ausencia de contaminantes, depositando dichas tierras en contenedores estancos
+para su gestión como residuo peligroso.
+4.4. Protección urbanística e infraestructuras.
+Atendiendo al planeamiento urbanístico vigente del municipio de Otero, el trazado de la línea subterránea de media
+tensión a 20 kV y la ubicación del Centro de Transformación prefabricado discurren principalmente por la caja de
+caminos públicos de titularidad municipal y terrenos clasificados como Suelo Rústico / No Urbanizable.
+Con carácter previo al inicio de las obras, el promotor deberá obtener la correspondiente licencia municipal de obras
+emitida por el Ayuntamiento de Otero. Además, se recuerda que, al ubicarse la actuación mayoritariamente en suelo
+rústico, el promotor deberá dar estricto cumplimiento a las prescripciones de la Orden de 4/2020, de 8 de enero, de la
+Consejería de Fomento, por la que se aprueba la Instrucción Técnica de Planeamiento sobre requisitos sustantivos
+en suelo rústico, así como a las especificaciones del Decreto Legislativo 1/2023, de 28 de febrero (TRLOTAU), y a
+los condicionantes del Decreto 242/2004, de 27 de julio (Reglamento de Suelo Rústico de Castilla-La Mancha), en
+lo referente a las instalaciones de distribución energética.
+En lo referente a Infraestructuras y dominio público, el proyecto interactúa con los siguientes elementos:
+- Vías Pecuarias y Montes de Utilidad Pública: De conformidad con el informe oficial emitido por el Servicio de Medio
+Natural de Toledo, el proyecto discurre por la caja de caminos públicos de titularidad municipal y no genera afección
+ni ocupación sobre la red de Vías Pecuarias ni sobre Montes de Utilidad Pública del término municipal de Otero, por
+lo que no se requiere la tramitación de concesión u ocupación temporal pecuaria.
+- Línea Aérea de Alta Tensión a 400 kV de Red Eléctrica de España (REE): En su recorrido subterráneo, la línea cruza
+el pasillo de la línea aérea de alta tensión a 400 kV de REE. Las obras de cruzamiento mantendrán una distancia de
+separación física superior a 20 metros con respecto al apoyo más próximo de dicha línea aérea y deberán ejecutarse
+coordinadamente con la compañía titular (Red Eléctrica de España), dando estricto cumplimiento a las distancias
+reglamentarias de seguridad y a las prescripciones fijadas en el Real Decreto 337/2014, de 9 de mayo (Reglamento
+sobre condiciones técnicas y garantías de seguridad en instalaciones eléctricas de alta tensión).
+- Red de viales y caminos públicos municipales: Toda la traza soterrada discurre a lo largo de los viales y caminos
+agrícolas públicos de Otero. Durante la fase de excavación y tendido, el promotor deberá coordinar los trabajos con
+el Ayuntamiento de Otero para garantizar la seguridad vial y el libre tránsito del tráfico agrícola y vecinal, quedando
+obligado a la restitución íntegra de los firmes y caminos afectados a su estado original.
+Se recuerda que cualquier modificación relacionada con el trazado o las características técnicas del proyecto siempre
+deberá ser comunicada al Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de
+Toledo.
+4.5. Protección a la atmósfera, calidad del aire y prevención del ruido.
+La actividad no se encuentra en el catálogo de actividades potencialmente contaminadoras de la atmósfera,
+publicado en el Real Decreto 100/2011, de 28 de enero. No obstante, para garantizar la calidad del aire y minimizar
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38127
+la contaminación acústica durante la ejecución de los trabajos, se observarán las siguientes medidas de obligado
+cumplimiento:
+- Calidad del Aire: A fin de minimizar la producción y dispersión de polvo y partículas en suspensión, se cumplirá lo
+dispuesto en la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera. Durante la fase de
+construcción, se prohibirá circular a una velocidad superior a 20 km/h en viales y caminos rústicos no asfaltados, se
+regarán periódicamente los caminos mediante camiones cisterna en periodos secos, y los vehículos que transporten
+materiales pulverulentos (tierras de excavación, arenas) deberán llevar la carga debidamente cubierta con lonas
+estancas.
+- Emisiones y Maquinaria: Toda la maquinaria y vehículos de obra deberán contar con las Inspecciones Técnicas
+de Vehículos (ITV) y revisiones reglamentarias en vigor, con especial atención al control de emisiones de gases de
+combustión y niveles sonoros. Se realizarán revisiones periódicas de escapes, rodamientos y engranajes, registrando
+dichas actuaciones en fichas de mantenimiento para minimizar vibraciones y ruidos innecesarios.
+- Prevención del Ruido: Los niveles de emisión sonora durante la fase de obras deberán cumplir estrictamente
+lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, sus reglamentos de desarrollo y la normativa
+y ordenanzas municipales de Otero. Se realizarán mediciones y revisiones rutinarias para asegurar que no se
+superan los umbrales sonoros permitidos, aplicando medidas preventivas para minimizar el impacto acústico de la
+maquinaria sobre el entorno. En general, se procederá a la revisión y control periódico de los escapes, rodamientos,
+engranajes y mecanismos de la maquinaria, registrando todas las revisiones en fichas de mantenimiento y limitando
+las actividades generadoras de ruido al horario laboral diurno.
+La actividad también deberá ajustarse a la regulación que a tal efecto establezca la normativa municipal de Otero
+en sus ordenanzas.
+4.6. Protección del paisaje.
+Dada la tipología del proyecto, consistente en una línea eléctrica de media tensión proyectada de forma subterránea
+en su práctica totalidad, la actuación no generará impactos visuales permanentes significativos sobre la unidad
+paisajística “Llanos y campañas de Torrijos” (asociación Llanos interiores). El soterramiento bajo la caja de caminos
+públicos de Otero constituye la principal medida de prevención ambiental.
+No obstante, para garantizar la rápida recuperación visual de la zona tras la fase de obras, se imponen las siguientes
+condiciones:
+- Instalaciones provisionales: Las casetas y acopios temporales se situarán en zonas de baja visibilidad y con
+colores poco llamativos o integrados en el entorno rústico.
+- Restauración visual de la traza: Tras la finalización de las zanjas y de los cruzamientos de los cauces públicos
+(especialmente en el Arroyo Marigarcía y en el Arroyo Alanchete), los terrenos afectados deberán ser inmediatamente
+nivelados y perfilados conforme a la topografía original de la zona. El material de relleno de las canalizaciones en
+ningún caso podrá sobresalir del terreno natural ni alterar el perfil de las cunetas o los taludes de los arroyos.
+- Limpieza y retirada de acopios: Al concluir los trabajos, el promotor vendrá obligado a retirar del área de influencia de
+la traza cualquier caseta provisional, acopio de materiales o maquinaria de obra. Queda expresamente prohibido el
+depósito definitivo o abandono de tierras sobrantes, escombros o inertes en las zonas de servidumbre de los cauces
+o en los caminos públicos, debiendo quedar el entorno visualmente limpio. Se realizarán limpiezas exhaustivas para
+retirar restos menores y residuos de obra (plásticos, embalajes, latas, etc.).
+4.7. Patrimonio cultural.
+De acuerdo con la Resolución de la Delegación Provincial de Educación, Cultura y Deportes de Toledo, el proyecto
+ha sido considerado como autorizable desde el punto de vista de la protección del patrimonio histórico, arqueológico
+y paleontológico.
+Dado que el trazado de la línea eléctrica subterránea atraviesa el ámbito de Protección Arqueológica A.2 Alanchete,
+recogido en el Documento de Protección del Patrimonio Cultural del municipio de Otero, el promotor queda obligado
+al estricto cumplimiento de las siguientes disposiciones y medidas cautelares:
+- Control y supervisión arqueológica directa: Se deberá realizar un control y seguimiento arqueológico directo de
+todos los movimientos de terrenos generados por la obra en el tramo de la línea eléctrica subterránea que atraviesa
+el ámbito de Protección Arqueológica A.2 Alanchete. Estos trabajos deberán ser dirigidos por un arqueólogo
+expresamente autorizado, garantizando la conservación in situ y la debida documentación (informes, memorias
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38128
+y fichas de Carta Arqueológica) de los bienes inmuebles o muebles que pudieran aflorar. Para ello, el promotor
+deberá presentar previamente ante la Delegación Provincial la correspondiente solicitud de autorización de trabajos
+arqueológicos y el proyecto arqueológico de actuación, conforme al artículo 48 de la Ley 4/2013, de 16 de mayo, de
+Patrimonio Cultural de Castilla-La Mancha.
+- Condición para la licencia municipal: El Ayuntamiento de Otero no otorgará la licencia de obras hasta que no
+esté garantizada la realización del control arqueológico solicitado y reciba copia de la autorización de trabajos
+arqueológicos concedida por la Delegación Provincial.
+- Modificaciones del trazado: Cualquier modificación o variación posterior del emplazamiento del trazado subterráneo
+o de sus infraestructuras deberá contar preceptivamente con el visado y la autorización expresa previa de la
+Delegación Provincial.
+- Protocolo de hallazgos arqueológicos: En caso de aparición casual de restos materiales con valor cultural
+(arqueológicos o paleontológicos) durante la ejecución de los movimientos de tierras, se actuará conforme al artículo
+52 de la Ley 4/2013, paralizando de inmediato los trabajos en la zona afectada y comunicando el hallazgo en un
+plazo máximo de 48 horas ante la Consejería competente en materia de Patrimonio Cultural, la cual determinará su
+carácter y resolverá las medidas de protección oportunas.
+4.8. Plan de restauración y desmantelamiento.
+Para garantizar la recuperación de la capacidad de uso del suelo y la integración definitiva de los terrenos afectados
+por la traza una vez finalizadas las distintas fases del proyecto, se establecen las siguientes prescripciones de
+obligado cumplimiento:
+Restauración tras la fase de construcción:
+- Informe de Cumplimiento: Una vez finalizadas las obras de soterramiento de la línea y de forma previa al inicio de
+la actividad de suministro (dentro del primer trimestre del año), el promotor elaborará un informe detallado sobre las
+acciones de restauración ejecutadas, que se integrará dentro del Programa de Vigilancia y Seguimiento Ambiental.
+- Alcance del informe: Este documento evaluará el grado de cumplimiento de las medidas y se centrará especialmente
+en:
+La correcta gestión de las tierras (control de desbroces, volumen y estado de los acopios, y almacenamiento
+adecuado de la tierra vegetal).
+La preparación del suelo, descompactación de las zonas afectadas por el paso de maquinaria y el éxito de la
+regeneración de la vegetación natural en los tramos de zanja a cielo abierto y fosas de hinca.
+La ejecución efectiva de todas las Medidas Correctoras y Compensatorias establecidas en la presente resolución.
+- Uso de la tierra vegetal: Toda la capa de tierra fértil extraída y acopiada en cordones durante la fase de excavación
+se empleará prioritariamente para la cubrición, relleno y restauración de las zanjas y áreas degradadas por las obras
+de instalación del cableado.
+Desmantelamiento al finalizar la vida útil: Al cesar la actividad de transporte de energía de forma permanente, se
+procederá al desmantelamiento integral de las infraestructuras de la línea bajo los siguientes criterios:
+- Retirada de infraestructuras: Retirada de infraestructuras: Se retirarán todos los elementos conductores y cables
+de aluminio que formen parte de la línea subterránea. Asimismo, se procederá al desmontaje del apoyo metálico
+de transición aéreo-subterráneo y de la caseta prefabricada del Centro de Transformación de 50 kVA, así como a la
+demolición de sus cimentaciones, dejando la parcela y los viales libres de estructuras emergentes.
+- Gestión de residuos: Los trabajos de extracción de conductores y desmantelamiento de canalizaciones auxiliares
+y celdas que queden en desuso serán ejecutados a través de gestores autorizados atendiendo a la naturaleza de
+cada residuo. Se priorizará la valorización y reutilización de los componentes conductores de metal y plásticos de
+protección siempre que resulte técnicamente viable.
+- Residuos peligrosos: Se extremarán las precauciones de seguridad en la manipulación, recogida y transporte
+de cualquier residuo peligroso generado durante los trabajos de desmontaje del centro de transformación (aceites
+dieléctricos del transformador, celdas de aislamiento en gas SF6, autoválvulas o terminales de cableado), debiendo
+gestionarse con arreglo a la normativa vigente.
+Restauración final y restitución de terrenos:
+- Objetivo de restauración: Los terrenos rústicos y caminos públicos afectados por la traza de la zanja y las
+instalaciones asociadas en el término municipal de Otero se restaurarán y restituirán de forma íntegra a su estado
+genuino previo a la construcción. Se garantizará la plena devolución de los caminos y viales públicos a su uso
+original, reponiendo los firmes removidos y la capa de tierra vegetal conservada.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38129
+- Topografía e Hidrología: Se garantizará que el perfil del terreno tras las obras o la retirada de conductores coincida
+exactamente con la topografía original de la zona, restableciendo fielmente la escorrentía superficial de las aguas
+(especialmente en los cauces del Arroyo Marigarcía y Arroyo Alanchete) y dejando toda la zona de actuación en un
+perfecto estado de limpieza visual y ambiental.
+- Presentación del Plan: El promotor vendrá obligado a presentar un Plan de Desmantelamiento y Restauración
+detallado del trazado subterráneo e instalaciones en superficie con una antelación mínima de tres meses al cese de
+la actividad de la línea.
+- Validación técnica: Dicho plan requerirá la aprobación y el visto bueno expreso del Servicio de Calidad Ambiental
+de la Delegación Provincial de Desarrollo Sostenible de Toledo antes del inicio de cualquier trabajo de desmontaje.
+- Garantía financiera: El plan deberá estar debidamente presupuestado para garantizar el compromiso del promotor
+tanto en las labores físicas de retirada de elementos como en la posterior gestión ambiental de los residuos generados
+durante el desmantelamiento.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De conformidad con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del presente condicionado ambiental, sin perjuicio
+de las competencias de comprobación e inspección que correspondan al órgano ambiental.
+El seguimiento y la vigilancia tendrán por objeto comprobar que la línea subterránea se ejecuta de acuerdo con las
+condiciones establecidas en la documentación aportada por el promotor y en esta resolución, completándose con
+las siguientes especificaciones sectoriales:
+Responsabilidad y Organización:
+- Técnico responsable del seguimiento ambiental en campo: El promotor designará formalmente a un técnico
+responsable del seguimiento ambiental en campo (interno o externo).
+- Modificaciones y Control: De las inspecciones de campo podrán derivarse modificaciones de las medidas previstas
+para mejorar los objetivos ambientales, las cuales requerirán de la autorización conjunta de los órganos sustantivo
+y ambiental.
+- Registro Documental: Todas las actuaciones de control, mediciones, reportajes fotográficos y planos que permitan
+verificar el cumplimiento de este condicionado deberán constar en actas y registros actualizados que estarán
+permanentemente en obra a disposición de la inspección de los Agentes Medioambientales.
+A) Antes de las Obras:
+Replanteo y Jalonamiento: Se realizará el replanteo del trazado de la zanja subterránea y del emplazamiento del
+nuevo apoyo metálico de transición aéreo-subterránea de forma conjunta con la Unidad de Agentes Medioambientales
+de la zona, procediendo al jalonamiento estricto de la banda de trabajo para evitar la afección de terrenos, cultivos
+o vegetación fuera de la zona autorizada.
+Comprobación y Coordinación con Red Eléctrica de España (REE): Con carácter previo a la apertura de la zanja en
+dicho tramo, el técnico responsable del seguimiento ambiental verificará sobre el terreno el replanteo del cruzamiento
+bajo el pasillo de la línea aérea de alta tensión a 400 kV de REE, constatando el mantenimiento de la separación
+física superior a 20 metros con respecto al apoyo metálico más próximo y coordinando los protocolos de seguridad
+con la compañía titular.
+Notificaciones Sectoriales Obligatorias y Condicionantes Previos:
+- Confederación Hidrográfica del Tajo: Se notificará formalmente la fecha de inicio acreditando contar con la
+correspondiente autorización previa de obras en Dominio Público Hidráulico y Zona de Policía otorgada por el
+organismo de cuenca para los cruzamientos subterráneos del Arroyo Marigarcía y del Arroyo Alanchete.
+- Patrimonio Cultural: Se notificará el inicio de las obras a la Delegación Provincial de Educación, Cultura y Deportes
+de Toledo y se acreditará disponer de la autorización previa del proyecto de control y supervisión arqueológica directa
+para los movimientos de tierras en el tramo que atraviesa el ámbito de Protección Arqueológica A.2 Alanchete.
+- Ayuntamiento de Otero: Se acreditará la obtención de la correspondiente licencia municipal de obras emitida por el
+Ayuntamiento de Otero, previa verificación de los condicionantes ambientales y arqueológicos exigidos.
+Seguimiento Ambiental: El promotor notificará formalmente al Servicio de Calidad Ambiental la designación del
+técnico responsable de la supervisión ambiental en campo, indicando su titulación y datos de contacto.
+Verificación de Autorizaciones Pendientes: El técnico responsable del seguimiento ambiental en campo designado
+por la promotora verificará, de forma previa al inicio de cualquier obra civil, que el promotor cuenta con la totalidad
+de los informes sectoriales, autorizaciones de cauce y licencias municipales requeridas, garantizando el estricto
+cumplimiento de sus condicionados técnicos.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38130
+B) Durante la ejecución de las obras:
+- Control de caminos e infraestructuras: Se realizará un control riguroso para evitar cualquier afección no autorizada a
+la caja de los caminos públicos municipales de Otero y a las infraestructuras existentes en el entorno (especialmente
+en el cruzamiento con el pasillo de la línea aérea de alta tensión a 400 kV de REE, manteniendo las distancias de
+seguridad reglamentarias). No se utilizará hormigón visto sobre elementos naturales ni lechos de cauces.
+- Control del movimiento de tierras y excavaciones: Se supervisará que la excavación de las zanjas no supere
+el volumen total de movimiento de tierras autorizado (2.438 m³) y que se respeten las profundidades mínimas
+establecidas (al menos 1,20 m desde la generatriz superior del tubo portatubos a la superficie del terreno en cruces
+de caminos rústicos públicos y terrenos agrícolas). Se controlará la reutilización in situ de los materiales excavados
+y la adecuada gestión del volumen sobrante estimado de 1.464 m³.
+- Control de residuos y no afección al Dominio Público Hidráulico: Se supervisará la separación en origen de
+los Residuos de Construcción y Demolición (RCDs) y se garantizará que no se realice ningún tipo de acopio de
+materiales, maquinaria ni vertido dentro del Dominio Público Hidráulico ni en la Zona de Servidumbre de 5 metros
+del Arroyo Marigarcía y del Arroyo Alanchete.
+- Supervisión Arqueológica en directo: Durante los movimientos de tierras a lo largo del tramo que discurre sobre el
+ámbito de Protección Arqueológica A.2 Alanchete, se supervisará la presencia continua y en directo del arqueólogo
+autorizado para la ejecución del control arqueológico de campo, garantizando la paralización de obras y la aplicación
+del protocolo de hallazgos en caso de aparición de restos culturales.
+C) Tras la finalización de las obras de instalación de la línea subterránea:
+- Restauración y Limpieza: Se comprobará que todos los terrenos afectados por las excavaciones de las zanjas, las
+áreas de acopio y la campa de trabajo del apoyo de transición aéreo-subterránea queden perfectamente nivelados,
+perfilados y restituidos a su topografía original. Se verificará el extendido de la tierra vegetal conservada en tramos
+rústicos, la descompactación del suelo y la adecuada reposición de los firmes en la caja de los caminos públicos
+municipales del término de Otero. Asimismo, se certificará la retirada total de maquinaria, instalaciones temporales
+y residuos de obra, dejando el entorno visualmente limpio.
+- Informe Fin de Obra: El promotor presentará ante el órgano sustantivo y el órgano ambiental, durante el primer
+trimestre del año inmediatamente posterior a la finalización de las obras, un Informe Fin de Obra único. Dicho
+documento transmitirá el resultado del Programa de Vigilancia Ambiental, compilando las tareas de restauración
+ejecutadas, el reportaje fotográfico final de la traza, la gestión realizada con los Residuos de Construcción y
+Demolición (RCDs) y los correspondientes justificantes y albaranes de entrega a gestores autorizados.
+D) A lo largo de toda la vida útil de la actuación (Fase de Explotación), se controlarán los siguientes aspectos:
+- Vigilancia de la traza y asentamientos: Durante el primer año de explotación de la línea, el promotor realizará
+inspecciones semestrales a lo largo de toda la traza para detectar posibles hundimientos del terreno, asentamientos de
+la zanja o procesos erosivos en los caminos públicos municipales de Otero, así como en el entorno de los cruzamientos
+del Arroyo Marigarcía y del Arroyo Alanchete, procediendo de inmediato a su rellenado, nivelación y corrección.
+- Inspección de elementos en superficie: Se verificará periódicamente el correcto estado de conservación del nuevo
+apoyo metálico de transición aéreo-subterráneo, la caseta prefabricada del Centro de Transformación de 50 kVA, la
+señalización de la traza y los elementos de adecuación para avifauna y protección equipotencial en el paso aéreo/
+subterráneo.
+- Registro de Incidencias: Se mantendrá a disposición de la Unidad de Agentes Medioambientales y del personal
+técnico de inspección de la Administración un registro actualizado con los resultados de las revisiones periódicas y
+de cualquier labor de mantenimiento, avería o reparación que requiera la apertura de suelo en la traza subterránea
+o intervenciones en el entorno de los cauces públicos.
+Sexto. Documentación adicional.
+Con carácter previo a la ejecución del proyecto, el promotor deberá solicitar y obtener la preceptiva autorización
+sustantiva y licencia municipal de obras ante el Ayuntamiento de Otero, así como cuantas otras autorizaciones,
+licencias y concesiones resulten de aplicación a tenor de la legislación sectorial vigente.
+El promotor de este proyecto deberá presentar ante el órgano sustantivo y ambiental, preferentemente en formato
+digital, la siguiente documentación:
+A) Antes de la autorización administrativa de construcción del proyecto por parte del órgano sustantivo.
+- Medio Natural: Copia de la Autorización previa por parte del Servicio de Medio Natural - Sección de Conservación
+de esta Delegación Provincial, si procede, en caso de afección o descuaje de vegetación natural, matorral y/o
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38131
+arbolado con motivo de las obras (especialmente en los cruzamientos con los cauces), de acuerdo con la Ley
+3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha.
+- Confederación Hidrográfica del Tajo: Copia de la resolución de autorización previa expedida por la Confederación
+Hidrográfica del Tajo para la ejecución de las obras de cruzamiento subterráneo y actuaciones en Dominio Público
+Hidráulico y Zona de Policía del Arroyo Marigarcía y del Arroyo Alanchete.
+- Patrimonio Cultural: Copia de la resolución de autorización previa del proyecto de control y supervisión arqueológica
+directa emitida por la Delegación Provincial de Educación, Cultura y Deportes de Toledo para los movimientos de
+tierras a ejecutar en el ámbito de Protección Arqueológica A.2 Alanchete.
+- Red Eléctrica de España (REE): Acreditación de la coordinación técnica previa y del cumplimiento de las condiciones
+de seguridad y distancias reglamentarias (resguardo físico superior a 20 metros respecto al apoyo metálico más
+próximo) para el cruzamiento subterráneo bajo el pasillo de la línea aérea de alta tensión a 400 kV, de acuerdo con el
+Real Decreto 337/2014, de 9 de mayo, por el que se aprueba el Reglamento sobre condiciones técnicas y garantías
+de seguridad en instalaciones eléctricas de alta tensión.
+B) Antes del inicio de las obras.
+- Seguimiento Ambiental: Documento de designación formal por parte de la promotora del técnico responsable del
+seguimiento ambiental en campo, aportando su titulación profesional y datos de contacto para la coordinación de las
+inspecciones de obra con los Agentes Medioambientales.
+- Comunicación de inicio y calendario: Comunicación del inicio de los trabajos de la actuación ante el Servicio de
+Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de Toledo con una antelación mínima de 10
+días hábiles, adjuntando el Calendario de ejecución detallado de dichas obras.
+- Residuos y Gestión Ambiental: Copia de la comunicación de inicio de actividad de producción de residuos conforme
+a la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular, junto con copia de los
+contratos formalizados con los gestores autorizados para su correcta retirada y valorización.
+- Notificaciones Sectoriales Obligatorias antes de iniciar cualquier obra:
+- Confederación Hidrográfica del Tajo: Comunicación formal a la CHT de la fecha exacta de inicio de las actuaciones
+en el Dominio Público Hidráulico y Zona de Policía del Arroyo Marigarcía y del Arroyo Alanchete.
+- Patrimonio Cultural: Comunicación previa de la fecha de inicio de las obras ante la Delegación Provincial de
+Educación, Cultura y Deportes de Toledo, acreditando la contratación del arqueólogo autorizado y la puesta en
+marcha del control arqueológico directo en el ámbito de Protección Arqueológica A.2 Alanchete.
+- Plan de Desmantelamiento y Restauración: Presentación del Plan de Desmantelamiento de todas las instalaciones
+(extracción de conductores en la traza subterránea de 6.100 m, desmontaje del apoyo metálico de transición aéreo-
+subterránea y del Centro de Transformación prefabricado de 50 kVA con restitución de cimentaciones) y Restauración
+del medio, debidamente presupuestado y con el compromiso expreso del promotor para su ejecución.
+C) En el primer trimestre del año posterior al inicio de la actividad (únicamente durante el primer año de explotación):
+- Informe de Seguimiento Ambiental (explotación): Presentación de un único informe técnico sobre los controles
+y actuaciones realizadas en aplicación del Plan de Seguimiento y Vigilancia Ambiental durante el primer año de
+funcionamiento de la línea.
+Dicho documento deberá certificar expresamente:
+- La estabilidad de la traza subterránea (6.100 m) y la correcta nivelación de los terrenos sin hundimientos ni
+asentamientos de la zanja en los caminos y viales públicos del término municipal de Otero.
+- El éxito de la restauración del suelo y la restitución de la escorrentía superficial en los puntos de cruzamiento del
+Arroyo Marigarcía y del Arroyo Alanchete.
+- La adecuada reposición y consolidación del firme en los caminos rústicos públicos afectados por la traza.
+- El estado de integración ambiental del entorno del nuevo apoyo metálico de transición aéreo-subterránea y del
+Centro de Transformación prefabricado de 50 kVA.
+D) Tres meses antes del cese del proyecto o de la actividad.
+- Plan de Restauración Integral y Desmantelamiento: Presentación del Plan de Restauración integral y
+desmantelamiento de las instalaciones afectadas (extracción del cableado subterráneo de los 6.100 m de traza,
+desmontaje del apoyo metálico de transición aéreo-subterránea, demolición y retirado del Centro de Transformación
+prefabricado de 50 kVA y restitución de sus cimentaciones), debidamente presupuestado, que garantice la restitución
+del entorno a su estado original previo a la actuación.
+Por otro lado, se recuerda que cualquier modificación relacionada con el trazado o las características técnicas
+de la línea subterránea de media tensión siempre deberá ser comunicada al Servicio de Calidad Ambiental de la
+Delegación Provincial de Desarrollo Sostenible de Toledo.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38132
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 112/2023 de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General De Calidad Ambiental, por la que se delegan competencias en
+materia de evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, y de
+conformidad con el artículo 54 a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+resuelve que el proyecto denominado línea subterránea de media tensión y centro de transformación en caseta
+prefabricada» (S478/2025/TO/00117) en el término municipal de Otero (Toledo), cuyo promotor es Juan Jimenez
+Garcia, S.A.U. (JISAP), no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse
+que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales y de
+seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Además, se incluye un anexo cartográfico con la situación del proyecto para su localización por parte del público y
+del personal responsable del seguimiento.
+Toledo, 22 de octubre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38133
+ANEXO CARTOGRAFICO
+S478/2025/TO/00117
+ANEXO II
+LSMT 20 KV DE 6.100M Y CENTRO DE TRANSFORMATION A BAJA TENSION 420V
+OTERO (TOLEDO)
+SUSTANTIVO: AYUNTAMIENTO DE OTERO
+Figura 1. Ubicación general de la actuación.
+
+AÑO XLV Núm. 208 29 de octubre de 2026 38134
+Figura 2. Detalle del trazado todo por caminos. Arroyos y LAAT interceptados.
