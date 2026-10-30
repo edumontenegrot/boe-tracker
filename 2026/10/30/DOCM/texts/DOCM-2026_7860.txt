@@ -1,0 +1,622 @@
+AÑO XLV Núm. 209 30 de octubre de 2026 38760
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Bienestar Social
+Resolución de 27/10/2026, de la Dirección General de Discapacidad, por la que se convocan, para el año
+2027, las subvenciones a entidades privadas de iniciativa social para el mantenimiento de centros, servicios
+y desarrollo de programas destinados a la atención de las personas con discapacidad en Castilla-La Mancha.
+Extracto BDNS (Identif.): 938377. [2026/7860]
+Extracto de la Resolución de 27/10/2026, de la Dirección General de Discapacidad, por la que se convocan, para el
+año 2027, las subvenciones a entidades privadas de iniciativa social para el mantenimiento de centros, servicios y
+desarrollo de programas destinados a la atención de las personas con discapacidad en Castilla-La Mancha.
+BDNS (Identif.): 938377
+De conformidad con lo previsto en los artículos 17.3.b y 20.8.a de la Ley 38/2003, de 17 de noviembre, General de
+Subvenciones, se publica el extracto de la convocatoria cuyo texto completo puede consultarse en la Base de Datos
+Nacional de Subvenciones (https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/938377)
+Primero. Entidades beneficiarias.
+Podrán concurrir a la presente convocatoria de subvenciones las entidades privadas de iniciativa social que cumplan
+los requisitos establecidos en el artículo 4 de la Orden 100/2024, de 13 de junio, de la Consejería de Bienestar
+Social, y en esta convocatoria.
+Segundo. Objeto.
+La presente resolución tiene por objeto convocar, para el año 2027, en régimen de concurrencia competitiva, las
+subvenciones destinadas a entidades privadas de iniciativa social para el mantenimiento de centros y servicios,
+así como para el desarrollo de programas dirigidos a la atención, capacitación e inclusión de las personas con
+discapacidad en Castilla-La Mancha.
+Tercero. Bases reguladoras.
+Orden 100/2024, de 13 de junio, de la Consejería de Bienestar Social, por la que se establecen las bases reguladoras
+de las subvenciones a entidades privadas de iniciativa social para el mantenimiento de centros, servicios y desarrollo
+de programas destinados a la atención de las personas con discapacidad en Castilla-La Mancha (DOCM núm. 119,
+de 21 de junio de 2024).
+Cuarto. Financiación.
+1. Las subvenciones objeto de esta convocatoria se financiarán con cargo a los Presupuestos Generales de la Junta
+de Comunidades de Castilla-La Mancha para el ejercicio 2027, y con cargo al Programa FSE+ Castilla-La Mancha
+2021-2027, a través de la Prioridad 2 “Inclusión Social y lucha contra la pobreza”, Objetivo Específico h).
+La cuantía máxima estimada destinada a esta convocatoria es de 78.138.890,00 euros, que se imputará a las
+aplicaciones presupuestarias 2708G/313C/48141, 2708G/313C/48141 (0000000562), 2708G/313C/48141
+(FPA0090011), y al elemento PEP JCCM/0000027357.
+2. El importe máximo individualizado por cada programa no excederá de 5.000.000,00 de euros en el caso de
+expedientes de carácter regional, y de 150.000,00 euros en el caso de expedientes de carácter provincial.
+Quinto. Solicitud, lugar y plazo de presentación.
+1. Las solicitudes se dirigirán a la Dirección General de Discapacidad de la Consejería de Bienestar Social o a la
+delegación provincial correspondiente de la Consejería y se presentarán de forma telemática con firma electrónica
+mediante el formulario habilitado al efecto en la sede electrónica de la Administración de la Junta de Comunidades
+de Castilla-La Mancha en la siguiente dirección: https://www.jccm.es, que quedará anotada en el registro electrónico.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38761
+2. Se presentará una única solicitud por cada programa a financiar y se adjuntarán a la misma como anexos, a través
+de la sede electrónica: el proyecto técnico, la tabla Excel de personal según modelos habilitados, así como el resto
+de documentación que pueda ser necesaria para la concesión de la subvención.
+En el caso de que alguna entidad presentase, en plazo, más de una solicitud para un mismo programa, será
+tramitada exclusivamente la presentada en último lugar, siendo anuladas las restantes.
+3. El plazo para la presentación de las solicitudes será de veinte días, a contar desde el día siguiente al de la
+publicación de esta convocatoria y de su extracto en el Diario Oficial de Castilla-La Mancha.
+Toledo, 27 de octubre de 2026
+El Director General de Discapacidad
+FRANCISCO JOSÉ ARMENTA MENÉNDEZ
+TEXTO COMPLETO DE LA RESOLUCIÓN DE 27 DE OCTUBRE DE 2026
+El artículo 22 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, los artículos 75 y 76 del Texto
+Refundido de la Ley de Hacienda de Castilla-La Mancha, aprobado por el Decreto Legislativo 1/2002, de 19 de
+noviembre, y los artículos 22 y 23 del Reglamento de desarrollo del Texto Refundido de la Ley de Hacienda de
+Castilla-La Mancha en materia de subvenciones, aprobado por el Decreto 21/2008, de 5 de febrero, establecen que
+el procedimiento ordinario de concesión de subvenciones se tramitará en régimen de concurrencia competitiva y se
+iniciará siempre de oficio, mediante convocatoria aprobada por el órgano competente.
+La Orden 100/2024, de 13 de junio, de la Consejería de Bienestar Social, establece las bases reguladoras de las
+subvenciones a entidades privadas de iniciativa social para el mantenimiento de centros, servicios y desarrollo de
+programas destinados a la atención de las personas con discapacidad en Castilla-La Mancha.
+El procedimiento de concesión de estas subvenciones se iniciará de oficio mediante convocatoria aprobada por la
+persona titular de la dirección general competente en materia de atención a personas con discapacidad, tal como se
+indica en el artículo 1.3 de la citada Orden.
+En su virtud y en el ejercicio de las facultades atribuidas por el artículo 7 del Decreto 111/2023, de 25 de julio, de
+estructura orgánica y competencias de la Consejería de Bienestar Social, el Director General de Discapacidad,
+Resuelve:
+Primero. Objeto y entidades beneficiarias.
+1. Esta resolución tiene por objeto convocar, para el año 2027, en régimen de concurrencia competitiva, las
+subvenciones destinadas a entidades privadas de iniciativa social para el mantenimiento de centros y servicios,
+así como para el desarrollo de programas dirigidos a la atención, capacitación e inclusión de las personas con
+discapacidad en Castilla-La Mancha, cuyas bases reguladoras se encuentran en la Orden 100/2024, de 13 de
+junio, de la Consejería de Bienestar Social, por la que se establecen las bases reguladoras de las subvenciones
+a entidades privadas de iniciativa social para el mantenimiento de centros, servicios y desarrollo de programas
+destinados a la atención de las personas con discapacidad en Castilla-La Mancha (DOCM núm. 119, de 21 de junio
+de 2024).
+2. Podrán concurrir a la presente convocatoria de subvenciones las entidades privadas de iniciativa social que
+cumplan los requisitos establecidos en el artículo 4 de la Orden 100/2024, de 13 de junio, de la Consejería de
+Bienestar Social, a saber:
+a) Carecer de fin de lucro.
+b) Estar legalmente constituidas e inscritas formalmente en los registros que corresponda y, en todo caso, estar
+legalmente constituidas e inscritas en el Registro de Servicios Sociales de Castilla-La Mancha.
+c) Hallarse al corriente de sus obligaciones tributarias y frente a la Seguridad Social impuestas por las disposiciones
+vigentes, en la forma que se determina en el Reglamento de la Ley 38/2003, de 17 de noviembre, y en el Reglamento
+de desarrollo del Texto Refundido de la Ley de Hacienda de Castilla-La Mancha en materia de subvenciones.
+d) Disponer de la estructura, capacidad y solvencias técnica y económica suficientes para garantizar el desarrollo
+de los programas a subvencionar.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38762
+e) Encontrarse al corriente en el pago de obligaciones por reintegro de subvenciones.
+f) No encontrarse la persona que ostente la representación legal de la entidad en los supuestos de incompatibilidad
+regulados en la Ley 11/2003, de 25 de septiembre, del Gobierno y del Consejo Consultivo de Castilla-La Mancha;
+o en aquellos regulados en la legislación electoral de aplicación, así como no ser receptoras de la prestación de
+servicios o actividades por parte de personas que, habiendo desempeñado cargos públicos o asimilados en la
+Administración de la Junta de Comunidades de Castilla-La Mancha, así como en los organismos y entidades de su
+sector público, incumplieran lo dispuesto en el artículo 19.5 de la Ley 11/2003, de 25 de septiembre, durante el plazo
+de dos años desde el cese, de conformidad todo ello con lo expuesto en el artículo 74.2 del Texto Refundido de la
+Ley de Hacienda de Castilla-La Mancha.
+g) No encontrarse incursas en ninguna de las prohibiciones del artículo 13, apartados 2 y 3, de la Ley 38/2003, de
+17 de noviembre.
+h) En el supuesto de estar sujetas a la normativa de prevención de riesgos laborales, disponer de un plan de
+prevención de riesgos laborales y no haber sido sancionada, en virtud de resolución administrativa o sentencia
+judicial firme, por falta muy grave en materia de prevención de riesgos laborales, durante el año inmediatamente
+anterior a la fecha de solicitud de la subvención.
+i) No haber sido sancionada por resolución administrativa firme o condenada por sentencia judicial firme por llevar
+a cabo prácticas laborales consideradas discriminatorias por la legislación vigente, salvo cuando acrediten haber
+cumplido con la sanción o la pena impuesta y hayan elaborado un plan de igualdad o adoptado medidas dirigidas
+a evitar cualquier tipo de discriminación laboral entre mujeres y hombres. El órgano competente en materia de
+igualdad deberá dar su conformidad a dichas medidas.
+j) Para las solicitudes de programas de atención temprana, deberán cumplir el requisito previsto en el artículo 57
+de la Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia.
+3. La acreditación del cumplimiento de los requisitos para obtener la condición de entidad beneficiaria de las ayudas
+contenidas en la presente convocatoria, se realizará en la forma indicada en el apartado sexto.6.
+Segundo. Régimen jurídico.
+1. Las subvenciones a las que se refiere esta resolución, además de por lo previsto en la misma, se regirán por lo
+dispuesto en la Orden 100/2024, de 13 de junio; por los preceptos básicos contenidos en la Ley 38/2003, de 17 de
+noviembre, General de Subvenciones, y en su Reglamento de desarrollo, aprobado por el Real Decreto 887/2006, de
+21 de julio; por la normativa sobre subvenciones contenida en el título III del Texto Refundido de la Ley de Hacienda
+de Castilla-La Mancha, aprobado por el Decreto Legislativo 1/2002, de 19 de noviembre, y en el Reglamento de
+desarrollo del Texto Refundido de la Ley de Hacienda de Castilla-La Mancha en materia de subvenciones, aprobado
+por el Decreto 21/2008, de 5 de febrero.
+2. Asimismo, a esta resolución le resulta de aplicación la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las Administraciones Públicas, la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del
+Sector Público, y las restantes normas de derecho administrativo; y, en su defecto, las normas de derecho privado.
+3. A las acciones subvencionables en el marco de la cofinanciación del Fondo Social Europeo Plus (en adelante
+FSE+) les será de aplicación lo dispuesto en el Reglamento (UE) 2021/1060 del Parlamento Europeo y del Consejo,
+de 24 de junio de 2021, por el que se establecen las disposiciones comunes relativas al Fondo Europeo de Desarrollo
+Regional, al Fondo Social Europeo Plus, al Fondo de Cohesión, al Fondo de Transición Justa y al Fondo Europeo
+Marítimo, de Pesca y de Acuicultura, así como las normas financieras para dichos Fondos y para el Fondo de
+Asilo, Migración e Integración, el Fondo de Seguridad Interior y el Instrumento de Apoyo Financiero a la Gestión
+de Fronteras y la Política de Visados; así como en el Reglamento (UE) 2021/1057 del Parlamento Europeo y del
+Consejo, de 24 de junio de 2021, por el que se establece el Fondo Social Europeo Plus (FSE+) y por el que se
+deroga el Reglamento (UE) n.º 1296/2013.
+Tercero. Financiación.
+1. Las subvenciones objeto de esta convocatoria se financiarán con cargo a los presupuestos generales de la Junta
+de Comunidades de Castilla-La Mancha para el ejercicio 2027, y con cargo al Programa FSE+ Castilla-La Mancha
+2021-2027, a través de la Prioridad 2 “Inclusión Social y lucha contra la pobreza”, Objetivo Específico h).
+La cuantía máxima estimada destinada a esta convocatoria es de 78.138.890,00 euros, que se imputará a las
+aplicaciones presupuestarias que se relacionan a continuación y al elemento PEP JCCM/0000027357, con el
+siguiente desglose:
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38763
+Ejercicio 2026 Ejercicio 2027
+2708G/313C/48141 0,00 euros 59.567.680,00 euros
+2708G/313C/48141 (0000000562) 0,00 euros 16.071.210,00 euros
+2708G/313C/48141 (Fondo FPA 0090011) 0,00 euros 2.500.000,00 euros
+2. El importe máximo individualizado por cada programa no excederá de 5.000.000,00 euros en el caso de expedientes
+de carácter regional, y de 150.000,00 euros en el caso de expedientes de carácter provincial.
+3. Las entidades que presenten proyectos a los que se refiere el artículo 3.1 (modalidad a), de la Orden 100/2024,
+de 13 de junio, de la Consejería de Bienestar Social y sean cofinanciados por el Programa FSE+ 2021-2027 de
+Castilla-La Mancha deberán cumplir lo establecido en el artículo 19 de la referida orden.
+4. La concesión de las subvenciones previstas en esta resolución queda condicionada a la existencia de crédito
+adecuado y suficiente en el presupuesto de la Junta de Comunidades de Castilla-La Mancha para el ejercicio 2027.
+Cuarto. Solicitud, lugar y plazo de presentación.
+1. Las solicitudes se dirigirán a la Dirección General de Discapacidad de la Consejería de Bienestar Social o a la
+delegación provincial correspondiente de la Consejería y se presentarán de forma telemática con firma electrónica
+mediante el formulario habilitado al efecto en la sede electrónica de la Administración de la Junta de Comunidades
+de Castilla-La Mancha en la siguiente dirección: https://www.jccm.es, que quedará anotada en el registro electrónico.
+2. Se presentará una única solicitud por cada programa a financiar y se adjuntarán a la misma como anexos, a través
+de la sede electrónica: el proyecto técnico, la tabla Excel de personal según modelos habilitados, así como el resto
+de documentación que pueda ser necesaria para la concesión de la subvención.
+En el caso de que alguna entidad presentase en plazo más de una solicitud para un mismo programa, será tramitada
+exclusivamente la presentada en último lugar, siendo anuladas las restantes.
+3. El plazo para la presentación de las solicitudes será de veinte días, a contar desde el día siguiente al de la
+publicación de esta convocatoria y de su extracto en el Diario Oficial de Castilla-La Mancha.
+4. Una vez finalizado el plazo de presentación de solicitudes, únicamente serán tenidos en cuenta los documentos
+presentados a través de la siguiente dirección https://www.jccm.es/sede/ventanilla/consultar-expediente,
+correspondiente al apartado: “Cómo van mis trámites” de la sede electrónica. La remisión de toda la documentación
+que genere el procedimiento de concesión de las subvenciones reguladas en esta resolución se realizará de forma
+telemática.
+5. Si la solicitud no estuviera debidamente cumplimentada, no reuniera los requisitos exigidos o no se acompañaran
+los documentos preceptivos, el órgano instructor requerirá a la entidad interesada para que, en el plazo máximo
+de diez días, subsane la falta o acompañe los documentos, de conformidad con lo dispuesto en el artículo 24.4
+del Reglamento de desarrollo del Texto Refundido de la Ley de Hacienda de Castilla-La Mancha en materia de
+subvenciones, aprobado por Decreto 21/2008, de 5 de febrero, indicándole que, si así no lo hiciera, se le tendrá por
+desistida de su solicitud, previa resolución que deberá ser dictada en los términos previstos en el artículo 21 de la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas.
+6. No se admitirán a trámite las solicitudes presentadas por medios distintos al señalado anteriormente, ni se
+valorarán documentos o comunicaciones que no se envíen a través de la dirección señalada.
+7. Conforme establece el artículo 28.2 de la Ley 39/2015, de 1 de octubre, las entidades o las personas interesadas
+tienen derecho a no aportar documentos que ya se encuentren en poder de la Administración actuante o hayan
+sido elaborados por cualquier otra Administración. La Administración actuante podrá consultar o recabar dichos
+documentos salvo que el interesado se opusiera a ello. No cabrá oposición cuando la aportación del documento
+se exigiera en el marco del ejercicio de potestades sancionadoras o de inspección. No obstante, en virtud de lo
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38764
+dispuesto en el artículo 95.1.k) de la Ley 58/2003, de 17 de diciembre, General Tributaria, se requiere que se
+autorice expresamente para la cesión de datos de naturaleza tributaria entre Administraciones públicas.
+8. Todos los trámites relacionados con los expedientes de subvenciones se notificarán por medios electrónicos,
+a través de la plataforma de notificaciones telemáticas en la sede electrónica de la Administración de la Junta de
+Comunidades de Castilla-La Mancha. Para ello, en el momento de la solicitud, la entidad deberá estar dada de alta
+en la plataforma de notificaciones telemáticas de la Junta Comunidades Castilla-La Mancha: https://notifica.jccm.es/
+notifica.
+Quinto. Criterios de valoración.
+1. La valoración de las solicitudes presentadas se efectuará según una escala de 0 a 60 puntos y la puntuación
+adicional, considerando los criterios y puntuaciones establecidas en el artículo 8 de la Orden 100/2024, de 13 de
+junio, de la Consejería de Bienestar Social, que se detallan a continuación:
+a) La adecuación y complementariedad con respecto a las necesidades detectadas en la red regional de centros
+y servicios dirigidos a la atención de las personas con discapacidad y la congruencia e idoneidad de los proyectos
+presentados respecto a la atención directa, obtención de resultados personales y mejora de la calidad de vida
+de las personas con discapacidad, a través de la prestación de apoyos personalizados de diferente intensidad y
+frecuencia, en el desarrollo de programas de carácter regional, vinculados a la atención temprana, a la capacitación
+e integración sociolaboral, a la atención residencial y en los centros de día, los cuales tendrán preferencia sobre
+aquellos que promuevan la participación e inclusión social en un contexto grupal y sobre los programas de ámbito
+provincial: máximo 10 puntos.
+b) La profundidad, detalle y coherencia de los programas presentados con el modelo de calidad de vida y la utilización
+de la metodología de trabajo basada en la planificación centrada en la persona, así como la incorporación de
+perspectiva de género en los mismos: máximo 10 puntos.
+c) La solvencia técnica acreditada por la entidad mediante relación detallada de los profesionales implicados en
+el programa o servicio presentado, donde se refleje su categoría laboral, experiencia o formación específica en el
+ámbito de la discapacidad: máximo 9 puntos.
+d) El número de personas que se beneficiarán de forma directa del programa solicitado, teniendo en cuenta el tipo
+de centro o servicio en el que se desarrolla, así como la inexistencia de recursos de apoyo en la zona de influencia
+del programa presentado: máximo 6 puntos.
+e) La evaluación existente de los resultados de los programas o servicios desarrollados en ejercicios anteriores por
+la entidad solicitante, financiados por convocatoria análoga: máximo 6 puntos.
+f) Subvenciones concedidas en esta misma línea de ayudas, en la anualidad inmediatamente anterior: máximo 10
+puntos.
+g) El número de personas con discapacidad contratadas por la entidad: máximo 3 puntos.
+h) El porcentaje de financiación que aporta la propia entidad con fondos propios o derivados de otras fuentes de
+financiación: máximo 4 puntos.
+i) Proyectos desarrollados en los municipios de las zonas prioritarias a las que hace referencia el artículo 5.2.d) de
+la Ley 5/2017, de 30 de noviembre, de Estímulo Económico de Zonas Prioritarias en Castilla-La Mancha, y el anexo
+del Decreto 52/2018, de 31 de julio, de delimitación geográfica de zonas prioritarias en Castilla-La Mancha: 2 puntos.
+En cumplimiento de lo dispuesto en el apartado único del Acuerdo de 19/10/2021, del Consejo de Gobierno, sobre
+aplicación de criterios de incentivación y medidas de apoyo a los solicitantes de ayudas en zonas escasamente
+pobladas o en riesgo de despoblación, previstas en el artículo 22.1 de la Ley 2/2021, de 7 de mayo, de Medidas
+Económicas, Sociales y Tributarias frente a la Despoblación y para el Desarrollo del Medio Rural en Castilla-La
+Mancha, se otorgará una puntuación adicional respecto del total de la puntuación prevista de:
+a) Un 20 por ciento para solicitudes que se desarrollen en municipios o núcleos de población, definidos como zonas
+en riesgo de despoblación, y en los municipios o núcleos de población de más de 2.000 habitantes, definidos como
+zonas de intensa despoblación y en municipios de las zonas rurales intermedias con predominio de la actividad
+agrícola, con población inferior a 2.000 habitantes, que hayan perdido población durante los cinco años anteriores
+a 1 de enero de 2021.
+b) Un 30 por ciento para solicitudes que se desarrollen en municipios o núcleos de población de menos de 2.000
+habitantes definidos como zonas de intensa despoblación, y en los municipios o núcleos de población de más de
+2.000 habitantes definidos como zonas de extrema despoblación.
+c) Un 40 por ciento para solicitudes que se desarrollen en municipios o núcleos de población de menos de 2.000
+habitantes definidos como zonas de extrema despoblación.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38765
+2. No podrán ser beneficiarias de las ayudas aquellas entidades que no obtengan una puntuación mínima de 28
+puntos en la suma de los párrafos a), b), c), d), e), f), g), h) e i) del apartado primero.
+Sexto. Instrucción y resolución del procedimiento.
+1. La instrucción, propuesta y resolución se realizará conforme a lo dispuesto en los artículos 9 y 10 de la Orden
+100/2024, de 13 de junio, de la Consejería de Bienestar Social.
+2. Las subvenciones objeto de esta convocatoria podrán ser de ámbito regional o de ámbito provincial.
+Se entenderán como de ámbito regional cuando las actuaciones contenidas en los programas se ejecuten en más
+de una provincia. Se entenderán como de ámbito provincial cuando las actuaciones contenidas en los programas
+se ejecuten en una sola provincia.
+En cualquier caso, se considerarán de ámbito regional las solicitudes de programas que se desarrollen en centros de
+carácter residencial y centros de día, así como aquellos centros y servicios destinados a la integración sociolaboral,
+en sus diferentes modalidades de apoyo. Igualmente se considerarán de ámbito regional los programas destinados
+al funcionamiento de los servicios y centros de desarrollo infantil y atención temprana.
+3. Las solicitudes de ámbito provincial serán instruidas por el Servicio de Atención a Personas con Discapacidad de
+cada delegación provincial y corresponderá a la persona titular de la jefatura de servicio elevar las propuestas de
+resolución.
+4. Las solicitudes de ámbito regional serán instruidas por el Servicio de Atención a Personas con Discapacidad
+de la Dirección General de Discapacidad, y corresponderá a la persona titular de la Jefatura de Servicio elevar las
+propuestas de resolución.
+5. Cuando el importe de la subvención resultante de la propuesta de resolución provisional sea inferior al que figura
+en la solicitud presentada, el órgano instructor del procedimiento podrá instar a la entidad solicitante a que reformule
+su solicitud en el plazo de 10 días. En cualquier caso, la reformulación de la solicitud deberá respetar el objeto,
+condiciones y finalidad de la subvención, así como el compromiso de cofinanciación de la entidad manifestado en la
+solicitud inicial. No procederá la reformulación cuando la cuantía propuesta en la resolución provisional coincida con
+la que figure en la solicitud presentada.
+6. Para obtener la condición de entidad beneficiaria deberá quedar acreditado el cumplimiento de los requisitos
+enumerados en el resuelve primero.2 en el siguiente modo: los descritos en las letras a) y b) se comprobarán de
+oficio por la Consejería o se acreditarán mediante certificación aportada por la entidad solicitante cuando ésta
+se oponga en la solicitud a su comprobación. El requisito de la letra d) se acreditará mediante la aportación del
+proyecto que acompaña a la solicitud. El resto de los requisitos quedarán acreditados mediante la compilación
+de la declaración responsable incluida en el modelo de solicitud y se efectuará sin perjuicio de las facultades de
+comprobación, control e inspección atribuidas a las Administraciones Públicas correspondientes, entre ellas, la
+posibilidad de requerir en cualquier momento a los beneficiarios la aportación de la documentación acreditativa del
+cumplimiento de los requisitos que se considere necesaria, todo ello de conformidad con lo establecido en el artículo
+69 de la Ley 39/2015, de 1 de octubre.
+7. La competencia para otorgar o denegar, total o parcialmente, las subvenciones reguladas en la Orden 100/2024,
+de 13 de junio, de la Consejería de Bienestar Social, corresponde:
+a) A la persona titular de la Delegación Provincial de la Consejería de Bienestar Social para las subvenciones de
+ámbito provincial.
+b) A la persona titular de la Dirección General de Discapacidad para aquellas subvenciones de ámbito regional.
+8. El plazo máximo para resolver y notificar la resolución será de tres meses desde el día siguiente al de la publicación
+de la correspondiente convocatoria y de su extracto en el Diario Oficial de Castilla-La Mancha. El vencimiento del
+plazo máximo sin haberse dictado y notificado resolución expresa legitima a las entidades interesadas para entender
+desestimada su solicitud por silencio administrativo.
+9. Las subvenciones concedidas y denegadas se notificarán a las entidades por medio de la Plataforma de
+notificaciones telemáticas de la Junta de Comunidades de Castilla-La Mancha.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38766
+Séptimo. Forma de pago.
+1. Las subvenciones de carácter regional concedidas al amparo de la Orden 100/2024, de 13 de junio, se harán
+efectivas en doce libramientos mensuales, de igual cuantía y de forma anticipada. No obstante, tras la notificación
+de la resolución de concesión de la subvención se realizarán los libramientos de los meses ya vencidos, en su caso.
+El décimo libramiento estará condicionado a la justificación previa de los seis primeros libramientos, exigida en el
+apartado octavo.
+2. Las subvenciones de carácter provincial concedidas al amparo de la citada orden se harán efectivas mediante dos
+libramientos de forma anticipada. Se efectuará un primer libramiento tras la resolución de concesión, correspondiente
+al 50% de la cuantía subvencionada. El segundo libramiento correspondiente al 50% restante se abonará previa
+justificación del primer libramiento que deberá realizarse a la mayor brevedad posible una vez alcanzado el gasto
+correspondiente a la cuantía librada.
+3. Los anticipos de pago se realizarán en las mismas condiciones establecidas en la autorización emitida por la
+dirección general competente en materia de tesorería y se realizarán tras la notificación de la resolución de concesión
+de la subvención.
+4. No podrá realizarse el pago de la subvención en tanto la entidad beneficiaria no se encuentre al corriente en
+el cumplimiento de sus obligaciones tributarias con la Administración de la Junta de Comunidades de Castilla-La
+Mancha o sea deudora por resolución de procedencia de reintegro.
+5. Las cantidades que se concedan con cargo a créditos de naturaleza condicionada deberán aplicarse según las
+prescripciones de la normativa estatal o comunitaria que resulte de aplicación, estando supeditadas en cuanto
+a su disposición, tiempo, aplicación y cuantía, a la acreditación documental del compromiso firme de aportación
+financiera a realizar por la correspondiente Administración originaria de los fondos.
+Octavo. Justificación.
+1. La justificación del gasto realizado con cargo a las subvenciones concedidas se llevará a cabo de acuerdo con
+lo establecido en el artículo 30 de la Ley 38/2003, de 17 de noviembre, en los artículos 39 y 40 del Reglamento de
+desarrollo del Texto Refundido de la Ley de Hacienda de Castilla-La Mancha en materia de subvenciones y en lo
+previsto en el artículo 15 de la Orden 100/2024, de 13 de junio, de la Consejería de Bienestar Social.
+Asimismo, revestirá la forma de cuenta justificativa con la aportación de informe de auditor en el caso de que la
+subvención concedida sea igual o superior a 60.000,00 euros.
+Para las subvenciones concedidas por importe inferior a 60.000 euros, los beneficiarios justificarán la subvención
+mediante aportación de cuenta justificativa simplificada, conforme a lo previsto en el artículo 75 del Reglamento de
+la Ley 38/2003, de 17 de noviembre. El órgano concedente comprobará a través de técnicas de muestreo, al menos
+en un veinte por ciento de los expedientes concedidos los justificantes de gasto y pago que permitan obtener una
+evidencia razonable sobre la adecuada aplicación de la subvención, de acuerdo con lo dispuesto en el artículo 75.3
+del Reglamento de la Ley General de Subvenciones.
+Para los proyectos cofinanciados por el Programa FSE+ 2021-2027 de Castilla-La Mancha, la justificación revestirá
+la forma de cuenta justificativa con la aportación de justificantes de gastos y pagos en los que se haya incurrido de
+acuerdo con lo establecido en el artículo 19 de la Orden 100/2024, de 13 de junio.
+2. La entidad beneficiaria presentará el formulario de justificación debidamente firmado de forma telemática en
+la siguiente dirección: https://www.jccm.es/sede/ventanilla/consultar-expediente, correspondiente al trámite: “Cómo
+van mis trámites”, junto con los documentos justificativos detallados en el apartado 3, todo ello según los modelos
+habilitados al efecto, que se encuentran ubicados en la siguiente dirección: https://www.jccm.es.
+3. El régimen de justificación mediante cuenta justificativa con la aportación de informe de auditor será el siguiente:
+3.1. Programas de carácter regional:
+3.1.1. Primera justificación. La entidad beneficiaria deberá justificar el gasto de los seis primeros libramientos
+mensuales, antes de proceder al pago del décimo libramiento, mediante la presentación de la documentación que
+se relaciona a continuación:
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38767
+a) Certificado de la persona representante legal de la entidad, firmado digitalmente, según el modelo habilitado al
+efecto en la sede electrónica, en el que se hará constar:
+1.º Que el proyecto ha sido ejecutado de acuerdo al detalle económico que se refleja, diferenciando el coste total del
+mismo por conceptos de gasto y por financiadores cuando las actividades subvencionadas hayan sido financiadas
+además de con la subvención, con fondos propios u otras subvenciones o recursos.
+2.º Que las facturas, recibos y demás documentos justificativos de valor probatorio en el tráfico jurídico mercantil
+o con eficacia administrativa corresponden a pagos efectivamente realizados y derivados de la finalidad para la
+que fue concedida la subvención, que la entidad asume como propios y que no han sido presentados ante otras
+entidades públicas o privadas como justificantes de subvenciones concedidas por las mismas.
+3.º Que las facturas, justificantes de gasto y demás documentación original se encuentran depositados en la dirección
+postal indicada en la solicitud y están disponibles a efectos de comprobaciones por la consejería.
+b) Relación numerada de los documentos justificativos del gasto realizado con cargo a la subvención abonada,
+firmada digitalmente, acorde con los conceptos detallados en el presupuesto de gasto finalmente aprobado. Se
+reflejará, al menos, la siguiente información de los documentos justificativos de gasto: fecha de emisión, identificación
+del acreedor, concepto de gasto y fecha de pago. En estos documentos deberá constar la identificación del programa
+y la entidad beneficiaria de la subvención.
+La relación de gastos por conceptos deberá presentarse en archivo Excel, según modelo habilitado.
+c) En su caso, los tres presupuestos que, en aplicación de lo dispuesto en el artículo 12.6 de la Orden 100/2024, de
+13 de junio, de la Consejería de Bienestar Social, deba haber solicitado la entidad beneficiaria.
+d) Informe de un auditor de cuentas inscrito como ejerciente en el Registro Oficial de Auditores de Cuentas,
+dependiente del Instituto de Contabilidad y Auditoría de Cuentas.
+La actuación profesional del auditor de cuentas se someterá a lo dispuesto en las normas de actuación aprobadas
+mediante Orden EHA/1434/2007, de 17 de mayo, en la que se fijan los procedimientos que se han de aplicar, así
+como el alcance de los mismos, o norma que la sustituya y a lo establecido en la Orden de 20 de febrero de 2008, de
+la Consejería de Economía y Hacienda, por la que se determina la norma de actuación de los Auditores de Cuentas
+en la realización de los trabajos de revisión de cuentas justificativas en el ámbito del sector público regional, o norma
+que la sustituya.
+Una vez realizada la revisión, el auditor emitirá un informe según modelo habilitado.
+e) Memoria económica justificativa abreviada, que contendrá, al menos:
+1.º Estado representativo de los gastos incurridos en la realización de las actividades subvencionadas, debidamente
+agrupados.
+2.º Relación detallada de otros ingresos o subvenciones que hayan financiado la actividad subvencionada con
+indicación del importe y su procedencia, cuando los hubiere.
+La presentación de los documentos justificativos del gasto de la cuantía abonada correspondiente a los seis primeros
+libramientos será preceptiva para proceder a los libramientos mensuales a partir del décimo mes.
+3.1.2. Justificación final. La entidad beneficiaria deberá presentar con anterioridad al 31 de enero de 2028, los
+documentos que se relacionan en el apartado 3.1.1, correspondientes al gasto total o referidos al periodo pendiente
+de justificar, si el primer periodo se hubiera justificado debidamente, debiendo incluir los gastos imputados a otras
+fuentes de financiación, hasta alcanzar el 100 % del coste total del programa financiado. Se incluirá también, en este
+periodo justificativo, un resumen anual de ingresos y gastos según modelo establecido en la relación clasificada de
+gastos. En todo caso, los justificantes presentados corresponderán a gastos ejecutados hasta el 31 de diciembre
+de 2027.
+3.2. Programas de carácter provincial:
+3.2.1. Primera justificación. La entidad beneficiaria deberá justificar el gasto del primer libramiento, correspondiente
+al 50 % de la cuantía subvencionada, mediante la presentación de la documentación que se relaciona en el apartado
+3.1.1. Una vez que la entidad haya procedido a la justificación del primer libramiento, se procederá a abonar el
+segundo libramiento correspondiente al otro 50 % restante.
+3.2.2. Justificación final. La entidad beneficiaria deberá presentar con anterioridad al 31 de enero de 2028, los
+documentos que se relacionan en el apartado 3.1.1, correspondientes al gasto total o referidos al periodo pendiente
+de justificar, si el primer periodo se hubiera justificado debidamente, debiendo incluir los gastos imputados a otras
+fuentes de financiación, hasta alcanzar el 100 % del coste total del programa financiado. Se incluirá también, en este
+periodo justificativo, un resumen anual de ingresos y gastos según modelo establecido en la relación clasificada de
+gastos. En todo caso, los justificantes presentados corresponderán a gastos ejecutados hasta el 31 de diciembre
+de 2027.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38768
+4. El régimen de justificación mediante cuenta justificativa simplificada será el siguiente:
+4.1. Programas de carácter regional:
+a) Primera justificación. La entidad beneficiaria deberá justificar el gasto de la cuantía total librada, correspondiente a
+los seis primeros libramientos de carácter mensual antes de proceder al décimo libramiento, mediante la presentación
+de la documentación que se relaciona a continuación:
+1.º Certificado de la persona representante legal de la entidad según el modelo habilitado en la sede electrónica,
+en el que se haga constar que los documentos justificativos corresponden a los gastos realizados y derivados
+de la finalidad para la que fue concedida la subvención, que la entidad los asume como propios y que no han
+sido presentados ante otras entidades públicas o privadas como justificantes de subvenciones concedidas por las
+mismas.
+2.º Relación clasificada de los documentos justificativos del gasto realizado con cargo a la subvención concedida,
+ordenada por conceptos de acuerdo al presupuesto de gasto, con identificación del acreedor, su importe, fecha
+de emisión y fecha de pago. Dicha relación deberá presentarse en formato Excel por medios electrónicos según
+modelo habilitado. En estos documentos deberá constar la identificación del programa y la entidad beneficiaria de
+la subvención.
+3.º En su caso, los tres presupuestos que deba de haber solicitado la entidad beneficiaria, en aplicación de lo
+dispuesto en el artículo 12.6 de la citada orden.
+b) Justificación final. La entidad beneficiaria deberá presentar con anterioridad al 31 de enero de 2028, los documentos
+que se relacionan en el apartado 4.1.a), correspondientes al gasto total o referidos al periodo pendiente de justificar,
+si el primer periodo se hubiera justificado debidamente, debiendo incluir los gastos imputados a otras fuentes de
+financiación, hasta alcanzar el 100 % del coste total del programa financiado. Se incluirá también, en este periodo
+justificativo, un resumen anual de ingresos y gastos según modelo establecido en la relación clasificada de gastos.
+En todo caso, los justificantes presentados corresponderán a gastos ejecutados hasta el 31 de diciembre de 2027.
+4.2. Programas de carácter provincial:
+4.2.1. Primera justificación. La entidad beneficiaria deberá justificar el gasto del primer libramiento, correspondiente
+al 50 % de la cuantía subvencionada, mediante la presentación de la documentación que se relaciona en el apartado
+4.1.a). Una vez que la entidad haya procedido a la justificación del primer libramiento, se procederá a abonar el
+segundo libramiento correspondiente al 50 % restante.
+4.2.2. Justificación final. La entidad beneficiaria deberá presentar con anterioridad al 31 de enero de 2028, los
+documentos que se relacionan en el apartado 4.1.a) correspondientes al gasto total o referidos al periodo pendiente
+de justificar, si el primer periodo se hubiera justificado debidamente, debiendo incluir los gastos imputados a otras
+fuentes de financiación, hasta alcanzar el 100 % del coste total del programa financiado. Se incluirá también, en este
+periodo justificativo, un resumen anual de ingresos y gastos según modelo establecido en la relación clasificada de
+gastos. En todo caso, los justificantes presentados corresponderán a gastos ejecutados hasta el 31 de diciembre
+de 2027.
+5. En la fase de justificación final, tanto para los programas de carácter regional como para los de carácter provincial,
+además de los citados documentos que acrediten la ejecución del programa o programas subvencionados, se
+deberá adjuntar la memoria evaluativa de las actividades realizadas según modelo habilitado en consonancia con el
+programa aprobado, y en su caso, carta de pago de reintegro de remanentes no aplicados, así como los intereses
+derivados de los mismos.
+6. En la justificación de las subvenciones no podrán incluirse gastos distintos a aquellos para los que fue concedida la
+subvención o que no estén relacionados directamente con la actividad subvencionada. Los justificantes presentados
+corresponderán a gastos realizados en el periodo de desarrollo del programa, entre el 1 de enero de 2027 y el
+31 de diciembre de 2027. En ningún caso se admitirán gastos referidos a otro periodo justificativo. Se admitirán
+justificantes de pago realizados antes del 31 de enero de 2028, siempre que correspondan con gastos realizados en
+el periodo de desarrollo del programa.
+No podrán incluirse en la justificación del programa financiado los gastos no subvencionables, según lo establecido
+en el artículo 12 de la Orden 100/2024, de 13 de junio, de la Consejería de Bienestar Social.
+Los gastos de informe auditor serán subvencionables cuando no estando obligada la entidad beneficiaria a auditar
+sus cuentas, según lo establecido en el artículo 74.3 del Real Decreto 887/2006, de 21 de julio, si se vea obligada
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38769
+a justificar la subvención del programa financiado mediante cuenta justificativa con informe auditor (subvenciones
+concedidas con un importe igual o superior a 60.000 euros), según lo reflejado en el apartado octavo de esta
+resolución.
+7. En el caso en que una misma factura se impute de forma fraccionada ante varias entidades o Administraciones
+públicas, se deberá hacer referencia de forma detallada al porcentaje de gasto que se corresponde con la aportación
+de la consejería en cada programa, mediante un certificado al efecto del representante legal de la entidad.
+8. Cuando las actividades subvencionadas hayan sido financiadas, además de con la subvención, con fondos
+propios, otras subvenciones u otros recursos, deberá acreditarse en la justificación el importe, su procedencia y la
+aplicación de tales fondos a las actividades subvencionadas y a las demás obligaciones previstas en la normativa
+que resulte de aplicación. Se acreditará dicha financiación mediante certificado del representante legal según el
+modelo habilitado en la sede electrónica.
+9. Una vez presentada la justificación final, en el caso de que no se alcance el coste total de la actividad subvencionada,
+se requerirá a la entidad para que subsane las incidencias en el plazo de diez días, comunicándole que transcurrido
+el mismo, sin atender el requerimiento, se entenderá por incumplida la obligación de justificar, practicándose la
+liquidación con determinación de la cuantía que deba devolver o respecto de la que pierde el derecho a percibir y sin
+perjuicio de las consecuencias previstas en el artículo 16 de la Orden 100/2024, de 13 de junio.
+Noveno. Devolución voluntaria de la subvención.
+Según lo dispuesto en el artículo 51 del Reglamento de desarrollo del Texto Refundido de la Ley de Hacienda de
+Castilla-La Mancha en materia de subvenciones, las entidades beneficiarias, a iniciativa propia, podrán devolver el
+importe percibido indebidamente, a través del modelo 046, de acuerdo con las instrucciones recogidas en la sede
+electrónica de la Junta de Comunidades de Castilla-La Mancha, en la siguiente dirección: https://portaltributario.
+jccm.es.
+Décimo. Fondo Social Europeo Plus.
+1. El FSE+ persigue el objetivo de apoyar a los Estados miembros y regiones a fin de lograr elevados niveles de
+empleo, una protección social justa y una mano de obra capacitada y resiliente preparada para el futuro mundo del
+trabajo, además de unas sociedades inclusivas y cohesionadas que aspiran a erradicar la pobreza y a cumplir los
+principios establecidos en el pilar europeo de derechos sociales.
+Las subvenciones que se concedan en el marco del artículo 3.1.a) de la Orden 100/2024, de 13 de junio, de la
+Consejería de Bienestar Social, para el desarrollo de centros y servicios de integración sociolaboral de personas
+con discapacidad podrán recibir cofinanciación mediante el Programa FSE+ 2021-2027 de Castilla-La Mancha a
+través de la Prioridad 2 “Inclusión Social y lucha contra la pobreza”, Objetivo Específico 4 h) “Fomentar la inclusión
+activa al objeto de promover la igualdad de oportunidades, la no discriminación y la participación activa, y mejorar
+la empleabilidad, en particular para los grupos desfavorecidos” en un porcentaje máximo del 85% sobre los costes
+totales de la misma.
+2. La Dirección General de Discapacidad, como órgano gestor de esta intervención, y las perceptoras de las
+subvenciones cofinanciadas por el FSE+ quedan obligadas al cumplimiento de las medidas de visibilidad,
+transparencia y comunicación sobre el apoyo procedente de la Unión Europea y del FSE+, conforme a lo establecido
+en los artículos 47 y 50 y el Anexo IX del Reglamento (UE) 2021/1060 del Parlamento Europeo y del Consejo, de 24
+de junio de 2021.
+3. En todas las actividades de visibilidad, transparencia y comunicación que se lleven a cabo, deberá reconocerse
+el apoyo recibido, mostrando:
+a) El emblema de la Unión Europea, de conformidad con las normas de uso y características técnicas establecidas
+en el Anexo IX del Reglamento (UE) 2021/1060 del Parlamento Europeo y del Consejo, de 24 de junio de 2021.
+El emblema figurará de manera destacada en todos los materiales de comunicación, como productos impresos o
+digitales, sitios web y sus versiones móviles, relativos a la aplicación de una operación y destinados al público o los
+participantes.
+La declaración “Cofinanciado por la Unión Europea” se escribirá sin abreviar y junto al emblema.
+b) El logo corporativo de la Junta de Comunidades de Castilla-La Mancha (JCCM).
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38770
+c) El logotipo de Fondos Europeos y el escudo de España junto con el texto que hace alusión a la Autoridad de
+Gestión del FSE+: Ministerio de Trabajo y Economía Social.
+Estos logotipos pueden ser descargados de la página web de Fondos Estructurales: : https://fondosestructurales.
+castillalamancha.es/fondo-social-europeo-plus/programacion-2021-2027/comunicacion/descarga-de-logotipos.
+4. Además, las entidades perceptoras de la ayuda se asegurarán de que las partes que intervienen en los proyectos
+han sido informadas de dicha financiación, y para ello durante la ejecución del proyecto cofinanciado:
+a) Se hará una breve descripción de la operación en el sitio web oficial, cuando dicho sitio web exista, y en sus
+cuentas en los medios sociales harán una breve descripción de la operación, de manera proporcionada en relación
+con el nivel de la ayuda, con sus objetivos y resultados, y destacarán la ayuda financiera de la Unión y la JCCM.
+b) Proporcionarán una declaración que destaque la ayuda de la Unión y de la JCCM de manera visible en documentos
+y materiales de comunicación relacionados con la ejecución de la operación, destinada al público general o a las
+personas participantes.
+c) Exhibirán, en un lugar bien visible para el público, un cartel de papel o cartón plastificado de tamaño mínimo A3 o
+una pantalla electrónica equivalente, con información sobre la operación donde se destaque la ayuda del FSE+ y la
+JCCM tan pronto como comience la ejecución física de la operación. Un modelo de este cartel puede encontrarse en el
+siguiente enlace: https://fondosestructurales.castillalamancha.es/sites/default/files/2026-04/02_4h.03-Servicios%20
+Capacitación%20Discapacidad.pdf
+d) En los contratos laborales que se celebren para la ejecución de los proyectos de integración laboral se incluirá
+una cláusula específica en la que se recoja su cofinanciación por el Fondo Social Europeo Plus (FSE+), en los
+términos siguientes: “El presente contrato es objeto de cofinanciación por el Programa del Fondo Social Europeo
+Plus (FSE+) de Castilla-La Mancha 2021-2027, con un porcentaje de cofinanciación del 85% de los costes totales
+subvencionables”.
+5. Cuando no se cumpla con sus obligaciones en materia de comunicación y no haya adoptado medidas correctoras
+se podrán aplicar medidas, teniendo en cuenta el principio de proporcionalidad, y se cancelará hasta un máximo del
+3% de la ayuda del FSE+ a la operación de que se trate.
+6. Las entidades perceptoras de estas ayudas deberá facilitar el material de comunicación elaborado, si se les
+solicita por parte del órgano gestor, para ponerlo a disposición de las instituciones, órganos y organismos de la
+Unión Europea, y se podrá conceder licencia exenta de derechos, no exclusiva e irrevocable a la Unión Europea, tal
+y como recoge el Anexo IX del Reglamento (UE) 2021/1060 del Parlamento Europeo y del Consejo, de 24 de junio
+de 2021.
+7. La aceptación por parte del órgano gestor de la cofinanciación de estas ayudas de conformidad con estas
+disposiciones, implica la aceptación de la inclusión de sus datos en la lista de operaciones seleccionadas para
+recibir las ayudas del FSE+, que se publicará de conformidad con el artículo 49 del Reglamento (UE) 2021/1060 del
+Parlamento Europeo y del Consejo, de 24 de junio de 2021.
+8. De conformidad con lo dispuesto en el artículo 82 del Reglamento (UE) 2021/1060 del Parlamento Europeo y del
+Consejo, de 24 de junio de 2021, sin perjuicio de las normas aplicables en materia de ayudas estatales, todos los
+documentos justificativos relacionados con una operación que reciba ayuda del FSE+ se deberán conservar en el
+nivel adecuado durante un plazo de cinco años a partir del 31 de diciembre del año en que la autoridad de gestión
+del programa efectúe el último pago al beneficiario. El plazo referido se interrumpirá si se inicia un procedimiento
+judicial o a petición de la Comisión.
+Con objeto de cumplir este mandato, se llevará a cabo una comunicación por parte del órgano instructor de estas
+ayudas del inicio del plazo de la custodia y disponibilidad de la documentación.
+9. En relación con los gastos subvencionables, en los proyectos cofinanciados por el FSE+ serán de aplicación las
+disposiciones generales contenidas en el artículo 12 y las normas de admisibilidad del gasto establecidas desde
+el artículo 63 al 68 del Reglamento (UE) 2021/1060, y el artículo 16 del Reglamento (UE) 2021/1057, así como las
+disposiciones específicas a nivel nacional de la Orden TES/106/2024, de 8 de febrero, por la que se determinan los
+gastos subvencionables por el Fondo Social Europeo Plus durante el período de programación 2021-2027 (BOE
+núm. 38, de 13 de febrero de 2024).
+10. En cuanto a la justificación será de aplicación lo previsto en el apartado octavo de la presente resolución con las
+siguientes peculiaridades:
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38771
+a) Con independencia del importe concedido, se deberá presentar cuenta justificativa acompañada de los justificantes
+de gasto y de pago en los que se haya incurrido.
+b) La relación numerada de los documentos justificativos del gasto realizado con cargo a la subvención abonada
+deberá remitirse, además, en formato Excel a las direcciones de correo electrónico que se indiquen en la comunicación
+de la Resolución de concesión.
+c) Para la justificación de los gastos de personal deberá aportarse: Contrato laboral del personal directivo, técnico y
+de apoyo, nóminas de dicho personal, los documentos de la Seguridad Social “Relación Nominal de Trabajadores”
+(RNT) y “Relación de liquidación de cotizaciones” (RLC) y los Modelos 111 y 190 de la Agencia Tributaria, así como
+documentos acreditativos de dicho pago.
+En el caso de personas que trabajan a tiempo parcial en la operación, el empleador deberá emitir un documento en
+el que se establezca el porcentaje fijo de tiempo trabajado en la operación al mes, porcentaje que se utilizará para
+calcular los costes de personal subvencionables. Este porcentaje también puede fijarse en el contrato de trabajo.
+En relación con los gastos relativos a las cotizaciones sociales, para el cálculo del importe elegible deberá descontarse
+el importe correspondiente a las bonificaciones o reducciones que puedan estar asociadas al pago de esa cotización.
+d) La justificación de los costes directos distintos de los de personal se llevará a cabo mediante la presentación
+de facturas originales o fotocopias compulsadas. Todas las facturas aportadas como justificantes deberán estar
+referidas de forma inequívoca a la entidad subvencionada y al período que abarque la subvención.
+e) Los costes indirectos se calcularán mediante un tipo fijo de conformidad con el artículo 54 del Reglamento (UE)
+2021/1060, y no se debe aportar relación de gastos ni documentación justificativa de los mismos. En concreto, será
+de aplicación un tipo fijo del 7% de los costes directos subvencionables acreditados.
+En los supuestos de subcontratación únicamente se podrá imputar el tipo fijo cuando en la factura se identifique
+claramente la parte de costes de personal y otros costes asociados.
+f) En todos los documentos originales justificativos del gasto debe aparecer el sello de imputación que hace referencia,
+en su caso, a la cofinanciación del FSE+. Cuando no se impute el 100% del total de la factura, la entidad beneficiaria
+deberá justificar documentalmente los cálculos realizados para obtener el porcentaje y la cantidad imputada.
+g) El régimen de justificación del pago se regirá por lo dispuesto en la Orden de 7 de mayo de 2008, de la Consejería
+de Economía y Hacienda, por la que se regula la forma de acreditación del pago efectivo del gasto realizado en
+materia de subvenciones.
+h) Acreditación de la implementación de las medidas de visibilidad de la ayuda del Fondo Social Europeo Plus
+mediante fotografía de colocación del Cartel A3 en los centros donde se implementan las acciones de capacitación
+de acuerdo con establecido en el apartado 4.c.
+11. Los beneficiarios de las subvenciones quedan obligados a la recogida y tratamiento de los indicadores comunes
+de ejecución y de resultados sobre los participantes, recogidos en el anexo I del Reglamento (UE) 2021/1057, del
+Parlamento Europeo y del Consejo, de 24 de junio de 2021, por el que se establece el FSE+.
+Por parte del órgano gestor de estas subvenciones se facilitará a las entidades beneficiarias los modelos estandarizados
+y las instrucciones oportunas, a efectos de recoger de forma homogénea la información de seguimiento.
+12. Dentro del marco de rendimiento a que se refiere el artículo 16 del Reglamento (UE) 2021/1060, del Parlamento
+Europeo y del Consejo de 24 de junio de 2021, las metas a alcanzar con estas ayudas, en relación con el indicador
+financiero y el indicador de realización previstos, son las que se indican a continuación:
+a) El indicador financiero, entendido como el volumen total previsto de gasto público resultante de la ejecución
+financiera será de 2.500.000 euros de coste total elegible.
+b) El indicador de realización, entendido como unidad de medida de los hitos conseguidos durante la totalidad del
+periodo temporal que abarca la convocatoria, será para el Programa FSE+ Castilla-La Mancha 2021-2027 de 681
+personas con discapacidad (409 hombres y 272 mujeres).
+13. Cualquier persona que tenga conocimiento de hechos que pudieran ser constitutivos de fraude o irregularidad en
+relación con proyectos u operaciones financiados total o parcialmente con cargo a fondos procedentes de la Unión
+Europea en el marco de esta convocatoria podrá poner dichos hechos en conocimiento del Servicio Nacional de
+Coordinación Antifraude de la Intervención General de la Administración del Estado, por medios electrónicos a través
+del canal habilitado al efecto por dicho Servicio en la dirección web https://www.igae.pap.hacienda.gob.es/sitios/
+igae/es-ES/CA-UACI/SNCA/Paginas/ComunicacionSNCA.aspx, y en los términos establecidos en la Comunicación
+1/2017, de 6 de abril, del citado Servicio; o mediante cualquiera de los otros canales de denuncia disponibles, cuya
+información puede consultarse en el siguiente enlace: https://transparencia.castillalamancha.es/integridad/canal-
+interno-informacion.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38772
+Undécimo. Protección de datos personales.
+Los tratamientos de datos de carácter personal de las personas físicas se realizarán con estricta sujeción a lo
+dispuesto en el Reglamento (UE) 2016/679, del Parlamento Europeo y del Consejo, de 27 de abril de 2016, relativo
+a la protección de las personas físicas en lo que respecta al tratamiento de datos personales y a la libre circulación
+de estos datos y por el que se deroga la Directiva 95/46/CE (Reglamento general de protección de datos); en la Ley
+Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, y en
+el resto de la normativa sobre protección de datos personales.
+Duodécimo. Recurso administrativo.
+Contra esta resolución, que no agota la vía administrativa, podrá interponerse recurso de alzada ante la persona
+titular de la Consejería de Bienestar Social, en el plazo de un mes, conforme a lo dispuesto en los artículos 30, 121
+y 122 de la Ley 39/2015, de 1 de octubre.
+Decimotercero. Efectos.
+Esta resolución producirá efectos a partir del día siguiente al de su publicación en el Diario Oficial de Castilla-La
+Mancha.
+Toledo, 27 de octubre de 2026
+El Director General de Discapacidad
+FRANCISCO JOSÉ ARMENTA MENÉNDEZ

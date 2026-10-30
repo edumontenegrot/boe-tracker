@@ -1,0 +1,154 @@
+AÑO XLV Núm. 209 30 de octubre de 2026 38837
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 21/10/2026, de la Dirección General de Transición Energética, de autorización administrativa
+previa y autorización administrativa de construcción de la instalación de almacenamiento Bess Zarzuela I,
+para hibridación de la instalación solar fotovoltaica FV Zarzuela I. (Referencia: 2713/00009). [2026/7789]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Toledo, y su informe, y el informe
+del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y autorización
+administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia: 2713/00009 - 2703/00993 (DP:PE-557-CI).
+- Peticionario: Botey Solar, S.L.U. - NIF: B91685859.
+- Documentación técnica:
+1. Proyecto de hibridación de planta solar fotovoltaica Zarzuela I con sistema de almacenamiento en baterías “Bess
+Zarzuela I” en el t.m. de Escalonilla (Toledo).
+2. Anexo proyecto de hibridación de planta solar fotovoltaica Zarzuela I con sistema de almacenamiento en baterías
+“Bess Zarzuela I” en el t.m. de Escalonilla (Toledo).
+3. Anexo proyecto de hibridación de planta solar fotovoltaica Zarzuela I con sistema de almacenamiento en baterías
+“Bess Zarzuela I” en el t.m. de Escalonilla (Toledo). Mayo 2026.
+- Características técnicas: La instalación consistirá en un sistema de almacenamiento integrado principalmente por
+un conjunto de baterías y sus inversores correspondientes, este módulo de almacenamiento no funcionará como
+instalación de demanda. Las baterías tendrán una capacidad de almacenamiento de 5 MWh y el inversor tendrá una
+potencia instalada de 2,50 MW. El sistema se completa mediante un transformador de 5.500 kVA, línea subterránea
+de alta tensión 20 kV y una longitud total aproximada de 97 metros de conexión del centro de transformación
+con centro de protección y medida (existente al que se añadirá nueva celda de línea) del cual partirá una línea
+subterránea de evacuación hasta el punto de evacuación SET La Puebla (Barra B) (esta línea no es objeto de
+estudio de este proyecto).
+Nota: Las anteriores descripciones tienen carácter meramente indicativo. Para una descripción detallada de la
+misma se deberá acudir a la documentación técnica que se encuentra en el expediente.
+- Situación: El módulo de almacenamiento “Bess Zarzuela I” de 2,5 MW se situará dentro del recinto de la planta
+solar de la FV Zarzuela I a hibridar, que se encuentra ubicada en el Término Municipal de Escalonilla (Toledo). En el
+polígono 27, parcela 17 del término municipal de Escalonilla (Toledo).
+- Evacuación: Actualización por parte de i-DE Redes Eléctricas Inteligentes S.A., de los permisos de acceso y
+conexión, para la hibridación de FV Zarzuela I, de fecha 30/04/2026.
+- Finalidad: Hibridación, entre un sistema de almacenamiento de energía en baterías electroquímicas y la planta
+solar fotovoltaica “FV Zarzuela I” existente y en funcionamiento.
+Y en base a los siguientes:
+Antecedentes de hecho.
+Primero: Con fecha 02/01/2026 Botey Solar, S.L.U. presenta solicitud de autorización administrativa previa y
+autorización administrativa de construcción del proyecto de hibridación con un sistema de almacenamiento mediante
+baterías de la planta solar fotovoltaica “FV Zarzuela I”.
+Segundo: La instalación solar fotovoltaica “FV Zarzuela I”, con 4,92 MW instalados y 4,41 MW de capacidad de
+acceso, cuenta con autorización de explotación mediante resolución de 19/10/2021, con rectificación de fecha
+26/10/2021.
+Tercero: Mediante anuncio de 13/05/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, se somete
+a información pública la solicitud para autorización administrativa previa de proyecto de hibridación instalación solar
+fotovoltaica denominada Zarzuela I, mediante módulo de almacenamiento denominado Bess Zarzuela I situada en
+el término municipal de Escalonilla. Referencia: PE-557-CI. Dicho anuncio se publicó en el D.O.C.M. núm. 108 de
+10/06/2026.
+Durante el trámite de información pública no consta la presentación de alegaciones.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38838
+Cuarto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Ayuntamiento de Escalonilla. Con fecha de puesta a disposición 13/5/2026, y misma fecha de lectura, se solicita
+condicionado. Dentro del plazo establecido no consta la emisión de informe, por lo que se entiende su conformidad.
+- Confederación Hidrográfica del Tajo. Con fecha de puesta a disposición 13/5/2026, y fecha de lectura 14/5/2026,
+se solicita condicionado. Dentro del plazo establecido no consta la emisión de informe, por lo que se entiende su
+conformidad.
+- I-DE Redes Eléctricas Inteligentes S.A.U. Con fecha de puesta a disposición 13/5/2026, y misma fecha de lectura,
+se solicita condicionado. Con fecha 2/6/2026 i-DE emite informe favorable con condiciones. Con fecha de puesta a
+disposición 5/6/2026, y misma fecha de lectura, se remite informe al promotor con plazo de 10 días. Dentro del plazo
+establecido no consta la emisión de respuesta, por lo que se entiende su conformidad.
+- Red Eléctrica de España. Con fecha de puesta a disposición 13/5/2026, y fecha de lectura 14/5/2026, se solicita
+condicionado. Con fecha 12/6/2026 REE emite informe en el que manifiesta que no hay instalaciones de su titularidad
+afectadas. Con fecha de puesta a disposición 17/6/2026, y misma fecha de lectura, se traslada informe al promotor
+para su conocimiento.
+Quinto: Con fecha 09/03/2026 se realiza consulta al órgano ambiental sobre la necesidad de iniciar procedimiento
+reglado de evaluación de impacto ambiental. Con fecha 23/7/2026 el Servicio de Calidad Ambiental emite informe
+en el que determina que: El proyecto referido no supone ninguna ampliación o agravamiento de los efectos
+ambientales negativos derivados de la ejecución del proyecto ya evaluado, siempre y cuando se dé cumplimiento a
+los condicionantes referidos en la resolución de 4 de diciembre de 2019, de la Delegación Provincial de Desarrollo
+Sostenible de Toledo, por la que se formula la Declaración de Impacto Ambiental del proyecto denominado Parque
+solar fotovoltaico Las Zarzuelas I-IV y LSMT de evacuación (expediente PRO-TO-19-2373), situado en los términos
+municipales de Escalonilla y La Puebla de Montalbán (Toledo), cuya promotora es Botey Solar, S.L. Con fecha de
+puesta a disposición 10/8/2026 se remite informe al promotor para su conocimiento.
+Sexto: La Delegación Provincial de Desarrollo Sostenible en Toledo cumplió con lo establecido en la resolución de
+3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as delegados/
+as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 10/08/2026 informe favorable,
+para la autorización administrativa previa y de construcción solicitadas.
+Séptimo: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción solicitadas.
+En relación con los anteriores antecedentes de hecho resultan de aplicación los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la emisión de la presente
+resolución según lo establecido en el Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica
+y las competencias de la Consejería de Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007 y demás normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y la autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38839
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud,
+Resuelve: Otorgar a Botey Solar, S.L.U. la autorización administrativa previa y la autorización administrativa de
+construcción de las instalaciones eléctricas de referencia, de acuerdo a las características indicadas. La presente
+resolución se encuentra sujeta a las siguientes condiciones:
+Primera: La autorización otorgada se entiende sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Esta autorización producirá los efectos previstos en la normativa procedimental de aplicación a este tipo de
+instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante, del
+resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se cumplirá lo establecido en la resolución de 4 de diciembre de 2019, de la Delegación Provincial de
+Desarrollo Sostenible de Toledo, por la que se formula la Declaración de Impacto Ambiental del proyecto denominado
+Parque solar fotovoltaico Las Zarzuelas I-IV y LSMT de evacuación (expediente PRO-TO-19-2373), situado en los
+términos municipales de Escalonilla y La Puebla de Montalbán (Toledo).
+Sexta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Séptima: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38840
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 21 de octubre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ

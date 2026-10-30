@@ -1,0 +1,787 @@
+AÑO XLV Núm. 209 30 de octubre de 2026 38859
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Cuenca, por la que se
+formula el informe de impacto ambiental del proyecto: Explotación intensiva para cebo de vacuno (expediente
+S478/2026/CU/00081), situado en el término municipal de Atalaya del Cañavate (Cuenca). [2026/7768]
+La Ley 21/2013, de 9 de diciembre, de evaluación ambiental, en su artículo 7.2 concreta los proyectos que deben
+ser sometidos a evaluación de impacto ambiental simplificada por el órgano ambiental para determinar si tienen o
+no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de evaluación de impacto ambiental ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020 de 7 de febrero, de evaluación ambiental en Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de la tramitación, así como aquellos
+proyectos adicionales a los ya indicados por la Ley 21/2013 que se ven incluidos en el ámbito de aplicación de la
+legislación de evaluación ambiental.
+En concreto, la actuación se encuentra contemplada en el Anexo 2 de la Ley 2/2020, de 7 de febrero, de evaluación
+ambiental de Castilla-La Mancha, concretamente en el Grupo 1. Agricultura, silvicultura, acuicultura y ganadería.,
+apartado g) Explotaciones ganaderas intensivas que cumplan alguna de las condiciones siguientes: 3º Que la
+actividad se encuentre a una distancia inferior a 2.000 metros de suelo urbano residencial, siempre que además se
+superen las 40 UGM.
+Primero. Promotor, órgano sustantivo y descripción del proyecto. Información aportada por el promotor.
+El promotor del proyecto es D. Gonzalo Blasco Prieto actuando como órgano sustantivo el Ayuntamiento de Atalaya
+del Cañavate (Cuenca).
+1.1. Objeto y ubicación.
+La explotación se dedicará al cebo intensivo de terneros, situada en el término municipal de Atalaya del Cañavate
+(Cuenca), específicamente en la parcela 60 del polígono 506, con referencia catastral 16026A506000600000GI,
+calificándola como suelo rústico de reserva contando con una superficie total de 4,37 ha, accediendo a través del
+camino “Del Pozo” que parte desde el mismo casco urbano del municipio de Atalaya del Cañavate.
+La distancia a suelo urbano y/o suelo urbanizable más cercano es Atalaya del Cañavate que está aproximadamente
+a 245 metros al oeste de la explotación, situándose a 135 metros de unas instalaciones deportivas.
+Coordenadas UTM.
+Las edificaciones de la explotación se situarán en las siguientes coordenadas UTM:
+- Datum: ETRS 1989 X:
+- Huso: 30
+X Y
+564722.6600 4374780.7777
+564728.4046 4374783.2142
+564730.3570 4374778.6112
+564796.6411 4374806.7255
+564802.8316 4374792.1303
+564730.8029 4374761.5794
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38860
+1.2. Construcciones y suministros.
+En el planteamiento del proyecto se desarrollan las siguientes instalaciones y/o equipamientos distribuidos a lo largo
+de la parcela:
+Se ejecutará una nave con una superficie construida total de 1327,81 m², con estructura metálica prácticamente
+diáfana (solo dispone de separación entre cuadras). Flanqueando los corrales, en un extremo de la nave se sitúa un
+cobertizo con almacén y los vestuarios y en el otro el estercolero. Toda la planta cuenta con una solera de hormigón.
+Almacén. Con una superficie de 17,5 m²
+Vestuarios. Con una superficie de 9,75 m²
+Cobertizo. Con una superficie de 184,36 m²
+Lazareto. Con una superficie de 70,77 m²
+10 Corrales. Se distribuyen por el cuerpo principal de la nave. En el interior, las cuadras se separan mediante vallas
+móviles. Con una superficie de 707,7 m²
+Manga en el interior que permite el manejo de la explotación, es de trazado continuo, prolongándose por uno de los
+laterales de la nave conectando todas las cuadras. Con una superficie de 51,67 m²
+Pasillo. Con una superficie de 160,26 m²
+Las instalaciones se vallarán perimetralmente, con malla de simple torsión sobre postes anclados al terreno todo
+de acero galvanizado. La longitud del vallado abarca 435 metros para comprender 673 m² y una altura de 2 metros.
+Estercolero (195,17 m² útil). Se habilitarán una zona impermeabilizada para el almacenamiento de estiércol, que
+será empleado para la fertilización orgánica de la explotación familiar.
+En cuanto a los suministros con los que contará la explotación, se dispone de sistema eléctrico a través de una
+instalación fotovoltaica en cubierta, mientras que el abastecimiento de agua tendrá lugar desde la red municipal.
+Las aguas de saneamiento se canalizarán a un depósito estanco con una capacidad de 1.000 litros. Se trata de un
+tanque de retención de aguas fecales ACO modelo Biosave 1000 V, para instalación enterrada, fabricado en plástico
+reforzado con fibra de vidrio (GRP).
+1.3. Actividad.
+Los animales llegarán a la explotación con aproximadamente dos meses de vida tras el destete y 100 Kg de peso.
+Permanecerán en la explotación hasta los 450-500 Kg de peso que se espera que sea tras 10 meses. Tras la salida
+de los animales se realizará un vacío sanitario de 15 días.
+Teniendo en cuenta el Decreto 69/2018, de 2 de octubre, por el que se establecen las normas para la ordenación
+explotaciones ganaderas y núcleos zoológicos en Castilla-La Mancha, se trata de un tipo de explotación ganadera
+intensiva.
+Conforme a la clasificación de la explotación (RD 479/2004, de 26 de marzo, establece y regula el Registro General
+de Explotaciones Ganaderas (REGA)) la explotación vendría definida como:
+Tipo de explotación: de producción.
+Especie: Bóvido. Clasificación zootécnica: cría.
+Sistema productivo: intensivo.
+Capacidad total: 270 terneros de 2 meses a un año: 108 UGM (anexo I del Real Decreto 1053/2022, de 27 de
+diciembre, por el que se establecen normas básicas de ordenación de las granjas bovinas).
+Conforme al RD 1053/2022, de 27 de diciembre, por el que se establecen normas básicas de ordenación de las
+granjas bovinas esta explotación se clasificaría como:
+Tipo de explotación: de producción y reproducción.
+Clasificación zootécnica: Cebadero.
+Sistema productivo: no extensiva.
+Por su capacidad productiva: Grupo II (entre 20 y 360UGM).
+No es necesario respetar distancias sanitarias establecidas en la norma básica de ordenación de las explotaciones,
+ya que a este tipo de explotación no se le aplica.
+Se mantendrá un libro de registro de la explotación debidamente actualizado y accesible, en el que figurarán, al
+menos, los datos establecidos en el anexo XI, del citado Decreto 69/2018.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38861
+1.4. Manejo:
+Se estima un consumo de pienso según la fase de cría de entre 3 y 8 Kg diarios y una ingesta de 500 Kg de paja por
+animal a lo largo de la permanencia de los animales y 750 Kg más para la cama.
+En cuanto al consumo de agua a partir de un promedio de 30 litros por animal y día se estima un volumen anual de
+unos 3.000 m³ anuales.
+La producción de estiércol, acorde a los datos establecidos en el Real Decreto de referencia (RD 1053/2022) son:
+Producción de estiércol (engorde): 3,6 m³/año
+N.º de animales: 270
+Para calcular el volumen total de estiércol generado se considera el censo total de 270 animales durante todo el año.
+De esta manera, se obtendría un total de 972 m³/año.
+El estiércol producido en el cebadero es retirado periódicamente y extendido en las parcelas cultivadas de la
+explotación e incorporado al terreno siguiendo las buenas prácticas agrarias.
+En todo momento la gestión del estiércol se ajustará a lo establecido en el Real Decreto 1051/2022, de 27 de
+diciembre, por el que se establecen normas para la nutrición sostenible en los suelos agrarios. Las parcelas agrícolas
+se reparten entre Atalaya del Cañavate, Cañada Juncosa y El Cañavate, municipios no incluidos en ninguna de las
+zonas vulnerables a la contaminación por nitratos.
+La distribución del estiércol se realiza en otoño en el caso de los cereales y a finales de invierno y primavera en el
+girasol, justo antes de la siembra y enterrándolo. El olivar en primavera siempre fuera de los periodos de exclusión
+que marca el RD 1051/2022.
+Atendiendo a los valores de la Orden de 07/02/2011, la producción de nitrógeno de 270 terneros menores al año de
+vida es de: 7822 KgN (270 terneros x 28,97 KgN)
+Suponiendo una dosis admisible de 210 Kg/Ha, haría falta una superficie de: 37, 2 Ha (7822 KgN /210) < 76,2 Ha
+de las que se dispone.
+Los cadáveres se retirarán inmediatamente dando parte al seguro contratado.
+1.5. Análisis de alternativas:
+Se desarrollan las alternativas expuestas y las razones de la solución final en base a los efectos ambientales:
+Alternativa 0, no realización del proyecto: se justifica un impacto socioeconómico indirecto para el desarrollo del
+municipio y directamente para el promotor. El municipio de Atalaya del Cañavate cuenta con un padrón de 98
+habitantes. No se continuaría con la explotación familiar permitiendo iniciar una actividad que asiente población en
+el entorno (clasificada como de extrema despoblación, según la Ley 2/2021 de medidas económicas, sociales y
+tributarias frente a la despoblación).
+Alternativas de ubicación: sobre posibles emplazamientos, se valoran en base a criterios económicos, ambientales
+y urbanísticos:
+Alternativa 1: Ubicada en término municipal de San Clemente (Cuenca), pero las parcelas que se estudiaron
+incrementaban la inversión hasta hacerla inviable. Además, la parcela 46 del polígono 17 de dicho municipio estaría
+afectada por criterios ambientales (linda con el curso del río Rus y dentro del perímetro de la ZEPA San Clemente).
+Alternativa 2: Posibilidad de implantarse en la parcela al otro lado del camino (frente a la parcela 60 del polígono
+506) de propiedad familiar donde ya se presentan unos almacenes agrarios, pero por problemas urbanísticos no se
+podía desarrollar la actividad.
+Alternativa 3: De titularidad familiar (económicamente más viable) es la parcela 1016 del polígono 506, pero se
+descarta por estar afectada por sendas infraestructuras: la autovía y una línea de alta tensión, lo que reducía
+notablemente la superficie edificable.
+Alternativa 4: Ubicación propuesta para la actividad. Se conjugan todas las premisas para hacer viable la explotación
+y minimizar la afección ambiental, al estar próxima a un núcleo habitado y otras edificaciones de propiedad familiar
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38862
+a efectos de seguridad y vías de comunicación, permitiendo accesibilidad a suministro de agua, así como reducción
+de trayectos de transporte de alimentos, animales y estiércol, conllevando un ahorro de combustible y emisión
+de gases de efecto invernadero. Se incide en tratarse de una tierra de labor no ocupando cubierta vegetal ni otro
+espacio natural protegido, así como facilitando la ubicación condiciones de bienestar animal además de cumplir los
+condicionantes urbanísticos para la instalación de la explotación.
+Por todo lo expuesto con anterioridad se opta por la Alternativa 4.
+Segundo. Tramitación y consultas.
+El 5 de febrero de 2026 tiene entrada en la Delegación Provincial de la Consejería de Desarrollo Sostenible en
+Cuenca, solicitud inicio de evaluación de impacto ambiental simplificada, junto con el documento ambiental y el
+justificante de pago de la tasa correspondiente conforme a la Ley 9/2012, de 29 de noviembre, de Tasas y Precios
+Públicos de Castilla-La Mancha y otras medidas tributarias.
+Al expediente administrativo se le asignó la referencia S478/CU/2026/00081.
+Con fecha 4 de marzo de 2026 se requiere información complementaria al promotor, con comunicación al órgano
+sustantivo (OS), respecto al contenido del documento ambiental, recibiendo información requerida con fecha 15 de
+abril de 2026.
+Con fecha 4 de marzo de 2026 se requiere al OS, con comunicación al Promotor, que aporte: - Informe de afección
+socioeconómica del proyecto y sus efectos sinérgicos con otros proyectos, con indicación de otras actividades
+relevantes del municipio que pudieran verse afectadas, así como informe sobre la compatibilidad del proyecto con el
+planeamiento urbanístico, recibiendo información completa requerida con fecha 14 de mayo de 2026.
+El 15 de abril de 2026, sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la Ley 2/2020, se
+formularon consultas previas a las administraciones afectadas y a las personas interesadas, con el objeto de que
+informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido las siguientes
+(se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+Delegación Provincial Consejería de Desarrollo Sostenible en Cuenca. Servicio de Medio Natural (*)
+Delegación Provincial Consejería de Desarrollo Sostenible en Cuenca. Unidad de Coordinación Provincial de
+Agentes Medioambientales de Cuenca.
+Delegación Provincial Consejería de Sanidad en Cuenca. Servicio de Salud Pública (*)
+Delegación Provincial Consejería de Agricultura, Ganadería y Desarrollo Rural en Cuenca. Servicio de Agricultura y
+Ganadería.
+Delegación Provincial Consejería de Agricultura, Ganadería y Desarrollo Rural en Cuenca. Oficina Comarcal Agraria
+San Clemente. (*)
+Delegación Provincial Consejería de Fomento en Cuenca. Servicio de Urbanismo (*)
+Delegación Provincial Consejería de Educación, cultura y Deportes en Cuenca. Servicio de Cultura (*)
+Dirección General de Calidad Ambiental. Servicio Prevención e Impacto Ambiental
+Dirección General Agencia del Agua. Servicio de Abastecimiento y Tratamiento de Aguas
+Demarcación de Carreteras del Estado en Castilla-La Mancha (*)
+Ayuntamiento de Atalaya de Cañavate (*)
+Confederación Hidrográfica del Guadiana (*)
+Sociedad Española de Ornitología
+Ecologistas en Acción-Cuenca
+Asociación Agrupación Naturalista Esparvel Cuenca
+Asociación para la Defensa de la Naturaleza WWF/Adena
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental, según
+lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38863
+3.1. Ubicación del proyecto.
+El proyecto se localiza en la parcela 60 del polígono 506, con referencia catastral 16026A506000600000GI, del
+término municipal de Atalaya del Cañavate, calificándola como suelo rústico de reserva contando con una superficie
+total de 4,37 Ha., estando dicha zona ocupada por cultivo de herbáceos íntegramente.
+El Ayuntamiento de Atalaya del Cañavate emitió, con fecha 8 de mayo de 2026, informe sobre la compatibilidad
+urbanística de la finca objeto de referencia, indicando que, de acuerdo con las Normas Subsidiarias de Planeamiento
+Municipal con Ámbito de la provincia de Cuenca, instrumento de planeamiento vigente en el municipio, la parcela se
+ubica en suelo No Urbanizable (equivalente a Suelo Rústico recogido en el TRLOTAU) al situarse a unos 130 metros
+del núcleo urbano de Atalaya del Cañavate, clasificando el suelo específicamente como Suelo No Urbanizable de
+Protección Cultural.
+La zona afectada por el conjunto de las instalaciones no se encuentra dentro de los límites de espacios naturales
+protegidos, espacios protegidos Red Natura 2000 u otras zonas sensibles conforme a la Ley 9/1999, de 26 de mayo,
+de Conservación de la Naturaleza.
+3.2. Características del proyecto.
+Se trata de iniciar una nueva actividad ganadera a través de la instalación de una explotación de cebo de terneros.
+El proceso de engorde de los animales abarcará aproximadamente 10 meses por ciclo, entendiendo la entrada a la
+explotación desde los 2 meses de vida hasta los 14 meses en función de del peso obtenido rondando los 500-600
+kg (con alrededor de un año de vida) destinándoles posteriormente a sacrificio.
+Por tanto, se consideran terneros de aproximadamente un año para el cálculo de las UGM y con una capacidad de
+hasta 270 terneros. En este sentido, y a efectos de la capacidad de la explotación planteada en relación con los
+condicionantes ambientales sujetos a estudio, se toma en consideración para el cálculo de las Unidades de Ganado
+Mayor (UGM) las equivalencias del Decreto 69/2018, de 2 de octubre, por el que se establecen las normas para la
+ordenación explotaciones ganaderas y núcleos zoológicos en Castilla-La Mancha, resultando una capacidad total
+de 162 UGM (270 animales x 0,6 UGM/animal). Dicha concreción no afecta, en principio, la inclusión del proyecto
+en cuanto proyecto sujeto a evaluación ambiental simplificada, al considerarse igualmente sujeta al condicionante
+de tratarse de una explotación intensiva con capacidad superior a 40 UGM y encontrarse ubicada a una distancia
+menor de 2000 metros a suelo urbano residencial.
+De igual modo, con esta capacidad máxima de 162 UGM, la explotación se considera igualmente clasificada como
+una explotación de producción y reproducción, con sistema no extensivo para cebadero de bovinos incluida como
+Grupo II (entre 20 y 360 UGM) a efectos del cumplimiento de los requisitos del Real Decreto 1053/2022, de 27
+de diciembre, por el que se establecen normas básicas de ordenación de las granjas bovinas, sin perjuicio de
+lo dispuesto en el Decreto 69/2018, de 2 de octubre, por el que se establecen las normas para la ordenación
+explotaciones ganaderas y núcleos zoológicos en Castilla-La Mancha.
+Se ejecutará una nave con una superficie construida total de 1327,81 m², con la existencia de las instalaciones y
+equipamientos necesarios para el manejo de la explotación, no existiendo acumulación con otros proyectos al ser
+una nueva actividad. De este modo, se establece la necesidad de utilización de suelo agrícola para su construcción
+y funcionamiento, no afectando o transformando cubierta vegetal natural, al igual que el consumo de agua que viene
+suministrada por la red municipal evitando de esta manera posibles perturbaciones entre la actividad y otras posibles
+alternativas de suministro de agua.
+De igual modo, se presenta un suministro eléctrico a partir de instalación fotovoltaica incorporada en la nave de la
+explotación.
+Para la gestión de aguas residuales, se indica la disposición de un depósito estanco con una capacidad de 1.000
+litros.
+Dentro de las características del manejo de la explotación, se plantea la instalación de un estercolero de 195
+m², destinado al almacenamiento de estiércol para su posterior empleo como abono orgánico. Se tratará de una
+zona impermeabilizada. Se incluye solicitud única de la explotación familiar con la tenencia de superficie objeto de
+aplicación del estiércol como abono orgánico.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38864
+Respecto a la identificación, descripción, análisis y cuantificación de los efectos esperados, derivados de la
+vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se produzcan
+dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio ambiente, el
+promotor hace un análisis de posibles riesgos, considerando la vulnerabilidad de la explotación ganadera, teniendo
+en cuenta los siguientes factores:
+En cuanto riesgos meteorológicos, se puede determinar que el índice de riesgo por fenómenos meteorológicos
+adversos para la zona de desarrollo del proyecto es medio. Por su parte, la ocurrencia de estos fenómenos no
+puede suponer un riesgo significativo de fallo/colapso de las acciones necesarias para la ejecución/explotación del
+proyecto.
+Según el Plan Especial por Riesgo Sísmico (Sismicam), de 2022, los índices de daño Medio (Dm) para el municipio
+de Atalaya del Cañavate, la peligrosidad sísmica para estructuras especiales es baja.
+Sobre el riesgo de inundación, no se presenta en las inmediaciones ningún cauce que pueda suponer un riesgo y
+en referencia al riesgo de incendios, disponen que el Plan de Emergencias por Incendios Forestales de Castilla-La
+Mancha, la zona donde se encuentra la instalación alcanzaría un nivel 2 debido a la proximidad al casco urbano. No
+obstante, el riesgo es mínimo ya que no hay masas forestales inmediatas a la explotación y la vegetación existente
+es rala entre zonas eminentemente agrícola.
+Tras el análisis de vulnerabilidad en una actividad de explotación ganadera de cebo de terneros en el término
+municipal de Atalaya del Cañavate (Cuenca), se obtiene un riesgo bajo de que se produzcan dichos accidentes o
+catástrofes
+Respecto a los posibles riesgos para la salud humana, las características del proyecto ganadero en cuanto posible
+incidencia sobre la contaminación del aire establece que por la ubicación de la explotación, en un entorno rural, donde
+no hay actividades que generen ruido y/o emisiones atmosféricas, la fuente principal sería la autovía E-901/A-3 que
+discurre a 400 metros de la explotación ganadera, estimando un volumen de gases originados en la explotación
+insignificantes respecto a los valores producidos por el volumen de circulación de la autovía. Se aporta un estudio
+de vientos dominantes, elaborado a partir de los datos obtenidos de la estación meteorológica de El Picazo de la red
+del Servicio de Información Agroclimática para el Regadío (SIAR), siendo la estación más cercana al emplazamiento
+que recopila mediciones reales con datos de acceso público, concretando la existencia de cierta incidencia sobre
+la zona residencial aunque no predominante (entre el 8 y 14% de las observaciones medias mensuales recogidas
+entre el periodo 2020-2025).
+Se emplaza además en un ámbito físico sobre un radio de 2 km en el cual se localizan 3 explotaciones ganaderas
+(pudiendo resaltar una explotación ovina al oeste del municipio).
+Además, al tratarse de una explotación ganadera intensiva, en la que los animales permanecen en un recinto
+cerrado, la posible afección sobre la salud de la población por riesgos de enfermedades zoonóticas estará bajo un
+control continuo por los servicios veterinarios de la explotación, así como veterinarios oficiales, considerando este
+tipo de riesgo más elevado para los propios trabajadores de la explotación.
+3.3. Características del potencial impacto.
+Considerando los criterios sobre la ubicación y característica del proyecto contenidos en el Anexo III de la Ley
+2/2020 de evaluación ambiental de Castilla-La Mancha, se concluye que el potencial impacto será compatible con el
+medio. No se esperan efectos irreversibles, irrecuperables, severos o críticos.
+El potencial impacto durará mientras se desarrolle la actividad y será fácilmente reversible a la situación previa, una
+vez que ésta finalice.
+No se afecta a espacios protegidos de Castilla-La Mancha. El área protegida más próxima es la microrreserva de la
+Cueva de la Judía a unos 24 Km. No se detectan hábitats de protección especial ni montes de utilidad pública, por
+lo que no se requieren medidas adicionales.
+Dado que el Servicio de Medio Natural y Biodiversidad en su informe de fecha 5 de mayo de 2026 no observa
+afecciones negativas de consideración a áreas o recursos naturales protegidos ni a otros recursos de su competencia,
+imponiendo además una serie de medidas destinadas a minimizar los posibles impactos, se estima que la capacidad
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38865
+de acogida del territorio resulta apta para la actividad propuesta, siempre que la promotora adopte las medidas
+fijadas en el documento ambiental y en el presente Informe, así como aquellas recogidas en posteriores documentos
+que se realicen durante la vida útil de la instalación y su desmantelamiento.
+En materia de patrimonio cultural, según informe favorable de la Delegación Provincial de Educación, Cultura y
+Deportes de Cuenca de fecha 12 de junio de 2026, el elemento cultural de tipo etnográfico “Era de Vallejo de
+las Colmenas” (07160260020) documentado en el Documento de Protección del Patrimonio Arqueológico en el
+Planeamiento Urbanístico de Atalaya del Cañavate (Cuenca), no podrá resultar afectado en ningún caso por los
+diferentes trabajos y obras previstas, tanto en su fase de construcción como en la de funcionamiento (instalación
+de líneas eléctricas de abastecimiento, vías de acceso, tuberías de abastecimiento de agua, vallado perimetral de
+las parcelas, etc.), por lo que se recomienda que sea adecuadamente balizado y señalizado en el terreno para su
+identificación por los agentes de la obra civil y se evite cualquier riesgo de afección por la intervención a realizar. No
+obstante, indica dicho informe que en el caso de que aparecieran restos arqueológicos/paleontológicos durante la
+ejecución del proyecto, se deber· actuar conforme a lo previsto en el artículo 44.1 de la Ley 16/1985 de Patrimonio
+Histórico Español y 52.4 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha (deber
+de comunicación a la Administración competente en materia de Patrimonio Cultural) para antes de continuar con la
+ejecución de dicho proyecto, garantizar su control arqueológico.
+Afección hidrológica: No se prevén afecciones a cauces superficiales. El cauce más cercano es el arroyo tributario
+del arroyo del Lavadero a unos 110 metros al norte. La gestión del estiércol producido, en cuanto almacenada en
+el interior de la nave sobre una solera de hormigón impermeabilizada y cubierta, con extracción continua para su
+valorización como abono orgánico en las parcelas familiares conforme a las buenas prácticas culturales y diversidad
+de cultivos permiten la aplicación a lo largo de todo el año, evitando la contaminación de acuíferos.
+En cuanto al consumo de recursos hídricos para la instalación de la explotación ganadera, a partir de un promedio
+de 30 litros por animal y día se estima un volumen anual de unos 3.000 m³ anuales. En este sentido el informe de
+la Confederación Hidrográfica del Guadiana de fecha 22 de junio de 2026 establece una concreción respecto al
+consumo de agua por la explotación, valorando unas necesidades hídricas entre 2.160-6.750 m³/año solo para
+bebida de animales de acuerdo con el número de cabezas de la explotación. No obstante, recuerda que cuando
+el abastecimiento de agua se realiza desde la red municipal, la competencia para el suministro es del propio
+Ayuntamiento, siempre y cuando disponga de los derechos de uso suficientes. En este caso, el Ayuntamiento de
+Atalaya de Cañavate certifica en pleno en sesión de fecha 17 de agosto de 2026 la no existencia de impedimento
+en dar servicio de agua a esta explotación siempre y cuando la misma cumpla con toda la normativa existente,
+y no afecte al bienestar de los vecinos. A este respecto, el informe de la Delegación Provincial de Sanidad de
+Cuenca de fecha 2 de julio de 2026 establece la no existencia de afección de las competencias asumidas por la
+misma, instando no obstante y teniendo en cuenta que el suministro del agua se realizará desde la red municipal,
+desde el Ayuntamiento de Atalaya del Cañavate se deberá justificar que, en ningún momento, se pondrá en riesgo
+el suministro de agua a la población del término municipal de Atalaya del Cañavate, tanto en lo que se refiere a la
+cantidad como a la calidad de la misma. En este sentido con fecha 21 de octubre de 2026 el Ayuntamiento traslada
+por vía no reglamentaria, al Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de
+Cuenca, una comunicación municipal de fecha 20 de octubre de 2026 sobre las circunstancias actuales del sistema
+de abastecimiento de agua en el municipio afectado por problemas en el tramo del acueducto Tajo-Segura (Tubería
+Manchega) conllevando a priorizar el suministro de la población del municipio, no pudiendo garantizar actualmente
+el suministro de agua a la explotación ganadera hasta que se restablezca la normalidad del suministro procedente
+de la Tubería Manchega. Dicha información vendría apoyada actualmente con las noticias trascendidas sobre la
+situación del sistema de abastecimiento en alta Llanura Manchega como consecuencia de las obras de emergencia
+de reparación de dos tramos del acueducto Tajo-Segura tras la declaración de emergencia del Ministerio para la
+Transición Ecológica y el Reto Demográfico (Miteco) estimándose un plazo de obras entre cuatro y cinco meses,
+afectando por lo tanto al Ramal 1 de la tubería principal a la que incluye al municipio de Atalaya del Cañavate.
+Respecto a la identificación, descripción, análisis y cuantificación de los efectos esperados, derivados de
+la vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se
+produzcan dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio
+ambiente, el análisis de posibles riesgos, considerando la vulnerabilidad de la explotación ganadera, presentaría
+un riesgo bajo.
+Contaminación atmosférica: el impacto de la actividad se deberá a la posible generación de olores, ruidos y polvo,
+principalmente por la producción de estiércol en la explotación.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38866
+En primer lugar, se debe considerar el informe municipal sobre compatibilidad urbanística en el que se establece,
+en cuanto la ubicación de la explotación, como suelo no urbanizable con uso principal agrario de acuerdo con las
+Normas Subsidiarias de Planeamiento Municipal con Ámbito Provincial de la provincia de Cuenca (equivalente al
+suelo rústico recogido en el Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística)
+adecuándose al planeamiento vigente en el municipio y demás normativa sectorial aplicable enfatizando el
+condicionante de protección cultural. Del mismo modo no se infiere incumplimiento sobre distancias teniendo en
+cuenta el Real Decreto 1053/2022, de 27 de diciembre, por el que se establecen normas básicas de ordenación de
+las granjas bovinas. En este sentido es relevante el informe de la Oficina Comarcal Ganadera de San Clemente sobre
+el cumplimiento del Decreto 69/2018, de 2 de octubre, por el que se establecen las normas para la ordenación y
+registro de explotaciones ganaderas y núcleos zoológicos en Castilla-La Mancha, no pudiendo inferir incumplimiento
+sobre distancias establecidas en la respectiva norma básica de ordenación de las explotaciones en función de
+la especie respecto de otras explotaciones ganaderas, así como a establecimientos, instalaciones, poblaciones,
+carreteras y caminos que puedan constituir fuente de contagio.
+El potencial impacto durará mientras se desarrolle la actividad y será fácilmente reversible a la situación previa, una
+vez que ésta finalice.
+La explotación bovina establecerá su actividad en un recinto cerrado, en el cual el estiércol generado permanece
+en la explotación hasta el momento de su aplicación en un estercolero impermeabilizado, estableciendo que, por la
+diversidad de cultivos indicados por el promotor, la extracción de estiércol es continua, quedando hasta entonces
+cubierta en la nave interior y solera impermeable.
+La ubicación del estercolero (Atalaya del Cañavate) no se incluye en zona vulnerable a la contaminación por nitratos,
+al igual que las otras parcelas donde se repartiría el estiércol, ubicadas en Cañada Juncosa y El Cañavate.
+Por el tipo de actividad, el impacto probable en cuanto a olores se debe a la producción de metano de la fermentación
+anaerobia del estiércol y la fermentación entérica, por tanto, se deberán tener en cuenta las medidas preventivas para
+reducir dicha afección en cuanto olores y polvo. Del mismo modo, se expresan unas fuentes de emisión respecto
+(CO2, N2O y partículas) que por la capacidad de animales de la actividad ganadera se encuentra incluida en el
+catálogo de actividades potencialmente contaminadoras de la atmósfera, aprobado por el Real Decreto 100/2011,
+de 28 de enero, por el que se actualiza el catálogo de actividades potencialmente contaminadoras de la atmósfera
+y se establecen las disposiciones básicas para su aplicación y la Ley 34/2007, de 15 de noviembre, de calidad del
+aire y protección de la atmósfera.
+El estudio de vientos dominantes aportado, indica la existencia de cierta incidencia sobre el municipio, aunque no
+predominante. Por ello, durante el funcionamiento de la explotación, es imprescindible disponer de las infraestructuras
+necesarias para el alojamiento y manejo de los animales y preservar la protección ambiental tal como se confirma en
+el informe de la Oficina Comarcal Agraria de San Clemente, siendo esencial garantizar la limpieza regular y efectiva
+del estiércol y la ventilación natural, con el fin de evitar la emisión de olores, así como las medidas correctoras
+recogidas en el documento ambiental y las reflejadas en el presente informe ambiental. Esta vigilancia y control, y
+especialmente la frecuencia estaría supeditado a las necesidades que establezcan tanto el Ayuntamiento a través
+de sus ordenanzas así como las Administración competente en materia de ganadería y el propio promotor mediante
+la actividad veterinaria respecto a la explotación de acuerdo a los condicionantes del Real Decreto 346/2025, de 22
+de abril, por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal,
+en lo relativo a las obligaciones de vigilancia del titular de la explotación, sumado a la vigilancia sanitaria de los
+riesgos para la salud derivados de la contaminación atmosférica realizada por la Consejería de Sanidad. De este
+modo, no se infiere afección plausible en este orden en referencia a los datos del promotor, así como informes de
+las Administraciones comentadas anteriormente.
+Destacar igualmente que a través del informe municipal no se ha podido establecer efectos sinérgicos con otros
+proyectos u otras actividades relevantes del municipio que pudieran verse afectadas, todo ello circunscrito sobre un
+área espacial que implica un tamaño de población de aproximadamente 98 habitantes de acuerdo con el documento
+ambiental con un índice de envejecimiento muy acentuado.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas preventivas y correctoras que con carácter general se señalan en el estudio de impacto
+ambiental, se cumplirán las condiciones y medidas que se indican a continuación, debiendo entenderse que en
+aquellos casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en el presente
+informe.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38867
+4.1. Afección sobre áreas y recursos naturales protegidos, fauna y flora.
+La actuación no se ubica dentro de los límites de espacios naturales protegidos, espacios protegidos Red Natura 2000
+u otras zonas sensibles conforme a la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza de Castilla-La
+Mancha, ni afecta a dominio público pecuario y forestal. No obstante, se hacen las siguientes consideraciones:
+El vallado perimetral no podrá contar con voladizos o visera superior, alambre de espino, elementos cortantes o
+punzantes. No se permite en ningún caso tener incorporados dispositivos para conectar corriente eléctrica.
+Se llevará a cabo una adecuada gestión de cadáveres conforme a legislación vigente.
+Con respecto al consumo de agua, se adecuará conforme a las necesidades hídricas reales del uso que se solicita,
+debiendo estudiarse las condiciones particulares del aprovechamiento para que se valore adecuadamente su
+compatibilidad con la preservación y mejora de los acuíferos y alcanzar un buen estado de las masas de agua.
+La gestión del estiércol y de la explotación en general, se realizará de tal forma que evite contaminación de aguas
+subterráneas o superficiales, debiendo contar con un plan de mantenimiento.
+Se tendrán en cuenta las medidas encaminadas a la prevención de incendios forestales, tanto en la Ley 3/2008,
+de 12 de junio, de Montes y Gestión Forestal Sostenible como en la Orden de la Consejería de Medio Ambiente y
+Desarrollo Rural de 16 de mayo de 2006 por las que se regulan las campañas para prevención de incendios forestales
+y modificaciones posteriores, y la Resolución de 3 de Junio de 2024, de la Viceconsejería de Medio Ambiente, por la
+que se establecen limitaciones temporales para disminuir el riesgo de incendios en el medio natural.
+De constatarse afecciones negativas a recursos naturales protegidos, este Servicio Provincial podrá establecer las
+medidas oportunas para su conservación y la recuperación de las condiciones originales.
+4.2. Bienestar animal y salubridad.
+Las instalaciones de ganado vacuno deberán cumplir los requisitos establecidos en el Real Decreto 1047/1994, de
+20 de mayo, relativo a las normas mínimas para la protección de terneros, modificado por el Real Decreto 229/1998,
+de 16 de febrero, y por Real Decreto 692/2010, de 20 de mayo, así como en el Real Decreto 1053/2022, de 27 de
+diciembre, por el que se establecen normas básicas de ordenación de las granjas bovinas, en concreto el artículo
+7. Requisitos de bienestar animal de las explotaciones bovinas, que contempla aspectos como el diseño de las
+instalaciones, el confort térmico, la calidad del agua y alimento, y el espacio disponible para los animales. También
+deberá cumplir con lo especificado en el Real Decreto 348/2000, de 10 de marzo, de protección de los animales
+en las explotaciones ganaderas, la Ley 32/2007, de 7 de noviembre, de cuidado de los animales en su explotación,
+transporte, experimentación y sacrifico, y Ley 8/2003, de 24 de abril, de sanidad animal. Como explotación ganadera
+se ordenará por el Decreto 69/2018, de 2 de octubre por el que se establecen las normas para la ordenación y
+registro de explotaciones ganaderas y núcleos zoológicos en Castilla-La Mancha.
+Deberán cumplirse las medidas y frecuencias dispuestas de acuerdo con el Real Decreto 346/2025, de 22 de abril,
+por el que se establecen las bases de desarrollo de la normativa de la Unión Europea de sanidad animal, en lo
+relativo a las obligaciones de vigilancia del titular de la explotación.
+La explotación deberá contar con un programa eficaz de vigilancia y control de plagas, utilizando medidas de
+prevención y control tanto físicas como químicas, en este caso a través de plaguicidas (insecticidas y raticidas)
+autorizados para su utilización en la explotación y su aplicación a través de aplicador de acuerdo con la normativa
+vigente.
+4.3. Gestión de residuos y de subproductos animales.
+De acuerdo con la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular y al Real
+Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los residuos de construcción y
+demolición, los residuos deberán ser entregados a un gestor autorizado.
+La Ley 7/2022, en sus artículos 20 y 21, establece las obligaciones de los productores iniciales y demás poseedores
+de residuos en relación con su gestión, así como las normas sobre almacenamiento, mezcla, envasado y etiquetado.
+En cuanto a la comunicación previa al inicio de las actividades de producción y gestión de residuos, el artículo 35
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38868
+dispone los supuestos en que será necesario presentar una comunicación previa al inicio de sus actividades ante la
+autoridad competente de la comunidad autónoma donde estén ubicadas, las entidades o empresas. Asimismo, las
+personas físicas o jurídicas registradas y los productores iniciales que generen más de 10 toneladas de residuos
+no peligrosos al año dispondrán de un archivo electrónico donde se recojan, por orden cronológico, la cantidad,
+naturaleza y origen del residuo generado y demás condiciones que se establecen en el artículo 64, así como las
+obligaciones de información reguladas en los artículos 65 y 66, de dicha Ley.
+Los residuos peligrosos y no peligrosos generados en la explotación se almacenarán en contenedores estancos
+debidamente etiquetados, hasta su recogida por un gestor autorizado y se dispondrán en un local ventilado y bien
+iluminado, tal y como se establece en la Orden 21/01/2003 de la Consejería de Agricultura y Medio Ambiente,
+por la que se regulan las normas técnicas específicas que deben cumplir los almacenes y las instalaciones de
+transferencia de residuos peligrosos. No obstante, debe garantizarse una correcta gestión de estos residuos en
+la propia explotación mediante el manejo y almacenamiento en condiciones seguras y adecuadas a la normativa
+vigente.
+En cumplimiento del artículo 10 del citado Real Decreto, el promotor deberá presentar un plan de producción y/o
+gestión de estiércoles, que garantice una adecuada valorización agronómica de acuerdo con la superficie agrícola
+correspondiente y la cantidad de estiércol de acuerdo con el contenido de nitrógeno de este.
+El estercolero dispondrá de solera impermeabilizada y diseñado de tal modo que se evite la salida de los lixiviados
+que puedan producirse. La capacidad de almacenamiento de estiércoles deberá ser suficiente y adecuada a la
+gestión prevista en el plan de gestión y producción de estiércoles.
+La explotación deberá cubrir el estiércol durante el tiempo que lo almacenen en su explotación.
+En la eliminación de los cuerpos animales, se deberá cumplir lo establecido en el Reglamento nº 1069/2009 del
+Parlamento Europeo y del Consejo de 21 de octubre de 2009, por el que se establecen las normas sanitarias
+aplicables a los subproductos animales y los productos derivados no destinados al consumo humano y por el que se
+deroga el Reglamento nº 1774/2002, y en el Real Decreto 1528/2012, de 8 de noviembre, por el que se establecen
+las normas aplicables a los subproductos animales y los productos derivados no destinados al consumo humano
+(Sandach), con el fin de prevenir y reducir al mínimo los riesgos para la salud pública y la salud animal que entrañan
+dichos productos. La gestión de los cadáveres deberá realizarse a través de gestor autorizado.
+Por el tipo de especie existente en la explotación, debido a su volumen y peso de los bovinos, y hasta la retirada
+de los cadáveres, se deberá situar en una zona alejada del área de actividad ganadera así como de la zona de
+la explotación más cercana al municipio, y siempre que sea posible sobre una superficie pavimentada de fácil
+limpieza y con un desagüe para la evacuación de los líquidos generados en la limpieza. Se mantendrá una limpieza
+y desinfección de la zona donde ha permanecido este, así como de todo el material que pudiera haber estado en
+contacto con el cadáver.
+4.4. Protección del sistema hidrológico.
+De acuerdo con lo dispuesto por la Consejería de Sanidad en el informe de fecha 2 de julio de 2026, se deberá
+garantizar que en ningún momento se pondrá en riesgo el suministro de agua a la población del término municipal
+de Atalaya del Cañavate, tanto en lo que se refiere a la cantidad como a la calidad de la misma. A este respecto,
+se deberá justificar la finalización de las circunstancias temporales sobre obras de emergencia en el tramo del
+acueducto Tajo-Segura con la recuperación de la situación de normalidad del sistema de abastecimiento de agua en
+el municipio de Atalaya del Cañavate y el suministro a la explotación ganadera.
+En este sentido, el informe de la Confederación Hidrográfica del Guadiana, de fecha 22 de junio de 2026 establece
+sobre el consumo de agua las referencias de la documentación aportada para un promedio de 30 litros por animal y
+día, con una estimación para un volumen anual de unos 3.000 m³ anuales, procedente de la red municipal. Estable
+dicha Confederación que siendo el número de cabezas de la explotación de 270 y considerando las necesidades
+unitarias por tipo de ganado contempladas en el apéndice 7.8 del Plan Hidrológico de la parte española de la
+Demarcación Hidrográfica del Guadiana (DHGn), aprobado por el Real Decreto 35/2023, de 24 de enero (B.O.E. nº
+35, de 10/02/2023), (8 - 25 m³ /cabeza/año), las necesidades hídricas ascenderían a 2.160 – 6.750 m³ /año, sólo
+para bebida de los animales. Cuando el abastecimiento de agua se realiza desde la red municipal, la competencia
+para el suministro es del propio Ayuntamiento, siempre y cuando disponga de los derechos de uso suficientes.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38869
+En cuanto a los vertidos al dominio público hidráulico (DPH), la Confederación establece para las aguas residuales
+generadas en el aseo y vestuario y que serán conducidas a fosa séptica estanca según el documento ambiental, las
+siguientes consideraciones:
+Al no producirse vertido al DPH, no se consideraría necesario tramitar la correspondiente autorización administrativa
+de vertido a que se refiere el artículo 100 del TRLA. No obstante, y al objeto de garantizar la no afección a las aguas,
+se deberán cumplir las siguientes condiciones:
+- El depósito para almacenamiento de aguas residuales debe ubicarse a más de 40 metros de pozos y de 25 metros
+de cauces o lechos del DPH.
+- Se debe garantizar la completa estanqueidad del referido depósito. Para ello, el titular de la construcción debe
+tener a disposición de los organismos encargados de velar por la protección del Medio Ambiente, a petición del
+personal acreditado por los mismos, el correspondiente certificado suscrito por técnico competente.
+- El depósito deberá ser completamente estanco, de forma que no tenga salida al exterior y sólo exista una entrada del
+efluente y una boca superior por la que el gestor autorizado retire periódicamente las aguas residuales almacenadas
+en su interior. En la parte superior del depósito se debe instalar una tubería de ventilación al objeto de facilitar la
+salida de gases procedentes de la fermentación anaerobia.
+- El depósito debe ser vaciado por un gestor de residuos debidamente autorizado de conformidad con la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular, con la periodicidad adecuada para
+evitar el riesgo de rebosamiento del mismo. A tal efecto, debe tener a disposición de los organismos encargados
+de velar por la protección del Medio Ambiente, a petición del personal acreditado por los mismos, la documentación
+que acredite la recogida y destino adecuados de las aguas residuales acumuladas en dicho depósito; y, asimismo,
+deberá comunicar a dichos organismos cualquier incidencia que pueda ocurrir.
+En cuanto a la producción y gestión de los estiércoles producidos, la documentación aportada indica que la
+explotación contará con un estercolero.
+Para evitar que la construcción y/o gestión de las infraestructuras de almacenamiento de residuos pudieran contribuir
+a la degradación del entorno y constituir un riesgo de contaminación de las aguas (superficiales y/o subterráneas), las
+características constructivas de las instalaciones deberán ser las adecuadas para evitar el riesgo de contaminación
+a aguas subterráneas y superficiales, garantizando, entre otros, la impermeabilidad, estanqueidad y evitación de
+escorrentías contaminantes.
+Cabe destacar que el régimen de autorización, vigilancia, inspección y sanción de las actividades de producción
+y gestión de residuos, encuadrado en el ámbito de la recogida a la espera de tratamiento, corresponde al órgano
+ambiental competente de la Comunidad Autónoma donde están ubicadas las instalaciones, según establece la Ley
+7/2022 de 8 de Abril de residuos y suelos contaminados para una economía circular, siendo el órgano ambiental el
+que debe pronunciarse sobre el diseño, ubicación, capacidad de almacenamiento y mantenimiento de las citadas
+instalaciones, sin que, en caso alguno, sea inferior a la precisa para albergar los residuos que se produzcan en un
+periodo mínimo de tres meses.
+Así mismo, dependiendo de las dimensiones y capacidad de embalse de las balsas, corresponde a la Junta de
+Comunidades de Castilla-La Mancha designar a los órganos competentes en materia de seguridad a efectos
+determinar el posible riesgo potencial derivado de una rotura o funcionamiento incorrecto en relación con aquellas
+balsas ubicadas fuera del DPH, conforme a lo dispuesto en el art. 360 del Reglamento del DPH.
+El artículo 260 bis del Reglamento del DPH, relativo al control de la contaminación por almacenamiento y aplicación
+de estiércoles para abonado, establece que esta última deberá realizarse sin que se cause daño a los bienes de
+DPH, por lo que se prohíbe:
+a. Efectuar vertidos directos o indirectos de cualquier residuo ganadero que contaminen las aguas.
+b. Acumular residuos ganaderos que constituyan o puedan constituir un peligro de contaminación de las aguas o de
+degradación de su entorno como resultado de su almacenamiento o gestión.
+Con este fin, conforme a lo establecido en el Real Decreto 1051/2022, de 27 de diciembre, por el que se establecen
+normas para la nutrición sostenible en los suelos agrarios, los estiércoles, tanto sólidos como purines, no se
+podrán aplicar a menos de cinco metros de las orillas de los ríos, lagos, masas de agua estancadas, captaciones
+subterráneas de agua para consumo humano, pozos y fuentes, sin perjuicio de que las comunidades autónomas
+puedan establecer una distancia superior, en especial, en aquellas masas de agua que incumplan los objetivos
+medioambientales.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38870
+Conforme a lo recogido en el artículo 260 bis 5 del Reglamento del DPH, en el caso de que se causen daños al DPH
+como consecuencia de una inadecuada gestión de éstos, se exigirá al responsable de la actuación o, en su defecto,
+al titular del terreno, la responsabilidad por acciones causantes de daños al DPH derivadas del incumplimiento del
+artículo 97 del TRLA y del artículo 234 del Reglamento del DPH, siendo de aplicación el régimen de infracciones y
+sanciones establecidos en el artículo 116 y siguientes del TRLA.
+En los perímetros de protección de captaciones destinadas al consumo humano, incluidos en el apéndice 2 del
+Anejo 8 de la Memoria del Plan Hidrológico de la DHGn, no se permitirá la valorización de residuos de ningún tipo.
+La aplicación de estiércol a menos de 100 m. de cauces públicos, lagos, lagunas y embalses precisará autorización
+administrativa previa de este organismo, en virtud de lo dispuesto en los artículos 9 y 81 del Reglamento del DPH.
+Todo lo anterior se considera referido al supuesto de que no exista vertido final al DPH. En el caso de que existiera
+éste, deberá solicitar a la Comisaría de Aguas de la Confederación Hidrográfica del Guadiana (CHGn) la preceptiva
+autorización de vertido referida en el artículo 100 del TRLA.
+Se consideran vertidos los que se realicen directa o indirectamente en las aguas continentales, así como en el resto
+del DPH, cualquiera que sea el procedimiento o técnica utilizada.
+Conforme a lo dispuesto en el artículo 245 del Reglamento del DPH, queda prohibido con carácter general el vertido
+directo o indirecto de aguas y productos residuales susceptibles de contaminar las aguas continentales o cualquier
+otro elemento del DPH, salvo que se cuente con la previa autorización.
+4.5. Protección contra el ruido, olores y emisión de partículas a la atmósfera.
+La actividad se encuentra recogida en el grupo C del Catálogo de actividades potencialmente contaminadoras de
+la atmósfera (Capca), de la Ley 34 /2007 de 15 de noviembre de calidad del aire y protección de la atmósfera, por
+lo que es preceptiva su notificación a la Viceconsejería de Medio Ambiente. Además, al encontrarse a menos de
+500 m. del núcleo de población podría considerarse del grupo B, quedando sometida al régimen de notificación o
+autorización (según proceda).
+Para evitar las posibles molestias por olores se deberán seguir las siguientes consideraciones:
+- La evacuación de estiércol se realizará periódicamente y se evitarán en todo caso puntos de acumulación
+incontrolados de este y de cualquier otro residuo susceptible de generar malos olores.
+- Se empleará un dispositivo para conocer la dirección del viento y planificar mejor el manejo del estiércol.
+- El transporte de estiércoles se realizará mediante un sistema de transporte suficientemente estanco e inodoro.
+- Se planearán los itinerarios de transporte de estiércol de forma que se evite el paso por núcleos urbanos o zonas
+sensibles (uso recreativo, etc.).
+- Se evitarán movimientos de estiércoles en días de viento intenso y en los que la dirección predominante del viento
+afecte a la población.
+- Se garantizará el uso y mantenimiento de barreras naturales por la zona más cercana al municipio a efectos de
+minorar efectos de vientos con posible incidencia.
+- Se suministrarán dietas bajas en proteína para la alimentación del ganado.
+Para evitar o reducir la producción de polvo, se garantizará las siguientes consideraciones:
+- Durante la fase de construcción se realizarán riegos periódicos de la zona de obras, así como de los viales de
+acceso, de modo que se reduzca la cantidad de polvo emitido a la atmósfera.
+- Cualquier operación de descarga se realizará a la mínima altura posible para disminuir la producción de material
+pulverulento.
+- Mantener toda la explotación limpia de polvo y restos de pienso, regando ligeramente si fuera preciso.
+Para evitar las posibles molestias por ruidos:
+- Se deberá cumplir lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, así como en los reglamentos
+de desarrollo y en las ordenanzas municipales.
+- Se planificarán las actividades discontinuas (reparto de pienso, extracción de estiércol y entradas y salidas de
+camiones), de modo que se realicen en horario diurno, reduciendo al mínimo imprescindible las tareas durante el
+fin de semana.
+- Los equipos a instalar serán de bajo nivel de ruido.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38871
+- Se llevará a cabo un mantenimiento periódico y adecuado de la maquinaria y los motores, para evitar ruidos
+innecesarios.
+- El ruido producido por los motores propios de la explotación se atenuarán encerrándose en casetas o instalándose
+dentro de las naves en la medida de lo posible.
+- Se garantizará el uso o mantenimiento de barreras naturales
+4.6. Protección de la salud humana.
+No se advierten peligros ni riesgos significativos sobre la salud humana. De acuerdo con el informe de la Consejería
+de Sanidad de 2 de julio de 2026, se deberán cumplir las medidas preventivas, correctivas y de vigilancia que sean
+precisas para la protección de aquellos impactos que, durante el desarrollo y la ejecución de la actividad/instalación
+proyectada, pudieran darse sobre el agua, el aire y el ruido, ya que dichos factores son los que representan una
+mayor relevancia sobre la salud humana, de la población en general, y de los trabajadores en particular. Así mismo
+se deberá cumplir toda la normativa sectorial vigente en lo referente a la bioseguridad en explotaciones de ganado
+bovino, a la prevención, lucha, control y/o erradicación de enfermedades animales y zoonosis, y, finalmente, a las
+resistencias antimicrobianas.
+4.7. Protección del Patrimonio cultural, pecuario y forestal.
+Sobre la posible afección a bienes patrimoniales o restos arqueológicos, la Delegación Provincial de Educación,
+Cultura y Deportes de Cuenca, en su informe favorable de 12 de junio de 2026 indica que en el caso de que
+aparecieran restos arqueológicos/paleontológicos durante la ejecución del proyecto, se deberá actuar conforme a
+lo previsto en el artículo 44.1 de la Ley 16/1985 de Patrimonio Histórico Español y 52.4 de la Ley 4/2013, de 16 de
+mayo, de Patrimonio Cultural de Castilla-La Mancha (deber de comunicación a la Administración competente en
+materia de Patrimonio Cultural) para antes de continuar con la ejecución de dicho proyecto, garantizar su control
+arqueológico.
+El elemento cultural de tipo etnográfico “Era de Vallejo de las Colmenas” (07160260020) documentado en el
+Documento de Protección del Patrimonio Arqueológico en el Planeamiento Urbanístico de Atalaya del Cañavate
+(Cuenca), no podrá resultar afectado en ningún caso por los diferentes trabajos y obras previstas, tanto en su fase
+de construcción como en la de funcionamiento (instalación de líneas eléctricas de abastecimiento, vías de acceso,
+tuberías de abastecimiento de agua, vallado perimetral de las parcelas, etc.), por lo que se recomienda que sea
+adecuadamente balizado y señalizado en el terreno para su identificación por los agentes de la obra civil y se evite
+cualquier riesgo de afección por la intervención a realizar.
+Cualquier modificación y/o ampliación del emplazamiento de las diversas infraestructuras del proyecto de obra civil
+autorizado en este momento deberá contar con el visado y la autorización de la Delegación Provincial de Educación,
+Cultura y Deportes de Cuenca.
+4.8. Protección del paisaje.
+La adecuación en relación con la armonización con el entorno deberá ajustarse a lo dispuesto en el artículo 16
+del Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico. En concreto se
+destaca la obligación de que las construcciones deberán presentar todos los parámetros exteriores y cubiertas
+totalmente terminados, empleando las formas y los materiales que menor impacto produzcan, así como de los
+colores tradicionales en la zona o, en todo caso, los que favorezcan en mayor medida la integración en el entorno
+inmediato y en el paisaje.
+Se deberán cumplir las prescripciones técnicas que indique el Ayuntamiento en las correspondientes licencias o
+permisos de su competencia.
+4.9. Adecuación urbanística y protección de infraestructuras.
+Se deberá cumplir con las prescripciones de la Orden de 4/2020, de 8 de enero de la Consejería de Fomento, por
+la que se aprueba la instrucción técnica de planeamiento sobre determinados requisitos sustantivos que deberán
+cumplir las obras, construcciones e instalaciones sobre suelo rústico, así como las especificaciones que establece
+el Decreto Legislativo 1/2023, de 28 de febrero de 2023, por el que se aprueba el Texto Refundido de la Ley de
+Ordenación del Territorio y de la Actividad Urbanística.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38872
+La Dirección General de Carreteras dependiente del Ministerio de Transportes y Movilidad Sostenible, informa que
+no existen afecciones a la Autovía A-3, no obstante, en caso de realizarse alguna actuación dentro de las zonas de
+protección de la Autovía A-3 deberá solicitarse autorización de construcción.
+El proyecto en todo caso deberá cumplir las prescripciones técnicas que indique el Ayuntamiento, en las
+correspondientes licencias o permisos de su competencia.
+4.10. Cese de la actividad.
+Si cesara la actividad de este proyecto, ya sea de forma temporal o permanente, el promotor deberá realizar la
+evacuación del estiércol existente en la explotación, así como cualquier otro residuo que pudiera quedar almacenado,
+por medio de los procedimientos que se han establecido con anterioridad.
+Si además lo que se realiza es un desmantelamiento de las instalaciones, los residuos generados durante esta
+fase estarán sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una
+economía circular, dejando el área de actuación en perfecto estado de limpieza. El desmontaje y la restauración
+deberán realizarse en el plazo más breve posible técnicamente y deberá ponerse en conocimiento de la Delegación
+Provincial de la Consejería de Desarrollo Sostenible de Cuenca para dar por finalizado el expediente, debiendo,
+antes de empezar el desmantelamiento, entregar en esta Delegación Provincial el plan a seguir y el compromiso del
+promotor de su realización.
+Quinto. Programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo, que en este caso es el Ayuntamiento de Atalaya del Cañavate, el seguimiento del
+cumplimiento del Informe de Impacto ambiental.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se
+deben adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo el promotor asignar un
+responsable del mismo, notificando su nombramiento tanto al órgano sustantivo como al órgano ambiental, que es
+el encargado último del control e inspección del cumplimiento de dicho programa y de las condiciones fijadas en el
+presente informe de impacto ambiental.
+Una vez finalizada la ejecución del proyecto, el promotor remitirá al órgano sustantivo un informe de seguimiento
+sobre el cumplimiento de las condiciones y de las medidas correctoras establecidas en la presente declaración. Este
+informe incluirá un listado de comprobación de las medidas previstas en el programa de vigilancia ambiental. Cada
+informe deberá estar suscrito conjuntamente por el promotor y el responsable del seguimiento y vigilancia ambiental
+del proyecto. El programa de vigilancia y el listado de comprobación se harán públicos en la sede electrónica del
+órgano sustantivo. El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede
+electrónica del órgano sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para verificar
+el cumplimiento del condicionado de la declaración de impacto ambiental. De las inspecciones llevadas a cabo por
+el órgano sustantivo y por el órgano ambiental, podrán derivarse modificaciones de las actuaciones previstas, con el
+fin de lograr la consecución de los objetivos del Informe de declaración de impacto ambiental. Estas modificaciones
+tendrán que ser autorizadas conjuntamente por ambos órganos.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El promotor está obligado a permitir a los funcionarios que ostenten la condición de autoridad pública el acceso a las
+instalaciones y lugares vinculados a la ejecución del proyecto, de acuerdo con las garantías previstas en el artículo
+18 de la Constitución.
+Asimismo, el promotor estará obligado a prestarles la colaboración necesaria para su desarrollo, facilitando cuanta
+información y documentación les sea requerida a tal efecto.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38873
+El seguimiento y la vigilancia, además de lo expuesto en el documento ambiental y documentación complementaria
+aportada, deberán incidir en los siguientes puntos:
+- Control de la impermeabilización de las instalaciones y de la adecuada estanqueidad de los elementos constructivos,
+de forma que se evite cualquier tipo de afección hidrológica.
+- Control del almacenamiento y la correcta gestión de todos los residuos generados (peligrosos, no peligrosos,
+Sandach, etc.).
+- Control de estiércoles a través de un programa de producción y gestión donde se recoja el volumen generado,
+tiempo de almacenamiento en la explotación y destino del mismo.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Vigilancia de los trabajos cumpliendo las condiciones establecidas en documento ambiental e informe de impacto
+ambiental.
+- Control de la correcta instalación y/o acondicionamiento del cerramiento, según las características de la malla
+indicadas en la presente Resolución.
+- Control del número de cabezas autorizadas en la explotación, que no deberá superar la cifra indicada en el
+documento ambiental presentado.
+- Control del cumplimiento medidas correctoras de contaminación atmosférica. En particular, se deberá controlar la
+afección por malos olores en la población más próxima atribuible a estas instalaciones, y en su caso, medidas para
+la erradicación de los mismos.
+- Control del almacenamiento y la correcta gestión de la eliminación de cuerpos animales y/o subproductos animales
+y los productos derivados no destinados al consumo humano.
+- Plan de producción y gestión de estiércol, que incluirá, como mínimo: cantidad de estiércol (Kg o m³), cantidad de
+nitrógeno contenida en el estiércol (Kg N), fecha de entrega (salida de la explotación), identificación de parcelas de
+destino (polígono y parcela objeto de valorización agronómica), ...
+Sexto. Documentación adicional a presentar por el promotor.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Delegación Provincial de la
+Consejería de Desarrollo Sostenible de Cuenca.
+a) Previo al inicio de la actividad:
+- Solicitud de inscripción en el Registro de Explotaciones Ganaderas conforme a lo establecido en el artículo 9
+Decreto 69/2018 de 2 de octubre por el que se establecen las normas para la ordenación y registro de explotaciones
+ganaderas y núcleos zoológicos en Castilla-La Mancha por el número total de animales objeto del proyecto.
+- Designación por parte del promotor de la persona responsable del cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Contrato con gestor autorizado para la retirada de los residuos peligrosos y del resto de residuos generados en la
+explotación.
+- Contrato con gestor autorizado para la retirada de Sandach.
+- Documentos acreditativos de la gestión de los estiércoles, residuos generados y aguas residuales.
+- Acreditación, por parte de la promotora, de que se dispone de superficie agrícola suficiente para la valorización del
+estiércol como abono órgano-mineral, teniendo en cuenta, en su caso, la posible utilización de superficie para otra/s
+explotaciones familiares.
+- Certificado que acredite la adecuación urbanística, la clasificación del suelo y las condiciones de uso autorizadas
+por el Ayuntamiento de Atalaya del Cañavate. Deberá aportar licencia de Actividad una vez justificada la garantía de
+suministro de agua por el Ayuntamiento de Atalaya del Cañavate.
+- La comunicación o en su caso, la autorización de la Dirección General de Calidad Ambiental para ejercer actividades
+potencialmente contaminadoras de la atmósfera.
+b) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cinco primeros años de
+funcionamiento del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y
+vigilancia ambiental.
+Además, el promotor queda obligado antes del inicio de las obras a comunicar al órgano sustantivo el comienzo, para
+que este lo ponga en conocimiento al órgano ambiental. Durante el periodo de explotación, la guardia y custodia de
+toda la documentación derivada de las actuaciones recogidas, que demuestren que se están llevando a cabo las
+medidas correctoras y preventivas previstas.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38874
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible de
+Cuenca, en virtud del Decreto 87/2019, de 16 de julio, por el que se establece la estructura orgánica y las competencias
+de la Consejería de Desarrollo Sostenible, y en el ejercicio de las atribuciones conferidas por la Resolución de 26 de
+diciembre de 2019, de la Dirección General de Economía Circular, por la que se delegan competencias en materia
+de evaluación ambiental en las delegaciones provinciales de la Consejería de Desarrollo Sostenible. y conforme a la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto “Explotación
+Intensiva para Cebo de Vacuno” (expediente S478/2026/CU/00081) no necesita someterse a una Evaluación de
+Impacto Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que se
+cumplan las medidas ambientales y de seguimiento que propone la promotora y los requisitos ambientales que se
+desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+La promotora podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, la promotora
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+con antelación suficiente, así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación.
+La presente Resolución de Informe de Impacto Ambiental no exime de obtener los informes y autorizaciones
+pertinentes de otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+Cuenca, 22 de octubre de 2026
+El Delegado Provincial
+JOSÉ IGNACIO BENITO CULEBRAS

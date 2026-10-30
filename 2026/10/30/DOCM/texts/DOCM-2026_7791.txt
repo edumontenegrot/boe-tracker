@@ -1,0 +1,107 @@
+AÑO XLV Núm. 209 30 de octubre de 2026 38845
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/10/2026, de la Dirección General de Transición Energética, sobre modificación de la
+instalación solar fotovoltaica denominada La Nava, infraestructuras auxiliares y de evacuación. (Referencia:
+2703/00324). [2026/7791]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Ciudad Real y su informe,
+y el informe del Servicio de Instalaciones y Tecnologías Energéticas para la modificación de la instalación solar
+fotovoltaica denominada “La Nava”, infraestructuras auxiliares y de evacuación, con las siguientes características:
+- Referencia objeto de la presente resolución: 2703/00324-M5. (DP: DP: 13270203449 a 13240203456).
+- Peticionario: Instituto de Sistemas Fotovoltaicos de Concentración, S.A. NIF: A45629177.
+- Documentación Técnica: Proyecto Reposición La Nava 2026 Sustitución de 500 kW de módulos de concentración
+en la Instalación Fotovoltaica de 800 kW ubicada en La Nava (Puertollano), firmado por Oscar de la Rubia Carretero.
+- Características de la modificación: Sustitución de 200 kW de módulos de la tecnología Soitec en una primera fase
+y de 300 kW de la tecnología de Isofoton en una segunda por módulos fotovoltaicos convencionales LR7-72HVH
+640M del fabricante Longhi de 640W. Se mantendrá la potencia pico de la instalación en su conjunto. En cuanto
+a inversores, en la parte Isofoton, se dispone de 3 inversores Ingeteam de 100 kW que serán reemplazados por 3
+inversores de red Fronius modelo Tauro ECO 100-3-P de 100 kW. En la parte Soitec, se disponen de 36 inversores
+trifásicos de 5,5 kW, que serán reemplazados por 36 inversores Huawei modelo Sun2000-6KTL-M1, limitados a 5,5
+kW como los actualmente instalados. Con estas sustituciones de inversores no se modifica la configuración eléctrica
+ni los cableados actualmente existentes en la instalación.
+- Ubicación: P.I. La Nava, parcela 1C-01 de Puertollano (Ciudad Real).
+- Finalidad: Producción de energía eléctrica y vertido a la red de distribución.
+Antecedentes de hecho.
+Primero: La agrupación que se proyecta modificar dispone de autorización administrativa, otorgada por resolución de
+21/6/2007 de la Dirección General de Industria, Energía y Minas, aprobación de proyecto, otorgada por resoluciones
+de 15/1/2008 y 24/6/2008 de la Dirección General de Industria, Energía y Minas, y acta de puesta en marcha,
+otorgada por resolución de 5/9/2008 de la Delegación Provincial de Industria y Sociedad de la Información de Ciudad
+Real.
+Segundo: Con fecha 18/06/2026 se presenta ante la Delegación Provincial de Desarrollo Sostenible en Ciudad Real
+solicitud de autorización administrativa previa y autorización administrativa de construcción de una modificación de
+la agrupación de instalaciones solares fotovoltaicas situadas en P.I. La Nava, parcela 1C-01 de Puertollano (Ciudad
+Real), con una potencia instalada de 800 kWn.
+Tercero: Respecto a las afecciones ambientales, la instalación y su modificación no se encuentra incluida dentro de
+los anexos de la normativa que regula la evaluación de impacto ambiental.
+Cuarto: La Delegación Provincial de Desarrollo Sostenible en Ciudad Real cumplió con lo establecido en la
+resolución de 3/9/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en
+los/as delegados/as provinciales de la Consejería de Desarrollo Sostenible y ha elaborado con fecha 15/09/2026
+informe favorable a las solicitudes realizadas.
+Quinto: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable a las solicitudes
+realizadas.
+A estos antecedentes de hecho son aplicables los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la autorización administrativa
+previa y autorización administrativa de construcción de este tipo de instalaciones según lo establecido en el Decreto
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38846
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007, de 19/6/2007, por el que se regulan los procedimientos de autorización de instalaciones de energía eléctrica
+a tramitar por la Junta de Comunidades de Castilla-La Mancha y su régimen de revisión e inspección y demás
+normativa de aplicación.
+Conforme al procedimiento establecido en el Decreto 80/2007, de 19-06-2007, por el que se regulan los procedimientos
+de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de Castilla-La Mancha
+y su régimen de revisión e inspección, no se precisa la realización del trámite de información pública ni el trámite de
+información a otras Administraciones Públicas, organismos o empresas y condicionados técnicos.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe alguna que impida otorgar la autorización administrativa previa y autorización
+administrativa de construcción solicitadas.
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; el Real Decreto-ley 23/2020; la Ley 24/2013; la Ley 2/2020; el Decreto 80/2007; la
+Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás
+legislación concordante de aplicación.
+En su virtud resuelve: Otorgar a Instituto de Sistemas Fotovoltaicos de Concentración, S.A. la autorización
+administrativa previa y de construcción de las instalaciones eléctricas de referencia, con las características
+anteriormente indicadas, sujeta a las siguientes condiciones:
+Primera: Las autorizaciones otorgadas se entienden sin perjuicio de otras concesiones y autorizaciones que sean
+necesarias en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio
+y al medio ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación
+vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Estas autorizaciones producirán los efectos previstos en la normativa procedimental de aplicación a este tipo
+de instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante,
+del resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se concede un plazo de dos años, para la ejecución del proyecto a partir de la fecha de la presente resolución.
+Dicho plazo podrá ser ampliado previa solicitud motivada del titular.
+Sexta: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+
+AÑO XLV Núm. 209 30 de octubre de 2026 38847
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 22 de octubre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ

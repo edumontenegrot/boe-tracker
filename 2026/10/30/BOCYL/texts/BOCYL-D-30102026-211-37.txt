@@ -1,0 +1,72 @@
+Boletín Oficial de Castilla y León
+Núm. 211 Viernes, 30 de octubre de 2026 Pág. 377
+I. COMUNIDAD DE CASTILLA Y LEÓN
+E. ANUNCIOS
+E.2. Otros Anuncios Oficiales
+CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA
+Servicio Territorial de Industria, Comercio y Economía de León
+INFORMACIÓN pública relativa a la solicitud de modificación de la autorización
+administrativa previa y de construcción de la planta fotovoltaica denominada
+«FV Villamañán» para su hibridación con baterías de almacenamiento con la
+denominación «BESS Villamañán» de 18,69 MW potencia instalada, 16 MW de potencia
+de acceso e infraestructuras de evacuación asociadas, en el término municipal de
+Villamañán (León). Expte.: ENI-34309.
+A los efectos previstos en el artículo 9 del Decreto 46/2022, de 24 de noviembre, por
+el que se regulan los procedimientos de autorizaciones administrativas de instalaciones
+eléctricas en Castilla y León, se acuerda someter a Información Pública la solicitud de
+modificación de la Autorización Administrativa Previa y de Construcción del proyecto que
+a continuación se indica:
+Denominación del proyecto: FV BESS Villamañan
+Peticionario: KS Spain Park Theta, S.L., con NIF B16335374
+Lugar donde se va a establecer la instalación: Villamañán (León)
+Finalidad de la instalación: Hibridación de planta fotovoltaica con almacenamiento
+de baterías (BESS)
+Características principales:
+Planta fotovoltaica y evacuación autorizada:
+• 30.429 módulos fabricados por LONGi –modelo LR7-72HGD 610~620 o similar–
+que sumarán una potencia pico total instalada aproximada de 18,70 MWp.
+• 56 inversores fabricados por Huawei –modelo SUN2000-330KTL-H1 o similar–
+de 300 kW de potencia activa nominal, que sumarán una potencia activa total
+nominal de salida de 16,80 MW
+• 2 CT Meins SPS-9250-52 de 8,40 MVA, 0,8/45 kVAC, con final en el centro de
+protección y medida.
+• Llínea de evacuación subterránea de 45 kVAC con origen en el CT Meins
+SPS-9250-52 núm. 2 y final en el CT Meins SPS-9250-52 núm. 1 de 1.231,77 m
+de longitud, cables tipo AL RH5Z1-OL, tensión 26/45 kV y de 240 mm2 de sección.
+CV: BOCYL-D-30102026-211-37
+
+Boletín Oficial de Castilla y León
+Núm. 211 Viernes, 30 de octubre de 2026 Pág. 378
+• Línea de 45 kVAC con origen en el CT Meins SPS-9250-52 núm. 1 y final en
+el centro de protección y medida tiene 469,92 m de longitud, siendo los cables
+empleados de tipo AL RH5Z1-OL, tensión 26/45 kV y de 400 mm2 de sección.
+• Línea de evacuación subterránea de 45 kVAC , cable AL HEPRZ1 (AS), 26/45 kV
+y de 500 mm2 de sección, de 497,83 m de longitud con final en la subestación de
+transformación denominada San Millán de i-DE, Redes Eléctricas Inteligentes,
+S.A.U. de 45 kV.
+Modificación de la instalación anterior añadiendo la hibridación con baterías:
+• 89 Racks de baterías de 417,91 KW cada uno en 15 contenedores de marca y
+modelo Sungrow Powertitan 2.0 ST5015UX-4H. Potencia total de 37,19 MW.
+• 89 inversores de 0,21 MW de marca y modelo Sungrow SC210HX. Potencia total
+de 18,69 MW.
+• 4 centros de Transformación 45/0.69 kV de marca y modelo SPS-5140 de 5,14
+MW. Potencia total de 20,56MW.
+• 2 ramales de AT (uno de FV y otro de BESS) que se agruparán en el Centro de
+Reparto desde donde saldrá una línea subterránea hasta la CPM Villamañan.
+El Centro de reparto consistirá en un edificio prefabricado de hormigón, de
+dimensiones 9500x2380x2700 mm (LxAxH), donde se alojarán las celdas de
+provenientes de los circuitos de la planta más la de acometida a CPM Villamañan.
+Lo que se hace público para que en el plazo de veinte días contados a partir del
+siguiente al de la publicación de este anuncio, a los efectos de que puedan formularse
+cuantas alegaciones y observaciones consideren oportunas.
+En los términos del Art 83.2 de la Ley 39/2015, de 1 de octubre del Procedimiento
+Administrativo Común de las Administraciones Publicas, esta documentación se encuentra
+publicada en el Portal de Energía y Minería de Castilla y León (www.energia.jcyl.es) y en
+las dependencias del Servicio Territorial de Industria, Comercio y Economía de la Junta
+de Castilla y León en León, Sección de Energía, sito en Avenida de Peregrinos, s/n,
+1ª planta, en horario de 09 a 14:00.
+León, 26 de octubre de 2026.
+El Jefe del Servicio Territorial,
+Fdo.: Fernando Bandera González
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-30102026-211-37
