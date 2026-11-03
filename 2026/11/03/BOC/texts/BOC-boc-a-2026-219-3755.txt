@@ -1,0 +1,386 @@
+Boletín Oficial de Canarias núm. 219 39293 Martes 3 de noviembre de 2026
+I. Disposiciones generales
+Consejería de Universidades, Ciencia e Innovación y Cultura
+3755 DECRETO 164/2026, 26 de octubre, por el que se modifica el Reglamento de organización
+y funcionamiento de la Agencia Canaria de Calidad Universitaria y Evaluación
+Educativa (ACCUEE), aprobado por Decreto 250/2017, de 26 de diciembre.
+PREÁMBULO
+En virtud de las competencias reconocidas en los artículos 133.1.h) y 134.1.g) de la Ley
+Orgánica 1/2018, de 5 de noviembre, de reforma del Estatuto de Autonomía de Canarias,
+corresponde a la Comunidad Autónoma de Canarias el desarrollo legislativo y ejecución en
+materia de evaluación y garantía de la calidad educativa, tanto en el ámbito universitario
+como en el ámbito no universitario. Asimismo, según lo dispuesto en el artículo 50.3 de la
+referida norma institucional autonómica, en relación con el 28, letra d), de Ley 4/2023, de
+23 de marzo, de la Presidencia y del Gobierno de Canarias, corresponde a este último la
+potestad reglamentaria.
+Por Ley 2/2002, de 27 de marzo, de establecimiento de normas tributarias y de
+medidas en materia de organización administrativa y de gestión, relativas al personal de la
+Comunidad Autónoma de Canarias y de carácter sancionador, se crea la Agencia Canaria
+de Evaluación de la Calidad y Acreditación Universitaria (ACECAU) como organismo
+autónomo de carácter administrativo adscrito a la consejería con competencia en materia
+de educación, la cual asumiría las funciones establecidas en la Ley Orgánica 6/2001, de 21
+de diciembre, de Universidades, así como las que se derivaran de los contratos-programas
+del Gobierno con las universidades canarias.
+Asimismo, conforme a lo establecido en el artículo 12 de la Ley 4/2012, de 25 de junio,
+de medidas administrativas y fiscales, el citado organismo público pasa a denominarse
+Agencia Canaria de Calidad Universitaria y Evaluación Educativa (en adelante, ACCUEE)
+y asume las funciones que tenía atribuidas para la enseñanza no universitaria el Instituto
+Canario de Evaluación y Calidad Educativa (ICEC), que se suprimió. Como consecuencia,
+se integraron en la ACCUEE los medios personales y materiales del ICEC.
+En el ámbito de las funciones de evaluación universitaria hay que tener en cuenta el
+Real Decreto 640/2021, de 27 de julio, de creación, reconocimiento y autorización de
+universidades y centros universitarios, y acreditación institucional de centros universitarios,
+que establece el principio de la corresponsabilidad en la gestión y garantía de la calidad,
+en el cual participan las administraciones, las agencias de aseguramiento de la calidad y
+las universidades. Esta corresponsabilidad se asienta, primordialmente, en el proceso de
+acreditación institucional, basado en el reconocimiento de la capacidad para garantizar la
+calidad académica de los sistemas internos que a tal efecto disponen universidades y centros.
+Este reconocimiento lo certifican las agencias de aseguramiento de la calidad de nuestro
+país, y posibilita que las universidades (la institución como tal, y cada uno de los centros
+que las conforman) puedan desarrollar sus propias políticas, programas y procedimientos
+para garantizar la calidad académica que debe caracterizar a todo el sistema. Todos los
+cuales deben guiarse por las orientaciones que establecen en este sentido las agencias de
+aseguramiento de la calidad y que siguen las directrices europeas sobre esta temática.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39294 Martes 3 de noviembre de 2026
+Por su parte, el Real Decreto 822/2021, de 28 de septiembre, por el que se establece
+la organización de las enseñanzas universitarias y del procedimiento de aseguramiento
+de su calidad, tiene por objeto el establecimiento de la organización y la estructura de las
+enseñanzas universitarias, a partir de los principios generales que definen el Espacio Europeo
+de Educación Superior (EEES) y fija las directrices, condiciones y los procedimientos
+de aseguramiento de la calidad de los planes de estudios cuya superación permite la
+obtención de títulos universitarios oficiales con validez en todo el territorio nacional.
+Dichos procedimientos se concretan en la verificación del plan de estudios como requisito
+para la acreditación inicial del título y su inscripción en el Registro de Universidades,
+Centros y Títulos (RUCT), así como en el seguimiento, la modificación y la renovación de
+la acreditación ya otorgada.
+En el artículo 25.2 de dicha norma reglamentaria se determina que los órganos de
+evaluación externa responsables de tramitar los procedimientos de aseguramiento de la
+calidad del sistema universitario español son la Agencia Nacional de Evaluación de la
+Calidad y Acreditación (en adelante, ANECA) y, para su correspondiente ámbito territorial,
+las agencias de calidad de las Comunidades Autónomas inscritas en el Registro Europeo
+de Agencias de Aseguramiento de la Calidad en la Educación Superior (The European
+Quality Assurance Register for Higher Education, EQAR), tras haber superado con éxito
+una evaluación externa de acuerdo con los Criterios y Directrices de Aseguramiento de
+Calidad en el Espacio Europeo de Educación Superior (en adelante, ESG).
+Asimismo, en su disposición transitoria cuarta se establece un periodo transitorio de
+cuatro años para las agencias de aseguramiento de la calidad de las Comunidades Autónomas
+que, en el momento de su entrada en vigor, se encuentren en proceso de inscripción en el
+EQAR, durante los cuales podrán seguir desarrollando las funciones que les son propias y
+que se establecen en el mismo con relación a los procedimientos de garantía de la calidad
+universitaria.
+En el mismo sentido, el artículo 5.4 de la Ley Orgánica 2/2023, de 22 de marzo, del
+Sistema Universitario, señala que las funciones de acreditación y evaluación del profesorado
+universitario, de acreditación institucional, de evaluación de titulaciones universitarias, de
+seguimiento de resultados e informe en el ámbito universitario, y de cualquier otra que les
+atribuyan las leyes estatales y autonómicas, corresponden a la ANECA y a las agencias de
+evaluación de las Comunidades Autónomas inscritas en el Registro Europeo de Agencias
+de Calidad (EQAR), en el ámbito de sus respectivas competencias, todo ello sin perjuicio de
+los acuerdos internacionales de colaboración en el ámbito del aseguramiento de la calidad,
+así como del papel que agencias de calidad de otros Estados miembros inscritas en EQAR
+puedan desarrollar en el marco del Espacio Europeo de Educación Superior.
+La ACCUEE, organismo autónomo de carácter administrativo de la Comunidad
+Autónoma de Canarias responsable de dichos procedimientos, se encontraba en proceso
+de inscripción en el EQAR y después de un arduo y laborioso proceso ha conseguido la
+inscripción en octubre de 2022, previa evaluación externa realizada de acuerdo con los ESG
+por la European Association for Quality Assurance in Higher Education (ENQA), órgano
+autorizado por EQAR para ello.
+Dicha evaluación externa ha posibilitado la inscripción de la ACCUEE en el EQAR. No
+obstante, se han realizado una serie de recomendaciones y propuestas en lo que respecta al
+cumplimiento de los ESG:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39295 Martes 3 de noviembre de 2026
+• Revisión de la definición de los marcos jurídicos sobre la composición y la proporción
+de miembros gubernamentales en el Consejo Rector y, concretamente, que se reconsidere
+la función del presidente y el vicepresidente del Consejo Rector para permitir un mayor
+nivel de independencia respecto de la Consejería.
+• Revisión de las competencias del Consejo Rector para establecer sus normas de
+organización para su trabajo, nombramiento y cese de sus miembros, basándose en el
+marco legal.
+• Revisión del procedimiento de nombramiento del director, y su papel y participación
+en los diferentes órganos de la Agencia.
+La continuidad de la inscripción en el EQAR es requisito indispensable para que la
+ACCUEE desempeñe las labores de aseguramiento de la calidad en el sistema universitario
+en Canarias y, para ello, es necesario realizar ciertas modificaciones en el Reglamento
+de organización y funcionamiento de la Agencia Canaria de Calidad Universitaria y Evaluación
+Educativa (ACCUEE), aprobado por Decreto 250/2017, de 26 de diciembre, a los efectos de
+dar cumplimiento al informe de ENQA y tomar en consideración las propuestas realizadas,
+por lo que se plantea la modificación de los siguientes preceptos:
+1.º) El artículo 5, relativo al Consejo Rector.
+En su primer apartado se regula la figura de la presidencia, quien ejerce la representación
+institucional del órgano colegiado, pero no dispone de ningún voto cualificado, sino que
+ejerce su derecho de voto como un vocal más del Consejo Rector. En este punto, no se ha
+realizado modificación de la versión originaria del precitado apartado, entendiendo que su
+papel debe seguir siendo el mismo que se ha venido realizando hasta el momento, si bien se
+especifica que dicha figura estará presidida por la persona titular de la Consejería competente
+en materia educativa “a la que esté adscrito el organismo”, partiendo de la consideración de
+la existencia de dos departamentos autonómicos competentes en materia educativa, uno en
+materia de educación universitaria y el otro en materia de educación no universitaria.
+En el apartado tercero se incorporan la mayor parte de las modificaciones, considerándose
+necesario especificar que la Vicepresidencia será asumida por la persona titular de la
+Viceconsejería a la que estén adscritas las competencias en materia universitaria, ya que
+hasta el momento no se especificaba, lo cual abría la posibilidad a que pudiera ejercerse
+dicha función por parte de la persona titular de la Viceconsejería que ejerciera cualquier
+de las competencias propias del organismo, tanto en educación universitaria como en educación
+no universitaria. Por tanto, se realiza esta especificación con el fin de otorgar representación
+a la Consejería competente en materia de universidades, dadas las importantes funciones
+que la ACCUEE ejerce en esta rama y teniendo en consideración que la Consejería con
+competencia en materia de educación ya ejerce su representación a través de la Presidencia.
+No obstante, respecto a las recomendaciones de Europa, cabe señalar nuevamente que la
+persona titular de la Vicepresidencia no dispone de voto cualificado, configurándose a
+efectos de votación, igual que la persona titular de la Presidencia como un vocal más.
+Se modifica también la figura de la Secretaría especificando que solo podrá serlo una
+persona funcionaria de la Agencia, eliminando la posibilidad de que pueda serlo el personal
+laboral, en aplicación de lo dispuesto en el artículo 67.2 de la Ley 2/1987, de 30 de marzo,
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39296 Martes 3 de noviembre de 2026
+de la Función Pública Canaria, que establece que no podrán ser desempeñadas por personal
+contratado en régimen de Derecho Laboral las funciones públicas que impliquen ejercicio
+de autoridad, así como los actos de fe pública administrativa, incluida la expedición de
+certificaciones de toda clase, las actas y copias auténticas de los documentos, que se
+encuentran reservadas al personal funcionario.
+En cuanto al resto de vocales del Consejo Rector se introducen ciertas modificaciones
+con el propósito de compensar la composición de dicho órgano colegiado, asegurando que
+en ningún caso haya más representación política que técnica. Así, se añade una persona
+más de reconocido prestigio académico, tanto en el ámbito universitario como en el no
+universitario, así como la incorporación de dos representantes de las organizaciones
+empresariales más representativas y de dos representantes sindicales, consensuados
+por sus órganos de representación. Además, se introduce la especificación de que en la
+representación del estudiantado haya un estudiante de grado y otro de máster.
+Se introduce un nuevo apartado séptimo, en el que se establece una duración concreta
+(tres años prorrogables por otros dos) para las vocalías que no se ostenten por razón del
+cargo, con el objetivo de garantizar la renovación del Consejo y permitir así un mayor nivel
+de independencia, tal como se recomienda por ENQA en cumplimiento de los ESG.
+Asimismo, se inserta un nuevo apartado octavo (anterior apartado séptimo) relativo a
+la posibilidad de la delegación del voto en otros vocales del Consejo Rector, incorporando
+como novedad que dicha delegación se efectúe tanto por las personas titulares que carezcan
+de suplentes, como por parte de dichas personas titulares y sus suplentes que hayan sido
+propuestos y designados como tales, y que tal delegación se efectúe mediante escrito
+dirigido a la Presidencia del Consejo Rector, con carácter previo a la celebración de la
+sesión correspondiente.
+Por otra parte, se incorpora un nuevo apartado noveno (anterior apartado octavo) en el
+que se recogen las causas de cese de los vocales, siendo todas causas basadas en criterios
+objetivos que añadan más garantía de independencia en el organismo. Este aspecto se
+incorpora en atención a la segunda recomendación de ENQA, suprimiendo la causa de cese
+consistente en la decisión del órgano competente para la designación o nombramiento de
+los vocales e incorporando como nueva causa de cese la del transcurso del plazo máximo
+de duración establecido en el precitado apartado séptimo de dicho precepto reglamentario.
+Por último, se incorpora un nuevo apartado décimo, como consecuencia de la
+reordenación de los apartados anteriores, que contiene una redacción sustancialmente igual
+que la del anterior apartado noveno.
+2.º) El artículo 7 sobre el régimen de convocatoria, constitución y funcionamiento, se
+modifica a los efectos de incluir en las Comisiones Permanentes a los vocales previstos
+en el nuevo apartado 3.C) del precitado artículo 5, relativo a representantes de ámbitos
+trasversales que no se pueden incluir únicamente en el ámbito universitario o no universitario,
+en concreto, representantes sindicales, empresariales y la persona que ejerce la propia
+Dirección de la Agencia. Se prevé, asimismo, que las reuniones, tanto del Consejo Rector
+como de las Comisiones Permanentes, se celebrarán preferentemente de forma telemática.
+Finalmente, se especifica que las Presidencias de las respectivas Comisiones Permanentes
+corresponderán a las personas titulares de las Viceconsejerías competentes en materia
+universitaria y en materia de educación no universitaria, respectivamente, así como que
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39297 Martes 3 de noviembre de 2026
+corresponden a tales Presidencias efectuar la convocatoria de las respectiva comisión y
+establecer el orden del día.
+3.º) El artículo 8 sobre la Dirección de la Agencia:
+Se modifican los requisitos para ostentar la Dirección de la Agencia, estableciendo que la
+persona propuesta deberá contar con reconocido prestigio en el ámbito educativo, la calidad
+de la enseñanza o la investigación, con una experiencia de al menos diez años en dichos
+ámbitos. En este punto, se reducen los años de experiencia al considerar que la redacción
+inicial (más de quince años en el ejercicio profesional) hacía muy complejo encontrar a
+personas que cumplieran con dicho perfil y entendiendo que diez años de experiencia acredita
+suficientemente el conocimiento para ser considerado experto en una materia concreta.
+Asimismo, se modifica la experiencia en el “ámbito de la docencia e investigación” por
+“en el ámbito educativo, la calidad de la enseñanza o la investigación”, al considerar que
+dicha especificación engloba más adecuadamente el abanico de competencias que ejerce la
+Agencia, no ciñéndose únicamente al ámbito universitario.
+Se añade un nuevo apartado cuarto sobre la duración del cargo de la Dirección, que será
+de tres años, prorrogables por otros tres años, con un máximo de seis años, con el objetivo
+de separar este cargo del plazo de duración de las legislaturas del Gobierno, con la finalidad
+de que se mantenga al margen de los cambios políticos.
+Por otra parte, se adiciona nuevo un apartado quinto que recoge las causas de cese de
+la persona que ejerce la Dirección de la ACCUEE, siendo todas de carácter objetivo, pero
+añadiéndose una última, en la que se otorga el poder de decisión al Consejo Rector, pudiendo
+acordar el cese por unanimidad de sus miembros si se produjera un incumplimiento grave,
+reiterado y deliberado de las funciones y deberes que le corresponden. Todo ello, con el
+propósito de cumplir con los ESG, añadiendo un extra de objetividad e independencia al
+organismo, quedando el cargo de la dirección sujeto al estricto cumplimiento de sus deberes.
+En la elaboración del presente Decreto se han tenido en cuenta los principios de buena
+regulación a los que debe ajustarse toda iniciativa normativa, según se dispone en el apartado
+1 del artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas (en adelante, LPACAP), así como en los artículos
+66 y 80.5 de la Ley 4/2023, de 23 de marzo, de la Presidencia y del Gobierno de Canarias,
+entre ellos, los principios de necesidad, eficacia y proporcionalidad, en tanto que con su
+aprobación se da cumplimiento a lo dispuesto en los Criterios y Directrices de Aseguramiento
+de la Calidad en el Espacio Europeo de Educación Superior (ESG) de conformidad con las
+recomendaciones y propuestas al respecto contenidas en la evaluación externa de ENQA,
+constituyendo la regulación imprescindible para atender la necesidad a cubrir con la norma.
+Asimismo, resulta coherente con el resto del ordenamiento jurídico, creando un marco
+normativo estable, predecible, integrado, claro y de certidumbre para este organismo
+público y procurando racionalizar la gestión de los recursos públicos, cumpliendo así los
+principios de transparencia, seguridad jurídica y eficiencia.
+Dado su carácter estrictamente organizativo, no resulta preceptiva la consulta,
+audiencia e información pública, de conformidad con lo establecido en el artículo 133.4 de
+la LPACAP, y en aplicación de lo dispuesto en el artículo 82.3 de la citada Ley 4/2023, de
+23 de marzo, no se ha considerado conveniente someter el proyecto de Decreto al trámite
+de información pública.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39298 Martes 3 de noviembre de 2026
+En cuanto a la redacción del presente Decreto se ha dado cumplimiento, respectivamente, a
+la Ley 1/2010, de 26 de febrero, Canaria de Igualdad entre Mujeres y Hombres, y a la Ley
+2/2021, de 7 de junio, de igualdad social y no discriminación por razón de identidad de
+género, expresión de género y características sexuales, por lo que respecta a la igualdad de
+género y de expresión de género.
+Conforme a ello, la presente disposición reglamentaria no prevé ni recoge condiciones
+discriminatorias que supongan impacto negativo alguno en la igualdad de género, ni afecta
+negativamente a la igualdad y no discriminación por razón de la identidad y expresión
+de género o de las características sexuales, por lo que dichos impactos en las personas
+destinatarias de la norma es totalmente positivo.
+En virtud de todo lo anteriormente expuesto, de acuerdo con el dictamen n.º 338/2026,
+de 21 de septiembre, del Consejo Consultivo de Canarias, a propuesta conjunta de la
+Consejera de Presidencia, Administraciones Públicas, Justicia y Seguridad, del Consejero
+de Educación, Formación Profesional, Actividad Física y Deportes y de la Consejera de
+Universidades, Ciencia e Innovación y Cultura, y previa deliberación del Gobierno en su
+reunión celebrada el día 26 de octubre de 2026,
+DISPONGO:
+Artículo único.- El Reglamento de organización y funcionamiento de la Agencia
+Canaria de Calidad Universitaria y Evaluación Educativa (ACCUEE), aprobado por Decreto
+250/2017, de 26 de diciembre, queda modificado en los siguientes términos:
+Uno. Se modifican los apartados 1, 3, 7, 8, 9 y se incorpora un nuevo apartado 10
+del artículo 5, que quedan redactados como sigue:
+Artículo 5.- El Consejo Rector.
+“1. El Consejo Rector es el órgano superior de gobierno de la Agencia, y estará
+presidido por la persona titular de la Consejería competente en materia educativa a la que
+está adscrito el organismo, que ejercerá su representación institucional”.
+“3. Formará parte del Consejo Rector como vocal la persona titular de la Viceconsejería
+a la que estén adscritas las competencias en materia universitaria, que actuará como
+Vicepresidente o Vicepresidenta, así como una persona funcionaria de la Agencia
+perteneciente al Grupo profesional A, Subgrupo A1, que actuará como Secretario o
+Secretaria, con voz y sin voto. Además, estará integrado por los siguientes miembros, que
+actuarán como vocales del citado organismo:
+A) En el ámbito universitario:
+a) El presidente o presidenta de cada uno de los Consejos Sociales de las universidades
+públicas canarias.
+b) Una persona propuesta por las Universidades Privadas canarias, en representación
+de las mismas que pertenezca al Consejo Universitario de Canarias.
+c) La persona titular de la Dirección General que tenga atribuidas competencias en
+materia de ordenación universitaria.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39299 Martes 3 de noviembre de 2026
+d) Tres personas de reconocido prestigio académico en el ámbito universitario
+nombradas por la persona titular de la Consejería competente en materia de universidades.
+e) Una persona designada por el titular del Departamento competente en materia de
+investigación.
+f) Dos personas en representación del estudiantado de las universidades canarias, una
+persona estudiante de grado y otra de máster, asegurando siempre que exista representación
+tanto de universidades públicas como privadas, ambas a propuesta del órgano consultivo
+representativo de los estudiantes de Educación Superior.
+B) En el ámbito no universitario:
+a) Tres personas de reconocido prestigio, del ámbito no universitario, nombradas por la
+persona titular de la Consejería competente en materia educativa.
+b) La persona titular de la Dirección General que tenga atribuidas competencias en
+materias relativas a ordenación de las enseñanzas e innovación educativa.
+c) La persona que ostente la presidencia del Consejo Escolar de Canarias.
+d) La persona titular de la Inspección General de Educación.
+C) Ámbitos transversales:
+a) La persona titular de la Dirección de la Agencia.
+b) Dos representantes a propuesta de las organizaciones empresariales más
+representativas.
+c) Dos representantes sindicales a propuesta de sus órganos de representación”.
+“7. Los nombramientos de las vocalías del Consejo Rector que no tengan su puesto en el
+mismo por razón del cargo que ostentan, tendrán una duración de tres años prorrogables por
+otros dos. Transcurrido dicho plazo, cesarán como miembros del Consejo Rector, debiendo
+nombrarse a nuevos titulares para garantizar la renovación del órgano.
+8. Las personas miembros titulares del Consejo Rector que carezcan de suplentes,
+así como las personas miembros titulares y sus suplentes, en caso de que los mismos
+hubieran sido propuestos y designados, que debidamente convocados no pudieran asistir
+a la sesión del mismo, podrán delegar su voto para dicha sesión, previa autorización de la
+organización a la que represente, en cualquiera de las otras personas miembros del Consejo.
+Dicha delegación deberá hacerse por escrito dirigido a la Presidencia del Consejo Rector
+acompañada de la autorización indicada, con carácter previo a la celebración de la sesión
+correspondiente.
+9. El cese de las personas que ocupen un cargo de vocal se producirá por:
+a) Renuncia, fallecimiento o incapacidad sobrevenida.
+b) Cese en el cargo del que deriva su nombramiento, en el caso de los vocales que lo
+sean como consecuencia del cargo que ostenten.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39300 Martes 3 de noviembre de 2026
+c) El transcurso del plazo máximo de duración establecido en el apartado 7 de este
+artículo.
+10. En el nombramiento de las personas miembros del Consejo Rector se respetará,
+cuando proceda, el principio de composición equilibrada reconocido en la legislación
+estatal y autonómica, para la igualdad efectiva de mujeres y hombres”.
+Dos. Se modifican las letras a), c) y d) del artículo 7.1, que quedan redactadas
+como sigue:
+Artículo 7.- Régimen de convocatoria, constitución y funcionamiento.
+1. El Consejo Rector funcionará en Pleno, o en Comisiones Permanentes, en función
+del ámbito universitario o no universitario, de acuerdo con el siguiente régimen:
+“a) Se constituirán dos Comisiones Permanentes, una del ámbito universitario, presidida por
+la persona titular de la Viceconsejería competente en materia universitaria y otra del ámbito
+no universitario, que será presidida por la persona titular de la Viceconsejería competente en
+materia de educación no universitaria. La composición de estas Comisiones Permanentes
+será la que se establece en el artículo 5, apartado 3. En concreto, las vocalías de la Comisión
+Permanente del ámbito universitario serán las indicadas en los apartados 3.A) y 3.C),
+mientras que las vocalías de la Comisión Permanente del ámbito no universitario serán las
+indicadas en los apartados 3.B) y 3.C)”.
+“c) Las sesiones del Consejo Rector y de las Comisiones Permanentes se celebrarán
+preferentemente de forma telemática y quedarán válidamente constituidas cuando asistan
+las personas que ocupen la Presidencia y la Secretaría, o quienes les sustituyan, además de,
+al menos, la mitad de sus miembros en primera convocatoria, o de un tercio de los mismos
+en segunda.
+d) La Presidencia del Consejo Rector convocará las sesiones del propio Consejo y fijará
+su orden del día. Asimismo, la Presidencia de cada Comisión Permanente será la encargada
+de convocar las reuniones de su respectiva comisión y de establecer el correspondiente
+orden del día.
+En todo caso, a la Presidencia le corresponde dirigir las deliberaciones, levantar y
+suspender las sesiones y cualesquiera otras funciones propias de la Presidencia de un órgano
+colegiado, de acuerdo con la normativa vigente en materia de Régimen Jurídico del Sector
+Público y del Procedimiento Administrativo Común de las Administraciones Públicas”.
+Tres. Se modifica el apartado 1 del artículo 8 y se adicionan dos nuevos apartados
+4 y 5, que quedan redactados como sigue:
+Artículo 8.- La Dirección de la Agencia.
+“1. La Agencia contará con una Dirección que ostentará rango de Dirección General, que
+se nombrará por Decreto de la persona titular de la Presidencia del Gobierno de Canarias,
+a propuesta de la persona titular de la Consejería competente en materia educativa, oído el
+Consejo Rector. La persona propuesta deberá contar con reconocido prestigio en el ámbito
+educativo, la calidad de la enseñanza o la investigación, con una experiencia de al menos
+10 años en dichos ámbitos”.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
+
+Boletín Oficial de Canarias núm. 219 39301 Martes 3 de noviembre de 2026
+“4. La duración del nombramiento será de tres años, prorrogables por otros tres, con un
+máximo de seis años.
+5. El Director o la Directora perderá su condición por alguna de las siguientes causas:
+a) Terminación de su mandato, sin que se acuerde previamente su prórroga o cuando
+hayan pasado los seis años de duración máxima del mismo.
+b) Renuncia.
+c) Incapacidad permanente o fallecimiento.
+d) Incompatibilidad sobrevenida.
+e) Incumplimiento grave, reiterado y deliberado de sus funciones y deberes, previa
+deliberación del Consejo Rector, que deberá acordarse en sesión extraordinaria celebrada
+al efecto, por unanimidad de sus miembros”.
+Disposición final única.- Entrada en vigor.
+El presente Decreto entrará en vigor el día siguiente al de su publicación en el Boletín
+Oficial de Canarias.
+Dado en Canarias, a 26 de octubre de 2026.
+EL PRESIDENTE
+DEL GOBIERNO,
+p.s., EL VICEPRESIDENTE
+(Decreto 108/2026, de 22 de octubre,
+del Presidente),
+Manuel Domínguez González.
+LA CONSEJERA DE PRESIDENCIA, EL CONSEJERO DE EDUCACIÓN, FORMACIÓN
+ADMINISTRACIONES PÚBLICAS, PROFESIONAL, ACTIVIDAD FÍSICA Y DEPORTES,
+JUSTICIA Y SEGURIDAD, Hipólito Alejandro Suárez Nuez.
+Nieves Lady Barreto Hernández.
+LA CONSEJERA DE UNIVERSIDADES,
+CIENCIA E INNOVACIÓN Y CULTURA,
+Migdalia María Machín Tavío.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-219-3755
