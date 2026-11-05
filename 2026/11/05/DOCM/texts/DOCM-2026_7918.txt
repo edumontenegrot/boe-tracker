@@ -1,0 +1,394 @@
+AÑO XLV Núm. 212 5 de noviembre de 2026 39170
+I.- DISPOSICIONES GENERALES
+Consejería de Fomento
+Orden 154/2026, de 29 de octubre, de la Consejería de Fomento, por la que se establecen las bases reguladoras
+para la concesión de becas de formación de especialistas en información geoespacial. [2026/7918]
+Exposición de motivos
+La transformación digital de la administración pública, la planificación territorial sostenible y la gestión eficiente
+de infraestructuras requieren de personal profesional especializado en información geoespacial. La cartografía, la
+teledetección, los sistemas de información geográfica (SIG) y la geomática son disciplinas clave para afrontar los
+retos de la movilidad, el urbanismo, el medio ambiente y la gobernanza territorial.
+Con el fin de fomentar la capacitación técnica de personal titulado universitario en estas áreas, se establecen las
+presentes bases reguladoras para la concesión de becas de formación práctica en unidades administrativas de la
+Junta de Comunidades de Castilla-La Mancha.
+Estas prácticas les facilitarán los conocimientos y habilidades que solo se pueden adquirir en un entorno laboral,
+ayudándoles a consolidar su vocación, cuando no, directamente, a conseguir un empleo.
+El Decreto 31/2025, de 29 de abril, de estructura y competencias de la Consejería de Fomento, en su artículo
+17, encomienda al Centro Cartográfico de Castilla-La Mancha, adscrito a la Secretaría General, la investigación y
+desarrollo de nuevas técnicas para el dominio de las ingenierías geomática, geodésica, de sistemas de información
+geográfica, cartográfica, fotogramétrica y topográfica; incentivar la difusión, el conocimiento, así como la elaboración
+de trabajos relacionados con los objetivos del Centro Cartográfico; realizar labores divulgativas de los servicios que
+presta y de su área de conocimiento; y las demás establecidas en el artículo 15 del Decreto 93/2010, de 1 de junio,
+de Ordenación de la Actividad Cartográfica de la Administración de la Junta de Comunidades de Castilla-La Mancha.
+Estas becas se enmarcan en el cumplimiento de dichos fines, al fomentar la formación práctica de personal titulado
+universitario en disciplinas afines, incentivando la transferencia de conocimiento, la innovación técnica y el fortalecimiento
+de las capacidades institucionales en materia de información geoespacial. También permite difundir al propio Centro
+Cartográfico, su actividad, y las oportunidades de empleo público. Por añadidura, estas becas presentan el potencial de
+poder hacer frente al relevo generacional en la administración pública en los cuerpos con esta especialidad; permitirán
+incorporar talento joven a proyectos clave para la planificación territorial, la gestión ambiental y la transformación digital
+de los servicios públicos, contribuyendo al desarrollo económico y social de Castilla-La Mancha.
+Es de interés generar un polo de atracción de talento a esta región en la materia, que contribuya a una mejor y
+precisa información para el desarrollo de Castilla-La Mancha. Por tales motivos, por considerarlo conveniente para
+el desarrollo económico y social de la Comunidad Autónoma, el requisito establecido con carácter general en el
+artículo 73.3.b) del Texto Refundido de la Ley Hacienda de Castilla-La Mancha, aprobado por Decreto Legislativo
+1/2002, de 19 de noviembre, de que las personas beneficiarias de subvenciones con cargo a los Presupuestos
+Generales de la región tengan su domicilio fiscal en el territorio de la Comunidad Autónoma de Castilla-La Mancha
+queda excepcionado. En similares términos, dadas las capacidades requeridas para las candidaturas a estas becas,
+se estima ajustado requerir que la tramitación sea electrónica. Todo ello al amparo del apartado tercero del artículo
+14 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas
+que permite a la Administración ampliar estas obligaciones a relacionarse electrónicamente a colectivos específicos
+de personas físicas, siempre mediando la referida motivación.
+En la elaboración de estas bases reguladoras se ha procurado tener presentes los principios de buena regulación
+contemplados en el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, así como la Ley 12/2010, de 18 de noviembre, de igualdad entre mujeres y hombres
+de Castilla-La Mancha tanto en la composición de la comisión de valoración, como en los criterios de desempate.
+Estas bases reguladoras están incluidas en el Plan Estratégico de Subvenciones de la Consejería de Fomento, en
+la Línea 001474, “becas de formación en especialistas en información y cartografía geoespacial”, Objetivo 000503,
+“becas formacion especialistas información geoespacial”.
+En virtud del artículo 73.2 del Texto Refundido de la Ley Hacienda de Castilla-La Mancha, y la competencia que
+me atribuyen el artículo 23.2.c) de la Ley 11/2003, de 25 de septiembre, del Gobierno y del Consejo Consultivo de
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39171
+Castilla-La Mancha, y el Decreto 31/2025, de 29 de abril de 2025, de estructura y competencias de la Consejería de
+Fomento, previo informe jurídico y de la Intervención General,
+Dispongo:
+Artículo 1. Objeto.
+1. La presente orden tiene por objeto establecer las bases reguladoras para la concesión de becas de formación,
+destinadas a la especialización práctica en información geoespacial, mediante la realización de prácticas en el
+Centro Cartográfico de Castilla-La Mancha.
+2. Las prácticas estarán guiadas por tutorías a cargo del personal de dicho órgano. Implicarán el aprendizaje de la
+organización, sus funciones y el desarrollo profesional de las mismas.
+3. Las convocatorias podrán prever que durante el desarrollo se realicen visitas o estancias en aquellos organismos
+públicos o entidades privadas relacionadas con la información geoespacial y con las que el Centro Cartográfico
+tenga convenio al efecto.
+Artículo 2. Régimen jurídico aplicable.
+1. Las subvenciones a las que se refiere la presente orden, además de lo previsto por la misma, se regirán por
+los preceptos básicos de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y de su Reglamento de
+desarrollo, aprobado por el Real Decreto 887/2006, de 21 de julio, lo dispuesto en el Título III del Texto Refundido de
+la Ley de Hacienda de Castilla-La Mancha, aprobado por el Decreto-Legislativo 1/2002, de 19 de noviembre, y en el
+Decreto 21/2008, de 5 de febrero, por el que se aprueba el Reglamento de desarrollo del Texto Refundido de la Ley
+de Hacienda de Castilla-La Mancha en materia de subvenciones.
+2. Las ayudas reguladas en esta orden no constituyen ayudas de Estado dado que las personas beneficiarias son
+personas físicas y la actividad subvencionada no está vinculada con una actividad económica en un mercado en
+competencia y, por tanto, no concurren los requisitos del artículo 107.1 del Tratado de Funcionamiento de la Unión
+Europea para considerar que existe ayuda de Estado.
+Artículo 3. Requisitos de las personas solicitantes.
+1. Podrán beneficiarse de las becas las personas que, en la fecha de presentación de solicitudes, cumplan los
+siguientes requisitos:
+a) Poseer la nacionalidad española, la de un país miembro de la Unión Europea o la de un país signatario del
+Acuerdo sobre el Espacio Económico Europeo. También podrán solicitar las becas las personas extranjeras
+residentes legalmente en España, de conformidad con las previsiones del artículo 9.3 de la Ley Orgánica 4/2000, de
+11 de enero, sobre derechos y libertades de los extranjeros en España y su integración social.
+b) En el caso de personas candidatas extranjeras será necesario que la solicitante posea un dominio suficiente del
+idioma español, circunstancia que será comprobada mediante la acreditación del título correspondiente de un nivel
+alto de idioma español tanto hablado como escrito.
+c) Estar en posesión del título oficial de graduado/a en ingeniería, o arquitectura, conforme al Real Decreto 822/2021,
+de 28 de septiembre, por el que se establece la organización de las enseñanzas universitarias y del procedimiento de
+aseguramiento de su calidad y al Real Decreto 889/2022, de 18 de octubre, por el que se establecen las condiciones y
+los procedimientos de homologación, de declaración de equivalencia y de convalidación de enseñanzas universitarias
+de sistemas educativos extranjeros y por el que se regula el procedimiento para establecer la correspondencia
+al nivel del Marco Español de Cualificaciones para la Educación Superior de los títulos universitarios oficiales
+pertenecientes a ordenaciones académicas anteriores.
+d) Que la fecha de obtención de la titulación que habilita a concursar a estas becas tenga una antigüedad menor o
+igual a cuatro años.
+e) No haber sido beneficiaria de esta beca en convocatorias anteriores.
+f) No incurrir en los supuestos de incompatibilidad regulados en la Ley 11/2003, de 25 de septiembre, del Gobierno
+y el Consejo Consultivo de Castilla-La Mancha, ni ser receptora de la prestación de servicios o actividades por
+parte de personas que, habiendo desempeñado cargos públicos o asimilados en la Administración de la Junta de
+Comunidades de Castilla-La Mancha así como en los organismos y entidades de su sector público, incumplieran lo
+dispuesto en el artículo 19.5 de la Ley 11/2003, durante el plazo de dos años desde el cese.
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39172
+g) No estar incursas en las prohibiciones previstas en el artículo 13 de la Ley 38/2003, de 17 de noviembre, incluida
+la de hallarse al corriente en el cumplimiento de sus obligaciones tributarias y con la Seguridad Social y por reintegro
+de subvenciones.
+h) Reunir el resto de los requisitos establecidos en la normativa básica estatal y normativa regional para obtener la
+condición de persona beneficiaria de subvenciones.
+2. Los requisitos para poder ser persona beneficiaria se acreditarán conforme se establezca en la correspondiente
+convocatoria.
+Artículo 4. Convocatorias.
+1. De conformidad con lo dispuesto en el artículo 76 del Texto Refundido de la Ley de Hacienda de Castilla-La
+Mancha, el procedimiento para la concesión de las becas se desarrollará en régimen de concurrencia competitiva, y
+se iniciará de oficio, por medio de convocatoria realizada por la persona titular de la Dirección del Centro Cartográfico
+de Castilla-La Mancha, cuyo contenido mínimo será el establecido en el artículo 23 del Reglamento de desarrollo del
+Texto Refundido de la Ley de Hacienda de Castilla-La Mancha en materia de subvenciones.
+2. La concesión de las becas estará supeditada a las disponibilidades presupuestarias del ejercicio correspondiente.
+3. El plazo de presentación de las solicitudes será de, al menos, veinte días hábiles, contados a partir del día
+siguiente al de la publicación de la convocatoria.
+4. La convocatoria será comunicada a las Bases de Datos Nacional y Regional de Subvenciones y publicada en el
+Diario Oficial de Castilla-La Mancha. La eficacia de la convocatoria quedará supeditada a su publicación y de su
+extracto en el diario oficial, el cual contendrá los elementos definitorios de la beca y permitirá su identificación en la
+Base de Datos Nacional de Subvenciones.
+5. Conforme a lo establecido en el artículo 14.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo
+Común de las Administraciones Públicas, y en base a los requisitos que son exigidos por el artículo 3, las personas
+que se relacionen con el órgano convocante en el procedimiento para la concesión de las becas reguladas por la
+presente orden estarán obligadas a hacerlo a través de medios electrónicos, pudiendo identificarse a través de
+alguno de los sistemas descritos en el artículo 9.2 de la citada ley.
+Artículo 5. Órgano instructor y Comisión de Valoración.
+1. La instrucción del procedimiento de concesión de las becas estará a cargo del Servicio de Cartografía y Sistemas
+de Información Geográfica. El órgano instructor, de entre su personal, designará a la persona que desempeñará las
+funciones de secretaría, sin voto, en la Comisión de Valoración.
+2. La Comisión estará compuesto por cinco personas, que podrán contar con sus respectivas suplentes, procurando
+respetar en ambos casos la paridad conforme a la Ley 12/2010, de 18 de noviembre. La presidencia y dos de las
+vocalías serán asignadas al personal funcionario adscrito al Centro Cartográfico o a otros órganos directivos de
+la Consejería de Fomento. La tercera vocalía será asignada a una persona perteneciente al Instituto Geográfico
+Nacional, a propuesta de su Dirección General. La cuarta vocalía será asignada a una persona integrante de la
+Delegación Territorial de Castilla-La Mancha del Ilustre Colegio Oficial de Ingeniería Geomática y Topográfica, a
+propuesta de su dirección.
+3. Corresponderá a la persona que ostente la presidencia de la Comisión de Valoración convocar las sesiones y fijar
+el orden del día. En lo demás, el funcionamiento del Comisión se ajustará al régimen dispuesto para los órganos
+colegiados en la Sección 3ª del Capítulo II del Título Preliminar de la Ley 40/2015, de 1 de octubre, de Régimen
+Jurídico del Sector Público.
+Artículo 6. Primera fase del proceso de selección.
+1. En la primera fase, la Comisión de Valoración puntuará los méritos de las personas candidatas de acuerdo con los
+siguientes criterios objetivos, en los que se tendrá en cuenta la adecuación al área de conocimiento:
+a) El expediente académico se puntuará entre 0 y 15 puntos. Corresponderá la mínima puntuación, es decir, 0 a los
+expedientes con una calificación académica de 5 y la máxima, es decir, 15 a los expedientes con una calificación
+académica de 10, prorrateándose en el resto de los casos.
+b) La idoneidad de la titulación principal: entre 0 y 10 puntos. Se le otorgará la máxima puntuación en este apartado
+a las personas que acrediten estar en posesión de la titulación oficial en ingeniería en geomática y topografía,
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39173
+ingeniería técnica en topografía u otras titulaciones habilitantes para el ejercicio de las competencias profesionales
+de las citadas expresamente. En el resto de los casos, se ponderará la puntuación en función de la existencia de
+asignaturas relacionadas con estas becas que figuren en el plan de estudios de la titulación.
+c) Por cada titulación universitaria distinta de la presentada como principal, y que no haya sido valorada: 2 puntos
+hasta un máximo de 4 puntos.
+d) La formación posgrado relacionada con el área de conocimiento de las becas: por cada máster universitario oficial
+se asignará 1 punto si el número de créditos requeridos es de 60, 1,5 puntos si el número de créditos requeridos está
+entre 61 y 90 y 2 puntos si el número de créditos requeridos es superior a 90. Por cada doctorado 3 puntos. En total
+se valorará hasta un máximo de 5 puntos.
+e) Otra formación: por cada curso de formación, realizado antes de la finalización del plazo de presentación de
+solicitudes, relacionado con el área de conocimiento de estas becas, y de duración igual o superior a 40 horas,
+se asignarán 0,10 puntos por cada uno, hasta un máximo de 0,40 puntos. Si el curso es de una duración igual o
+superior a 90 horas se asignarán 0,20 puntos por cada curso, hasta un máximo de 0,80 puntos.
+f) Por trabajos y publicaciones realizadas, experiencia debidamente acreditada y directamente relacionada con el
+área de conocimiento elegida, así como otros méritos académicos o profesionales debidamente acreditados: se
+valorará hasta un máximo de 4 puntos.
+2. Se entenderá por titulación principal aquella, de las admitidas en esta orden y en la convocatoria, que la persona
+candidata presenta al proceso de selección como principal, siendo las restantes titulaciones que tuviere valoradas
+conforme a los apartados c) o d), según el tipo de titulación, del párrafo anterior.
+3. A los efectos de puntuación, se considerará expediente académico todas las asignaturas que conformen la
+titulación principal. Cuando a la titulación principal se haya accedido desde otra titulación universitaria oficial, el
+expediente académico estará conformado por las asignaturas de ambas titulaciones. En el caso de máster más
+ingeniería técnica, el expediente académico estará conformado por las asignaturas propias del máster y las de la
+titulación de ingeniería técnica que permitió el acceso al máster.
+4. Una vez evaluadas las solicitudes conforme a los criterios establecidos para la primera fase, pasarán a la segunda
+fase, por orden de puntuación, como máximo un número de personas igual a cinco veces el número de becas. En caso
+de igualdad en las puntuaciones, se dará prioridad a las personas candidatas cuyo género esté subrepresentado.
+Para ello, se tomará como referencia el principio de presencia equilibrada (40 %-60 %) según se establece en la Ley
+12/2010, de 18 de noviembre.
+5. La puntuación correspondiente a la primera fase se publicará en la sede electrónica concediéndose un plazo
+de cinco días hábiles para que las personas interesadas formulen las alegaciones y aporten los documentos que
+estimen pertinentes. Asimismo, se publicará la lista provisional de aspirantes que pasan a la segunda fase.
+6. No se admitirán más documentos que aquellos que se refieran a los méritos relacionados en la solicitud en el
+momento de presentarla o en su trámite de subsanación. Tampoco se admitirá, en esta fase, la modificación de la
+solicitud.
+7. Revisadas las alegaciones aducidas por las personas que hayan solicitado las becas, se publicará la lista definitiva
+de aquellas que pasan a la segunda fase, así como las fechas de las entrevistas, que no podrán tener lugar antes
+de setenta y dos horas desde el día de la publicación.
+Artículo 7. Segunda fase del proceso de selección.
+1. En la segunda fase, la Comisión de Valoración evaluará a las personas candidatas que hayan superado la primera
+fase, en los siguientes aspectos:
+a) Valoración del curriculum vitae. La Comisión de Valoración, a la vista del CV presentado por las personas candidatas,
+verificará la realidad de las habilidades, competencias y aptitudes puestas de manifiesto por las personas candidatas
+mediante una entrevista personal, en la que se valorará la motivación, seguridad y capacidad de iniciativa de las
+personas candidatas por medio de preguntas abiertas, encaminadas a obtener información relativa a su carácter y
+su personalidad, pudiendo someterles a alguna prueba inesperada, con el fin de evaluar su capacidad de reacción
+ante las dificultades imprevistas. La puntuación otorgada en la entrevista será, como máximo, de 5 puntos, y se
+obtendrá de la media truncada, es decir, descartando el valor más pequeño y el más grande de la muestra, de las
+puntuaciones otorgadas por, como mínimo, cuatro de los miembros la Comisión de Valoración.
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39174
+b) El nivel de conocimiento y dominio de los idiomas extranjeros que se determinen en la convocatoria se valorará
+como máximo con 2 puntos por idioma, hasta un máximo de 6 puntos. Los idiomas se podrán acreditar mediante
+certificados expedidos por centros oficiales y según el Marco Común Europeo de Referencia.
+2. La convocatoria podrá establecer la posibilidad de realizar estas entrevistas por videoconferencia, no siendo
+necesaria la presencia física de la persona candidata.
+Artículo 8. Procedimiento de concesión.
+1. Una vez completado el proceso de evaluación de las personas candidatas y acreditado por éstas el cumplimiento
+de los requisitos de participación en el tiempo y forma previstos en la convocatoria, que se atendrá a lo dispuesto
+en el artículo 28 de la Ley 39/2015, de 1 de octubre, corresponderá al órgano instructor formular la propuesta de
+adjudicación provisional en función de número de becas convocadas y de la prelación propuesta por la Comisión de
+Valoración.
+2. La propuesta de adjudicación provisional se notificará a todas las personas que hayan completado el proceso,
+concediendo un plazo de diez días hábiles para que formulen las alegaciones que estimen convenientes, conforme
+al artículo 25.6 del Decreto 21/2008, de 5 de febrero.
+3. Transcurrido el plazo indicado en el apartado anterior y a la vista de las alegaciones presentadas, el órgano
+instructor formulará la propuesta de resolución definitiva del procedimiento, haciendo constar, entre otros datos,
+la identificación de la persona becada, la cuantía y el plazo de duración y concediendo un plazo de cinco días
+hábiles para que las personas beneficiarias comuniquen su aceptación. En el caso de que la propuesta definitiva no
+suponga variación sobre la provisional, no será necesario este trámite.
+4. Las personas candidatas que no resulten adjudicatarias de las becas convocadas integrarán, por orden de
+puntuación, una lista de reserva con la que se cubrirán las eventuales renuncias o rescisiones de las becas.
+5. El órgano convocante, la persona titular de la Dirección del Centro Cartográfico, resolverá sobre la concesión
+de las becas dentro de los tres meses siguientes a la publicación de la convocatoria. Transcurrido dicho plazo, sin
+mediar resolución expresa, se podrán entender desestimadas las solicitudes a los efectos de la interposición de
+los recursos administrativos procedentes. La resolución definitiva se noticiará a las personas adjudicatarias y la
+información pertinente será suministrada a las Bases de Datos Regional y Nacional de Subvenciones.
+6. Contra la resolución de concesión de las becas, las personas candidatas podrán interponer recurso de alzada, de
+conformidad con lo dispuesto en los artículos 121 y siguientes de la Ley 39/2015, de 1 de octubre.
+Artículo 9. Finalización del proceso y resolución de empates.
+En caso de empate en la puntuación total, el orden para la adjudicación de las becas se establecerá según los
+siguientes criterios:
+1.º Mejor puntuación obtenida en la segunda fase.
+2.º Mejor puntuación obtenida en la primera fase.
+3.º Priorización de la persona candidata cuyo género esté subrepresentado. Para ello, se tomará como referencia el
+principio de presencia equilibrada (40 %-60 %) según se establece en la Ley 12/2010, de 18 de noviembre.
+Artículo 10. Compatibilidades.
+1. Las personas beneficiarias de estas becas de formación están obligadas a rechazar cualquier otra beca, subvención
+o ayuda concedida para actividades o prácticas formativas por organismos públicos o privados, españoles o
+extranjeros, cuando coincida temporalmente con aquellas.
+2. Las personas beneficiarias no podrán ejercer cualquier actividad profesional, laboral, mercantil o industrial que
+requiera la presencia efectiva de la persona adjudicataria, o se realice en régimen de teletrabajo, durante el horario
+en el que se desarrollan las prácticas, o que guarde relación con los asuntos conocidos durante las prácticas.
+3. Fuera de la coincidencia temporal mencionada en el apartado anterior, son compatibles retribuciones por
+actividades formativas hasta un máximo del 33% del importe de la beca establecida en estas bases reguladoras.
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39175
+Artículo 11. Obligaciones de las personas beneficiarias.
+1. Las personas beneficiarias de las becas vendrán obligadas a cumplir las obligaciones que, con carácter general,
+se recogen en el artículo 14 de la Ley 38/2003, de 17 de noviembre, General de Subvenciones, y en el artículo 6.1
+de la Ley 4/2016, de 15 de diciembre, de Transparencia y Buen Gobierno de Castilla-La Mancha, y, además, las
+siguientes:
+a) Realizar con aprovechamiento suficiente las tareas formativas que se les encomienden en el lugar o lugares que
+se hayan hecho constar en la convocatoria.
+b) Presentar, antes del término del plazo que se indique en la resolución de concesión, una memoria sobre la labor
+realizada y los objetivos alcanzados, que deberá obtener la conformidad o el visto bueno de las personas a las que
+hubiese correspondido ejercer su tutoría.
+c) Observar el debido sigilo en todo lo referente a los asuntos en que se les señale expresamente su carácter
+reservado, aún después de concluir el periodo de prácticas, y mantener la debida discreción sobre aquellos asuntos
+que conozcan por su condición de personas becarias, sin que puedan hacer uso de la información obtenida para
+beneficio propio o de terceros, o en perjuicio del interés público. En particular, ningún documento podrá ser utilizado
+fuera del estricto ámbito de la Administración para fines distintos de los que motivaron el acceso al mismo.
+2. Durante el periodo de disfrute de la beca las personas beneficiarias vendrán obligadas a someterse a las
+actuaciones de comprobación y seguimiento que corresponden al órgano concedente y, con posterioridad a su
+finalización, a facilitar cuanta información les sea solicitada por los órganos u organismos competentes para realizar
+controles sobre el disfrute de ayudas públicas.
+Artículo 12. Condiciones generales del disfrute de las becas.
+1. La formación se llevará a cabo en las sedes y dependencias del Centro Cartográfico de Castilla-La Mancha.
+2. Las becas serán compatibles con las indemnizaciones previstas en el Decreto 36/2006, de 4 de abril, sobre
+indemnizaciones por razón de servicio, y que irán destinadas a sufragar gastos de desplazamientos y estancias
+que se deban realizar debido a necesidades en el desarrollo de su actividad formativa, siempre que sea por tiempo
+limitado y previa autorización de la Dirección del Centro Cartográfico de Castilla-La Mancha.
+3. El disfrute de las becas no constituirá prestación de servicios ni el establecimiento de relación laboral o funcionarial
+alguna de las personas beneficiarias con la Junta de Comunidades de Castilla-La Mancha, por más que, con arreglo
+a la normativa vigente, la realización de las prácticas formativas determine su integración en el Régimen General de
+la Seguridad Social y la obligación de efectuar las correspondientes cotizaciones a través de los correspondientes
+boletines de cotización a la seguridad social, o que, por su condición de personas becarias, reciban la consideración
+de personas aseguradas dentro del seguro de responsabilidad civil del personal al servicio de la Administración de
+la Junta de Comunidades.
+4. A las personas beneficiarias de las becas les será de aplicación el artículo 1 del Real Decreto 1493/2011, de 24
+de octubre, por el que se regulan los términos y las condiciones de inclusión en el Régimen General de la Seguridad
+Social de las personas que participan en programas de formación y gozarán de la acción protectora prevista en el
+artículo 3 del citado real decreto.
+5. Con el fin de facilitar su proceso de formación, contarán con el asesoramiento, orientación y dirección de una
+tutoría, que definirá las tareas que habrán de realizar y la formación que deberán recibir.
+6. Disfrutarán de veintiocho días hábiles de ausencia con derecho a devengo del importe de la beca por año, o
+tiempo proporcional al período de disfrute de la beca. En cualquier caso, deberán contar con el consentimiento de la
+persona encargada de la tutoría.
+7. En el caso de ausencia por maternidad o paternidad, durante dicho periodo solamente percibirán el subsidio de
+la prestación por maternidad con los efectos económicos y cuantía que se reconozcan por el Instituto Nacional de
+la Seguridad Social.
+8. Podrán disfrutar del permiso de lactancia en las mismas condiciones que las reconocidas para el personal
+empleado público.
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39176
+9. La persona titular de la Dirección General del Centro Cartográfico de Castilla-La Mancha extenderá, al final del
+período de disfrute de las becas, un certificado acreditativo de la formación teórica y práctica recibida en el área de
+conocimiento elegida.
+Artículo 13. Cuantía de la beca y duración.
+1. La beca contará con un importe mensual fijo, a percibir durante todo el periodo de duración de las prácticas
+formativas.
+2. La cuantía individualizada de la subvención no podrá ser inferior al salario mínimo interprofesional, ni superior a
+dos veces y media el importe del Indicador Público de Renta de Efectos Múltiple vigente en cada ejercicio. Al importe
+indicado se le sumará, las indemnizaciones previstas en el artículo 12.2, que no podrán ser superiores a 100 euros
+por día.
+3. El importe mensual fijo será determinado por la resolución de la convocatoria en función de los créditos
+presupuestarios disponibles y de la reserva precisa para atender el pago de las cotizaciones a la Seguridad Social
+a cargo de la Junta de Comunidades.
+4. La duración de la beca, con carácter general, será de veinticuatro meses. La fecha de inicio de la beca será la que
+se determine en la resolución de adjudicación.
+Artículo 14. Forma de pago y de la justificación de la beca.
+1. El pago se realizará en mensualidades naturales, por un importe igual a la parte que corresponda del total de la
+beca concedida, y se sumará, si procediese, la cantidad adicional por transporte, alojamiento y residencia, en su
+caso. A estas cantidades se aplicarán los descuentos y retenciones que procedan de acuerdo con las disposiciones
+vigentes.
+2. La justificación de las becas se llevará a cabo:
+a) Durante el desarrollo de la beca, mediante certificaciones mensuales del desarrollo satisfactorio de las prácticas
+a cargo de las personas a las que se encomiende la tutoría de las personas becarias.
+b) A la finalización de la beca, mediante una memoria final, elaborada por la persona beneficiaria. En ella se valorará
+el tratamiento de los objetivos, metodología y resultados. Además, se incorporará un informe confidencial de la
+persona responsable de la tutoría.
+Artículo 15. Modificación de la resolución de concesión y rescisión de la beca.
+1. La alteración de las condiciones tenidas en cuenta para la concesión de la beca, la obtención concurrente de
+subvenciones o ayudas, procedentes de cualquiera de las administraciones o entes, públicos o privados, nacionales,
+de la Unión Europea o de organismos internacionales, y la realización de actividades incompatibles podrán dar
+lugar a la modificación de la resolución de concesión, en los términos establecidos en la normativa reguladora de
+la concesión, de acuerdo con lo previsto en el artículo 19.4 de la Ley 38/2003, de 17 de noviembre, General de
+Subvenciones, debiendo la persona beneficiaria proceder al reintegro de las cantidades percibidas.
+2. La beca podrá ser rescindida, previa audiencia de la persona beneficiaria, en los supuestos en que su aptitud para
+desarrollar las prácticas programadas con arreglo a las directrices marcadas por las personas a quienes corresponda
+ejercer su tutoría se revele insuficiente para aprovechar los medios puestos a su disposición, o cuando, una vez
+iniciadas las prácticas, se reduzca de forma notable el interés y dedicación aplicadas, así como en los supuestos de
+inhibición manifiesta, cumplimiento negligente y utilización dolosa, o en interés propio ajeno al fin de la beca, de la
+condición de persona beneficiaria de la beca.
+Artículo 16. Renuncia.
+1. Las personas beneficiarias sólo podrán renunciar a las becas concedidas y por causas justificadas, debidamente
+acreditadas, que el órgano concedente deberá validar, en cuyo caso no habrá lugar al reintegro de las cantidades
+percibidas. La renuncia deberá formalizarse por escrito dirigido a la persona titular del órgano concedente, en el que
+deberá indicarse con claridad la fecha de efectos.
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39177
+2. En los supuestos de renuncia de la persona beneficiaria o rescisión de la beca, se efectuará el llamamiento de las
+personas de la lista de reserva, de acuerdo con la puntuación obtenida, las cuales disfrutarán de la beca únicamente
+por el tiempo que reste del periodo de prácticas, a contar desde su incorporación efectiva, salvo si este periodo fuera
+inferior a cuatro meses y el órgano concedente considerase inalcanzables los objetivos mínimos que justificarían el
+llamamiento.
+Artículo 17. Privación de la beca y reintegro de los importes percibidos.
+1. Las personas beneficiarias quedarán privadas de la beca durante la tramitación del expediente contradictorio que
+tenga por objeto acordar la procedencia de su rescisión.
+2. Procederá el reintegro de las cantidades percibidas y la exigencia del interés de demora correspondiente desde
+el momento del pago hasta la fecha en que se acuerde la procedencia del reintegro, o la fecha en que la persona
+deudora ingrese el reintegro si es anterior a ésta, en los casos previstos en el artículo 37 de la Ley 38/2003, de 17
+de noviembre, General de Subvenciones. El reintegro de las cantidades percibidas se llevará a cabo mediante el
+procedimiento establecido en el Reglamento de desarrollo del Texto Refundido de la Ley de Hacienda de Castilla-La
+Mancha en materia de subvenciones, aprobado por Decreto 21/2008, de 5 de febrero.
+Artículo 18. Publicidad de subvenciones.
+A efectos de publicidad de las subvenciones, se remitirá a la Base de Datos Nacional de Subvenciones, a través
+de la Base de Datos Regional de Subvenciones, información sobre las resoluciones de concesión recaídas en los
+términos establecidos en el artículo 20 de la Ley 38/2003, de 17 de noviembre.
+Artículo 19. Responsabilidad y régimen sancionador.
+Las personas beneficiarias de las becas cuyas bases reguladoras se establecen por medio de la presente orden
+quedarán sujetas al régimen sancionador previsto en la normativa en materia de subvenciones contenida en el Texto
+Refundido de la Ley de Hacienda de Castilla-La Mancha.
+Artículo 20. Protección de datos.
+1. A los efectos previstos en el Decreto 55/2023, de 6 de junio, por el que se establece la política de protección de
+datos en la Administración de la Junta de Comunidades de Castilla-La Mancha, los datos personales recabados
+como consecuencia de la participación en las convocatorias para la concesión de becas para la formación de
+especialistas en asuntos relacionados con la información geoespacial serán tratados por el órgano convocante,
+cuyos datos de contacto se harán constar en aquéllas.
+2. Los datos facilitados por las personas solicitantes serán tratados únicamente con la finalidad de gestionar su
+participación en el procedimiento de selección, adjudicar las becas a las personas beneficiarias y formar la lista de
+reserva. Los de las personas adjudicatarias que hayan aplicado un alto grado de interés y dedicación a su formación
+y aprovechado eficazmente los medios puestos a su disposición podrán ser cedidos a las organizaciones públicas o
+privadas que los soliciten a los únicos fines de recomendación laboral.
+3. Además del consentimiento, la base jurídica es el artículo 6.1.c) y e) del Reglamento (UE) 2016/679 del Parlamento
+Europeo y del Consejo, de 27 de abril de 2016, relativo a la protección de las personas físicas en lo que respecta al
+tratamiento de datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva 95/46/CE.
+4. Dado que la base jurídica de todos los tratamientos que se realicen por parte de la Administración será el
+consentimiento informado, libre, específico e inequívoco otorgado por las personas candidatas en su solicitud de
+participación, ésta no podrá ser admitida si no se hace constar en la misma su prestación. Este consentimiento
+podrá ser retirado en cualquier momento, pero sin que ello afecte a la licitud de los tratamientos realizados de forma
+previa a su retirada.
+Disposición final primera. Habilitación para el desarrollo normativo.
+Se faculta a la persona titular de la Dirección General del Centro Cartográfico de Castilla-La Mancha para dictar
+cuantas resoluciones e instrucciones considere necesarias en desarrollo y aplicación de lo previsto en la presente
+orden.
+
+AÑO XLV Núm. 212 5 de noviembre de 2026 39178
+Disposición final segunda. Entrada en vigor.
+La presente orden entrará en vigor el día siguiente al de su publicación en el Diario Oficial de Castilla-La Mancha.
+Toledo, 29 de octubre de 2026
+El Consejero de Fomento
+IGNACIO HERNANDO SERRANO
