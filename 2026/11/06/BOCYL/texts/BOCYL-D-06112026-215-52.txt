@@ -1,0 +1,746 @@
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 643
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Salamanca
+RESOLUCIÓN de 30 de octubre de 2026, de la Delegación Territorial de
+Salamanca, por la que se dicta el informe de impacto ambiental del proyecto de
+hibridación sistema de almacenamiento en baterías (BEES) con la PSFV «Guleve -
+Palacios del Arzobispo II» (4,585 MW-18,4 MWh), en el término municipal de Valdelosa
+(Salamanca), promovido por «Planta FV 140, S.L.U.». Expte.: EIAS/2026/SA/002.
+El titular de la Delegación Territorial de la Junta de Castilla y León en Salamanca,
+en relación con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental y en virtud de las atribuciones conferidas por el artículo 52.2
+del texto refundido de la Ley de Prevención Ambiental de Castilla y León, aprobado por
+Decreto Legislativo 1/2015, de 12 de noviembre, es el órgano competente para dictar
+informe de impacto ambiental.
+La citada Ley de evaluación ambiental recoge en su anexo II los proyectos sometidos
+a evaluación de impacto ambiental simplificada. El presente proyecto está incluido en
+el Grupo 4, apartado n) Almacenamiento energético stand-alone a través de baterías
+electroquímicas o con cualquier tecnología de carácter hibridado con instalaciones de
+energía eléctrica.
+El proyecto no puede acogerse a la exención prevista en el Real Decreto 997/2025,
+de 5 de noviembre, ya que la planta fotovoltaica GULEVE-Palacios del Arzobispo II no
+fue objeto de evaluación de impacto ambiental simplificada y por tanto no cuenta con
+declaración o informe de impacto ambiental favorable.
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+Considerando adecuadamente tramitado el expediente, vista la propuesta de la
+Comisión Territorial de Medio Ambiente y Urbanismo de Salamanca en su reunión de
+fecha 29 de octubre de 2026, las observaciones y la documentación presentada,
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 644
+RESUELVO
+Dictar el Informe de Impacto Ambiental del Proyecto de Hibridación Sistema de
+Almacenamiento en Baterías (BESS) con la PSFV «Guleve–Palacios Del Arzobispo II»
+(4,585 Mw–18,4 MWh)», ubicado en el T.M. de Valdelosa (Salamanca)», Promovido por
+Planta FV 140, S.L.U. Expediente N.º: EIAS/2026/SA/002.
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, y en el artículo 59 del texto refundido de la Ley
+de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este Informe de Impacto Ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Salamanca, 30 de octubre de 2026.
+El Delegado Territorial,
+Fdo.: Eloy Ruiz Marcos
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 645
+ANEXO
+INFORME DE IMPACTO AMBIENTAL DEL PROYECTO DE HIBRIDACIÓN
+SISTEMA DE ALMACENAMIENTO EN BATERÍAS (BEES) CON LA PLANTA SOLAR
+FOTOVOLTAICA GULEVE–PALACIOS DEL ARZOBISPO II (4,585 MW–18,4 MWh), EN
+EL T.M. DE VALDELOSA (SALAMANCA)», PROMOVIDO POR PLANTA FV 140, S.L.U..
+EXPEDIENTE N.º: EIAS/2026/SA/002.
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+1.1. DATOS DEL PROYECTO
+El Proyecto consiste en un sistema de almacenamiento de energía conectado
+a una planta solar fotovoltaica (hibridación) que permite gestionar la generación
+Objeto del proyecto renovable de la planta mediante la carga de la batería, normalmente durante las
+horas diurnas, y descargar la misma (produciendo energía para su inyección en la
+red) en otro momento posterior.
+Promotor: PLANTA FV 140, S.L.U.
+Hibridación de la planta fotovoltaica GULEVE–Palacios del Arzobispo II mediante la
+Tipo de actuación: incorporación de un sistema de almacenamiento energético en baterías (BESS), basadas
+en baterías de ion litio.
+Provincia SALAMANCA Termino Municipal: Valdelosa
+parcela 5 del
+Ubicación: Municipio Valdelosa
+polígono 1
+Ocupación
+total del Cimentaciones
+Superficie total de la 1.369.393 m²
+vallado 6.849 m2 de los equipos de 76,41 m2
+parcela.
+(Área total de baterías
+implantación)
+Referencia catastral 37338A001000050000EF
+Clasificación urbanística Suelo Rústico con uso principalmente agrario
+Tecnología de almacenamiento Baterías de ion-litio (BESS)
+Potencia de la
+Potencia nominal del sistema de 5,987 MWp de potencia pico y 5,06 MW
+4,585 MW. planta fotovoltaica
+almacenamiento de potencia instalada en inversores.
+asociada
+Capacidad de Tiempo de almacenamiento
+18,4 MWh Aproximadamente 4 h
+almacenamiento previsto:
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 646
+1.1. DATOS DEL PROYECTO
+• Sistema de almacenamiento energético (BESS) de 4,585 MW de potencia y 18,4 MWh de
+capacidad de almacenamiento.
+• Cuatro contenedores de baterías de tecnología LFP (litio-ferrofosfato), con capacidad
+unitaria de 5,015 MWh.
+• Sistema de conversión de potencia (PCS), integrado por:
+- 16 convertidores bidireccionales PCS de 210 kVA.
+- 7 convertidores bidireccionales PCS de 125 kVA.
+• Una estación de transformación de 5,140 MVA, destinada a elevar la tensión para su
+Infraestructuras que
+conexión con la red interior de evacuación.
+compone el proyecto
+• Centro de Seccionamiento Palacios II, al que se conecta el sistema de almacenamiento.
+• Ampliación de celdas y equipos de media tensión en el centro de seccionamiento para
+permitir la integración del sistema de almacenamiento.
+• Línea subterránea de media tensión (30 kV) de conexión entre el BESS y el Centro de
+Seccionamiento Palacios II, con una longitud aproximada de 56,27 m.
+• Infraestructuras auxiliares asociadas, incluyendo cimentaciones, canalizaciones eléctricas,
+red de tierras, sistemas de control y protección, sistemas de comunicaciones y la
+integración del sistema de gestión energética con el SCADA de la planta fotovoltaica.
+• vial de acceso al sistema de 346,98 m y una ocupación permanente de 1.387,92 m2
+Punto de conexión Conexión al Centro de Seccionamiento Palacios II, posteriormente conectado al Centro de
+Seccionamiento Santiz I y a la Subestación Teso Santo 220/30 kV mediante línea de 30 kV.
+2. DOCUMENTO AMBIENTAL.
+El Documento Ambiental (DA) de marzo de 2026, elaborado por Solaría Energía
+y Medio Ambiente, S.A. El documento comienza con una introducción, antecedentes y
+objeto del proyecto, en la que se justifican las necesidades de almacenamiento energético
+asociadas a la planta fotovoltaica y los beneficios derivados de la hibridación mediante
+baterías.
+Se analizan tres alternativas para el desarrollo del proyecto: la alternativa cero o de no
+actuación que se descarta por no permitir la implantación del sistema de almacenamiento
+proyectado ni los beneficios asociados a la gestión de la energía renovable generada.
+Las diferencias entre las otras dos alternativas son muy reducidas desde el punto de vista
+territorial, ya que ambas se localizan en la parcela 5 del polígono 1 de Valdelosa, carecen
+de afección a valores ambientales y presentan una ocupación permanente similar de
+73,85 m². La principal diferencia radica en la distancia al punto de conexión, situado en el
+nuevo Centro de Seccionamiento Palacios II.
+• La alternativa 1 emplaza el BESS junto a esta infraestructura, precisando una
+línea subterránea de media tensión de tan solo 56,27 m, que discurre por una
+zona de pastizal sin afección a vegetación arbórea. Es la alternativa elegida, al
+considerarla la opción más favorable desde el punto de vista ambiental, técnico
+y económico.
+• La alternativa 2 requiere una línea de conexión de 352,94 m, lo que supone
+una mayor ejecución de zanjas, movimientos de tierras y ocupación temporal
+del terreno y supone una mayor afección potencial a ejemplares de Quercus
+pyrenaica asociados al trazado de la línea.
+Tras el análisis de alternativas y la descripción del proyecto, el documento ambiental
+desarrolla un inventario ambiental del ámbito de actuación, caracterizando el medio
+físico, biótico y socioeconómico. Asimismo, evalúa la ocupación del suelo, el consumo de
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 647
+recursos naturales, la generación de residuos, las emisiones y los movimientos de tierras
+previstos durante las distintas fases del proyecto. Estimando una ocupación permanente
+asociada al vallado e implantación del BESS de aproximadamente 6.849 m², además de
+las superficies temporales derivadas de zanjas, red de tierras y obras auxiliares.
+Posteriormente se realiza la identificación y valoración de impactos ambientales,
+durante las fases de construcción, explotación y desmantelamiento, concluyendo que
+los impactos generados presentan, en general, carácter compatible y, puntualmente,
+moderado, sin identificar impactos severos o críticos.
+El documento establece igualmente un conjunto de medidas preventivas, correctoras
+y de restauración, destinadas a minimizar las afecciones sobre el suelo, las aguas, la
+vegetación, la fauna y el paisaje, así como un programa de vigilancia ambiental para las
+fases de construcción, explotación y desmantelamiento.
+Finalmente, analiza la vulnerabilidad del proyecto frente a accidentes graves o
+catástrofes, evaluando riesgos naturales y tecnológicos, concluyendo que no se identifican
+riesgos significativos susceptibles de generar efectos ambientales relevantes.
+3. TRAMITACIÓN Y CONSULTAS REALIZADAS.
+3.1. Inicio del procedimiento.
+Con fecha de 18 de marzo de 2026, el Servicio Territorial de Industria, Comercio
+y Economía de Salamanca, por comunicación interna (HERMES) remitió al Servicio
+Territorial de Medio Ambiente de Salamanca la documentación presentada por la mercantil
+PLANTA FV 140, S.L.U. para el inicio del procedimiento de evaluación de impacto
+ambiental simplificada del proyecto denominado «Hibridación FV Guleve-Palacios del
+Arzobispo II», ubicado en el término municipal de Valdelosa (Salamanca). La solicitud se
+acompañaba del documento ambiental, del proyecto y capas cartográficas.
+3.2. Consultas a las Administraciones públicas afectadas y a las personas interesadas.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, se procedió por parte del Servicio Territorial de Medio Ambiente
+de Salamanca a la apertura del trámite de consultas a las administraciones públicas
+afectadas y a las personas interesadas, con fecha de 19 de marzo 2026.
+La relación de los organismos consultados, así como los informes recibidos de forma
+previa a la redacción del presente informe se refleja en la siguiente tabla:
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS CONTESTACIÓN
+Servicio Territorial de Agricultura, Ganadería y Desarrollo Rural
+Servicio Territorial de Cultura, Turismo y Deporte. 23/03/2026
+Servicio Territorial de Industria, Comercio y Economía (Sección de
+Industria)
+Servicio Territorial de Sanidad 30/03/2026
+Servicio Territorial de Movilidad y Transformación Digital.
+Secretaría Territorial de Salamanca (Sección de Protección Ciudadana) 15/04/2026
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 648
+ADMINISTRACIONES Y/O PERSONAS INTERESADAS CONTESTACIÓN
+Servicio Territorial de Medio Ambiente de Salamanca (Sección de
+20/03/2026
+Protección Ambiental)
+Dirección General de Patrimonio Natural y Política Forestal (Informe de 09/09/2026
+afección al medio natural)
+Subdelegación del Gobierno en Salamanca (Demarcación del Área de
+20/03/2026
+Industria y Energía)
+03/07/2026
+Confederación Hidrográfica del Duero
+21/09/2026
+Ayuntamiento de Valdelosa 24/03/2026
+Diputación Provincial de Salamanca
+Asociación de Ecologistas en Acción de Salamanca
+Resumidamente se pasa a describir brevemente el contenido de los informes
+emitidos:
+El Servicio Territorial de Cultura, Turismo y Deporte. (Arqueólogo Territorial. Señala
+que la zona ya fue objeto de prospección arqueológica en 2018 con motivo de la tramitación
+de la instalación fotovoltaica Solaria-Santiz I, que incluía la parcela donde se ubica la
+PSF con la que se hibrida el proyecto evaluado, sin detectarse bienes integrantes del
+patrimonio cultural. Como única medida a incorporar al condicionado ambiental propone
+la realización de control arqueológico de los movimientos de tierra durante la ejecución
+de las obras.
+El Servicio Territorial de Sanidad (Servicios Oficiales Farmacéuticos: Demarcación
+de Salamanca): Analiza el proyecto desde la perspectiva de la protección de la salud y
+de los posibles efectos sobre los recursos hídricos. Señala que la actuación se ubica
+sobre la masa de agua subterránea Salamanca (400052) y recoge información sobre los
+sistemas de abastecimiento y captaciones existentes en el municipio. Considera que,
+atendiendo a la ubicación del proyecto y a las medidas preventivas y correctoras previstas
+en el documento ambiental, no se prevén afecciones significativas sobre la calidad de
+las aguas superficiales o subterráneas ni repercusiones para la salud pública. Concluye
+informando favorablemente el proyecto, condicionado al cumplimiento de las medidas
+preventivas y correctoras previstas y al desarrollo del programa de vigilancia ambiental.
+Secretaría Territorial de la Delegación Territorial de Salamanca (Sección de
+Protección Ciudadana): Analiza la vulnerabilidad del proyecto frente a riesgos naturales
+y tecnológicos. Asimismo, informa de que la actividad está incluida entre aquellas que
+deben disponer de Plan de Autoprotección, el cual deberá elaborarse e inscribirse en
+el correspondiente registro autonómico antes del inicio de la actividad. Concluye que
+ninguna actuación derivada del proyecto debe incrementar los riesgos para las personas,
+sus bienes o el medio ambiente y que, en caso de producirse tal circunstancia, deberá
+realizarse un análisis específico y adoptarse las medidas necesarias para su prevención.
+Servicio Territorial de Medio Ambiente de Salamanca (La Sección de Protección
+Ambiental): Analiza las características del proyecto de hibridación mediante BEES
+asociado a la planta fotovoltaica Guleve-Palacios del Arzobispo II. Considera adecuada
+la alternativa seleccionada por minimizar las afecciones ambientales y se analiza el
+contenido del documento ambiental. Considera que no resulta necesario someter el
+proyecto al procedimiento de evaluación de impacto ambiental ordinaria y propone como
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 649
+condicionado la correcta gestión de todos los residuos generados durante las fases de
+obra, explotación y desmantelamiento, así como la restauración de la superficie afectada
+una vez finalizada la vida útil de la instalación.
+La Dirección General de Patrimonio Natural y Política Forestal (informe de afección al
+medio natural): Analiza las afecciones del proyecto sobre la Red Natura 2000 y otros valores
+del medio natural. Concluye que no existe coincidencia territorial ni afecciones indirectas
+sobre espacios naturales protegidos, Red Natura 2000, hábitats de interés comunitario,
+flora protegida, montes de utilidad pública, montes protectores, vías pecuarias u otras
+figuras de protección. El proyecto se localiza dentro del ámbito de aplicación del Plan
+de Recuperación de la Cigüeña Negra, aunque fuera de áreas críticas, y en el entorno
+existen observaciones de milano real, sin que se prevean afecciones significativas a estas
+especies. Asimismo, considera que la repercusión paisajística es reducida al localizarse
+las instalaciones dentro del vallado de la planta fotovoltaica. Informa favorablemente la
+actuación y concluye que no causará perjuicio a la integridad de ningún espacio de la
+Red Natura 2000, condicionando la viabilidad ambiental al cumplimiento de una serie
+de medidas protectoras, entre ellas la utilización de caminos existentes, la adecuada
+gestión y restauración del suelo vegetal, la integración paisajística de las instalaciones
+y la realización de una prospección previa de fauna protegida, especialmente de milano
+real y cigüeña negra, antes del inicio de las obras.
+Subdelegación del Gobierno en Salamanca (Demarcación de Industria y Energía):
+Informa que no afecta a la infraestructura energética básica competencia de la Dirección
+General de Política Energética y Minas del Ministerio para la Transición Ecológica y el Reto
+Demográfico ni se observan incidencias ni afecciones dentro del ámbito de competencias
+de esta Dependencia.
+La Confederación Hidrográfica del Duero: Analiza las posibles afecciones del proyecto
+sobre el dominio público hidráulico y los recursos hídricos. Concluye que la ubicación del
+sistema de almacenamiento no afecta directamente a cauces públicos ni a sus zonas de
+protección, si bien la línea de evacuación presenta un cruce con el arroyo de Cerrecín.
+Señala la necesidad de respetar las zonas de servidumbre y policía de cauce, obtener
+las autorizaciones preceptivas para las actuaciones que afecten al dominio público
+hidráulico y adoptar medidas para prevenir la contaminación de las aguas superficiales y
+subterráneas.
+Asimismo, recuerda la obligación de cumplir la normativa del Plan Hidrológico del
+Duero, establecer medidas para evitar arrastres de sólidos, vertidos accidentales y
+afecciones a las masas de agua, y prestar especial atención a los riesgos derivados de
+un eventual incendio de las baterías y a la gestión de las aguas de extinción. Finalmente,
+propone diversas condiciones de protección del medio hídrico que deberán incorporarse
+al proyecto y a su ejecución.
+No obstante, el organismo aprecia diversas carencias en el documento ambiental
+considerando insuficiente la evaluación de las afecciones al medio hídrico y la necesidad
+de completar el análisis hidrológico e hidrogeológico del proyecto.
+A la vista de las deficiencias señaladas en el informe emitido por la Confederación
+Hidrográfica del Duero, el promotor presentó una adenda al documento ambiental de fecha
+29/07/2026, con objeto de ampliar el análisis de las afecciones sobre el medio hídrico.
+En dicha documentación se completó la caracterización de las masas de agua superficial
+Arroyo de San Cristóbal (30400491) y subterránea Salamanca (400052), se evaluó
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 650
+expresamente la compatibilidad del proyecto con los objetivos del Plan Hidrológico del
+Duero 2022-2027, se amplió la valoración de los impactos sobre las aguas superficiales
+y subterráneas durante las fases de construcción, explotación y desmantelamiento, se
+desarrolló el análisis de la gestión de los residuos de baterías y se reforzó el programa de
+vigilancia ambiental mediante controles específicos sobre la masa de agua subterránea
+y el seguimiento de posibles procesos erosivos y arrastres de sedimentos. Asimismo, el
+promotor defendió que, dada la reducida entidad del proyecto y su implantación dentro
+de una planta fotovoltaica ya autorizada, no resultaba proporcionado realizar un estudio
+de efectos acumulativos y sinérgicos en un radio de 5 km.
+Analizada la documentación complementaria, la Confederación Hidrográfica del
+Duero, emite un 2º informe de fecha 29/09/2026, en el que se consideró adecuadamente
+subsanados la mayor parte de los requerimientos formulados en su informe inicial, en
+particular los relativos a la identificación y estado de las masas de agua afectadas, la
+valoración de la incidencia sobre sus objetivos ambientales, el análisis de las afecciones
+sobre las aguas superficiales y subterráneas, la gestión de los residuos de baterías
+y el riesgo de afección al medio hídrico derivado de posibles incendios. El organismo
+concluye que, siempre que se cumplan las medidas preventivas y el condicionado
+propuesto, no se prevén afecciones significativas sobre las masas de agua ni sobre el
+dominio público hidráulico. No obstante, mantiene parcialmente algunas observaciones
+relativas a la necesidad de corregir el código de la masa de agua subterránea en el
+programa de vigilancia ambiental, definir expresamente los parámetros analíticos objeto
+de seguimiento y realizar un análisis de efectos acumulativos y sinérgicos en el ámbito de
+5 km considerado por dicho organismo. Asimismo, reitera la condición de que las aguas
+de extinción generadas en caso de incendio de las baterías sean recogidas mediante
+sistemas estancos y gestionadas por gestor autorizado.
+Ayuntamiento de Valdelosa (Asesor Técnico de la Mancomunidad de Municipios
+«Comarca de Ledesma). Analiza la compatibilidad urbanística del proyecto de hibridación
+mediante sistema de almacenamiento energético en baterías asociado a la planta
+fotovoltaica GULEVE-Palacios del Arzobispo II, ubicado en la parcela 5 del polígono 1 de
+Valdelosa. Indica que los terrenos están clasificados como suelo rústico con protección
+agrícola y concluye que la actuación resulta urbanísticamente compatible. Emite informe
+urbanístico favorable, al considerar que la instalación se sitúa a más de 500 metros de
+núcleos urbanos y bienes de interés cultural, no afecta a áreas naturales protegidas y no
+se localiza sobre monte arbolado.
+4. ANÁLISIS DEL PROYECTO SEGÚN LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+a) Dimensiones y diseño del conjunto del proyecto. El proyecto consiste en
+la hibridación de la planta fotovoltaica GULEVE-Palacios del Arzobispo II
+mediante la incorporación de un sistema de almacenamiento energético en
+baterías (BESS) de 4,585 MW de potencia nominal y 18,4 MWh de capacidad
+de almacenamiento. La actuación se desarrolla íntegramente dentro del ámbito
+de una instalación energética previamente autorizada, sin ocupación de nuevos
+terrenos fuera de la parcela ya destinada a uso energético. La superficie vallada
+del sistema de almacenamiento asciende a 6.849 m², si bien la ocupación real
+de los elementos constructivos permanentes se limita a 76,41 m² (zona de
+cimentación de las baterías), lo que evidencia la reducida entidad territorial de la
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 651
+actuación. Asimismo, incorpora las infraestructuras auxiliares necesarias para su
+funcionamiento y conexión eléctrica mediante una línea eléctrica subterránea d
+escasos 56,27 m desde las BEES hasta el centro de seccionamiento Palacios II.
+b) Acumulación con otros proyectos existentes y/o aprobados. El documento
+ambiental incluye un pequeño análisis de impactos acumulativos y sinérgicos
+que fue completado en una posterior adenda a petición de la CHD. La actuación
+se integra en una planta fotovoltaica ya autorizada y utiliza infraestructuras
+energéticas existentes o previamente evaluadas. Si bien el entorno presenta una
+elevada presencia de instalaciones de generación renovable, la naturaleza de la
+actuación, consistente en un sistema de almacenamiento vinculado a una planta
+ya implantada, limita sustancialmente los efectos acumulativos previsibles,
+concentrándose éstos en un ámbito espacial muy reducido.
+c) Utilización de recursos naturales. El proyecto supone una utilización limitada de
+recursos naturales al implantarse sobre terrenos previamente transformados y
+vinculados a la instalación fotovoltaica existente. No requiere captaciones de
+aguas superficiales o subterráneas para su funcionamiento ordinario, no implica
+consumo permanente de recursos hídricos y no afecta a formaciones vegetales
+de interés ni a hábitats de interés comunitario. La ocupación adicional de suelo
+resulta reducida y se circunscribe al interior de una parcela ya destinada a uso
+energético (6.849 m²).
+d) Generación de residuos. Los residuos generados se concentran principalmente
+en las fases de construcción y desmantelamiento, correspondiendo
+fundamentalmente a excedentes de obra, materiales de construcción y, al final de
+la vida útil de la instalación, residuos derivados del sistema de almacenamiento.
+Durante la fase de explotación la generación de residuos será escasa y asociada
+a operaciones de mantenimiento y sustitución puntual de componentes. La
+documentación prevé su gestión conforme a la normativa vigente mediante
+gestores autorizados.
+e) Contaminación y otras perturbaciones. Durante la fase de construcción podrán
+producirse emisiones temporales de polvo, ruido y vibraciones asociadas al
+movimiento de maquinaria y ejecución de las obras, así como riesgos puntuales
+de contaminación por vertidos accidentales. Durante la fase de explotación no
+se prevén emisiones atmosféricas, vertidos ni afecciones relevantes derivadas
+del funcionamiento ordinario del sistema de almacenamiento, limitándose las
+posibles perturbaciones a situaciones accidentales de carácter excepcional,
+como pudiera ser un incendio.
+f) Riesgos de accidentes graves y/o catástrofes. El principal riesgo potencial se
+asocia a la posibilidad de incendio o fallo de los sistemas de almacenamiento
+electroquímico. No obstante, la instalación incorpora sistemas de monitorización,
+protección, detección y extinción de incendios, además de las medidas de
+seguridad exigibles para este tipo de instalaciones. Los informes sectoriales
+consideran que los riesgos identificados pueden prevenirse y gestionarse
+adecuadamente mediante la aplicación de las medidas de protección previstas y
+la elaboración del correspondiente Plan de Autoprotección.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 652
+g) Riesgos para la salud humana. Teniendo en cuenta la naturaleza de la actuación,
+su ubicación alejada de núcleos de población y la ausencia de emisiones,
+vertidos o procesos industriales potencialmente contaminantes, no se prevén
+efectos adversos significativos sobre la salud humana. Esta conclusión coincide
+con lo señalado por el informe emitido por el Servicio Territorial de Sanidad de
+Salamanca.
+4.2. UBICACIÓN DEL PROYECTO.
+a) Uso presente y aprobado del suelo. El proyecto se localiza en la parcela 5 del
+polígono 1 del término municipal de Valdelosa (Salamanca), íntegramente dentro
+del ámbito de la planta fotovoltaica Guleve-Palacios del Arzobispo II. Se trata
+de terrenos que ya han sido destinados a uso energético y que cuentan con
+compatibilidad urbanística para la implantación de las instalaciones previstas, sin
+que la actuación implique la ocupación de nuevos suelos fuera de los previamente
+afectados por la planta fotovoltaica.
+b) Abundancia relativa, la disponibilidad, la calidad y la capacidad regenerativa de
+los recursos naturales de la zona y su subsuelo. La actuación se desarrolla sobre
+terrenos agrícolas transformados y de escasa naturalidad, sin afectar a recursos
+naturales especialmente sensibles. El proyecto no requiere captaciones de aguas
+superficiales o subterráneas para su funcionamiento, no altera significativamente
+las características edáficas del emplazamiento ni modifica la capacidad de
+regeneración de los recursos presentes. Asimismo, la superficie ocupada es
+reducida y se concentra en una zona ya transformada por la planta fotovoltaica.
+c) Capacidad de absorción del medio natural. El informe de la Dirección General
+de Patrimonio Natural y Política Forestal concluye que no existe coincidencia
+territorial ni afección indirecta sobre espacios naturales protegidos, espacios
+Red Natura 2000, zonas húmedas de interés especial, montes de utilidad
+pública, montes protectores, vías pecuarias, flora protegida, hábitats de interés
+comunitario ni otras figuras de protección del medio natural.
+• Afección a Red Natura 2000: Una vez analizadas y valoradas las actuaciones,
+se considera realizada la evaluación requerida por el artículo 2 del Decreto
+6/2011, de 10 de febrero, por el que se establece el procedimiento de
+evaluación de las repercusiones sobre la Red Natura 2000 de aquellos planes,
+programas o proyectos desarrollados en el ámbito territorial de la Comunidad
+de Castilla y León, concluyéndose que las actuaciones proyectadas, ya sea
+individualmente o en combinación con otros proyectos, no causarán perjuicio
+a la integridad de ningún espacio protegido Red Natura2000.
+• Afección a planes de especies protegidas y a fauna protegida. Aunque la
+actuación presenta coincidencia territorial con el ámbito de aplicación del Plan
+de Recuperación de la Cigüeña Negra, no se tiene constancia de la presencia
+de la especie ni de áreas críticas o zonas de nidificación próximas. Del mismo
+modo, las posibles afecciones sobre fauna protegida, en particular sobre el
+milano real, se consideran poco significativas al ubicarse la instalación dentro
+de una planta fotovoltaica en ejecución y en un entorno donde ya existen
+numerosas infraestructuras de generación renovable.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 653
+• Afección al paisaje. Según el Atlas de los paisajes de España (Ministerio
+de Medio Ambiente, 2003) ubica el proyecto en la unidad del paisaje 51.16
+Campiñas adehesadas de Valdelosa. En todo caso se considera que el
+proyecto carece de la repercusión paisajística al localizarse las baterías dentro
+del recinto de la planta fotovoltaica y establecerse medidas de integración
+visual.
+En consecuencia, la Dirección General informa favorablemente la actuación,
+condicionando su viabilidad ambiental al cumplimiento de las medidas protectoras
+y correctoras propuestas en su informe y que han sido incorporadas en el punto
+5 de este informe.
+• En relación con la densidad demográfica: el proyecto se ubica en un entorno
+rural de baja densidad de población, alejado de núcleos urbanos de entidad y
+en el ámbito de una instalación fotovoltaica ya existente, siendo el municipio
+de Valdelosa, núcleo de población más próximo al proyecto, cuenta con una
+población de 386 habitantes y una superficie de 63,43 km², lo que supone una
+densidad aproximada de 6 habitantes por km².
+• En cuanto a la posible superación de los objetivos de calidad medioambiental
+pertinentes para el proyecto: no se prevé que la actuación genere emisiones,
+vertidos o afecciones de entidad suficiente para comprometer el cumplimiento
+de los objetivos ambientales aplicables al ámbito de actuación que es
+eminentemente rural.
+• En cuanto Masas de agua superficial o subterránea contempladas en la
+planificación hidrológica y sus respectivos objetivos medioambientales. El
+proyecto se localiza en la cuenca vertiente de la masa de agua superficial
+Arroyo de San Cristóbal (30400491) y sobre la masa de agua subterránea
+Salamanca (400052). La Confederación Hidrográfica del Duero concluye, tras
+el análisis de las dos documentaciones presentadas por el promotor (DA y
+Adenda), que no se identifican afecciones significativas sobre dichas masas
+de agua ni sobre el dominio público hidráulico, dado que la actuación no
+prevé captaciones de agua, vertidos, modificaciones de cauces o afección a
+sus zonas de protección, siempre que se cumplan las medidas preventivas,
+correctoras y de vigilancia establecidas. Asimismo, se considera justificada la
+compatibilidad del proyecto con los objetivos ambientales del Plan Hidrológico
+del Duero y el cumplimiento del principio de no deterioro de las masas de
+agua.
+• En relación con los lugares con significación histórica, cultural o arqueológica,
+el informe del Servicio Territorial de Cultura y Turismo indica que la actuación
+se localiza en un ámbito que fue objeto de prospección arqueológica previa,
+sin que se detectaran bienes integrantes del patrimonio cultural. No obstante,
+como medida preventiva, se establece la realización de un control arqueológico
+de los movimientos de tierra durante la ejecución de las obras.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+a) Magnitud y alcance espacial del impacto. Los efectos derivados de la actuación
+presentan una magnitud reducida y un ámbito de influencia muy localizado, al
+limitarse a la implantación del sistema de almacenamiento dentro del recinto
+de la planta fotovoltaica existente, sin afectar a nuevos terrenos ni alterar
+sustancialmente los usos actuales.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 654
+b) Naturaleza del impacto. Los impactos asociados al proyecto son los propios de
+una actuación de carácter industrial vinculada al almacenamiento energético,
+relacionados principalmente con los movimientos de tierra de escasa entidad y la
+instalación de nuevos equipos (baterías), sin que se prevean transformaciones
+relevantes del medio receptor mas allá del hormigonado de la superficie donde
+se ubicarán dichas baterías (76 m2).
+c) Carácter transfronterizo del impacto. Por las características del proyecto, su
+emplazamiento y su ámbito de actuación, no se prevén efectos ambientales de
+carácter transfronterizo.
+d) Intensidad y complejidad del impacto. La intensidad de los efectos previsibles
+se considera baja, dado que la actuación se integra en una instalación ya
+existente y opera sobre un entorno previamente transformado, sin generar
+procesos ambientales complejos ni interacciones significativas con los factores
+ambientales.
+e) Probabilidad del impacto. Los impactos identificados son conocidos y previsibles,
+estando asociados principalmente a la fase de obras y siendo susceptibles
+de control mediante la aplicación de las medidas preventivas y correctoras
+propuestas.
+f) Inicio previsto y duración, frecuencia y reversibilidad del impacto. La mayor parte
+de los efectos se producirán durante la fase de construcción y tendrán carácter
+temporal. Una vez finalizadas las obras, los impactos residuales previsibles
+presentan una duración limitada y, en general, son reversibles o recuperables
+una vez desmanteladas las infraestructuras.
+g) Acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. Si bien en el entorno del proyecto existe una elevada concentración
+de instalaciones fotovoltaicas e infraestructuras energéticas, no obstante, la
+actuación evaluada consiste en una modificación de alcance limitado, vinculada
+a una planta ya existente y sin incremento de la superficie ocupada ni de las
+infraestructuras principales del proyecto. Por ello, aun considerando el efecto
+conjunto con las instalaciones presentes en la zona, no se prevé que la
+incorporación del sistema de almacenamiento produzca una afección adicional
+relevante respecto a la situación ya existente ni que genere efectos acumulativos
+significativos sobre los factores ambientales.
+h) Posibilidad de reducir el impacto de manera eficaz. Los potenciales efectos
+identificados pueden prevenirse, corregirse o minimizarse mediante la aplicación
+de las medidas preventivas, correctoras y de seguimiento previstas en la
+documentación ambiental, así como de las condiciones establecidas por este
+informe de impacto ambiental.
+Por todo lo expuesto, considerando adecuadamente tramitado el expediente y de
+acuerdo con lo establecido en el artículo 47 de la Ley 21/2013, de 9 de diciembre,
+de evaluación ambiental, teniendo en cuenta el resultado de las consultas
+realizadas y siguiendo los criterios del Anexo III de la citada Ley, se realiza el
+siguiente:
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 655
+5. INFORME DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del proyecto de «Hibridación del sistema
+de almacenamiento energético en Baterías (Bees) con la PSFV Guleve–Palacios Del
+Arzobispo II (4,585 Mw–18,4 MWh)», en el T.M. de Valdelosa (Salamanca), promovido por
+PLANTA FV 140, S.L.U., se determina que no tiene efectos significativos sobre el medio
+ambiente, en los términos establecidos en el presente informe de impacto ambiental, por
+los motivos que se justifican en el mismo y sin perjuicio del cumplimiento de la normativa
+urbanística y sectorial vigentes u otras normas que pudieran impedir o condicionar su
+realización, considerando la alternativa elegida en el documento ambiental, como la de
+menor impacto negativo a efectos ambientales.
+5.1. Autorizaciones: El presente informe de impacto ambiental no exime al promotor
+de la obtención de las autorizaciones que resulten pertinentes, y del cumplimiento de
+las condiciones establecidas en estas por los distintos organismos o entidades y su
+correspondiente normativa de aplicación.
+5.2. Medidas protectoras: Se deberán cumplir las medidas protectoras y correctoras
+que se indican a continuación, además de las que se incluyen en el documento ambiental
+aportado, en lo que no contradigan al presente informe de impacto ambiental:
+a) Protección de las aguas. Durante la ejecución, explotación y desmantelamiento
+del proyecto se garantizará el cumplimiento del principio de no deterioro de las
+masas de agua superficial Arroyo de San Cristóbal (30400491) y subterránea
+Salamanca (400052), así como de los objetivos ambientales establecidos en el
+Plan Hidrológico de la Demarcación Hidrográfica del Duero.
+Durante las obras se adoptarán medidas para evitar procesos erosivos, arrastres
+de sólidos y vertidos accidentales, incluyendo la adecuada ubicación de acopios,
+el mantenimiento de la maquinaria, la impermeabilización de las zonas auxiliares
+cuando resulte necesario y la correcta gestión de residuos y aguas residuales. Se
+evitará establecer zonas de acopios de materiales potencialmente contaminantes,
+zonas de estacionamiento o mantenimiento de vehículos o maquinaria, en zonas
+de sustrato permeable sobre masas de agua subterránea, o en la proximidad de
+masas de agua superficial y su zona de policía.
+Se establecerán bandas de retención de sedimentos en las márgenes de los
+cauces públicos que sean susceptibles de recibir aportes sólidos durante las obras
+del proyecto para lo cual se solicitará la oportuna autorización a la Confederación
+Hidrográfica del Duero.
+Se deberá respetar la correspondiente banda de protección de los cauces de los
+ríos y arroyos afectados por las instalaciones de producción de energía y sus
+infraestructuras de evacuación, así como por sus vías de acceso. En esta banda
+no se permitirán los movimientos de tierras, cimentaciones, apertura de zanjas o
+construcción de viales, la circulación masiva de vehículos y maquinaria pesada,
+etc. No se admitirán, en ningún caso, acciones que pongan en riesgo el buen
+estado de las Zonas protegidas por la Directiva Marco del Agua.
+La ejecución de las obras no supondrá, en ningún caso, modificaciones
+topográficas del terreno que pudieran suponer una modificación de la delimitación
+de las cuencas vertientes de las masas de agua y de las microcuencas afectadas.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 656
+Cualquier actuación que requiera ocupación de zona de policía, cruce de
+cauces o vertido al dominio público hidráulico deberá contar previamente con
+la correspondiente autorización del organismo de cuenca. Asimismo, si fuera
+necesaria la captación de aguas superficiales y/o subterráneas, previamente, será
+preciso obtener de la Confederación Hidrográfica del Duero la correspondiente
+autorización o concesión administrativa.
+Las zonas en las que se ubiquen las instalaciones auxiliares y parques de
+maquinaria deberán ser impermeabilizadas para evitar la contaminación de las
+aguas subterráneas. Las aguas procedentes de la escorrentía de estas zonas
+impermeabilizadas deberán ser recogidas y gestionadas adecuadamente para
+evitar la contaminación del dominio público hidráulico.
+Deberán realizarse operaciones periódicas de revisión y mantenimiento de las
+instalaciones proyectadas para el almacenamiento de materias primas, productos
+y residuos; a fin de garantizar su buen estado de conservación, condiciones de
+seguridad, estanqueidad y capacidad de almacenamiento, y así poder evitar que
+se produzca la contaminación de las aguas superficiales o subterráneas
+Se deberán tomar las medidas oportunas para asegurar que, en ningún caso,
+se produzcan vertidos de aceites, combustibles, lubricantes, u otras sustancias
+similares al terreno o a los cursos de agua; sin perjuicio de lo cual se recomienda la
+elaboración de protocolos de actuación específicos en previsión de la ocurrencia
+de incidentes de este tipo, para poder así actuar de la manera más rápida posible
+y evitar la contaminación de las aguas superficiales y/o subterráneas.
+En caso de incendio que afecte al sistema de almacenamiento, las aguas y
+líquidos procedentes de las labores de extinción deberán recogerse mediante
+sistemas de contención estancos y gestionarse por gestor autorizado, evitando
+su incorporación al terreno, a la red de drenaje o al dominio público hidráulico.
+Ya que este respecto, debe tenerse en cuenta que los incendios de sistemas
+de almacenamiento mediante baterías de ion-litio pueden generar diferentes
+contaminantes y que las aguas empleadas en la extinción pueden transportar
+contaminantes procedentes de las baterías y de los productos generados durante
+el incendio, pudiendo afectar al suelo y a las aguas superficiales y subterráneas.
+Asimismo, deberá desarrollarse el programa de vigilancia ambiental previsto
+para el seguimiento de la masa de agua subterráneas y tal y como se señal
+en el 2º informe del organismo de cuenca, deberá corregirse el código de la
+masa de agua subterránea (Salamanca 400052 y no 400025) e indicarse los
+parámetros analíticos concretos que serán objeto de seguimiento. Asimismo,
+deberán mantenerse los controles relativos a la eficacia de las medidas frente
+al arrastre de sólidos por escorrentía y a la evolución de los procesos erosivos
+durante las distintas fases del proyecto.
+b) Protección del suelo y restauración de terrenos afectados. El acceso a las obras
+se realizará utilizando exclusivamente la red de caminos existentes, sin apertura
+de nuevos accesos. Los caminos utilizados deberán mantenerse en adecuadas
+condiciones de conservación durante la ejecución de los trabajos.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 657
+En las zanjas para las líneas eléctricas, explanaciones para la implantación de
+las baterías, sistemas de conversión de potencia, estaciones de transformación,
+centro de seccionamiento e instalaciones auxiliares, se retirará previamente la
+capa superior de suelo vegetal (al menos 20 cm), acopiándola en montones de
+pequeña altura, con el objeto de mantener su estructura orgánica y humedad,
+para su posterior uso superficial en el relleno superficial de las zanjas o en las
+labores de restauración de las zonas alteradas durante las obras.
+c) Protección de la vegetación y minimización de la ocupación del terreno. Las
+zonas donde se lleven a cabo las labores auxiliares del proyecto, como parque
+de maquinaria y equipos auxiliares, acopio de materiales, etc., se situarán
+alejadas de cualquier zona ambientalmente sensible y de las zonas arboladas
+próximas. Estas zonas deberán ubicarse siempre dentro de los terrenos de la
+planta fotovoltaica Guleve-Palacios del Arzobispo II.
+d) Protección de la fauna: Previo al inicio de los trabajos de deberá realizar una
+prospección en busca de zonas de reproducción y reposo de especies protegidas,
+especialmente milano real y cigüeña negra, en las zonas boscosas de los
+alrededores de la zona de ubicación de las baterías. En caso de constatar su
+presencia, se informará al Servicio Territorial de Medio Ambiente de Salamanca
+para que, en su caso, adopte las medidas preventivas oportunas, no pudiendo
+realizar trabajos a menos de 500 m de los nidos, debiendo iniciar los trabajos,
+una vez que los pollos hayan abandonado los nidos.
+e) Gestión de residuos. Los residuos generados y/o gestionados en la instalación
+estarán adecuadamente almacenados teniendo en cuenta su naturaleza y se
+destinarán a gestor autorizado en cada caso.
+f) Prevención de incendios. Se atenderá a todas las medidas preventivas y
+prohibiciones incluidas en la Orden anual por la que se establecen normas sobre
+el uso del fuego y se fijan medidas preventivas para la lucha contra los incendios
+forestales.
+g) Protección paisajística: Los contenedores de baterías, edificaciones e
+instalaciones permanentes deberán presentar acabados y tonalidades acordes
+con los colores dominantes del entorno, evitando materiales brillantes o
+reflectantes que incrementen su visibilidad
+h) Protección el Patrimonio Histórico y Arqueológico. Se realizar un control
+arqueológico de los movimientos de tierra durante la ejecución de las obras.
+En el caso que durante las mismas se produjera un hallazgo casual de bienes
+culturales, las obras deberán ser detenidas, y comunicado inmediatamente el
+hecho al Servicio Territorial de Cultura, Turismo y Deporte Salamanca.
+i) Protección frente a riesgos de accidentes graves o catástrofes. Deberá contar
+con un Plan de Autoprotección, el cual deberá elaborarse e inscribirse en el
+correspondiente registro autonómico antes del inicio de la actividad. Ninguna de
+las actuaciones que se proyecten debe incrementar el riesgo hacia las personas,
+sus bienes y el medio ambiente. Si alguna de las actuaciones derivadas de la
+aprobación/modificación pudiera potencialmente aumentar estos riesgos, debería
+hacerse un análisis previo, indicando el grado de afección, así como las medidas
+necesarias para evitar incrementar dichos riesgos.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 658
+j) Vigilancia ambiental. El programa de vigilancia ambiental presentado se
+completará de forma que permita comprobar que las condiciones establecidas
+tanto en el propio Documento Ambiental como en este Informe de Impacto
+Ambiental se llevan a efecto y se pueda determinar su eficacia y los posibles
+efectos no previstos. Para ello deberá incluir un listado de comprobación que se
+rellenará periódicamente de forma que permita el seguimiento del cumplimiento
+de las condiciones ambientales a lo largo de las distintas fases del proyecto.
+k) Cese temporal de la actividad y cierre de la instalación. Una vez finalizada la
+actividad, se retirarán las infraestructuras y se devolverá la parcela a su estado
+original en lo que fuera posible, gestionándose los residuos generados de acuerdo
+con la normativa vigente.
+5.3. Informes periódicos. A partir del inicio de las actuaciones, el promotor presentará
+anualmente, ante el órgano sustantivo, un informe sobre el desarrollo del programa de
+vigilancia ambiental y sobre el grado de cumplimiento y eficacia de todas y cada una de
+las medidas contempladas en este informe de impacto ambiental.
+5.4. Comunicación de inicio de actividad. En cumplimiento de lo establecido en el
+artículo 60 del Texto Refundido de la Ley de Prevención Ambiental de Castilla y León
+aprobado por Decreto Legislativo 1/2015, de 12 de noviembre, el promotor deberá
+comunicar al órgano ambiental el comienzo de la ejecución del proyecto y el final de las
+obras, así como el comienzo de la fase de explotación.
+5.5. Seguimiento y vigilancia. Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental, así como el seguimiento
+ambiental durante toda la vida útil de la infraestructura. Sin perjuicio de ello, el órgano
+ambiental podrá recabar información de aquél al respecto, así como efectuar las
+comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.6. Autorización del proyecto y publicidad. Conforme a lo establecido en el artículo
+48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano sustantivo
+deberá tener en cuenta en el procedimiento de autorización del proyecto, las conclusiones
+del presente informe de impacto ambiental, así como las condiciones ambientales
+establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de diez
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión y publicará en su sede electrónica la decisión sobre la
+autorización o denegación del proyecto y una referencia al boletín oficial donde se publicó
+el informe de impacto ambiental.
+5.7. Modificaciones. Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe, deberá
+ser notificada previamente a la Delegación Territorial de la Junta de Castilla y León en
+Salamanca, que prestará su conformidad si procede, sin perjuicio de la tramitación de
+las licencias o permisos que, en su caso, correspondan. Se consideran exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+CV: BOCYL-D-06112026-215-52
+
+Boletín Oficial de Castilla y León
+Núm. 215 Viernes, 6 de noviembre de 2026 Pág. 659
+5.8. Vigencia del informe de impacto ambiental. Conforme a lo establecido en el Art.
+47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este informe de
+impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el Boletín Oficial de Castilla
+y León, no se hubiera procedido a la autorización del proyecto.
+5.9. Objeto de recurso. De conformidad a lo establecido en el Art. 47.5 de la Ley de
+evaluación ambiental, el informe de impacto ambiental no será objeto de recurso alguno
+sin perjuicio de los que, en su caso, procedan en vía administrativa o judicial frente al
+acto, en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-06112026-215-52
