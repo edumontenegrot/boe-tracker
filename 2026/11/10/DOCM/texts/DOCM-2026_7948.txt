@@ -1,0 +1,659 @@
+AÑO XLV Núm. 215 10 de noviembre de 2026 39687
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 22/10/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Instalación de una planta discontinua de aglomerado
+en caliente para fabricación, venta y distribución de aglomerado en paraje Descuento parcela 91 polígono 25
+en el término municipal de Ontígola (Toledo) (expediente: PRO-TO-24-3406), situado en el término municipal
+de Ontígola (Toledo), cuya promotora es Extranfer 97, SL. [2026/7948]
+La Ley 21/2013, de 9 de diciembre, de evaluación ambiental (y sus modificaciones), en su artículo 7.2 concreta
+los proyectos que deben ser sometidos a evaluación de impacto ambiental simplificada por el órgano ambiental
+para determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de evaluación de impacto ambiental ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020 de 7 de febrero, de evaluación ambiental en Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de la tramitación, así como aquellos
+proyectos adicionales a los ya indicados por la Ley 21/2013 que se ven incluidos en el ámbito de aplicación de la
+legislación de evaluación ambiental.
+El proyecto se encuadra en la Ley 2/2020, concretamente en el Anexo III. Proyectos sometidos a la evaluación
+ambiental simplificada regulada en el título II, capítulo II, sección 2.ª; Grupo 3. Perforaciones, dragados y otras
+instalaciones mineras e industriales, apartado i) Plantas de hormigón y plantas de aglomerado asfáltico, de carácter
+permanente.
+La evaluación del expediente compete a la Delegación Provincial de Desarrollo Sostenible de Toledo por delegación
+de la Dirección General de Calidad Ambiental de la Consejería de Desarrollo Sostenible de la Junta de Comunidades
+de Castilla-La Mancha, conforme al Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica
+y las competencias de la Consejería de Desarrollo Sostenible (modificado por el Decreto 6/2024, de 20 de febrero),
+y la Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias
+en las delegaciones provinciales de la Consejería de Desarrollo Sostenible.
+Primero. - Promotor, órgano sustantivo y descripción del proyecto. Información aportada por el promotor
+El promotor del proyecto es Extranfer 97, S.L., actuando como órgano sustantivo el Ayuntamiento de Ontígola
+(Toledo).
+1.1 Objeto y ubicación
+El objeto del proyecto consiste en la instalación de una planta de aglomerado en caliente de carácter permanente
+para la fabricación, venta y distribución de aglomerado.
+Las actuaciones proyectadas se localizan en el polígono 25, parcela 91 del término municipal de Ontígola (Toledo),
+cuyas coordenadas U.T.M. del centro del emplazamiento son X: 452.460 Y: 4.425.170, Z: 620 huso 30. La identificación
+catastral de la parcela es 45124A025000910001XA.
+La localización de la parcela se sitúa a unos 3 km al sur de la localidad de Ontígola, concretamente en el paraje
+“Descuento”, colindante a la vía de servicio de la Autovía A4 (Madrid-Cádiz) situándose en las inmediaciones de un
+nudo desde donde se accede a todas ellas de forma directa.
+Urbanísticamente, la parcela indicada queda clasificada como suelo no urbanizable, con una superficie construida
+de 7.030 m2 y con uso principal industrial, siendo su superficie catastral total 22.182 m2.
+La planta de aglomerado se ubicará a unos 3 Km del núcleo urbano de Ontígola.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39688
+1.2 Construcciones y suministros.
+Para el desarrollo de la actividad se utilizará un área donde anteriormente se desarrollaban otros usos industriales
+(muelles de carga de un centro logístico), por lo que se aprovecharán algunas estructuras y accesos ya existentes.
+Se dispondrán las siguientes instalaciones:
+- Planta para la fabricación de aglomerado de la marca Intrame, modelo UM-120 (900 m2).
+- Zona de acopios de áridos (1000 m2).
+- Viales y zonas de maniobras de maquinaria (2.500 m2).
+- Aparcamiento (1.000 m2).
+- Otras instalaciones (báscula, depósito de aguas, módulos prefabricados, oficinas, vestuarios, etc.)
+Se pretende ocupar una extensión de 7.400 m2 para ejecutar la planta de aglomerado, sobre un total de superficie
+de la parcela de 22.182 m2
+Suministros:
+Abastecimiento de agua: La actividad de fabricación del aglomerado asfáltico, no utiliza agua en el proceso y no
+va a generar vertido industrial líquido. La zona de implantación de la planta de aglomerado cuenta con red de
+abastecimiento de agua gestionada por el Ayuntamiento de Ontígola. El consumo de agua de la instalación se
+limita al uso para el personal de las instalaciones para lo cual se instalará un depósito proporcional al número de
+trabajadores, y a la humectación de acopios, la cual se hará mediante aspersión por cuba transportable.
+Saneamiento: Se instalará una caseta prefabricada dotada de servicios higiénicos, aseos y duchas portátiles, dotada
+de un depósito que almacenará los efluentes orgánicos y aguas procedentes de lavabo y duchas.
+Infraestructura eléctrica: La planta de aglomerado en caliente se alimentará desde un grupo generador de 300 KVA,
+que alimentará a un cuadro principal de distribución.
+Cuando la planta no opere, es necesario mantener en funcionamiento la caldera de fluido térmico de la instalación,
+instalándose para este uso un grupo electrógeno de 20 KVA.
+Cerramiento: La parcela se encuentra actualmente vallada perimetralmente.
+1.3 Proceso productivo.
+Se trata de una planta de aglomerado asfáltico de fabricación continua marca Intrame de fabricación nacional model
+RM-120.
+El proceso de producción comienza con la carga de los distintos áridos en las tolvas pre-dosificadoras mediante
+pala cargadora. Desde estas tolvas, los materiales son trasladados por una cinta lanzadora hacia el tambor secador,
+donde se elimina la humedad y se eleva la temperatura hasta alcanzar el valor previsto en el diseño. Una vez
+acondicionados, los áridos son conducidos mediante un elevador de cangilones hasta la parte superior de la torre,
+donde se ubica la criba. Allí se realiza la separación por granulometrías mediante tamices, y los áridos clasificados
+se depositan en los compartimentos correspondientes de la tolva de áridos, equipada con mecanismos de apertura
+para dosificar las cantidades requeridas hacia la tolva de pesado con báscula acumulativa.
+Durante las fases de cribado y calentamiento, el aire se carga de polvo, humos y gases, por lo que se canaliza a
+través de conductos hacia el sistema anticontaminación de la planta, el filtro de mangas. Este equipo depura el
+aire y permite recuperar el filler, que se transporta mediante sinfines hasta un silo tubular para su almacenamiento
+y posterior incorporación a la mezcla. El excedente de filler, que se solidifica, se entrega a gestores autorizados
+para su correcta disposición. El filler destinado a la mezcla se eleva mediante un elevador hasta la tolva de pesado
+y se inyecta al mezclador mediante sinfín. En el mezclador de doble eje se incorporan todos los componentes del
+aglomerado, que son amasados por palas hasta obtener la mezcla bituminosa. Una vez lista, la mezcla se descarga
+por la compuerta del mezclador, pudiendo verterse directamente en camiones, en un silo de aglomerado situado
+bajo el mezclador o en una vagoneta que la transporta a silos para su almacenamiento.
+En síntesis, el proceso comprende: vertido de áridos en tolvas desde las eras de acopio, pesaje y dosificación
+automática desde la caseta de mandos, cribado y calentamiento, transporte continuo de los componentes dosificados
+hasta la zona de mezclado con el betún, y finalmente la descarga de la mezcla en camiones basculantes para su
+transporte. La planta está diseñada para producir aproximadamente 120 t/h con áridos que presentan un 2,5% de
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39689
+humedad, o 140 t/h con áridos secos, alcanzando temperaturas de salida entre 140 y 160 ºC. Las condiciones de
+cálculo consideran temperatura ambiente de 20 ºC, nivel del mar, calor específico de los áridos de 0,19 Kcal/kg ºC y
+una composición con 5% de betún y 5% de filler. El combustible empleado es Fuel-Oil pesado.
+La instalación será permanente y estacionaria, destinada a la fabricación y venta de aglomerado para abastecer la
+zona de influencia. La jornada laboral será la regulada por convenio, con turnos de 8 horas en horario partido y sin
+actividad nocturna. Se estima una producción anual de 60.000 toneladas, con picos diarios de hasta 900 toneladas,
+dependiendo de la demanda. El funcionamiento previsto es de unas 1.760 horas al año, con una producción media
+de 35 t/h, aunque estos valores podrán variar en función de las condiciones del mercado.
+Suponiendo una producción final de 60.000 Tn de aglomerado, se obtendrán las siguientes cantidades de materia
+prima a emplear:
+- Árido fino y filler (AF-T-0/6-C) .............28.200 Tn.
+- AG-T-6/12-C ........................................11.000 Tn.
+- AG-T-12/19-C .......................................8.400 Tn.
+- AG-T-19/25-C .......................................9.000 Tn.
+- Betún Asfáltico .....................................3.000 Tn.
+La planta tiene una capacidad de producción aproximada de 120 Tn/h de aglomerado para un grado de humedad de
+los áridos del 2,5% y de 140 Tn/h con áridos secos.
+1.4 Producción y gestión de residuos
+Los residuos sólidos urbanos o asimilables generados durante el desarrollo de la actividad serán depositados en
+contenedores correctamente segregados y gestionados conforme a lo establecido en las ordenanzas municipales
+del Ayuntamiento.
+No se producirán vertidos ni a aguas superficiales ni a masas de aguas subterráneas durante la fase de construcción,
+así como tampoco durante la fase de funcionamiento.
+Los residuos generados en la fase de construcción y demolición, así como también la excavación para la cimentación
+de las nuevas edificaciones serán entregados a gestor autorizado.
+Los cambios de aceite de los vehículos se realizarán en un taller autorizado como opción principal.
+La actividad se encuentra clasificada en el Grupo B (código 03 03 13 00) del Catálogo de Actividades Potencialmente
+Contaminadoras de la Atmósfera (Capca), recogido en el Anexo del Real Decreto 100/2011, de 28 de enero, por el
+que se actualiza el Catálogo de Actividades Potencialmente Contaminadoras de la Atmósfera y se establecen las
+disposiciones básicas para su aplicación.
+Todos los residuos serán entregados a gestor autorizado. En caso de vertido accidental se procederá a su limpieza
+y recogida, junto con la porción de suelo afectado.
+1.5 Análisis de alternativas.
+Para la valoración de las alternativas se indica que la se considera fundamental la ubicación en cuanto a proximidad
+a la zona de influencia de obras y disponibilidad de terrenos (se plantea su instalación en un suelo asimilado a
+industrial), por tanto, en el análisis de alternativas se tienen en cuenta distintos parámetros como son movilidad
+sostenible, empleo, cambio climático, hidrología, etc.
+Alternativa 0: Consiste en la no ejecución de la actividad proyectada evita impactos como ocupación del suelo,
+impacto visual, alteración de la vegetación y la hidrología. Sin embargo, aumenta otros efectos negativos: mayor
+emisión de gases por el transporte desde plantas más lejanas, contribución al cambio climático y reducción del
+empleo local. Además, esta alternativa no es viable técnicamente, ya que no existen plantas de aglomerado cercanas
+que puedan abastecer las obras futuras en la zona de estudio.
+Alternativa 1: La instalación de una planta de fabricación de aglomerado en caliente en la zona, con producción
+estimada de 60.000 toneladas anuales, se considera técnica y económicamente viable mediante la alternativa 1,
+que propone una planta RM-120 con capacidad de 120 t/h. Esta actividad es discontinua, realizándose solo entre
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39690
+abril y octubre debido a la necesidad de mantener el material a más de 90°C, y no permite almacenamiento, por lo
+que es esencial dimensionar la producción. El impacto ambiental será mínimo: la zona es industrial y carece de valor
+agronómico, no existen arroyos y el suelo ya está ocupado por hormigón, lo que hace la afección reversible. Las
+emisiones se reducen frente a otras alternativas gracias al menor consumo de combustibles y la proximidad a las
+obras, disminuyendo CO y gases de efecto invernadero, además de emplear equipos certificados con las mejores
+2
+técnicas disponibles. La instalación también generará empleo cualificado en la zona.
+Alternativa 2: La alternativa 2 plantea la instalación de una planta RM-260 con capacidad de 260 t/h, manteniendo la
+misma producción anual estimada de 60.000 toneladas, pero con posibilidad de atender obras de gran envergadura
+que requieran volúmenes de hasta 150.000 toneladas en tres meses, lo que la hace viable técnica y económicamente
+para proyectos importantes. Al igual que en la alternativa 1, la actividad es discontinua y se realiza durante seis meses
+al año, pero esta opción implica mayor ocupación de suelo por el tamaño de la instalación y el número de tanques y
+acopios, aunque sigue siendo reversible y se ubicará en naves industriales existentes. Las emisiones a la atmósfera
+son superiores debido al mayor consumo de combustibles fósiles y materias primas, lo que incrementa la generación
+de gases de efecto invernadero y la afección al cambio climático, aunque el transporte del producto sigue siendo
+mínimo por la proximidad a las obras. La afección a vegetación, flora e hidrología es prácticamente nula, como en la
+alternativa anterior, y el impacto sobre el empleo será similar, con necesidad de mano de obra cualificada.
+El promotor justifica la elección de la alternativa 1 ya que cumple con los criterios de selección considerados y
+además este proyecto no hay ninguna otra alternativa de mayor viabilidad en la zona que las estudiadas para la
+implantación de estas instalaciones.
+Segundo. Procedimiento realizado: información pública y consultas.
+El 25 de julio de 2024 tiene entrada en la Consejería de Desarrollo Sostenible de Toledo, Servicio de Calidad
+Ambiental, solicitud inicio de evaluación de impacto ambiental simplificada, junto con el documento ambiental y el
+justificante de pago de la tasa correspondiente conforme a la Ley 9/2012, de 29 de noviembre, de Tasas y Precios
+Públicos de Castilla-La Mancha y otras medidas tributarias.
+Al expediente administrativo de evaluación ambiental se le asignó el número PRO-TO-24-3406.
+El 24 de enero de 2025, sobre la base de dicha documentación, y de acuerdo con el artículo 46 de la citada Ley
+21/2013, se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas,
+con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han
+sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+1.- Delegación Provincial de la Consejería de Desarrollo Sostenible. Servicio de Medio Natural (*)
+2.- Unidad Coordinadora Prov. Agentes Medioambientales. Delegación Provincial de la Consejería de Desarrollo
+Sostenible en Toledo. Coordinador de la Comarca de Ocaña (*)
+3.- Consejería de Desarrollo Sostenible, Servicio de Prevención e impacto ambiental.
+4.- Dirección General de Economía Circular y Agenda 2030. Servicio de Residuos.
+5.- Dirección Provincial de Desarrollo Sostenible de Toledo. Servicio de Minas.
+6.- Ayuntamiento de Ontígola.
+7.- Delegación Provincial de Educación, Cultura y Deportes de Toledo, Servicio Provincial de Patrimonio Cultural. (*)
+8.- Consejería de Fomento. Dirección General de Carreteras (*)
+9.- Confederación Hidrográfica del Tajo (*)
+10.- Demarcación General de Carreteras del Estado en Castilla La Mancha. Dirección General de Carreteras (*)
+11.- Delegación Provincial de Hacienda y Administraciones Públicas. Servicio de Protección Ciudadana (*)
+12.- Acmaden. Ecologistas en Acción.
+13.- Sociedad Española de Ornitología (Seo Birdlife).
+14.- WWF España.
+15.- Agrupación Naturalista Esparvel.
+16.- Asociación ecologista Ardeidas.
+17.- Asociación Toledo Aire Limpio.
+En la misma fecha se manda solicitud de información complementaria al promotor.
+Con fecha 2 de junio de 2026, se notifica al promotor que, recibidas las alegaciones e informes preceptivos en base
+al artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39691
+Públicas, se pone en conocimiento del promotor que se han publicado dichos informes en la aplicación Nevia por si
+considera que deben introducir alegaciones al proyecto y al estudio de impacto ambiental.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Ubicación del proyecto.
+La planta de aglomerado en caliente, se instalará en el polígono 25, parcela 91 del término municipal de Ontígola
+(Toledo), cuyas coordenadas U.T.M. del centro del emplazamiento son X: 452.460 Y: 4.425.170, Z: 620 huso 30. La
+identificación catastral de la parcela es 45124A025000910001XA.
+La localización de la parcela se sitúa a unos 3 km al sur de la localidad de Ontígola, concretamente en el paraje
+“Descuento”, colindante a la vía de servicio de la Autovía A4 (Madrid-Cádiz) situándose en las inmediaciones de un
+nudo desde donde se accede a todas ellas de forma directa.
+El emplazamiento elegido no afecta directamente a espacios naturales protegidos ni a zonas sensibles declaradas
+en aplicación de la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza, así como tampoco a los hábitats
+y elementos geomorfológicos de protección especial recogidos en el anexo I de la citada norma.
+La parcela objeto del proyecto no producirá afección a montes de utilidad pública ni a vías pecuarias.
+En lo referente a zonas protegidas recogidas oficialmente en el PHT 2023-2027, el área en donde se desarrollan
+las actuaciones se encuentra dentro del área de captación de la zona sensible “Embalse De Castrejon –
+ES030ZSENESCM572”, en la zona vulnerable “ES030_ZVULES42_4 - Lillo-Quintanar-Ocaña” y en la zona de
+abastecimiento identificada con el código ES030ZCCM0000004584.
+La parcela objeto de estudio no se encuentra sobre ninguna masa de agua subterránea.
+El Ayuntamiento de Ontígola, emite informe de los Servicios Técnicos Municipales, con fecha 2 de julio de 2026, en
+el que indica que el suelo donde se pretende ubicar la actividad tiene la siguiente clasificación y calificación: suelo no
+urbanizable. La actividad se contempla dentro de los usos urbanísticos admitidos por el planeamiento de las Normas
+Subsidiarias y complementarias de Ontigola. Por tanto, la instalación de la actividad de la planta de aglomerado en
+caliente, si es compatible con el planeamiento urbanístico.
+3.2.- Características del proyecto.
+El proyecto no plantea la necesidad de consumo de agua para el proceso productivo, justificando que únicamente se
+utilizará el necesario para los aseos y vestuarios del personal que será gestionado de forma independiente mediante
+el abastecimiento de agua de la red municipal a un depósito. Además, se humectarán los acopios mediante aspersión
+por cuba transportable.
+La fuente eléctrica existente corresponde a un grupo generador de 300 KVA, que alimentará a un cuadro principal
+de distribución que será la infraestructura que abastecerá al proyecto. Para el tiempo en el que la planta no esté en
+funcionamiento será otro grupo electrógeno de 20 kVa el que se utilizará para mantener en funcionamiento la caldera
+de fluido térmico de la instalación.
+La parcela objeto del estudio se encuentra no se encuentra dentro ni cerca de ningún lugar protegido o con vegetación
+significativa, se trata de una zona antropizada.
+3.3. Características del potencial impacto.
+El ámbito de la construcción de la planta de aglomerado en caliente en la parcela 91 del polígono 25 del término
+municipal de Ontígola (Toledo), se sitúa a una distancia superior a los 4 km de la carretera autonómica CM-4005.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39692
+La parcela 9011 del polígono 25 se ubica en la margen derecha de la vía de servicio de la calzada izquierda de la
+Autovía A-4, a la altura del p.k. 56+300, en el término municipal de Ontígola (Toledo).
+Durante el desarrollo de las obras de instalación del proyecto, se verán afectadas negativamente la calidad del
+aire, debido a la emisión de polvo y gases a la atmósfera, movimiento de tierras, cimentación, etc. y un aumento
+considerable de ruidos y compactación del suelo, debidos a la maquinaria pesada, el tráfico de vehículos y el
+movimiento de tierras. En el transcurso de esta fase será necesario utilizar las medidas oportunas que minimicen al
+máximo este tipo de afecciones al medio y a la población, aunque estos impactos son de efecto temporal, mientras
+que duren las obras.
+Los residuos generados en esta fase de construcción deberán gestionarse mediante gestor autorizado para no
+comprometer los valores del medio natural. Del mismo modo, el parque de maquinaria utilizado durante la realización
+de las obras, podría generar el vertido de residuos líquidos peligrosos susceptibles de contaminación del suelo y
+aguas subterráneas y superficiales.
+En este proyecto, el impacto potencial que se generará sobre la atmósfera será el producido por la emisión de
+gases, polvo y ruido. Los gases son producidos por el secadero, caldera y el quemador. El polvo en suspensión
+producido por la carga y descarga del material y paso de la maquinaria pesada y el ruido producido por la carga y
+descarga del material y maquinaria.
+La Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera establece los niveles máximos
+permitidos de emisión de partículas a la atmósfera.
+Durante la fase de funcionamiento los residuos generados serán aquellos procedentes del propio ejercicio de la
+actividad, es por esto que se deberá autorizar como productor de residuos peligroso Los residuos deberán recogerse
+de forma separativa y serán retirados por gestor autorizado.
+El documento ambiental justifica la solución propuesta como la alternativa más viable puesto que es la que presenta
+mejores condiciones ambientales y sociales.
+No existe afección al patrimonio cultural ni a montes públicos.
+Respecto a la identificación, descripción, análisis y cuantificación de los efectos esperados, derivados de la
+vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se
+produzcan dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio
+ambiente, el promotor considera que analizados dichos riesgos, la zona se cataloga, en relación a la peligrosidad
+por desbordamiento como A3 peligrosidad por desbordamiento media, cercana a la zona catalogada como B,
+peligrosidad por desbordamiento B. Además, se encuentra dentro de zonas con peligrosidad sísmica muy baja.
+Para analizar el riesgo de incendio se ha consultado el Mapa de Frecuencia de Incendios (Miteco), así como también
+el Plan de Emergencia por Incendios Forestales de Castilla-La Mancha (Infocam) y el Mapa del Plan Director de
+Defensa contra Incendios Forestales de Castilla La Mancha, concluyendo que la parcela donde se pretende instalar
+la planta de aglomerado, se encuentra localizada en una zona donde la vulnerabilidad por riesgo de incendio en la
+interfase urbano-forestal es de carácter bajo.
+En consecuencia, una vez finalizado el análisis técnico del expediente de evaluación de impacto ambiental, conforme
+a la Ley 21/2013 de 9 de diciembre, de evaluación ambiental, y la Ley 2/2020 de 7 de febrero, de evaluación
+ambiental en Castilla-La Mancha, esta Delegación Provincial de Desarrollo Sostenible de Toledo, en virtud del
+Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería
+de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la Resolución de 27 de septiembre de
+2023, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en materia de evaluación
+ambiental en las delegaciones provinciales de la Consejería de Desarrollo Sostenible, esta Delegación Provincial en
+Toledo considera viable el proyecto desde el punto de vista ambiental, siempre que se realice conforme al estudio
+de impacto ambiental presentado, a las medidas aportadas por los organismos consultados y a las prescripciones
+de esta resolución.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas preventivas y correctoras que con carácter general se señalan en el estudio de impacto
+ambiental, se cumplirán las condiciones y medidas que se indican a continuación, debiendo entenderse que en
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39693
+aquellos casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en el presente
+informe.
+4.1.- Afección sobre áreas y recursos naturales protegidos, fauna y flora.
+La parcela donde se ubicará el proyecto no afecta a ningún área protegida de acuerdo con la Ley 9/1999 de 26
+de mayo de conservación de Castilla-La Mancha ni a la Red Natura 2000, así como tampoco afecta a hábitats y
+elementos geomorfológicos de protección especial incluidos en la misma Ley 9/1999. Tampoco afecta a montes de
+utilidad pública, ni a vías pecuarias.
+Teniendo en cuenta las dimensiones y ubicación del proyecto, en una zona muy antropizada, cercana a otras
+instalaciones y al núcleo urbano, se estima que el efecto de la instalación sobre los recursos naturales, sería
+compatible con su conservación, por lo que el proyecto se considera viable ambientalmente.
+En su informe de fecha 31 de enero de 2026, el agente medioambiental indica que no se encuentra dentro ni cerca
+de ningún lugar protegido o con vegetación significativa, no tiene afecciones a fauna, así como tampoco a fauna ni
+a elementos geomorfológicos ya que se sitúa en el mismo sitio donde antes había otra planta, estando la zona de
+alrededor muy industrializada. No hay núcleos poblacionales cerca, encontrándose dos arroyos en las proximidades,
+pero lejos de posibles afecciones.
+Se extremarán las medidas destinadas a prevenir sobre el suelo y las aguas superficiales el vertido de elementos
+físico-químicos contaminantes para ambos medios.
+En caso de modificación o eliminación de la cubierta vegetal natural se deberá contar con la correspondiente
+autorización de esta Delegación Provincial de Desarrollo Sostenible, previa solicitud, en virtud de lo dispuesto en la
+Ley 9/2003, de 20 de marzo, de Vías Pecuarias de Castilla-La Mancha y/o Ley 3/2008, de 12 de junio, de Montes y
+Gestión Forestal Sostenible de Castilla-La Mancha, según proceda.
+4.2.- Protección del sistema hidrológico.
+El informe de fecha 16 de abril de 2025 de la Confederación Hidrográfica del Tajo, indica que, en cuanto a aguas
+superficiales, según la cartografía consultada (visor cartográfico de la Confederación Hidrográfica del Tajo, la zona
+de actuación se encuentra fuera de la zona de policía de cauces públicos. No obstante, a pesar de que las no se
+localicen en las cercanías de aguas superficiales ni asienten sobre masas de agua subterránea, se significa que
+han de ser protegidas, en cualquier caso. Por lo tanto, se significa que en la puesta en práctica de las actuaciones
+contempladas en el proyecto deberán tenerse en cuenta las consideraciones expuestas en este informe para evitar
+cualquier actuación que pudiera afectar negativamente al dominio público hidráulico.
+El municipio de Ontígola se encuentra integrado dentro de los municipios que son abastecidos por la Mancomunidad
+de Aguas del río Algodor.
+Actualmente se encuentra en tramitación una concesión de aguas superficiales del río Tajo con destino a uso
+abastecimiento de 45 municipios de la provincia de Toledo (Sistema Algodor), a detraer del embalse de Almoguera
+a través de la conducción AlmogueraGirasol-Algodor-Sagra Este, en el término municipal de Colmenar de Oreja
+(Madrid) y Almoguera (Guadalajara), contenido en el expediente de referencia C- 0260/2022.
+En lo referente a los vertidos consideran vertidos los que se realicen directa o indirectamente en las aguas continentales,
+así como en el resto del dominio público hidráulico, cualquiera que sea el procedimiento o técnica utilizada.
+Son vertidos directos la emisión directa de contaminantes a las aguas continentales o a cualquier otro elemento del
+dominio público hidráulico, así como la descarga de contaminantes en el agua subterránea mediante inyección sin
+percolación a través del suelo o del subsuelo.
+Son vertidos indirectos tanto los realizados en aguas superficiales a través de azarbes, redes de colectores de
+recogida de aguas residuales o de aguas pluviales o por cualquier otro medio de desagüe, o a cualquier otro
+elemento del dominio público hidráulico, así como los realizados en aguas subterráneas mediante filtración a través
+del suelo o del subsuelo
+Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales susceptibles de
+contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que se cuente
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39694
+con la previa autorización. Dicha autorización corresponde a la Confederación Hidrográfica del Tajo, salvo en los
+casos de vertidos efectuados en cualquier punto de la red de alcantarillado o de colectores gestionados por las
+Administraciones autonómicas o locales o por entidades dependientes de las mismas, en los que la autorización
+corresponderá al órgano autonómico o local competente.
+En el supuesto de que vaya procederse de otra manera al respecto del saneamiento de las aguas residuales y
+vaya a efectuarse un vertido (por ejemplo, el vertido resultante del empleo de fosa séptica (o similar) dotada de un
+sistema de filtrado/depuración como puede ser filtros biológicos (o cualquier otro sistema), cuyas aguas tratadas son
+evacuadas al medio exterior) es necesario contar con la autorización de vertido por parte de este Organismo previo
+al mismo, y al respecto se indica:
+Esta Confederación Hidrográfica del Tajo no autoriza vertidos individuales al dominio público hidráulico cuando los
+mismos puedan formar parte de una comunidad o aglomeración urbana, por lo que, si el vertido de las aguas residuales
+puede conducirse a una red general de saneamiento, deberá conectar el vertido a dicha red de saneamiento. En el
+caso de que haya imposibilidad de conexión a una red general de saneamiento, se deberán unificar (en la medida de
+lo posible) todos los flujos de aguas residuales generados en la actividad para su conducción a una única instalación
+de tratamiento y evacuación en un único punto de vertido final. En cualquier caso, las conducciones de las redes de
+saneamiento deberán ser estancas, para evitar infiltración de las aguas residuales a las aguas subterráneas. Por
+otro lado, en el caso de que se contemple ejecutar un drenaje de aguas pluviales, esta Confederación Hidrográfica
+del Tajo indica:
+- La red de saneamiento se recomienda que sea separativa (red de saneamiento de aguas residuales separada de
+la red de drenaje de aguas pluviales). En el supuesto de que vaya a realizarse una red unitaria, se deberá disponer
+de algún método o dispositivo (por ejemplo, depósito Anti – DSU o tanque de tormentas, etc.) cuya función sea evitar
+el vertido de contaminantes al medio receptor durante sucesos de lluvia.
+- En cualquier caso, se recomienda el empleo de técnicas de drenaje de aguas pluviales sostenible. Asimismo, se
+informa que deberá realizarse una adecuada gestión para evitar que las aguas de escorrentía pluvial incorporen
+contaminación adicional susceptible de contaminar las aguas continentales o cualquier otro elemento del dominio
+público hidráulico, sin comprometer la consecución de los objetivos medioambientales y el cumplimiento de las
+normas de calidad ambiental establecidas en el medio receptor conforme a la legislación de aguas.
+Por último, se indica que la reutilización de las aguas procedentes de un aprovechamiento requerirá concesión
+administrativa tal como establecen los artículos 59.1 y 109 del TRLA. Sin embargo, en caso de que la reutilización
+fuese solicitada por el titular de una autorización de vertido de aguas ya depuradas, se requerirá solamente una
+autorización administrativa, en la cual se establecerán las condiciones complementarias de las recogidas en la
+previa autorización de vertido.
+En lo que respecta al posible empleo de combustibles y carburantes, desde este Organismo se indica que todos
+los depósitos de combustibles/carburantes y redes de distribución de los mismos, ya sean enterrados o aéreos,
+deberán ir debidamente sellados y estancos para evitar igualmente su infiltración a las aguas subterráneas. Estas
+instalaciones deben pasar periódicamente sus pruebas de estanqueidad. Lo mismo se ha de aplicar para todas las
+instalaciones de almacenamiento y distribución de otras sustancias susceptibles de contaminar el medio hídrico.
+En lo que respecta a las aguas de proceso, se significa que la explotación debe trabajar con recirculación de las
+aguas de proceso, es decir, se actúa con “vertido cero”.
+Los vertidos líquidos procedentes de las labores de mantenimiento de la maquinaria empleada, concretamente a
+los aceites usados, deberán ser almacenados en bidones para su posterior gestión por gestor autorizado. Dichas
+operaciones se deberán realizar en un lugar controlado.
+El mantenimiento de la maquinaria se efectuará en un lugar adecuado para ello, que incorpore sistemas de
+seguridad en caso de vertidos accidentales. En cualquier caso, será un área estanca donde está garantizada la
+impermeabilidad, con un sistema de drenaje perimetral de recogida de aguas de escorrentía.
+4.3.- Protección del suelo:
+En relación a las extracciones de tierra realizadas durante la fase de las obras, si se generasen tierras limpias
+sobrantes, estas se podrán gestionar a través de la Orden APM/1007/2017, de 10 de octubre, sobre normas
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39695
+generales de valorización de materiales naturales excavados para su utilización en operaciones de relleno y obras
+distintas a aquéllas en las que se generaron.
+Si, además, se precisase la aportación de tierras limpias externas sería de procedencia autorizada con notificación
+previa telemática a la Delegación Provincial de Desarrollo Sostenible para su utilización conforme con la Orden
+APM/1007/2017, de 10 de octubre, sobre normas generales de valorización.
+Si la actuación implica la eliminación de cubierta vegetal, deben contar previamente con la autorización del Servicio
+de Medio Natural de la Delegación Provincial de Desarrollo Sostenible.
+4.4.- Gestión de residuos
+Los residuos generados, debidos a la actividad, independientemente de la clasificación de los mismos, estarán
+sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+Dicha Ley 7/2022, en sus artículos 20 y 21, establece las obligaciones de los productores iniciales u otros poseedores
+de residuos, relativas a la gestión de sus residuos, así como las relativas al almacenamiento, mezcla, envasado
+y etiquetado de estos. En cuanto a la comunicación previa al inicio de las actividades de producción y gestión de
+residuos, el artículo 35 dispone los supuestos en que será necesario presentar una comunicación previa al inicio
+de sus actividades ante la autoridad competente de la comunidad autónoma donde estén ubicadas, las entidades
+o empresas. Asimismo, las personas físicas o jurídicas registradas y los productores iniciales que generen más de
+10 toneladas de residuos no peligrosos al año, dispondrán de un archivo electrónico donde se recojan, por orden
+cronológico, la cantidad, naturaleza y origen del residuo generado y demás condiciones que se establecen en el
+artículo 64, así como las obligaciones de información reguladas en los artículos 65 y 66, de dicha Ley.
+Los residuos peligrosos y no peligrosos generados en la explotación, se almacenarán en contenedores estancos
+debidamente etiquetados, hasta su recogida por un gestor autorizado y se dispondrán en un local ventilado y bien
+iluminado, tal y como se establece en la Orden 21/01/2003 de la Consejería de Agricultura y Medio Ambiente, por la
+que se regulan las normas técnicas específicas que deben cumplir los almacenes y las instalaciones de transferencia
+de residuos peligrosos y los artículos 13 y 14 del Real Decreto 833/1988, de 20 de julio, por el que se aprueba el
+Reglamento para la ejecución de la Ley 20/1986, Básica de Residuos Tóxicos y Peligrosos. No obstante, debe
+garantizarse una correcta gestión de estos residuos en la propia explotación mediante el manejo y almacenamiento
+en condiciones seguras y adecuadas a la normativa vigente.
+Tanto durante la fase de obras como durante la fase de funcionamiento, se deberá prestar especial atención en
+caso de generar residuos peligrosos como envases contaminados, aceite hidráulico usado de mantenimiento de
+maquinaria, absorbentes impregnados con hidrocarburos, etc., debe cumplirse lo establecido en la precitada Ley
+7/2022, de 8 de abril, de Residuos y Suelos Contaminados para una economía circular, con respecto a su entrega a
+gestor autorizado y normas específicas de su producción.
+Los residuos de construcción generados durante el desarrollo de las zapatas y apoyos de las instalaciones se
+gestionarán conforme al Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los
+residuos de construcción y demolición. Por lo tanto, serán entregados a un gestor autorizado.
+Las operaciones de mantenimiento de maquinaria de la explotación y los cambios de aceite se realizarán en taller
+autorizado o en su defecto, el promotor se deberá inscribir en el Registro de Productores y Gestores de Residuos
+de Castilla-La Mancha y presentar contrato con Gestor Autorizado. En caso de cualquier incidencia como derrame
+accidental de combustibles o lubricantes, se actuará de forma que se restaure el suelo afectado, extrayendo la parte
+de suelo contaminado que deberá ser recogido y transportado por gestor autorizado para su posterior tratamiento.
+Durante el desarrollo de la actividad debe conservarse la documentación acreditativa de entrega de los residuos
+generados a gestores autorizados.
+4.5.- Protección contra el ruido, emisión de partículas a la atmósfera y contaminación lumínica.
+Las plantas de aglomerado asfáltico se encuentran contempladas en el Anexo del Real Decreto 100/2011, de 28
+de enero, por el que se actualiza el catálogo de actividades potencialmente contaminadoras de la atmósfera y se
+establecen las disposiciones básicas para su aplicación, concretamente en el Grupo: B, Código: 03 03 13 00 de
+dicho anexo. Por lo tanto, las mencionadas actividades estarán sometida a la autorización administrativa prevista
+en la Ley 34/2007.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39696
+A fin de cumplir con la normativa vigente respecto a los niveles de emisión de partículas a la atmósfera y con el fin
+de minimizar la producción y dispersión del polvo generado, se estará a lo dispuesto por la Ley 34/2007, de 15 de
+noviembre, de calidad del aire y protección de la atmósfera, no superándose los niveles de emisión a la atmósfera
+fijados en los anexos no derogados por la precitada Ley, del Decreto 833/1975, de 6 de febrero. No obstante, si la
+producción de polvo fuese evidente se deberá regar en aquellos puntos en que se produzca y la máquina deberá
+disponer de un captador de polvo en perfecto estado de funcionamiento.
+Respecto a la generación de ruido, las zonas de implantación de equipos generadores de ruido dispondrán de
+medidas correctoras que garantizarán el cumplimiento de los objetivos de calidad definidos en el Real Decreto
+1367/2007, de 19 de octubre, por el que se desarrolla la ley 37/2003, de 17 de noviembre, del Ruido, en lo referente
+a zonificación acústica, objetivos de calidad y emisiones acústicas, y demás normativa sectorial de aplicación.
+Los niveles de ruido generados en las instalaciones deberán cumplir lo dispuesto en el Real Decreto 212/2002, de
+22 de febrero, por el que se regulan las emisiones sonoras en el entorno debidas a determinadas máquinas de uso
+al aire libre modificado por el Real Decreto 524/2006 de 28 de abril.
+La actividad también deberá ajustarse a la regulación que a tal efecto establezca la normativa municipal en sus
+ordenanzas.
+Durante el proceso de obras, todo el tránsito de los vehículos se realizará por los caminos ya existentes de acceso
+al área de actuación.
+4.6.- Protección de la salud.
+No se advierten peligros ni riesgos significativos sobre la salud humana. No obstante, se debe garantizar el
+cumplimiento de la normativa referente a la prevención de riesgos laborales.
+En el centro de trabajo se dispondrá de un botiquín con los medios necesarios para efectuar las curas de urgencia
+en caso de accidente y estará a cargo de él una persona capacitada designada por la empresa. Se dispondrá de
+agua apta para el consumo de los trabajadores.
+4.7.- Protección del Patrimonio cultural, pecuario y forestal.
+Sobre la posible afección a bienes patrimoniales o restos arqueológicos, la Delegación Provincial de Educación,
+Cultura y Deportes de Toledo, en su informe favorable de 13 de junio de 2025 indica que, en caso de aparición de
+restos con valor cultural durante su ejecución, se deberá actuar conforme a la previsto en el artículo 52 de la Ley
+4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha, debiendo comunicar el hallazgo en un plazo
+máximo de 48 horas ante la Consejería competente en materia de Patrimonio Cultural. Este órgano determinará el
+carácter de los hallazgos y resolverá expresamente las medidas de protección de los mismos.
+A fin de facilitar los controles o inspecciones que puedan realizar tanto los técnicos de la Consejería de Educación,
+Cultura y Deportes, como los Cuerpos de Seguridad del Estado, deberá existir una copia del informe en la oficina
+de obra.
+4.8.- Protección del paisaje.
+La adecuación en relación a la armonización con el entorno deberá ajustarse a lo dispuesto en el artículo 16 del
+Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico. En concreto se destaca
+la obligación de que las construcciones deberán presentar todos los parámetros exteriores y cubiertas totalmente
+terminados, empleando las formas y los materiales que menor impacto produzcan, así como de los colores
+tradicionales en la zona o, en todo caso, los que favorezcan en mayor medida la integración en el entorno inmediato
+y en el paisaje.
+4.9.- Adecuación urbanística y protección de infraestructuras.
+Se tendrán en consideración todas las normas urbanísticas que, en su caso, sean de aplicación, en especial el Texto
+Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla–La Mancha, Reglamento
+de Suelo Rústico.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39697
+Con fecha 8 de abril de 2026, la Dirección General de Carreteras informa que, una vez analizada la documentación
+aportada y realizadas las comprobaciones necesarias se observa que:
+- La parcela 91 del polígono 25 se ubica en la margen derecha de la vía de servicio de la calzada izquierda de la
+Autovía A-4, a la altura del p.k. 56+300, en el término municipal de Ontígola (Toledo).
+- Según el documento “Clasificación del suelo en los terrenos colindantes con las carreteras de competencia de
+la Demarcación de Carreteras del Estado en Madrid-Autovía A-4”, redactado por Ineco, de fecha julio de 2014, el
+uso del suelo es “no urbanizable”, de acuerdo con las Normas Subsidiarias del municipio de Ontígola aprobadas
+definitivamente con fecha 25/01/1995 (Diario Oficial de Castilla-La Macha de fecha 24/02/1995).
+- La parcela afectada se encuentra fuera de las zonas de protección de la Autovía A-4, tanto del tronco como de
+la vía de servicio. No obstante, el acceso a dicha parcela se realiza desde el acceso existente a la altura del p.k.
+56+300 de la vía de servicio.
+Considerando que la solicitud está asociada a un trámite previo a la correspondiente solicitud de autorización para
+la ejecución de la planta de fabricación de aglomerado asfáltico; a la vista de la estimación del tráfico generado por
+la nueva actividad, se considera que ésta no alteraría negativamente de forma significativa el nivel de servicio de la
+Autovía A-4 (tronco, vía de servicio y enlaces). No obstante, estas conclusiones preliminares quedan condicionadas
+a que en el momento en el que se solicite la correspondiente solicitud de autorización a la Demarcación de Carreteras
+del Estado en Castilla-La Mancha se aporte un estudio de tráfico acorde a la normativa aplicable teniendo en cuenta
+tanto el año de servicio como en el análisis en año horizonte que las ratifique.
+Finalmente informa que, previamente a la ejecución de cualquier tipo de actuación que tenga afección a la Autovía
+A-4 o a sus zonas de protección, el interesado deberá obtener la correspondiente autorización de la Dirección
+General de Carreteras, previa aportación de la documentación técnica necesaria para describir con el nivel de
+detalle adecuado las obras a ejecutar. Todo ello sin perjuicio de otras competencias concurrentes. Para poder
+informar sobre el cambio de uso del acceso de la parcela indicada, el solicitante deberá aportar una justificación
+de que el tráfico que generarán la nueva actividad en las instalaciones existentes no va a afectar a los niveles de
+servicio de la Autovía A-4 (tronco, vía de servicio, enlaces, etc.), para lo cual se deberá entregar un estudio de tráfico.
+Asimismo, en caso de que se prevea una afección significativa, se deberá aportar una propuesta con las medidas de
+acondicionamiento necesarias para mantener inalterado el nivel de servicio y de seguridad vial de la Autovía A-4. Para
+poder llevar a cabo una nueva actividad en la parcela indicada, se deberá solicitar la correspondiente autorización
+a la Demarcación de Carreteras del Estado en Castilla-La Mancha, donde se deberá aportar la documentación
+establecida en el artículo 126 del Real Decreto 899/2025, de 9 de octubre, por el que se aprueba el Reglamento
+General de Carreteras. Asimismo, se tendrá en cuenta el artículo 28.5 de la Ley 37/2015, de Carreteras, en el
+que se establece que “serán nulas de pleno derecho las autorizaciones administrativas y licencias que hayan sido
+otorgadas contraviniendo los preceptos de la presente Ley”.
+El Servicio de Protección Ciudadana, emite un informe con fecha 1 de julio de 2025 en el que indica que, revisados
+los principales riesgos de posibles emergencias de protección civil, se concluye que no aparecen en el término
+municipal señalado, riesgos especialmente significativos que deriven en el establecimiento de medidas excepcionales
+de protección. No obstante, y ante cualquier situación de emergencia que pudiera producirse, se activarían los
+correspondientes Planes de Emergencias existentes (recursos ordinarios, planes municipales, regionales y/o
+estatales).
+4.10.- Cese de la actividad.
+Si cesara la actividad de este proyecto en el futuro, ya sea de forma temporal o permanente, el promotor deberá
+realizar la retirada de los residuos que pudieran quedar almacenados, así como toda la maquinaria e instalaciones
+necesarias para el funcionamiento de la edificación, como luz, agua, refrigeración y calefacción, saneamiento, etc.,
+así como cualquier otro tipo residuo, cumpliendo siempre la Ley 7/2022 de residuos y suelos contaminados para
+una economía circular.
+Si además lo que se realiza es un desmantelamiento de las instalaciones, los residuos generados durante esta
+fase, estarán sujetos a lo dispuesto en la Ley 7/2022, de 7 de abril, de Residuos y suelos contaminados para una
+economía circular, así como lo dispuesto en el Real Decreto 105/2008, de 1 de febrero, por el que se regula la
+producción y gestión de los residuos de construcción y demolición, por lo que deberán gestionarse mediante gestor
+autorizado y se deberá dejar el área de actuación en perfecto estado de limpieza. Se restaurarán los terrenos
+ocupados a su estado original, dejando el área de actuación en perfecto estado de limpieza.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39698
+El desmontaje y la restauración deberán realizarse en el plazo más breve posible técnicamente y deberá ponerse en
+conocimiento de la Delegación Provincial de la Consejería de Desarrollo Sostenible de Toledo para dar por finalizado
+el expediente, debiendo, antes de empezar el desmantelamiento, entregar en esta Delegación Provincial el plan de
+desmantelamiento y restauración a seguir y el compromiso del promotor de su realización.
+Quinto. Programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se
+deben adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo el promotor asignar un
+responsable del mismo, notificando su nombramiento tanto al órgano sustantivo como ambiental, como encargado
+último del control e inspección del cumplimiento de dicho programa y de las condiciones fijadas en el presente
+Informe de impacto ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones y de
+las medidas correctoras establecidas en el presente informe. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia ambiental. Cada informe deberá estar suscrito conjuntamente por el
+promotor y el responsable del seguimiento y vigilancia ambiental del proyecto. El programa de vigilancia y el listado
+de comprobación se harán públicos en la sede electrónica del órgano sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para verificar
+el cumplimiento del condicionado del Informe de impacto ambiental.
+De las inspecciones llevadas a cabo por el órgano sustantivo y por el órgano ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos del Informe de
+Impacto ambiental. Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+El promotor está obligado a permitir a los funcionarios que ostenten la condición de autoridad pública el acceso
+a las instalaciones y lugares vinculados a la ejecución del proyecto, de acuerdo con las garantías previstas en el
+artículo 18 de la Constitución. Asimismo, el promotor estará obligado a prestarles la colaboración necesaria para su
+desarrollo, facilitando cuanta información y documentación les sea requerida a tal efecto.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia, además de lo expuesto en el documento ambiental y documentación complementaria
+aportada, deberán incidir en los siguientes puntos:
+- Control de los trabajos y de las obras de ejecución del proyecto, que deberán contar en todo momento con la
+preceptiva autorización previa para la modificación de cubiertas vegetales, del Servicio de Medio Natural, en su
+caso.
+- Control de las medidas excepcionales de protección, establecidas frente a los riesgos especialmente significativos
+que deriven de la ejecución y desarrollo de la actividad.
+- Control y seguimiento del estudio acústico de la zona de actuación.
+- Control de la correcta gestión de todos los residuos generados, tanto en la fase de obras como durante el desarrollo
+de la actividad (peligrosos y no peligrosos).
+- Control del correcto almacenamiento de los residuos generados como consecuencia de las obras y del desarrollo
+de la actividad.
+- Control de decibelios durante el desarrollo y explotación del proyecto y cumplimiento de medidas de prevención.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Confirmación de que se ha procedido a la limpieza de la zona una vez finalizada la actividad de forma permanente,
+gestionando todos los residuos mediante gestor autorizado.
+- Vigilancia de los trabajos cumpliendo las condiciones establecidas en el estudio de impacto ambiental y en la
+presente Declaración.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39699
+Sexto. Documentación adicional a presentar por el promotor.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo:
+a) Previo al inicio de la actividad
+- La autorización administrativa de la Dirección General de Calidad Ambiental para ejercer actividades potencialmente
+contaminadoras de la atmósfera.
+- Inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha, como productor.
+- Autorización preceptiva del Servicio de Medio Natural para la modificación de cubiertas vegetales, en su caso.
+- Instalación de las medidas de autoprotección interior contra incendios.
+- Designación por parte del promotor de una entidad o profesional autorizado responsable del cumplimiento del plan
+de seguimiento y vigilancia ambiental del proyecto.
+- Plan de desmantelamiento presupuestado y compromiso del promotor de su realización.
+b) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cinco primeros años de
+funcionamiento del proyecto:
+- Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia ambiental
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 6/2024, de 20 de febrero, por el que se modifica el Decreto 112/2023, en el que se
+establece la estructura orgánica y las competencias de la Consejería de Desarrollo Sostenible y en el ejercicio de
+las atribuciones conferidas por la Resolución de 24 de mayo de 2024, de la Dirección General de Calidad Ambiental,
+por la que se delegan competencias en materia de evaluación ambiental en las delegaciones provinciales de la
+Consejería de Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, resuelve que el proyecto “Instalación de una planta discontinua de aglomerado en caliente para
+fabricación, venta y distribución de aglomerado en paraje descuento parcela 91 polígono 25 en TM de Ontígola
+(Toledo)” (Exp. PRO-TO-24-3406), no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por
+estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales
+y de seguimiento que propone el promotor y los requisitos ambientales que se desprenden del presente informe de
+impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39700
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+con antelación suficiente, así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación.
+La presente Resolución de Informe de Impacto Ambiental no exime de obtener los informes y autorizaciones
+pertinentes de otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+Se adjunta anexo cartográfico
+Toledo, 22 de octubre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39701
+ANEXO CARTOGRÁFICO
+1. MAPA Nº1: MAPA TOPOGRÁFICO UBICACIÓN INSTALACIÓN
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39702
+2. MAPA Nº2: ORTOFOTO UBICACIÓN INSTALACIÓN
+
+AÑO XLV Núm. 215 10 de noviembre de 2026 39703
+3. MAPA Nº3: CROQUIS DISTRIBUCIÓN DE LAS INSTALACIONES
