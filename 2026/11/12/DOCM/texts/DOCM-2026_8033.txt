@@ -1,0 +1,719 @@
+AÑO XLV Núm. 217 12 de noviembre de 2026 39938
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 13/10/2026, de la Dirección General de Calidad Ambiental, por la que se formula el informe
+de impacto ambiental del proyecto: Planta de investigación, desarrollo e innovación del Centro Nacional
+del Hidrógeno Parque Científico y Tecnológico que combina biogás e hidrógeno verde con el objetivo de
+obtener productos de alto valor añadido (expediente S478/2025/DG/00061), situado en el término municipal
+de Cuenca (Cuenca), cuya promotora es la Diputación Provincial de Cuenca. [2026/8033]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a evaluación de impacto ambiental simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de evaluación de impacto ambiental ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+En concreto, la actuación se encuentra contemplada en el anexo II de la Ley 21/2013, de 9 de diciembre, de evaluación
+ambiental actualizada por el Real Decreto 445/2023, de 13 de junio, por el que se modifican los anexos I, II y III,
+concretamente en el grupo 9. Otros proyectos, b) Instalaciones de eliminación o valorización de residuos no incluidos
+en el anexo I, excepto eliminación o valorización de residuos propios no peligrosos en el lugar de producción.
+Asimismo, se inscribe en el anexo II, grupo 9.e de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, relativo a instalaciones de gestión de residuos mediante incineración u otros tratamientos
+térmicos, tales como pirólisis, gasificación y proceso de plasma.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Según el documento ambiental, fechado en junio de 2025, el proyecto tiene por objeto la ejecución de la nueva
+planta de investigación, desarrollo e innovación del Centro Nacional del Hidrógeno Parque Científico y Tecnológico
+que combina biogás e hidrógeno verde con el objetivo de obtener productos de alto valor añadido. Se financia a
+través del plan de recuperación, transformación y resiliencia, en desarrollo de los planes complementarios de I+D+i
+acordados entre la Administración General del Estado y la Junta de Comunidades de Castilla-La Mancha.
+La actuación se desarrollará en la parcela 12 del polígono 505 del término municipal de Cuenca (paraje “Hoyada
+Las Vacas”, pedanía de Mohorte), con referencia catastral 16900D505000120000WK, correspondiente a la parcela
+resultante R25.M5-IND.01 del Proyecto de reparcelación del plan de singular interés “Parque Científico y Tecnológico
+de Economía Circular Los Palancares en Cuenca” (en adelante, PLSI “Los Palancares”). La superficie gráfica de
+la parcela es de 179.162 m², siendo la superficie afectada por la actuación de 100.097,50 m², de los cuales la
+subparcela de uso industrial productivo es de 29.972 m².
+La NPIDi CNH2 estará constituida por un conjunto de cinco plantas piloto, inicialmente independientes, aunque
+con posibilidad de interconexión, destinadas a la investigación y desarrollo en producción de hidrógeno, biogás,
+bio-syngas renovable, metanol e hidrocarburos. Las plantas son las siguientes:
+- Planta piloto de electrólisis alcalina, para la producción de H2 y O2.
+- Planta piloto de gasificación de biomasa, para la generación de bio-syngas.
+- Planta piloto de digestión anaerobia y upgrading de biogás.
+- Planta piloto de producción de metanol.
+- Planta piloto de producción de hidrocarburos (proceso Fischer-Tropsch).
+Se prevé un tiempo de operación máximo de 8 horas diarias y de un día de operación a la semana por cada planta
+piloto, lo que es propio de una instalación de ensayo e investigación a escala reducida, sin carácter productivo a
+escala comercial.
+Dentro de la parcela, la instalación se organiza en distintas zonas funcionales diferenciadas:
+- Nave industrial de 1.506,17 m² (planta rectangular de 45,85 × 32,85 m), con una altura libre de 8,00 m y una altura
+máxima de envolvente de 9,50 m; alberga la zona de producción y cubierta a dos aguas.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39939
+- Área de módulos prefabricados para oficinas y laboratorio de 381,00 m² (29,78 × 12,80 m), con dos plantas y altura
+máxima de 6,38 m; el laboratorio ocupará 173 m² en la planta inferior.
+- Área de almacenaje de 800,00 m² (25 × 32 m), parcialmente cubierta (162,36 m² a dos aguas) con altura de 7,81
+m, y parcialmente diáfana sin cerramiento exterior.
+- Zona de aparcamientos de 306,85 m² (20 plazas), compuesta por marquesinas de perfilería de acero y chapa
+grecada, anexa a las oficinas.
+- Planta fotovoltaica de autoconsumo que ocupará una superficie aproximada de 1.300,00 m².
+- Viales y accesos internos a las diferentes naves y áreas con una superficie de 1.730,00 m².
+El consumo previsto de agua municipal es reducido: aproximadamente 550 l/mes en la planta de electrólisis alcalina,
+más unos 1.500 l/mes para usos domésticos (aseo y jardinería; estimación para 4 trabajadores, 35 l/persona y 10
+días de trabajo). La red de saneamiento y abastecimiento se resolverá mediante conexión a los servicios previstos
+en el PCyTEC, cuyas infraestructuras generales (acceso, abastecimiento, saneamiento separativo, tratamiento de
+pluviales, suministro eléctrico, alumbrado y EDAR), cuentan con declaración de impacto ambiental favorable emitida
+mediante la Resolución del 13 de noviembre de 2025 de la Dirección General de Calidad Ambiental, publicada en el
+DOCM. número 235 del 4 de diciembre de 2025.
+Los productos obtenidos en las plantas piloto (H2, O2, bio-syngas, biogás, metanol e hidrocarburos) se almacenarán
+prioritariamente para autoconsumo o se retirarán por gestor autorizado. Los residuos y efluentes generados (aguas
+residuales de proceso, cenizas, char, digestato y CO2 de antorcha) se gestionarán conforme a la Ley 7/2022, de 8
+de abril, de residuos y suelos contaminados para una economía circular.
+Toda la instalación contará con acceso restringido, integrado en el vallado perimetral del PCyTEC. El emplazamiento
+se sitúa sobre terrenos que, en virtud del PLSI “Los Palancares”, pasan a ser clasificados como suelo urbanizable
+de uso industrial productivo, siendo el proyecto compatible con la Ordenanza 1: Industrial del mencionado PLSI.
+Segundo. Tramitación y consultas.
+El 26 de noviembre de 2025 tiene entrada en la Dirección General de Calidad Ambiental, procedente de la Dirección
+General de Economía Circular y Agenda 2030, en calidad de órgano sustantivo, la solicitud de inicio del procedimiento
+de evaluación de impacto ambiental simplificada del proyecto, acompañada del documento ambiental de junio de
+2025 y del proyecto básico fechado en octubre de 2024), dando cumplimiento al artículo 52 de la Ley 2/2020, de 7
+de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El promotor presentó la justificación del abono de la tasa correspondiente, según la Ley 9/2012, de 29 de noviembre,
+de tasas y precios públicos de Castilla-La Mancha y otras medidas tributarias.
+Sobre la base de dicha documentación, y de acuerdo con el artículo 53 de la citada Ley 2/2020, se formularon
+consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que
+informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los siguientes
+(se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+- Ayuntamiento de Cuenca (*)
+- Infraestructuras del Agua de Castilla-La Mancha (*)
+- Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio de Economía Circular y Agenda 2030 (*)
+- Delegación Provincial de Sanidad en Cuenca - Servicio de Salud Pública (*)
+- Ministerio para la Transición Ecológica y el Reto Demográfico - Dirección General de Política Energética y Minas
+- Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio de Calidad Ambiental (*)
+- Delegación Provincial de la Consejería de Fomento en Cuenca - Servicio de Carreteras (*)
+- Confederación Hidrográfica del Júcar
+- Agencia del Agua de Castilla-La Mancha - Servicio Provincial en Cuenca (*)
+- Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio de Industria y Energía (*)
+- Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio de Minas
+- Delegación Provincial de Desarrollo Sostenible en Cuenca - Servicio de Medio Natural y Biodiversidad (*)
+- Delegación Provincial de Desarrollo Sostenible en Cuenca - Unidad de Coordinación Provincial de Agentes
+Medioambientales
+- Delegación Provincial de Hacienda, Administraciones Públicas y Transformación Digital en Cuenca - Servicio de
+Protección Ciudadana
+- Asociación para la Defensa de la Naturaleza WWF/Adena
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39940
+- Asociación Ecologistas en Acción de La Manchuela (Cuenca y Albacete) (*)
+- Asociación Ecología y Libertad (*)
+Todos los informes recibidos se encuentran disponibles en la aplicación Nevia (Información de los expedientes de
+evaluación ambiental – https://neva.jccm.es/nevia/), buscando por el expediente: S478/2025/DG/00061.
+Entre las alegaciones recibidas durante el trámite de consultas, se destacan las presentadas por la Asociación
+Ecologistas en Acción de La Manchuela y la Asociación Ecología y Libertad, así como las consideraciones formuladas
+por el Servicio Provincial de Medio Natural y Biodiversidad de Cuenca.
+En cuanto a la alegación formulada por la Asociación Ecologistas en Acción de La Manchuela, solicitando el
+sometimiento del proyecto a evaluación de impacto ambiental ordinaria por afección significativa a la microrreserva
+“Complejo Lagunar del río Moscas” y a la presencia potencial de Parachondrostoma arrigonis, debe indicarse que
+el documento ambiental incluye un estudio específico de las repercusiones del proyecto sobre los espacios de la
+Red Natura 2000 próximos (ZEC ES4230008 Complejo Lagunar de Ballesteros y valle del río Moscas, y ZEPA-ZEC
+Serranía de Cuenca ES0000162 y ES4230014), concluyendo que los impactos potenciales son compatibles en
+fase de ejecución y nulos en fase de funcionamiento, sin afección directa a hábitats de interés comunitario ni a sus
+especies objetivo de conservación. La actuación no solapa geográficamente con ningún espacio protegido y las
+aguas pluviales e industriales quedan separadas y gestionadas en el ámbito del PCyTEC, con arreglo a la DIA del
+proyecto de urbanización de 13 de noviembre de 2025 y a la autorización de vertido vigente de la Confederación
+Hidrográfica del Júcar. No obstante, en aplicación del principio de precaución y de las observaciones del Servicio
+de Medio Natural y Biodiversidad, se han incorporado a la presente Resolución medidas preventivas y correctoras
+específicas para la protección del sistema hidrogeológico kárstico que alimenta las lagunas de Mohorte.
+En cuanto a la alegación presentada por la Asociación Ecología y Libertad, en la que se solicita la suspensión de la
+tramitación ambiental por la situación sub iudice del PLSI “Los Palancares”, la presunta fragmentación del análisis
+ambiental y la insuficiente definición del balance de masas y energía, debe indicarse que el PLSI fue aprobado
+definitivamente por Acuerdo del Consejo de Gobierno de 25 de mayo de 2023 (DOCM número 109, de 9 de junio
+de 2023) y es ejecutivo, sin que la eventual interposición de recursos judiciales suspenda su eficacia. La tramitación
+ambiental del proyecto objeto de la presente Resolución no incurre en fragmentación, por cuanto se inserta en
+una cadena coherente de procedimientos ambientales: evaluación ambiental estratégica del PLSI (Resolución de
+01/06/2023, de la Secretaría General, por la que se publica el Acuerdo de 25/05/2023, del Consejo de Gobierno,
+por el que se aprueba definitivamente el plan de singular interés denominado: Economía Circular Los Palancares
+en Cuenca. Expediente PLA-SC-20-0449) y declaración de impacto ambiental del proyecto de urbanización del
+PCyTEC (13 de noviembre de 2025). Las carencias documentales señaladas por la alegación (balance de masas
+y energía, caracterización de efluentes y sistemas de control de emisiones) no son relevantes para la decisión que
+adopta esta resolución de no requerir EIA ordinaria.
+El Ayuntamiento de Cuenca, a través de la Gerencia Municipal de Urbanismo, ha emitido informe técnico favorable
+de compatibilidad urbanística, condicionado a la consolidación jurídica de la parcela resultante R25.M5-IND.01
+del proyecto de reparcelación, al no rebasamiento de la edificabilidad atribuida, al cumplimiento de los parámetros
+urbanísticos de la Ordenanza 1: Industrial del PLSI y al régimen de vertidos a la red general del ámbito. En materia de
+vertidos, solo podrán verterse a la red general del PCyTEC los efluentes compatibles con la capacidad y condiciones
+de la EDAR y con la autorización de vertido existente, debiendo los efluentes industriales o lixiviados no asimilables
+a urbanos ser pretratados, almacenados y/o retirados por gestor autorizado.
+La Agencia del Agua de Castilla-La Mancha ha emitido informe favorable, sin perjuicio de las determinaciones que
+puedan derivarse de las autorizaciones sectoriales que, preceptivamente, deban obtenerse. La Delegación Provincial
+de Sanidad en Cuenca no ha formulado objeciones, instando al cumplimiento de las medidas de protección del
+medio ambiente relacionadas con la salud humana (agua, aire, ruido y campos electromagnéticos).
+El Servicio de Carreteras de Cuenca no ha opuesto objeciones, al no existir carreteras de titularidad autonómica
+afectadas.
+El Servicio de Industria y Energía de Cuenca ha advertido expresamente que el titular deberá evaluar la aplicabilidad
+al establecimiento del Real Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control
+de los riesgos inherentes a los accidentes graves en los que intervengan sustancias peligrosas, clasificando el
+establecimiento conforme a su artículo 3 y cumpliendo, en su caso, las obligaciones documentales, organizativas
+y de autoprotección previstas en dicho Real Decreto. Esta observación se incorpora como condicionante esencial
+de la presente Resolución, dada la naturaleza de las sustancias manejadas (hidrógeno, metano, biogás, metanol e
+hidrocarburos).
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39941
+El Servicio de Medio Natural y Biodiversidad de Cuenca considera que los impactos sobre los espacios Red Natura
+2000 son compatibles en fase de ejecución y nulos en fase de funcionamiento. El promotor deberá aportar la
+descripción detallada de los sistemas de almacenamiento de todas las materias utilizadas u obtenidas en los
+procesos (especialmente en la planta de digestión anaerobia), incluidos los residuos utilizados y/o generados, con
+justificación del dimensionamiento y planos de distribución.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una evaluación de impacto ambiental
+ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1.- Características del proyecto.
+El proyecto consiste en la implantación de una instalación de I+D+i de dimensiones reducidas, integrada por cinco
+plantas piloto dedicadas a procesos de electrólisis alcalina, gasificación, digestión anaerobia y upgrading, producción
+de metanol y proceso Fischer-Tropsch. La descripción, características de los equipos, sistemas de almacenamiento
+de materias y residuos es la siguiente:
+- Digestión anaerobia: tanque de recepción de residuos líquidos de 300 L, con el resto almacenado en GRGs de
+1.000 L dotados de cubetos de retención; tiempo de almacenamiento de 3 días; residuos sólidos (75 kg) en bidones
+sobre superficie impermeabilizada, con control de nivel y ventilación. El digestato generado (planta de biogás) se
+almacena en GRG de 1.000 L sobre superficie impermeable con contención estanca, con retirada mensual.
+- Gasificación: cenizas (hasta 100 kg / 200 L) y char (hasta 350 kg / 2 m³) recogidos en depósitos integrados y
+trasladados a recipientes cerrados en zona cubierta, ventilada e impermeable, con retirada mensual y caracterización
+previa. El agua residual se recoge en depósito de 1.000 L integrado; las aguas residuales del resto de plantas se
+almacenan en GRG de 200 L, sin vertido directo al terreno, cauces ni red de saneamiento.
+-Gases de proceso: H2, O2 y bio-syngas conducidos a almacenamientos intermedios independientes y específicos
+para cada gas (depósitos orientativos de 4 Nm³ para H2, 6 Nm³ para O2 y 10 Nm³ para syngas), sin acumulación
+indefinida de excedentes; el biogás se almacena en gasómetro de 3,2 m³ integrado, con control de llenado y
+dispositivos de seguridad frente a sobrepresión y vacío.
+- Electrolito (KOH): la disolución acuosa de KOH del electrolizador alcalino permanece en circuito cerrado y en
+recirculación, con recipiente auxiliar cerrado y compatible para operaciones de vaciado y mantenimiento, situado sobre
+superficie impermeable con contención estanca; el electrolito retirado se reutiliza o se entrega a gestor autorizado.
+- Gases comerciales y combustibles: N2, CO2 y CO en botellas homologadas de 50 L a 200 bar (máximo 24 botellas
+por gas), y hasta 12 botellas de 35 kg de propano (C3H8) para arranque de antorcha de seguridad, almacenadas en
+posición vertical, sujetas y separadas por incompatibilidad (inflamables/comburentes).
+- Metanol e hidrocarburos: recogidos inicialmente en depósitos de 30 L integrados y transferidos a GRGs de 500
+L específicos y compatibles, en recipientes cerrados dentro de zona ventilada, señalizada y alejada de fuentes de
+ignición, con sistemas de retención de capacidad mínima no inferior al 100 % del recipiente de mayor capacidad.
+La capacidad de tratamiento y operación es limitada, propia de una instalación experimental, con un tiempo máximo
+de operación de 8 horas diarias y un único día de operación a la semana por planta piloto. La superficie total
+construida estimada es de 3.068,17 m²c, muy inferior al aprovechamiento máximo atribuido a la parcela por el
+instrumento de reparcelación (11.644,47 m²c/u.a.).
+Los consumos de recursos naturales resultan moderados: suministro de agua municipal de aproximadamente 2.050
+l/mes (proceso más usos domésticos), sin extracciones directas de aguas subterráneas ni superficiales; consumo
+eléctrico vinculado al funcionamiento de la maquinaria y equipos auxiliares, parcialmente cubierto mediante la planta
+fotovoltaica de autoconsumo de 1.300 m²; y ocupación de suelo ya clasificado como industrial productivo por el PLSI.
+La actividad proyectada, considerada en su conjunto, tiene un carácter netamente positivo desde el punto de vista
+ambiental, por cuanto está orientada a la descarbonización de la industria y a la producción de energía limpia
+mediante la investigación en tecnologías de hidrógeno renovable, biogás y combustibles sintéticos a partir de
+biomasa, en aplicación del Plan de Recuperación, Transformación y Resiliencia y de la Estrategia de Hidrógeno
+Verde de la Unión Europea. La valorización de los residuos orgánicos que constituirán las materias primas de
+entrada se ajusta a los principios de la Ley 7/2022, de 8 de abril, y al Plan de Prevención y Gestión de Residuos de
+Castilla-La Mancha (2023-2030), aprobado mediante el Decreto 35/2024, de 2 de julio.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39942
+La generación de residuos en la fase de funcionamiento es reducida y queda acotada a las aguas residuales de
+proceso (aproximadamente 340 kg/mes agregado), cenizas, char, digestato y emisiones de CO2 a la antorcha, por
+tratarse de procesos de ensayo a escala reducida.
+3.2.- Ubicación del proyecto.
+La instalación se localiza en el futuro Parque Científico y Tecnológico de Economía Circular “Los Palancares”, al
+sur del término municipal de Cuenca, a aproximadamente 5 km de la pedanía de La Melgosa y a unos 2,2 km al
+noreste de la pedanía de Mohorte. El núcleo urbano residencial más próximo se encuentra a distancia suficiente
+para no verse afectado significativamente por la actividad. El acceso se realiza desde la carretera nacional N-420 a
+través del camino de los Palancares, dentro del ámbito urbanizado del PCyTEC; no existen carreteras de titularidad
+autonómica en la zona de afección.
+Según el documento ambiental y los informes recibidos, la instalación proyectada se localiza fuera de la Red de
+Áreas Protegidas de Castilla-La Mancha y de la Red Natura 2000, si bien en su entorno próximo existen los siguientes
+espacios naturales de relevancia:
+- Microrreserva “Complejo Lagunar del río Moscas” (Decreto 46/2010, de 4 de mayo), cuya laguna más próxima se
+sitúa a menos de 1 km del perímetro del ámbito.
+- Zona de Especial Conservación (ZEC) “Complejo Lagunar de Ballesteros y valle del río Moscas” (ES4230008),
+aprobada la ampliación por Decreto 26/2015, a aproximadamente 1 km.
+- Zona de Especial Protección para las Aves (ZEPA) y ZEC “Serranía de Cuenca” (ES0000162 y ES4230014,
+Decreto 187/2015), a aproximadamente 650 m al norte.
+- Monumento Natural “Palancares y Tierra Muerta” (Decreto 2/2001), próximo al norte.
+- Área crítica del águila perdicera (Aquila fasciata), en aplicación del Decreto 76/2016, de 13 de diciembre.
+El monte de utilidad pública número 106 “Los Palancares y Agregados”, propiedad del Ayuntamiento de Cuenca, con
+una superficie de 4.906,31 ha, se localiza en las proximidades, sin que el ámbito de actuación se solape con él ni
+con ninguna vía pecuaria. El área se encuentra dentro de una zona con riesgo de incendio forestal, por la cercanía
+a la masa forestal, y a la Brigada de Refuerzo en Incendios Forestales (BRIF).
+Respecto al patrimonio cultural, en la prospección arqueológica previa se documentaron varios yacimientos y elementos
+etnográficos (Sabina Vieja, Vallejo de San Antón, Los Hoyos, Tinadas del Cerro Redondo y el yacimiento romano “El
+Tesoro”, código 07160780039). Todos ellos se localizan fuera de los límites del ámbito estricto de la actuación.
+La ubicación elegida ha sido previamente analizada y aprobada en la evaluación ambiental estratégica del PLSI “Los
+Palancares” (Resolución de 01/06/2023, de la Secretaría General, por la que se publica el Acuerdo de 25/05/2023,
+del Consejo de Gobierno, por el que se aprueba definitivamente el plan de singular interés denominado: Economía
+Circular Los Palancares en Cuenca. Expediente PLA-SC-20-0449) en la que fueron descartadas otras alternativas
+de ubicación. Dentro del propio PCyTEC (Resolución del 13 de noviembre de 2025 de la Dirección General de
+Calidad Ambiental, publicada en el DOCM. número 235 del 4 de diciembre de 2025), las posibles alternativas de
+implantación presentarían valoraciones similares, al no existir diferencias relevantes entre parcelas. La ubicación,
+por tanto, se sitúa sobre suelo urbanizable de uso industrial productivo, previamente ordenado, lo que minimiza la
+afección sobre el medio natural y evita la ocupación de suelo rústico de valor ambiental.
+3.3.- Características del potencial impacto.
+Los potenciales impactos del proyecto (producción de ruido, emisiones atmosféricas, generación de residuos y
+efluentes, ocupación temporal del suelo) serán en su mayor parte temporales, asociados a la fase de ejecución,
+y fácilmente reversibles una vez finalizada la actividad. La minimización de su efecto dependerá de la correcta
+aplicación de las medidas preventivas y correctoras derivadas de la presente evaluación de impacto ambiental y del
+condicionado que se establece en esta Resolución.
+Analizada la información obrante en el expediente, puede concluirse que el proyecto no contempla afecciones
+negativas significativas sobre el medio ambiente, al considerar que:
+a) No se prevé afección directa al Dominio Público Hidráulico ni a sus márgenes de protección. No existen cauces
+en el ámbito estricto de la actuación, y el sistema de saneamiento y abastecimiento se resuelve mediante conexión
+a las redes separativas del PCyTEC, cuyos efluentes industriales son previamente filtrados y depurados.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39943
+b) No existe ocupación directa de Hábitats de Interés Comunitario ni de elementos geomorfológicos de protección
+especial. El análisis de repercusiones sobre la Red Natura 2000 concluye impactos compatibles o nulos sobre los
+espacios próximos, tanto en fase de ejecución como de funcionamiento.
+c) La actuación es compatible con la preservación de los montes de utilidad pública y no afecta a vías pecuarias.
+d) La ubicación no se encuentra incluida dentro de las áreas protegidas previstas en la Ley 9/1999, de 26 de
+mayo, de Conservación de la Naturaleza de Castilla-La Mancha, si bien se adoptarán medidas específicas por la
+proximidad a la microrreserva Complejo Lagunar del río Moscas.
+e) La instalación se proyecta sobre suelo urbanizable de uso industrial productivo, ordenado y aprobado por el PLSI
+Los Palancares, lo que minimiza la afección sobre el medio natural y evita la ocupación de suelo rústico o de valor
+ambiental.
+Por todo ello, y dada la tipología de la actuación (instalación de I+D+i a escala piloto), el diseño en cuanto a su
+funcionamiento (operación limitada y procesos controlados), la ubicación seleccionada (suelo ordenado por PLSI y
+sin afección directa a espacios protegidos) y las medidas preventivas y correctoras aplicadas, se considera que el
+proyecto es compatible con la preservación de los factores ambientales, como son los recursos naturales, las áreas
+protegidas, los bienes de dominio público, la población y la salud humana, siempre que se realice según señala el
+documento ambiental y se incorporen los condicionantes marcados en la presente Resolución.
+Por otro lado, el análisis de vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes identifica
+riesgos tolerables o moderados (inundación, riesgo geológico-kárstico, riesgo sísmico, fenómenos meteorológicos
+adversos e incendio forestal). La manipulación de sustancias inflamables (hidrógeno, metano, biogás, metanol)
+exige evaluar la aplicabilidad del Real Decreto 840/2015 y la implantación de Plan de autoprotección específico,
+medidas que se establecen como condicionante en el apartado cuarto.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+4.1.- Protección del sistema hidrológico y del suelo.
+A pesar de que las actuaciones no se localicen en las cercanías de aguas superficiales, el sistema hidrogeológico
+kárstico del entorno alimenta la microrreserva “Complejo Lagunar del río Moscas”, por lo que significa que en la
+puesta en práctica de las actuaciones contempladas en el proyecto deberán tenerse en cuenta las consideraciones
+expuestas a continuación, para evitar cualquier actuación que de forma directa o indirecta pudiera afectar
+negativamente a las aguas, al suelo o al resto del dominio público hidráulico:
+- Queda prohibido con carácter general el vertido directo o indirecto de aguas y productos residuales susceptibles
+de contaminar las aguas continentales o cualquier otro elemento del dominio público hidráulico, salvo que cuente
+con la previa autorización. Solo podrán verterse a la red general del PCyTEC los efluentes compatibles con la
+capacidad y condiciones de la EDAR y con la autorización de vertido existente otorgada por la Confederación
+Hidrográfica del Júcar; los efluentes industriales o lixiviados no asimilables a urbanos deberán ser pretratados en
+origen, almacenados y/o retirados por gestor autorizado, con arqueta de control y caracterización analítica previa.
+- Es necesario controlar todo tipo de pérdida accidental, así como las filtraciones que pudieran tener lugar en la
+instalación. A tal efecto, deberán estar adecuadamente pavimentadas y confinadas las zonas de trabajo, tránsito o
+almacén, de forma que cualquier líquido derramado se recoja y en caso de precipitación nunca pueda fluir hacia el
+exterior de la zona pavimentada.
+- Se implementará una red separativa de aguas pluviales (cubiertas de las naves) de las aguas de proceso,
+favoreciendo su posible reutilización. El promotor deberá aportar, con carácter previo al inicio de las obras, el proyecto
+de red separativa de pluviales y lixiviados, con justificación del dimensionamiento en base a superficie, pluviometría,
+intensidad media de lluvia, régimen de precipitaciones extremas y coeficientes de escorrentía, incluyendo los
+cálculos hidráulicos, volúmenes, sistemas de tratamiento y arquetas de control.
+- En los movimientos de tierras prevalecerá como opción principal la compensación desmonte-terraplén en el área
+afectada. Los excedentes no aprovechables en la obra se gestionarán conforme a la Orden APM/1007/2017, de 10
+de octubre, sobre normas generales de valorización de materiales naturales excavados. Se detallarán las medidas
+de prevención de arrastre de partículas en aguas de escorrentía y pluviales durante los movimientos de tierras,
+identificándose expresamente el destino de los excedentes.
+- Se implantará un protocolo detallado de recogida y respuesta ante derrames o vertidos accidentales, en todas
+las fases y acciones del proyecto, incluido el transporte de materias primas, residuos y productos, con ubicación,
+dimensionamiento justificado, control y previsión de medidas correctamente presupuestadas.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39944
+De acuerdo con lo previsto en el artículo 3.1 del Real Decreto 9/2005, de 14 de enero, por el que se establece la
+relación de actividades potencialmente contaminantes del suelo y los criterios y estándares para la declaración de
+suelos contaminados, las actividades de la instalación (valorización de residuos mediante gasificación y tratamientos
+térmicos) están incluidas como actividades potencialmente contaminantes del suelo en el anexo I.
+Por este motivo, el titular está obligado a remitir a la Dirección General de Calidad Ambiental, en un plazo no superior
+a dos años desde el inicio de la actividad, un informe preliminar de situación para los suelos en los que se desarrolla
+dicha actividad, con el alcance y el contenido mínimo que se recoge en el anexo II del Real Decreto 9/2005.
+4.2.- Producción y gestión de residuos.
+La gestión y manejo de la totalidad de residuos que se utilicen como entrada o se generen en la instalación deberá
+cumplir en todo momento las prescripciones que vengan establecidas en la declaración responsable. En dicho
+documento se indicará el tratamiento, el tipo y cantidad de residuo y el tiempo estimado de dicha actividad, en
+aplicación del artículo 34.3. la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía
+circular, así como en el Plan de Prevención y Gestión de Residuos de Castilla-La Mancha (2023-2030), aprobado
+mediante el Decreto 35/2024, de 2 de julio. Además, en el mismo artículo se informa que quedarán exentas del
+régimen de autorización previsto en el artículo 33 las instalaciones o partes de las mismas utilizadas para la
+investigación, desarrollo y experimentación de nuevos tratamientos de residuos.
+El promotor deberá especificar, con carácter previo al inicio de la actividad, el código LER de todos los residuos
+utilizados como entrada y de los residuos generados en cada planta piloto, con las cantidades estimadas de consumo
+y generación mensual.
+De acuerdo con el principio genérico de autosuficiencia y proximidad recogido en el artículo 8 de la Ley 7/2022, los
+residuos utilizados como entrada en los procesos deberán proceder del entorno cercano a la ubicación de la planta,
+dada la naturaleza de instalación de investigación y las cantidades reducidas que se manejan. Del mismo modo,
+los productos generados deberán utilizarse prioritariamente para autoconsumo de la planta o distribuirse en puntos
+próximos a la misma.
+Aquellos residuos generados por el propio funcionamiento de la planta (residuos impropios, aceites usados,
+recambios de piezas de maquinaria, lixiviados, cenizas, char, digestato, aguas residuales de proceso,etcétera.)
+deberán ser gestionados debidamente según lo establecido en el condicionado de la autorización de gestión de
+residuos, y en todo caso, estarán sujetos a lo dispuesto en la Ley 7/2022.
+Se recuerda que el depósito de residuos peligrosos generados en las instalaciones tendrá que cumplir con
+los condicionantes establecidos en la Orden de 21 de enero de 2003 de la Consejería de Agricultura y Medio
+Ambiente, por la que se regulan las normas técnicas específicas que deben cumplir los almacenes e instalaciones
+de transferencia de residuos peligrosos, en lo relativo a las características de almacenamiento y entrega a gestor
+autorizado, sin superar los tiempos máximos de almacenamiento previstos en la Ley 7/2022.
+En relación con la gestión, reparación, mantenimiento y, en su caso, la retirada por sustitución o desmantelamiento
+definitivo de las placas solares fotovoltaicas, deberá cumplirse lo establecido en el Real Decreto 110/2015, de 20 de
+febrero, sobre Residuos de Aparatos Eléctricos y Electrónicos, y en el Real Decreto 27/2021, de 19 de enero, por el
+que se modifica el Real Decreto anterior, atendiendo a la posible catalogación de estos residuos como peligrosos.
+En lo referente al almacenamiento de residuos, deberá tenerse especial cuidado para evitar la dispersión de cualquier
+residuo o lixiviado al exterior, tanto en condiciones normales como en eventos de lluvias torrenciales, debiendo
+atenderse a todas las consideraciones técnicas necesarias.
+4.3.- Protección a la atmósfera, calidad del aire y prevención del ruido.
+Para evitar la emisión de polvo y gases contaminantes en las distintas fases del proceso y reducir el impacto
+acústico de la actividad, además de las medidas contempladas en el documento ambiental presentado, se deberán
+tener en cuenta las siguientes:
+- Los accesos a las instalaciones deberán permanecer en perfecto estado, de forma que se reduzcan las emisiones
+de polvo como consecuencia del tráfico de vehículos.
+- El transporte de los residuos y materias primas en cajas de camiones se realizará cubierto por lonas para evitar la
+dispersión del polvo y residuos.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39945
+- Se adoptarán medidas preventivas específicas de olor en el almacenamiento de residuos orgánicos y en los
+procesos de digestión anaerobia y upgrading de biogás, incluyendo sistemas de captación y tratamiento de las
+emisiones odoríferas si se detectasen molestias en el entorno.
+- Se minimizará la emisión de CO2 en la antorcha de las plantas piloto de producción de metanol e hidrocarburos,
+considerando, cuando sea técnicamente viable, su captura y reutilización en procesos internos.
+En relación a la actividad ejecutada, ésta se encuentra en el catálogo de actividades potencialmente contaminadoras
+de la atmósfera (Capca) que regula el Real Decreto 100/2011, de 28 de enero. En consecuencia, y dependiendo del
+grupo al que pertenezca el tipo de actividad, deberá cumplir con lo establecido en el artículo 13 de la Ley 34/2007,
+de 15 de noviembre, de calidad del aire y protección de la atmósfera. El titular deberá comunicar la actividad a
+esta Dirección General de Calidad Ambiental con los modelos habilitados a tal efecto, o solicitar la autorización
+administrativa correspondiente.
+Para este proyecto, la clasificación Capca más clara y directamente aplicable es la correspondiente a la producción
+de biogás o biometanización, que está encuadrada en grupo B, código 09 10 06 00 del anexo del Real Decreto
+100/2011. El propio proyecto incluye una planta piloto de digestión anaerobia y upgrading de biogás, junto con otras
+plantas de gasificación, metanol y Fischer-Tropsch.
+La clasificación que se propone para el expediente es la siguiente:
+Unidad / proceso del
+Posible encaje Capca Grupo Código Capca Observación
+proyecto
+Digestión anaerobia Producción de
+Aplicación directa y
++ producción de biogás o plantas de B 09 10 06 00
+prácticamente inequívoca
+biogás/upgrading biometanización
+a/b/c según
+Gasificación de Necesita conocer LER,
+Gestión/valorización de operación,
+biomasa/residuos → A determinar capacidad diaria y si la
+residuos residuo y
+bio-syngas valorización es energética o no
+capacidad
+A, si
+Tratamiento Posible valorización efectivamente
+Hay que verificar la operación
+térmico de energética de residuos tiene
+09 10 09 04 R y finalidad real de la
+residuos mediante no considerada naturaleza de
+gasificación
+gasificación incineración valorización
+energética
+Posible alternativa si la
+Tratamiento
+gasificación experimental
+no energético Valorización no
+C si ≤50 t/día 09 10 09 03 jurídicamente se configura
+de residuos no energética
+como valorización no
+peligrosos
+energética
+Tratamiento
+Por las dimensiones piloto del
+no energético Valorización no
+B si >50 t/día 09 10 09 02 proyecto parece improbable
+de residuos no energética
+superar este umbral
+peligrosos
+Requiere No debe clasificarse
+Producción de Proceso químico
+clasificación — automáticamente sin conocer
+metanol orgánico
+específica capacidad, proceso y focos
+Síntesis de Requiere
+Fischer-Tropsch → Necesario analizar capacidad
+combustibles/ clasificación —
+hidrocarburos de producción y emisiones
+hidrocarburos específica
+En principio El proceso electroquímico no
+Electrólisis alcalina no determina implica necesariamente un
+Electrólisis —
+→ H2/O2 por sí sola foco contaminante atmosférico
+Grupo B Capca
+— /
+Depende Deben inventariarse
+Combustión de gases Eventualmente
+Antorchas del gas y como focos, aunque su
+de seguridad 09 04 01 03
+configuración funcionamiento sea discontinuo
+para biogás
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39946
+Con respecto a la contaminación acústica, las medidas y comprobaciones sobre los niveles de ruido generados
+en las instalaciones no deberán sobrepasar las condiciones que establece el Real Decreto 1367/2007, de 19 de
+octubre, por el que se desarrolla la Ley 37/2003, de 17 de noviembre, del ruido, en lo referente a zonificación
+acústica, objetivos de calidad y emisiones acústicas, o, en caso de existir, a los límites que establezca la ordenanza
+municipal.
+Con carácter genérico, el promotor ha de adoptar las medidas y dispositivos en maquinaria y equipos utilizados en
+la actividad que disminuyan al máximo los niveles de ruido y emisiones generados por estos.
+4.4.- Protección del medio natural.
+De acuerdo con las características ambientales del ámbito de actuación y con las consideraciones formuladas por el
+Servicio Provincial de Medio Natural y Biodiversidad de Cuenca, durante las fases de construcción, funcionamiento,
+mantenimiento y desmantelamiento de la instalación deberán adoptarse las medidas preventivas y correctoras
+necesarias para garantizar la conservación de los valores naturales presentes en el entorno del proyecto.
+El emplazamiento de la actuación se localiza fuera de la red de áreas protegidas de Castilla-La Mancha y no presenta
+solapamiento territorial directo con espacios pertenecientes a la Red Natura 2000. No obstante, en su entorno
+se localizan espacios y elementos naturales de especial relevancia, entre ellos la ZEC «Complejo Lagunar de
+Ballesteros y valle del río Moscas» (ES4230008), la ZEPA y ZEC «Serranía de Cuenca» (ES0000162 y ES4230014),
+la microrreserva «Complejo Lagunar del río Moscas», el Monumento Natural «Palancares y Tierra Muerta», el
+área crítica del águila perdicera y el monte de utilidad pública número 106 «Los Palancares y Agregados». En
+consecuencia, deberán observarse las siguientes determinaciones:
+a) Protección de la Red Natura 2000 y de los valores objeto de conservación.
+Considerando la proximidad del ámbito de actuación a espacios incluidos en la Red Natura 2000, el desarrollo del
+proyecto deberá garantizar, durante todas sus fases, la ausencia de afecciones apreciables, directas o indirectas,
+sobre los hábitats naturales, las especies de interés comunitario y los objetivos de conservación que justifican la
+designación de dichos espacios.
+Las actuaciones se desarrollarán de forma que no se produzcan alteraciones que puedan comprometer la
+estructura, funcionalidad, conectividad o integridad ecológica de los espacios de la Red Natura 2000 próximos al
+proyecto. En particular, se evitarán aquellas actuaciones susceptibles de generar deterioro de hábitats, molestias
+significativas sobre la fauna, contaminación de las aguas, deposición de contaminantes atmosféricos, incremento
+significativo de los niveles acústicos o luminosos o cualquier otro efecto indirecto que pudiera repercutir sobre sus
+valores naturales.
+Las medidas preventivas y correctoras previstas en el proyecto deberán aplicarse igualmente desde la perspectiva
+de la conservación de la Red Natura 2000, prestando especial atención a aquellos vectores ambientales capaces
+de transmitir efectos fuera de los límites físicos de la instalación, especialmente aguas superficiales y subterráneas,
+emisiones atmosféricas, ruido, iluminación, residuos, riesgo de incendio y posibles episodios accidentales.
+El programa de vigilancia ambiental deberá incorporar el seguimiento de aquellos factores susceptibles de producir
+afecciones indirectas sobre los espacios protegidos próximos. En caso de detectarse impactos no previstos o indicios
+de alteración de sus valores de conservación, deberán adoptarse las medidas adicionales de prevención, corrección
+o adaptación que resulten necesarias.
+b) Protección de hábitats, vegetación y flora.
+Las obras, instalaciones auxiliares, zonas de acopio, tránsito de maquinaria y demás ocupaciones temporales
+deberán limitarse estrictamente a las superficies previstas en el proyecto, evitando cualquier ocupación innecesaria
+de terrenos exteriores al ámbito autorizado.
+Se deberá preservar la vegetación natural existente fuera de las superficies estrictamente necesarias para la
+implantación del proyecto. Cualquier actuación sobre vegetación que resulte imprescindible deberá limitarse a la
+mínima superficie técnicamente necesaria.
+Queda prohibido el vertido o abandono de tierras, residuos, materiales de obra, restos vegetales o cualquier otro
+material sobre terrenos naturales situados fuera de las zonas expresamente habilitadas.
+Las superficies temporalmente afectadas durante las obras que no queden integradas en las instalaciones
+definitivas deberán ser objeto de acondicionamiento y restauración una vez finalizados los trabajos, favoreciendo su
+recuperación e integración ambiental.
+En las actuaciones de restauración o ajardinamiento deberán priorizarse especies autóctonas y adecuadas a las
+características biogeográficas y ecológicas del entorno, evitando la utilización de especies exóticas invasoras o con
+potencial invasor.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39947
+c) Protección de la fauna.
+Durante la ejecución y funcionamiento del proyecto se adoptarán las medidas necesarias para minimizar las
+molestias sobre la fauna existente en el entorno, particularmente aquellas derivadas del ruido, iluminación, tránsito
+de vehículos, presencia de maquinaria y actividad humana.
+Las actuaciones deberán desarrollarse evitando alteraciones innecesarias sobre zonas exteriores a la parcela de
+implantación y manteniendo, en la medida de lo posible, la permeabilidad y conectividad ecológica del entorno.
+La iluminación exterior deberá limitarse a las zonas y periodos estrictamente necesarios para garantizar la seguridad
+y operatividad de las instalaciones. Los sistemas de iluminación se diseñarán y orientarán de forma que se reduzca
+la dispersión del flujo luminoso hacia el medio natural circundante y se minimicen las molestias sobre la fauna.
+En caso de detectarse durante las obras o durante el funcionamiento de la instalación la presencia de especies
+protegidas, refugios, nidos, áreas de reproducción u otros elementos de interés para la fauna que pudieran resultar
+afectados por las actuaciones, deberán adoptarse las medidas preventivas oportunas y comunicarse la circunstancia
+al órgano competente en materia de conservación de la naturaleza cuando resulte procedente.
+d) Prevención del riesgo de incendios forestales
+La proximidad de masas forestales, del monte de utilidad pública número 106 «Los Palancares y Agregados» y de
+otros terrenos con vegetación natural determina la necesidad de extremar las medidas de prevención frente al riesgo
+de incendio forestal, particularmente teniendo en cuenta que en la instalación se manipularán gases y productos
+inflamables.
+El titular deberá mantener las instalaciones, viales, zonas de almacenamiento y espacios perimetrales en condiciones
+adecuadas de seguridad, evitando acumulaciones de vegetación seca, residuos combustibles o materiales
+susceptibles de favorecer el inicio o propagación de incendios.
+Durante la ejecución de trabajos que puedan generar chispas, llamas, puntos calientes o cualquier otra fuente
+potencial de ignición deberán adoptarse medidas preventivas específicas, disponiendo de medios de extinción
+adecuados y aplicándose las restricciones que resulten exigibles en función de las condiciones meteorológicas y del
+nivel de riesgo de incendio forestal.
+Dada la proximidad del monte de utilidad pública número 106 «Los Palancares y Agregados» y de la BRIF, y en
+aplicación del artículo 57.9 de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla-La
+Mancha, el titular deberá elaborar un Plan específico de autoprotección frente a incendios forestales, que será
+sometido, cuando resulte legalmente exigible, a la aprobación del órgano competente en materia forestal con
+carácter previo al inicio de la actividad. La instalación deberá disponer de los equipos y medios de intervención
+adecuados y establecer medidas preventivas específicas destinadas a evitar tanto el inicio de incendios dentro de la
+instalación como su eventual propagación hacia las masas forestales próximas.
+El Plan de autoprotección deberá coordinarse con las restantes medidas de seguridad y emergencia establecidas
+para la instalación, particularmente las asociadas a la manipulación y almacenamiento de hidrógeno, biogás,
+metanol, hidrocarburos y demás sustancias combustibles o inflamables.
+e) Protección frente a afecciones indirectas sobre el medio natural
+Se extremarán las medidas destinadas a prevenir derrames, fugas, vertidos o emisiones accidentales que pudieran
+alcanzar terrenos naturales o afectar indirectamente a espacios protegidos, hábitats o especies.
+Las zonas de almacenamiento y manipulación de sustancias potencialmente contaminantes deberán mantenerse
+adecuadamente impermeabilizadas y dotadas de los sistemas de contención previstos en el proyecto, evitando
+cualquier posible migración de contaminantes hacia el exterior de la instalación.
+Se garantizará especialmente que las aguas contaminadas, lixiviados, aguas de proceso o líquidos procedentes de
+derrames accidentales no alcancen el medio natural, las aguas subterráneas ni las áreas protegidas existentes en
+el entorno.
+Asimismo, deberá prevenirse la dispersión de residuos, partículas o materiales ligeros por efecto del viento,
+manteniéndose las áreas de almacenamiento y gestión en condiciones adecuadas de limpieza y control.
+f) Integración ambiental y restauración
+Las instalaciones deberán mantener una adecuada integración ambiental y paisajística respecto del entorno natural
+circundante, particularmente en las visuales procedentes de las áreas forestales y espacios naturales próximos.
+Se mantendrán y conservarán las medidas de integración paisajística y apantallamiento vegetal contempladas en el
+proyecto, utilizando preferentemente especies autóctonas compatibles con las condiciones ecológicas del ámbito.
+Cualquier superficie afectada temporalmente por las obras deberá ser objeto de limpieza, acondicionamiento y
+restauración tras la finalización de los trabajos.
+En caso de cese y desmantelamiento de la actividad, deberá procederse a la retirada de todas las instalaciones,
+residuos y elementos auxiliares que carezcan de utilidad, así como a la recuperación ambiental de las superficies
+afectadas, de acuerdo con el correspondiente Plan de cierre, clausura y desmantelamiento.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39948
+g) Seguimiento ambiental.
+El Programa de vigilancia ambiental deberá contemplar específicamente el seguimiento de las posibles afecciones
+sobre el medio natural durante toda la vida útil del proyecto.
+Este seguimiento prestará especial atención a la ausencia de afecciones sobre los espacios de la Red Natura 2000
+próximos, la microrreserva «Complejo Lagunar del río Moscas», las masas forestales del entorno, la fauna y los
+hábitats naturales, así como a la eficacia de las medidas de prevención frente a incendios forestales.
+En particular, deberán vigilarse aquellos factores ambientales que puedan actuar como vectores de afección indirecta
+—calidad de las aguas, emisiones atmosféricas, ruido, iluminación, residuos, derrames accidentales e incendios—,
+documentándose las incidencias detectadas y las medidas correctoras adoptadas.
+Cuando del seguimiento ambiental se desprenda la existencia de impactos no previstos o una eficacia insuficiente
+de las medidas inicialmente establecidas, el promotor deberá adoptar las medidas adicionales necesarias para
+evitar, minimizar o corregir las afecciones detectadas, sin perjuicio de las determinaciones que pueda establecer el
+órgano competente en materia de conservación de la naturaleza.
+4.5.- Prevención de accidentes graves.
+Con carácter previo al inicio de la actividad, el titular deberá evaluar y determinar si le es de aplicación el Real
+Decreto 840/2015, de 21 de septiembre, por el que se aprueban medidas de control de los riesgos inherentes a los
+accidentes graves en los que intervengan sustancias peligrosas, clasificando, en su caso, el establecimiento como
+de nivel inferior o superior según la definición que se realiza en el artículo 3 de dicho Real Decreto.
+En caso de que le sea de aplicación, el titular deberá cumplir íntegramente las obligaciones documentales,
+organizativas y de autoprotección previstas en el mencionado Real Decreto (Política de Prevención de Accidentes
+Graves, Sistema de Gestión de la Seguridad, Informe de Seguridad y, en su caso, Plan de Emergencia Interior y
+asistencia a la elaboración del Plan de Emergencia Exterior), dada la naturaleza de las sustancias manejadas en las
+plantas piloto (hidrógeno, metano, biogás, metanol e hidrocarburos).
+Con independencia de lo anterior, se elaborará un Plan de autoprotección y emergencia específico para la
+instalación, con especial atención a la manipulación y almacenamiento de sustancias potencialmente explosivas
+(gases combustibles de distinto tipo), proponiendo las medidas preventivas necesarias para evitar accidentes. Dicho
+plan será presentado a la Dirección General de Calidad Ambiental con carácter previo al inicio de la actividad.
+4.6.- Protección urbanística, patrimonial y paisajística.
+En primer lugar, el proyecto y la actividad pretendidos deberán ser compatibles con los usos permitidos en la clase
+de suelo donde se quieran desarrollar, según las normas urbanísticas del PLSI “Los Palancares” (Ordenanza 1:
+Industrial) y, supletoriamente, el Plan general de ordenación urbana de Cuenca. El Ayuntamiento de Cuenca podrá
+incorporar los condicionantes adicionales que considere oportunos en el otorgamiento de la correspondiente licencia
+urbanística y de actividad, de conformidad con el informe técnico favorable de compatibilidad urbanística de su
+Gerencia Municipal de Urbanismo.
+La edificabilidad materializada por el proyecto no podrá exceder de la que resulte definitivamente atribuida a la
+parcela resultante R25.M5-IND.01 por el instrumento de reparcelación del PLSI. En el procedimiento de licencia
+urbanística deberá aportarse documentación técnica completa, legible y acotada, especialmente plano de
+implantación sobre parcela, al objeto de verificar definitivamente alineaciones, rasantes, retranqueos, ocupación,
+accesos, aparcamientos y resto de parámetros geométricos.
+En cuanto a la protección del patrimonio cultural, dada la proximidad del yacimiento arqueológico “El Tesoro” (código
+07160780039 del Inventario de Patrimonio Cultural de Castilla-La Mancha), se llevará a cabo control arqueológico
+y seguimiento de las obras. En caso de que aparecieran restos arqueológicos durante la ejecución del proyecto, se
+deberá actuar conforme a lo previsto en el artículo 44.1 de la Ley 16/1985, de Patrimonio Histórico Español, y en el
+artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha, que establecen el deber
+de comunicar a la Administración o a los Cuerpos de Seguridad del Estado cualquier hallazgo casual de elementos
+con valor cultural producido como consecuencia de los trabajos de ejecución.
+Por último, dada la implantación de la actuación en un polígono industrial previamente ordenado, la afección
+paisajística prevista es limitada. No obstante, se cuidará especialmente la integración visual del conjunto desde las
+vías de acceso y desde el Monumento Natural “Palancares y Tierra Muerta”, mediante el uso de colores y materiales
+de baja incidencia cromática, el mantenimiento de las plantaciones de apantallamiento previstas en el documento
+ambiental y la limitación de alturas y volúmenes construidos a los estrictamente necesarios para el desarrollo del
+proceso de I+D+i.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39949
+4.7.- Cese de la actividad.
+Una vez cesada la actividad, las emisiones atmosféricas, la emisión de ruido y la generación de vertidos cesarán
+inmediatamente. Una vez se desmantele la instalación, cesará el impacto sobre el paisaje, el suelo, etcétera., y tras un
+tiempo, todos los indicadores ambientales volverían poco a poco a su situación inicial. El tiempo necesario para poder
+conseguir las condiciones anteriores a la implantación de la planta variará dependiendo de cada uno de los impactos,
+y la aplicación de las medidas correctoras y las actuaciones de restauración facilitará la regeneración del medio.
+El documento ambiental deberá completarse con la descripción detallada de la fase de desmantelamiento, incluyendo
+valoración ambiental de impactos, medidas correctoras específicas y programa de vigilancia asociado a dicha fase,
+de conformidad con el requerimiento del Servicio Provincial de Medio Natural y Biodiversidad.
+Antes del inicio de la fase de desmantelamiento, se presentará ante la Dirección General de Economía Circular
+y Agenda 2030 y esta Dirección General de Calidad Ambiental un plan de cierre, clausura y desmantelamiento
+debidamente presupuestado.
+El desmontaje y la restauración deberán realizarse en el plazo máximo de un año tras la finalización de la actividad y
+deberán ponerse en conocimiento de las dos direcciones generales, para dar por finalizado el expediente. Asimismo, en
+caso de que la actividad sea traspasada, también se deberá poner en conocimiento de ambas Direcciones Generales.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del informe de impacto ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones, o
+de las medidas correctoras y compensatorias establecidas. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia. Cada informe deberá estar suscrito conjuntamente por el promotor
+y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentará ante el órgano ambiental entre
+el 1 de enero y el 31 de marzo del año siguiente al de la campaña de seguimiento efectuada.
+El programa de vigilancia ambiental y el listado de comprobación se harán públicos en la sede electrónica del órgano
+sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para
+verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas a cabo,
+podrán derivarse modificaciones de las actuaciones previstas, con el fin de lograr la consecución de los objetivos de
+la presente Resolución.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y notificar su nombramiento tanto al órgano
+sustantivo como al ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción, estando
+a disposición de los órganos de inspección y vigilancia.
+El programa de vigilancia ambiental se desarrollará durante toda la vida útil del proyecto. El seguimiento y la vigilancia
+incidirán especialmente en los siguientes puntos:
+- Control de la correcta gestión de todos los residuos que entran a la planta y de los que se generan a lo largo del
+proceso, incidiendo en el cumplimiento de los criterios de admisión de residuos en planta, en el control documental
+(contratos con gestores autorizados), y en que la gestión efectuada sobre los residuos se adecua a lo especificado
+en las autorizaciones otorgadas y en la presente Resolución, específicamente en lo referido a la gestión de residuos
+peligrosos.
+- Control de que los rechazos obtenidos en la planta se destinan a gestor autorizado y de la trazabilidad documental
+mediante códigos LER y cantidades mensuales.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39950
+- Control de la adecuada impermeabilización, pendiente y correcto drenaje de todas las zonas en las que se realice
+tratamiento de residuos, con especial vigilancia de la red separativa de pluviales y lixiviados, y de sus arquetas de
+control.
+- Control de que los niveles de ruido generados por la planta se mantienen dentro de los límites permitidos y no
+provocan afección significativa a la población ni a la avifauna de los espacios Red Natura 2000 próximos.
+- Revisión periódica de la maquinaria asociada a los procesos de las plantas piloto (electrolizadores, gasificadores,
+digestores anaerobios, reactores Fischer-Tropsch), así como del estado de la impermeabilización de soleras y de
+los sistemas de almacenamiento de gases combustibles.
+- Control de la ausencia de afecciones sobre la masa de agua subterránea y sobre los espacios Red Natura 2000
+próximos (microrreserva Complejo Lagunar del río Moscas, ZEC Ballesteros-río Moscas y ZEPA-ZEC Serranía de
+Cuenca).
+Sexto. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante la Dirección General de Calidad
+Ambiental:
+a) Con carácter previo al inicio de las obras:
+- Programa de vigilancia ambiental revisado, con duración extendida a toda la vida útil del proyecto, indicadores
+específicos y presupuesto.
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+b) En el primer trimestre de cada año, desde el inicio de la actividad y durante los 3 años de proyecto:
+- Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia ambiental, suscritos
+conjuntamente por el promotor y el responsable ambiental designado.
+c) Dentro de los dos primeros años desde el inicio de la actividad:
+- Informe preliminar de la situación de suelos de la instalación, conforme al anexo II del Real Decreto 9/2005, de 14
+de enero.
+d) Antes del cese de la actividad:
+- Plan de cierre, clausura y desmantelamiento debidamente presupuestado.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Dirección General de Calidad Ambiental, en virtud del Decreto
+112/2023, de 25 de julio, por el que se establece la estructura orgánica y las competencias de la Consejería de
+Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+resuelve que el proyecto “Planta de investigación, desarrollo e innovación del Centro Nacional del Hidrógeno
+Parque Científico y Tecnológico que combina biogás e hidrógeno verde con el objetivo de obtener productos de alto
+valor añadido” (expediente. S478/2025/DG/00061), no necesita someterse a una evaluación de impacto ambiental
+ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan las
+medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se desprenden del
+presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la Sede Electrónica de la
+Consejería de Desarrollo Sostenible (https://nevia.castillalamancha.es/), tal y como establece el artículo 54.3 de la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente informe de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+
+AÑO XLV Núm. 217 12 de noviembre de 2026 39951
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este informe de impacto ambiental.
+Toledo, 13 de octubre de 2026
+El Director General de Calidad Ambiental
+TOMÁS VILLARRUBIA LÁZARO
