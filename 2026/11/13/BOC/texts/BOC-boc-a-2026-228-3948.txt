@@ -1,0 +1,1572 @@
+Boletín Oficial de Canarias núm. 228 41265 Viernes 13 de noviembre de 2026
+III. Otras Resoluciones
+Consejería de Hacienda y Relaciones con la Unión Europea
+3948 Instituto Canario de Estadística.- Resolución de 3 de noviembre de 2026, del Director,
+por la que se aprueba la política de valoración de activos de datos.
+Vista la política de valoración de activos de datos elaborada por el Instituto Canario de
+Estadística.
+Visto el informe de la Comisión Ejecutiva del Instituto Canario de Estadística, de fecha
+28 de octubre de 2026.
+Visto el ámbito de aplicación del Decreto 89/2023, de 25 de mayo, de régimen de gobierno
+y análisis de datos del Sistema Estadístico de Canarias, establecido en su artículo 2.
+Considerando lo dispuesto en el artículo 12.c) del Decreto 89/2023, de 25 de mayo,
+de régimen de gobierno y análisis de datos del Sistema Estadístico de Canarias: “El tercer
+nivel lo constituyen los protocolos de federación aprobados por la Comisión Superior de
+Administración Pública de la Comunidad Autónoma de Canarias, y las políticas de activos
+de datos aprobadas por Resolución de la persona titular de la Dirección del Instituto Canario
+de Estadística, que deben ser comunicadas a la Comisión Ejecutiva”.
+Considerando que las políticas de activos de datos se definen en el artículo 14 del citado
+Decreto: ”Las políticas de activos de datos son un conjunto de principios amplios y de alto
+nivel que forman el marco rector en el que se gestionan los activos de datos”. Entre ellas,
+se encuentra la política de valoración de activos de datos.
+Considerando que el artículo 15 del Decreto 89/2023, de 25 de mayo, establece la
+aprobación de las políticas de activos: “Las políticas de activos de datos son aprobadas
+por Resolución de la persona titular de la Dirección del Instituto Canario de Estadística y
+comunicadas a la Comisión Ejecutiva”. Igualmente, establece el contenido mínimo de las
+políticas.
+En virtud de lo anteriormente expuesto, y al amparo de las facultades que me confieren
+el artículo 15 del Decreto 89/2023, de 25 de mayo, de régimen de gobierno y análisis
+de datos del Sistema Estadístico de Canarias, así como los artículos 13.2.b) y 13.2.a)
+del Reglamento de organización y funcionamiento del Instituto Canario de Estadística,
+aprobado por Decreto 11/2017, de 16 de enero,
+RESUELVO:
+Primero.- Aprobar la política de valoración de activos de datos, que figura como anexo.
+Segundo.- Publicar la presente política en el Boletín Oficial de Canarias.
+Las Palmas de Gran Canaria, a 3 de noviembre de 2026.- El Director, Sergio Fernando
+Alonso Rodríguez.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41266 Viernes 13 de noviembre de 2026
+ANEXO
+POLÍTICA DE VALORACIÓN DE ACTIVOS DE DATOS
+1. Preámbulo.
+De conformidad con el artículo 14, apartado g), del Decreto 89/2023, de 25 de mayo, de
+régimen de gobierno y análisis de datos del Sistema Estadístico de Canarias (en adelante, el
+“Decreto 89/2023”), el Sistema Estadístico de Canarias (en adelante, el “SEC”) debe contar
+con una política de valoración de activos de datos.
+De esta forma, en esta Política se establece el marco conceptual y metodológico que
+permitirá valorar los activos de datos gestionados por el SEC. La valoración de estos activos
+constituye una práctica clave para asegurar una gestión del dato eficiente, transparente y
+sostenible, reconociendo su condición de recurso estratégico al servicio del interés público
+y su valor económico como activos intangibles, a efectos de su adecuada identificación,
+gestión e inclusión en el Inventario General de Bienes y Derechos de los agentes del SEC.
+Dicha valoración se orienta exclusivamente al interés público, a la mejora de la toma de
+decisiones y a la rendición de cuentas, sin finalidad mercantil ni especulativa, y se concibe
+como un instrumento de gestión y planificación del SEC.
+Existen diversas metodologías para estimar el valor de los activos de datos, que pueden
+agruparse, de manera general, en tres grandes marcos:
+- Cálculo a partir del coste de producción: se trata de una aproximación principalmente
+ex ante, que se fundamenta en la presunción de que el valor de un activo guarda una
+relación directa con los costes incurridos a lo largo de las distintas fases que atraviesa
+durante el proceso de producción, concebido como una cadena de valor. Entre los costes a
+considerar se incluyen, entre otros, los asociados a la recolección u obtención de los datos,
+su diseño y tratamiento metodológico, el aseguramiento de la calidad, el almacenamiento,
+el procesamiento, la documentación, el mantenimiento y el gobierno del dato.
+- Cálculo basado en el mercado: se trata de una aproximación habitualmente ex post,
+que utiliza los flujos de ingresos generados por los datos para estimar su valor. En el caso
+del SEC, que ofrece datos públicos de manera gratuita o, en su caso, aplicando el coste
+marginal de producción, no podría hacerse un cálculo directo a partir de los ingresos, sino
+que habría que extrapolar los precios observables en los mercados de datos existentes.
+- Cálculo a partir del impacto: consiste en valorar los datos a partir de su potencialidad
+para alcanzar resultados específicos, como pueden ser la mejora en la toma de decisiones
+o la eficiencia operativa. Este cálculo puede hacerse ex ante, a partir de criterios que
+razonadamente permitan anticipar la potencialidad de los datos, o ex post, mediante un
+diseño de investigación que informe de la relación causa-efecto entre el uso de los datos y
+su contribución a metas estratégicas.
+Por otro lado, el SEC cuenta con ciertas características que deben ser tenidas en cuenta
+a efectos de definir una metodología de valoración adecuada:
+- Ofrece datos públicos y, siempre que es posible, de manera abierta.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41267 Viernes 13 de noviembre de 2026
+- Tiene la misión de proporcionar una mirada general, integral y completa sobre la
+realidad económica, social y ambiental de Canarias.
+- Difunde datos de no mercado, es decir, datos que tienen valor y utilidad para la
+economía y la sociedad, pero no precio.
+Así, estas características sugieren que una aproximación ex ante, basada en el cálculo
+a partir del coste de producción y ponderada con criterios que reflejen la capacidad de
+reutilización de los activos de datos y su potencial impacto, es la más adecuada.
+En consecuencia, a efectos de la presente Política, el valor de los activos de datos se
+define como el coste de producción de dichos activos, ajustado mediante criterios objetivos
+que reflejan su capacidad informativa y su potencial impacto en la sociedad, así como en
+el cumplimiento de los fines y objetivos del SEC. De esta forma, se define un marco de
+medición del valor patrimonial en sentido amplio y del valor público y de uso, orientado a
+la gestión, planificación y rendición de cuentas.
+2. Ámbito de aplicación.
+La presente Política será de aplicación a los activos de datos adquiridos, producidos,
+gestionados o mantenidos por las entidades que integran el SEC, en la medida que dichos
+activos contribuyan al desarrollo de la actividad estadística pública para fines de la
+Comunidad Autónoma de Canarias.
+En particular, será de aplicación a la actividad estadística pública realizada por las
+siguientes entidades y organismos que forman parte del SEC:
+- Sector público autonómico de la Comunidad Autónoma de Canarias.
+- Sector público local de la Comunidad Autónoma de Canarias.
+Quedan excluidos del ámbito de aplicación los datos de gestión administrativa interna
+que no formen parte de procesos o productos estadísticos, así como los datos de terceros
+sobre los cuales las entidades del SEC no ostenten un control efectivo ni derechos suficientes
+de uso estadístico, de gestión o de explotación, de conformidad con los principios aplicables
+a los activos intangibles del sector público.
+3. Glosario.
+Para facilitar la comprensión de esta Política, se ofrecen las siguientes definiciones:
+Actividad estadística pública. Conjunto de tareas constituidas por la recopilación u
+obtención, elaboración, ordenación, almacenamiento, difusión, publicación, análisis
+de datos, y otras de similar naturaleza, relativas a los aspectos demográficos, sociales,
+económicos, ambientales y territoriales para fines de la Comunidad Autónoma de Canarias.
+Activos de datos. Cualquier representación de datos que aporta valor a la actividad
+estadística, que deben ser protegidos como activos de información del Sistema Estadístico
+de Canarias en la lógica del Esquema Nacional de Seguridad.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41268 Viernes 13 de noviembre de 2026
+Activos intangibles. Activos identificables, de carácter no monetario y sin apariencia
+física, bajo el control de una entidad pública, capaces de generar beneficios económicos o
+potencial de servicio público.
+Activos semánticos. Modelos de datos, conceptos y codificaciones que permiten la
+interpretación de los activos de datos.
+Análisis masivo de datos. Estudio exhaustivo de los mismos mediante técnicas
+estadísticas con el objeto de describir u obtener conclusiones a cuestiones planteadas en
+los ámbitos de la demografía, la economía, la sociedad, el medio ambiente, o la gestión
+pública y que solo se pueden responder de manera adecuada a partir de datos pertinentes y
+detallados que permitan un análisis en profundidad.
+Control efectivo de un activo de datos. Capacidad de una entidad pública para decidir
+sobre el uso, gestión, conservación, modificación y baja de un activo de datos, conforme al
+marco jurídico aplicable, y de obtener de él los beneficios económicos futuros o el potencial
+de servicio público que genera.
+Costes directos. Son los costes atribuibles sin ambigüedad a un activo de datos concreto
+porque se han incurrido exclusivamente para producirlo, adquirirlo o mantenerlo.
+Costes imputados. Son costes indirectos que, si bien no se registran de forma
+individualizada para un activo de datos concreto, pueden asignarse a su producción o
+adquisición mediante criterios objetivos y documentados. A efectos de la activación contable
+de un activo de datos, los costes imputados solo podrán considerarse cuando exista una
+trazabilidad contable suficiente que permita vincularlos de forma objetiva y verificable con
+unidades de coste reales del agente del SEC. En ausencia de dicha trazabilidad, los costes
+imputados podrán emplearse para la contabilidad analítica y para el cálculo del valor de
+uso del activo de datos con fines de gestión, planificación y rendición de cuentas, así como
+para su valoración e incorporación al Inventario General de Bienes y Derechos del agente
+del SEC, pero no para su activación contable como activo intangible.
+Costes de producción del dato. Conjunto de costes directos o imputados incurridos a lo
+largo del ciclo de vida de un activo de datos.
+Datos. Representación digital de actos, hechos o información, así como su recopilación,
+incluso, como grabación sonora, visual o audiovisual.
+Datos administrativos o fuentes de datos administrativas. Datos o ficheros de datos
+cuya titularidad es de un órgano u organismo del sector público, incluye tanto los datos
+de registros administrativos como cualquier otro dato producto de la actividad de dicho
+órgano u organismo.
+Datos dinámicos. Datos en formato digital sujetos a actualizaciones frecuentes o en
+tiempo real.
+Datos estadísticos de alto valor. Datos cuya reutilización está asociada a considerables
+beneficios para la sociedad, el medio ambiente y la economía, en particular debido a su
+idoneidad para la creación de servicios de valor añadido, aplicaciones y puestos de trabajo
+nuevos, dignos y de calidad, y del número de beneficiarios potenciales de los servicios de
+valor añadido y aplicaciones basados en tales conjuntos de datos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41269 Viernes 13 de noviembre de 2026
+Datos integrados. Conjunto de datos que es el resultado de la selección coherente de
+registros y variables de diferentes fuentes previamente vinculadas. Los datos integrados son
+el producto de las estadísticas multifuentes o de los procedimientos de georreferenciación.
+Datos personales. Información sobre una persona física identificada o identificable (el
+interesado); se considerará persona física identificable toda persona cuya identidad pueda
+determinarse, directa o indirectamente, en particular mediante un identificador, como por
+ejemplo un nombre, un número de identificación, datos de localización, un identificador en
+línea o uno o varios elementos propios de la identidad física, fisiológica, genética, psíquica,
+económica, cultural o social de dicha persona [ex artículo 4, punto 1, del Reglamento (UE)
+2016/679].
+Datos no personales. Datos que no sean datos personales, tal como se definen en el
+artículo 4, punto 1, del Reglamento (UE) 2016/679.
+Datos sensibles (o categorías especiales de datos). Datos de personas físicas que revelen
+el origen étnico o racial, las opiniones políticas, las convicciones religiosas o filosóficas,
+o la afiliación sindical, y el tratamiento de datos genéticos, datos biométricos dirigidos
+a identificar de manera unívoca a una persona física, datos relativos a la salud o datos
+relativos a la vida sexual o la orientación sexual de una persona física. Igualmente, los
+datos personales relativos a condenas e infracciones penales.
+Determinantes del valor de uso. Conjunto de características técnicas, organizativas,
+jurídicas y estratégicas que influyen en el valor de uso, reutilización e impacto público de
+un activo de datos, y que permiten contextualizar y comparar su relevancia más allá de su
+coste de producción.
+Gestión de datos. Desarrollo, ejecución y supervisión de planes, políticas, programas y
+prácticas que permiten gestionar, controlar, proteger, reutilizar e incrementar el valor de los
+datos y activos de información a lo largo de su ciclo de vida.
+Gobierno del dato. Disciplina que se encarga de establecer un marco de referencia en todo lo
+relacionado con los datos de una organización: personas, procedimientos, tecnologías,
+accesibilidad, integridad y usabilidad. Es, en definitiva, el ejercicio de autoridad y control
+sobre la gestión de los activos de datos.
+Infraestructura de datos. Estructura virtual en red integrada por datos y servicios
+interoperables de información distribuidos en diferentes sistemas de información, accesible
+vía Internet con un mínimo de protocolos y especificaciones normalizadas que, además de
+los datos, sus descripciones mediante metadatos y los servicios interoperables, incluya las
+tecnologías de búsqueda y acceso a dichos datos; las normas para su producción, gestión y
+difusión; los acuerdos sobre su puesta en común, acceso y utilización entre sus productores
+y entre estos y los usuarios; y los mecanismos, procesos y procedimientos de coordinación
+y seguimiento.
+Interoperabilidad. Capacidad de los sistemas de información, y por ende de los
+procedimientos a los que dan soporte, de compartir datos y posibilitar de forma segura el
+intercambio de información entre ellos.
+Metadatos. Información que caracteriza a los datos, describe su contenido, calidad,
+condiciones, historia, disponibilidad y otras características. Datos recogidos sobre cualquier
+actividad de una persona física o jurídica a efectos de la prestación de un servicio de
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41270 Viernes 13 de noviembre de 2026
+intercambio de datos, como los relativos a la fecha, la hora y la geolocalización, la duración
+de la actividad o las conexiones que el usuario del servicio establezca con otras personas
+físicas o jurídicas.
+Necesidad de información estadística. Requerimiento de datos e información
+identificados por los usuarios -administraciones públicas, organismos internacionales,
+sector privado, investigadores o ciudadanía- que justifican y orientan la producción
+estadística. Constituyen el punto de partida del ciclo estadístico, ya que permiten determinar
+qué estadísticas producir, con qué nivel de detalle, periodicidad y calidad, asegurando su
+utilidad para la toma de decisiones, la investigación y el análisis social y económico.
+Necesidad de información estadística de alto valor. Aquellas que, una vez identificadas
+en el marco del proceso de planificación estadística, generan o justifican la producción de
+datos estadísticos de alto valor, al reunir un conjunto de características que combinan su
+relevancia estratégica con el impacto potencial de su reutilización.
+Personal estadístico. Es el personal al servicio de la Administración pública, cualquiera
+que sea la naturaleza jurídica de su vínculo y el grupo, subgrupo o categoría profesional al
+que pertenezca, que intervenga en la actividad estadística pública o tenga acceso a los datos
+de la misma. Asimismo, tendrán la condición de personal estadístico quienes intervengan
+en cualquiera de las fases del proceso estadístico o tengan acceso a datos estadísticos,
+en virtud de acuerdo, convenio o contrato, los cuales incorporarán un compromiso de
+confidencialidad.
+Reutilización. Uso, por parte de personas físicas o jurídicas, de los datos conservados
+por órganos u organismos del sector público con fines comerciales o no comerciales distintos
+del propósito inicial de la misión de servicio público para la que se hayan producido tales
+datos, excepto en el caso del intercambio de datos entre órganos u organismos del sector
+público con la única finalidad de cumplir su misión de servicio público.
+Seguridad de datos. Conjunto de medidas técnicas, organizativas y legales destinadas a
+garantizar la confidencialidad, integridad y disponibilidad de los datos, aspectos clave para
+su valoración.
+Tratamiento de datos. Operación o conjunto de operaciones realizadas sobre datos
+o conjuntos de datos, ya sea por procedimientos automatizados o no, como la recogida,
+registro, organización, estructuración, conservación, adaptación o modificación, extracción,
+consulta, utilización, comunicación por transmisión, difusión o cualquier otra forma de
+habilitación de acceso, cotejo o interconexión, limitación, supresión o destrucción.
+Utilidad. Grado de relevancia y aplicabilidad de los datos para el cumplimiento de los
+objetivos de una organización.
+Valoración. Proceso sistemático, documentado y replicable que permite determinar el
+valor económico, estratégico o funcional de los activos de datos, conforme a criterios y
+metodologías específicas.
+Valor público del dato. Capacidad de un activo de datos para generar beneficios
+económicos, sociales, institucionales, democráticos o de eficiencia administrativa, más allá
+de su posible valor económico directo.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41271 Viernes 13 de noviembre de 2026
+4. Principios.
+Metodología sólida.
+El gobierno de datos y el análisis masivo de datos debe desarrollarse, elaborarse y
+difundirse sobre una metodología sólida, que requiere herramientas, procedimientos y
+conocimientos adecuados.
+Este principio contribuye al valor de los activos de datos al asegurar que todas las
+actividades relacionadas con el gobierno y el análisis de datos se basen en fundamentos
+científicos y técnicos robustos.
+Así, una metodología sólida:
+- Garantiza que los datos sean recopilados, procesados y analizados de manera coherente
+y precisa, lo que mejora la calidad y la fiabilidad de los resultados.
+- Facilita la replicabilidad y la validación de los resultados, lo que incrementa la
+confianza en la información proporcionada y refuerza la credibilidad institucional.
+- Debe extenderse también al proceso de valoración de los activos de datos, de manera
+que los resultados se puedan incorporar, cuando proceda y conforme a la normativa
+aplicable, a la contabilidad pública.
+La aplicación de criterios técnicos y científicos asegura que los datos reflejan de manera
+exacta y coherente la realidad que se pretende medir, condición clave para la utilidad, la
+reutilización y el valor estratégico de los activos de datos.
+Publicidad y transparencia.
+En el ámbito del SEC se deberá garantizar la publicación, de forma periódica y actualizada,
+de información cuyo conocimiento sea relevante para garantizar la transparencia de su
+actividad.
+En línea con este principio:
+- La valoración de los activos de datos puede considerarse, en sí misma, un ejercicio
+de rendición de cuentas que permite visibilizar el aporte social y económico de los datos
+públicos y refuerza la confianza en la información pública.
+- Se deben establecer mecanismos claros y accesibles para facilitar la consulta pública
+de los criterios, métodos y resultados aplicados en el proceso de valoración de los activos
+de datos.
+Oportunidad y puntualidad.
+Los resultados estadísticos se publicarán a tiempo y de forma oportuna para cubrir las
+necesidades de la población usuaria. La puntualidad en la publicación de los datos permite
+que las decisiones se basen en información actual y relevante.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41272 Viernes 13 de noviembre de 2026
+En general, se puede afirmar que los datos son más valiosos cuanto más recientes
+son, sin olvidar el papel esencial de los datos históricos en los análisis longitudinales y
+seguimiento de tendencias. Además, la puntualidad en la publicación es un criterio de
+calidad en la prestación de cualquier servicio estadístico público.
+Así, la oportunidad y la puntualidad de los datos son factores clave en su valoración, ya
+que determinan su aplicabilidad inmediata, su potencial de reutilización y su contribución
+al valor de uso de la información gestionada por el SEC.
+Coherencia y comparabilidad.
+Los resultados estadísticos serán consistentes internamente a lo largo del tiempo
+y comparables entre áreas geográficas de Canarias. Es posible combinar y utilizar
+conjuntamente datos relacionados procedentes de diferentes fuentes de datos.
+Este principio aumenta el valor de los datos al asegurar que la información estadística
+sea fiable y útil tanto para análisis longitudinales como para análisis transversales.
+Por lo tanto, la coherencia y la comparabilidad son elementos que deben considerarse
+en la valoración de los activos de datos, ya que amplían su capacidad de integración,
+reutilización y explotación analítica, aumentando su utilidad y su impacto estratégico.
+Accesibilidad y claridad.
+Para que los datos aporten valor deben estar expresados de manera que una amplia
+gama de usuarios sea capaz de entenderlos y usarlos correctamente. Así, los resultados
+estadísticos se presentarán de forma clara y comprensible, se difundirán de forma adecuada
+y conveniente, su disponibilidad y acceso tendrá carácter imparcial e irán acompañados de
+metadatos y orientación de apoyo.
+Este principio incrementa el valor de los activos de datos al garantizar que la
+información estadística sea fácilmente entendible y accesible para todos los usuarios,
+independientemente de su nivel de conocimiento técnico.
+Por ello, la accesibilidad y la claridad deben considerarse criterios clave en la valoración
+de los activos de datos, ya que determinan en gran medida su potencial de comprensión,
+difusión y reutilización efectiva.
+Rentabilidad.
+Los costes deben ser proporcionales a la importancia de los resultados y beneficios
+buscados, los recursos deben ser bien utilizados y hay que reducir la carga de respuesta.
+En la medida de lo posible, la información buscada deberá poder extraerse fácilmente de
+documentos o fuentes disponibles.
+En el ámbito del sector público, la rentabilidad debe entenderse en términos de eficiencia
+en el uso de recursos y generación de valor público, y no exclusivamente como retorno
+financiero. Así, al mantener los costes proporcionales a los beneficios esperados, se garantiza
+que las actividades estadísticas sean sostenibles y justifiquen la inversión realizada.
+En este contexto, la valoración de los activos de datos basada en el coste de producción
+permite la identificación de procesos eficientes y orientados a la rentabilidad.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41273 Viernes 13 de noviembre de 2026
+Intercambio de datos seguro e interoperable.
+El intercambio de datos para fines estadísticos se realizará a través de medios
+electrónicos, permitiendo la interoperabilidad y seguridad de los sistemas y soluciones
+adoptadas por las partes que intercambian datos, garantizando la protección de los datos de
+carácter personal, y facilitando la prestación conjunta de servicios a la población usuaria.
+Por tanto, la interoperabilidad y la seguridad en el intercambio de datos son factores
+que inciden directamente en su valor de uso.
+Reutilización y libre circulación.
+Los datos para fines estadísticos deben gobernarse para facilitar su reutilización y libre
+circulación bajo los marcos jurídicos que regulan estos tratamientos.
+Este principio aumenta el valor de uso de los datos al promover su empleo eficiente
+y maximizar su potencial de impacto, dado que los datos adquieren mayor capacidad de
+reutilización cuanto más abiertas sean las condiciones establecidas en su licencia de uso.
+5. Marco normativo y ético de referencia.
+A continuación, se detalla el marco normativo y ético de referencia que resulta de
+aplicación a la presente Política.
+Normativa europea.
+- Estadística oficial.
+• Reglamento (UE) n.º 557/2013 de la Comisión, de 17 de junio de 2013, por el que se
+aplica el Reglamento (CE) n.º 223/2009 del Parlamento Europeo y del Consejo, relativo a la
+estadística europea, en lo que respecta al acceso a datos confidenciales con fines científicos,
+y por el que se deroga el Reglamento (CE) n.º 831/2002 de la Comisión.
+- Gobierno y reutilización de datos.
+• Reglamento (UE) 2018/1807 del Parlamento Europeo y del Consejo, de 14 de
+noviembre de 2018, relativo a un marco para la libre circulación de datos no personales en
+la Unión Europea.
+• Reglamento (UE) 2022/868 del Parlamento Europeo y del Consejo de 30 de mayo
+de 2022, relativo a la gobernanza europea de datos y por el que se modifica el Reglamento
+(UE) 2018/1724 (Reglamento de Gobernanza de Datos).
+• Reglamento de Ejecución (UE) 2023/138 de la Comisión, de 21 de diciembre de
+2022, por el que se establecen una lista de conjuntos de datos específicos de alto valor y
+modalidades de publicación y reutilización.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41274 Viernes 13 de noviembre de 2026
+• Reglamento (UE) 2023/2854 del Parlamento Europeo y del Consejo, de 13 de
+diciembre de 2023, sobre normas armonizadas para un acceso justo a los datos y su
+utilización, y por el que se modifican el Reglamento (UE) 2017/2394 y la Directiva (UE)
+2020/1828 (Reglamento de Datos).
+• Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo, de 20 de junio de
+2019, relativa a los datos abiertos y la reutilización de la información del sector público.
+- Protección de datos.
+• Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de
+2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de
+datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva
+95/46/CE (Reglamento General de Protección de Datos).
+• Reglamento (UE) 2018/1725 del Parlamento Europeo y del Consejo, de 23 de octubre
+de 2018, relativo a la protección de las personas físicas en lo que respecta al tratamiento
+de datos personales por las instituciones, órganos y organismos de la Unión, y a la libre
+circulación de esos datos, y por el que se derogan el Reglamento (CE) n.º 45/2001 y la
+Decisión n.º 1247/2002/CE (RGPD).
+• Directiva 96/9/CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996,
+sobre la protección jurídica de las bases de datos.
+- Contabilidad pública.
+• Reglamento (CE) n.º 1606/2002 del Parlamento Europeo y del Consejo, de 19 de julio
+de 2002, relativo a la aplicación de normas internacionales de contabilidad.
+• Reglamento (UE) 2023/1803 de la Comisión, de 13 de septiembre de 2023, por el que
+se adoptan determinadas normas internacionales de contabilidad de conformidad con el
+Reglamento (CE) n.º 1606/2002 del Parlamento Europeo y del Consejo (Texto pertinente
+a efectos del EEE).
+Normativa nacional.
+- Estadística oficial.
+• Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.
+- Reutilización de datos.
+• Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector
+público.
+- Protección de datos y seguridad.
+• Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía
+de los derechos digitales.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41275 Viernes 13 de noviembre de 2026
+• Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de
+Seguridad.
+• Real Decreto 389/2021, de 1 de junio, por el que se aprueba el Estatuto de la Agencia
+Española de Protección de Datos.
+- Contabilidad pública.
+• Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+• Orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan General de
+Contabilidad Pública.
+• Orden HAP/1489/2013, de 18 de julio, por la que se aprueban las normas para la
+formulación de cuentas anuales consolidadas en el ámbito del sector público.
+• Orden HAC/820/2021, de 9 de julio, por la que se modifican el Plan General de
+Contabilidad Pública, aprobado por Orden EHA/1037/2010, de 13 de abril y las normas
+para la formulación de Cuentas Anuales Consolidadas en el Ámbito del Sector Público,
+aprobadas por Orden HAP/1489/2013, de 18 de julio.
+Normativa autonómica.
+- Estadística oficial.
+• Ley 1/1991, de 28 de enero, de estadística de la Comunidad Autónoma de Canarias.
+- Gobierno y reutilización de datos.
+• Decreto 89/2023, de 25 de mayo, de régimen de gobierno y análisis de datos del
+Sistema Estadístico de Canarias.
+- Protección de datos.
+• Resolución de 29 de mayo de 2025, del Director, por la que se aprueba la política de
+protección de datos y cesión altruista de datos.
+- Contabilidad pública.
+• Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria.
+• Orden de 1 de junio de 2015, por la que se regula la rendición de cuentas por los entes
+con presupuesto estimativo y fondos carentes de personalidad jurídica del sector público
+autonómico.
+• Orden de 21 de diciembre de 2018, por la que se aprueba el Plan General de
+Contabilidad Pública de la Comunidad Autónoma de Canarias.
+• Orden de 22 de marzo de 2021, por la que se regula la rendición de cuentas por las
+entidades del sector público autonómico con presupuesto limitativo.
+• Orden de 22 de agosto de 2024, por la que se establece la estructura y el contenido de
+la Cuenta General de la Comunidad Autónoma de Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41276 Viernes 13 de noviembre de 2026
+Marco ético.
+- Principios fundamentales de las estadísticas oficiales (Naciones Unidas).
+- Ética en las estadísticas oficiales (Comisión Económica de las Naciones Unidas para
+Europa).
+- Código de buenas prácticas de las estadísticas europeas (Oficina de Estadística de la
+Unión Europea).
+- Declaración sobre ética profesional (Instituto Internacional de Estadística).
+6. Alineamiento con estándares.
+El SEC, en aplicación de la presente Política, deberá alinearse con los siguientes
+estándares, guías y buenas prácticas recomendadas en materia de valoración de activos de
+datos que puedan ser de aplicación dentro del ámbito de las administraciones públicas y las
+estadísticas oficiales.
+- Oficina de Estadística de la Unión Europea (Eurostat).
+Eurostat es el órgano estadístico oficial de la Unión Europea, encargado de producir y
+coordinar estadísticas comparables a nivel europeo, que sirven para apoyar la elaboración
+de políticas, la toma de decisiones y la información pública sobre la Unión. Actúa como
+autoridad coordinadora y garante de la calidad estadística y sus estándares y buenas
+prácticas son esenciales para gestionar los datos públicos como activos fiables y valiosos
+dentro de la Unión Europea. Entre sus principales instrumentos tenemos:
+• El Código de buenas prácticas de estadísticas europeas que proporciona un marco de
+referencia para asegurar la calidad de las estadísticas producidas por los sistemas estadísticos
+nacionales y europeos. Promueve 16 principios que abarcan el entorno institucional y los
+procesos y la producción estadística. Algunos de estos principios, como los de relevancia,
+precisión, accesibilidad, puntualidad y utilidad, son fundamentales para valorar los datos
+desde una perspectiva de impacto público, calidad técnica y valor de reutilización.
+• El marco de garantía de calidad (del inglés Quality Assurance Framework) que
+define los principios y directrices que garantizan la calidad de las estadísticas europeas,
+promoviendo buenas prácticas en todos los procesos estadísticos que abarcan desde la
+recopilación de los datos hasta la difusión de los resultados. En el contexto de la valoración
+de los activos de datos, la calidad es considerada un atributo esencial del valor del dato
+como activo, ya que condiciona directamente su fiabilidad, reutilización y aplicabilidad
+para la toma de decisiones.
+- Comisión Económica para Europa y División de Estadísticas de Naciones Unidas
+(UNECE y UNSD respectivamente, por sus denominaciones en inglés).
+La UNECE y la UNSD elaboran guías y manuales orientados a fortalecer la gobernanza,
+organización y sostenibilidad de los sistemas estadísticos nacionales. De entre ellos se
+destacan los siguientes:
+• El manual para la gestión y organización de los sistemas estadísticos nacionales (del
+inglés Handbook on Management and Organization of National Statistical Systems), que
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41277 Viernes 13 de noviembre de 2026
+proporciona directrices y buenas prácticas para la gestión y sostenibilidad de los sistemas
+estadísticos, abordando aspectos como la recopilación y difusión de datos, la integración
+de fuentes innovadoras y el uso de nuevas tecnologías. Este manual incorpora principios
+relevantes para la valoración de los activos de datos, tales como la gestión eficiente de los
+recursos estadísticos como capital intangible, la integración de nuevas fuentes de datos para
+ampliar su valor potencial y el énfasis en la calidad, relevancia, oportunidad y accesibilidad
+como criterios esenciales de evaluación. Asimismo, promueve un enfoque ético y basado
+en una gobernanza institucional sólida de la información.
+• El Sistema de Cuentas Nacionales de Naciones Unidas (SNA, por su denominación
+en inglés) reconoce la producción y acumulación de datos y bases de datos como salida de
+producción que puede ser clasificada como activo no financiero cuando cumple los criterios
+de activo, incluyendo vida útil y capacidad de generar beneficios económicos. En particular,
+la revisión de 2025 introduce recomendaciones para incluir datos explícitamente como
+activos, de manera comparable a otros productos de propiedad intelectual, proporcionando
+una base técnica para considerar los activos producidos susceptibles de valoración y
+medición en un marco contable internacional.
+• Las recomendaciones para promover, medir y comunicar el valor de las estadísticas
+oficiales (del inglés Recommendations for Promoting, Measuring and Communicating the
+Value of Official Statistics) de UNECE establecen cómo medir y comunicar el valor de
+las estadísticas oficiales. Propone tres enfoques complementarios: indicadores objetivos,
+como descargas, citas y uso de los datos; indicadores subjetivos, mediante encuestas de
+satisfacción de los usuarios; y la monetización del valor, utilizando métodos basados en
+coste, mercado e impacto. Estas recomendaciones enfatizan que el valor de las estadísticas
+oficiales deriva de su adherencia a los principios fundamentales de las estadísticas oficiales,
+que incluyen independencia, calidad y confidencialidad; de su contribución a la toma de
+decisiones basada en evidencia; de su papel en la rendición de cuentas democrática; y del
+efecto multiplicador que se genera mediante la reutilización de los datos.
+- Organización para la Cooperación y el Desarrollo Económico (OECD, por su
+denominación en inglés).
+La OECD ha desarrollado un marco conceptual para el análisis y medición de los datos
+como activos intangibles, recogido en el informe Measuring data as an asset Framework,
+methods and preliminary estimates.
+Este marco considera los datos como un factor de producción almacenable cuyo valor
+no se refleja plenamente en las estadísticas económicas y financieras tradicionales. La
+OCDE define los “datos organizados” como conjuntos de datos estructurados con potencial
+económico o institucional y propone distintos métodos de valoración, basados tanto en el
+coste como en los ingresos. El enfoque basado en costes contempla los gastos de adquisición,
+procesamiento, curación y mantenimiento de los datos, mientras que el enfoque basado en
+ingresos analiza los beneficios directos o indirectos que estos pueden generar.
+En el ámbito del sector público, la OCDE destaca que los activos de datos forman parte
+del capital intangible público y que su valoración no puede limitarse a criterios de ingresos,
+debiendo incorporar el coste invertido y su impacto institucional y social.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41278 Viernes 13 de noviembre de 2026
+- Federación Internacional de Contadores y Consejo de Normas Internacionales de
+Contabilidad del Sector Público (IFAC y IPSASB respectivamente, por sus denominaciones
+en inglés).
+Proporcionan guías, principios contables y directrices de buena gestión aplicables al
+sector público, orientadas al reconocimiento, medición y revelación de activos. En este
+marco, las Normas Internacionales de Contabilidad del Sector Público (NICSP), inspiradas
+en las Normas Internacionales de Contabilidad (NIC), constituyen una referencia técnica
+relevante para la valoración de activos intangibles en el ámbito público.
+En particular, la NIC 38 y la NICSP 31, sobre activos intangibles, definen estos activos
+como recursos identificables, no monetarios y sin sustancia física, que se encuentran bajo
+el control de la entidad y son capaces de generar beneficios económicos o potencial de
+servicio público. Estas normas establecen, como criterio general, que la valoración inicial
+de estos activos debe realizarse preferentemente mediante el coste histórico de producción
+o adquisición y contemplan la necesidad de establecer mecanismos de amortización y
+control de deterioro en función de la vida útil y la pérdida de valor o utilidad del activo.
+- Organización Internacional de Normalización (ISO, por su denominación en inglés).
+La Organización Internacional de Normalización ha desarrollado normas técnicas
+que establecen modelos y criterios para la gestión y evaluación de la calidad del dato,
+considerados elementos esenciales en la valoración de los activos de datos. En concreto:
+• La ISO 8000 define principios y requisitos para asegurar la calidad de los datos a lo
+largo de su ciclo de vida, abordando aspectos como exactitud, completitud, coherencia,
+actualidad y trazabilidad.
+• La ISO/IEC 25012 proporciona un modelo estructurado de calidad del dato, donde
+se distingue entre las características inherentes al dato y las dependientes del sistema,
+facilitando la identificación de atributos de calidad relevantes para la valoración de los
+activos de datos.
+• La ISO/IEC 25024:2015 establece un conjunto de medidas y métricas para evaluar las
+características de calidad de datos que se definen en la ISO/IEC 25012.
+Estas normas ofrecen un marco internacional de referencia para asegurar que los
+datos puedan considerarse activos fiables, reutilizables y útiles para la toma de decisiones
+institucionales.
+- Asociación Española de Normalización (UNE).
+En el ámbito nacional, la Asociación Española de Normalización proporciona
+referencias técnicas y estándares para su aplicación dentro del contexto español. Entre
+estas normas destacan:
+• UNE 0079, que define procedimientos y criterios para la gestión de la calidad de los
+datos.
+• UNE 0081, que proporciona directrices para medir y analizar las características de
+calidad de los datos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41279 Viernes 13 de noviembre de 2026
+Estas normas refuerzan la coherencia metodológica con los estándares internacionales
+y permiten su implementación práctica, asegurando que los datos sean evaluables y
+valorables como activos dentro del sector público.
+7. Roles y asignación de responsabilidades.
+Cada agente del SEC debe definir los roles, establecer las funciones y asignar las
+responsabilidades, en materia de valoración de activos de datos, de acuerdo con su
+estructura y organización, asegurando que todas las personas involucradas comprenden
+claramente sus responsabilidades en relación con esta Política.
+A continuación, se especifican los roles y responsabilidades del personal y colaboradores
+del ISTAC en relación con la valoración de activos de datos.
+Comisión Ejecutiva.
+De conformidad con el artículo 7.2 del Decreto 89/2023, de 25 de mayo, de régimen de
+gobierno y análisis de datos del Sistema Estadístico de Canarias, la Comisión Ejecutiva del
+Instituto Canario de Estadística es quien define la visión a largo plazo, supervisa el progreso,
+toma decisiones estratégicas y actúa como punto de referencia al más alto nivel para los
+asuntos relacionados con la gobernanza del dato para fines estadísticos y las políticas de
+datos dentro del ámbito del SEC.
+A efectos de esta Política, se destacan las siguientes funciones:
+- Supervisar y evaluar el gobierno de datos del SEC, así como informar previamente
+sobre esta Política.
+- Supervisar e impulsar su alineación con los objetivos estratégicos del SEC, garantizando
+la integración de la valoración de activos de datos en los instrumentos de planificación
+estadística.
+- Comunicar y promover el valor institucional y social de los activos de datos del SEC.
+Comité.
+De acuerdo con el artículo 7.3 del Decreto 89/2023, de 25 de mayo, el Comité actúa
+a nivel gerencial y asume el asesoramiento y asistencia a la Dirección en la definición de
+las políticas, instrucciones técnicas y estrategia de gestión de datos con fines estadísticos.
+En relación con esta Política, asume las siguientes funciones:
+- Proponer actualizaciones de la Política derivadas de su aplicación en el ámbito
+operativo.
+- Asesorar sobre las metodologías de cálculo y los criterios de ponderación del valor de
+los activos de datos.
+- Proponer recomendaciones que faciliten el desarrollo de instrucciones técnicas e
+interpretativas para garantizar una aplicación coherente de la Política.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41280 Viernes 13 de noviembre de 2026
+- Asesorar en la identificación de nuevos activos relevantes y formular recomendaciones
+sobre su priorización para la valoración.
+- Analizar los informes de valoración y proponer acciones de mejora continua.
+Unidad de Gestión de Datos.
+De conformidad con el artículo 7.4.a) del Decreto 89/2023, de 25 de mayo, de régimen
+de gobierno y análisis de datos del Sistema Estadístico de Canarias, la Unidad de Gestión
+de Datos se constituye como un equipo de área responsable de la coordinación del nivel
+operativo.
+A efectos de la presente Política, la Unidad de Gestión de Datos actúa a través de
+los distintos equipos de proyecto y grupos de trabajo adscritos a la misma, constituidos
+conforme a la normativa vigente y de acuerdo con la organización funcional del ISTAC.
+Así, cada equipo participará en la valoración de los activos de datos que se encuentren bajo
+su ámbito de competencia, de acuerdo con la metodología y criterios aprobados.
+La Unidad de Gestión de Datos, a través de los equipos y grupos de trabajo
+correspondientes, asumirá las siguientes funciones generales:
+- Coordinar y apoyar técnicamente la aplicación de la metodología de valoración
+aprobada.
+- Coordinar el mantenimiento y actualización del registro de activos de datos valorados
+del ISTAC.
+- Coordinar la recopilación, verificación y consolidación de la información necesaria
+para la valoración.
+- Velar por la trazabilidad de costes y la coherencia de los atributos aplicados en los
+procesos de valoración.
+- Coordinar con agentes internos y externos las actuaciones necesarias para favorecer
+una aplicación homogénea de la Política.
+- Coordinar el apoyo técnico de los procesos de valoración de los activos de datos
+respetando en todo momento la confidencialidad establecida por el secreto estadístico, así
+como la normativa aplicable en materia de protección de datos personales.
+- Coordinar la publicación periódica de la metodología de valoración, sus fórmulas y
+criterios de ponderación, así como de los resultados agregados y metadatos del proceso, en
+formatos abiertos y accesibles.
+Servicio de Secretaría General.
+El Servicio de Secretaría General del Instituto Canario de Estadística se establece en el
+Decreto 179/2024, de 21 de octubre, por el que se modifica la relación de puestos de trabajo
+del citado Instituto, en concordancia con la Orden de 23 de enero de 2002, por la que se
+desarrolla el Reglamento Orgánico del ISTAC.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41281 Viernes 13 de noviembre de 2026
+Entre las funciones del Servicio de Secretaría General caben destacar, para esta Política
+las siguientes:
+- Asesorar jurídicamente sobre el marco legal aplicable a la valoración de activos de
+datos.
+- Coordinar la inclusión de los activos de datos valorados en el Inventario General
+de Bienes y Derechos de la comunidad autónoma de Canarias y, cuando proceda, en la
+contabilidad pública como activos intangibles.
+- Apoyar la elaboración de instrucciones técnicas derivadas de esta Política que faciliten
+su aplicación.
+- Supervisar los aspectos presupuestarios y contractuales asociados a la producción de
+datos y su valoración.
+Delegado de Protección de Datos (DPD).
+El ISTAC ha designado a su Servicio de Secretaría General como Delegado de Protección
+de Datos (DPD).
+Las funciones principales del DPD (especificadas en el artículo 39 RGPD) son las
+siguientes:
+- Informar y asesorar al responsable (ISTAC) o al encargado del tratamiento y a los
+empleados que se ocupen del tratamiento, de las obligaciones en materia de protección de
+datos.
+- Supervisar el cumplimiento de la normativa aplicable en materia de protección de
+datos, y de las políticas del responsable del tratamiento (ISTAC) en dicha materia, incluida la
+asignación de responsabilidades, la concienciación y formación del personal que participa
+en operaciones de tratamiento, y las auditorías correspondientes.
+- Ofrecer el asesoramiento que se solicite acerca de la evaluación de impacto relativa a
+la protección de datos y supervisar su aplicación conforme al artículo 35 del RGPD.
+- Cooperar con la autoridad de control, actuando como punto de contacto de la autoridad
+de control para cuestiones relativas al tratamiento, incluida la consulta previa del artículo
+36 del RGPD, y realizar consultas, en su caso, sobre cualquier otro asunto.
+Responsable funcional-técnico.
+A efectos de la presente Política, el responsable funcional-técnico del activo de datos
+es la unidad administrativa del ISTAC que tiene asignadas las funciones de producción, gestión
+técnica y mantenimiento del activo dentro del marco del SEC. Así, ejerce responsabilidad
+operativa sobre la calidad, documentación y actualización del activo, sin perjuicio de que
+la titularidad jurídica y el control efectivo en sentido patrimonial correspondan al ISTAC,
+de conformidad con el Decreto 89/2023, de 25 de mayo, de régimen de gobierno y análisis
+de datos del Sistema Estadístico de Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41282 Viernes 13 de noviembre de 2026
+El responsable funcional-técnico, con carácter general, asume las siguientes funciones:
+- Actuar como interlocutor técnico y operativo en los procesos de valoración, gestión
+del ciclo de vida, control de accesos y documentación del valor del activo, de acuerdo con
+las directrices establecidas.
+- Garantizar la correcta generación, tratamiento y documentación del activo de datos.
+- Proporcionar información sobre costes de producción y colaborar en los procesos de
+valoración.
+- Aplicar los criterios de calidad y estándares técnicos aprobados, así como proponer
+mejoras.
+- Colaborar en la identificación de determinantes de valor de uso o cambios que puedan
+afectar al valor del activo de datos.
+- Informar sobre el uso y reutilización efectiva del activo de datos, así como proponer,
+de forma fundamentada, el archivo o baja de un activo de datos.
+8. Directrices de aplicación.
+Marco general de directrices.
+A continuación, se destacan las principales características en materia de valoración de
+activos de datos que los agentes del SEC deberán considerar.
+Este marco general proporciona los fundamentos conceptuales, económicos y
+organizativos necesarios para una valoración coherente, comparable y orientada al valor
+público de los activos de datos del SEC.
+- Características económicas de los activos de datos.
+Los datos gestionados por el SEC poseen propiedades propias de los activos intangibles
+no rivales y de no mercado, lo que requiere aplicar criterios de valoración específicos y no
+puramente financieros.
+• Bienes no rivales: los activos de datos pueden ser utilizados por múltiples personas de
+manera simultánea sin que se desgasten ni agoten, lo que permite infinidad de finalidades
+y beneficios a partir de los mismos activos. Además, el coste marginal de su reutilización
+es, en general, prácticamente nulo, incluso cuando aumenta el número de reutilizadores.
+• Bienes de no mercado: los datos que difunde el SEC son datos públicos que se
+comparten de manera abierta, sin coste para los reutilizadores. El valor económico que se
+les imputa no es, por lo tanto, equiparable a un precio de venta, sino asimilable al valor
+patrimonial de otros bienes públicos de no mercado, como pueden ser los bienes culturales,
+pudiendo expresarse en términos de coste, valor de uso o impacto institucional y social.
+Asimismo, es importante indicar que algunos datos se ofrecen en abierto, mientras
+que otros son excluibles por razones jurídicas. La principal limitación al acceso viene
+determinada por el cumplimiento del marco general de protección de los datos personales,
+de acuerdo con el RGPD, o por aplicación del marco específico de protección de datos
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41283 Viernes 13 de noviembre de 2026
+recogidos con fines estadísticos, también conocido como secreto estadístico. Estas
+limitaciones no eliminan el carácter de activo de los datos, sino que condicionan su gestión
+y su valor de uso.
+Los datos también generan externalidades. Por un lado, crean externalidades positivas
+al incrementar el conocimiento, la innovación o la toma de decisiones mediante la
+combinación de nuevos datos con otros ya existentes. Además, los datos estadísticos pueden
+generar efectos de red positivos: cuanto más se usan, más valor generan al retroalimentar
+mejoras metodológicas, identificar nuevos usos y fomentar ecosistemas de innovación
+basados en datos. Este efecto multiplicador debe considerarse especialmente en datos
+abiertos de alta reutilización. Por otro, pueden crear externalidades negativas cuando se
+utilizan de manera inadecuada o cuando no se tiene en cuenta la protección de derechos
+o la sostenibilidad medioambiental. En este sentido, hay que tener en cuenta que el
+procesamiento, almacenamiento y distribución de datos presenta costes medioambientales
+ocultos, asociados al consumo energético de los centros de datos y al impacto de la
+fabricación de infraestructuras tecnológicas.
+Desde una perspectiva temporal, tanto los datos actuales como los históricos tienen
+valor. De hecho, las series temporales originan valor al permitir análisis longitudinales
+con gran potencial explicativo, dando respuesta a preguntas relevantes e incrementando su
+valor estratégico.
+En términos económicos, la recogida y procesamiento de datos cuenta con un alto
+coste de entrada, que implica inversiones significativas en tecnología, digitalización de
+procesos y capacitación del personal estadístico, así como de cualquier otra persona física
+o jurídica que tenga acceso a los activos de datos. Una vez consolidado el proceso, los
+costes marginales de actualización o ampliación suelen reducirse significativamente. Esta
+necesidad de una inversión inicial actúa como una barrera de entrada para organizaciones
+pequeñas. Además, la estimación del valor de los datos del SEC también debe considerar
+el coste que implicaría la producción de estos datos para terceras partes (por ejemplo, otras
+administraciones o agentes privados) o de reproducibilidad por un agente del SEC.
+Desde una perspectiva de gestión pública, la valoración de los activos de datos debe
+permitir también identificar su coste de oportunidad, facilitando la comparación entre
+distintas iniciativas estadísticas y apoyando la priorización de aquellas que generan mayor
+valor público en relación con los recursos empleados.
+- Determinantes del valor del uso de los datos.
+La valoración de un activo de datos debe considerar no solo sus atributos económicos,
+sino también un conjunto de factores que condicionan su utilidad, aplicabilidad, reutilización
+y capacidad para generar beneficios sociales futuros, como el conocimiento, la innovación,
+la toma de decisiones basada en evidencias o la mejora de los servicios públicos.
+Dado el carácter de bien no rival y, en muchos casos, de bien de no mercado de los
+datos estadísticos oficiales, la valoración debe centrarse prioritariamente en su valor de uso
+y reutilización, considerando tanto sus propiedades informacionales como las condiciones
+que amplifican o limitan su aprovechamiento efectivo. Las dimensiones que, al menos,
+deben ser tenidas en cuenta son las siguientes:
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41284 Viernes 13 de noviembre de 2026
+• Relevancia y prioridad estratégica. El valor de un activo de datos depende de su
+capacidad para responder a necesidades de información estadística y de su alineación con
+prioridades institucionales, políticas públicas y demandas sociales. Así, se incluyen en esta
+dimensión:
+- Necesidades de información estadística, incluidas las de alto valor, identificadas en el
+marco del proceso de planificación estadística del SEC.
+- Temática, en función de su contribución a áreas de conocimiento estratégicas.
+- Prioridad estratégica, determinada por su alineación con políticas del Gobierno de
+Canarias, agendas europeas o internacionales u otros marcos de referencia.
+- Generalidad o transversalidad, entendida como su potencial de aplicación en múltiples
+contextos analíticos o sectores. A mayor generalidad, mayor potencial de reutilización.
+• Cobertura y granularidad. La cobertura de un activo de datos se refiere al grado
+en que este representa el universo de referencia al que se dirige, ya sea en términos de
+población, territorio, tiempo o fenómeno analizado. Esta dimensión condiciona la validez
+de los análisis, la capacidad de generalización de los resultados y la adecuación del dato
+para la toma de decisiones. Una mayor cobertura implica una representación más completa
+de la realidad, mientras que coberturas parciales pueden introducir sesgos o limitaciones
+analíticas que deben ser conocidos y gestionados. Así, se incluyen en esta dimensión:
+- Cobertura poblacional, entendida como el grado en que el activo incluye las unidades
+estadísticas que conforman el universo de estudio (personas, hogares, empresas u otras).
+Una mayor cobertura poblacional incrementa la representatividad y fiabilidad de los
+resultados.
+- Cobertura territorial, referida al ámbito geográfico cubierto por los datos (regional,
+insular, municipal u otras escalas), así como a la inclusión efectiva de todas las unidades
+territoriales relevantes.
+- Cobertura temporal, en función del periodo de tiempo que abarca el activo de datos
+(puntual, continuo, histórico o retrospectivo), lo que condiciona su utilidad para el análisis
+evolutivo, el seguimiento o la evaluación.
+- Cobertura temática, relativa al alcance del fenómeno analizado y al conjunto de
+variables consideradas, determinando el grado en que el activo permite una comprensión
+integral del objeto de estudio.
+- Cobertura de unidades estadísticas, en relación con los distintos tipos de unidades
+incluidas o excluidas (por ejemplo, empresas frente a autónomos, viviendas principales
+frente a secundarias), lo que puede afectar a la interpretación de los resultados.
+- Grado de exhaustividad respecto al universo de referencia, entendido como la
+proporción de unidades efectivamente observadas en relación con el total esperado, así
+como la identificación de posibles sesgos de exclusión.
+- Limitaciones y sesgos de cobertura, derivados de restricciones metodológicas,
+operativas o normativas que afectan a la inclusión de determinadas unidades o ámbitos, y
+que deben ser explícitamente documentados para un uso adecuado del dato.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41285 Viernes 13 de noviembre de 2026
+En conjunto, la cobertura determina el alcance real del activo de datos y su capacidad
+para representar de forma fiel el fenómeno de interés, constituyendo un elemento clave para
+evaluar su idoneidad en distintos contextos analíticos y de toma de decisiones.
+• Dimensionalidad. La dimensionalidad de un activo de datos determina el número
+y tipo de variables o ejes de análisis disponibles, así como su capacidad para estructurar
+la información en distintos niveles de desagregación y permitir su explotación analítica.
+Una adecuada definición de la dimensionalidad incrementa el valor del dato al ampliar las
+posibilidades de segmentación, cruce e interpretación, si bien también puede introducir
+complejidad técnica y riesgos de dispersión de la información. Así, se incluyen en esta
+dimensión:
+- Número de dimensiones analíticas, entendido como el conjunto de variables que
+permiten desagregar la información (por ejemplo, tiempo, territorio, sexo, edad, actividad
+económica u otras características relevantes). A mayor número de dimensiones, mayor
+potencial analítico.
+- Naturaleza de las dimensiones, en función de su significado sustantivo y su utilidad
+para el análisis estadístico (demográficas, económicas, territoriales, sociales, etc.), así como
+su alineación con estándares y clasificaciones oficiales.
+- Capacidad de cruce entre dimensiones, referida a la posibilidad efectiva de combinar
+variables entre sí para generar información significativa. La existencia de restricciones en
+los cruces reduce el valor analítico del activo.
+- Cardinalidad de las dimensiones, entendida como el número de valores o categorías
+que puede adoptar cada variable. Una mayor cardinalidad incrementa el nivel de detalle,
+pero también puede generar problemas de dispersión o complejidad en el análisis.
+- Equilibrio entre dimensionalidad y densidad de la información, considerando que un
+elevado número de dimensiones puede dar lugar a estructuras de datos altamente dispersas,
+reduciendo su explotabilidad efectiva.
+- Estabilidad estructural de las dimensiones, en función de la consistencia en el tiempo
+de las variables y sus categorías, lo que facilita la comparabilidad temporal y la reutilización
+del dato.
+- Interoperabilidad dimensional, entendida como la capacidad de las dimensiones para
+integrarse con otros activos de datos mediante el uso de clasificaciones, identificadores y
+estándares comunes, favoreciendo la construcción de sistemas analíticos integrados.
+En conjunto, la dimensionalidad configura el espacio analítico del activo de datos y
+condiciona tanto su potencial de explotación como la complejidad asociada a su gestión y
+uso.
+• Reproducibilidad y unicidad. La reproducibilidad de un activo de datos se refiere
+a la capacidad de reconstruir o regenerar la información a partir de las mismas fuentes
+y procesos. No obstante, desde la perspectiva del valor del dato, esta característica debe
+analizarse conjuntamente con su grado de unicidad o irrepetibilidad. Existen activos cuya
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41286 Viernes 13 de noviembre de 2026
+generación responde a observaciones únicas en el tiempo -como censos, operaciones
+estadísticas exhaustivas o determinados registros de eventos- que no pueden reproducirse
+ex post, lo que incrementa su valor estratégico al constituir evidencias singulares de una
+realidad en un momento determinado. Por el contrario, otros activos, especialmente los
+basados en fuentes administrativas o sistemas transaccionales, presentan un mayor grado
+de reproducibilidad técnica, al poder ser reconstruidos a partir de copias o reejecución de
+procesos, lo que reduce su carácter único aunque no necesariamente su utilidad. Así, se
+incluyen en esta dimensión:
+- Grado de reproducibilidad técnica, entendido como la posibilidad de regenerar el
+activo a partir de las mismas fuentes, datos de entrada y procesos.
+- Dependencia de observaciones irrepetibles, en relación con si el dato captura
+fenómenos únicos no reproducibles (por ejemplo, censos, encuestas en un momento
+concreto o eventos singulares).
+- Carácter único o irreemplazable del activo, que incrementa su valor en la medida en
+que no puede ser reconstruido ni sustituido por otras fuentes.
+- Persistencia de las fuentes de origen, considerando si los datos de partida se conservan
+y permiten la reconstrucción futura del activo.
+- Riesgo de pérdida de información, asociado a la imposibilidad de reproducir el activo
+en caso de pérdida, lo que refuerza la necesidad de su preservación.
+- Coste y viabilidad de reproducción, en términos de recursos necesarios para regenerar
+el activo, incluso cuando técnicamente sea posible.
+En conjunto, la reproducibilidad, entendida en relación con la unicidad del dato,
+permite distinguir entre activos replicables y activos irrepetibles, siendo estos últimos
+especialmente valiosos como fuente de información estratégica y memoria estadística.
+• Calidad del dato. El valor de un activo de datos depende de su capacidad para
+representar de forma fiel, coherente y adecuada el fenómeno que describe, así como de su
+idoneidad para los usos previstos. La calidad del dato condiciona directamente la fiabilidad
+de los análisis, la validez de las conclusiones y la confianza en la información, constituyendo
+un elemento esencial para su explotación efectiva. Una mayor calidad incrementa el valor
+del activo al reducir la incertidumbre y el riesgo asociado a su uso. Así, se incluyen en esta
+dimensión:
+- Exactitud, entendida como el grado de correspondencia entre los datos y la realidad
+que representan, minimizando errores de medición, registro o procesamiento.
+- Completitud, referida al grado en que los datos contienen todos los valores necesarios,
+sin omisiones relevantes en variables o registros clave.
+- Consistencia, en relación con la coherencia interna del dato y su compatibilidad con
+otros activos, evitando contradicciones entre variables, registros o fuentes.
+- Validez, entendida como el cumplimiento de reglas de negocio, formatos, dominios de
+valores y restricciones definidas para el dato.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41287 Viernes 13 de noviembre de 2026
+- Actualidad (timeliness), que refleja el grado de actualización del dato respecto al
+fenómeno observado, condicionando su utilidad en contextos operativos o analíticos.
+- Precisión, referida al nivel de detalle o refinamiento con el que se mide o representa
+la información, así como a la estabilidad de las mediciones.
+- Integridad, en relación con la ausencia de alteraciones indebidas o pérdidas de
+información a lo largo del ciclo de vida del dato.
+- Trazabilidad, que permite conocer el origen del dato y las transformaciones aplicadas,
+facilitando su comprensión y validación.
+- Comparabilidad, entendida como la posibilidad de contrastar el dato en el tiempo o
+entre diferentes ámbitos territoriales o poblacionales, gracias a la estabilidad metodológica.
+- Coherencia metodológica, en función del grado de alineación con definiciones,
+clasificaciones y estándares estadísticos reconocidos.
+En conjunto, la calidad del dato determina la confianza que puede depositarse en el
+activo y su idoneidad para sustentar análisis rigurosos y decisiones informadas, siendo un
+factor clave en la generación de valor en los sistemas de información estadística.
+• Metadatado y normalización semántica. El valor de un activo de datos depende en
+gran medida de la calidad, completitud y utilidad de los metadatos que lo describen, ya
+que estos permiten su correcta interpretación, localización, integración y reutilización.
+Los metadatos constituyen el contexto necesario para comprender el significado, origen,
+estructura y condiciones de uso del dato, reduciendo la ambigüedad y facilitando su
+explotación efectiva en distintos entornos analíticos. Así, se incluyen en esta dimensión:
+- Metadatos descriptivos, entendidos como la información que permite identificar y
+comprender el contenido del activo (título, descripción, temática, palabras clave u otros
+elementos de catalogación).
+- Metadatos estructurales, referidos a la definición de las variables, dimensiones,
+relaciones y formatos del dato, incluyendo esquemas, modelos de datos y estructuras de
+codificación.
+- Metadatos semánticos, que recogen el significado de las variables y sus valores, así
+como su alineación con clasificaciones, nomenclaturas y estándares estadísticos, facilitando
+la interoperabilidad.
+- Metadatos de calidad, que informan sobre aspectos como completitud, exactitud,
+consistencia, cobertura o limitaciones del dato, permitiendo evaluar su idoneidad para
+distintos usos.
+- Metadatos de proceso, relativos al origen de los datos, metodologías aplicadas,
+transformaciones realizadas y flujo de generación del activo (data lineage).
+- Metadatos de acceso y uso, que incluyen condiciones de acceso, licencias, restricciones
+legales, niveles de confidencialidad y políticas de reutilización.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41288 Viernes 13 de noviembre de 2026
+- Metadatos de actualización y vigencia, que informan sobre la frecuencia de
+actualización, fecha de publicación y periodo de validez del activo.
+- Grado de estandarización de los metadatos, en función de su alineación con modelos
+y estándares reconocidos, lo que favorece su integración en sistemas de información más
+amplios.
+- Grado de normalización semántica del activo, entendido como el nivel de alineación
+de las variables, dimensiones, códigos y conceptos del activo de datos con clasificaciones,
+nomenclaturas y estándares semánticos reconocidos. Una mayor normalización semántica
+facilita la interpretación homogénea del dato, reduce ambigüedades y favorece su
+interoperabilidad con otros sistemas y activos. Este aspecto incluye la utilización de
+vocabularios controlados, taxonomías, tesauros u ontologías, así como la adopción de
+estándares estadísticos (por ejemplo, clasificaciones oficiales o modelos como Statistical
+Data and Metadata eXchange, SDMX), permitiendo el cruce consistente de información
+y su integración en ecosistemas de datos más amplios. Asimismo, un alto grado de
+normalización semántica incrementa la reutilización del dato y mejora su comparabilidad
+en distintos contextos temporales, territoriales o sectoriales.
+En conjunto, los metadatos incrementan el valor del activo de datos al hacerlo
+comprensible, accesible e interoperable, constituyendo un elemento esencial para su
+correcta interpretación, uso y reutilización en contextos estadísticos y analíticos.
+• Estado de madurez (nivel de procesamiento y enriquecimiento). El valor de un
+activo de datos está estrechamente relacionado con su grado de transformación desde los
+datos de origen hasta formas más elaboradas, estructuradas e interpretables. El estado
+de madurez refleja el nivel de procesamiento, integración y enriquecimiento aplicado
+al dato, condicionando su facilidad de uso, su calidad analítica y su adecuación para la
+toma de decisiones. A medida que aumenta la madurez, el dato tiende a ser más utilizable
+directamente, aunque también puede implicar una mayor dependencia de supuestos
+metodológicos y transformaciones. Así, se incluyen en esta dimensión:
+- Nivel de procesamiento, entendido como el grado de transformación aplicado al
+dato, desde datos en bruto (raw data) hasta datos depurados, estructurados y listos para su
+explotación analítica.
+- Grado de depuración y validación, en función de los controles de calidad aplicados
+(detección de errores, tratamiento de valores atípicos, imputación de faltantes u otros), que
+incrementan la fiabilidad del activo.
+- Integración de fuentes, referida a la combinación de múltiples conjuntos de datos
+para generar una visión más completa del fenómeno, aumentando el valor informativo del
+activo.
+- Enriquecimiento del dato, mediante la incorporación de variables derivadas,
+indicadores, clasificaciones o información contextual adicional que amplía su capacidad
+analítica.
+- Estructuración y modelado, en relación con la organización del dato en modelos
+analíticos (cubos, modelos dimensionales, grafos u otros) que facilitan su explotación.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41289 Viernes 13 de noviembre de 2026
+- Nivel de agregación, que distingue entre microdatos, datos agregados e indicadores
+sintéticos, cada uno con distintos usos y niveles de interpretación.
+- Orientación al uso, entendida como el grado en que el activo ha sido preparado para
+casos de uso específicos (cuadros de mando, modelos predictivos, publicaciones estadísticas
+u otros).
+- Reutilización de transformaciones, en función de la existencia de procesos
+estandarizados y reutilizables que permiten generar productos derivados de forma
+consistente.
+En conjunto, el estado de madurez determina el grado en que un activo de datos ha
+evolucionado desde su forma original hasta convertirse en un recurso analítico listo para su
+uso, incrementando su valor al reducir el esfuerzo necesario para su explotación y ampliar
+sus posibilidades de aplicación.
+• Grado de apertura y reutilización. El valor de un activo de datos se incrementa en
+la medida en que puede ser accesible, compartido y reutilizado por distintos usuarios,
+sistemas y contextos, más allá de su propósito original. La apertura facilita la transparencia,
+la colaboración y la innovación, mientras que la reutilización amplía el impacto del dato al
+permitir su aplicación en múltiples casos de uso. Esta dimensión está condicionada tanto
+por factores normativos como técnicos y organizativos, que determinan las posibilidades
+reales de acceso y uso del activo. Así, se incluyen en esta dimensión:
+- Nivel de apertura, entendido como el grado en que el activo está disponible para su
+acceso público o restringido, desde datos completamente abiertos hasta datos de acceso
+limitado por razones legales, confidencialidad u otras restricciones.
+- Condiciones de uso y licenciamiento, referidas a las reglas que regulan la reutilización
+del dato (licencias abiertas, restricciones de uso, atribución, limitaciones comerciales u
+otras), que pueden facilitar o limitar su explotación.
+- Formato y estándares de publicación, en función de si los datos se ofrecen en formatos
+abiertos, estructurados e interoperables, que permitan su reutilización automatizada y su
+integración con otros sistemas.
+- Facilidad de acceso y descarga, incluyendo la disponibilidad de API (Application
+Programming Interfaces), servicios web, catálogos de datos u otros mecanismos que
+favorecen el acceso eficiente al activo.
+- Interoperabilidad para la reutilización, entendida como la capacidad del dato para
+combinarse con otros activos mediante el uso de estándares, identificadores comunes y
+modelos semánticos compartidos.
+- Documentación para la reutilización, en relación con la existencia de metadatos, guías
+de uso y descripciones claras que permitan a terceros comprender y utilizar correctamente
+el dato.
+- Frecuencia y diversidad de reutilización, entendida como el número y variedad de
+usos, usuarios o aplicaciones que emplean el activo, lo que refleja su utilidad real y su
+impacto.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41290 Viernes 13 de noviembre de 2026
+- Limitaciones a la apertura, derivadas de la protección de datos personales, el secreto
+estadístico u otras restricciones normativas que condicionan el grado de difusión y
+reutilización.
+En conjunto, el grado de apertura y reutilización determina la capacidad de un activo
+de datos para generar valor más allá de su ámbito original, favoreciendo su difusión, su
+aprovechamiento en distintos contextos y su contribución a la generación de conocimiento
+y valor público.
+Los determinantes descritos no actúan de manera aislada, sino que interactúan entre sí.
+En consecuencia, la valoración de los activos de datos debe adoptar un enfoque integral,
+ponderando de forma conjunta estos factores en función del contexto institucional y de los
+objetivos estratégicos del SEC.
+- Ciclo de vida y gestión del valor de los activos de datos.
+La valoración de activos de datos debe contemplar todo su ciclo de vida, desde su
+concepción hasta su eventual baja o archivo definitivo. Comprender este ciclo es esencial
+para gestionar adecuadamente el valor del activo en cada una de las fases, optimizando los
+beneficios derivados de su uso y controlando los costes asociados.
+En el caso de los activos de datos del SEC, se distinguen las siguientes fases esenciales:
+• Diseño y preparación: fase en la que se define la necesidad estadística, se diseña la
+operación y se establecen las bases metodológicas. En esta etapa se generan los primeros
+costes, principalmente asociados a la planificación, el diseño metodológico y la definición
+de estándares de calidad.
+• Captura y recopilación: momento en que se adquieren o generan los datos primarios,
+ya sea mediante encuestas, censos, explotación de registros administrativos u otras fuentes
+de información. Esta fase suele concentrar los costes más elevados del ciclo de vida, debido
+a los recursos humanos, tecnológicos y organizativos necesarios para la obtención de los
+datos.
+• Procesamiento y validación: los datos brutos se transforman, depuran, validan
+e integran con otras fuentes, aplicando rigurosos controles de calidad. En esta fase se
+añade un valor significativo al activo mediante tratamientos estadísticos, clasificaciones,
+codificaciones y verificaciones de consistencia.
+• Análisis estadístico: se realizan los análisis necesarios para la generación de resultados,
+indicadores y productos estadísticos, permitiendo extraer conocimiento y apoyar la toma
+de decisiones. El valor del activo aumenta al convertirse en información interpretable y
+relevante.
+• Difusión y publicación: periodo en que el activo genera mayor valor de uso, siendo
+accedido, consultado y reutilizado de forma regular. Los costes de mantenimiento son
+moderados pero continuos.
+• Evaluación: se analiza el desempeño del activo, su grado de uso, relevancia, calidad
+y adecuación a las necesidades de los usuarios. Esta evaluación permite identificar
+oportunidades de mejora, actualización o rediseño.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41291 Viernes 13 de noviembre de 2026
+• Archivo: el activo deja de actualizarse pero se conserva por su valor patrimonial,
+estadístico, histórico o científico. Los datos históricos pueden mantener, o incluso incrementar,
+su valor con el tiempo para la investigación y el análisis longitudinal.
+De forma complementaria, se pueden tener en cuenta fases complementarias como:
+• Madurez y estabilización: el activo alcanza su máximo potencial de valor. Las
+actualizaciones son predecibles y los procesos están optimizados. Los costes marginales de
+actualización son reducidos.
+• Declive y obsolescencia: el valor del activo comienza a disminuir por cambios
+metodológicos, aparición de fuentes alternativas superiores, pérdida de relevancia temática
+o reducción de la demanda.
+Por último, cuando el activo ha perdido completamente su utilidad, no tiene valor
+patrimonial y su conservación no se justifica, se procede a su eliminación controlada,
+conforme a la normativa vigente.
+- Responsabilidad y control de los activos de datos.
+La gestión y valoración de los activos de datos del SEC deberá basarse en la existencia
+de responsabilidades claramente definidas, garantizando que cada activo cuente con un
+responsable técnico-funcional que ejerza un control sobre el mismo, de conformidad con
+los principios aplicables a los activos intangibles del sector público.
+Esto resulta esencial para asegurar la correcta identificación, valoración, mantenimiento,
+actualización y, en su caso, baja de los activos de datos, así como para garantizar su adecuada
+integración en los sistemas de información, inventarios y registros patrimoniales.
+La definición clara de responsabilidades constituye un requisito estructural del sistema
+de gobernanza del dato, sin el cual la valoración carecería de efectos prácticos en la
+planificación, la gestión patrimonial y la rendición de cuentas.
+- Integración patrimonial, económico-financiera y de contabilidad analítica de los
+activos de datos.
+La valoración de activos de datos no es un ejercicio meramente teórico, sino que debe
+integrarse en los sistemas de información patrimonial y, cuando proceda, en los sistemas
+económico-financieros y de contabilidad analítica de la administración pública.
+• Reconocimiento patrimonial: de conformidad con el artículo 20.4 del Decreto 89/2023,
+de 25 de mayo, todos los activos de datos valorados deberán inventariarse como activos
+intangibles e incluirse en el Inventario General de Bienes y Derechos del agente del SEC,
+con independencia de que cumplan o no los criterios establecidos por la normativa contable
+para su activación en la contabilidad pública, con el fin de garantizar su identificación,
+trazabilidad y control institucional como recurso estratégico del SEC.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41292 Viernes 13 de noviembre de 2026
+• Activación contable: la incorporación de un activo de datos a la contabilidad pública
+como activo intangible solo se realizará cuando se cumplan los siguientes requisitos: (a) sea
+probable que los beneficios económicos futuros o el potencial de servicio público atribuibles
+al activo afluyan al agente del SEC; y (b) el activo pueda valorarse de forma fiable, lo que
+exige que su coste de producción se sustente en costes con trazabilidad contable adecuada.
+• Contabilidad analítica: la contabilidad analítica podrá servir de soporte para la
+determinación del coste de producción y, en su caso, para el cálculo del valor de uso de
+los activos de datos. La valoración obtenida tendrá finalidad de gestión, planificación
+y rendición de cuentas y no implicará, por sí misma, la activación contable del activo
+ni determinará automáticamente el valor por el que deba reconocerse en la contabilidad
+pública, quedando dichos efectos sujetos al cumplimiento de la normativa patrimonial y
+contable aplicable.
+Directrices específicas aplicables.
+- Directriz 0: los agentes del SEC deben integrar de forma sistemática y verificable la
+valoración de los activos de datos como parte de su sistema de gobierno y gestión de datos
+con fines estadísticos.
+- Directriz 1: la valoración de activos de datos será de aplicación obligatoria para los
+conjuntos de datos gestionados en la Infraestructura de Datos y Metadatos Estadísticos de
+Canarias (eDatos) y voluntaria para otros agentes del SEC.
+- Directriz 2: los activos semánticos y los productos y servicios de datos que se generen
+por parte de un agente del SEC, aun cuando constituyan activos identificables, reutilizables
+y bajo control efectivo del agente, se excluyen del alcance de esta Política. Su valoración
+podrá abordarse mediante políticas o procedimientos complementarios específicos.
+- Directriz 3: los datos para fines estadísticos generados, gestionados o difundidos por
+el SEC se consideran activos públicos de carácter intangible. Por lo tanto, deberá realizarse
+un cálculo sistemático, periódico y documentado de su valor como activos inmateriales del
+patrimonio público.
+- Directriz 4: cada activo de datos valorado debe tener asignada una unidad administrativa
+responsable claramente identificada, que actúe como responsable funcional-técnico del
+activo.
+- Directriz 5: el responsable del activo de datos deberá coordinarse con el servicio u
+órgano competente en materia de gestión patrimonial, contable y de inventario para llevar
+a cabo las actuaciones necesarias para su inscripción y mantenimiento en el Inventario
+General de Bienes y Derechos del agente del SEC, así como para determinar, en cada caso,
+si el activo cumple los criterios establecidos por la normativa contable aplicable para su
+activación como activo intangible, evitando su capitalización contable cuando dichos
+criterios no concurran.
+- Directriz 6: para cada conjunto de datos debe calcularse su coste total como suma de
+los costes directos o imputados.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41293 Viernes 13 de noviembre de 2026
+- Directriz 7: los determinantes del valor de uso mínimos a aplicar, para la ponderación
+del valor de los activos de datos, son: relevancia y prioridad estratégica, cobertura y
+granularidad, dimensionalidad, reproducibilidad y unicidad, calidad del dato, metadatado y
+normalización semántica, estado de madurez, y grado de apertura y reutilización. Se podrán
+aprobar determinantes del valor de uso adicionales específicos para ámbitos temáticos
+concretos, siempre que estén metodológicamente fundamentados.
+- Directriz 8: para cada conjunto de datos debe calcularse su valor de uso a partir de su
+coste total mediante la aplicación de una ponderación multidimensional que refleje el valor
+diferencial de los activos de datos según los determinantes del valor de uso. La ponderación
+se calculará mediante un modelo multiplicativo o aditivo, debidamente documentado y
+aprobado, evitando sobrevaloraciones que no estén suficientemente fundamentadas o que
+no reflejen un valor de uso real o potencial para el sector público.
+- Directriz 9: cada hilo computacional de eDatos debe contemplar el cálculo del
+incremento del valor de uso de los activos de datos resultantes del procesamiento, teniendo
+en consideración los costes de procesamiento y los determinantes de valor.
+- Directriz 10: cada conjunto de datos valorado deberá contar con documentación
+técnica asociada que describa su origen, estructura, metadatos, metodología de cálculo de
+valor y actualizaciones periódicas, con el fin de garantizar la trazabilidad, auditabilidad y
+replicabilidad del proceso de valoración.
+- Directriz 11: el proceso de valoración debe ser transparente, documentado, auditable y
+reproducible, permitiendo que otros agentes puedan replicar el proceso y obtener resultados
+consistentes.
+- Directriz 12: cada agente del SEC que aplique esta Política deberá publicar la
+metodología de valoración utilizada, incluyendo las fórmulas de cálculo y los criterios de
+ponderación empleados, así como difundir los resultados agregados de la valoración de
+sus activos de datos y documentar cualquier actualización o modificación metodológica
+realizada. Asimismo, deberá proporcionar acceso a los metadatos relativos al proceso de
+valoración, poniendo esta información a disposición en formatos abiertos y accesibles, con
+el fin de garantizar la transparencia y la rendición de cuentas efectiva.
+- Directriz 13: se realizarán evaluaciones anuales de la valoración de los activos de
+datos para asegurar su vigencia, relevancia y anticiparse a cambios en su aplicabilidad o
+demanda. Cada revalorización deberá documentar los cambios detectados y su impacto en
+el valor del activo.
+Cuadro resumen de directrices generales y específicas.
+Cada agente del SEC debe establecer los roles y responsabilidades sobre las directrices
+generales y específicas, de acuerdo con su estructura y organización, en relación con esta
+Política.
+A continuación, se especifican los roles y responsabilidades del ISTAC en relación con
+las directrices generales y específicas relacionadas con la valoración de los activos de datos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41294 Viernes 13 de noviembre de 2026
+Directriz general Directrices específicas Roles y responsabilidades
+relacionadas
+Comisión Ejecutiva: supervisar la alineación de la valoración con
+los objetivos estratégicos del SEC y promover el reconocimiento del
+valor institucional y social de los activos de datos públicos de
+Canarias.
+Comité: asesorar sobre la metodología de estimación del valor
+económico de los activos de datos y emitir recomendaciones sobre
+umbrales, clasificaciones o niveles de valoración, así como sobre la
+inclusión o exclusión de activos en el ámbito de aplicación de la
+Política.
+DPD: asesorar sobre el cumplimiento en relación con la política de
+Características
+protección de datos y cesión altruista de datos del SEC en el marco
+económicas de los Directriz 0, 1, 2 y 3
+del proceso de valoración.
+activos de datos
+Unidad de Gestión de Datos: coordinar y apoyar técnicamente la
+ejecución de los procesos de valoración conforme a los criterios
+aprobados, documentando el proceso y los resultados.
+Servicio de Secretaría General: asesorar jurídicamente sobre el
+marco legal aplicable a la valoración de activos de datos.
+Responsable funcional-técnico: proporcionar información sobre
+costes de producción, uso y características técnicas del activo de
+datos, aplicar las instrucciones aprobadas para su valoración y
+documentar los cambios metodológicos que puedan afectar a su
+valor o a su condición de activo sujeto a la Política.
+Comité: asesorar sobre los factores y criterios generales a
+considerar en la valoración de los activos de datos, analizar los
+resultados obtenidos y proponer mejoras metodológicas.
+DPD: supervisar el cumplimiento normativo en el tratamiento de
+datos personales y secreto estadístico en los procesos de
+valoración, especialmente cuando los activos de datos presenten
+restricciones de acceso o reutilización.
+Determinantes del
+Unidad de Gestión de Datos: coordinar la aplicación de los
+valor de uso de los Directrices 6, 7 y 8
+determinantes del valor de uso aprobados; apoyar el cálculo de las
+datos
+valoraciones; y realizar el seguimiento de las revisiones periódicas.
+Responsable funcional-técnico: proporcionar información sobre
+la aplicación de los determinantes del valor de uso de los datos a
+los activos bajo su responsabilidad e identificar cambios en sus
+características técnicas, organizativas o jurídicas que puedan afectar
+a su valoración.
+Comisión Ejecutiva: asegurar que la gestión del ciclo de vida de los
+activos de datos y su valoración periódica se integren en los
+instrumentos de planificación estadística del SEC.
+Unidad de Gestión de Datos: coordinar y realizar el seguimiento
+de la valoración de los activos de datos a lo largo de todas las fases
+de su ciclo de vida; velar por la trazabilidad, auditabilidad y
+Ciclo de vida y gestión replicabilidad del proceso; coordinar la publicación de la
+Directrices 9, 10, 11, 12 y
+del valor de los activos metodología y los resultados agregados de valoración en formatos
+13
+de datos abiertos y accesibles; y documentar los cambios de valor detectados
+en cada revalorización anual y su justificación.
+Responsable funcional-técnico: gestionar el activo de datos a lo
+largo de su ciclo de vida productivo, desde su generación y
+mantenimiento hasta su posible archivo o baja, informando sobre
+su estado, uso y evolución, proponiendo mejoras y alertando sobre
+situaciones de obsolescencia o pérdida de utilidad.
+DPD: Validar que el control efectivo y la custodia de los activos
+cumplen con el RGPD y el secreto estadístico.
+Unidad de Gestión de Datos: coordinar, en colaboración con los
+responsables funcional-técnicos de los activos de datos, la correcta
+identificación, clasificación, valoración inicial, mantenimiento,
+actualización y custodia del activo; proponer mejoras en su calidad
+y utilidad; asesorar sobre accesos y usos autorizados; apoyar la
+https://sede.gobiRerensopdoencasnaabriialisd.oardg /boc y documentación de los cambios significativos que afecten a su valor boc-a-2026-228-3948
+control de los activos Directriz 4 y formular propuestas de archivo o baja, cuando proceda.
+de datos Servicio de Secretaría General: coordinarse con la Unidad de
+Gestión de Datos para la inscripción, de los activos de datos, en el
+Inventario General de Bienes y Derechos de la comunidad
+autónoma de Canarias, así como su reconocimiento como activo
+intangible cuando proceda, la actualización periódica de su
+valoración y la tramitación de bajas o deterioros, manteniendo un
+registro de trazabilidad de responsables, titularidades y decisiones
+relevantes.
+
+Comité: asesorar sobre los factores y criterios generales a
+considerar en la valoración de los activos de datos, analizar los
+resultados obtenidos y proponer mejoras metodológicas.
+DPD: supervisar el cumplimiento normativo en el tratamiento de
+datos personales y secreto estadístico en los procesos de
+valoración, especialmente cuando los activos de datos presenten
+restricciones de acceso o reutilización.
+Determinantes del
+Unidad de Gestión de Datos: coordinar la aplicación de los
+valor de uso de los Directrices 6, 7 y 8
+determinantes del valor de uso aprobados; apoyar el cálculo de las
+datos
+valoraciones; y realizar el seguimiento de las revisiones periódicas.
+Responsable funcional-técnico: proporcionar información sobre
+la aplicación de los determinantes del valor de uso de los datos a
+los activos bajo su responsabilidad e identificar cambios en sus
+características técnicas, organizativas o jurídicas que puedan afectar
+a su valoración.
+Comisión Ejecutiva: asegurar que la gestión del ciclo de vida de los
+activos de datos y su valoración periódica se integren en los
+instrumentos de planificación estadística del SEC.
+Unidad de Gestión de Datos: coordinar y realizar el seguimiento
+de la valoración de los activos de datos a lo largo de todas las fases
+de su ciclo de vida; velar por la trazabilidad, auditabilidad y
+Boletín Oficial de Canarias núm. 228 41295 Viernes 13 de noviembre de 2026
+Ciclo de vida y gestión replicabilidad del proceso; coordinar la publicación de la
+Directrices 9, 10, 11, 12 y
+del valor de los activos metodología y los resultados agregados de valoración en formatos
+13
+de datos abiertos y accesibles; y documentar los cambios de valor detectados
+en cada revalorización anual y su justificación.
+Responsable funcional-técnico: gestionar el activo de datos a lo
+largo de su ciclo de vida productivo, desde su generación y
+mantenimiento hasta su posible archivo o baja, informando sobre
+Directriz general Directrices específicas sRuo leesst ayd roe, supsoon ys eavboilluidcaiódne, sp roponiendo mejoras y alertando sobre
+relacionadas situaciones de obsolescencia o pérdida de utilidad.
+DCoPmD:i sVióanlid Eajre cquutei veal: csounpterrovli seafre clati vaoli nye alac iócuns dtoed liaa vdaelo lroasc ióanct icvoons
+clousm opbljeenti vcoosn e eslt RraGtéPgDic yo es ld seelc SreEtCo y e psrtaodmísotviceor. el reconocimiento del
+Uvanloidr aidn sdtietu Gcieosntaiól ny dseo cDiaal todse: clooso radcintiavor,s e nd ec odlaabtoosr apciúóbnl iccoons ldoes
+responsables funcional-técnicos de los activos de datos, la correcta
+Canarias.
+identificación, clasificación, valoración inicial, mantenimiento,
+Comité: asesorar sobre la metodología de estimación del valor
+actualización y custodia del activo; proponer mejoras en su calidad
+económico de los activos de datos y emitir recomendaciones sobre
+y utilidad; asesorar sobre accesos y usos autorizados; apoyar la
+Responsabilidad y dumocburmaleens,t acclaiósinfi cdaec iloons ecsa mo bniioves lseisg ndiefi cvaatliovroasc qióune, aasfeí cctoemn oa ssoub vrael olar
+control de los activos Directriz 4 yin fcolurmsióunla ro p eroxcpluuessiótans ddee aacrctihvoivso eon b ealja á, mcubaintod od ep raopcleicdaac.i ón de la
+de datos SPeorlívtiiccaio. de Secretaría General: coordinarse con la Unidad de
+Gestión de Datos para la inscripción, de los activos de datos, en el
+DPD: asesorar sobre el cumplimiento en relación con la política de
+Características Inventario General de Bienes y Derechos de la comunidad
+protección de datos y cesión altruista de datos del SEC en el marco
+económicas de los Directriz 0, 1, 2 y 3 autónoma de Canarias, así como su reconocimiento como activo
+del proceso de valoración.
+activos de datos intangible cuando proceda, la actualización periódica de su
+vUanloidraacdió dne y G lae sttriaómni tdaec ióDna tdoes :b caojaosr doi ndaert ey raioprooysa, rm téacnnteicnaimenednote u lna
+reejegcisutcrioó nd ed ter alzoasb pilirdoacde sdoes rdeesp voanlosraabcleiósn, tictounlafroidrmadee as ylo dse ccrisitieornioess
+raeplreovbanadteoss., documentando el proceso y los resultados.
+SReersvpiocinos adbel eS ecfruentaciroían aGl-etnéecnraicl:o a: segseosrtaior njuarrí dictéacmneicnatme esnotber e elal
+producción y mantenimiento del activo de datos asignado; aplicar
+marco legal aplicable a la valoración de activos de datos.
+los criterios de calidad y estándares aprobados; proporcionar la
+Responsable funcional-técnico: proporcionar información sobre
+información necesaria para los procesos de valoración; documentar
+clooss tceasm dbeio psr omdeutcocdióonló, guicsoos ;y yc parraocptoenríesrti,c daes tfoécrmnicaa fsu nddeal macetinvtoa ddae,
+dmaetjoosr,a sa,p alirccahri vloa so binasjtar udcecl iaocnteivso ,a cpuraonbdaod apsr opcaerdaa .s u valoración y
+documentar los cambios metodológicos que puedan afectar a su
+Comisión Ejecutiva: garantizar que la valoración de los activos de
+valor o a su condición de activo sujeto a la Política.
+datos se integre de forma efectiva en los instrumentos de
+planificación estadística y en la gestión patrimonial del SEC.
+Comité: asesorar sobre los criterios metodológicos aplicables al
+reconocimiento patrimonial de los activos de datos valorados.
+DPD: asesorar sobre las implicaciones del marco de protección de
+datos y del secreto estadístico en el proceso de integración
+patrimonial de los activos de datos.
+Unidad de Gestión de Datos: coordinar y apoyar técnicamente las
+actuaciones necesarias para garantizar que los activos de datos
+Integración patrimonial valorados queden correctamente documentados para su
+Directriz 5
+de los activos de datos inscripción en el Inventario General de Bienes y Derechos.
+Servicio de Secretaría General: coordinar la inscripción y el
+mantenimiento de los activos de datos en el Inventario General de
+Bienes y Derechos del agente del SEC y, cuando proceda conforme
+a la normativa de contabilidad pública aplicable, gestionar su
+reconocimiento como activos intangibles en su contabilidad.
+Responsable funcional-técnico: proporcionar la información
+sobre costes de producción, características técnicas y uso del activo
+de datos necesaria para su correcta inscripción patrimonial y para
+el mantenimiento actualizado de su valoración en el Inventario
+General de Bienes y Derechos.
+9. Concienciación y formación.
+Los agentes del SEC implementarán un programa de concienciación y formación que
+contemplará la comunicación y difusión de la propia Política. Este programa tendrá carácter
+continuo y se revisará periódicamente, con el fin de adaptarse a los cambios metodológicos,
+normativos, técnicos u organizativos que afecten a la valoración de los activos de datos en
+el ámbito del SEC.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41296 Viernes 13 de noviembre de 2026
+Públicos objetivos y perfiles de formación.
+El programa de formación diferenciará, al menos, los siguientes perfiles de personas
+destinatarias, adaptando los contenidos y medios a cada uno de ellos.
+- Personal técnico: personas que intervienen en el proceso de valoración de los activos
+de datos. Requieren un conocimiento técnico profundo de la metodología, la normativa,
+las directrices y las herramientas que dan soporte a dicho proceso. Se puede tratar tanto de
+personal interno como de personal colaborador externo.
+- Personal responsable: personal que asume funciones de dirección, gestión o
+planificación. Debe conocer el valor de los activos de datos que gestiona y su impacto
+en la organización y la sociedad. Puede ocupar puestos de jefatura de sección, jefatura de
+servicios, direcciones de áreas, etc.
+- Instituciones públicas: organizaciones públicas con interés en conocer el patrimonio
+de activos de datos con finalidad estadística de Canarias, la metodología de valoración
+aplicada y sus implicaciones para la gestión pública y la sociedad.
+- Público externo: empresas, asociaciones, comunidad investigadora y ciudadanía en
+general, con el fin de difundir la metodología aplicada y los resultados agregados de la
+valoración, así como su impacto social y económico.
+Programa de formación.
+El programa de formación, con el objetivo de asegurar un conocimiento adecuado y
+homogéneo, incluirá como mínimo los siguientes elementos:
+- Formación de acogida para personas que se incorporen a funciones relacionadas con
+la valoración de activos de datos.
+- Formación continua vinculada a actualizaciones metodológicas, normativas, técnicas
+u organizativas que afecten a esta Política.
+- Materiales de referencia y concienciación (guías, documentación técnica, manuales,
+etc.).
+- Acciones formativas adaptadas a cada perfil.
+Programa de comunicación y sensibilización.
+Para promover una cultura de valoración de activos de datos con finalidad estadística,
+los agentes del SEC desarrollarán acciones de comunicación y sensibilización orientadas a:
+- Difundir la existencia y finalidad de la Política.
+- Explicar la metodología aplicada de forma transparente.
+- Dar a conocer los resultados agregados de la valoración.
+- Promover una cultura organizativa basada en la gestión responsable del valor de los
+activos de datos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41297 Viernes 13 de noviembre de 2026
+A continuación, se recoge una relación orientativa de canales y acciones por perfil:
+- Personal técnico: talleres internos y seminarios prácticos; guías técnicas; boletines
+informativos.
+- Personal responsable: sesiones informativas; infografías; vídeos cortos explicativos
+(píldoras).
+- Instituciones públicas: jornadas divulgativas y presentaciones institucionales;
+documentos resumen sobre metodología y resultados; publicación de informes en los
+portales institucionales y de transparencia.
+- Público externo: acciones informativas en canales digitales y redes sociales; artículos
+divulgativos en medios y portales institucionales; material audiovisual explicativo.
+Evaluación y seguimiento.
+Los agentes del SEC llevarán a cabo evaluaciones periódicas de su programa de
+formación y sensibilización con el fin de verificar su eficacia e identificar oportunidades de
+mejora. Para ello, se realizarán, al menos, las siguientes actuaciones:
+- Reuniones de seguimiento periódicas: encuentros regulares con las áreas implicadas
+para analizar el impacto del programa y recoger las aportaciones del personal.
+- Revisión y mejora continua: incorporación de las lecciones aprendidas y de las
+necesidades detectadas para actualizar los contenidos, los materiales y las metodologías
+formativas.
+Con estas acciones se busca consolidar una cultura organizativa orientada al
+reconocimiento y gestión del valor de los activos de datos de los agentes del SEC dentro de
+la comunidad autónoma de Canarias, en coherencia con los principios y compromisos del
+Sistema Estadístico de Canarias.
+10. Indicadores de seguimiento.
+Para garantizar que la Política se mantiene actualizada y está alineada, en todo
+momento, con los objetivos del SEC, cada agente debe establecer los procedimientos de
+seguimiento y revisión periódica que mejor se ajusten a su entidad u organismo, en función
+de su estructura y recursos.
+Con el fin de que todos los agentes del SEC estén alineados se definirán indicadores de
+seguimiento dentro de las siguientes categorías:
+- Implantación de la Política.
+- Cumplimiento de las directrices.
+- Concienciación y formación.
+- Medidas técnicas, administrativas y organizativas.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41298 Viernes 13 de noviembre de 2026
+11. Normativa y referencias bibliográficas.
+Normativa europea.
+- Estadística oficial.
+• Reglamento (UE) n.º 557/2013 de la Comisión, de 17 de junio de 2013, por el que se
+aplica el Reglamento (CE) n.º 223/2009 del Parlamento Europeo y del Consejo, relativo a la
+estadística europea, en lo que respecta al acceso a datos confidenciales con fines científicos,
+y por el que se deroga el Reglamento (CE) n.º 831/2002 de la Comisión.
+- Gobierno y reutilización de datos.
+• Reglamento (UE) 2018/1807 del Parlamento Europeo y del Consejo, de 14 de
+noviembre de 2018, relativo a un marco para la libre circulación de datos no personales en
+la Unión Europea.
+• Directiva (UE) 2019/1024 del Parlamento Europeo y del Consejo, de 20 de junio de
+2019, relativa a los datos abiertos y la reutilización de la información del sector público.
+• Reglamento (UE) 2022/868 del Parlamento Europeo y del Consejo, de 30 de mayo de
+2022, relativo a la gobernanza europea de datos y por el que se modifica el Reglamento (UE)
+2018/1724 (Reglamento de Gobernanza de Datos).
+• Reglamento de Ejecución (UE) 2023/138 de la Comisión, de 21 de diciembre de
+2022, por el que se establecen una lista de conjuntos de datos específicos de alto valor y
+modalidades de publicación y reutilización.
+• Reglamento (UE) 2023/2854 del Parlamento Europeo y del Consejo, de 13 de
+diciembre de 2023, sobre normas armonizadas para un acceso justo a los datos y su
+utilización, y por el que se modifican el Reglamento (UE) 2017/2394 y la Directiva (UE)
+2020/1828 (Reglamento de Datos).
+- Protección de datos personales.
+• Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de
+2016, relativo a la protección de las personas físicas en lo que respecta al tratamiento de
+datos personales y a la libre circulación de estos datos y por el que se deroga la Directiva
+95/46/CE (Reglamento General de Protección de Datos).
+• Reglamento (UE) 2018/1725 del Parlamento Europeo y del Consejo, de 23 de octubre
+de 2018, relativo a la protección de las personas físicas en lo que respecta al tratamiento
+de datos personales por las instituciones, órganos y organismos de la Unión, y a la libre
+circulación de esos datos, y por el que se derogan el Reglamento (CE) n.º 45/2001 y la
+Decisión n.º 1247/2002/CE (RGPD).
+• Directiva 96/9/CE del Parlamento Europeo y del Consejo, de 11 de marzo de 1996,
+sobre la protección jurídica de las bases de datos.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41299 Viernes 13 de noviembre de 2026
+- Contabilidad pública.
+• Reglamento (CE) n.º 1606/2002 del Parlamento Europeo y del Consejo, de 19 de julio
+de 2002, relativo a la aplicación de normas internacionales de contabilidad.
+• Reglamento (UE) 2023/1803 de la Comisión, de 13 de septiembre de 2023, por el que
+se adoptan determinadas normas internacionales de contabilidad de conformidad con el
+Reglamento (CE) n.º 1606/2002 del Parlamento Europeo y del Consejo (Texto pertinente
+a efectos del EEE).
+Normativa nacional.
+- Estadística oficial.
+• Ley 12/1989, de 9 de mayo, de la Función Estadística Pública.
+- Reutilización de datos.
+• Ley 37/2007, de 16 de noviembre, sobre reutilización de la información del sector
+público.
+- Protección de datos personales y seguridad.
+• Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía
+de los derechos digitales.
+• Real Decreto 311/2022, de 3 de mayo, por el que se regula el Esquema Nacional de
+Seguridad.
+• Real Decreto 389/2021, de 1 de junio, por el que se aprueba el Estatuto de la Agencia
+Española de Protección de Datos.
+- Contabilidad pública.
+• Ley 47/2003, de 26 de noviembre, General Presupuestaria.
+• Orden EHA/1037/2010, de 13 de abril, por la que se aprueba el Plan General de
+Contabilidad Pública.
+• Orden HAP/1489/2013, de 18 de julio, por la que se aprueban las normas para la
+formulación de cuentas anuales consolidadas en el ámbito del sector público.
+• Orden HAC/820/2021, de 9 de julio, por la que se modifican el Plan General de
+Contabilidad Pública, aprobado por Orden EHA/1037/2010, de 13 de abril y las normas
+para la formulación de Cuentas Anuales Consolidadas en el Ámbito del Sector Público,
+aprobadas por Orden HAP/1489/2013, de 18 de julio.
+Normativa autonómica.
+- Estadística oficial.
+• Ley 1/1991, de 28 de enero, de estadística de la Comunidad Autónoma de Canarias.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41300 Viernes 13 de noviembre de 2026
+- Gobierno y reutilización de datos.
+• Decreto 89/2023, de 25 de mayo, de régimen de gobierno y análisis de datos del
+Sistema Estadístico de Canarias.
+- Protección de datos personales.
+• Resolución de 29 de mayo de 2025, del Director, por la que se aprueba la política de
+protección de datos y cesión altruista de datos.
+- Contabilidad pública.
+• Ley 11/2006, de 11 de diciembre, de la Hacienda Pública Canaria.
+• Orden de 1 de junio de 2015, por la que se regula la rendición de cuentas por los entes
+con presupuesto estimativo y fondos carentes de personalidad jurídica del sector público
+autonómico.
+• Orden de 21 de diciembre de 2018, por la que se aprueba el Plan General de
+Contabilidad Pública de la Comunidad Autónoma de Canarias.
+• Orden de 22 de marzo de 2021, por la que se regula la rendición de cuentas por las
+entidades del sector público autonómico con presupuesto limitativo.
+• Orden de 22 de agosto de 2024, por la que se establece la estructura y el contenido de
+la Cuenta General de la Comunidad Autónoma de Canarias.
+Marco ético.
+- Principios fundamentales de las estadísticas oficiales (Naciones Unidas).
+- Ética en las estadísticas oficiales (Comisión Económica de las Naciones Unidas para
+Europa).
+- Código de buenas prácticas de las estadísticas europeas (Oficina de Estadística de la
+Unión Europea).
+- Declaración sobre ética profesional (Instituto Internacional de Estadística).
+Estándares, guías y buenas prácticas.
+- Oficina de Estadística de la Unión Europea (Eurostat).
+• Código de buenas prácticas de estadísticas europeas.
+• Marco de garantía de calidad.
+- Comisión Económica para Europa y División de Estadísticas de Naciones Unidas
+(UNECE y UNSD).
+• Manual para la gestión y organización de los sistemas estadísticos nacionales.
+• Sistema de Cuentas Nacionales de Naciones Unidas (SNA 2025).
+• Recomendaciones para promover, medir y comunicar el valor de las estadísticas
+oficiales.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
+
+Boletín Oficial de Canarias núm. 228 41301 Viernes 13 de noviembre de 2026
+- Organización para la Cooperación y el Desarrollo Económico (OECD).
+• Medir los datos como un activo: marco, métodos y estimaciones preliminares
+- Federación Internacional de Contadores y Consejo de Normas Internacionales de
+Contabilidad del Sector Público (IFAC y IPSASB).
+• Norma Internacional de Contabilidad n.º 38. Activos intangibles.
+• Norma Internacional de Contabilidad del Sector Público n.º 31. Activos intangibles.
+- Organización Internacional de Normalización (ISO).
+• ISO 8000.
+• ISO/IEC 25012.
+• ISO/IEC 25024:2015.
+- Asociación Española de Normalización (UNE).
+• UNE 0079.
+• UNE 0081.
+https://sede.gobiernodecanarias.org/boc boc-a-2026-228-3948
