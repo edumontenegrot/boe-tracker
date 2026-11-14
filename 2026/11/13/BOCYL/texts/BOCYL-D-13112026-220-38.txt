@@ -1,0 +1,212 @@
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 334
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+UNIVERSIDAD DE VALLADOLID
+RESOLUCIÓN de 10 de noviembre de 2026, del Rectorado de la Universidad
+de Valladolid, por la que se publica el Plan de Estudios de Graduado o Graduada en
+Ingeniería en Diseño Industrial y Desarrollo de Producto.
+De conformidad con lo dispuesto en el artículo 27 del Real Decreto 822/2021, de 28
+de septiembre, por el que se establece la organización de las enseñanzas universitarias
+y del procedimiento de aseguramiento de su calidad y una vez obtenida la verificación del
+Plan de Estudios por el Consejo de Universidades, previo el informe positivo de la Agencia
+para la Calidad del Sistema Universitario de Castilla y León, y acordado el carácter oficial
+del título por el Consejo de Ministros de 15 de septiembre de 2026 (publicado en el BOE
+de 22 de septiembre de 2026, por resolución de la Secretaría General de Universidades
+de 16 de septiembre de 2026), este Rectorado ha resuelto ordenar la publicación del Plan
+de Estudios de Graduado o Graduada en Ingeniería en Diseño Industrial y Desarrollo de
+Producto.
+Valladolid, 10 de noviembre de 2026.
+La Rectora,
+Fdo.: María Pilar Garcés García
+CV: BOCYL-D-13112026-220-38
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 335
+ANEXO
+Plan de estudios conducentes al título de Graduado o Graduada
+ANEXO
+en Ingeniería en Diseño Industrial y Desarrollo de Producto
+Plan de estudios conducentes al título de Graduado o Graduada en Ingeniería en Diseño
+Industrial y Desarrollo de Producto
+Código RUCT: 1500776. Rama de Conocimiento: Ingeniería y Arquitectura. Campo de
+Estudio:C óIndiggeo nRiUeCríTa: i1n5d00u7s7t6r.i aRl,a minag deen Cieorníoac immieenctáo:n Iincgae,n iienrgíae yn iAerqríuait eacututroa.m Cáamticpao ,d ien gEsetnudieior:í a de
+Ingeniería industrial, ingeniería mecánica, ingeniería automática, ingeniería de la organización
+la organización industrial e ingeniería de la navegación
+industrial e ingeniería de la navegación
+Real Decreto 822/2021
+Real Decreto 822/2021
+Distribución del plan de estudios en créditos ECTS por tipo de materia
+Tipo de materia: Créditos
+Formación básica (FB) 60
+Obligatorias (OB) 144
+Optativas (OP) 18
+Prácticas externas (PE) 6
+Trabajo fin de grado (TFG) 12
+Total 240
+Estructura del Plan de Estudios
+Asignatura
+Materia ECTS Carácter
+Física I 6 FB
+Física II 6 FB
+Expresión Gráfica en la Ingeniería 6 FB
+Transversal
+Fundamentos de Informática 6 FB
+Ingeniería
+Empresa 6 FB
+[FundTI]
+Matemáticas I 6 FB
+Matemáticas II 6 FB
+Estadística 6 FB
+Expresión Dibujo Artístico
+6 FB
+Artística Expresión Artística
+6 FB
+[FundExArt]
+Ciencia de Materiales 4,5 OB
+Ingeniería de Materiales 6 OB
+Diseño Asistido por Ordenador I 6 OB
+Diseño Asistido por Ordenador II 4,5 OB
+Dibujo Industrial 6 OB
+Sistemas Mecánicos I 4,5 OB
+Principios del
+Sistemas Mecánicos II 4,5 OB
+Ámbito
+Resistencia de Materiales 4,5 OB
+Industrial
+Tecnología Ambiental y de Procesos 6 OP
+[IndPrin]
+Termodinámica Técnica y Transmisión de Calor 6 OP
+Electrotecnia 6 OP
+Ingeniería Fluidomecánica 4,5 OP
+Fundamentos de Automática 4,5 OP
+Fundamentos de Electrónica 4,5 OP
+Fundamentos de Química 4,5 OP
+Procesos Industriales I 4,5 OB
+Procesos Industriales II 4,5 OB
+Oficina Técnica 6 OB
+Producción
+Taller de Diseño III 6 OB
+Industrial
+Dirección de Operaciones y Comercialización 6 OB
+[IndProd]
+Aspectos Legales 4,5 OP
+Fabricación Avanzada para el Diseño 4,5 OP
+Diseño de Moldes y Matrices 4,5 OP
+CV: BOCYL-D-13112026-220-38
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 336
+Asignatura
+Materia ECTS Carácter
+Metrología Industrial 4,5 OP
+Ingeniería y Sociedad 4,5 OP
+Diseño Básico y Creatividad 6 OB
+Fundamentos Diseño y Comunicación Visual 6 OB
+de Diseño Ingeniería Gráfica 6 OB
+Industrial Estética e Historia del Diseño I 4,5 OB
+[EspDis] Estética e Historia del Diseño II 4,5 OB
+Taller de Diseño I 6 OB
+Metodología del Diseño 6 OB
+Ingeniería del
+Ergonomía y Seguridad 6 OB
+Desarrollo de
+Generación de Modelos 6 OB
+Producto
+Envase y Embalaje 4,5 OB
+[EspDes]
+Taller de Diseño II 6 OB
+Informática Gráfica 4,5 OB
+Herramientas
+Diseño Mecánico 4,5 OB
+para el Diseño
+Técnicas de Presentación Multimedia 6 OB
+Industrial
+Representación Avanzada para el Diseño Industrial 4,5 OP
+[EspHer]
+Diseño de Instalaciones Efímeras 4,5 OP
+Prácticas Prácticas en Empresa
+6 PE
+Externas Ampliación de Prácticas en Empresa
+4,5 OP
+[FinGrPra]
+Trabajo Fin de Trabajo Fin de Grado
+Grado 12 TFG
+[FinGrTFG]
+Organización Temporal del Plan de Estudios
+Primer curso
+Asignatura ECTS Carácter Cuatrimestre
+Dibujo Artístico 6 FB Primero
+Matemáticas I 6 FB Primero
+Física I 6 FB Primero
+Expresión Gráfica en la Ingeniería 6 FB Primero
+Diseño Básico y Creatividad 6 OB Primero
+Expresión Artística 6 FB Segundo
+Matemáticas II 6 FB Segundo
+Física II 6 FB Segundo
+Ingeniería Gráfica 6 OB Segundo
+Diseño y Comunicación Visual 6 OB Segundo
+Segundo curso
+Asignatura ECTS Carácter Cuatrimestre
+Estadística 6 FB Primero
+Fundamentos de Informática 6 FB Primero
+Empresa 6 FB Primero
+Metodología del Diseño 6 OB Primero
+Diseño Asistido por Ordenador I 6 OB Primero
+Taller de Diseño I 6 OB Segundo
+Estética e Historia del Diseño I 4,5 OB Segundo
+Informática Gráfica 4,5 OB Segundo
+Dibujo Industrial 6 OB Segundo
+Diseño Asistido por Ordenador II 4,5 OB Segundo
+CV: BOCYL-D-13112026-220-38
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 337
+Ciencia de Materiales 4,5 OB Segundo
+Tercer curso
+Asignatura ECTS Carácter Cuatrimestre
+Generación de Modelos 6 OB Primero
+Ergonomía y Seguridad 6 OB Primero
+Estética e Historia del Diseño II 4,5 OB Primero
+Sistemas Mecánicos I 4,5 OB Primero
+Procesos Industriales I 4,5 OB Primero
+Resistencia de Materiales 4,5 OB Primero
+Taller de Diseño II 6 OB Segundo
+Envase y Embalaje 4,5 OB Segundo
+Diseño Mecánico 4,5 OB Segundo
+Sistemas Mecánicos II 4,5 OB Segundo
+Procesos Industriales II 4,5 OB Segundo
+Ingeniería de Materiales 6 OB Segundo
+Cuarto curso
+Asignatura ECTS Carácter Cuatrimestre
+Técnicas de Presentación Multimedia 6 OB Primero
+Dirección de Operaciones y Comercialización 6 OB Primero
+Oficina Técnica 6 OB Primero
+Taller de Diseño III 6 OB Primero
+Prácticas en Empresa 6 PE Primero
+Asignaturas optativas 18 OP Segundo
+Trabajo Fin de Grado 12 TFG Segundo
+Listado de asignaturas optativas
+Asignatura Carácter ECTS Cuatrimestre
+Tecnología Ambiental y de Procesos OP 6 Octavo
+Termodinámica Técnica y Transmisión de Calor OP 6 Octavo
+Electrotecnia OP 6 Octavo
+Ingeniería Fluidomecánica OP 4,5 Octavo
+Fundamentos de Automática OP 4,5 Octavo
+Fundamentos de Electrónica OP 4,5 Octavo
+Fundamentos de Química OP 4,5 Octavo
+Aspectos Legales OP 4,5 Octavo
+Fabricación Avanzada para el Diseño OP 4,5 Octavo
+Diseño de Moldes y Matrices OP 4,5 Octavo
+Metrología Industrial OP 4,5 Octavo
+Ingeniería y Sociedad OP 4,5 Octavo
+Representación Avanzada para el Diseño Industrial OP 4,5 Octavo
+Diseño de Instalaciones Efímeras OP 4,5 Octavo
+Ampliación de Prácticas en Empresa OP 4,5 Octavo
+Por razones de índole organizativa, la Universidad de Valladolid se reserva la posibilidad
+de variar la relación de asignaturas optativas, así como la de no ofertar alguna de las
+asignaturas optativas relacionadas.
+Para ampliar información acerca de este plan de estudios se puede acudir a la página
+Web de la Universidad de Valladolid: http://www.uva.es
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-13112026-220-38

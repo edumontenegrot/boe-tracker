@@ -1,0 +1,678 @@
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 192
+I. COMUNIDAD DE CASTILLA Y LEÓN
+D. OTRAS DISPOSICIONES
+CONSEJERÍA DE AGRICULTURA, GANADERÍA,
+MEDIO RURAL Y POLÍTICA AMBIENTAL
+Servicio Territorial de Medio Ambiente de Ávila
+RESOLUCIÓN de 5 de noviembre de 2026, de la Delegación Territorial de Ávila,
+por la que se dicta informe de impacto ambiental del proyecto de almacenamiento
+«BESS Los Jabalíes» de 1,00 MW e instalaciones de evacuación para hibridación
+de la planta «FV Los Jabalíes» conectada a red de distribución en la parcela 44 del
+polígono 1, en el término municipal de Barromán (Ávila), promovido por «Jabalíes
+Renovables, S.L.». Expte.: E.I.A.S/2026/AV/003.
+El titular de la Delegación Territorial de la Junta de Castilla y León en Ávila, en relación
+con lo establecido en el artículo 11.2 de la Ley 21/2013, de 9 de diciembre, de evaluación
+ambiental y en virtud de las atribuciones conferidas por el artículo 52.2 del texto refundido
+de la Ley de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo
+1/2015, de 12 de noviembre, es el órgano competente para dictar informe de impacto
+ambiental.
+El artículo 7.2.a) de la Ley 21/2013 de 9 de diciembre, de Evaluación Ambiental,
+establece que serán objeto de una evaluación de impacto ambiental simplificada los
+proyectos comprendidos en su Anexo II.
+En este caso el proyecto está incluido en el Grupo 4. Industria energética. n)
+Almacenamiento energético stand-alone a través de baterías electroquímicas o con
+cualquier tecnología de carácter hibridado con instalaciones de energía eléctrica.
+Conforme establece el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental el órgano ambiental formulará el informe de impacto ambiental,
+que podrá determinar de forma motivada, de acuerdo con los criterios del anexo III, si
+dicho proyecto debe someterse a una evaluación de impacto ambiental ordinaria o, por
+el contrario, no tiene efectos adversos significativos sobre el medio ambiente, en los
+términos establecidos en el correspondiente informe de impacto ambiental.
+Considerando adecuadamente tramitado el expediente, vista la propuesta de la
+Comisión Territorial de Medio Ambiente y Urbanismo de Ávila, las observaciones y la
+documentación presentada,
+RESUELVO
+Dictar el Informe de Impacto Ambiental del proyecto de ejecución «Instalación
+de almacenamiento «BESS Los Jabalies» de 1,00 MW e instalaciones de evacuación
+para hibridación de la planta «FV Los Jabalies» conectada a red de distribución», en la
+parcela 44 del polígono 1 del término municipal de Barromán, promovido por Jabalíes
+Renovables S.L., que figura como anexo a esta Resolución (Expte E.I.A.S/2026/AV/003).
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 193
+En cumplimiento de lo dispuesto en el artículo 47.3 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, y en el artículo 59 del texto refundido de la Ley
+de Prevención Ambiental de Castilla y León, aprobado por Decreto Legislativo 1/2015,
+de 12 de noviembre, este Informe de Impacto Ambiental se notificará al promotor y al
+órgano sustantivo y se publicará en el Boletín Oficial de Castilla y León para general
+conocimiento, comunicándoselo a los interesados y al Ayuntamiento en cuyo término
+municipal se ubique el proyecto.
+Ávila, 5 de noviembre de 2026.
+El Delegado Territorial,
+Fdo.: José Francisco Hernández Herrero
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 194
+ANEXO
+INFORME DE IMPACTO AMBIENTAL DEL PROYECTO DE INSTALACIÓN DE
+ALMACENAMIENTO «BESS Los Jabalies» DE 1,00 MW E INSTALACIONES DE
+EVACUACIÓN PARA HIBRIDACIÓN DE LA PLANTA «FV Los Jabalies» CONECTADA
+A RED DE DISTRIBUCIÓN EN LA PARCELA 44 DEL POLÍGONO 1, EN EL TÉRMINO
+MUNICIPAL DE BARROMÁN, PROMOVIDO POR JABALÍES RENOVABLES, S.L.
+(EXPTE E.I.A.S/2026/AV/003).
+1. OBJETO Y DESCRIPCIÓN DEL PROYECTO.
+El objeto del citado proyecto es la construcción de una instalación de almacenamiento
+de energía eléctrica BESS (Battery Energy Storage System) de 1,00 MW de potencia
+instalada para hibridación de la planta fotovoltaica «FV Los Jabalies», en la parcela 44
+del polígono 1 del término municipal de Barromán, con una extensión aproximada de
+0,014 hectáreas y la línea de evacuación de 0,8 kV de una longitud aproximada de 6 m
+de zanja y 11 m de conductor.
+La instalación de almacenamiento proyectada estará compuesta por módulos de
+baterías y tendrá una potencia instalada de 1,00 MW. La instalación fotovoltaica existente
+«FV Los Jabalies» tiene una potencia instalada de 1,408 MW. Por lo tanto, la instalación
+hibridada (FV + BESS) tendrá una potencia instalada total de 2,408 MW, manteniendo la
+capacidad de acceso a red en 1 MW, sin variar la capacidad ya concedida. Se concede
+una capacidad de demanda de 1 MW.
+Los sistemas de baterías a utilizar en el presente proyecto son del fabricante HUAWEI
+modelo LUNA2000-4472-2S. Este modelo es un contenedor de 20 pies, compuesto a su
+vez por módulos de baterías, agrupados en racks. Realizan salida en corriente continua
+a 1331,2 V.
+Los contenedores realizan conexión en corriente continua con los inversores del
+fabricante HUAWEI, modelo LUNA2000-200KTL con una potencia unitaria de 200 kW.
+Realizan la conversión de corriente continua a corriente alterna de los contenedores de
+baterías.
+Cada uno de los inversores realizará la conversión de continua a alterna (800 Vac).
+Cada inversor dispondrá de una potencia activa nominal de 200 kW a 40 ºC. Habrá un
+total de 5 inversores, sumado así un total de potencia instalada de 1.000 kW.
+2. DOCUMENTO AMBIENTAL.
+En el Documento Ambiental del proyecto se analiza el ámbito territorial en que éste
+se llevará a cabo.
+Se presentan cuatro alternativas:
+• Alternativa 0
+La alternativa 0 plantea la no realización del proyecto, por lo que implicaría la no
+afectación a los elementos del medio.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 195
+Por otro lado, también implicaría la pérdida de los beneficios que este tipo de
+instalaciones otorgan, relacionadas con el almacenamiento de energía procedente de la
+red eléctrica durante periodos de excedentes de producción para después, devolverla a
+la red en momentos de necesidad, respaldando así la distribución y transporte de energía
+en periodos de demanda punta y dando soporte a la red eléctrica, contribuyendo así a la
+estabilización del sistema eléctrico.
+Para las alternativas 1 y 2 se estudian diferentes ubicaciones, valorando las
+afecciones en lo referente a suelo u geomorfología, fauna, vegetación, hidrología,
+espacios protegidos y Red Natura 2000, paisaje, patrimonio cultura y vías pecuarias,
+planeamiento urbanístico y aspecto socioeconómico.
+A la vista de las posibles afecciones sobre los apartados reseñados, la alternativa
+elegida es la 2.
+Los principales argumentos técnicos y ambientales que justifican la elección de esta
+alternativa para la implantación del proyecto son los siguientes:
+• Menor afección al suelo al implantarse el sistema de almacenamiento en una
+parcela ya antropizada por la implantación de la planta fotovoltaica, producir
+menor ocupación de superficie al situarse en el interior del vallado perimetral de
+la PSFV y requerir de menor apertura de zanjas al contar con menor longitud de
+línea de MT subterránea.
+• Menor afección a la fauna al no requerir de vallado perimetral exclusivo para el
+sistema de almacenamiento al situarse en el interior del vallado perimetral de
+la PSFV, mientras que la alternativa 1 sí que requiere de nuevo vallado, lo que
+aumentaría el riesgo de colisión con dicho vallado.
+• Debido a lo anterior y la proximidad de la ZEPA «Tierra de Campiñas», los
+impactos indirectos generados por la alternativa serán menores sobre las
+especies de fauna de dicha zona de protección.
+• Menor afección al paisaje al situarse en el conjunto de la PSFV, mientras que en
+la alternativa 1 se dispondrá de un nuevo elemento disruptor del paisaje.
+Así mismo se hace un diagnóstico territorial y del medio afectado por el proyecto,
+se describen los impactos potenciales en el medio y se establecen una serie de medidas
+preventivas y correctoras para minimizar el impacto sobre el medio ambiente.
+3. TRAMITACIÓN DEL EXPEDIENTE.
+Con fecha 4 de marzo de 2026, tiene entrada en el Servicio Territorial de Medio
+Ambiente de Ávila, procedente del órgano sustantivo, en este caso el Servicio Territorial
+de Industria, Comercio y Economía, la solicitud de inicio del procedimiento de evaluación
+de impacto ambiental simplificada, junto con el proyecto y el documento ambiental.
+De acuerdo con lo establecido en el artículo 46 de la Ley 21/2013, de 9 de
+diciembre, de evaluación ambiental, se procede a la apertura del trámite de consultas a
+las administraciones afectadas y a las personas interesadas, solicitando informes a los
+siguientes órganos:
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 196
+• Ayuntamiento de Barromán.
+• Secretaria Territorial, Sección de Protección Ciudadana, que emite informe.
+• Servicio Territorial de Cultura, Turismo y Deporte, que emite informe.
+• Servicio Territorial de Movilidad y Transformación Digital, que emite informe.
+• Servicio Territorial de Industria, Comercio y Economía.
+• Servicio Territorial de Medio Ambiente.
+• Dirección General de Patrimonio Natural y Política Forestal, que emite informe.
+• Confederación Hidrográfica del Duero, que emite informe.
+• Ecologistas en Acción de Castilla y León.
+Afección a Red Natura 2000 y otros valores naturales.– El Informe de la Dirección
+General de Patrimonio Natura y Política Forestal indica que una vez analizadas y
+valoradas las actuaciones, se considera realizada la evaluación requerida por el artículo
+2 del Decreto 6/2011, de 10 de febrero, por el que se establece el procedimiento de
+evaluación de las repercusiones sobre la Red Natura 2000 de aquellos planes, programas
+o proyectos desarrollados en el ámbito territorial de la Comunidad de Castilla y León,
+concluyéndose que las actuaciones proyectadas, ya sea individualmente o en combinación
+con otros proyectos, no causarán perjuicio a la integridad de dicho espacio protegido Red
+Natura 2000, siempre que se cumplan las medidas ambientales recogidas al final del
+presente informe.
+Estas conclusiones, junto con las medidas ambientales establecidas, constituyen el
+informe de evaluación de las repercusiones sobre Red Natura 2000 (IRNA) tal y como se
+define en el artículo 5 del Decreto 6/2011, de 10 de febrero.
+El proyecto presenta proximidad territorial con la ZEPA Tierra de Campiñas
+(ES0000204). El Atlas de los paisajes de España (Ministerio de Medio Ambiente, 2003)
+ubica el proyecto en la unidad del paisaje 51.17 Campiñas de Peñaranda de Bracamonte
+y del occidente de la Tierra de Arévalo, en el tipo de paisaje Campiñas el sur del Duero,
+y perteneciente a la asociación Campiñas.
+Se considera las nuevas infraestructuras, principalmente el contenedor de baterías
+no supondrá un impacto paisajístico significativo adicional al generado por la planta solar
+en la que se incluye y a la que prestará servicio.
+Se constata la no coincidencia territorial ni de afecciones indirectas con: hábitats y
+especies animales y vegetales de interés, comunitario fuera de los límites administrativos
+de los EPRN2000, Espacios naturales protegidos, Zonas húmedas de interés especial,
+Árboles notables, Montes de utilidad pública, Montes protectores, Zonas naturales de
+esparcimiento, Vías pecuarias, Reservas naturales fluviales / Reservas de la biosfera
+/Geoparques mundiales / Áreas Ramsar / Otras, Propuestas de lugares geológicos o
+paleontológicos de interés especial, Propuestas de microrreservas de flora, Flora
+protegida, Hábitats de interés comunitario fuera de ZEC, Fauna protegida, Paisaje.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 197
+En consecuencia, se concluye que el presente proyecto, en la versión evaluada, no
+tendrá afecciones a dichas figuras de protección o valores naturales.
+Afección al Patrimonio Cultural. El Servicio Territorial de Cultura, Turismo y Deporte
+informa que de acuerdo con los datos que obran en ese Servicio Territorial, no se conoce
+ninguna afección al patrimonio arqueológico de la que se tenga información ni afecta a
+ningún inmueble declarado o incoado Bien de Interés Cultural o Inventariado.
+En todo caso debe tenerse presente que, si durante la ejecución de las obras se
+hallaran fortuitamente bienes de patrimonio arqueológico, deberá actuarse conforme
+dispone el artículo 121 del Decreto 37/2007 por el que se aprueba el Reglamento para la
+Protección del Patrimonio de Castilla y León.
+Compatibilidad urbanística. El informe del Servicio Territorial de Movilidad y
+Transformación Digital indica que el municipio de Barromán cuenta con una Delimitación
+de Suelo Urbano aprobada en fecha 26 de noviembre de 1985 y por tanto son de
+aplicación las Normas Subsidiarias de Planeamiento Municipal con Ámbito Provincial,
+aprobadas por la Comisión Territorial de Urbanismo en fecha 9 de septiembre de 1997, y
+publicadas en fecha 22 de septiembre de 1997.
+El proyecto afecta a una zona clasificada en las Normas Subsidiarias de Planeamiento
+Municipal como Zona de Regulación Básica (SNU), equiparable a Suelo Rústico Común,
+quedando definido en su artículo 3.3, como uso permitido.
+El Reglamento de urbanismo permite el uso solicitado para esta categoría de suelo
+rústico en sus artículos 57.a), 57.c) y 59.
+Por todo lo expuesto, se informa el proyecto favorablemente al no existir una afección
+significativa en materia de Urbanismo, en las Normas Subsidiarias de Planeamiento
+Municipal de ámbito Provincial, que son vigentes para el municipio de Barroman, para
+el uso solicitado en el tipo de suelo en que se pretende ubicar, por tratarse de un uso
+permitido cuando cuenta con informe de impacto ambiental favorable.
+Protección de las aguas. En el informe de la Confederación Hidrográfica del Duero
+se informa que la zona de implantación de los módulos de almacenamiento no afecta a
+cauce público alguno ni a sus zonas de protección (servidumbre y policía).
+Además, se incluyen una serie de condiciones que se incluyen en este informe de
+impacto ambiental.
+El informe de la Sección de Protección Ciudadana, indica que, consultada la
+Información a nivel de municipio, disponible en la Agencia de Protección Civil de la Junta
+de Castilla y León, el término municipal de Barromán se encuentra afectado por los
+siguientes riesgos/peligrosidades:
+1. Riesgo de Inundaciones. De acuerdo con el Plan Especial de Protección Civil
+ante el Riesgo de Inundaciones en la Comunidad Autónoma de Castilla y León
+(INUNCYL), cuya aprobación fue publicada en el BOCYL el 3 de marzo de 2010,
+la clasificación en función del riesgo poblacional es: Medio.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 198
+2. Riesgo de Incendios Forestales: De acuerdo con el Plan Especial de Protección
+Civil ante emergencias por incendios forestales en Castilla y León (plan INFOCAL),
+aprobado por Decreto 6/2025, de 27 de marzo la clasificación en función del
+Índice de Riesgo es:
+• Índice de Peligrosidad: Bajo.
+• Índice de Riesgo Local: Muy bajo.
+En el anexo III del mismo Decreto se establece la relación de Municipios de
+Máximo Riesgo de Interfaz Urbano forestal, el municipio de Barromán no está
+incluido en dicha relación.
+3. Riesgo derivado del Transporte por Carretera y Ferrocarril de Sustancias
+Peligrosas. De acuerdo con el Plan Especial de Protección Civil ante emergencias
+por accidentes en el transporte de mercancías peligrosas por carretera y ferrocarril
+en la Comunidad Autónoma de Castilla y León (MPCyL), cuya aprobación fue
+publicada en el BOCYL el 23 de enero de 2008, la clasificación es:
+• Riesgo por carretera: no ha sido delimitado.
+4. Riesgo por proximidad a establecimientos que almacenan Sustancias Peligrosas.
+De acuerdo con el RD 840/2015, de 21 de septiembre, por el que se aprueban
+medidas de control de los riesgos inherentes a los accidentes graves en los que
+intervengan sustancias peligrosas, no se encuentra afectado por la Zona de
+Alerta e Intervención de los establecimientos afectados por la Directica Seveso.
+Ninguna de las actuaciones que se proyecten deberá incrementar el riesgo hacia las
+personas, sus bienes y el medio ambiente.
+Si alguna de las actuaciones derivadas de la aprobación del presente proyecto
+pudiera potencialmente aumentar el riesgo sobre las personas, sus bienes o el medio
+ambiente, debería hacerse un análisis previo, indicando el grado de afección, así como
+las medidas necesarias para evitar incrementar dichos riesgos.
+4. ANÁLISIS DEL PROYECTO DE ACUERDO CON LOS CRITERIOS DEL ANEXO III.
+4.1. CARACTERÍSTICAS DEL PROYECTO.
+Dimensiones y diseño del conjunto del proyecto. El objeto del citado proyecto es la
+construcción de una instalación de almacenamiento de energía eléctrica BESS (Battery
+Energy Storage System) de 1,00 MW de potencia instalada para hibridación de la planta
+fotovoltaica «FV Los Jabalies», en la parcela 44 del polígono 1 del término municipal de
+Barromán, con una extensión aproximada de 0,014 hectáreas y la línea de evacuación de
+0,8 kV de una longitud aproximada de 6 m de zanja y 11 m de conductor.
+La instalación de almacenamiento proyectada estará compuesta por módulos de
+baterías y tendrá una potencia instalada de 1,00 MW. La instalación fotovoltaica existente
+«FV Los Jabalies» tiene una potencia instalada de 1,408 MW. Por lo tanto, la instalación
+hibridada (FV + BESS) tendrá una potencia instalada total de 2,408 MW, manteniendo la
+capacidad de acceso a red en 1 MW, sin variar la capacidad ya concedida. Se concede
+una capacidad de demanda de 1 MW.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 199
+Se considera que el proyecto es de reducido tamaño.
+Acumulación con otros proyectos existentes y/o aprobados. En la zona no existen
+otros proyectos de estas características.
+No se considera que la ubicación de este proyecto represente una acumulación
+significativa con otros proyectos.
+Utilización de recursos naturales. El consumo de materias primas y recursos
+naturales no se considera significativo debido a la propia naturaleza del proyecto. El
+principal recurso que se emplea es el suelo. El consumo de agua será mínimo y se
+producirá fundamentalmente durante la fase de obras.
+Generación de residuos. Durante la fase de obras se generarán residuos de
+construcción y demolición y durante la fase de explotación se generarán una serie de
+residuos como consecuencia de las labores de mantenimiento de las infraestructuras.
+Todos estos residuos serán convenientemente gestionados.
+Contaminación y otras perturbaciones. En la fase de obras, se pueden producir
+efectos sobre la calidad del aire, por el aumento de partículas en suspensión provocado
+por el movimiento de la maquinaria, transporte de materiales y equipos, en los distintos
+trabajos de la obra y movimiento de tierras. También se producirá un incremento en
+los niveles de contaminación acústica. En la fase de funcionamiento no es previsible
+que se produzcan emisiones de contaminantes a la atmósfera, salvo las emisiones de
+gases procedentes de los vehículos empleados en las labores de mantenimiento de la
+instalación, que deberán contar con un mantenimiento adecuado y que en todo caso van
+a ser reducidas. No existirán vertidos al dominio público hidráulico.
+La instalación contribuye al cumplimiento de los objetivos relacionados con
+la descarbonización del sistema energético, la minimización de las emisiones de
+contaminantes atmosféricos y, por ende, a la reducción del cambio climático.
+Riesgo de accidentes graves y/o catástrofes. El documento ambiental incluye un
+análisis de riesgos de accidentes graves y/o catástrofes que concluye que el riesgo no
+es significativo.
+Riesgos para la salud humana. No se identifican riesgos para la salud humana.
+4.2. UBICACIÓN DEL PROYECTO.
+Uso presente y aprobado del suelo. El proyecto afecta a una zona clasificada en
+las Normas Subsidiarias de Planeamiento Municipal como Zona de Regulación Básica
+(SNU), equiparable a Suelo Rústico Común. En la parcela se ubica una planta solar
+fotovoltaica.
+Abundancia relativa, la disponibilidad, la calidad y capacidad regenerativa de los
+recursos naturales de la zona y su subsuelo. En general la capacidad de acogida de la
+zona es alta, por la ausencia de valores ambientales significativos que realmente puedan
+verse afectados, pudiendo considerarse que no existirán graves afecciones al medio
+natural. La capacidad de regeneración de la zona una vez desmantelado el proyecto es
+relativamente fácil y rápida.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 200
+Se constata la no coincidencia territorial ni de afecciones indirectas con: hábitats y
+especies animales y vegetales de interés, comunitario fuera de los límites administrativos
+de los EPRN2000, Espacios naturales protegidos, Zonas húmedas de interés especial,
+Árboles notables, Montes de utilidad pública, Montes protectores, Zonas naturales de
+esparcimiento, Vías pecuarias, Reservas naturales fluviales / Reservas de la biosfera
+/Geoparques mundiales / Áreas Ramsar / Otras, Propuestas de lugares geológicos o
+paleontológicos de interés especial, Propuestas de microrreservas de flora, Flora
+protegida, Hábitats de interés comunitario fuera de ZEC y Fauna protegida..
+En cuanto al paisaje el proyecto se ubica en la unidad del paisaje 51.17 Campiñas de
+Peñaranda de Bracamonte y del occidente de la Tierra de Arévalo, en el tipo de paisaje
+Campiñas el sur del Duero, y perteneciente a la asociación Campiñas.
+Se considera que las nuevas infraestructuras, principalmente el contenedor de
+baterías no supondrá un impacto paisajístico significativo adicional al generado por la
+planta solar en la que se incluye y a la que prestará servicio.
+El proyecto se ubica en una zona rural de baja densidad demográfica.
+No se prevé afección al patrimonio cultural ni a Bienes de Interés Cultural o
+Inventariado.
+4.3. CARACTERÍSTICAS DEL POTENCIAL IMPACTO.
+Magnitud y alcance espacial del impacto. El proyecto producirá un impacto ambiental
+puntual durante la fase de obra y más sostenido en el tiempo durante su funcionamiento.
+La superficie de ocupación, por el contrario, es reducida disminuyendo la magnitud.
+Naturaleza del impacto. Las acciones que producen un mayor número de impactos
+negativos se suelen concentrar en las fases de construcción y desmantelamiento,
+asociadas a la preparación del terreno y el montaje y desmontaje de las instalaciones.
+Se estima que el proyecto es compatible con el medio, siempre y cuando se ejecuten
+las medidas preventivas y correctoras recogidas en el presente informe.
+Carácter transfronterizo del impacto. Por su situación geográfica no presenta carácter
+transfronterizo alguno.
+Intensidad y complejidad del impacto. La intensidad y complejidad del impacto son
+reducidos. Los impactos negativos de mayor intensidad se producirán sobre la fauna
+y el suelo, si bien de manera general no se considera que la complejidad de éstos sea
+elevada.
+Probabilidad del impacto. Se estima que la probabilidad de ocurrencia del impacto
+es alta en las fases de construcción y desmantelamiento. Sin embargo, en la fase de
+funcionamiento la probabilidad se reduce si se cumplen las medidas preventivas y
+correctoras establecidas, limitándose a posibles accidentes.
+Inicio previsto y duración, frecuencia y reversibilidad del impacto. La reversibilidad
+de este tipo de actuaciones es bastante alta, permitiendo la restauración del medio
+una vez finalizada la vida útil de estas infraestructuras, lo que parece poco probable,
+por otro lado.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 201
+Acumulación del impacto con los impactos de otros proyectos existentes y/o
+aprobados. En la zona no existen otros proyectos de estas características. No se
+considera que la ubicación de este proyecto represente una acumulación significativa
+con otros proyectos.
+Posibilidad de reducir el impacto de manera eficaz. Con las medidas correctoras y
+protectoras incluidas en este informe de impacto ambiental se reducirán los impactos del
+proyecto en gran medida.
+Por todo lo expuesto, considerando adecuadamente tramitado el expediente y de
+acuerdo con lo establecido en el artículo 47 de la Ley 21/2013, de 9 de diciembre, de
+evaluación ambiental, teniendo en cuenta el resultado de las consultas realizadas y
+siguiendo los criterios del Anexo III de la citada Ley, se realiza el siguiente:
+5. INFORME DE IMPACTO AMBIENTAL.
+Una vez realizado el análisis técnico del proyecto de ejecución «Instalación de
+almacenamiento «BESS Los Jabalies» de 1,00 MW e instalaciones de evacuación para
+hibridación de la planta «FV Los Jabalies» conectada a red de distribución», promovido
+por Jabalíes Renovables S.L., en el término municipal de Barromán, se determina que
+no tiene efectos significativos sobre el medio ambiente, en los términos establecidos en
+el presente informe de impacto ambiental, por los motivos que se justifican en el mismo
+y sin perjuicio del cumplimiento de la normativa urbanística y sectorial vigentes u otras
+normas que pudieran impedir o condicionar su realización, considerando la alternativa
+que desarrolla el proyecto de ejecución como la de menor impacto negativo a efectos
+ambientales.
+5.1. Medidas protectoras. Se deberán cumplir las medidas protectoras y correctoras
+que se indican a continuación, además de las que se incluyen en el documento ambiental
+aportado, en lo que no contradigan a las incluidas en el presente informe de impacto
+ambiental:
+a) Protección de infraestructuras y vías de acceso. Se aprovecharán las carreteras
+y caminos existentes para el acceso de vehículos y maquinaria durante las obras;
+no se planteará la apertura de otros nuevos. Estos caminos deberán mantenerse
+en buen estado, debiendo restaurarse o restituirse adecuadamente los sistemas
+de drenaje y otras infraestructuras que se vean afectadas.
+Para cualquier actuación que tenga incidencia sobre las carreteras próximas,
+como accesos, instalaciones etc., deberá tenerse en cuenta lo establecido en la
+normativa vigente en materia de carreteras, con especial hincapié en las medidas
+de seguridad durante la fase de construcción de la planta. Se habilitarán medidas
+para minimizar la incorporación de polvo y barro a las carreteras que dan acceso
+a la planta.
+Se respetarán las normas generales de obligado cumplimiento en zonas afectadas
+por la existencia de gaseoductos, líneas eléctricas, etc., así como en sus zonas de
+servidumbre. Se respetarán de igual forma las servidumbres de paso existentes
+en todos los caminos, las propiedades de terceros, infraestructuras existentes y
+el uso de las mismas (cierres, pasos de ganado, etc.) dejándolos en el estado
+que presentaban antes de las actuaciones.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 202
+b) Integración paisajística. Los acabados exteriores de los edificios e instalaciones
+auxiliares presentarán tonalidades cromáticas acordes con las características
+del entorno, preferentemente rojizas para las cubiertas y ocres o terrosas para
+los paramentos, dando preferencia a los acabados mates sobre los brillantes o
+metalizados y al cumplimiento de la normativa urbanística. Deberán cuidarse los
+materiales a emplear en la construcción, que serán los tradicionales que se usan
+en la zona, prohibiéndose expresamente el acabado de bloques sin tratamiento
+final de los paramentos, los tejados de uralita o similares, etc.
+c) Protección de los suelos. Previamente al inicio de las obras, sus límites deberán
+quedar jalonados y debidamente señalizados. Las obras no podrán exceder
+dicho perímetro.
+Con el fin de conservar la capa vegetal del suelo, en las zanjas para la
+construcción de las líneas eléctricas, en las explanaciones para la implantación
+de las baterías, de los sistemas de conversión de potencia y de las estaciones de
+transformación así como en las instalaciones auxiliares de obra se deberá retirar
+la capa superior de suelo vegetal (al menos 20 cm), acopiándola en montones
+de pequeña altura, con el objeto de mantener su estructura orgánica y humedad,
+para su posterior uso superficial en el relleno superficial de las zanjas o en las
+labores de restauración de las zonas alteradas durante las obras.
+Se trata de una actividad potencialmente contaminante del suelo por lo que deberá
+presentar un informe preliminar de situación del suelo en el que se desarrolla la
+actividad.
+d) Protección de las aguas. Queda prohibido con carácter general el vertido directo
+o indirecto de aguas y productos residuales susceptibles de contaminar las aguas
+continentales o cualquier otro elemento del dominio público hidráulico, salvo que
+se cuente con la previa autorización. Dicha autorización corresponde a esta
+Confederación Hidrográfica del Duero, salvo en los casos de vertidos efectuados
+en cualquier punto de la red de alcantarillado o de colectores gestionados por
+las Administraciones autonómicas o locales o por entidades dependientes de las
+mismas, en los que la autorización corresponderá al órgano autonómico o local
+competente.
+En el supuesto que se empleen conducciones de redes de saneamiento, éstas
+deberán ser estancas, para evitar infiltración de las aguas residuales a las aguas
+subterráneas.
+En todas las actuaciones a realizar se respetarán las servidumbres legales y, en
+particular, la servidumbre de uso público de 5 m en cada margen establecida en
+los artículos 6 y 7 del Reglamento del Dominio Público Hidráulico, aprobado por
+Real Decreto 849/1986, de 11 de abril, en su redacción dada por el Real Decreto
+9/2008, de 11 de enero. A este respecto, se deberá dejar completamente libre de
+cualquier obra que se vaya a realizar dicha zona de servidumbre.
+Durante los movimientos de tierras, se deberán establecer las medidas necesarias
+para la retención de sólidos previa a la evacuación de las aguas de escorrentía
+superficial, así como otras posibles medidas para reducir al mínimo el riesgo de
+contaminación de las aguas superficiales.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 203
+Para evitar arrastres de áridos y de otros materiales pulverulentos y los
+consiguientes fenómenos de turbidez de las aguas de los cauces afectados, los
+depósitos de aquellos no podrán situarse sobre la red de drenaje natural del
+terreno y deberán ser debidamente protegidos. Deberán colocarse barreras de
+sedimentos a la salida de la red de drenaje de la zona.
+Cualquier acopio de materiales se ubicará de manera que se impida cualquier
+riesgo de vertido, ya sea directo o indirecto; por escorrentía, erosión, infiltración
+u otros mecanismos sobre las aguas superficiales o subterráneas.
+Se deberán tomar las medidas oportunas para asegurar que, en ningún caso,
+se produzcan vertidos de aceites, combustibles, lubricantes, u otras sustancias
+similares al terreno o a los cursos de agua; sin perjuicio de lo cual se recomienda la
+elaboración de protocolos de actuación específicos en previsión de la ocurrencia
+de incidentes de este tipo, para poder así actuar de la manera más rápida posible
+y evitar la contaminación de las aguas superficiales y/o subterráneas.
+Para la elección de la ubicación de las instalaciones auxiliares se deberá evitar
+la ocupación del dominio público hidráulico y de la zona de servidumbre de los
+cauces. Se evitará también, en la medida de lo posible, la ocupación de la zona
+de policía de cauce público y de terrenos situados sobre materiales de alta
+permeabilidad.
+Las zonas en las que se ubiquen las instalaciones auxiliares y parques de
+maquinaria deberán ser impermeabilizadas para evitar la contaminación de las
+aguas subterráneas. Las aguas procedentes de la escorrentía de estas zonas
+impermeabilizadas deberán ser recogidas y gestionadas adecuadamente para
+evitar la contaminación del dominio público hidráulico.
+Con relación a las aguas residuales generadas por la eventual instalación de
+aseos, duchas, … en las casetas de obra, …, se recomienda la disposición de un
+depósito estanco, sin salida al exterior, que almacene las aguas residuales para,
+posteriormente, ser retiradas de forma periódica para su tratamiento mediante
+gestor autorizado. No obstante, en el caso de que, finalmente, se produjera vertido
+sobre algún elemento del dominio público hidráulico, previamente, se deberá
+disponer de la correspondiente autorización de vertido de esta Confederación
+Hidrográfica, según lo establecido en el Reglamento del Dominio Público
+Hidráulico.
+e) Protección de la vegetación. No se permite la corta de arbolado, a no ser
+estrictamente necesaria, y en el caso de realizarse, se deberá contar con la
+correspondiente autorización del Servicio Territorial de Medio Ambiente de Ávila.
+Se deberán respetar los linderos con alineaciones de vegetación arbórea o
+arbustiva, así como arbolado disperso, tanto en las tierras de labor como junto al
+borde de los caminos, en aras de una mayor integración paisajística del proyecto
+y de garantizar en el interior del vallado el mantenimiento de unas condiciones
+ambientales que permitan su utilización por parte de la fauna del entorno.
+En relación con las labores de mantenimiento y control de la vegetación
+espontánea que pueda surgir en el campo solar (bajo los seguidores y en los
+pasillos de separación), no se utilizarán métodos químicos para el control de la
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 204
+vegetación ni quemas de residuos o de control de la vegetación, excepto en el
+caso de plaga declarada oficialmente conforme a la Ley 43/2002, de sanidad
+vegetal, en cuyo caso se habilitarán oficialmente los productos y métodos
+a emplear.
+Se deberá realizar una plantación perimetral alrededor de todo el vallado de
+las instalaciones, salvo en aquellas zonas que ya sean colindantes con zonas
+ya arboladas, con el fin de ocultar la instalación de una manera más eficaz,
+así como evitar posibles reflejos metálicos del vallado y paneles solares, y al
+mismo tiempo, fomentar la biodiversidad de la zona. La plantación se realizará
+por la parte exterior del cerramiento, por bosquetes, con pequeñas alineaciones
+al tresbolillo que sirvan de pantalla visual, pero a su vez evite una continuidad
+vertical y horizontal de masa forestal. Se utilizarán especies arbóreas y arbustivas
+propias del entorno, como escobas, rosáceas, acorde a los cuadernos de Zona
+empleados en las ayudas a Forestación.
+f) Gestión de residuos. Se controlará el cumplimiento de la normativa vigente en
+materia de residuos y suelos contaminados. Se evitará el manejo incontrolado
+y la posibilidad de contaminación directa o inducida en la gestión de aceites,
+combustibles y residuos de vehículos y maquinaria en general. No podrán
+acopiarse aceites, grasas o residuos, ni efectuarse operaciones de mantenimiento,
+repuesto o reparaciones en la maquinaria y vehículos fuera de las zonas
+específicamente adecuadas para ello, evitándose en todo momento el vertido de
+sustancias que puedan contaminar el suelo, las aguas y los acuíferos de la zona.
+En caso de accidente o vertido accidental de residuos peligrosos, deberá
+procederse a la retirada y entrega a gestor autorizado de residuos y a la recogida
+y gestión del afectado conforme establezca la normativa de residuos y suelos
+contaminados. Antes de proceder a la recepción de las obras el contratista
+acreditará fehacientemente la correcta gestión de los residuos generados.
+Si durante el movimiento de tierras apareciese cualquier tipo de residuo en
+el suelo, ya sean domésticos o de construcción y demolición u otros, deberá
+procederse a su retirada inmediata y a su entrega a gestor autorizado.
+Una vez en funcionamiento, los residuos asimilables a domésticos serán
+gestionados mediante su incorporación al sistema municipal de limpieza.
+El promotor será el responsable de mantener limpias las obras y sus alrededores
+de materiales sobrantes, así como de la retirada de instalaciones provisionales
+que no sean necesarias. Durante la fase de funcionamiento se generarán
+diversos tipos de residuos derivados del mantenimiento de las instalaciones, por
+lo que se deberá disponer de un punto de almacenamiento adecuado para estos
+residuos, especialmente para los peligrosos, con las suficientes medidas de
+protección del suelo frente a contaminaciones accidentales o vertidos. Cualquier
+incidencia relativa a la detección de residuos derivados del mantenimiento de las
+instalaciones deberá ser incluida en el correspondiente informe de seguimiento.
+g) Protección acústica. No deberán superarse en ningún momento los límites
+sonoros establecidos en la Ley 5/2009, de 4 de junio, del Ruido de Castilla y
+León. Así mismo, deberá cumplirse lo establecido en el Real Decreto 212/2002,
+de 22 de febrero, que regula las emisiones sonoras en el entorno debidas a
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 205
+determinadas máquinas al aire libre, modificada por el Real Decreto 524/2006,
+de 4 de mayo, y mantener los niveles de inmisión en el entorno por debajo de los
+límites establecidos en la normativa aplicable.
+h) Contaminación lumínica. Se evitará la iluminación nocturna del sistema de
+almacenamiento Bess, con las únicas excepciones de los dispositivos requeridos
+por la normativa y de los aparatos de iluminación imprescindibles para hacer
+frente a situaciones de riesgo.
+Se evitará la iluminación nocturna de la planta fotovoltaica, con las únicas
+excepciones de sistemas requeridos por la normativa y de dispositivos de
+iluminación imprescindibles en las edificaciones auxiliares o para hacer frente
+a situaciones de riesgo. En tal caso, se utilizarán luminarias que no emitan luz
+blanca rica en longitudes de onda corta (azules y UV), la iluminación se proyectará
+hacia el suelo por debajo del plano horizontal, y se limitará a lo estrictamente
+necesario.
+i) Protección de la atmósfera. Para evitar la producción de polvo, se efectuarán
+riegos periódicos en la zona de ejecución de las obras si las condiciones
+meteorológicas y circunstancias del trabajo lo aconsejan, además de cualquier
+otra medida adecuada a tal fin, con objeto de cumplir la normativa vigente de
+protección del medio ambiente atmosférico.
+j) Prevención de incendios y plan de autoprotección. Para la ejecución de las obras y
+trabajos contenidos en el proyecto, y el uso de las instalaciones, deberá cumplirse
+las condiciones prescritas en la Orden de la Consejería con competencias en
+materia de medio ambiente vigente por la que se fija la época de peligro alto
+de incendios forestales en la Comunidad de Castilla y León, se establecen
+las normas sobre el fuego y se fijan medidas preventivas para la lucha contra
+incendios forestales. En relación con el aprovisionamiento de combustibles de la
+maquinaria a utilizar en todo tipo de trabajos, se extremará el cuidado durante su
+repostaje para evitar igniciones que puedan provocar incendios forestales.
+De acuerdo con la Norma Básica de Autoprotección de los centros, establecimientos
+y dependencias dedicados a actividades que puedan dar origen a situaciones de
+emergencia, la actividad deberá elaborar un Plan de Autoprotección que deberá
+acompañar a los restantes documentos necesarios para el otorgamiento de la
+autorización necesaria para el comienzo de la actividad. Una vez elaborado el Plan
+de Autoprotección deberá ser inscrito en el Registro de Planes de Autoprotección
+de Castilla y León.
+k) Protección del Patrimonio Histórico y Arqueológico. Si en el transcurso de la
+ejecución del proyecto apareciesen restos arqueológicos, se paralizarán las
+obras en la zona afectada, procediendo el promotor a ponerlo en conocimiento
+de la Delegación Territorial de la Junta de Castilla y León en Ávila, que dictará
+las normas de actuación que procedan. En cualquier caso, se atenderá a lo
+dispuesto en la Ley 7/2024, de 20 de junio, de Patrimonio Cultural de Castilla y
+León y demás normativa aplicable, en lo que se refiere a eventuales hallazgos
+que pudieran producirse.
+l) Recursos Naturales y Utilización de Materias Primas. En el proyecto de obra
+se deberá incorporar la utilización de áridos reciclados procedentes de plantas
+de tratamiento de residuos de construcción y demolición, en las unidades de
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 206
+obra donde sea técnica y ambientalmente adecuado, en sustitución de áridos
+naturales. Los porcentajes mínimos de utilización de estos materiales serán
+de un 10% en peso de la cantidad total de áridos cuya utilización está prevista
+en la obra.
+m) Cese de actividad. Si por cualquier causa cesara la actividad, de forma temporal
+o definitiva, el promotor establecerá un plan de actuación que será presentado
+ante el Servicio Territorial de Medio Ambiente para su aprobación.
+En las fases de paralización de la instalación, será responsabilidad del promotor
+el adecuado mantenimiento y conservación de las infraestructuras y equipos,
+así como su reparación, sustitución o desmantelamiento, en caso de que su
+deterioro ponga en peligro las condiciones mínimas de seguridad o exista riesgo
+de afección al medio.
+n) Desmantelamiento. Al final de la vida útil de la instalación, cuando el sistema de
+almacenamiento de energía deje de ser operativo o se paralice definitivamente su
+funcionamiento, deberá garantizarse el desmantelamiento de toda la instalación
+y edificaciones, retirarse todos los equipos, residuos y materiales sobrantes y
+procederse a la restauración e integración paisajística de toda el área afectada.
+Para garantizar el desmantelamiento total, se presentará un proyecto de
+desmantelamiento y restauración de la zona afectada, debiéndose incorporar un
+presupuesto valorado.
+5.2. Autorización del proyecto y publicidad: Conforme a lo establecido en el artículo
+48 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el órgano sustantivo
+deberá tener en cuenta en el procedimiento de autorización del proyecto, las conclusiones
+del presente informe de impacto ambiental, así como las condiciones ambientales
+establecidas en el mismo.
+Asimismo, deberá remitir al Boletín Oficial de Castilla y León, en el plazo de diez
+días desde que se adopte la decisión de autorizar o denegar el proyecto, un extracto
+del contenido de dicha decisión y publicará en su sede electrónica la decisión sobre la
+autorización o denegación del proyecto y una referencia al boletín oficial donde se publicó
+el informe de impacto ambiental.
+5.3. Comunicación de inicio de actividad: En cumplimiento de lo establecido
+en el artículo 47 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, el
+promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución
+del proyecto. Además, de acuerdo con el artículo 60 del texto refundido de la Ley de
+Prevención Ambiental de Castilla y León aprobado por Decreto Legislativo 1/2015, de 12
+de noviembre, el promotor deberá comunicar asimismo al órgano ambiental las fechas de
+final de las obras y de comienzo de la fase de explotación.
+5.4. Programa de vigilancia y seguimiento ambiental: Con antelación al inicio de
+la actividad el promotor presentará ante el órgano sustantivo el programa de vigilancia
+ambiental contenido en el documento ambiental, que se complementará de forma que
+contemple las medidas protectoras incluidas en este informe de impacto ambiental y se
+facilite el seguimiento de las actuaciones proyectadas durante la fase de construcción,
+así como en las fases de funcionamiento y de desmantelamiento y cese de la instalación.
+CV: BOCYL-D-13112026-220-25
+
+Boletín Oficial de Castilla y León
+Núm. 220 Viernes, 13 de noviembre de 2026 Pág. 207
+5.5. Informes anuales: A partir del inicio de las actuaciones el promotor presentará
+anualmente ante el órgano sustantivo, un informe sobre el desarrollo del programa de
+vigilancia ambiental. Se recogerá el resultado de los controles, así como el grado de
+eficacia y cumplimiento de las medidas preventivas y correctoras establecidas en el
+documento ambiental y en este informe de impacto ambiental.
+5.6. Seguimiento y vigilancia. Corresponde al órgano sustantivo el seguimiento y
+vigilancia del cumplimiento del informe de impacto ambiental. Sin perjuicio de ello, el
+órgano ambiental podrá recabar información de aquél al respecto, así como efectuar
+las comprobaciones necesarias para verificar el cumplimiento del condicionado de este
+informe de impacto ambiental.
+5.7. Modificaciones: Cualquier variación en los parámetros o definición de las
+actuaciones proyectadas que pudiera producirse con posterioridad a este informe,
+deberá ser notificada previamente a la Delegación Territorial de la Junta de Castilla y
+León en Ávila, que prestará su conformidad si procede, sin perjuicio de la tramitación de
+las licencias o permisos que, en su caso, correspondan. Se consideran exentas de esta
+notificación, a efectos ambientales, las modificaciones que se deriven de la aplicación de
+las medidas protectoras de este informe.
+5.8. Vigencia del informe de impacto ambiental: Conforme a lo establecido en el
+artículo 47.4 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, este informe
+de impacto ambiental perderá su vigencia y cesará en la producción de los efectos que le
+son propios, si en el plazo de 4 años desde su publicación en el Boletín Oficial de Castilla
+y León, no se hubiera procedido a la autorización del proyecto.
+5.9. Objeto de recurso: De conformidad a lo establecido en el artículo 47.5 de la Ley
+21/2013, de 9 de diciembre, de evaluación ambiental, el informe de impacto ambiental
+no será objeto de recurso alguno sin perjuicio de los que, en su caso, procedan en vía
+administrativa o judicial frente al acto, en su caso, de autorización del proyecto.
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-13112026-220-25
