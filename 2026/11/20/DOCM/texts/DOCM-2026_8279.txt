@@ -1,0 +1,964 @@
+AÑO XLV Núm. 223 20 de noviembre de 2026 40617
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 11/11/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Fase II del proyecto central híbrida MSM Villarrubia
+de 28,0219 MW para autoconsumo del complejo minero Minas El Castellar (PRO-TO-24-3295), situado en el
+término municipal de Villarrubia de Santiago (Toledo), cuya promotora es Minera Santa Marta, SA. [2026/8279]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+La actuación pretendida, se encuadra en el Anexo II del Real Decreto 445/2023, de 13 de junio, por el que se
+modifican los anexos I, II y III de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, concretamente, en los
+siguientes grupos:
+- Grupo 4. Industria energética, Apartado j) Instalaciones para la producción de energía eléctrica a partir de la energía
+solar no incluidas en el anexo I, ni instaladas sobre cubiertas o tejados de edificios, así como, las que ocupen una
+superficie inferior a 5 ha que cumplan los criterios generales 1 o 2.
+- Grupo 4 Industria energética, epígrafe h) Instalaciones para la utilización de la fuerza del viento para la producción
+de energía (Parques eólicos) no incluidos en el anexo I.
+- Grupo 4 Industria energética, epígrafe n) Almacenamiento energético stand-alone a través de baterías
+electroquímicas o con cualquier tecnología de carácter hibridado con instalaciones de energía eléctrica.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+Minera de Santa Marta, S.A. es titular del complejo minero existente El Castellar, en el término municipal de Villarrubia
+de Santiago (Toledo), en el que se obtiene sulfato sódico a partir de glauberita y de thenardita, compuesto que es
+utilizado en fabricación de detergentes en polvo, vidrio, papel, tintes textiles, alimentación animal e industria química
+en general.
+Para la mejora de la eficiencia energética y descarbonización de dicho complejo minero, en el año 2021, Minera de
+Santa Marta, S.A. promovió una serie de mejoras ambientales, contempladas en el denominado “Proyecto Integral
+de actuaciones para la mejora de la eficiencia energética y descarbonización en el complejo minero Minas El
+Castellar - Villarrubia De Santiago”, que incluía una instalación para la generación eléctrica de tecnología fotovoltaica
+en la modalidad de suministro con autoconsumo individual sin excedentes de 6,88 MW de potencia instalada.
+Dicha fotovoltaica (MGE FV Nº1) fue informada en su día por el Servicio de Medio Ambiente de Toledo sobre la no
+necesidad de sometimiento a evaluación de impacto ambiental ((CSV): F355B77256B8B442C53541).
+A fin de ampliar la capacidad de generación de energía eléctrica de fuentes renovables en el referido complejo
+minero, el promotor ha previsto la ejecución de una segunda fase de dicho proyecto integral de actuaciones para
+la mejora de la eficiencia energética y reducción de la huella de carbono, añadiendo a la referida instalación de
+autoconsumo existente un nuevo Módulo de Generación de Electricidad de Tecnología Fotovoltaica (MGE FV Nº2),
+un nuevo Módulo de Generación de Electricidad de Tecnología Eólica (MGE Eólico Nº1) y un nuevo Módulo de
+almacenamiento Nº1 de electricidad procedente de dichas fuentes de energía renovable mediante baterías de litio,
+todo ello manteniendo la misma modalidad de autoconsumo individual sin excedentes, creando una instalación híbrida
+de generación eléctrica para autoconsumo compuesta por las tecnologías Eólica + Fotovoltaica + Almacenamiento,
+sumando a la instalación de autoconsumo existente una nueva potencia instalada adicional de 17,92 MW, lo que en
+total supone una Central Híbrida de Autoconsumo “MSM Villarrubia” de 24,80 MW de potencia instalada total.
+Los elementos principales de la instalación, ajustados tras las modificaciones de diseño acordadas para evitar la
+afección a Hábitats de Interés Comunitario (HIC 1520*), se estructuran de la siguiente manera:
+- Módulo de generación eléctrica de tecnología fotovoltaica (MGE FV Nº2): Potencia redefinida en 6,5 MWp (frente a
+los 13,2 MW iniciales) mediante módulos fijados a 15º de inclinación. Ocupa una superficie reducida de 6,5 ha (frente
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40618
+a las 16,07 ha iniciales) tras la exclusión total de seguidores y vallado del recinto 2 de la parcela 11 y recinto 1 de la
+parcela 13 (polígono 506) para preservar el matorral gipsófilo prioritario. Coordenadas UTM ETRS89 Huso 30N del
+centro de gravedad: X= 468.960,98, Y= 4.429.682,65.
+- Módulo de generación eléctrica de tecnología eólica (MGE Eólico Nº1): Potencia ajustada a 9 MW (frente a los
+12,4 MW iniciales), compuesta por dos aerogeneradores de 4,5 MW cada uno (denominados MSMo1 y MSMo2)
+con un buje de 115 metros, diámetro de rotor de 170 metros y tres palas. Contará con un trazado de caminos de
+aproximadamente 1,5 km de 6 metros de anchura mínima de pista. Se mantiene la posición del aerogenerador MSMo1
+por la imposibilidad técnica de su retranqueo al norte debida a la cercanía de una línea de alta tensión (distancia
+reglamentaria de seguridad de 240 m según la ITC-LAT 07 del RD 223/2008), asumiéndose la compensación
+forestal del pinar afectado en la parcela 41 del polígono 602. Los aerogeneradores quedarán cubiertos en su
+totalidad por dispositivos automáticos de monitorización y vigilancia de la avifauna, con sistemas de visión artificial
+estereoscópica 3D que cuentan con parada automática y sistemas de disuasión visual y sonora. Coordenadas
+UTM ETRS89 Huso 30N: aerogenerador MSMo1 (X= 467.937,20, Y= 4.431.131,40) y aerogenerador MSMo2 (X=
+467.961,80, Y= 4.431.672,40).
+- Módulo de almacenamiento de energía eléctrica: Batería electroquímica de litio de 2,4219 MW de potencia total,
+que consta de dos contenedores (uno de ellos con una capacidad de 2,236 MWh y el otro de 2,609 MWh). Se
+ubicará en el interior del recinto de la fotovoltaica ya existente (MGE FV Nº1) propiedad del promotor, ocupando
+una superficie de 91 m² (dos módulos de almacenamiento y CT) y un trazado de caminos internos de unos 124
+metros, evitando así la ocupación de nuevo suelo rústico. Coordenadas UTM ETRS89 Huso 30N: X= 467.868,00,
+Y= 4.432.093,00.
+- Centro de seccionamiento de 15 kV: Ubicado colindante a la SET existente propiedad de Minera de Santa Marta,
+S.A., contando además con un punto de medida y de interconexión. Coordenadas UTM ETRS89 Huso 30N: X=
+467.868,00, Y= 4.432.093,00.
+- Línea subterránea de media tensión (15 kV): Red desde el MGE FV Nº2 y el MGE Eólico Nº1 que conectará con el
+centro de seccionamiento, protección y medida, con una longitud de 3.844 metros a la que se suman 54 metros para
+la conexión del módulo de almacenamiento de baterías. Su trazado discurrirá de forma subterránea bajo la caja de
+un camino de acceso existente para anular la fragmentación de vegetación gipsícola.
+Las actuaciones junto con todas sus instalaciones de evacuación y almacenamiento, se ubican en el término
+municipal de Villarrubia de Santiago (Toledo), en el paraje de El Palenque, Montón de Trigo, Las Platas y el Pradillo
+ocupando las parcelas siguientes:
+- Polígono 505: Parcelas 2, 5, 9001, 9002.
+- Polígono 506: Parcelas 11, 13.
+- Polígono 601: Parcela 9010.
+- Polígono 602: Parcelas 37, 38, 40, 41, 46, 47, 49, 51, 5167, 9000, 9006, 9008, 9010.
+La superficie total disponible es de 245,012 ha, de las cuales se ocuparán 19,98 ha (un 8,16 % del total).
+El acceso principal se realiza por los caminos internos del complejo minero, conectados con la carretera CM-322 en
+los pp.kk. 9+530 y 12+065 (margen izquierda).
+La obra civil del MGE FV Nº2 consiste en:
+- Acondicionamiento del terreno.
+- Accesos y caminos.
+- Estructuras de hormigón armado para los centros de transformación y para los postes de las cámaras de seguridad.
+- Estructuras de acero para las hincas de la estructura fija que soporta los módulos fotovoltaicos.
+- Zanjas para las líneas de baja tensión, media tensión, red de tierra y comunicaciones, y arquetas en los cambios
+de dirección cuando la zanja lleve cableado de corriente continua de los strings o cableado de comunicaciones.
+-Obras de drenaje para los caminos que discurren en desmonte para la evacuación de las aguas de escorrentía
+- Adecuación de edificios prefabricados mediante capa de zahorra artificial.
+- Vallado perimetral con malla cinegética sin elementos cortantes o punzantes, con un espacio libre inferior mínimo
+de 15 cm y luz de malla máxima de 300 cm².
+La obra civil a realizar para la instalación y mantenimiento del MGE Eólico Nº1 será la siguiente:
+- Red de viales.
+- Plataformas para montaje de los aerogeneradores
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40619
+- Cimentación de los aerogeneradores.
+- Zanjas para el tendido de cables subterráneos.
+- Obras de drenaje.
+La obra civil para el módulo de almacenamiento básicamente se compone de sus elementos principales:
+- Baterías
+- Inversores.
+- Cuadro de conexión de corriente continua.
+- Centro de Transformación y red de media tensión a 15 kV.
+La salida del Centro de Transformación del módulo de almacenamiento se conectará a la línea de media tensión del
+MGE FV Nº1 ya existente, a través de la cual se conecta al Centro de Transformación también ya existente.
+En referencia a las alternativas estudiadas, estas son las que se estudiaron:
+Alternativa cero: es el escenario en el que la generación de energía eléctrica para el consumo del complejo
+minero continuaría realizándose a partir de fuentes hasta ahora convencionales, potenciándose los impactos
+medioambientales derivados de las instalaciones basadas en combustibles fósiles, el incremento de pérdidas por
+transporte y distribución, pérdida de competitividad y modernización del sector económico industrial, etc., por lo que
+esta alternativa se desestima.
+Alternativas de ubicación:
+Alternativa 1: dado que el punto de evacuación de la energía generada por las instalaciones será el CS colindante
+a la SET ya existente propiedad de la promotora, el emplazamiento ha de realizarse necesariamente en torno a
+estas instalaciones, a su vez que se consigue minimizar las posibles infraestructuras de evacuación. La alternativa
+1 tendría una superficie de ocupación del MGE FV Nº2 de 19,83 ha, 2 aerogeneradores y 5.300 metros de distancia
+al punto de conexión.
+Alternativa 2: La alternativa 2 tendría una superficie de ocupación del MGE FV Nº2 de 19,17 ha, 2 aerogeneradores
+y 3.885 metros de distancia al punto de conexión.
+Alternativa 3 (esta es la alternativa elegida): La alternativa 3 tendría una superficie de ocupación inicial del MGE FV
+Nº2 de 16,07 ha (reducida a 6,5 ha en el diseño definitivo), 2 aerogeneradores y 3.844 metros de distancia al punto
+de conexión.
+Las 3 alternativas se encuentran ubicadas en zonas de sensibilidad ambiental baja para FV y alta-moderada para
+eólica.
+La alternativa 1 es la que presenta mayor superficie para MGE FV Nº2 y en la poligonal está presente un cauce
+teniendo que respetar su zona de servidumbre, el trazado para la evacuación es mayor con las potenciales afecciones
+a las comunidades gipsófilas de la zona, por tanto, se descarta.
+La alternativa 2 es más próxima al entorno del punto de conexión, si bien el mayor tamaño de la planta fotovoltaica,
+así como la ubicación de los aerogeneradores respecto a la alternativa 3, puede llevar más afecciones a las
+comunidades gipsófilas presentes en el entorno, así como al dominio público colindante. Por tanto, esta opción,
+aunque de menor tamaño y menor distancia hasta el punto de conexión que la alternativa 1, generaría mayores
+impactos potenciales que la alternativa 3.
+La alternativa 3 es la de menor tamaño para el MGE FV Nº2, evitando con ello la ocupación innecesaria de áreas,
+y permite minimizar la infraestructura de evacuación al encontrarse más próxima al punto de conexión que otras
+alternativas y, con ello, los impactos potenciales. Con respecto a los aerogeneradores, se ha optado por su ubicación
+en zonas con mayor presencia de vegetación natural, teniendo en cuenta la necesidad de descartar las zonas de
+escombrera autorizada, donde por cuestiones técnicas, no sería factible este tipo de instalaciones. Por todo ello,
+esta alternativa es la elegida.
+Segundo. Tramitación y consultas.
+El 7 de noviembre de 2023, se recibe en la Delegación Provincial de Toledo de la Consejería de Desarrollo Sostenible
+la solicitud de inicio del procedimiento de Evaluación de Impacto Ambiental Simplificada y el documento ambiental
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40620
+del proyecto de la Fase II de mejora de la eficiencia energética y reducción de la huella de carbono del Complejo
+Minero El Castellar, a través de la presentación formal efectuada ante el Servicio de Minas de Toledo, como órgano
+sustantivo del expediente rústico-minero (dando estricto cumplimiento al artículo 52 de la Ley 2/2020, de 7 de
+febrero, de Evaluación Ambiental de Castilla-La Mancha). Asimismo, se aportó el correspondiente justificante de
+pago de tasas habilitado por la Ley 9/2012, de 29 de noviembre, de Tasas y Precios Públicos de Castilla-La Mancha
+y otras Medidas Tributarias.
+Sobre la base de la documentación aportada, el Servicio de Calidad Ambiental de Toledo, con fecha 25 de marzo de
+2024, de conformidad con lo establecido en el artículo 53 de la citada Ley 2/2020, formuló el trámite de consultas
+previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto de que informaran en
+el ámbito de sus competencias sobre las implicaciones del proyecto. Los organismos e instituciones consultadas
+han sido los siguientes (señalando con un asterisco [*] aquellos que emitieron contestación expresa al expediente):
+Dentro de la Delegación Provincial de Desarrollo Sostenible de Toledo:
+- Servicio de Medio Natural. *
+- Unidad de Coordinación Provincial de Agentes Medioambientales. Coordinador de la D.T. Ocaña. *
+Otros organismos:
+- Consejería de Desarrollo Sostenible de Toledo. Dirección General de Calidad Ambiental. Servicio de Prevención e
+Impacto Ambiental.
+- Delegación Provincial de Agricultura, Ganadería y Desarrollo Rural de Toledo. Servicio de Desarrollo Rural y
+Políticas Ambientales de Toledo.
+- Ayuntamiento de Villarrubia de Santiago (Toledo).
+- Delegación Provincial de Educación, Cultura y Deportes de Toledo. Servicio de Cultura. Sección de Arqueología y
+Patrimonio. *
+- Consejería de Fomento de la Junta de Comunidades de Castilla-La Mancha. Dirección General de Carreteras.
+Servicio de Conservación y Explotación. *
+- Confederación Hidrográfica del Tajo. *
+- Red Eléctrica Española. *
+- Ecologistas en Acción.
+- SEO/BirdLife.
+- WWF-España.
+- Ardeidas.
+- Toledo Aire Limpio.
+- Agrupación Naturalista Esparvel de Toledo.
+A continuación, se resume el análisis de las contestaciones emitidas por las distintas administraciones sectoriales y
+organismos durante el periodo de consultas previas. Las condiciones específicas establecidas por estos se detallan
+con mayor profundidad a lo largo del Apartado Cuarto. Medidas preventivas, correctoras o compensatorias para la
+integración ambiental del proyecto:
+- Servicio de Medio Natural de Toledo (SMN): Este organismo emitió un primer informe desfavorable con fecha 16 de
+diciembre de 2024 (ref. 16375/jmg) debido a que la línea de evacuación y un aerogenerador (MSMo1) interceptaban
+formaciones arboladas (pinar de repoblación), matorrales yesíferos de interés comunitario (HIC 1520*) y zonas
+sensibles para fauna catalogada. Tras la subsanación presentada por el promotor en noviembre de 2025 (Respuesta
+al informe del SMN), que modificó el trazado de la línea eléctrica a soterrada bajo un camino existente, excluyó
+seguidores de los recintos con matorral catalogado y asumió compensaciones ecológicas específicas, el Servicio
+de Medio Natural emitió informe favorable condicionado con fecha posterior (ref. 18170-16375/jmg) aceptando los
+presupuestos de las medidas de conservación.
+- Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Toledo: Emitió informe
+final favorable de fecha 4 de junio de 2024 (ref. 200854-240983) condicionado a la realización de un seguimiento
+arqueológico permanente de la zanja de evacuación colindante a los ámbitos de protección «Vega del Castellar» y
+«El Castellar», así como control de movimientos de tierras para plataformas de aerogeneradores y accesos desde el
+«Camino de la Barca» (elemento viario protegido), debiendo respetarse el ancho legal del «Camino del Castellar».
+- Confederación Hidrográfica del Tajo (CHT): Emitió informe con fecha 18 de mayo de 2024 (ref. EIA-0207/2024).
+Destaca que, si bien asienta sobre la masa de agua subterránea «Aluvial del Tajo: Zorita de los Canes-Aranjuez» y
+en la zona vulnerable «Lillo-Quintanar-Ocaña», las afecciones sobre el dominio público hidráulico son compatibles,
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40621
+condicionando la ejecución de obras a la obtención de autorizaciones previas para cruces de cauces privados y
+desbroces estrictamente manuales.
+- Servicio de Carreteras de la Delegación Provincial de Toledo de la Consejería de Fomento: Emitió informe favorable
+con fecha 19 de julio de 2024 (ref. TO-10124-21-SC) indicando que las obras proyectadas afectarán de forma
+compatible a las zonas de afección de la carretera autonómica CM-322. Detalla que el promotor ya cuenta con
+autorización sectorial previa de fecha reciente para la ejecución de los accesos proyectados en los pp.kk. 9+530 y
+12+065 (margen izquierda). No obstante, requiere determinada documentación previa a las obras que se detalla en
+el Apartado Sexto. Documentación Adicional de esta Resolución.
+- Red Eléctrica de España (REE): Emitió informe favorable con fecha 31 de mayo de 2024 al no constatar afecciones
+sobre sus infraestructuras. No obstante, advierte que esta conformidad es independiente de la obtención de los
+permisos de acceso y conexión a la red, los cuales son requisito previo e indispensable para que el órgano sustantivo
+otorgue la Autorización Administrativa de Construcción (AAC).
+Con fecha 11 de junio de 2025 se le notifica al promotor, la comunicación de todos los informes recibidos durante la
+fase de consultas a todas las administraciones públicas afectadas y personas interesadas por si considera que debe
+introducir alegaciones a alguno de ellos, antes de la resolución del procedimiento, conforme al artículo 82 de la Ley
+39/2015, de Procedimiento Administrativo Común de las Administraciones Públicas y el artículo 4.1.g) 2º de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+Con fecha 15 de julio de 2025 se recibe respuesta del promotor a dicha notificación, dando respuesta a los extremos
+de mayor importancia de los informes recibidos y que se detallan a continuación:
+- Conformidad general sectorial: El promotor manifestó su conformidad expresa con el contenido y condicionado de
+la gran mayoría de los informes sectoriales y alegaciones de los interesados, asumiendo su cumplimiento.
+- Coordinación técnica activa con el Servicio de Medio Natural: Ante el informe desfavorable inicial de la Sección
+de Conservación de Toledo (de fecha 16 de diciembre de 2024), el promotor comunicó que se encontraba en
+conversaciones y contactos de trabajo técnicos con dicho servicio sectorial. El objetivo de este proceso era definir
+con exactitud el reajuste y reducción de las superficies de implantación afectadas para compatibilizar la central
+híbrida con la vegetación gipsícola del HIC 1520* y los requerimientos de la fauna del páramo, comprometiéndose
+a presentar un diseño modificado definitivo.
+- Sincronización temporal con Carreteras: En relación con los estudios requeridos por la Dirección General de
+Carreteras para evaluar la CM-322, el promotor justificó técnicamente que la redacción del Estudio de resplandor
+solar y deslumbramiento vial y el Estudio de afección hidrológica y drenaje debía postergarse de forma lógica hasta
+que se definiera la geometría final y reducida del módulo solar fotovoltaico (MGE FV Nº 2) fruto de la concertación con
+el Servicio de Medio Natural. De este modo, se garantizaba que las modelizaciones se realizaran sobre la superficie
+física real y definitiva, confirmando que ya se encontraba recabando presupuestos de firmas especializadas para su
+inmediata ejecución una vez cerrado el diseño modificado.
+Este hito intermedio de tramitación resultó determinante para la posterior aportación en noviembre de 2025 de la
+«Respuesta al informe del Servicio de Medio Natural de Toledo (ref. 16375/jmg)». Dicho documento de modificaciones
+técnicas definitivas redujo la ocupación de la planta fotovoltaica a 6,5 ha y encauzó el soterramiento de la línea de
+evacuación, permitiendo la emisión del informe definitivo favorable del Servicio de Medio Natural de Toledo.
+Por último, con fecha 25 de noviembre de 2025, de conformidad con la normativa ambiental sobre medidas
+administrativas aplicables, se notificó al Ayuntamiento de Villarrubia de Santiago petición de informe específico sobre
+la afección socioeconómica del proyecto, efectos sinérgicos y afección a caminos vecinales u otras infraestructuras
+municipales. Transcurrido el plazo legalmente establecido sin haberse recibido dicha contestación, se procedió a
+continuar con la tramitación del procedimiento de evaluación de impacto ambiental.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40622
+El promotor deberá adoptar las medidas que se indican a continuación, además de los condicionantes ambientales
+incluidos en el Documento Ambiental presentado, siempre que no se opongan a lo establecido en el presente
+Informe de Impacto Ambiental.
+Se informará a todo el personal implicado en la realización de las obras, del contenido del presente Informe de
+Impacto Ambiental, de manera que se ponga en su conocimiento las medidas que deben adoptarse a la hora de
+realizar los trabajos.
+3.1. Características del proyecto.
+Las características principales del proyecto en su planteamiento inicial han sido descritas en el apartado Primero
+de este informe. La actuación se localiza en el término municipal de Villarrubia de Santiago (Toledo) y comprende la
+implantación de las siguientes infraestructuras asociadas al complejo minero:
+- Módulo de Generación Fotovoltaica (MGE FV Nº 2): Proyectado originalmente con una potencia de 13,2 MW
+nominales (14,49 MWp de módulos monocristalinos) sobre una superficie de ocupación de 16,07 ha delimitada por
+un vallado perimetral de 3.952 m lineales en dos recintos cerrados.
+- Módulo de Generación Eólica (MGE Eólico Nº 1): Integrado por 2 aerogeneradores de 6,2 MW cada uno, sumando
+12,4 MW de potencia instalada. Cada turbina cuenta con una altura de buje de 115 m y un diámetro de rotor de 170
+m, requiriendo la adecuación de aproximadamente 1,5 km de caminos de acceso con un ancho mínimo de pista de
+6 m.
+- Módulo de Almacenamiento de Energía Eléctrica: Sistema de baterías electroquímicas de litio con una potencia de
+2,4219 MW (repartido en dos contenedores de 2,236 MWh y 2,609 MWh), ubicado en un recinto exterior con una
+ocupación de 91 m² y 124 m de caminos internos.
+- Infraestructura de Evacuación Eléctrica: Línea subterránea de media tensión a 15 kV/20 kV con una longitud de
+3.844 m que discurría de forma directa (trazado rojo) conectando los módulos fotovoltaico y eólico con el Centro de
+Seccionamiento colindante a la subestación existente del complejo minero.
+Respecto a otros criterios técnicos del anexo III de la Ley 2/2020 en el diseño inicial:
+- Uso de recursos naturales: La actuación original implicaba la ocupación de 19,98 ha de suelo rústico sobre un
+ámbito disponible de 245,012 ha. Los consumos hídricos en fase de funcionamiento son mínimos, limitándose a
+labores de limpieza puntual de paneles.
+- Generación de residuos: Movimiento de tierras por desmonte y terraplén, hormigón, estructuras metálicas y
+residuos peligrosos derivados del mantenimiento de maquinaria pesada.
+- Contaminación y perturbaciones: Generación de polvo y ruido en fase de obras, así como emisiones acústicas
+aerodinámicas derivadas del funcionamiento de los aerogeneradores.
+3.2. Ubicación del proyecto.
+El proyecto se sitúa en el término municipal de Villarrubia de Santiago (Toledo), en los parajes conocidos como
+El Palenque, Montón de Trigo, Las Platas y El Pradillo. Las parcelas afectadas se clasifican urbanísticamente
+como Suelo Rústico de Reserva y Suelo Rústico No Urbanizable de Especial Protección (natural para los terrenos
+colindantes al este, y ambiental para cauces y barrancos).
+En cuanto a la sensibilidad ambiental del territorio y la capacidad de carga del medio:
+- Dominio público hidráulico y sus márgenes de protección: el informe de fecha 18 de mayo de 2024 de la
+Confederación Hidrográfica del Tajo, indica que la actuación planteada se halla en las siguientes zonas protegidas,
+aguas superficiales y masas de aguas subterráneas:
+El ámbito territorial se asienta sobre la Masa de Agua Subterránea «Aluvial del Tajo: Zorita de los Canes-Aranjuez»
+(ES030MSBT030.309) y se encuentra catalogado como Zona Vulnerable a la contaminación por nitratos («Lillo-
+Quintanar-Ocaña»). Asimismo, la planta solar se ubica en el área de captación de las zonas sensibles «Embalse de
+Azután» (ES030ZSENESCM495) y «Embalse de Castrejón» (ES030ZSENESCM572).
+- Montes de utilidad pública y vías pecuarias, dominio pecuario y forestal: La poligonal de la planta fotovoltaica
+linda por el sur con el Cordel de la Senda Galiana (vía pecuaria con un ancho legal de 37,61 m). Por su parte, la
+implantación eólica interfiere directamente con el monte consorciado «Montes de Villarrubia» (TO-3089).
+- Áreas protegidas previstas en la Ley 9/1999 de 26 de mayo, de Conservación de la Naturaleza: El emplazamiento
+presenta una elevada sensibilidad ecológica. La planta fotovoltaica colinda directamente al este con la Zona Especial
+de Conservación ZEC «Yesares del Valle del Tajo» (ES4250009), mientras que la ZEPA «Carrizales y Sotos de
+Aranjuez» (ES0000119) se sitúa a 4,5 km al noroeste del aerogenerador más próximo.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40623
+3.3. Características del potencial impacto.
+El análisis las características físicas del proyecto primitivo y la vulnerabilidad de la ubicación elegida determina la
+aparición de los siguientes impactos principales, los cuales motivaron la emisión del informe desfavorable inicial por
+parte del Servicio de Medio Natural:
+- Afección a Hábitats de Interés Comunitario (HIC) y suelos yesíferos: La implantación fotovoltaica original ocupaba
+recintos con presencia de matorral gipsófilo perteneciente al Hábitat de Interés Comunitario prioritario HIC 1520*
+(Matorrales gipsófilos ibéricos) en la parcela 11 (recinto 2) y parcela 13 (recinto 1) del polígono 506. Asimismo, el
+trazado original de la línea de evacuación cruzaba directamente la ZEC «Yesares del Valle del Tajo», generando
+una fragmentación directa sobre las comunidades de vegetación gipsícola (Salsola vermiculata, Ononis tridentata,
+Centaurium hyssopifolium) y los perfiles edáficos yesosos.
+- Impacto sobre la avifauna catalogada y efecto barrera: El ámbito del proyecto constituye un área de campeo y
+alimentación para grandes rapaces. Se consta la presencia estable de una pareja reproductora de Águila Imperial
+Ibérica (Aquila adalberti, especie catalogada en peligro de extinción) con un nido activo ubicado a aproximadamente
+1.000 m de la planta fotovoltaica. La ocupación de 16,07 ha y la presencia de aerogeneradores de 12,4 MW
+generaban en el diseño original un riesgo elevado de colisión y pérdida de hábitat de cazadero para el águila imperial
+y la culebrera europea, así como un efecto barrera sobre la conectividad ecológica local.
+- Afección a masa forestal por infraestructura eólica: La posición original del aerogenerador MSMo1 requería la tala
+directa de ejemplares de pino carrasco (Pinus halepensis) en un pinar de repoblación. La imposibilidad técnica de
+retranquear la turbina al norte por el cumplimiento de la distancia reglamentaria de seguridad a las líneas eléctricas
+de alta tensión (240 m según la ITC-LAT 07 del RD 223/2008) convirtió esta afección en un impacto directo inevitable
+en el diseño primitivo.
+- Patrimonio arqueológico y cultural: La apertura de la zanja de evacuación de 3.844 m colindaba con los ámbitos de
+protección arqueológica «Vega del Castellar» y «El Castellar», afectando asimismo a viales históricos como el «Camino
+de la Barca», lo que requería medidas específicas de control y seguimiento arqueológico de los movimientos de tierras.
+De acuerdo con el análisis de los factores anteriores, el impacto global del proyecto en su planteamiento primitivo
+fue clasificado como severo sobre la vegetación gipsícola protegida (HIC 1520*) y la avifauna catalogada en su zona
+de campeo, lo que hacía inviable su autorización en los términos inicialmente previstos.
+No obstante, la reconsideración del proyecto por parte del promotor al asumir las modificaciones técnicas definitivas
+derivadas del trámite de consultas —descritas en el Apartado Segundo del presente informe (consistentes en el
+soterramiento de la línea de evacuación bajo la caja de caminos existentes, la exclusión de seguidores en las teselas
+de hábitats sensibles y la reducción de potencia a 6,5 MWp solar y 9 MW eólica)—, permite mitigar de forma drástica
+la magnitud y persistencia de las afecciones directas.
+Por último, de acuerdo con las observaciones de campo del Agente Medioambiental (ref. AM-10663) de fecha 28 de
+agosto de 2026, se indica que los movimientos de tierras para viales y plataformas conllevan modificaciones locales
+del relieve y riesgo de erosión. Asimismo, se valora la acumulación de impactos sinérgicos derivados de la coexistencia
+de la central híbrida con la explotación minera en activo (“Minas El Castellar”) y las infraestructuras energéticas del
+entorno, requiriendo el estricto cumplimiento de las medidas de restauración e integración paisajística contempladas.
+Por todo lo anterior, considerando el carácter localizado de las instalaciones modificadas y la obligatoriedad del
+cumplimiento de las medidas correctoras y compensatorias específicas impuestas en el condicionado de este
+Informe de Impacto Ambiental, se concluye que el impacto residual sobre el entorno se reduce a una categoría
+de compatible a moderado. Bajo este diseño optimizado, la capacidad de acogida del territorio resulta plenamente
+apta para la actividad propuesta, garantizándose la integridad de los valores de la Red Natura 2000 colindante y
+determinándose que no es previsible la existencia de efectos adversos significativos sobre el medio ambiente, por
+lo que no se requiere someter el proyecto al procedimiento de evaluación de impacto ambiental ordinaria (conforme
+al artículo 54.2.b de la Ley 2/2020, de 7 de febrero).
+La duración del potencial impacto se circunscribirá a la vida útil de las instalaciones, resultando fácilmente reversible
+a la situación preoperacional una vez concluida la fase de desmantelamiento y restitución del terreno.
+Cuarto. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor en el documento ambiental, las
+cuales tienen carácter vinculante con el contenido del presente Informe, y considerando las respuestas recibidas a
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40624
+las consultas realizadas, se formulan las siguientes medidas adicionales de protección, tratándose de condiciones
+que deberán incorporarse en la correspondiente autorización emitida por el órgano sustantivo (Servicio de Minas de
+Toledo).
+4.1. Protección de los recursos naturales de la zona.
+La implantación del proyecto se localiza fuera, pero en colindancia directa con el espacio protegido de la Red Natura
+2000, en concreto con la Zona Especial de Conservación ZEC «Yesares del Valle del Tajo» (ES4250009). Según
+el informe inicial del Servicio de Medio Natural de Toledo, de fecha 16 de diciembre de 2024 (ref. 16375/jmg), el
+diseño primitivo de la central generaba una afección crítica por ocupación directa del Hábitat de Interés Comunitario
+prioritario HIC 1520* (Matorrales gipsófilos ibéricos), así como la pérdida de masa arbolada de pinar de repoblación
+derivada del trazado aéreo de evacuación y sus plataformas.
+Para subsanar estas afecciones y garantizar la viabilidad ambiental de la instalación, el promotor presentó en
+noviembre de 2025 el documento de modificaciones técnicas definitivas titulado «Respuesta al informe del Servicio
+de Medio Natural de Toledo (ref. 16375/jmg) relativo a las consultas previas». De conformidad con el informe definitivo
+favorable condicionado emitido por el Servicio de Medio Natural con fecha posterior (ref. 18170-16375/jmg), estas
+modificaciones reducen la ocupación y eliminan los efectos negativos significativos sobre la Red Natura 2000 y sus
+hábitats clave, determinándose las siguientes obligaciones técnicas específicas:
+A. Medidas de Protección y Conservación de Hábitats (HIC 1520* y Suelos Yesíferos):
+- Exclusión estricta de superficies sensibles: Queda totalmente prohibida la instalación de seguidores, paneles o
+viales de la planta fotovoltaica (MGE FV Nº 2) en el recinto 2 de la parcela 11 y en el recinto 1 de la parcela 13,
+ambos del polígono catastral 506. Estas superficies albergan las formaciones mejor conservadas de vegetación
+gipsófila (Arrhenathero erianthi-Stipetum tenacissimae) y quedan excluidas de la zona de obras, reduciendo la
+superficie de ocupación fotovoltaica útil a 6,5 ha.
+- Soterramiento ecológico de la línea de evacuación: Se anula el trazado directo original que discurría sobre matorrales
+naturales y laderas yesosas sensibles. El tendido eléctrico de evacuación discurrirá obligatoriamente soterrado bajo
+la caja de un camino de acceso ya existente, reduciendo la afección directa sobre la vegetación natural a cero.
+- Protección y micro-replanteo de la ZEC: Aunque el proyecto modificado no prevé una ocupación directa en el interior
+de los límites oficiales de la Zona Especial de Conservación (ZEC) «Yesares del Valle del Tajo» (ES4250009), su
+colindancia inmediata exige extremar las precauciones. El promotor deberá realizar un micro-replanteo en campo
+previo al inicio de las obras con la asistencia obligatoria del Agente Medioambiental de la zona.
+- Buffer de seguridad y delimitación: Previamente al inicio de cualquier desbroce o movimiento de tierras, se procederá
+a realizar un balizamiento rígido in situ de los hábitats a preservar bajo la supervisión del Agente Medioambiental de
+la zona. El cerramiento perimetral de la planta solar mantendrá una distancia mínima de seguridad de 5 m respecto
+al linde exterior de cualquier tesela del hábitat de interés comunitario prioritario HIC1520*.
+- Ahoyado manual de linderos: Para la excavación de las zanjas de evacuación y el hincado de los postes del
+vallado perimetral adyacentes a las zonas de yesos sensibles, los trabajos se ejecutarán de forma estrictamente
+manual. Queda prohibido el paso o maniobra de maquinaria pesada sobre las laderas yesosas con el fin de evitar la
+compactación y alteración de los perfiles gipsícolas del suelo.
+- Control de especies invasoras: Durante toda la vida útil de la central, el promotor deberá retirar y erradicar cualquier
+espécimen de flora exótica invasora que se desarrolle en el interior del cerramiento o en la pantalla vegetal perimetral,
+favoreciendo la recolonización natural de la flora autóctona yesófila.
+B. Medidas preventivas, correctoras, y compensatorias de la fauna silvestre (avifauna y quirópteros):
+- Dispositivos anticolisión eólicos: Con el fin de evitar colisiones accidentales de grandes rapaces catalogadas —con
+especial atención al Águila imperial ibérica (Aquila adalberti)— y de quirópteros protegidos, los dos aerogeneradores
+del Módulo Eólico (MGE Eólico Nº 1) estarán equipados obligatoriamente con sistemas automáticos de monitorización
+en tiempo real provistos de visión artificial estereoscópica 3D, parada automática del rotor y dispositivos de disuasión
+acústica y visual.
+- Control de la vegetación sin fitosanitarios: Con el objeto de preservar la calidad del suelo y de las aguas subterráneas,
+se prohíbe el uso de herbicidas, rodenticidas o cualquier producto fitosanitario químico en todo el recinto de la
+instalación fotovoltaica. El control y mantenimiento de la cobertura vegetal bajo los paneles solares se realizará
+exclusivamente por medios mecánicos (desbroce manual/mecánico) o mediante pastoreo controlado de ganado
+ovino. Asimismo, se procederá a la erradicación obligatoria de cualquier espécimen de flora exótica invasora que
+germine dentro del cerramiento o en la pantalla vegetal perimetral.
+- Paradas nocturnas para la protección de quirópteros: Para salvaguardar a las poblaciones de murciélagos
+catalogadas como vulnerables en la zona, se ejecutará la parada temporal obligatoria de los aerogeneradores
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40625
+durante el período comprendido entre el 1 de mayo y el 31 de octubre, desde una hora antes del ocaso hasta tres
+horas después del mismo, siempre que la velocidad del viento sea inferior a 6 m/s.
+- Otras medidas de mitigación faunística: Durante la fase de construcción, toda zanja de canalización eléctrica que
+deba permanecer abierta durante la noche dispondrá de rampas o sistemas de escape provisionales para evitar
+la caída y atrapamiento de fauna terrestre. Asimismo, durante la explotación, el promotor estará obligado a retirar
+de forma inmediata cualquier cadáver animal o res muerta localizada en un radio de 500 metros alrededor de los
+aerogeneradores para evitar la atracción de aves carroñeras hacia el área de barrido de las palas.
+- Las medidas compensatorias se detallan a continuación:
+1. Plan de Gestión Agroambiental Estepario (15,7 ha reales):
+- 6,5 ha en barbecho permanente: Áreas de reserva excluidas de rotación para servir de zona de refugio, descanso
+y nidificación estable.
+- 8,2 ha en rotación trienal agroambiental.
+- 1,0 ha de linderos florales:
+2. Suministro e instalación de 10 Cajas Nido dentro del monte de utilidad pública consorciado “Montes de Villarrubia”
+(TO-3089), previa coordinación con el Ayuntamiento de Villarrubia de Santiago y el Servicio de Medio Natural.
+3. Construcción de vivares para lagomorfos.
+4. Adquisición de emisores satelitales GPS-GSM.
+C. Protección del Dominio Público Pecuario y de los Caminos Históricos:
+- Concesión de Ocupación Temporal en el Monte TO-3089: Dado que el nuevo trazado soterrado de la línea de
+evacuación de media tensión (trazado verde) discurre bajo viales existentes que interfieren con terrenos del monte
+consorciado «Montes de Villarrubia» (M.U.P. TO-3089), propiedad del Ayuntamiento de Villarrubia de Santiago, el
+promotor deberá obtener de forma obligatoria la correspondiente concesión o autorización de ocupación temporal
+ante esta Delegación Provincial con carácter previo al otorgamiento de la autorización administrativa de construcción
+por el Servicio de Minas.
+- Plantación forestal compensatoria (Pinar afectado): La plataforma del aerogenerador más septentrional (MSMo1),
+cuya posición no ha podido ser modificada técnicamente por motivos de distancias de seguridad a tendidos e
+infraestructuras eléctricas aéreas preexistentes, afecta de forma irreversible a una pequeña porción de pinar de
+repoblación (Pinus halepensis). En compensación, el promotor ejecutará a su costa la plantación del mismo número
+de pinos carrascos afectados. El mantenimiento, riego de apoyo y sustitución de marras de estas plantaciones se
+integrará en el programa de vigilancia ambiental durante los primeros años hasta garantizar su arraigo definitivo.
+- Respeto a la anchura legal de la vía pecuaria: El vallado perimetral, los seguidores solares y cualquier edificación
+del módulo fotovoltaico deberán respetar escrupulosamente el trazado físico y el ancho legal total de 37,61 m
+correspondiente a la vía pecuaria «Cordel de la Senda Galiana» (Ref. 195-068), de conformidad con lo establecido
+en el informe del Servicio de Medio Natural de Toledo de fecha 16 de diciembre de 2024 (Ref. 16375/jmg). Asimismo,
+en cumplimiento de la Ley 9/2003, de Vías Pecuarias de Castilla-La Mancha, se respetará una franja de protección
+ambiental no edificable de 5 m desde el límite exterior de la vía pecuaria, la cual tiene la consideración de suelo
+rústico de especial protección ambiental.
+Cualquier cruzamiento subterráneo o aéreo provisional para el paso de maquinaria de obra, acopio de materiales o
+el soterramiento definitivo de la línea de evacuación de media tensión en el ámbito del Cordel requerirá la obtención
+de la correspondiente autorización de ocupación temporal ante la Delegación Provincial de Desarrollo Sostenible, de
+conformidad con la citada Ley 9/2003, de Vías Pecuarias de Castilla-La Mancha. Queda prohibido el uso de la vía
+pecuaria como vial de acceso permanente o zona de aparcamiento de vehículos del proyecto.
+- Patrimonio Viario Histórico: De acuerdo con lo exigido en el informe de la Delegación Provincial de Educación,
+Cultura y Deportes de Toledo de fecha 4 de junio de 2024 (ref. 200854), las obras deberán respetar de forma
+absoluta el trazado y el ancho legal determinado para el «Camino del Castellar». Asimismo, cualquier movimiento
+de tierras para plataformas o caminos de acceso que se realice desde el elemento viario protegido «Camino de la
+Barca» quedará sujeto a un seguimiento y control arqueológico permanente y presencial por técnico autorizado.
+D. Inventario Faunístico y de Avifauna Protegida de Referencia:
+Como fundamento científico para la aplicación de las posteriores medidas protectoras y compensatorias específicas
+del condicionado, se hace constar que, según los datos de campo del Estudio de Fauna de Ciclo Anual (completado
+entre agosto de 2022 y julio de 2023) y el informe del Servicio de Medio Natural de 16/12/2024, se constata la presencia
+regular en el ámbito del proyecto y su entorno inmediato de las siguientes especies protegidas y amenazadas.
+4.2. Protección del sistema hidrológico e hidrogeológico.
+Para la ejecución de las obras y la posterior explotación de la central híbrida, se estará a lo dispuesto de manera
+vinculante en el informe oficial de la Confederación Hidrográfica del Tajo (CHT), de fecha 18 de mayo de 2024 (ref.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40626
+EIA-0207/2024), el cual establece el siguiente condicionado técnico destinado a la protección del Dominio Público
+Hidráulico (DPH), sus zonas de protección y las masas de agua de la zona:
+- Los movimientos de tierras y excavaciones para las cimentaciones de aerogeneradores, seguidores solares y
+zanjas de cableado se ejecutarán procurando no afectar bajo ningún concepto a los niveles freáticos ni a la zona de
+recarga de acuíferos.
+- Se construirá obligatoriamente un foso de recogida de aceite bajo los transformadores de las subestaciones y
+centros de transformación. Dicho foso estará impermeabilizado y dimensionado para albergar de forma estanca
+el 100 % del volumen de aceite del transformador en caso de fuga, impidiendo la contaminación de las aguas
+superficiales y subterráneas.
+- Las áreas destinadas al almacenamiento temporal de residuos peligrosos (aceites, grasas, lubricantes) y materiales
+de obra se ubicarán sobre superficies completamente impermeabilizadas y preferentemente a cubierto, contando
+con un sistema perimetral de contención. Se mantendrán permanentemente en obra sacos de sepiolita o absorbente
+inerte similar para atajar derrames fortuitos de forma inmediata.
+- Para evitar la pérdida de suelo fértil y el arrastre de partículas sólidas durante las excavaciones en los límites del
+páramo, el promotor instalará barreras de sedimentos móviles (mallas de retención) en los puntos con pendiente de
+las parcelas para retener de forma efectiva el arrastre de tierras pluvial.
+Por último, desde este Servicio de Calidad Ambiental se recuerda la prohibición absoluta de realizar el lavado de
+camiones hormigonera, cubas de cemento o maquinaria pesada en el recinto de las obras. Dichas operaciones de
+limpieza deberán ejecutarse obligatoriamente en las plantas de origen de las empresas proveedoras externas.
+4.3. Protección del suelo y gestión de residuos.
+La implantación de la Fase II de la Central Híbrida Autoconsumo «MSM-Villarrubia» implica la ocupación temporal
+y permanente de terrenos rústicos mediante la instalación de los seguidores de la planta solar (MGE FV Nº 2), la
+cimentación de los 2 aerogeneradores (MGE Eólico Nº 1), el módulo de almacenamiento por baterías de litio y las
+canalizaciones de la red colectora interna. Para minimizar la degradación del relieve, evitar procesos de erosión
+activa en el páramo yesoso y garantizar una correcta protección del suelo y la gestión de los residuos, se establecen
+las siguientes condiciones obligatorias:
+- Todos los excedentes de tierras procedentes de las excavaciones de las zapatas de los 2 aerogeneradores
+(MGE Eólico Nº 1) y de las zanjas se distribuirán de forma homogénea dentro del propio campo solar, quedando
+estrictamente prohibido el traslado de tierras sobrantes a vertederos exteriores.
+- En cuanto a las zanjas, se evitará alcanzar el nivel freático durante las excavaciones, y se restaurará ambiental y
+paisajísticamente todo el terreno afectado.
+- Deberán adoptarse soluciones técnicas satisfactorias para evitar el posible impacto originado por los cambios de
+topografía sobre el terreno (si bien éstos serán mínimos), la compactación y la erosión del suelo.
+- Tanto los viales interiores de la planta solar como los caminos de acceso no se hormigonarán, ni asfaltarán, siendo
+aceptada su compactación con zahorra de la zona o grava. El mismo caso se aplicará para la realización de cunetas
+en la planta (si estas fueran necesarias), en ningún caso se hormigonarán, ni asfaltarán, en aras a producir el
+mínimo impacto y generación de residuos, dado que estas instalaciones se desarrollan en el medio natural.
+- Con respecto al hincado de los soportes de los módulos fotovoltaicos, en ningún caso, se usará hormigón, solo
+el hincado natural en el terreno, a una profundidad que será calculada en función de lo que indiquen los distintos
+Estudios y Ensayos en terreno antes de la realización de las obras.
+- Con respecto a los residuos generados durante las obras de instalación del proyecto deberán gestionarse conforme
+a lo dispuesto en la Ley 7/2022, de 8 de abril, de Residuos y suelos contaminados para una economía circular.
+Igualmente deberá tener en cuenta, en caso necesario, Real Decreto 105/2008, de 1 de febrero, por el que se
+regula la producción y gestión de los residuos de construcción y demolición. Los residuos de aparatos eléctricos y
+electrónicos generados durante toda la vida útil de la actividad, se gestionarán conforme al Real Decreto 110/2015,
+de 20 de febrero, sobre residuos de aparatos eléctricos y electrónicos.
+- Como medida correctora complementaria se estima necesaria la realización de batidas de limpieza de residuos en
+el área de influencia directa de la actuación. Dichas batidas estarán destinadas a la retirada de residuos voluminosos
+procedentes de las obras, pequeños residuos procedentes de la afluencia de trabajadores, tales como botellas,
+botes, colillas, etc.
+- Todos los residuos deberán separarse en función de su naturaleza y entregarse a gestores autorizados. Así, se
+deberán utilizar cubetas para su posterior traslado a plantas de tratamiento. Al término de las obras, la zona de
+actuación deberá quedar libre de cualquier clase de residuo.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40627
+- Queda prohibida la deposición en el terreno de restos del lavado de hormigón, mediante la apertura de hoyos de
+sobrantes de cementos.
+- El empleo de vehículos pesados y maquinaria a motor acarrea un riesgo de generación de residuos peligrosos,
+debido a las fugas de combustibles, aceites y lubricantes durante el funcionamiento y mantenimiento de toda esta
+maquinaria. En el caso de que se produzcan esos escapes o fugas accidentales sobre el terreno, se deberá actuar
+de inmediato sobre el suelo afectado para evitar su infiltración, retirándolos junto con las tierras afectadas hasta
+una profundidad y extensión que asegure la ausencia de estos compuestos. Estas tierras contaminadas deberán
+depositarse en contenedores estancos habilitados al efecto, y entregarlos a un gestor autorizado de residuos
+peligrosos.
+- El promotor del proyecto, o en su caso el contratista de las obras, deberá estar inscrito en el Registro de Productores
+de Residuos de Castilla-La Mancha, y suscribir el correspondiente contrato con un gestor autorizado para su posterior
+gestión.
+4.4. Protección urbanística e infraestructuras.
+Para garantizar la compatibilidad territorial de la central híbrida, el respeto al planeamiento urbanístico municipal de
+Villarrubia de Santiago y la seguridad de las infraestructuras de transporte y transporte de energía colindantes, se
+establece el cumplimiento obligatorio del siguiente condicionado:
+- Las instalaciones de la Fase II de la central híbrida se implantan sobre terrenos clasificados como Suelo No
+Urbanizable (Suelo Rústico), resultando plenamente compatibles con las determinaciones de las Normas Subsidiarias
+de planeamiento de Villarrubia de Santiago y el Decreto Legislativo 1/2010 (TRLOTAU). La distribución de cada
+actuación en el suelo es de la siguiente forma:
+- La planta fotovoltaica (MGE FV Nº 2) se asienta sobre suelo rústico de reserva, colindando por el este con suelo
+rústico de especial protección natural (ZEC «Yesares del Valle del Tajo») y por el sur con suelo rústico de especial
+protección ambiental por la presencia del Cordel de la Senda Galiana.
+- Los aerogeneradores y sus plataformas recaen mayoritariamente sobre suelo rústico no urbanizable de especial
+protección natural, situándose el aerogenerador más septentrional sobre suelo rústico de reserva.
+- El trazado de la línea de evacuación subterránea discurre de forma compartida por suelo rústico de reserva, suelo
+rústico de especial protección natural y suelo rústico de especial protección ambiental (vaguadas estacionales).
+- El módulo de almacenamiento por baterías se implanta íntegramente sobre suelo rústico de reserva, en el interior
+del recinto de la fotovoltaica ya existente (MGE FV Nº1).
+Al ubicarse en suelo rústico, deberán cumplirse las prescripciones de la Orden 4/2020, de 15 de enero, de la
+Consejería de Fomento, por la que se aprueba la Instrucción Técnica de Planeamiento sobre determinados requisitos
+sustantivos que deberán cumplir las obras, construcciones e instalaciones sobre suelo rústico. Igualmente, se
+observarán los condicionantes del Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo
+Rústico.
+En lo referente a Infraestructuras, se estará a lo dispuesto en las condiciones de obligado cumplimiento establecidas
+por la Dirección General de Carreteras de la Consejería de Fomento de Toledo, que analiza la afección sobre la
+carretera comarcal CM-322, en su informe de fecha 19 de julio de 2024:
+- Distancia de seguridad del módulo eólico: Presentando los aerogeneradores una altura total de 200 metros (115 m
+de altura de buje más 85 m de radio del rotor), el aerogenerador más próximo (MSM01) se instalará a una distancia
+mínima de 300 metros de la calzada de la CM-322. Con ello se cumple el Reglamento de Carreteras de Castilla-La
+Mancha (Decreto 1/2015, de 22 de enero), que exige que los aerogeneradores se sitúen a una distancia respecto a
+la calzada superior a vez y media (1,5 veces) su altura total.
+- Distancia de la planta fotovoltaica y baterías: El vallado perimetral del MGE FV Nº 2 y el módulo de baterías se
+ubicarán a una distancia superior a 170 metros respecto a la carretera CM-322, quedando fuera de las zonas de
+afección legal de la vía (dominio público, servidumbre, protección y línea de edificación).
+- Uso exclusivo de accesos autorizados: El acceso de maquinaria y vehículos de obra se realizará exclusivamente
+a través de las intersecciones tipo «T» ya existentes en la carretera CM-322 (pp.kk. 9+530 y 12+065, margen
+izquierda), las cuales están acondicionadas y cuentan con carriles de cambio de velocidad y giros centrales. Queda
+expresamente prohibida la apertura de nuevos accesos, provisionales o permanentes.
+- Estudios técnicos previos obligatorios: Antes del inicio de las obras de construcción, el promotor deberá redactar
+y obtener la aprobación de la Dirección General de Carreteras de la Consejería de Fomento de Toledo sobre los
+siguientes documentos:
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40628
+- Estudio de resplandor solar y deslumbramiento: Que analice el potencial de brillo de los paneles solares de la
+planta fotovoltaica MGE FV Nº 2 sobre los usuarios de la carretera CM-322, y garantizar la seguridad vial.
+- Estudio de afección hidrológica: Para evaluar la alteración del drenaje de las parcelas y proponer las obras de paso
+necesarias que eviten el incremento de caudales de escorrentía hacia la calzada.
+Con respecto al Dominio Público Pecuario, se tendrá en cuenta lo siguiente:
+- Cordel de la Senda Galiana: El vallado, los paneles fotovoltaicos y el módulo de almacenamiento del proyecto
+deberán respetar estrictamente el trazado físico y el ancho legal total de 37,61 m de la vía pecuaria «Cordel de la
+Senda Galiana» (ref. 195-068), colindante al sur del ámbito fotovoltaico.
+- Franja de protección y ocupación: Conforme a la Ley 9/2003, de 20 de marzo, de vías pecuarias de Castilla-La
+Mancha, se respetará una franja de protección ambiental no edificable de 5 metros contados desde el límite exterior del
+Cordel. Cualquier cruzamiento subterráneo o aéreo provisional para el paso de maquinaria, acopio de materiales o el
+soterramiento definitivo de la línea de evacuación de media tensión que interfiera con el Cordel requerirá la obtención
+previa de la correspondiente autorización de ocupación temporal ante la Delegación Provincial de Desarrollo Sostenible.
+Por último, se recuerda que cualquier modificación relacionada con la instalación del proyecto deberá ser comunicada
+previamente al Servicio de Calidad Ambiental de la Delegación Provincial de Desarrollo Sostenible de Toledo.
+4.5. Protección a la atmósfera, calidad del aire y prevención del ruido.
+Aunque la actividad no se encuentra en el catálogo de actividades potencialmente contaminadoras de la atmósfera,
+publicado en el Real Decreto 100/2011, de 28 de enero, para mitigar la emisión de partículas difusas durante las
+fases de construcción y desmantelamiento, garantizar la tranquilidad acústica del entorno y prevenir interferencias
+lumínicas y destellos sobre la seguridad vial de la carretera comarcal CM-322, se establece el cumplimiento estricto
+del siguiente condicionado técnico:
+Para dar cumplimiento a la Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera, y minimizar
+la dispersión de polvo durante los movimientos de tierras, el promotor ejecutará las siguientes medidas preventivas:
+- Se procederá al riego sistemático de caminos, parque de maquinaria y zonas de instalaciones mediante camiones
+cisterna (empleando agua de procedencia legal). Asimismo, se humedecerán de forma constante y previa las zonas
+de excavación y los acopios temporales de materiales.
+- La velocidad máxima de circulación en las pistas de tierra quedará limitada de forma absoluta a 20 km/h. Además,
+los volquetes que transporten materiales polvorientos deberán cubrirse obligatoriamente con lonas, y se reducirá al
+mínimo imprescindible la altura de descarga de tierras para evitar su dispersión eólica.
+- Se vigilará periódicamente la deposición de polvo sobre la vegetación natural colindante. En caso de detectarse
+acumulación sobre matorrales o pinos adyacentes, se procederá a su lavado inmediato mediante pulverización
+suave con agua limpia.
+Las emisiones sonoras generadas por las obras y por el funcionamiento posterior de los inversores de la planta
+fotovoltaica y de los dos aerogeneradores SG170 del Módulo Eólico deberán respetar rigurosamente los límites
+máximos establecidos en la Ley 37/2003, de 17 de noviembre, del Ruido, sus Reglamentos de desarrollo
+(especialmente el Real Decreto 1367/2007) y las ordenanzas municipales de Villarrubia de Santiago.
+Al tratarse de un área rústica con un predominio de actividad industrial extractiva (Minas El Castellar), el límite de
+emisión acústica aplicable en los sectores limítrofes para los periodos diurno, vespertino y nocturno se fija en 75 dB(A).
+Se aplicará un programa periódico de revisión y mantenimiento preventivo de los escapes, rodamientos, engranajes
+y mecanismos de la maquinaria pesada para evitar ruidos molestos por desgaste.
+Se evitarán los trabajos nocturnos para minimizar las molestias acústicas sobre la fauna silvestre de la ZEC colindante
+y prevenir atropellos por deslumbramientos.
+Para proteger el paisaje nocturno y evitar la mortandad de lepidópteros catalogados, la instalación cumplirá
+estrictamente con el Reglamento de Eficiencia Energética en alumbrado exterior (Real Decreto 1890/2008, de 14 de
+noviembre) bajo las siguientes directrices:
+- Queda totalmente prohibida la iluminación permanente en el interior de los campos fotovoltaicos. Los puntos de luz
+se limitarán de forma exclusiva a los accesos de control, la caseta de explotación y el módulo de baterías.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40629
+- Se emplearán luminarias de luz cálida y alta eficiencia, filtrando las longitudes de onda nocivas (por debajo de 540
+nm). Los haces de luz se dirigirán estrictamente hacia el suelo, impidiendo cualquier emisión luminosa por encima
+del plano horizontal.
+- La iluminación operará obligatoriamente mediante sensores de movimiento de encendido temporal. El alumbrado
+continuo queda restringido de forma exclusiva a situaciones de emergencia o seguridad.
+- El señalamiento nocturno de los dos aerogeneradores se ajustará a las exigencias de la Agencia Estatal de
+Seguridad Aérea (AESA), debiendo emplear la mínima intensidad lumínica permitida y sistemas de destellos tenues
+para mitigar el impacto visual sobre el entorno.
+De conformidad con el informe de fecha 19 de julio de 2024, (ref. TO-10124-21-SC) de la Dirección General de
+Carreteras de la Consejería de Fomento, el promotor redactará y someterá a aprobación sectorial, previamente al
+inicio de las obras, un Estudio de Resplandor Solar y Deslumbramiento. Este documento deberá contener, como
+mínimo, el siguiente alcance técnico:
+- Análisis geométrico: Evaluará el potencial de reflejos y brillo de los paneles MGE FV Nº 2, con estructura fija a 15º
+y orientación sur) hacia los conductores que circulen por la carretera CM-322 durante cualquier época del año.
+- Clasificación de destellos: Categorizará los posibles reflejos conforme a los tres estándares de seguridad vial:
+- Medidas de mitigación pasiva: Propondrá y justificará soluciones técnicas viables (ej. apantallamiento vegetal
+denso o microajustes en la orientación lateral de las hileras extremas) en caso de que los cálculos determinen la
+existencia de reflejos de categoría amarilla o roja sobre la calzada.
+4.6. Protección del paisaje.
+La presencia de instalaciones industriales preexistentes (Minas El Castellar, parque eólico La Plata y líneas
+eléctricas) facilitará la absorción de los nuevos elementos en el entorno. No obstante, para mitigar la intrusión visual
+y garantizar la correcta integración de las instalaciones de la Fase II en la unidad paisajística del páramo y la llanura
+del Tajo, se establece el cumplimiento obligatorio del siguiente condicionado técnico:
+- En fase de construcción las instalaciones fijas provisionales se situarán en zonas poco visibles y su color será poco
+llamativo.
+- Los seguidores y las partes traseras de los módulos fotovoltaicos (MGE FV Nº 2) se diseñarán con acabados mates
+y tonalidades neutras acordes al suelo yesoso y matorral circundante. Queda absolutamente prohibido el uso de
+pinturas reflectantes o superficies pulidas brillantes que puedan generar destellos hacia el páramo o las carreteras.
+- Las dos turbinas eólicas (MGE Eólico Nº 1, de 200 m de altura) se pintarán en color blanco mate o gris claro mate
+no reflectante. Para el firme de los nuevos viales y plataformas de montaje se empleará zahorra de canteras locales,
+cuyas características mineralógicas y cromáticas sean idénticas a las de los caminos de la explotación minera
+existente, evitando contrastes lineales.
+- Los centros de transformación, el centro de seccionamiento y la caseta de baterías respetarán la tipología
+constructiva rural de la Mesa de Ocaña, empleando paramentos exteriores en tonos ocres o tierra y cubiertas mates.
+Todos los remates deberán quedar perfectamente ejecutados antes de iniciar las pruebas de explotación.
+- Al finalizar la construcción, se desmantelarán por completo el punto limpio temporal, las casetas de obra y el parque
+de maquinaria, retirando cualquier resto inerte y restaurando topográficamente el terreno afectado.
+-Como medida correctora complementaria se estima necesaria la realización de batidas de limpieza de residuos
+en el área de influencia directa del parque (alrededor de 200 metros) y de la línea de evacuación (alrededor de
+50 metros). Dichas batidas estarán destinadas a la retirada de residuos voluminosos procedentes de las obras,
+pequeños residuos procedentes de la afluencia de trabajadores, tales como botellas, botes, colillas, etc.
+Desde el Servicio de Calidad Ambiental de Toledo se indica que, con el fin de aminorar el impacto visual, se ejecutará
+una pantalla vegetal perimetral completa a lo largo del vallado exterior de las 6,5 ha útiles de la planta solar (MGE
+FV Nº 2), bajo las siguientes especificaciones:
+a) Plantación perimetral:
+- Diseño técnico: La barrera tendrá un ancho mínimo de 5 m y se implantará preferentemente por la parte interior del
+vallado perimetral, distribuyéndose en al menos 3 líneas de plantación alternas.
+- Vallado Perimetral: El vallado perimetral del módulo fotovoltaico (MGE FV Nº 2) será de tipo malla cinegética,
+garantizando la permeabilidad para el tránsito de pequeña y mediana fauna silvestre al carecer de elementos
+cortantes o punzantes (como alambres de espino). Deberá respetar una luz libre inferior respecto al suelo de al
+menos 15 cm y contar con cuadros de luz con un tamaño máximo de 300 cm².
+Para reducir el riesgo de colisión de aves, se instalarán placas anticolisión de plástico visual o aluminio de 25 x 25
+cm, colocándose dos placas por cada vano de 6 metros (o una cada 3 metros) dispuestas en dos hileras alternas con
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40630
+una diferencia de 20 cm de altura. Los postes perimetrales se instalarán mediante hincado directo sobre el terreno,
+quedando prohibido de forma absoluta el uso de hormigón para su cimentación.
+- Composición de especies: Se combinarán arbustos autóctonos de diferentes alturas para favorecer la sucesión
+ecológica. Se emplearán exclusivamente: retama (Retama sphaerocarpa), coscoja (Quercus coccifera), acebuche
+(Olea europaea var. sylvestris), romero (Rosmarinus officinalis), tomillo (Thymus vulgaris) y esparto (Stipa
+tenacissima). La plantación se reforzará con siembra herbácea rica en néctar para potenciar los polinizadores.
+- El promotor presentará ante el órgano ambiental, para su validación e informe favorable, un anexo técnico de las
+plantaciones, suscrito por técnico competente, incluyendo un cuadro de mediciones, el presupuesto de ejecución,
+los planos de localización y detalle oportunos, debidamente acotados y a la escala adecuada.
+- Con el fin de garantizar la correcta ejecución de los trabajos se contactará con los Agentes Medioambientales de
+la zona a través del Coordinador Comarcal de la Demarcación territorial correspondiente, antes de su inicio para su
+supervisión.
+- El plazo de ejecución de los trabajos de plantación será el comprendido entre el 1 de octubre y el 28 de febrero,
+recomendándose realizar la plantación en el otoño junto con las primeras lluvias cuando exista tempero y ausencia
+de condiciones atmosféricas adversas como fuertes heladas o días de viento.
+- Se realizarán todas las labores necesarias para asegurar la viabilidad de las especies introducidas, esto es, una
+adecuada preparación del terreno antes de la plantación, aporcado de las plantas una vez plantadas, realización de
+alcorques, colocación de protectores individuales, etc.
+- La anchura mínima de la plantación perimetral será de 5 metros, deberá cubrir distintos rangos de altura y
+preferentemente se plantará en el interior del cerramiento.
+- Los cuidados posteriores a la siembra o plantación (reposición de marras, riegos, etc.) se mantendrán durante
+la vida útil de la instalación. Se deberán reponer las marras producidas al año siguiente de las mismas durante al
+menos los 10 primeros años de la plantación, admitiéndose unas marras de un máximo de un 10 % del total de la
+planta o siempre que no se consiga el efecto de apantallamiento o de corredor con la vegetación superviviente.
+- Terminados los trabajos de plantación, se retirará del medio natural las bandejas y demás residuos generados.
+b) Características de las plantas.
+- Las plantas a introducir deberán ser originarias de la Región de Procedencia indicada, que se acreditará mediante
+el correspondiente certificado expedido por el productor de planta.
+- Los materiales de reproducción (plantas, partes de planta, frutos y semillas) a emplear procederán de viveros
+o establecimientos debidamente inscritos en el Registro de Productores de Plantas de Vivero de la Comunidad
+Autónoma de Castilla-La Mancha, viveros oficiales o, en su defecto de aquellos otros viveros igualmente legalizados.
+- Las dimensiones y calidad exterior de la planta se ajustarán a las recogidas en el Real Decreto 289/2003, de 7 de
+marzo, sobre Comercialización de los materiales forestales de reproducción.
+- Una vez se apruebe el proyecto por el órgano sustantivo, el promotor contará con 15 meses para la ejecución de
+la plantación. Realizada la misma, se deberá comunicar al Agente Medioambiental de la zona o al Servicio de Medio
+Ambiente de la Delegación Provincial de Toledo, para su visita y comprobación.
+c) Restauración ecológica y compensación forestal:
+- Para compensar la eliminación de pino carrasco (Pinus halepensis) ocasionada por la plataforma del aerogenerador
+MSMo1, el promotor plantará el mismo número de ejemplares en terrenos de su propiedad. Esta medida da
+cumplimiento a lo exigido por el Servicio de Medio Natural (ref. 16375, pág. 5)
+- Hidrosiembra de taludes y zanjas: Las superficies alteradas temporalmente por las obras del módulo eólico
+(sobreanchos, plataformas, zanjas y taludes) se restituirán a su perfil original y se someterán a una hidrosiembra
+protectora contra la erosión compuesta por: Centaurea hyssopifolia, Gypsophila struthium, Helianthemum
+squamatum, Lepidium subulatum y Lygeum spartum. Esta actuación da cumplimiento a lo exigido por el Servicio de
+Medio Natural (ref. 16375, pág. 5).
+d) Mantenimiento de la cubierta bajo paneles: Los suelos bajo los seguidores fotovoltaicos permanecerán intactos.
+La gestión de esta vegetación herbácea natural se realizará exclusivamente mediante medios mecánicos manuales
+(desbrozadora) o pastoreo extensivo con ganado ovino, quedando estrictamente prohibido el empleo de herbicidas
+o fitosanitarios químicos.
+4.7. Patrimonio cultural.
+De conformidad con el informe definitivo favorable y condicionado emitido por la Delegación Provincial de Educación,
+Cultura y Deportes de Toledo con fecha 4 de junio de 2024 (ref. 200854), que analiza los resultados del Estudio
+de Valoración Histórico-Cultural redactado por el arqueólogo autorizado del proyecto, la construcción de las
+infraestructuras de la central híbrida queda sujeta al cumplimiento estricto de las siguientes condiciones:
+- Seguimiento en la Vega y el cerro del Castellar: Se exigirá la realización de un seguimiento arqueológico permanente
+de los movimientos de tierras y excavaciones de la zanja para el soterramiento de la línea de evacuación de media
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40631
+tensión en todos sus tramos colindantes con el Ámbito de Protección A.II.1 «Vega del Castellar» y el elemento
+A.III.10 «El Castellar».
+- Seguimiento de plataformas eólicas y accesos: Se llevará a cabo un seguimiento arqueológico presencial de los
+movimientos de terreno requeridos para la construcción de las plataformas de montaje de los aerogeneradores
+(MGE Eólico Nº 1) y de la apertura o adecuación de sus viales de acceso que partan o se realicen desde el elemento
+viario e histórico protegido «Camino de la Barca».
+- Respeto al ancho legal del Camino del Castellar: La planta y el cerramiento perimetral de la Fase II deberán
+respetar escrupulosamente el trazado físico y el ancho legal determinado para el elemento viario histórico protegido
+«Camino del Castellar».
+- Control en sectores de especial vulnerabilidad: Se ejecutará un control arqueológico permanente del soterramiento
+de la línea de evacuación de media tensión en el tramo comprendido entre los elementos patrimoniales catalogados
+«Cueva del Montón de Trigo y «Corral y Chozo del Castellar».
+- Control arqueológico extensivo generalizado: Se prescribe un control arqueológico extensivo sobre el resto del
+trazado de la línea de evacuación subterránea y sobre cualquier otra obra de remoción de terrenos del proyecto
+(decapados, desbroces de 40 cm de espesor medio, desmontes, zanjas para el cableado de baja tensión y
+cimentaciones de las hincas y estructuras soporte de los seguidores fotovoltaicos del MGE FV Nº 2).
+- En caso de aparición de restos arqueológicos y/o paleontológicos durante el transcurso de las obras se deberá
+actuar conforme a lo previsto en el artículo 52 de la Ley 4/2013 de 16 de mayo de Patrimonio Cultural de Castilla-La
+Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia
+de Patrimonio Cultural.
+4.8. Plan de restauración y desmantelamiento.
+Una vez finalizadas las obras, antes del inicio de la actividad y dentro del primer trimestre del año, el promotor
+deberá elaborar un informe dentro del Plan de Vigilancia y Seguimiento Ambiental acerca del grado de cumplimiento
+de las medidas propuestas en el documento ambiental y en el presente informe, en aspectos tales como la gestión
+de las tierras —incluyendo la retirada selectiva de la capa de tierra vegetal con un espesor medio de 40 cm, sus
+condiciones de acopio en cordones de 1,5 a 2,5 metros de altura y la posterior preparación y descompactación
+mediante gradeo superficial, tal como indica el documento ambiental—, la regeneración de la vegetación en la
+planta fotovoltaica y el cumplimiento de todas las medidas correctoras y compensatorias establecidas. La capa
+de tierra extraída durante la fase de construcción se almacenará y mantendrá adecuadamente para ser utilizada
+posteriormente en la restauración de las zonas degradadas.
+Una vez finalizada la actividad de forma permanente, la totalidad de las instalaciones y elementos asociados al proyecto
+deberán desmantelarse y retirarse de la zona por gestores autorizados en función de la naturaleza de los residuos
+generados, procurando en la medida de lo posible la reutilización de dichos elementos. El desmantelamiento incluirá
+la retirada de todos los restos de material, residuos o tierras sobrantes, incluidos los cerramientos perimetrales, el
+cableado subterráneo, los aerogeneradores, las estructuras de seguidores solares, la cimentación de los centros de
+transformación y de las instalaciones auxiliares asociadas, edificio de las baterías de litio, etc. Se extremarán las
+precauciones en el caso de los residuos peligrosos -como aceites, placas fotovoltaicas y baterías de litio obsoletas-,
+cuyo almacenamiento temporal en obra no superará en ningún caso el plazo improrrogable de seis meses.
+Los terrenos afectados por el proyecto se restaurarán y restituirán a su estado genuino (el que presentaba antes de la
+construcción del proyecto), procurando mantener la topografía original del terreno, garantizando el restablecimiento
+de la escorrentía original y dejando el área de actuación en perfecto estado de limpieza.
+Para mitigar los impactos por alteración del relieve e inducción de procesos erosivos en el suelo yesoso, el promotor
+restituirá la topografía original de las laderas alteradas por la planta fotovoltaica y el parque eólico, garantizando el
+restablecimiento de la red de drenaje natural.
+Por último, y en cumplimiento de las directrices de cese y restauración del medio rústico de la Ley 2/2020, de 7 de
+febrero, y atendiendo al compromiso vinculante asumido expresamente por el promotor en la Medida Nº 70 de su
+Documento Ambiental, el promotor presentará ante este Servicio de Calidad Ambiental, para su aprobación expresa,
+un Proyecto de Desmantelamiento y Restauración Ecológica integral con una antelación mínima de un año (12
+meses) respecto a la fecha prevista para el cese definitivo de la actividad.
+Quinto. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental, sin perjuicio
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40632
+de las comprobaciones que pueda realizar el órgano ambiental al respecto para verificar el cumplimiento del
+condicionado.
+De las inspecciones llevadas a cabo por el órgano sustantivo o por el órgano ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos de este Informe.
+Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se deben
+adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo nombrar a un responsable
+del programa de seguimiento y control de este informe, que podrá ser personal interno o externo de la empresa
+promotora, y notificar su nombramiento tanto al órgano sustantivo como al ambiental.
+El promotor remitirá al órgano sustantivo, con copia al órgano ambiental, un informe de seguimiento sobre el
+cumplimiento de las condiciones establecidas, durante el primer trimestre del año inmediatamente posterior
+a la construcción de la planta solar fotovoltaica, con objeto de comprobar la correcta puesta en práctica de los
+condicionantes del proyecto y del presente Informe de Impacto Ambiental.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas y de la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción, estando
+a disposición de los órganos de inspección y vigilancia. Cada informe deberá estar suscrito conjuntamente por el
+promotor y el responsable del seguimiento y vigilancia ambiental del proyecto.
+El seguimiento y la vigilancia tendrán por objeto comprobar que el proyecto se desarrolla cumpliendo las condiciones
+establecidas en el estudio de impacto ambiental presentado y en esta resolución, debiendo completarse en los
+siguientes aspectos:
+A) Durante la ejecución de las obras:
+- Debe realizarse el replanteo de las obras con los Agentes Medioambientales, así como el jalonamiento del ámbito
+mínimo imprescindible para la circulación de la maquinaria pesada, evitando de esta forma ocupar más terreno del
+necesario.
+- Control de la franja de protección pecuaria del ancho legal de 37,61 metros del «Cordel de la Senda Galiana» y la
+franja de protección ambiental de 5 metros asociada.
+- Control de la correcta gestión de los residuos producidos y tramitación de la documentación necesaria.
+- Control de la aparición de restos arqueológicos durante las obras.
+- Control de la no afección a los caminos públicos y vías pecuarias existentes en la zona sin la correspondiente
+autorización (Cordel de la Senda Galiana).
+- Control sobre los movimientos de tierras realizados, posibles aportes o vertidos.
+- Control del trazado de evacuación subterráneo: Se verificará que sus 3.844 metros discurran íntegramente bajo la
+caja del camino existente, garantizando una afección nula sobre el suelo y la vegetación gipsícola colindante.
+B) Tras la finalización de las obras de instalación de la planta solar:
+- Control de la adecuada restitución y limpieza de los terrenos, caminos y vías pecuarias afectados por las obras.
+- Control de la correcta instalación de las características del cerramiento perimetral, conforme a las condiciones
+establecidas en el presente Informe, así como de la permeabilidad del mismo, y su correcto mantenimiento.
+- Control de la correcta plantación perimetral de especies arbustivas autóctonas, así como de su mantenimiento a lo
+largo de la vida útil de la actuación.
+- Control del sistema anticolisión activo en aerogeneradores: Con carácter previo a la puesta en marcha, se verificará
+la correcta instalación, calibración y funcionamiento de los dispositivos de monitorización de avifauna (visión artificial
+3D y parada automática) en los dos aerogeneradores.
+- Se comprobará visual y topográficamente que la traza de la línea de evacuación de media tensión discurre soterrada
+en su totalidad bajo la caja del camino existente.
+C) Durante toda la vida útil de la actuación a contar desde la entrada en funcionamiento del proyecto:
+- Control sistemático de la mortalidad de avifauna y quirópteros en el área de barrido de los dos aerogeneradores.
+- Mantenimiento, calibración y registro del sistema de monitorización 3D y paradas de los sistemas de visión
+estereoscópica 3D de las turbinas por aproximación de grandes rapaces protegidas.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40633
+- Control del estado de compactación del terreno y el éxito de la restauración vegetal y fisiográfica sobre la traza
+de la línea de evacuación, asegurando la erradicación de cárcavas o procesos erosivos y manteniendo un registro
+fotográfico periódico del área.
+Desde el inicio de la actividad y toda la vida útil del proyecto, incluida la restauración de los terrenos afectados a
+su desmantelamiento, se realizará un informe compendio de las visitas efectuadas al proyecto a lo largo del año
+completo y lo observado. Este informe deberá reflejar el transcurso de los trabajos realizados anualmente, indicando
+la adecuación de las medidas preventivas y correctoras previstas, y en su caso la implementación de aquellas que se
+hayan considerado necesarias para mitigar los impactos que en su caso se detectaren. Se deberá incluir un anexo
+fotográfico y si fuera necesario, un anexo cartográfico para constatar su contenido. Este informe deberá estar suscrito
+conjuntamente por el promotor y el responsable del seguimiento y vigilancia ambiental del proyecto, y se presentará
+anualmente ante el órgano sustantivo y el órgano ambiental, entre el 1 de enero y el 31 de marzo de cada año.
+Sexto. Documentación adicional.
+Con carácter previo a la ejecución del proyecto, el promotor deberá solicitar y obtener, además de la autorización
+sustantiva ante el Servicio de Minas de la Delegación Provincial de Desarrollo Sostenible de Toledo, cuantas
+autorizaciones, licencias y concesiones sean de aplicación a tenor de la legislación sectorial o específica vigente, en
+particular la licencia municipal emitida por los ayuntamientos afectados.
+El promotor de este proyecto deberá presentar ante el órgano sustantivo y ambiental, preferentemente en formato
+digital, la siguiente documentación:
+A) Antes de la autorización administrativa de construcción del proyecto por parte del órgano sustantivo:
+- Copia de la Autorización por parte del Servicio de Medio Natural - Sección de Conservación, de esta Delegación
+Provincial, si procede, por el descuaje de la vegetación de matorral y/o arbolado de la zona, de acuerdo a la Ley
+3/2008, de Montes y Gestión Forestal Sostenible de Castilla-La Mancha.
+- Copia de la Autorización por parte del Servicio de Medio Natural - Sección de Vías Pecuarias, de esta Delegación
+Provincial de la ocupación del dominio público pecuario de la Vía Pecuaria «Cordel de la Senda Galiana».
+- Copia de la Concesión de Ocupación Temporal en el Monte de Utilidad Pública TO-3089.
+- Anexo técnico en el que se recojan la plantación perimetral a realizar en la planta fotovoltaica, debidamente
+presupuestado, con calendario de actuaciones, especies a emplear, densidad de las mismas, etc., con visto bueno
+del Servicio de Calidad Ambiental de esta Delegación Provincial de Toledo.
+- Proyecto Detallado del Plan de Gestión Agroambiental Esteparia y Medidas Compensatorias de Biodiversidad: El
+promotor deberá presentar ante el Servicio de Medio Natural de Toledo, para su validación y conformidad técnica,
+el proyecto ejecutivo de detalle de las medidas compensatorias establecidas (detallando la delimitación de las
+15,7 ha del Plan Estepario, el diseño de los 2 majanos, la localización de las 10 cajas nido en el M.U.P. TO-3089,
+el presupuesto de los 2 emisores GPS-GSM y la restauración de 0,42 ha del HIC 1520*). Una vez obtenida la
+conformidad expresa de dicho Servicio, el promotor deberá aportar copia de la misma ante el Servicio de Minas
+de Toledo, siendo este un requisito indispensable y previo para la obtención de la Autorización Administrativa de
+Construcción (AAC).
+- Estudio de resplandor solar y deslumbramiento vial (CM-322): El promotor deberá presentar ante la Dirección
+General de Carreteras el estudio de simulación de destellos solares de la planta (MGE FV Nº 2) sobre la CM-322.
+Una vez obtenida la conformidad expresa de dicho organismo, el promotor deberá aportar copia de la misma ante
+el Servicio de Minas de Toledo, siendo este un requisito indispensable y previo para la obtención de la Autorización
+Administrativa de Construcción (AAC).
+- Estudio de Afección Hidrológica y Análisis de Drenaje: El promotor presentará ante la Dirección General de
+Carreteras el proyecto técnico de escorrentías y drenaje de las laderas de la planta solar. Una vez obtenida la
+conformidad expresa de dicho organismo que certifique que el vertido pluvial hacia el oeste no afectará a la seguridad
+ni a la estructura de la calzada de la CM-322, el promotor deberá aportar copia de la misma ante el Servicio de Minas
+de Toledo, siendo este un requisito indispensable y previo para la obtención de la Autorización Administrativa de
+Construcción (AAC).
+B) Antes del inicio de las obras:
+Comunicación del inicio de los trabajos de instalación de la línea con una antelación mínima de 10 días y Calendario
+de ejecución de dichas obras.
+- Designación por parte del promotor de un responsable para el cumplimiento del Plan de Seguimiento y Vigilancia
+ambiental del proyecto.
+- Plan de Desmantelamiento de todas las instalaciones y Restauración del medio, presupuestado, con el compromiso
+expreso del promotor de su realización.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40634
+- Todos los documentos necesarios para poder empezar a construir (permisos de organismos sectoriales, licencias
+municipales que procedan, etc.)
+- Copia de la comunicación de inicio de actividades que conllevan producción de residuos, según la Ley 7/2022, de
+8 de abril, de residuos y suelos contaminados para una economía circular, así como de los contratos establecidos
+con los diferentes gestores autorizados para la retirada de los residuos generados y almacenados en la explotación,
+con especial atención a los diferentes tipos de residuos peligrosos (baterías, aceites y grasas).
+C) En el primer trimestre de cada año, desde el inicio de la actividad y durante la vida útil del proyecto (podrá
+prorrogarse según determine el órgano ambiental):
+- Informes sobre los controles y actuaciones en aplicación del Plan de Seguimiento y Vigilancia Ambiental.
+D) Con una antelación mínima de doce meses al cese del proyecto o de la actividad:
+- Plan de Restauración integral de los terrenos afectados.
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en
+materia de evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, y
+conforme a la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto
+«Fase II mejora de eficiencia energética y reducción de huella de carbono complejo minero Minas el Castellar»
+(PRO-TO-24-3295), situado en el término municipal de Villarrubia de Santiago (Toledo), cuyo promotor es Minera
+de Santa Marta, S.A., no necesita someterse a una Evaluación de Impacto Ambiental Ordinaria por estimarse que
+no tiene efectos significativos en el medio ambiente, siempre que se cumplan las medidas ambientales, correctoras
+y compensatorias propuestas por el promotor y los requisitos ambientales que se desprenden del presente Informe
+de Impacto Ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de
+la Consejería de Desarrollo Sostenible https://neva.jccm.es/nevia tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar la prórroga de la vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Además, se incluye un anexo cartográfico con la situación del proyecto para su localización por parte del público y
+del personal responsable del seguimiento.
+Toledo, 11 de noviembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40635
+ANEXO CARTOGRÁFICO
+1. MAPA Nº1: ORTOFOTO UBICACIÓN INSTALACIÓN
+2. MAPA Nº2: MAPA TOPOGRÁFICO UBICACIÓN INSTALACIÓN
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40636
+3. MAPA Nº3: ÁREA URBANIZADA DENTRO DEL EMPLAZAMIENTO

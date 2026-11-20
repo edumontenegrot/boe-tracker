@@ -1,0 +1,924 @@
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 1/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+I. Principado de Asturias
+• Disposiciones Generales
+Consejería de ordenaCión de TerriTorio, Urbanismo, ViVienda y dereChos
+CiUdadanos
+DeCreto 81/2026, de 9 de noviembre, por el que se regula el Sistema Cartográfico del Principado de Asturias.
+Preámbulo
+i
+el acelerado avance experimentado en los últimos años por las tecnologías de la información y la comunicación apli-
+cadas al conocimiento geográfico está abriendo excepcionales e inéditas posibilidades en el campo de la cartografía. La
+representación analógica tradicional georreferenciada de los fenómenos sobre mapas evoluciona rápidamente a mode-
+lizaciones de las dinámicas territoriales, basadas en conjuntos de datos en formato electrónico, de gran utilidad para el
+diseño de políticas públicas y el desarrollo de proyectos empresariales. densas y complejas infraestructuras de datos
+espaciales suministran información de referencia y temática esencial para la toma de decisiones, tanto de los actores
+públicos como los privados, y a todas las escalas, con significativos beneficios en términos de impulso a la actividad
+económica en todos los sectores. Las empresas privadas asturianas, en cualquier rama de actividad, desde la agricultura
+y la ganadería hasta la economía basada en el conocimiento, así como las organizaciones del tercer sector, mejoran su
+desempeño y sus resultados gracias a la implantación progresiva de soluciones tecnológicas que gestionan y analizan
+datos georreferenciados. Se incrementa el número de aplicaciones de manejo sencillo que utilizan información geográfi-
+ca, y su uso cada vez está más extendido entre la ciudadanía, constatándose una demanda creciente de estos servicios.
+En suma, resulta incuestionable la utilidad pública y social de la actividad cartográfica actual, por su importancia en la
+propia gestión pública de los recursos, en la toma de decisiones ante aquellos procesos duraderos en el tiempo, así como
+ante los acontecimientos sobrevenidos que supongan retos de necesario abordaje por los agentes territoriales.
+Por lo que se refiere a la Administración del Principado de Asturias, la creación en septiembre de 1993 del Servicio de
+Cartografía constituyó el primer paso para centralizar y coordinar las diversas producciones cartográficas de los distintos
+departamentos. La Comisión Cartográfica, creada en febrero de 1994, aprobó cinco meses después el segundo Plan Car-
+tográfico Regional, dando así cobertura al primer gran proyecto autonómico: el Mapa Topográfico de Asturias a escala
+1:5.000. el siguiente hito, la puesta en marcha del sistema de información Territorial del Principado de asturias (siTPa),
+permitió poner a disposición de las administraciones y del público la información geográfica disponible. La aprobación de
+la Directiva 2007/2/CE del Parlamento Europeo y del Consejo de 14 de marzo de 2007, por la que se establece una in-
+fraestructura de información espacial en la Comunidad europea (directiva insPire), y su posterior transposición al marco
+normativo español a través de la Ley 14/2010, de 5 de julio, sobre las infraestructuras y los servicios de información
+geográfica en España (LISIGE), impulsaron la siguiente evolución del siTPa como instrumento para la prestación de ser-
+vicios de información geográfica, incorporando la Infraestructura de Datos Espaciales de Asturias, hasta convertirse en
+un geoportal de alta capacidad y prestaciones para la búsqueda, evaluación y explotación de la información geoespacial
+para usuarios y proveedores de todos los niveles de la administración, sector comercial, organizaciones sin ánimo de
+lucro, la academia y la ciudadanía.
+no obstante estos progresos, se constata en nuestra Comunidad autónoma un amplio margen para el desarrollo y la
+mejora. Los mapas no son simplemente representaciones objetivas de la realidad, sino que responden a los objetivos y
+la visión del mundo de quienes los elaboran. En el actual contexto social y cultural, donde persisten las desigualdades, la
+cartografía puede ignorar o distorsionar la experiencia de las mujeres, la infancia, las personas mayores u otros colecti-
+vos vulnerables. Por lo que se refiere a la Administración autonómica, si bien cada vez más unidades se benefician de las
+aplicaciones de la información geográfica para el desarrollo de sus funciones, no está aún extendida de manera genera-
+lizada la cultura de la información geográfica, ni el conocimiento de las ventajas de georreferenciar los procedimientos
+administrativos a la hora de la gestión y de la planificación. La cartografía temática producida por los distintos órganos
+sectoriales no siempre observa los estándares de calidad, requerimientos y especificaciones que permiten su integración
+y publicación en el geoportal siTPa-ideas, ni responde a una planificación ni a una visión compartida, que permita evitar
+duplicidades y maximizar las sinergias. La cartografía oficial, con todas sus ventajas de calidad y compleción, aún es
+poco utilizada por la ciudadanía en relación con otros productos cartográficos privados de carácter comercial.
+ii
+Según tiene declarado el Tribunal Constitucional en su Sentencia 76/1984, de 29 de junio, relativa al recurso de in-
+constitucionalidad contra el art. 3.1.a) de la Ley 11/1982, de 8 de octubre, del Parlamento de Cataluña, de creación del
+Instituto Cartográfico de Cataluña, la cartografía no constituye una competencia en sí misma, sino que se configura como
+una actividad técnica e instrumental necesaria para el desarrollo de múltiples actividades por los particulares y el ejercicio
+de las competencias que tenga asignadas cada Administración pública. Por tanto, no es necesaria la titularidad de una com-
+petencia específica para que un ente incardinado en alguna Administración pública, estatal o autonómica, pueda realizar
+una actividad cartográfica, con respeto a las normas estatales que garanticen la unicidad técnica y la coordinación.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 2/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+En virtud de lo dispuesto en el artículo 7 del Decreto 75/2023, de 18 de agosto, por el que se establece su estructura or-
+gánica básica, la planificación y producción cartográficas corresponde a la Consejería de Ordenación de Territorio, Urbanismo,
+Vivienda y Derechos Ciudadanos, a través de la Dirección General de Urbanismo. En el marco competencial así delineado, y
+de acuerdo con su propio alcance, el presente decreto fundamenta la regulación de la cartografía en el respeto a la autonomía
+de los diferentes niveles administrativos y en la cooperación como principio orientador de las relaciones de la administración
+del Principado de Asturias con la Administración General del Estado y las Administraciones locales, para la búsqueda de la
+eficiencia, la eficacia, la unicidad y la homogeneidad de la actividad cartográfica en nuestra Comunidad Autónoma.
+iii
+El Real Decreto 1545/2007, de 23 de noviembre, por el que se regula el Sistema Cartográfico Nacional, lo define como
+un modelo de actuación, constituido en desarrollo de la Ley 7/1986, de 24 de enero, de Ordenación de la Cartografía,
+que persigue el ejercicio eficaz de las funciones públicas en materia de información geográfica mediante la coordinación
+de la actuación de los diferentes operadores públicos cuyas competencias concurren en este ámbito, con los objetivos de
+garantizar la homogeneidad, coherencia, continuidad e interoperabilidad de la información producida por los múltiples
+agentes que lo integran, favorecer la eficiencia en el gasto público destinado a cartografía y sistemas de información geo-
+gráfica, evitando la dispersión y duplicidad, asegurar la disponibilidad pública y actualización de los datos cartográficos
+de referencia, así como la calidad de la producción cartográfica oficial y su utilidad como servicio público, facilitando el
+acceso público a la información geográfica y favoreciendo la competitividad del sector cartográfico privado.
+En virtud del convenio suscrito en Madrid el 1 de junio de 2010 por la Presidencia del Consejo Superior Geográfico y la
+Consejería de medio ambiente, ordenación del Territorio e infraestructuras, la administración del Principado de asturias
+entró a formar parte del Sistema Cartográfico Nacional. La participación activa en este Sistema y la explotación de todos
+sus recursos comporta para nuestra Comunidad Autónoma una serie de requerimientos, parte de los cuales ya están
+cumplidos. Así, la Red Geodésica Activa del Principado de Asturias, una infraestructura que permite la mejora de la calidad
+y precisión de los trabajos topográficos y geodésicos facilitando datos de los sistemas globales de posicionamiento por
+satélite, está integrada en el Sistema de Referencia Geodésico. La información geográfica de referencia y los datos temá-
+ticos fundamentales disponibles del Principado de asturias están accesibles en la infraestructura nacional de información
+Geográfica, a través del geoportal del Sistema de Información Territorial del Principado de Asturias siTPa-ideas y del portal
+de la Infraestructura de Datos Espaciales de España. La Infraestructura de Datos Espaciales de Asturias (ideas) está inte-
+grada como nodo regional en la Infraestructura Nacional de Información Geográfica, compartiendo mediante procedimien-
+tos estandarizados e interoperables la información geográfica disponible, y presta servicios de localización, visualización,
+descarga y consulta de datos espaciales.
+sin embargo, determinadas carencias impiden la integración completa del Principado de asturias en el sistema Car-
+tográfico Nacional, limitando por tanto el disfrute de sus beneficios. Nuestra Comunidad Autónoma no dispone aún de un
+Nomenclátor Geográfico completo que reúna los nombres oficiales georreferenciados sobre cartografía topográfica, ar-
+monizado e integrado con el Nomenclátor Geográfico de España. Los registros de cartografía resultan instrumentos muy
+útiles para evitar la dispersión y las duplicidades de producciones cartográficas, sin embargo, el Principado de Asturias
+no cuenta con un registro autonómico que confiera a los productos y servicios en él inscritos el carácter de cartografía
+oficial, ni resulta posible, en consecuencia, su conexión e integración con el Registro Central de Cartografía, como prevé
+el apartado 3 del artículo 17 de la LISIGE, sobre el Sistema Cartográfico Nacional. A diferencia de otras Comunidades
+Autónomas, Asturias está falta de un plan que programe la producción cartográfica oficial de la Administración del Prin-
+cipado y las entidades del sector público autonómico y a cuyas previsiones pueda ajustarse, como dispone el apartado 1
+del artículo 12 del Real Decreto 1545/2007. La ausencia de un plan cartográfico autonómico conlleva la imposibilidad de
+coordinar la producción del Principado con el Plan Cartográfico Nacional prevista en el artículo octavo de la Ley 7/1986,
+de 24 de enero, de Ordenación de la Cartografía, así como la planificación conjunta con el IGN contemplada en el artículo
+18, apartado 4 de la LISIGE y el artículo 11 del referido Real Decreto 1545/2007.
+iV
+La superación de las carencias señaladas en los apartados anteriores requiere, en primer lugar, la aprobación de un
+marco normativo que defina el sistema cartográfico autonómico, y regule las funciones, composición y funcionamiento
+de sus órganos, así como el contenido, alcance y formulación de los instrumentos que lo componen. Sólo con una base
+jurídica sólida podrán desarrollarse con garantía los elementos integrantes del sistema, y mejorarse así la prestación de
+los servicios cartográficos a las Administraciones públicas, las empresas y la ciudadanía en general, y en el ámbito aca-
+démico, la investigación básica y aplicada y la transmisión de conocimiento. La creación y perfeccionamiento del sistema
+cartográfico asturiano contribuirá a la compleción y reforzamiento del Sistema Cartográfico Nacional.
+el presente decreto tiene por objeto diseñar y ordenar un conjunto de instrumentos y órganos orientado a producir,
+integrar, publicar y mantener información geoespacial de referencia y temática, relevante y de utilidad para la admi-
+nistración del Principado de asturias y sus entidades públicas, las administraciones locales y el sector público local, las
+iniciativas empresariales privadas, los agentes sociales y el conjunto de la ciudadanía asturiana, con el fin último de con-
+tribuir al desarrollo equilibrado y sostenible del Principado de Asturias a través de la mejora continua del conocimiento
+de su territorio, y en el marco del Sistema Cartográfico Nacional.
+En concreto, este carácter de generalidad en cuanto a la elaboración de los instrumentos cartográficos se manifiesta, en
+lo que se refiere al procedimiento de inscripción en el Registro de Cartografía, en el artículo 17.2 del decreto, que establece
+la posibilidad de que cualquier ciudadano pueda instar la inscripción. Se establece la obligación de que todos los posibles
+solicitantes de inscripción se relacionen electrónicamente con la Administración, obligación que se entiende plenamente
+justificada en los términos del artículo 14.3 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, ya que la naturaleza de la materia regulada, que implica el uso de elementos eminentemente
+técnicos y tecnológicos complejos para dar lugar a elementos cartográficos inscribibles, presupone en los solicitantes una
+dedicación profesional y una capacidad técnica mínima que, asimismo, implican la disponibilidad de los medios tecnológicos
+precisos para llevarla a efecto.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 3/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+El decreto se encuadra y es coherente con el marco establecido a nivel estatal, constituido por la Ley 7/1986, de 24
+de enero, de Ordenación de la Cartografía, el Real Decreto 1545/2007, de 23 de noviembre, por el que se regula el Sis-
+tema Cartográfico Nacional, y la LISIGE. Asimismo, en lo que se refiere a la cartografía de nombres geográficos, observa
+lo establecido en el artículo 15 de la Ley del Principado de Asturias 1/1998, de 23 de marzo, de uso y promoción del
+bable/asturiano, en cuya virtud la denominación oficial de los topónimos es su forma tradicional, el Decreto 38/2002, de
+4 de abril, por el que se regula la Xunta Asesora de Toponimia del Principáu d’Asturies, y el Decreto 98/2002, de 18 de
+julio, por el que se establece el procedimiento de recuperación y fijación de la toponimia asturiana. En aplicación de esta
+normativa, hasta el momento se han dictado setenta y cuatro decretos por los que se determinan los topónimos oficiales
+de otros tantos concejos, un proceso activo en relación con los cuatro concejos restantes, con las denominaciones tra-
+dicionales de los concejos asturianos y con la toponimia menor de asturias.
+se han valorado otras alternativas normativas, como la aprobación de una ley del Principado de asturias reguladora
+de la actividad cartográfica en nuestra Comunidad Autónoma, o decretos específicos para crear y configurar los instru-
+mentos del sistema cartográfico asturiano, tales como el Plan Cartográfico autonómico, el Registro de Cartografía Oficial,
+o las normas cartográficas, y para actualizar los órganos existentes, la Comisión Cartográfica y el Servicio de Cartografía.
+No obstante, se ha preferido, por razones de eficiencia y eficacia administrativa, y para asegurar su coherencia interna,
+abordar la regulación del sistema de forma completa e integrada, mediante un único decreto.
+V
+Heterogeneidad y diverso grado de complejidad caracterizan las regulaciones vigentes de la actividad cartográfica
+en las Comunidades autónomas españolas. sólo cinco carecen de normativa propia (Principado de asturias, Cantabria,
+Comunidad de Madrid, Región de Murcia y La Rioja), en el resto los enfoques son diversos, desde ordenaciones básicas
+(Castilla-La Mancha, Castilla y León, Extremadura), hasta sistemas completos dotados de entidades instrumentales con
+personalidad jurídica propia (Instituto de Estadística y Cartografía de Andalucía, Institut Cartogràfic Valencià, Institut
+Cartogràfic i Geològic de Catalunya, Instituto de Estudos do Territorio de Galicia), pasando por estructuras más ligeras,
+basadas en disposiciones normativas legales o reglamentarias. La elaboración del presente decreto se ha basado en
+un análisis sistemático de todas ellas, identificando los principios comunes y sintetizando los rasgos esenciales de los
+distintos órganos y herramientas, y en un diagnóstico de la situación actual del sistema cartográfico asturiano, de sus
+fortalezas y carencias.
+de conformidad con lo anteriormente expuesto, el presente decreto se adapta a los principios de buena regulación
+que recoge el artículo 129 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Adminis-
+traciones Públicas. El modelo finalmente elegido se adecua a los principios de necesidad, por cuanto su objetivo responde
+al interés general del mejor conocimiento del territorio asturiano a través de la producción cartográfica, como base para
+su desarrollo equilibrado y sostenible, y al de eficacia, por la simplificación de los procesos diseñados para el desarrollo
+de los productos y servicios, ello sin menoscabo de las normas sobre procedimiento administrativo de las administra-
+ciones públicas y su régimen jurídico. En aras del principio de proporcionalidad, el diseño del sistema se ha ajustado al
+tamaño de la Administración asturiana en la que ha de insertarse y a los medios humanos y técnicos actuales y posibles,
+evitando estructuras en exceso complejas, más adecuadas para Comunidades autónomas de mayor extensión territorial,
+población y actividad económica. Para el aseguramiento de la seguridad jurídica, se ha puesto especial cuidado en el
+respeto a las normas de rango superior, principalmente en lo referido al encuadramiento del sistema asturiano en el sis-
+tema Cartográfico Nacional. Asimismo, los preceptos responden a una redacción inequívoca, huyendo de las ambigüeda-
+des, empleando los tecnicismos imprescindibles, cuyo significado se incluye en un artículo de definiciones. Y finalmente,
+en aplicación del principio de transparencia, y tal como dispone el apartado 5 del artículo 129 de la Ley 39/2015, sobre
+los principios de buena regulación, en este preámbulo se han expuesto claramente las necesidades a satisfacer y los
+objetivos de la norma, y se ha cumplido el trámite de consulta pública prevista en el apartado 1 del artículo 133 de dicha
+Ley, sobre participación de los ciudadanos en el procedimiento de elaboración de normas con rango de Ley y reglamen-
+tos. el presente decreto no afecta a derechos ni intereses legítimos de las personas, ni impone obligaciones relevantes
+a sus destinatarias, no obstante, en aras de la promoción de la participación de la ciudadanía en el procedimiento para
+su elaboración, se ha considerado conveniente someter el proyecto de decreto a información pública, en los términos
+previstos en el apartado 2 del artículo 33 de la Ley del Principado de Asturias 2/1995, de 13 de marzo, sobre régimen
+jurídico de la administración, sobre tramitación de las disposiciones de carácter general.
+En la elaboración del presente decreto se ha observado lo dispuesto en la Guía para la elaboración y control de las
+disposiciones de carácter general del Principado de asturias (Boletín Oficial del Principado de Asturias de fecha 29 de
+marzo de 1993), el Acuerdo de 28 de diciembre de 2017, del Consejo de Gobierno, por el que se aprueba el Protocolo
+para la elaboración y mejora de la calidad de las disposiciones de carácter general en el Principado de asturias, elaborado
+por la Comisión de Simplificación Administrativa y las Recomendaciones para la mejor tramitación de los procedimientos
+para la elaboración de disposiciones de carácter general en la administración del Principado de asturias.
+en su virtud, a propuesta del Consejero de ordenación de Territorio, Urbanismo, Vivienda y derechos Ciudadanos, de
+acuerdo con el Consejo Consultivo del Principado de Asturias y previo acuerdo del Consejo de Gobierno, en su reunión
+de 9 de noviembre de 2026,
+DISPONGO
+CAPíTULO I.—DISPOSICIONES GENERALES
+Artículo 1.—objeto.
+1. Es objeto de este decreto la regulación del Sistema Cartográfico del Principado de Asturias (en adelante SCPA),
+definido como el conjunto integrado de agentes e instrumentos con funciones públicas de producción, mantenimiento,
+actualización y publicación de la información geográfica, con el fin último de contribuir al desarrollo equilibrado y sos-
+tenible del Principado de Asturias a través de la mejora continua del conocimiento de su territorio, y en el marco del
+Sistema Cartográfico Nacional.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 4/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+2. Las disposiciones del presente decreto se aplican con respeto y sin perjuicio de las competencias de la Administración
+General del Estado, de sus organismos y entidades dependientes, y de las Administraciones locales.
+Artículo 2.—Ámbito subjetivo.
+1. Las disposiciones de este decreto serán de aplicación, en el ámbito de la Comunidad Autónoma Principado de
+asturias, a:
+a) La Administración del Principado de Asturias y los entes integrantes del sector público autonómico.
+b) Las Administraciones locales y los entes integrantes del sector público local, si así lo deciden voluntariamente
+en el ámbito de su competencia mediante su integración en el sCPa, y de acuerdo con los principios de coordi-
+nación y cooperación.
+2. Las Administraciones locales que soliciten integrarse en el SCPA participarán plenamente en él a partir de la
+suscripción de un convenio de colaboración con la Administración del Principado de Asturias, a través de la Consejería
+responsable de la ordenación de la cartografía, en el que se ponga de manifiesto su total aceptación de las determina-
+ciones del presente decreto que les afecten. La separación se materializará en cualquier momento en los términos que
+contemple el propio convenio.
+Artículo 3.—Ámbito objetivo de aplicación.
+1. El presente decreto se aplicará a toda la información geográfica, así como a sus servicios derivados, que cumplan
+con las siguientes condiciones:
+a) Que se refieran al territorio del Principado de Asturias y cuya producción y mantenimiento sea competencia de
+las entidades incluidas en el artículo 2.
+b) Que su producción o mantenimiento sea encargada, subvencionada, o de cualquier forma promovida por las
+entidades incluidas en el artículo 2.
+También se incluyen en el ámbito objetivo de aplicación de este decreto, en los términos previstos en la sección
+primera del capítulo III, los productos y servicios cartográficos realizados por personas físicas o jurídicas privadas para
+sus propios fines.
+2. en todo caso, la propiedad, competencia y responsabilidad de la información incorporada al sCPa corresponderá
+siempre a sus titulares.
+Artículo 4.—Definiciones.
+A los efectos del presente decreto, los términos que se emplean tendrán el sentido que se establece a continuación,
+y acorde con la legislación básica estatal:
+a) Actividad cartográfica: Cada una de las acciones que promuevan o faciliten la elaboración, mantenimiento, di-
+fusión o uso de la Cartografía.
+b) Cartografía: conjunto de estudios y operaciones científicas, artísticas y técnicas que intervienen, a partir de los resul-
+tados de observaciones directas o de la explotación de unos datos, en la elaboración de mapas y en su utilización.
+c) Cartografía básica: aquella que se obtiene por procedimientos directos de observación y medición, elaborada de
+acuerdo con una norma cartográfica establecida por la Administración del Principado de Asturias, y que sirve de
+base y referencia para el uso generalizado como representación gráfica del territorio asturiano.
+d) Cartografía derivada: aquella que se obtiene por procedimientos de adición o generalización de la información
+contenida en la cartografía básica.
+e) Cartografía temática: la que, utilizando como soporte la cartografía básica o derivada y conservando sus atri-
+butos, singulariza o desarrolla algún aspecto concreto de la información contenida en aquella o incorpora infor-
+mación adicional específica.
+f) Datos espaciales: La información geográfica con una referencia directa o indirecta a una localización por coor-
+denadas o área geográfica.
+g) Documentación cartográfica y geográfica: todo tipo de documento que consista en una representación del terri-
+torio en cualquier formato, con cualquier contenido y en cualquier soporte. La documentación cartográfica inclu-
+ye, entre otros, todo tipo de mapas, planos, cartas, fotografías aéreas, imágenes de sensores de observación de
+la Tierra, modelos y representaciones tridimensionales, bases de datos, minutas, trabajos de campo y gráficos.
+La documentación geográfica incluye, entre otros, cualquier tipo de archivos y colecciones diversas que tengan
+alguna relación con la geografía.
+h) Geodesia: conjunto de técnicas para la representación de la Tierra, su forma, sus dimensiones, su orientación, su
+posición en el espacio, sus variaciones temporales, su campo gravitatorio y de la superficie del fondo oceánico.
+i) Geoportal: sitio Internet o equivalente que proporciona acceso a servicios interoperables de información geo-
+gráfica de varios órganos, organismos o entidades de una o varias Administraciones públicas, e incorpora al
+menos un servicio que permita buscar y conocer los datos y servicios geográficos accesibles a través de él.
+j) Geoservicio: servicio web específico que devuelve la información geográfica situada a los servidores de los or-
+ganismos productores, de una forma estándar y a través de cualquier aplicación compatible.
+k) Información geográfica: conjunto de datos espaciales georreferenciados o geodatos necesarios como parte de
+acciones científicas, administrativas o legales.
+l) Información geográfica básica: información geográfica necesaria para que cualquier persona usuaria o aplica-
+ción pueda referenciar sus datos de información geográfica.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 5/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+m) Información geográfica temática básica: información geográfica que, a partir de la información geográfica básica,
+singulariza o desarrolla algún aspecto concreto de la información contenida en aquélla, o incorpora información
+adicional específica de interés.
+n) Información geográfica complementaria: la información geográfica de cualquier tipo que no es básica y que se
+integra en el sCPa dado su interés para el conocimiento del territorio.
+ñ) infraestructura de datos espaciales: conjunto de datos, metadatos, tecnologías, políticas, estándares, recursos
+humanos y usuarios, armonizados e integrados en un sistema virtual para compartir información geográfica en
+la red.
+o) interoperabilidad: posibilidad de combinación de los conjuntos de datos espaciales y de interacción de los servi-
+cios, sin intervención manual repetitiva, de forma que el resultado sea coherente y se aumente el valor añadido
+de los conjuntos y servicios de datos.
+p) Metadatos: información que describe los conjuntos de datos geográficos y los servicios de información geográ-
+fica y que hace posible localizarlos, inventariarlos y utilizarlos.
+q) Posicionamiento: técnicas para la determinación de la localización de un punto sobre la superficie terrestre.
+r) Red geodésica del Principado de Asturias: conjunto de puntos del territorio de los cuales se han medido su em-
+plazamiento con gran precisión y que se materializan en el terreno mediante clavos.
+s) Red geodésica activa: conjunto de estaciones de monitoreo continuo de datos del Sistema Global de Navegación
+Satelital (GNSS) la cuales cuentan con coordenadas de la mayor exactitud posicional disponible en el marco
+geodésico oficial.
+t) rinex: formato de ficheros de texto orientado a almacenar, de manera estandarizada, medidas proporcionadas
+por receptores de sistemas de navegación por satélite.
+u) rTK: técnica usada en topografía basada en el uso de medidas de fase de navegadores con señales GPS, GLONASS,
+Galileo y/o Beidou, donde una sola estación de referencia proporciona correcciones en tiempo real, obteniendo una
+precisión centimétrica.
+v) Servicio de datos espaciales o geoservicio: operación o conjunto de operaciones, que pueden efectuarse, a tra-
+vés de una aplicación informática, sobre datos geográficos o sus metadatos.
+w) Sistema global de navegación por satélite (Global Navigation Satellite System, GNSS): constelación de satélites que
+transmite rangos de señales utilizados para el posicionamiento y localización en cualquier parte del globo terrestre.
+Artículo 5.—Principios inspiradores.
+La Administración del Principado de Asturias, así como los demás agentes incluidos en el ámbito subjetivo de aplica-
+ción del presente decreto y que componen el SCPA, operarán de acuerdo con los siguientes principios:
+a) servicio público. Por satisfacer una necesidad general esencial para la sociedad asturiana, su relevancia y utilidad
+para la mejora de su calidad de vida, la actividad cartográfica tendrá la consideración de servicio público, garanti-
+zando el acceso de la ciudadanía y favoreciendo el uso por parte de actores privados, atendiendo sus necesidades
+de información geográfica, y contribuyendo al mejor desempeño de las competencias de los poderes públicos.
+b) Coordinación. La eficacia y eficiencia del empleo de recursos exigen que las entidades públicas acomoden y armoni-
+cen sus respectivas actividades cartográficas, procurando evitar duplicidades y maximizar los efectos sinérgicos.
+c) Cooperación. Considerando la complejidad y extensión de los proyectos cartográficos, se fomentará la coope-
+ración entre entidades compartiendo información, medios humanos y técnicos, con respeto a sus respectivas
+competencias.
+d) Participación. se facilitará el libre acceso al conocimiento territorial entre los agentes sociales y la ciudadanía
+asturiana, y se promoverá su participación en la recogida, elaboración y difusión de información geoespacial.
+e) inclusión. integrando las visiones y necesidades de la diversidad de grupos sociales, los mapas constituyen
+herramientas muy útiles para promover la igualdad de género y la garantía de los derechos de la población
+vulnerable.
+f) Calidad. Toda la información geográfica y los servicios de red asociados deberán cumplir los más altos estánda-
+res de calidad establecidos en las normativas internaciones, y lo dispuesto en los reglamentos y disposiciones
+de la Unión europea. se garantizará la precisión posicional, temática y temporal de los datos, así como la com-
+pletitud, consistencia lógica, trazabilidad y documentación a lo largo de todo su ciclo de vida. en el caso de los
+servicios de red, se asegurará su disponibilidad, rendimiento, interoperabilidad y accesibilidad conforma a los
+requisitos técnicos establecidos a nivel nacional y europeo.
+g) Veracidad. La información geográfica debe estar respaldada por fuentes auténticas y verificables, garantizan-
+do su trazabilidad, integridad documental y control en todas las fases de generación, validación y difusión. se
+asegurará que los datos proceden de procesos documentados y auditables, con garantía de autenticidad, con-
+sistencia y conservación a lo largo del tiempo.
+h) Planificación. La actividad cartográfica responderá a una programación previa, con objetivos y horizontes tem-
+porales ajustados a las necesidades y los medios disponibles.
+i) Eficacia y eficiencia. Cada proyecto cartográfico deberá adecuarse en cuanto a su concepción, metodología, calen-
+dario y recursos a los objetivos que se pretendan alcanzar, y ejecutarse con el menor coste posible y sin merma
+de calidad.
+j) Innovación. Se impulsará la investigación y la aplicación de las técnicas más avanzadas y de utilidad contrastada
+disponibles.
+k) interoperabilidad. se garantizará el intercambio de los conjuntos de datos espaciales y los servicios, conforme
+al Esquema Nacional de Interoperabilidad.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 6/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+l) Reutilización. Los datos espaciales serán recogidos una sola vez por el organismo con mayor capacidad para
+generarlos y mantenerlos actualizados, y estructurados de forma que se asegure su interoperabilidad con otros
+datos, aunque procedan de fuentes diversas, con respecto a lo dispuesto en la normativa aplicable sobre datos
+abiertos y reutilización de la información del sector público.
+m) seguridad de la información. se garantizará la seguridad de la información mediante la aplicación de medidas
+técnicas y organizativas que aseguren la confidencialidad, integridad, disponibilidad y trazabilidad de los datos,
+de conformidad con el Esquema Nacional de Seguridad y el Reglamento General de Protección de Datos.
+n) Transparencia tecnológica y apertura. Se fomentará el uso del software libre y de fuentes abiertas siempre que
+sea viable, así como la adopción de estándares y formatos abiertos. Los datos geoespaciales y sus servicios se
+publicarán, en la medida de lo posible, mediante formatos reutilizables, accesibles, legibles por máquina y con
+licencias abiertas.
+Artículo 6.—Interés público.
+Se declaran de interés público las actividades de producción, mantenimiento, gestión, difusión y reutilización de la
+cartografía y la información geográfica realizadas por la Administración del Principado de Asturias y los entes integrantes
+del sector público autonómico, así como por las administraciones locales y los entes integrantes del sector público local
+integrados en el SCPA, correspondiéndoles fomentar y financiar tales actividades, bien por medios propios, o bien a
+través de empresas públicas instrumentales especializadas en la materia.
+Artículo 7.—Organización del Sistema Cartográfico del Principado de Asturias.
+1. La organización administrativa del SCPA está integrada por la Comisión Cartográfica del Principado de Asturias y
+el Centro de Cartografía del Principado de asturias.
+2. son instrumentos del sCPa:
+a) El Registro Cartográfico.
+b) La Infraestructura de Datos Espaciales.
+c) El Plan Cartográfico del Principado de Asturias (PCPA).
+d) Las normas cartográficas.
+e) La cartografía oficial.
+f) El Nomenclátor Geográfico.
+g) La Cartoteca y la Fototeca Damián García López.
+h) La Red Geodésica Activa del Principado de Asturias (RGAPA).
+CAPíTULO II.—ÓRGANOS DEL SISTEMA CARTOGRáFICO DEL PRINCIPADO DE ASTURIAS
+Sección 1.ª La Comisión Cartográfica del Principado de Asturias
+Artículo 8.—Naturaleza y funciones.
+1. La Comisión Cartográfica del Principado de Asturias (en adelante ComCarPa) es un órgano colegiado de aseso-
+ramiento, impulso y coordinación de la actividad de la Comunidad autónoma en materia de cartografía e información
+geográfica, adscrito administrativamente a la Consejería responsable de la ordenación de la cartografía y la información
+geográfica.
+2. en relación con la administración de la Comunidad autónoma y su sector público, así como las administraciones
+locales y los entes integrantes de su sector público integrados en el sCPa, corresponden a la ComCarPa las siguientes
+funciones:
+a) Fomentar el desarrollo, coordinación y mantenimiento de la Infraestructura de Datos Espaciales del Principado
+de asturias.
+b) Promover la cooperación entre las distintas administraciones públicas en las actuaciones relacionadas con la
+cartografía y la información geográfica.
+c) Asegurar la coordinación entre los sistemas de información geográfica y los proyectos cartográficos de las Ad-
+ministraciones públicas del Principado de asturias.
+d) Proponer actuaciones para el uso, mejora, reutilización y armonización de la información geoespacial y de la
+cartografía por los órganos y entidades del sector público de la Comunidad autónoma y del sector público de las
+entidades locales integrados en el sCPa.
+e) Impulsar la producción y publicación de nuevos datos espaciales y servicios geográficos de referencia, que
+respondan a las necesidades actuales y futuras del sector público del Principado de asturias y de las entidades
+locales integradas en el sCPa, de las empresas, las organizaciones sociales y de la ciudadanía asturiana.
+f) animar la participación de los órganos y entidades del sector público de la Comunidad autónoma y de las enti-
+dades locales integradas en el SCPA y de la sociedad civil en la elaboración de las normas cartográficas y el Plan
+Cartográfico del Principado de Asturias (PCPA).
+g) Conocer e informar previamente a su aprobación el PCPA, sus modificaciones, revisiones y actualizaciones, las
+normas cartográficas, y los proyectos de interés general o multisectorial en materia de información geográfica.
+h) Ejecutar las líneas de trabajo y acciones que le asigne el PCPA.
+i) informar a los órganos de la administración del Principado de asturias, al resto de entidades del sector público
+autonómico, a las administraciones locales y a los entes integrantes del sector público local integrados en el
+SCPA de las cuestiones que se le planteen en relación con la actividad cartográfica.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 7/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+j) Formular propuestas, recomendaciones y sugerencias en materia de cartografía e información geoespacial.
+k) Cualesquiera otras atribuciones que se relacionen, complementen o se deriven de las anteriores.
+Artículo 9.—Composición.
+1. La ComCarPa estará integrada por:
+a) Presidencia: la persona titular de la dirección general responsable de la ordenación de la cartografía y la infor-
+mación geográfica, o aquella en quien delegue.
+b) Vocalías:
+1.º Las personas titulares de las direcciones generales con competencias en ordenación del territorio, urba-
+nismo, medio ambiente, medio natural, medio rural, gestión del ciclo del agua, industria, energía, salud,
+infraestructuras, movilidad, estadística, prevención de riesgos, innovación y tecnologías de la información
+y política lingüística o normalización lingüística, o aquellas en quienes deleguen.
+2.º Una persona en representación de la Sociedad Asturiana de Estudios Económicos e Industriales (sadei).
+3.º Una persona en representación del Servicio Regional del Instituto Geográfico Nacional en Asturias.
+4.º Una persona en representación de la Delegación Provincial del Instituto Nacional de Estadística en Asturias.
+5.º Una persona en representación de la Gerencia Regional del Catastro de Asturias.
+6.º Una persona en representación del Departamento de Geografía de la Universidad de Oviedo.
+7.º Una persona en representación del Departamento de Explotación y Prospección de Minas de la Universidad
+de oviedo.
+8.º Una persona en representación de la Federación Asturiana de Concejos.
+9.º Una persona en representación del colegio oficial de la profesión regulada de ingeniería técnica en topo-
+grafía en asturias.
+10.º Una persona en representación de la Xunta Asesora de Toponimia del Principáu d’Asturies.
+Dejando a salvo los miembros natos referidos en el apartado 1.º, las vocalías serán nombradas por la presi-
+dencia de la Comisión, a propuesta de los órganos competentes de las organizaciones correspondientes, que
+identificarán a una persona titular y una suplente, que sustituirá a la titular en casos de ausencia o de enferme-
+dad y, en general, cuando concurra alguna causa justificada, manteniendo ambas dicha condición, mientras las
+entidades que representan no dejen sin efecto sus propuestas de nombramiento.
+c) Secretaría: La persona titular de la dirección del Centro de Cartografía del Principado de Asturias.
+2. Por invitación de la presidencia, a iniciativa propia, o a propuesta de cualquier vocalía, en función del contenido de
+los temas a tratar, podrán asistir a las reuniones de la ComCarPa, con voz, pero sin voto, las personas titulares de otros
+órganos de la administración del Principado de asturias, de las administraciones locales, así como personas expertas en
+la materia.
+3. En los términos previstos en el artículo 8 de la Ley del Principado de Asturias 2/2011, de 11 de marzo, para la
+igualdad de mujeres y hombres y la erradicación de la violencia de género, la composición de la ComCarPa procurará una
+presencia equilibrada entre hombres y mujeres.
+4. A propuesta de la cuarta parte de las vocalías de la Comisión o de su presidencia, podrán constituirse los grupos
+de trabajo que se estimen necesarios para el desarrollo de sus funciones.
+Artículo 10.—Apoyo técnico.
+El apoyo técnico a la ComCarPa para el desarrollo de sus funciones será prestado por el Centro de Cartografía del
+Principado de Asturias, sin perjuicio del que pueda corresponder a otros servicios de la Administración del Principado, en
+función de su carácter temático y relación con las competencias que les son propias, o del que pueda solicitar a personas
+o entidades expertas en la materia.
+Artículo 11.—régimen de funcionamiento.
+1. el funcionamiento de la ComCarPa se ajustará a lo establecido en la legislación estatal básica, la legislación autonó-
+mica sobre órganos colegiados de la Administración, lo dispuesto en el presente decreto y en el reglamento de régimen
+interno y, en su defecto, en último grado, por las normas no básicas recogidas en la legislación estatal de régimen jurí-
+dico del sector público. se reunirá en sesión ordinaria al menos una vez al año, y en sesión extraordinaria por decisión
+de la presidencia, o cuando lo solicite al menos la mitad más una de sus vocalías.
+2. Corresponde a la Presidencia:
+a) ostentar la representación de la Comisión.
+b) Acordar la convocatoria de las sesiones ordinarias y extraordinarias y la fijación del orden del día teniendo en cuen-
+ta, en su caso, las peticiones de las vocalías, siempre que hayan sido formuladas con la suficiente antelación.
+c) Presidir las sesiones, moderar el desarrollo de los debates y suspenderlos por causas justificadas.
+d) dirimir con su voto los empates, a efectos de adoptar acuerdos.
+e) asegurar el cumplimiento de las leyes.
+f) Visar las actas y certificaciones de los acuerdos del órgano.
+g) ejercer cuantas otras funciones sean inherentes a su condición.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 8/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+3. Corresponde a las vocalías:
+a) recibir, con una antelación mínima de dos días, la convocatoria conteniendo el orden del día de las reuniones.
+La información sobre los temas que figuren en el orden del día estará a su disposición en igual plazo.
+b) Participar en los debates de las sesiones.
+c) ejercer su derecho al voto y formular su voto particular, así como expresar el sentido de su voto y los motivos
+que lo justifican.
+d) Formular ruegos y preguntas.
+e) obtener la información precisa para cumplir las funciones asignadas.
+f) Cuantas otras funciones sean inherentes a su condición.
+4. Corresponde a la Secretaría:
+a) asistir a las reuniones, con voz, pero sin voto.
+b) efectuar la convocatoria de las sesiones por orden de su presidencia, así como a las citaciones a las vocalías.
+c) Recibir los actos de comunicación de las vocalías y, por lo tanto, las notificaciones, peticiones de datos, rectifi-
+caciones o cualquier otra clase de escritos de los que deba tener conocimiento.
+d) Preparar el despacho de los asuntos y redactar y autorizar las actas de las sesiones.
+e) Expedir certificaciones de las consultas, dictámenes y acuerdos aprobados.
+f) Cuantas otras funciones sean inherentes a la secretaría de un órgano colegiado.
+5. Los acuerdos se adoptan por la mayoría de votos de sus miembros. En caso de empate, el voto de la presidencia
+tiene carácter dirimente.
+Sección 2.ª el Centro de Cartografía del Principado de Asturias
+Artículo 12.—Creación.
+Se crea el Centro de Cartografía del Principado de Asturias (en adelante CCPA), como órgano técnico y administrativo
+de gestión, sin personalidad jurídica, adscrito a la Consejería responsable de la ordenación de la cartografía y la infor-
+mación geográfica con rango orgánico de Servicio, con la función de:
+a) Producir, integrar, publicar y mantener información geoespacial de referencia y temática relativa al territorio
+asturiano, relevante y de utilidad para la administración del Principado de asturias, las administraciones locales
+integradas en el sCPa y sus respectivas entidades públicas, las iniciativas empresariales privadas, los agentes
+sociales y el conjunto de la ciudadanía asturiana.
+b) Prestar asesoramiento y apoyo a las organizaciones del sector público asturiano en la producción de datos geo-
+gráficos de calidad y conformes a las especificaciones normativas aplicables, y
+c) Extender entre la sociedad asturiana el empleo de la información geográfica para abstraer, analizar e interpretar
+los fenómenos cambiantes en la Comunidad autónoma.
+Artículo 13.—Funciones.
+son funciones propias del Centro de Cartografía del Principado de asturias:
+a) La elaboración de cartografía básica y temática que no sea competencia de otros órganos de la Administración
+de la Comunidad autónoma Principado de asturias, en colaboración, en su caso, con otros órganos de la admi-
+nistración autonómica u otras administraciones públicas.
+b) La difusión y divulgación entre toda la ciudadanía de la cartografía producida por la Administración del Principa-
+do de Asturias y cualesquiera otros datos espaciales de producción propia.
+c) La difusión y divulgación de cualquier otra cartografía o datos espaciales del territorio asturiano que le sean
+encomendados por sus entidades productoras, sin perjuicio de la legislación sobre propiedad intelectual.
+d) La coordinación de la producción cartográfica que los distintos órganos y entidades de la Administración del
+Principado de asturias y de las entidades locales integradas en el sCPa generen o dispongan.
+e) La cooperación entre la Administración del Principado de Asturias, las entidades locales integradas en el SCPA y
+otras entidades públicas productoras de información geográfica sobre la Comunidad Autónoma.
+f) el impulso de proyectos de i+d+i en materia de cartografía, por sus propios medios o en colaboración con otras
+instituciones y organismos, en especial, con la Universidad de oviedo, así como la formación, difusión y divul-
+gación de avances y desarrollos tecnológicos orientados a la observación del territorio entre la profesión de la
+información geográfica en el sector público, y de la ciudadanía en general.
+g) El apoyo técnico a la Comisión Cartográfica del Principado de Asturias.
+h) La dirección y gestión del Registro de Cartografía del Principado de Asturias, la emisión de informes de califica-
+ción de las solicitudes de inscripción, y de las certificaciones sobre cuanta información conste en el mismo.
+i) La dirección técnica y la coordinación de la Infraestructura de Datos Espaciales del Principado de Asturias.
+j) La coordinación en la elaboración y mantenimiento del catálogo de metadatos de información geográfica del
+Principado de asturias.
+k) La elaboración y formulación del Plan Cartográfico del Principado de Asturias, de sus revisiones, modificaciones
+y actualizaciones.
+l) La elaboración de las normas cartográficas y del Nomenclátor Geográfico del Principado de Asturias.
+m) La dirección y la gestión de la Cartoteca y la Fototeca Damián García López.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 9/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+n) La gestión, explotación, mantenimiento y mejora de la Red Geodésica Activa del Principado de Asturias.
+ñ) La emisión de informes destinados a los diferentes órganos de la Administración del Principado de Asturias, a
+iniciativa de éstos o propia, en materia cartográfica y de información territorial, así como elevar los estudios,
+sugerencias o informes que estime oportunos, en el ámbito de su competencia.
+o) La emisión de informes en los expedientes de deslinde de términos municipales y la asistencia técnica en caso
+de creación o alteración de cualesquiera demarcaciones territoriales.
+p) Cualesquiera otras funciones orientadas al cumplimiento de la misión que tiene encomendada.
+Artículo 14.—Coordinación de la actividad cartográfica del Principado de Asturias.
+1. en desarrollo de su función de coordinación, el CCPa emitirá informe en toda elaboración, ya sea realizada con
+medios internos o externos, de cartografía, vuelos fotogramétricos del territorio asturiano, adquisición de imágenes de
+satélite, o cualquier tipo de documentos de información territorial por parte de los órganos y entidades del sector público
+autonómico y del sector público local integrado en el sCPa.
+2. El informe se pronunciará sobre la necesidad de elaboración de cualquiera de los trabajos descritos en el párrafo
+anterior y su adecuación al Plan Cartográfico del Principado de Asturias. Será solicitado por el órgano competente del
+organismo productor a la dirección del CCPA, y será emitido en un plazo máximo de quince días hábiles, transcurrido el
+cual se entenderá favorable.
+CAPíTULO III.—INSTRUMENTOS DEL SISTEMA CARTOGRáFICO DEL PRINCIPADO DE ASTURIAS
+Sección 1.ª el registro de Cartografía
+Artículo 15.—objeto y naturaleza.
+Con el fin de garantizar la fiabilidad e interoperabilidad de los datos geográficos oficiales, se crea el Registro de Car-
+tografía del Principado de asturias (en adelante, el registro), de carácter administrativo, custodiado y gestionado por la
+Consejería responsable de la ordenación de la cartografía y la información geográfica, adscrito al Centro de Cartografía del
+Principado de Asturias, y armonizado con el Registro Central de Cartografía de la Administración General del Estado.
+Artículo 16.—objeto de inscripción en el registro.
+1. Se inscribirá en el Registro la cartografía básica, derivada y temática y la información geográfica producida por
+los órganos y entidades del sector público de la Comunidad autónoma Principado de asturias y del sector público local
+integrado en el sCPa en el ejercicio de sus competencias, sus productos o servicios de datos espaciales asociados, previa
+verificación de su adecuación a las normas cartográficas, las delimitaciones territoriales establecidas oficialmente por la
+Comunidad Autónoma, la toponimia oficial aprobada por los órganos competentes y, en su caso, por los ayuntamientos,
+así como los nomenclátores y topónimos georreferenciados oficiales no incluidos en el Nomenclátor Geográfico Básico
+de españa.
+2. Podrán inscribirse los productos y servicios cartográficos elaborados por órganos y entidades del sector público
+local no integrado en el SCPA, así como por personas físicas o jurídicas privadas para sus propios fines, previa solicitud
+y verificación de su adecuación a las normas cartográficas.
+3. El Registro recogerá, junto con la identificación de cada serie cartográfica, sus normas técnicas de aplicación, sus
+parámetros de calidad, fechas de referencia y el organismo o persona responsable de su producción y mantenimiento,
+de forma compatible con la ficha registral aprobada por el Registro Central de Cartografía.
+4. No podrá inscribirse la cartografía, derivada o temática, realizada a partir de una cartografía no oficial.
+5. Las inscripciones en el Registro tienen carácter gratuito, y se practicarán por orden de recepción de las solicitudes.
+Artículo 17.—Procedimiento de inscripción.
+1. el procedimiento de inscripción en el registro se regulará por lo establecido en la normativa vigente sobre proce-
+dimiento administrativo común de las Administraciones Públicas. Se iniciará de oficio por el Centro de Cartografía del
+Principado de asturias, por iniciativa propia u orden superior, o a solicitud de persona o entidad interesada.
+2. Las solicitudes de inscripción deberán presentarse conforme al modelo previsto en su respectiva ficha de servicio,
+junto con la documentación correspondiente, y se dirigirá al Centro de Cartografía del Principado de asturias, por vía
+electrónica a través del formulario normalizado accesible desde la sede electrónica. Se formulará una solicitud por cada
+recurso cartográfico cuya inscripción se interese.
+3. Recibida la solicitud, se originará un asiento de presentación en el Registro que contendrá, como mínimo, los si-
+guientes datos:
+a) Número de registro provisional, que será el número de identificación de los datos enviados.
+b) Datos de identificación de la entidad solicitante.
+c) Fecha de entrada en el Centro de Cartografía.
+4. Si la solicitud no reúne los requisitos exigidos, se requerirá a la entidad interesada para que, en un plazo de diez días,
+subsane la falta o acompañe los documentos preceptivos, con indicación de que, si así no lo hiciese, se le tendrá por desistida
+de su petición, previa resolución que deberá ser dictada en los términos previstos en la normativa reguladora del procedimiento
+administrativo común. el plazo indicado podrá ampliarse hasta cinco días, a petición de la entidad interesada o a iniciativa del
+Centro de Cartografía, cuando la aportación de los documentos requeridos presente dificultades especiales.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 10/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+5. La totalidad de la información geográfica presentada para su inscripción en el Registro será objeto de control por
+parte del Centro de Cartografía del cumplimiento de los requisitos exigidos en este decreto para su inscripción, que
+determinará su calificación final, después de comprobar que no figura previamente inscrita con los mismos atributos y
+características técnicas.
+6. A la vista de la documentación aportada, el Centro de Cartografía emitirá un informe de calificación en cualquiera
+de los sentidos siguientes:
+a) Desfavorable: supone que la información no puede inscribirse en el Registro.
+b) Favorable condicionado: supone que la información puede inscribirse en el Registro previa la subsanación de
+los defectos en un plazo no inferior a 15 días. A falta de subsanación en el plazo otorgado, se entiende que la
+persona interesada desiste de su solicitud.
+c) Favorable: supone que la información puede inscribirse en el Registro Cartográfico.
+7. se dará audiencia a la persona solicitante de la inscripción en los supuestos de existencia de informes complemen-
+tarios, o en caso de que le sea requerida documentación complementaria o que subsane su solicitud.
+8. Corresponde a la Consejería responsable de la ordenación de la cartografía y la información geográfica, a propuesta del
+Centro de Cartografía, dictar la resolución autorizando la inscripción o denegándola, de acuerdo con el informe de calificación.
+9. Las solicitudes de inscripción se entenderán estimadas si, en el plazo de seis meses desde la fecha en que la soli-
+citud haya tenido entrada en el registro electrónico de la administración u organismo competente para tu tramitación,
+no se hubiera emitido y notificado resolución expresa. Para los procedimientos iniciados de oficio, el transcurso de seis
+meses desde la fecha del acuerdo de incoación sin que haya recaído resolución expresa dará lugar a la caducidad del
+procedimiento.
+10. Las resoluciones referentes a la inscripción en el Registro ponen fin a la vía administrativa. La resolución de los
+recursos potestativos de reposición requerirá informe previo del Centro de Cartografía del Principado de Asturias.
+11. Para la modificación de la cartografía inscrita en el Registro se seguirá el mismo procedimiento previsto para su
+inscripción.
+Artículo 18.—Documentación que ha de acompañar a la solicitud.
+La solicitud de inscripción en el Registro deberá acompañarse de la siguiente documentación:
+a) La documentación identificativa de la persona solicitante.
+b) La ficha registral respectiva al tipo de recurso cartográfico que se desee inscribir, según la siguiente relación:
+1.º Producto: conjunto de datos producido de acuerdo a unas especificaciones.
+2.º Unidad: cada uno de los elementos individuales que componen un producto, definidos por una partición del
+ámbito total del mismo.
+3.º Servicio cartográfico: prestación o actividad relacionada con la producción de datos o la publicación de
+servicios web que una organización se ofrece a realizar para terceros bajo demanda.
+4.º Servicio web: parte distinguible de funcionalidad ofrecida en la red por una entidad a través de una interfaz.
+c) Una copia de todos los datos que se quieran registrar, en el formato establecido por el Centro de Cartografía.
+d) La ficha con los metadatos de la Infraestructura de Datos Espaciales de Asturias (ideas) conforme a los están-
+dares establecidos.
+Artículo 19.—Acceso al registro.
+El acceso al Registro Cartográfico es público y gratuito, a través del geoportal del Sistema de Información Territorial
+del Principado de asturias, respetándose, en todo caso, lo establecido en la legislación sobre propiedad intelectual.
+Artículo 20.—efectos de la inscripción en el registro.
+1. La inscripción de cartografía e información geográfica en el Registro determinará su carácter oficial, ya sea de pro-
+ducción pública o privada, rigiendo sólo para la primera la obligatoriedad de su uso para todos los órganos y entidades
+del sector público del Principado de asturias y del sector público local integrado en el sCPa.
+2. Los servicios cartográficos inscritos recibirán la denominación de servicios cartográficos registrados, de conformidad
+con el artículo 19.5 del Real decreto 1545/2007, de 23 de noviembre, por el que se regula el Sistema Cartográfico Nacional.
+3. La cartografía y la información geográfica digital inscrita quedarán catalogadas en la Infraestructura de Datos
+espaciales de asturias.
+Artículo 21.—Procedimiento de pérdida de la condición de oficialidad de la cartografía y de la información geográfica
+registradas.
+1. El incumplimiento de las condiciones de actualización de la cartografía e información geográfica registradas esta-
+blecidas en las normas cartográficas del Principado de Asturias será causa de pérdida de la condición de oficialidad.
+2. La declaración de pérdida de la condición de oficialidad de la cartografía o información geográfica debidamente
+inscritas precisará la tramitación previa de un expediente, en el que se dará audiencia al órgano o entidad productores.
+Los órganos competentes para incoar el procedimiento y resolver la pérdida de oficialidad serán el Centro de Cartografía
+y la Consejería responsable de la ordenación de la cartografía y la información geográfica, respectivamente.
+3. El plazo máximo para dictar y notificar la resolución del procedimiento será de tres meses desde el acuerdo de
+incoación, produciéndose la caducidad del mismo en el caso de no recaer resolución expresa en el citado plazo.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 11/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+4. Con carácter previo a la apertura del procedimiento, el Centro de Cartografía requerirá al órgano o entidad pro-
+ductores, otorgándole un plazo de tres meses para su actualización. dicho plazo podrá ser ampliado motivadamente,
+en función de la complejidad de las operaciones a desarrollar. La resolución declarando la pérdida de la condición de
+oficialidad pondrá fin a la vía administrativa, e implicará la cancelación de la inscripción en el Registro de Cartografía del
+Principado de asturias.
+Sección 2.ª La infraestructura de datos espaciales del Principado de Asturias
+Artículo 22.—Naturaleza y finalidad.
+1. La Infraestructura de Datos Espaciales del Principado de Asturias (ideas) está constituida por los datos georrefe-
+renciados y los geoservicios producidos por los órganos y entidades del sector público autonómico y local integrado en
+el SCPA, accesibles vía Internet, y cumpliendo un conjunto de especificaciones normalizadas y protocolos que facilitan
+su búsqueda, acceso, explotación e interoperabilidad.
+2. La ideas se fundamenta en los principios generales de no duplicación, facilidad de acceso y uso compartido de
+la información geográfica, y su finalidad es asegurar la disponibilidad e integración de las acciones, normas de datos,
+tecnologías y recursos necesarios para obtener, procesar, almacenar, distribuir, facilitar y potenciar la utilización de la
+información geoespacial sobre el territorio de la Comunidad autónoma.
+3. La ideas se conectará telemáticamente con las restantes infraestructuras de datos espaciales de ámbito local,
+autonómico, estatal o europeo que contengan información geográfica sobre el territorio del Principado de Asturias, de
+conformidad con las directrices estatales y europeas.
+4. Corresponde al Centro de Cartografía del Principado de Asturias la dirección técnica y coordinación de la ideas.
+5. Los conjuntos de datos y servicios ofrecidos por la IDEAS estarán accesibles a través del geoportal siTPa-ideas.
+Artículo 23.—objetivos y criterios.
+1. Los objetivos de la ideas son los siguientes:
+a) Facilitar e impulsar el acceso y disponibilidad de información geográfica y geoservicios de calidad referidos al te-
+rritorio del Principado de asturias, respondiendo a las necesidades de los órganos y entidades del sector público
+de la Comunidad autónoma, del resto de administraciones públicas y de la ciudadanía asturiana.
+b) Favorecer la reutilización de la información geográfica disponible, promoviendo su uso bajo criterios no
+restrictivos.
+c) dotar a los órganos y entidades del sector público de la Comunidad autónoma de los componentes tecnológicos
+necesarios que permitan el almacenamiento, difusión y explotación eficaz de servicios geográficos de calidad,
+dando respuesta a los cambios normativos y tecnológicos.
+d) Promocionar y divulgar las informaciones, tecnologías, especificaciones y servicios geográficos disponibles para
+impulsar el uso y explotación de la información geográfica y los servicios ofrecidos.
+2. Para el cumplimiento de tales objetivos, la ideas se regirá por los siguientes criterios:
+a) Los datos espaciales deberán ser recogidos una sola vez y mantenidos por la entidad que asegure la máxima
+efectividad.
+b) deberá posibilitarse la interoperabilidad de datos espaciales, aun procediendo de fuentes diversas.
+c) Los datos espaciales estarán disponibles bajo condiciones que faciliten su uso extensivo.
+d) deberá facilitarse el acceso a la información sobre los datos espaciales disponibles, así como las condiciones
+para ser adquiridos y usados.
+e) Los datos espaciales deben ser fáciles de entender e interpretar.
+Artículo 24.—Contenido.
+1. La Infraestructura de Datos Espaciales del Principado de Asturias ofrecerá al menos los siguientes datos y servicios:
+a) La información geográfica básica, la información temática básica y la información geográfica complementaria.
+b) El catálogo de datos espaciales y otros servicios de localización que posibiliten la investigación de conjuntos y
+servicios de datos espaciales y que muestren el contenido de los metadatos.
+c) Servicios de visualización que permitan, como mínimo, mostrar datos espaciales, superponerlos y medir en ellos
+distancias lineales y aéreas, así como mostrar los símbolos cartográficos convencionales (leyenda, escala, norte,
+sistema de referencia y coordenadas, etc.) y la información alfanumérica asociada a los registros gráficos.
+d) Servicios de descarga que permitan descargar copias de conjuntos de datos espaciales, o partes de ellos.
+e) Servicios de transformación, que permitan adaptar los datos espaciales con el fin de lograr su interoperabilidad.
+f) Servicios que permitan el acceso a los servicios anteriores.
+g) Servicios de información y acceso a la Red Geodésica Activa del Principado de Asturias.
+h) datos y metadatos conforme al marco legal europeo y estatal establecido.
+2. De acuerdo con lo dispuesto en los artículos 20 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efec-
+tiva de mujeres y hombres y 7 de la Ley del Principado de Asturias 2/2011, de 11 de marzo, para la igualdad de mujeres
+y hombres y la erradicación de la violencia de género, en función de la temática, y siempre que sea posible, los datos se
+ofrecerán desagregados por género, para identificar y visibilizar las desigualdades y brechas presentes en el territorio.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 12/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+3. El acceso a la ideas se realizará a través de medios electrónicos de acuerdo con lo establecido en la normativa
+vigente, respetándose, en todo caso, lo establecido en las legislaciones sobre propiedad intelectual y sobre protección
+de datos de carácter personal.
+4. La Infraestructura de Datos Espaciales del Principado de Asturias garantizará el rendimiento, la capacidad y la
+disponibilidad de los servicios ofrecidos, conforme a los estándares técnicos nacionales y europeos aplicables.
+Artículo 25.—el Catálogo de Datos espaciales y Servicios.
+1. el Catálogo de datos espaciales y servicios, incluido en la ideas, contendrá un inventario de la información geo-
+gráfica y los geoservicios disponibles sobre el territorio de Asturias, que dispongan de sus correspondientes metadatos
+y sean accesibles a través de al menos uno de los servicios citados en el artículo anterior.
+2. deberá permitir un acceso único a todos los metadatos y servicios de datos espaciales del sector público de la
+Comunidad autónoma y de las entidades locales integradas en el sCPa.
+3. Todos los órganos y entidades del sector público de la Comunidad Autónoma y del sector público local integrado en
+el SCPA elaborarán un inventario de los conjuntos de datos y geoservicios de los que sean responsables, con indepen-
+dencia del uso y de las restricciones que, en su caso, pudieran aplicar a dicha información.
+4. Los conjuntos de datos y geoservicios serán descritos con metadatos de acuerdo con las normas y plazos que
+apruebe el CCPa y publicados, al menos, en el Catálogo de datos espaciales y servicios de la ideas.
+Sección 3.ª El Plan Cartográfico
+Artículo 26.—Naturaleza y objetivos.
+1. El Plan Cartográfico del Principado de Asturias (PCPA) es el marco para la ordenación y el desarrollo de la actividad
+cartográfica de la Administración del Principado de Asturias, así como el instrumento básico de planificación de su pro-
+ducción cartográfica oficial y de las entidades del sector público autonómico.
+2. el PCPa tiene como ámbito de aplicación el conjunto del territorio de la Comunidad autónoma Principado de astu-
+rias y se configura como un conjunto ordenado, integrado y jerarquizado de acciones, programadas y presupuestadas
+orientadas a la consecución de los siguientes objetivos:
+a) La coherencia e interoperabilidad de los datos espaciales.
+b) La calidad de la producción cartográfica y su utilidad como servicio público.
+c) La mejora permanente de la Infraestructura de Datos Espaciales de Asturias.
+Artículo 27.—Contenido.
+el Plan tendrá, con carácter general, el siguiente contenido mínimo:
+a) Objeto y justificación.
+b) marco normativo.
+c) diagnóstico de la situación actual del sCPa.
+d) Identificación de actores del sistema.
+e) Principios y objetivos estratégicos.
+f) Líneas, programas y proyectos.
+g) Financiación y programación.
+h) seguimiento y actualización.
+Artículo 28.—Formulación y tramitación.
+1. La redacción y la formulación del PCPA y de sus modificaciones, revisiones y actualizaciones corresponden al CCPA.
+Se promoverá la máxima participación de los agentes públicos y privados que lleven a cabo actividades cartográficas, y
+de la ciudadanía en general.
+2. La versión inicial del Plan será sometida a informe no vinculante de la ComCarPa, disponiendo ésta de un plazo de
+dos meses para su emisión.
+3. Una vez efectuadas las modificaciones que se estimen a resultas del informe de la Comisión, la versión del Plan
+será sometida a información pública por un plazo de un mes. el CCPa emitirá informe motivado sobre la estimación o
+desestimación de las aportaciones formuladas y de las observaciones contenidas en el informe de la ComCarPa.
+4. El Plan será aprobado por acuerdo del Consejo de Gobierno del Principado de Asturias, a propuesta de la persona
+titular de la Consejería responsable de la ordenación de la cartografía y la información geográfica, previo informe favo-
+rable del Consejo Superior Geográfico, de acuerdo con lo previsto en el artículo 11 del Real Decreto 1545/2007, de 23
+de noviembre, por el que se regula el Sistema Cartográfico Nacional.
+Artículo 29.—Vigencia.
+1. el PCPa se concibe como un instrumento vivo y en constante actualización. en consecuencia, su vigencia es inde-
+finida, sin perjuicio de que pueda ser objeto de revisión o modificación.
+2. Tendrá la consideración de revisión del Plan la renovación de los principios y objetivos estratégicos y de sus líneas
+de actuación. Se considerará modificación cualquier alteración de los programas de actuación. Cualquier otra variación
+tendrá la consideración de actualización.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 13/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+3. Las revisiones del Plan se tramitarán de acuerdo con el procedimiento previsto para su aprobación. Las modifi-
+caciones seguirán el mismo trámite, con la particularidad de que podrá prescindirse del trámite de información pública
+o bien podrá restringirse el período de la misma, en función del alcance de la modificación. Las actualizaciones serán
+determinadas por el CCPa, previo informe favorable de la ComCarPa.
+En cualquier caso, deberán someterse al trámite de información pública sin restricciones las modificaciones de los
+programas de actuación que afecten a proyectos cartográficos con una duración igual o superior a cinco años, o un coste
+estimado igual o superior a 500.000 €.
+Sección 4.ª otros instrumentos
+Artículo 30.—Las normas cartográficas.
+1. Las normas cartográficas del sector público de la Comunidad Autónoma Principado de Asturias y de las entidades
+locales integradas en el SCPA contendrán los procedimientos, criterios y cuantas especificaciones técnicas y estándares
+sean necesarios para lograr la máxima armonización e interoperabilidad en la producción, almacenamiento y difusión de
+cartografía, datos espaciales, metadatos y geoservicios.
+2. Asimismo, regularán los condicionantes mínimos que, en función de su naturaleza, deban cumplir los proyectos
+cartográficos y de información geográfica, siendo los órganos y entidades del sector público del Principado de Asturias
+y de las entidades locales integradas en el SCPA los encargados de elaborar las especificaciones concretas relativas a la
+propia materia sectorial. Procurarán la armonización y homogeneización de los criterios establecidos por los organismos
+cartográficos estatales y organizaciones internacionales.
+3. Serán elaboradas por el CCPA, informadas por la ComCarPa, y aprobadas mediante orden de la Consejería respon-
+sable de la ordenación de la cartografía y la información geográfica. Serán de obligado cumplimiento para los órganos y
+entes del sector público autonómico y del sector público local integrado en el sCPa.
+Artículo 31.—La cartografía oficial.
+1. Tendrá la consideración de cartografía oficial la producida por los órganos y entidades del sector público del
+Principado de asturias y de las entidades locales integradas en el sCPa, o bajo su dirección y control, conforme a
+las normas cartográficas aplicables, y una vez se inscriba como tal en el Registro de Cartografía del Principado de
+asturias.
+2. Asimismo, tiene carácter oficial en el Principado de Asturias, en los términos establecidos por la legislación estatal,
+la cartografía elaborada por los organismos competentes de la administración del estado inscrita en el registro Central
+de Cartografía.
+3. La cartografía oficial será de uso obligado por el sector público del Principado de Asturias y de las entidades locales
+integradas en el SCPA, así como por las personas interesadas, en aquellos procedimientos administrativos que requieran
+una representación geográfica precisa sobre el territorio asturiano.
+Artículo 32.—El Nomenclátor Geográfico.
+1. El Nomenclátor Geográfico del Principado de Asturias es el conjunto de nombres oficiales georreferenciados sobre
+cartografía topográfica a escala 1:10.000 o mayores, debidamente aprobados.
+2. Las denominaciones incluidas en el Nomenclátor Geográfico serán de uso obligado en la cartografía oficial produ-
+cida por los órganos y entidades del sector público del Principado de asturias.
+3. El Nomenclátor Geográfico será elaborado por el CCPA. Su versión inicial será sometida a un trámite de información
+pública y de audiencia a los órganos y entidades públicas interesados. La versión resultante de las alegaciones y obser-
+vaciones formuladas será aprobada por la Consejería responsable de la ordenación de la cartografía y la información
+geográfica, a propuesta del CCPA, previo informe de la ComCarPa.
+4. Las modificaciones del Nomenclátor se tramitarán siguiendo el mismo procedimiento para su aprobación.
+5. El Nomenclátor estará armonizado e integrado con el Nomenclátor Geográfico Nacional.
+Artículo 33.—La Cartoteca del Principado de Asturias y la Fototeca Damián García López.
+1. La Cartoteca del Principado de Asturias y la Fototeca Damián García López se adscriben al CCPA y tendrán la fi-
+nalidad de reunir, conservar, preservar y difundir documentación cartográfica y geográfica referida, principalmente, al
+territorio de la Comunidad autónoma.
+2. La Cartoteca estará integrada por los mapas, atlas, planos antiguos y cualquier otro tipo de documento de similar na-
+turaleza que provengan de donaciones, adquisiciones, intercambio, o cualquier otra forma admitida en derecho, en sus for-
+matos de origen o digitalizados. Asimismo, se incluirá toda la producción cartográfica contemporánea producida por el CCPA,
+y por los organismos de la administración de la Comunidad autónoma en formatos digitalizados y georreferenciados.
+3. La Fototeca Damián García López estará integrada por las fotografías aéreas, ortofotografías, imágenes de satélite,
+Modelo Digital de Elevaciones (MDE), ya sea en forma de Modelo Digital del Terreno (MDT) o Modelo Digital de Superfi-
+cies (MDS), y cualquier tipo de documento de similar naturaleza sobre el territorio del Principado de Asturias producidos
+por el CCPa u otros organismos, en sus formatos de origen, o en formatos digitalizados y georreferenciados.
+Artículo 34.—La red Geodésica Activa del Principado de Asturias.
+1. La Red Geodésica Activa del Principado de Asturias (RGAPA) es un servicio de posicionamiento de alta precisión
+GNSS, compuesto por un conjunto de estaciones geodésicas permanentes, redes instrumentales, procedimientos, datos,
+comunicaciones, software, hardware y soporte técnico, y en coherencia con la Red Geodésica Nacional de Estaciones
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 14/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+de Referencia GNSS (ERGNSS). Su objeto es mejorar la precisión y calidad de los trabajos cartográficos y geodésicos,
+facilitando el acceso a datos GNSS, tanto en tiempo real como en post-proceso.
+2. La gestión, conservación y mantenimiento de la RGAPA corresponde al CCPa, y su acceso será libre, público y
+gratuito.
+3. La RGAPA proporcionará correcciones de código y fase para diferentes sistemas de navegación, tanto en post-
+proceso a través de ficheros rinex, como en tiempo real rTK.
+4. El instrumental de la RGAPA o cualquier software o instrumental necesario para el funcionamiento de los servicios
+y su explotación, así como los que le sean incorporados y adscritos en el futuro por cualquier entidad o persona y por
+cualquier título, será de titularidad de la Administración del Principado de Asturias.
+5. La distribución de estaciones de la RGAPA se basará en la prestación del servicio de cobertura global del territorio de
+la Comunidad Autónoma y en la tecnología existente que haga posible servicios actualizados y adaptados a la existencia
+de nuevas constelaciones GNSS.
+Disposición adicional primera.—Constitución de la Comisión Cartográfica del Principado de Asturias
+La ComCarPa se constituirá dentro de los seis meses siguientes a la entrada en vigor del presente decreto.
+Disposición adicional segunda.—Plazo para la elaboración del Plan Cartográfico
+El CCPA iniciará la elaboración del Plan Cartográfico del Principado de Asturias dentro de los tres meses siguientes a
+la entrada en vigor del presente decreto.
+Disposición adicional tercera.—Prohibición de incremento de los gastos de personal
+La aplicación de lo dispuesto en el presente decreto en ningún caso supondrá incremento de plantilla ni de los gastos
+de personal.
+Disposición transitoria única.—Producción de cartografía en tanto no se aprueben las normas cartográficas del Principado
+de Asturias
+En tanto no se aprueben las normas cartográficas del Principado de Asturias, la producción de cartografía e informa-
+ción geográfica del sector público de la Comunidad Autónoma y de las entidades locales integradas en el SCPA se suje-
+tará a las prescripciones de la Ley 7/1986, de 24 de enero, de ordenación de la cartografía, del Real Decreto 1545/2007,
+de 23 de noviembre, por el que se regula el Sistema Cartográfico Nacional, de la Ley 14/2010, de 5 de julio, sobre las
+infraestructuras y los servicios de información geográfica en España, y demás normas estatales aplicables a la produc-
+ción cartográfica de las administraciones integradas en el Sistema Cartográfico Nacional.
+Disposición derogatoria única.—Derogación normativa
+A la entrada en vigor del presente decreto queda derogado el Decreto 25/2000, de 9 de marzo, por el que se regula
+la organización y funcionamiento de la Comisión Cartográfica del Principado de Asturias. Quedan asimismo derogadas
+a la entrada en vigor del presente decreto las disposiciones de igual o inferior rango emanadas de los órganos de la
+Comunidad Autónoma que se opongan a lo dispuesto en el mismo.
+Disposición final primera.—Modificación del Decreto 75/2023, de 18 de agosto, por el que se establece la estructura
+orgánica básica de la Consejería de ordenación de territorio, Urbanismo, Vivienda y Derechos Ciudadanos
+El artículo 9 del Decreto 75/2023, de 18 de agosto, por el que se establece la estructura orgánica básica de la Consejería
+de Ordenación de Territorio, Urbanismo, Vivienda y Derechos Ciudadanos, queda redactado en los siguientes términos:
+“Artículo 9.—Centro de Cartografía del Principado de Asturias.
+al Centro de Cartografía del Principado de asturias, con rango orgánico de servicio, le corresponde la producción,
+integración, publicación y mantenimiento de la información geoespacial de referencia y temática relativa al territorio as-
+turiano, relevante y de utilidad para la administración del Principado de asturias, las administraciones locales integradas
+en el sCPa y sus respetivas entidades públicas, las iniciativas empresariales privadas, los agentes sociales y el conjunto
+de la ciudadanía asturiana.
+Prestará asesoramiento y apoyo a las organizaciones del sector público asturiano en la producción de datos geográ-
+ficos de calidad y conformes a las especificaciones normativas aplicables.
+Le corresponde, asimismo, extender entre la sociedad asturiana el empleo de la información geográfica para abstraer,
+analizar e interpretar los fenómenos cambiantes en la Comunidad autónoma.
+al Centro de Cartografía del Principado de asturias se le atribuye la tramitación de los expedientes de deslinde de
+términos municipales.
+Finalmente, ejercerá las funciones que, en relación con el Sistema Cartográfico del Principado de Asturias, le atribuya
+la normativa autonómica reguladora de la materia.”
+Disposición final segunda.—Habilitación para el desarrollo normativo
+se faculta a la persona titular de la Consejería competente en materia de urbanismo para dictar las disposiciones
+necesarias para el desarrollo y ejecución de lo previsto en el presente decreto.
+
+BOLETÍN OFICIAL DEL PRINCIPADO DE ASTURIAS
+núm. 225 de 20-xi-2026 15/15
+https://miprincipado.asturias.es/bopa
+80590-6202
+.dóC
+Disposición final tercera.—Entrada en vigor
+el presente decreto entrará en vigor a los veinte días de su publicación en el Boletín Oficial del Principado de Asturias.
+Dado en Oviedo, a nueve de noviembre de dos mil veintiséis.—El Presidente del Principado de Asturias, Adrián
+Barbón Rodríguez.—El Consejero de Ordenación de Territorio, Urbanismo, Vivienda y Derechos Ciudadanos, Ovidio
+Zapico González.—Cód. 2026-09508.

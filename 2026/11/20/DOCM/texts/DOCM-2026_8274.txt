@@ -1,0 +1,562 @@
+AÑO XLV Núm. 223 20 de noviembre de 2026 40639
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 11/11/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto denominado: Ampliación del perímetro de riego
+(S478/2025/TO/00058) en el término municipal de El Romeral (Toledo). [2026/8274]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+La actuación pretendida se encuadra en el Anexo II de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, concretamente, en el Grupo 1. Agricultura, silvicultura, acuicultura y ganadería, Apartado c)
+Proyectos de transformación, ampliación o consolidación de regadíos de 10 o más hectáreas.
+1. Descripción del proyecto definido en la documentación aportada por el promotor.
+El proyecto según la documentación inicial presentada por el promotor tiene por objeto la ampliación del perímetro
+de riego de 9,82 ha a 11,31 ha (un incremento de 1,49 ha) para el cultivo de leñosos (pistacho) en el término
+municipal de El Romeral (Toledo), promovido por Ramón Maroto Carneros. La ampliación de 1,49 ha regables se
+localiza en el polígono 24 del término municipal de El Romeral, afectando a las siguientes parcelas:
+- Parcela 156 (recinto 1): 0,5894 ha (Pistacho).
+- Parcela 161 (recinto 1): 0,5725 ha (Pistacho).
+- Parcela 164 (recinto 1): 0,1665 ha (Pistacho).
+- Parcela 171 (recinto 2): 0,1655 ha (Pistacho).
+Para que la actividad descrita tenga lugar el promotor pretende la modificación de la inscripción del aprovechamiento
+con número de expediente M-0006/2018; M-0087/2007 (251445/07); 33031/99, para la cual se ha solicitado, en
+la Confederación Hidrográfica del Tajo, la correspondiente transformación de los derechos de agua privadas, en
+derechos concesionales de aguas públicas.
+La actuación pretende llevarse a cabo sin incrementar el volumen máximo anual de agua asignado en el derecho
+concesional de referencia, fijado en 15.580 m³/año, con un caudal máximo instantáneo de 5 l/s y una modulación
+mensual máxima de 4.533 m³/mes (hasta 4.807,1 m³/mes según la caracterización del organismo de cuenca).
+Las características técnicas de las obras e instalaciones proyectadas son las siguientes:
+- Captación y régimen concesional de aguas: La extracción hídrica se realiza a través de un sondeo existente
+ubicado en la Masa de Agua Subterránea Algodor, situado en el recinto 1 de la parcela 160 del polígono 24 del T.M.
+de El Romeral (Toledo), en las coordenadas UTM (ETRS89 H30) X = 461.737, Y = 4.395.221. La perforación cuenta
+con una profundidad de 85 m y un diámetro de 200 mm, equipada con un grupo motobomba sumergida de 15 CV
+alimentada por un grupo electrógeno, con previsión de alimentación mediante la línea eléctrica que pasa por la
+propia parcela, previa autorización.
+La actuación se ampara en la solicitud de modificación de características del título concesional tramitada ante la
+Confederación Hidrográfica del Tajo bajo el expediente M-0148/2021 (modificación del expediente concesional previo
+M-0006/2018). Se mantienen de forma estricta los parámetros hídricos autorizados sin incremento del recurso: un
+volumen máximo anual de 15.580 m³/año, un caudal máximo instantáneo de 5 l/s y un volumen máximo mensual de
+4.533 m³/mes (hasta 4.807,1 m³/mes según la modulación del organismo de cuenca).
+- Cabezal de riego y red de distribución: En el cabezal de riego se dispone el sistema de filtrado y el equipo de
+fertirrigación. Desde la salida del bombeo parte una red general principal y secundaria de tuberías de polietileno
+(PE) enterradas en zanjas a una profundidad aproximada de 80 cm, de las cuales derivan las tuberías portaemisores
+enterradas que alimentan los goteros integrados de 4 l/h.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40640
+- Sistemas de control y medición de caudales: En la salida del bombeo se dispone un contador/caudalímetro
+totalizador homologado con marcado de verificación primitiva, sin mecanismo de puesta a cero o cuenta regresiva,
+sujeto a la llevanza obligatoria del Libro de Control del Agua conforme a la Orden ARM/1312/2009.
+La obra civil y los trabajos de montaje e instalación a ejecutar en el ámbito del proyecto comprenden las siguientes
+actuaciones:
+- Actuaciones previas y acondicionamiento del terreno: Replanteo de las trazas de canalización sobre el terreno y
+balizamiento del área de trabajo en las parcelas agrícolas. No se requiere la apertura de nuevos viales de acceso ni
+zonas de acopio exterior, realizándose el acopio temporal de materiales dentro de la propia finca agrícola consolidada.
+- Relleno de zanjas y restitución morfológica del suelo: Relleno inmediato de las zanjas utilizando los propios
+materiales procedentes de la excavación previa, realizando la restitución del suelo de forma simultánea al avance de
+las obras para evitar procesos erosivos o alteración de la escorrentía. Las labores concluyen con la rápida nivelación
+del terreno para dejarlo en su estado agronómico original.
+- Despliegue de la red superficial de riego: Extendido manual de las mangueras portagoteros sobre las alineaciones
+del cultivo de leñosos y pruebas de estanqueidad y uniformidad de la red antes de su puesta en servicio.
+En referencia a las alternativas estudiadas en la documentación ambiental del proyecto, el promotor plantea y
+justifica las siguientes opciones:
+- Alternativa Cero (no actuación): Descartada. Supondría no llevar a cabo la ampliación del perímetro de regadío y
+mantener las parcelas objeto de actuación en régimen de secano tradicional. Si bien esta opción presenta aspectos
+positivos por el no consumo adicional de recursos hídricos ni energéticos, socioeconómicamente se considera
+desfavorable al privar a la plantación de leñosos de un riego de apoyo deficitario durante la época estival de sequía,
+comprometiendo la viabilidad económica y la calidad y estabilidad de las producciones agrícolas.
+- Alternativa 1 (Ampliación del perímetro de riego a 11,31 ha mediante riego por goteo - Alternativa Seleccionada):
+Consiste en ampliar la superficie regable, aprovechando el sondeo preexistente ubicado en la parcela 160 del mismo
+polígono. El promotor justifica esta opción por cuanto optimiza las infraestructuras existentes sin requerir nuevas
+perforaciones ni incrementar el volumen máximo anual concesional autorizado (15.580 m³/año), adopta el sistema
+de riego por goteo por su máxima eficiencia hídrica, minimiza la afección al suelo y a la vegetación al discurrir las
+canalizaciones enterradas por fincas de su propiedad.
+- Alternativa 2: otros sistemas de riego (Gravedad o Aspersión). Descartada. Se evalúa la posibilidad de aplicar el
+agua mediante riego por gravedad o por aspersión. Se descartan ambas opciones por su reducida eficiencia en el
+uso del agua, mayor consumo de energía y riesgo de provocar enfermedades criptogámicas en el cultivo de leñosos
+al mojar la cubierta foliar.
+Conclusión del análisis de alternativas: Se concluye que la Alternativa 1 resulta la más favorable desde el punto de
+vista técnico, económico y ambiental, al aprovechar el sondeo existente dentro de la propia finca, mantener intacto
+el volumen de agua concedido, utilizar un sistema de riego por goteo de alta eficiencia y garantizar la viabilidad
+agronómica del cultivo de forma sostenible.
+2. Tramitación y consultas.
+El 07/05/2025, se recibe en el Servicio de Calidad Ambiental de Toledo, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada y el documento ambiental del proyecto, dando cumplimiento al
+artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, así como la copia
+del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de tasas y precios públicos de
+Castilla-La Mancha y otras medidas tributarias.
+El 01/07/2025 se comunica al promotor que la documentación ambiental presentada se considera insuficiente para
+realizar una adecuada evaluación ambiental del proyecto. Se requiere información adicional sobre el sistema de riego
+y las posibles líneas eléctricas, así como inventarios de fauna y flora basados en trabajos de campo reales y no solo
+en fuentes documentales. Además, deberá aportarse el certificado de compatibilidad urbanística del Ayuntamiento
+de El Romeral o justificante de su solicitud.
+El 25/07/2025 el promotor responde al requerimiento de información complementaria para la ampliación de una
+superficie de riego en El Romeral, aportando planos del sistema de riego, información sobre una línea eléctrica
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40641
+existente y justificando que la finca se encuentra fuera de espacios protegidos y con escasa afección a la fauna.
+Además, incorpora un inventario básico de flora observada en lindes y ribazos, propone conservar la vegetación de
+las lindes como medida ambiental y afirma que no se han detectado especies amenazadas en el entorno.
+Sobre la base de dicha documentación, el 05/08/2025 y de acuerdo con el artículo 53 de la citada Ley 2/2020, se
+formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto
+de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los
+siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+Dentro de la Delegación Provincial de Desarrollo Sostenible de Toledo:
+- Servicio de Medio Natural.
+- Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo. DT. Ocaña. *
+Otros organismos:
+- Ayuntamiento de El Romeral.
+- Consejería de Educación, Cultura y Deportes. Delegación Provincial de Toledo. Servicio de Cultura. *
+- Confederación Hidrográfica del Tajo. *
+- Consejería de Fomento. Dirección General de Carreteras. Servicio de Planificación y Proyectos.
+- SEO-BirdLife.
+- WWF-España.
+- Acmaden-Ecologistas En Acción
+- Toledo Aire Limpio.
+- Agrupación Naturalista Esparvel de Toledo.
+Una vez analizados los informes sectoriales resultado de las consultas previas a los organismos consultados se
+constata que ninguno ha mostrado oposición a la ejecución del proyecto.
+- Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Toledo: Emite informe sectorial
+favorable con fecha de firma 20/08/2025 (Exp. 252056), condicionando la actuación al cumplimiento del protocolo
+legalmente establecido para el caso de hallazgos casuales de restos arqueológicos o paleontológicos.
+- Confederación Hidrográfica del Tajo: Emite informe sectorial con fecha de firma 03/08/2026 (Ref. EIA-0303/2026).
+Informa la compatibilidad con la planificación hidrológica al tramitarse la modificación concesional (expediente
+M-0148/2021) sin incremento del volumen de agua autorizado, sujetando el desarrollo de la actuación al cumplimiento
+de los condicionantes exigidos en materia de concesión de aguas, control volumétrico del aprovechamiento y
+protección del Dominio Público Hidráulico y de las aguas subterráneas.
+- La Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo. DT. Ocaña. firma su informe el
+29/08/26. La visita de campo concluye que el proyecto de ampliación del perímetro de riego hasta 11,31 ha en
+El Romeral (Toledo) se encuentra sin iniciar y que no se aprecian afecciones a flora, hábitats protegidos, fauna
+amenazada, elementos geomorfológicos ni otros valores ambientales relevantes. Asimismo, no se identifican
+humedales, escarpes u otros elementos naturales sensibles en la zona.
+Asimismo, con fecha 10/09/2026, de conformidad con la Ley 1/2024, de 15 de marzo, de Medidas Administrativas
+de Castilla-La Mancha, se notifica al Ayuntamiento de El Romeral petición de informe específico sobre la
+afección socioeconómica del proyecto, efectos sinérgicos y afección a caminos vecinales u otras infraestructuras
+municipales.
+De conformidad con el artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, con fecha 19/10/2026 se notifica todos estos informes recibidos al promotor para
+su conocimiento y para la presentación de las alegaciones o aclaraciones que estimase oportunas. Transcurrido el
+plazo legalmente establecido sin haberse recibido alegaciones o manifestación alguna por su parte, se prosigue con
+la tramitación de las actuaciones.
+3. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40642
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Las características iniciales básicas del proyecto se han descrito en el apartado Primero del presente Informe. Tras
+el análisis de la documentación, la actuación consistiría en incrementar la zona de riego asociada a cultivos leñosos
+y herbáceos en el término municipal de El Romeral (Toledo).
+En el informe de consultas previas de Confederación Hidrográfica del Tajo, con fecha de firma de 3 de agosto de
+2026, se detalla que encontraron los siguientes expedientes relacionados:
+- M-0006/2018: con fecha 12 de enero de 2022 se resolvió aprobar la modificación solicitada por Ramón Maroto
+Carneros, Eulalia Isabel Marcote Téllez y Benito Marcote Molina de un aprovechamiento de aguas con destino a
+riego para las parcelas 159 y 163 del polígono 24 del término municipal de El Romeral (Toledo).
+- M-0148/2021: relativo a la solicitud de modificación de características de una concesión con destino a riego por
+goteo de leñosos y herbáceos en las parcelas 153, 154, 155, 156, 157, 158, 160, 162, 164, 167, 169, 170, 172 y 177
+del polígono 24, TM de El Romeral (Toledo), solicitada por Ramón Maroto Carneros, Eulalia Isabel Marcote Téllez.
+Este expediente se encuentra en tramitación en Confederación Hidrográfica del Tajo, actualmente en estado de
+suspensión por la Evaluación de Impacto Ambiental. La presente evaluación por tanto debe resolverse para poder
+seguir con el expediente.
+Por tanto, en el proyecto se aumentaría la superficie regable desde 2,09 ha actualmente autorizadas hasta 11,58
+ha. Dentro del Polígono 24 (T.M. de El Romeral), excluyendo las parcelas 159 y 163, que ya están en concesión, las
+9,49 ha incorporadas se localizan en el polígono 24 y afectarían a las siguientes parcelas:
+Parcela 153 (recinto 1): 0,3949 ha (Pistacho).
+Parcela 154 (recinto 1): 0,4012 ha (Pistacho).
+Parcela 155 (recinto 1): 0,6656 ha (Pistacho).
+Parcela 155 (recinto 2): 0,0103 ha (Pistacho).
+Parcela 156 (recinto 1): 0,5894 ha (Pistacho).
+Parcela 157 (recinto 1): 0,4285 ha (Viña).
+Parcela 158 (recinto 1): 0,5360 ha (Pistacho).
+Parcela 160 (recinto 1): 1,3999 ha (Pistacho).
+Parcela 161 (recinto 1): 0,5725 ha (Pistacho).
+Parcela 162 (recinto 1): 0,3582 ha (Pistacho).
+Parcela 164 (recinto 1): 0,1665 ha (Pistacho).
+Parcela 167 (recinto 1): 1,0701 ha (Viña).
+Parcela 167 (recinto 3): 0,1655 ha (Pistacho).
+Parcela 167 (recinto 6): 0,9690 ha (Viña).
+Parcela 167 (recinto 7): 0,0232 ha (Tierra arable).
+Parcela 167 (recinto 8): 0,0023 ha (Tierra arable).
+Parcela 169 (recinto 1): 0,3408 ha (Viña).
+Parcela 170 (recinto 1): 0,3977 ha (Viña).
+Parcela 171 (recinto 2): 0,1655 ha (Pistacho).
+Parcela 172 (recinto 1): 0,4809 ha (Viña).
+Parcela 172 (recinto 2): 0,3528 ha (Viña)
+Instalación de captación y equipo de bombeo:
+- Captación preexistente: Aprovechamiento hídrico a través del sondeo existente en la finca, sobre el cual no se
+ejecutan nuevas obras de perforación ni modificación de la embocadura.
+- Red de riego por goteo: Conducciones generales y secundarias enterradas y ramales portagoteros para riego
+localizado en cultivo de leñosos.
+Acumulación con otros proyectos y sinergias: Aunque la ampliación propuesta tiene una entidad reducida y no supone
+un incremento del volumen anual autorizado de agua, puede generar efectos sinérgicos con otras explotaciones
+agrícolas del entorno, especialmente por la acumulación de aprovechamientos de aguas subterráneas y la
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40643
+progresiva transformación de cultivos leñosos a regadío. Asimismo, la actuación se localiza en una zona vulnerable
+a la contaminación por nitratos, por lo que sus efectos deben considerarse de forma conjunta con los derivados de
+otras explotaciones agrícolas próximas en relación con el uso de fertilizantes y fitosanitarios.
+3.2. Ubicación del proyecto.
+El proyecto se localiza en el término municipal de El Romeral (Toledo), encuadrándose en la Hoja nº 659 (“Lillo”) del
+Mapa Topográfico Nacional. El acceso a la finca agrícola se realiza desde la carretera de El Romeral a Tembleque
+(C-3000) o a través del Camino Alto de Tembleque.
+El entorno se caracteriza por una matriz agraria antropizada dominada por parcelas dedicadas al cultivo de leñosos
+(pistacho, viña) y cultivos de secano tradicional, situándose los cursos de agua superficiales más cercanos (como el
+Arroyo de los Testillos) fuera del ámbito de actuación y totalmente al margen de la zona de policía del Dominio Público
+Hidráulico. La finca se asienta sobre la masa de agua subterránea Algodor y dentro de la Zona Vulnerable a Nitratos
+Lillo-Quintanar-Ocaña. Las actuaciones no afectan a ningún Espacio Natural Protegido ni a la Red Natura 2000,
+localizándose a más de 2 km al exterior del límite de la ZEPA «Área Esteparia de la Mancha Norte» (ES0000170),
+sin interacción con Montes de Utilidad Pública ni Vías Pecuarias.
+Desde el punto de vista de la flora y la fauna, la vegetación se limita a especies ruderales en lindes y márgenes de
+caminos. Según el promotor tras inspección visual, se han localizado estas especies en las lindes y márgenes de
+los caminos: Picnomon acarna, Cynara cardunculus, así como varios ejemplares de Bromus sp. En cuanto a fauna,
+se menciona como área de campeo y dispersión de avifauna esteparia asociada al mosaico agrícola manchego.
+En cuanto a los recursos naturales afectados y la capacidad de carga del medio al proyecto:
+- Dominio público hidráulico y sus márgenes de protección: El informe de la Confederación Hidrográfica del Tajo,
+indica que la actuación planteada se halla en las siguientes zonas protegidas, aguas superficiales y masas de aguas
+subterráneas:
+Zonas Protegidas (Plan Hidrológico de la Demarcación Hidrográfica del Tajo 2023-2027): Las parcelas del proyecto
+se encuentran localizadas en el interior de la Zona Vulnerable a la contaminación por nitratos procedentes de
+fuentes agrarias «Lillo-Quintanar-Ocaña» (ES030_ZVULES42_4) y dentro del área de captación de la zona sensible
+«Embalse de Castrejón» (ES030ZSENESCM572). No consta solapamiento con zonas de conservación de la
+biodiversidad de la Red Natura 2000 ni con perímetros de protección de captaciones de agua para abastecimiento
+a poblaciones.
+Aguas superficiales: Las infraestructuras del sondeo y la red de riego por goteo se ubican totalmente fuera del
+Dominio Público Hidráulico (DPH), de la zona de servidumbre (5 m) y de la zona de policía (100 m) de cauces
+públicos, situándose los arroyos más cercanos del entorno (como el Arroyo de los Testillos) a distancia suficiente
+para evitar afecciones directas, si bien parte de las parcelas se ubican en zona catalogada como inundable para un
+periodo de retorno de 500 años de origen fluvial.
+Masas de Aguas Subterráneas: La captación por sondeo efectúa la extracción directa sobre la masa de agua
+subterránea “Algodor” (ES030MSBT030.025). El aprovechamiento se tramita ante el Organismo de Cuenca
+mediante el expediente de modificación de características M-0148/2021 (sobre el título previo M-0006/2018) para
+la ampliación del perímetro de riego a 11,31 ha de leñosos, manteniendo de forma estricta el volumen máximo
+anual concesional de 15.580 m³/año sin incremento del recurso hídrico. Esto se debe tener en cuenta más si cabe
+al estar las instalaciones asentadas sobre la masa de agua subterránea “Algodor- ES030MSBT030.025”, la cual se
+encuentra en riesgo de no alcanzar el buen estado cuantitativo, según el Apéndice 15 del Plan Hidrológico de la
+parte española de la Demarcación Hidrográfica del Tajo del tercer ciclo. Según el Apéndice 16 del mencionado PHT,
+la actuación se ubica en zonas donde sólo se otorgarán concesiones para abastecimiento de población.
+- Montes de utilidad pública, vías pecuarias y dominio pecuario y forestal: La totalidad de las obras e instalaciones
+del sondeo y del sistema de riego por goteo se proyectan en el interior de terrenos de cultivo agrícola privado, no
+constatándose ningún tipo de afección, cruzamiento, ocupación ni tránsito sobre terrenos pertenecientes a la red de
+vías pecuarias ni sobre Montes de Utilidad Pública.
+- Espacios protegidos y Red Natura 2000: De conformidad con la Ley 42/2007, de 13 de diciembre, del Patrimonio
+Natural y de la Biodiversidad, y la Ley 9/1999, de 26 de mayo, de Conservación de la Naturaleza de Castilla-La
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40644
+Mancha, las actuaciones e infraestructuras del proyecto no coinciden ni se solapan territorialmente con ningún
+Espacio Natural Protegido ni con espacios integrados en la Red Natura 2000 (ZEC o ZEPA), situándose el espacio
+protegido más cercano, la ZEPA «Área Esteparia de la Mancha Norte» (ES0000170), a más de 2 km de distancia,
+margen suficiente para descartar afecciones directas o indirectas sobre sus elementos de conservación.
+- Hábitats de interés comunitario (HIC) y hábitats de protección especial (flora y fauna): De conformidad con la
+Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y la Ley 9/1999, de 26 de mayo, de
+Conservación de la Naturaleza de Castilla-La Mancha (desarrollada por el Decreto 199/2001, de 6 de noviembre, y el
+Decreto 33/1998, de 5 de mayo), las actuaciones se desarrollan sobre terrenos agrícolas en explotación dedicados
+al cultivo de leñosos y herbáceas, sin que conste la presencia ni la afección a Hábitats de Interés Comunitario
+(HIC) ni a Hábitats de Protección Especial regionales. De acuerdo con la Ficha de Campo de la Unidad de Agentes
+Medioambientales de fecha 29/08/2026 (NIP 10739), no consta la presencia de flora protegida ni de arbolado
+perimetral/maduro afectado en las parcelas de actuación.
+Atendiendo al planeamiento urbanístico vigente en el municipio afectado, las actuaciones del proyecto se distribuyen
+íntegramente en el Término Municipal de El Romeral, acogiendo la totalidad de las infraestructuras (sondeo de
+captación preexistente, estructura de bombeo y red de conducciones de riego por goteo) en el interior de las parcelas
+del polígono 24. Los terrenos se hallan clasificados como suelo rústico con uso principal agropecuario.
+El acceso a la finca agrícola se realiza desde la carretera de El Romeral a Tembleque (C-3000) o a través del Camino
+Alto de Tembleque. Dado que las instalaciones (captación, red de riego) se ubican en el interior de la propiedad
+privada a distancia suficiente para no interferir en la zona de protección de la vía, no se prevé afección sobre la red
+viaria.
+A nivel cinegético, la sección de Caza y Pesca, dentro del Servicio de Medio Natural de Toledo nos indica que
+las parcelas de trabajo del proyecto se encuentran dentro del coto de caza TO-10968 “San Sebastián”, titularidad
+de la Asociación Cinegética San Isidro, localizado en los términos municipales de El Romeral y Tembleque. El
+coto dispone de un Plan de Ordenación Cinegética vigente hasta el 31 de marzo de 2027, aprobado en junio de
+2022. Entre las especies de caza mayor autorizadas está únicamente el jabalí (solo 10 individuos por temporada),
+mientras que entre las especies de caza menor aparecen de manera más destacada cupos máximos anuales de
+aprovechamiento de 5.000 conejos, 200 liebres, 400 perdices rojas, 500 zorzales comunes, 150 palomas torcaces,
+125 palomas bravías y 30 palomas zuritas. Asimismo, se autorizan sueltas comerciales de faisán y codorniz, con
+un máximo conjunto de 800 ejemplares por temporada, previa autorización. Respecto al conejo de monte, especie
+de especial relevancia ecológica como presa para numerosos depredadores, el Plan de Ordenación Cinegética
+evidencia la presencia de poblaciones significativas en el coto, dado el elevado cupo de aprovechamiento autorizado
+y la existencia de medidas específicas para el control de daños y la captura en vivo. En cambio, otras especies de
+caza menor como la perdiz y la codorniz están sujetas a refuerzos poblacionales y sueltas, por lo que su densidad
+podría ser baja en la zona de estudio alrededor de las parcelas del proyecto.
+3.3. Características del potencial impacto.
+El proyecto supone la ampliación de la superficie regable mediante la instalación de una red de riego por goteo en
+parcelas agrícolas del término municipal de El Romeral. Las actuaciones previstas incluyen la apertura de zanjas
+para el soterramiento de las conducciones de riego, desarrollándose sobre terrenos agrícolas situados fuera del
+Dominio Público Hidráulico y de espacios de la Red Natura 2000, aunque localizados sobre la masa de agua
+subterránea Algodor, dentro de la Zona Vulnerable a Nitratos Lillo-Quintanar-Ocaña.
+Durante la fase de construcción, las principales afecciones potenciales están asociadas a los movimientos de
+tierras necesarios para la apertura y posterior relleno de zanjas, la ocupación temporal del terreno, la circulación de
+maquinaria y personal, la generación de polvo, emisiones atmosféricas y ruido, así como el riesgo de alteraciones
+puntuales del suelo derivadas de procesos de compactación, erosión o vertidos accidentales. Asimismo, las obras
+pueden ocasionar molestias temporales a la fauna presente en el entorno. Según la información disponible, las
+actuaciones se desarrollan sobre terrenos de cultivo y no afectan a vegetación natural ni a elementos arbóreos
+presentes en la parcela.
+De acuerdo con la Ficha de Campo emitida por la Unidad de Agentes Medioambientales, no se produce afección
+sobre vegetación natural ni arbolado perimetral. Todas estas afecciones son estrictamente temporales, de reducida
+entidad y completamente reversibles mediante el rellenado y compactado simultáneo de las zanjas, la restitución
+morfológica del terreno y la recogida y gestión autorizada de los residuos de obra.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40645
+Durante la fase de explotación, las afecciones potenciales se relacionan principalmente con el aprovechamiento de
+recursos hídricos subterráneos para riego, aunque al mantenerse intacto el volumen máximo anual de la concesión
+hídrica (15.580 m³/año) mediante un sistema de riego por goteo de alta eficiencia, no se generaría un incremento
+de la presión cuantitativa sobre el acuífero. La aplicación de fertilizantes y productos fitosanitarios, la generación
+de retornos asociados a la actividad agrícola y el mantenimiento de las infraestructuras proyectadas también
+son afecciones potenciales. Asimismo, deben considerarse los posibles efectos derivados de la acumulación de
+aprovechamientos agrícolas y del uso de insumos agrarios en una zona vulnerable a la contaminación por nitratos.
+El funcionamiento del sistema requiere el cumplimiento de las condiciones establecidas por el organismo de cuenca
+y de la normativa sectorial aplicable en materia de aguas, fertilización y productos fitosanitarios.
+Respecto al suelo y al relieve, las afecciones se circunscriben a la ejecución de las infraestructuras de riego y al
+mantenimiento de la actividad agrícola sobre terrenos ya cultivados. Las actuaciones previstas se desarrollan dentro
+del ámbito de las parcelas objeto de actuación y utilizan los accesos rurales existentes, sin contemplar la ocupación
+de nuevos terrenos ajenos a la explotación ni la ejecución de infraestructuras de gran entidad.
+En cuanto a la carretera autonómica C-3000 y red de caminos, dado que las instalaciones (captación y red de riego)
+se ubican en el interior de la propiedad privada a distancia suficiente para no interferir en la zona de protección de
+la vía, no se prevé afección sobre la red viaria.
+Análisis de vulnerabilidad ante riesgos de accidentes graves o catástrofes: El análisis de vulnerabilidad del proyecto
+concluye que el riesgo global es muy bajo o nulo. Las instalaciones se ubican fuera del Dominio Público Hidráulico y
+de sus zonas de servidumbre y policía (si bien parte de las parcelas se ubican en zona catalogada con probabilidad
+excepcional de inundación T = 500 años). Asimismo, la zona presenta baja peligrosidad sísmica, está calificada
+como de bajo riesgo de incendio forestal, y no consta en el Plan Territorial de Emergencias de Castilla-La Mancha
+(Platecam) la presencia de riesgos tecnológicos ni de accidentes graves que puedan afectar a la infraestructura o
+al medio ambiente.
+4. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor del proyecto en el documento
+ambiental, las cuales se consideran vinculantes con el contenido del presente Informe, y considerando las respuestas
+recibidas a las consultas realizadas, se formulan las siguientes medidas adicionales de protección, tratándose
+de condiciones que deberán incorporarse en la correspondiente autorización emitida por el órgano sustantivo. El
+promotor deberá adoptar estas medidas que se indican a continuación, además de los condicionantes ambientales
+incluidos en el Documento Ambiental presentado, siempre que no se opongan a lo establecido en el presente
+Informe de Impacto Ambiental. Se informará a todo el personal implicado en la realización de las obras, del contenido
+del presente Informe de Impacto Ambiental, de manera que se ponga en su conocimiento las medidas que deben
+adoptarse a la hora de realizar los trabajos.
+4.1. Protección del suelo y del sistema hidrológico e hidrogeológico.
+Con el fin de garantizar la integridad del Dominio Público Hidráulico (DPH), la preservación de los cauces y la
+protección cuantitativa y cualitativa de las masas de agua subterráneas, se estará a lo dispuesto en el informe
+ambiental emitido por la Confederación Hidrográfica del Tajo, observando estrictamente las siguientes prescripciones
+técnicas de obligado cumplimiento:
+Regularización y limitación del aprovechamiento de aguas subterráneas: El aprovechamiento deberá ajustarse a la
+modificación de características tramitada en el expediente M-0148/2021, sin que pueda producirse un incremento del
+recurso hídrico utilizado respecto del volumen autorizado. El volumen máximo anual de extracción deberá limitarse
+a 15.580 m³/año, destinado a uso agrario, de forma compatible con las determinaciones del Plan Hidrológico de la
+Demarcación del Tajo.
+De manera general, para realizar el abastecimiento de aguas directamente del dominio público hidráulico (aguas
+superficiales y/o subterráneas) como es el caso, deberá disponer de un título concesional de aguas previo al empleo
+de las mismas, cuyo otorgamiento corresponde a la Confederación Hidrográfica del Tajo y es a quién también
+deberá solicitarse. Si se posee un título concesional en vigor y se pretende efectuar una variación de lo recogido
+en el mismo (como por ejemplo: empleo de mayores volúmenes/caudales que los autorizados, uso no recogido
+en la autorización, empleo de captación no recogida en la autorización, o cualquier otra cuestión que incumpla lo
+expresado en el título), se indica que dicha variación requiere de autorización previa por parte de la Confederación
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40646
+Hidrográfica del Tajo, y es también a éste a quién deberá solicitarse (mediante una solicitud de modificación de las
+características o mediante una solicitud de un nuevo título concesional).
+Protección de las masas de agua subterráneas: La explotación de la captación deberá realizarse evitando cualquier
+riesgo de contaminación del acuífero. El sondeo deberá mantenerse en condiciones adecuadas de conservación
+y protección para impedir la entrada de aguas superficiales, residuos o sustancias contaminantes. La captación
+deberá permanecer correctamente protegida para evitar riesgos de accidentes y posibles focos de contaminación.
+Prevención de la contaminación por nitratos y otros contaminantes agrarios: Dado que la actuación se localiza en
+la Zona Vulnerable a Nitratos Lillo-Quintanar-Ocaña, la gestión de la fertilización deberá ajustarse estrictamente a
+la normativa vigente. Los aportes de nutrientes deberán adecuarse a las necesidades reales del cultivo, evitando
+excesos que puedan producir lixiviación de nitratos hacia las aguas subterráneas. Deberán tenerse especialmente
+en cuenta las prescripciones establecidas en el Real Decreto 1051/2022, por el que se establecen normas para la
+nutrición sostenible en los suelos agrarios; y el Real Decreto 47/2022, de 18 de enero, sobre protección de las aguas
+contra la contaminación difusa producida por los nitratos procedentes de fuentes agrarias.
+Se insiste en la necesidad de aplicar los criterios de cálculo de necesidades nutricionales del cultivo previstos en
+dicha normativa para contribuir al cumplimiento de los objetivos ambientales de las masas de agua. Esto considerado
+en el anexo III del RD 1051/2022, se tendrán en cuenta las indicaciones al efecto realizadas en el informe de la
+Confederación Hidrográfica del Tajo.
+Protección de la calidad de las aguas: Queda prohibido con carácter general el vertido directo o indirecto de aguas
+y productos residuales susceptibles de contaminar las aguas continentales o cualquier otro elemento del dominio
+público hidráulico, salvo que se cuente con la previa autorización. Los residuos, combustibles, aceites y demás
+sustancias potencialmente contaminantes deberán gestionarse adecuadamente para evitar afecciones al medio
+hídrico. Durante la ejecución y explotación de la actuación deberán adoptarse las precauciones necesarias para
+impedir la incorporación de contaminantes al terreno o a las aguas.
+Dominio Público Hidráulico y cauces: Aunque la actuación se sitúa fuera de los cauces públicos y no se prevén
+afecciones directas al Dominio Público Hidráulico, deberán preservarse en todo momento las condiciones naturales
+de drenaje y escorrentía. No podrán realizarse actuaciones que alteren los cauces, la calidad de las aguas o el
+funcionamiento hidrológico del entorno.
+Todos los pozos y sondeos deben estar tapados y vallados, principalmente, para proteger a las personas y los
+animales de caídas accidentales, así como para preservar el agua del acuífero de la contaminación. Esta obligación
+es aplicable tanto a los que están en uso como a los que están fuera de uso. En este último caso se debe llevar
+a cabo un sellado definitivo. Si existiese una captación de aguas (con infraestructura asociada o sin ella) que se
+encuentre carente de medidas de seguridad visibles o que esté abandonada se deberá ejecutar inmediatamente
+medidas que garanticen la seguridad y eviten la ocurrencia de accidentes, así como ejecutar su clausura.
+4.2.- Gestión de residuos
+Todos los residuos generados durante las fases de construcción y funcionamiento de la actividad, bien sean residuos
+peligrosos o no, e independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular, a lo establecido en el Real Decreto
+553/2020, de 2 de junio, por el que se regula el traslado de residuos en el interior del territorio del Estado, así como
+a lo señalado en la planificación regional sobre prevención y gestión de residuos: actualmente el Plan de Prevención
+y Gestión de Residuos de Castilla-La Mancha 2024-2030, aprobado por Decreto 35/2024, de 2 de julio.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, o en su
+defecto, el promotor comunicará el inicio de actividad como productor de residuos peligrosos para su inscripción en
+el Registro de Producción y Gestión de Residuos de Castilla-La Mancha, debiendo disponer de contrato con gestor
+autorizado.
+Cualquier vertido o derrame accidental que pudiera afectar al suelo, deberá ser descontaminado a la mayor brevedad
+posible, extrayendo la parte de suelo contaminado y entregando el residuo a gestor autorizado para su posterior
+tratamiento. El transportista también estará inscrito como transportista de residuos y el traslado se realizará con la
+documentación prevista en el Real Decreto 553/2020, antes citado.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40647
+Todos los residuos generados serán retirados por gestores autorizados y se dispondrá del correspondiente contrato
+de tratamiento con los mismos. Tanto dicho contrato, como los Documentos de Identificación empleados para el
+traslado de residuos, podrán ser requeridos por la autoridad ambiental o sustantiva, debiendo ser conservados
+durante un mínimo de 3 años.
+Durante la fase de explotación, los residuos de envases de productos fitosanitarios generados en la explotación
+agrícola deberán gestionarse en los términos establecidos por el Real Decreto 1055/2022, de 27 de diciembre,
+de envases y residuos de envases. Además, se estará a lo dispuesto en la Ley 43/2002, de 20 de noviembre, de
+sanidad vegetal, que señala el obligado cumplimiento de las disposiciones relativas a la eliminación de los envases
+vacíos de acuerdo con las condiciones establecidas y, en todo caso, con aquellas que figuren en sus etiquetas.
+4.3. Protección urbanística
+De conformidad con el artículo 165.1 del texto refundido de la Ley de Ordenación del Territorio y de la Actividad
+Urbanística de Castilla-La Mancha, aprobado por Decreto Legislativo 1/2023, de 28 de febrero, están sujetos a la
+obtención de licencia urbanística, sin perjuicio de las demás autorizaciones que sean procedentes con arreglo a la
+legislación sectorial aplicable, los actos de construcción y edificación y de uso del suelo que en el mismo se detallan;
+en particular, entre otros: las obras de construcción, edificación e implantación de instalaciones de toda clase;
+los movimientos de tierra; y las instalaciones que afecten al subsuelo. La actividad deberá cumplir la normativa
+urbanística que le sea de aplicación. Se recuerda que cualquier modificación relacionada con las características
+técnicas o la implantación del proyecto siempre deberá ser comunicada de forma previa al Servicio de Calidad
+Ambiental de la Delegación Provincial de Desarrollo Sostenible de Toledo. Por otra parte, el promotor comunicará
+al Ayuntamiento de El Romeral, la ampliación y el inicio de esta nueva actividad agrícola, con el fin de garantizar el
+cumplimiento de los permisos y licencias que procedan.
+4.4. Protección a la atmósfera, calidad del aire y prevención del ruido
+Con el objetivo de cumplir con la normativa vigente respecto a los niveles de emisión de contaminantes a la atmósfera
+y de minimizar la producción y dispersión del polvo, se estará a lo dispuesto por la Ley 34/2007, de 15 de noviembre,
+de calidad del aire y protección de la atmósfera. La maquinaria a utilizar deberá haber pasado las correspondientes
+y obligatorias Inspecciones Técnicas de Vehículos, en especial las revisiones referentes a las emisiones de gases.
+Los niveles de ruido generados durante el funcionamiento de las instalaciones deben cumplir lo establecido en la
+Ley 37/2003, de 17 de noviembre, del Ruido, así como sus Reglamentos de desarrollo y ordenanzas municipales.
+Los motores de las bombas para la extracción y distribución del agua se deberán dotar de sistemas que minimicen
+el ruido a niveles que no molesten a la fauna presente en la zona. Del mismo modo, y a tal fin, los vehículos no
+deberán circular sobre caminos de tierra o cualquier otro firme natural a una velocidad superior a 30 km/h, salvo que
+esté expresamente autorizado por la señalización del camino.
+4.5. Protección del paisaje
+Los materiales a emplear en la construcción de las infraestructuras necesarias deberán presentar texturas, colores
+y diseños tradicionales de la zona, con el fin de lograr una integración paisajística que atenúe su impacto visual. Se
+recomienda, igualmente, integrar paisajísticamente las infraestructuras necesarias para el bombeo e instalaciones
+auxiliares, mediante el completo acabado de sus caras vistas y el uso de materiales y tonos acordes con el entorno.
+4.6. Patrimonio cultural
+El Servicio de Cultura de Toledo de la Delegación Provincial de Educación, Cultura y Deportes de Toledo, indica que
+en caso de que aparecieran restos materiales con valor cultural durante su ejecución, se deberá actuar conforme a
+lo previsto en el artículo 52 de la Ley 4/2013 de 16 de mayo de Patrimonio Cultural de Castilla-La Mancha, debiendo
+comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia de Patrimonio
+Cultural. Este órgano determinará el carácter de los hallazgos y resolverá expresamente las medidas de protección
+de los mismos.
+4.7. Plan de restauración y desmantelamiento
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos de
+material, residuos o tierras sobrantes a gestores de residuos autorizados, conforme a la naturaleza de cada residuo,
+y se restaurarán los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado de
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40648
+limpieza. El desmontaje y la restauración deberá realizarse en el plazo máximo de un año tras la finalización de
+la actividad y deberá ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de
+Toledo de la Consejería de Desarrollo Sostenible para dar por finalizado el expediente. Asimismo, en caso de que
+la actividad sea traspasada o cambie de titular, también se deberá poner en conocimiento de esta Delegación
+Provincial.
+5. Especificaciones para el seguimiento ambiental del proyecto
+De acuerdo con el artículo 64 de la Ley 2/2020, corresponde al órgano sustantivo el seguimiento del cumplimiento
+del Informe de Impacto Ambiental, sin perjuicio de la potestad del órgano ambiental para recabar información y
+realizar las comprobaciones que considere necesarias para verificar el cumplimiento del condicionado del IIA. De
+las inspecciones llevadas a cabo podrán derivarse modificaciones de las actuaciones previstas, al objeto de lograr
+la consecución de los objetivos del presente IIA. Estas modificaciones tendrán que ser autorizadas conjuntamente
+por ambos órganos.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable del mismo
+y deberá notificar su nombramiento tanto al órgano sustantivo como al ambiental. El seguimiento y la vigilancia
+tendrán por objeto comprobar que el proyecto se desarrolla cumpliendo las condiciones establecidas en el estudio
+ambiental, en las adendas posteriores presentadas y en esta resolución. El seguimiento y la vigilancia incidirán
+especialmente en los siguientes puntos
+-Control de las medidas de protección del suelo y del sistema hidrológico e hidrogeológico, asegurándose que el
+uso de aguas subterráneas se ajuste a las condiciones autorizadas de concesión, evitando incrementos del volumen
+concedido. También se controlará que se adoptarán medidas para prevenir la contaminación de acuíferos y cauces,
+especialmente por nitratos, fertilizantes o combustibles y que los pozos y sondeos se mantengan protegidos, vallados
+y, en su caso, sellados adecuadamente.
+- Control de las medidas de gestión de residuos, asegurándose que todos los residuos generados se gestionen
+mediante gestores autorizados y conforme a la normativa vigente. También se controlará que los aceites, residuos
+peligrosos y envases fitosanitarios recibirán un tratamiento específico para evitar afecciones ambientales y que, en
+caso de vertidos accidentales, se deberá proceder a la inmediata descontaminación de los terrenos afectados.
+- Control de las medidas de protección urbanística, asegurándose que el proyecto disponga de las licencias y
+autorizaciones urbanísticas que resulten exigibles. También, cualquier modificación del proyecto deberá comunicarse
+previamente al órgano ambiental competente y, el promotor informará al Ayuntamiento de El Romeral del inicio de
+la actividad.
+- Control de las medidas de protección de la atmósfera, calidad del aire y prevención del ruido, asegurándose que
+se minimicen las emisiones de polvo, gases y ruido mediante el correcto mantenimiento de la maquinaria empleada.
+También se controlará que los equipos de bombeo incorporarán medidas de reducción acústica y se limitará la
+velocidad de circulación por caminos para reducir molestias ambientales y a la fauna.
+- Control de las medidas de protección del paisaje, asegurándose que las infraestructuras asociadas al proyecto se
+integren en el entorno mediante el uso de materiales, colores y acabados acordes con el paisaje agrícola de la zona.
+Se prestará especial atención a las instalaciones de bombeo y elementos auxiliares.
+- Control de las medidas de Patrimonio cultural, asegurándose que, si durante las obras aparecieran restos
+arqueológicos o culturales, el hallazgo deberá comunicarse a la administración competente en un plazo máximo de
+48 horas. Las actuaciones posteriores quedarán sujetas a las instrucciones que establezca dicha administración.
+- Control del Plan de restauración y desmantelamiento. Se controlará que, una vez finalizada la actividad, se
+retirarán las instalaciones y residuos existentes, restaurando los terrenos a su estado original. Se controlará que
+estas actuaciones se ejecuten en el plazo máximo de un año y se comuniquen al Servicio de Calidad Ambiental para
+el cierre del expediente.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas y de la normativa vigente que le sea
+de aplicación. Esta documentación estará a disposición de los órganos de inspección y vigilancia.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40649
+6. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo y el órgano
+ambiental antes del inicio de la actividad:
+- Notificación de la fecha prevista para el inicio de las medidas compensatorias con una antelación mínima de 10
+días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Resolución de la concesión/modificación de las características de la concesión administrativa de la Confederación
+Hidrográfica del Tajo.
+7. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en
+materia de evaluación ambiental en las delegaciones provinciales de la Consejería de Desarrollo Sostenible, y de
+conformidad con el artículo 54 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+resuelve que el proyecto denominado «Ampliación del perímetro de riego» (S478/2025/TO/00058), ubicado en el
+término municipal de El Romeral (Toledo), cuyo promotor es D. Ramón Maroto Carneros, no necesita someterse
+a una evaluación de impacto ambiental ordinaria por estimarse que no tiene efectos significativos en el medio
+ambiente, siempre que se cumplan las medidas ambientales y de seguimiento que propone el promotor y los
+requisitos ambientales que se desprenden del presente informe de impacto ambiental.
+Esta Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con lo dispuesto en el artículo 54.5 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, la presente resolución no es susceptible de recurso, salvo en los casos de proyectos sujetos a
+declaración responsable o comunicación previa de acuerdo con el artículo 69 de la Ley 39/2015, de 1 de octubre, del
+Procedimiento Administrativo Común de las Administraciones Públicas, sin perjuicio de los que proceda interponer
+en vía administrativa o judicial frente al acto definitivo por el que el órgano sustantivo resuelva sobre la autorización
+del proyecto.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Además, se incluye un anexo cartográfico con la situación del proyecto para su localización por parte del público y
+del personal responsable del seguimiento.
+Toledo, 11 de noviembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40650
+ANEXO CARTOGRÁFICO S478/2025/TO/00058
+Imagen nº 1. Situación del proyecto cerca de la localidad de El Romeral (Toledo). Fuente:
+Documento Ambiental.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40651
+Imagen nº 2. Emplazamiento de las parcelas incluidas en el marco del proyecto. Fuente:
+Documento Ambiental.

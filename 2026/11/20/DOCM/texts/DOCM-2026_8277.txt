@@ -1,0 +1,965 @@
+AÑO XLV Núm. 223 20 de noviembre de 2026 40591
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 10/11/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que
+se formula el informe de impacto ambiental del proyecto: Instalación y apertura de planta de hormigón
+(expediente: S478-2025-TO-00129), situado en el término municipal de La Pueblanueva (Toledo), cuya
+promotora es Hormigones Gohijos SL. [2026/8277]
+La Ley 21/2013, de 9 de diciembre, de evaluación ambiental (y sus modificaciones), en su artículo 7.2 concreta
+los proyectos que deben ser sometidos a evaluación de impacto ambiental simplificada por el órgano ambiental
+para determinar si tienen o no efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no
+será necesario someterlos al procedimiento de evaluación de impacto ambiental ordinaria. Esta decisión debe ser
+motivada y pública, y se tiene que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 2/2020 de 7 de febrero, de evaluación ambiental en Castilla-La Mancha constituye la normativa
+de desarrollo y de protección ambiental adicional y determina los plazos de la tramitación, así como aquellos
+proyectos adicionales a los ya indicados por la Ley 21/2013 y sus modificaciones, que se ven incluidos en el ámbito
+de aplicación de la legislación de evaluación ambiental.
+El proyecto se encuadra en la Ley 2/2020, concretamente en el Anexo II. Proyectos sometidos a la evaluación
+ambiental simplificada regulada en el título II, capítulo II, sección 2.ª; Grupo 3. Perforaciones, dragados y otras
+instalaciones mineras e industriales, apartado i) Plantas de hormigón y plantas de aglomerado asfáltico, de carácter
+permanente.
+Primero. - Promotor, órgano sustantivo y descripción del proyecto. Información aportada por el promotor.
+El promotor del proyecto es Hormigones Gohijos SL, actuando como órgano sustantivo el Ayuntamiento de La
+Pueblanueva (Toledo).
+1.1 Objeto y ubicación.
+El objeto del proyecto consiste en la instalación de una planta de hormigón, que tiene como objetivo principal la
+fabricación de hormigón y morteros, para su posterior utilización en obras e infraestructuras públicas y privadas,
+considerando esta nueva instalación como ampliación de la actividad existente en las parcelas linderas (polígono 4
+y parcelas 114 y 115).
+Por tanto, la actividad se realizará en conjunto con el resto de las instalaciones de planta de tratamiento de áridos
+que el promotor tiene en la zona, de tal forma que se utilicen gran parte de instalaciones, maquinaria y acopios de
+la que se dispone.
+La actuación se ubicará concretamente en el polígono 4 parcela 22 y referencia catastral 45138A004000220000LB,
+en el término municipal de La Pueblanueva (Toledo). Cuenta con una superficie de 40.303 m². Las coordenadas
+U.T.M. son X: 358.151 Y: 4.422.909.
+El acceso se realiza, por la carretera TO-1262, desde el cruce con la carretera CM-4000, en dirección a La
+Pueblanueva, a la altura del P.K. 2 se toma un camino en su margen izquierdo y recorridos unos 300 m, nos conducirá
+directamente hasta las instalaciones, la distancia al núcleo urbano más cercano, en este caso La Pueblanueva, es
+de 3 Km y al río Tajo es de 110 m.
+1.2 Construcciones y suministros.
+Las infraestructuras presentes en la planta consisten en construcciones prefabricadas para la caseta de control,
+oficinas y servicios, las cuales sólo precisan de pequeños anclajes y pueden ser transportadas a otro lugar.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40592
+El resto de instalaciones para el desarrollo de la actividad, están constituidas por módulos que vienen fabricados
+en origen y los cuales son transportados desde fábrica hasta el área de actuación, donde son instalados sobre una
+pequeña cimentación, sin requerir grandes obras.
+La actuación contará con las siguientes infraestructuras:
+- Oficina y vestuarios: Se habilitarán dos casetas, una de ellas para aseos y vestuario, y la otra estará destinada a
+oficinas y control de la planta de hormigón.
+- Zona stock áridos: Superficie de terreno en la que se construirán tres compartimentos de obra, separados entre sí,
+para evitar la contaminación de áridos con distinta granulometría, donde se descarguen los camiones que efectúen
+el transporte del árido.
+- Tolvas de áridos: Cuatro tolvas metálicas, para efectuar las descargas de material.
+- Dosificador de áridos: El dosificador de áridos o cinta pesadora tiene una capacidad máxima de 7.000 kg de
+material dosificado por ciclo, interiormente está dividido en tres compartimentos que corresponden en proyección
+horizontal con los de la tolva de almacenamiento. Recibe los distintos tipos de áridos de la tolva. Está formado por
+una tolva pesadora.
+- Silos de cemento: Constituidos por un y un tronco de cono. Se utilizan para almacenar el cemento a utilizar en la
+dosificación de la planta.
+- Basculas de áridos: Constituida por una tolva metálica cuyo fondo es una cinta transportadora, la cual, una vez
+pesados los distintos componentes, se ocupa de vaciarlos y depositarlos sobre la cinta de elevación, para su
+transporte hasta el camión hormigonera.
+- Bascula de cemento: Consiste en un tornillo extractor-transportador, que enlaza la boca de descarga del silo de
+cemento con la báscula.
+- Báscula de agua: Recipiente metálico de forma cilíndrica, suspendido de tres células extensométricas que detecta
+el peso. Los áridos, el cemento y el agua son descargados simultáneamente de acuerdo con lo programado en el
+microprocesador de mando.
+- Cinta de elevación: Esta cinta se encarga de elevar el material de la zona de tolvas a la zona donde se produce la
+mezcla del cemento y agua para que se produzca la unión previa, al traslado a la hormigonera.
+- Balsas decantadoras: Se ha previsto instalar tres balsas de decantación en serie, para la limpieza de los camiones
+hormigonera. El agua procedente del camión se vierte en la primera balsa, donde van decantando las partículas
+en suspensión, pasando el agua por desbordamiento a la segunda balsa y repitiéndose el proceso hasta llegar a la
+tercera. Desde dicha balsa y con el agua suficientemente limpia por decantación se procede al llenado del depósito
+de agua, con lo que el agua del lavado se aprovecha en su totalidad.
+La distribución de superficies es la siguiente:
+- Zonas de tránsito: 5.900 m²
+- Zona aparcamiento hormigoneras: 1.000 m²
+- Balsas limpieza: 250 m²
+- Planta hormigón: 700 m²
+- Acopios áridos: 2.000 m²
+- Zona oficinas: 150 m²
+Por tanto, la superficie total corresponde a 10.000 m².
+Las obras a realizar consistirán en lo siguiente:
+Cerramiento mediante valla de 20 cm de altura de malla y alambrada sin remates agresivos hasta una altura de 2,10
+m.
+Se pretende la fabricación en obra de balsas de decantación de lodos, canalizaciones para recogida de aguas
+pluviales, muros de hormigón para acopios (prefabricados) y la ejecución de solera mediante hormigonado de la
+parte afectada por la instalación.
+Suministros:
+Abastecimiento de agua: Se dispondrá de los servicios para el personal de la planta, disponiéndose de agua potable
+procedente del depósito propio de unos 3.000 litros de capacidad.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40593
+Para el consumo industrial se utilizará la balsa de agua prevista, con capacidad de 1.000 m³ , la cual agua se
+extraerá de sondeo, ubicado en el polígono 4 parcela 114 y cuyas coordenadas UTM son X: 358.063 Y: 4.422.942. El
+uso del agua será como componente propio del hormigón y para el parque de áridos el cual dispone de varias tomas
+con aspersores automáticos para el riego de la arena y la grava de modo que los trabajos de acopio, volteo carga
+y descarga de árido se realicen por vía húmeda. Las tareas de limpieza de camiones-hormigonera se realizarán en
+esta balsa de decantación.
+Saneamiento: Se dispondrá de una caseta prefabricada que dispondrá de vestuarios, dotados de taquillas y
+banquetas para el personal trabajador y aseos dotados de un lavabo, un inodoro y una ducha.
+Energía eléctrica: Se instalará el correspondiente transformador, hasta que la compañía eléctrica de la zona pueda
+realizar el suministro.
+Proceso productivo:
+La instalación se va a dedicar a la fabricación de hormigón/mortero a partir de la materia prima que lo compone:
+árido (arenas y gravillas), cemento y agua (también puede incluir otros componentes como filler, fibras de refuerzo
+o aditivos).
+Estos componentes que previamente se encuentran almacenados en la planta de hormigón, son dosificados en las
+proporciones adecuadas.
+La planta de hormigón se compone principalmente de, cuatro tolvas de almacenamiento de áridos, con su
+correspondiente estructura soporte, básculas dosificadoras de áridos, dos de cemento y agua, cinta transportadora
+de elevación de áridos, tornillos extractores transportadores de cemento, silos metálicos para almacenamiento de
+cemento y canaleta de carga de hormigoneras sobre camión.
+El proceso comienza con el árido, que llega a la planta sobre camión y se almacena a cielo abierto junto a la planta.
+El acarreo hasta las tolvas de recepción se realizará por medios mecánicos cargándolo sobre ellas por gravedad.
+El cemento se recibe en la planta a través de camiones cisterna y se descarga por medios neumáticos a los silos de
+almacenaje, que, al estar equipados con filtros, evitan la contaminación del medio ambiente, para posteriormente
+ser acopiado a granel en los silos de cemento.
+El aditivo se recibe en la planta a través de camiones cisterna, que lo depositan en silos estancos, desde donde por
+medio de una pequeña motobomba, se integra automáticamente su dosificación en el proceso de fabricación del
+hormigón, mandando por el ordenador, en función de la cantidad de cemento de la dosificación preseleccionada
+previamente.
+El agua, medida a través de un contador incorporado en el conjunto de la instalación y controlada por el ordenador,
+se integra a la mezcla con la presión debida y por medio de un tubo perforado, que ayuda a paliar la emisión de
+polvo en el punto de descarga de la dosificación sobre el camión hormigonera. El agua se recogerá en las balsas de
+decantación y depósito de recuperación de agua.
+Posteriormente, en el camión-hormigonera, a la vez que se realiza la ejecución del producto, se lleva a cabo el
+transporte.
+En el complejo de balsas decantación, formado por unidades, se utiliza para que el cemento en suspensión que lleva
+el agua del lavado, pueda permanecer en el fondo de ellas, pudiendo usarse para otra nueva mezcla, en su caso.
+La producción anual prevista en esta planta es de 40.000 m³ de hormigón, producción media de 180 m³ /día.
+En cuanto a las materias primas, se estiman los siguientes consumos anuales:
+- Áridos: 40.000 Tm
+- Cemento: 5.000 Tm
+- Agua: 12.000 m³
+- Aditivo: 22.000 Kg
+- Energía eléctrica: 40.000 Kw/h
+- Gasoil: 280.000 litros
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40594
+La maquinaria disponible para el funcionamiento de la planta de hormigón, consiste en una pala cargadora de
+ruedas, camiones para el transporte del árido y hormigoneras.
+1.3 Producción y gestión de residuos.
+Los residuos generados se dividen en dos grupos según sus características y origen, tales como tierras y materiales
+pétreos y RCD’s, considerándose estos últimos, la mayor parte como inertes.
+Los posibles residuos que nos podremos encontrar, son los siguientes:
+- 17 01 01 Hormigón.
+- 01 04 09 Residuos de arena y arcillas.
+- 17 02 03 Plástico.
+- 15 01 01 Envases de papel y cartón.
+- 17 04 11 Cables distintos de los especificados en el código 17 04 10.
+En cuanto a los residuos peligrosos se almacenarán adecuadamente y su gestión se realizará mediante gestor
+autorizado. Se establecerán medidas de prevención y minimización de residuos. Se instalarán contenedores de
+residuos que se ubicarán en los puntos limpios en la obra, acondicionados para garantizar el correcto almacenamiento,
+hasta su retirada por gestor autorizado. El transporte de estos residuos recogidos en los puntos limpios deberá ser
+realizado por transportistas autorizados.
+No existen residuos sólidos desechables resultantes del proceso de fabricación de la planta, ya que se efectúa
+dosificando en relación con el volumen demandado por el exterior, no obteniéndose residuos de las mangas de los
+filtros de cemento dado que vuelve a mezclarse este en la masa de cemento de los silos.
+No se prevé vertidos líquidos, puesto que el agua suministrada a la planta se utiliza para la composición del hormigón.
+El agua del lavado de camiones se decanta en balsas, para ser reutilizadas en el proceso de fabricación.
+1.4 Ruidos y emisiones a la atmósfera.
+Dadas las características de la actividad y su ubicación en el medio rural, no son previsibles molestias por ruidos a
+los colindantes próximos. El horario de ejercicio de la actividad es en cualquier caso diurno, en horario de mañana
+de 8 a 13 h y horario de tarde de 14 a 18 h. La emisión de ruidos de la planta no supera en ningún caso los 75 db (A)
+y su atenuación en el medio ambiente por las condiciones geográficas de la zona garantiza su inocuidad.
+Con el objeto de que se encuentren perfectamente clasificados los distintos áridos y paliar la acción del viento, se
+han dispuesto unos compartimentos que los separan y a la vez protegen de la acción del viento.
+1.5 Análisis de alternativas.
+El promotor plantea tres alternativas:
+Alternativa 0: Consiste en la no realización del proyecto. En este caso se describe como la ausencia de actuación en
+las instalaciones. Lo que implicaría que la zona quedaría en idénticas condiciones desde el punto de vista de usos
+del suelo. Esta opción impide a la mercantil implantar en su empresa un modelo de Economía Circular Sostenible
+basada en el principio de jerarquía en las opciones de utilizar el árido que procesa en planta de tratamiento de
+áridos, utilizarlos en la fabricación de hormigón, así como la mejora de las instalaciones existentes.
+Alternativa 1: Consiste en instalar la planta de hormigón, dentro del recinto de las actuales instalaciones de la planta
+tratamiento de áridos y planta de hormigón existente en parcela lindera, por lo que el espacio ya se encuentra
+afectado. Los impactos positivos con respecto a otras alternativas serían:
+- Localización junto al resto de instalaciones que el promotor tiene en la zona, planta de tratamiento de áridos y
+hormigón y con todas las acometidas y servicios dispuestos para su inicio.
+- El proyecto cumple con la ordenación municipal y con la legislación sectorial de aplicación.
+- Gestión de residuos peligrosos que pueden realizarse de forma conjunta con el resto de las instalaciones.
+- Utilización directa de los acopios de la planta de tratamiento de áridos, sin incrementar la superficie con más
+acopios.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40595
+- En cuanto al paisaje, la planta no contempla la realización de edificios ni grandes volúmenes, más allá de la
+realización de la pantalla vegetal y vallado.
+Los impactos negativos con respecto a otras alternativas sería la dificultad de elección de una ubicación que genere
+menos impactos sobre el medio ambiente y la afección a zona del cauce del río Tajo.
+Alternativa 2: Consiste en la instalación de la planta de hormigón, en la parcela seleccionada, por lo que el espacio
+no se encuentra afectado. Los impactos positivos con respecto a otras alternativas serían:
+- Localización junto al resto de instalaciones que el promotor tiene en la zona, planta de tratamiento de áridos y
+hormigón y con todas las acometidas y servicios dispuestos para su inicio.
+- El proyecto cumple con la ordenación municipal y con la legislación sectorial de aplicación.
+- Gestión de residuos peligrosos que pueden realizarse de forma conjunta con el resto de las instalaciones.
+- Utilización directa de los acopios de la planta de tratamiento de áridos, sin incrementar la superficie con más acopios.
+- En cuanto al paisaje, la planta no contempla la realización de edificios ni grandes volúmenes, y al situarse junto a
+otras instalaciones no se contemplan medidas de ocultación, camuflaje o mimetización más allá de la realización de
+la pantalla vegetal y vallado.
+- Se encuentra alejada del cauce del río Tajo.
+Los impactos negativos con respecto a otras alternativas sería la afección a una nueva parcela.
+Por tanto, la alternativa elegida es la alternativa 2.
+Segundo. Procedimiento realizado: información pública y consultas.
+El 26 de mayo de 2025 tiene entrada en la Delegación Provincial de Desarrollo Sostenible de Toledo, solicitud inicio
+de evaluación de impacto ambiental simplificada, junto con el documento ambiental y el justificante de pago de la
+tasa correspondiente conforme a la Ley 9/2012, de 29 de noviembre, de Tasas y Precios Públicos de Castilla-La
+Mancha y otras medidas tributarias.
+Al expediente administrativo de evaluación ambiental se le asignó el número S478-2025-TO-00129.
+El 18 de diciembre de 2025, sobre la base de dicha documentación, y de acuerdo con el artículo 46 de la citada Ley
+21/2013, se formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas,
+con el objeto de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas
+han sido los siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas
+formuladas):
+- Delegación Provincial de la Consejería de Desarrollo Sostenible. Servicio de Medio Natural (*)
+- Unidad Coordinadora Prov. Agentes Medioambientales. Delegación Provincial de la Consejería de Desarrollo
+Sostenible en Toledo. Coordinador de la Comarca de Talavera de la Reina (*)
+- Viceconsejería de Medio Ambiente, Servicio de Prevención e impacto ambiental.
+- Dirección General de Economía Circular y Agenda 2030. Servicio de Residuos.
+- Delegación Provincial de Desarrollo Sostenible. Servicio de Minas (*)
+- Ayuntamiento de La Pueblanueva (*)
+- Delegación Provincial de Educación, Cultura y Deportes, Servicio Provincial de Patrimonio Cultural (*)
+- Consejería de Fomento. Dirección General de Carreteras (*)
+- Diputación de Toledo. Servicio de Infraestructura Viaria (*)
+- Confederación Hidrográfica del Tajo (*)
+- Ecologistas en Acción.
+- WWF España.
+- Sociedad Española de Ornitología (S.E.O.).
+- Agrupación Naturalista Esparvel.
+- Ardeidas
+- Aire Limpio Toledo
+Con fecha de 12 de febrero de 2026, se solicitó al promotor información complementaria. Tras recibir la documentación
+solicitada y los informes de las consultas a los organismos anteriormente mencionados, se procede al análisis del
+expediente.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40596
+Con fecha 14 de septiembre de 2026 se pone en conocimiento del promotor los informes recibidos en el procedimiento,
+y este alega lo siguiente:
+Primera: El acceso a la carretera TO-1262 es un acceso existente. El acceso considerado en el informe del Servicio
+de Infraestructura Viaria y Urbana no constituye un acceso de nueva creación vinculado exclusivamente a la planta
+de hormigón proyectada, ya que en la documentación técnica presentada establece expresamente que el acceso a
+las instalaciones se realiza desde la carretera TO-1262 a través de un camino actualmente existente que conduce
+directamente hasta las mismas.
+El propio proyecto señala que el emplazamiento seleccionado dispone de acceso directo y que no será necesaria la
+apertura de nuevos caminos. Se trata, por tanto, de un acceso materialmente existente, vinculado a las instalaciones
+industriales desarrolladas en la zona y utilizado actualmente para acceder a las mismas. La implantación de la nueva
+planta de hormigón no supone:
+• Creación de un nuevo punto de conexión con la carretera TO-1262.
+• Desplazamiento del acceso actualmente existente.
+• Apertura de un nuevo camino.
+• Modificación de su trazado.
+• Creación de un nuevo acceso independiente para la planta proyectada.
+Por tanto, desde el punto de vista físico y funcional, se mantiene el acceso actualmente existente.
+Segunda: El acceso ya se encuentra vinculado a actividades industriales y al tráfico de vehículos pesados. Debe
+tenerse especialmente en consideración que no nos encontramos ante un acceso destinado actualmente a un uso
+agrícola, residencial o de otra naturaleza que vaya a transformarse por primera vez en un acceso industrial.
+La actuación proyectada se integra en un emplazamiento en el que ya se desarrollan actividades industriales, así
+como la documentación técnica del proyecto establece que la nueva instalación dará continuidad a la actividad
+existente y aprovechará instalaciones, maquinaria y acopios de la planta de tratamiento de áridos lindera. Asimismo,
+los áridos necesarios para la fabricación de hormigón procederán, de las instalaciones de tratamiento existentes
+en el propio emplazamiento, esta circunstancia ha sido igualmente reconocida durante la tramitación ambiental, al
+calificarse la actuación como una ampliación de la actividad existente y señalarse expresamente el aprovechamiento
+de maquinaria y acopios de la planta de tratamiento de áridos lindera.
+En consecuencia, el acceso a la TO-1262 ya se encuentra asociado a una actividad industrial y al tránsito de
+vehículos pesados, manteniéndose con la nueva planta la misma naturaleza general del tráfico, por lo tanto, no se
+produce una transformación cualitativa de la utilización del acceso, sino una continuidad de su carácter industrial.
+Tercera: Reducida incidencia del tráfico generado por la nueva planta. El informe emitido por el Servicio de
+Infraestructura Viaria y Urbana fundamenta la necesidad de aportar un Proyecto de Remodelación del Acceso
+Existente, entre otros motivos, en la previsión de un mayor tránsito y movimiento de vehículos y materiales. Sin
+embargo, dicha previsión debe valorarse atendiendo a la intensidad real del tráfico que generará la actuación,
+especialmente cuando se trata de un acceso industrial actualmente existente.
+La documentación técnica presentada establece una producción anual prevista de 40.000 m³ de hormigón,
+equivalente a una producción aproximada de 180 m³/día, para dicha producción se estima una circulación asociada
+a la expedición de hormigón de aproximadamente 22 camiones-hormigonera diarios, siendo esta la máxima
+circulación. Esta intensidad de tráfico debe ponerse en relación con la situación actualmente existente, dado que el
+acceso ya presta servicio a instalaciones industriales y ya soporta circulación de vehículos pesados.
+Por tanto, no se produce una transformación sustancial de las condiciones de utilización del acceso, sino un incremento
+cuantitativamente reducido respecto del tráfico industrial que actualmente utiliza el mismo. Debe considerarse,
+además, que una parte de las materias primas necesarias para la fabricación del hormigón, especialmente los
+áridos, procederán de la planta de tratamiento existente en el propio emplazamiento. Consecuentemente, una parte
+de los movimientos de materiales se realizará internamente dentro del conjunto industrial, sin necesidad de utilizar
+la carretera TO-1262 y sin generar, por tanto, nuevos desplazamientos exteriores.
+En estas condiciones, una producción de 180 m³/día, con una circulación estimada de 22 camiones-hormigonera
+diarios y un incremento global del tráfico pesado del orden del 5 % respecto de la situación actual, no supone una
+alteración sustancial de la naturaleza, tipología o condiciones de utilización del acceso existente.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40597
+Cuarta: Inexistencia de modificación física o cambio sustancial de uso del acceso. El informe de la Diputación
+Provincial hace referencia a los artículos 66 y siguientes del Reglamento de la Ley 9/1990 de Carreteras y Caminos
+de Castilla-La Mancha, señalando la necesidad de autorización tanto para nuevos accesos como cuando se
+modifique o cambie el uso de uno existente. En el presente caso, sin embargo, no se proyecta un nuevo acceso ni
+se contempla una modificación física del actualmente existente, así como tampoco se considera que se produzca
+un cambio sustancial en la naturaleza de su uso, el acceso continuará:
+• Sirviendo a instalaciones de carácter industrial.
+• Soportando tráfico de vehículos pesados.
+• Manteniendo su actual ubicación.
+• Manteniendo su conexión con la carretera TO-1262.
+• Manteniendo esencialmente la misma tipología de tráfico.
+La existencia de un incremento limitado del tráfico no puede equipararse automáticamente a un cambio de uso
+cuando se mantiene la misma naturaleza industrial de las instalaciones, la misma tipología general de vehículos y
+el mismo acceso existente.
+En consecuencia, se considera que no concurren circunstancias que justifiquen por sí mismas la necesidad de
+acometer una remodelación integral del acceso.
+Quinta: Falta de justificación de la necesidad concreta de remodelar el acceso. El informe emitido fundamenta la
+necesidad del Proyecto de Remodelación principalmente en la previsión de un incremento del tránsito de vehículos
+y en la necesidad de garantizar la limpieza, seguridad y correcto mantenimiento del acceso. Sin embargo, no
+se identifica en el informe una deficiencia geométrica concreta del acceso actualmente existente que determine
+necesariamente su remodelación, así como tampoco se establece que su anchura, trazado, visibilidad o capacidad
+resulten incompatibles con el tráfico previsto.
+Una vez concretado que la nueva actividad supondrá aproximadamente 22 camiones-hormigonera diarios y que
+el incremento global del tráfico de camiones respecto de la situación existente es mínimo, por lo que se considera
+que la incidencia real de la actuación no justifica por sí misma la necesidad de redactar un proyecto específico de
+remodelación.
+Sexta: Proporcionalidad de las medidas a adoptar por el promotor comparte plenamente la necesidad de mantener
+tanto el acceso como la carretera TO-1262 en adecuadas condiciones de seguridad, conservación y limpieza. En
+este sentido, el promotor se compromete a adoptar las medidas necesarias para:
+• Evitar el arrastre de tierras, barro u otros materiales hacia la calzada.
+• Mantener limpio el acceso y su entorno inmediato.
+• Conservar adecuadamente las condiciones de drenaje existentes.
+• Mantener el acceso en adecuadas condiciones de conservación.
+• Disponer la señalización que, en su caso, resulte necesaria para garantizar la seguridad vial.
+No obstante, debe diferenciarse entre la adopción de estas medidas puntuales de mantenimiento, conservación,
+limpieza, drenaje o señalización y la necesidad de realizar una remodelación física del acceso.
+La consecución de los objetivos de seguridad vial establecidos por la Diputación Provincial no exige necesariamente
+la ejecución de obras de remodelación cuando el acceso existente resulta funcionalmente suficiente, teniendo en
+cuenta que:
+• El acceso ya existe.
+• Actualmente presta servicio a actividades industriales.
+• Ya soporta circulación de vehículos pesados.
+• No se modifica su ubicación ni su geometría.
+• No se proyectan nuevos caminos.
+• La producción prevista es de 180 m³/día.
+• Dicha producción supone aproximadamente 22 camiones-hormigonera diarios.
+• Una parte de los movimientos de materias primas tendrá carácter interno.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40598
+Séptima: Posibilidad de justificar la suficiencia del acceso sin necesidad. De un proyecto de remodelación. Sin
+perjuicio de lo anteriormente expuesto, y con objeto de acreditar la compatibilidad de la actividad proyectada con
+las condiciones de seguridad vial de la carretera TO-1262, el promotor, manifiesta su disposición a aportar, en caso
+de considerarse necesario, una Memoria o Justificación Técnica Simplificada. De este modo podría acreditarse
+objetivamente la suficiencia funcional del acceso y el reducido impacto del incremento de tráfico, sin necesidad de
+redactar un Proyecto de Remodelación cuando no se proyectan obras de remodelación.
+Únicamente en el supuesto de que dicho análisis pusiera de manifiesto una deficiencia concreta del acceso que
+afectara a las condiciones de seguridad vial estaría justificado determinar las actuaciones específicas necesarias
+para corregirla.
+Octava: Carácter favorable del informe emitido por la Diputación Provincial. Finalmente, debe destacarse que el
+propio Servicio de Infraestructura Viaria y Urbana de la Diputación Provincial de Toledo informa favorablemente el
+proyecto desde el punto de vista de la afección a la carretera TO-1262, permitiendo la continuidad del procedimiento
+de Evaluación de Impacto Ambiental.
+Por tanto, el informe no identifica una incompatibilidad del proyecto con la carretera provincial ni una afección que
+impida la implantación de la actividad.
+Las condiciones planteadas tienen fundamentalmente por objeto garantizar la seguridad vial, limpieza, conservación
+y adecuado mantenimiento del acceso, estos objetivos pueden alcanzarse mediante la adopción de medidas
+proporcionadas a las características reales del tráfico y del acceso existente, sin que resulte necesario imponer
+automáticamente la redacción de un proyecto de remodelación cuando no se ha acreditado la necesidad material
+de ejecutar dicha remodelación.
+Tras recibir la documentación solicitada, los informes de las consultas a los organismos anteriormente mencionados,
+y las alegaciones del promotor a dichas consultas, se continúa con la tramitación del expediente.
+Tercero. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1 Ubicación del proyecto.
+La actuación se localiza en el polígono 4 parcela 22 del término municipal de La Pueblanueva (Toledo). Las
+coordenadas U.T.M. son X: 358.151 Y: 4.422.909.
+La zona de actuación no se encuentra incluida en ningún espacio protegido Red Natura 2000 (Directivas 92/43/CEE
+y 2009/147/CE) y no se afectan a hábitats de interés comunitario.
+En relación al patrimonio, hay que indicar que las obras se sitúan dentro del yacimiento arqueológico “San Antonio”
+(0745137009), según el Inventario del Patrimonio Cultural del municipio.
+Con respecto a zonas protegidas recogidas oficialmente en el Plan hidrológico de la parte española de la Demarcación
+hidrográfica del Tajo 2023 – 2027 (en adelante PHT), el área en donde se desarrollan las actuaciones se encuentra
+dentro del área de captación de la zona sensible “Embalse de Azután– ES030ZSENESCM495” y zona vulnerable
+“Madrid-Talavera-TiétarES030_ZVULES42_5”.
+En cuanto a aguas superficiales, según la cartografía consultada del Geoportal: https://sig.mapama.gob.es/
+geoportal/, la zona de actuación intercepta el arroyo Valdemanillo y se encuentra cerca del río Tajo.
+Se ha efectuado la consulta en el visor del Sistema Nacional de Cartografía de Zonas Inundables (SNCZI),
+http://sig.mapama.es/snczi/ obteniéndose los siguientes resultados:
+- Dominio Público Hidráulico: el río Tajo dispone de estudio específico identificado como ES030_DPH_X-06-17bis
+perteneciente al estudio de Estudio para la definición del DPH cartográfico y zonas inundables del río Tajo entre el
+azud de Cebolla y el azud de Montearagón.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40599
+- Zona de Flujo Preferente: el río Tajo dispone de estudio específico identificado como ES030_ZFP_X-06-17bis
+perteneciente al estudio de Estudio para la definición del DPH cartográfico y zonas inundables del río Tajo entre el
+azud de Cebolla y el azud de Montearagón.
+- Áreas con Riesgo Potencial Significativo de Inundación (ARPSI): no se dispone de ARPSI.
+- Zonas inundables: Existe una delimitación cartográfica de la zona inundable por las avenidas de 10, 100 y 500
+años del río Tajo, definidas como ES030_T010_X-06-17bis, ES030_T100_X-06-17bis y ES030_T500_X-06-17bis
+respectivamente, pertenecientes al estudio de Estudio para la definición del DPH cartográfico y zonas inundables
+del río Tajo entre el azud de Cebolla y el azud de Montearagón.
+Con respecto a las aguas subterráneas, el área donde se desarrollan las actuaciones asienta sobre la masa de agua
+subterránea “Talavera- ES030MSBT030.015”.
+La instalación proyectada se encuentra en la Zona Regable de Castrejón Margen Izquierda pero alejado del canal
+principal u otra instalación del mismo. Por tanto, no se afecta a la infraestructura de riego de la zona regable. El
+acceso a la planta se realiza por la carretera TO-1262, independiente del camino de servicio del canal, por lo que no
+sería necesario hacer uso de este camino de servicio.
+La actuación se ubica en zona vulnerable a la contaminación por nitratos, por lo que se deberá cumplir íntegramente
+lo establecido en el Programa de Actuación aprobado por el Decreto 80/2025, de 14 de octubre.
+La planta de hormigón se localiza a una distancia superior a 1,3 km de la carretera autonómica CM-9428 y el acceso
+se realiza a través de caminos que conectan con la carretera TO-1262.
+El informe técnico del Ayuntamiento de La Pueblanueva, con fecha 1 de febrero de 2025, indica que, conforme a la
+Normativa Urbanística de ámbito municipal, está afectada por el Cap.2. suelo no urbanizable, norma 8, donde clasifica
+a estas parcelas como suelo no urbanizable general (Rústico de Reserva), con limitaciones de uso. Está incluida
+en Zona 3 (Regadíos). La planta de hormigón se considera viable, si bien se encuentra afectada por su cercanía
+al Rio Tajo, a otras posibles afecciones sectoriales como zona de regadíos y caminos públicos, y encontrarse muy
+próxima a edificaciones existentes (naves, cobertizos, y otras) sitas en las parcelas 114 y 115, del polígono 4, que
+no cuentan con licencia municipal.
+3.2 Características del proyecto.
+La actividad que se pretende desarrollar consiste en la fabricación de hormigón y morteros, para su posterior utilización
+en obras e infraestructuras públicas y privadas, considerándose esta, como una ampliación de las instalaciones
+colindantes ya existentes dedicadas a la misma actividad (concretamente en el polígono 4 parcelas 114 y 115).
+El agua potable de la instalación procede de un depósito propio, de 3.000 litros de capacidad. Se prevé la instalación
+de aseos y vestuarios para los trabajadores.
+Para el consumo industrial se utilizará la balsa de agua que se va a construir para la planta, con capacidad de 1.000
+m³. Dicha agua se extraerá de un sondeo situado en el polígono 4 parcela 114, colindante con el área donde se
+van a ejecutar las nuevas infraestructuras, del cual existe una solicitud de aprovechamiento de aguas subterráneas
+(expte.: SB-1830/2024) y que se encuentra en estado de tramitación, según indica la CHT. Con respecto a la toma
+de agua para uso industrial, se dan dos alternativas por parte del promotor, las cuales se corresponde con una nueva
+solicitud para un nuevo sondeo en el polígono 4 parcela 22, o bien solicitar la modificación/ampliación del sondeo
+ubicado en el polígono 4 parcela 114 de la actuación existente.
+No obstante, la CHT resuelve, con fecha 18 de junio de 2019, inscribir el aprovechamiento en la sección B del
+registro de aguas, el expediente con referencia SB-0060/2014, para aprovechamiento de aguas por disposición legal
+con destino fabricación de hormigones y abastecimiento del personal de la fábrica en el polígono 4 parcela 114, en
+el término municipal de La Pueblanueva (Toledo). Dicha inscripción está a nombre de los propietarios de la parcela
+en la que se ubica el sondeo.
+Con respecto a lo anterior, la CHT indica que, si se posee un título concesional en vigor y se pretende efectuar una
+variación de lo recogido en el mismo (por ejemplo: empleo de mayores volúmenes/caudales que los autorizados,
+uso no recogido en la autorización, empleo de captación no recogida en la autorización, o cualquier otra cuestión
+que incumpla lo expresado en el título), dicha variación requiere de autorización previa por parte de la CHT.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40600
+En cuanto a los vertidos, se indica que en el proceso productivo industrial no existen vertidos directos de agua a la
+red general de saneamiento, ni a cauces o arroyos.
+El área de actuación se encuentra próximo a la parcela el río Tajo y el arroyo de Valdemanillo, siendo el desagüe de
+este último contiguo a la parcela de ubicación.
+Se dispondrá de un botiquín portátil de primeros auxilios, bien señalizado, equipado adecuadamente para realizar
+los primeros auxilios en la instalación, revisándose periódicamente. Este se dispondrá en una caseta prefabricada y
+además se dispondrá de los siguientes servicios higiénicos:
+- Vestuarios: Dotados de taquillas y banquetas para el personal trabajador.
+- Aseos: Dotados de un lavabo, un inodoro y una ducha. El agua caliente sanitaria será proporcionada a través de
+calentador eléctrico.
+La gestión de los residuos se realizará a través de gestor autorizado.
+Se instalará un cerramiento perimetral en la instalación y además se contempla la creación de una pantalla vegetal
+alrededor del perímetro de la zona de actuación.
+3.3 Características del potencial impacto.
+La actividad se considera molesta en cuanto a la producción de ruidos y emisión de partículas y polvo a la atmósfera,
+debido a los motores instalados y los materiales utilizados en el proceso. No obstante, se pretenden implantar
+las medidas correctoras adecuadas que minimicen la afección mencionada. En este aspecto, cabe destacar la
+proximidad, al otro lado de la carretera TO-1262, y según el Visor Sigpac, se encuentra un reducto de viviendas
+con nombre de “San Antonio”, por lo que se deberán extremar las medidas de control de ruidos y emisiones a la
+atmósfera, para no provocar molestias a dicha población. Con respecto a dicha infraestructura, no existe afección a
+la carretera TO-1262.
+Además, durante el desarrollo de las obras de instalación de la planta de hormigón, también se verá afectada
+negativamente la calidad del aire, debido a la descarga del material en los silos, entrada y salida de camiones, así
+como descarga de material desechable, movimiento de tierras, cimentación, etc. y un aumento considerable de ruido
+y compactación del suelo, como consecuencia de la maquinaria pesada, el tráfico de vehículos, etc.
+Por lo que, en el transcurso de esta fase, también será necesario utilizar las medidas oportunas que minimicen
+al máximo este tipo de afecciones al medio y a la población, tales como, realizar riegos periódicos en el exterior,
+principalmente en la zona de acopio de material y de desechos, en los días de viento, siempre y cuando no se
+produzcan encharcamientos. Cualquier operación de descarga se realizará a la mínima altura posible para disminuir
+la producción de material pulverulento.
+La Ley 34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera establece los niveles máximos
+permitidos de emisión de partículas a la atmósfera.
+Se deberá cumplir lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, así como en los reglamentos
+de desarrollo y en las ordenanzas municipales. Además, los equipos generadores de ruido dispondrán de medidas
+correctoras que garantizarán el cumplimiento de los objetivos de calidad definidos en el Real Decreto 1367/2007, de
+19 de octubre, por el que se desarrolla la ley 37/2003, de 17 de noviembre, del Ruido, en lo referente a zonificación
+acústica, objetivos de calidad y emisiones acústicas, y demás normativa sectorial de aplicación.
+Los residuos generados en esta fase de construcción deberán gestionarse mediante gestor autorizado para no
+comprometer los valores del medio natural. Del mismo modo, el parque de maquinaria utilizado durante la realización
+de las obras, podría generar el vertido de residuos líquidos peligrosos susceptibles de contaminación del suelo y
+aguas subterráneas y superficiales.
+Se pretende instalar una pantalla vegetal, para la cual, el Servicio de Medio Natural, indica que esta no podrá
+incluir especies no autóctonas y los materiales deberán ser originarios de la misma región en la que se ubicará la
+plantación. Dicha pantalla vegetal deberá ser más ancha en la zona sur, tal y como se refleja en el mapa número 3
+del anexo cartográfico.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40601
+Todas aquellas actuaciones que impliquen modificación y/o eliminación de la cubierta vegetal, deben contar con
+autorización previa por parte del Servicio de Medio Natural de la Delegación Provincial de Desarrollo Sostenible de
+Toledo.
+Con respecto a áreas críticas para la conservación de especies amenazadas, la actuación se ubica en zona de
+importancia de águila imperial ibérica y de buitre negro, así como en zona de dispersión de águila perdicera.
+Además, se tiene constancia desde el servicio de Medio Natural, de la presencia de especies en el entorno como
+el lince ibérico, porrón pardo y águila imperial ibérica, tendiendo esta un nido a una distancia de 1 kilómetro
+aproximadamente.
+Se deberá dar cumplimiento a las medidas preventivas, correctoras y compensatorias, planteadas en el informe
+emitido por el Servicio de Medio Natural.
+En relación a la afección a dominio público hidráulico, se observa la cercanía del área de actuación al río Tajo y al
+arroyo de Valdemanillo.
+No existe afección a vías pecuarias, elementos geomorfológicos de protección especial o montes de utilidad pública.
+Con respecto a carreteras, la distancia desde la zona de actuación a la carretera autonómica CM-9428, no produce
+ningún tipo de afección, desde el punto de vista ambiental.
+Teniendo en cuenta que las obras se sitúan dentro del yacimiento arqueológico “San Antonio” (0745137009),
+según el Inventario del Patrimonio Cultural del municipio, se produce afección al patrimonio cultural, que deberá
+ser subsanado cumpliendo las disposiciones que establece el Servicio de Cultura de la Delegación Provincial de
+Educación, Cultura y Deportes de Toledo y que se describen en el punto 4.7.
+Respecto a la identificación, descripción, análisis y cuantificación de los efectos esperados, derivados de la
+vulnerabilidad del proyecto ante riesgos de accidentes graves o de catástrofes, sobre el riesgo de que se produzcan
+dichos accidentes o catástrofes, y sobre los probables efectos adversos significativos sobre el medio ambiente. Los
+principales riesgos de la implantación del proyecto se clasifican en dos grandes grupos:
+1. Exógenos: Aquellos provocados por fenómenos ajenos al proyecto, como pueden ser catástrofes o fenómenos
+meteorológicos adversos como terremotos, inundaciones, etc.
+2. Endógenos: Aquellos dependientes de acciones del propio proyecto, como vertidos accidentales, o explosiones
+por fallos de equipos.
+Dentro del primer grupo (exógenos), se distinguen los siguientes fenómenos:
+- Fenómenos sísmicos: En la zona del proyecto no existen registros de terremotos ni movimientos sísmicos, según
+el Mapa de Sismicidad del Instituto Geográfico Nacional y las bases de datos existentes, por tanto, se concluye que
+la probabilidad de riesgo sísmico en la zona de proyecto es baja.
+- Amenaza por derrumbamientos, deslizamientos de tierra: En el área del proyecto no existen grandes elevaciones
+ni paisajes rocosos.
+- Amenaza por inundación: En la zona donde se ubica la instalación, se establece una peligrosidad alta significativa
+de inundabilidad por desbordamiento, precipitaciones o roturas de presas.
+- Amenaza de daños por terceros: Se refiere a los efectos nocivos, es decir a los daños y perjuicios, de aquellas
+acciones ejecutadas por personal ajeno al proyecto. En otras ocasiones puede tratarse de accidentes por desarrollo
+de otras actividades en áreas cercanas, como quemas de áreas agrícolas, accidentes de camiones que transporten
+por el área algún tipo de material, o explosión o incendio en algún área cercana.
+- Amenaza por riesgos meteorológicos adversos (Femas): Según los datos obtenidos por la Revisión del Plan
+Específico ante el Riesgo por Fenómenos Meteorológicos Adversos de Castilla-La Mancha (Meteocam 2018), el
+área donde se ubica el proyecto se encuentra en una zona con valores de riesgo alto para los fenómenos de lluvias,
+nieve, granizo, heladas, altas temperatura y niebla.
+- Amenaza por incendios forestales: Debido a que el proyecto se enmarca sobre una zona de riesgo media y que
+la tipología de las actuaciones y actividades asociadas al mismo no requieren de medidas especiales de protección
+contra incendios, no se considera que el proyecto pueda ejercer influencia sobre el riesgo de incendio forestal
+actualmente existente.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40602
+Dentro del segundo grupo (endógenos), se distinguen los siguientes factores:
+- Contaminación de suelos por vertido accidental: La ocurrencia de esta circunstancia es accidental, siendo además
+muy reducida la presencia de vehículos y maquinaria. Se realizarán inspecciones periódicas de dicha maquinaria
+para controlar su estado.
+- Contaminación de cursos de agua superficial o subterránea como consecuencia de accidentes: La instalación tiene
+su sistema de recogida de lixiviados, en caso de producirse un vertido, este sería de escasa dimensión y reducido a
+los depósitos de la maquinaria. Se realizarán inspecciones periódicas de la maquinaria para evitar posibles vertidos.
+- Explosión/ incendios: Debidos a explosiones o cortocircuitos en las instalaciones o en la maquinaria que trabaja
+en las instalaciones, de manera accidental. Se trata de sucesos muy poco probables y además las instalaciones
+estarán dotadas de sistemas de protección antincendios.
+- Accidentes con maquinaria / vehículos: Se implantarán normas de tráfico para evitar posibles accidentes y reducirlos
+al máximo, tales como los límites de velocidad y el uso de los sistemas seguridad.
+Cuarto. Condiciones y medidas para prevenir, corregir y compensar los efectos adversos sobre el medio ambiente.
+Además de las medidas preventivas y correctoras que con carácter general se señalan en el estudio de impacto
+ambiental, se cumplirán las condiciones y medidas que se indican a continuación, debiendo entenderse que en
+aquellos casos en que pudieran existir discrepancias entre unas y otras, prevalecerán las contenidas en el presente
+informe.
+4.1 Afección sobre áreas y recursos naturales protegidos, fauna y flora.
+El proyecto no incluye terrenos en ningún espacio perteneciente a la Red de Áreas Protegidas de Castilla-La Mancha
+(Espacios Naturales Protegidos, espacios de Red Natura 2000 u otras zonas sensibles). Tampoco se ven afectados
+montes de utilidad pública, ni vías pecuarias.
+El informe del Servicio de Medio Natural, de fecha 20 de marzo de 2026, indica que la parcela se ubica en zona
+de importancia de águila imperial ibérica y de buitre negro, así como en zona de dispersión de águila perdicera.
+Además, se tiene constancia desde este servicio de la presencia de especies en el entorno como el lince ibérico,
+porrón pardo y águila imperial ibérica, tendiendo esta un nido a una distancia de 1 kilómetro aproximadamente.
+El proyecto, no obstante, quedará condicionado a lo siguiente:
+- El documento redacta la instalación de una pantalla vegetal pero no se nombran especies y ubicación. Esta no
+podrá incluir especies no autóctonas, así como los materiales deberán ser originarios de la misma región en la que
+se ubicará la plantación. Previa plantación se deberá aportar un documento en el cual se describa dicha plantación
+(especies, vivero de donde se obtiene el material a emplear, marco de plantación) y que deberá ser aprobado por
+este Servicio. Dicha pantalla vegetal deberá ser más ancha en la zona sur (mapa número 3 del anexo cartográfico).
+- El vallado no deberá contar con elementos cortantes o punzantes ni podrá ser eléctrico o con dispositivos que
+puedan generar corriente, debiendo dar cumplimiento a la normativa correspondiente como redacta el documento
+ambiental aportado.
+- No se podrá afectar a vegetación natural existente. En caso de que la ejecución de la obra implicase afecciones
+a vegetación, el promotor deberá solicitar la preceptiva autorización para modificación de cubiertas vegetales, en
+virtud del artículo 49 de la Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla – La
+Mancha.
+- En caso de ser necesaria una línea eléctrica aérea para el suministro de energía eléctrica, estos deberán cumplir
+con todas las medidas correspondientes a la protección de la avifauna contra la colisión y electrocución en líneas
+eléctricas conforme a la normativa vigente.
+- Con el fin de minimizar la afección a la fauna del entorno del proyecto, las obras de ejecución deberán realizarse
+fuera de los meses de febrero y junio, ambos inclusives.
+- En caso de existir zona de acopios, estas no podrán ubicarse fuera de vallado.
+- Se desconocen los recursos hídricos del acuífero, en cualquier caso, el sondeo deberá contar con su autorización
+correspondiente.
+Posteriormente y con fecha 22 de octubre de 2026, el Servicio de Medio Natural, emite un nuevo informe en base
+al documento que remite el promotor con las medidas preventivas, correctoras y compensatorias, para subsanar
+las deficiencias observadas en el informe de fecha 20 de marzo de 2026, de dicho Servicio. Este nuevo informe da
+el visto bueno a las medidas que el promotor indica que va a adoptar con el fin de evitar la afección del proyecto
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40603
+al medio. No obstante, con respecto a realización de las obras de ejecución, que se determina entre los meses de
+febrero a junio, será necesario reajustarse ese periodo. Por tanto, con el fin de minimizar la afección a la fauna
+del entorno del proyecto, las obras de ejecución deberán realizarse fuera de los meses de febrero y junio, ambos
+inclusive, de manera que no se afecte a la época de reproducción y cría de especies del entorno. Además, las balsas
+deberán contar una rampa de escape para la fauna que pueda verse atrapada.
+En su informe de fecha 7 de agosto de 2026, el agente medioambiental indica que la vegetación existente en la zona
+de actuación, son aliantos, zarzas, cañas y retamas.
+Con respecto a la fauna, se ha observado la presencia habitual de lince en la zona, además existen un nido de
+águila real a 7 km aproximadamente y dos nidos de águila imperial a 2 Km y 7 Km. Además, la ubicación de la
+instalación se encuentra localizada dentro de la zona de importancia del águila imperial y zona de dispersión del
+águila perdicera.
+La población de San Antonio (colindante del municipio de las vegas de San Antonio) se encuentra a escasos 250
+m de la ubicación propuesta para construcción la planta y a escasos 50 m de la parte más al oeste de la parcela 22
+del polígono 4.
+4.2 Protección del sistema hidrológico.
+El abastecimiento de agua potable, se realiza mediante un depósito propio de unos 3.000 litros de capacidad. Los
+servicios estarán dispuestos en instalaciones de la propia empresa en la zona de actuación.
+En cuanto al agua para uso industrial, se utilizará la balsa de agua que se va a construir para la planta, con una
+capacidad de 1.000 m³, dicha agua se extraerá de sondeo ubicado en el polígono 4 parcela 114.
+Como medida preventiva de seguridad en torno a la franja que linda con el río Tajo, de la planta de tratamiento
+ubicada en el polígono 4 parcela 12, titularidad del promotor, sería necesario la creación de un buffer (o zona de
+amortiguamiento). Se crea, por tanto, una franja de terreno protegida, con el fin de separar la actividad de la planta
+de tratamiento de áridos (contigua a la actividad de la planta de mezclas bituminosas en caliente), del cauce del
+río, de tal manera que dicho buffer, actué como un filtro natural y barrera de protección física para salvaguardar la
+vegetación ribereña, evitar la erosión y frenar la llegada de sedimentos o contaminantes al río.
+Dicho buffer, consistirá en la realización de una pantalla vegetal, con una anchura de 25 m como mínimo, a lo
+largo de la franja de la parcela que linda con la zona de ribera del río Tajo (incluyendo en dicha longitud la zona de
+servidumbre). Para ello se utilizarán especies tales como sauce y taray autóctonas de la zona (tipo estaquillas).
+Deberán realizarse las medidas oportunas de mantenimiento con el fin de lograr la consolidación de la vegetación
+natural de ribera.
+El informe de la Confederación Hidrográfica del Tajo (CHT), de fecha 29 de marzo de 2026, indica que, consultada
+la información disponible, se ha encontrado el siguiente expediente relacionado con el asunto de este informe:
+Con respecto a la compatibilidad con la planificación hidrológica, la CHT informa que será necesario tener en cuenta
+los siguientes aspectos recogidos en la normativa del vigente PHT:
+- Restricciones de extracción de aguas subterráneas: En el caso de los aprovechamientos de aguas subterráneas
+mediante pozos o sondeos, en el artículo 35 de la normativa del PHT se establece una zonificación de aquellas
+masas evaluadas en riesgo a efectos del otorgamiento de concesiones de agua, mientras que en el artículo 22 se
+establecen unas distancias mínimas a respetar a pozos y sondeos existentes, en función de la masa de agua y el
+volumen que se pretenda extraer.
+- Justificación de la demanda de agua (usos consuntivos): Conforme a lo dispuesto en los artículos 59 del TRLA y
+93 y sucesivos del RDPH, en la documentación que acompañe a la solicitud de concesión de aguas se justificarán
+adecuadamente las necesidades hídricas, atendiendo a lo señalado en los artículos 24, 25, 26, 27 y 28 de la
+normativa del PHT y adecuándose a los valores de referencia establecidos en el apéndice 13 de la citada Normativa.
+- Caudal ecológico: Todo aprovechamiento deberá cumplir con el régimen de caudales ecológicos recogido en el
+apéndice 5 de la normativa. El régimen establecido en el apéndice 5.1 está referido al final de cada masa de agua
+superficial. Para estimar el caudal ecológico mínimo en cualquier otro punto de la cuenca vertiente de una masa de
+agua, se ponderarán estos valores manteniendo la misma relación de proporcionalidad de las aportaciones medias
+en régimen natural entre el punto considerado y el final de masa.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40604
+Los aprovechamientos no consuntivos deberán mantener en el tramo de río afectado por su derivación de agua,
+un caudal no inferior al establecido en el apéndice 5.7, sin menoscabo de que el concesionario deba garantizar
+el caudal asociado al establecido en el apéndice 5.1, desde el punto donde se produzca la restitución del caudal
+aprovechado.
+El Real Decreto 3/2023, de 10 de enero, por el que se establecen los criterios técnico-sanitarios de la calidad
+del agua de consumo, su control y suministro, considera que los datos sobre las zonas protegidas por realizarse
+captaciones de agua para consumo humano pueden tener carácter sensible y por tanto concluye, en su artículo 53,
+que se garantizará que estén protegidos y se comuniquen exclusivamente a las autoridades correspondientes y a
+los operadores de agua pertinentes.
+En lo que respecta a cerramientos en la instalación, se indica que en el supuesto de que este discurra por dominio
+público hidráulico y su zona de policía, deberá contar con la correspondiente autorización por parte de este Organismo.
+En relación al posible empleo de combustibles, se indica que todos los depósitos de combustibles y redes de
+distribución de los mismos, ya sean enterrados o aéreos, deberán ir debidamente sellados y estancos para evitar su
+infiltración a las aguas subterráneas. Estas instalaciones deben pasar periódicamente sus pruebas de estanqueidad.
+Lo mismo se ha de aplicar para todas las instalaciones de almacenamiento y distribución de otras sustancias
+susceptibles de contaminar el medio hídrico.
+En cuanto a la construcción de viales, se indica que en el paso de todos los cursos de agua y vaguadas por los
+caminos y viales que puedan verse afectados, se deberán respetar sus capacidades hidráulicas y no se llevará a
+cabo ninguna actuación que pueda afectar negativamente a la calidad de las aguas.
+Al respecto del movimiento de tierras y el drenaje, hay que tener en cuenta que un posible impacto sobre la hidrología
+puede proceder de la remoción de los materiales durante las fases de construcción y su posterior arrastre pluvial,
+provocando un incremento del aporte de sólidos a los cauces, por lo que se deben tomar medidas necesarias para
+evitarlo.
+Por otro lado, se indica que, con carácter general, todas aquellas zonas de la instalación en donde vayan a desarrollarse
+actividades susceptibles de contaminar las aguas superficiales o subterráneas, deberán de estar debidamente
+impermeabilizadas y además confinadas para evitar desbordamientos hacia zonas no impermeabilizadas, o en
+definitiva proceder de otras maneras tales que se evite la mencionada contaminación.
+Respecto al parque de maquinaria, a utilizar para la realización de las distintas unidades de obra, puede generar
+residuos líquidos peligrosos susceptibles de contaminación de aguas subterráneas y superficiales, como pueden
+ser aceites y otros compuestos. Se recomienda una gestión adecuada de estos residuos que evite la contaminación
+de las aguas.
+Se recomienda también que en la fase de construcción la ubicación del parque de maquinaria, instalaciones auxiliares
+y acopio de materiales se realice previa creación de solera impermeable en pendiente, con zanja de recogida para
+posibles vertidos de aceite de cambios, derrame de combustibles, grasas, etc. Estos derrames serán recogidos en
+bidones para su posterior gestión correcta.
+4.3 Protección del suelo.
+En relación a las extracciones de tierra realizadas durante la fase de las obras, si se generasen tierras limpias
+sobrantes, estas se podrán gestionar a través de la Orden APM/1007/2017, de 10 de octubre, sobre normas
+generales de valorización de materiales naturales excavados para su utilización en operaciones de relleno y obras
+distintas a aquéllas en las que se generaron.
+Si, además, se precisase la aportación de tierras limpias externas sería de procedencia autorizada con notificación
+previa telemática a la Delegación Provincial de Desarrollo Sostenible para su utilización conforme con la Orden
+APM/1007/2017, de 10 de octubre, sobre normas generales de valorización.
+Si la actuación implica la eliminación de cubierta vegetal, deben contar previamente con la autorización del Servicio
+de Medio Natural de la Delegación Provincial de Desarrollo Sostenible.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40605
+4.4 Gestión de residuos.
+Los residuos generados, debidos a la actividad, independientemente de la clasificación de los mismos, estarán
+sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados para una economía circular.
+Dicha Ley 7/2022, en sus artículos 20 y 21, establece las obligaciones de los productores iniciales u otros poseedores
+de residuos, relativas a la gestión de sus residuos, así como las relativas al almacenamiento, mezcla, envasado
+y etiquetado de estos. En cuanto a la comunicación previa al inicio de las actividades de producción y gestión de
+residuos, el artículo 35 dispone los supuestos en que será necesario presentar una comunicación previa al inicio
+de sus actividades ante la autoridad competente de la comunidad autónoma donde estén ubicadas, las entidades
+o empresas. Asimismo, las personas físicas o jurídicas registradas y los productores iniciales que generen más de
+10 toneladas de residuos no peligrosos al año, dispondrán de un archivo electrónico donde se recojan, por orden
+cronológico, la cantidad, naturaleza y origen del residuo generado y demás condiciones que se establecen en el
+artículo 64, así como las obligaciones de información reguladas en los artículos 65 y 66, de dicha Ley.
+Los residuos peligrosos y no peligrosos generados en la actividad, se almacenarán en contenedores estancos
+debidamente etiquetados, hasta su recogida por un gestor autorizado y se dispondrán en un local ventilado y bien
+iluminado, tal y como se establece en la Orden 21/01/2003 de la Consejería de Agricultura y Medio Ambiente, por la
+que se regulan las normas técnicas específicas que deben cumplir los almacenes y las instalaciones de transferencia
+de residuos peligrosos y los artículos 13 y 14 del Real Decreto 833/1988, de 20 de julio, por el que se aprueba el
+Reglamento para la ejecución de la Ley 20/1986, Básica de Residuos Tóxicos y Peligrosos. No obstante, debe
+garantizarse una correcta gestión de estos residuos en la propia explotación mediante el manejo y almacenamiento
+en condiciones seguras y adecuadas a la normativa vigente.
+Los residuos de construcción y demolición generados durante el desarrollo de las reformas previstas, así como en las
+naves existentes se gestionarán conforme al Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción
+y gestión de los residuos de construcción y demolición. Por lo tanto, serán entregados a un gestor autorizado.
+La zona de actuación deberá mantenerse limpia de residuos, el promotor deberá valorar la necesidad de instalar uno
+o varios puntos de recogida selectiva de los residuos generados como consecuencia del desarrollo de la actividad
+en contenedores, así como otro tipo de mobiliario urbano de recogida de residuos tipo papeleras separativas u otros
+similares.
+No se podrán realizar operaciones de mantenimiento de la maquinaria o vehículos sobre el terreno, sino que
+deberán llevarse a cabo en talleres autorizados. En su defecto, si fueran precisas operaciones de mantenimiento de
+maquinaria, se realizarán en zona habilitada para tal fin, los aceites usados, filtros, etc., generados se almacenarán
+en recipientes homologados y en condiciones controladas, sobre una superficie impermeabilizada, para su posterior
+entrega a un gestor autorizado. El promotor deberá estar inscrito en el Registro de Pequeños Productores de
+Residuos Peligrosos y presentar contrato con Gestor Autorizado.
+Todos aquellos residuos generados en la instalación y producidos como consecuencia de su actividad deberán ser
+gestionados siempre a través de gestor autorizado, mediante el establecimiento de un contrato de tratamiento con
+esté último.
+4.5 Protección contra el ruido, emisión de partículas a la atmósfera y contaminación lumínica.
+La actividad se encuentra incluida en el catálogo de actividades potencialmente contaminadora de la atmósfera,
+aprobado por el Real Decreto 100/2011, de 28 de enero, por el que se actualiza el catálogo de actividades
+potencialmente contaminadoras de la atmósfera y se establecen las disposiciones básicas para su aplicación.
+Concretamente, las plantas de hormigón se encuentran en el grupo B (códigos B04061206), por lo que la actividad
+queda sometida a la autorización administrativa prevista en el artículo 13.3 de la Ley 34/2007, de 15 de noviembre,
+de calidad del aire y protección de la atmósfera.
+Como medidas correctoras para la prevención y el control del polvo se llevarán a cabo las siguientes actuaciones:
+- El patio de maniobras los viales interiores y el vial de acceso estarán acondicionados para el paso de vehículos
+pesados.
+- Se realizarán riegos periódicos en el exterior, principalmente en la zona de acopio de desechos en los días de
+viento, siempre y cuando no se produzcan encharcamientos.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40606
+- Cualquier operación de descarga se realizará a la mínima altura posible para disminuir la producción de material
+pulverulento. Los depósitos de material pulverulento deberían ser cerrados o al menos estar cubiertos.
+- Durante el proceso de obras, todo el tránsito de los vehículos se realizará por los caminos ya existentes de acceso
+al área de actuación.
+En cuanto a emisiones sonoras toda actividad que genere contaminación acústica se regirá por lo establecido en el
+Real Decreto 212/2002, de 22 de febrero, que regula las emisiones sonoras en el entorno debidas a determinadas
+máquinas de uso al aire libre, y su modificación (R.D. 524/2006, de 28 de abril), así como por la Ley 37/2003 de 17
+de noviembre del ruido. Por ello se adoptarán las medidas y dispositivos (en maquinaria) que reduzcan los niveles
+de ruido. Para evitar las posibles molestias por ruidos se llevarán a cabo las siguientes actuaciones:
+- Se deberá cumplir lo establecido en la Ley 37/2003, de 17 de noviembre, del Ruido, así como en los reglamentos
+de desarrollo y en las ordenanzas municipales.
+- Se planificarán las actividades discontinuas, de modo que se realicen en horario diurno, reduciendo al mínimo
+imprescindible las tareas durante el fin de semana.
+- Los equipos instalados serán de bajo nivel de ruido.
+- La maquinaria deberá estar dotada de silenciadores homologados.
+- Se llevará a cabo un mantenimiento periódico y adecuado de la maquinaria y los motores, para evitar ruidos
+innecesarios.
+- El ruido producido por los motores propios de la explotación se atenuarán encerrándose en casetas o instalándose
+dentro de las naves en la medida de lo posible.
+La actividad también deberá ajustarse a la regulación que a tal efecto establezca la normativa municipal en sus
+ordenanzas.
+4.6 Protección de la salud.
+No se advierten peligros ni riesgos significativos sobre la salud humana, al margen del polvo y otras emisiones
+producidas por el desarrollo de la actividad, las cuales no supondrán un problema, siempre y cuando se respeten las
+limitaciones y márgenes establecidos en la legislación vigente en esta materia.
+Se debe garantizar el cumplimiento de la normativa referente a la prevención de riesgos laborales.
+En el centro de trabajo se dispondrá de un botiquín con los medios necesarios para efectuar las curas de urgencia
+en caso de accidente y estará a cargo de él una persona capacitada designada por la empresa. Se dispondrá de
+agua apta para el consumo de los trabajadores.
+4.7 Protección del Patrimonio cultural, pecuario y forestal.
+Sobre la posible afección a bienes patrimoniales o restos arqueológicos, la Delegación Provincial de Educación,
+Cultura y Deportes de Toledo, en su informe de fecha 7 de enero de 2026, indica que, teniendo en cuenta que las
+obras se sitúan dentro del yacimiento arqueológico “San Antonio” (0745137009), según el Inventario del Patrimonio
+Cultural del municipio, autoriza la ejecución de la actuación, quedando el promotor obligado a cumplir con las
+siguientes disposiciones:
+- Se deberá realizar el control y supervisión arqueológica directa de todos los movimientos de tierra (extracción o
+aporte) generados por la obra civil - por parte de un arqueólogo expresamente autorizado-, realizando la conservación
+in situ y documentación (informes arqueológicos, memorias y fichas inventario de Carta Arqueológica) de los
+bienes inmuebles y de los restos muebles que puedan aparecer. Dicho Control y Seguimiento Arqueológico deberá
+garantizarse mediante presentación en la Delegación Provincial de Educación, Cultura y Deportes de la solicitud de
+autorización de trabajos y proyecto arqueológicos de actuación, así previsto en el artículo 48 de la Ley 4/2013, de 16
+de mayo, de Patrimonio Cultural de Castilla-La Mancha, siendo ésta quien deba autorizar expresamente las medidas
+de control y conservación pertinentes.
+- El Ayuntamiento no otorgará licencia de obras hasta que no esté garantizada la realización del control arqueológico
+solicitado y reciba una copia de la autorización arqueológica concedida por esta Delegación Provincial.
+- El promotor deberá notificar con antelación suficiente el inicio y el fin de la obra ante la Delegación Provincial de
+Educación, Cultura y Deportes de Toledo.
+- Cualquier modificación del emplazamiento de las diversas infraestructuras del proyecto de obra deberá contar con
+el visado y la autorización de la Delegación Provincial de Educación, Cultura y Deportes.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40607
+- En caso de aparición de restos arqueológicos y/o paleontológicos durante el transcurso de las obras se deberá
+actuar conforme a lo previsto en el artículo 52 de la Ley 4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La
+Mancha, debiendo comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia
+de Patrimonio Cultural. Este órgano determinará el carácter de los hallazgos y resolverá expresamente las medidas
+de protección de los mismos.
+4.8 Protección del paisaje.
+La adecuación en relación a la armonización con el entorno deberá ajustarse a lo dispuesto en el artículo 16 del
+Decreto 242/2004, de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico. En concreto se destaca
+la obligación de que las construcciones deberán presentar todos los parámetros exteriores y cubiertas totalmente
+terminados, empleando las formas y los materiales que menor impacto produzcan, así como de los colores
+tradicionales en la zona o, en todo caso, los que favorezcan en mayor medida la integración en el entorno inmediato
+y en el paisaje.
+4.9 Adecuación urbanística y protección de infraestructuras.
+En la tramitación del proyecto se tendrán en cuenta todas aquellas normas urbanísticas aplicables, y en particular
+lo establecido en el Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística de Castilla-
+La Mancha, así como en el Reglamento de Suelo Rústico y en la normativa sectorial en materia de carreteras
+autonómicas.
+Con fecha 26 de enero de 2026, la Dirección General de Carreteras emite informe, en el que se indica que, el ámbito
+de la actuación, se sitúa a una distancia superior a 1,3 km de la carretera autonómica CM-9428. Por ello, desde el
+punto de vista ambiental, el proyecto no produce ningún tipo de afección.
+En cuanto al acceso a la instalación, se informa que, puesto que este se prevé a través de caminos que conectan con
+la carretera TO-1262, al ser una carretera provincial, desde el punto de vista de la Dirección General de Carreteras,
+se afirma que no se produce una afección por la creación o modificación de los accesos existentes a carreteras
+autonómicas.
+Con fecha 25 de septiembre de 2026, el Servicio de Infraestructura Viaria y Urbana, informa favorablemente desde
+el punto de vista de afección a la carretera TO-1262 de la que esta administración es titular. No obstante, teniendo
+en cuenta el incremento de la actividad en la planta de hormigón y, por tanto, la previsión de un mayor tránsito y
+movimiento de vehículos y materiales, y con el fin de evitar la incorporación de tierras, barro u otros materiales
+procedentes del camino existente de acceso o de las propias instalaciones a la calzada de la carretera, antes del
+inicio de las obras y de la autorización deberá aportarse el correspondiente Proyecto Técnico, en el que se deberán
+contemplar las medidas necesarias para garantizar unas adecuadas condiciones de seguridad y limpieza de la
+carretera, así como el correcto funcionamiento y mantenimiento del acceso existente.
+A tal efecto, las actuaciones y medidas previstas deberán ajustarse a una serie de condiciones establecidas en el
+informe emitido por el Servicio de Infraestructura Viaria y Urbana.
+4.10 Cese de la actividad.
+Si cesara la actividad de este proyecto en el futuro, ya sea de forma temporal o permanente, el promotor deberá
+realizar la retirada de los residuos que pudieran quedar almacenados, así como toda la maquinaria e instalaciones
+necesarias para el funcionamiento de la instalación, como luz, agua, refrigeración y calefacción, saneamiento, etc.,
+así como cualquier otro tipo residuo, cumpliendo siempre la Ley 7/2022 de residuos y suelos contaminados para
+una economía circular.
+Si además lo que se realiza es un desmantelamiento de las instalaciones, los residuos generados durante esta fase,
+estarán sujetos a lo dispuesto en la Ley 7/2022 de residuos y suelos contaminados para una economía circular, así
+como lo dispuesto en el Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de los
+residuos de construcción y demolición, por lo que deberán gestionarse mediante gestor autorizado y se deberá dejar
+el área de actuación en perfecto estado de limpieza.
+Se restaurarán los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado de
+limpieza.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40608
+El desmontaje y la restauración deberán realizarse en el plazo más breve posible técnicamente y deberá ponerse en
+conocimiento de la Delegación Provincial de la Consejería de Desarrollo Sostenible de Toledo para dar por finalizado
+el expediente, debiendo, antes de empezar el desmantelamiento, entregar en esta Delegación Provincial el plan de
+desmantelamiento y restauración a seguir y el compromiso del promotor de su realización.
+Quinto. Programa de vigilancia ambiental.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del Informe de Impacto Ambiental.
+Todo el personal implicado en el proyecto debe tener conocimiento de las medidas medioambientales que se
+deben adoptar en la realización de los trabajos y en la explotación de la actividad, debiendo el promotor asignar un
+responsable del mismo, notificando su nombramiento tanto al órgano sustantivo como ambiental, como encargado
+último del control e inspección del cumplimiento de dicho programa y de las condiciones fijadas en el presente
+Informe de impacto ambiental.
+El promotor remitirá al órgano sustantivo un informe de seguimiento sobre el cumplimiento de las condiciones y de
+las medidas correctoras establecidas en el presente informe. Este informe incluirá un listado de comprobación de las
+medidas previstas en el programa de vigilancia ambiental. Cada informe deberá estar suscrito conjuntamente por el
+promotor y el responsable del seguimiento y vigilancia ambiental del proyecto. El programa de vigilancia y el listado
+de comprobación se harán públicos en la sede electrónica del órgano sustantivo.
+El órgano ambiental podrá recabar información y realizar las comprobaciones que considere necesarias para verificar
+el cumplimiento del condicionado del Informe de impacto ambiental.
+De las inspecciones llevadas a cabo por el órgano sustantivo y por el órgano ambiental, podrán derivarse
+modificaciones de las actuaciones previstas, en función de una mejor consecución de los objetivos del Informe de
+Impacto ambiental. Estas modificaciones tendrán que ser autorizadas conjuntamente por ambos órganos.
+El promotor está obligado a permitir a los funcionarios que ostenten la condición de autoridad pública el acceso
+a las instalaciones y lugares vinculados a la ejecución del proyecto, de acuerdo con las garantías previstas en el
+artículo 18 de la Constitución. Asimismo, el promotor estará obligado a prestarles la colaboración necesaria para su
+desarrollo, facilitando cuanta información y documentación les sea requerida a tal efecto.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas, y la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia, además de lo expuesto en el documento ambiental y documentación complementaria
+aportada, deberán incidir en los siguientes puntos:
+- Control de los trabajos y de las obras de ejecución del proyecto, que deberán contar con la preceptiva autorización
+previa para la modificación de cubiertas vegetales, del Servicio de Medio Natural, en su caso.
+- Control y seguimiento de las medidas establecidas por el Servicio de Medio Natural de la Delegación de Desarrollo
+Sostenible de Toledo, con respecto a la instalación de la pantalla vegetal.
+- Control y seguimiento de las medidas excepcionales de protección, establecidas frente a los riesgos especialmente
+significativos que deriven de la ejecución y desarrollo de la actividad.
+- Control y seguimiento de la correcta gestión de todos los residuos generados, tanto en la fase de obras como
+durante el desarrollo de la actividad (peligrosos y no peligrosos).
+- Control y seguimiento del correcto almacenamiento de los residuos generados como consecuencia de las obras y
+del desarrollo de la actividad.
+- Control y seguimiento de los decibelios generados durante el desarrollo y explotación del proyecto y del cumplimiento
+de las medidas de prevención propuestas.
+- Control y seguimiento de las disposiciones establecidas en el informe del Servicio de Cultura de la Delegación
+Provincial de Educación, Cultura y Deportes de Toledo.
+- Control y seguimiento de la aparición de restos arqueológicos durante las obras.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40609
+- Confirmación de que se ha procedido a la limpieza de la zona una vez finalizada la actividad de forma permanente,
+gestionando todos los residuos mediante gestor autorizado.
+- Control y seguimiento, de las labores de mantenimiento de la pantalla vegetal (buffer) en el polígono 4 parcela 12
+del término municipal de La Pueblanueva.
+- Vigilancia de los trabajos cumpliendo las condiciones establecidas en el estudio de impacto ambiental y en la
+presente Declaración.
+Sexto. Documentación adicional a presentar por el promotor.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el Órgano Sustantivo.
+a) Previo a la autorización por parte del órgano sustantivo.
+- Proyecto Técnico solicitado por el Servicio de Infraestructura viaria y urbana de la Diputación de Toledo, con las
+medidas necesarias para garantizar condiciones adecuadas de seguridad y limpieza de la carretera TO-1262, así
+como el correcto funcionamiento y mantenimiento del acceso existente.
+b) Previo al inicio de la actividad.
+- Autorización previa de la CHT de modificación de las características del título concesional en vigor.
+- La autorización administrativa a la Dirección General de Economía Circular para ejercer actividades potencialmente
+contaminadoras de la atmósfera.
+- Inscripción en el registro de producción y gestión de residuos de Castilla-La Mancha, como productor.
+- Autorización preceptiva del Servicio de Medio Natural para la modificación de cubiertas vegetales, en su caso.
+- Instalación de las medidas de autoprotección interior contra incendios.
+- Designación por parte del promotor de una entidad o profesional autorizado responsable del cumplimiento del plan
+de seguimiento y vigilancia ambiental del proyecto.
+- Plan de desmantelamiento presupuestado y compromiso del promotor de su realización.
+c) En el primer trimestre de cada año, desde el inicio de la actividad y durante los cinco primeros años de
+funcionamiento del proyecto:
+- Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia ambiental
+Séptimo. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible de
+Toledo, en virtud del Decreto 112/2023 de 25 de julio, por el que se establece la estructura orgánica y las competencias
+de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la Resolución de 24 de
+mayo de 2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias en materia de
+evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, y conforme a la
+Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto “Instalación
+y apertura planta de hormigón” (Exp. S478-2025-TO-00129), no necesita someterse a una Evaluación de Impacto
+Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan
+las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se desprenden
+del presente informe de impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40610
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 55.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+El promotor deberá comunicar al órgano ambiental la fecha de comienzo de la ejecución del proyecto o actividad,
+con antelación suficiente, así como su cese parcial o total y el traspaso de su titularidad, en su caso.
+Cualquier modificación que afecte a las características del proyecto será consultada previamente al órgano ambiental,
+de forma que se valore la necesidad de someterla a evaluación de impacto ambiental porque así lo establezca la
+legislación.
+La presente Resolución de Informe de Impacto Ambiental no exime de obtener los informes y autorizaciones
+pertinentes de otras Administraciones, especialmente las relativas a la normativa urbanística y licencias municipales.
+Se adjunta anexo cartográfico.
+Toledo, 10 de noviembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40611
+Anexo cartográfico
+1. Mapa nº 1: ortofoto ubicación instalación.
+2. Mapa nº 2: mapa topográfico ubicación instalación.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40612
+3. Mapa nº 3: pantalla vegetal (aumentada en zona sur).
+4. Mapa nº 4: croquis planta de hormigón.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40613
+5. Mapa nº 5: parcelario.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40614
+6. Mapa nº 6: emplazamiento instalaciones.

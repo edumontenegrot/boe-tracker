@@ -1,0 +1,918 @@
+AÑO XLV Núm. 223 20 de noviembre de 2026 40542
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 05/11/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto: Sustitución y acondicionamiento de cerramiento
+ganadero y aprovechamiento de aguas superficiales para riego por goteo en finca Las Cumbres, expediente
+PRO-TO-24-3280, situado en los términos municipales de Los Navalmorales, San Martín de Pusa y Villarejo
+de Montalbán (Toledo) y cuya promotora es Lands and Buildings, SL. [2026/8282]
+La Ley 2/2020 de 7 de febrero de Evaluación Ambiental, en su artículo 6.2, concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+Por otro lado, la Ley 21/2013, de 9 de diciembre, de Evaluación Ambiental, en su artículo 7.2 concreta los proyectos
+que deben ser sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental, para analizar los
+efectos significativos sobre el medio ambiente que pudieran tener antes de su adopción, aprobación o autorización
+por el órgano sustantivo.
+El proyecto “Sustitución y acondicionamiento de cerramiento ganadero y aprovechamiento de aguas superficiales
+para riego por goteo en finca “Las Cumbres”, ubicado en el término municipal de Los Navalmorales, San Martín de
+Pusa y Villarejo de Montalbán (Toledo)”, cuyo promotor es Lands and Buildings, S.L., se encuentra encuadrado en
+el anexo II de la Ley de Evaluación Ambiental, Grupo 1, Grupo 1. Agricultura, silvicultura, acuicultura y ganadería.
+c) Proyectos de gestión de recursos hídricos para la agricultura. 2º Proyectos de transformación a regadío o de
+avenamiento de terrenos, cuando afecten a una superficie superior a 10 ha.
+i) Vallados y cerramientos de cualquier tipo sobre el medio natural, con longitudes superiores a 4.000 metros o
+extensiones superiores a 100 hectáreas, a excepción de los cerramientos ganaderos de carácter estacional o no
+permanentes y aquellos con alturas inferiores a 60 cm.
+El órgano ambiental y el órgano sustantivo es la Delegación Provincial de Desarrollo Sostenible de Toledo, conforme
+al Decreto 112/2023, de 25 de julio, por el que se establecen la estructura orgánica y las competencias de los
+distintos órganos de la Consejería de Desarrollo Sostenible y la Resolución de 24/05/2024, de la Dirección General
+de Calidad Ambiental, por la que se delegan competencias en materia de evaluación ambiental en las Delegaciones
+Provinciales de la Consejería de Desarrollo Sostenible.
+Primero. Descripción del proyecto definido en la documentación aportada por el promotor.
+1.1. Riego de olivar
+El promotor del proyecto “Aprovechamiento de aguas superficiales para riego por goteo de 29,33 ha de olivar” es
+Lands and Buildings, S.L., y pretende incrementar la rentabilidad y viabilidad económica de la explotación mediante
+la puesta en riego de una superficie de 29,33 ha de olivar de la variedad Picual con un marco de plantación de 7
+x 5 m., implantando un sistema de riego localizado por goteo de alta frecuencia. La actuación tiene como finalidad
+garantizar las necesidades hídricas del cultivo, mejorar la competitividad de la explotación agraria, fijar población
+en el medio rural y compatibilizar la actividad agrícola con la conservación del entorno, la protección de la flora y
+fauna y la optimización de los recursos hídricos. El agua destinada al riego procederá de una captación de aguas
+superficiales en el Arroyo de Los Navalmorales, cuya concesión se encuentra en tramitación ante la Confederación
+Hidrográfica del Tajo (expediente C-0175/2020).
+Las parcelas objeto de estudio se localizan en la finca “Las Cumbres”, en el término municipal de Villarejo de
+Montalbán (Toledo), correspondiendo a las parcelas 4 y 8 del polígono 18, con una superficie total de actuación
+de 29,33 hectáreas dedicadas al cultivo de olivar. La explotación se sitúa a una altitud media de 600 metros sobre
+el nivel del mar y dispone de acceso directo desde la carretera TO-3845, a la altura del punto kilométrico 23. En
+relación con los núcleos de población más próximos, la finca se encuentra aproximadamente a 1,5 km de Villarejo
+de Montalbán y a 6 km de Navahermosa, ubicándose en un entorno de marcado carácter agrícola y ganadero.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40543
+Polígonos y parcelas afectadas por el proyecto
+Plantación
+Provincia Municipio Polígono Parcela Recinto Superficie (ha) Cultivo
+Toledo Villarejo de Montalbán 18 4 2 13,88 Olivar
+Toledo Villarejo de Montalbán 18 4 3 1,84 Olivar
+Toledo Villarejo de Montalbán 18 8 1 13,61 Olivar
+Superficie total: 29,33 ha
+Entre la documentación inicial se presenta el documento ambiental con fecha de diciembre de 2021. En dicho
+documento se justifican las necesidades hídricas para el riego por goteo de 29,33 ha de olivar, estimándose una
+dotación de 2.500 m³/ha·año y un consumo máximo total de 73.325 m³/año.
+Volumen máximo unitario de riego: 2.500 m³/ha·año.
+Volumen máximo total: 29,33 ha × 2.500 m³/ha = 73.325 m³/año.
+Necesidades de agua de riego
+Las necesidades de agua de riego se obtendrán aplicando a las necesidades netas de agua de los distintos cultivos el
+coeficiente de aplicación del agua o eficiencia de aplicación. Teniendo en cuenta que el sistema de riego proyectado
+proporciona una alta eficiencia de riego, esta se establece en el 90%. Por tanto, las necesidades de agua de riego
+expresadas en mm son las siguientes:
+Mes Marzo Abril Mayo Junio Julio Agosto Septiembre Octubre Total (mm)
+Cultivo 10,02 27,02 32,78 43,26 45,53 45,53 39,16 6,70 250,00
+Esquema hidráulico
+El objeto de la actuación proyectada es la puesta en riego de 29,33 ha de olivar mediante un sistema de riego por
+goteo utilizando aguas superficiales procedentes del Arroyo de Los Navalmorales. El agua captada será bombeada
+hasta una balsa de regulación, desde la que se realizará el riego de las parcelas a través de una red de distribución
+diseñada al efecto. La explotación contará además con estación de filtrado y fertirrigación, equipos de medida y
+control, y sistemas de automatización. Las obras necesarias son:
+Instalaciones de aspiración y bombeo
+-Tuberías de impulsión
+-Balsa de regulación
+-Equipo de rebombeo
+-Red de tuberías principales
+-Red de tuberías secundarias
+-Red de tuberías portagoteros
+-Mecanismos de control
+-Estación de filtrado y fertilización
+-Equipos de medida y control
+-Sistemas de automatización y gestión
+Parámetros de riego
+-Sistema de riego: goteo
+-Tipo de instalación: aérea
+-Organización del riego: sectores
+-Número de goteros: Un gotero cada 0,9 m
+-Una línea portagoteros por línea de plantación
+-Caudal del gotero: 3,8 l/h
+-Presión del gotero: 1 kg/cm²
+-Necesidades de riego en mes punta: 455,30 m³
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40544
+-Horas diarias de riego en mes punta: 18 h
+-Días de riego al mes: 30
+Descripción y características de la infraestructura de riego
+Captación
+El origen de los recursos hídricos será una captación de aguas superficiales en el Arroyo de Los Navalmorales,
+situada en la parcela 189 del polígono 14 del término municipal de San Martín de Pusa (Toledo), con coordenadas
+UTM (ETRS89, Huso 30): X = 361.136; Y = 4.402.312. El agua captada será impulsada hasta una balsa de regulación
+con una capacidad de 52.850 m³, desde la que se abastecerá el sistema de riego por goteo de 29,33 ha de olivar.
+La galería de derivación estará formada por una tubería de 0,30 m de diámetro que conducirá el agua hasta un pozo
+de bombeo de 1 m de diámetro y 3 m de profundidad, construido con elementos prefabricados de hormigón.
+Instalaciones de bombeo
+Para extraer el agua y bombearla hasta las parcelas de riego se instalará una electrobomba vertical sumergida con
+potencia: 25 CV, caudal: 24,30 m³/h, y altura manométrica: 150 m.c.a. La potencia comercial finalmente elegida será
+de 20 CV.
+Tubería de impulsión
+La tubería de impulsión será de PVC con diámetro 125 mm, unión por junta elástica, presión nominal 6 atm y
+enterrada a 1 m de profundidad. Su función será conducir el agua desde la captación hasta la balsa de regulación.
+Equipos de medida
+A la salida del grupo de bombeo se instalará un contador volumétrico tipo Woltman, visible y accesible para la
+inspección y control por parte de la Confederación Hidrográfica del Tajo.
+Balsa de regulación
+La balsa se localizará en: Parcela 81, Polígono 13. T.M. de San Martín de Pusa. Con coordenadas UTM (ETRS89,
+Huso 30), X = 362.573, Y = 4.402.619, y una capacidad de 52.850 m³.
+Características constructivas
+-Dimensiones: 140 x 70 m
+-Profundidad: 8 m
+-Resguardo: 0,4 m
+-Talud interior: 2:1
+-Talud exterior: 1,5:1
+-Altura del dique: 4 m
+-Camino de coronación: 5 m
+Elementos principales:
+-Cuerpo de la balsa
+-Toma de llenado.
+-Toma para abastecimiento del rebombeo
+-Aliviadero
+-Desagüe de fondo
+-Elementos de seguridad
+Red principal
+La red principal estará formada por tuberías de PVC de distintos diámetros, enterradas a 1 m de profundidad y con
+presión nominal de 6 atm. Su función será transportar el agua desde la captación hasta la red secundaria.
+Red secundaria
+La red secundaria estará formada por tuberías de PVC de diversos diámetros, enterradas a 1 m de profundidad y
+con presión nominal de 6 atm. Conducirán el agua desde la red principal hasta las tuberías portagoteros.
+Tuberías portagoteros
+Las tuberías portagoteros serán de PEAD de calidad alimentaria, con diámetro exterior: 20 mm, goteros
+autocompensantes, caudal: 4 l/h y una separación entre goteros de 0,90 m.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40545
+Válvulas y ventosas
+La instalación estará dotada de válvulas hidráulicas de 3” y ventosas de doble efecto para permitir la entrada y salida
+de aire de la red.
+Equipo de filtrado
+El sistema dispondrá de Filtro de malla autolimpiante, paso de filtración: 125 micras, capacidad de filtrado adaptada
+a las necesidades de la explotación.
+Equipo de fertirrigación
+Formado por bomba dosificadora con motor de 0,5 CV, una capacidad de inyección: 125 l/h hasta 6 atm, y un
+depósito de polietileno de 250 litros.
+Programador de riego
+Se instalará un programador que permitirá la gestión automática de toda la instalación de riego.
+Alternativas
+Se proponen las siguientes alternativas:
+Alternativa 0: Sin actuación.
+Consiste en mantener la situación actual de la explotación, sin acometer las actuaciones de puesta en regadío. Esta
+opción mantendría el cultivo en las condiciones existentes, con una rentabilidad limitada debido al déficit hídrico
+característico de la zona, pudiendo comprometer la viabilidad económica de la explotación a medio y largo plazo.
+Alternativa 1: Implantación de cultivos herbáceos de regadío con consumos moderados de agua.
+Esta alternativa contempla la transformación en regadío mediante la implantación de cultivos herbáceos. Sin
+embargo, el análisis realizado concluye que presenta una menor adaptación a las características de los suelos y
+una menor rentabilidad económica respecto a otras alternativas de cultivo leñoso.
+Alternativa 2: Implantación de cultivos leñosos de regadío (viñedo, almendro o pistacho).
+Esta alternativa supone la implantación de cultivos leñosos adaptados a las condiciones agroclimáticas de la zona.
+Presenta un comportamiento favorable desde el punto de vista agronómico y económico, aunque con una valoración
+inferior a la obtenida por la alternativa de olivar seleccionada finalmente.
+Alternativa 3: Implantación de olivar y puesta en regadío mediante riego por goteo.
+Esta alternativa consiste en la puesta en riego de 29,33 ha de olivar variedad Picual mediante una instalación aérea
+de riego por goteo alimentada con aguas superficiales procedentes del Arroyo de Los Navalmorales. El sistema
+incorpora captación, bombeo, balsa de regulación, red de distribución, sistema de filtrado y fertirrigación. Esta opción
+se considera la más adecuada por su adaptación a las condiciones edafoclimáticas de la zona, su eficiencia en el
+uso del agua y su mayor rentabilidad económica.
+El promotor analiza igualmente distintas alternativas para el origen del recurso hídrico, el sistema de riego, el trazado
+de la red y el método de fertilización, considerando los siguientes criterios:
+• La utilización de aguas superficiales resulta más favorable que el empleo de recursos subterráneos, dadas las
+disponibilidades hídricas existentes y las características de la zona.
+• El riego por goteo presenta una mayor eficiencia, una mejor adaptación al cultivo del olivar y un menor consumo
+de agua que otros sistemas de riego analizados, como el riego por gravedad o por aspersión.
+• El trazado seleccionado para la red de riego garantiza la dotación y calidad del suministro, aprovecha la topografía
+existente y minimiza las afecciones ambientales.
+• La utilización de la fertirrigación permite optimizar la aplicación de nutrientes y reducir pérdidas por escorrentía o
+percolación profunda frente a los métodos convencionales de fertilización.
+Por todo ello, la solución finalmente adoptada consiste en la implantación de riego a presión mediante una instalación
+aérea de riego por goteo para una superficie de 29,33 ha de olivar variedad Picual, al tratarse de la alternativa más
+favorable desde los puntos de vista técnico, agronómico, económico y ambiental.
+1.2. Cerramiento ganadero
+Según el documento ambiental firmado en agosto de 2023 (cerramiento), el proyecto consiste en la sustitución y
+acondicionamiento de un vallado ganadero existente en la finca “Las Cumbres”, situada en los términos municipales
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40546
+de Villarejo de Montalbán, Los Navalmorales y San Martín de Pusa (Toledo). La actuación tiene por objeto mejorar
+el cerramiento existente para posibilitar el aprovechamiento ganadero extensivo de caprino y equino, así como
+delimitar la propiedad y evitar la entrada no autorizada a la finca.
+El vallado proyectado tiene una longitud total de 19.981 m y encierra una superficie aproximada de 687,71 ha,
+distribuidas en diversas parcelas catastrales localizadas en los municipios de Los Navalmorales, San Martín de
+Pusa y Villarejo de Montalbán. La actuación no supone una ampliación del cerramiento existente, sino su sustitución
+y acondicionamiento manteniendo el trazado actual. El suelo afectado corresponde exclusivamente a la franja
+necesaria para la instalación de postes y malla, ocupando una superficie aproximada de 4.995 m².
+El vallado ganadero propuesto inicialmente tendría las siguientes características:
+Malla ganadera anudada de alta resistencia de 1,80 m de altura, formada por 15 hilos horizontales y una separación
+aproximada de 30 cm entre hilos verticales.
+Se instalará un cable tensor inferior para evitar la aparición de gateras y garantizar el confinamiento del ganado
+caprino.
+La instalación carecerá de dispositivos eléctricos, elementos cortantes o punzantes.
+Se colocarán ventanas ecológicas de 30 x 20 cm cada 100 m para favorecer la permeabilidad de la fauna silvestre,
+especialmente del lince ibérico.
+Los postes serán metálicos de ángulo 50 x 50 x 5 mm, pintados en color verde para favorecer su integración
+paisajística, anclados mediante zapatas de hormigón y separados aproximadamente 5 m entre sí.
+El cerramiento respetará las zonas de servidumbre de cauces e infraestructuras existentes, manteniendo las puertas
+y sistemas de cruce actualmente instalados en los arroyos afectados.
+El vallado dispone de diversas puertas de acceso distribuidas a lo largo de su recorrido para permitir el acceso a
+la finca y el mantenimiento de las infraestructuras existentes. Asimismo, se respetarán las servidumbres y accesos
+existentes durante la ejecución de las obras.
+El cerramiento proyectado se localiza en la finca “Las Cumbres”, disponiendo de coordenadas UTM ETRS89 de
+inicio X: 364.684, Y: 4.403.219 y de final X: 364.437, Y: 4.403.226. El recorrido completo del vallado queda reflejado
+en la cartografía incorporada en el documento ambiental y en el anexo cartográfico. Según catastro, las parcelas y
+superficie que encierra el vallado ganadero es la siguiente:
+Provincia Municipio Polígono Parcela Recinto Superficie (ha)
+Toledo Navalmorales, Los 5 1 Todos 45,7525
+Toledo Navalmorales, Los 5 2 Todos 2,9845
+Toledo Navalmorales, Los 5 3 Todos 0,5554
+Toledo Navalmorales, Los 5 4 Todos 0,3227
+Toledo Navalmorales, Los 5 5 Todos 0,228
+Toledo Navalmorales, Los 5 6 Todos 6,865
+Toledo Navalmorales, Los 5 150 Todos 0,2609
+Toledo Navalmorales, Los 5 151 Todos 0,2372
+Toledo Navalmorales, Los 5 152 Todos 0,4859
+Toledo Navalmorales, Los 5 153 Todos 0,2663
+Toledo Navalmorales, Los 5 154 Todos 0,6433
+Toledo Navalmorales, Los 5 155 Todos 0,596
+Toledo Navalmorales, Los 5 156 Todos 4,5854
+Toledo Navalmorales, Los 5 158 Todos 0,3212
+Toledo Navalmorales, Los 5 159 Todos 1,5138
+Toledo Navalmorales, Los 5 163 Todos 6,7723
+Toledo Navalmorales, Los 5 164 Todos 12,5298
+Toledo Navalmorales, Los 5 177 Todos 0,4168
+Toledo Navalmorales, Los 5 248 Todos 0,2557
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40547
+Toledo Navalmorales, Los 6 1 Todos 6,9498
+Toledo Navalmorales, Los 6 2 Todos 93,3606
+Toledo Navalmorales, Los 6 3 Todos 11,1626
+Toledo Navalmorales, Los 6 4 Todos 109,6196
+Toledo Navalmorales, Los 6 10 Todos 3,2835
+Toledo Navalmorales, Los 6 11 Todos 2,5663
+Toledo Navalmorales, Los 6 12 Todos 1,3795
+Toledo Navalmorales, Los 6 13 Todos 2,8723
+Toledo Navalmorales, Los 6 14 Todos 0,1355
+Toledo Navalmorales, Los 6 15 Todos 15,9739
+Toledo Navalmorales, Los 6 107 Todos 0,2806
+Toledo San Martín de Pusa 12 55 Todos 7,192
+Toledo San Martín de Pusa 12 57 Todos 82,6391
+Toledo San Martín de Pusa 12 161 Todos 6,1006
+Toledo San Martín de Pusa 13 57 Todos 0,523
+Toledo San Martín de Pusa 13 58 Todos 19,6856
+Toledo San Martín de Pusa 13 79 Todos 1,4307
+Toledo San Martín de Pusa 13 80 Todos 1,9418
+Toledo San Martín de Pusa 13 81 Todos 53,6337
+Toledo San Martín de Pusa 13 83 Todos 2,1028
+Toledo San Martín de Pusa 13 108 Todos 0,2093
+Toledo San Martín de Pusa 13 111 Todos 4,4771
+Toledo San Martín de Pusa 13 144 Todos 1,1412
+Toledo San Martín de Pusa 13 173 Todos 9,1859
+Toledo San Martín de Pusa 14 189 Todos 0,5193
+Toledo San Martín de Pusa 14 190 Todos 0,3138
+Toledo San Martín de Pusa 14 193 Todos 0,6202
+Toledo San Martín de Pusa 14 194 Todos 2,3238
+Toledo San Martín de Pusa 14 308 Todos 0,4832
+Toledo Villarejo De Montalban 17 15 Todos 49,7603
+Toledo Villarejo De Montalban 17 16 Todos 50,3384
+Toledo Villarejo De Montalban 17 18 Todos 4,7714
+Toledo Villarejo De Montalban 18 5 Todos 55,1414
+Superficie total: 687,7115 ha
+El promotor plantea tres alternativas para el desarrollo de la actuación del cerramiento:
+Alternativa 0: Consiste en mantener la situación actual, sin llevar a cabo ninguna actuación sobre el vallado existente.
+Esta alternativa podría provocar la salida del ganado a las fincas colindantes, ocasionando daños en cultivos y
+limitando el adecuado aprovechamiento ganadero de la finca.
+Alternativa 1: Consiste en la eliminación del vallado actual. Esta opción impediría desarrollar el aprovechamiento
+ganadero previsto en la finca, con la consiguiente pérdida de beneficios económicos y de oportunidades de empleo
+asociadas a dicha actividad. Además, no se produciría una delimitación efectiva de la propiedad, favoreciendo la
+entrada no autorizada de personas a la finca.
+Alternativa 2: Consiste en la sustitución y acondicionamiento del vallado ganadero existente en la finca “Las
+Cumbres”, manteniendo su recorrido actual. El vallado tendrá una longitud total de 19.981 m y delimitará una
+superficie aproximada de 687,71 ha. Estará constituido por una malla ganadera de 1,80 m de altura, con postes
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40548
+metálicos anclados mediante zapatas de hormigón, cable tensor inferior y ventanas ecológicas para favorecer el
+paso de fauna silvestre. Esta alternativa permite desarrollar un aprovechamiento ganadero extensivo compatible con
+la conservación del medio natural y la correcta gestión de la finca.
+La documentación ambiental concluye que la alternativa 2 constituye la opción más adecuada desde los puntos
+de vista técnico, ambiental y socioeconómico, ya que permite mantener la actividad ganadera prevista y supone
+únicamente la sustitución y acondicionamiento de un vallado ya existente, generando un impacto ambiental
+considerado compatible e insignificante.
+Segundo.- Tramitación y consultas.
+El 19/01/2024 se recibe en el Servicio de Calidad Ambiental la solicitud de inicio del procedimiento de Evaluación de
+Impacto Ambiental Simplificada del proyecto y el documento ambiental, dando cumplimiento al artículo 52 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+Con fecha 30/01/2024, se inicia la fase de las consultas previstas en el artículo 53 de la Ley 2/2020, a otros
+organismos, administraciones, asociaciones, personas e instituciones afectadas por la realización del proyecto, al
+objeto de que informen sobre los aspectos que les correspondan en función de sus competencias o que indiquen
+sugerencias a tener en cuenta para minimizar el posible impacto ambiental del proyecto.
+A continuación, se expone el listado de los consultados, señalando con asterisco “*” aquéllos que han emitido
+sugerencias:
+Acmaden - Ecologistas en Acción de Toledo
+Agrupación Naturalista Esparvel de Toledo
+Asociación Ecologista Ardeidas
+Asociación Toledo Aire Limpio
+Ayuntamiento de Los Navalmorales *
+Ayuntamiento de San Martín de Pusa *
+Ayuntamiento de Villarejo de Montalbán *
+Confederación Hidrográfica del Tajo *
+Consejería de Desarrollo Sostenible - Servicio de Prevención e Impacto Ambiental
+Delegación Provincial de Agricultura, Agua y Desarrollo Rural de Toledo - Servicio de Medio Rural *
+Delegación Provincial de Desarrollo Sostenible de Toledo - Servicio de Medio Natural *
+Delegación Provincial de Desarrollo Sostenible de Toledo - Unidad de Coordinación Provincial de Agentes
+Medioambientales *
+Delegación Provincial de Educación, Cultura y Deportes de Toledo - Sección de Cultura *
+Sociedad Española de Ornitología (SEO BirdLife)
+WWF/Adena - España (Madrid)
+De acuerdo con el artículo 54 de la Ley 2/2020, y transcurrido el plazo sin haber recibido respuesta de los organismos
+no señalados con asterisco (“*”), este órgano ambiental cuenta con elementos de juicio suficientes para resolver, al
+tener este expediente los informes oportunos más relevantes.
+La Delegación Provincial de Agricultura, Agua y Desarrollo Rural de Toledo - Servicio de Medio Rural contesta el
+31/01/2024 notificando que las parcelas del expediente de referencia, en el término de Villarejo de Montalbán, están
+fuera de zona Regable de Iniciativa Pública.
+El Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Toledo, emite un informe
+favorable el 07/02/2024 del referido proyecto, sin perjuicio de que en caso de que aparecieran restos materiales
+con valor cultural durante su ejecución, se deberá comunicar el hallazgo en un plazo de 48 h ante la Consejería
+competente en materia de Patrimonio Cultural para determinar el carácter de sus hallazgos.
+La Confederación Hidrográfica del Tajo, registró informe el 15/02/2024 resumiendo los datos de la actuación y de
+la consulta, y advierte de afecciones a cauces, zonas protegidas y recursos hídricos, exigiendo las autorizaciones
+preceptivas. Asimismo, establece medidas para proteger las aguas superficiales y subterráneas, controlar vertidos
+y regular el uso de fertilizantes y fitosanitarios.
+Con fecha 18/03/2024 contesta el Ayuntamiento de San Martín de Pusa en el que envían sugerencias. Indican que
+a la vista del proyecto presentado y los planos que le acompañan, dicha actuación en gran parte se desarrolla en
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40549
+ese término municipal, afectando a varios caminos públicos y cauces fluviales, y que ese Ayuntamiento tiene abierto
+expediente sancionador contra la empresa promotora, por haber cerrado, con el cerramiento que ahora se pretende
+sustituir y acondicionar, algunos caminos vecinales.
+Los Agentes medioambientales firman su informe de campo del 19/04/2024 y que entre otras cosas mencionan que
+el proyecto está iniciado para el cerramiento perimetral de la finca y que el aprovechamiento de aguas superficiales
+para riego por goteo mediante captación en el arroyo de Los Navalmorales, con pozo y tubería de impulsión están ya
+instalados. También indican que las parcelas afectadas (polígono 18, parcela 8, recinto 1, y parcela 4, recintos 2 y 6)
+carecen actualmente de vegetación leñosa, al haberse arrancado la anterior plantación de olivar, observándose aún
+abundantes restos de la antigua red de riego por goteo. Por otra parte, en relación al cerramiento, también indican
+que está ya ejecutado y que el cerramiento no dispone de los pasos de fauna que contempla el proyecto cada 100 m.
+Los Agentes medioambientales además el 22/04/24 formulan una denuncia por la Instalación de vallado que impide
+totalmente el tránsito de ganado o demás usos compatibles o complementarios de la vía pecuaria “Colada” clasificada
+con anchura legal de 41,80 m. en un tramo longitudinal de 2.400 m. Se ha realizado el cerramiento perimetral de la
+finca, instalando una malla de 1,80 m de altura.
+El Servicio de Medio Natural de Toledo, emite un informe el 08/11/2024. en el que informa favorablemente el proyecto
+de cerramiento ganadero y riego de 29,33 ha de olivar en la finca Las Cumbres, al considerarlo ambientalmente
+viable. La actuación se sitúa en una zona de presencia de especies protegidas como lince ibérico, águila imperial
+y buitre negro. Se condiciona a respetar vías pecuarias, cauces y vegetación, adoptar medidas de protección de la
+fauna y fomentar prácticas agrarias favorables para la biodiversidad.
+El 9/05/2025 los agentes medioambientales proponen de manera interna una ubicación posible de las gateras
+en el cerramiento, de manera que sean funcionales y cumplan sus objetivos, pero a la misma vez permitan la
+permeabilidad de la fauna.
+Con fecha 29/05/2025, se emite requerimiento de información adicional al promotor y se comunica al promotor
+que el proyecto se encuentra parcialmente ejecutado, incluyendo el vallado perimetral, la captación y conducción
+de aguas para riego y la construcción de la balsa. Los informes de campo detectan incumplimientos del vallado
+respecto al proyecto presentado y afecciones a caminos públicos y una vía pecuaria. La única actuación pendiente
+de ejecución es la plantación de olivar en riego por goteo prevista en el término municipal de Villarejo de Montalbán.
+Se requiere aportar documentación o justificación administrativa que acredite el inicio del proyecto antes del 7 de
+diciembre de 2018. De lo contrario, al encontrarse parcialmente ejecutado sin evaluación ambiental previa, no podrá
+someterse a dicho procedimiento. Esta situación puede dar lugar a la imposición de sanciones administrativas y a la
+exigencia de desmantelar las instalaciones y actuaciones ejecutadas.
+El 16/06/2025 el promotor solicita la suspensión del plazo del requerimiento al no haber podido acceder al expediente
+administrativo ni a su contenido técnico y legal, lo que impide ejercer adecuadamente su derecho de defensa.
+Asimismo, pide que se conceda un nuevo plazo para presentar alegaciones y documentación una vez se garantice
+el acceso completo y efectivo al expediente.
+Posteriormente, el 03/07/2025, se recibe respuesta por parte del promotor al requerimiento efectuado previamente.
+La propiedad de la finca alega que las actuaciones objeto del expediente se iniciaron antes de 2018, especialmente
+el vallado, que consideran una mejora de un cerramiento preexistente y vinculado a expedientes administrativos
+anteriores. Además, niega que el proyecto de riego esté ejecutado, indicando que ni la plantación de olivar ni la balsa
+prevista se han llevado a cabo. Respecto a las deficiencias detectadas, manifiesta su disposición a corregir posibles
+incumplimientos del vallado, sostiene que no puede acreditarse la ocupación de una vía pecuaria ni de caminos
+públicos y solicita que se consideren justificadas y aclaradas todas las cuestiones planteadas en el expediente.
+En 31/07/2025 se notifica un requerimiento de información complementaria para el promotor en el que se le dice
+que, al estar parcialmente ejecutado, para continuar con el procedimiento de evaluación ambiental simplificada del
+proyecto, este se condicionará a la modificación en el cerramiento, en la posibilidad de paso por vías pecuarias
+a través del cerramiento y en la limitación de la actividad agrícola a realizar. Se pide que aporte información
+georreferenciada y fotográfica que demuestren esas modificaciones.
+El 24/12/25 el promotor solicita ampliación del plazo para aportar la documentación en este sentido, la cual se
+registra finalmente el 02/01/2026 para dar por cumplidas las acciones requeridas, mediante registro de material
+fotográfico por almacén en febrero de 2026.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40550
+El 24/03/2026 el agente medioambiental constata en una inspección que no se ha ejecutado la plantación de olivar
+de regadío prevista y que la altura del cerramiento se ha reducido a 1,50 m en todo su perímetro. Además, se
+han realizado modificaciones para favorecer el paso de fauna y garantizar el tránsito en la vía pecuaria afectada
+mediante aperturas y propuesta de instalación de gateras, por lo que el proyecto continúa su tramitación.
+El 8/07/2026 se reitera a los ayuntamientos de los tres TM (Villarejo de Montalbán San Martín de Pusa y Los
+Navalmorales) para remitir al órgano ambiental un informe sobre la compatibilidad del proyecto con el planeamiento
+urbanístico, así como un informe de afección socioeconómica del proyecto y sus efectos sinérgicos con otros
+proyectos.
+El 14/07/2026 se recibe el informe urbanístico del Ayuntamiento de Villarejo de Montalbán. Las actuaciones se
+ubican en parcelas del polígono 17 afectadas por suelo rústico de especial protección (dominio público hidráulico
+y protección natural), por lo que requieren calificación urbanística. Además, se solicita al promotor que desglose el
+presupuesto de ejecución de las obras correspondiente a cada término municipal afectado.
+El 22/07/2026 se recibe el informe urbanístico del Ayuntamiento de San Martín de Pusa donde se informa
+favorablemente el proyecto siempre que el proyecto respete la normativa urbanística vigente y garantice la
+conservación y libre uso del camino público entre San Martín de Pusa y Los Navalmorales. Además, solicita que el
+órgano ambiental establezca las condiciones necesarias para proteger el dominio público viario y evitar perjuicios a
+las explotaciones agrícolas y ganaderas de la zona.
+El 04/08/2026 se firma el informe urbanístico del Ayuntamiento de Los Navalmorales. La actuación se considera
+compatible con el planeamiento municipal, siendo autorizables el cerramiento en suelo rústico y el aprovechamiento
+de aguas superficiales, condicionado a la concesión hidráulica. Se indica que la afección socioeconómica es positiva,
+no existen efectos sinérgicos negativos y se emite informe favorable condicionado a las autorizaciones sectoriales
+correspondientes.
+El 28/09/2026 se notifica la comunicación para hacer saber al promotor que los informes de consultas previas están
+en Nevia disponibles por si quiere hacer alegaciones. No se han recibido alegaciones por parte del promotor.
+El 22/10/2026 el Servicio de Medio Natural de Toledo firma un informe en el que considera adecuada la ubicación de
+las gateras o pasos de fauna propuesta en el informe del Agente Medioambiental de mayo de 2025.
+Las sugerencias y condicionamientos más destacables de las respuestas recibidas se han tenido en cuenta en el
+análisis ambiental del proyecto, incorporándose, en base a su relevancia, en este informe de impacto ambiental,
+bien en el apartado siguiente que analiza las principales afecciones o en el apartado “Cuarto”, sobre las medidas a
+adoptar para la integración ambiental del proyecto.
+Tercero.- Análisis del proyecto.
+Una vez analizada toda la documentación aportada por el promotor, visto el resultado de las consultas realizadas y
+considerando las respuestas recibidas a las consultas practicadas, procede realizar el análisis del proyecto, según
+los criterios recogidos en el anexo III de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La
+Mancha, para determinar si el proyecto tiene efectos significativos sobre el medio ambiente y, por tanto, si debe
+someterse a una Evaluación de Impacto Ambiental Ordinaria.
+3.1. Características del proyecto.
+El proyecto conjunto promovido por Lands and Buildings, S.L. en la finca Las Cumbres, situada en los términos
+municipales de Villarejo de Montalbán, Los Navalmorales y San Martín de Pusa, integra dos actuaciones
+complementarias destinadas a mejorar la viabilidad agroganadera de la explotación. Por un lado, contempla la
+sustitución y acondicionamiento de un vallado ganadero de aproximadamente 19,98 km de longitud, que delimita
+una superficie de unas 687,7 hectáreas, destinada al aprovechamiento extensivo de ganado caprino y equino.
+El cerramiento incorpora medidas de integración ambiental, como ventanas de paso para fauna silvestre y el
+mantenimiento de la permeabilidad en cauces y zonas de interés ecológico.
+Por otro lado, el proyecto incluye la puesta en riego por goteo de 29,33 hectáreas de olivar variedad Picual (7x5
+m), mediante el aprovechamiento de aguas superficiales procedentes del arroyo de Los Navalmorales, con una
+demanda anual estimada de 73.325 m³ de agua. Para ello se prevé la ejecución de una captación, estación de
+bombeo, balsa de regulación de 52.850 m³, red de distribución, sistema de fertirrigación y automatización del riego.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40551
+Ambas actuaciones persiguen mejorar la rentabilidad de la explotación, favorecer la fijación de población y la creación
+de empleo en el medio rural, manteniendo la compatibilidad con los valores ambientales existentes mediante la
+adopción de medidas preventivas y correctoras que minimizan los impactos sobre la fauna, la vegetación, el paisaje
+y los recursos hídricos.
+3.2. Ubicación del proyecto.
+El proyecto se localiza en la finca Las Cumbres, situada en los términos municipales de Villarejo de Montalbán,
+Los Navalmorales y San Martín de Pusa (Toledo). El acceso principal se realiza desde la carretera TO-3845, que
+comunica Villarejo de Montalbán con San Martín de Pusa, existiendo además acceso a través de un camino asfaltado
+que enlaza Los Navalmorales con Villarejo de Montalbán.
+La actuación comprende la sustitución y acondicionamiento de un vallado ganadero de aproximadamente 19.981 m
+de longitud sobre una superficie de 687,71 ha, así como la implantación de un sistema de riego por goteo para 29,33
+ha de olivar. El proyecto no produce afección a espacios naturales protegidos, espacios de la Red Natura 2000 u
+otras zonas sensibles, si bien limita con el ZEC/ZEPA “Ríos de la Margen Izquierda y Berrocales del Tajo”.
+El proyecto se incluye en Zona de Dispersión de águila imperial ibérica y águila perdicera, así como en Zona de
+Importancia para la supervivencia de águila imperial ibérica, lince ibérico y buitre negro, especies recogidas en las
+categorías de “en peligro de extinción” o “vulnerable” en el Catálogo Regional de Especies Amenazadas de Castilla
+-La Mancha. En la zona del proyecto se constata la presencia de lince ibérico. El agente medioambiental en su
+informe indica que la finca dispone de una alta densidad de conejo de monte.
+Según indica la CHT, en lo referente a zonas protegidas recogidas oficialmente en el PHT 2023-2027, la actuación
+se encuentra dentro de la zona vulnerable “Madrid-Talavera-Tiétar- ES030_ZVULES42_5”. También, la parte
+situada al noreste de las actuaciones se encuentra dentro del área de captación de la zona sensible “Embalse de
+Azután- ES030ZSENESCM495” y la zona este de las actuaciones se encuentra sobre las zonas de abastecimiento
+“Mataperros#ES030ZCCM0000004410” y “Las Escuelas- ES030ZCCM0000004411”.
+En cuanto a aguas superficiales, según la cartografía consultada (visor cartográfico de la Confederación Hidrográfica
+del Tajo: http://visor.chtajo.es/VisorCHT/), la zona de actuación intercepta en algunos casos, y se halla próxima
+en otros, cauces pertenecientes al sistema de explotación “Tajo Izquierda- ES030SEXP000000006”. En relación
+a las aguas subterráneas, parte de las actuaciones asientan sobre la masa de agua subterránea “Talavera-
+ES030MSBT030.015”.
+Según indica el servicio de Medio Natural, la red hidrográfica de la zona de actuación viene definida por la presencia
+de los siguientes arroyos:
+• Arroyo de las vegas y de los Navalmorales.
+• Barranco del Charco Antón.
+• Arroyo de Mataporras.
+• Arroyo de la Fuente.
+• Arroyo de la Pontezuela.
+• Otros arroyos no conocidos.
+Según comenta el agente medioambiental en su informe, en la zona se encuentran dehesas, berrocales, y lanchares.
+El informe del servicio de Medio Natural menciona que el proyecto podría afectar al dominio público pecuario de una
+vía pecuaria “colada”, clasificada con una anchura legal de 41,8 metros, según el proyecto de Clasificación de las
+Vías Pecuarias del término municipal de Los Navalmorales.
+Según el documento ambiental del subproyecto de cerramiento, en la zona de actuación aparecen formaciones
+vegetales incluidas en el Catálogo de Hábitats y Elementos Geomorfológicos de Protección Especial de Castilla-La
+Mancha, creado por la Ley 9/1999, de Conservación de la Naturaleza, y ampliado mediante el Decreto 199/2001,
+de 6 de noviembre. Se identifican los siguientes hábitats y elementos geomorfológicos de protección especial:
+comunidad rupícola silicícola, comunidad glerícola silicícola y lanchares y berrocales.
+Analizada la información que se contempla en el Platecam (Plan Territorial de Emergencias de Castilla-La Mancha), el
+proyecto se ubica en zona no inundable. En el Plan Especial ante el Riesgo por Inundaciones en Castilla-La Mancha
+(Pricam), se recogen las áreas definidas como Áreas con Riesgo Potencial Significativo de Inundación (ARPSIs),
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40552
+obtenidas a partir de la evaluación preliminar del riesgo de inundación realizada por las autoridades competentes en
+materia de aguas, costas y protección civil. En el proyecto nos encontramos que los municipios afectados por una
+ARPSI son Los Navalmorales y San Martín de Pusa. El Plan específico ante el riesgo por fenómenos meteorológicos
+adversos de Castilla-La Mancha (Meteocam), analiza este riesgo y delimita las zonas más vulnerables de Toledo. El
+municipio de San Martín de Pusa tiene un nivel de riesgo alto de lluvias.
+Por otra parte, tras revisar el Visor que muestra la zonificación del Riesgo de incendio forestal obtenida mediante
+el proyecto Ginfor así como las Zonas de Riesgo Extremo y Alto de Incendio Forestal (ZAR) definidas en el Plan
+Infocam, para la finca, parte de esta se encuentra clasificada en zona de alto riesgo de incendio, especialmente para
+la zona norte del proyecto (Artículo 62 de la Ley 3/2008, de 12 de junio, de montes y gestión forestal sostenible de
+Castilla-La Mancha). Las medidas preventivas se contemplan en el punto 4.1 de esta resolución.
+Asimismo, el ámbito de actuación alberga diversos hábitats de interés comunitario contemplados en la Directiva 92/43/
+CEE, relativa a la conservación de los hábitats naturales y de la fauna y flora silvestres. Entre ellos se encuentran:
+-Asplenio billotii-Cheilanthetum hispanicae (código 8220): pendientes rocosas silíceas con vegetación casmofítica.
+-Pyro bourgaeanae-Quercetum rotundifoliae (código 9340): encinares de Quercus ilex y Quercus rotundifolia.
+-Cytiso multiflori-Retametum sphaerocarpae (código 5335): matorrales termomediterráneos y preestépicos.
+-Poo bulbosae-Trifolietum subterranei (código 6220*): zonas subestépicas de gramíneas y anuales del Thero-
+Brachypodietea. Este hábitat está considerado prioritario por la Unión Europea al tratarse de un tipo de hábitat
+amenazado de desaparición cuya conservación reviste especial importancia.
+En cuanto a otros usos del terreno, a nivel cinegético según la resolución de aprobación del Plan de Ordenación
+Cinegética del coto TO-11083 “Las Cumbres”, de fecha 17/05/2026 y con vigencia hasta el 31/03/2031, la caza menor
+constituye el principal aprovechamiento cinegético del terreno. Destacan especialmente las capturas autorizadas de
+conejo (hasta 2.500 ejemplares por temporada), faisán (2.000 ejemplares), paloma torcaz (1.000 ejemplares), zorzal
+alirrojo (600 ejemplares), perdiz roja (280 ejemplares) y paloma bravía (130 ejemplares), entre otras especies como
+liebre, urraca, codorniz común y ánade real o azulón. El coto cuenta además con un cuartel de caza comercial de
+519 ha, estando autorizadas sueltas de perdiz roja (hasta 15.000 ejemplares por temporada para caza comercial),
+así como de faisán, paloma bravía y ánade real o azulón (hasta 2.000 ejemplares por temporada en cada caso).
+En cuanto a la caza mayor, se autorizan capturas de jabalí, ciervo y corzo, con un máximo anual de 40 jabalíes,
+3-4 ciervos macho, 5 corzos hembra, 7 corzos macho y 6 ciervos hembra, mediante modalidades como montería,
+gancho, rececho y aguardos o esperas. Por otro lado, el control poblacional de especies cinegéticas se contempla
+exclusivamente para el jabalí, mediante la modalidad de aguardo o espera nocturna, previa comunicación a la
+administración competente.
+3.3. Características del potencial impacto.
+En el caso del regadío, el promotor indica que los principales impactos potenciales del proyecto son la extracción
+de recursos hídricos superficiales para riego, la generación temporal de ruido y polvo durante las obras, la afección
+puntual a la vegetación por movimientos de tierra y una ligera alteración del paisaje por las infraestructuras de riego.
+El propio estudio considera que el impacto más relevante es el consumo de agua superficial, mientras que el resto
+se califican como impactos de magnitud menor.
+El informe de Medio Natural indica que existen datos científicos que demuestran que la intensificación agrícola
+supone una mayor presión sobre los recursos del territorio con la consiguiente pérdida de biodiversidad (mayor
+contaminación por fitosanitarios, efecto borde, reducción de la disponibilidad de agua, etc.). En cualquier caso,
+el servicio de Medio Natural manifiesta que no tiene suficientes datos para poder pronunciarse sobre la afección
+que este proyecto y otros de forma sinérgica, pudieran tener sobre los hábitats de interés comunitario y protección
+especial asociados a humedales, río o arroyos del entorno.
+En el caso del cerramiento, el promotor indica que los principales impactos potenciales del proyecto son el aumento
+temporal del ruido y de las partículas en suspensión durante las obras, pequeñas afecciones al suelo por la
+sustitución de postes y alteraciones puntuales sobre la vegetación de matorral y los cauces atravesados por el
+vallado. No obstante, el documento considera que dichos efectos son compatibles y de baja magnitud al tratarse de
+la sustitución de un cerramiento preexistente.
+Según el informe del agente medioambiental, las principales afecciones ambientales del proyecto se relacionan con
+el cerramiento ya ejecutado. El agente medioambiental concreta en su informe que el cerramiento perimetral tiene
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40553
+malla de 1,80 a 1,90 m de altura con 17 hilos horizontales, una separación de hilos verticales de 30 cm y dispone de
+cable tensor acerado en el parte inferior anclado al suelo, por lo que el cerramiento sería impermeable a la fauna. El
+agente medioambiental así destaca que el vallado, debido a su diseño y a la presencia de un cable tensor anclado al
+suelo, carecía en su visita de los pasos de fauna previstos en el proyecto y dificulta por tanto la permeabilidad para la
+fauna. Se ubica en una zona de importancia para especies como el lince ibérico, el águila imperial ibérica y el buitre
+negro. Los arroyos afectados disponen de puertas de acceso en cada una de sus márgenes, con unas dimensiones
+de 1 metro de anchura y 2 metros de altura. No obstante, el cerramiento impedía totalmente el tránsito del ganado
+y de otros usos compatibles o complementarios en la vía pecuaria «Colada» de Los Navalmorales, que cuenta con
+una anchura legal de 41,8 metros, afectando a un tramo de aproximadamente 2.400 metros de longitud.
+Asimismo, según el agente medioambiental, el cable tensor situado en la parte inferior del cerramiento dificulta el
+libre tránsito de la fauna y, además, en el momento de la visita no se habían ejecutado los pasos de fauna previstos
+en el proyecto, que se proponían debían instalarse cada 100 metros. Por otra parte, el cerramiento afecta a diversos
+caminos públicos. En concreto:
+-El Camino La Barrosa, situado en el polígono 13, parcela 9001, del término municipal de San Martín de Pusa, se
+encuentra cortado mediante una puerta con candado integrada en el vallado.
+-El Camino Las Piedras, en el polígono 5, parcela 9008, de Los Navalmorales, quedaría incluido dentro del perímetro
+cerrado.
+-El Camino Navahermosa, localizado en el polígono 12, parcela 9001, de San Martín de Pusa, al quedar igualmente
+incluido en el interior del cerramiento.
+-El Camino de Las Cumbres, situado en el polígono 6, parcela 9006, de Los Navalmorales, se encontraría incluido
+dentro del cerramiento y cortado mediante puertas con candado.
+-El Camino Vereda de Puerto Carnero, ubicado en el polígono 17, parcela 9001, de Villarejo de Montalbán, queda
+integrado en el interior del cerramiento. Este camino constituye la continuación de la vía pecuaria «Colada» de Los
+Navalmorales y, aunque en Villarejo de Montalbán no existen vías pecuarias inventariadas, su trazado aparece
+reflejado en la cartografía histórica.
+El Ayuntamiento de San Martín de Pusa indica en su contestación que dicha actuación en gran parte se desarrolla
+en este término municipal, afectando a varios caminos públicos y cauces fluviales. También comunica que tiene
+abierto expediente sancionador contra la empresa promotora, por haber cerrado algunos caminos vecinales con el
+cerramiento que pretende sustituir y acondicionar. En su informe de 2026, vuelve a poner de manifiesto que parte de
+la actuación afecta al entorno de un camino público municipal que comunica los municipios de San Martín de Pusa
+y Los Navalmorales, circunstancia que deberá ser especialmente considerada durante la tramitación ambiental y en
+la ejecución del proyecto. A nivel de afección socioeconómica este ayuntamiento indica que el camino rural afectado
+constituye una infraestructura esencial para la comunicación entre ambos municipios y presenta un elevado interés
+público por los siguientes motivos:
+• Es utilizado diariamente por agricultores y ganaderos para acceder a numerosas explotaciones agrarias existentes
+en la zona.
+• Facilita el tránsito de maquinaria agrícola, vehículos ganaderos y transporte de productos agrícolas.
+• Constituye una vía de comunicación habitual entre explotaciones situadas en los términos municipales de San
+Martín de Pusa y Los Navalmorales.
+• Su utilización resulta imprescindible para el normal desarrollo de la actividad económica del sector primario,
+principal actividad existente en el entorno.
+En consecuencia, el Ayuntamiento de San Martín de Pusa, indica el 22/07/2026 que a nivel de afecciones
+socioeconómicas cualquier actuación derivada del proyecto que pudiera implicar la ocupación, limitación del uso,
+deterioro, modificación o interrupción del citado camino público produciría una incidencia directa sobre la actividad
+agrícola y ganadera desarrollada en ambos municipios.
+Por el contrario, el Ayuntamiento de los Navalmorales en su documentación firmado el 04/08/2026 no encuentra
+afección socioeconómica negativa ni encuentra efectos sinérgicos negativos. Emite informe favorable condicionado
+a autorizaciones sectoriales pues es compatible con el planeamiento municipal (suelo rústico común), el cerramiento
+es autorizable en suelo rústico y el aprovechamiento de aguas superficiales es compatible condicionado a concesión
+hidráulica.
+Por otra parte, el agente medioambiental también comenta en su informe de 19/04/2024 que para las parcelas objeto
+de plantación de olivar: Polígono 18, parcela 8, recinto 1 y Polígono 18, Parcela 4, recintos 2 y 6, en el momento de la
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40554
+visita del agente, estaban sin vegetación leñosa, indicando que la antigua plantación de olivar había sido arrancada,
+y en la zona se encontraban abundantes restos de tuberías secundarias portagoteros.
+Cuarto.- Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Consideraciones generales: Todas las medidas para la adecuada protección del medio ambiente y del patrimonio
+histórico-cultural indicadas por el promotor en el documento ambiental se deberán cumplir en cada fase del proyecto,
+complementadas con las que se mencionan a continuación, teniendo en cuenta que en los casos en que pudieran
+existir discrepancias entre unas y otras, prevalecerán las contenidas en la presente resolución.
+4.1. Protección de los recursos naturales protegidos, fauna y vegetación.
+El Servicio de Medio Natural, con informe firmado en 08/11/2024 de la Delegación de Desarrollo Sostenible de
+Toledo condiciona su informe favorable a la adopción de las siguientes medidas:
+En los casos de cerramientos preventivos de daños, se adaptarán las características del mismo a la fauna causante
+del daño.
+• De conformidad con lo establecido en el artículo 18 de la Ley 9/2003 de Vías Pecuarias de Castilla-La Mancha;
+artículo 47 del Decreto Legislativo 1/2010, de 18/05/2010, por el que se aprueba el texto refundido de la Ley de
+Ordenación del Territorio y de la Actividad Urbanística y el artículo 5 del Decreto 242/2004, de 27 de julio, por el que
+se aprueba el Reglamento de Suelo Rústico, deberán ser adscritas a la subcategoría de suelo rústico no urbanizable
+de protección ambiental las vías pecuarias y sus zonas de protección, quedando establecida la anchura de estas
+zonas en una franja de 5 metros a ambos lados de la vía pecuaria, por lo que se deberá observar lo dispuesto en la
+normativa de planeamiento urbanístico.
+• Se respetarán los caminos de uso público, vías pecuarias, cauces públicos y otras servidumbres que existan, que
+serán transitables de acuerdo a las normas específicas y el Código Civil.
+• El trazado debe realizarse sin afectar a la vegetación existente, por tanto, debe adaptarse al terreno para evitar la
+corta de árboles en su caso.
+• En caso de que la ejecución de la obra implicase afecciones a la vegetación natural de las parcelas, el promotor
+deberá solicitar la preceptiva autorización para modificación de cubiertas vegetales, en virtud del artículo 49 de la
+Ley 3/2008, de 12 de junio, de Montes y Gestión Forestal Sostenible de Castilla–La Mancha. Dicha autorización
+establecerá, en su caso, el condicionado aplicable para minimizar el impacto ambiental derivado.
+• Se comunicará con suficiente tiempo de antelación al agente medioambiental de la zona la fecha de inicio y
+el calendario de ejecución de los trabajos de forma que éste valore la posible afección sobre la reproducción o
+nidificación de la avifauna presente en el lugar y establezca, si procede, la limitación temporal de las actuaciones
+necesarias para garantizar su no afección. Esto sin perjuicio de las restricciones temporales establecidas por la
+normativa vigente en materia de incendios forestales, especialmente porque parte de la finca está en riesgo extremo
+y alto de incendios, según se puede ver con el Visor de zonificación del Riesgo de incendio forestal del proyecto
+Ginfor y las ZAR del Plan Infocam.
+• Se deberán poner en marcha eco-regímenes favorecedores de biodiversidad. En este sentido, se deberá permitir
+entre las hileras de los olivos el normal desarrollo del pastizal mediante cubiertas naturales, de tal forma que se
+favorezca la amortiguación de la contaminación difusa procedente del cultivo y la biodiversidad a escala local.
+Para el caso de la prevención de incendios, si se utiliza maquinaria como motosierras, desbrozadoras mecánicas,
+sopletes, radiales, soldadoras u otro tipo de maquinaria capaz de generar chispas, no se autorizará la ejecución de
+los trabajos durante la época de peligro alto de incendios de Castilla-La Mancha, en el periodo establecido entre
+el 1 de junio y 30 de septiembre, definida en la Orden 16 de mayo de 2006 de la Consejería de Medio Ambiente y
+Desarrollo Rural, por la que se regulan las campañas de prevención y extinción de incendios forestales. Por otra
+parte, dados los riesgos asociados a lluvias, inundación y posible erosión, la instalación del vallado y cualquier
+movimiento de tierras asociado se realizarán evitando episodios de precipitaciones intensas que puedan incrementar
+el riesgo de erosión, arrastre de sedimentos o deterioro de los caminos de acceso.
+Además de las medidas comentadas arriba, el promotor deberá adoptar las siguientes medidas para minimizar el
+impacto ambiental (a partir del informe del agente medioambiental en su informe firmado el 19/04/24):
+-retirar el cable acerado del cerramiento, para favorecer la movilidad de la fauna a través del cerramiento.
+-habilitar pasos de fauna, en los puntos detallados según las localizaciones elegidas por el agente medioambiental
+y acordadas con el servicio de medio natural en su informe de 22/10/2026.
+-iniciar la correspondiente solicitud de ocupación por la valla que ocupa toda la anchura de la vía pecuaria, con el
+fin de establecer las condiciones que permitan el uso público del dominio pecuario, y en caso de que no existan,
+establecer pasos o cortes de la malla del cerramiento para poder abrir esta y que garantice el uso de los caminos y
+vías pecuarias que se determine tienen carácter público.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40555
+-deberá retirar, en la zona de plantación de leñosos, los restos de tubería portagoteros procedentes de la antigua
+plantación.
+-ejecutar actuaciones encaminadas a favorecer la conservación de las poblaciones de conejo y lince ibérico,
+incluyendo, entre otras, la instalación de 10 madrigueras artificiales para conejo en las zonas de ecotono entre
+zonas de cultivo y matorral y la instalación junto a cada madriguera artificial de al menos un comedero y bebedero,
+así como el cultivo de la parcela con cereal para la caza menor. Se ubicará en el polígono 18, parcela 5, recinto 3,
+dentro del TM de Villarejo de Montalbán, actualmente con uso de tierras arables según Sigpac.
+Protección adicional del arbolado y vegetación autóctona en la zona con riego:
+- Preservación estricta del arbolado: Se respetarán de forma íntegra el arbolado presente en la zona de cultivo, así
+como los ejemplares situados en los linderos. Queda prohibida expresamente su corta, arranque, decapado o poda
+drástica.
+- Protección del sistema radicular y de la copa: No se realizará el acopio de materiales, maquinaria, tierras de
+excavación ni productos químicos bajo la proyección de las copas del arbolado existente, debiendo respetarse un
+perímetro de protección de al menos 5 metros alrededor de cada tronco para evitar la compactación del suelo y
+daños en el sistema radicular.
+4.2. Protección del Patrimonio Cultural y Bienes de Dominio Público.
+Tras el informe del Servicio de Cultura de 05/06/2025 de la Delegación Provincial de Educación, Cultura y Deportes
+de Toledo, donde se informa favorablemente el proyecto, se remarca que, en el caso de que aparecieran restos
+materiales con valor cultural durante su ejecución, se deberá actuar conforme a lo previsto en el artículo 52 de la Ley
+4/2013, de 16 de mayo, de Patrimonio Cultural de Castilla-La Mancha. Por ello, se deberá comunicar el hallazgo en
+un plazo máximo de 48 h ante la Consejería competente en materia de Patrimonio Cultural. Este órgano determinará
+el carácter de los hallazgos y resolverá expresamente las medidas de protección de los mismos.
+4.3. Protección del suelo y de los sistemas hidrológico e hidrogeológico.
+Para la Confederación Hidrográfica del Tajo en su informe registrado con fecha 15/02/2024, las medidas y
+condicionantes más relevantes son las relacionadas con la protección de los cauces, las aguas superficiales y
+subterráneas, los vertidos y el diseño del cerramiento, siendo precisamente éstas las que aparecen destacadas
+mediante títulos y apartados específicos.
+Así, las principales medidas propuestas por el informe se centran en garantizar la protección del dominio público
+hidráulico y la calidad de las aguas. En este sentido, cualquier actuación que afecte a cauces, zonas de servidumbre
+o zonas de policía deberá contar con la autorización previa de la Confederación Hidrográfica del Tajo, respetándose
+además las franjas de protección establecidas legalmente.
+Respecto al aprovechamiento de agua para riego, el promotor deberá disponer del correspondiente título concesional
+o autorización antes de realizar captaciones de aguas superficiales o subterráneas. Asimismo, cualquier modificación
+de las características del aprovechamiento deberá ser autorizada previamente por el organismo de cuenca.
+En materia de vertidos, se establece que queda prohibido cualquier vertido directo o indirecto a las aguas o al dominio
+público hidráulico sin autorización previa. Siempre que sea posible, las aguas residuales deberán conectarse a una
+red general de saneamiento y, cuando esto no sea viable, deberán implantarse sistemas adecuados de depuración
+y tratamiento.
+Para la protección de las aguas superficiales y subterráneas se recomienda la implantación de redes de saneamiento
+estancas y preferentemente separativas, así como la adopción de sistemas de drenaje sostenible que eviten el
+arrastre de contaminantes por escorrentía.
+En relación con los productos fitosanitarios, deberán adoptarse medidas para evitar la contaminación difusa de
+las masas de agua, manteniendo una banda de seguridad mínima de 5 metros respecto a los cauces y evitando
+tratamientos con velocidades de viento superiores a 3 m/s. Además, deberá respetarse una distancia mínima de 50
+metros respecto a captaciones destinadas al abastecimiento humano.
+Dado que la actuación se localiza en una zona vulnerable a la contaminación por nitratos, el informe recuerda la
+necesidad de elaborar un plan de abonado y aplicar criterios de fertilización sostenible para minimizar el riesgo de
+contaminación de las aguas.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40556
+En cuanto al cerramiento, éste deberá diseñarse de forma que no interfiera con el drenaje natural de los cauces.
+Los elementos que afecten al dominio público hidráulico deberán ser desmontables o móviles, y en las zonas
+de servidumbre deberán instalarse puertas de acceso que permitan el paso público y las labores de vigilancia y
+mantenimiento de los cauces.
+Durante las obras será necesario gestionar adecuadamente los residuos, combustibles, aceites y demás sustancias
+potencialmente contaminantes, evitando derrames que puedan afectar a las aguas superficiales o subterráneas.
+Una vez finalizados los trabajos, la zona deberá quedar completamente limpia de residuos y materiales sobrantes.
+Finalmente, el informe destaca la necesidad de adoptar medidas para evitar procesos erosivos y arrastres de
+sedimentos hacia los cauces durante los movimientos de tierras, así como garantizar la seguridad de pozos, sondeos
+y captaciones mediante su vallado, señalización y protección frente a accidentes o contaminaciones.
+4.4. Protección frente a la contaminación atmosférica por emisiones y por ruidos.
+A fin de cumplir con la normativa vigente respecto a los niveles de emisión de partículas a la atmósfera y con el fin
+de minimizar la producción y dispersión del polvo generado durante las obras, se estará a lo dispuesto por la Ley
+34/2007, de 15 de noviembre, de calidad del aire y protección de la atmósfera. No obstante, si la producción de polvo
+fuese evidente se deberá regar en aquellos puntos en que se produzca y la máquina deberá disponer de un captador
+de polvo en perfecto estado de funcionamiento.
+Los niveles de ruido generados durante las obras y la instalación del vallado, deben cumplir lo establecido en la Ley
+37/2003, de 17 de noviembre, del Ruido, reglamentos de desarrollo y ordenanzas municipales.
+4.5. Adecuación urbanística y protección del paisaje
+Todas las obras, construcciones e instalaciones que se realicen y todos los usos que se desarrollen en suelo
+clasificado como rústico deberán serlo con estricta sujeción a la legislación sectorial que en cada caso los regule
+(carreteras, medio ambiente, patrimonio, Confederación Hidrográfica, minas..) y al cumplimiento de las condiciones,
+requisitos y limitaciones establecidas por el “Decreto Legislativo 1/2023, de 28 de febrero, por el que se aprueba
+el Texto Refundido de la Ley de Ordenación del Territorio y de la Actividad Urbanística”, por el “Decreto 242/2004,
+de 27 de julio, por el que se aprueba el Reglamento de Suelo Rústico, y/o el planeamiento territorial y urbanístico”.
+Deberán tenerse en cuenta los requisitos exigidos por la Orden 4/2020, de 8 de enero, de la Consejería de Fomento,
+por la que se aprueba la instrucción técnica de planeamiento sobre determinados requisitos sustantivos que deberán
+cumplir las obras, construcciones e instalaciones en suelo rústico.
+El Ayuntamiento de Villarejo de Montalbán, según la documentación registrada con fecha 14/07/2026, indica que el
+promotor debe obtener previamente la Evaluación Ambiental Simplificada, así como la correspondiente Calificación
+Urbanística, antes de que pueda concederse la licencia de obras. Además, al afectar el proyecto a varios términos
+municipales, la competencia para dicha calificación corresponde a la Consejería de Fomento. Asimismo, el
+Ayuntamiento requirió al promotor que presentara el proyecto desglosado por términos municipales (presupuesto de
+ejecución por las obras que afecten a cada termino municipal) y la documentación exigida por la normativa urbanística,
+así como las distintas autorizaciones sectoriales necesarias. Según el informe, a la fecha de su emisión (14/07/2026)
+el promotor no había atendido dicho requerimiento. El documento también señala que deberán obtenerse todas las
+autorizaciones sectoriales previas a la licencia municipal, destacando especialmente la autorización o concesión
+de la Confederación Hidrográfica del Tajo para el aprovechamiento de las aguas destinadas al riego. Por último,
+se advierte de la existencia de un procedimiento de aprobación del nuevo Plan de Delimitación de Suelo Urbano
+(PDSU) de Villarejo de Montalbán, por lo que será necesario comprobar la compatibilidad definitiva del proyecto con
+la normativa urbanística aplicable una vez se analice detalladamente su ubicación.
+El Ayuntamiento de San Martín de Pusa, según la documentación registrada con fecha 22/07/2026, considera
+imprescindible que se garantice en todo momento la integridad del camino público, que no se produzca cierre,
+ocupación o limitación del tránsito sin la correspondiente autorización administrativa. Además, pide que se
+mantenga permanentemente el acceso a las explotaciones agrícolas y ganaderas y en caso de ejecución de obras,
+se adopten las medidas necesarias para asegurar el tránsito de vehículos agrícolas y ganaderos durante toda la
+ejecución. También demandan que cualquier afección al dominio público municipal sea previamente autorizada
+por este Ayuntamiento y, en su caso, completamente restituida una vez finalizadas las actuaciones. En definitiva,
+el proyecto deberá ejecutarse respetando las determinaciones de las Normas Subsidiarias Provinciales de la
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40557
+Diputación Provincial de Toledo y garantizando en todo momento la Conservación, funcionalidad y libre utilización
+del camino público que une San Martín de Pusa con Los Navalmorales, al tratarse de una infraestructura de carácter
+estratégico para el desarrollo de la actividad agrícola y ganadera de ambos municipios. Asimismo, el ayuntamiento
+de San Martín de Pusa pide que se incorporen las condiciones oportunas para asegurar la protección del dominio
+público viario municipal y evitar cualquier perjuicio socioeconómico sobre las explotaciones agrícolas y ganaderas
+existentes en la zona.
+Por otra parte, el Ayuntamiento de Los Navalmorales, siendo favorable en su informe urbanístico de fecha 04/08/2026,
+establece un condicionado consistente en el respeto de las servidumbres de paso y del dominio público hidráulico,
+así como la prohibición de edificaciones permanentes no vinculadas a la explotación agrícola.
+4.6. Gestión de residuos.
+Todos los residuos generados en la fase de instalación de la actividad, bien sean residuos peligrosos o no, e
+independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022, de 8 de abril, de
+residuos y suelos contaminados para una economía circular, a lo establecido en el Real Decreto 553/2020, de 2 de
+junio, por el que se regula el traslado de residuos en el interior del territorio del Estado, así como a lo señalado en el
+vigente Plan de Prevención y Gestión de Residuos de Castilla-La Mancha 2030.
+Las operaciones de mantenimiento y cambios de aceite de la maquinaria utilizada, se realizarán en taller autorizado,
+o en su defecto, la promotora comunicará el inicio de actividad como productor de residuos peligrosos para su
+inscripción en el Registro de Producción y Gestión de Residuos de Castilla-La Mancha, debiendo en este último
+caso disponer de contrato con gestor autorizado.
+Cualquier vertido o derrame accidental que pudiera afectar al suelo, deberá ser descontaminado a la mayor brevedad
+posible, extrayendo la parte de suelo contaminado y entregando el residuo a gestor autorizado para su posterior
+tratamiento. El transportista también estará inscrito como transportista de residuos y el traslado se realizará con la
+documentación prevista en el Real Decreto 553/2020, antes citado.
+Todos los residuos generados serán retirados por gestores autorizados y se dispondrá del correspondiente contrato
+de tratamiento con los mismos. Tanto dicho contrato, como los Documentos de Identificación empleados para el
+traslado de residuos, podrán ser requeridos por la autoridad ambiental o sustantiva, debiendo ser conservados
+durante un mínimo de 5 años.
+Los residuos de construcción y demolición generados durante el proceso de construcción del vallado (si existiesen)
+se gestionarán conforme al Real Decreto 105/2008, de 1 de febrero, por el que se regula la producción y gestión de
+los residuos de construcción y demolición, por lo tanto, serán entregados a gestor autorizado.
+En todos los informes de seguimiento que se presenten deberá adjuntarse toda la documentación de que se
+disponga sobre la correcta gestión de los residuos generados: contrato con gestor autorizado y documentos de
+identificación de traslado de residuos, en su caso. En el caso de basura generada por los operarios, tales como
+botes de bebida o restos de comida, serán recogidos y depositados en contenedores de basura del municipio más
+cercano, prohibiéndose su vertido sobre el medio natural.
+4.7. Plan de desmantelamiento.
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos de
+material y residuos a vertederos adecuados a la naturaleza de cada residuo y se restaurarán los terrenos ocupados
+por estas a su estado original, dejando el área de actuación en perfecto estado de limpieza. El desmontaje y la
+restauración deberán realizarse en el plazo máximo de 3 meses tras la finalización de la actividad y deberá ponerse
+en conocimiento del Servicio de Medio Ambiente de esta Delegación Provincial de Desarrollo Sostenible de Toledo
+(Órgano Ambiental) para dar por finalizado el expediente. Asimismo, en caso de que la actividad sea traspasada,
+también se deberá poner en conocimiento de este organismo.
+Quinto.- Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha,
+corresponde al órgano sustantivo el seguimiento del cumplimiento del informe de impacto ambiental, sin perjuicio de
+la potestad del órgano ambiental para recabar información y realizar las comprobaciones que considere necesarias
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40558
+para verificar el cumplimiento del condicionado del informe de impacto ambiental. De las inspecciones llevadas
+a cabo podrán derivarse modificaciones de las actuaciones previstas, al objeto de lograr la consecución de los
+objetivos de la presente Resolución.
+El promotor remitirá al órgano ambiental, en este caso, el Servicio de Calidad Ambiental de la Delegación Provincial
+de Desarrollo Sostenible de Toledo, un informe de seguimiento sobre el cumplimiento de las condiciones y de
+las medidas preventivas y correctoras establecidas, en el primer trimestre de cada año, desde la publicación de
+esta Resolución y durante los siguientes cinco años de vida útil del proyecto. Este informe incluirá un listado de
+comprobación de todas las medidas previstas en el documento ambiental y en esta Resolución, dando cuenta de la
+efectiva ejecución de las mismas.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable del mismo,
+que podrá ser personal interno o externo de la empresa promotora, y deberá notificar su nombramiento tanto al
+órgano sustantivo como al ambiental.
+Cada informe deberá estar suscrito conjuntamente por el promotor y el responsable del seguimiento y vigilancia
+ambiental del proyecto, y se presentarán ante el órgano ambiental entre el 1 de enero y el 31 de marzo del año
+siguiente al de la campaña de seguimiento efectuada. El programa de vigilancia ambiental y el listado de comprobación
+se harán públicos en la sede electrónica del órgano sustantivo.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas y de la normativa vigente que le sea
+de aplicación. Esta documentación recogerá todos los datos desde el inicio de los trabajos de construcción, estando
+a disposición de los órganos de inspección y vigilancia.
+El seguimiento y la vigilancia ambiental incidirán especialmente en los siguientes aspectos:
+Control de la correcta ejecución del vallado conforme a las características autorizadas, verificando la retirada de
+elementos que puedan suponer riesgo para la fauna, la habilitación de pasos de fauna, su permeabilidad y el
+mantenimiento de la transitabilidad de caminos públicos, vías pecuarias y servidumbres existentes.
+Control de la afección a la vegetación natural, garantizando la adaptación del trazado al terreno para evitar la
+eliminación de ejemplares arbóreos y verificando la obtención de las autorizaciones necesarias en caso de afección
+a cubiertas vegetales.
+Control del cumplimiento de las medidas de protección de la fauna, incluyendo las limitaciones temporales que
+pudieran establecerse durante los periodos de reproducción o nidificación, así como la implantación de medidas
+favorecedoras de la biodiversidad, la conservación de especies de interés y de permeabilidad a través del cerramiento
+para el movimiento de la fauna a través de este.
+Control de la ejecución de los trabajos durante periodos compatibles con la prevención de incendios forestales,
+evitando el uso de maquinaria susceptible de generar chispas en época de peligro alto y la realización de obras
+durante episodios de precipitaciones intensas que puedan favorecer procesos erosivos.
+Control de la protección del dominio público hidráulico, verificando el respeto a cauces, zonas de servidumbre y
+policía, la existencia de las autorizaciones preceptivas para el aprovechamiento de aguas y la adopción de medidas
+destinadas a prevenir vertidos, contaminación difusa, erosión y arrastre de sedimentos.
+Control del cumplimiento de las medidas de protección del patrimonio cultural, asegurando la comunicación inmediata
+de cualquier hallazgo arqueológico o patrimonial que pudiera aparecer durante las obras.
+Control del cumplimiento de las condiciones urbanísticas y sectoriales establecidas por los organismos competentes,
+especialmente las relativas a caminos públicos, vías pecuarias, dominio público hidráulico y demás infraestructuras
+afectadas.
+Control de la correcta gestión de todos los residuos generados durante las obras y la explotación, verificando su
+retirada por gestores autorizados, la existencia de la documentación acreditativa correspondiente y la restauración
+y limpieza completa de las zonas afectadas al finalizar los trabajos.
+Sexto.- Documentación adicional.
+Este informe no exime al promotor de contar con el resto de autorizaciones administrativas de otros organismos
+oficiales que fueran necesarias conforme a la legislación sectorial. El promotor de este proyecto deberá disponer de
+las siguientes autorizaciones y/o informes:
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40559
+Antes del inicio de la actividad:
+- Notificación de la fecha prevista para el inicio de la actividad con una antelación mínima de 10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Certificado de compatibilidad urbanística y cumplimiento de los requerimientos de los ayuntamientos de Villarejo
+de Montalbán, San Martín de Pusa y Los Navalmorales.
+Durante la fase de explotación:
+En el primer trimestre de cada año, desde el inicio de la actividad y durante los cinco primeros años de funcionamiento
+del proyecto: Informes sobre los controles y actuaciones en aplicación del plan de seguimiento y vigilancia ambiental.
+Séptimo.- Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible, y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias
+en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible, y conforme a la Ley 2/2020, de 7 de
+febrero, de Evaluación Ambiental de Castilla-La Mancha, resuelve que el proyecto “Sustitución y acondicionamiento
+de cerramiento ganadero y aprovechamiento de aguas superficiales para riego por goteo en finca Las Cumbres” en
+los términos municipales de Villarejo de Montalbán, San Martín de Pusa y Los Navalmorales (Toledo)” (Exp. PRO-
+TO-24-3280), y cuyo promotor es Lands and Buildings, S.L., no necesita someterse a una Evaluación de Impacto
+Ambiental Ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan
+las medidas ambientales y de seguimiento propuestas por el promotor y las que se desprenden del presente informe
+de impacto ambiental.
+El presente informe de impacto ambiental no exime al promotor de contar con el resto de autorizaciones administrativas
+de otros organismos oficiales que fuesen necesarias de acuerdo con la legislación sectorial, especialmente las
+relativas a la normativa urbanística y licencias municipales, así como la referente a la legislación de aguas. Esta
+Resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la Consejería
+de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley 2/2020, de 7 de
+febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prorroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno. Esto sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro
+de autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Se adjunta anexo cartográfico, para mejor conocimiento e interpretación del proyecto por las personas responsables
+del seguimiento y demás personas interesadas.
+Toledo, 5 de noviembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40560
+ANEXO CARTOGRÁFICO PRO-TO-24-3280
+Imagen nº 1. Ubicación inicial del subproyecto de riego por goteo para olivar (ubicado en la
+zona marcada en amarillo), gracias a un aprovechamiento de aguas superficiales a partir de
+arroyo y almacenamiento del agua en una balsa previo al uso de agua en el olivar. Fuente:
+Documento Ambiental.
+Imagen nº 2. Ubicación inicial del subproyecto de sustitución y acondicionamiento de vallado
+ganadero. El perímetro de vallado a sustituir y acondicionar está marcado con línea amarilla.
+Fuente: Documento Ambiental.

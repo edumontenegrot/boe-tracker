@@ -1,0 +1,488 @@
+AÑO XLV Núm. 223 20 de noviembre de 2026 40669
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 11/11/2026, de la Delegación Provincial de Desarrollo Sostenible de Toledo, por la que se
+formula el informe de impacto ambiental del proyecto denominado: Ejecución de sondeo para captación
+de aguas subterráneas para riego. Plantación de 11,058 ha de olivar, (S478/2025/TO/00052), en el término
+municipal de Los Navalmorales (Toledo). [2026/8284]
+La Ley 2/2020, de 7 de febrero, de Evaluación Ambiental, en su artículo 6.2 concreta los proyectos que deben ser
+sometidos a Evaluación de Impacto Ambiental Simplificada por el órgano ambiental para determinar si tienen o no
+efectos significativos sobre el medio ambiente. En el caso de que no los tengan, no será necesario someterlos al
+procedimiento de Evaluación de Impacto Ambiental Ordinaria. Esta decisión debe ser motivada y pública, y se tiene
+que ajustar a los criterios establecidos en el anexo III de dicha Ley.
+La actuación pretendida se encuadra en el Anexo II de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de
+Castilla-La Mancha, concretamente, en el Grupo 1. Agricultura, silvicultura, acuicultura y ganadería, Apartado c)
+Proyectos de transformación, ampliación o consolidación de regadíos de 10 o más hectáreas.
+1. Descripción del proyecto definido en la documentación aportada por el promotor.
+El proyecto tiene por objeto la ejecución de una captación mediante sondeo de aguas subterráneas y la
+implantación de una red de riego por goteo de apoyo para la transformación a regadío de 11,058 ha de cultivo de
+olivar (variedad Picual, marco de plantación de 8 m × 9 m), dentro de una parcela agrícola con una superficie total
+catastral de 14,33 ha.
+Las actuaciones se localizan en el paraje “La Nevada”, en la parcela 173 del polígono 15 del término municipal de
+Los Navalmorales (Toledo), situándose la embocadura del sondeo en las coordenadas UTM ETRS89 (Huso 30) X
+= 364.486 m e Y = 4.393.473 m, con acceso directo desde la carretera CM-401 en el p.k. 60,400 (margen derecha).
+Las características técnicas de las obras e instalaciones proyectadas son las siguientes:
+Obra de captación (Sondeo):
+- Perforación: Ejecución de un sondeo mediante el método de rotopercusión de 115 metros de profundidad y un
+diámetro de perforación de 250 mm (con boquilla de 320 mm).
+- Entubado y acondicionamiento: Alojamiento de tubería de PVC de 160 mm de diámetro exterior y 5 mm de espesor,
+con tramo ciego en la parte superior y ranurado longitudinal a partir de los 40 metros de profundidad aproximadamente.
+- Sellado y relleno anular: Cementación y sellado sanitario en la embocadura mediante losa de hormigón HA-25 de
+dimensiones 1,5 m × 1,5 m × 0,5 m dotada de tapa metálica de seguridad, y rellenado del espacio anular con gravilla
+calibrada (3/6 mm) y detritos de la propia perforación (ripios).
+Instalación fotovoltaica y equipo de bombeo:
+- Electrobomba sumergible: Instalación en el interior del sondeo de una electrobomba eléctrica de 4 C.V. de potencia,
+ubicada a una profundidad máxima de 100 metros, equipada a la salida con un contador volumétrico homologado.
+- Generador fotovoltaico solar de autoconsumo autónomo: Compuesto por una estructura metálica de soporte fijada
+sobre suelo en el entorno de la embocadura del sondeo para la implantación de 16 módulos fotovoltaicos de 550
+Wp de potencia unitaria, con una potencia pico total instalada de 8,80 kWp, encargados de suministrar energía
+eléctrica a la electrobomba mediante un controlador/variador de bombeo solar, incorporando las correspondientes
+protecciones eléctricas.
+- Superficie de ocupación y régimen de funcionamiento: La instalación fotovoltaica ocupa una superficie aproximada
+de 60 m², de los cuales 41,20 m² corresponden a la superficie neta de los módulos fotovoltaicos, localizándose en
+una superficie de terreno reducida y puntual adyacente al sondeo. La instalación operará de forma autónoma durante
+la campaña de riego (meses de primavera y verano), sin requerir acumulación mediante baterías electroquímicas,
+tendidos eléctricos aéreos ni conexión a la red general de distribución de energía eléctrica.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40670
+Cabezal de riego y red de distribución:
+- Cabezal de riego: Instalación de un sistema de filtrado (filtros de arena y mallas) y equipo de fertirrigación
+para la dosificación de nutrientes, operando de forma directa desde el bombeo sin requerir balsa ni depósito de
+almacenamiento.
+- Red de conducciones: Red principal y secundaria de conducciones de PVC de diámetros DN 63 mm y DN 50 mm,
+instaladas de forma soterrada en zanjas de reducida dimensión con lecho de arena fina.
+- Ramales portagoteros: Disposición sobre la superficie del terreno de tuberías de polietileno de 16 mm de diámetro
+con goteros integrados de caudal comprendido entre 0,75 y 2,3 l/h.
+Agronomía y régimen de explotación: La superficie transformada se destina al cultivo de olivar de la variedad Picual,
+con un marco de plantación de 8 m x 9 m. El riego se aplica como apoyo deficitario durante la campaña de verano
+(marzo a octubre).
+Demandas hídricas y régimen concesional:
+Se solicita un caudal máximo instantáneo de 1,33 l/s, un volumen máximo mensual de 1.597 m³/mes y un volumen
+total anual de 6.951 m³/año (equivalente a una dotación neta de 623 m³/ha/año), en relación con la dotación máxima
+orientativa de 2.000 m³/ha/año recogida en el Plan Hidrológico del Tajo para el olivar. El aprovechamiento se tramita
+ante la Confederación Hidrográfica del Tajo para su inscripción en la Sección B del Registro de Aguas (Expediente
+SB-1226/2024), al amparo del artículo 54.2 del Texto Refundido de la Ley de Aguas.
+Alternativas
+En referencia a las alternativas estudiadas en la documentación ambiental del proyecto, el promotor plantea y
+justifica las siguientes opciones:
+- Alternativa Cero (no actuación): Descartada. Supondría no ejecutar el sondeo y mantener la explotación agrícola
+en régimen de secano tradicional. Si bien esta opción presenta aspectos positivos por el no consumo de recursos
+hídricos ni energéticos, socioeconómicamente se considera desfavorable al privar a la explotación de un riego
+deficitario de apoyo para garantizar rendimientos agrícolas estables y de calidad. Asimismo, el abandono o la menor
+viabilidad económica de la finca bajo pautas de secano tradicional podría favorecer la degradación y erosión del
+suelo.
+- Alternativa 1 (Sondeo en la parcela de aplicación del riego - Alternativa Seleccionada): Ejecución del sondeo en
+la parcela 173 del polígono 15, dentro del propio perímetro de las 11,058 ha de olivar a regar. El promotor justifica
+esta opción por cuanto optimiza las infraestructuras al evitar el tendido de largas conducciones, minimiza la afección
+a la vegetación y al suelo al no requerir apertura exterior de zanjas, y elimina molestias por ruidos o vibraciones a
+núcleos de población al situarse a más de 1,4 km del casco urbano más próximo, sobre suelos de buena capacidad
+agronómica (Xerochepts).
+- Alternativa 2 (Ubicación del sondeo en parcela o punto distinto): Descartada. Consiste en ubicar la captación en
+otras parcelas o emplazamientos alternativos. Se descarta por inviabilidad técnica y legal al no disponer el promotor
+de la titularidad de terrenos colindantes alternativos con viabilidad hidrogeológica, y porque requeriría la apertura de
+zanjas de canalización de mayor longitud fuera de la finca, generando una mayor afección sobre la vegetación, el
+suelo y la fauna del entorno.
+Conclusión del análisis de alternativas: Se concluye que la Alternativa 1 resulta la más favorable desde el punto de
+vista técnico, económico y ambiental, al localizar la captación en la propia parcela de riego, reducir al mínimo las
+infraestructuras de transporte y la huella sobre el terreno, y garantizar la viabilidad agraria mediante un riego por
+goteo deficitario y sostenible.
+2. Tramitación y consultas.
+El 28/06/2024, se recibe en el Servicio de Calidad Ambiental de Toledo, la solicitud de inicio del procedimiento
+de Evaluación de Impacto Ambiental Simplificada y el documento ambiental del proyecto, dando cumplimiento al
+artículo 52 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, así como la copia
+del resguardo de la tasa correspondiente según la Ley 9/2012 de 29 de noviembre, de tasas y precios públicos de
+Castilla-La Mancha y otras medidas tributarias.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40671
+Sobre la base de dicha documentación, el 03/06/2025 y de acuerdo con el artículo 53 de la citada Ley 2/2020, se
+formularon consultas previas a las Administraciones públicas afectadas y a las personas interesadas, con el objeto
+de que informaran en el ámbito de sus competencias. Estos organismos e instituciones consultadas han sido los
+siguientes (se señalan con un asterisco aquellos que han emitido contestación a las consultas formuladas):
+Dentro de la Delegación Provincial de Desarrollo Sostenible de Toledo:
+- Servicio de Medio Natural. *
+- Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo. DT. Los Navalmorales *
+Otros organismos:
+- Consejería de Agricultura, Ganadería y Desarrollo Rural de Toledo. Delegación Provincial. Servicio de Desarrollo
+Rural y Políticas Ambientales de Toledo. *
+- Ayuntamiento de Los Navalmorales. *
+- Servicio Provincial de la Agencia del Agua en Toledo.
+- Servicio Salud Pública Toledo. *
+- Consejería de Educación, Cultura y Deportes. Delegación Provincial de Toledo. Servicio de Cultura. *
+- Confederación Hidrográfica del Tajo. *
+- Asociación Naturalista Amigos del Guadyerbas.
+- SEO-BirdLife.
+- Asociación Nacional Micorriza.
+- WWF-España.
+- Acmaden-Ecologistas en Acción
+- Ardeidas.
+- Toledo Aire Limpio.
+- Fundación Global Nature.
+- Agrupación Naturalista Esparvel de Toledo.
+Por otra parte, con fecha 03/06/2025, de conformidad con la Ley 1/2024, de 15 de marzo, de Medidas Administrativas
+de Castilla-La Mancha, se notifica de manera adicional al Ayuntamiento de Los Navalmorales petición de informe
+específico sobre la afección socioeconómica del proyecto, efectos sinérgicos y afección a caminos vecinales u otras
+infraestructuras municipales.
+Una vez realizadas las consultas, conforme al artículo 53 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental
+de Castilla-La Mancha, y transcurrido el plazo sin haber recibido respuesta de los organismos no señalados con
+asterisco (“*”), este órgano ambiental cuenta con elementos de juicio suficientes para resolver, al tener este
+expediente los informes oportunos más relevantes, entre los que destacan:
+- Servicio de Cultura de la Delegación Provincial de Educación, Cultura y Deportes de Toledo: emite informe sectorial
+con fecha 20/06/2025 (N/Ref: Servicio de Cultura / MSP / LMC; Exp. Cult.: 251639; S/Ref: S478/2025/TO/00052).
+Informa favorablemente al no constar afección directa a bienes del patrimonio cultural catalogados, estableciendo
+la obligación de actuar conforme al protocolo de hallazgos casuales de restos arqueológicos o paleontológicos
+regulado en el artículo 52 de la Ley 4/2013 de Patrimonio Cultural de Castilla-La Mancha.
+- Servicio de Medio Natural de Toledo: Mediante comunicación interna de fecha 24/06/2025, se advierte expresamente
+de la necesidad de preservar el arbolado maduro existente en la zona.
+- El Ayuntamiento de Los Navalmorales concluye en su informe urbanístico registrado el 02/07/2025 que la
+parcela afectada está clasificada como suelo rústico de reserva con uso principal agropecuario. Asimismo, indica
+que la normativa urbanística municipal no prohíbe la explotación de aguas subterráneas, por lo que no aprecia
+incompatibilidad urbanística para la actuación propuesta.
+- Servicio de Salud Pública de la Delegación Provincial de Sanidad de Toledo: Emite informe con fecha 14/07/2025 (N/
+Ref: 132/2025). Establece condicionantes sanitarios en relación con la manipulación, almacenamiento y aplicación
+de productos fitosanitarios sobre el cultivo de olivar.
+- El 14/07/2025 la Consejería de Agricultura, Ganadería y Desarrollo Rural de Toledo. Delegación Provincial. Servicio
+de Desarrollo Rural y Políticas Ambientales de Toledo indica que no tiene nada que decir al respecto al proyecto y
+que las parcelas no están incluidas en ninguna Zona Regable de Iniciativa Pública.
+- Confederación Hidrográfica del Tajo (CHT): Emite informe sectorial con fecha 08/08/2025 (N/Ref: EIA-0360/2025).
+Constata la tramitación del expediente de aprovechamiento de aguas subterráneas SB-1226/2024 sobre la masa
+de agua subterránea 03.05 “Madrid - Talavera”, condicionando la ejecución de las obras y la puesta en riego a la
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40672
+obtención previa del correspondiente título concesional e inscripción en el Registro de Aguas del Organismo de
+Cuenca, así como al cumplimiento de las obligaciones de protección del Dominio Público Hidráulico y de las aguas
+subterráneas frente a la contaminación.
+- El agente medioambiental de la Unidad de Coordinación Provincial de Agentes Medioambientales de Toledo.
+DT. Los Navalmorales. En su informe de 07/06/2026 indica que el proyecto aún no se ha iniciado y que la parcela
+presenta unas 23 encinas aisladas, además de encontrarse en una zona de importancia para águila imperial y lince.
+Se señala que no existen afecciones a elementos geomorfológicos, aunque la transformación a regadío supondrá
+una modificación del paisaje adehesado y de la hidrología del recinto.
+Asimismo, se destaca la existencia de explotaciones de olivar de regadío próximas, indicando una posible sinergia
+con otros regadíos de la zona.
+De conformidad con el artículo 82 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de
+las Administraciones Públicas, con fecha 10/06/2026 se procede a dar traslado de todos estos informes recibidos al
+promotor para su conocimiento y para la presentación de las alegaciones o aclaraciones que estimase oportunas.
+Transcurrido el plazo legalmente establecido sin haberse recibido alegaciones o manifestación alguna por su parte,
+se prosigue con la tramitación de las actuaciones.
+Por otra parte, el 23/10/2026 el promotor registra de manera adicional un anexo técnico de instalación fotovoltaica
+aislada para completar la información necesaria para la resolución.
+3. Análisis según los criterios del anexo III de la Ley 2/2020.
+Una vez analizada la documentación que obra en el expediente, y considerando las respuestas recibidas a las
+consultas practicadas, se realiza el siguiente análisis, según los criterios recogidos en el anexo III de la Ley 2/2020,
+de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha, para determinar si el proyecto tiene efectos
+significativos sobre el medio ambiente y, por tanto, si debe someterse a una Evaluación de Impacto Ambiental
+Ordinaria, según lo previsto en la Sección 1.ª del Capítulo II del Título II de dicha Ley.
+3.1. Características del proyecto.
+Las características básicas del proyecto se han descrito en el apartado Primero del presente Informe. Básicamente
+consiste en las siguientes instalaciones:
+El proyecto consiste en la transformación a regadío de apoyo de 11,058 hectáreas de olivar en la finca La Nevada,
+situada en el término municipal de Los Navalmorales (Toledo), mediante la captación de aguas subterráneas a
+través de un sondeo de 115 metros de profundidad. El agua extraída se destinará al riego por goteo del cultivo y será
+impulsada por una electrobomba alimentada mediante una instalación solar fotovoltaica autónoma, sin conexión a
+la red eléctrica ni necesidad de tendidos eléctricos aéreos.
+La actuación incluye la ejecución del sondeo, la instalación de los paneles solares, un cabezal de riego con sistemas
+de filtrado y fertirrigación y una red de distribución formada por conducciones soterradas y tuberías portagoteros en
+superficie. El riego se plantea como complemento a las necesidades hídricas del olivar durante la época de mayor
+demanda, solicitándose para ello un aprovechamiento anual de 6.951 m³ de aguas subterráneas cuya autorización
+se encuentra en tramitación ante la Confederación Hidrográfica del Tajo.
+En el informe de consultas previas de Confederación Hidrográfica del Tajo, con firma en 08/08/2025, se detalla que
+encontraron los siguientes expedientes relacionados:
+SB-1226/2024: relativo a la solicitud de un aprovechamiento de aguas subterráneas en la parcela 173 del polígono
+15 del término municipal de Los Navalmorales (Toledo), solicitado por D. Ángel Díaz Pinto. Este expediente se
+encuentra en tramitación en esta Confederación.
+Acumulación con otros proyectos y sinergias: Aunque el proyecto presenta una escala reducida y se localiza
+íntegramente sobre terrenos agrícolas ya explotados, debe tenerse en consideración la posible sinergia con otras
+explotaciones de olivar en regadío existentes en el entorno, tal y como señala el informe del Agente Medioambiental
+en su informe con fecha de firma de 07/06/2026.
+3.2. Ubicación del proyecto.
+El proyecto se ubica en el paraje La Nevada, en la parcela 173 del polígono 15 del término municipal de Los
+Navalmorales (Toledo), situándose la captación por sondeo en las coordenadas UTM (ETRS89 Huso 30) X = 364.486
+m e Y = 4.393.473 m. El entorno se caracteriza por una matriz agraria antropizada dominada por tierras de cultivo
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40673
+de secano y olivar con presencia de arbolado disperso (encinas), situándose los cursos de agua más cercanos a
+unos 1.550 m al SE (Arroyo de Valducal) y a 2.950 m al SW (Río Cedena), totalmente fuera del Dominio Público
+Hidráulico. Desde el punto de vista faunístico, el ámbito territorial se enmarca dentro de la zona de importancia y
+dispersión para especies amenazadas como el Águila Imperial Ibérica (Aquila adalberti), el Buitre Negro (Aegypius
+monachus), el Águila Perdicera (Aquila fasciata) y el Lince Ibérico (Lynx pardinus).
+El acceso a la parcela y a las instalaciones del sondeo se realiza directamente desde la margen derecha de la
+carretera autonómica CM-401 en el p.k. 60,400, mediante camino interior de acceso existente, situándose asimismo
+la carretera CM-410 a unos 320 m al SE.
+En cuanto a los recursos naturales y la capacidad de carga del medio al proyecto:
+- Dominio público hidráulico y sus márgenes de protección: El informe de la Confederación Hidrográfica del Tajo,
+indica que la actuación planteada se halla en las siguientes zonas protegidas, aguas superficiales y masas de aguas
+subterráneas:
+Zonas Protegidas (Plan Hidrológico de la Demarcación Hidrográfica del Tajo 2023-2027): La parcela 173 del polígono
+15 donde se ubica el sondeo se encuentra localizada en el interior de la Zona Vulnerable a la contaminación por
+nitratos procedentes de fuentes agrarias “Madrid-Talavera-Tiétar - ES030_ZVULES42_5” y próxima al perímetro de
+protección de aguas termales “Fuente Madre - ES030_AMTPER000000003”.
+Masas de Aguas Subterráneas: La captación por sondeo efectúa la extracción directa sobre la masa de agua
+subterránea 03.05 “Madrid – Talavera”.
+Las actuaciones e infraestructuras del sondeo y de la red de riego por goteo se ubican totalmente fuera del Dominio
+Público Hidráulico (DPH), de la zona de servidumbre (5 m) y de la zona de policía (100 m) de cauces públicos,
+situándose a unos 1.550 m al SE del Arroyo de Valducal y a 2.950 m al SW del Río Cedena.
+De conformidad con la Ley 42/2007, de 13 de diciembre, del Patrimonio Natural y de la Biodiversidad, y la Ley
+9/1999, de 26 de mayo, de Conservación de la Naturaleza de Castilla-La Mancha, las actuaciones e infraestructuras
+del proyecto no coinciden ni se solapan territorialmente con ningún Espacio Natural Protegido ni con espacios
+integrados en la Red Natura 2000 (ZEC o ZEPA).
+Según la ficha de campo de la Unidad de Agentes Medioambientales, en el recinto 1 de la parcela 173 del polígono
+15 se localizan pies aislados de encina (Quercus rotundifolia) en el interior del recinto arable, existiendo más
+ejemplares en el borde del recinto, respecto a los cuales resultará de obligada aplicación el régimen de protección
+del arbolado (Ley 9/1999, de 26 de mayo).
+Atendiendo al planeamiento urbanístico vigente en el municipio afectado, las actuaciones del proyecto se distribuyen
+íntegramente en el Término Municipal de Los Navalmorales acogiendo la totalidad de las infraestructuras proyectadas
+(sondeo de captación, estructura fotovoltaica de bombeo, cabezal de filtrado y red de conducciones de riego por
+goteo) en el interior de la parcela 173 del polígono 15. Conforme al informe emitido por el Ayuntamiento de Los
+Navalmorales, los terrenos se hallan clasificados como suelo rústico de reserva, con uso principal agropecuario,
+confirmando la corporación municipal que la normativa urbanística vigente no prohíbe la explotación de aguas
+subterráneas y que las actuaciones resultan compatibles.
+3.3. Características del potencial impacto.
+El potencial impacto ambiental del proyecto deriva de la extracción de un volumen máximo de 6.951 m³/año (dotación
+deficitaria de 623 m³/ha/año) sobre la masa de agua subterránea. También por la combinación de las actuaciones de
+obra civil y perforación proyectadas (ejecución de sondeo por rotopercusión de 115 m de profundidad, apertura de
+zanjas de reducida dimensión para el soterrado de conducciones, e instalación de estructura solar fotovoltaica para
+bombeo e infraestructura de riego por goteo en 11,058 ha). Esto teniendo en cuenta los factores ambientales del
+área de implantación (parcela 173 del polígono 15 en Los Navalmorales, situada sobre la masa de agua subterránea
+03.05 “Madrid – Talavera”, en la Zona Vulnerable a la contaminación por nitratos “Madrid-Talavera-Tiétar”).
+En fase de construcción, las principales afecciones se vinculan a la generación puntual de ruido, gases y polvo
+producidos por la maquinaria de perforación (rotopercusión) y excavación de zanjas, al riesgo de compactación o
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40674
+erosión localizada del suelo, y a las posibles molestias transitorias sobre la fauna amenazada por la presencia de
+operarios y ruidos durante las obras (similares a las labores agrícolas ordinarias del entorno).
+Por su parte, la ficha de campo del Agente Medioambiental (NIP 10387, de fecha 7 de junio de 2026) confirma que
+el proyecto se encuentra sin iniciar e identifica como valores ambientales sensibles la presencia de encinas aisladas
+situadas en las tierras arables del recinto 1 de la parcela 173 del polígono 15, así como más ejemplares en los
+bordes del recinto. Asimismo, ratifica que el terreno se ubica en zona de importancia para el Águila Imperial Ibérica
+y el Lince Ibérico, y hace constar la posible modificación local del paisaje adehesado y de la hidrología del recinto,
+anotando la existencia de sinergias con otras explotaciones de regadío en olivar próximas.
+Finalmente, el análisis de vulnerabilidad del proyecto ante riesgos de accidentes graves o catástrofes naturales
+concluye que el riesgo es muy bajo o nulo, al ubicarse la finca fuera del DPH y de zonas inundables (SNCZI),
+en zona de peligrosidad sísmica nula, y en área de riesgo bajo por incendios forestales (Infocam) y fenómenos
+meteorológicos adversos (Meteocam).
+4. Medidas preventivas, correctoras o compensatorias para la integración ambiental del proyecto.
+Sin perjuicio de las medidas preventivas y correctoras contempladas por el promotor del proyecto en el documento
+ambiental, las cuales se consideran vinculantes con el contenido del presente Informe, y considerando las respuestas
+recibidas a las consultas realizadas, se formulan las siguientes medidas adicionales de protección, tratándose de
+condiciones que deberán incorporarse en la correspondiente autorización emitida por el órgano sustantivo.
+El promotor deberá adoptar las medidas que se indican a continuación, además de los condicionantes ambientales
+incluidos en el Documento Ambiental presentado, siempre que no se opongan a lo establecido en el presente
+Informe de Impacto Ambiental. Se informará a todo el personal implicado en la realización de las obras, del contenido
+del presente Informe de Impacto Ambiental, de manera que se ponga en su conocimiento las medidas que deben
+adoptarse a la hora de realizar los trabajos.
+4.1. Protección de los recursos naturales de la zona.
+Se respetarán de forma íntegra los pies aislados de encina presentes en el interior del recinto 1 de la parcela 173
+del polígono 15, así como los ejemplares situados en los linderos de la finca
+4.2. Protección del suelo, el sistema hidrológico e hidrogeológico y la salud pública.
+Con el fin de garantizar la integridad del Dominio Público Hidráulico (DPH), la preservación de los cauces y la
+protección cuantitativa y cualitativa de las masas de agua subterráneas, se estará a lo dispuesto en el informe
+ambiental emitido por la Confederación Hidrográfica del Tajo con fecha de registro de 08/08/2025.
+El informe establece una serie de condicionantes destinados principalmente a la protección de las aguas superficiales
+y subterráneas. Entre ellos, destaca la necesidad de obtener las correspondientes autorizaciones de la Confederación
+Hidrográfica del Tajo para el aprovechamiento de aguas y de cumplir las condiciones que dicho organismo establezca
+durante la tramitación. Asimismo, se recuerda que cualquier modificación de las características del aprovechamiento
+deberá contar con la oportuna autorización administrativa.
+En relación con la protección del dominio público hidráulico, se establecen distancias mínimas de seguridad respecto
+a cauces, masas de agua y elementos asociados. De forma expresa, se indica que las plantaciones autorizadas
+deberán mantener una distancia de protección que fijará el organismo de cuenca y que, en todo caso, será igual
+o superior a 5 metros desde el borde exterior de la vegetación natural de ribera. Del mismo modo, se señala la
+necesidad de preservar la vegetación de ribera existente y evitar actuaciones que puedan producir su eliminación o
+degradación.
+El informe concede especial relevancia a la prevención de la contaminación difusa de origen agrario. Al encontrarse
+la actuación en una zona vulnerable a nitratos, deberá cumplirse lo dispuesto en el Real Decreto 47/2022, sobre
+protección de las aguas contra la contaminación difusa producida por los nitratos procedentes de fuentes agrarias,
+controlando los aportes de nitrógeno y evitando que la actividad provoque el deterioro de las masas de agua. Se
+indica además que, cuando proceda, podrán exigirse balances de nitrógeno y otras medidas de seguimiento para
+verificar la sostenibilidad del aprovechamiento.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40675
+En materia de fertilización, también deberá cumplirse el Real Decreto 1051/2022, por el que se establecen normas
+para la nutrición sostenible en los suelos agrarios, ajustando las dosis de abonado a las necesidades reales del
+cultivo, teniendo en cuenta las aportaciones efectuadas mediante el agua de riego y minimizando las pérdidas
+de nutrientes al medio. El informe insiste en que las prácticas agronómicas desarrolladas en la explotación no
+deberán comprometer el buen estado de las masas de agua ni los objetivos ambientales fijados por la planificación
+hidrológica.
+Respecto a los productos fitosanitarios, se establecen medidas destinadas a minimizar su llegada a cauces y
+acuíferos. Entre ellas, figura el mantenimiento de una franja de seguridad mínima de 5 metros respecto a las masas
+de agua superficiales, así como la evitación de tratamientos cuando las condiciones meteorológicas incrementen el
+riesgo de deriva. Igualmente, se contemplan restricciones específicas en el entorno de captaciones destinadas al
+abastecimiento humano.
+El documento también recoge condicionantes relativos a la gestión de estiércoles y fertilizantes orgánicos,
+estableciendo distancias de seguridad respecto a cauces, pozos, fuentes y masas de agua para evitar procesos de
+contaminación. Los retornos procedentes del riego deberán cumplir los requisitos de calidad exigibles y no podrán
+generar afecciones apreciables sobre las aguas superficiales o subterráneas.
+Por otra parte, se recuerda la prohibición de realizar vertidos al dominio público hidráulico sin autorización previa.
+Durante las obras y la fase de explotación deberán adoptarse medidas para evitar la contaminación por combustibles,
+aceites, residuos, lodos de perforación y arrastres de sedimentos. Los residuos generados deberán almacenarse y
+gestionarse de acuerdo con la normativa vigente, evitando cualquier afección al suelo o a las aguas.
+En cuanto al sondeo proyectado, el informe exige que se ejecute conforme a las prescripciones técnicas de protección
+de las aguas subterráneas, manteniendo la captación adecuadamente protegida mediante tapa, cerramiento y
+elementos de seguridad. Los pozos y sondeos deberán permanecer en condiciones que impidan accidentes y
+eviten la entrada de contaminantes al acuífero, previéndose además su correcto sellado cuando dejen de utilizarse.
+Asimismo, los lodos empleados durante la perforación deberán ser compatibles con la protección del medio hídrico
+y cualquier infraestructura auxiliar deberá ser restaurada una vez finalizados los trabajos.
+También el Servicio de Salud Pública indica que los productos fitosanitarios que se utilicen, cumplirán con el Real
+Decreto 1311/2012, de 14 de septiembre, por el que se establece el marco de actuación para conseguir un uso
+sostenible de los productos fitosanitarios y con el Reglamento (CE) nº 1107/2009 del Parlamento Europeo y del
+Consejo, de 21 de octubre de 2009, relativo a la comercialización de productos fitosanitarios y por el que se derogan
+las Directivas 79/117/CEE y 91/414/CEE del Consejo.
+4.3. Gestión de residuos.
+Todos los residuos generados durante las fases de construcción y funcionamiento de la actividad, bien sean residuos
+peligrosos o no, e independientemente del origen de los mismos, estarán sujetos a lo dispuesto en la Ley 7/2022,
+de 8 de abril, de residuos y suelos contaminados para una economía circular, a lo establecido en el Real Decreto
+553/2020, de 2 de junio, por el que se regula el traslado de residuos en el interior del territorio del Estado, así como
+a lo señalado en la planificación regional sobre prevención y gestión de residuos: actualmente el Plan de Prevención
+y Gestión de Residuos de Castilla-La Mancha 2024-2030, aprobado por Decreto 35/2024, de 2 de julio.
+Las operaciones de mantenimiento de maquinaria y cambios de aceite se realizarán en taller autorizado, o en su
+defecto, el promotor comunicará el inicio de actividad como productor de residuos peligrosos para su inscripción en
+el Registro de Producción y Gestión de Residuos de Castilla-La Mancha, debiendo disponer de contrato con gestor
+autorizado.
+Cualquier vertido o derrame accidental que pudiera afectar al suelo, deberá ser descontaminado a la mayor brevedad
+posible, extrayendo la parte de suelo contaminado y entregando el residuo a gestor autorizado para su posterior
+tratamiento. El transportista también estará inscrito como transportista de residuos y el traslado se realizará con la
+documentación prevista en el Real Decreto 553/2020, antes citado.
+Todos los residuos generados serán retirados por gestores autorizados y se dispondrá del correspondiente contrato
+de tratamiento con los mismos. Tanto dicho contrato, como los Documentos de Identificación empleados para el
+traslado de residuos, podrán ser requeridos por la autoridad ambiental o sustantiva, debiendo ser conservados
+durante un mínimo de 3 años.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40676
+Durante la fase de explotación, los residuos de envases de productos fitosanitarios generados en la explotación
+agrícola deberán gestionarse en los términos establecidos por el Real Decreto 1055/2022, de 27 de diciembre,
+de envases y residuos de envases. Además, se estará a lo dispuesto en la Ley 43/2002, de 20 de noviembre, de
+sanidad vegetal, que señala el obligado cumplimiento de las disposiciones relativas a la eliminación de los envases
+vacíos de acuerdo con las condiciones establecidas y, en todo caso, con aquellas que figuren en sus etiquetas.
+4.4. Protección urbanística e infraestructuras.
+De conformidad con el artículo 165.1 del texto refundido de la Ley de Ordenación del Territorio y de la Actividad
+Urbanística de Castilla-La Mancha, aprobado por Decreto Legislativo 1/2023, de 28 de febrero, están sujetos a la
+obtención de licencia urbanística, sin perjuicio de las demás autorizaciones que sean procedentes con arreglo a la
+legislación sectorial aplicable, los actos de construcción y edificación y de uso del suelo que en el mismo se detallan;
+en particular, entre otros: las obras de construcción, edificación e implantación de instalaciones de toda clase;
+los movimientos de tierra; y las instalaciones que afecten al subsuelo. La actividad deberá cumplir la normativa
+urbanística que le sea de aplicación. En este sentido, el arquitecto municipal el 02/07/2025 firmó en su informe el
+certificado de compatibilidad urbanística.
+Por otra parte, el promotor comunicará al Ayuntamiento de Los Navalmorales, la ampliación y el inicio de esta nueva
+actividad agrícola, con el fin de garantizar el cumplimiento de los permisos y licencias que procedan.
+4.5. Protección a la atmósfera, calidad del aire y prevención del ruido.
+Con el objetivo de cumplir con la normativa vigente respecto a los niveles de emisión de contaminantes a la atmósfera
+y de minimizar la producción y dispersión del polvo, se estará a lo dispuesto por la Ley 34/2007, de 15 de noviembre,
+de calidad del aire y protección de la atmósfera. La maquinaria a utilizar deberá haber pasado las correspondientes
+y obligatorias Inspecciones Técnicas de Vehículos, en especial las revisiones referentes a las emisiones de gases.
+Los niveles de ruido generados durante el funcionamiento de las instalaciones deben cumplir lo establecido en la
+Ley 37/2003, de 17 de noviembre, del Ruido, así como sus Reglamentos de desarrollo y ordenanzas municipales.
+Se deberá minimizar el ruido a niveles que no molesten a la fauna presente en la zona. Del mismo modo, y a tal fin,
+los vehículos no deberán circular sobre caminos de tierra o cualquier otro firme natural a una velocidad superior a
+30 km/h, salvo que esté expresamente autorizado por la señalización del camino.
+4.6. Protección del paisaje.
+Los materiales a emplear en la construcción de las infraestructuras necesarias deberán presentar texturas, colores
+y diseños tradicionales de la zona, con el fin de lograr una integración paisajística que atenúe su impacto visual. Se
+recomienda, igualmente, integrar paisajísticamente las infraestructuras necesarias para el bombeo e instalaciones
+auxiliares, mediante el completo acabado de sus caras vistas y el uso de mate-riales y tonos acordes con el entorno.
+4.7. Patrimonio cultural.
+El Servicio de Cultura de Toledo de la Delegación Provincial de Educación, Cultura y Deportes de Toledo, indica que
+en caso de que aparecieran restos materiales con valor cultural durante su ejecución, se deberá actuar conforme a
+lo previsto en el artículo 52 de la Ley 4/2013 de 16 de mayo de Patrimonio Cultural de Castilla la Mancha, debiendo
+comunicar el hallazgo en un plazo máximo de 48 horas ante la Consejería competente en materia de Patrimonio
+Cultural. Este órgano determinará el carácter de los hallazgos y resolverá expresamente las medidas de protección
+de los mismos.
+4.8. Plan de restauración y desmantelamiento.
+Una vez finalizada la actividad de forma permanente, se eliminarán las instalaciones, se retirarán todos los restos de
+material, residuos o tierras sobrantes a gestores de residuos autorizados, conforme a la naturaleza de cada residuo,
+y se restaurarán los terrenos ocupados a su estado original, dejando el área de actuación en perfecto estado de
+limpieza. El desmontaje y la restauración deberá realizarse en el plazo máximo de un año tras la finalización de
+la actividad y deberá ponerse en conocimiento del Servicio de Calidad Ambiental de la Delegación Provincial de
+Toledo de la Consejería de Desarrollo Sostenible para dar por finalizado el expediente. Asimismo, en caso de que
+la actividad sea traspasada o cambie de titular, también se deberá poner en conocimiento de esta Delegación
+Provincial.
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40677
+5. Especificaciones para el seguimiento ambiental del proyecto.
+De acuerdo con el artículo 64 de la Ley 2/2020, corresponde al órgano sustantivo el seguimiento del cumplimiento
+del Informe de Impacto Ambiental, sin perjuicio de la potestad del órgano ambiental para recabar información y
+realizar las comprobaciones que considere necesarias para verificar el cumplimiento del condicionado del IIA. De
+las inspecciones llevadas a cabo podrán derivarse modificaciones de las actuaciones previstas, al objeto de lograr
+la consecución de los objetivos del presente IIA. Estas modificaciones tendrán que ser autorizadas conjuntamente
+por ambos órganos.
+Para llevar a cabo el programa de seguimiento y vigilancia, el promotor deberá designar un responsable del mismo
+y deberá notificar su nombramiento tanto al órgano sustantivo como al ambiental. El seguimiento y la vigilancia
+tendrán por objeto comprobar que el proyecto se desarrolla cumpliendo las condiciones establecidas en el estudio
+ambiental, en las adendas posteriores presentadas y en esta resolución. El seguimiento y la vigilancia incidirán
+especialmente en los siguientes puntos
+- Control de la protección de los recursos naturales, conservando íntegramente las encinas existentes y sus zonas
+de protección.
+- Control de las medidas de protección del suelo, aguas y salud pública, cumpliendo las condiciones de la
+Confederación Hidrográfica del Tajo, la normativa sobre nitratos, nutrición sostenible, fitosanitarios y protección del
+sondeo.
+- Control de las medidas de gestión de residuos, mediante su entrega a gestores autorizados, correcta gestión de
+residuos peligrosos y actuación inmediata ante derrames.
+- Control de las medidas de protección urbanística e infraestructuras, obteniendo las autorizaciones exigibles y
+comunicando el inicio de la actividad al Ayuntamiento.
+- Control de las medidas de protección de la atmósfera y prevención del ruido, minimizando emisiones de polvo,
+molestias acústicas y limitando la velocidad de los vehículos.
+- Control de las medidas de protección del paisaje, integrando las instalaciones mediante materiales, colores y
+diseños acordes con el entorno.
+- Control de las medidas de protección del patrimonio cultural, comunicando cualquier hallazgo arqueológico o
+cultural en un plazo máximo de 48 horas.
+- Control del plan de restauración y desmantelamiento, retirando las instalaciones y restaurando los terrenos a su
+estado original en el plazo máximo de un año.
+Todas las actuaciones y mediciones que se realicen en aplicación del programa de vigilancia ambiental, deberán
+tener constancia escrita y gráfica mediante actas, lecturas, estadillos, fotografías y planos, de forma que permitan
+comprobar la correcta ejecución y cumplimiento de las condiciones establecidas y de la normativa vigente que le sea
+de aplicación. Esta documentación estará a disposición de los órganos de inspección y vigilancia.
+6. Documentación adicional.
+El promotor de este proyecto deberá presentar la siguiente documentación ante el órgano sustantivo y el órgano
+ambiental antes del inicio de la actividad:
+- Notificación de la fecha prevista para el inicio de las medidas compensatorias con una antelación mínima de
+10 días.
+- Designación por parte del promotor de un responsable para el cumplimiento del plan de seguimiento y vigilancia
+ambiental del proyecto.
+- Resolución de la concesión/modificación de las características de la concesión administrativa de la Confederación
+Hidrográfica del Tajo.
+7. Conclusión.
+Como consecuencia del análisis realizado, esta Delegación Provincial de la Consejería de Desarrollo Sostenible
+de Toledo, en virtud del Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica y las
+competencias de la Consejería de Desarrollo Sostenible y en el ejercicio de las atribuciones conferidas por la
+Resolución de 24/05/2024, de la Dirección General de Calidad Ambiental, por la que se delegan competencias
+en materia de evaluación ambiental en las Delegaciones Provinciales de la Consejería de Desarrollo Sostenible,
+y de conformidad con el artículo 54 de la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La
+Mancha, resuelve que el proyecto denominado “Ejecución de sondeo para captación de aguas subterráneas para
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40678
+riego. Plantación de 11,058 ha de olivar” (expediente S478/2025/TO/00052), ubicado en el término municipal de Los
+Navalmorales (Toledo), cuyo promotor es Ángel Díaz Pinto, no necesita someterse a una evaluación de impacto
+ambiental ordinaria por estimarse que no tiene efectos significativos en el medio ambiente, siempre que se cumplan
+las medidas ambientales y de seguimiento que propone el promotor y los requisitos ambientales que se desprenden
+del presente informe de impacto ambiental.
+Esta resolución se hará pública a través del Diario Oficial de Castilla-La Mancha y de la sede electrónica de la
+Consejería de Desarrollo Sostenible (https://neva.jccm.es/nevia), tal y como establece el artículo 54.3 de la Ley
+2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha.
+El presente Informe de Impacto Ambiental perderá su vigencia y cesará en la producción de los efectos que le son
+propios en el plazo máximo de cuatro años desde su publicación en el Diario Oficial de Castilla-La Mancha, salvo
+que se hubiera autorizado el proyecto y comenzado su ejecución, de acuerdo con el artículo 54.4 de la Ley 2/2020.
+El promotor podrá solicitar prórroga de vigencia antes de que transcurra el plazo de la misma, la cual se podrá
+conceder, en su caso, por dos años adicionales, contados a partir de la finalización del plazo inicial de vigencia, para
+lo cual se estará a lo marcado en el artículo 55 de la Ley 2/2020. En el caso de producirse la caducidad, el promotor
+deberá iniciar nuevamente el procedimiento de evaluación de impacto ambiental simplificada del proyecto.
+De conformidad con el artículo 54.5 de la Ley 2/2020, el presente informe de impacto ambiental no será objeto de
+recurso alguno sin perjuicio de los que pudieran proceder en vía administrativa o judicial frente al acto futuro de
+autorización del proyecto, en su caso.
+Por último, y de conformidad con el artículo 56 de la Ley 2/2020, el órgano sustantivo, en el plazo de quince días
+hábiles desde que adopte la decisión de autorizar o denegar el proyecto, remitirá al Diario Oficial de Castilla-La
+Mancha, un extracto del contenido de dicha decisión para su publicación. Asimismo, publicará en su sede electrónica
+la decisión sobre la autorización o denegación del proyecto y una referencia al Diario Oficial de Castilla-La Mancha
+en el que se ha publicado este Informe de Impacto Ambiental.
+Además, se incluye un anexo cartográfico con la situación del proyecto para su localización por parte del público y
+del personal responsable del seguimiento.
+Toledo, 11 de noviembre de 2026
+El Director General de Calidad Ambiental
+P.D. (Resolución de 24/05/2024)
+El Delegado Provincial
+JOSÉ RUBÉN TORRES MORATALLA
+
+AÑO XLV Núm. 223 20 de noviembre de 2026 40679
+ANEXO CARTOGRÁFICO S478/2025/TO/00052
+Imagen nº 1. Esquema del emplazamiento del sondeo, la tubería general y el olivar dentro de
+la parcela de estudio en el polígono 15, parcela 173 donde se lleva a cabo el proyecto en el
+Término Municipal de Los Navalmorales. Fuente: Documento Ambiental.
+Imagen nº 2. Localización de la parcela de estudio con el arbolado a conservar y el sondeo para
+el proyecto a desarrollar en el polígono 15, parcela 173 en el Término Municipal de Los
+Navalmorales. Fuente: Documento Ambiental.
