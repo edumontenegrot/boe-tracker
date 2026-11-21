@@ -1,0 +1,195 @@
+Boletín Oficial de Castilla y León
+Núm. 225 Viernes, 20 de noviembre de 2026 Pág. 255
+I. COMUNIDAD DE CASTILLA Y LEÓN
+E. ANUNCIOS
+E.2. Otros Anuncios Oficiales
+CONSEJERÍA DE MEDIO AMBIENTE Y ENERGÍA
+Servicio Territorial de Industria, Comercio y Economía de Soria
+INFORMACIÓN pública relativa a la solicitud de autorización administrativa previa y
+declaración de impacto ambiental del proyecto de parque eólico sujeto a la modalidad de
+autoconsumo «Corpal» y su infraestructura de evacuación, titularidad de «Green Capital
+Development 94, S.L.U.».
+A los efectos previstos en el artículo 8 del Decreto 46/2022, de 24 de noviembre, por
+el que se regulan los procedimientos de autorizaciones administrativas de instalaciones
+eléctricas en Castilla y León, en el Título VII del R.D. 1955/2000 por el que se regulan las
+actividades de transporte, distribución, comercialización, suministro y procedimientos de
+autorización de instalaciones de energía eléctrica, de desarrollo de la Ley 24/2013 del
+Sector eléctrico, en la Ley 21/2013 de 9 de diciembre, de Evaluación Ambiental y en el
+Art. 55 del Decreto Legislativo 1/2015, de 12 de noviembre por el que se aprueba el texto
+refundido de la Ley de Prevención Ambiental de Castilla y León, se somete a información
+pública la solicitud de Autorización Administrativa Previa y Declaración de Impacto
+Ambiental para la instalación de producción de energía eléctrica, cuyas características
+principales son las siguientes:
+PROYECTO DE PARQUE EÓLICO SUJETO A LA MODALIDAD DE AUTOCONSUMO
+«CORPAL» Y SU INFRAESTRUCTURA DE EVACUACIÓN:
+La citada instalación ha obtenido los respectivos permisos de acceso y conexión
+(AUT-30229-24) para generación renovable asociada a autoconsumo con excedentes
+de 50 MW de generación y 25 MW de consumo en la subestación Almazán 400 kV de
+REE. El punto de conexión REE lo establece en el lado de 400 kV del ATP1 400/132 kV
+situado en la SET Almazán 132 kV propiedad de Iberdrola. Por ello, la conexión efectiva
+se realiza en una posición de línea en la SET Almazán 132 kV.
+La instalación de consumo Begonia (que no es objeto de este expediente) asociada
+para el autoconsumo de la energía generada por el proyecto del Parque Eólico CORPAL
+será una planta encargada de la producción de hidrógeno renovable en el T.M. de Almazán
+(Soria), basada en un sistema de electrólisis. A pesar de ser objeto de otro expediente de
+tramitación ante la Administración, de cara al autoconsumo de energía procedente de PE
+Corpal en la planta industrial «Begonia», serán necesarias las siguientes infraestructuras
+adicionales, cuya titularidad ostenta la sociedad Green Capital Development 98, S.L.U.:
+• SET Begonia 132 kV en las proximidades del punto de consumo.
+• Línea aérea a 132 kV, de conexión entre la SET Begonia 132 kV, y el Centro de
+Seccionamiento Begonia B2.
+CV: BOCYL-D-20112026-225-30
+
+Boletín Oficial de Castilla y León
+Núm. 225 Viernes, 20 de noviembre de 2026 Pág. 256
+Se describen a continuación cada una de las partes que componen este Expediente
+administrativo:
+1.– Parque Eólico «Corpal». Según Anteproyecto de parque eólico Corpal, de fecha
+06/03/2026, firmado por el ingeniero de Caminos Alvaro Hernando Aragón, en los TT.MM.
+de Cubo de la Solana, Borjabad, Tejado y Nolay (Soria). Características principales:
+Formado por 10 aerogeneradores, modelo N175-HH112 o similar con 5000 kW de
+potencia unitaria, una altura al buje de 112 m y un diámetro de rotor de 175 m., con lo que
+la potencia total del parque será de 50 MW.
+La evacuación de este parque eólico se realiza mediante una red subterránea a
+30kV mediante 4 líneas en 30 kV formadas por cables RHZ1-2OL H16CU 18/30 (36) kV
+AL en secciones de 120, 240 y 630 mm², que recoge la energía generada en cada uno
+de los aerogeneradores de dicho parque y la conduce hasta la subestación «SET PE
+Corpal» 30/132 kV.
+Se instalará la correspondiente red de tierras y red de telecomunicaciones descritas
+en proyecto.
+Se proyecta la instalación de dos torres de medición meteorológica, ubicadas en
+coordenadas UTM WGS84 Huso 30N TM-I:X: 549696, Y: 4601507 y TM-II:X: 555152, Y:
+4601952, respectivamente. Asimismo, se proyecta la correspondiente red de caminos y
+viales internos del parque y de conexión con la red viaria de acceso.
+Las coordenadas UTM WGS84 Huso 30N de los aerogeneradores proyectados son
+las que se indican en la siguiente tabla:
+AERO X Y
+COP-02 549871 4601852
+COP-03 555425 4601691
+COP-04 550067 4601243
+COP-05 551614 4600968
+COP-06 556535 4602144
+COP-07 555439 4600890
+COP-08 554628 4600504
+COP-09 554126 4599594
+COP-10 555935 4600366
+COP-11 555902 4599468
+2.– Subestación Transformadora SET PE Corpal 30/132 kV. Según Anteproyecto de
+fecha enero de 2025 firmado por el ingeniero técnico industrial Julián García Sánchez,
+ocupando una superficie total aproximada de 4.496 m² en la Parcela 293, pol. 1 con
+referencia catastral 42064B001002930000QL del T.M. de Borjabad (Soria). Características
+principales:
+2.1.– Dos (2) Interruptores de corte en gas SF6 de intemperie tripolares, tensión de
+servicio 132 kV.
+2.2.– Tres (3) Seccionadores tripolares en total, con puesta a tierra (1) y sin puesta
+a tierra (2), de intemperie tensión de servicio 132 kV.
+CV: BOCYL-D-20112026-225-30
+
+Boletín Oficial de Castilla y León
+Núm. 225 Viernes, 20 de noviembre de 2026 Pág. 257
+2.3.– Seis (6) transformadores de intensidad de intemperie tensión de servicio
+132 kV.
+2.4.– Seis (6) transformadores de tensión de intemperie inductivos tensión de servicio
+132 kV.
+2.5.– Seis (6) autoválvulas de intemperie, tensión más elevada 145 kV.
+2.6.– Aparamenta de 30 kV encapsuladas bajo envolvente metálica con aislamiento
+en gas SF6 y corte en vacío, de ejecución interior: 1 celda de protección de transformador,
+6 celdas de línea, 1 celda de servicios auxiliares.
+2.7.– Un (1) transformador de potencia 30/132 kV de 45/60 MVA de potencia,
+refrigeración ONAN/ONAF sobre bancada exterior.
+2.8.– Sistema de servicios auxiliares y edificio prefabricado para albergar aparamenta
+de interior. Red de tierras, control de accesos, telecomunicaciones y resto de instalaciones
+afines.
+3.– Línea eléctrica de evacuación 132 kV SET Corpal – Centro de Seccionamiento
+Begonia B2. Según Anteproyecto de fecha febrero de 2025 firmado por el ingeniero
+técnico industrial Julián García Sánchez. Características principales:
+La longitud total de la línea es de 23.086 m, discurriendo por los términos municipales
+de Borjabad, Nepas, Viana del Duero, Escobosa de Almazán y Coscurita (provincia de
+Soria) Características principales:
+3.1.– Tramo subterráneo de 18,486 kilómetros de longitud de simple circuito,
+con canalización preparada para otro circuito, 132kV de tensión y con su inicio en la
+SET Corpal y fin el Apoyo n.º 1 de conversión aéreo-subterráneo. Conductor tipo RHZ1-
+RA+2OL 76/132kV 1x400KAl en canalización enterrada.
+3.2.– Tramo aéreo de 4,60 kilómetros de simple circuito, con apoyos preparados para
+albergar un triple circuito, 132kV de tensión y con su inicio en el Apoyo n.º 1 de conversión
+aéreo-subterráneo y fin en el Centro de Seccionamiento Begonia B2. Conductor tipo
+147-AL1/34-ST1A (LA-180) en apoyos metálicos de celosía.
+4.– CEntro de seccionamiento Begonia B2 132 kV. Según Anteproyecto de fecha
+enero de 2025 firmado por el ingeniero técnico industrial Julián García Sánchez,
+ocupando una superficie total aproximada de 6.447 m2 en las Parcelas 124 y 30103,
+pol. 1, con referencias catastrales 42107B001001240000KB y 42107B001301030000KD
+respectivamente del T.M. de Coscurita (Soria). Características principales:
+4.1.– Cuatro (4) Interruptores de corte en gas SF6 de intemperie tripolares, tensión
+de servicio 132 kV.
+4.2.– Siete (7) Seccionadores tripolares en total, con puesta a tierra (3) y sin puesta
+a tierra (4), de intemperie tensión de servicio 132 kV.
+4.3.– Doce (12) transformadores de intensidad de intemperie tensión de servicio
+132 kV.
+CV: BOCYL-D-20112026-225-30
+
+Boletín Oficial de Castilla y León
+Núm. 225 Viernes, 20 de noviembre de 2026 Pág. 258
+4.4.– Doce (12) transformadores de tensión de intemperie inductivos tensión de
+servicio 132 kV.
+4.5.– Doce (12) autoválvulas de intemperie, tensión más elevada 145 kV.
+4.6.– Tres (3) transformadores de tensión de intemperie SF6 para servicios auxiliares
+132/0,4 kV de 100 kVA.
+4.7.– Un (1) transformador de potencia 132/15 kV de 100 MVA de potencia,
+refrigeración ONAN/ONAF sobre bancada exterior.
+4.8.– Sistema de servicios auxiliares y edificio prefabricado para albergar aparamenta
+de interior. Red de tierras, control de accesos, telecomunicaciones y resto de instalaciones
+afines.
+4.9.– Equipo de compensación síncrono tipo INDARCOM marca Ingeteam o similar,
+de 20 MVA de potencia aparente, 100 MVA de potencia aparente del transformador,
+tensión de alta: 132 kV, tensión de baja: 15 kV, sistemas de alta y baja tensión, sistema
+de control y protección y sistema de refrigeración.
+5.– Línea eléctrica de evacuación 132kV SC Centro de seccionamiento Begonia B2
+– SET Almazán 132kV Iberdrola. Según Anteproyecto de fecha febrero de 2025 firmado
+por el ingeniero técnico industrial Julián García Sánchez. Características principales:
+La longitud total de la línea es de 616 m, discurriendo por el término municipal de
+Coscurita (provincia de Soria) Características principales:
+5.1.– Tramo subterráneo de 0,26 kilómetros de longitud de simple circuito, 132kV de
+tensión y con su inicio en el Centro de seccionamiento Begonia B2 y fin el Apoyo n.º 1
+de conversión aéreo-subterráneo. Conductor tipo RHZ1-RA+2OL 76/132kV 1x400KAl en
+canalización enterrada.
+5.2.– Tramo aéreo de 0,356 kilómetros de simple circuito, 132kV de tensión y con su
+inicio en el Apoyo n.º 1 de conversión aéreo-subterráneo y fin en la posición de línea del
+pórtico de la SET Almazán 132kV (Iberdrola). Conductor tipo 147-AL1/34-ST1A (LA-180)
+en apoyos metálicos de celosía.
+PRESUPUESTO.
+1.– Parque eólico «Corpal»: 33.250.390,53 €
+2.– Subestación Transformadora SET PE Corpal: 2.150.267,81 €
+3.– Línea eléctrica de evacuación 132 kV SET Corpal – Centro de seccionamiento
+Begonia B2: 11.529.670,20 €
+4.– Centro de seccionamiento Begonia B2 132 kV: 11.597.816,40 €
+5.– Línea eléctrica de evacuación 132kV SC Centro de seccionamiento Begonia B2
+– SET Almazán 132kV Iberdrola: 299.023,00 €
+Total: 58.827.167,94 €
+CV: BOCYL-D-20112026-225-30
+
+Boletín Oficial de Castilla y León
+Núm. 225 Viernes, 20 de noviembre de 2026 Pág. 259
+Órgano competente para resolver: Servicio Territorial de Industria, Comercio y
+Economía de la Junta de Castilla y León en Soria.
+Plazo para resolver: 3 meses contados a partir del día en que se reciba en este
+Servicio Territorial la Declaración de Impacto Ambiental, siendo el silencio administrativo
+desestimatorio.
+Lo que se hace público para conocimiento general y para que todas aquellas
+personas que se consideren afectadas en sus derechos puedan examinar el proyecto
+en las dependencias administrativas que abajo se citan y, en su caso, se formulen a
+los mismos, las alegaciones y los datos oportunos para rectificar posibles errores de
+la relación, presentándolos en el plazo de treinta días a contar a partir del siguiente
+al de la publicación de este anuncio. Esta publicación se efectuará igualmente a los
+efectos previstos en el Art. 42 de la Ley 39/2015, de 1 de octubre, del Procedimiento
+Administrativo Común de las administraciones públicas.
+Las dependencias administrativas donde puede examinarse el proyecto, en días
+hábiles y de 9 a 14 horas, son: Servicio Territorial de Industria, Comercio y Economía de
+Soria, C/ Campo, 5-4ª planta, Soria, así como en la página web de la Junta de Castilla
+y León, en la Sección de Energía y Minas (https://energia.jcyl.es/web/es/informacion-
+publica-energia-minas/energia-soria.html), «información pública en materia de energía
+y minas».
+Soria, 12 de noviembre de 2026.
+El Jefe del Servicio Territorial,
+Fdo.: Manuel López Represa
+http://bocyl.jcyl.es D.L.: BU 10-1979–ISSN 1989-8959
+CV: BOCYL-D-20112026-225-30
