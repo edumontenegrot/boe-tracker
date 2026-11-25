@@ -1,0 +1,154 @@
+AÑO XLV Núm. 226 25 de noviembre de 2026 41120
+III.- OTRAS DISPOSICIONES Y ACTOS
+Consejería de Desarrollo Sostenible
+Resolución de 17/11/2026, de la Dirección General de Transición Energética, de autorización administrativa
+previa y autorización administrativa de construcción, de la instalación de almacenamiento BESS Alsemur
+2, para hibridación de la instalación solar fotovoltaica FV Alsemur 2. (Referencia: 2713/00011). [2026/8376]
+Visto el expediente incoado en la Delegación Provincial de Desarrollo Sostenible en Ciudad Real, y su informe,
+y el informe del Servicio de Instalaciones y Tecnologías Energéticas para la autorización administrativa previa y
+autorización administrativa de construcción de la siguiente instalación eléctrica:
+- Referencia: 2713/00011 - 2703/01236 (DP: 13270209202).
+- Peticionario: Alsemur Renovables, S.L. - NIF: B02469088.
+- Documentación técnica: “Proyecto técnico administrativo para la solicitud de autorización administrativa previa y
+de construcción de la instalación de almacenamiento de energía Bess Alsemur 2”, de marzo de 2026, y firmado por
+D. Juan José García Pajuelo en fecha 25/05/2026. Se aporta Declaración Responsable de técnico competente y
+cumplimiento de normativa.
+- Características técnicas: El sistema de almacenamiento de energía con baterías se diseñará con una potencia
+instalada en baterías de 24,78 MW y una capacidad de almacenamiento de 4h (99,12 MWh). Estará compuesto por
+20 contenedores de 5 MWh cada uno. Se instalarán 118 inversores de 210 kW. Habrá 5 centros de transformación
+de 5.140 kVA. Para la evacuación de la nueva planta de almacenamiento, se instalará un centro de seccionamiento
+en la propia planta de almacenamiento donde llegarán dos circuitos subterráneos de 30 kV procedentes de las
+agrupaciones de los distintos centros de transformación. Desde dicho centro de seccionamiento se conectará con
+la subestación “SET Ojailén 30/400 kV”, a través de una línea subterránea de 30 kV de 1 circuito de doble sección
+y longitud aproximada de 2.309,55 m. La potencia instalada de la instalación hibridada a efectos de autorización
+administrativa es de 49,98 MW.
+Nota: La anterior descripción tiene carácter meramente indicativo. Para una descripción detallada de la misma, se
+deberá acudir a la documentación técnica que se encuentra en el expediente.
+- Situación: Parcela 372 del polígono 6 del término municipal de Brazatortas (Ciudad Real). El sistema de
+almacenamiento ocupará una superficie de 5.443,87 m2 y estará ubicado dentro del vallado de la fotovoltaica.
+- Evacuación: Actualización por parte de Red Eléctrica de España S.A.U., de los permisos de acceso y conexión,
+para la hibridación de FV Alsemur 2, de fecha 13/01/2026, y referencia DDS.DAR.26_0115.
+- Finalidad: Hibridación, entre un sistema de almacenamiento de energía en baterías electroquímicas y la planta
+solar fotovoltaica “FV Alsemur 2” existente.
+Y en base a los siguientes:
+Antecedentes de hecho.
+Primero: Mediante resolución de la Dirección General de Transición Energética de 19/06/2023, publicada en el
+DOCM nº 124 de 30/06/2023, se otorgó a Alsemur Renovables, S.L. autorización administrativa previa, y autorización
+administrativa de construcción de la instalación solar fotovoltaica “FV Alsemur 2”, de referencia 2703/01236.
+Segundo: Mediante resolución de la Dirección General de Transición Energética de 11/09/2025, se otorgó a Alsemur
+Renovables, S.L. autorización administrativa de construcción de la modificación de la instalación solar fotovoltaica
+“FV Alsemur 2”, de referencia 2703/01236-M1.
+Tercero: Mediante anuncio de 26/06/2026, de la Delegación Provincial de Desarrollo Sostenible de Ciudad Real,
+se somete a información pública la solicitud de autorización administrativa previa y autorización administrativa
+de construcción de la modificación de la hibridación con un sistema de almacenamiento mediante baterías Bess
+Alsemur 2, de la planta de energía solar fotovoltaica denominada FV Alsemur 2, promovida por Alsemur Renovables,
+S.L. (expediente 13270209202).
+Dicho anuncio se publicó en el DOCM nº 135 de 17/07/2026, y en el Tablón de anuncios electrónico de la Junta de
+Comunidades de Castilla- La Mancha entre el 30/07/2026 y el 31/08/2026.
+Durante el trámite de información pública, no se recibieron alegaciones.
+
+AÑO XLV Núm. 226 25 de noviembre de 2026 41121
+Cuarto: En cumplimiento de lo establecido en el Decreto 80/2007, de 19 de junio, por el que se regulan los
+procedimientos de autorización de instalaciones de energía eléctrica a tramitar por la Junta de Comunidades de
+Castilla-La Mancha y su régimen de revisión e inspección, se remitieron las correspondientes separatas a las
+Administraciones públicas, organismos y, en su caso, empresas de servicio público o de servicios de interés general
+que fueron identificadas con bienes o servicios a su cargo afectadas por la instalación; solicitando informe sobre su
+conformidad u oposición a la instalación, así como el condicionado técnico a la misma que consideraran conveniente,
+con el siguiente resultado:
+- Ayuntamiento de Brazatortas: se envía separata con fecha de puesta a disposición 28/07/2026. Dentro del plazo
+establecido no consta la emisión de informe, por lo que se entiende su conformidad.
+- Confederación Hidrográfica del Guadalquivir: se envía separata con fecha de puesta a disposición 28/07/2026.
+Dentro del plazo establecido no consta la emisión de informe, por lo que se entiende su conformidad.
+- Servicio Calidad Ambiental de Ciudad Real: se envía separata con fecha de puesta a disposición 28/07/2026.
+Dentro del plazo establecido no consta la emisión de informe, por lo que se entiende su conformidad.
+- Servicio de Cultura de Ciudad Real: se envía separata con fecha de puesta a disposición 28/07/2026. Se recibe
+contestación con fecha 03/08/2026, informando que se considera la actividad compatible, y recuerda la necesidad
+de obtener autorización sectorial.
+Se envía esta contestación al solicitante en fecha 17/08/2026 para que, con plazo de 10 días, según Decreto 80/2007,
+preste conformidad o informe de cualquier circunstancia al respecto, no habiéndose recibido contestación del mismo.
+Quinto: Con fecha 21/05/2026 se envió al Servicio de Calidad Ambiental consulta sobre la necesidad de sometimiento
+a un procedimiento de evaluación ambiental de la hibridación de la FV Alsemur 2, la cual contaba con DIA favorable
+(expediente PRO-CR-22-1576).
+En informe de 26/08/2026, el Servicio de Calidad Ambiental estima que la modificación planteada no supone incremento
+significativo de las emisiones a la atmósfera, de los vertidos a cauces públicos, de la generación de residuos, en la
+utilización de recursos naturales, una afección a Espacios Protegidos Red Natura 2000 o una afección significativa
+al patrimonio cultural o al paisaje. Sin embargo, sí existe una mayor afección sobre recursos naturales, teniendo en
+cuenta el sellado del suelo que se produce por el hormigonado necesario para la instalación, esta afección no se
+considera crítica y puede ser compensada. Por ello, además de todos los condicionados originalmente impuestos
+en la DIA, establece varias medidas adicionales que deberán ser cumplidas. En particular, se establece una medida
+compensatoria consistente en la aplicación de las actuaciones necesarias para que el suelo pueda recuperar su
+funcionalidad como sumidero de carbono y mantenimiento de la biodiversidad.
+Sexto: La Delegación Provincial de Desarrollo Sostenible en Ciudad Real cumplió con lo establecido en la resolución
+de 03/09/2019, de la Dirección General de Transición Energética, sobre delegación de competencias en los/as
+delegados/as provinciales de la Consejería de Desarrollo Sostenible, y ha elaborado con fecha 10/09/2026 informe
+favorable, para la autorización administrativa previa y de construcción solicitadas.
+Séptimo: El Servicio de Instalaciones y Tecnologías Energéticas ha emitido informe favorable para la autorización
+administrativa previa y de construcción solicitadas.
+En relación con los anteriores antecedentes de hecho resultan de aplicación los siguientes:
+Fundamentos de derecho.
+Primero: Esta Dirección General de Transición Energética es el órgano competente para la emisión de la presente
+resolución según lo establecido en el Decreto 112/2023, de 25 de julio, por el que se establece la estructura orgánica
+y las competencias de la Consejería de Desarrollo Sostenible.
+Segundo: Justificación de la resolución.
+El expediente contiene la documentación necesaria para la autorización administrativa previa y autorización
+administrativa de construcción de la instalación y su tramitación se ha realizado según lo establecido en el Decreto
+80/2007 y demás normativa de aplicación.
+Respecto del conjunto de alegaciones, informes y condicionados presentados, a la vista de la documentación
+aportada, se entiende que no existe ninguna que impida otorgar la autorización administrativa previa y la autorización
+administrativa de construcción solicitadas.
+
+AÑO XLV Núm. 226 25 de noviembre de 2026 41122
+Cumplidos los trámites reglamentarios y analizada la documentación presentada.
+Vistos el Decreto 112/2023; la Ley 24/2013, de 26 de diciembre, del Sector Eléctrico; la Ley 2/2020, de 7 de febrero,
+de Evaluación Ambiental de Castilla-La Mancha; el Real Decreto 1183/2020; el Decreto 80/2007; la Ley 39/2015,
+de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas y demás legislación
+concordante de aplicación.
+En su virtud,
+Informa Favorablemente: Otorgar a Alsemur Renovables, S.L. la autorización administrativa previa y la autorización
+administrativa de construcción de las instalaciones eléctricas de referencia, de acuerdo a las características
+indicadas. La presente resolución se encuentra sujeta a las siguientes condiciones:
+Primera: La autorización otorgada se entiende sin perjuicio de otras concesiones y autorizaciones que sean necesarias
+en aplicación de la legislación que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio
+ambiente, no eximiendo del cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Segunda: El titular de la instalación tendrá en cuenta para su ejecución las condiciones impuestas por los Organismos
+que las han establecido, las cuales han sido puestas en su conocimiento y aceptadas expresamente por él.
+Tercera: Cualquier modificación que afecte a las características técnicas básicas de la instalación proyectada o
+modifique la afección a terceros requerirá la valoración por parte de la Delegación Provincial, sobre la necesidad de
+obtener o no una nueva Autorización Administrativa Previa y/o Autorización Administrativa de Construcción.
+Cuarta: Esta autorización producirá los efectos previstos en la normativa procedimental de aplicación a este tipo de
+instalaciones, y su vigencia se encuentra supeditada a la cumplimentación y obtención, por parte del solicitante, del
+resto de trámites y requisitos necesarios para la efectiva conexión de la instalación objeto de la misma.
+Quinta: Se deberá de cumplir con lo indicado en la Resolución de 09/06/2022 de la Delegación Provincial de
+Desarrollo Sostenible de Ciudad Real, por la que se formula la Declaración de Impacto Ambiental del proyecto, así
+como en el resto de informes emitidos por el órgano ambiental, en el marco de lo dispuesto en la normativa básica
+aplicable y en la Ley 2/2020, de 7 de febrero, de Evaluación Ambiental de Castilla-La Mancha y demás normativa
+autonómica de aplicación.
+Sexta: El plazo para la ejecución del proyecto viene determinado por la fecha máxima para obtener la autorización
+de explotación definitiva, de acuerdo con la vigencia de su permiso de acceso y conexión, sin perjuicio de los plazos
+otorgados, en su caso, en otras concesiones y autorizaciones que sean necesarias en aplicación de la legislación
+que le afecte y, en especial, aquéllas relativas a la ordenación del territorio y al medio ambiente, no eximiendo del
+cumplimiento del resto de requisitos y obligaciones previstas en la legislación vigente.
+Séptima: El incumplimiento de las condiciones y requisitos establecidos en las autorizaciones o la variación sustancial
+de los presupuestos que determinaron su otorgamiento podrán dar lugar a su revocación, previa audiencia del
+interesado o interesada.
+A efectos de lo establecido en el artículo 21.4 de la Ley 24/2013 en cuanto a la variación sustancial de los
+presupuestos determinantes del otorgamiento de la presente autorización, habrá de tenerse en cuenta, en particular,
+el mantenimiento de las condiciones que han permitido considerar acreditados los requisitos de capacidad legal,
+técnica y económico-financiera.
+Esta resolución no agota la vía administrativa y contra la misma cabe recurso de alzada ante la persona titular
+de la Consejería de Desarrollo Sostenible en el plazo máximo de un mes contado a partir del día siguiente al de
+su notificación, de conformidad con los artículos 121 y 122 de la Ley 39/2015, de 1 de octubre, de Procedimiento
+Administrativo Común de las Administraciones Públicas.
+De conformidad con lo establecido en el artículo 14 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier
+recurso deberá realizarse a través de medios electrónicos cuando los sujetos (o sus representantes) tengan
+obligación de relacionarse con las Administraciones Públicas por medios electrónicos, a través del correspondiente
+trámite electrónico disponible en la sede electrónica de la Junta de Comunidades de Castilla-La Mancha:
+https://www.jccm.es, código RKGU (apartado “Tramitación Online”).
+
+AÑO XLV Núm. 226 25 de noviembre de 2026 41123
+Aquellas personas interesadas no obligadas a relacionarse por medios electrónicos con la Administración podrán
+utilizar esa misma vía, sin perjuicio de que pueda utilizar cualquier otra de las recogidas en el artículo 16.4 de la Ley
+39/2015, de 1 de octubre.
+Toledo, 17 de noviembre de 2026
+El Director General de Transición Energética
+ALIPIO GARCÍA RODRÍGUEZ
