@@ -1,0 +1,88 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162352
+III. OTRAS DISPOSICIONES
+COMUNIDAD AUTÓNOMA DE CATALUÑA
+25008 Resolución de 26 de octubre de 2026, de la Dirección General de Industria,
+del Departamento de Empresa y Trabajo, por la que se autoriza para su uso e
+instalación a la red eléctrica, de un transformador de intensidad para la
+medida en baja tensión, modelo AKS-1, a favor de Laboratorio Electrotécnico,
+SCCL.
+Relación de hechos
+1. En fecha 28 de julio de 2026, la entidad Laboratorio Electrotécnico, SCCL (NIF
+F08674426), domiciliada en la calle de Tirso de Molina, n.º 23, 08940 Cornellà del
+Llobregat (Barcelona), presentó una solicitud autorización para su uso e instalación en la
+red eléctrica, del transformador de intensidad para la medida en baja tensión, modelo
+AKS-1, aportando documentación técnica.
+2. En fecha 30 de septiembre de 2026, en fecha 16 de octubre de 2026 y en
+fecha 23 de octubre de 2026, la entidad ha aportado documentación adicional requerida
+para la presente resolución.
+Fundamentos jurídicos
+1. El Real Decreto 1110/2007, de 24 de agosto, aprueba el Reglamento unificado
+de puntos de medida del sistema eléctrico (BOE 224, de 18 de septiembre de 2007).
+2. El Decreto 21/2021, de 25 de mayo, de creación, denominación y determinación
+del ámbito de competencia de los Departamentos de la Administración de la Generalidad
+de Cataluña (DOGC 8418, de 26 de mayo de 2021) y el Decreto 192/2023, de 7 de
+noviembre, de la seguridad industrial de los establecimientos, las instalaciones y los
+productos (DOGC 9037, de 9 de noviembre de 2023), confieren las atribuciones
+competenciales.
+Sobre la base de lo expuesto, resuelvo:
+Primero.
+Autorizar para su uso e instalación a la red eléctrica, del transformador de intensidad
+para la medida, en baja tensión, modelo AKS-1, a favor de la entidad Laboratorio
+Electrotécnico, SCCL, con las características siguientes:
+Transformador de intensidad: AKS-1.
+Tensión máxima de servicio: 0,72 kV.
+Nivel de aislamiento nominal: 0,72 kV / 3 kV / - kV.
+Intensidad primaria asignada (I ): 50A≤ I ≤ 2500 A.
+pn pn
+Intensidad secundaria asignada (I sn ): 1 A o 5 A.
+Potencia de precisión màxima: ≤ 100 VA.
+Clases de precisión: 0.2, 0.5, 1, 3, 5.
+Clases de precisión: 0.2S, 0.5S.
+Factor de seguridad: ≤ 5 o ≤ 10.
+Frecuencia nominal: 50 Hz / 60 Hz.
+80052-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162353
+Número de secundarios: 1 a 4.
+Tipo de instrumento: Interior.
+Número de fases: 1.
+Intensidad térmica de cortocircuito (I th ): ≤ 40 kA / 1 s.
+Intensidad dinámica asignada (I ): 2,5 I A.
+dyn th
+Tipo de aislamiento: Aceite dieléctrico, resina, poliuretano o aire.
+Clase de aislamiento: B.
+Intensidad térmica nominal continua: 120%, 150%, 200%.
+Segundo.
+El contenido y el alcance de esta autorización está sujeta a las condiciones
+siguientes:
+1. Esta autorización tiene un plazo máximo de validez de cinco años, de acuerdo
+con la resolución de 16 de diciembre de 2020, de la Dirección General de Industria del
+Departamento de Empresa y Trabajo de la Generalidad de Cataluña, o el menor que
+resulte de la aplicación de un nuevo reglamento que regule los sistemas de medida de la
+energía eléctrica. Esta autorización podrá ser prorrogada por períodos sucesivos previa
+petición presentada por el solicitante de la misma en esta Dirección General de Industria.
+2. Previamente a su instalación, los instrumentos a que se refiere esta autorización
+deberán de superar el control de verificación en origen realizado por un verificador de
+medidas eléctricas oficialmente autorizado.
+3. Los instrumentos a los que se refiere esta resolución, deberán de cumplir,
+adicionalmente, todas las condiciones contenidas en el anexo que acompaña la
+documentación presentada para su autorización.
+Contra la presente resolución, que no finaliza la vía administrativa, se puede
+interponer recurso de alzada ante el Secretario de Empresa y Competitividad en el plazo
+de un mes, a contar desde el día siguiente de su notificación, sin perjuicio que se pueda
+hacer uso de cualquier otro recurso que se considere oportuno.
+Barcelona, 26 de octubre de 2026.–El Director General de Industria, P. D.
+(Resolución EMT/3164/2021, de 20 octubre), el Subdirector General de Seguridad
+Industrial, Florenci Hernández Cardona.
+80052-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

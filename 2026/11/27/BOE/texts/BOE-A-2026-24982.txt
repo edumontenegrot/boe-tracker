@@ -1,0 +1,547 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162164
+III. OTRAS DISPOSICIONES
+MINISTERIO DE HACIENDA
+24982 Resolución de 12 de noviembre de 2026, de la Intervención General de la
+Administración del Estado, por la que se aprueba la adaptación y
+actualización al sector público español de las Normas Internacionales de
+Auditoría y Normas Internacionales de Gestión de la Calidad y el Glosario de
+Términos adaptados para su aplicación en España por el Instituto de
+Contabilidad y Auditoría de Cuentas, tras la actualización y adaptación
+efectuadas por las Resoluciones de 11 de abril de 2024, de 17 de julio de
+2025 y de 22 de enero de 2026 del Instituto de Contabilidad y Auditoría de
+Cuentas, y se acuerda su publicación.
+El artículo 166.1 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria,
+atribuye a la Intervención General de la Administración del Estado (IGAE) la competencia
+para desarrollar las normas referentes a los informes de auditoría pública, estableciendo
+su contenido, destinatarios y procedimiento de elaboración.
+La elaboración de las Normas de Auditoría del Sector Público y la adaptación al
+sector público español de las Normas Internacionales de Auditoría han venido
+desarrollándose a través de la Comisión de Normas de Auditoría del Sector Público
+(CNASP), cuya función consultiva en esta materia quedó consolidada mediante la
+Resolución de 18 de febrero de 2014, de la Intervención General de la Administración del
+Estado, sobre el proceso de adaptación de las Normas de Auditoría del Sector Público a
+las Normas Internacionales de Auditoría. Asimismo, la disposición general cuarta de la
+Resolución de 30 de julio de 2015, por la que se dictan instrucciones para el ejercicio de
+la auditoría pública, atribuye a la CNASP la elaboración de las Normas de Auditoría del
+Sector Público y la propuesta de adaptación de las Normas Internacionales de Auditoría.
+En desarrollo de dicho proceso, la IGAE aprobó, mediante Resolución de 25 de
+octubre de 2019, la adaptación de las Normas Internacionales de Auditoría al sector
+público español (NIA-ES-SP) y, posteriormente, mediante Resolución de 22 de mayo
+de 2023, la adaptación al sector público español de las Normas Internacionales de
+Gestión de la Calidad 1 y 2 y de la Norma Internacional de Auditoría 220 (Revisada),
+aprobándose la NIGC 1-ES-SP, la NIGC 2-ES-SP y la NIA-ES-SP 1220 (Revisada).
+Con posterioridad, el Instituto de Contabilidad y Auditoría de Cuentas (ICAC) aprobó
+la actualización de las Normas Internacionales de Auditoría para su aplicación en
+España (NIA-ES), de las Normas Internacionales de Gestión de la Calidad para su
+aplicación en España (NIGC 1-ES y NIGC 2-ES) y del Glosario de Términos mediante
+Resolución de 11 de abril de 2024. Asimismo, mediante Resolución de 17 de julio
+de 2025, adaptó para su aplicación en España la NIA 260 (Revisada), Comunicación con
+los responsables del gobierno de la entidad y la NIA 700 (Revisada), Formación de la
+opinión y emisión del informe de auditoría sobre los estados financieros. Y, mediante
+Resolución de 22 de enero de 2026, dispuso la publicación de la modificación de
+diversas Normas Técnicas de Auditoría relacionadas con el proceso de emisión y
+contenido del informe de auditoría de cuentas anuales, en particular las NIA-ES 510, 570
+(Revisada), 600 (Revisada), 700 (Revisada), 705 (Revisada), 706 (Revisada), 710 y 720
+(Revisada).
+A fin de trasladar dichas modificaciones al ámbito de la auditoría pública, la IGAE
+aprobó la Resolución de 1 de octubre de 2024, por la que se inició el proceso de
+adaptación y actualización al sector público español de las normas adaptadas y
+actualizadas por el ICAC, así como la integración del conjunto de las NIA-ES-SP, las
+NIGC-ES-SP y el Glosario de Términos. Esta resolución preveía expresamente que, si
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162165
+durante el proceso se producían modificaciones relevantes de las NIA-ES, se
+incorporarían para mantener actualizado el corpus normativo.
+En síntesis, este proceso de adaptación y actualización ha perseguido cuatro
+objetivos:
+En primer lugar, la adaptación al sector público español de las normas revisadas por
+el IAASB (International Auditing and Assurance Standards Board) y adaptadas para su
+aplicación en España por el Instituto de Contabilidad y Auditoría de Cuentas.
+En segundo lugar, la incorporación de las modificaciones de concordancia entre
+normas, ya incluidas por el IAASB en las normas revisadas publicadas por la IFAC
+(International Federation of Accountants) y en la actualización realizada por el ICAC al
+texto de las NIA-ES, de la NIGC 1-ES, NIGC 2-ES y del Glosario de Términos que
+correspondientemente han generado el mismo efecto en las NIA-ES-SP y en las NIGC 1-
+ES-SP y NIGC 2-ES-SP.
+En tercer lugar, la homogeneización de las denominaciones utilizadas y el formato de
+presentación de las NIA-ES, la NIGC 1-ES, la NIGC 2-ES y el Glosario de Términos
+publicados hasta la fecha que han generado el mismo efecto en las NIA-ES-SP y las
+NIGC 1-ES-SP y NIGC 2-ES-SP.
+Y en cuarto lugar, la actualización de las referencias normativas contenidas en las
+notas explicativas que acompañan a las NIA-ES-SP y a las NIGC-ES-SP.
+Por su relevancia y carácter novedoso, cabe destacar que este proceso implica la
+adaptación al sector público español de la NIA-ES 250 (Revisada), la NIA-ES 260
+(Revisada), la NIA-ES 315 (Revisada), la NIA-ES 540 (Revisada), la NIA-ES 600
+(Revisada), la NIA-ES 610 (Revisada), la NIA-ES 700 (Revisada) y la NIA-ES 720
+(Revisada), así como la actualización y coordinación normativa del resto de las Normas
+Internacionales de Auditoría adaptadas al sector público español, de la NIGC 1-ES-SP y
+de la NIGC 2-ES-SP, y la aprobación de un Glosario de Términos actualizado.
+Las Normas Internacionales de Auditoría y las Normas Internacionales de Gestión de
+la Calidad adaptadas para su aplicación en España por el ICAC constituyen el referente
+técnico sobre el que se basa la elaboración de las NIA-ES-SP y de las NIGC-ES-SP.
+Dichas normas deberán interpretarse y aplicarse en el ámbito de la auditoría pública de
+conformidad con el ordenamiento jurídico público correspondiente, el cual prevalecerá,
+en caso de conflicto, sobre cualquier disposición técnica contenida en ellas.
+Debe señalarse, además, que las NIA-ES-SP trascienden el ámbito del sector
+público estatal, constituyendo un referente técnico común para la auditoría pública en
+España. En particular, en el ámbito local, el artículo 29.3 del Real Decreto 424/2017,
+de 28 de abril, al referirse a los «procedimientos de revisión selectivos contenidos en las
+normas de auditoría e instrucciones que dicte la Intervención General de la
+Administración del Estado», reconoce la función de la normativa aprobada por la IGAE
+como marco de referencia para el ejercicio de estas actuaciones de control.
+Con la presente resolución culmina el proceso iniciado mediante la Resolución de 1
+de octubre de 2024 y se aprueba un corpus normativo actualizado e integrado para la
+auditoría pública y la gestión de la calidad en el sector público español, siguiendo en
+consecuencia la práctica internacional generalmente aceptada, reforzando la calidad
+técnica de los trabajos de auditoría, favoreciendo la coordinación con los distintos
+órganos de control y contribuyendo a una mayor homogeneidad en la aplicación de las
+normas profesionales en el sector público.
+La sustitución del marco normativo anterior se determina expresamente en la
+disposición derogatoria, manteniendo la vigencia el Código de ética para la auditoría
+pública, aprobado por la Resolución de 25 de octubre de 2019, de la IGAE, así como las
+disposiciones quinta y sexta de la Resolución de 22 de mayo de 2023, de la IGAE.
+Una vez sustanciado el trámite de información pública, se da por concluido el
+proceso iniciado con la Resolución de 1 de octubre de 2024, de la Intervención General
+de la Administración del Estado, por la que se establece el proceso de adaptación y
+actualización al sector público español de las Normas Internacionales de Auditoría y
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162166
+Normas Internacionales de Gestión de la Calidad para su aplicación en España
+aprobadas por Resolución del Instituto de Contabilidad y Auditoría de Cuentas, y del
+Glosario de Términos publicado junto con estas Normas Internacionales, se eleva la
+propuesta para su aprobación.
+Por todo lo anterior, se establecen las siguientes disposiciones:
+Primera. Aprobación.
+Se aprueban las siguientes normas y disposiciones:
+a) Las Normas Internacionales de Auditoría adaptadas al sector público español
+(NIA-ES-SP), objeto de adaptación, relacionadas en el anexo 1 de esta resolución.
+b) Las NIA-ES-SP y las NIGC-ES-SP, objeto de actualización y coordinación
+normativa, relacionadas en el anexo 2.
+c) El Glosario de Términos adaptado al sector público español incluido en el
+anexo 3.
+d) Los criterios de interpretación y aplicación a los que se refiere la disposición
+tercera de la presente resolución.
+Segunda. Ámbito de aplicación.
+1. Las NIA-ES-SP y NIGC-ES-SP y la normativa de desarrollo de ambas serán
+aplicables a las siguientes actuaciones:
+a) En las auditorías de cuentas efectuadas por todas las unidades funcionalmente
+dependientes de la IGAE en el ejercicio de las competencias que tiene atribuidas.
+b) En las auditorías de cuentas realizadas por la IGAE con la colaboración de
+auditores de cuentas o sociedades de auditoría del sector privado.
+c) En las auditorías de cuentas que lleve a efecto la IGAE a entidades públicas no
+pertenecientes al sector público estatal en virtud de convenios u otros instrumentos
+jurídicos firmados con otras Administraciones públicas.
+d) En las auditorías de cuentas realizadas por otras Administraciones públicas que,
+de acuerdo con la regulación vigente, tuvieran prevista su aplicación.
+2. Esta resolución se aplicará a las auditorías de regularidad contable que no se
+efectúen sobre las cuentas anuales, sino sobre otros documentos contables con
+similares objetivos.
+3. Las NIGC-ES-SP serán de aplicación a otros trabajos de control, de acuerdo con
+la planificación y objetivos fijados por la Intervención General de la Administración del
+Estado, a propuesta de la Oficina Nacional de Auditoría.
+Tercera. Criterios de interpretación y aplicación.
+Los criterios incorporados a continuación constituyen principios y normas, que deben
+observar los auditores en el desempeño de sus trabajos de auditoría de cuentas y en los
+que deben basarse las actuaciones que resulten necesarias para justificar las
+conclusiones que se alcancen y la opinión que se emita.
+Las NIA-ES-SP y las NIGC-ES-SP deben aplicarse e interpretarse de manera
+conjunta con los criterios que seguidamente se exponen.
+1) A efectos de la presente resolución, la denominación de las normas se ajustará
+de forma homogénea a los siguientes criterios:
+a) Las Normas Internacionales de Auditoría adaptadas al sector público español se
+identificarán como «NIA-ES-SP», seguidas de su correspondiente numeración original y,
+en su caso, la indicación «(Revisada)».
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162167
+b) Las Normas Internacionales de Gestión de la Calidad adaptadas al sector
+público español se identificarán como «NIGC 1-ES-SP» y «NIGC 2-ES-SP»,
+respectivamente.
+c) Se mantendrá la numeración original de las normas internacionales adaptadas,
+incorporando, en su caso, la codificación específica utilizada para su identificación en el
+ámbito del sector público.
+d) La expresión «NIGC-ES-SP» utilizada en esta resolución tendrá carácter
+genérico y se entenderá referida conjuntamente a la Norma Internacional de Gestión de
+la Calidad 1 adaptada al sector público español (NIGC 1-ES-SP) y a la Norma
+Internacional de Gestión de la Calidad 2 adaptada al sector público español (NIGC 2-ES-
+SP), salvo que se indique expresamente una de ellas.
+Cualquier referencia contenida en la presente resolución deberá entenderse
+realizada conforme a estos criterios de denominación.
+2) El ámbito de aplicación de las NIA-ES-SP y de las NIGC-ES-SP ha de
+entenderse referido al ejercicio de la actividad de auditoría de cuentas a que se refiere la
+legislación pública vigente, sin perjuicio de su aplicación completa o parcial, directa o
+indirecta a otros trabajos de control en los términos que determine la normativa aplicable
+o la IGAE.
+3) Las NIA-ES-SP están redactadas en el contexto de una auditoría de cuentas
+anuales, cuentas consolidadas, un solo estado financiero u otros estados contables
+intermedios, realizada por un auditor público.
+4) Las menciones a las legislaciones o jurisdicciones nacionales que figuran en los
+recuadros de adaptación incluidos en las NIA-ES-SP y en las NIGC-ES-SP deben
+entenderse referidas a la normativa correspondiente del marco jurídico español que
+resulte aplicable en cada caso, ya sea en el ámbito mercantil, en el ámbito de la
+normativa de información financiera aplicable o, en particular, en el de la normativa
+reguladora de la actividad de auditoría de cuentas del sector público español. Esto tiene
+su correspondencia en las Notas Explicativas, en el apartado de «Referencias al sector
+público».
+5) Se han suprimido los apartados y párrafos en las NIA-ES-SP y en las NIGC-ES-
+SP en los que se hace referencia a la actividad de auditoría en el ámbito del sector
+privado, relacionada con el derecho mercantil y la que proviene de la Unión Europea por
+estar dentro del alcance de la Ley 22/2015, de 20 de julio, de Auditoría de Cuentas y su
+normativa de desarrollo, salvo que su contenido sea aplicable al sector público.
+6) La terminología y las definiciones incluidas en estas normas, tanto las NIA-ES-
+SP como las NIGC-ES-SP se entenderán e interpretarán conforme a lo establecido en la
+normativa pública que resulte de aplicación.
+Asimismo, cuando se ha considerado procedente, se han insertado notas
+aclaratorias o recuadros de adaptación que deben observarse para su adecuada
+aplicación, bien porque algún aspecto de su contenido se recoge en la normativa
+nacional de forma más específica, bien porque se contempla en la NIA-ES-SP o en la
+NIGC-ES-SP de forma distinta o, simplemente, porque no se aborda. Todo ello, a los
+efectos de facilitar su adecuada comprensión o evitar las dudas que pudieran existir en la
+interpretación y la aplicación de estas normas.
+Por otra parte, en los casos en que se ha considerado necesario, se han suprimido
+aquellos apartados, párrafos o frases toda vez que son contrarios a la normativa de
+auditoría aplicable, se refieren a cuestiones que exceden del ámbito de aplicación de
+dicha normativa, o no resultan de aplicación en España, identificándolos con la mención
+«suprimido» si así figuraba ya en las NIA-ES o en las NIGC-ES y «suprimido por
+adaptación al sector público» si la supresión se realizó únicamente en las NIA-ES-SP o
+en las NIGC-ES-SP por referirse a cuestiones que no resultan aplicables,
+respectivamente, al ejercicio de la auditoría pública o al sistema de gestión de la calidad
+en el ámbito del sector público. Asimismo, las referencias al concepto de red se han
+suprimido por no ser aplicable dicho concepto al sector público. Por otra parte, tanto en
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162168
+las NIA-ES-SP como en las NIGC-ES-SP se han recuperado referencias al sector público
+suprimidas en la adaptación realizada por el ICAC.
+7) Las referencias a las Normas Internacionales de Auditoría y a otras normas y
+pronunciamientos internacionales emitidos por la IFAC sólo resultarán de aplicación en
+España en la medida en que se acuerde su incorporación a nuestra normativa nacional.
+8) Las referencias a las diversas NIA o a las NIGC 1 y NIGC 2 que figuran en el
+texto de estas normas deben entenderse realizadas a las correspondientes NIA-ES-SP,
+NIGC 1-ES-SP y NIGC 2-ES-SP, según proceda.
+9) Las referencias que en las diferentes NIA-ES-SP o NIGC-ES-SP figuran sobre el
+Glosario de Términos de la IAASB, deben entenderse referidas al Glosario de Términos
+de la IAASB adaptado para su aplicación al sector público español, que figura publicado
+en el anexo 3 de la presente resolución. En dicho Glosario actualizado, se han
+suprimido, con carácter general, definiciones que afectan a normas que quedan fuera del
+ámbito de aplicación.
+Asimismo, las referencias contenidas en las NIGC-ES-SP sobre el sistema de
+gestión de la calidad se entenderán realizadas al conjunto integrado por la NIGC 1-ES-
+SP, la NIGC 2-ES-SP, la NIA-ES-SP 1220 (Revisada) y las disposiciones de desarrollo
+aprobadas para su implementación y funcionamiento.
+10) Al igual que en las NIA-ES o en las NIGC-ES, se mantiene la supresión de
+todas las referencias a la fecha de su entrada en vigor, debido a que la entrada en vigor
+de las NIA-ES y NIGC-ES adaptadas o actualizadas para su aplicación al sector público
+español es única para todo el bloque normativo que ahora se publica y figura en la
+disposición final de la presente resolución.
+11) Las referencias en las NIA-ES-SP o en las NIGC-ES-SP a las normas
+profesionales se entenderán realizadas a las establecidas en la disposición cuarta de la
+Resolución de 30 de julio de 2015, de la Intervención General de la Administración del
+Estado, por la que se dictan instrucciones para el ejercicio de la auditoría pública, y
+demás normativa reguladora de la actividad de auditoría de cuentas o aquella otra
+normativa que, en su caso, la sustituya.
+12) Las referencias realizadas en las diferentes NIA-ES-SP y NIGC-ES-SP a los
+requerimientos de ética y al Código de ética de la IESBA (International Ethics Standards
+Board for Accountants) de la IFAC, se entenderán realizadas a los principios éticos que
+rigen la auditoría del sector público, recogidos en el contexto regulatorio público y en
+particular al Código de Ética de la auditoría pública aprobado por la Resolución de la
+IGAE, de 25 de octubre de 2019, vigente en este aspecto. Las referencias a las normas
+éticas y de independencia deberán interpretarse de acuerdo con lo establecido en las
+definiciones de «Independencia», «Requerimientos de ética aplicables» y «Normas
+profesionales» contenidas en el Glosario de Términos de esta resolución.
+13) Las referencias realizadas en las diferentes normas a los requerimientos de
+independencia e incompatibilidad se entenderán realizadas a las normas a que se refiere
+la Resolución de 20 de septiembre de 2017, de la IGAE, por la que se desarrolla el
+principio de independencia para el ejercicio de las funciones de control atribuidas a la
+Intervención General de la Administración del Estado y otros documentos de desarrollo,
+así como a los pronunciamientos existentes en las diferentes normas sobre funcionarios
+públicos que sean aplicables.
+14) Deberá tenerse en cuenta también lo establecido en la regulación del sector
+público en relación con las obligaciones específicas derivadas de la revisión del
+cumplimiento de la legalidad aplicable a dicho sector. El escepticismo profesional del
+auditor público ha de incidir más que el del auditor privado en el cumplimiento de la
+legalidad, puesto que el principio de la legalidad es consustancial con la actividad
+económico-financiera del sector público y más relevante que en otros ámbitos.
+Asimismo, deberá tenerse en cuenta la normativa reguladora de las obligaciones de
+comunicación, remisión o traslado de actuaciones a los órganos y autoridades
+competentes cuando, en el desarrollo de los trabajos, se identifiquen hechos que
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162169
+pudieran ser constitutivos de incumplimientos legales o dar lugar a responsabilidades
+administrativas, patrimoniales, contables o penales.
+15) La terminología y definiciones incluidas en las NIA-ES-SP o en las NIGC-ES-SP
+referentes a los responsables del gobierno y a la dirección de la entidad se interpretarán,
+en cada caso, conforme a lo establecido en la normativa española que resulte de
+aplicación, de acuerdo con la naturaleza jurídica de la entidad auditada y de la
+legislación que regula la organización de las Administraciones públicas.
+En todo caso, las referencias realizadas en las diferentes NIA-ES-SP o en las NIGC-
+ES-SP a las afirmaciones o manifestaciones de la dirección o de los gestores incluidas
+en las cuentas anuales, así como a las directrices sobre las actividades de control
+interno de la entidad, se entenderán sin perjuicio de las que correspondan a los órganos
+de administración u órganos equivalentes de la entidad auditada que tengan atribuidas
+las competencias para la formulación, suscripción o emisión de dichos estados
+financieros.
+Asimismo, dichas referencias se entenderán sin perjuicio de la responsabilidad que
+corresponde a esos órganos en relación con el sistema de control interno necesario para
+la preparación y presentación de la información financiera.
+En este sentido, de acuerdo con lo establecido en el artículo 138 de la Ley 47/2003,
+de 26 de noviembre, General Presupuestaria, la responsabilidad sobre el resultado final
+de las cuentas anuales, atribuida a los «cuentadantes», conlleva la asunción de
+responsabilidad sobre todo el proceso seguido para su elaboración, quedando excluida
+cualquier exención de responsabilidad sobre el resultado final basada en la actuación de
+un tercero que pueda haber intervenido en el proceso con la autorización o aquiescencia
+del responsable. En particular y, a estos efectos, ese proceso incluye expresamente la
+responsabilidad de los administradores sobre el sistema de control interno necesario
+para permitir la preparación de dichas cuentas anuales libres de incorrecciones
+materiales debidas a fraude o error.
+Además, los «cuentadantes» son responsables de rendir, en los plazos fijados al
+efecto y debidamente autorizadas, las cuentas que hayan de enviarse al Tribunal de
+Cuentas. La responsabilidad de suministrar información veraz en que se concreta la
+rendición de cuentas es independiente de la responsabilidad contable regulada en el
+título VII de la Ley 47/2003, de 26 de noviembre, General Presupuestaria, en la que
+incurren quienes adoptaron las resoluciones o realizaron los actos reflejados en dichas
+cuentas.
+En el ámbito de las entidades locales, deberá atenderse a lo dispuesto en el
+artículo 212 del texto refundido de la Ley Reguladora de las Haciendas Locales,
+aprobado por Real Decreto Legislativo 2/2004, de 5 de marzo y en la Regla 50 de la
+Instrucción del modelo normal de contabilidad local, aprobada por Orden
+HAP/1781/2013, de 20 de septiembre o, en su caso, en la correspondiente regla de la
+Instrucción del modelo simplificado de contabilidad local, aprobada por Orden
+HAP/1782/2013, de 20 de septiembre. La responsabilidad sobre la formación y rendición
+de la Cuenta General conlleva la responsabilidad sobre todo el proceso de elaboración
+de la información contable y financiera que la integra, incluyendo el establecimiento,
+mantenimiento y supervisión de los sistemas de control interno que resulten necesarios
+para permitir que dicha información se prepare libre de incorrecciones materiales
+debidas a fraude o error.
+16) En las normas NIA-ES-SP 1570 (Revisada), 1600 (Revisada), 1700 (Revisada),
+1701, 1705 (Revisada), 1706 (Revisada), 1710 y 1720 (Revisada) fundamentalmente, se
+presentan como anexo los modelos de informes de auditoría adaptados a la normativa
+reguladora de la actividad de auditoría de cuentas del sector público español. Dichos
+modelos adaptados son los que las unidades de control seguirán en cuanto a formato y
+terminología, ya que tienen la finalidad de conseguir la mayor uniformidad de redacción
+posible, al objeto de facilitar la comprensión de dichos informes de cuentas anuales por
+los destinatarios de estas. No obstante, los citados modelos de informe no recogen todas
+las circunstancias que pueden darse en un trabajo de auditoría de cuentas anuales y que
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162170
+el auditor habrá de tener presente al emitir su informe. Por otra parte, la terminología de
+los citados modelos de informe deberá adaptarse atendiendo a la normativa que resulte
+de aplicación a la entidad auditada, así como a la modalidad del trabajo realizado
+(auditoría de un solo estado financiero, de estados financieros intermedios, etcétera) y
+en virtud de la competencia con que actúa el órgano de control. La IGAE, a través de la
+Oficina Nacional de Auditoría, facilitará dicha homogeneidad en su ámbito mediante la
+aplicación obligatoria de las aplicaciones corporativas aprobadas por la IGAE que en su
+lugar se determinen.
+17) Se integrarán dentro del corpus normativo técnico regulador de la actividad de
+auditoría de cuentas y de la gestión de la calidad para el sector público aquellas normas
+técnicas de auditoría, notas técnicas, instrucciones y demás disposiciones de desarrollo
+vigentes que no se opongan a lo establecido en la presente resolución.
+Cuarta. Modificaciones.
+Se autoriza a la Oficina Nacional de Auditoría actualizar contenidos en las NIA-ES-
+SP, NIGC-ES-SP y Glosario de Términos cuando tales modificaciones tengan carácter
+formal y no alteren sustancialmente el contenido técnico de las normas.
+Quinta. Normas, notas técnicas y otros desarrollos regulatorios.
+La IGAE aprobará las normas técnicas que sean necesarias para la precisa
+implementación y coordinación de las NIA-ES-SP y de las NIGC-ES-SP.
+La Oficina Nacional de Auditoría podrá emitir las notas técnicas, instrucciones, guías
+de procedimientos que sean necesarios para facilitar la interpretación y aplicación del
+contenido de las NIA-ES-SP y de las NIGC-ES-SP, sin que pueda suponer su
+modificación, ni el de las restantes disposiciones de carácter normativo.
+A tales efectos, se entenderá por:
+a) Normas técnicas: disposiciones aprobadas por la Intervención General de la
+Administración del Estado que desarrollan las materias de auditoría de cuentas y de
+gestión de la calidad aplicables al sector público, no contempladas suficientemente en
+las NIA-ES-SP o en las NIGC-ES-SP y que establecen requerimientos, criterios o
+procedimientos y su documentación en relación con el planteamiento, ejecución y
+resultados de los trabajos, así como con los auditores públicos que intervienen en ellos.
+b) Notas técnicas: documentos aprobados por la Oficina Nacional de Auditoría que
+concretan, coordinan o facilitan la aplicación práctica de las normas de auditoría en
+materias determinadas, con la finalidad de favorecer la homogeneidad y la calidad de los
+trabajos. Podrán incluir referencias normativas, criterios de aplicación, orientaciones
+prácticas, procedimientos, modelos o ejemplos relativos a la materia desarrollada.
+c) Instrucciones: disposiciones dictadas por la Intervención General de la
+Administración del Estado o por la Oficina Nacional de Auditoría que establecen criterios
+y reglas de actuación, así como el proceso de trabajo que deben observarse para la
+aplicación coordinada de las normas y notas de auditoría y de gestión de la calidad en un
+ámbito determinado.
+d) Guías de procedimientos: documentos que recogen procedimientos para la
+aplicación práctica de las normas de auditoría y de gestión de la calidad en la
+planificación y ejecución de los trabajos, adaptables, cuando así se establezca, a la
+naturaleza, dimensión y complejidad del trabajo.
+Sexta. Formación.
+La Oficina Nacional de Auditoría diseñará los planes de formación correspondientes
+que organicen, favorezcan y aseguren el proceso de asimilación y conocimiento de estas
+adaptaciones normativas, así como de las actualizaciones realizadas. A estos efectos, la
+IGAE podrá formalizar convenios con los órganos de control de las administraciones
+territoriales.
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162171
+Séptima. Publicación.
+Se acuerda la publicación de las NIA-ES-SP, de las NIGC-ES-SP, de sus notas
+explicativas y del Glosario de Términos aprobados mediante la presente resolución en el
+«Boletín Oficial del Estado» y en la página web de la IGAE.
+Disposición derogatoria. Derogación normativa.
+1. Queda derogada la Resolución de 25 de octubre de 2019, de la Intervención
+General de la Administración del Estado, por la que se aprueba la adaptación de las
+Normas de Auditoría del Sector Público a las Normas Internacionales de Auditoría,
+excepto la disposición primera.b) referida al Código de Ética para la auditoría pública.
+2. Queda derogada la Resolución de 22 de mayo de 2023, de la Intervención
+General de la Administración del Estado, por la que se aprueba la adaptación al sector
+público de las Normas Internacionales de Gestión de la Calidad y de la Norma
+Internacional de Auditoría 220 (Revisada), excepto las disposiciones quinta y sexta.
+3. Quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a
+lo establecido en la presente resolución.
+Disposición transitoria.
+Continuarán vigentes las normas técnicas de auditoría, notas técnicas, instrucciones,
+guías y demás disposiciones de desarrollo vigentes en aquello que no se opongan a las
+NIA-ES-SP y NIGC-ES-SP aprobadas mediante la presente resolución.
+Disposición final. Entrada en vigor.
+1. La presente resolución entrará en vigor el día siguiente al de su publicación en el
+«Boletín Oficial del Estado».
+Las NIA-ES-SP aprobadas mediante la presente resolución serán de aplicación
+obligatoria en las auditorías de cuentas anuales correspondientes a ejercicios
+económicos que se inicien a partir del 1 de enero de 2026.
+A estos efectos, la fecha de aplicación vendrá determinada exclusivamente por el
+ejercicio económico al que se refieran las cuentas anuales objeto de auditoría.
+2. A las auditorías de cuentas anuales correspondientes a ejercicios económicos
+iniciados con anterioridad al 1 de enero de 2026 continuarán siendo aplicables las NIA-
+ES-SP aprobadas por la Resolución de 25 de octubre de 2019, de la Intervención
+General de la Administración del Estado, y la NIA-ES-SP 1220 (Revisada) aprobada por
+la Resolución de 22 de mayo de 2023, de la Intervención General de la Administración
+del Estado, así como sus disposiciones de desarrollo vigentes.
+3. La NIGC 1-ES-SP y la NIGC 2-ES-SP, aprobadas mediante la presente
+resolución, serán las normas aplicables a las actuaciones de gestión de la calidad que se
+lleven a cabo respecto de auditorías de cuentas anuales correspondientes a ejercicios
+económicos que se inicien a partir del 1 de enero de 2026.
+A las auditorías de cuentas anuales correspondientes a ejercicios económicos
+iniciados con anterioridad al 1 de enero de 2026, les continuará siendo de aplicación,
+para las actuaciones de gestión de la calidad que sobre ellas se desarrollen, la NIGC 1-
+ES-SP y la NIGC 2-ES-SP, aprobadas por la Resolución de 22 de mayo de 2023, de la
+Intervención General de la Administración del Estado, así como sus disposiciones de
+desarrollo vigentes.
+Madrid, 12 de noviembre de 2026.–El Interventor General de la Administración del
+Estado, Pablo Arellano Pardo.
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162172
+ANEXO 1
+Relación de NIA-ES-SP objeto de adaptación
+NIA-ES-SP 1250 (Revisada). Consideración de las disposiciones legales y reglamentarias en la auditoría de estados financieros.
+NIA-ES-SP 1260 (Revisada). Comunicación con los responsables del gobierno de la entidad.
+NIA-ES-SP 1315 (Revisada 2019). Identificación y valoración del riesgo de incorrección material.
+NIA-ES-SP 1540 (Revisada). Auditoría de estimaciones contables y de la correspondiente información a revelar.
+Consideraciones especiales-Auditorías de estados financieros de grupos (incluido el trabajo de los auditores
+NIA-ES-SP 1600 (Revisada).
+de componentes).
+NIA-ES-SP 1610 (Revisada). Utilización del trabajo de los auditores internos.
+NIA-ES-SP 1700 (Revisada). Formación de la opinión y emisión del informe de auditoría sobre los estados financieros.
+NIA-ES-SP 1720 (Revisada). Responsabilidades del auditor con respecto a otra información.
+ANEXO 2
+Relación de NIA-ES-SP y NIGC-ES-SP objeto de actualización y coordinación
+normativa (ajustes de concordancia)
+a) NIA-ES-SP.
+Objetivos globales del auditor público y realización de la auditoría de conformidad con las Normas
+NIA-ES-SP 1200.
+Internacionales de Auditoría adaptadas para su aplicación al sector público español.
+NIA-ES-SP 1210. Términos del documento de inicio de la auditoría.
+NIA-ES-SP 1220 (Revisada). Gestión de calidad de una auditoría de estados financieros.
+NIA-ES-SP 1230. Documentación de auditoría.
+NIA-ES-SP 1240. Responsabilidades del auditor en la auditoría de estados financieros con respecto al fraude.
+Comunicación de las deficiencias en el control interno a los responsables del gobierno y a la dirección de la
+NIA-ES-SP 1265.
+entidad.
+NIA-ES-SP 1300. Planificación de la auditoría de estados financieros.
+NIA-ES-SP 1320. Importancia relativa o materialidad en la planificación y ejecución de la auditoría.
+NIA-ES-SP 1330. Respuestas del auditor a los riesgos valorados.
+NIA-ES-SP 1402. Consideraciones de auditoría relativas a una entidad que utiliza una organización de servicios.
+NIA-ES-SP 1450. Evaluación de las incorrecciones identificadas durante la realización de la auditoría.
+NIA-ES-SP 1500. Evidencia de auditoría.
+NIA-ES-SP 1501. Evidencia de auditoría-consideraciones específicas para determinadas áreas.
+NIA-ES-SP 1505. Confirmaciones externas.
+NIA-ES-SP 1510 (Revisada). Trabajos iniciales de auditoría-saldos de apertura.
+NIA-ES-SP 1520. Procedimientos analíticos.
+NIA-ES-SP 1530. Muestreo de auditoría.
+NIA-ES-SP 1550. Partes vinculadas.
+NIA-ES-SP 1560. Hechos posteriores al cierre.
+NIA-ES-SP 1570 (Revisada). Empresa en funcionamiento.
+NIA-ES-SP 1580. Manifestaciones escritas.
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162173
+NIA-ES-SP 1620. Utilización del trabajo de un experto del auditor.
+NIA-ES-SP 1701. Comunicación de las cuestiones clave de la auditoría en el informe de auditoría emitido por un auditor público.
+NIA-ES-SP 1705 (Revisada). Opinión modificada en el informe de auditoría emitido por un auditor público.
+NIA-ES-SP 1706 (Revisada). Párrafos de énfasis y párrafos sobre otras cuestiones en el informe de auditoría emitido por un auditor público.
+NIA-ES-SP 1710. Información comparativa: cifras correspondientes a periodos anteriores y estados financieros comparativos.
+b) NIGC-ES-SP.
+Norma Internacional de Gestión de la Calidad 1: Gestión de la calidad de los órganos
+de control que realizan auditorías o revisiones de estados financieros, así como otros
+trabajos de control de acuerdo con las competencias atribuidas al sector público en
+España (NIGC 1-ES-SP).
+Norma Internacional de Gestión de la Calidad 2: Revisiones de la calidad de los
+trabajos de control del sector público en España (NIGC 2-ES-SP).
+ANEXO 3
+Glosario de Términos de las NIA-ES-SP y de las NIGC-ES-SP
+El presente Glosario incorpora las definiciones procedentes de las Normas
+Internacionales de Auditoría (NIA-ES), de las Normas Internacionales de Gestión de la
+Calidad (NIGC-ES), así como las adaptaciones terminológicas necesarias para su
+aplicación al sector público español.
+Asimismo, incorpora las definiciones incluidas en las NIA-ES-SP y en las NIGC-ES-SP.
+El texto íntegro del Glosario forma parte integrante de la presente resolución.
+28942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X

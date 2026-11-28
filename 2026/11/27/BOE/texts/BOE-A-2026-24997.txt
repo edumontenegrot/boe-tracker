@@ -1,0 +1,437 @@
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162297
+III. OTRAS DISPOSICIONES
+MINISTERIO DE CIENCIA, INNOVACIÓN Y UNIVERSIDADES
+24997 Resolución de 18 de noviembre de 2026, del Consorcio Barcelona
+Supercomputing Center-Centro Nacional de Supercomputación, por la que se
+publica la Adenda del Convenio con entidades participantes en el proyecto
+IMPaCT-DATA 2.
+Con fecha 18 de noviembre de 2026, el Consorcio Barcelona Supercomputing
+Center-Centro Nacional de Supercomputación (BSC-CNS) ha suscrito la adenda del
+convenio referenciado arriba con las entidades firmantes de dicha adenda.
+Por ello y en cumplimiento de lo dispuesto en el artículo 48.8 de la Ley 40/2015, de 1
+de octubre de Régimen Jurídico del Sector Público, procede la publicación en el «Boletín
+Oficial del Estado» de dicha adenda al convenio, que figura como anexo a esta
+resolución.
+Barcelona, 18 de noviembre de 2026.–El Director del Barcelona Supercomputing
+Center-Centro Nacional de Supercomputación, Mateo Valero Cortés.
+ANEXO
+Adenda al Convenio entre el Barcelona Supercomputing Center-Centro Nacional
+de Supercomputación y entidades participantes en el proyecto IMPaCT-DATA 2
+En los lugares indicados en los domicilios de las entidades firmantes, a fecha de
+firma electrónica,
+REUNIDOS
+1. De una parte, Dr. Mateo Valero Cortés, Director del Barcelona Supercomputing
+Center-Centro Nacional de Supercomputación (en adelante, BSC-CNS o entidad
+beneficiaria o coordinadora) con CIF S0800099D y domicilio en c/ Jordi Girona, 31,
+08034, Barcelona, cargo que ostenta en virtud de la renovación de su nombramiento por
+el Consejo Rector del BSC-CNS en la reunión celebrada el día 25 de febrero de 2025 y
+en virtud de las competencias atribuidas al Director en el artículo 15.i) de los Estatutos
+de este Consorcio.
+2. De otra parte, don Gonzalo Balbontín Casillas, director gerente y representante
+legal de la Fundación Pública Andaluza Progreso y Salud M.P., (en adelante FPS), con
+CIF G-41825811 y domicilio en avda. Américo Vespucio, núm. 15, Edif. S-2, de Sevilla,
+con poderes suficientes a los efectos del presente convenio, en virtud de las facultades
+otorgadas por su Patronato en fecha 17 de julio de 2019, y elevados a escritura pública
+ante el notario de Sevilla don José Javier Muñoz Layos, como sustituto de su compañero
+don Alberto Moreno Ferreiro, con fecha 3 de septiembre de 2019, bajo el número 2.325
+del protocolo de éste.
+3. De otra parte, doña María José Carrión Martínez, Directora-Gerente de la
+Fundación para la Investigación del Hospital Universitario y Politécnico La Fe de la
+Comunidad Valenciana-Instituto de Investigación Sanitaria Hospital la Fe (en adelante,
+IISLAFE) con CIF G-97067557 y domicilio en avenida Fernando Abril Martorell, 106,
+Hospital U. y P. La Fe, torre A, planta 7.ª, código postal 46026 (Valencia), quien actúa en
+virtud de escritura de elevación a público de acuerdos sociales autorizada ante el Notario
+del Ilustre Colegio de Valencia, don Luis Calabuig de Leyva, en fecha 27 de junio
+de 2024, número de protocolo 3.476.
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162298
+4. De otra parte, doña Eloísa del Pino Matute, representante legal de la Agencia
+Estatal Consejo Superior de Investigaciones Científicas, M.P. (en adelante, CSIC), con
+NIF Q2818002D, en virtud de su nombramiento efectuado por Real Decreto 498/2022,
+de 21 de junio (BOE núm. 148, de 22 de junio de 2022), actuando en su nombre y
+representación en ejercicio de las facultades que le confiere el artículo 11.2, letras e) e i)
+del Estatuto del CSIC, aprobado por Real Decreto 1730/2007, de 21 de diciembre (BOE
+de 14 de enero de 2008) y el artículo 48.2 de la Ley 40/2015, de 1 de octubre, de
+Régimen Jurídico del Sector Público.
+5. De otra parte, don José Cañón Campos, en calidad de Director Gerente de la
+Fundación para la Gestión de la Investigación en Salud de Sevilla (en adelante, FISEVI)
+con CIF G-41948830 con domicilio en Hospital Universitario Virgen del Rocío. Ed.
+Laboratorios, 6.ª planta, av. Manuel Siurot, s/n en ejercicio de las atribuciones conferidas
+por Patronato de fecha 12 de diciembre de 2023 y formalizado mediante escritura pública
+de poder otorgada ante la notaría de Sevilla, doña Montserrat Álvarez Sánchez con
+fecha 18 de enero de 2024, bajo el número 79 de su protocolo y del artículo 12 de los
+Estatutos de dicha entidad.
+6. De otra parte, la Sra. Judit Cubedo Ràfols, actuando en nombre y representación
+de la Fundació Institut Hospital del Mar d’Investigacions Mèdiques (en adelante, FIMIM)
+con CIF G-60072253 con domicilio en calle Doctor Aiguader, núm. 88, de Barcelona en
+calidad de Gerente y de acuerdo con los poderes otorgados por el Patronato de la
+Fundación que constan en la escritura otorgada en fecha de 2 de marzo de 2026 ante el
+notario de Barcelona, Sr. Pedro Ángel Casado Martín, con número 404 de su protocolo.
+7. De otra parte, don David Badia Prat, actuando en calidad de Gerente de la
+Fundació de Recerca Clínic Barcelona-Institut d’Investigacions Biomèdiques August Pi
+i Sunyer, con NIF G59319681 (en adelante, «FRCB-IDIBAPS»), con domicilio social en
+Barcelona, calle Rosselló, núm. 149-153, actuando en uso de sus facultades estatutarias
+y delegadas por el Patronato, según consta en la Escritura otorgada ante Notario de
+Barcelona don Jaime Agustín Justribó, el día 14 de septiembre de 2023 con el número
+de protocolo 1.955.
+8. De otra parte, don Luis García Ortiz, en calidad de Director Científico del Instituto
+de Investigación Biomédica de Salamanca (en adelante, IBSAL), actuando en
+representación de la Fundación de Investigación Biomédica de Salamanca (FIBSAL)
+como entidad representante del IBSAL, con CIF G16692907, con domicilio en Hospital
+Universitario de Salamanca, Edificio Virgen de la Vega, 10.ª planta, paseo San Vicente,
+58-182, 37007, Salamanca, conforme al poder otorgado, de fecha 28 de febrero de 2025,
+ante el notario del Ilustre Colegio de Castilla y León, don Luis Ramos Torres, con el
+número 443 de su protocolo.
+9. De otra parte, doña Isabel Lista García, representante de la Fundación Pública
+Galega Instituto de Investigación Sanitaria de Santiago de Compostela (en adelante,
+FIDIS), con CIF G15796683 y con domicilio social en travesía da Choupana, s/n, 15706
+Santiago de Compostela en calidad de Directora, debidamente legitimada para este acto
+en virtud de escritura pública otorgada el 1 de julio de 2024 ante el Notario de Santiago
+de Compostela, Francisco López Moledo, con número 1942 de su protocolo.
+10. De otra parte, doña Margarita Blázquez Herranz, en calidad de Gerente del
+Consorcio Centro de Investigación Biomédica en Red (en adelante, «CIBER»), con
+domicilio en av. Monforte de Lemos, número 3-5, pabellón 11, planta 0, 28029 de Madrid
+y NIF G-85296226, y en virtud de las facultades que le confiere el poder notarial
+otorgados ante el notario de Madrid, don Santiago Cháfer Rudilla, el día 1 de febrero
+de 2022, con número ciento setenta y cuatro de su protocolo.
+11. De otra parte, don Alberto Sanz Belmar, como Director Gerente del Centro
+Nacional de Investigaciones Cardiovasculares Carlos III (F.S.P.) (en adelante CNIC) con
+CIF G82316753 y domicilio en calle Melchor Fernández Almagro, 3, 28029 Madrid, en
+virtud de las atribuciones y facultades bastantes que tiene conferidas y otorgadas ante el
+Notario de Madrid don Joaquín Corell Corell, el 14 de diciembre de 2012, con el número
+de su protocolo 4.193.
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162299
+12. De otra parte, doña Cristina Navarro Enterría, Directora Gerente de la
+Fundación del Sector Público Estatal Centro Nacional de Investigaciones Oncológicas
+(en adelante, «F.S.P. CNIO»), con CIF G81972242 y domicilio en la calle Melchor
+Fernández Almagro, 3, 28029 Madrid, y actuando en representación de esta entidad en
+virtud de los poderes elevados a escritura pública ante el Notario de Madrid don Jaime
+Recarte Casanova, en fecha 28 de abril de 2026 con número 1.904 de protocolo.
+13. De otra parte, don Alberto Montero Manso y doña Ana María Posada Pérez en
+calidad de apoderados mancomunados de la Fundación Instituto de Investigación
+Sanitaria Fundación Jiménez Díaz (en adelante, IIS-FJD) con CIF G85874949, con
+domicilio avenida Reyes Católicos, 2, 28040 Madrid, en virtud del otorgamiento de
+poderes para la gestión del IISFJD realizada por el Patronato, en reunión celebrada el 30
+de abril de 2021, y elevados a público por el notario Javier Merino Gutiérrez con
+número de protocolo 1176.
+14. De otra parte, don Vicente de Juan Martín, en calidad de Director Gerente en
+nombre y representación de la Fundación para la Investigación del Hospital Clínico de la
+Comunidad Valenciana (en adelante, INCLIVA) con domicilio en av. Menéndez y
+Pelayo, 4, accesorio, 46010 Valencia y CIF G96886080 en uso de sus facultades según
+nombramiento realizado por el Patronato mediante acuerdo de fecha 12 de diciembre
+de 2024 y poderes otorgados según consta en escritura pública de fecha 7 de agosto
+de 2025 otorgada ante don Francisco Sapena, Notario de Ilustre Colegio de Valencia,
+número de Protocolo 1043/25.
+15. De otra parte, Dr. Joan X. Comella Carnicé, como Director de la Fundació per a
+la Recerca i la Docència Sant Joan de Déu (en adelante, FSJD) con CIF G62978689,
+con domicilio Esplugues de Llobregat (Barcelona), carrer de Santa Rosa, núm. 39-57,
+nombrado por el Patronato de la Fundación, en el ejercicio de los poderes otorgados
+respectivamente a su favor y que se desprenden de la escritura otorgada ante el Notario
+de Barcelona, Sr. José Marqueño de Llano, a fecha 30 de abril de 2026, con número de
+protocolo 706/2026.
+16. De otra parte, el Sr. Jaume Bacardit Montagut, en calidad de Gerente de la
+Fundació Centre de Regulació Genòmica (en adelante, CRG) con NIF G-62426937 y con
+domicilio en carrer Doctor Aiguader, 88, 5.ª planta, 08003 Barcelona actuando en
+representación suya de acuerdo con lo previsto en la escritura de nombramiento como
+Gerente y apoderamiento otorgado ante el notario don Jaime Agustín Justribó, en
+Barcelona, con fecha 25 de setiembre de 2025, bajo el número 181 de su protocolo.
+17. De otra parte, doña María Fuensanta Martínez Lozano, Directora de la
+Fundación para la Formación e Investigación Sanitarias de la Región de Murcia (en
+adelante, FFIS), órgano de gestión del Instituto Murciano de Investigación Biosanitaria
+Pascual Parrilla (IMIB), con domicilio en el Pabellón Docente del Hospital Clínico
+Universitario Virgen de la Arrixaca, c/ Campo, 12, 30120 El Palmar, Murcia, con CIF
+G-73338857, actuando en virtud de los poderes otorgados en escritura pública ante la
+Notaria de Murcia, doña María del Pilar Berral Casas, en fecha 5 de marzo de 2021, con
+el número 688 de su protocolo.
+18. De otra parte, don Carlos Enrique Herrero, Director Gerente de la Fundació
+Institut d'Investigació Sanitària Illes Balears (en adelante, IdISBa), con CIF G-57326324,
+y domicilio en ctra. Valldemossa, 79, 07010 Palma, Illes Balears, en virtud de Acuerdo
+del Patronato adoptado en sesión de 12 de febrero de 2024, y en ejercicio de las
+facultades que le otorga el artículo 30 de los Estatutos de la Fundación, elevados a
+públicos ante el Notario de Palma don Álvaro Delgado Truyols, el 13 de junio de 2023,
+con el número de protocolo 2.728.
+19. De otra parte, don Javier Gómez-Arrue Azpiazu, Director de Navarrabiomed-
+Fundación Miguel Servet (en adelante, Navarrabiomed), con domicilio social en c/
+Irunlarrea, 3, 31008 Pamplona y con CIF G/31187420, en ejercicio de las competencias
+conferidas por el artículo 20 de los Estatutos de la Fundación, cuya última modificación
+fue aprobada por el Patronato de la Fundación, en sesión ordinaria celebrada el día 18
+de diciembre de 2024 y publicados en el BON núm. 146, de 22 de julio de 2025.
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162300
+Designado por el Patronato el 24 de junio de 2024 y certificado por la Secretaría General
+Técnica del Departamento de Salud el 31 de julio de 2024.
+20. De otra parte, doña Laura Barreales Tolosa, en su calidad de Directora de la
+Fundación para la Investigación Biomédica del Hospital Universitario Ramón y Cajal (en
+adelante, IRYCIS-FIBioHRC) con domicilio social en carretera de Colmenar Viejo,
+km 9,100 de Madrid (28034) y con CIF G-83726984, actuando en nombre y
+representación de la misma por poder otorgado ante el notario de Madrid don Pedro-
+José Bartolomé Fuentes, de fecha 13 de julio de 2022, escriturado con el número 2012
+de su protocolo.
+21. De otra parte, doña Elena Gonzalvo Suñer, Directora Gerente del Instituto
+Aragonés de Ciencias de la Salud (en adelante, IACS), con CIF Q5000654C, con
+domicilio en Edificio CIBA, avenida San Juan Bosco, 13, 50009 Zaragoza y en el
+ejercicio de su cargo para el que fue nombrada según Decreto 170/2023, de 12 de
+agosto, del Gobierno de Aragón.
+22. De otra parte, don Francisco Galo Peralta Fernández, Director Gestión de la
+Fundación Instituto de Investigación Marqués de Valdecilla (en adelante, IDIVAL) con
+CIF G39788773, con domicilio en avenida Cardenal Herrera Oria, s/n, 39011 Santander.
+En virtud de los poderes otorgados en escritura de elevación a público de acuerdos
+sociales otorgada ante el Notario de Santander don Rafael Segura Báez, el 29 de abril
+de 2015, con el número 471 de su protocolo.
+23. De otra parte, Dra. Eunate Arana Arri, en calidad de Directora Científica en
+funciones y apoderada de la Asociación Instituto de Investigacion Sanitaria Biobizkaia
+(en adelante BIOBIZKAIA), con CIF G95756334 y domicilio social en edif. Biocruces
+Bizkaia, plaza Cruces, s/n, 48903 Barakaldo e inscrita en el registro general de
+Asociaciones con número AS/B/18363/2014, conforme al poder otorgado en virtud de
+apoderamiento ante don Juan Ignacio Bustamante Esparza, Notario del Ilustre Colegio
+del País Vasco, con residencia en Bilbao, en fecha 18 de marzo de 2026, que consta con
+el número 833 de su protocolo.
+24. De otra parte, Dr. Ivo Glynne Gut, en su calidad de Director del Consorcio para
+la explotación del Centro Nacional de Análisis Genómico (en adelante, CNAG) con CIF
+S0800674D y con domicilio Baldiri i Reixac, núm. 4, actuando en su representación de
+acuerdo con las facultades otorgadas por acuerdo del Consejo Rector del Consorcio
+firmado en fecha 29 de Diciembre de 2022, por doña Raquel Yotti Alvárez como
+Presidenta del Consejo Rector del CNAG y la Secretaria doña Ana Pascual Rincón.
+25. De otra parte, la Universidad del País Vasco/Euskal Herriko Unibertsitatea, con
+domicilio social en el Campus de Bizkaia de la Universidad del País Vasco/Euskal
+Herriko Unibertsitatea, barrio Sarriena s/n, 48940 Leioa (Bizkaia), y con NIF Q-4800018-
+B, representada por don Jon Umerez Urrezola, que actúa en nombre y representación de
+esta Universidad, tal y como establece la Resolución de 27 de enero de 2025 del Rector
+de la UPV/EHU, sobre estructura y determinación de las áreas de funcionamiento de su
+equipo de gobierno y de delegación de competencias (BOPV de 19 de febrero de 2025).
+26. De otra parte, don Juan Carlos Oliva Pérez, en su calidad de Director Gerente
+de Fundación Rioja Salud (en adelante FRS), con CIF G26325936 y domicilio en la calle
+Piqueras, 98, edificio CIBIR, 26006 Logroño, La Rioja, actuando en su representación de
+acuerdo a las facultades otorgadas por el patronato de Fundación Rioja Salud celebrado
+en sesión extraordinaria el 19 de julio de 2023, ratificada según Resolución 1174 de la
+Dirección General de Justicia e Interior de Gobierno de La Rioja de fecha 20 de julio
+de 2023.
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162301
+Las partes declaran hallarse debidamente facultadas y con la capacidad legal
+suficiente para suscribir la presente adenda de modificación, a cuyo efecto
+EXPONEN
+I. Que las partes suscribieron en fecha 2 de julio de 2025 el Convenio entre el
+Barcelona Supercomputing Center-Centro Nacional de Supercomputación y entidades
+participantes en el Proyecto IMPaCT-Data 2 (en adelante, el «Convenio»).
+II. Que la cláusula vigésima del convenio establece que éste podrá ser modificado a
+propuesta de la Comisión de Seguimiento formalizándose a través de las
+correspondientes adendas al mismo, que deberán ser aprobadas por las partes.
+III. Que en fecha 20 de mayo de 2026 el Instituto de Salud Carlos III, como órgano
+concedente, ha sido informado de la modificación al convenio que las partes pretenden
+llevar a cabo, previa propuesta de la Comisión de Seguimiento, y la ha aceptado en los
+términos expresados en esta adenda.
+Por todo lo cual, y teniendo en cuenta cuanto antecede, las partes acuerdan la firma
+de la presente adenda de modificación de acuerdo con las siguientes
+CLÁUSULAS
+Primera. Objeto de la adenda.
+El objeto de la presente adenda consiste en modificar los siguientes apartados
+del Convenio: cláusula tercera (apartado 3.2.3), cláusula quinta (apartado 5.4.2),
+cláusula 14.1.9, el anexo II y llevar a cabo una actualización de la entidad gestora de una
+de las partes, en los términos recogidos en las cláusulas siguientes.
+Tales modificaciones obedecen al cumplimiento de los siguientes fines:
+1.1 Actualización de la entidad gestora de la entidad participante IBSAL.
+1.2 Modificación de la cláusula tercera (apartado 3.2.3) del convenio, con el fin de
+incorporar como obligación de las partes la remisión de la documentación necesaria para
+la justificación económica final del Proyecto en un plazo determinado.
+1.3 Modificación de la cláusula quinta del convenio relativa al presupuesto y
+distribución de fondos, con el objetivo de ajustar el calendario de pagos dentro del
+periodo de ejecución del convenio.
+1.4 Modificación de la cláusula decimocuarta del convenio, relativa a la designación
+de responsables técnicos de las partes, con el fin de actualizar el representante técnico
+de FIDIS.
+1.5 Modificación del anexo 2 del convenio, con el objetivo de simplificar el
+presupuesto para agilizar el procedimiento de redistribución de las partidas presupuestarias.
+Segunda. Actualización de la entidad gestora de la entidad participante de IBSAL.
+2.1 Durante el plazo de ejecución del convenio, la gestión de la actividad de
+investigación de la entidad participante IBSAL ha pasado a ser asumida por la entidad
+Fundación de Investigación Biomédica de Salamanca (FIBSAL), en sustitución de la
+entidad Fundación IECSCYL.
+2.2 El Instituto de Salud Carlos III (ISCIII), como órgano concedente, ha sido
+informado del cambio de entidad beneficiaria-gestora del convenio, a cuyo efecto se
+aportó la siguiente documentación acreditativa de la necesidad de acometer tal cambio:
+– Estatutos de la Fundación de Investigación Biomédica de Salamanca (FIBSAL).
+– Certificado del acuerdo adoptado en la sesión del Consejo Rector de dicha entidad
+en 27 de febrero de 2025.
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162302
+2.3 Como consecuencia de este cambio, la entidad gestora FIBSAL se subroga
+en los derechos y obligaciones del convenio de la entidad gestora Fundación IECSCYL.
+En consecuencia, ha de constar FIBSAL como nueva entidad gestora de IBSAL en el
+convenio, lo cual se lleva a cabo mediante la presente adenda.
+Tercera. Modificación de cláusulas del convenio.
+3.1 Se modifica la cláusula 3.2.3 del convenio, quedando redactada como sigue:
+«Emitir y entregar a la entidad beneficiaria los informes parciales y finales de
+seguimiento de Proyecto, así como la documentación de soporte necesaria para la
+correcta elaboración y presentación de la justificación económica final del Proyecto
+ante el ISCIII en el plazo de treinta (30) días naturales antes de que finalicen los
+plazos fijados por el ISCIII.»
+3.2 Se modifica el apartado 5.4.2 de la cláusula quinta del convenio, quedando
+redactado como sigue:
+«5.4.2 Se abonará el restante 20 % de la aportación que corresponda a cada
+entidad participante indicada en el anexo 2, en un plazo máximo de treinta (30)
+días tras la inscripción de la adenda de modificación en el REOICO. Los gastos se
+justificarán durante la justificación económica final del Proyecto ante el ISCIII
+mediante facturas o documentos contables, siguiendo las Instrucciones de
+Ejecución y Justificación de Ayudas de la Acción Estratégica en Salud y el Manual
+de Carga de Justificantes del ISCIII, disponible en https://www.isciii.es/es/recursos-
+seguimiento/instrucciones.»
+3.3 Se modifica el punto 9 del apartado 14.1 de la cláusula decimocuarta del
+convenio, que queda redactado como sigue:
+«9. Fundación Pública Galega Instituto de Investigación Sanitaria de Santiago
+de Compostela (FIDIS). Representante técnico: Coordinador de la Unidad de
+Bioinformática, don Jorge Amigo Lechuga.»
+3.4 Las partes acuerdan sustituir la tabla del anexo 2 Presupuesto del convenio
+inicialmente firmado por la que se encuentra adjunta como anexo de esta adenda.
+Cuarta. Mantenimiento del resto del clausulado del convenio.
+Todo lo no previsto ni expresamente modificado en la presente adenda se mantiene
+inalterado en los términos y condiciones establecidos en el convenio suscrito por las
+partes con fecha 2 de julio de 2025.
+Quinta. Eficacia y validez.
+De conformidad con lo previsto en el artículo 48.8 de la Ley 40/2015, de 1 de
+octubre, de Régimen Jurídico del Sector Público, la presente adenda se formaliza con la
+firma de las partes y resultará eficaz una vez inscrita en el Registro Electrónico Estatal
+de Órganos e Instrumentos de Cooperación del Sector Público Estatal. Asimismo, será
+publicada posteriormente en el «Boletín Oficial del Estado», de acuerdo con lo
+establecido en el artículo 48.8 de la Ley 40/2015, de 1 de octubre.
+En prueba de conformidad, las partes implicadas firman la presenta adenda de
+modificación, tomándose como fecha de formalización del presente documento la fecha
+del último firmante, el 18 de noviembre de 2026.–Mateo Valero Cortés, Director del
+Barcelona Supercomputing Center-Centro Nacional de Supercomputación.–Gonzalo
+Balbontín Casillas, Director gerente y representante legal de la Fundación Pública
+Andaluza Progreso y Salud, M.P.–María José Carrión Martínez, Directora-Gerente de la
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162303
+Fundación para la Investigación del Hospital Universitario y Politécnico La Fe de la
+Comunidad Valenciana-Instituto de Investigación Sanitaria Hospital la Fe.–Eloisa del Pino
+Matute, representante legal de la Agencia Estatal Consejo Superior de Investigaciones
+Científicas, M.P.–José Cañón Campos, en calidad de Director Gerente de la Fundación
+para la Gestión de la Investigación en Salud de Sevilla.–Judit Cubedo Ràfols, Gerente de
+la Fundació Institut Hospital del Mar d’ Investigacions Mèdiques.–David Badia Prat,
+Gerente de la Fundació de Recerca Clínic Barcelona-Institut d’Investigacions
+Biomèdiques August Pi i Sunyer.–Luis García Ortiz, Director Científico del Instituto de
+Investigación Biomédica de Salamanca.–Isabel Lista García, Directora de la Fundación
+Pública Galega Instituto de Investigación Sanitaria de Santiago de Compostela.–
+Margarita Blázquez Herranz, Gerente del Consorcio Centro de Investigación Biomédica
+en Red.–Alberto Sanz Belmar, Director Gerente del Centro Nacional de Investigaciones
+Cardiovasculares Carlos III.–Cristina Navarro Enterría, Directora Gerente de la
+Fundación del Sector Público Estatal Centro Nacional de Investigaciones Oncológicas.–
+Alberto Montero Manso y Ana María Posada Pérez en calidad de apoderados
+mancomunados de la Fundación Instituto de Investigación Sanitaria Fundación Jiménez
+Díaz.–Vicente de Juan Martín, Director Gerente de la Fundación para la Investigación del
+Hospital Clínico de la Comunidad Valenciana.–Joan X. Comella Carnicé, Director de la
+Fundació per a la Recerca i la Docència Sant Joan de Déu.–Jaume Bacardit Montagut,
+Gerente de la Fundació Centre de Regulació Genòmica.–María Fuensanta Martínez
+Lozano, Directora de la Fundación para la Formación e Investigación Sanitarias de la
+Región de Murcia.–Carlos Enrique Herrero, Director Gerente de la Fundació Institut
+d'Investigació Sanitària Illes Balears.–Javier Gómez-Arrue Azpiazu, Director de
+Navarrabiomed-Fundación Miguel Servet.–Laura Barreales Tolosa, Directora de la
+Fundación para la Investigación Biomédica del Hospital Universitario Ramón y Cajal.–
+Elena Gonzalvo Suñer, Directora Gerente del Instituto Aragonés de Ciencias de la
+Salud.–Francisco Galo Peralta Fernández, Director Gestión de la Fundación Instituto de
+Investigación Marqués de Valdecilla.–Eunate Arana Arri, Directora Científica en funciones
+y apoderada de la Asociación Instituto de Investigacion Sanitaria Biobizkaia (en adelante
+BIOBIZKAIA.–Ivo Glynne Gut, Director del Consorcio para la explotación del Centro
+Nacional de Análisis Genómico.–Jon Umerez Urrezola, Rector de la Universidad del País
+Vasco/Euskal Herriko Unibertsitatea.–Juan Carlos Oliva Pérez, Director Gerente de
+Fundación Rioja.
+ANEXO
+Presupuesto
+Como se puede ver a continuación, se simplifica la tabla de distribución
+presupuestaria mediante la eliminación del desglose entre partidas presupuestarias.
+Dicha modificación tiene por objeto facilitar la gestión del presupuesto del proyecto y
+agilizar la tramitación de eventuales redistribuciones internas entre conceptos de gasto.
+Presupuesto detallado del proyecto por entidades y desglose entre costes de
+ejecución directos e indirectos:
+IC
+Total Total + IC
+– 21 % –
+Euros – Euros
+Euros
+BSC. 384.800 80.808 465.608
+FPS. 233.900 49.119 283.019
+CROG. 184.200 38.682 222.882
+IBiS. 94.200 19.782 113.982
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+
+BOLETÍN OFICIAL DEL ESTADO
+Núm. 295 Viernes 27 de noviembre de 2026 Sec. III. Pág. 162304
+IC
+Total Total + IC
+– 21 % –
+Euros – Euros
+Euros
+CNIC. 141.500 29.715 171.215
+IIS-La Fe. 137.700 28.917 166.617
+CNIO. 139.200 29.232 168.432
+IACS. 92.100 19.341 111.441
+CSIC-I2SysBio. 47.100 9.891 56.991
+IRYCIS/IBio-HRC. 47.100 9.891 56.991
+UPV/EHU. 92.100 19.341 111.441
+CSIC-CNB. 47.100 9.891 56.991
+FRS (Rioja Salud). 45.900 9.639 55.539
+NavarraBioMed/FMS. 90.900 19.089 109.989
+Hospital Clinic. 45.900 9.639 55.539
+IBSAL. 45.900 9.639 55.539
+IDIVAL/Valdecillas. 45.900 9.639 55.539
+IdiSBa. 45.900 9.639 55.539
+IDIS/Medicina Xenomica. 45.900 9.639 55.539
+CIBERONC. 90.900 19.089 109.989
+Sant Joan de Deu. 45.900 9.639 55.539
+Hosp. del Mar/FIMIM. 45.900 9.639 55.539
+IIS Biobizkaia. 45.900 9.639 55.539
+IMIB/FFIS. 90.900 19.089 109.989
+INCLIVA. 45.900 9.639 55.539
+CNAG. 45.900 9.639 55.539
+IIS-FJD. 45.900 9.639 55.539
+BIFAP/AEMPS. – – –
+ISCIII. – – –
+Total. 2.464.500 517.545 2.982.045
+79942-6202-A-EOB
+:evc
+se.eob.www//:sptth
+ne
+elbacifireV
+https://www.boe.es BOLETÍN OFICIAL DEL ESTADO D. L.: M-1/1958 - ISSN: 0212-033X
